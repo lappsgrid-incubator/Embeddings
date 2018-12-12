@@ -3,26 +3,33 @@
 ##
 ##Usage : python3 word2vec.py <directory> <fsuffix> <preprocess> <savemodel>
 ##
-##<directory> :               Name of the directory in which the text files reside
-##<suffix> :              Suffix of text files to be processed (default : .txt)
-##<preprocess> :              File in which to save pre-processed text (Tokenize, remove stopwords and punctuation, etc.) (default: None)
-##<savemodel> :               File in which to save the model(default : None)  
+##<directory> :     Name of the directory in which the text files reside
+##<suffix> :        Suffix of text files to be processed (default : .txt)
+##<preprocess> :    File in which to save pre-processed text (Tokenize, remove stopwords and punctuation, etc.) (default: None)
+##<savemodel> :     File in which to save the model(default : None)  
 ##
 ## For now we use basic paramaeters to word2vec, with workers=10 
 ############################################################################################################
 
 import gensim, os, sys, fnmatch
+
+## Get word2vec parameters from .ini file
+import configparser
+config = configparser.ConfigParser()
+config.read("word2vec.ini")
+
+## Parse command line parameters
 import argparse
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--directory","-d",type=str,required=True,help="Enter the input directory name")
 parser.add_argument("--suffix","-x",type=str,default=".txt",help="Enter the filename suffix (default=.txt)")
 parser.add_argument("--preprocess","-p",default=True,help="File to store pre-processed data (default=None)")
-parser.add_argument("--savemodel","-s",default=True,help="File to save model (default=None)")
+parser.add_argument("--savemodel","-m",default=True,help="File to save model (default=None)")
 
 args = parser.parse_args()
 
-# Pre-processing a document.                                                                                           
+## Pre-process a document.                                                                                           
 
 from nltk import download
 from nltk import word_tokenize
@@ -30,16 +37,15 @@ download('punkt')  # Download data for tokenizer.
 
 from nltk.corpus import stopwords
 download('stopwords')  # Download stopwords list.                                                                      
-
-# Remove stopwords.                                                                                                    
+                                                                                                    
 stop_words = stopwords.words('english')
 
 def preprocess(line,pre_process):
     line = word_tokenize(line)  # Split into words.                                                                    
     if args.preprocess is not None:
         line = [w.lower() for w in line]  # Lower the text.                                                               
-        line = [w for w in line if not w in stop_words]  # Remove stopwords.                                              
-        line = [w for w in line if w.isalpha()] # Remove numbers and punctuation.                                         
+        line = [w for w in line if not w in stop_words]  # Remove stopwords                                              
+        line = [w for w in line if w.isalpha()] # Remove numbers and punctuation                                         
     return line
                         
                      
@@ -56,19 +62,20 @@ class MySentences(object):
                     if len(line) > 0:
                         yield line
                         
-#word2vec parameters                                                                                                            
-vector_size = 300
-window_size = 15
-min_count = 10
-alpha = 0.25
-min_alpha = .0001
-negative_size = 10
-train_epoch = 100
-sg = 1 #0 = cbow; 1 = skip-gram
-worker_count = 10 #number of parallel processes                                                                                                                                                                      
+### Get word2vec parameters                                                                                                           
+vector_size = 	config['word2vecParameters'].getint('vector_size')
+window_size = 	config['word2vecParameters'].getint('window_size')
+min_count = 	config['word2vecParameters'].getint('min_count')
+alpha = 	config['word2vecParameters'].getfloat('alpha')
+min_alpha = 	config['word2vecParameters'].getfloat('min_alpha')
+negative_size = config['word2vecParameters'].getint('negative_size')
+train_epoch = 	config['word2vecParameters'].getint('train_epoch')
+sg = 		config['word2vecParameters'].getint('sg')
+worker_count = 	config['word2vecParameters'].getint('worker_count')                                                                                                                                                                 
 
+# print (vector_size, window_size,min_count,alpha,min_alpha,negative_size,train_epoch,sg,worker_count)
 
-w2v_corpus = MySentences(args.directory,args.suffix) # a memory-friendly iterator                                                      
+w2v_corpus = MySentences(args.directory,args.suffix) # a memory-friendly iterator                                                       
 
 model = gensim.models.Word2Vec(w2v_corpus,size=vector_size, window=window_size, min_count=min_count,
                                workers=worker_count, sg=sg, negative=negative_size,
