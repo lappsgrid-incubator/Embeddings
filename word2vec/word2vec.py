@@ -1,32 +1,26 @@
 ###########################################################################################################
 ##Reads files from a directory containing text for input to word2vec
 ##
-##Usage : python3 word2vec.py <directory-file-name> <file suffix> <preprocess> <model-file-name>
+##Usage : python3 word2vec.py <directory> <fsuffix> <preprocess> <savemodel>
 ##
-##<directory-file-name> :     Name of the directory in which the text files reside
-##<file suffix> :             Suffix of text files to be processed (default : .txt)
-##<preprocess> :              Tokenize, remove stopwords and punctuation, etc. (default : True)
-##<saveModel> :               Save the model to a file (default : True)  
-##<model-file-name> :         Name of file in which to save the model
+##<directory> :               Name of the directory in which the text files reside
+##<suffix> :              Suffix of text files to be processed (default : .txt)
+##<preprocess> :              File in which to save pre-processed text (Tokenize, remove stopwords and punctuation, etc.) (default: None)
+##<savemodel> :               File in which to save the model(default : None)  
 ##
 ## For now we use basic paramaeters to word2vec, with workers=10 
 ############################################################################################################
 
-import gensim, os, sys
+import gensim, os, sys, fnmatch
 import argparse
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--directory","-d",type=str,required=True,help="Enter the input directory name")
 parser.add_argument("--suffix","-x",type=str,default=".txt",help="Enter the filename suffix (default=.txt)")
-parser.add_argument("--preprocess","-p",default=True,help="Pre-process data? (default=True)")
-parser.add_argument("--saveModel","-s",default=True,help="Save model? (default=True)")
-parser.add_argument("--modelFile","-m",type=str,help="Enter a filename for the saved model")
+parser.add_argument("--preprocess","-p",default=True,help="File to store pre-processed data (default=None)")
+parser.add_argument("--savemodel","-s",default=True,help="File to save model (default=None)")
 
 args = parser.parse_args()
-
-
-if (args.saveModel and 'modelFile' not in vars(args)):
-    parser.error('The -saveModel argument requires a -modelFile')
 
 # Pre-processing a document.                                                                                           
 
@@ -42,21 +36,22 @@ stop_words = stopwords.words('english')
 
 def preprocess(line,pre_process):
     line = word_tokenize(line)  # Split into words.                                                                    
-    if pre_process:
+    if args.preprocess is not None:
         line = [w.lower() for w in line]  # Lower the text.                                                               
         line = [w for w in line if not w in stop_words]  # Remove stopwords.                                              
         line = [w for w in line if w.isalpha()] # Remove numbers and punctuation.                                         
     return line
-
+                        
+                     
 class MySentences(object):
     def __init__(self, dirname, suffix):
         self.dirname = dirname
         self.suffix = suffix
-
     def __iter__(self):
-        for fname in os.listdir(self.dirname):
-            if fname.endswith(self.suffix):
-                for line in open(os.path.join(self.dirname, fname),encoding="utf-8"):
+        suf = '*.' + self.suffix    
+        for root, dirs, files in os.walk(self.dirname):
+            for filename in fnmatch.filter(files, suf):
+                for line in open(os.path.join(root, filename),encoding="utf-8"):
                     line = preprocess(line,args.preprocess)
                     if len(line) > 0:
                         yield line
@@ -79,7 +74,7 @@ model = gensim.models.Word2Vec(w2v_corpus,size=vector_size, window=window_size, 
                                workers=worker_count, sg=sg, negative=negative_size,
                                alpha = alpha, min_alpha = min_alpha, iter=train_epoch)
 
-if args.saveModel:
-    model.save(args.modelFile)
+if args.savemodel is not None:
+    model.save(args.savemodel)
 
 
