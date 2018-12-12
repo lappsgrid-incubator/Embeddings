@@ -1,0 +1,1404 @@
+Prepared in cooperation with
+Lower Elwha Tribe and National Park Service
+An Assessment of Stream Habitat and Nutrients in the Elwha River Basin: Implications for Restoration
+3y M.D. Munn, R.W. Black, A.L Haggland, M.A. Hummling, and R.L Huffman
+BRITISH COLUMBIA
+Elwha River Basin
+I 1 National Water-Quality Assessment Study Unit
+U.S. GEOLOGICAL SURVEY /Vater-Resources Investigations Report 98-4223
+
+An Assessment of Stream Habitat and Nutrients in the Elwha River Basin: Implications for Restoration
+By M. D. Munn, R. W. Black, A. L. Haggland, M. A. Hummling, and R. L. Huffman
+U.S. GEOLOGICAL SURVEY Water-Resources Investigations Report 98-4223
+Prepared in cooperation with the LOWER ELWHA TRIBE and NATIONAL PARK SERVICE
+Tacoma, Washington 1999
+
+U.S. DEPARTMENT OF THE INTERIOR BRUCE BABBITT, Secretary U.S. GEOLOGICAL SURVEY Charles G. Groat, Director
+
+Any use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Geological Survey.
+
+For additional information write to:
+
+Copies of this report may be purchased from:
+
+District Chief U.S. Geological Survey 1201 Pacific Avenue, Suite 600 Tacoma, Washington 98402
+
+U.S. Geological Survey Branch of Information Services Box 25286 Denver, Colorado 80225
+
+Information regarding the National Water-Quality Assessment (NAWQA) Program is available on the Internet via the World Wide Web. You may connect to the NAWQA Home Page using the Universal Resource Locator (URL) at:
+
+<URL:http://wwwrvares.er.usgs.gov/nawqa/nawqa_home.html>
+
+FOREWORD
+The mission of the U.S. Geological Survey (USGS) is to assess the quantity and quality of the earth resources of the Nation and to provide information that will assist resource managers and policymakers at Federal, State, and local levels in making sound decisions. Assessment of water-quality conditions and trends is an important part of this overall mission.
+One of the greatest challenges faced by waterresources scientists is acquiring reliable information that will guide the use and protection of the Nation's water resources. That challenge is being addressed by Federal, State, interstate, and local water-resource agencies and by many academic institutions. These organizations are collecting water-quality data for a host of purposes that include: compliance with permits and water-supply standards; development of remediation plans for a specific contamination problem; operational decisions on industrial, wastewater, or water-supply facilities; and research on factors that affect water quality. An additional need for water-quality information is to provide a basis on which regional and national-level policy decisions can be based. Wise decisions must be based on sound information. As a society we need to know whether certain types of water-quality problems are isolated or ubiquitous, whether there are significant differences in conditions among regions, whether the conditions are changing over time, and why these conditions change from place to place and over time. The information can be used to help determine the efficacy of existing water-quality policies and to help analysts determine the need for and likely consequences of new policies.
+To address these needs, the Congress appropriated funds in 1986 for the USGS to begin a pilot program in seven project areas to develop and refine the National Water-Quality Assessment (NAWQA) Program. In 1991, the USGS began full implementation of the program. The NAWQA Program builds upon an existing base of water-quality studies of the USGS, as well as those of other Federal, State, and local agencies. The objectives of the NAWQA Program are to:
+
+Describe current water-quality conditions for a large part of the Nation's freshwater streams, rivers, and aquifers.
+Describe how water quality is changing over time.
+Improve understanding of the primary natural and human factors that affect water-quality conditions.
+This information will help support the development and evaluation of management, regulatory, and monitoring decisions by other Federal, State, and local agencies to protect, use, and enhance water resources.
+The goals of the NAWQA Program are being achieved through ongoing and proposed investigations of more than 50 of the Nation's most important river basins and aquifer systems, which are referred to as study units. These study units are distributed throughout the Nation and cover a diversity of hydrogeologic settings. More than two-thirds of the Nation's freshwater use occurs within these study units and more than two-thirds of the people served by public water-supply systems live within their boundaries.
+National synthesis of data analysis, based on aggregation of comparable information obtained from the study units, is a major component of the program. This effort focuses on selected water-quality topics using nationally consistent information. Comparative studies will explain differences and similarities in observed water-quality conditions among study areas and will identify changes and trends and their causes. The first topics addressed by the national synthesis are pesticides, nutrients, volatile organic compounds, and aquatic biology. Discussions on these and other waterquality topics will be published in periodic summaries of the quality of the Nation's ground and surface water as the information becomes available.
+This report is an element of the comprehensive body of information developed as part of the NAWQA Program. The program depends heavily on the advice, cooperation, and information from many Federal, State, interstate, Tribal, and local agencies and the public. The assistance and suggestions of all are greatly appreciated.
+Robert M. Hirsch Chief Hydrologist
+
+CONTENTS
+
+Abstract
+
+1
+
+Introduction
+
+1
+
+Purpose and scope
+
+2
+
+Acknowledgments
+
+2
+
+Description of study area
+
+2
+
+Review of existing information on the Elwha River Basin
+
+5
+
+Physical habitat
+
+5
+
+Water chemistry
+
+6
+
+Nutrients
+
+6
+
+Other water-quality parameters
+
+6
+
+Aquatic life
+
+-7
+
+Aquatic plants and algae
+
+7
+
+Benthic invertebrates
+
+7
+
+Fish------------------------------------------------------------------------------------ -8
+
+Historical anadromous salmonids
+
+8
+
+Current anadromous salmonids
+
+8
+
+Current resident (non-anadromous) salmonids
+
+10
+
+Habitat and nutrients
+
+12
+
+Methods --------------------------------------------------------------------------------- 12
+
+Geographic information system
+
+13
+
+Stream habitat field survey
+
+14
+
+Nutrients
+
+17
+
+Results and discussion
+
+18
+
+Stream habitat
+
+18
+
+Nutrients
+
+26
+
+Relation between stream habitat and nutrients
+
+26
+
+Conclusions
+
+--
+
+33
+
+Cited references
+
+35
+
+FIGURES
+
+1. Schematic showing influence of stream habitat complexity and nutrients to biological production - 3
+
+2. Map showing location of the Elwha River Basin
+
+4
+
+3. Map showing location of sampling sites in Elwha River Basin
+
+16
+
+4. Graph showing percentage of Rosgen valley types by stream order
+
+19
+
+5. Graph showing number of stream reaches in the Elwha River system by order and gradient category
+
+21
+
+6. Graph showing stream lengths in the Elwha River system by stream order and gradient category 22
+
+7. Graph showing stream area in the Elwha River system by stream order and gradient category 23
+
+8. Graph showing percentage of habitat types by stream order based on number observed and area 24
+
+9. Graph showing channel width in relation to large woody debris loading by stream order
+
+24
+
+10. Graph showing summary of mean water velocity in the Elwha River system by habitat type and stream order
+
+25
+
+IV
+
+FIGURES-Continued
+
+11. Graph showing summary of mean substrate size in the Elwha River system by habitat type and stream order
+12. Graph showing summary of mean water depth in the Elwha River system by habitat type and stream order
+13. Map showing stream reaches most likely to be utilized by returning salmon
+14. Graphs showing estimations of nitrogen and phosphorus loadings to the Elwha River Basin from salmon under different restoration scenarios, and the relative contribution by each species
+
+25
+27 32
+34
+
+TABLES
+1. Status of salmonids in the Elwha River Basin 2. Description of sites sampled for nutrient concentrations and where habitat data were
+collected in the Elwha River Basin 3. Total number of streams and total length within each stream order category 4. Analysis of variance of stream area based on stream order and stream gradient for the
+ElwhaRiver----------------------------------- -
+5. Concentrations of nutrients and other water-quality parameters in the Elwha River, samples collected during September and October of 1997
+6. Quality assurance for nutrient data collected on the Elwha River
+
+9
+15 18
+-20
+28 30
+
+CONVERSION FACTORS AND VERTICAL DATUM
+
+Multiply
+
+By
+
+To obtain
+
+millimeter (mm) meter (m)
+kilometer (km) hectare (ha)
+meter per second (m/s) cubic meter per second (m3/s)
+
+0.03937 3.281 0.6214 2.471 3.281 35.31
+
+inch foot mile acre foot per second cubic foot per second
+
+Temperature: To convert temperature given in this report in degrees Fahrenheit (°F) to degrees Celsius (°C), use the following equation: °C = 5/9(°F-32).
+
+Sea Level: In this report "sea level" refers to the National Geodetic Vertical Datum of 1929 (NGVD of 1929)~a geodetic datum derived from a general adjustment of the first-order level nets of both the United States and Canada, formerly called Sea Level Datum of 1929.
+
+Altitude: In this report, "altitude" is measured in feet above sea level.
+
+An Assessment of Stream Habitat and Nutrients in the Elwha River Basin: Implications for Restoration
+By M. D. Munn, R. W. Black, A. L. Haggland, M. A. Hummling, and R. L. Huffman
+
+ABSTRACT
+The Elwha River was once famous for its 10 runs of anadromous salmon which included chinook that reportedly exceeded 45 kilograms. These runs either ceased to exist or were significantly depleted after the construction of the Elwha (1912) and Glines Canyon (1927) Dams, which resulted in the blockage of more than 113 kilometers of mainstem river and tributary habitat. In 1992, in response to the loss of the salmon runs in the Elwha River Basin, President George Bush signed the Elwha River Ecosystem and Fisheries Restoration Act, which authorizes the Secretary of the Interior to remove both dams for ecosystem restoration. The objective of this U.S. Geological Survey (USGS) study was to begin describing baseline conditions for assessing changes that will result from restoration. The first step was to review available physical, chemical, and biological information on the Elwha River Basin. We found that most studies have focused on anadromous fish and habitat and that little information is available on water quality, habitat classification, geomorphic processes, and riparian and aquatic biological communities. There is also a lack of sufficient data on baseline conditions for assessing future changes if restoration occurs. The second component of this study was to collect water-quality and habitat data, filling information gaps. This information will permit a better understanding of the relation between physical habitat and nutrient conditions and changes that may result from salmon restoration. We collected data in the fall of 1997 and found that the concentrations of nitrogen and phosphorous were generally low, with most samples having concentrations below detection limits. Detectable concentrations of nitrogen were associated with sites in the lower reach of the Elwha
+
+River, whereas the few detections of phosphorus were at sites throughout the basin. Nutrient data indicate that the Elwha River and its tributaries are oligotrophic. Results of the stream classification indicated that most of the habitat that would be usable by salmon is found in the mainstem of the Elwha River due to natural gradient barriers at the lower end of most tributaries. Habitat is diverse in the mainstem due to large woody debris accumulations and the existence of secondary channels.
+We concluded that restoring salmon runs to the Elwha River system will affect the ecosystem profoundly. Decaying carcasses of migrating salmon will be the source of large quantities of nutrients to the Elwha River. The complex instream habitat of the mainstem will enhance cycling of these nutrients because carcasses will be retained long enough to be assimilated thereby increasing primary and secondary production, size of immature salmonids, and overall higher salmon recruitment.
+INTRODUCTION
+Prior to dam construction, the Elwha River in northwest Washington State was famous for the diversity and size of its salmon and steelhead runs; it produced an estimated 380,000 migrating salmon and trout annually, consisting of 10 runs of anadromous salmon (Onchorhynchus spp.), including chinook that sometimes exceeded 45 kg (kilograms) (National Park Service, 1995). After the construction of the Elwha Dam (1912) and the Glines Canyon Dam (1927), more than 113 km (kilometers) of mainstem and tributary habitat were lost to anadromous fish production. This loss resulted in a precipitous decline in the
+
+populations of all 10 runs of native Elwha salmon and steelhead. Sockeye (O. nerkd) and spring Chinook (O. tshawytscha) are now extinct in the river. Runs of chum salmon (O. ketd) are down to fewer than 500 fish per year, and steelhead (O. mykiss), coho (O. kisutch), and summer/fall chinook (O. tshawytscha) are presently maintained through hatchery supplementation; 100 pink salmon (O. gorbuschd) returned in 1997, but it is unknown if they are native or strays. In 1992, in response to the loss of the salmon runs in the Elwha River Basin, President George Bush signed the Elwha River Ecosystem and Fisheries Restoration Act.
+A critical requirement in the restoration of the Elwha River ecosystem is the removal of the two dams. Although the primary motivation is to restore salmon runs, it is important to understand that the restoration of anadromous fish is tied to the restoration of an entire ecosystem (fig. 1). The foundation of the aquatic food chain is primary production (algae), which is regulated by a combination of physical habitat features (for example, streamflow, water temperature, stream canopy) and nutrients (especially nitrogen and phosphorus). In rivers without anadromous fish, nutrients enter the stream either from biological activity upstream, terrestrial sources, or ground-water input. In many rivers, primary production is dominated by benthic algae, which require nitrogen and phosphorus for growth, thereby providing the food base for invertebrates, which are the food supply of immature salmon as well as resident fish. Nutrients are a critical factor in the development and maintenance of biological communities, and decaying salmon carcasses historically were a key source of nutrients to the Elwha River. Therefore, construction of the two dams not only blocked the migration of salmon but also altered primary and secondary production in the entire stream ecosystem.
+Purpose and Scope
+Most studies on the Elwha River have dealt with anadromous fish, instream habitat, and various aspects of restoration; minimal information is available about the overall trophic system. The objective of this U.S. Geological Survey (USGS) study was to document water-quality and habitat conditions in the Elwha River Basin; baseline data are necessary for assessing changes that will occur due to restoration. The first step was to review available information on the basin's physical, chemical, and biological features and thereby identify information gaps that can drive future studies. This report presents an overview of published reports on the basin. The second step was to collect water-quality and habitat data focussing on stream
+
+classification in order to stratify the basin into similar habitats. Finally, we assessed the relation between habitat, nutrients, and biological production under various restoration scenarios.
+Acknowledgments
+This study could not have been completed without the assistance of many individuals and organizations. This study was funded by the Lower Elwha Tribe, National Park Service, and the U.S. Geological Survey. We thank all those involved with the collection of field data, including Robert Stuart and Joe Gilbert. Last, the authors thank Terry Maret and Steve Sumioka (U.S. Geological Survey), Brian Winter, Roger Hoffman, and Barry Long (National Park Service), and Mike McHenry (Lower Elwha Tribe) for their critical reviews of this report.
+DESCRIPTION OF STUDY AREA
+The Elwha River is located on the Olympic Peninsula in northwest Washington (fig. 2). It originates at 2,100 m (meters) above sea level and flows northward for 80 km before discharging to the Strait of Juan de Fuca, 8.3 km west of the city of Port Angeles. The basin is 833 km (square kilometers) with the upper 83 percent within Olympic National Park and therefore relatively unaffected by land-use activities. As in previous reports (National Park Service, 1996), we define three reaches of the system as follows: the upper reach includes all waters upstream of Glines Canyon Dam; the middle reach, the waters between the two dams; and the lower reach, downstream of the Elwha Dam.
+The Elwha River Basin is a snowfield-fed system with steep terrain and numerous high-gradient tributaries. The upper reach is surrounded by steep mountains with peaks reaching 2,100 m above sea level. The mountains are composed mainly of sandstone, conglomerate, siltstone, slate, pylite, and some basalt and mudflow breccias (Tabor and Cady, 1978). The tributaries of the Elwha River are high-gradient streams (greater than 20 percent) whereas the mainstem of the Elwha River has a moderate gradient (less than 16 percent). In contrast, the lower Elwha River Basin, which is defined as downstream of Lake Aldwell, consists of sloping bedrock, in a narrow canyon ending in a floodplain.
+
+Wildlife
+
+Resident Fish
+
+Juvenile Salmonid Production
+
+Marine Derived Nutrients
+Adult Salmonid Production
+
+Invertebrate Production
+
+Riparian System
+
+Salmonid Spawning
+
+Algal/Bacterial Production
+
+Salmonid Decomposition/
+Retention
+
+Release of Particulate
+tC, N, and P
+
+Stream Habitat Complexity
+
+Figure 1. Influence of stream habitat complexity and nutrients to biological production.
+
+123°45'
+OLYMPIC ( NATIONAL
+
+123°22'30"
+Strait of Juan de Fuca
+'i PORT . { ANGELES t
+Elwha ;. Dam
+
+47°45'
+
+EXPLANATION Basin boundary Park boundary Streams, second through sixth order USGS gaging station
+
+/
+
+Elwha River Basin
+
+WASHINGTON
+
+10 KILOMETERS
+Figure 2. Location of the Elwha River Basin.
+
+OLYMPIC NATIONAL PARK
+
+The Elwha Dam was constructed in 1912, creating Lake Aldwell, a reservoir 4.5 km long with 8,100 acre feet of water storage. Glines Canyon Dam was completed in 1927 and created Lake Mills, which is 4.0 km long and has a storage capacity of 40,000 acre feet. Both dams were constructed to produce hydroelectric power; neither has fish passage facilities. Because the Elwha River is snowfield-fed, streamflows have a bimodal discharge pattern; peaks occur during winter freshets and, at a lower level, in summer from snowmelt. Average monthly flows are highest in early summer; average daily flows are highest in winter (Munn and others, 1996). The average daily mean flow of the Elwha River recorded at the USGS McDonald Bridge gaging station is 42.5 m3/s (cubic meters per second).
+Most of the watershed lies within a national park and all surface waters in the basin are classified by the Washington State Department of Ecology as class AA waters of "extraordinary quality." In the lower portion of the watershed, water quality is affected by sediment input, bank erosion, and elevated temperatures from the reservoirs upstream. Based on limited data, concentrations of nutrients such as nitrate, ammonia, and total phosphorus were found to be low at selected sites (National Park Service, 1995).
+The basin has a maritime climate characterized by cool, dry summers and mild, wet winters. Rainfall varies greatly due to large differences in elevation; in general, precipitation increases with elevation. Annual precipitation ranges from 558 cm (centimeters) in the higher elevations to 142 cm near the river's mouth. The majority of the precipitation falls from October to March (Drost, 1985; National Park Service, 1995).
+Tributaries of the Elwha River are heavily forested whereas the mainstem is only partially shaded. Douglas fir (Pseudotsuga menziesii) and western hemlock (Tsuga heterophylld) are the dominant tree species. Understory vegetation consists primarily of sword fern (Polystichum munitum) and Oregon grape (Mahonia spp.); red alder (Alnus rubra), bigleaf maple (Acer macrophyllum), and salal (Gaultheria shallon) are also present (National Park Service, 1995). Some of the last stands of old growth forest in the continental United States are found in the Elwha River Basin.
+
+REVIEW OF EXISTING INFORMATION ON THE ELWHA RIVER BASIN
+A critical element in initiating a large-scale basin restoration program is reviewing previous studies and identifying information gaps; this step reduces duplication of work and allows existing information to be used for designing future studies. The literature review indicates that most of the studies on the Elwha River relates to past and present anadromous fisheries.
+Physical Habitat
+The mainstem of the Elwha River and some of its major tributaries have been partially surveyed. These surveys (Hiss and Wunderlich, 1994; Adams and others, 1996) provide information on the availability of specific habitats and fish species composition.
+There are no quantitative data on physical habitat in the Elwha River Basin prior to 1912; however, because the entire upper reach is within Olympic National Park, it is likely that riparian and instream habitat in this portion of the system is similar to conditions that existed prior to dam construction. The riverbed of the upper reach is composed of a combination of sands, gravels, cobbles, boulders, and an occasional bedrock outcropping (National Park Service, 1996), and this complex structure contains excellent spawning, rearing, and holding habitat. In contrast, the middle and lower reaches, which include all waters below Glines Canyon Dam, have been altered drastically by changes in flow conditions.
+Bed sediments in the Elwha River are largely the result of past glacial activity as well as more recent alluvial activity. Large glacial deposits and deposition from alluvial activity provided material for the large volume of sediment transport that was common to the historic Elwha River (National Park Service, 1995). The mainstem of the Elwha River is 80 km long and there are many kilometers of tributaries. Historically, over 121 km of spawning habitat were available to upstream migrating fishes (Hoffman, 1992). After the Elwha Dam was constructed, upstream habitat became inaccessible to these fishes, and currently, only the last 7.9 km below the Elwha Dam are accessible (National Park Service, 1995).
+
+m addition to creating two large impoundments (Lake Aldwell and Lake Mills), the dams have led to interruptions in natural temperature and flow regimes, nutrient and sediment transport, and geomorphic and ecological processes (Li, 1990). Large woody debris (wood pieces larger than 1 m long and 10 cm diameter) and streambed materials such as gravels and cobbles are no longer transported to the lower and middle reaches of the river, thereby coarsening the substrate downstream of the dams. The larger-size materials in the substrate are less conducive to the spawning of salmonids. Because the reservoirs absorb and retain solar radiation and dams spill water from near the surface of the reservoirs, peak temperatures downstream occasionally become abnormally high during the summer and early fall. During one instance, peak summer water temperature immediately below the Elwha Dam was measured at just below 21°C (Li, 1990). This water temperature has resulted in an increase of Dermocystidium salmonis, a parasite that has killed two-thirds of the chinook spawning run in past years (Brian Winter, National Park Service, written commun., 1998).
+Water Chemistry
+Few studies have been done on water quality of the Elwha River because of the pristine conditions in the watershed and the overriding interest in fisheries enhancement. However, a few studies have been conducted at limited sites to identify baseline water-quality conditions, with most conducted in the lower portion of the basin (downstream of the upper end of Lake Mills). These studies include (1) data collected by the USGS at the McDonald Bridge site (USGS station 12045500) from 1974 to 1986 (unpublished data, USGS database); (2) a 3-week drawdown test of Lake Mills conducted by the USGS in 1994 (unpublished data); (3) a water-quality program developed by the Federal Energy Regulatory Commission (FERC) applicant in the spring of 1987 to document water-quality conditions and evaluate the effects of the reservoirs on downstream water quality (Hosey and Associates, 1988); and (4) a small waterquality project in the spring and summer of 1995 that investigated six sites in the upper basin (McCormick, 1995).
+Nutrients
+The USGS has collected nutrient data at four sites on the Elwha River, including a station just upstream of Lake Mills (RKm 26), which was established in 1994; a
+
+temporary station at RKm 25 installed for a 3-week drawdown test of Lake Mills; a permanent station at McDonald Bridge (RKm 13.8); and a temporary station at RKm 6 about 2 km downstream from the Elwha Dam. In general, nutrient concentrations indicate that water quality upstream of Lake Mills is excellent. Total nitrogen concentrations ranged from 0.07 mg/L (milligrams per liter) to 2.90 mg/L; nitrate+nitrite concentrations ranged from 0.08 to 0.32 mg/L. Total phosphorus ranged from 0.01 to 0.089 mg/L and orthophosphorus levels ranged from <0.010 to 0.10 mg/L.
+McCormick (1995) collected nutrient data from six sites including three tributary sites above the Glines Canyon Dam: Cat Creek (RKm 25.6), Stony Creek (RKm 43), and Lost River (RKm 44.6). Three other sites were on the mainstem: one below the Glines Canyon Dam at the USGS McDonald Bridge site (RKm 13.5), and two above the dam at RKm 25.6, and Elkhorn Ranger Station (RKm 42). The objective of this study was to determine if there were seasonal variations in water quality and whether Glines Canyon Dam influenced nutrient concentrations. McCormick (1995) reported that orthophosphorus concentrations ranged from 0.001 to 0.04 mg/L and total phosphorus from 0.005 to 0.046 mg/L. Nitrogen was low with total nitrogen no greater than 0.260 mg/L at any site. Nitrate+nitrite concentrations were higher in the tributary sites, likely because ground water influences the tributaries more than the mainstem. Furthermore, nitrate+nitrite concentrations increased at all six sites from summer to fall, suggesting that runoff from the early part of the rainy season increases nitrogen transport from the land to surface waters. However, there was little difference in phosphorus and total nitrogen concentrations between tributary and mainstem sites. The study concluded that there were some differences in nutrients below the dams but data were insufficient to draw conclusions about the effect of the dam on nutrient concentrations.
+Other Water-Quality Parameters
+Physical parameters such as pH, water temperature, specific conductance, and water clarity also were collected by the USGS (unpublished data, USGS database), Hosey and Associates (1988), and McCormick (1995). Mean water temperature at the USGS gaging station at McDonald Bridge from 1974 to 1986 was 8.4°C, and ranged from 1.2 to 14.4°C. pH ranged from 6.7 to 10.0 with a mean of 7.6. Specific conductance ranged from 61.0 to 132.0 with a mean of 85.7
+
+The water-quality monitoring program implemented by the FERC applicant (Hosey and Associates, 1988) collected water temperature and water clarity data (Secchi disk measurements) at sites on Lake Mills and Lake Aldwell from July to October 1987. Clarity of the lakes was good throughout the sampling period, ranging from 7.3m (August) to 4.9 m (September) for Lake Mills and 4.4 m (August) to 7.2 m (September) for Lake Aldwell. Water temperatures were strongly stratified during the summer months with complete mixing by October (Hosey and Associates, 1988). Temperatures were measured at specific sites above and below each reservoir, and data were used to assess trends. Results indicate that throughout the sampling period, temperatures increased in the downstream direction between sampling stations. Seasonal trends show that temperatures peaked by late August and decreased after mid-September. However, the decline in stream temperatures was found to be less extreme below the reservoirs than above (Hosey and Associates, 1988).
+In addition to physical and nutrient constituents, some studies have analyzed for metals, pesticides, volatile organic compounds, and radionuclides. The concentrations of most of these compounds were below detection limits and all were well within acceptable drinking water standards (Bureau of Reclamation, 1995ab).
+Aquatic Life
+Most studies of aquatic life in the Elwha River Basin are concerned with the anadromous fisheries. Few studies have been done on non-anadromous native fish, benthic invertebrates, or aquatic vegetation.
+Aquatic Plants and Algae
+Aquatic plants and algae are critical to aquatic ecosystems because they are the primary producers converting solar energy, nutrients, and CO2 into plant biomass. Aquatic plants, also referred to as macrophytes, are flowering vascular plants that reside in or are associated with water (for example, cattails). The only significant study to date on aquatic macrophytes in the Elwha River was completed as part of a wetland survey by Sheldon and Associates (1996). This study surveyed 50 wetlands from the mouth of the Elwha River to the upper end of Long Lake above the Glines Canyon Dam; 167 hectares, most commonly Palustrine forest wetlands, were surveyed. Five categories of wetland were identified, each with its
+
+own unique plant community; only the Palustrine Emergent category contains what is commonly referred to as aquatic macrophytes. This habitat category was found only along the shores of the reservoirs and made up only 0.2 hectares.
+Algae are a diverse group ranging from microscopic to macroscopic in size and are photoautotrophic organisms containing chlorophyll a. The dominant groups include green algae (Chlorophyta), diatoms (Bacillariophyta) and blue-green algae (Cyanophyta) (blue-green algae are sometimes considered a separate group). To date, there have been no studies of the benthic algae of the Elwha River either in relation to community structure or function. Li (1990) noted that the regulated reach of the Elwha River below Elwha Dam did contain some large forms of green algae.
+Benthic Invertebrates
+Benthic invertebrates play a key role in stream ecosystems, linking plants to fish. To date, only two studies have been published on benthic invertebrate communities in the Elwha River Basin, both initiated by Olympic National Park and the Lower Elwha Tribe. Li (1990) collected information on benthic invertebrate communities and associated physical habitat of the Elwha River at three sites: in the free-flowing reach above Glines Canyon Dam, between the two dams, and below Elwha Dam. These site selections reflected the interest in establishing baseline conditions before potential dam removal. Results from this study follow the classic pattern in benthic communities in regulated rivers. At the site upstream of Glines Canyon Dam, there was a diverse number of taxa, predominantly in the mayfly (Ephemeroptera), chironomid (Diptera: Chironomidae), stonefly (Plecopterd), and caddisfly (Trichoptera) groups. In contrast, invertebrate communities downstream of the dams consisted of a greater percentage of chironomids (85 percent) and exhibited a concurrent reduction of the other groups. Li (1990) concluded that the difference in the benthic communities was related to alterations in water temperature, flow patterns, and food supply below the dams and that these communities would become more similar to those above the reservoirs if the dams were removed.
+Munn and others (1996) did a follow-up study to establish baseline conditions of benthic invertebrate communities in the Elwha River Basin. Samples were collected from 26 sites in 4 habitat categories (mainstem, mainstem side-channel, valley tributary, and terrace
+
+tributary). Munn and others (1996) reported that the benthic invertebrate communities generally indicated good water quality and habitat conditions. Communities were diverse and included numerous taxa classified as sensitive to environmental disturbance. The exception to this was in the regulated reach of the Elwha River below the two dams where there was a higher abundance of invertebrates; however, the community also contained a higher percentage of midges (Diptera: Chironomidae) and a reduction in mayflies (Ephemeropterd).
+Fish
+Historical Anadromous Salmonids
+Though quantitative data are scarce, it is generally agreed that the Elwha River was once one of the largest producers of anadromous salmonid runs in the United States (Wunderlich and others, 1994; National Park Service, 1996) (table 1). With estimated total runs of 380,000 or more spawning adult salmonids per year (National Park Service, 1996), it was one of the few river systems in the contiguous United States to harbor 10 anadromous salmonid runs (Hoffman, 1992). Included were spring and summer/fall run chinook, with some fish weighing 45 kg or more. Other anadromous salmonids that were abundant in the Elwha system were coho, chum, pink, and sockeye salmon, winter and summer run steelhead, sea-run cutthroat trout, anadromous Dolly Varden, and possibly an anadromous form of bull trout. The most famous of the Elwha River anadromous runs was the summer/fall run of chinook salmon. Brannon and Hershberger (1984) attributed the unusually large size of these fish to the genetic characteristics of the stock influenced by the river environment and temporal distributions in the marine environment.
+Lake Sutherland, in the headwaters of Indian Creek, historically supported a native run of sockeye salmon, along with some kokanee. Elwha Dam eliminated access to the lake. The Washington Department of Fish and Wildlife (Hiss and Wunderlich, 1994) have occasionally planted kokanee in Lake Sutherland.
+Large runs of chum and pink salmon utilized the lower and middle reaches of the river prior to dam construction. Though no empirical evidence exists, studies have estimated a former production potential for the middle reach of the Elwha River. There now exists potential for the production of 13,846 pink and 2,576
+
+chum salmon per km of river in the 24-km reach between the two dams. These figures are based on conditions within the lower 6.3 km of river during the time of this study.
+Estimates of historic populations of resident fishes can be made based on current fish presence and population studies done in adjacent Olympic Peninsula watersheds. Several resident salmonid species probably occurred in the Elwha system, including resident forms of rainbow, coastal cutthroat and bull trout, and kokanee salmon. In addition to resident salmonids, several other species of both anadromous and resident non-salmonids possibly existed. Anadromous species may have included eulachon (Thaleichthys pacificus), sturgeon (Acipenser spp.), Pacific lamprey (Entosphenus tridentatus), longfin smelt (Spirinchus thaleichthys), and river lamprey (Lampetra ayresi) (National Park Service, 1996). Sculpin (Cottus spp.) are also known to be present in the lower basin.
+Current Anadromous Salmonids
+Through a combination of hatchery propagation and wild production, remnants of most of the anadromous salmonid runs have persisted. Their abundance, however, has plummeted to fewer than 3,000 spawning adults each year (National Park Service, 1996). This trend can be attributed primarily to loss of habitat; however, in the lower reach, anadromous fishes also suffer crowding because of large numbers of hatchery fish. Anadromous fish in the lower reach may be more susceptible to disease and reproductive inefficiency due to excessive competition (National Park Service, 1995).
+Spring chinook Spring chinook salmon, if present, are in critically low numbers. Most sources (McHenry and others, 1996; National Park Service, 1996) identify/ classify this stock as non-existent. Historically, this run was genetically disposed to enter the Elwha River earlier and spawn farther upstream, more specifically above RKm 55, which probably served as an effective reproduction barrier between the spring and summer/fall runs (National Park Service, 1996).
+Summer/fall chinook The current chinook stock is supported by hatchery production. The life history and characteristics of the once abundant summer/fall chinook have been altered (Brannon and Hershberger, 1984). It has been speculated that prior to dam construction the river's large substrate size may have selected for fish that had been in the marine environment longer and were
+
+Table \.--Status ofsalmonids in the Elwha River Basin
+
+Common name
+
+Scientific name
+
+Population status Prior to dam construction
+
+Current
+
+Chinook Spring run Summer/fall run
+Coho
+Chum Pink Sockeye
+Steelhead Winter run Summer run
+Sea-run cutthroat trout
+Bull trout
+Kokanee Rainbow trout
+
+Oncorhynchus tschawytscha
+O. kisutch
+O. keta O. gorbuscha O. nerka
+O. mykiss
+O. clarki clarki
+Salvelinus confluentus O. nerka O. mykiss
+
+Abundant Abundant
+Abundant
+Abundant Abundant Abundant; native run in
+Lake Sutherland
+Abundant Abundant Abundant
+Abundant
+Native in Lake Sutherland Abundant
+
+Critically low or extinct
+Supported by hatchery production
+Supported by hatchery production
+Critically low Likely extinct Extinct
+Depressed Depressed Small native population
+in lower river Small native population
+Hatchery planted Abundant
+
+consequently much larger (Brannon and Hershberger, 1984). In other words, larger substrate caused by streamflow selected for larger chinooks that could migrate upstream against strong currents. In contrast, the current hatchery- produced fish grow faster and mature earlier than wild fish and therefore are smaller when they return to spawn. From 1985-1996, approximately 775,000 yearling summer/fall chinook salmon have been released annually along with nearly 3 million fingerling and fry (National Park Service, 1996; Department of the Interior and others, 1994).
+Coho salmon Like chinook, coho salmon are maintained primarily by hatchery propagation. Until 1977, the coho runs were quite healthy, ranging from 5,000 to 16,000 fish returning annually. However, there has been a recent downward trend in the returns with a low of only 1,100 returning adults in 1991 (Department of the Interior and others, 1994). In the period from 1990 to 1994, hatcheries released from 400,000 to 800,000 coho smolts per year, yielding an average escapement of just under 3,000 fish per year.
+Pink, sockeye, and chum salmon The decline of the salmon is a direct result of the dams. A combination of habitat loss, including loss of estuaries, channelization, and loss of natural flows which create required spawning substrate has negatively affected the runs of pink, sockeye, and chum salmon. Both the pink and sockeye runs have vanished (McHenry and others, 1996). The 1994-1995 escapement estimate for Elwha chum salmon conducted by Hiss (1988) was 300 adults, an increase from previous years. The run has seen a general decrease in abundance over the last 40 years, beginning with a peak live and dead count of 414 chums in 1952 to only 1 fish in 1972 (Hiss, 1988).
+Winter run steelhead An average of 82,000 hatchery-reared winter steelhead smolts are released from the Lower Elwha tribal hatchery on the Elwha River each year; approximately 3,100 return annually (National Park Service, 1996). In addition a small stock of wild fish returns, typically slightly later than the hatchery fish. The 1996-97 Elwha River winter steelhead forecast was for a total of 2,093 fish, composed of 1,859 hatchery fish and 234 wild winter steelhead (Washington Department of Fisheries, 1993). The Washington Department of Fisheries (1993) lists Elwha River winter steelhead as a depressed stock.
+
+Summer run steelhead In the past, the Washington Department of Wildlife planted an average of 20,000 summer-run steelhead in the Elwha River each year, yielding an average annual escapement of 439 fish. Artificial enhancement has been discontinued but a small native stock continues to utilize the river each year (Department of the Interior and others, 1994). Like the winter-run, summer-run steelhead in the Elwha are considered a depressed stock (Washington Department of Fisheries, 1993). The Washington Department of Fish and Wildlife (1996) projected that 184 adults will return to the river in 1996-97.
+Sea-run cutthroat trout A very small population of native sea-run cutthroat trout exists in the lower Elwha River. Little is known about the abundance of this stock; however, it seems to be declining in conjunction with the decline described by Trotter (1990) that has been witnessed elsewhere in the region over the last 15 to 20 years. Due to their lack of abundance and smaller average size, sea-run cutthroat trout are not intensely fished by commercial or sport fishermen and have never been augmented by hatchery operations. They are, however, caught on an infrequent basis (fewer than five per year) by anglers pursuing other species (National Park Service, 1996).
+Bull trout Bull trout are also currently found in the lower Elwha system. Little is known about Elwha River anadromous char as they are not a commercially important species; however, they play a vital role in the biodiversity of native fish in the Elwha River Basin. Like the sea-run cutthroat and summer-run steelhead, they are present in small numbers and are propagated only by natural reproduction (Ging and Seavey, 1996).
+Current Resident (Non-anadromous) Salmonids
+Resident fishes in the Salmonidae family in the Elwha River system are predominantly rainbow trout. There are also smaller resident populations of bull trout, coastal and westslope cutthroat trout, and a small number of brook trout; kokanee salmon exist in Lake Sutherland. The resident fishes of the Elwha system, other than perhaps rainbow trout and other salmonid game fish, are of relatively little economic importance. Consequently, little research has been done on these fishes' life histories or behaviors in the Elwha system.
+
+10
+
+Rainbow trout The resident form of the rainbow trout exists in nearly every habitat in the Elwha River system and at a higher abundance than in the past. Traditionally, it competed for food and habitat resources with the rearing native anadromous fishes (Department of the Interior and others, 1993). After the construction of the dams, the anadromous fishes were cut off and the resident fishes have been isolated. Since then, with supplementary hatchery input, the population of middle and upper Elwha River rainbows has grown. In electroshocking surveys conducted by the U.S. Fish and Wildlife Service (Hiss and Wunderlich, 1994), rainbow trout were found to be most abundant in the upper Little River, a middle tributary. Lower reaches of the Little River yielded the second most abundant rainbow trout populations, followed by Lake Mills, Indian Creek, and finally the mainstem Elwha River, which had the least abundant population. Native resident rainbows have been documented to give rise to anadromous forms, which undergo a smoltification process and attempt to migrate to sea (Adams and others, 1996; Hiss and Wunderlich, 1994). It has also been speculated that there may be a very small population of resident rainbow trout below the dams. The behavior and relative abundance of this population may more accurately represent the native population because these fish must compete with the anadromous fishes in the lower reaches (Department of the Interior and others, 1993). The most genetically representative population may be those fish at RKm 32 and upstream. These reaches have seen less hatchery input and, in response, fish have differentiated less extensively from the native genetic makeup (Reisenbichler and Phelps, 1989).
+Coastal cutthroat and westslope cutthroat The coastal cutthroat trout (O. clarki clarki) is the only cutthroat native to the system. The coastal cutthroat (same subspecies as the anadromous form) has probably always inhabited the Elwha River and is present in small numbers throughout most of its length (Adams and others, 1996; Department of the Interior and others, 1993). Like the rainbow trout it may give rise to anadromous fish. Westslope cutthroat is an exotic species present in extremely small numbers. In fact, these fish are found in only one tributary, Long Creek and are restricted to the waters isolated by a downstream barrier in the creek at approximately RKm 0.3. Because of its relative lack of abundance, the westslope cutthroat has not been the subject of research, and specific data regarding its life history, population dynamics, or behavior in the Elwha River are not available.
+
+Bull trout The resident bull trout are second in relative abundance to resident rainbow trout in the upper and middle reaches of the Elwha River system. Bull trout are present in the river and, above Glines Canyon Dam, are considered of healthy status and at no immediate risk of decline. The status of bull trout in the middle Elwha River is uncertain due to a lack of quantitative data. Populations of bull trout within Lake Aldwell and Lake Mills have been documented spending a portion of their lives in the lake and rearing and spawning in the river or tributaries (National Park Service, 1996; Ging and Seavey, 1996). In the lower reaches of the Elwha below the dams, these populations along with the resident populations of bull trout, like resident rainbows, may coexist with seagoing anadromous forms and give rise to one another (Hiss and Wunderlich, 1994).
+Brook trout Similar to the westslope cutthroat found in Long Creek, brook trout is an exotic salmonid species present in small numbers in the Elwha River. Again, specific information pertaining to Elwha brook trout is scarce, but these fish have been introduced in the past. In surveys conducted by Hiss and Wunderlich (1994), brook trout were found to occur predominantly in the tributary Indian Creek. However, small numbers were collected in the lower Little River and the South Branch Little River, above an impassable barrier (Adams and others, 1996), and have been noted elsewhere in the upper and middle Elwha River system (National Park Service, 1995).
+Kokanee The historic sockeye salmon .runs, returning each year to Lake Sutherland, in the headwaters of Indian Creek, gave rise to a landlocked form, the kokanee salmon, which may have been augmented by releases of hatchery kokanee. Hatchery supplementation of the Lake Sutherland kokanee population was extensive from 1933 to 1964 and some sources (for example, Hosey and Associates, 1988) speculate that this was the origin of the current Lake Sutherland kokanee (Hiss and Wunderlich, 1994). However, previous accounts (Department of the Interior and others, 1994) testify to the presence of large numbers of sockeye and kokanee in the lake prior to dam construction; therefore, kokanee could be of partial native origin. Since the kokanee in Lake Sutherland have been determined to have a healthy rate of escapement (Hiss and Wunderlich 1994), and kokanee are known to produce anadromous offspring even after many generations of being landlocked, it has been suggested that they could be utilized in a captive broodstock program with the objective of restoring the sockeye runs (Department of the
+
+11
+
+Interior and others, 1994). Studies by Hiss and Wunderlich (1994) to determine the feasibility of such a project have suggested that, assuming the migration barriers are removed, the rehabilitation is feasible.
+Sculpin The only resident non-salmonids in the Elwha River above the dams that have been studied are the sculpins, although information is minimal. They are occasionally listed in a bycatch or noted as being seen in a snorkel survey. A study on Indian Creek (Adams and others, 1996) identified both prickly sculpin (Cottus asper) and coast range sculpin (C. aleuticus). These two species were confirmed in the lower reaches of the Elwha River by Mongillo and Hallock (1997).
+HABITAT AND NUTRIENTS
+It is well accepted that the quantity and quality of instream and riparian habitat have a dramatic effect on biological systems. Since the early 1900s, scientists have recognized the influence of river habitats on fish and other aquatic biota (Steinmann, 1907; Shelford, 1911; Theinemann, 1912). The importance of habitat in the assessment of stream quality was highlighted by Fausch and others (1988), who examined approximately 100 mathematical models that predict the abundance of fish based on habitat conditions. Habitat variables known to affect aquatic biota include stream velocity, depth, gradient, substrate size, abundance of instream woody debris, the number of pools, and riparian conditions. For example, it is now recognized that woody debris influences the physical form of streams, the movement of sediment, the retention of organic matter, and the composition of the biological community (Bilby and Ward, 1989). Lanka and others (1987) and Bisson and others (1988) have observed increases in salmonid standing stock with increases in woody debris and habitat complexity. Conversely, the removal of woody debris from streams has been shown to reduce the standing stock of indigenous fish (Elliot, 1986; Angermeier and Karr, 1984; Bryant, 1983; and Lestelle, 1978). The abundance of pools is another measure of a stream's ability to support fish and other aquatic organisms because, for many species of fish, pools provide both a safe and energetically favorable habitat (Fausch, 1984; Wilzbach, 1985).
+While habitat provides the physical structure in which aquatic biota live, nutrients are critical to a stream's overall productivity, which determines the amount of food available. Most stream studies focus on nutrients from a water-quality perspective or instream habitat from a fisheries perspective. An investigation of the role of salmon
+
+carcasses in the overall biological productivity of Pacific Northwest rivers provides a link between instream physical habitat and nutrients (fig. 1). In the case of the Elwha River system, dams have eliminated the migration of salmon, which has resulted in a reduction of nitrogen and phosphorus to the system. Therefore, biological productivity in the Elwha River system is likely lower than it was historically.
+Methods
+Although stream habitat is critical to the overall quality of the Elwha River ecosystem, habitat studies have been limited (Hiss and Wunderlich, 1994; National Park Service, 1995 and 1996; and Adams and others, 1996). To address this shortcoming, we began a hierarchical classification of stream habitat in the Elwha River using a combination of data from a geographic information system and field surveys. The first step in habitat classification is the identification and characterization of habitat units (Maxwell and others, 1995), which are areas that exhibit unique biological functions on the basis of relatively stable physical and biological characteristics (Montgomery and Buffington, 1993; and Rosgen, 1994). The stability of each habitat unit is related to its scale. For example, the Elwha River Basin is a habitat unit and so is a small pool within the basin. Once habitat units have been identified, the resource status of each unit can be evaluated. Information on the resource conditions of specific habitat units can then be used to extrapolate to the entire basin.
+For this study, the hierarchical habitat framework of Maxwell and others (1995) was utilized and focused on the classification of ecological units: watershed, valley segments, stream reaches, and channel units. Each habitat unit is at a different scale and addresses different ecological questions.
+Stream classification helps evaluate streamflow, sediment transport, aquatic habitat conditions and biological functions, and nutrient cycling at a broad scale (Vannote and others, 1980; and Hornbeck and Swank, 1992). To classify watersheds we relied on the stream order classification system of Strahler (1957) and the number and length of streams of each order (Ist-order streams are the smallest streams, and they increase in order as they increase in size). Classification of valley segments can be used to assess more detailed hydrologic and fluvial processes as well as aquatic habitat and riparian patterns for major portions of a river (Maxwell and others, 1995). Criteria used to classify valley segments were based on the
+
+12
+
+methods of Cupp (1989) and Rosgen (1994) and rely on stream gradient, width-to-depth ratios, and valley landform features. Stream reaches are subdivisions of valley segments; these units have a high degree of uniformity in channel morphology and flow and describe a consistent range of physical and biological interactions (Maxwell and others, 1995). Criteria used to define stream reaches included channel width, width-to-depth ratios, bed material, stream gradient, and riparian vegetation. Channel units, the finest level of habitat detail collected for this study, are subdivisions of stream reaches and are habitat types that have uniform morphologic and hydraulic properties resulting in a uniform habitat structure (Hawkins and others, 1993). We used a modified version of the channel unit classification scheme proposed by Hawkins and others (1993) in this study.
+Geographic Information System
+We used a geographic information system (GIS) application, ARC/INFO, to begin classifying habitat at various scales within the Elwha River Basin, including watersheds, subwatersheds, valley segments, and stream reaches. Necessary measurements included the lengths and gradients of the stream network and the size, extent, and relief of the contributing watershed area as well as the relative location of the system's features. Because time and resources were limited, a GIS utilizing digital elevation data offered the optimum means of characterizing the basin and its features. GIS applications have demonstrated their ability to provide a reasonably accurate model of surface area and hydrography using USGS digital elevation models (DEMs) at a scale of 1:24,000 (Jensen and Domingue, 1988; Voyadgis and Ryder, 1996).
+GIS was used to (1) select sites where more specific habitat analysis (channel unit classification) would be performed in the field and where nutrient samples would be collected and (2) to identify natural barriers to fish migration. Primary considerations in the initial assessment were stream order and stream gradient; downstream sequence, topography, and locations of documented barriers, including the two dams, were also considered.
+The primary data source was 1:24,000 scale, 7.5 minute USGS DEMs. A stream network representing the system and the subsequent delineation of the basin was created following the procedures outlined in ARC/INFO surface hydrologic analysis documentation and further referenced in Jenson and Domingue (1988).
+
+After the stream network was established, a singlecell outlet point was identified at the mouth of the Elwha River just above its entry to the Strait of Juan de Fuca. This single-point grid and the flow direction grid created earlier were then input to the WATERSHED function to create a grid delineating the extent of the basin. The stream system was then measured and classified by first establishing the stream order of the network using the Strahler method of numbering and the STREAMORDER function in GRID.
+Next, the stream gradient was determined using the SLOPE function and a coefficient derived to reflect the single-cell strand of each stream segment. The network gradient grid was then classified in another grid, using five gradient ranges relevant to the potential passage of anadromous fish through the system. These five categories are, for purposes of this study: 0 to 2 percent; greater than 2 to 4 percent; greater than 4 to 10 percent; greater than 10 to 16 percent; and, greater than 16 percent.
+A gradient barrier of 16 percent was identified for this study based on the prolonged and burst swimming speeds of salmon and steelhead (Osborn, 1990) and stream velocity based on the Manning relationship for a 1- to 2-foot deep mountain stream (Dunne and Leopold, 1978). The Manning relationship is clearly a generalization and stream velocities will be dependent upon site specific substrate and discharge characteristics. We believe that 16 percent is an acceptable starting point for evaluating a GIS based screening tool for establishing accessible potential spawning habitat in large rivers.
+Another stream network grid was then created combining the stream order and gradient class grids. Cells in this grid contained both values plus a frequency value for each unique combination. Quantitative analysis at this stage of the process was facilitated through the conversion of the rasterized data thus far generated into vector coverages. The ARC/INFO STATISTICS and FREQUENCY functions were then used to extract categorized measurements of stream segments by stream order.
+We selected 24 sampling sites based on the representative distribution of gradient classifications and stream order. The sites were also selected on the basis of physical accessibility using illustration aids including elevation contours and a coverage of trails provided by Olympic National Park.
+
+13
+
+Additional parameters of the stream and basin also were measured, including the delineation of contributing watersheds for the two lakes created by the Elwha and Glines Canyon Dams and for each of the 24 selected sites. We attempted to derive the maximum amount of geographically related measurements of the river system and basin from a single type of data source. This was done to minimize the addition of inaccuracies beyond those inherent in the initial data source and potentially introduced through any generalizations of the process. The OEMs used for this model appear to be of above-average quality, especially with regard to consistency between individual elevation models.
+Stream Habitat Field Survey
+Field observations were limited to the existence, relative location, general direction and gradient of approximately 10 percent of the stream segments in the watershed. The habitat field survey was designed primarily to evaluate representative channel units and secondarily to evaluate stream reach and valley segment characteristics at a representative number of sites. It would have been desirable to examine all of the channel units within the Elwha River Basin; however, this was not possible given budget and time constraints. A hierarchical habitat classification system allows data from a particular site to be used to predict the conditions at other sites that have similar large-scale features. For example, assessing instream habitat at several 2nd-order streams permits generalizations about all 2nd-order streams with similar positions in the basin.
+The GIS approach described above was used to select a representative number of valley segments and stream reaches on the basis of gradient and stream order. Habitat data were collected during a 2-week period in September of 1997 at two 2nd-order, four 3rd-order, five 4th-order, two 5th-order, and one 6th-order stream reaches (table 2; fig. 3). First-order streams were not surveyed because it was assumed that they did not provide extensive salmon habitat and were not suitable for other non-anadromous salmonids because of their high gradients.
+The goals of the channel unit survey were to document the number of different habitat types within the basin as well as the physical characteristics of each of the major channel unit types. The survey teams characterized channel units as either fast water or slow water (Hawkins and others 1993). Fast-water habitat types were further characterized as cascades or riffles based on gradient and the presence of surface turbulence or as run if there was no
+
+turbulence. Slow-water habitats were divided into scour pools or dam pools based on the mode of pool formation. A final category was step pools, which contain both fast and slow water and are typically pockets of slow and often deep water separated by short riffle steps; riffles and pools in this type of habitat are wider than their length.
+There are a number of benefits to a channel unit habitat survey. First, an estimate of the number and extent of pools and riffles within the basin is needed to determine the amount of habitat available for returning salmon if the dams are removed. Second, more detailed evaluations of the physical condition of a number of channel unit types will help assess the quality of each of these habitat types for salmon and other aquatic organisms. Such detailed information on the quantity and quality of salmon habitat available will help identify those parts of the basin most likely to benefit from the increased nutrient load provided by salmon carcasses.
+Two teams of two to three people each were assigned reaches. Fourteen sites were surveyed consisting of two 2nd-order, four 3rd-order, five 4th-order, two 5th-order, and one 6th-order streams. Measurements (channel unit length and number of pieces of large wood) were recorded at each channel unit type as the teams moved upstream. These habitat types included dam pools, scour pools, runs, riffles, cascades, and step pools. At every fifth channel unit type the following measurements or observations were recorded:
+1. Habitat type (dam pool, scour pool, run, riffle, cascade, step pool);
+2. Habitat length (m);
+3. Channel width (m) measured at each habitat type (3 measurements for each unit);
+4. Stream depth (m), measured at three evenly spaced points at each width measurement site (9 measurements per unit);
+5. Velocity (m/s, meter per second), measured at three evenly spaced points at each depth measurement point (9 per unit);
+6. Pebble count (mm, millimeter), measurement of the intermediate axis of one rock or pebble at 10 evenly spaced points along each width measurement site (30 measures per unit);
+
+14
+
+Table 2.--Description of sites sampledfor nutrient concentrations (24 sites) and where habitat data were collected (14 sites) in the Elwha River Basin [m, meter]
+
+Stream order Habitat
+
+Stream
+
+Site code
+
+USGS station number
+
+Description
+
+2
+
+Slate Creek
+
+SLA1
+
+12044610 50 m upstream of mouth
+
+2
+
+X Leitha Creek
+
+LET1
+
+12044685 at Camp Wilder
+
+2 X unnamed
+
+NN02
+
+12044690 300 m upstream of mouth
+
+2 Hurricane Creek HUR1 12044915 at road crossing
+
+2
+
+Cougar Creek
+
+COU1 12044940 at trail crossing
+
+2
+
+unnamed
+
+NN03 12045590 tributary to Indian Creek
+
+2
+
+unnamed
+
+NN04 12046090 tributary to Elwha River below lower dam
+
+3
+
+X Buckinghorse
+
+BUC1 ,12044615 30 m above log-bridge trail crossing
+
+Creek
+
+3 X Lost River
+
+LOS1
+
+12044790 50 m above footbridge
+
+3
+
+Crystal Creek
+
+CRY1
+
+12044930 at trail crossing
+
+3
+
+X Griff Creek
+
+GRF1
+
+12045150 downstream from road crossing
+
+3 X Little River LIT1 12045520 main (north) stem at closed logging bridge
+
+3
+
+Cowen Creek
+
+COW1 12045535 100 m above confluence with South Branch
+
+Little River
+
+4
+
+X Godkin Creek
+
+GOD1 12044675 100 m below footbridge
+
+4
+
+X Hayes River
+
+HAY1 12044695 above confluence with Elwha at footbridge
+
+4
+
+X Lillian River
+
+LIL1 12044825 50 m above footbridge at Lillian Shelter
+
+4 X Boulder Creek BOU1 12044950 immediately above mouth to Lake Mills
+
+4 X Little River LIT2 12045550 immediately above road crossing
+
+5
+
+X Elwha River
+
+ELW1 12044600 mainstem above confluence with Slate
+
+Creek
+
+5
+
+X Elwha River
+
+ELW2 12044680 at Camp Wilder
+
+6
+
+Elwha River
+
+ELW3 12044800 at Camp Elkhorn
+
+6
+
+X Elwha River
+
+ELW4 12044850 mainstem in Rica Canyon
+
+6
+
+Elwha River
+
+ELW5 12045500 mainstem at USGS McDonald Bridge gage
+
+site
+
+6
+
+Elwha River
+
+ELW6 12046250 mainstem 30 m above old Highway 112
+
+bridge
+
+15
+
+123°45'
+OLYMPIC NATIONAL PARK
+
+123°22'30"
+Strait of Juan de Fuca
+PORT ANGELES
+OLYMPIC NATIONAL PARK
+
+47°45'
+
+EXPLANATION
+~"~ Basin boundary Park boundary Streams, second through sixth order -^
+LI L1 1997 habitat data collection and nutrient sampling site
+SLA1 1997 nutrient sampling site
+
+Figure 3. Location of sampling sites in the Elwha River Basin.
+16
+
+7. Bank angle (degrees), measured at each width-measurement site (6 measurements per unit);
+8. Bank stability, evaluated at each cross section on the right and left banks, 2 m upstream and 2 m downstream. Categories are based on the percentage of the bank covered by vegetation, boulders and/or cobbles (4, greater than 80 percent of bank covered; 3, 50-79 percent of bank covered; 2, 25-49 percent of bank covered; 1, less than 25 percent of bank covered;
+9. Bank erosion, evaluated at each cross section on the left and right banks (categories were DA, debris avalanche; RF, rotational failure; SL, slab failure; CB, cut bank; and NO, none);
+10. Bank substrate, classified as the dominant and subdominant substrate type (silt, sand, gravel, cobble, boulder, and bedrock) on the basis of percent composition;
+11. Canopy cover, measured using a densiometer at four locations (left bank, right bank, downstream and upstream at center of channel) at each habitat type;
+12. Number of pieces of large wood (greater than or equal to 1 m in length and greater than or equal to 10 cm diameter) some portion of which is in the water or in contact with rocks that are in the flow of water;
+13. Debris dam, recorded if any of the wood is in a debris dam;
+14. Cover, percentage of the instream habitat area that represents cover for salmon or trout including overhanging banks, woody debris, and boulders;
+15. Dominant (percent) substrate, recorded as bedrock, boulders, cobble, gravel, sand, silt, or muck;
+16. Sub-dominant substrate, recorded as bedrock, boulders, cobble, gravel, sand, silt, or muck;
+17. Gradient (percent) measured from the bottom to top of the unit with an Abney meter; and
+
+18. Valley type, recorded as one of nine (A through I) Rosgen (1994) valley types.
+Measuring larger rivers (5th to 6th order) is difficult and often impossible because of their depth and velocity; and these streams were sampled differently than the smaller streams. Detailed data as described above were collected every 100 m, except where this was impossible due to depth and velocity conditions. At these locations, only width and bank measurements were taken. In addition, each team moved upstream along the 5th- and 6thorder streams, the length of each channel unit type encountered was recorded.
+Nutrients
+Along with habitat, water samples were collected to determine the concentrations and distribution of nitrogen and phosphorus within these habitats. A total of 24 water-quality sites was established in the Elwha -River Basin; sites were selected on the basis of the same criteria used for habitat (table 2; fig. 3). The number of sites selected for sampling within each stream order was approximately proportional to the total number of streams of each order type within the basin.
+Water samples were collected using a depth- and width-integrated method; however, samples were not collected across the entire width of the larger non-wadable sites. Difficulty of access to the sites required a modified processing method; at each site a new sample kit was used consisting of two 125-ml (milliliter) plastic bottles, a 50-ml syringe, and a Millipore 0.45 Jim (micrometer) filter. Equipment blanks were used to test the methodology. A more stringent analytical method is used to test a methodology. The results were all below the detection limit, suggesting the methodology was adequate. Samples for "filtered" constituents were filtered using the plastic syringe with a detachable 0.45 Jim filter. The filters were pre-conditioned at the USGS Field Services Unit in Tacoma, Wash., using inorganic-free water. Other samples were unfiltered. A field blank sample of inorganic-free water was prepared and processed in the same manner as the environmental samples. In addition, field measurements of temperature and specific conductance were made using methods outlined by Shelton (1994). The accuracy of field measurements was ensured by calibration of meters using known standards. All sampling equipment was rinsed and cleaned before subsequent samples were collected. After collection, samples were packed on wet ice and sent to the USGS National Water Quality Laboratory (NWQL) in Arvada, Colo.
+
+17
+
+The NWQL analyzed the samples for dissolved nitrate (NO3), dissolved nitrite (NO2), dissolved ammonia (NH3), dissolved and total organic nitrogen, dissolved and total phosphorus, and dissolved orthophosphate. Concentrations are presented in mg/L. Concentrations measured below the analytical detection limit for any constituent are indicated as "less-than" values (for example, <0.01 mg/L) in the data tables. Standard quality-assurance procedures were used at the NWQL.
+Results and Discussion
+Data on habitat and water quality were collected to document baseline conditions. These data can be used along with data collected if the dams are removed to assess changes in the river ecosystem. We also considered the relation between habitat and nutrient condition, especially the interaction of salmon carcasses, nutrient input, and habitat in relation to biological productivity.
+Stream Habitat
+GIS was used to identify 1st- through 6th-order stream sections using the Strahler (1957) classification method (table 3). On the basis of total length, Ist-order streams comprised over 50 percent of the streams within the Elwha River system. It is unlikely that all of these Ist-order streams are perennial and support a resident population of fish. However, many of these channels do transport water, sediment, organic material, and nutrients, and the role of such seasonal inputs must be considered in an evaluation of the river ecosystem.
+
+During the field survey, each stream section examined was placed into one of the nine valley types identified by Rosgen (1994). Only three types were encountered in the Elwha River system:
+Type A - Steep, entrenched, cascading, step/pool streams; high energy/debris transport associated with depositional soils; very stable if bedrock or boulder-dominated channel.
+*Type B - Moderately entrenched, moderate gradient, riffle-dominated channel with infrequently spaced pools; very stable plane and profile; stable banks.
+Type C - Low gradient, meandering, point-bar, riffle/pool, alluvial channels with broad, well-defined floodplains.
+Characterizing the valley type helps to identify hydrologic and fluvial processes in the stream and the natural formation and destruction of aquatic habitats, which salmon depend on. It also provides insight into the habitat types and riparian conditions that are possible in a specific stream segment. The percentage of each valley type recorded by stream order is presented in figure 4. All of the 2nd-order streams examined were located in Type B valley. We expected that a higher percentage of these streams would have been within Type A valleys, however, most of the 2nd-order streams examined were in the lower portions of the valley and therefore are not representative of the high-elevation headwater system. Most 3rd- and 4th-order streams were located in Type B valley with a few in Type C. Surprisingly, some segments of 3rd and
+
+Table 3.~Total number of streams and total length within each stream order category
+
+Stream order 1 2 3 4 5 6
+
+Total number 1,133 255 53 13 2 1
+
+Total length (kilometers) 723 295 145 84 22 45
+
+18
+
+100
+
+90
+
+80 Q.
+>- 70
+UJ
+60
+
+50
+
+40
+
+30
+LLJ
+
+Orr
+LU
+
+20
+
+CL
+
+10
+
+0
+
+BBB
+B
+A
+34 STREAM ORDER
+
+Figure 4. Percentage of Rosgen (1994) valley types by stream order. (A: steep, entrenched, cascading, step/pool streams. B: moderately entrenched, moderate gradient, riffle dominated, infrequent pools. C: low gradient, meandering, point bar, riffle/pool, alluvial, broad floodplain.)
+
+19
+
+4th-order streams did flow through Type A valleys; these were typically short sections of the stream. The 5th-order stream segments examined exhibited a lack of Type A, a reduction in Type B, and an increase in Type C valley. We did not examine enough 6th-order segments during the field survey to include them in figure 4. However, it is likely that most of the 6th-order segments are Type C with a portion of the river near the mouth belonging to Type D (braided channel with longitudinal and transverse bars; very wide channel with eroding banks) (Rosgen, 1994).
+Gradients were calculated for 60- to 84-m sections of the river. Five gradient categories were created--0 to less than 2 percent, 2 to less than 4 percent, 4 to less than 10 percent, 10 to less than 16 percent, and greater than 16 percent, which produced over 9,800 unique stream reaches within the Elwha River system (fig. 5). Most reaches were located within Ist-order streams with gradients greater than 16 percent. A 16 percent gradient was selected based upon published information on specific requirements of salmon during migration (Osborn, 1990).
+Classifying the Elwha River system by stream order and stream gradient confirms the abundance of highgradient, small streams (fig. 6). However, stream length alone may be misleading in the evaluation of aquatic habitat. We re-evaluated the data using average stream widths measured during the field survey (fig. 7). A two-way analysis of variance (ANOVA) and post-hoc contrasts revealed a highly significant difference (p<0.01) between stream order, stream gradient, and the relation between order and gradient on the basis of stream area (table 4). Most of the difference is due to the large total area of 6th-order, low-gradient stream reaches in the Elwha River system.
+
+On the basis of the number of habitat types observed in 2nd- through 5th-order streams, it appears that both riffles and runs are present in equal numbers and are the dominant habitat types (fig. 8a). However, when the total surface area for each habitat type is plotted (fig. 8b), a different pattern is observed: 2nd-order streams are dominated by run habitat and 3rd-, 4th-, and 5th-order streams are dominated by riffle habitat. This suggests that the number of habitat types is not as representative of habitat structure as is the total area of each habitat type. (Flow conditions in the 6th-order segment of the Elwha River prevented the evaluation of the abundance of habitat types in this section.)
+The abundance of woody debris observed in the upper Elwha River system during the field survey is typical of an old-growth forested watershed (fig. 9). In addition, the relation between stream order and woody debris loading also is similar to patterns observed in other watersheds in the Pacific Northwest (Bilby and Bisson, 1996). Woody debris jams in the smaller streams (2nd and 3rd order) were often small in size (fewer than 10 pieces of wood) but were more frequently observed than in the larger streams (4th through 6th order). However, many of the debris jams in the larger streams were very large and sometimes contained more than 100 pieces of wood.
+There were significant differences (p<0.0001) between the 18 unique habitat-order categories observed while in the field (fig. 10). In general, increasing stream order resulted in an increase in stream velocity. As would be expected, fast-water habitats were of higher velocity than slow water; however, the difference between fast- and slow-water habitats was not as large as expected. Mean substrate size was also significantly different (F=7.1, p<0.0001) between the 18 habitat-order categories (fig. 11). Most of the difference can be attributed to the
+
+Table 4.--Analysis of variance of stream area based on stream order and stream gradientfor the Elwha River
+
+[df, degrees of freedom; ss, sum of squares; F, F value; and p, probability]
+
+Source
+
+df
+
+ss
+
+F
+
+P
+
+Stream order
+
+5
+
+8.3 44.3 0.0001
+
+Stream gradient
+
+4
+
+5.1
+
+338.8
+
+0.0001
+
+Order*Gradient
+
+20
+
+1.1
+
+148.4
+
+0.0001
+
+Error
+
+9857
+
+3.7
+
+20
+
+NUMBER OF STREAM REACHES
+
+oroo oo^
+
+ooo>
+
+oooo
+
+ooo
+
+O O
+
+3 ui
+c
+3cCDr
+
+Ctot>D
+CcnD
+CD
+m
+SO
+3'
+CO CD O"
+<
+Oa
+CD ffl Q.
+I CD
+O
+CD CD (Q O
+
+600,000
+CO E 500,000-
+LsU
+-_ 400,000 h-
+z
+^ 300,000-
+UJ CC 200,000-
+o 100,000-
+
+greater than 16
+
+STREAM ORDER Figure 6. Stream lengths in the Elwha River system by stream order and gradient category.
+
+22
+
+3,000,000 < C/3 01 CC 2,500,000 OC 01
+2,000,000 DC
+1,500,000
+_ < CO
+1,000,000
+500,000 -
+ST*EAM ORDER
+
+greater than 16
+10-16
+4 '10 & 24 &
+0- 2 ^
+<0
+
+Figure 7. Stream area (m 2 ) in the Elwha River system by stream order and gradient category.
+
+23
+
+100
+
+EXPLANATION Habitat types Scour Pool Dam Pool Step Pool Run Riffle Cascade
+STREAM ORDER Figure 8. Percentage of habitat types by stream order based on number observed and area.
+O Second order streams Third order streams
+® Fourth order streams Fifth order streams Sixth order streams
+D Old growth streams
+
+10 20 STREAM WIDTH, IN METERS
+
+45 70 95 120
+
+Figure 9. Channel width in relation to large woody debris loading by stream order. (Large woody debris consists of all pieces of wood larger than 1 meter long by 10 cm in diameter. Color coded circles within the graph represent woody debris loading by stream order based on data collected for this study. Squares are loading estimates for old growth sites in the Pacific Northwest based on a previous study (Montgomery and others, 1993).)
+
+24
+
+§1.4
+Oo
+LU W 1.2 CC LU Q_
+wcc 11-Un
+LU LLJ
+0.8
+t 0.6
+g
+LU
+> 0.4 DC
+LU
+0.2 -
+< LLJ
+0.0
+
+Fast Water
+(Turbulent)
+
+Fast Water Slow Water Slow&Fast Water
+(Non-turbulent)
+i
+
+^u^
+
+HABITAT (TYPE - ORDER)
+
+Figure 10. Summary of mean water velocity in the Elwha River system by habitat type and stream order.(For each habitat type-stream order the mean and one standard error is presented)
+
+240 c/D CC LLJ
+UJ 200
+
+Fast Water
+(Turbulent)
+
+Fast Water Slow Water Slow&Fast Water
+(Non-turbulent)
+
+160
+LLJ N
+55
+LU
+CC 80 m C/3
+z 40 <
+LU
+> <D .> .£> 5b 5V Jb >
+3? HABITAT (TYPE - ORDER)
+Figure 11. Summary of mean substrate size in the Elwha River system by habitat type and stream order (For each habitat type-stream order the mean and one standard error is presented).
+
+25
+
+small substrate observed in riffles and runs in 2nd-order streams and large substrate observed in 3rd-order cascades. Mean depth was also significantly different (F=12.3, p<0.0001) between habitat-order categories (fig. 12). As expected, depth increased with stream order and was greatest in the slow-water habitats.
+Nutrients
+Water samples were collected from 24 sites during September 1997 and were analyzed for nitrogen and phosphorus. Nitrogen included dissolved nitrite + nitrate (NO2+NO3), dissolved nitrite (NO2), dissolved ammonia (NH3), and dissolved and total organic nitrogen. Plants most readily utilize the inorganic forms of nitrogen including nitrate, nitrite, and ammonia; therefore, in this report nitrogen concentrations reported are of total dissolved inorganic nitrogen (DIN), which is the sum of these three forms. Phosphorus is commonly analyzed for as total and dissolved phosphorus and dissolved orthophosphorus; concentrations of orthophosphorus are reported herein because it is the form plants utilize most readily. Some concentrations are reported as "less than" (<) values; the value given is the detection limit of the analytical method.
+Dissolved inorganic nitrogen (DIN) was detected at 9 of 24 sites, and concentrations ranged from less than the detection limit <0.05 to 0.233 mg/L, with a median of <0.05 (table 5). However, three of the nine detections (COU 1, CRY 1, and ELW 6) were due to measurable concentrations of ammonia, which was also detected in the field blank (table 6); therefore, these three detections are likely due to contaminated equipment. The remaining six samples with measurable concentrations of DIN were due to nitrate-plus-nitrite concentrations. Therefore, only six sites (25 percent) had measurable levels of DIN.
+With the exception of one site (SLA1), all sites with detections of DIN were located in the lower reach of the river, with the highest concentration (0.233 mg/L) found in Little River (LIT1). While DIN concentrations vary greatly nation-wide, natural background concentrations in the United States are about 0.12 mg/L (Allan, 1995); Little River (LIT1) is slightly above this level.
+In contrast to nitrogen, there was no strong spatial pattern observed in detections of orthophosphorus. Orthophosphorus concentrations ranged from less than the detection limit <0.01 to 0.021 mg/L and it was detected at only 3 of 24 sites (12 percent) (table 5).
+
+The generally low concentrations of both DIN and orthophosphorus were expected given the pristine conditions of the watershed. These nutrient concentrations are likely lower than those that would have existed prior to the construction of the two dams.
+Relation Between Stream Habitat and Nutrients
+The low concentrations of nitrogen and phosphorus, in combination with its pristine conditions, indicate that the Elwha River is an oligotrophic system, a common condition in many Pacific Northwest rivers (Larkin and Slaney, 1997). A key characteristic of an oligotrophic system is lower levels of both primary and secondary production. The productivity of a stream is dependent on numerous factors, including input and retention of nutrients. Before the early 1980's, atmospheric, terrestrial, and ground-water inputs were considered the only sources of nutrients to a river, with nutrients entering upstream and cycling downstream. An outgrowth of this idea of nutrient cycling in streams is the nutrient spiraling concept (Newbold and others, 1981), which emphasizes the unidirectional spiralling of nutrients downstream through a stream ecosystem. Nutrients will go through a tighter spiral if the system can retain nutrients by way of biological processes within a reach; conversely, spirals become longer in systems with few mechanisms for nutrient uptake and processing. Therefore, the nutrient spiraling concept emphasizes the downstream movement of energy and the efficiency of the system to process and therefore retain the energy.
+In Pacific Northwest streams, returning salmon add a new perspective to the nutrient spiraling concept. Returning salmon move upstream and deliver additional nutrients (nitrogen, phosphorus, and carbon) to stream systems by way of excretion, egg production, and most importantly, carcass decomposition (Larken and Slaney, 1997). It is now understood that these additional nutrients influence the ecosystem and future generations of salmon (Kline and others, 1990; Bilby and others, 1996; Larkin and Slaney, 1997). Bilby and others (1996) found that up to 40 percent of the nitrogen and carbon in a stream may be derived from salmon sources. Even though the total contribution by salmon to the nutrient pool may at times be small, slight increases in nutrient concentrations in oligotrophic streams may be significant (Larkin and Slaney, 1997).
+
+26
+
+1.0
+0.9
+0.8 CO UjO.7
+LU
+0.6
+10.5
+CL
+<0.3
+0.2
+0.1
+0.0
+
+FAST WATER
+(Turbulent)
+
+FAST WATER SLOW WATER SLOW&FAST WATER
+
+(Non-Turbulent)
+
+-
+
+HABITAT (TYPE - ORDER)
+Figure 12. Summary of mean water depth in the Elwha River system by habitat type and stream order. (For each habitat type-stream order the mean and one standard error is presented)
+
+27
+
+Table 5.--Concentrations of nutrients and other water-quality parameters in the Elwha River, samples collected during September and October of 1997 [[iS/cm, microsiemens per centimeter; <, less than detection limit; N, nitrogen; mg/L, milligrams per liter; °C, degrees Celsius]
+
+Stream order
+
+Stream
+
+Site code
+
+Specific conductivity
+(^iS/cm)
+
+Water temperature
+(°C)
+
+Dissolved ammonia (mg/L as N)
+
+Dissolved nitrate + nitrite (mg/L as N)
+
+DIN (dissolved inorganic nitrogen) (mg/L as N)
+
+Dissolved orthophosphorus,
+(mg/L)
+
+2 Slate Creek
+
+SLA1
+
+63
+
+8.6 <0.015 0.074 1 0.074
+
+<0.01
+
+2 Leitha Creek
+
+LET1
+
+71
+
+9.1 <0.015 <0.05 <0.05
+
+<0.01
+
+2 unnamed
+
+NN02
+
+118
+
+9.3 <0.015 <0.05 <0.05
+
+<0.01
+
+2 Hurricane Creek
+
+HUR1
+
+206
+
+10.8 <0.015 0.055
+
+0.055
+
+<0.01
+
+tooo 2 Cougar Creek
+
+COU1
+
+164
+
+10.4
+
+20.026
+
+<0.05
+
+20.026
+
+0.014
+
+2 unnamed
+
+NN03
+
+225
+
+10.1 <0.015 0.065 0.065
+
+<0.01
+
+2 unnamed
+
+NN04
+
+170
+
+13 <0.015 0.093 0.093
+
+0.021
+
+3 Buckinghorse Creek 3 Lost River 3 Crystal Creek 3 Griff Creek 3 Little River 3 Cowen Creek
+
+BUC1 LOS1 CRY1 GRF1 LIT1 COW1
+
+79 114 147 136 170 153
+
+7.6 <0.015 <0.05 <0.05
+
+9.4 <0.015 <0.05 <0.05
+
+9.4
+
+20.033
+
+<0.05
+
+20.033
+
+9.9 <0.015 <0.05 <0.05
+
+9.8 <0.015 0.233
+
+0.233
+
+10.8 <0.015 <0.05 <0.05
+
+<0.01 <0.01 <0.01 <0.01 <0.01 0.011
+
+Table 5.-- Concentrations ofnutrients and other water-quality parameters in the Elwha River, samples collected during September and October of 1997 Continued
+
+Stream order
+
+Stream
+
+4 Godkin Creek
+
+4 Hayes River
+
+4 Lillian River
+
+4 Boulder Creek
+
+4 Little River
+
+Site code GOD1 HAY1 LIL1 BOU1 LIT2
+
+Specific conductivity
+(|iS/cm)
+70
+90
+88
+108
+149
+
+Water temperature
+<°Q
+7.6 9.2 8.2 9.8 10.5
+
+Dissolved ammonia (mg/L as N)
+<0.015
+<0.015
+<0.015
+<O.OI5
+<0.015
+
+Dissolved nitrate + nitrite (mg/L as N)
+<0.05
+<0.05
+<0.05
+<0.05
+0.053
+
+DIN (dissolved inorganic nitrogen) (mg/L as N)
+<0.05
+<0.05
+<0.05
+<0.05
+0.053
+
+Dissolved orthophosphorus,
+(mg/L)
+<0.01
+<0.01
+<0.01
+<0.01
+<0.01
+
+5 Elwha River 5 Elwha River
+
+ELW1 ELW2
+
+63 69
+
+7.6
+
+<0.015
+
+<0.05
+
+<0.05
+
+9.9 <0.015 <0.05 <0.05
+
+<0.01 <0.01
+
+6 Elwha River 6 Elwha River 6 Elwha River 6 Elwha River
+
+ELW3
+
+84
+
+11
+
+<0.015
+
+<0.05
+
+<0.05
+
+ELW4
+
+55
+
+8.9 <0.015 <0.05 <0.05
+
+ELW5 85 11.8 <0.015 <0.05 <0.05
+
+ELW6
+
+88
+
+12.7
+
+20.058
+
+<0.05
+
+20.058
+
+<0.01 <0.01 <0.01 <0.01
+
+1 Bold refers to detections. 2 Detections are believed to be because of contamination and therefore do not represent environmental concentrations.
+
+Table 6.-- Quality assurance for nutrient data collected on the Elwha River [mg/L, milligrams per liter; N, nitrogen; <, less than detection limit; , not analyzed for]
+
+Name/ identification
+ELW6-field blank
+
+Ammonia (mg/L as N)
+0.076
+
+Nitrite (mg/L as N)
+<0.01
+
+Dissolved ammonia + organic nitrogen (mg/L as N)
+<0.2
+
+Ammonia + organic nitrogen (mg/L as N)
+<0.2
+
+Nitrate + nitrite (mg/L as N)
+<0.05
+
+Total phosphorous (mg/L)
+
+Dissolved phosphorous (mg/L)
+
+<0.01
+
+<0.01
+
+Orthophosphorous (mg/L)
+<0.01
+
+Equipment blank 1
+Equipment blank 2
+
+<0.002 <0.002
+
+0.001 0.001
+
+~ --
+
+<0.005 - <0.005 ~
+
+<0.001 -- <0.001
+
+Studies show that artificial (dosing) and natural (salmon carcasses) additions of nutrients influence aquatic ecosystems in several ways. The addition of nutrients increases the productivity of periphyton (Johnson and others, 1990; Schuldt and Hershey, 1995), resulting in increased productivity of benthic invertebrates (LeBrasseur and others, 1978). Benthic invertebrates are a critical source of energy for juvenile salmon. Several studies have demonstrated the influence of returning salmon, and their nutrient input, on the success of the next generation of salmon. Ward and Slaney (1988) found that the addition of nutrients from decaying salmon carcasses resulted in an increase in recruitment per spawner, in smolt size and number, and in ocean survival of succeeding generations. Johnson and others (1990) reported a 1.4 to 2-times increase in the weight of late-September salmon fry. Hyatt and Stockner (1985) reported that most increases in salmon production are due to increased food supply, which resulted in an increase in smolt size and therefore marine survival. These examples demonstrate that nutrient input from salmon carcasses has a direct positive effect on the survival of future salmon runs.
+The second component of nutrient spiralling is retention, which is any process that retards the transport of nutrients out of a system, thereby permitting them to be used more efficiently. If we assume that salmon carcasses contribute to stream productivity in Pacific Northwest rivers, then instream habitat complexity is critical to retaining salmon carcasses long enough to permit their efficient utilization. Cederholm and Peterson (1985) and Cederholm and others (1989) examined the relation between instream habitat and the retention of salmon carcasses in the Pacific Northwest and found that carcasses were retained in areas by either lodging in organic debris (for example, logjams) or by settling out in pools. The retention of salmon carcasses within a river system, even for short periods, has profound implications on stream productivity. By retaining carcasses within a reach, nutrients can move back into the food chain by way of primary production or direct consumption by scavengers (invertebrates or fish). Stream reaches with more complex instream habitat will retain more carcasses, and therefore should have higher production downstream. Larkin and Slaney (1997) reported that fertilization experiments influenced periphyton accrual up to 50 km downstream (Slaney and others, 1994), with delays in peak periphyton response at far downstream sites providing evidence of nutrient spiraling (Newbold and others, 1981).
+One of the features of the Elwha River system which facilitates its restoration is the high quality of instream habitat inside Olympic National Park. The river contains a
+
+wide range of instream habitat types (fig. 8) including step, dam, and scour pools that will retain salmon carcasses; there are also long low-gradient runs in the mainstem where salmon carcasses can settle out. In addition, there are numerous large woody debris dams in the tributaries, and fewer but larger ones in the mainstem (fig. 9). Furthermore, there are large stands of old-growth trees that periodically fall into the river, thereby maintaining structural complexity.
+Although the Elwha River contains a large area of potential spawning habitat, portions of the system are not accessible to salmon and steelhead because of natural barriers. These barriers are often difficult to identify and are dependent upon gradient, velocity, barrier length, barrier height, depth, and the condition of the migrating fish. Previous studies have measured some of the salmon and steelhead barriers in the Elwha River (Hosey and Associates, 1988); we used a combination of GIS and digital elevation models (DEMs) for the Elwha River Basin to identify barriers. A stream gradient barrier of 16 percent was identified on the basis of the prolonged and burst swimming speeds of salmon and steelhead (Osborn, 1990), and stream velocity, based on the Manning relationship for a 1- to 2-foot-deep mountain stream (Dunne and Leopold, 1978). The Manning relationship is clearly a generalization and stream velocities will be dependent upon site-specific substrate and streamflow characteristics. However, we believe that 16 percent is an acceptable starting point for evaluating a GIS-based screening tool for establishing accessible potential spawning habitat in large rivers (Osborn, 1990).
+As noted previously, gradient was calculated over a distance of 60 to 85 meters. It is possible that a stream section of this length with a gradient of 16 percent is passable to migrating salmon or steelhead, particularly if the stream section contains a series of pools separated by small cascades. Therefore, we also evaluated potential spawning habitat in the Elwha River on the basis of a gradient barrier of 20 percent.
+Due to the topography of the Elwha River valley, most returning salmon will only be able to utilize the mainstem of the Elwha River, with some exceptions (fig. 13). Only 11 percent of the total stream length is below the 16 percent gradient barrier level; this increases to only 17 percent if the 20 percent gradient is used. This seems like a major limitation; however, by stream area, the mainstem contains the greatest areal coverage of stream habitat. Under this scenario, the tributaries become less critical to salmon spawning directly, but are important from the standpoint of providing nutrients, large woody
+
+31
+
+123°45'
+
+123°22'30"
+Strait of Juan de Fuca
+
+OLYMPIC k NATIONAL PARK
+
+47°45'
+
+EXPLANATION
+Basin boundary
+Olympic National Park boundary
+Streams with less than 16 percent gradient barriers
+Streams with 16 to 20 percent gradient barriers
+Streams with greater than 20 percent gradient barriers
+
+OLYMPIC NATIONAL PARK
+
+10 KILOMETERS
+Figure 13. Stream reaches most likely to be utilized by returning salmon.
+32
+
+debris, and other essential components to the mainstem. It is important to remember that natural fish barriers were calculated from digital elevation models (OEMs) and ARC/INFO calculations rather than detailed field surveys. Furthermore, designating gradients of 16 percent as fish barriers is also somewhat subjective. However, the approach presented here provides some initial insight into what portions of the Elwha River system may be accessible to returning salmon.
+Based upon existing literature (Hosey and Associates, 1988), our method for determining salmon-accessible portions of the river did exclude some accessible reaches. For example, Goldie Creek was not considered accessible on the basis of the 16 percent gradient level. However, according to Hosey and Associates (1988) Goldie Creek is a salmon spawning stream. Although there are some inconsistencies between our study and that of Hosey and Associates (1988), the similarity between total accessible river is high. Our study identified approximately 146 km of river as accessible; the Hosey and Associates (1988) estimate was approximately 129 km, a difference of less than 12 percent. Assuming that the 129 km estimate is accurate, our method using GIS may represent a costeffective way of identifying accessible spawning areas in other river systems. The inconsistencies between the two methods can be used to improve on the GIS method of locating barriers.
+Although our study cannot precisely quantify the historical contribution of nutrients from salmon carcasses to the Elwha River, we made preliminary estimates based upon available information. In order to make these calculations, we made a series of assumptions about the contribution of nutrients from salmon carcasses.
+1 Models used during the Environmental Impact Statement process (Olympic National Park, 1995) have estimated the number of returning individuals in each species under various restoration scenarios. Our nutrient estimates are based upon estimates in Olympic National Park (1995).
+2 Size of salmon will be as follows: chinook (5.13 kg), chum (4.98 kg), coho (3.18 kg), pink (1.83 kg), sockeye (2.7 kg), and steelhead (3.4 kg). (Weights are averages as presented in Wydoski and Whitney, 1979.)
+3 All salmon will have comparable nitrogen (3.04 percent) and phosphorus (0.36 percent) compositions (Larkin and Slaney, 1997).
+
+Based upon the above assumptions, we estimated the annual contribution of both nitrogen and phosphorus to the Elwha River Basin from salmon under a couple of restoration scenarios (fig. 14). The present input is based upon only 3,500 salmon returning to the lower river. Many of these fish are harvested and therefore not necessarily returned to the system, so contribute approximately 490 kg of nitrogen and 58 kg of phosphorus to the system, with this contribution remaining below the Elwha Dam. We estimated that if the Elwha Dam were removed, nitrogen loading from salmon would increase to 6,700 kg and phosphorus to 790 kg, a 15-fold increase over present conditions. If both dams were removed, nitrogen loading would increase to 298,000 kg and phosphorus to 3,500 kg, a 654- and 65-fold increase, respectively (fig. 14). This increase in essential nutrients will substantially increase primary and secondary productivity within the Elwha River system. Figure 14 also shows the relative contribution of nutrients from the various species. Under present-day conditions, chinook salmon provides the largest contribution to the lower river. In contrast, under full restoration, pink salmon will contribute the greatest amount of nutrients.
+Conclusions
+This study found that the use of digital elevation models (DEMs) combined with a geographic information system (GIS) is an efficient method for assessing instream habitat in a large, relatively inaccessible basin. This approach is also useful for designing a large-scale study because information from the initial assessment can be used to stratify the basin into habitat types, which permits a stronger study design. Results from the GIS method in combination with the field habitat survey indicated that although most of the Elwha River and its tributaries contain high-quality instream habitat, there are numerous natural gradient barriers which will limit salmon spawning to the mainstem and a few tributaries. Although our study showed that most of the stream habitat is located in the mainstem of the river because of its size, many of the tributaries are important because they supply sediment, woody debris, and nutrients to the mainstem. We also estimated that the quantity of nutrients brought into the Elwha River Basin from salmon restoration will increase substantially. This increase would greatly enhance both primary and secondary production in the river, and, over the long term, assist in the restoration of the Elwha River ecosystem and its anadromous fisheries.
+
+33
+
+1,000,000
+
+NO ACTION TAKEN
+
+REMOVAL OF LOWER DAM
+
+REMOVAL OF UPPER AND LOWER DAMS
+
+Total
+Nitrogen Total
+Phosphorus
+
+Total
+Nitrogen Total
+Phosphorus
+
+Total
+Nitrogen Total
+Phosphorus
+
+EXPLANATION Sockeye
+m Steelhead
+Pink Chum Coho
+n Chinook
+Figure 14. Estimations of nitrogen and phosphorus loadings to the Elwha River Basin from salmon under different restoration scenarios, and the relative contribution by each species.
+34
+
+CITED REFERENCES
+Adams, C., Reisenbichler, R., and Meyer, J., 1996, Elwha River ecosystem restoration studies life history and habitat utilization of resident fish species in the Elwha River: Progress Report to Olympic National Park, June 30, 1996, National Biological Service, Seattle, Washington, 23 p.
+Allan, D., 1995, Stream ecology structure and function of running waters: New York, NY, Chapman and Hall, 388 p.
+Angermeier, P.L., and Karr, J.R., 1984, Relationships between woody debris and fish habitat in small warmwater stream: Transactions of the American Fisheries Society, v. 113, p. 716-726.
+Bilby, R.E., and Ward, J.W., 1989, Changes in characteristics and function of woody debris with increasing size of streams in western Washington: Transactions of the American Fisheries Society, v. 118, p. 368-378.
+Bilby, R.E., Fransen, B.R., and Bisson, P.A., 1996, Incorporation of nitrogen and carbon from spawning coho salmon into the trophic system of small streams evidence from stable isotopes: Canadian Journal of Fish and Aquatic Science, v. 53, p. 164-173.
+Bisson, P.A., Nielsen, J.L., and Ward, J.W., 1988, Summer production of coho salmon stocked in Mount St. Helens streams 3-6 years after the 1980 eruption: Transactions of the American Fisheries Society, v. 117, p. 322-335.
+Brannon, E.L., and Hershberger, W.K., 1984, Elwha River fall chinook salmon: School of Fisheries, University of Washington, Seattle, Washington, 4 p.
+Bryant, M.D., 1983, The role and management of woody debris in West Coast salmonid nursery streams: North American Journal of Fisheries Management, v. 3, p. 322-330.
+Bureau of Reclamation, 1995a, Overview of ground water conditions: Elwha Technical Series PN-95-3, Pacific Northwest Region, Boise, Idaho, 9 p.
+
+Bureau of Reclamation, 1995b, Report of water quality task group, Elwha River, Washington: Elwha Technical Series PN-95-8, 67 p.
+Cederholm, C.J., and Peterson, N.P., 1985, The retention of coho salmon (Oncorhynchus kisutch) carcasses by organic debris in small streams: Canadian Journal of Fisheries and Aquatic Sciences, v. 42, p. 1,222-1,225.
+Cederholm, C.J., Houston, D.B., Cole, D.L., and Scarlett, W.J., 1989, Fate of coho salmon (Oncorhynchus kisutch) carcasses in spawning streams: Canadian Journal of Fisheries and Aquatic Sciences, v. 46, p. 1,347-1,355.
+Cupp, C.E., 1989, Stream corridor classification for forested lands of Washington: Washington Forest Protection Association, Olympia, Washington, 46 p.
+Department of the Interior, Department of Commerce, and Lower Elwha S'Klallam Tribe, 1993, Restoration of the Elwha River ecosystem and native anadromous fisheries: Report submitted pursuant to public law 102-495, 134 p.
+Department of the Interior, Department of Commerce, and Lower Elwha S'Klallam Tribe, 1994, The Elwha report restoration of the Elwha River ecosystem and native anadromous fisheries: Report submitted pursuant to public law 102-495, 174 p.
+Drost, B.W., 1985, Water resources of Clallam County, Washington-phase I report: U.S. Geological Survey Water-Resources Investigations Report 83-4227, 263 p.
+Dunne, T, and Leopold, L.B., 1978, Water in environmental planning: New York, W. H. Freeman and Co., 818 p.
+Elliot, S.T., 1986, Reduction of a Dolly Varden population and macrobenthos after removal of logging debris: Transactions of the American Fisheries Society, v.l 15, p. 392-400.
+Fausch, K.D., 1984, Profitable stream positions for salmonids relating specific growth rate to net energy gain: Canadian Journal of Zoology, v. 62, p. 441-451.
+
+35
+
+Fausch, K.D., Hawkins, C.L., and Parsons, M.G., 1988, Models that predict standing crop of stream fish from habitat variables, 1950-1985: U.S. Forest Service, Pacific Northwest Research Station, General Technical Report PNW-GTR-213, U.S. Department of Agriculture, Portland, Oregon, 52 p.
+Ging, G., and Seavey, F, 1996, Biological assessment Elwha River restoration project, Clallam County, Washington: U.S. Fish and Wildlife Service, Olympia, Washington, 51 p.
+Hawkins, C.P., Kershner, J.L., Bisson, P., Bryant, M., Decker, L., Gregory, S.V., McCullough, D., Overton, K., Reeves, G., Steedman, R., and Young, M., 1993, A hierarchical approach to classifying stream habitat features: Fisheries, v. 18, p. 3-11.
+Hiss, J.M., 1988, Elwha River chum salmon (Oncorhynchus ketd)--spawner survey and escapement estimate, 1994-1995: Olympia, Washington, U.S. Fish and Wildlife Service, 45 p.
+Hiss, J.M., and Wunderlich, R.C., 1994, Salmonid availability and migration in the Middle Elwha River system: Olympia, Washington, U.S. Fish and Wildlife Service, 36 p.
+Hoffman, C.H., 1992, The Elwha issue-a fish problem that just won't die: Olympic National Park, Port Angeles, Washington, The George Wright Forum, v. 9, no. 2, p. 45-52.
+Hornbeck, J.W., and Swank, W.T., 1992, Watershed ecosystem analysis as a basis for multiple-use management of eastern forests: Ecological Applications, v. 2, p. 238-247.
+Hosey and Associates, 1988, Elwha Project and Glines Project-response to request for additional information of May 28, 1987, 4 volume set.
+Houston, D.B., 1983, Anadromous fish in Olympic National Park~a status report: National Park Service, Port Angeles, Washington, p. 7-9.
+Hyatt, K.D., and Stockner, J.G., 1985, Responses of sockeye salmon (Oncorhynchus nerkd) to fertilization of British Columbia coastal lakes: Canadian Journal of Fisheries and Aquatic Sciences, v. 42, p. 320-331.
+
+Jensen, S.K., and Domingue, J.O., 1988, Extracting topographic structure from digital elevation data for geographic information analysis: Photogrammetric Engineering and Remote Sensing, v. 54, Noll, November 1988, p. 1,593-1,600.
+Johnson, N.T., Perrin, C.J., Slaney, P.A., and Ward, B.R., 1990, Increased juvenile growth by whole-river fertilization: Canadian Journal of Fisheries and Aquatic Sciences, v. 47, p. 862-872.
+Kline, T.C., Goering, J.J., Mathisen, O.A., and Poe, PH., 1990, Recycling of elements transported upstream by runs of Pacific Salmon 815N and 513C evidence in Sashin Creek, Southeastern Alaska: Canadian Journal of Fisheries and Aquatic Sciences, v. 47, p. 136-144.
+Lanka, R.P., Hubert, W.A., and Wesche, T.A., 1987, Relations of geomorphology to stream habitat and trout standing stock in small Rocky Mountain streams: Transactions of the American Fisheries Society, v. 116, p. 21-28.
+Larkin, G.A., and Slaney, P.A., 1997, Implications of trends in marine-derived nutrient influx to south coastal British Columbia salmonid production: Fisheries, v. 22, no. 11, p. 16-24.
+LeBrasseur, R.J., McAllister, C.D., Baraclough, W.E., Kennedy, O.D., Manzer, J., Robinson, D., and Stephens, K., 1978, Enhancement of sockeye salmon (Oncorhynchus nerkd) by lake fertilization in Great Central Lake, Summary Report: Journal of Fisheries Research Board of Canada, v. 35, p. 1,580-1,596.
+Lestelle, L.C., 1978, The effect of forest debris removal on a population of resident cutthroat trout in a small headwater stream: Seattle, Washington, University of Washington, M.S. Thesis, 86 p.
+Li, J.L., 1990, Macroinvertebrates of the Elwha River during high flow: Report to the Lower Elwha Tribal Council, Corvalis, Oregon, 12 p.
+Maxwell, J.R., Edwards, C.J., Jensen, M.E., Paustian, S.J., Parrott, H., and Hill, D.M., 1995, A hierarchical framework of aquatic ecological units in North America (Nearctic Zone): General Technical Report NC-176, North Central Forest Experimental Station, Department of Agriculture, 72 p.
+
+36
+
+McCormick, R.D., 1995, A water quality analysis of the Elwha River, WA, watershed prior to anadromous fisheries restoration: Keene, New Hampshire, Antioch New England Graduate School, M.S. Thesis, 40 p.
+McHenry, M.L., Lichatowich, J., and Kowalski-Hagaman, R., 1996, Status of Pacific salmon and their habitats on the Olympic Peninsula, Washington: Lower Elwha Klallam Tribe, Port Angeles, Wash., 20 p.
+Mongillo, P.E., and Hallock, M., 1997, Distribution and habitat of native nongame stream fishes of the Olympic Peninsula, Washington: Department of Fish and Wildlife Technical Report FRD 97-05, Olympia, Washington, 45 p.
+Montgomery, D.R., and Buffington, J.M., 1993, Channel classification, prediction of channel response, and assessment of channel condition: Report FW-SH 10-93-002, Department of Geological Sciences and Quaternary Research Center, University of Washington, Seattle, Washington, 83 p.
+Munn, M.D., McHenry, M.L., and Sampson, V., 1996, Benthic macroinvertebrate communities in the Elwha River Basin, 1994-95: U.S. Geological Survey Open-File Report 96-588, 27 p.
+National Park Service, 1995, Elwha River-ecosystem restoration implementation-draft environmental impact statement: Olympic National Park, U.S. Department of the Interior, 493 p.
+National Park Service, 1996, Elwha River-ecosystem restoration final environmental impact statement: Olympic National Park, U.S. Department of the Interior, 281 p.
+Newbold, J.D., Elwood, J.W., O'Neil, R.V., and Winkle, W.V., 1981, Measuring nutrient spiralling in streams: Canadian Journal of Fisheries and Aquatic Sciences, v. 38, p. 860-863.
+Osborn, J.F., May 1990, Pilot study of the physical conditions of fisheries environments in river basins on the Olympic Peninsula: Pullman, Washington, 275 p.
+
+Reisenbichler, R., and Phelps, S., 1989, Genetic variation in steelhead (Salmo gairdneri) from the north coast of Washington: Canadian Journal of Fisheries and Aquatic Sciences, v. 46, p. 66-73.
+Rosgen, D.L., 1994, A classification of natural rivers: Amsterdam, The Netherlands, Elsevier Publications, 50 p.
+Schuldt, J.A., and Hershey, A.E., 1995, Effect of salmon carcass decomposition on Lake Superior tributary streams: Journal North American Benthological Society, v. 14, no. 2, p. 259-268.
+Sheldon and Associates, 1996, Elwha River wetland impact analysis for the lower Elwha restoration project: Seattle, Washington, Sheldon and Associates, 31 p.
+Shelford, V.E., 1911, Ecological succession I. stream fishes and the method of physiographic analysis: Biological Bulletin of the Marine Biology Laboratory, Woods Hole, v. 21, p. 9-35.
+Shelton, L.R., 1994, Field guide for collecting and processing stream-water samples for the National Water Quality Assessment Program: U.S. Geological Survey Open-File Report 94-455, 42 p.
+Slaney, P., Ashley, K., Wightman, C., Ptolemy, R., and Zaldokas, D., 1994, Low-level fertilization as a habitat management option for nutrient deficient trout streams in British Columbia; in, Proceedings of the 9th International Trout Stream Habitat Improvement Workshop, 8-9 September, 1994, Calgary, Canada.
+Steinmann, P., 1907, Die tierwett der gebirgsbche: Eine Faunistisch-biologische. Studie. Annales de Biologic Lacustre, v. 2, p. 30-150.
+Strahler, A.N., 1957, Quantitative analysis of watershed geomorphology: Transactions of the American Geophysical Union, v. 33, p. 913-920.
+Tabor, R.W., and Cady, W.M., 1978, Geological map of the Olympic Peninsula, Washington: U.S. Geological Survey Miscellaneous Investigations Series Map 1-994.
+
+37
+
+Theinemann, A., 1912, Der bergbach des saverland international revue der gesamten: Hydrobiologie Supplement, 4, 125 p.
+Trotter, E.H., 1990, Woody debris, forest-stream succession, and catchment geomorphology: Journal of the North American Benthological Society, v. 9, p. 141-156.
+Vannote, R.L., Minshall, G.W., Cummins, K.W., Sedell, J.R., and Gushing, C.E., 1980, The river continuum concept: Canadian Journal of Fisheries and Aquatic Sciences, v. 37, p. 130-137.
+Voyadgis, D.E., and Ryder, W.H., 1996, Measuring the performance of ground slope generation: 1996 ESRI User Conference Proceedings, Palm Springs, California, May 20-24, 1996, 7 p.
+Ward, B.R., and Slaney, P.A., 1988, Life history and smolt-to-adult survival of Keogh River steelhead trout (Salmo gairdneri) and the relationship to smolt size: Canadian Journal of Fisheries and Aquatic Sciences, v. 45, p. 1,110-1,122.
+Washington Department of Fisheries, 1993, 1992 Washington State salmon and steelhead stock inventory: Washington Department of Fisheries, Washington Department of Wildlife, and Western Washington Treaty Indian Tribes, Olympia, Washington, 59 p.
+
+Washington Department of Fish and Wildlife, 1996, 1996-97 winter and summer steelhead forecasts and management recommendations: Washington Department of Fish and Wildlife, Point No Point Treaty Council, and Makah Tribe, Olympia, Washington, 15 p.
+Wilzbach, M.A., 1985, Relative roles of food abundance and cover in determining the habitat distribution of stream-dwelling cutthroat trout (Salmo clarki): Canadian Journal of Fisheries and Aquatic Sciences, v. 42, p. 1,668-1,672.
+Wunderlich, R., Pantaleo, C., and Wiswell, R., 1994, Elwha River chum salmon surveys 1993-1994: U.S. Fish and Wildlife Service, Olympia, Washington, 20 p.
+Wydoski, R.S., and Whitney, R.R., 1979, Inland fishes of Washington: Seattle, Washington, University of Washington Press, 220 p.
+
+38
+* U.S. GOVERNMENT PRINTING OFFICE: 1999 789-108 / 40930 Region No. 10
+
+Munn, Black, Haggland, Hummling, and Huffman
+
+AN ASSESSMENT OF STREAM HABITAT AND NUTRIENTS IN THE ELWHA RIVER BASIN: IMPLICATIONS FOR RESTORATION
+
+USGS-WRIR 98-4223
+
+

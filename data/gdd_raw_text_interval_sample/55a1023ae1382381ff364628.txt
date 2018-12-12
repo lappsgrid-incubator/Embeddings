@@ -1,0 +1,1510 @@
+LABORATORY AND FIELD INVESTIGATIONS OF FAULT GOUGE
+J. M. Logan Center for Tectonophysics
+Texas A&M University College Station, Texas
+USGS CONTRACT NO. 14-08-0001-17677 Supported by the EARTHQUAKE HAZARDS REDUCTION PROGRAM
+OPEN-FILE NO. 81-883
+U.S. Geological Survey OPEN FILE REPORT This report was prepared under contract to the U.S. Geological Survey and has not been reviewed for conformity with USGS editorial standards and stratigraphic nomenclature. Opinions and conclusions expressed herein do not necessarily represent those of the USGS. Any use of trade names is for descriptive purposes only and does not imply endorsement by the USGS.
+
+Ill
+PREFACE
+The overall objective of this project is to investigate fault mechanics of gouge-host rock systems through controlled laboratory experiments and correlated field studies with the emphasis on understanding the operative physical principles that govern shallow-focus earthquakes. In this report we discuss the results of investigations into two areas: (1) field studies of natural fault zones, and (2) laboratory studies of timedependent friction behavior.
+SUMMARY
+Field studies of natural fault zones. Field studies are still in progress along the Palochic fault zone in Guatemala. A part of the zone which is actively creeping is being studied to characterize the physical properties. Correlation of the field data with the results of current laboratory studies will be used to infer mechanical processes. As the field work is still in progress, final results will be delayed until a later time, but presently some tentative observations can be made. The original trace of the fault had one very large and several broad sinusoidal bends to it. As the fault displaced, one block overrode the other, forming depositional basins. The rocks in the depositional basins have subsequently been faulted to form slivers which give the fault a braided form. The active displacement zone appears to get progressively narrower as slip progresses. This will produce higher shear strains. This model is similar to that proposed by Crowell for segments of the San Andreas and other faults. It also agrees with observations of experimental studies of simulated fault zones. Further petrofabric studies of samples should provide insights into the operative mechanical processes.
+Laboratory studies of time-dependent friction behavior. During the latter part of this contract period we have directed our effort toward developing a physical basis for some of the complex phenomena observed in friction experiments from both our and other laboratories. A model is proposed which follows closely that of Dieterich (1978, 1979) and of Johnson (1980), but which, in addition, is strongly influenced by the earlier works of Rabinowicz (1957) and Kragelskii (1965). The model attempts to provide an explanation for the observed phenomena of (1) the strengthening of frictional surfaces with increasing time of contact (Dieterich, 1978; Teufel and Logan, 1978), and (2) the weakening of intact rocks with increasing time of deformation (Stesky et_ a,l_., 1974). The model is then compared with the experimental data of this laboratory and other workers. The conclusions of this analysis are:
+(1) A necessary but not sufficient condition for the occurrence of stick-slip in a frictional system is that the system must exhibit an inverse dependence of shearing resistance on shear strain rate or shear displacement rate, at the conditions under which it is being deformed.
+
+IV
+(2) In order that the system may possess this characteristic, the strain rate sensitivity of the applied stress must be greater for deformation of asperities normal to the surface than for shear, by an amount which exceeds the reciprocal of the exponent in the geometric distribution function describing the variation of asperity heights across the surface.
+(3) It might be expected that inverse strain-rate effects are more often associated with polished, than with rough, surfaces.
+(4) Condition (2) (above) is most readily met when a positive gradient in the mechanical properties with depth exists, such that, for a given stress, the constitutive relation for creep of adhesive junctions leads to higher strain rates than that for creep of the bulk material, and the two relations are independent of each other.
+(5) Inverse strain-rate effects lead to a microstructure that is characterized by discrete zones of relative displacement, and which is therefore highly heterogeneous. Evidence that a shear zone has deformed only by homogeneous flow, precludes the possibility that the zone may have undergone unstable frictional slip, and is therefore diagnostic of stable deformation. Conversely, regions of a fault that have deformed unstably should display heterogeneous deformation features, i.e., discrete slip zones within relatively undeformed material.
+
+TABLE OF CONTENTS
+
+Page PREFACE ................................ iii
+
+SUMMARY
+
+iii
+
+SECTION I FIELD STUDIES OF NATURAL FAULT ZONES ............ 1
+
+SECTION II-LABORATORY STUDIES OF TIME-DEPENDENT FRICTION BEHAVIOR ............................. 26
+
+REPORTS ................................ 81
+
+SECTION I PRELIMINARY RESULTS: FIELD INVESTIGATION OF THE STRUCTURE AND DEFORMATION
+ENVIRONMENT OF THE POLOCHIC FAULT WESTERN GUATEMALA*
+Introduction
+Recently, the failure to predict various moderate-size earthquakes (Bakun, 1979) has led to the realization that the present approach to prediction, which has emphasized geophysical and geodeditic monitoring of precursive events, . rationalized by the "dilatancy theory" has been inadequate. Other avenues of research have also had limited success. Theoretical fault models have been contructed to derive the constitutive properties of fault zones (Stuart, 1979). Yet, these are still oversimplified, as additional data on the properties of naturally sheared rock and of the stress-displacement boundary conditions are needed. Laboratory experiments have been useful to help understand the frictional properties of rocks, as well as the development of fabrics within shear zones (Friedman and Higgs, in press). Laboratory experiments suggest that certain physical property changes occur within shear zones, such as grain size and porosity reduction, and a concentration of the displacement site (Logan and others, 1979). Yet, these observations have to be correlated with processes in nature. A direct extrapolation to the natural environment is difficult to do because of the scaling problems in relating the short term, small displacement experiments, done in homogeneous rock. As the limitations of the theoretical and experimental studies are realized, it is becoming apparent that additional field work is needed to understand the structure and deformation environments of seismogenic faults.
+*Carlos A. Dengo
+
+In this respect we chose to study a 40 km segment of the Polochic fault in western Guatemala (Figures 1 and 2). The Polochic is a seismically active, strike-slip fault, with a postulated left-lateral displacement of - 123 km (Burkart, in press). The details of the fault and study area are given in the following sections.
+The data presented in this report are preliminary. First, we will discuss briefly some of the general aspects of the fault and point out some of the structural complexities of the fault. Secondly, we wish to establish the nature of the deformation observed within the fault zone. Most of the descriptions will be qualitative. The results obtained from detailed petrographic analysis will be presented in future reports.
+General Features of the Polochic Fault
+The Polochic fault is a major active, east-west trending, leftlateral, strike-slip fault which extends across the southern part of Chiapas, Mexico, all of Guatemala, and eastward into the Caribbean Sea as part of the Cayman Trough (Figure 1) (Burkart, 1978; Muehlberger and Ritchie, 1975).
+Most commonly, the Polochic is associated with two other major eastwest trending strike-slip faults, the Jocotan and Motagua faults (Figure 1). These three faults bound a zone of intense deformation and metamorphism which, in accordance with modern concepts of global tectonics, represent the boundary zone between the Caribbean and North American plates (Muehlberger and Ritchie, 1975). The Jocotan fault is the only one of the three of which there is some doubt about present activity. Clemmons (1966) and Muehlberger and Ritchie (1975) state that the fault is not currently active as indicated by numerous graben structures that
+
+Figure 1. Map of Guatemala showing the three major east-west striking strike-slip faults (from Bonis and others, 1970). The area of study along the western Polochic fault is within the three blocks shown, which correspond to the San Sebastian Huehuetenango (1), Chiantla (2), and Huehuetenango (3) quadrangles.
+
+92°W
+I6°N-
+15°-
+14°-
+
+cross-cut it. Yet, Harlow (1976) points to instrumental seismic records prior to 1976 of earthquakes which can be associated with the Jocotan fault. Activity along the Motagua fault is the easiest to document since it underwent an average of one meter of left-lateral slip during the 1976 earthquake (Plafker, 1976).
+Recent activity along the Polochic fault is substantiated by several independent criteria. Although accounts of historical seismicity are difficult to obtain (because the fault crosses a large unpopulated area and because of a lack of proper instrumentation) a record of historical seismicity for Guatemala, from 1902-1974 (Spence and Person, 1976), shows that along and in the vicinity of the Polochic fault there have been numerous seismic events with body wave magnitudes of at least 6. Moreover, these events are distributed along the trace of the fault and are not confined to any particular segment of it. Harlow (1976) also finds evidence for seismic activity, particularly along the trace of the fault in western Guatemala. On the eastern part of the fault recent activity is indicated by Quaternary stream offsets, ridgehill topography, springs, slumps, and landslides (Schwartz and others, 1979). In the areas of Tactic and Uspantan (see Figure 1) congressional sag ponds, indicative of current activity, have been observed (D. Schwartz, personal communication, 1978). In western Guatemala, river valleys offset 65-135 meters offer additional evidence of recent movements (Kupfer and Godoy, 1967; Anderson and others, 1973; Burkart, 1978, in press).
+The amount of total displacement, as well as the age of the movements along the Polochic fault have been a subject of controversies. Anderson and others (1973) state that the minimum displacement along the Polochic is 1 km vertical and 1 km horizontal. Anderson (1969, and
+
+personal communication, 1979) also states that the horizontal displacement cannot exceed 5-10 km. Kesler (1971) concludes, from studies of the relationships of the basement rocks on both sides of the fault, that the maximum horizontal displacement cannot exceed 150 km, and that 100-120 km is more likely. Burkart (1978) reconstructed Cenozoic and older structures and pre-Cenozoic stratigraphy across the fault and calculated a left-lateral displacement of 132 +_ 5 km. Further examination (Burkart, in press) of these features, and of the geomorphological matches across the fault, suggests a best fit at 123 km.
+The age of the movements along the Polochic have been defined only in a broad sense. This stems in part from problems in determining the interaction (time-displacement) between the Polochic, Motagua, and Jocotan faults. Anderson and others (1973), Bonis (1967), and Blount (1967) state that there are movements dating to the Late Cretaceous (Turonian-Senonian). Burkart (1978) does not rule out pre-Cenozoic movements, but suggests that based on his reconstruction and on the possible distribution of shear strain between the Polochic, Motagua, and Jacotan faults, initial movement began in Middle Miocene.
+Description of the Study Area
+Figure 2 outlines the study area. Approximately a 40 km segment of the fault, by about 3-5 km on both sides, in covered. The area is within parts of three 10 by 15 minute topographic quadrangels. Excellent geologic maps are available (1:50,000 scale) and these were done by Blount (1967; Chiantla quadrangle), Anderson (1969; San Sebastian Huehuetenango quadrangle), and Collins and others (1967; Huehuetenango quadrangle, not shown in Figure 2).
+
+Figure 2. (A) Geologic map of Chiantla and San Sebastian Huehuetenango quadrangles done by Blount (1967) and Anderson (1969) respectively. The lithologic key and symbols used are shown in the two accompanying pages. (B) Map of the area outlining some important features, primarily north of the fault, which are discussed in the text. The dotted trace of the fault represents where it is covered by Quaternary pumice, ash, and alluvium. PI is a strike-slip fault which we interpret as the original trace of the Polochic fault. It has an 'S-shaped 1 trace which differs from the present, straighter trace of the fault. Arrows A and A 1 represent the best exposed portion of the fault (A being at Lo de Chavez and A 1 at Aguacatan).
+
+GO
+I5°25'N
+
+SAN SEBASTIAN HUEHNETENANGO j
+QUAD
+
+CHIANTLA QUAD
+
+9I°3B'W
+
+B
+
+15° 2O* N 9I°I5'W KM
+A
+
+EXPLANATION
+
+Qal
+Oall j Qal2 |
+
+Qal. nonpaired terrace, floodplain and channel deposits, Qall, terrace deposits 90-100 m above river level, Qal2, terrace deposits 110-120 m above river level
+Till
+Tc, ^olotenango beds, conglomerate, tuff, lahar, Tt, tuff, Tb, basalt.
+
+X CTt.'AOU
+
+Ul
+
+(t U
+
+Jts
+
+(j
+
+JURASSI
+
+\
+
+Bl
+
+z Pet J*
+* ;"" ;:>«"3 ^~- ^;-^^ -^=L^
+
+-i
+
+V R .- %J*IM
+
+Ixco7 limestone, Kis- southern facies, lithoclastic limestone, dolomite and dolomite breccia. Kin - northern facies, foraminiferal limestone, dolomite, and dolomite breccia.
+Todo3 Santos Formation, redbeds, mainly conglomerate, sandstone, siltstone, limestone in upper part.
+Chochal limestone
+Tulian member of Chochal limestone, siltstone and sandstone, fossiliferous limestone beds in lower part,
+Formation, interbedded shale and limestone.
+Tactic Formation,shale and sandstone.
+
+Chicol-Selegua Intrusive Rocks, quartz monzonite, .'T?nodiorite, quartz diorite and diorite.
+Chicol Formation, Calcareous sandstone and conglomerate, volcanic beds in upper part, quartz monzonite sills in lower part. Quartz monzonite.
+Diorite, gabbro, granite. gnh Gneiss including: hornblends gneiss and gneissic
+cnbam
+gnfs granodiorite (gnh), biotite gneiss and amphibolite (gnbam), hornblende and biotite schist (am), metaigneous rocks (gnmi)
+Cataclastic gneiss.
+Cataclastic schist.
+
+Serpentinite
+
+10
+
+SYMBOLS
+Fault, dashed where approximate, dotted where concealed, showing dip, bearing and plunge of grooves or striations, relative movement, upper -late.
+Contact, dashed where approximately located, dotted where concealed.
+
+Linear, mapped from aerial photographs.
+
+Fault zone or shear zone, showing dip, fault breccia,
+
+*i2 -» 21 pj 17 -e-
+
+Anticline or syncline, dashed where approximate, showing bearing and plunge of axis, indicated where overturned.
+Plunge of minor anticline, syncline, fold axis.
+
+35 ® X90 67* y '~*, 4\$S
+
+Strike and dip of beds, horizontal, vertical, overturned; up si.de 'unknown; undulating; bearing :nd plunge of elongated pebbles.
+
+4\ x ^36 X^~47
+
+24 l '
+
+65 -
+
+S' S
+
+.
+
+Strike and dip of foliation, showing bearing and plunge of slickensides ; vertical; parallel to bedding; plunge of lineation.
+Bearing and plunge of lineation; p, pebble; c, crinkle; others, mineral.
+Strike and dip of inclusion in igneous rock; cleavage, axial plane; joints.
+
+Line of measured section. (Taken from Anderson (1969), and Blount (1967))
+
+11
+Within the study area, as well as for a large portion of its trace, the Polochic fault separates approximately 7500 meters of Paleozoic and Mesozoic carbonates and elastics, north of the fault, from pre-Permian metamorphic basement rocks to the south. In the study area the sediments are uplifted with respect to the metamorphic basement, and form a large domal uplift of Laramide age. The southern flank of the uplift is the northern scarp of the Polochic fault. Thus, within a relatively small area the deformation of basement rocks, as well as that of the corresponding overlying sediments can be studied. A second reason for choosing this area in particular is because of the divergence between the regional structural trends and the strike of the Polochic fault. Here, the Laramide fold and thrust belt, north of the fault, strikes approximately N55°W, whereas the Polochic is essentially east-west. If the displacements are in the order of 123 km as suggested by Burkart (in press) the shear strain within the fault zone should be relatively high. As such, we thought that if such secondary features as faults, parallel to the master fault were developed, such as shown by Tchalenko (1970); Dengo and Logan (1979), and others, these features would easily be distinguished from pre-existing Laramide structures.
+In studying the deformation adjacent to the fault zone we noticed that there are several faults which have an anomalous orientation with respect to the Polochic fault. These are anomalous in the sense that they do not correspond to the faulting pattern expected to result by strike slip motion if it is assumed that the trace of the Polochic has always been where it is today. The most important of these are shown in Figure 2, and our structural interpretation is summarized below.
+
+12
+Our observations indicate that within this 40 km segment of the fault (see Figure 2) there has been a major shift in the active displacement site of the Polochic fault. To the west and east of the study area (Figure 2) the Polochic fault is approximately straight and strikes east-west. Within the study area the present trace of the fault strikes NW-SE and joins the two straighter traces, which are side-stepped by approximately 8 kms. North of the present fault trace (along the northern contacts of the southern facies of Ixcoy limestone and the serpentinite) there is a large strike-slip fault which connects with the present trace where its strike is east west. We interpret this northern trace as being the original Polochic fault. After an undetermined amount of displacement a restraining bend developed (Figure 2) in the fault trace. The subsequent structural developments are similar to those proposed by Crowell (1974) and involve a readjustment in the fault trace such that, for movement to continue, the fault has to by-pass the restraining bend. The present trace of the fault is a relatively young break and does represent a readjustment in the fault.
+At this time we will not discuss this model further. Clearly though, detailed field investigations of strike-slip faults will reveal structural complexities of this type, which as a whole may be common. It is also important to realize that a study of the deformation within a fault zone will be incomplete unless the larger scale kinematics of the fault (or "loading system") are understood.
+Description of Fault Zone and Deformation Observed
+Although the generalization can be made that the Polochic fault separates sedimentary rocks from metamorphic basement rocks, it is clear
+
+13
+that each of these two groups comprise several distinct lithologies. Variations of rock types, along strike, are common, and if treated as individual mechanical units, the analysis would be complex. In view that our objective is to determine the environment of deformation, it is more suitable to classify the different rock-types according to common deformation characteristics. That is, different rocks may all be indicative of one common deformation process. We will follow the classification schemes proposed by Higgins (1971) and Sibson (1977), which basically consist of grouping the rocks according to their texture. Rocks are separated into those with a random shape (and crystallographic fabric) from those that show a penetrative flow (fluxion) structure. A further division is made on the basis of whether or not the rocks show primary cohesion. A proper classification is heavily dependant on microscopic observation. This phase of our study is just beginning and so we will only discuss the rock groups according to observations made in the field. Further refinements will be forthcoming as the petrographic work is completed.
+Cross-strike section. Figure 3 is a schematic, composite crosssection representing the best exposure of the fault zone (between Lo de Chavez and Aguacatan, see Figure 2). Based on field observations, the rocks within the fault zone fall within three broad textural groups: (1) cohesive cataclasite and microbreccia, (2) non-cohesive breccia and fault gouge, and (3) mylonites and augen gneisses.
+Typically, the total width of the fault zone ranges from about 1-2.5 km and not all rocks shown in Figure 3 are always found. From south to north the following is observed (Figure 3).
+A cataclastic meta-igneous rock (mapped as cataclastic gneiss by Blount (1967)) represents the widest zone of sheared rocks (Figure 4).
+
+Figure 3. Schematic composite cross strike section representing the fault between Lo Je Chavez and Aguacatan (see Figure 2). Arrows show qualitatively the direction in which grain size decreases, being finest in the limestone microbreccia and gouge.
+
+SCHEMATIC COMPOSITE SECTION THROUGH POLOCHIC FAULT ZONE
+
+100 meters II
+
+GRAIN SIZE DECREASES
+
+pseudotachyllte
+
+oo
+
+iin UJ o :§
+
+oO:
+
+8>i-0<_J)t
+^ 2 <j I<o
+
+Z UJ O UJ
+
+z8
+
+UJ P (ft
+
+H <n '
+
+Z<ort ~ o
+
+_J 2
+
+0.
+
+Xo
+
+o
+UJ 7t WZ
+
+</> o
+UJ O 5: UJ
+JCQ
+
+Figure 4. Photographs showing typical exposures of fault zone rocks shown schematically in Figure 3.
+a. Mesoscopically, structureless metaigneous cataclasite. The weathered, highly fractured appearance is typical.
+b. Mylonite gneiss. Foliation parallels the long dimension of the photograph and is parallel to the strike of the Polochic fault. Quartz porphyroclasts are easily visible.
+
+CD
+
+8
+Figure 4 (continued) c. 'Cinder-block 1 textured limestone microbreccia. d. Non-cohesive, pasty gouge. e. Stretched limestone pebble conglomerate located at contact with pasty gouge. Arrow points to bondings. The direction of elongation is coincident with strike of fault.
+
+O UJ
+
+20
+In places it is as wide as 4 km, but usually is in the order of 2 km. The rock is a mesoscopically structureless sericitized quartzo-
+feldspathic catalcasite and/or microbreccia. Crossing the fault, heading north, there is a small sheet of mylonites (with scattered occurrences of pseudotachylite) and augen gneisses (Figure 4b). Foliation in the mylonites parallels the strike of the Polochic fault and dips about 75°-85° to the north. A young granite intrusion separates the mylonites from the more commonly observed carbonate,fault breccias. The carbonate breccias (Figure 4c) and micro-breccias do not show any internal structure. The breccias are friable, highly porous and texturally resemble a "cinder-block" texture. Passing into the middle part of the fault zone the carbonate micro-breccias grade into a pasty, non-cohesive fault gouge (Figure 4d). Further northward these are in sharp contact with limestone microbreccias and breccias. Excluding the mylonites these breccias do show a remarkable internal fabric. First, there is a narrow band (a few tens of meters wide at most) characterized by a limestone stretched pebble conglomerate (Figure 4e). Length to width aspect ratios are as high as 15. Interfingered with these conglomerates is a distinctive band (which parallels the fault) where the limestone breccias are filled with calcite veins, which produce a penetrative fabric. An important observation is that the calcite veins occur within a highly fractured, but yet very lithified breccia. The "cinder-block" textured microbreccias on the other hand are very porous but lack the distinctive calcite infilling.
+
+21
+Discussion
+The field observations presented here, permit making some important generalizations about the fault zone deformation. First it is encouraging that, in the field, the rocks show distinct textural characteristics, and that these rocks group in a similar fashion to those observed along other faults (see Higgins, 1971; and Sibson, 1979). The textural types are not randomly distributed within the fault zone, but instead do have an ordered distribution.
+With the exception of the mylonites, the deformation observed represents a brittle, shallow crustal environment. Although for most part the contacts are gradational, there are specific contacts which differ. For instance, there is a sharp transition from the competent, calcite-filled limestone breccias, north of the fault, into the weak gouge-paste and porous limestone microbreccias towards the middle of the fault zone. Surprisingly, the transition from the gouge and microbreccias into the meta-igenous cataclasites is texturally not very pronounced. The textural variations and the lack of internal fabric in the limestone microbreccias and the gouge suggest that there is considerable small-scale strain heterogeneity across the fault zone. For a dominantly brittle environment, it does not seem likely that shear zone homogenization will result as a consequence of large shear strains. Instead the continual deformation will probably enhance the textural distribution within the fault zone. Also, it is striking that within the fault zone the material is apparently more porous and weaker than that outside the shear zone. This observation contrasts significantly with laboratory experiments on simulated gouge, which show that as
+
+22
+material deforms it is compacted and consequently strengthened (Shimamoto, 1977; and Shi and others, 1981).
+Lastly, the occurrence of mylonite gneisses within the fault zone is important to the understanding of the complex structure of the fault zone. The mylonite, which represent a deeper, more ductile, crustal deformation environment, is juxtaposed against brittle cataclasites. The contact between the mylonites and cataclasites is not well exposed. Yet, their structural position within the fault zone, and the fact that the dominant foliation consistently dips towards the fault suggests that these rocks may have been brought up along a high angle reverse fault. This is analogous to the relationship discussed by Sibson (1979) for reverse slip along the Alpine fault.
+We expect to refine our observations with the optical microscopy studies, such that we can achieve a better understanding of fault zone processes. Our preliminary observations are encouraging and do support our contention that conceptual mechanical fault models can be constructed on the basis of field investigations.
+
+23
+REFERENCES
+Anderson, T. H., 1969, Geology of the San Sebastian Huehuetenango quadrangle of Guatemala, Central America : Ph.D. Dissertation, Austin, Texas Univ., 218 p.
+Anderson, T. H., Burkart, B., Bohnenberger, 0., and Blount, D. M., 1973, Geology of the Western Altos Cuchumatanes, Northwest Guatemala: Geol. Soc. Am. Bull., v. 84, p. 805-826.
+Bakun, W. H., 1979, Seismic activity associated with the August 6, 1979 Coyote Lake earthquake (Abstract): EOS, Trans. Am. Geophys. Union, v. 60, p. 891.
+Blount, D. N., 1967, Geology of the Chiantla quadrangle, Guatemala: Ph.D. Dissertation, Baton Rouge, LA. State Univ., 135 p.
+Lonis, S. B., 1967, Geologic reconnaissance of the Alta Verapaz fold belt, Guatemala: Ph.D. Dissertation, Baton Roughe, LA. State Univ., 146 p.
+Bonis, S. B., Bohnenberger, 0., and Dengo, G., 1970, Mapa Geologico de la Republica de Guatemala: Guatemala, C.A., Inst. Geografico Nac.
+Burkart, B., 1978, Offset across the Polochic fault of Guatemala and Chiapas, Mexico: Geology, v. 6, p. 328-332.
+Burkart, B., in press, Geomorphic and geologic evidence of major offset on the Polochic fault of Guatemala and Chiapas, Mexico: Some plate tectonic implications: Geology.
+Clemmons, R. E., 1966, Geology of the Chiquimula quadrangle, Guatemala: Ph.D. Dissertation, Austin, TX. Univ., 123 p.
+Collins, E. M., Josey, W. L., and Stevens, W. E., 1967, Geology of the Huehuetenango quadrangle, Guatemala: Louisiana State Univ.,
+Crowell, J. C., 1974, Origins of late Cenozoic basins in southern California: jn_ Die kins on, W. R., ed., Tectonics and Sedimentation: Soc. Econ. Paleo. and Min., Spec. Pub. 22, p. 190-204.
+Dengo, C. A. and Logan, J. M., 1979, Correlation of fracture patterns in natural and experimental shear zones (Abstract): EOS Trans. Am. Geophys. Union, v. 60, p. 955.
+Friedman, M. and Higgs, N., in press, Calcite fabrics in experimental shear zones: Am. Geophys. Union Geophys. Mono. Series, "The Handin Volume."
+
+24
+Harlow, D. H., 1976, Instrumental recorded seismicity prior to the main event: j_n_ Espinosa, A. F., ed., The Guatemalan Earthquake of February 4, 1976, A Preliminary Report: U.S.G.S. Prof. Paper 1002, p. 12-16.
+Higgins, M. W., 1971, Catalcastic rocks: U.S.G.S. Prof. Paper 687, 97 p.
+Kesler, S. E., 1971, Nature of the ancestral orogenic zone in nuclear Central America: Am. Assoc. Petroleum Geol. Bull., v. 55, p. 21162129.
+Kupfer, D. H. and Godoy, J., 1967, Strike-slip faulting in Guatemala (Abstract): Trans. Am. Geophys. Union, v. 48, p. 215.
+Logan, J. M., Friedman, M., Higgs, N., Dengo, C. A., and Shimamoto, T., 1979, Experimental studies of simulated gouge and their application to studies of natural fault zones: in Proceedings of Conf. VIII, Analysis of Actual Fault Zones in Bedrock, U.S.G.S. Open File Report 79-1239, p. 304-343.
+Muehlberger, W. R. and Ritchie, A. W., 1975, Caribbean America's Plate boundary in Guatemala and southern Mexico as seen on Skylab IV orbital photography: Geology, v. 3, p. 235-237.
+Plafker, G., 1976, Tectonic aspects of the Guatemalan earthquake of February 4, 1976: Science, v. 193, p. 1201-1208.
+Schwartz, D. P., Cluff, J. S., and Donnelly, T. W., Quaternary faulting along the Caribbean-North American plate boundary in Central America: Tectonophysics, v. 52, p. 431-446.
+Shi, L. Q., Morrow, C., and Byerlee, J., 1981, Strain hardening of fault gouge during sliding (Abstract): Trans. Am. Geophys. Union, v. 62, p. 400.
+Shimamoto, T., 1977, Effects of fault-gouge on the frictional properties of rocks: An experimental study: Ph.D. Dissertation, Texas A&M Univ., 198 p.
+Sibson, R. H., 1977, Fault rocks and fault mechanisms: Jour. Geol. Soc. Lond., v. 133, p. 191-213.
+Sibson, R. H., 1979, Fault rocks and structure as indicators of shallow earthquake source processes: j_n_ Proceedings of Conf. VIII, Analysis of Actual Fault Zones in Bedrock, U.S.G.S. Open File Report 79-1239, p. 276-291.
+Spence, W. and Person, W., 1976, Tectonic setting and seismicity: in Espinosa, A. F., ed., The Guatemalan Earthquake of February 4, 1976, A Preliminary Report: U.S.G.S. Prof. Paper 1002, p. 4-11.
+
+25
+Stuart, W. D., 1979, Quasi-static earthquake mechanics: Rev. Geophys. and Space Phys., v. 17, p. 1115-1120.
+Tchalenko, J. S., 1970, Similarities between shear zones of different magnitude: Geol. Soc. Am. Bull., v. 81, p. 1625-1640.
+
+26
+SECTION II LABORATORY STUDIES OF TIME-DEPENDENT FRICTION BEHAVIOR*
+Introduction
+During the latter part of this contract period we have directed our effort toward developing a physical basis for some of the complex phenomena observed in friction experiments from both our and other laboratories. A model is proposed which follows closely that of Dieterich (1978, 1979) and of Johnson (1980), but which, in addition, is strongly influenced by the earlier works of Rabinowicz (1957) and Kragelskii (1965). We suggest that the concepts developed herein with respect to the frictional processes occurring between two discrete surfaces may be worthy of much broader applicability, with ramifications for the deformation of shear zones and porous, sedimentary rocks, or in general, any material that exhibits pressure-dependent deformation behavior.
+In light of the proposed model, relaxation data from room temperature and high temperature shear-zone experiments are analysed. The results not only are consistent with previous work by Rutter and Mainprice (1978), but also provide compelling evidence in support of the model's explanation for the apparent insensitivity to temperature of frictional shearing resistance; a paradox discussed more fully in our earlier report (Logan, 1980). For completeness, we include a summary of some pertinent aspects from the discussion in that report.
+The report is subdivided as follows: (1) a review of the literature pertinent to the development of the model, (2) development of the model,
+*N. G. Higgs
+
+27
+(3) review of earlier discussion on paradoxical effect of temperature, and (4) analysis of relaxation data from our current, and ongoing, experimental effort.
+Previous Studies
+Normal load dependence of friction. From both scientific and historical standpoints, any attempt at formulating a theory of friction should begin with two basic laws, first clearly described by Leonardo da Vinci in the 15th century, rediscovered by Amontons in 1699, and verified by Coulomb in 1785. In da Vinci's words (MacCurdy, 1938): "Friction produces double the amount of effort if the weight be doubled" and "The friction made by the same weight will be of equal resistance at the beginning of the movement although the contact may be of different breadths or lengths." Re-stated, the laws establish that frictional resistance is directly proportional to load, and is independent of the apparent area of contact. Subsequent work by Bowden and Tabor (1939, 1950) and by Kragelskii (1943, 1965), demonstrated that the real area of contact between contacting surfaces is only a fraction of the nominal area, and is approximately proportional to the normal load and independent of the nominal area. This provides an explanation for the empirical laws if one assumes that frictional resistance is directly proportional to the real area of contact. Such an assumption follows from the adhesion theory of friction (Bowden and Tabor, 1939), wherein the frictional force arises because of the existence of molecular bonds at asperity contacts, i.e., the frictional ,force is directly proportional to the number of bonds, which in turn is proportional to the real area of contact. The coefficient of friction, y, is the constant of proportionality between the frictional resistance and the normal load.
+
+28
+
+Using a thermodye technique, Teufel (1976), measured the real area of contact as a function of normal stress for ground surfaces of Tennessee Sandstone, and verified the approximately linear relation. He showed that, with increasing normal stress, the real contact area increases not only because of an increase in the number of contacting asperities but also because of an increase in the area of individual contacts. This result differs somehwat from studies of metals (Kragelskii, 1965), for which the increase in real contact area with load is determined primarily by an increase in the number of contacts. However, the net effect in terms of total, real contact area is the same in both cases. An elastic model (Kragelskii, 1965, p. 43), which represents the asperities by an assembly of cylindrical rods whose variation of height across the surface is described by a distribution function, predicts that the relation between real contact area and normal stress should be of the form:
+a -_ cr,a2v/(2v + 1)
+
+where a is the fractional area of contact (ratio of real contact area,
+
+A to nominal area, A ), a is nominal normal stress, c, is a constant
+
+W II
+
+I
+
+that depends upon elastic properties and asperity geometry, and v is
+
+an empirical parameter that varies with surface roughness. For polished
+
+and ground surfaces, v is commonly 3. Kragelskii's model is plotted for
+
+comparison with Teufel's data in Figure 5. The undetermined geometric
+
+parameters, B and v, for Teufel's surfaces precludes an evaluation of
+
+the efficacy of this model in precisely fitting the data, but the form
+
+of the stress dependence and its deviation from linearity is demonstrated.
+
+Also, the contact at these high normal stresses is probably inelastic,
+
+fD ' £ ' O 3-
+O< * fD in -s rt ^ fD O II <
+i/> o O ro-CO cr_ti. fti <. O 3 OJ 3 CX 3
+CX Si. m
+3- m
+fD II
+oo -s
+CO
+II o
+XO
+ro o
+O rt
+IS rt OJ
+-H fD fD -S C fD
+Ul || CX Co fv rt OJ 00
+o» -s
+-S OJ fD 3 CT fD fD l/>
+rt cr
+2sr
+rt fD fD
+CT 3
+rt rr (D 1/1 cx
+
+O
+ui
+CD
+ro + ro
+m ro ro
+
+0 r3t- O-h 3" -"
+
+fD UD
+
+C
+
+ex. -s
+
+3fD
+
+O C
+
+fD 3
+
+fD
+
+fD
+
+_i. CX.
+
+rt Ui
+
+oo*
+
+o-s
+
+fD
+
+l/> fD
+
+O OJ
+
+OO fD
+
+o-J i-d$ II 00 cr OJ
+
+ex. o OJ OJ O
+
+I/) C
+
+ex. 1 rt
+
+""^ CX Qj I/)
+
+O
+
+TV 1 «/»
+
+c3x. rot fD
+
+OJ
+
+OJ C
+
+-O «
+
+iQ -S 00 fD
+
+fD m
+
+-h OJ o
+
+II
+
+l3/»-
+
+fD in fD
+
+O o 3
+
+?<r fD
+
+fD 3 rt
+
+O OJ rt OJ
+
+O
+
+-fDS
+
+feDx.
+
+CX OJ
+
+rt
+
+to -
+
+rt OJ 1 OJ OJ 1
+
+en 3
+UlUD
+
+fD in
+
+rt
+
+-h f»D
+
+fD -S -
+
+3 OO rt 3 P
+> -H OJ
+
+rt O fD tn
+
+fD f.D i fD
+
+C -h OJ
+
+fD -Q
+
+- . fD
+
+U)
+
+fD -4 ~t>
+
+C3 OJ < OJ rt O
+
+-O
+
+rt to rt fD
+
+O
+
+c en
+fD OJ O- 0C»X -h O-h CX 3 C fD O
+rt CX -S 3 _.. O
+o ~i tn -s
+3 fD -J 3 ed O O>
+-», -,. c '
+003 -S 3 O- l/»
+rt rt CT l/> "J
+o ^< fD C fD
+
+- S. -t, u> O fD OJ * OJ fD O
+3 fD U Ul
+
+oz
+(A H
+ri2nn)
+
+FRACTIONAL CONTACT AREA ,
+
+30
+in which case the elastic model would not be expected to fit the data precisely.
+Time dependence of friction. Another aspect of friction that has been widely documented is a time dependence of the coefficient of friction, y. Kragelskii (1939) recognized that the approach of surfaces, and hence the real contact area, depends on the duration of action of the normal load, and consequently that there must be a relation between the frictional resistance and the rheological properties of the asperity junctions. Hunter (1944) obtained experimental results for pivot bearings indicating an increase in the frictional force with duration of static contact, and Dokos (1946) obtained similar results for steel, expressing the static coefficient as a linear function of the logarithm of time. Dieterich (1972) demonstrated this same functional dependence for a variety of rocks, with normal stresses ranging from 2 to 85 MPa, and noted that the time effect was contingent upon the generation of gouge between the rock surfaces. In keeping with previous theories (Bowden and Tabor, 1964; Kragelskii, 1965), Dieterich explains the increase in frictional resistance with duration of static contact by a time-dependent increase in the real contact area.
+Similarly, there have been many studies of the variation of the friction coefficient with sliding velocity. This was first investigated by Coulomb (1785), although he concluded that for frictional sliding of like materials, the shearing resistance is almost independent of sliding speed. He did, however, observe slight dependencies for some materials. As early as 1875, the Italian scientist Conti established an important relationship between the friction coefficient and sliding speed
+
+31
+y passes through a maximum with increasing velocity. This was verified by Kimball (1877), and has been shown to be a general property of many solids. Dieterich (1978, 1979) demonstrated an inverse relation between friction coefficient and sliding velocity for Westerly Granite and a granodiorite, while Teufel and Logan (1978) demonstrated a similar effect for Tennessee Sandstone. Using a thermodye technique, they showed that with decreasing displacement rate, over the range 10"_p to 10"_c cm/s, the real contact area increases, not because of an increase in the number of contacting asperities but because of creep at the individual contacts. The increase in frictional resistance with decreasing displacement rate is interpreted in terms of the increased real contact area.
+The relation between the dependence of the friction coefficient on sliding velocity and on duration of static contact was recognized by Kragelskii (1965, ch. 7, equation 10) and by Dieterich (1978, equation 5): the average duration, t, of a population of contacts during sliding at velocity, V, is given by:
+t = k/V
+where k is a constant with the dimensions of length. According to Dieterich (1978), this constant represents the displacement necessary to change completely the population of contacts, and depends on surface roughness. Kragelskii (1965) provides an explanation for the observed maximum in the friction-velocity relation in terms of two processes competing against each other. He notes that an increase in sliding velocity reduces the time interval between contacts, causing a reduction in the contact area, and therefore a reduction in frictional resistance, but that "viscous effects" cause frictional resistance to increase with
+
+32
+increasing velocity. Depending on which effect dominates, the frictionvelocity relation will exhibit a net-negative or net-positive characteristic, respectively. This reasoning is also adopted by Dieterich (1979) and by Johnson (1980).
+Temperature dependence of friction. The effect of temperature on frictional resistance can differ, depending upon the material and the circumstances. For this reason, we restrict the discussion here to those effects observed for rocks. In general, frictional strength is reported to be independent of temperature up to some temperature (usually between 300° and 600°C), where the onset of intracrystalline deformation processes begins to affect the material response, for example: Raleigh and Paterson (1965), Brace (1972), Stesky et al. (1974). However, there is some evidence for increases in frictional strength with temperature, for example: Drennon and Handy (1972), for frictional sliding of limestone and hornblendebiotite schist, and Friedman et al. (1974) for sandstone. The experimental work reported here addresses this problem in more detail, and is discussed later. It is sufficient here to note that increases in frictional strength with temperature, and even temperature independence of frictional strength, are effects contrary to those expected on the basis of the Arrhenius equation (Glasstone et al., 1941):
+k - Ae- E/ RT
+where k is reaction rate, A is the frequency factor, and E is activation energy. This equation is well established from rate-process theory and should be applicable to any process involving a rearrangement of matter. It predicts that increases in temperature should lead to higher reaction
+
+33
+rates, which in turn imply lower strengths for an imposed, boundary strain rate.
+Bowden and Tabor (1950), and Kragelskii (1965), discuss the effects on frictional behavior of the temperature rise caused by frictional heating. This effect severely complicates analysis, and is not considered in this study. Teufel (1976), and Teufel and Logan (1978), measured contact temperatures during frictional sliding of dry Tennessee Sandstone. They concluded that contact temperatures do not rise significantly above the ambient temperature when the sliding mode is stable and the shear dis-
+_2 placement rate is < 10 cm/s. However, for unstable frictional sliding (stick-slip), maximum temperatures above 1000°C and average surface temperatures of 115-135°C are reached.
+The dual nature of friction. Kragelskii (1965) points out that frictional resistance has a dual, molecular-mechanical nature: i.e., that friction arises because of both a mechanical interaction due to the mutual interpenetration of individual contact points, and a molecular interaction due to the mutual attraction between the surfaces. Much discussion has revolved around the relative contributions of each process. Clearly, the mechanical interaction does not depend simply on the area of contact as does the molecular interaction. Therefore, if the mechanical interaction dominates, it would be incorrect to assume that the frictional resistance is directly proportional to the real area of contact. It is worth noting that the molecular interaction (adhesion) varies inversely as the fourth power of distance, and therefore it is in practice either negligibly small, or leads to the formation of a strong bond. Thus, from a rock-mechanics standpoint, the high normal stresses encountered in crustal environments should lead to asperity contacts intimate enough
+
+34
+that adhesion should play an important role. This reasoning is used in the following analysis, which was stimulated by, and is based upon, the works of Rabinowicz (1957), Kragelskii (1965), Dieterich (1972, 1978, 1979) and Johnson (1980).
+Development of Model
+At the outset, it should be pointed out that although the discussion is primarily concerned with the processes occurring at contact junctions between two discrete surfaces, generalization to multiple contacting surfaces, and hence to shear zones and polycrystalline aggregates, is not immediately excluded.
+Before proceeding with the theory, two observations are made concerning the deformation of a material under conditions for which it exhibits considerable ductility. These observations are subsequently adopted as generalities and must therefore be regarded as assumptions with supportive evidence. For ductile deformations:
+(1) the response of the material to a stress or strain-rate input is approximately independent of mean stress (confining pressure), and
+(2) the strain rate dependence of deviatoric stress has a positive characteristic (i.e., it is an increasing function of strain rate).
+Characteristic (1) is a common observation for most crystalline materials at high confining pressure and temperature, its most familiar manifestation being that of a Mohr envelop "curving to horizontal." It gains justification at the atomic scale from a consideration of the effect of pressure on the periodic lattice forces. Characteristic (2) is also a common observation, and follows indirectly from rate process theory. These characteristics appear to be fundamental of the rheologic
+
+35
+
+response of fully-dense ceramics, metals and rocks (i.e., crystalline solids without porosity), and provide a basis upon which the development of the theory rests. Thus, any deviations from these characteristics are assumed to represent effects which are unrelated to the continuum behavior of the crystal lattice itself.
+Basic equations. Consider a rough surface of nominal area, A , in contact with a theoretically smooth surface (Figure 6). The real contact area, A , is the sum of all the discrete contacts, A-:
+n Ac --l } Ai
+
+The total normal force, N, is partitioned among the discrete contacts
+
+such that:
+
+n N = I N.
+i=l 1
+
+In general, neither the normal force, N., nor the normal stress, a., at individual contacts is the same for all contacts. This arises because
+
+of stiffness inhomogeneities in the asperity field, and because of variations in asperity height across the surface. However, the average normal contact stress, a , is:
+%
+
+N/Ac or a/a,
+
+where a = N/An and a = Ac/An . The bulk deformation of the surface in
+
+this direction might be expected to constitute a response to this average
+
+stress. Similarly, the total tangential shearing force, S, is equal to
+
+the sum of the forces necessary to shear each contact. Hence:
+
+n
+c_r o
+
+n
+-Vc/A
+
+where t = S/An « In general, each discrete contact has a different
+
+35,
+
+A, , T
+
+N
+An
+
+A c = I Ai
+Figure 6. Parameters related to the loading of two discrete surfaces. The surfaces, of nominal area, An , when loaded by normal force, N, and shearing force, S, contact at n discrete contacts, each of area, A-}, and .specific shearing resistance, T*. The real contact area, AC , is the sum of all the discrete contacts.
+
+36
+
+specific shearing resistance, T.*. Assuming that frictional resistance
+
+is proportional to the real contact area:
+
+TI.* = Si./Ai.
+
+and hence
+
+n T - TT _TT.*A'.i/nA .
+
+Clearly, the determination of each T.* and A. is impracticable, and hence the average specific shearing resistance, T*, is defined as:
+
+Then:
+
+t = r*Ac/An
+= QT*
+
+This equation is identical with that used by Kragelskii (1965, ch. 7, equation 1), Dieterich (1979, equation 5), and Johnson (1980).
+Nature of the time dependence. Logically, the next step is to include the time dependence of static and sliding friction in the equation for frictional resistance. The observation that the real contact area depends on the duration of action of the normal load (i.e., the history of loading), suggests that the real contact area might be expressed as a functional of the normal load:
+
+and by normalizing the equation with respect to the nominal area:
+a = a{a}
+where the brackets indicate that a depends on the history of a, and not just its instantaneous value. Assuming that the function is linear,
+
+37
+
+(i.e., it satisfies proportionality and superposition), and assuming
+
+isothermal behavior, the functional may be expressed in the integral
+
+form:
+
+t
+
+a(t)
+
+=
+
+/
+* oo
+
+anu (t-^)-rQ7c- d£
+
+where a,, is the time-varying response due to a unit, step-load input.
+
+It will be shown later that aun depends on both the rheological proper-
+ties of the contacts and the geometrical characteristics of the surface.
+
+If, in addition, au depends upon the normal stress, a, the functional is
+n
+nonlinear and should be treated by the multiple integral representations
+
+of nonlinear viscoelasticity (Findley et al., 1976). However, an approxi
+
+mate method using a modified superposition principle (Findley and Lai,
+
+1967), where au is assumed to depend on the stress history, may prove
+n
+suitable:
+
+-" f
+
+Once the unit response function, a,,, is specified, either from experiment alone or with the aid of theory, the fractional area of contact for an arbitrary loading history may be calculated using these integrals. This means, in turn, that the shearing resistance may be determined in terms of a general, normal-stress history.
+Schapery (1978, 1979) has recently applied linear viscoelasticity theory in developing analytical models for contact problems associated with rubber friction. His analysis is primarily concerned with the deformation component (mechanical interaction) of rubber friction, but it is interesting to note that it is capable of explaining some of the characteristics discussed earlier for crystalline materials, such as the
+
+38
+maximum in the friction-velocity curve. Rheological properties of the contacts. So far it has been assumed
+that the specific shearing resistance, T*, is constant. In general, T* depends on the instantaneous values of temperature, shear strain rate (or sliding velocity), and a structure parameter, s. For plastic flow of crystalline solids, these dependencies are usually incorporated in a constitutive equation of the form:
+The structure parameter incorporates those features of microstructure that influence the creep rate, and which are sensitive to the history of deformation. The effect of this variable is normally not accounted for in flow laws, where it is commonly incorporated in the proportionality constant of the equation. As clearly stated by Dorn (1957), an example of the effect of the structure factor is the transient creep commonly observed in creep testing of metals, ceramics and rocks:
+"If the structure had remained constant during an isothermal constant stress creep test, the creep rate would have been constant and the creep-time curve would have been a straight line. Obviously the observed changes in creep rate during creep under constant conditions of the external variables of stress and temperature must arise from changes in the internal variables of metal substructure resulting from the creep process itself." The time-dependent increase in real contact area associated with the history of loading, discussed above, is one such mechanism belonging in the structure term of Corn's constitutive equation. Other mechanisms,
+
+39
+
+probably related to intracrystalline rather than intercrystalline pro-
+
+cesses, may also exist. However, if the transient portion of a creep
+
+curve can be completely accounted for by the measured (or expected)
+
+changes in real contact area, then the constitutive equation for the
+
+crystalline material itself may be, simply, an equation of state between
+
+the variables stress, strain rate, and temperature.
+
+For the purpose of the present analysis, the flow law appropriate
+
+to T* is assumed to be structure independent and, for the time being,
+
+isothermal behavior is assumed. Since the nature of the deformation
+
+mechanisms at asperity contacts have not yet been alluded to, the correct
+
+form for f-i,(a.I j.) is open to suggestion. The power law is a versatile function commonly used to represent the stress dependence of strain rate,
+
+and depending on the value assigned to the exponent, it can encompass the
+
+behavior of several known deformation mechanisms. Hence it will be used
+
+in this analysis:
+
+eij _- AAoijn
+
+where A, n are constants. Geometrical characteristics of the surface. The shape of asperities
+and their variation of heights across the surface define certain geometrical characteristics that determine how a varies with the approach, e, of two contacting surfaces (see Figure 7). If the number of asperities is large enough, their shape is of secondary importance, and the geometrical characteristics can be defined in terms of a distribution function of asperity heights, where each asperity is represented by a cylindrical rod This model has been used by Kragelskii (1943, 1965) in studies of static
+
+£ CT rt- -H ' ~n
+
+-* 'Zr zr 3 -*
+
+rt- rt ru ' IQ
+
+zr-o
+
+rt- sz
+
+CD -5 BI ' -5
+
+CD -^ rp ~c BI re
+
+II CT O> -5
+
+*«J
+
+O rt- O to .
+
+i -- o n -o
+
+' n 3 zr fii 3=>
+
+O « ~5 to
+
+- Q.
+
+B) -C
+
+' r rt- (D < </> p n -*. -5
+
+rt- O >
+n --s*. H n -3 <n<-
+
+UJ CT CO > C r, S S Q. rt < **^ « >
+
+»S
+
+tO
+
+O « &> rt-
+
+3 S n- -5
+
+3- 0
+
+S CD BI N CT
+* ^ sz rp sz
+
+rt- ru to -5 <-)-
+
+zr rp o -*
+
+CD to
+
+o
+
+CD 33 B) BI O to
+
+II 3 3 -5 Cu = ~5
+
+- < 3 <~O
+
+0 -5
+< -B5I -r5p o ' trot) ii rp BI BI rt>
+
+ro o trto> »CL 3rt-
+
+«o
+
+rt>
+
+n 3to -3* -Bo> Q.
+" - *' rt- "O CT
+
+BI rt- -5 <<
+
+-a*. 3rt- rzpr BOI -5
+
+to to r> o
+
+rt- -h ZT Q.
+
+-5- -o5- rp 3
+
+CT O B1 O
+
+SZ BI rt- O Q.
+
+o r- 3 o »
+3 "^^ BI rt-
+
+1/5 3 J 3" <"^
+
+rp rt> 7^
+
+rt- B) BI ~5 -5
+
+«< -S -S
+
+B»
+
+' CL BJ *< n>
+
+o*
+
+j
+
+BI to o > to
+
+" ^ rt- "h S ^^
+
+O --5> 0 O -->*
+
+-h CT O 3 >
+
+to Cn- 3n- BI '
+
+"1 "' B1 "O WD
+
+O O O ~O Cfr
+c3 3 n- i.' >e_n^
+
+CL S n
+C B>
+
+BI rt- n3 ZT 1! -*' -H {*^ O S
+
+CD > 3 O
+
+"O O O II ^v. O -5
+
+' > -h O
+
+' '3
+
+C
+
+(/) » » 3 10
+
+zr o zr
+
+rD < BI -5
+
+CL n nn B=I tsoz
+
+to O ' -5
+
+SZ ' -5
+
+-h
+
+--5h > C- L o ' BnI
+
+BI 3 BI rp
+
+O <£ Q. to
+
+to rt- O
+
+T| ^
+O H O ^j ^
+r ^>
+"n
+mP*
+On
+oo
+<y
+H ^> O H
+K
+
+APPROACH ,
+O
+
+41
+friction, and by Gangi (1978) for fracture permeability. Empirically, the variation of a with e is represented by the "bearing area curve," (Abbott and Freestone, 1933), and a power law relation of the form:
+a = B eV
+where B, v are constants, has been shown to be adequate for most purposes (Kragelskii, 1965). For polished and ground surfaces, B usually ranges between 4 and 10, and v = 3 (Figure 7).
+The relation between a and T*. An important point arises concerning the relation of a to T*. Clearly, creep of the contact junctions in response to the normal stress, a (Figure 8) occurs at a rate determined by the contact stress, a = a/a, and the rheological properties of the asperities. Similarly, creep of the contact junctions in response to the shear stress, T (Figure 9) occurs at a rate determined by the contact shear stress, T = T/a, and the rheological properties of the contact
+\+
+junctions. If the contact junctions are weaker than the substrate, then the rate of shearing is controlled by the rheology of the junctions. Kragelskii (1965) refers to this condition as a "positive gradient in the mechanical properties with depth," stating that when this condition is obtained, friction is controlled by the surface properties of the solids, and the deformation is concentrated in a thin surface layer, which leads to the development of very smooth surfaces. In this case, the rheology of the contact junctions may be independent of the asperity rheology, and therefore a may be independent of T*. However, if the contact junctions are stronger than the substrate, then the rate of shearing is controlled by the rheology of the asperities, and in this case a is dependent on T*, since both terms incorporate the asperity
+
+(T,, ( = <T )
+a)
+\ 0|2 i r )
+SHEAR ZONE
+V
+
+DISCRETE
+b) DEFORMATION
+o
+22
+////////////////7/7///W///Y//
+
+HOMOGENEOUS c \ DEFORMATION
+£ 1192 > ^12
+
+Figure 8. Notation for stress, displacement, strain and their time derivatives, in the context of shear zones, a) Normal stress, an^rc), and shear stress, ai2 (=?}, b) shear displacement, x£, and shear displace
+ment rate, x£, c) shear strain, q2, and shear strain rate, i]2-
+
+NOMINAL STRESS
+
+CONTACT STRAIN
+
+FRACTIONAL CONTACT AREA
+
+CONTACT STRESS
+
+or o
+OO
+
+t0 TIME
+
+Figure 9. Expected, qualitative variations with time of contact strain, fractional contact area, and contact stress for a step-input of nominal, normal stress, QO . In d), the contact stress, o c , is asymptotic to o0 (dotted line) if a approaches unity at long times.
+
+44
+
+rheology. Kragelskii states that for this case, "deformation will involve a large volume of material, the surfaces will be jagged and rough and, obviously, the tangential resistance will depend on the bulk properties of the solids and the friction will cause damage to a considerable depth of material." Previous analyses (Dieterich, 1979; Johnson, 1980), have generally treated a and T* as independent variables.
+Derivation of the contact creep function, an. We now proceed by deriving the contact creep function, au . We wish to determine how the
+n fractional contact area, a, varies as a function of time for a unit, step-load input. Figure 8 illustrates qualitatively how the variables might be expected to change with time. As stated previously, a,, depends upon both the rheological properties of the asperities, and the geometrical characteristics of the surface. Thus:
+
+*n = A a n n
+
+(1)
+
+a = B £ll V
+
+(2)
+
+where (1) is the rheologic constitutive equation and (2) is the distribution function describing surface geometry. Note that a-,-,, e-,-, and e,, refer to components normal to the surface, and that a-,-, is really a , the contact stress. Therefore, equivalently:
+i = A(a/a) n
+where a is the nominal normal stress across the surface, and where the subscripts have been removed for convenience. Since:
+= (a/B) 1/V , and d, = (l/vB 1/V )a (1 - v)/Vda
+
+we may write:
+
+vAB 1/Van dt
+
+45
+
+Since a is a step input, a , independent of time for t>t :
+
+where c(a ) is an integration constant, possibly a function of stress Integrating and rearranging terms:
+«( V t) C K> + ((nv+l}AB 1/v ) v/(nv+1) a0 " V/(nV+1) t v/(nV+1)
+and dividing through by a to obtain the contact creep function:
+
+where c 2 = ((nv+1 JAB)
+
+' . The term c^a ) represents the
+
+instantaneous, fractional contact area for a unit, step-load input.
+
+Kragelskii (1943, 1965), solves the problem of elastic contact between
+
+two rough surfaces, with surface geometry described by the rod model
+
+distribution function. The general solution is:
+
+where the constant, c, , contains the elastic parameters, E and v, and the surface geometry parameters, B and v, defined previously. Hence:
+(3)
+(4)
+
+46
+
+this equation is the contact creep function, derived from theoretical considerations of the asperity rheology and surface geometry. It describes the variation of fractional contact area with normal stress and contact time for a unit, step-load input. When used as the kernal function in the integral representations described earlier, the contact area for a general, normal-stress history can be calculated:
+t a(a,t) = / au (aU), t-£) g \:' d£
+
+where au here correctly denotes the partial derivative of a(a ,t) with
+n0
+respect to a. Thus:
+
+o(o,t)
+
+J (C 3aa + C 4ab (t-?) m ) £ d ?
+-00
++C ta b (t-C) m d 5
+
+(5)
+
+where c~ and c- equal c,/(a+l) and c 2/(b+l) respectively. Therefore, for constant specific shearing resistance, T*, the shearing resistance for a general, normal-stress history is:
+
+t(o.t) - T*caa a(t) + T*C / ab (t-?) m d?
+
+(6)
+
+Several points should be made concerning these results. Firstly, note that the creep function as derived above--is nonlinear because of its dependence on normal stress (the input). Secondly, it should be realized that the validity of the function is only as good as the assumptions made concerning the asperity rheology and surface geometry (equations (1) and (2)). Experimental data ultimately are required to test its validity. Finally, the context in which the creep function is discussed in the following sections is primarily with respect to its form, i.e., with emphasis on the stress and time dependencies, rather than the constitution
+
+47
+roughness and gouge generation, and that y increases with the logarithm of time of contact for rough surfaces (lapped with #80 abrasive) that have undergone sufficient shear displacement to approach a steady state deformation. Dieterich fits the data to an empirical equation of the form:
+y = y + A log t
+where y and A are constants, and where A is independent of normal stress. This equation is modified in a later paper (Dieterich, 1978), to the form:
+y = y Q + A log (Bt+1)
+to include very short contact times. Dieterich does not address the question of a dependence of y on normal stress.
+The data (Dieterich, 1972, Figure 2) are replotted here in Figure TO, but as a log-log plot of friction coefficient vs time. The observed linear relations suggest an equation of the form:
+y(t) = ctm
+where c and m are constants. The range of variation of y is small enough that the data fit a linear function for both representations of the data, with insignificant variations in linear correlation coefficient R (AR < .002), between the two functional forms. R ranges between 0.94 and 0.98 for different tests. In short, the data do not span a sufficient range in y to determine which functional form is more appropriate and, therefore, from an empirical standpoint, the power law form used here is as satisfactory as the logarithmic relation used by Dieterich. However, from a theoretical standpoint, the contact creep function suggests that the power law representation is more appropriate, and furthermore that the
+
+48
+Figure 10. Dieterich (1972) data for ground surfaces of sandstone, replotted as log y versus log t. Linear correlation coefficients range between 0.94 and 0.98, and differ from Dieterich's linear representation of the data (y versus log t) by < 0.002. The normal stress for each test is indicated in the diagram.
+
+-U)G IO COEFFICIENT OF STATIC FRICTION ( - LOG m P- )
+
+O
+oc
+6 o> I I I On
+o
+«oo
+
+iii
+
+ro o o
+o> I___, I
+
+50
+friction coefficient should vary inversely with the normal stress. An examination of Table 1 in Dieterich (1972) indicates that, at least for the sandstone, y varies systematically with normal stress. This is seen more clearly in Figure 11 a, where the data for all normal stresses are collected together in a log y-log t plot, and in Figure lib, where the friction coefficient extrapolated to 1 second stick intervals, is plotted in a log y-log a plot. The correlation coefficient for a linear least-squares fit to this data is -0.94, indicating a strong, inverse, linear correlation. The apparent absence of a similar relation between y and a for the granite and the quartzite (Dieterich, 1972, Table 1) is possibly explained by the masking effects of poor reproducibility typically encountered in friction experiments by most workers, and which Kragelskii (1965, p. 155) attributes primarily to the marked effect of surface films and the environment on friction.
+The data for the sandstone clearly warrant being fit as a function both of a and of t, and since the theoretical creep function has the correct form for predicting the observed time and stress dependencies, its use here is justified. The data are fit to equation (3) by an iterative, minimization process involving two linear regressions and an internal minimization for self consistency. In order to do this, one of the four constants: n, v, c, and c« must be specified. Kragelskii (1965) states that v commonly equals 3 for ground and polished surfaces, and therefore this value is specified. The results for alternative values of v do not lead to major differences in the final equation. For v = 3, the constants n, c,T* and C«T* are respectively 89, 0.39 and 0.53. The specific shearing resistance, T*, appears here with C-, and c« because
+
+Figure 11. Dieterich (1972) data for ground surfaces of sandstone, demonstrating normal-stress dependence of coefficient of friction. The data points are ordered for increasing normal stress, and represent the normal stresses indicated by the dots in b). The correlation coefficient in b) is -0.94, indicating a strong, linear correlation for an inverse dependence of friction coefficient on normal stress.
+
+- LOG |O COEFFICIENT OF STATIC FRICTION ( -log (O /i. )
+
+sr
+
+ro
+
+5 1o?
+oc J>O 6
+(A
+S CO
+o
+X
+
+qO
+
+oa a.
+
+«oo
+
+53
+
+u = au T*- Although it has been tacitly assumed that T* is constant, this assumption is realistic because T* is expected to depend only upon temperature, shear strain rate and structure, as outlined previously, all of which remain constant during the determination of the static friction coefficient (see Dieterich, 1972). The equation obtained is:
+
+ut(a,t+)\ = n0.3o9oa --
+
++, n0.5c3o a -.0037t,. Oil
+
+It is plotted for comparison with the data in Figure 12a as a function of log t, and in FigurelZbas a function of log a. Note that the equation is slightly nonlinear when plotted in these coordinates. Although the fit is reasonably good, it would be improper to draw conclusions concerning details of the equation such as the relative contributions of the elastic and inelastic parts, and the precise value of the stress dependence of strain rate. It is sufficient to note that the n-value is very large, beyond the range for power-law dislocation creep (Weertman, 1968; Stocker and Ashby, 1973), and probably indicative of a fracture mechanism for which reliable constitutive equations are as yet undetermined.
+In conclusion, the Dieterich (1972) data provide some support for the validity of the contact creep function derived here. It seems clear that significant efforts must be made to eliminate the scatter in friction data if constitutive equations are to be determined more precisely. As surface films and the environment are prime suspects for these unknown variables, it may be worthwhile to consider humidity, and the chemical condition of the frictional surfaces, when designing experiments.
+Extension of theory to include shear deformation. The creep function, a.., determines how the real contact area changes as a function of the time elapsed since application of a constant normal stress, for static contact
+
+Figure 12. Dieterich (1972) data for ground surfaces of sandstone, fit by the function:
+y(a,t) = t*c,a + T*C2tf t
+where T*C] = 0.39, r*C2 = 0.53, a = -0.143, b = -0.0037, and t = -0.011. The constants are determined by an iterative, least-squares technique (see text). Plotted in these coordinates, the function is slightly nonlinear in both a) and b).
+
+55
+
+a.)
+.06
+.08
+
+10
+8o~
+12
+I
+.14
+
+.16
+S.
+
+(7=48 MPa
+
+IO 18 0123456
+V)
+ou. L06.1n0 DURATION OF STICK ( log.1n0 t (3) )
+
+.10
+UJ
+o uu.. .11
+oUJ
+CJ 12
+
+t=
+
+.13
+
+.14
+
+15
+16
+
+17
+
+L06i 0 NORMAL STRESS ( log IO <T ( MPa) )
+
+56
+of the fractional surfaces. For shear deformation at constant shear displacement rate, *«, or shear strain rate, e,« (Figures), the population of contacts are constantly changing in response to the relative displacement. At slow strain rates, the contacts experience a longer effective contact time and therefore the average real contact area is greater, owing to creep at the individual contacts determined by a,,. This is recognized by both Kragelskii (1965, p. 185, 202), and Dieterich (1978). Dieterich develops the idea of a critical displacement necessary to change completely the population of contacts. Thus:
+-* = X2(crit) 7*2
+For shear zones of finite width, the relation:
+
+may be more appropriate. Dieterich (1979) shows that the critical displacement parameter is a function of surface roughness such that (t-£) is smaller for smooth surfaces than for rough surfaces. Replacing (t-?) in equation (6):
+
+T(<j,t) = t*ca aft) + T*ce
+
+and assuming that the dependence of T* on strain rate for isothermal conditions is represented by:
+
+T* - De 12P T/(a,jt.)\ -_ PDI,c. 3 e-|2 P aa a (^-t»'-\+j.Dn^c4£ 12(crit) m£- 12 P- 12 -mab/a.^ \'
+
+(7)
+
++ c 6 £12 P " mab a(t)
+
+(8)
+
+57
+
+where c 5 and cg equal Dc~ and DVipfrrit)' res Pect"i vely. This equation contains the normal stress and strain rate dependencies
+of shearing resistance. Note that if the quantity (p-m) is negative, an inverse dependence of shearing resistance on strain rate is possible, although the exact condition for negative 8T/8e, ? will of course depend on the actual magnitudes of the parameters in each term. However, if (p-m) is positive, an inverse dependence on strain rate is not possible. Recalling the definitions of m and p (equations (4) and (7)), (p-m) is:
+
+1/n shear ' v/ <Vnnv+1 >
+
+where n s u ear » n norm' res Pectl' ve ^y refer to the stress exponent in the
+
+shear and normal directions. Therefore, the condition for negative (p-m)
+
+is:
+
+"shear ' "norm » 1/v
+
+(9)
+
+Note that if the strain rate sensitivity (d log a/d log eEl/n) for creep of the asperities normal to the surface is the same as that for creep in the shear direction, then (p-m) cannot be negative unless v is negative. The latter would imply that the real contact area decreases with the approach of the surfaces, and clearly is unreasonable. Therefore, for (p-m) to be negative, the strain rate sensitivity for asperity creep normal to the frictional surfaces must be greater than the strain rate sensitivity in shear. This is a fundamental, necessary but not sufficient condition for an inverse dependence of shear strength on shear strain rate. In addition, note that condition (9) is more likely to be met for large values of the parameter, v, than for small values.
+
+58
+Inverse strain rate effects in the context of unstable fractional sliding. In light of the previous discussion, it is apparent that a positive gradient in mechanical properties with depth is necessary in order to obtain the possibility of an inverse, strain-rate dependence, i.e., for a given shear stress across the surface, deformation of the adhesive junctions between asperities must lead to a faster strain rate than bulk deformation of the asperities. Rabinowicz (1957), suggests that an inverse strain-rate dependence is a necessary condition for the occurrence of unstable frictional siding (stick-slip) when the timedependence of static friction is not independent of the velocity-dependence of sliding (kinetic) friction. Since Kragelskii (1965) and Dieterich (1978),have demonstrated the dependence of the two phenomena, through a characteristic displacement parameter, it may be concluded that an inverse velocity or strain rate dependence is a necessary (but not sufficient) condition for the occurrence of stick-slip.
+Rabinowicz (1957) carried out a systematic study of the velocity dependence of friction, with velocities ranging from 10 -8 to 102 cm/s, and showed that the friction-velocity curve for a wide variety of materials (metals, rubber, plastics) exhibit a positive characteristic at slow strain rates and a negative characteristic at high strain rates. This is the familiar maximum observed in the friction-velocity relation, apparently a general property of most materials. The maximum appears to depend upon the hardness of the material, occurring at lower strain rates for harder materials. Rabinowicz explains this behavior by postulating that: "the positive slope is caused by a creep mechanism in shear, and the negative slope is caused by an adhesion mechanism." In addition,
+
+59
+Rabinowicz argues that materials possessing an inverse net strain-rate dependence are characterized by deformation along discrete planes, as this maximizes the internal strain rate for an imposed, boundary, shear displacement rate, hence minimizing the internal work (Figure 8b). Conversely, materials characterized by a net, positive velocity or strain rate dependence tend to deform homogeneously, as this minimizes the internal strain rate for an imposed, boundary, displacement rate, also minimizing the internal work (Figure 8c). This notion has important implications for observational and field studies, and is discussed later.
+Collecting these various concepts together into a coherent picture, we postulate the following:
+(1) A necessary but not sufficient condition for the occurrence of stick-slip in a frictional system is that the system must exhibit an inverse dependence of shearing resistance on shear strain rate or shear displacement rate, at the conditions under which it is being deformed.
+(2) In order that the system may possess this characteristic, the strain rate sensitivity of the applied stress must be greater for deformation of asperities normal to the surface that for shear, by an amount which exceeds the reciprocal of the exponent in the geometric distribution function describing the variation of asperity heights across the surface (equation (9)).
+(3) Polished surfaces are commonly associated with larger values of the parameter v (Kragelskii, 1965), and therefore it might be expected that inverse strain-rate effects are more often associated with polished, than with rough, surfaces.
+
+60
+
+(4) Condition (2) (above) is most readily met when a positive gradient in the mechanical properties with depth exists, such that, for a given stress, the constitutive relation for creep of adhesive junctions leads to higher strain rates than that for creep of the bulk material, and the two relations are independent of each other.
+(5) Inverse strain-rate effects lead to a microstructure that is characterized by discrete zones of relative displacement, and which is therefore highly heterogeneous. Evidence that a shear zone has deformed only by homogeneous flow, precludes the possibility that the zone may have undergone unstable frictional slip, and is therefore diagnostic of stable deformation. Conversely, regions of a fault that have deformed unstably should display heterogeneous deformation features, i.e., discrete slip zones within relatively undeformed material.
+
+Paradoxical Effects of Temperature
+
+It was stated earlier that there is some evidence in rocks for an
+
+increase in frictional strength with temperature, over the range 25° to
+
+300°C. Our earlier report (Logan, 1980), contains data indicating this
+
+effect for ultrafine (< lym) quartz shear zones 0.25 mm thick, deformed
+
+at 250 MPa confining pressure, 100 MPa pore water pressure, and shear
+
+_0
+
+1
+
+strain rate of 10 s . This data is plotted in Figure 12a and 13b, and
+
+is the same as Figures Ill-la and Ill-lb, respectively, from our earlier
+
+report, except that the room temperature test represents new data con-
+
+taining relaxation tests (dotted portions of shear stress-shear displace-
+
+ment curve). The following observations concerning this data were made
+
+in our earlier report, with the assumption that the reproducibility of
+
+300
+O Q.
+200
+UahJ:cn <r
+SHEAR DISPLACEMENT, Figure 13. a) Shear stress-shear displacement and b) coefficient of friction-shear displacement curves for 0.25mm layers of <lym quartz powder deformed at 250MPa confining pressure, lOOMPa pore water pressure, shear strain rate of 10~3s , and temperatures as indicated, Solid lines represent constant strain rate loading, jsrhile dots represent stress relaxation.
+
+62
+the room temperature tests (better than 2%) is representative of that at elevated temperature:
+1) the shearing strength at 300°C is 12% higher than at 25°C, 2) the shearing strength at 600°C lies between the room tempera-
+ture and 300°C strengths. Microstructural observations (Logan, 1980, Figures HI-2, HI-3) indicate that at 600°C there is considerable mobility of the ultrafine quartz when compared with the room temperature microstructure. Quartz veins associated with Riedel shears and groundmass redeposition/recrystallization features at 600°C are compared with discrete systems of Riedel shears at 25°C. Thus, the microstructure qualitatively indicates considerable temperature activation in terms of increased mobility, as expected from the Arrhenius equation, yet the shearing stress at constant shearing rate does not decrease to reflect this increased mobility, and in fact either remains the same, or increases slightly. This is the paradoxical effect of temperature in frictional sliding or shearing behavior. It is difficult to reconcile with recognition of the fact that fracture is an important mechanism contributing to frictional sliding and shearing processes under these conditions, yet fracture strength appears to follow a temperature dependence compatible with the Arrhenius equation, as observed by many investigators. This is illustrated by fracture strength data for Tennessee sandstone (Figure 14), deformed under conditions identical with those of the ultrafine quartz shear zone tests described earlier. Friedman et al. (1979) present data suggesting that such a temperature dependence of fracture strength at 50 MPa confining pressure is not a weakening effect of thermally-induced microfractures, but does in fact, represent an intrinsic temperature dependence of the fracture process.
+
+H- £ p3. Hn>
+fD
+H(»D-<* *.H~.«y
+£3 M)
+(D (D W (D (D 3 (D c+
+HCO p
+O 0) 3W (D W
+(D n>
+M, l-i
+OM
+fr
+p.P H-
+(D c+ O fa O H-
+H- M, c+ O H- i-i O
+f"J f *»
+w3
+H. P
+3O p, c+ HO ft fD P'
+
+DIFFERENTIAL STRESS (MPo)
+
+01 O)
+
+00 CD o
+
+O
+o
+
+o o
+
+o o
+
+oo oo
+
+o o
+
+o o
+
+ooo ooo
+
+>
+X OJ
+CO H
+Ol
+
+mzz m mm
+
+it H riot o2!
+
+O O Ol (/)
+
+^^ °,'00 H
+
+Ol
+
+S "2U
+
+?
+m
+
+cr>
+CO
+
+64
+In an attempt to explain this increase of shearing strength with temperature, Drennon and Handy (1972) postulated that the removal of adsorbed water above 100°C could change the mechanical behavior. This explanation cannot account for the increase in shearing strength observed for our quartz data, because a controlled pore water pressure is present at all temperatures. Also, we rule out the possibility of dilatancy hardening in our experiments on the basis of a theoretical argument concerning decay times of anomalous pore pressure pulses, using values for permeability measured during the test (p. 46-51, Final Report, October 1979). Friedman et al. (1974) attribute the increase in frictional strength with temperature to the formation of glass along the sliding surface, tending to increase the real area of contact and thus, inhibit sliding. The formation of glass in the experiments reported here is unlikely, because the pore water pressure would tend to inhibit the generation of high temperatures (Sibson, 1973, 1975). Logan et al. (1973) suggested an increase in frictional strength due to an increase in the real area of contact by asperity growth.
+The idea of an increase in real area of contact appears to be the key point. It is suggested that changes in real area of contact arising from changes in temperature, observed both for frictional sliding of discrete surfaces, and for frictional shearing of gouge zones, can explain the observed slight increases in shearing strength or apparent independence of shearing strength on increasing temperature.
+In the context of the model developed previously in this report, based on the works of Dieterich (1978, 1979) and Johnson (1980), it is seen that the paradoxical effect of temperature is consistent with the inverse strain-rate effect discussed previously, in that both effects
+
+65
+are anomalous, and contrary to those normally expected for crystalline materials. The effect on rheological response of increasing temperature is often regarded as being equivalent to decreasing the strain rate (for example, Paterson, 1976), and this means that an increment of temperature has the effect of shifting the behavior along the time scale. As discussed earlier, the strain rate sensitivity of the frictional shearing stress is often positive at low strain rates and negative at higher strain rates such that a maximum exists in a stress-velocity or stress-strain rate plot. If increasing temperature has the effect of shifting the behavior along the time scale to higher strain rates, then we might expect a similar maximum in a frictional shearing stress versus temperature plot. Our data for ultrafine quartz shear zones indicate that this maximum does exist, and occurs in the region of 300°C, under the conditions for these experiments, although further experiments are clearly necessary to substantiate this, and to locate the maximum more precisely. These experiments are in progress at the present time.
+Using arguments involving changes in contact area, Johnson (1980) explains the temperature dependence of the rate sensitivity of the shearing stress observed in the Westerly Granite data of Stesky (1978, Figure 1). This graph (reproduced here in Figure.15), is particularly useful for providing insight into the mechanical aspects of frictional processes, and demonstrates the net effect of the interaction between the geometric effect of changes in a and the intrinsic temperature and rate dependencies of shearing stress defined by the constitutive properties of the material. Thus, frictional surfaces undergoing shearing deformation because of an imposed external driving velocity are subject
+
+66
+
+-100
+
+Figure 15. Figure 1 from Stesky (1978); Effect of sliding velocity, <5,
+
+on the steady state shear stress, T, at different temperatures and a
+
+constant confining pressure of 2.5 kbar (250MPa). The shear stress is
+
+plotted relative to the value at 5 = 10"^cm/s: i.e. AT = t . - T.
+
+The vertical bar indicates measurement uncertainty.
+
+^ ^o
+
+67
+to two interacting effects on increasing temperature: 1) Asperity contacts flow at a lower stress because of increased reaction rates according to the Arrhenius equation; and 2) An increase in steady state real area of contact, a, arising from the higher creep rates at asperity contacts necessitates " a higher external shearing stress for slip between the surfaces. Experimental results from Dieterich (1979), Johnson (1980), and
+Stesky (1978), and those from our laboratory, suggest the following. At low temperatures, an increase in deformation rate causes a net decrease in frictional shearing strength, because the decrease in a is greater than the corresponding increase in t*. This is the regime of negative rate sensitivity, and is a regime of potential instability where accelerating creep and stick-slip may occur (Rabinowicz, 1957). Instability is possible because it is energetically favorable for the system to deform at a faster rate. For the same reasons, a negative rate sensitivity favors deformation along discrete planes within a shear zone, rather than by uniform flow, because discrete deformation maximizes the deformation rate, and hence minimizes the shearing stress, required for slip. At some intermediate temperature, shearing strength becomes insensitive to changes of deformation rate, for the decrease in a balances the corresponding increase in T*. This corresponds to the maximum in the friction versus temperature, and friction versus velocity, relations. At higher temperatures where, for an increase in deformation rate, the increase in T* is greater than the decrease in a, frictional shearing strength displays the usual positive rate sensitivity such that an increase in deformation rate causes a net increase in shearing
+
+68
+resistance. Within this regime, stick-slip instabilities are energetically not feasible, and deformation by uniform flow is favored, because this minimizes the deformation rate, thus minimizing the shearing stress necessary for flow (Rabinowicz, 1957). Evidence for this association of mechanical and microstructural behavior is provided by the laboratory behavior of simulated calcite gouge (Logan et al., 1979). Here, with increasing temperature, the specimen undergoes a transition from stickslip to stable sliding. This is accompanied by fabric changes within the gouge from heterogeneous deformation at low temperatures to homogeneous behavior at higher temperatures.
+Summarizing these concepts, a competition exists during deformation, between variations in a and variations in T*, and depending upon which parameter is most rate sensitive, the material will have a net negative or net positive characteristic rate sensitivity. At low temperatures, a negative rate sensitivity is characteristic of many silicates, since a is the predominant rate sensitive parameter. At high temperatures, a positive rate sensitivity is characteristic, presumably because the rate sensitivity of T* dominates. Extrapolating these results to natural faults, we suggest that unstable frictional shearing behavior is precluded at depths below that at which the maximum in a friction vs. temperature relation is reached. This will not generally correspond to the maximum in the friction vs. depth relation, because normal stress, in addition to temperature, increase with depth. Along the San Andreas Fault system, upper-crustal earthquakes are not observed at depths below about 15 km (Wesson et al., 1973), suggesting that the maximum in the frictiontemperature relation occurs at approximately 450°C, assuming an average geothermal gradient of 30°C/km. Experimental data for the deformation of
+
+69
+chlorite and bentonite shear zones (Logan, 1978, Figures 37 and 38, respectively), suggest that for these minerals the maximum in the friction-temperature relation occurs between 300° and 450°C, while data from Stesky (1978, Figure 1), for granite at 250 MPa confining pressure, suggest that the maximum has already been exceeded at 306°C, since the shear stress-velocity relation has a small, positive slope at this temperature.
+Returning to the experimental results on ultrafine quartz (Figure 13), it is recalled that at 300°C, the shearing strength is somewhat greater than at room temperature, while at 600°C, the shear zone undergoes rapid creep or stress relaxation relative to its lower temperature creep behavior, yet the magnitude of the shearing stress is the same as at room temperature. We attempt a qualitative explanation of this behavior as follows. On increasing the temperature to 300°C, the increase in a (at the imposed deformation rate) is greater than the corresponding decrease in T*, and the net shearing resistance therefore increases. In addition, the net rate sensitivity of the shearing stress is small, and creep is not significant. With further heating to 600°C, decreasing T* begins to dominate over the increase in a, and a net decrease in shearing resistance occurs. At 600°C, the net rate sensitivity of shearing stress is large and positive, as manifest by rapid creep or stress relaxation. Stesky's data (1978, Figure 1), suggest that, for Westerly Granite, the rate sensitivity becomes independent of temperature at about 650°-700°C. We suggest that this may represent the condition where a becomes independent of strain rate, such as when a = 1.
+
+70
+Relaxation Data
+Relaxation data from the 25° and 600°C tests in Figure 13 (dotted portions of curves) are plotted in Figure 16a and!6b, respectively, as log, Q shear stress vs. log-, 0 time, and log, Q shear stress vs. log, Q shear strain rate. Figure 16a contains the raw data, as collected from the force-time record, calculated in terms of shear stress on the 35° sawcut. Shear strain rate in Figure 16b is calculated from the stress-time plot by relating the stress decay rate at any instant to the stress magnitude, and by converting stress increments to displacement increments through the elastic stiffness constants of the apparatus (Lee and Hart, 1971; Rutter et al., 1978). In this plot, it is assumed that the total, inelastic axial displacement during relaxation is transformed to shear displacement in the shear zone. In reality, the component of displacement normal to the shear zone is small, but nevertheless it is non-zero. The inelastic axial displacement during relaxation is of the order of 50-150 ym; if this were completely transformed to the normal component, then the shear zone would be strained 50-100% in the normal direction. This clearly is not observed in practice, and the normal deformation component in the shear zone, in the post-yield region of the stress-displacement curve is usually very small. However, although small, it is responsible for the changes in a during creep and relaxation.
+The plots in Figure 16 demonstrate that, although the stress magnitudes for both temperatures are comparable, the strain-rate sensitivity at 600°C is considerably greater than at 25°C. In addition, we note that at both temperatures, the strain-rate sensitivity is independent of
+
+Figure 16. Relaxation data from 25° and 600°C tests in Figure 9. (a) Raw data obtained from the force-time record, plotted as log shear stress versus log time, (b) Log shear stress versus log shear strain rate, derived from plot (a) using stiffness constants of the system. The lines through the data in (b) are linear least-squares fits. Note that the strain rate sensitivity at 600°C is considerably greater than at 25°C, although the stress magnitudes at both temperatures are comparable.
+
+a
+2.45
+
+2.40
+2.35 ' -V-
+
+o
+0.
+2 2.30
+CM
+
+2.25
+O» O
+
+CO
+
+(O
+U<Jr
+
+b.
+
+(O 2.45
+
+o<c
+UJ
+Z40
+
+oo
+
+2.35
+
+2345 LOG TIME , log, 0 t(s)
+600
+
+2.30
+
+2.25 -6 -5 -4 -3 -2
+SHEAR STRAIN RATE, log |Q
+
+72
+
+73
+displacement, as the relaxations are carried out at different points in the displacement history of the deformations. The data is general are consistent with the stress relaxations for faulted Tennessee Sandstone reported by Rutter and Mainprice (1978). Their data are reproduced in Figure 17. These tests were conducted wet, at the same effective pressure as those reported here, but with relaxations at 300°C extending to times two orders of magnitude longer than those reported here.
+It is important to note that the relaxation data, as presented here, suggest a positive rate sensitivity of the frictional shearing stress at low temperature, in contrast with the constant strain-rate data, which normally indicate a negative rate sensitivity (Dieterich, 1978; Johnson, 1980). The frictional relaxation data do not represent the strain-rate sensitivity for steady-state shearing of the material, because a does not assume its steady-state value during relaxation. Thus, Dieterich (1979) and Johnson (1980) explain stress relaxation at low temperatures for frictional surfaces that are characterized by a negative rate sensitivity by recognizing that the response of T* to changes in deformation rate is essentially instantaneous, while the response of a is timedependent, and occurs over the characteristic displacement, d_. This
+w
+time-dependent response of a is important as it explains the transients in frictional response observed by both of the authors cited above, and in our room temperature shearing tests on wet, ultrafine quartz (Figure 13). During relaxation segments of the stress-displacement curve (dotted) a increases above the value characteristic of steady shearing at constant strain rate (solid line). On resuming shortening, the product T*a is therefore larger than previously, and a corresponding transient increase in shearing resistance is observed. As a returns to its former value,
+
+74
+
+^ 8 JC 7b 3-8 6 -b"~
+5
+34 i
+
+3
+JO
+2.5
+
+^ 1
+
+£" <)
+
+g toiT
+
+.8
+
+7
+
+3-8-
+
+5
+3-fr k
+3
+>4- 2-5
+
+i
+4 8 ,3
+
+»
+
+TS 30 dry **."*"**"***"* ** »%
+tn^"\-tf
+
+. ^%«^, **^
+
+TS33 wet %«^ _%
+
+X
+
+\
+24 6 l°9,0time 'sec '
+
+^ TS 30 dry
+
+b'
+
+3-8' 7 '.. *"V**
+
+TS34
+
+* v» * *i % *^» ' t* *.
+
+5 *' A* '* < 300°C <. , « '.
+
+3* 4 4oo°c* \s* * :i * J *r ^*^
+
+3 S*
+
+F
+
+3-4 2-5
+
+X1X 8
+
+i 8
+;7 3.^ ,
+
+68
+»^t**.»»»^ . . ^y 1. lt * « «»«**.#
+
+K)
+d'
+
+TS33w«t *>\ . ' .
+'X
+** .y
+
+«^5
+3*
+*3
+
+:*? * >4 2-5
+
+x^!"%%?* *i . w«t * '^"t ^
+^/
+'*
+/C 1
+
+~log,,straln rat«U«c*1)
+
+6 8 Id - log^strain rat« ($«c"')
+
+Figure 17. Figure 2 from Rutter and Mainprice (1978):. Results of
+relaxation tests on prefaulted Tennessee Sandstone. All samples relaxed at 300°C except the ^00°C TS3^ relaxation, (a) Log stress/log time curves for wet and dry samples, (b) Log stress/'-log strain rate data for the same samples as in (a), (c) Log stress/-log strain rate data for sample TS31*, relaxed at UOO C and 300 C. Point F is that at which temperature controller failure occurred (see text). The points labelled B were obtained by relaxation at a separately imposed reduced load, (d) Reproducibility on different test pieces.
+
+75
+characteristic of the imposed deformation rate, the transient increase in shearing stress decreases to its former, steady-state value. Our measured values of the characteristic displacement, d , for ultrafine
+\*
+quartz shear zones between Tennessee sandstone surfaces ground with a #80-grit wheel, range between 50 and 115 ym, somewhat larger than those measured by Dieterich (1979, p. 2163). As our 1 ym grain size material is roughly comparable with asperity heights developed for the #240 and #600 grit surfaces, and as our values of d are for a shear zone 0.25 mm
+\*
+wide, rather than for a discrete friction surface with minimal gouge development, this suggests that the characteristic displacement should perhaps be replaced by a characteristic strain, e . This could explain
+\*
+the differences between the data, in the sense that in our experiments the characteristic displacement is integrated across a number of active frictional surfaces, instead of a single surface. However, the present data are insufficient to clarify this point.
+It is interesting to note that the displacements induced in the sample during relaxation at 25°C are less than the average initial displacement, while those induced at 600°C are greater than the average d . This might possibly be an additional factor influencing the transient
+\^
+response on reloading. Note that in our experiments (Figure 13), on reloading, the 25°C tests undergo a transient increase in frictional resistance above the steady state shearing stress, while those at 600°C do not.
+In conclusion, we have developed a theoretical approach to modelling the rheology of frictional sliding and shearing behavior that incorporates the history-dependence of the real area of contact, and a nonlinear normal
+
+76
+stress dependence. The model is supported by Dieterich's (1972) data on the time-dependence of rock friction, provides some constraints on conditions for unstable (stick-slip) frictional behavior, and predicts that certain micros truetural features preclude the possibility that unstable deformation has occurred. The next steps in developing the theory will be to incorporate the temperature effect in the constitutive equations, and also the transient effects caused by the time-dependence of a, manifest during relaxation and reloading portions of friction experiments.
+
+77
+REFERENCES CITED
+Abbott, E. J. and Freestone, F. A., 1933, Specifying surface quality: Mech. Engineer, v. 55, p. 569.
+Amontons, 1699, Histoire de L'Academie Royale des Sciences avec les Memoires de Mathematique et de Physique, p. 206.
+Bowden, F. P. and Tabor, D., 1939, The area of contact between stationary and moving surfaces: Proc. Roy. Soc., A, v. 169, p. 391.
+Bowden, F. P. and Tabor, D., 1950, The friction and lubrication of solids, Part I: Clarendon, Oxford, 391 pp.
+Bowden, F. P. and Tabor, D., 1964, The friction and lubrication of solids, Part II: Clarendon, Oxford, 544 pp.
+Brace, W. F., 1972, Laboratory studies of stick-slip and their application to earthquakes: Tectonophysics, v. 14, p. 189-200.
+Conti, P., 1875, Sulla resistenra di attrito. Atti. R. Acad. Lincei, v. 11, p. 16.
+Coulomb, C. A., 1685, Theorie des machines simples: Memoire de Mathematique et de Physique de L'Academic Royale, v. 10, p. 161. Republished, 1809, Paris.
+Dieterich, J. H., 1972, Time-dependent friction in rocks: J.G.R., v. 77, p. 3690-3697.
+Dieterich, J. H., 1978, Time-dependent friction and the mechanics of stick-slip: Pageoph., v. 116, p. 790-806.
+Dieterich, J. H., 1979, Modeling of rock friction: 1. Experimental results and constitutive equations: J.G.R., v. 84(B5), p. 21612168.
+Dokos, S. J., 1946, Sliding friction under extreme pressures: J. Appl. Mech., v. 13A, p. 148-156.
+Dorn, J. E., 1957, The spectrum of activation energies for creep: in Creep and Recovery, American Society for Metals, Cleveland, Ohio, p. 255-283.
+Drennon, C. B. and Handy, R. L., 1972, Stick-slip of lightly loaded limestone: Int. J. Rock Mech. Min. Sci., v. 9, p. 603-615.
+Findley, W. N. and Lai, J. S. Y., 1967, A modified superposition principle applied to creep of non-linear viscoelastic material under abrupt changes in state of combined stress: Trans. Soc. Rheol., v. 11(3), p. 361-380.
+
+78
+Findley, W. N., Lai, J. S. Y. and Onaran, K., 1976, Creep and relaxation of nonlinear viscoelastic materials: North-Holland Publ. Co., Amsterdam, New York, 367 pp.
+Friedman, M., Logan, J. M., and Rigert, J. A., 1974, Glass-indurated quartz gouge in sliding friction experiments on sandstone: Geol. Soc. Am. Bull., v. 85, p. 937-942.
+Glasstone, S., Laidler, K. J., and Eyring, H., 1941, The theory of rate processes: McGraw Hill, New York, 611 pp.
+Hunter, M. C., 1944, Static and sliding friction of pivot bearings: Engng, v. 157, p. 117-138.
+Johnson, T., in press, Time-dependent friction of granite: Implications for precursory slip on faults.
+Kimball, A. S., 1877, A new investigation of one of the laws of friction: Am. J. Sci., v. 13, p. 353.
+Kragelskii, I. V., 1939, The friction of unlubricated surfaces: Proc. 1st All-Union Conf. Friction and Wear in Machines, Izd. Akad. Nauk. SSSR, p. 543.
+Kragelskii, I. V., 1943, Effect of various parameters on the magnitude of the coefficient of friction of unlubricated surfaces: Zh. Tekh. Fiz., v. 13, p. 145.
+Kragelskii, I. V., 1965, Friction and Wear: Butterworths, Washington, 346 pp.
+Lee, D. and Hart, E. W., 1971, Stress relaxation and mechanical behavior of metals: Metall. Trans., v. 2, p. 1245-1248.
+Leonardo da Vinci, 1452-1519, Notebooks, Translated into English by Edward MacCurdy, Jonathan Cape, London, 1938, 1247 pp.
+Logan, J. M., Friedman, M. and Rigert, J. A., 1973, Partial melting of sandstone during frictional sliding in triaxial experiments (Abstract) A.G.U. Trans., v. 54, p. 465.
+Logan, J. M., 1978, Laboratory and Field Investigations of Fault Gouge: Final Rept., grant, no. 14-08-0001-G-460, U.S. Geol. Surv.
+MacCurdy, E., 1938, The notebooks of Leonardo da Vinci: Jonathan Cape, London, 1247 pp.
+Paterson, M. S., 1976, Some current aspects of experimental rock deformation: Phil. Trans. Roy. Soc. London, A., v. 283, p. 163-172.
+
+79
+Rabinowicz, E., 1957, A study of the stick-slip process: in R. Davies (Ed.), Symposium on Friction and Wear, Detroit, 1957, Elsevier, New York, 1959, p. 149-161.
+Raleigh, C. B. and Paterson, M. S., 1965, Experimental deformation of serpentinite and its tectonic implications: J.G.R., v. 70, p. 3965-3985.
+Rutter, E. H. and Mainprice, D. H., 1978, The effect of water on stress relaxation of faulted and unfaulted sandstone: Pageoph., v. 116 (4/5), p. 634-654.
+Rutter, E. H., Atkinson, B. K., and Mainprice, D. H., 1978, On the use of the stress relaxation testing method in studies of the mechanical behavior of geological materials: Geophys. J. Roy. Astro. Soc., v. 55 (1), p. 155-170.
+Schapery, R. A., 1978, Analytical models for the deformation and adhesion components of rubber friction: Tire Sci. and Tech., v. 6 (1), p. 3-47.
+Schapery, R. A., 1979, Analysis of rubber friction by the fast Fourier Transform: Tire Sci. and Tech., v. 6 (2), p. 89-113.
+Sibson, R. H., 1973, Interactions between temperature and pore-fluid pressure during earthquake faulting: Nature Phys. Sci., v. 243, p. 66-68.
+Sibson, R. H., 1975, Generation of pseudotachylyte by ancient seismic faulting: Geophys. J. Roy. Astro. Soc., v. 43, p. 775-794.
+Stesky, R. M., Brace, W. F., Riley, D. K., and Robin, P. -Y. F., 1974, Friction in faulted rock at high temperature and pressure: Tectono., v. 23, p. 177-203.
+Stesky, R. M., 1978, Mechanisms of high temperature frictional sliding in Westerly Granite: Can. J. Earth. Sci., v. 15, p. 361-375.
+Stocker, R. L. and Ashby, M. F., 1973, On the rheology of the upper mentle: Rev. Geoph. and Sp. Phys., v. 11, p. 391-421.
+Teufel, L. W., 1976, The measurement of contact areas and temperature during frictional sliding of Tennessee Sandstone: M.S. Thesis, Texas A&M Univ., College Station, TX.
+Teufel, L. W. and Logan, J. M., 1978, Effect of displacement rate on the real area of contact and temperatures generated during frictional sliding of Tennessee sandstone: Pageoph., v. 116 (4/5), p. 840-865.
+
+80
+Weertman, J., 1968, Dislocation climb theory of steady-state creep: Trans. Am. Soc. Met., v. 61, p. 680-694.
+Wesson, R. L., Burford, R. 0., and Ellsworth, W. L., 1973, Relationship between siesmicity, fault creep and crustal loading along the central San Andreas Fault: In R. L. Kovach and A. Nur (Editors), Proc. Conf. Tect. Prob. of the San Andreas Fault System, Stanford Univ. Publ., Stanford, Calif., v. 13, p. 303-321.
+
+81
+REPORTS
+Reports Published
+Logan, J. M., Higgs, N., Friedman, M., and Gatto-Bauer, H., 1979, Preliminary investigation of core material from U.S.G.S Dry Valley No. 1 well, San Andreas fault: EOS, v. 60, p. 956.
+Higgs, N. G. and Logan, J. M., 1979, Effects of temperature on the deformation of experimental quartz-clay shear zones: EOS, v. 60, p. 956.
+Dengo, C. A. and Logan, J. M., 1979, Correlation of fracture patterns in natural and experimental shear zones: EOS, v. 60, p. 955.
+Teufel, L. W., 1979, Critical velocity for stick-slip sliding: EOS, v. 60, p. 956.
+Shimamoto, T., Handin, J., and Logan, J. M., 1980, Specimen-apparatus interaction during stick-slip in a triaxial compression machine: a decoupled two-degree-of-freedom model: Tectonophysics, v. 67, p. 175-205.
+Teufel, L. W., 1980, Precursive pore pressure changes associated with premonitory slip during stick-slip sliding: Tectonophysics, v. 69, p. 189-199.
+Reports Submitted
+Logan, J. M., Higgs, N. G., and Friedman, M., in press, Laboratory studies on natural gouge from the USGS Dry Lake Valley No. 1 well, San Andreas Fault zone: Am. Geophy. Union Mon. 24.
+Friedman, M. and Higgs, N. G., in press, Calcite fabrics in experimental shear zones: Am. Geophy. Union Mon. 24.
+Shimamoto, T. and Logan, J. M., in press, Effects of simulated fault gouge on the sliding behavior of Tennessee sandstone: non-clay gouges: Jour. Geophy. Res.
+Shimamoto, T. and Logan, J. M., in press, Effects of clay simulated fault gouge on the sliding behavior of Tennessee sandstone: Tectonophysics.
+Dengo, C. A. and Logan, J. M., in press, Implications of the mechanical behavior of serpentinite to seismogenic faulting: Jour, of Geophys Res.
+
+

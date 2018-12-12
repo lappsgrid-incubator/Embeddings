@@ -1,0 +1,873 @@
+Proceedings of a Pressure Transducer-Packer Workshop, June 25-28, 1991
+Compiled by Vito J. Latkovich
+U.S. GEOLOGICAL SURVEY OPEN-FILE REPORT 93-71
+
+U.S. DEPARTMENT OF THE INTERIOR BRUCE BABBITT, Secretary
+U.S. GEOLOGICAL SURVEY DALLAS L PECK, Director
+Any use of trade, product, or firm names in this publication is for descriptive purposes only and does not imply endorsement by the U.S. Geological Survey.
+For sale by the Books and Open-File Reports Section U.S. Geological Survey Federal Center, Box 25425 Denver, CO 80225
+
+CONTENTS
+
+Proceedings of a Pressure Transducer-Packer Workshop, June 25-28,1991 ...................................................................... Abstract................................................................................................................................................................................. Introduction.................................................................................._^ Topical Overview of the Workshop...................................................................................................................................... Conclusions and Recommendations...................................................................................................................................... Attendees Presentations......................................................................................................................................................... Some Experience Gained from Using Packers and Transducers in Ground-Water Investigations of Crystalline-Rock
+Aquifers .....................................................................................................................»^ Wire Line Logs and Conventional Packers Issues and Research Opportunities ............................................................... Basic Data Recorder System Test Results ........................................................................................................................... Evaluation of Two Submersible Pressure Transducer Systems ........................................................................................... Regional Aquifer-System Analysis Double-Packer Aquifer Tests....................................................................................... Use of Pressure Transducers to Gather Time Drawdown Data in Single-Hole Pump Tests, Wellston Area, Oklahoma.... Use of Pressure Transducers in the Arkansas District.......................................................................................................... Use of Packers and Transducers in Aquifer Tests in Castle Pines, Colorado ...................................................................... Packer-Transducer Use in the Arizona District.................................................................................................................... Monitoring Static Water Levels in the Yucca Mountain Area.............................................................................................. Pressure Transducer Applications: Site Saturated Zone Yucca Mountain Project............................................................ Upgrade of Packer and Transducer Equipment Used in Fracture Testing in the Colorado Oil Shale Project...................... Research into the Processes of Flow and Solute Transport in Fractured Rock: Experiences in Equipment Development
+by Staff from Environment Canada ................................................................................................................................ Hydraulic Fracture Stimulation of Crystalline-Bedrock Aquifers Using a Self-Contained Packer and Sensor System...... Appendix 1 Workshop Attendees...................................................................................................................................... Appendix 2 Vendors and Exhibitors.................................................................................................................................. Glossary .................................................................
+
+1 1 1 1 2 3
+5 9 15 17 19 21 23 25 27 31 33 35
+37 39 45 47 49
+
+FIGURES
+
+1. Inflatable packer................................................................................................^
+
+6
+
+2. Well log, cross-borehole pumping test, straddle packer hydraulic test, and vertical seismic profile tube-wave data
+
+for a borehole at Mirror Lake, New Hampshire; scale of investigation increases from less than 1 cm on the left to
+
+more than 10 m on the right........................................................................................................................................... 10
+
+3. Comparison of acoustic tube-wave attenuation log, straddle packer hydraulic test, and vertical seismic profile
+
+tube-wave data for a borehole in granite southeastern Manitoba, Canada.................................................................... 11
+
+4. Measurement of flows induced in borehole FSE-5 by pumping in borehole FSE-4 indicate fractures connected to
+
+large scale flow systems at Mirror Lake, New Hampshire............................................................................................ 13
+
+5. Housing for transducer used in the Grand Canyon beaches (produced in the Arizona District)................................... 28
+
+6. Grand Canyon Beaches Form 1.3.................................................................................................................................. 29
+
+Grand Canyon Beaches Form 1.3 Continued.............................................................................................................. 30
+
+7. Equipment used to isolate, pressurize and fracture a borehole interval......................................................................... 40
+
+8. Vertical flow distribution in a crystalline rock borehole during steady injection with about 20 ft of driving
+
+hydraulic-head before and after fracture stimulation; A-G denote the depths where acoustic televiewer and
+
+caliper logs indicated fractures...................................................................................................................................... 41
+
+Contents ill
+
+Multiply
+inch (in) millimeter
+foot (ft) meter (m) gallon (gal) gallon per minute (gal/min) pound (Ib) pound per square inch (lb/in2)
+
+By
+2 5.4 0.03937 0.3048 3.281 3.785 0.06309 0.4536 6.895
+
+To obtain
+millimeter inch meter foot decimeter decimeter per second kilogram kilopascal
+
+Temperature in degrees Celsius (°C) may be converted to degrees Fahrenheit (°F) as follows Temp °F = 1.8 temp
+
+Acronyms used in this report:
+
+BDR dc DCP FSE-4 FSE-5 fflF PDCR PFC PS-2
+PSS-1 PVC RASA SDI-12
+
+Basic data recorder Direct current Data-collection platform Borehole designation Borehole designation Hydrologic Instrumentation Facility Pressure transducer model number designation Personal field computer Pressure sensor-2 Pressure sensor system-1 (includes data Jogger) Polyvinyl chloride Regional aquifer-system anal) sis Serial-digital interface-1200 baud
+
+Iv Contents
+
+Proceedings of a Pressure Transducer-Packer Workshop, June 25-28, 1991
+
+SyVito J. Latkovich
+ABSTRACT
+The U.S. Geological Survey conducted its first Pressure Transducer-Packer Workshop in Denver, Colorado, June 25-28, 1991. Nineteen attendees from the Survey, Environment Canada, academia, and the private sector presented papers concerning their experiences with the use of transducers and packers in hydrogeologic investigations. Workshop participants concluded that fixed-head packers are generally more reliable than other types and that there is a need for a wet/wet transducer for deep wells. The group recommended that simple downhole technology be used, that only rugged commercially available packers be purchased, and that it is imperative electrical connections and transducer electronics be kept dry.
+INTRODUCTION
+For many years, numerous questions were raised by U.S. Geological Survey (USGS) project personnel concerning the use of downhole pressure transducers in conjunction with borehole packers to study and evaluate hydrogeologic horizons. The data gathered are used in analog and digital model studies to understand the stresses on the subsurface systems and how those stresses affect the movement and availability of ground water.
+In 1990, a few USGS personnel voiced interest in conducting a Pressure Transducer-Packer Workshop, the purpose of which would be to have an informal forum for sharing information about and experiences with the use of pressure transducers and packers in hydrogeologic investigations. The workshop was held at the Survey's National Training Center in Lakewood, Colorado, June 25-28,1991. Nineteen attendees came from the USGS, Environment Canada, academia, and the private sector. Fourteen papers
+
+describing most transducer and packer applications were presented. Five transducer and packer vendors sent representatives who made presentations and exhibited their respective products. Attendees had the opportunity to meet and discuss instrumentation with the vendors on a one-on-one basis. Representatives of a water-well hydrofracturing company attended part of the workshop and made a presentation on the application of their technology in the United States and abroad. Lists of the workshop attendees and vendors are in appendixes 1 and 2.
+TOPICAL OVERVIEW OF THE WORKSHOP
+Presentations on the following topics were made at the workshop, the proceedings of which form the body of this report.
+The latest electronic data loggers and pressure sensors available from the Survey's Hydrologic Instrumentation Facility.
+Research on the hydrology of fractured rocks as related to pressure transducers and packers.
+Techniques used to do hydraulic testing with packers in consolidated to friable sedimentary rocks in the Denver basin.
+Special problems associated with testing deep fractured formations using multiple packers and monitoring water levels up to 2500 feet below land surface at the Yucca Mountain Project.
+Attempts to conduct, with no experience, a project to do hydraulic testing in Oklahoma using packers and pressure transducers.
+Results of using and testing the Survey's R200 downhole water-level sensor-recorder system and a commercially available submersible pressure transducer for monitoring observation wells in Nebraska.
+
+Proceedings of a Pressure Transducer-Packer Workshop, June 25-28,1991 1
+
+Surface-water applications for pressure transduc0rs of the same type used in boreholes.
+Role of packers and transducers in determining tlie hydraulic properties of consolidated sedimentary rocks and the depth of saline water.
+Need for and use of reliable borehole geophysics 1 surveys to determine the locations of permeable zones in conjunction with the placement of packers used for hydraulic testing.
+Development and application of a heat-pulse floMv meter.
+Use of a drilling rig, packer-transducer system, and truck-mounted recorder system by the Idaho National Energy Laboratory.
+Experiences with both expensive and inexpensive transducers used for water-level monitoring in the Grand Canyon.
+Using a hydrofracturing technique to develop minimum-capacity wells in the United States and Africa.
+CONCLUSIONS AND RECOMMENDATIONS
+The attendees reached consensus on the folio? ring points.
+Do wnhole technology should be kept simple. Two attendees related their considerable experience with testing in fractured rocks, and it was agreed that complex instrumentation is best left for uphole, or above-ground, locations.
+The use of well-built commercially available packers is more practical than the use ofcu torn packers. Custom packers, in most cases, do not offer enough advantages over commei cially available packers to warrant the time and effort required to design, develop, and fabricate them.
+Fixed-headpackers are generally more reliable than moving-head packers for most applications.
+
+Mixing pumps can be used to achieve better mixing downhole for tracer-injection studies using packers. Without a mixing pump, it is difficult to get the tracer uniformly mixed in the packed-off segment of the borehole before the tracer is injected into the formation.
+A wet/wet transducer that can sense pressure on either side ofthe transducer is needed to sense plus or minus pressures from a reference pressure. This would have application in the deep wells of the Yucca Mountain Project.
+Electrical connections and transducer electronics must be kept dry. Problems exist with moisture getting into the vent tubes of vented transducers. The vent tube and wiring should pass through a desiccant chamber.
+A list of USGS personnel experienced in the application and implementation of transducers should be prepared and circulated. This was discussed at length and it was recommended that the HIF, the Regional GroundWater Specialists, and the Office of Ground Water act as the field's liaisons with the technical "experts."
+Problems with long-term drift, temperature compensation, and leaks have been encountered in submersible transducers.
+Users of transducers in general should be com-
+mitted to calibrating the units before and during operation. Manufacturers' specifications should not be taken at face value; experience has shown that such specifications are not always reliable. A second workshop should be conducted in November 1992 or 1993. The above conclusions and recommendations
+ha\^e been presented to the Survey's Instrumentation Committee for present and (or) future consideration.
+
+2 PROCEEDINGS OF A PRESSURE TRANSDUCER-PACKER WORKSHOP, JUNE 25128,1991
+
+ATTENDEES PRESENTATIONS
+
+Some Experience Gained from Using Packers and Transducers in Ground-Water Investigations of Crystalline-Rock Aquifers
+
+By Paul A. Hsieh 1
+Several research projects in the National Research Program employ packers and transducers in the study of crystalline-rock aquifers. The study objectives are to develop methods for assessing the groundwater resources of rock aquifers and to investigate solute transport in fractured rocks. The crystalline-rock aquifers under study are characterized by low hydraulic conductivity. Sustained yields of 6-inch-diameter wells drilled in these aquifers are typically several gallons per minute or less. Wells are cased over the unconsolidated surfacial material, such as regolith, glacial drift, and are left as open hole below casing. Well depths range from 200-700 ft. A typical program of field investigation consists of drilling the well and collecting the drill cuttings, logging geophysical properties, pumping with a borehole velocity flowmeter to identify the major water-transmissive fractures, running straddle packer tests (pumping and injection) to obtain a hydraulic conductivity profile of the well, and installing a multiple-packer system for long-term monitoring of hydraulic head and water quality. Crosshole hydraulic tests and tracer tests are conducted at sites where several wells are drilled close to one another.
+This document summarizes the experience gained from using packers and transducers in the field. Packers are used for isolating a portion of a well for hydraulic testing, tracer testing, water-quality sampling, and long-term monitoring. Transducers are used for monitoring fluid pressure in the packed-off intervals during hydraulic and tracer tests. The main criteria for selection of packers and transducers for field use are simplicity of design, ease of reconfiguration in
+1 Hydrologist, U.S. Geological Survey, National Research Program Western Region, Hydrology of Fractured Rocks, MS 496, 345 Middlefield Road, Menlo Park, California 94025.
+
+the field, and interchangeability. Both the packers and transducers used in these studies are commercially available. The packers have fixed heads, 36-inch rubber glands, and four to six feed-through tubings (fig. 1). A truck-mounted hydraulic derrick is used to lower packers on 1-1/4-inch galvanized steel pipes into wells. The transducers are of the strain gage type with pressure range varying from 5 Ib/in to 200 lb/in2. They are operated with a 5-volt excitation and have an output range of 0 to 50 millivolts. Transducer output is recorded on a Campbell 2IX micrologger.
+A common problem encountered in packer tests is trapping air in the transducer access tube. This occurs when a transducer is mounted above the upper packer, and a tube is used to connect the transducer sensing port to the packed-off interval. When the packers are lowered into water, air is trapped in the tube. So that the trapped air can be removed, a hydraulically-operated (normally closed) valve is installed at a T-junction immediately below the transducer. When the valve is opened, the trapped air is bled off. Opening the valve also dissipates the "squeeze pressure" that may develop during packer inflation.
+In tracer tests, a common problem is controlling the amount of tracer injected into the aquifer. When the tracer is injected into a packed-off interval, it must first mix with the wellbore water before entering the fractures. This mixing causes an uncertainty in calculating the mass of fluid entering the fractures. Installing a third (central) packer in the packed-off interval overcomes this problem. Prior to tracer injection, this packer is inflated to prevent flow into the fractures. Tracer is circulated through the packed-off interval until a uniform concentration is achieved. The central packer is then deflated to allow the tracer to be
+injected into the fractures. After injection is completed, the central packer is again inflated to prevent
+
+Some Experience Gained from Using Packers and Transducers in Ground-Water Investigations of Crystalline-Rock Aquifers 5
+
+INFLATION PORT
+
+PIPE
+^-PLASTIC ^^ COLLAR
+6LAND
+
+Figure 1 . Inflatable packer. 6 PROCEEDINGS OF A PRESSURE TRANSDUCER-PACKER WORKSHOP, JUNE 25-28,1991
+
+additional tracer from entering the fractures. The packed-off interval is then flushed with clean water to remove the remaining tracer.
+Because wells drilled at research field sites must serve many purposes, packers installed in these wells on a long-term basis must be removable to allow access for other instruments, such as a newly developed geophysical tool. A multiple-packer setup for long-term monitoring was developed to meet this requirement. This setup uses tubes to connect packedoff intervals to 2-inch polyvinyl chloride (PVC) pipes that are strapped to the steel pipe from which the packers are suspended. A float-counterweight device connected to a 10-tum stage potentiometer is used to monitor water levels in the pipes. (Transducers are not used because of drift.) A small sampling pump can also be lowered into the pipes to obtain water samples from the packed-off interval.
+
+Some recommendations for users of packers and transducers are as follows. For most applications, the basic components are commercially available and inhouse fabrication is generally not necessary. The equipment setup should be simple and amenable to reconfiguration in the field. The best setup will emerge with field application, locking into one design at the start is best avoided. Redundancy should be designed into the setup, and check measurements should be made as often as possible to ensure high-quality data. Air leaks from an inflated packer are a common problem, but they can generally be eliminated by careful examination of the packers and tubing connections before lowering the packers into the wells. Carefully installed packers can remain inflated in a well for over a year without loss of air pressure.
+
+Some Experience Gained from Using Packers and Transducers in Ground-Water Investigations of Crystalline-Rock Aquifers 7
+
+Wire Line Logs and Conventional Packers Issues and Research Opportunities
+
+By Frederick L. Paillet 1 and Alfred E. Hess 2
+Boreholes are the primary means for sampling the subsurface in ground-water studies, but sample loss and drilling-induced disturbance usually complicate the interpretation when studies are based on drilling and sampling alone. Another, sometimes more effective, means of determining the hydraulic properties of sediments is to sample the formation in situ using the drilled hole to access the formation. Established methods for measuring properties of geologic formations in the borehole follow two general approaches: (1) geophysical measurements (well logs) made while trolling a sonde along the borehole using a wireline and winch and (2) hydraulic measurements (packers tests) made in isolated intervals using straddle packers, tubing, pressure sensors, and fluid samplers suspended on a pipe from a drill rig.
+This discussion considers the issues and research opportunities associated with maximizing the hydrologic data available from studies combining both wire-line logs and straddle-packer measurements. Five important areas are identified where logging and packer techniques are related and where additional improvement of equipment of data analysis techniques have the potential to make significant contributions in ground-water studies.
+Logs as a generalized guidefor packer seating. Geophysical logs do not yield a direct measurement of hydraulic properties of interest but give another measurement such as electrical resistivity or natural gamma activity that can sometimes be correlated with hydrogeology. The self-contained logging
+^ydrologist, U.S. Geological Survey, Branch of Regional Research, Borehole Geophysics, MS 403, P.O. Box 25046, Denver Federal Center, Lakewood, Colorado 80225.
+2Electrical Engineer, U.S. Geological Survey, Branch of Regional Research, Borehole Geophysics, MS 403, P.O. Box 25046, Denver Federal Center, Lakewood, Colorado 80225.
+
+truck, with its associated equipment, provides a useful means of quickly identifying depth intervals where packers will seat and where straddled intervals will isolate specific beds or formations of interest. The caliper and televiewer logs are especially useful when there are "caved" zones, or where high-angle fractures might short-circuit flow around packers. These issues are illustrated with case studies from Hanford, Washington, and Mirror Lake, New Hampshire (fig. 2), and from southeastern Manitoba, Canada (fig. 3).
+Correlating logs andpacker data. Verification and correlation of logs and packer data are important parts of formation analysis. The correlation involves averaging of log data over intervals equivalent to those isolated by straddle packers. This requires careful depth correlation between nominal depths given by the logs and those given by the packer string. Moreover, the "interval averaging" used for the log data requires weighting of the response in such a way as to emphasize features relevant to hydraulic tests. Specific examples include the nonlinear dependence of permeability or transmissivity on porosity and fracture aperture. Even when log response is properly weighted and integrated over intervals corresponding to straddle-packer spacings, close correlation may not be expected because logs sample a much smaller volume of formation than hydraulic tests made with packer strings. This inherent difference can be used to infer the effect of scale on the hydraulic properties of the formation. Several examples are cited from the recent literature. The approach has great potential in studies where comparison of aquifer properties at multiple scales is important
+Rapid identification offractureflow systems. Straddle-packer measurements are time consuming, especially when tracer studies or repeated purging and sampling of tight formations are involved. Logs can be used to identify a few important flow systems in frac-
+
+Wire Urn Logs and Conventional Packer* Issues and Research Opportunities 9
+
+ACOUSTIC TELEVIEWER
+
+FRACTURES PER 5 METER
+INTERVALS
+
+o-0i
+
+5 i
+
+10 15 ii
+
+20-
+
+40-
+fc
+60-
+E-M BO-
+OC
+(jj 100-
+
+:- 120-
+0 180-
+180-
+200-
+"
+220-
+
+.
+
+ACOUSTIC TUBE-WAVE AMPLITUDE EQUIVALENT SINGLE-FRACTURE APERATURE 024 8mm
+i iT
+___Wm^'
+k.
+r^
+tmmmmumm
+M
+
+PACKER ISOLATION AND INJECTION EQUIVALENT
+SINGLE-FRACTURE APERATURE
+0 .2 .4 8mm
+111!
+L_
+
+PUMPING TEST
+EQUIVALENT SINGLE-FRACTURE
+APERATURE
+024881 Omm iiii i
+
+VERTICAL SEISMIC PROFILE TUBE-WAVE
+GENERATION
+EQUIVALENT SINGLE-FRACTURE
+APERATURE
+i0 OS .10mm
+
+mmmmm^
+
+^
+
+L»M Than 005 L»t< Than 005
+
+Figure 2. Well log, cross-borehole pumping test, straddle packer hydraulic test, and vertical seismic profile tube-wave data for a borehole at Mirror Lake, New Hampshire; scale of investigation increases from less than 1 cm on the left to more than 10 m on the right.
+
+ACOUSTIC TUBE WAVE ATTENUATION
+
+INDIVIDUAL FRACTURE RESPONSE
+
+INTERVAL SUM OF TRANSMISSIVITIES
+
+PACKER TESTS
+
+TUBE WAVES GENERATED IN VERTICAL SEISMIC PROFILES
+
+EQUIVALENT SINGLE FRACTURE APERTURE. IN MILLIMETERS 0 020-1 06 0 02 0 4 0 6_08 0 002 00* 0.06
+Ii
+
+VSP TUBE WAVE AMPLITUDE.> PERCENT
+OF MAXIMUM VALUE 0 25 SO 75 100
+
+NO DATA
+
+NO DATA
+
+OJ
+=< ICC
+Lc_ en c
+i»
+
+ZON£
+
+c. Au--/;' UcJ ZONE f ; -
+Figure 3. Comparison of acoustic tube-wave attenuation log, straddle packer hydraulic test, and vertical seismic profile tube-wave data for a borehole in granite southeastern Manitoba, Canada.
+
+Wire Line Logs and Conventional Packer* Issue* and Research Opportunities 11
+
+tures formations where many fractures intersect th< borehole, and it is not immediately clear which of these fractures are associated with larger-scale flov systems. Temperature and fluid conductivity logs provide indications of flow along the borehole when naturally occurring hydraulic-head differences between fracture flow systems drive flow along the borehol< These naturally driven flows are much more effectively quantified using a recently developed thernu pulse flowmeter. Also, flow may be measured during fluid injection or production to help quantify the hydraulic conductivity of a well. An example is pn sented in figure 4. Recent studies where thermal-pulse flowmeters have been used to efficiently identify larger-scale flow systems provide case histories whsre flow data significantly simplified straddle-packer p-ocedures.
+Flow-concentrating wire-line packer. Vertical flow measurements are important in ground-water studies because flowmeter data can be used to generate nearly direct estimations of the vertical profile of hydraulic conductivity using conventional wire-line
+logging methods (spinner or thermal-pulse flowmeters). A downhole packer system has been developed to block the annulus around the measurement sectic of flowmeters, thereby increasing flowmeter sensitivity and improving measurement accuracy. Calibration data illustrate the increases in flowmeter sensitivity associated with the flow-concentrating packer.
+
+Wire-line-operated straddle-packer system. The relative ease of performing repeat measurements with the wire-line-powered packer used with the thermal flowmeter indicates that a self-contained wireline-operated packer system could be developed for formation testing and might improve the speed and efficiency of formation sampling. The system would be designed to include two or more downhole packers, apparatus for purging or pressurizing the isolated intervals, and equipment for recovering water samples from the purged system or monitoring formation pressure differential or decline. Initially, this equipment would complement conventional straddle-packer techniques. If the wire-line straddle packer functions as envisioned, it could reduce the need to use the more cumbersome and time-consuming pipe-mounted straddle packer in many cases. Comparative studies of short-duration wire-line packer measurements and prolonged straddle-packer studies of larger intervals of the borehole might provide a means of investigating the hydraulic properties of formations at two different scales. Some details of the proposed system are illus-
+trated by schematics for a preliminary design developed by the Borehole Geophysics Research Project.
+
+12 PROCEEDINGS OF A PRESSURE TRANSDUCER-PACKER WORKSHOP, JUNE 25-28,1991
+
+BOREHOLE FLOW, IN GALLONS PER MINUTE
+
+TELEVIEWER LOG
+
+Downflow Upflow
+
+0.10
+
+O.05
+
+0.00
+
+50 i
+
+I Water Released from Borehole
+
+60
+
+Storage Down from Casing)^
+
+I
+
+I
+
+Early Plow Regime
+eo Late Flow
+Regime
+
+90
+100|
+CL UJ
+C no
+120
+
+Inflow
+I Maior Outflow
+I I
+
+130
+Early Fiow Measurement
+o Late riow 140 Measurement
+
+Minor Outflow
+
+150
+Figure 4. Measurement of flows induced in borehole FSE-5 by pumping in borehole FSE-4 indicate fractures connected to larger scale flow systems at Mirror Lake, New Hampshire.
+
+Wire Line Logs and Conventional Packert-Issues and Research Opportunities 13
+
+Basic Data Recorder System Test Results
+
+By Donald H. Rapp 1
+In 1989, the U.S. Geological Survey purchased a new hydrologic sensing and recording system to supplement and eventually replace the punch-paper-tape digital recorders and manometers. The commercially developed Basic Data Recorder (BDR) System has three major components purchased from eight manufacturers. The first component is the electronic recorder with solid-state memory, programmable controller, and interfaces for both analog and serial-digital sensors. The hydrologic sensors are the second major component. The third is the data-retrieval component, which is a commercially available portable computer with BDR-specific software.
+The recorders and the sensors were qualification tested at the manufacturers' facilities and system tested at the Survey's Hydrologic Instrumentation
+
+Facility (HIF) in 1989 and 1990. The system tests detected a number of problems, all of which were resolved. In later 1989, the HIF installed two systems at its local Pearl River test station, and the Survey's Pennsylvania District installed two at local streamflow-gaging stations. A few problems were detected during field-test conditions and corrected. In the spring of 1990,55 BDR's and water-level encoders were shipped to seven Survey offices for installation at existing stream-gaging stations. These seven offices experience the climate extremes that occur throughout the country. Comparison data have been collected and analyzed for all stations. Only minor problems were detected and corrected. Overall, the BDR System performs effectively and efficiently.
+
+1 Chief, Test and Evaluation Section, Hydrologic Instrumentation Facility, U.S. Geological Survey, Bldg. 2101, Stennis Space Center, Mississippi 39529.
+
+Basic Data Recorder System Test Results 15
+
+Evaluation of Two Submersible Pressure Transducer Systems
+
+By Gregory V. Steele 1
+The Nebraska District of the U.S. Geological Survey (USGS) evaluated the accuracy and practicality of two submersible pressure transducer systems for recording water levels. The first was the USGS model R200 downhole recorder, developed by the USGS Hydrologic Instrumentation Facility (HIF) at Stennis Space Center, Mississippi. The R200 combines a downhole submersible pressure transducer and a data recorder. It can be completely enclosed and can operate within a 2-inch-diameter well casing for 12 months. The second system was the WaterLog H-300, developed by Design Analysis Associates. The WaterLog H-300 can interface with above-wellhead continuous electronic recorders.
+Between fall 1985 and spring 1987, the Nebraska District evaluated eight R200's. The R200's were installed in eight wells that had differing depths to water and total water-level fluctuations. The waterlevel depths ranged from 6.5 to 160 ft below land surface, and the greatest fluctuation at a well was approximately 51 ft during the evaluation. Five of these wells also were equipped with a float-operated punchedpaper-tape digital recorder.
+During the evaluation, several field personnel were trained to operate the R200 with either 15- or 30pound-per-square-inch transducers. Although the field calibration and data retrieval from the R200 were time consuming, generally 20 to 30 min with a Husky Hunter personal field computer (PFC) and 40 to 50 min with an Epson HX-20 PFC, the field personnel were able to easily complete the tasks. Mean differences between the R200 and a steel-tape-measured value were generally constant, 0.01 ft to 0.2 or 0.3 ft between field calibrations. Although the R200 was designed for 0.5 percent accuracy (0.35 ft for
+1 Hydrologist, U.S. Geological Survey, Hydrologic Investigations Section, District Office, Room 406 Federal Building, Lincoln, Nebraska 68508.
+
+30 Ib/in 2; 0.16 ft for 15 Ib/in 2), the unit was less accurate than the float system. During September 1986, the R200 value varied from that of the floatoperated recorder by as much as 55 ft. The downloading of the data from the R200 onto the Nebraska District PRIME computer using the software provided by the HIF proved to be difficult at times. In order to obtain all the values from the Husky Hunter PFC, the data occasionally had to be handwritten. Without the time-tagged hour/minute values, it was difficult to input the data into data-processing files.
+From January 1990 to January 1991, the Nebraska District evaluated the Design Analysis Associates WaterLog H-300 submersible transducers for accuracy. A 5-pound-per-square-inch transducer was placed in a well in which the depth to water fluctuated seasonally between 39 and 65 ft Data from the transducer were collected by a Sutron 8200 electronic data logger using the serial digital interface-12; the 8200 also collected data from a float-activated shaft encoder for comparison. During the initial phase of the evaluation, January 29, 1990, to March 1, 1990, the differences between the transducer and steel-tape values were equal to or less than the differences between the float-system and steel-tape values. The float system was more accurate than the pressure transducer, starting February 8, because of contraction of the polyethylene-vented cable after it was installed next to the cold steel casing. Re-installing the cable away from the steel casing seemed to correct this problem.
+A 15-pound-per-square-inch transducer seemed to follow a hysteretic loop between falling and rising water levels, with the transducer measuring lower water levels upon recovery. Except for the hysteresis, the transducer performed within an accuracy of 0.02 percent over the temperature range, as specified. The 15-pound-per-square-inch transducer became inoperable because the desiccant packs became saturated by
+
+Evaluation of Two Submersible Pressure Transducer Systems 17
+
+humid weather and condensation entered the transducer; another 15-pound-per-square-inch H-300 was installed. This transducer did not perform as well as its predecessor; there was greater hysteresis and some measured values differed by as much as -0.43 foot.
+The evaluations indicated the following resul Each unit can be installed within 2-inch-diameter c;isings and in wells where depths to water, seasonal fluctuations, or well construction (not plumb) can mak float-operated recorder useless. The R200 can be left in the field for 12 months with little attention.
+
+though the R200 met the designed accuracy of+0.5 pe rcent of full scale, the water levels determined by
+transducer did not provide the desired accuracy of 0.05 ft for the Nebraska District's ground-water applications, and in one well the transducer error was well over 50 ft. The software used to download the R200
+ta also needs refinement. The H-300 generally can praduce data as good as or better than data produced by a conventional float system, but transducers that have the same pressure rating may vary in accuracy.
+
+18 PROCEEDINGS OF A PRESSURE TRANSDUCER-PACKER WORKSHOP, JUNE 25-28,1991
+
+Regional Aquifer-System Analysis Double-Packer Aquifer Tests
+
+By David B. Westjohn 1
+In the Michigan Basin Regional Aquifer-System Analysis double-packer aquifer test program, five test holes of 600 to 700 ft were drilled for the purpose of investigating ground-water chemistry, geological and geophysical properties of aquifers and confining units, and hydraulic properties of basin aquifers in areas where the aquifer system contains saline water or brine. One of the key elements of the project was to acquire native formation fluids as well as sandstone samples from the same geological environments. The goal of this aspect of the program was to determine major and trace elemental compositions and isotopic compositions of pore water and to conduct detailed mineralogical investigations of the solid phase samples (cores or rotary cuttings) for testing different geochemical models that predict equilibrium/disequilibrium rock-water interactions. Tests of these models depend on the acquisition of "true" formation pore water. There were many facets of the project, such as aquifer tests, hydraulic conductivity measurements of cores, and petrophysical property determinations of cores. This presentation is focused on problems related to acquisition of native pore fluids.
+On-the-job training was provided using the district packer rig. All holes were air-rotary drilled to avoid potential problems with mud-invasion effects on the aquifer tests. Gearhart (now Halliburton) was contracted to log each hole, and a suite of logs commonly run in hydrocarbon exploration drill holes was generated. These logs were critical in selecting intervals for the packer tests, particularly since the combination of porosity and multiple resistivity logs allows for a very good approximation of the salinity of the in situ formation fluids.
+1 Hydrologist, U.S. Geological Survey, Project Office, Regional Aquifer-System Analysis, 6520 Mercantile Way, Suite 5, Lansing, Michigan 48911.
+
+Although favorable results were acquired during the extensive test program, careful analysis of the data indicates that native formation fluid was produced in few, if any, of the tests. This problem can be attributed primarily to packer-gland fatigue although other problems cannot be ruled out. All of the units on which tests were attempted were very tight unfractured sandstones, and, in several cases, the formations were under conditions of significant negative head differential. On the basis of interpretation of geophysical logs, deeper intervals in three of the test holes contained brine (greater than 100,000 milligrams per liter dissolved solids); commonly in pumping these intervals, conductivity of the produced water would rise incrementally. The process was, however, very slow because the pump rates were from 10 to 30 gal/min (the maximum attainable because the units were tight). As the specific conductance of the pump water approached the expected values (+90,000 microsiemens) a decrease in specific conductance was noted. It is probable that there was slight leakage in the upper packer. This leakage was not perceptible in terms of change in static water level because the water-producing zones above the packed interval are orders of magnitude more productive.
+Packer-gland failures, which were not uncommon, proved to be an unfortunate problem. As a result of these failures, intervals that were being pumped recharged rapidly with nonnative fluids from waterproducing zones above the test interval. This was an annoying problem because pulling the test string and re-rigging and setting the string are time-consuming tasks complicated in some cases, by the recharging of the formation with thousands of gallons of "stray" borehole fluid. More significantly, however, the isotopic signature of the native pore fluid is adulterated by even slight dilution of the high-salinity formation fluid with fresh or low-salinity water. Therefore, most, and
+
+Regional Aquifer-System Analysis Double-Packer Aquifer Tests 19
+
+possibly all, of the fluid samples produced with the double packer assembly were mixed waters from di ferent intervals in the borehole.
+The packer glands used with the Wisconsin rig are manufactured by Rubber Specialties, Inc., Pens* cola, Florida. They do not have any type of reinforce ment, which may be part of the reason why failures £ re not uncommon. The packer glands undergo considerable deformation when testing tight units or in case; where there are significant irregularities in the rock units exposed in the borehole.
+
+The pressure transducers used were manufactured by Envirolabs and are rated at 0 to 300 Ib/in 2. Several times during testing and development of the gating systems, the transducers had to be returned to the manufacturer because of instrument failures. The m<inufacturer determined the cause of the failure to be "le akage problems," which were detected by trial and error. The transducer housings and connector-cable joints at the housings were apparently the problem areas. Similar transducers purchased many years earlier are still operating with no reported problems.
+
+20 PROCEEDINGS OF A PRESSURE TRANSDUCER-PACKER WORKSHOP, JUNE 25-28,1991
+
+Use of Pressure Transducers to Gather Time Drawdown Data in Single-Hole Pump Tests, Wellston Area, Oklahoma
+
+By Ron A. Funkhouser 1
+The purpose of this project was to determine whether individual sandstone layers containing small amounts of radioactivity could supply an adequate volume of water for a city water supply. This area was studied because it is prone to low specific capacities (typically 0.08 to 0.99 gallons per minute per foot) and large radioactivities in ground water. Production wells are open to all sandstone layers, and often the mixed water has unacceptable levels of radioactivity.
+The specific capacities of individually isolated sandstone layers in Wellston Test-Hole #1 were determined using single-hole pumping test methods. Four sandstone intervals were picked from geophysical and core logs. Each interval was isolated in the 475-ft-deep open test hole using inflatable packers separated by enough well screen to accommodate the interval. The packers were suspended from 3-inch pipe, and a pressure transducer was placed above the packers on the outside of the pipe to monitor the annulus for leak-
+
+age around the packers. A 2-inch submersible pump was placed at the base of a 1-inch production pipe; pressure transducers were attached to the outside of the production pipe. The production pipe, pump, and transducers were lowered into the packer string as far as the screened interval, up to a maximum pump depth 247 ft below ground level. Pressure transducers and a Campbell Scientific 2IX micrologger recorded the change in water level with respect to time during pumping and recovery.
+Providing a reliable power supply in the field, writing the software to record and manage the data, and correlating pump depth, transducer spacing, drawdown, and discharge rates all posed significant challenges during the project Specific capacities calculated for the four sandstone layers ranged from 0.017 to 0.25 gallons per minute per foot. The individual sandstone layers tested could not provide adequate low-radioactivity water for a city water supply.
+
+1 Civil Engineer, U.S. Geological Survey, District Office, Field Unit 2, Building 7, 202 N.W. 66 Street, Oklahoma City, Oklahoma 73102.
+Use of Pressure Transducers to Gather Time Drawdown Data in Single-Hole Pump Tests, Wellston Area, Oklahoma 21
+
+Use of Pressure Transducers in the Arkansas District
+
+ByTerrence E. Lamb 1
+In the Arkansas District, experience with pressure transducers for hydrogeologic investigations is limited. The district has no recent experience with packers; however, it does have some recent experience with pressure transducers in surface-water applications.
+For 4 years, the district has been trying different types and brands of pressure transducers. The search is continuing for a reliable, moderate-cost transducer for routine long-term data collection. The district has tried transducers that fill some low-accuracy needs at moderate cost and one transducer that appears to fill the need for 0.01-foot accuracy but at a relatively high cost. The district's experience is summarized in the following paragraphs.
+Setra, model 270,20 Iblin2 gage. This nonsubmersible instrument has been installed on a bubbler system and controlled by a Synergetics DCP (data-collection platform). Twenty-four-volt dc power is strobed to the transducer for a few seconds every 15 min. The accuracy obtained is ±0.08 ft, which is sufficient for this stage-only gage on a large river. There has been only one failure of this installation in 47 months of operation, and that was due to power failure.
+Campbell Scientific, vibrating wire, 5 and 10 Iblin 2 gage. These instruments were operated in a clear spring-fed stream for several months with little success. Readings were very erratic.
+
+Kavlico, model P350,5 Iblin gage. This nonsubmersible instrument was packaged in a sealed and vented case and submerged. Results were erratic and not reproducible.
+Druck, PDCR 130/D, 5 and 15 Iblin2 gage. This model has been used at two different installations in tandem for increased accuracy at low stages. They were very reliable, with reproducible long-term drift. They demonstrated a need for automatic temperature compensation.
+Paroscientific, PSS-1 and PS-2 from HIF. These two instruments have been used for a short time and seem to be both accurate and reliable. However, there is no long-term history of the drift to be expected in the field, and they are expensive.
+Waterlog, H-300 series by Design Analysis Associates, 15 and 30 Iblin2 gage. These submersible transducers are internally temperature compen-
+sated and are available with SDI-12 output. Six have been installed in shallow wells and one in a small stream. So far they look promising, but some problems have arisea
+Because of the increased demand for a replacement for the mercury manometer, it is likely that there will be a sufficiently accurate, moderate-cost submersible pressure transducer available soon.
+
+1 Assistant District Chief HSS, U.S. Geological Survey, District Office, Hydrologic Surveillance Section, 2301 Federal Office Bldg., 700 West Capitol Avenue, Little Rock, Arkansas 72201.
+
+Use of Pressure Transducer* in the Arkansas District 23
+
+Use of Packers and Transducers in Aquifer Tests in Castle Pines, Colorado
+
+ByStanleyG. Robson 1
+A string of multiple packers and pressure transducers was used to monitor pressure response in a 2,400-foot-deep observation well during an aquifer test at Castle Pines, Colorado. The observation well was fully cased, pressure grouted into the borehole, and gun perforated opposite selected lithologic units. The packer string consisted of four inflatable packers spaced so as to isolate individual perforations in the observation well. Three pressure transducers were mounted in a housing located above the upper packer and ported to each interval between packers by means of 1/4-inch nylon tubing. Shielded multiconductor cable provided the surface connection for power and signal. Packers were inflated by means of one 1/4-inch nylon line to the surface and cylinders of compressed nitrogen.
+Testing was conducted by setting the packer string to the required depth in the observation well. The packers were then inflated to 50 to 100 lb/in2 over the hydrostatic pressure at that depth. Inflation of the packers produced pressure changes in the packed-off
+
+intervals. The packer string was left undisturbed for 18 h to several days to allow these pressure changes to dissipate. A 50-foot-distant fully penetrating irrigation well was started and pumped for 4 h to produce pressure changes in the formations near the observation well. Pumping time, rate, and drawdown were monitored in the irrigation well. Analog pressure response graphs were recorded for each transducer in the observation well.
+Time-drawdown data for each perforation in the observation well were used in conjunction with analyses of core samples, geophysical logs, and aquifer compression measurements to determine hydraulic characteristics of the various lithologic materials present in the aquifer. Novel techniques for estimating confined storage coefficient were developed and determination of specific yield from interpretation of geophysical logs was evaluated.
+[Contact the author for details of developed techniques. ED.]
+
+1 Supervisory Hydrologist, U.S. Geological Survey, District Office, Hydrogeologic Unit, MS 415, Bldg. 53, Denver Federal Center, Box 25046, Lakewood, Colorado 80225.
+Use of Packers and Transducers in Aquifer Tests in Castle Pines, Colorado 25
+
+Packer-Transducer Use in the Arizona District
+
+By Michael C. Carpenter 1
+The Arizona District has experience with several types and brands of transducers, including models by Wiancko, Statham, Druck, Setra, Motorola, and Microswitch. Transducers have been used submerged, in air lines, and in packers. The district has made its own packers and trimmed glands down by cooling the packer rubber in a dry ice/acetone bath and then turning the diameter down on a lathe. The district has also made housings for Druck transducers to prevent leakage through the rubber boot. The 900 series housing has a B-1610-1-16 Swagelok fitting and the 800 series housing (in which nylon ferrules have been substituted for brass) has a B-18MO-1-8 fitting. The cable is sealed with a Thomas and Betts 2671, 2690, or 2672 fitting. A Whitey B42VF2 valve provides an excellent means of checking zero drift on transducers in air lines.
+The district is presently making its own housings for the transducers that it buries on the beaches of the Grand Canyon (fig. 5). The housings consist of two 3/4-inch polyvinyl chloride (PVC) pipe caps, with a hole drilled in each, connected by a small section of pipe. The cable goes through the hole in one cap and is soldered to the sensor leads. The sensor port is press fitted through the hole in the other cap. The inside is then filled with potting compound. Before the compound is mixed, the glue components should be heated to 100 °F. When the compound begins to get hot, it should be poured quickly.
+
+The district uses a Paroscientific 760-100A portable standard, a nalgene dewar, and a manifold to obtain accurate pressure and temperature calibrations of transducers. A one-time calibration can give 0.03 percent of full scale or 0.001 ftH2O. This calibration of voltage output has coefficients for offset, pressure, pressure squared, temperature, and product of temperature and pressure. The equation with all coefficients except pressure squared gives results almost as good.
+There are some concerns that a number of people who are using transducers are not getting adequate checks on zero drift, thermal effects, and other sources of error. Field forms and calibration forms can address this concern (figs. 6a and 6b). Transducers with analog signals, especially those with long leads, should be checked with an oscilloscope and a chart recorder before they are hooked up to a data logger.
+Experience gives rise to several questions concerning transducers.
+1.What are the long-term problems with transducers zero drift, changes in calibration, and thermal effects?
+2.How well do transducers hold up to long-term submergence?
+3.Will Motorola and Microswitch transducers at a cost of $25 or less satisfy USGS requirements?
+4.How reliable are Druck transducers in any application?
+5.How much calibration is enough?
+
+1 Hydrologist, U.S. Geological Survey, Office of the Chief, Hydrologic Investigations and Research, Studies and Research Personnel, 375 S. Euclid Avenue, Tucson, Arizona 85719.
+
+Packer-Transducer Use in the Arizona District 27
+
+Figure 5. Housing for transducer used in the Grand Canyon beaches (produced in the Arizona District).
+28 PROCEEDINGS OF A PRESSURE TRANSDUCER-PACKER WORKSHOP, JUNE 115-28,1991
+
+eh Evolution Project Ot10/SM716 Data Retrieval
+
+Date
+
+Start tna Tie.
+
+Location 43l
+
+OtlO WJ 480559
+
+Scan rate 1200 aac Outut interval 20 an n
+
+AM 16 Differential 1654 Single Ended 1655
+
+Ending Tie* CR10 SN 08806
+CR10 Proa ID_
+
+Observer S*716 SN 1788 Proa Date
+
+CR10 Current lead i no*
+
+Julian Day SubBeraencc. HjO
+
+Urn
+
+Set clock?
+
+cTaapereture,
+
+:
+
+1
+
+areat 1 M18
+
+31
+
+Vea box
+
+2
+
+BaroB 2 M30
+
+32
+
+Soil 0.25 at
+
+3
+
+area 3 M24
+
+33
+
+2.50 m
+
+4 liver Sti»oe M75 34
+
+1.25 m
+
+5 41
+
+35
+
+0.50 B
+
+6 42
+
+36 35
+
+7 43
+
+37 36
+
+8 35
+
+38 37
+
+9 36
+
+39 39
+
+10 37
+
+40 44
+
+11 44
+
+41 45
+
+12 45
+
+42 46
+
+13 46
+
+43 38
+
+14 38
+
+44 40
+
+15 39
+
+45 41
+
+t6 40
+
+46 42
+
+17 47
+
+47 43
+
+18 48
+
+48 Tilt S4
+
+19 49
+
+49 are 8ox 0.47 a>
+
+20
+
+N90 ve« 1.53
+
+50
+
+47
+
+21 M91 0.81 51
+
+48
+
+22 M92 1.68 52
+
+49
+
+23 M93 tare 1.16* S3
+
+aroB
+
+24 M9* 0.85 54
+
+Tilt 48
+
+25 M95 1.84 55
+
+Tilt 45
+
+56 57 SB 59
+Tilt. ' 63 64 65 66 67 66 69 70 71 72 73 74
+79 80 81 82
+
+Tilt 17 Tilt 18 Tilt 42 liver
+Tilt S4 X Y
+Tilt 48 X Y
+Tilt 18 X Y
+Tilt 45 X Y
+Tilt 42 X Y
+Tilt 17 X Y
+Panel Teac. *C tat Voltaoe ProoraB Signature 5V SuDDlv
+
+lamerks
+
+Figure 6a. Grand Canyon Beaches Form 1.3.
+
+GRAND CANYON 8EACNES FORM 1.3
+Packer-Transducer Use in the Arizona District 29
+
+tfrflT. Level Data
+
+431
+
+yell
+
+Tiae Alt MP
+Mold - Cut Measured DV Alt US
+
+yell
+
+lime Alt MP
+Mold - Cut Meesjred DU Alt WS
+
+Well
+
+Tiae Alt MP
+Hold - Cut Measured DW Alt US
+
+yell
+
+Tiae Alt MP
+Mold - Cut Measured DU Alt WS
+
+Well
+
+Tiae Alt MP
+Mold Cut Measured DW Alt WS
+
+Well -
+
+Tiae Alt MP
+Mold Cut Measured OW Alt WS
+
+Alt LS
+
+HP
+
+Alt MP
+
+, t _, , .,
+
+Pipe I«n0t 1 * Sutaatrgenc >
+
+Alt US
+
+Alt LS
+
+MP
+
+. Alt HP
+
+_, Pipe langt »
+
+. * Sutaaargenc t
+
+Alt WS
+
+Alt LS
+
+Alt MP
+
+MP
+
+, Pipe langt r\ . * Sutaergenc t
+Alt WS
+
+Alt LS
+
+Alt MP
+
+MP
+
+Pipe langt h . * Subnergenc*
+Alt WS
+
+Alt LS
+
+Alt MP
+
+NP
+
+, Pipe lenfth . * Subwrgenc e
+Alt MS
+
+Alt LS
+L , _,__
+
+Alt MP
+
+MP
+
+Pipe langth * Subagrgence
+Alt MS
+
+2
+Figure 6b. Grand Canyon Beaches Form 1 .2 Continu^3d.
+i
+
+_,, , 0 Drift Chack ,
+Corract ion
+. 0 Drift Chack , Correction
+. 0 Drift Chack . Correction
+. 0 Drift Check r Correction
+. 0 Drift Check . Correction
+, , . 0 Drift Chack .
+Correction GRAND CANYON BEACHES FORM 1.3
+
+30 PROCEEDINGS OF A PRESSURE TRANSDUCER-PACKER WORKS1HOP, JUNE 2 »28,1991
+
+Monitoring Static Water Levels in the Yucca Mountain Area
+
+SyGrady M. O'Brien 1
+The site saturated zone activity of the Yucca Mountain Project in Nevada is using pressure transducers and packers to monitor static water levels and fluid pressure in 13 wells with 21 zones in the Yucca Mountain area. The depth to water ranges from 900 to 2,500 ft with an average depth to water of 1,700 ft.
+There are two types of transducer applications currently in use. Druck PDCR 950 transducers (voltage output) in 1-, 5-, and 10-pound-per-square-inch ranges (referenced to local atmospheric pressure) are being used with Campbell Scientific 2IX data loggers. Druck PTX 165 current loop transmitters in 2.5- and 5-pound-per-square-inch (referenced to local atmospheric pressure) are being used with Handar DCP equipment.
+Several well configurations are currently in use. The basic well setup consists of two zones with a 4-1/4-inch outside diameter, single-set, dual-seal, dual-element packer string. Water-table wells with surface casing only and shallow aquifer penetration are used. One well is cased to 4,256 ft to monitor a deep Paleozoic formation. Nested piezometers are used to monitor four zones in a 5,000-foot deep well. A small diameter air inflatable packer is used in access tubes of wells with packed off zones to monitor fluid pressure.
+In addition to hourly measurements, analog chart recorders are used to monitor transducer output. Two Esterline-Angus single-channel and one AstroMed two-channel chart recorders are in use. In this configuration, the transducers are continuously powered so that a true continuous record can be obtained.
+The data obtained from the monitoring systems are used to determine aquifer properties and the potentiometric surface. Aquifer response to the strain of
+1 Hydrologic Technician, U.S. Geological Survey, Project Office, Yucca Mountain Project Branch, Hydrologic Investigations Program, SZ Site Hydrology, MS 421, Bldg. 53, Box 25046, Denver Federal Center, Lakewood, Colorado 80225.
+
+atmospheric loading, earth tides, earthquakes, and underground nuclear explosions is analyzed.
+The techniques used to monitor water levels have evolved since 1983 when the first system was set up. Absolute transducers with a 15-pound-per-squareinch range were set at a depth of 15 ft originally. This proved to be unsatisfactory due to the small waterlevel fluctuations (0 to 1.3 ft) observed in the area. The use of absolute transducers also required processing the data to remove the barometric pressure effect. The water-level changes due to barometric pressure were not seen by the transducer. The amount of water-level change was nearly equal to the barometric pressure change. These changes are in opposite directions and tend to cancel each other.
+The current water-level monitoring network uses 1-, 2.5-, and 5-pound-per-square-inch transducers (referenced to local atmospheric pressure) placed at a depth of 3 ft. This allows for greater resolution of the small water-level changes. The data do not require an adjustment to account for barometric pressure changes. The entire monitoring system is calibrated while installed in the well.
+The most significant problem encountered is the great depth to water. This results in lead lengths as great as 5,000 ft to monitor the transducer output. The transducer cables must be spliced with four conductor armored logging cables to reach the surface recording equipment. There are inherent problems when using voltage measurements at these lead lengths. Anomalous data are periodically present and often correlate to severe weather conditions. The current mode transmitters have been more stable and less prone to spurious data. However, a digital signal may be the best method of transmitting measurements to the surface. Because this technology has not been rigorously tested for this application, acquisition of an serial-digital-interface12 system has not been initiated. The transducer vent
+
+Monitoring Static Water Levels in the Yucca Mountain Area 31
+
+tubes must be terminated about 30 ft above the wate;r surface in a 100 percent humidity environment. This presents the problem of water entering the transducer through the cable and (or) vent tube. Desiccant at the cable termination point is not capable of maintaining < dry environment for extended periods. The use of an
+
+aiij-tight bladder is being tested in an attempt to preveit moisture from entering the transducer cable and veil. Druck, Inc., is currently developing a wet/wet deferential submersible transducer that may provide a so ution to this problem.
+
+32 PROCEEDINGS OF A PRESSURE TRANSDUCER-PACKER WORKSHOP, JUNE! 15-28,1991
+
+Pressure Transducer Applications: Site Saturated Zone Yucca Mountain Project
+
+By James M. Gemmell 1
+The site saturated-zone project at Yucca Mountain, Nevada, has two basic applications for the use of pressure transducers. Multiple-well interference testing will be used to evaluate the hydraulic characteristics of the fractured-rock flow network. A site potentiometric-level analysis will be used to evaluate the ground-water gradients that occur near the proposed nuclear waste repository site.
+Planned multiple-well interference testing will be used to evaluate hydraulic characteristics with emphasis on the fractured-rock flow network. Conservative tracer tests will be used to directly determine ground-water travel times. Theses tests will be performed at a three-well complex on the eastern flank of Yucca Mountain and adjacent to the perimeter drift boundaries of the proposed repository. Prior testing using single packers and high pressure range transducers proved to be inadequate to define the complex hydrology of the site. Current plans are to build three five-zone packer strings equipped with differential pressure transducers, thermistors, and a tracer injection system. The proposed design will allow for selection of discrete zones within the string from the surface through wire line tool operation. A submersible pump enclosed in a shroud and offset with Y-
+
+blocks is designed to be interchangeable among the three strings. A circulation loop for tracer injection is built into the design of the packer strings. Injection into selected zones will be accomplished through the manipulation of downhole solenoid valves that will allow fluid flow into the zone through a diffuser tube.
+The site potentiometric-level analysis will be used to evaluate the ground-water gradients that occur near the proposed nuclear-waste repository site. This requires continuous monitoring of ground-water levels at approximately 15 well sites strategically located throughout the area surrounding the proposed nuclearwaste repository. Concentrated efforts to monitor water levels on a continuous basis at Yucca Mountain began in 1985 and continue today. A number of different combinations of pressure transducers and data-collection equipment have been tried over the course of the project and have led to the present configuration. Some of the major problems encountered in the search for an effective method of continuously monitoring water levels at the Nevada test site are the remoteness of the well sites, depths to water as great as 2,000 ft below land surface, the apparently small gradients involved, and the near-100-percent humidity encountered in the lower section of the boreholes.
+
+1 Hydrologic Technician, U.S. Geological Survey, Yucca Mountain Project Branch, Hydrologic Investigations Program, SZ Fractured-Rock Hydrology, MS 421, Building 53, Box 25046, Denver Federal Center, Lakewood, Colorado 80225.
+Pressure Transducer Applications: Site Saturated Zone Yucca Mountain Project 33
+
+Upgrade of Packer and Transducer Equipment Used in Fracture Testing in the Colorado Oil Shale Project
+
+By Larry L. Matson 1
+In 1979, it was decided that consideration should be given to upgrading the packer and transducer equipment used for fracture testing in the oil shale project in Colorado. The design of the upgrade was to take into account the many different needs encountered in the field. The effort produced a single unit that includes a 28-foot semi-trailer van; a 60 kilowatt generator to supply 110,220, and 440 volts alternating current; a regulated nitrogen system to inflate the packers; two independently controlled hoists to inflate the lines and pump cable; a four-conductor geophysical logging hoist and cable; a four-channel time-
+
+drive recorder with position and span selection; an interchangeable system of transducers to read above, between, and below the packer straddle; and about fifty 30-foot sections of packer tubing (must be cleaned before using). After the system had been used in the field, it was suggested that a propane heating and cooling system be added and that a digital recording unit, such as a data logger, be installed.
+The equipment is now stored in Idaho. It would take only a short time to bring it on line. However, the future of this equipment has not yet been determined.
+
+1 Hydrologic Technician, U.S. Geological Survey, Project Office, INEL, MS-4148, P.O. Box 2230, Room 164, Idaho Falls, Idaho 83403-2230.
+Upgrade of Packer and Transducer Equipment Used in Fracture Testing hi the Colorado Oil Shale Project 35
+
+Research into the Processes of Flow and Solute Transport in Fractured Rock: Experiences in Equipment Development by Staff from Environment Canada
+
+By Kent Novakowski 1
+From 1978 to the present, Environment Canada has played an active role in gaining a better understanding of the processes of flow and solute transport in fractured crystalline and sedimentary media. Much of the research has been conducted in field settings throughout eastern Canada, particularly in northwestern and southeastern Ontario. The field studies were conducted to study both deep (greater than 500 meters) ground-water flow systems and the hydrogeology of more shallow (less than 100 meters) flow systems. The funding for this research has come from a variety of sources, but primarily from Atomic Energy of Canada Ltd., internal Environment Canada sources, and sources from within the Ontario Ministry of the Environment. During the course of the research, the approach to field study evolved both in the manner in which commercial equipment was employed and in the design of the equipment manufactured using inhouse resources. The purpose of this summary is to describe the results of this evolutionary process in three particular areas of study: (1) the detailed monitoring of hydraulic head, (2) the testing of hydraulic properties, and (3) the conducting of tracer experiments.
+During the late 1970's and early 1980's, several research field sites in northern Ontario were drilled and permanently instrumented with the Westbay multi-level packer system. For example, at Chalk River, Ontario, five boreholes in a six-borehole array were instrumented with the packer systems to a depth of approximately 300 meters. In the years subsequent to the installation, several hydraulic and tracer experiments were conducted successfully in this borehole array. In addition, reliable measurements of hydraulic
+1 Chief, Groundwater Contamination Project, National Water Research Institute, Environment Canada.
+
+head have been obtained successively over the intervening years. The Westbay packer system was also used successfully in seven 150-meter boreholes on the Canadian side of the Niagara River (and in several boreholes on the U.S. side as well). In this particular case, the multilevel casing was installed immediately following drilling to prevent vertical cross-contamination of the ground-water chemistry in the permeable horizons. Consequently, all measurements of hydraulic conductivity were obtained by conducting the testing through the casing. This proved very successful and cross-contamination was avoided. Measurements of hydraulic head obtained from these boreholes exhibit values that are significantly overpressured relative to hydraulic heads observed in similar environments elsewhere. It has been determined that the presence of this overpressuring is detectable only using the Westbay system or something similar. For shallower studies, an in-house design for packers was developed. This packer design allows for much greater flexibility than the Westbay system in modifying packer locations and in placing equipment in the test section.
+During the early 1980's, hydraulic testing was conducted in the deeper boreholes using sophisticated triple- or quadruple-packer systems. A downhole valve and (or) pressure transducer was installed directly in each test section. Underwater electrical connectors were employed to feed the electrical lines through each packer element. Packers were of slidinghead manufacture with oversized mandrels to accommodate large feed-through pipes. Due to the difficulty of assembling these apparatuses and their sometimes poor reliability, the downhole packer systems were eventually modified to minimize complexity. Currently, all packer systems, both fixed and sliding-head, have no electronics installed directly in the test sections. The electronics and downhole valves are
+
+Research into the Processes of Row and Solute Transport In Fractured Rock 37
+
+mounted immediately above the uppermost packer in multiple-packer systems. In addition, as a means of increasing the sophistication of the types of hydraulic tests conducted in the research programs, a trailerized constant-head test system was developed. The constant-head test system is designed to be completely mobile and has an injection tank system that accommodates a range in injection flowrate of approximately seven orders of magnitude. In conjunction with accurate flowrate measurement, sophisticated interpretation of constant-head tests are routinely possible. The constant-head system can also be used as a platform to conduct constant-rate pumping tests, slug tests (shut- in and open-hole), and pulse interference tests.
+The staff from Environment Canada has conducted numerous tracer experiments in both sedimentary and crystalline rock environments. One of the earliest experiments was conducted at Chalk River between an uncased borehole and several boreholes cased with the Westbay packer system. The experiment was conducted using a radioactive tracer that was introduced into an injection well in which theflowrate of injected water was maintained at a steady rate. The breakthrough of tracer in the adjacent obse rvation wells cased with the Westbay system was
+
+detected using a gamma logging tool that was continuoysly passed by each of the expected breakthrough points. This method was found to be very successful in determining the location and intersection of the major wdter-carrying fractures but very limited in its ability to provide information about the actual transport properties of the individual fractures. Later experiments have been conducted in which considerably more care ha; been taken to account for the mixing effects in both the injection and the withdrawal wells. Recently, a new injection system was devised in which the volume of fluid in the injection section is minimized and mixed advectively using a downhole circulation pump. It is expected that, by mixing both the injection and wi thdrawal zones thoroughly and by describing this process mathematically in the interpretation, much belter estimates of the transport properties of fractures wi 1 be obtained using the results of tracer experiments. In addition, a new sampling packer has been designed in which the sampling volume in the test section is completely eliminated. These packers will be employed in several upcoming field experiments to be conducted in a single fracture in an interbedded shale.
+
+38 PROCEEDINGS OF A PRESSURE TRANSDUCER-PACKER WORKSHOP, JUNE 25-28,1991
+
+Hydraulic Fracture Stimulation of Crystalline-Bedrock Aquifers Using a Self-Contained Packer and Sensor System
+
+By James Waltz 1 and Raymond E. Boyle 2
+Geologic Resources Investigations and Development, Inc., has performed more than 800 hydraulic fracture stimulations of water wells in North America, Europe, and Africa. Stimulations at packer pressure up to 4000 lb/in2 and stimulation pressures ranging from 300 to more than 1,000 lb/in2 are performed using a self-contained unit with packer; support cable; hydraulic lines; and sensors, which are needed to stimulate wells more than 400 ft in deep (fig. 7). An example of a typical stimulation experiment is given by flowmeter logs made before and after stimulation methods were applied to a 400-foot-deep borehole in fractured crystalline rocks west of Boulder, Colorado (fig. 8). Well yield was estimated to be 0.2 gal/min before stimulation. Acoustic televiewer, caliper, and other logs indicated that two large steeply dipping fractures intersected the borehole at depths of approximately 148 and 262 ft. However, flowmeter measurements during steady injection indicated that almost all downflow was accepted by relatively minor fractures at depths of about 49, 72, 308, and 338 ft, while no flow exited at the two apparently largest and most
+
+open fractures. All four producing fractures were associated with minor geophysical log anomalies similar to anomalies corresponding to other minor nonproductive fractures.
+Well yield was enhanced by pressurizing the borehole below a single packer until breakdown and following with fluid injection in one or more cycles. Five different depth settings were used for the fracturing. After stimulation, two of the four previously productive fractures at depths of 49 and 338 ft accepted flow at about 10 times the prestimulation rate under approximately the same hydraulic head difference (fig. 8). Poststimulation well yield was estimated to be about 1.5 gal/min, or about 8 times the prestimulation production. Comparison of geophysical logs made before and after hydraulic fracture stimulation did not identify changes in the two fracture zones where substantial increases in productivity were noted. These results indicated that hydraulic fracture stimulation of well yield apparently occurred through improvement of fracture interconnections at more than 3 ft and possibly much greater distances from the borehole.
+
+1 Colorado State University, Fort Collins, Colorado. 2 GRID, Incorporated, Fort Collins, Colorado.
+Hydraulic Fracture Stimulation of Crystalline-Bedrock Aquifers Using a Self-Contained Packer and Sensor System 39
+
+PRESSURE GAUGES .
+
+PACKER INFLATION
+LINE
+
+RELIEF VALVES
+
+\
+wx
+
+SAND TANK
+WATER INJECTION > LINE
+
+PACKER
+
+THRO TLE _ POWER
+
+CONTROL
+
+TAKE-OFF
+
+CONTROL VALVE
+
+HYDRAULIC MOTOR
+
+PUMP
+
+TANK
+
+I£L COMPRESSED AIR
+L
+BALL VALVES
+
+HYDRO-FRAC EQUIPMENT SCHEMATIC
+
+Figure 7. Equipment used to isolate, pressurize and fracture a borehole interval.
+
+40 PROCEEDINGS OF A PRESSURE TRANSDUCER-BACKER WORKSHOP, JUNE 25-28,1991
+
+DOWNFLOW IN GALLONS PER MINUTE
+
+0.5
+
+0.25
+
+0.00
+
+100
+
+g 20°
+Pw
+
+BEFORE STIMULATION
+AFTER STIMULATION
+
+300
+
+Figure 8. Vertical flow distribution in a crystalline rock borehole during steady injection with about 20 ft of driving hydraulic-head before and after fracture stimulation; A-G denote the depths where acoustic televiewer and caliper logs indicated fractures.
+
+Hydraulic Fracture Stimulation of Crystalline-Bedrock Aquifers Using a Setf-Contained Packer and Sensor System 41
+
+APPENDIXES
+
+APPENDIX 1. WORKSHOP ATTENDEES U.S. Geological Survey
+Vito J. Latkovich, HIF Donald H. Rapp, HIF William G. Shope, Branch of Instrumentation Robert L. Laney, Office of Ground Water Gregory V. Steel, Nebraska District David B. Westjohn, Michigan District Ronald A. Funkhouser, Oklahoma District Terrance E. Lamb, Arkansas District Stanley G. Robson, Colorado District Michael C. Carpenter, Arizona District Grady M. O'Brien, Yucca Mountain Project James M. Gemmell, Yucca Mountain Project Paul A. Hsieh, National Research Project Frederick L. Paillet, National Research Project Alfred E. Hess, National Research Project Larry L. Matson, Idaho National Energy Laboratory
+Environment Canada Kent Novakowski, National Water Research Institute
+Academia James Waltz, Colorado State University
+Private Sector Raymond E. Boyle, GRID Co. (Hydro-Fracturing)
+Appendix 1 45
+
+APPENDIX 2. VENDORS AND EXHIBITORS Sending Representatives
+Westbay Instruments, Ltd., Vancouver, British Columbia transducer and packer systems RST Instruments, Yakima, Washington packer systems Druck, Incorporated, New Fairfield, Connecticut transducers Design Analysis Associates, Logan, Utah transducers In-Situ, Incorporated, Laramie, Wyoming transducers and ground-water monitoring systems Sending Literature Only Aardvark Corporation, Puyallup, Washington packer systems ROCTEST, Incorporated, Plattsburgh, New Yorkpacker systems
+Appendix 2 47
+
+GLOSSARY Pressure transducer. An instrument component that
+detects a fluid pressure and produces an electrical signal related to that pressure. Also known as an electrical pressure transducer. Borehole packer. A downhole tool that is used to assist in the efficient production of oil and gas from a well that has one or more productive horizons; functions as a seal between the outside of the tubing and the inside of the casing to prevent movement of fluids past that point. Also known as a packer. Wet/Wet Pressure Transducer. A pressure transducer that has a diaphragm in each pressure port to allow fluid into port. Wet/Dry Pressure Transducer. A pressure transducer that has a diaphragm in its wet pressure port to which fluids can be applied and has no diaphragm in its dry pressure port. Because the dry port exposes the internal circuitry to the medium, only clean dry gas can be applied to it.
+Glossary 49
+
+

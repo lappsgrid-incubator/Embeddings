@@ -1,0 +1,467 @@
+preliminary analysis the shallow ground water system the vicinity the grand calumet river indiana harbor canal northwestern indiana lee watson robert shedlock konrad banaszak leslie arihood paul dos geological survey open file report prepare cooperation environmental protection agency indianapolis indiana 
+department the interior donald paul hodel secretary geological survey dallas peck director 
+for additional information write district chief geological survey lakeside boulevard indianapolis 
+copy report purchase geological survey book open file report box federal center bldg 
+purpose scope 
+physical setting 
+compilation exist data 
+field method 
+model construction 
+simulation ground water flow 
+preliminary analysis shallow ground water system 
+physical characteristic 
+ground water flow system 
+simulation ground water flow 
+summary conclusion 
+reference cite 
+figure figure 
+map show 
+study area location hazardous waste site 
+surficial geology study area 
+major land use study area 
+data collection network study area 
+conceptual geologic section digital model grid base hydrogeologic section 
+map show 
+configuration altitude bedrock surface 
+configuration altitude base calumet aquifer 
+map show saturated thickness calumet aquifer march april 
+hydrogeologic section 
+map show configuration altitude water table calumet aquifer march april 
+generalize geologic section show typical well placement 
+conceptual geologic section show first conceptual model simulate flow system two surface drain 
+conceptual geologic section show second conceptual model simulate flow system eight drain node 
+conceptual geologic section show simulate flow system eight drain node downward leakage bedrock table table 
+list simulation significant hydraulic parameter 
+conversion factor and abbreviation 
+inch pound unit report may convert metric international system unit use follow conversion factor 
+multiply inch pound unit 
+obtain metric unit 
+foot foot per day inch mile 
+meter meter per day millimeter kilometer 
+sea level report sea level refers national geodetic vertical datum ngvd geodetic datum derive general adjustment first order level net united state canada formerly call sea level datum 
+preliminary analysis the shallow ground water system the vicinity the grand calumet river indiana harbor canal northwestern indiana lee watson robert shedlock konrad banaszak leslie arihood paul dos abstract the shallow ground water system vicinity grand calumet river indiana harbor canal surround area analyze june may 
+this analysis preliminary phase study main objective ass potential ground water contaminant migrate lake michigan grand calumet river indiana harbor canal 
+this preliminary analysis do obtain detailed information physical characteristic thickness calumet aquifer shallow flow regime aquifer select best site grind water quality monitoring 
+during preliminary analysis shallow well instal continuous sediment core range foot long collect test hole drill bottom surficial aquifer 
+addition water level measurement make shallow well measurement also make privately own well 
+these measurement available data indicate surficial aquifer consist fine medium grain sand locally overlain slag fill 
+total aquifer thickness range foot 
+this aquifer underlain mantle till lacustrine clay foot thick overlies carbonate bedrock silurian age 
+base measurement shallow well broad water table mound low relief underlie area lake michigan grand calumet river indiana harbor canal grand calumet river indiana harbor canal little calumet river south 
+the crest mound form major water table divide trend east west study area 
+northwest indiana harbor canal narrow water table ridge extend along lake michigan shoreline connects somewhat circular mound northwest indiana harbor canal 
+the direction flow generally water table mound major stream lake michigan 
+ground water locally discharge small ditch wetlands sewer line 
+ground water discharge directly lake michigan north first water table divide inland lake 
+stream aquifer relation along grand calumet river indiana harbor canal also examine 
+water table fluctuation near stream bank complex need monitor 
+digital model simulation north south geologic section middle study area indicate discharge water small ditch leaky sewer line lower water table several foot predevelopinent level 
+simulated drain create fully penetrate local flow system calumet aquifer 
+the digital model simulation also indicate downward leakage bedrock intervene till layer could contribute decline water table 
+introduction the southern shoreline lake michigan northwestern indiana one major urban industrial center great lakes region include city east chicago gary hammond white lake county indiana fig 
+the heavy industry area include several large steel mill major petrochemical plant several large petroleum tank farm several forge foundry plant several food paper industry coalfired electric generating plant 
+the study area entirely within physiographic province know calumet lacustrine plain schneider extend shoreline lake michigan valparaiso moraine mile south lake michigan 
+several distinct dune beach complex form province pleistocene holocene epochs leverett taylor bretz hansel other level ancestral lake michigan high level modern lake michigan 
+the dune beach lacustrine silts sand gravel fig 
+deposit form thin saturate thickness less foot extensive surficial aquifer area rosenshein hunn know calumet aquifer hartke other 
+this aquifer major source water supply study area municipality obtain water lake michigan 
+however thousand domestic well old home outside municipal corporation limit outside study area probably penetrate calumet aquifer 
+although use water supply limited water quality calumet aquifer great concern environmental protection agency international joint commission great lakes great contamination potential aquifer hartke other potential discharge ground water contaminant lake michigan 
+more site vicinity study area emergency remedial response inventory site erris list waste disposal sit national priority list npl fig 
+dean nygard indiana department environmental management write commun 
+most heavy industry three npl site erris site vicinity grand calumet river indiana harbor canal gcr ihc drainage system fig 
+discharge lake michigan 
+discharge contaminant calumet aquifer gcr ihc also concern 
+recent field study water quality stream indicate chemical load cannot explain completely know industrial municipal discharge stream hydroqual crawford wangsness 
+however study sufficient detail shallow flow system calumet aquifer conduct determine potential discharge contaminant gcr ihc 
+base geological survey quadrangles figure 
+study area location hazardous waste site 
+explanation emergency remedial response inventory site hazardous waste site national priority list hazardous waste site study area 
+iliiiii iiiiiiliiiiii 
+base geological survey quadrangles figure 
+surficial geology study area 
+explanation lake fill land slag modify land slag muck peat silt sand gravel silt sand gravel dune beach lacustrine calumet aquifer lacustrine clay glacial till line section geologic contact 
+str geology modify schneider keller 
+purpose scope the purpose report present method use result preliminary analysis shallow flow system calumet aquifer vicinity gcr ihc surround area 
+the result analysis use select ground water quality monitoring sit subsequent study determine potential ground water contaminant migrate directly lake michigan gcr ihc 
+this analysis base previously publish unpublished data supplement data network sediment core test hole water table well instal summer fall 
+map altitude base aquifer saturate thickness aquifer water table altitude hydrogeologic section roughly perpendicular grand calumet river include 
+flow pattern along hydrogeologic section designate simulate use finite difference digital model 
+physical set the study area northern one quarter lake county northwesternmost county indiana situate southern end lake michigan fig 
+the study area originally cover sand dune linear ridge sand remnant past shoreline high level lake michigan schneider 
+the long narrow lowland sand ridge wetlands pond result poor drainage sluggish grand calumet river little calumet river moore trusty 
+late 19th century industrial land chicago develop nearby lakeshore land indiana also become desirable area development 
+construction petroleum refinery steel mill start development one intensely industrialized region world begin 
+this development require drain wetland area level many sand dune beach ridge 
+ditch dig excess sand dune slag steel making process use fill wetlands moore trusty 
+the indiana harbor canal construct gary harbor construct 
+locally course grand calumet river change construction later change construction major highway 
+vicinity steel gary harbor fig 
+river channel move south foot part flow divert indiana harbor canal 
+for additional detail change refer cook jackson 
+another important change region extension lakeshore fill land occur two reason 
+first inexpensive industrial land adjacent exist manufacturing facility need second vast quantity slag produce 
+legislation pass indiana general assembly permit building land lake michigan much heavy industry locate land compose mainly slag refer lake fill land 
+the surficial geology map fig 
+differentiates major area lake fill land modify land 
+slag still aggregate choice fill operation road building base region 
+much land use steel make petroleum related activity fig 
+most steel industry locate along lakeshore lake fill land much petroleum industry locate adjacent near indiana harbor canal 
+much industrial land use manufacturing related steel industry rail car building foundry forge plant 
+chemical processing plant occupy large part land supply product manufacture retail market 
+residential area locate primarily south grand calumet river west indiana harbor canal fig 
+population trend toward southern part county away immediate vicinity heavy industry moore trusty 
+many small area pocket natural land remain essentially unaltered 
+the original topography linear ridge separate wetland still exist diverse natural plant community observe traverse area 
+effort make save area nature preserve 
+base geological survey quadrangles figure major land use study area 
+residential area agricultural land park natural area 
+explanation steel industry petrochemical industry 
+commercial light industrial area 
+acknowledgment the author acknowledge assistance many state municipal corporate entity help make report possible amoco oil company standard oil division whiting indiana 
+dupont denemours east chicago indiana east chicago indiana park department east chicago indiana public school gary indiana municipal airport gary indiana park department gary indiana public school hammond indiana park department hammond indiana public school indiana department highway indiana department environmental management indiana department natural resource division nature preserve indiana department natural resource division water lake county park recreation national park service indiana dune national lakeshore phillips pipeline east chicago indiana united state steel usx corporation gary indiana white indiana park department white indiana street department also wish thank todd thompson split vibracores provide description sedimentological feature bedforms 
+method compilation exist data exist data publish unpublished source use analysis 
+publish source include rosenshein hunn hartke other weiss 
+unpublished data include follow 
+lithologic log water well study area file locate water well indiana department natural resource division water indianapolis 
+lithologic log numerous soil boring surficial sand make major state federal highway project cross study area 
+these log make available indiana department highway indiana toll road commission 
+the remedial planning field investigation team report lake sandy site superfund npl site 
+the lake sandy site locate south central part study area unincorporated area 
+informal discussion technical team assess three npl site study area affect interpretation condition around site 
+current listing npl erris site provide division land pollution control indiana department environmental management 
+the location sit show figure 
+field method during summer fall observation well instal used measure water level study area fig 
+additionally water level measure nine privately own observation well 
+during time site choose sample underlie sedimentary material obtain 
+vertical control use standard survey technique establish observation well sedimentary material site water level stratigraphic information could correlate 
+measure point vertical control also establish surface site surface water stage could measure 
+all new well construct completely type stainless steel inch inside diameter 
+the well screen continuous slot wire wound design open size inch 
+each well screen foot open section drive point base 
+where possible well hand driven use fence post driver 
+four well instal use power auger 
+all well instal uppermost part saturate zone aquifer 
+after completion well develop use hand operate piston pump 
+concrete apron construct lock cap instal well 
+each nine privately own well construct inch insidediameter polyvinyl chloride pipe well screen 
+six well screen open entire saturate aquifer three screen foot long 
+the primary method shallow sample underlie sedimentary material obtain process call vibracoring finkelstein prins 
+the vibracoring process use concrete vibrator vibrate inch diameter vertical aluminum tube loose moist sediment 
+when penetration tube stop vibrator stop tube contain core sample withdrawn ground 
+vibracoring work well collect core sample depths much foot many location 
+however location dry soil coarse aggregate fill prevent successful sample use vibracoring process 
+site power auger use drill hole retrieve sediment sample stick auger flight 
+sediment sample could obtain full depth surficial aquifer use power auger sample use improve definition base aquifer map 
+jase geological survey quadrangles figure data collection network study area 
+explanation observation well sedimentary material site surface water measure site 
+model construction finite difference digital model mcdonald harbaugh use study flow pattern calumet aquifer interaction ground water surface water 
+about model analysis necessary make preliminary calibration model result preliminary analysis model sensitivity 
+the finite difference digital model use study flow vertical section calumet aquifer 
+study vertical section simplifies model construction analysis result still provide basic understand flow area aquifer similar model section 
+the conceptual geologic section model roughly corresponds hydrogeologic section designate line fig 
+mile south grand calumet river lake michigan fig 
+feature model design specifically grid system location river drain node also show figure 
+ten row column use simulate vertical horizontal gradient 
+the grid block around grand calumet river small enough indicate detail flow expect area 
+this small grid space use future simulation study effect transient change water table pattern ground water flow river 
+simulation ground water flow water flow simulate north south section calumet aquifer middle study area 
+although model base real section simulation generalize somewhat comprehensive calibration sensitivity analysis do 
+instead model use study tool obtain general understanding ground water flow system identify factor could affect water table profile size depth local flow cell near stream drain 
+this preliminary model analysis do primarily select well sit sample monitor ground water quality 
+detailed areal model part study area plan next phase investigation 
+vertical exaggeration grand calumet river 
+north meter r190 foot 
+datum sea level 
+vertical exaggeration 
+silt sand gravel calumet aquifer till bedrock 
+ssb drain node altitude river node model node 
+figure conceptual geologic section digital model grid base hydrogeologic section 
+preliminary analysis the shallow ground water system physical characteristic the calumet aquifer underlain foot unconsolidated glacial lacustrine sediment deposit erosion surface bedrock consist carbonate rock silurian age 
+the bedrock surface foot relief study area fig 
+the prominent feature bedrock surface north trend valley area indiana harbor canal canal trend northeast southwest 
+the unconsolidated sediment divide two major unit low unit consist mainly glacial till lacustrine clay weather till top 
+these clay glacial till form confine unit calumet aquifer underlying bedrock 
+the upper surface confine unit fig 
+slope gently toward lake michigan 
+although depression surface north trend bedrock valley foot closure trend east west 
+another noteworthy feature area depression upper foot low unit loosely consolidated lacustrine paludal clay indicate lithologic log 
+lithologic log indicate top confining unit generally compact competent till lacustrine clay 
+the upper unit unconsolidated sediment consist primarily dune beach lacustrine sand also thin layer peat organic sediment small areal extent 
+these sand organic deposit comprise calumet aquifer 
+steel mill along shoreline many former inland depression crush hot poured slag overlie sand 
+thickness aquifer range foot 
+the aquifer generally thick east 
+the unit thin west pinch short distance west illinois indiana border 
+also pinch southwestern part study area valley little calumet river fig 
+the sand upper unit comprise unit describe rosenshein hunn calumet aquifer describe hartke other 
+rosenshein hunn also report average hydraulic conductivity foot per day sand 
+report slag fill also include part calumet aquifer 
+generally slag fill areal vertically extensive attempt make measure estimate hydraulic property separately rest calumet aquifer 
+although carbonate bedrock silurian age substantial aquifer study area discharge probably occur calumet aquifer upward leakage clay confine unit eastern one half study area shedlock geological survey write commun 
+however near line section water level bedrock obtain npl site investigation indicate discharge occur calumet aquifer bedrock aquifer 
+the saturated thickness calumet aquifer study area show figure 
+this map base difference altitude water table map spring condition map base upper unit fig 
+the contour subparallel lake michigan shoreline generally indicate thin aquifer east west north south 
+from topographic high river saturate thickness decrease south toward little calumet river increase toward lakeshore north grand calumet river 
+both trend result gentle slope toward lake michigan surface underlie confine unit 
+the large saturate thickness grand calumet little calumet river gary cause broad water table mound discuss section ground water flow system 
+notable geometric feature calumet aquifer show hydrogeologic section figure 
+the eastern end study area aquifer thick show figure line section fig 
+southern end section back barrier calcareous clay lens one several deposit occur within surficial sand east study area 
+study area clay lenses find vibracores test hole data exist boring log 
+noteworthy geomorphic feature figure location grand calumet lagoon 
+these pond lowland represent former distal end undisturbed grand calumet river flow east discharge lake michigan pre development time 
+these lagoon connect buried culvert upstream end modern grand calumet river channel represent headwater river 
+west headwater distance channel grand calumet river lakeshore increase indicate compare figure line section fig 
+section lake fill land slag along shoreline also show figure 
+the lakeward edge slag body primarily hot poured slag cool shortly exposure water air 
+far landward crush slag probably function hydraulically poorly sort unconsolidated sediment 
+however physical hydraulic property hot pour slag similar lava 
+the author observe typical lava like feature ropy surface hexagonal jointing slag along shoreline 
+ground water flow hot pour slag probably along hexagonal joint however permeability hot poured slag determine insufficient data 
+the next section line section fig 
+west fig 
+show natural lakeshore 
+also show several discrete body sand gravel presumably represent beach deposit 
+although body extensive probably differ dramatically hydraulic property sand indicate important local subtlety sediment may significant ground water transport problem 
+this section also show small difference altitude grand calumet river lake michigan general slope underlie till surface interrupt local high toward lake 
+this section use basis digital model simulation flow central location study area also probably representative pre development condition 
+base geological survey quadrangles figure 
+configuration altitude bedrock surface 
+explanation bedrock surface contour show altitude bedrock 
+interval foot 
+datum sea level 
+base geological survey quadrangles figure 
+configuration altitude base calumet aquifer 
+base aquifer contour show altitude base calumet aquifer 
+hachure indicate depression 
+interval foot 
+dash approximate 
+datum sea level 
+aquifer absent 
+base geological survey quadrangles figure 
+saturate thickness calumet 
+explanation saturate thickness contour show saturate thickness calumet aquifer 
+interval foot 
+dash approximate 
+iquifer march april 
+little calumet river 
+grand calumet lagoon 
+foot meter 
+datum sea level 
+vertical scale greatly exaggerated foot meter 
+muck peat silt silt sand gravel calumet aquifer clay 
+lacustrine clay till bedrock 
+figure hydrogeologic ection 
+datum sea level 
+grand calumet river 
+foot meter 
+vertical scale greatly exaggerated foot meter 
+/#£ silt sand gravel calumet aquifer 
+lake fill land slag 
+sand gravel calumet aquifer 
+hydrogeologic section 
+grand calumet river 
+lake michigan 
+meter foot r650 m90 h600 
+datum sea level 
+vertical scale greatly exaggerate 
+ljii iii1 iii 
+foot meter 
+silt sand gravel calumet aquifer sand gravel calumet aquifer 
+till bedrock 
+figure hydrogeologic section 
+grand calumet river 
+foot meter 
+datum sea level 
+vertical scale greatly exaggerate 
+0ii 0li 00i 0ii00l 0li 00i 0ri0 n10 r0i foot 
+silt sand gravel calumet aquifer 
+lacustrine clay 
+modify land slag 
+figure hydrogeologic section 
+the westernmost section line section fig 
+show slope underlie till surface direction section 
+section however till surface slope gently toward lake michigan 
+this section also show thinner calumet aquifer wolf lake whose bed dredge fill adjacent roadbed 
+the dredging expose till surface bed part lake 
+this section also show fill former wetland near lake condition common throughout study area 
+lacustrine clay show north end section 
+ground water flow system water table altitude march april show figure 
+altitude base water level measurement shallow observation well surface water measure point show figure 
+two broad water table mound show study area 
+the extensive two trend east west study area little calumet river grand calumet river correspond approximately surface drainage divide two river 
+altitude along mound foot end study area shallow sag middle mound 
+this mound form water table divide essentially southern boundary ground water basin gcr ihc 
+the broad water table mound north grand calumet river gary harbor indiana harbor canal 
+this mound form divide represent southern boundary part shallow ground water flow system discharge directly lake michigan 
+northwest indiana harbor canal broad low water table mound connect long narrow ridge parallel lake michigan shoreline 
+this narrow ridge may exist many set railroad track parallel shoreline narrow area 
+this area probably receive great normal recharge coarse slag use railroad ballast surface prevents runoff ditch area cause depression focus recharge lissey 
+minimal evapotranspiration also occur railroad company keep right way clear almost vegetation 
+several small depression also show figure 
+these depression near major sewer line probably cause local drainage ground water sewer 
+there probably local depression detect observation well network 
+although show figure number small drainage ditch study area shallow ground water discharge locally 
+such drainage cannot indicate contour scale contour interval use map 
+the importance drainage discuss section simulation ground water flow 
+water table fluctuation near gcr ihc monitor six set closely space observation well locate along transects perpendicular stream 
+five set well water level record equipment short term fluctuation could detect 
+typical well placement show figure 
+the close spacing near stream well stream stage well do enable study shallow ground water surface water interaction 
+analysis aquifer stream interaction incomplete enough data collect indicate interaction complex 
+the interaction vary time space 
+reach grand calumet river near east hydrogeologic section designate line fig 
+stream lose water calumet aquifer time 
+throughout rest gcr ihc stream usually gain water aquifer 
+normal natural hydrologic factor cause flow pattern reverse vary period time 
+bank storage affect stream aquifer interaction locally variable recharge produce summer thunderstorm also may affect interaction 
+storm lake michigan cause estuary like effect indiana harbor canal could detect far mile upstream lake 
+these estuary like effect cause stage indiana harbor canal rise 
+when stage indiana harbor canal rise rapidly estuary like effect flow gradient reverse indiana harbor canal lose water calumet aquifer 
+example human activity may reverse normal stream aquifer interaction apparent upper reach grand calumet river east hydrogeologic section designate fig 
+reach much streamflow water obtain lake michigan use cool process large steel mill discharge river 
+shutdown steel mill cause substantial decrease discharge river normal stream aquifer interaction reverse 
+this reversal cause stream gain water calumet aquifer 
+base geological survey quadrangles figure 
+configuration altitude water table 
+explanation water table contour show wafer table altitude 
+hachure indicate depression 
+interval foot 
+dash approximate 
+datum sea level 
+michigan zff 8sf 
+calumet aquifer march april 
+foot 580co 
+aattiuikm iiso ileriv eril 
+foot meter r600 r183 
+vertical exaggeration 30i foot meter 
+generalize geologic section show typical well placement 
+simulation ground water flow the conceptual section fig 
+along ground water flow simulate roughly parallel hydrogeologic section designate fig 
+mile south grand calumet river lake michigan 
+feature conceptual section specifically grid system location river drain node show figure 
+ten row column use represent vertical horizontal gradient 
+around grand calumet river block small show enlarged inset figure 
+several different boundary condition use along margin digital model fig 
+the various boundary condition simulate use appropriate part package model 
+specify flux assign uppermost active node simulate recharge water table 
+the general head boundary package use simulate boundary condition southern end base model 
+ground water flux calculate across general head boundary base know estimate hydraulic head outside modeled area average value hydraulic conductivity near model boundary 
+the specify head southern end model water table altitude foot mile south grand calumet river ground water divide grand calumet little calumet river 
+the hydraulic conductivity use within modeled area 
+for base model several specify head distribution bedrock use simulate general head boundary 
+the bedrock separate calumet aquifer foot till assign assumed hydraulic conductivity foot per day simulation 
+the river package use simulate grand calumet river also boundary lake michigan different value hydraulic conductivity lake bed could simulate 
+hypothetical drain simulate model experiment use drain package 
+these drain space foot apart depth foot land surface 
+the hypothetical drain simulate discharge ground water leaky sewer line drain tile small unmapped ditch exist throughout study area although exact location area conceptual section know 
+two major conceptual model ground water flow system simulate use steady state condition 
+rigorous calibration sensitivity analysis attempt 
+however basic understand important parameter physical flow system obtain 
+list simulation parameter show table 
+list simulation significant hydraulic parameter gcr grand calumet river variable foot water table calumet aquifer applicable see figure 
+simulation number 
+hydraulic conduc tivity calumet aquifer foot per day 
+hydraulic conduc tivity confine layer foot per day 
+anistropy factor calumet aquifer 
+hydraulic conductivity gcr streambed foot per day 
+hydraulic conductivity lake michigan streambed foot per day 
+bedrock head distribution foot sea level 
+recharge foot per day 
+stage lake michigan foot sea level 
+stage gcr foot sea level 
+number conceptual drain 
+hydraulic conductivity drain foot per day 
+location altitude drain foot sea level 
+diameter drain foot 
+first basic conceptual model two surface discharge zone simulate grand calumet river lake michigan 
+this essentially flow system pre development time 
+the modelgenerated head distribution almost horizontal flow path ground water divide two discharge point fig 
+two vertical zone flow river lake also show figure 
+one zone consist recharge precipitation flow downward laterally consist water bedrock flow upward laterally 
+this upward flow bedrock result specify head bedrock use general head boundary several foot higher water table calumet aquifer 
+the upward flow create small upward flux till base surficial aquifer stagnation point ground water divide defines boundary two flow system 
+water stagnation point fig 
+flow grand calumet river lake michigan water stagnation point 
+water two different flow path may substantially mix may important late study vertical change groundwater quality 
+another important feature first conceptual model simulated water level foot higher indicated measure value 
+lower water level increase hydraulic conductivity seem reasonable value foot per day large value range study area report rosenshein hunn 
+alternatively decrease recharge rate seem realistic sand aquifer temperate climate receive inch per year precipitation 
+these result indicate first conceptual model probably reasonable representation predevelopment natural flow system water table near land surface 
+the result also indicate discharge system discharge ditch tile drain downward leakage bedrock necessary low simulated water level observe modern profile 
+additional model experiment use first conceptual model indicate simulated decrease ratio vertical horizontal hydraulic conductivity substantially affect position water table 
+change ratio cause increase water level foot 
+the change simulate anisotropy affect flow pattern particularly location stagnation point fig 
+two associated zone flow 
+ratio small probably reasonable calumet aquifer therefore use 
+because result first conceptual model simulation ditch tile drain prevalent model area second conceptual model develop 
+the second conceptual model contain series eight drain foot apart 
+the drain remove water flow system lower water level 
+also discharge point modeled section reasonable fit simulate observed water table profile could obtain use value hydraulic conductivity foot per day value recharge inch per year 
+these value probably representative calumet aquifer rosenshein hunn 
+grand calumet river 
+ground water divide 
+datum sea level 
+silt sand gravel calumet aquifer 
+flow path 
+till stagnation point 
+north foot r600 meter 
+figure conceptual geologic section show first conceptual model simulate flow system two surface drain 
+the result flow pattern indicate second conceptual model fig 
+complex first conceptual model fig 
+individual flow cell develop around drain 
+the area around grand calumet river continue flow pattern five drain far river cause local water divide flow pattern fully penetrate aquifer 
+several stagnation point also result unlike first conceptual model upward flow deep part aquifer mixed water upper part aquifer region drain 
+the second conceptual model modify test effect hydraulic head underlie bedrock foot low water table 
+many bedrock well northeastern illinois section open carbonate rock silurian age 
+pumpage well probably cause drawdowns water level silurian carbonate extend northwestern indiana although extent drawdowns uncertain possibly control distribution fracture 
+several simulation bedrock hydraulic head water table do simulation enough water drawn calumet aquifer low water table foot 
+flow pattern alter appreciably although location stagnation zone low part aquifer change fig 
+these result indicate general lowering water table study area pre development time present may cause surface drainage downward leakage bedrock 
+general sensitivity analyse do second conceptual model 
+change ratio vertical horizontal conductivity second conceptual model increase water level foot 
+this slight increase cause shallow flow cell develop around first drain north grand calumet river 
+however flow drain flow near grand calumet river lake michigan essentially horizontal 
+grand calumet river 
+datum sea level 
+silt sand gravel calumet aquifer till 
+flow path stagnation point location drain 
+figure conceptual geologic section show second conceptual model simulate flow system eight drain node 
+south foot 
+grand calumet river 
+lake michigan 
+datum sea level 
+explanation silt sand gravel calumet aquifer till 
+flow path stagnation point location drain 
+north foot n600 meter 
+figure conceptual geologic section show simulate flow system eight drain node downward leakage bedropk 
+summary and conclusion preliminary analysis do shallow ground water system vicinity grand calumet river indiana harbor canal gcr ihc lake county northwestern indiana 
+this analysis do develop detailed understanding ground water system water quality monitoring site could select assess potential contaminant migrate lake michigan gcr ihc 
+the analysis do use data previous work supplement new data collect august may water table well instal access obtain measure water level privatelyowned well continuous sediment core obtain described test hole drill sediment surficial aquifer know calumet aquifer sample 
+measurement water table well measurement gcr ihc use compile detail watertable map area 
+the lithologic data use compile refine map saturate thickness calumet aquifer map altitude bedrock surface surface till form base aquifer 
+several hydrogeologic section perpendicular lakeshore produce flow along one section simulate use digital model 
+base analysis data simulation use digital model follow preliminary interpretation make 
+vicinity gcr ihc calumet aquifer consist mainly fine medium grain sand overlain locally slag fill report consider part aquifer 
+aquifer thickness range foot maximum saturated thickness foot 
+extensive lacustrine clay paludal deposit could local confine layer occur aquifer 
+the aquifer underlain till except area near ihc aquifer underlain local accumulation lacustrine clay till 
+the till lacustrine clay form confine layer calumet aquifer underlie carbonate bedrock silurian age 
+broad water table mound low relief form major shallow ground water flow divide lake michigan gcr ihc gcr ihc little calumet river south 
+however northwestern corner study area broad water table mound narrow water table ridge extend along lake michigan shoreline connects somewhat circular low mound northwest indiana harbor canal 
+these pattern indicate shallow ground water discharge directly north lake michigan water table divide north grand calumet river gary harbor indiana harbor canal ground water mound grand calumet little calumet river southern boundary gcr ihc ground water basin great normal recharge minimal evapotranspiration along railroad track cause linear ground water mound northwest indiana harbor canal 
+data collect transects closely space well near stream bank gcr ihc indicate water table fluctuation near stream complex 
+reversal normal stream aquifer interaction observe 
+digital model simulation indicate water table calumet aquifer lower several foot pre development level drainage sewer line small ditch downward leakage bedrock underlie till lacustrine clay 
+without drain leakage use recharge rate reasonable area water table raise land surface reflect predevelopment wetland condition study area 
+the model analysis indicate drainage sewer small ditch create fully penetrating local flow system calumet aquifer 
+reference cite bretz the stage lake chicago their cause correlation american journal science 
+hill inc ecology environment draft phase remedial investigation report lake sandy landfill gary indiana environmental protection agency cook jackson the bailly area porter county indiana evanston robert jackson associate crawford wangsness streamflow water quality grand calumet river lake county indiana cook county illinois october geological survey water resource investigation report finkelstein kenneth prins inexpensive portable vibracoring system shallow water land application army corp engineer coastal engineering technical aid hansel mickelson schneider larsen late wisconsinan holocene history lake michigan basin karrow other eds quaternary evolution great lakes geological association canada special paper 
+hartke hill reshkin mark environmental geology lake porter county indiana aid planning bloomington indiana geological survey special report hydroqual inc grand calumet river wasteload allocation study mawah leverett frank taylor the pleistocene indiana michigan history great lakes geological survey monograph lissey allan surficial mapping groundwater flow system application oak river basin manitoba saskatoon university saskatchewan dissertation mcdonald harbaugh modular three dimensional finitedifference ground water flow model geological survey open file report moore trusty lance the calumet region indiana last frontier indianapolis indiana historical bureau rosenshein hunn geohydrology ground water potential lake county indiana indianapolis indiana denartment conservation division water bulletin 
+reference cite continued schneider physiography lindsey natural feature indiana symposium indiana sesquicentennial volume indianapolis indiana academy science 
+schneider keller geologic map chicago quadrangle indiana illinois michigan show bedrock unconsolidated deposit bloomington indiana geological survey regional geological map 
+sheet scale 
+weiss ronald ground water strategy study lake porter county indiana indiana state board health report environmental protection agency 
+government printing office 

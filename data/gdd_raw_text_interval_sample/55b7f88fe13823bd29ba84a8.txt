@@ -1,0 +1,1804 @@
+ISVe SIONIT1I 3H1
+
+VWH3H1
+
+QNV MOlJ-aimiHHl UOJ SN
+
+XIVA idWBSissiiAl Haadn mi MI KBWdia aM\rsNoismDMi aim
+
+Cover. Leached ilmenite grain approximately 60 microns in diameter surrounded by quartz overgrowth in Lower Pennsylvanian sandstone in Indiana. Quartz overgrowths occlude much of the pore space in these rocks. Sample collected by Paula Hansley, U.S. Geological Survey.
+
+Fluid Inclusions and Biomarkers in the Upper Mississippi Valley Zinc-Lead District Implications for the Fluid-Flow and Thermal History of the Illinois Basin
+By E.L. Rowan and M.B. Goldhaber
+EVOLUTION OF SEDIMENTARY BASINS ILLINOIS BASIN Jennie L. Ridgley, Project Coordinator
+U.S. GEOLOGICAL SURVEY BULLETIN 2094-F
+A multidistipUnary approach to research studies of sedimentary rocks and their constituents and the evolution of sedimentary basins, both ancient and modern
+UNITED STATES GOVERNMENT PRINTING OFFICE, WASHINGTON : 1996
+
+U.S. DEPARTMENT OF THE INTERIOR BRUCE BABBITT, Secretary
+U.S. GEOLOGICAL SURVEY Gordon P. Eaton, Director
+
+For sale by U.S. Geological Survey, Information Services Box 25286, Federal Center Denver, CO 80225
+
+Any use of trade, product, or firm names in this publication is for descriptive purposes only and does not imply endorsement by the U.S. Government
+
+Library of Congress Cataloging-in-Publication Data
+
+Rowan, E. Lanier.
+
+Fluid inclusions and biomarkers in the Upper Mississippi Valley zinc-lead district:
+
+implications for the fluid-flow and thermal history of the Illinois Basin / by E. L. Rowan
+
+and M. B. Goldhaber. F) (U.S. Geological Survey bulletin ; 2094)
+
+Includes bibliographical references.
+
+Supt. of Docs, no.: I 19.3:2094-F
+
+1. Hydrothermal deposits Illinois Basin. 2. Fluid inclusions Illinois Basin.
+
+3. Biochemical markers Illinois Basin. I. Goldhaber, Martin B. II. Series.
+
+III. Series: U.S. Geological Survey bulletin ; 2094.
+
+QE75.B9 no. 2094-F
+
+[QE390.5]
+
+557.3 s-<ic20
+
+[551.1'4]
+
+95-49007
+
+CIP
+
+CONTENTS
+
+Abstract........................................................................................................................... Fl Introduction.................................................................................................................... 2 Geologic Setting............................................................................................................. 4 Fluid Inclusions.............................................................................................................. 7 Sulfur Isotope Geothermometry..................................................................................... 9 Biomarkers...................................................................................................................... 12 Fluid- and Heat-Flow and Thermal Maturity Calculations............................................ 18
+Boundary Conditions and Grid............................................................................... 18 Depth of Burial....................................................................................................... 23 Permeability, Porosity, Fracture Zone Width, and Fluid Flux ............................... 23 Thermal Properties................................................................................................. 25 Results............................................................................................................................ 25 Calculated Duration of Hydrothermal Flow........................................................... 25 Sources of Error...................................................................................................... 25 Discussion....................................................................................................................... 28 Implications for Regional Fluid Flow .................................................................... 29 Sources of Salt........................................................................................................ 32 Conclusions .................................................................................................................... 32 References Cited............................................................................................................. 32
+
+FIGURES
+
+1. 2.
+3. 4. 5. 6.
+7. 8. 9. 10-12.
+13.
+14. 15. 16.
+17.
+
+Map showing location of Upper Mississippi Valley district and area of outlying mineralization......................... F3 Diagram showing timing of major structural, tectonic, and mineralization events related to Upper Mississippi Valley and Southern Illinois fluorite districts.......................................................................... 5 Stratigraphic section of Upper Mississippi Valley zinc-lead district..................................................................... 6 Map showing outline of principal mineralized area, Upper Mississippi Valley district........................................ 7 Chart showing stratigraphy of lower Paleozoic rocks, Upper Mississippi Valley district..................................... 8 Schematic represention of spatial and time relationships between sphalerite zones A, B, and C in hypothetical vein.................................................................................................................................................... 9 Graph showing fluid inclusion temperatures in sphalerite and calcite.................................................................. 10 Histograms of fluid inclusion homogenization temperature by sphalerite zone ................................................... 11 Graph showing temperatures calculated from sphalerite sulfur isotope measurements........................................ 12 Diagrams showing: 10. Numbering system for carbon atoms in steranes and triterpanes (hopanes) ............................................... 13 11. Isomerization reactions in sterane and triterpane ........................................................................................ 14 12. Maximum thermal maturity of hopane and sterane compared with stages of oil generation and with
+vitrinite reflectance....................................................................................................................................... 15 Graph showing biomarker isomaturity curves for time-temperature combinations that give calculated maturities equal to average of hopane and steranes ratios measured in Upper Mississippi Valley district........... 16 Map showing sample sites in Thompson and Temperly orebodies and biomarker and Tmax measurements........ 17 Schematic cross section showing configuration of flow model............................................................................. 19 Map showing sample sites projected onto a line drawn normal to approximate trend of fractures that controlled emplacement of Thompson and Temperly orebodies........................................................................... 20 Graph showing grid used in numerical calculations.............................................................................................. 21
+
+III
+
+IV CONTENTS
+
+18, 19. 20-22.
+23.
+
+Graphs showing contours of calculated thermal maturity ratios for sterane and hopane over grid, assuming best-fit temperature path and specified temperature basal boundary at: 18. St. Peter Sandstone....................................................................................................................................... 19. Mount Simon Sandstone.............................................................................................................................. Graphs showing: 20. Maturities of hopane and sterane plotted versus distance from Thompson orebody at Quimbys Mill
+horizon......................................................................................................................................................... 21. Calculated hopane and sterane maturities shown as function of temperature and time............................... 22. Comparison of fluid inclusion temperatures and temperatures predicted for Upper Mississippi Valley
+district using two gravity-driven flow models.............................................................................................. Map showing anomalous fluorine concentrations in the Illinois Basin.................................................................
+
+22 24
+26 27
+30 31
+
+TABLES
+1. Recently published ages for the Upper Mississippi Valley and Southern Illinois fluorite districts....................... F4 2. Sterane and hopane biomarker maturity ratios in the barren drift between the Thompson and Temperly
+orebodies............................................................................................................................................................... 15 3. Kinetic constants for sterane and hopane isomerization reactions........................................................................ 16 4. Comparison of the durations calculated for the average biomarker maturities of Hatch and others (1986)
+assuming a temperature of 130°C and using several selected kinetic constants from the literature..................... 28
+
+Fluid Inclusions and Biomarkers in the Upper Mississippi Valley Zinc-Lead District-
+Implications for the Fluid-flow and Thermal History of the Illinois Basin
+By E.L. Rowan 1 and M.B. Goldhaber2
+
+ABSTRACT
+The Upper Mississippi Valley zinc-lead district is hosted by Ordovician carbonate rocks at the northern margin of the Illinois Basin. Fluid inclusion temperature measurements on Early Permian sphalerite ore from the district are predominantly between 90°C and 150°C. These temperatures are greater than can be explained by their reconstructed burial depth, which was a maximum of approximately 1 km at the time of mineralization. In contrast to the temperatures of mineral formation derived from fluid inclusions, biomarker maturities in the Upper Mississippi Valley district give an estimate of total thermal exposure integrated over time. Temperatures from fluid inclusions trapped during ore genesis with biomarker maturities were combined to construct an estimate of the district's overall thermal history and, by inference, the late Paleozoic thermal and hydrologic history of the Illinois Basin.
+Circulation of groundwater through regional aquifers, given sufficient flow rates, can redistribute heat from deep in a sedimentary basin to its shallower margins. Evidence for regional-scale circulation of fluids is provided by paleomagnetic studies, regionally correlated zoned dolomite, fluid inclusions, and thermal maturity of organic matter. Evidence for igneous activity contemporaneous with mineralization in the vicinity of the Upper Mississippi Valley district is absent.
+Regional fluid and heat circulation is the most likely explanation for the elevated fluid inclusion temperatures (relative to maximum estimated burial depth) in the Upper Mississippi Valley district. One plausible driving mechanism and flow path for the ore-forming fluids is groundwater
+^.S. Geological Survey, 345 Middlefield Road, Menlo Park, California 94025.
+2U.S. Geological Survey, P.O. Box 25046, Denver, Colorado 80225.
+
+recharge in the late Paleozoic Appalachian-Ouachita mountain belt and northward flow through the Reelfoot rift and the proto-Illinois Basin to the Upper Mississippi Valley district. Warm fluid flowing laterally through Cambrian and Ordovician aquifers would then move vertically upward through the fractures that control sphalerite mineralization in the Upper Mississippi Valley district.
+Biomarker reactant-product measurements on rock extracts from the Upper Mississippi Valley district define a relatively low level of thermal maturity for the district, 0.353 for sterane and 0.577 for hopane. Recently published kinetic constants permit a time-temperature relationship to be determined from these biomarker maturities. Numerical calculations were made to simulate fluid heat flow through the fracture-controlled ore zones of the Thompson-Temperly mine and heat transfer to the adjacent rocks where biomarker samples were collected. Calculations that combine the fluid inclusion temperatures and the biomarker constraints on thermal maturity indicate that the time interval during which mineralizing fluids circulated through the Upper Mississippi Valley district is on the order of 200,000 years.
+Fluid inclusion measurements and thermal maturities from biomarkers in the district reflect the duration of peak temperatures resulting from regional fluid circulation. On the basis of thermal considerations, the timing of fluorite mineralization in southern Illinois, and the northward-decreasing pattern of fluorine enrichment in sediments, we hypothesize that the principal flow direction was northward through the Cambrian and Ordovician aquifers of the Illinois Basin. A basin-scale flow system would result in mass transport (hydrocarbon migration, transport of metals in solution) and energy (heat) transport, which would in turn drive chemical reactions (for example, maturation of organic matter, mineralization, diagenetic reactions) within the Illinois Basin and at its margins.
+Fl
+
+F2 EVOLUTION OF SEDIMENTARY BASINS ILLINOIS BASIN
+
+INTRODUCTION
+This study expands on ideas presented in Rowan and Goldhaber (1995) and discusses the methods and assumptions. A combination of data and calculations from the traditionally separate disciplines of hydrology, petroleum geology, and economic geology provides insight into the thermal and hydrologic history of the Illinois Basin and adjacent areas (fig. 1). Fluid flow in this basin, as in many others, is intimately linked to heat transfer and thus to generation and migration of petroleum and to the maturation of coal. An understanding of the Upper Mississippi Valley zinc-lead district, just north of the Illinois Basin (fig. 1), provides unique information on the thermal regime and hydrology of the basin. The Upper Mississippi Valley district represents a local area in which fluids discharged upward from the underlying aquifers. The temperature of fluids trapped in inclusions in sphalerite places a lower limit on fluid temperature as the fluids moved upward into fractures from these aquifers. Biomarker measurements provide a time-temperature relationship that, in conjunction with temperatures determined independently by fluid inclusions, can be used to calculate the duration of sphalerite mineralization. This duration represents the time interval over which warm fluids circulated through the basal aquifers in the Illinois Basin.
+Migration of brine during the late Paleozoic is increasingly recognized as a widespread phenomena affecting the sedimentary rocks of the Midcontinent region of the United States. In the Ozark region of Missouri, Arkansas, Kansas, and Oklahoma, several lines of evidence document this regional-scale migration of fluids (see, for example, Leach and Rowan, 1986; Bethke and Marshak, 1990). Evidence for this migration includes paleomagnetic studies on both carbonate-hosted Mississippi Valley-type ore districts and the unmineralized carbonate rocks between these districts, all of which were remagnetized in the late Paleozoic by migrating fluids (Pan and others, 1990; Symons and Sangster, 1991). Paleozoic carbonate rocks in the Ozark region were exposed to warm, saline, dolomitizing hydrothermal fluids. Cathodoluminescence microscopy studies show a microstratigraphy within dolomitic cements that is correlatable over several hundred kilometers and is indicative of a very large regional flow system (Gregg and Shelton, 1985; Rowan, 1986; Fair, 1989). These correlatable dolomite cements are present as part of the ore paragenesis in the Southeast Missouri Mississippi Valley-type district (Viburnum trend) and link the dolomitizing fluids to mineralization (Voss and Hagni, 1985).
+Fluid inclusion temperatures both within and between the Ozark ore districts are anomalously high relative to temperatures calculated from a maximum estimated burial depth and a geothermal gradient controlled by basement heat flow (Leach and others, 1975; Leach and Rowan, 1986; Rowan and Leach, 1989). This anomalous thermal regime requires a
+
+mechanism such as gravity flow to redistribute heat from nearby deeper (and hotter) sedimentary basins to shallower platform areas that host ores and hydrothermal dolomite cements. Fluid inclusion temperatures for the shallower rocks on the Ozark platform are consistent with gravity flow and advective heat transport by fluids originating in the deep Arkoma Basin. In a gravity-driven flow system fluids moved continentward (northward) driven by meteoric water recharge in the highlands of the Ouachita foldbelt that formed during the Late Pennsylvanian and Early Permian Appalachian-Ouachita orogeny (Bethke and others, 1988; Bethke and Marshak, 1990; Garven and others, 1993).
+The Illinois Basin region, which is the focus of this study (fig. 1), has also experienced extensive regional fluid flow during its history. Our working hypothesis is that northward regional fluid flow also occurred in the Illinois Basin, driven by tectonic-hydrologic processes directly analogous to those operating to the west in the Ozarks. Evidence both for basinwide fluid flow and for a south to north flow direction includes development of a systematic zonation in carbon and oxygen isotopes of authigenic dolomite cements (Pitman and Spottl, in press), the near simultaneous formation of major base-metal- and fluorite-bearing ore districts (table 1), and long-distance migration of hydrocarbon fluids (Bethke and others, 1991).
+Figure 2 and table 1 summarize what is known about the tectonic history of the Illinois Basin and the mineralization history of the Upper Mississippi Valley and Southern Illinois fluorite districts. Fluid inclusions in sphalerite dated as 270+4 Ma record the presence of brines of probable deep basin origin in the Upper Mississippi Valley district. Rock alteration and lead loss from the upper basement and illitization of bentonite in the northern Illinois Basin indicate fluid circulation through the basal aquifers at approximately the same time, 260±35 Ma (Doe and others, 1983). In southern Illinois, the Early Permian was a period of intense igneous activity during which Hicks dome formed, related igneous rocks were emplaced, and the Southern Illinois fluorite district developed. Hydrocarbon generation and migration broadly coincide in time with these events (Cluff and Byrnes, 1991). Development or reactivation of many of the major structural features of the Illinois Basin area may have preceded the events noted above (Kolata and Nelson, 1991). These Permian ages contrast with Devonian ages for authigenic potassium feldspars in Cambrian-Ordovician strata; the Devonian ages may be related to the Acadian orogeny (Hay and others, 1988).
+Fluid inclusion temperatures in ore and gangue minerals in the Upper Mississippi Valley district provide a record of the region's thermal history. The Upper Mississippi Valley district was at maximum burial depth at about the time that it formed in the Permian, but even then it was not buried to more than approximately 1 km. A geothermal gradient of 25°C/km, typical of continental regions, should have
+
+FLUID INCLUSIONS AND BIOMARKERS, UPPER MISSISSIPPI VALLEY ZINC-LEAD DISTRICT 94° 92° 90° 88° 86°
+
+F3
+84°
+
+44°
+
+. . UPP.ER MISSISSIPPI . . . VALLEY DISTRICT .
+
+42° ...... _ . . . .
+
+40°
+:>w:::«W FQREST CITY
+
+38° *iv/.* TRI-STATE
+
+OLD LEADV BELT \
+
+36°
+- MARGINOFAPPALACHIANOUACHITAOROGENIC BELT
+34' 200 KILOMETERS
+
+MARGIN OF MISSISSIPPI EMBAYMENT OF THE GULF COAST
+
+Figure 1. Location of the Upper Mississippi Valley district and area of outlying mineralization, central United States. Crosshatching indicates areas of Pennsylvanian rock outcrop, the youngest Paleozoic basin fill not removed by erosion. Asterisk (*) indicates location of mining district. Modified from Bethke (1986) and Buschbach and Kolata (1991).
+
+Table 1. Recently published ages for the Upper Mississippi Valley and Southern Illinois fluorite districts and the Hicks dome.
+
+Location
+Upper Mississippi Valley district Upper Mississippi Valley district Upper Mississippi Valley district, southeastern
+margin, northern Illinois Basin Southern Illinois fluorite district Southern Illinois fluorite district Hicks dome
+Grants intrusive breccia Grants intrusive breccia Hamp Mine intrusive breccia Grants intrusive breccia and Downeys Bluff sill Downeys Bluff sill
+'Recalculated by Reynolds and others (1992).
+
+Mineral or rock type dated
+Sphalerite Sphalerite
+Basement granite Fluorite Fluorite
+Hornblende Biotite Biotite Limestone, breccia Biotite
+
+Age 269±6 Ma 270±4 Ma
+260±35 Ma 272+17 Ma Late Jurassic
+271.7±0.7Ma 272.7±0.7 Ma 269.4±0.4 Ma Early Permian 275±24 Ma
+
+Method Rb-Sr Rb-Sr
+U-Th-Pb Sm-Nd Paleomagnetism
+Ar-Ar Ar-Ar Ar-Ar Paleomagnetism Rb-Sr
+
+Reference Brannon and others (1992). Brannon and others (1992).
+Doe and others (1983). Chesley and others (1994). Symons(1994).
+Snee and Hayes ( 1992). Snee and Hayes ( 1992). L.W. Snee (oral commun.). Reynolds and others (1992). Zartman and others (1967). 1
+
+M
+Or
+H
+on
+S
+
+rV 3-S
+
+refglioounwiardl. 3
+
+3 C/> Vi
+
+So
+3lSdcsohiLeiousltnsrhybiwafucertgs,t ppUrosotfapduhtuhpr-cletfetenivrrael o
+Vi
+
+cor ,5t/i-
+
+aMrpVepidasriesnlrtesrniedptcyti
+
+fD fD
+
+usCMStnaihmdoisbtuorseina,ent matsoTcrahucowjhstoueerosai.l
+
+Oacsrrondnbocvstincodainten thrcBatIolnuhratigneshuoeiunst thSPCraoniemdunsbtgonrihane:. uncrutbConohfaodcresmkreaal;bisley M(i3afSPgqreiuhc)aogmakbie.lrite.an pUursoatmhnhnpianeileedt]n,t
+
+clPsao<oanlnewdostzifodesntirsce UMiIBatisplhianpsnsieoedpniprsi strTaansteioghcratthpieoinrc
+
+g(BBtnaBuoshorcanthsbeediancsht
+
+ToI>O£ <'
+
+hbWstdisrehucgfyoitnueshriandl,
+
+(m1ftoIBTdalhira)hggnsefoit.nirs
+
+bchOfoarodmboysavtniecoaidntes
+
+11-1on
+Co
+
+Q2
+
+3 at/i.
+0
+fD Vi
+
+CO fD Vi Vi
+
+§
+0t/0)
+"tV5/)i" "H.
+
+3.
+
+5'
+
+&
+o
+oft)
+
+I
+
+<
+
+c§*5*
+
+^ T*
+
+C
+
+a3.
+fD
+
+S1 ^'
+fD ^ C/3
+S! fD
+
+<fgt".
+
+S s0 ^3
+
+«-<
+
+?
+
+Co 3 ft
+
+N5'.
+
+0
+1 Isccft?*r
+g nj» f 1Co
+»£>
+a 5.C
+fi-?i
+er S'Vi
+
+O
+5'
+fD
+fD
+
+1 O<
+
+~i
+ft" S
+
+p*r
+Vi
+o
+O
+33' c
+
+vj CO ^ d. j»
+5'
+
+5ci-ir'
+
+i-i oopr
+
+C/5
+
+(2 ci5-ir'
+goc
+3
+
+§
+g ct°r
+«(73
+3 ^
+S
+
+Q
+0 p&
+oO<-
+M'
+§
+
+3
+crarbonate Vidalie:y
+i-i
+q5o_' 3"o0 X. !-+)
+o2
+fD
+
+Co ^
+
+0.
+^ o'
+£T3*'
+
+^
+Kankake, giaiocnst
+
+^
+
+co
+V5i'
+
+C3do.
+
+fD d3ft).
+
+S &
+fD 3 O1-1
+fi-t)i
+
+o
+fD*
+Ja». &Vi' o'
+K'
+
+GSEOTLOTGINC O
+
+tmhaotfroneuhvgosichertfeiwfpruts.l
+
+00
+td 3
+VVIi
+£L <i
+Oo
+3
+fD ^1
+r
+
+BfvdWaiarsecloduesahbeoicrlneft. gAckrnWatowrtloeedgfmeuentls.
+
+fD f»
+1
+Vi T3
+fiD-t fD
+
+>o
+^O !-h
+U< r^ *> K
+' ft)
+
+tohvchlotreovnhedruslcargeytisvhtie
+
+etrnahfbdonpveouscpiagetidrvhte
+
+csbeifrdablciumanleiyasndtidansnrgy,
+
+pdaHitfteratrhunoesrstfema:serp.etd
+
+pexlpfteailualheonsuvaribtierodlen
+
+II
+03 f"D
+
+aconctewmtipnioervainelitozuhsaytic
+
+^^
+
+US K
+BEc: -g25?'
+
+oMft"^
+v>
+Vi
+Co
+U<
+Oo 3 ><
+
+Oo
+u<
+o
+O
+i£
+
+3 0
+B.' bmhiaBbnfaleuyevsenaictnetd ptSPSnaohnaerdthstaeeor.ntre qufiminealrcsuulronemtseimnztdson pS1(iPa9mpii8tnoilman6trdal)ynl., sb(o1iLbaLmt9heuny7eapriec5dlsahe,;l themitrcnpeghcrlcauhtaosireonsdrs lreeMydtigi-dhsctnoiyrntoipceneteinst VdrsoIaeistlevVhmterbeilcayerstl Uteme1oTaipxe0cra0nehtuts°rfeCes. fat.
+
+maitenvhcdi-lusceatnitogcetns atpemriopoexsrianumtlarftesldy
+
+IIp£
+£
+o0
+
+g.U
+2.^
+R 0.
+
+&o Cct/oir
+fD
+
+?
+rr
+
+O fD
+
+< TJ
+
+&.
+s§' afD
+
+E. 55' Ol-l->
+
+s s <. X3'
+
+t/)
+
+Co ffi
+
+a. ror
+
+Co
+
+ac
+>§
+
+a<.i
+
+^
+1 1 10 ft
+
+T3 ^B
+1
+
+c ft 3 mperatures
+
+Vi
+O i-i
+Oft)
+
+-i o
+fD
+
+< i ! ** 3' gs'^ ^^
+3^co g"< K'^^O
+1 8 B-g ll-lli
+
+s !§.?!&* ! §>£§
+
+5' 3 ft i
+
+0
+3
+
+o 7
+
+fD
+3
+S
+
+o
+^f
+S
+
+5' ^-
+
+0
+Vi
+
+a. 5-
+
+S,
+
+£
+£
+Vi
+
+5' §
+
+r1/1rcg-co<: *3-. CaD. PS
+
+SB. ca 5^^2'33 ca CCDL aS.. PT »i. fat). Ka..
+
+BIYLASININOINS
+
+PRECAMBRLAN CAMBRIAN
+
+ORDOVICIAN SILURIAN DEV.
+
+MISS. PENN. PERMIAN TRIASSIC
+
+JURASSIC
+
+CRETACEOUS
+
+TERTIARY
+
+?____
+
+^^^^^ _ _? Pascola arch
+
+^^^ Upper Mississippi Valley district sphalerite district (Brannon and others, 1992)
+J^^ Fluorite (Chesley and others, 1994)
+
+^^^. Fluorite ( Symons, 1994)
+,^n icks and Omaha domes
+
+.^^^^^ Fluorspar iirea fault complex
+
+9
+
+.^ lfc.Mi!»sissippi River arch
+
+^__ - - - -
+
+^^W scon sin arch
+
+**m^^^fe. ------
+
+------ Rough Creek-Shawneetown faults
+
+(Re)ugh Creek graben)
+
+Ini tial Illinois Basin sedimentatk)n Ne\vMadrid-Reelfoot rift cc)mplex
+
+^^^^^^^^ ^^
+
+^
+
+Mississippi
+^^embayment
+9^
+
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIMM' 'Illllllillllllllllllllllllll' i
+
+BREL\KUP OF SUPER CONTINENT
+
+TACONIC OROGENY
+
+i Hllllllllllllll IIIIIH"
+ACAD][AN
+OROGEiNY
+
+' llllllllllllll IIIIIIIIIIIIIIIIIIHIK "lllllllllllllllllllll Illlllllll Illlllllllli''
+
+ALLE:GHENLAN
+
+BREA KUPOF
+
+OR OGENY
+
+pArTOEA
+
+11 11
+
+600 Ma
+
+500
+
+400
+
+300
+
+1 200
+
+1 10 °
+
+C
+
+G
+5
+nrZ
+00
+O oZo Z O 03
+i
+70
+7m0
+oo
+00 00
+0oo0
+r
+N
+Zn m>D
+D oo
+n
+
+Figure 2. Timing of major structural, tectonic, and mineralization events related to the Upper Mississippi Valley and Southern Illinois fluorite districts (see also table 1). Modified from Kolata and Nelson (1991).
+
+F6 EVOLUTION OF SEDIMENTARY BASINS ILLINOIS BASIN
+
+a6j
+t>o-.
+
+otc/i
+o
+
+C/O C/O
+
+Group or Formation
+
+Description
+
+Average thickness (meters)
+
+^o
+iSilurian
+<5
+
+Hopkinton Dolomite
+Kankakee
+
+r AU7^ //
+A/A /A /A
+// A/A/
+
+Dolomite, buff, cherty; Pentamerus oblongus common Dolomite, buff, cherty
+
+58+
+91+ 14-15
+
+A /A
+
+1
+
+Edgewood Dolomite ^eL^jL
+
+Dolomite, gray, argillaceous Disconformiiy
+
+3-35
+
+e§x, Maquoketa Shale s_ ^ /7 Shale, blue, dolomitic; phosphatic depauperate fauna at bas ; 33-73
+ID
+
+Galena Dolomite
+
+/ / Dolomite, vellowish-buff, thin-bedded, shalv
+
+12
+
+// / / / /
+
+Dolomite, yellowish-buff; thick-bedded; Receptaculites in middle
+
+24
+
+69
+
+/ ^ /^ A/ A /
+
+Dolomite, drab to buff, thick-bedded; Receptaculites at
+
+^/ ^
+
+32
+
+/ A /^ base
+
+Ordovician
+
+Middle
+
+Decorah Formation
+
+*
+/
+
+/* /
+
+/Dolomite, limestone, and shale, green and brown;
+
+o^o <>-Lo o-^ nodules and bentonite near base
+
+phosph itic 1 1- 12
+
+Platteville Formation
+
+1 //
+
+Limestone and dolomite, brown and grayish; green, sandy shale and ohosohatic nodules at base
+
+17-23
+
+St. Peter Sandstone
+
+^ w Sandstone, quartz, coarse, rounded
+
+12+
+
+-£' //-
+
+akHj 1
+
+Prairie du Chien Group
+(undivided)
+
+/*
+/4: /*/*
+A A/
+'. / *
+
+Dolomite, light-buff, cherty; sandy near base and in upper part; shaly in upper part
+
+0-73 85-98
+
+/ * /^ -. */
+
+' VI -V .'.
+
+Trempeauleau Formation
+Franconia Sandstone
+
+//
+//
+'. ^."^'r--'.' '':' ':~?7-*:'" ''.*" '"* T"''"".
+' .^' .^' .' 1 '-
+
+Sandstone, siltstone, and dolomite Sandstone and siltstone, glauconitic
+
+37-48 34-43
+
+Cambrian cocxx
+ID
+
+Dresbach Sandstone
+Eau Claire Sandstone
+
+: ' .' ' ' ' ' Sandstone
+
+^ .^-^v.-
+7-'f^A-rL;-V:V~-V;"-V'^^f-*-A~: 1 -l.'-pr .-.'.:^'-r
+- .V.vrV/A ^. -'. ^ '.J-V
+
+Siltstone and sandstone
+
+18-43
+21- 213101 320
+
+Mount Simon Sandstone
+
+Sandstone
+W^
+
+134238
+
+Figure 3. Stratigraphy of the Upper Mississippi Valley zinc-lead district. Modified from Heyl (1968).
+
+Wisconsin (fig. 4). The Thompson and Temperly orebodies, like many others in the Upper Mississippi Valley district, are in Ordovician carbonate rocks, primarily the Quimbys Mill Member of the Platteville Formation, the Decorah Forma-
+
+tion, and the lower part of the Galena Dolomite (fig. 5) (Heyl and others, 1959; Hatch and others, 1986). Sphalerite and galena ore was localized primarily by high-angle fractures. In some mines these fractures intersect permeable horizons
+
+FLUID INCLUSIONS AND BIOMARKERS, UPPER MISSISSIPPI VALLEY ZINC-LEAD DISTRICT 92° 91°
+
+F7
+90°
+
+\-^____]Boundary of 43' \ driftless area
+\
+Upper Mississippi Valley district
+
+42'
+
+Figure 4. Principal mineralized area in the Upper Mississippi Valley district. Modified from Heyl and others (1959).
+
+and bedding-plane fractures that may also localize ore deposition. A detailed description of the district geology is given in Heyl and others (1959) and Heyl (1968).
+FLUID INCLUSIONS
+Of several fluid inclusion studies conducted in the Upper Mississippi Valley district (Newhouse, 1933; Bailey and Cameron, 1951; Erickson, 1965; McLimans, 1977) the most complete was carried out by McLimans (1977), who measured homogenization temperatures of sphalerite-hosted fluid inclusions from three mines in the district, the West Hayden, South Hayden, and Edgerton. There is almost complete overlap in the data from each mine, and no trends could be defined on the basis of geographic location within the region studied. McLimans related the position of each fluid inclusion to a well-defined color-banding "stratigraphy" that he correlated among sphalerite samples from mines throughout the Upper Mississippi Valley district (McLimans, 1977; McLimans and others, 1980). The Thompson-Temperly
+
+mine is approximately 5 km from the mines in which fluid inclusion measurements were made, at the margin of the region across which there is a detailed correlation of the sphalerite stratigraphy (Mullens, 1960, plate 25; McLimans, 1977, fig. 8). Correlation of this stratigraphy districtwide provides evidence for hydrologic continuity and for similar physical and chemical conditions throughout the Upper Mississippi Valley district (McLimans and others, 1980). We assume that the temperature range reported by McLimans (1977) prevailed also in the Thompson-Temperly mine for which there are no fluid inclusion data.
+The complex sphalerite stratigraphy can be summarized as three zones: A (oldest), B, and C (youngest) (fig. 6). Figure 7 shows the homogenization temperature data of McLimans plotted as a function of relative age or position in the sphalerite paragenesis. This figure shows the evolution of temperature, as a function of relative time, during precipitation of the sphalerite. On the basis of almost uniform thickness of the sphalerite stratigraphy across the district, McLimans and others (1980) assumed approximately constant rates of sphalerite precipitation districtwide. We
+
+Formation Galena
+Dolomite
+Decorah Formation
+Platteville Formation
+St. Peter Sandstone
+
+Member and subdivision
+
+Description
+
+Prosser Member
+
+/ //
+Cherty A/A/ un jt / / /
+
+Dolomite, drab to buff, thick- to thin-bedded, cherty; Receptaculites abundant
+
+/ / /' /-/ /
+
+Dolomite and limestone, light-gray, argillaceous; grayish-green dolomitic shale
+
+Ion Dolomite / /-/
+
+Member
+
+/ // /-/ /
+
+y^ Limestone, brown, fine-grained, thin-bedded, nodular, conchoidal; dark' brown shale
+
+\ \\
+
+Guttenberg Limestone Member
+Spechts Ferry \
+
+I \ I-l-I l I
+
+i
+
+1 i
+
+I
+
+il-i li
+
+i
+
+/ Shale, green, fossiliferous; greenish-buff fine-grained limestone
+
+Shale Member
+
+O O O CX" ^\^~^\ 1
+
+/-/-/Quimbys Mill --1 'I 1 1 1 Member / 1 1 1
+
+/ / / \McGregor
+/ / /Limestone 1 1 1 1 l'lMember
+
+1I 11
+
+Dolomite and limestone, dark-brown, fine-grained, sugary, medium-bedded, conchoidal; dark-brown shale, especially at base
+Limestone and dolomite, light-gray, fine-grained
+
+1 1 11 '
+
+/ /Petronica Polomite / /Member
+/ /X X
+
+/ /Glenwood Shale \
+
+/ /Member
+
+^
+
+'/////1 v
+
+Limestone, light-gray, fine-grained, thin-bedded, nodular, conchoidal Dolomite, brown, medium-grained, sugary, thick-bedded, blue-gray where weathered Shale, green, sandy
+
+Sandstone, quartz, medium- to coarse-grained, poorly cemented, crossbedded
+
+Thickness of unaltered rock
+(meters) 11
+6 4-5 10-13 0-2
+0-5
+4-5 17-23 4-5
+6-7 0-1
+12+
+
+w o
+oz ofl woC/3
+m2;
+H
+C>O 2^3
+I
+Fr
+1
+on 03
+
+Figure 5. Stratigraphy of lower Paleozoic rocks in the Upper Mississippi Valley district. Modified from Heyl and others (1959).
+
+FLUID INCLUSIONS AND BIOMARKERS, UPPER MISSISSIPPI VALLEY ZINC-LEAD DISTRICT
+
+F9
+
+Vein-
+Figure 6. Spatial and time relationships between sphalerite zones A, B, and C in a hypothetical vein. Fluid inclusion measurements show decreasing temperature with time.
+assume as well that zones A, B, and C represent equal intervals of time.
+Four distinct post-sphalerite stages of calcite (Heyl and others, 1959) formed as long as 111 m.y. after the sphalerite (Brannon and others, 1993). In contrast to fluids in the main-stage sphalerite, these calcite phases contain low-salinity inclusion fluids that have a distinct deuterium-oxygen isotopic signature (McLimans, 1977, fig. 21). The fluid inclusions are interpreted to represent conditions that prevailed a substantial time after decay of the fluid flow system responsible for sphalerite mineralization.
+To define temperature at the ore horizon for the fluid heat flow model, we chose high- and low-temperature paths and a best-fit path through the sphalerite fluid-inclusion data (fig. 7). A polynomial curve was fit to the homogenization temperature data, and within each zone, A, B, and C, the approximate average value on this curve was taken as best-fit temperature. Values for the high and low time-temperature histories were chosen by inspection, as representative of the high or low end of the range of homogenization temperatures.
+Figure 7 shows significant scatter in the homogenization temperature measurements for primary fluid inclusions from the same, or correlative, sphalerite growth zones. Although the mineralizing fluid undoubtedly underwent some temperature fluctuation, a significant proportion of the variability is most likely due to "necking-down," a process whereby an inclusion having a high aspect ratio evolves by dissolution and reprecipitation into two (or more) more equant inclusions. If necking-down occurs after a vapor bubble has nucleated, the liquid-vapor ratios, and thus the homogenization temperatures, in the new, necked inclusions will be erroneous and, in some cases, will differ greatly from those of an undisrupted inclusion. The necking-down phenomenon is discussed in more detail by Roedder (1984).
+
+Fluid inclusions that are present at the same horizon in a specific growth zone are generally considered to be contemporaneous and to have formed from a fluid that has a single temperature and composition. Consequently, they should have the same homogenization temperature; if they do not, then a process such as necking-down may have disrupted the inclusion after its entrapment. Furthermore, some homogenization temperatures in Upper Mississippi Valley sphalerites are unreasonably high, given the thermal maturity of the biomarkers and organic matter in the surrounding rocks. If the rocks adjacent to the sphalerite are accepted as thermally immature with respect to hydrocarbon generation (Hatch and others, 1986), they cannot have experienced temperatures as high as 218°C, for example (fig. 7; see discussion in section on "Biomarkers" following). We interpret the extreme upper end of the homogenization temperature distribution (>160°C) as the result of necking-down. Inclusions in the process of necking-down are easily recognized and avoided; however, if the process is complete, it may be impossible to detect by any direct means.
+Necking-down produces both erroneously high and low homogenization temperature values, but the magnitude of the change is unpredictable. To approximate an average homogenization temperature undisrupted by necking-down for each of the three zones, we chose values on a polynomial best-fit curve through the data, as described earlier (fig. 7). For comparison, we fitted a normal probability function to the homogenization temperatures (fig. 8). The means of these distributions coincide closely with values taken from the polynomial best-fit curve.
+A pressure correction would increase the homogenization temperatures by approximately 10°C for a burial depth of 1 km, assuming that NaCl is the predominant salt species in solution; however, dissolved gases such as CH4 or CC»2 would decrease the pressure correction from the pure water-salt system value (see, for example, Hanor, 1980). Given the relatively small value of the maximum pressure correction, and the likelihood of at least small quantities of dissolved CC»2 and CFL; in the inclusion fluid, we chose to neglect the pressure correction in this study.
+The time-temperature histories that we examined consist of a single, distinct temperature for each zone, A, B, and C. The times spanned in each individual zone were assumed to be equal, but the total time is unknown. In the calculations described following, we varied total time for each time-temperature path until the calculated biomarker maturity approximately matched the values measured by Hatch and others (1986).
+SULFUR ISOTOPE GEOTHERMOMETRY
+Under certain conditions, sulfur isotope ratios may indicate the temperature of sulfide precipitation. Sulfur isotope ratios were measured in sphalerites and galenas from 11 ore-
+
+220 B
+
+200
+180
+O
+160
+___ n __ga_i_5o_°c_ _ 140 E"-bisns'c n
+
+Temperature-time paths
+High : 150 °C, 145 °C, 115 °C Mid: 135 °C, 130 °C, 105°C Low: 120'C, 115 °C, 95 °C
+
+120
+
+100
+
+80
+Sphalerite (270 ±4 Ma)
+60
+
+40
+-Relative paragenetic position-
+20 | i i i > | i i i i | i i i i | i i I i | riii | i i i i |
+1 23
+NORMALIZED DISTANCE FROM VEIN WALL, IN CENTIMETERS
+
+Calcite (159 Ma)
+
+220
+200
+180
+W
+160 Ocr
+H O
+140
+00
+I120
+W Z H 100 03 80
+60 O on
+40 03
+20
+
+Figure 7. Fluid inclusion temperatures for three sphalerite zones, A, B, and C (McLimans, 1977), and for three generations, II, III, and IV, of late, postmineralization calcite (Erickson, 1965) in the Upper Mississippi Valley district. The solid lines are polynomial best fits to the data (see text for discussion). Radiometric ages of sphalerite (27Qt4 Ma) and calcite (159 Ma) mineralization were determined by Brannon and others (1992, 1993).
+
+FLUID INCLUSIONS AND BIOMARKERS, UPPER MISSISSIPPI VALLEY ZINC-LEAD DISTRICT
+
+Fll
+
+180 200
+
+_ Zone A (oldest)
+
+200
+
+20 40 60 80 100 A A 140 A 16° 180 200 HOMOGENIZATION TEMPERATURE, IN °C
+
+Figure 8. Histograms of fluid inclusion homogenization temperature by sphalerite zone. The solid curves show a normal distribution fitted to the data set. Triangles indicate the values used to define the high-, low-, and "best-estimate" temperatures for each zone. Data from McLimans (1977).
+
+bodies in the Upper Mississippi Valley district (Pinckney and Rafter, 1972; McLimans, 1977); however, the isotope-derived temperatures are significantly higher than the fluid inclusion temperatures (figs. 7, 9). If sphalerite and galena are assumed to have formed at chemical and isotopic equilibrium, the difference in the isotopic ratios between the two phases is a function of their formation temperature. This equilibrium temperature was recalculated for the two data sets using the fractionation-temperature curve of Ohmoto and Rye (1979). Figure 9 shows the resulting equilibrium isotopic temperatures plotted versus relative position in the sphalerite stratigraphy of McLimans and others (1980). Although there is considerable scatter, particularly in the measurements of Pinckney and Rafter (1972), there is rough
+
+agreement between the two sulfur isotope data sets. Both indicate a pattern of higher temperature early in the paragenesis and declining temperature in the later stages, similar to the fluid inclusion data.
+The isotope-fractionation-derived temperatures are systematically higher than those of the fluid inclusion data through approximately the first two-thirds of the paragenesis (figs. 7, 9). This relationship is not unexpected and usually occurs when the concentration of sulfur in the form of F^S in the mineralizing fluid does not significantly exceed the concentration of total metals (Ohmoto, 1986). If the concentration of tbS is low, precipitation of the least soluble phase (galena) will modify the isotopic composition of the remaining H2S in solution by preferentially removing the
+
+F12
+250 225
+
+EVOLUTION OF SEDIMENTARY BASINS ILLINOIS BASIN D D
+
+200 D ! D
+
+175 o
+150
+cc
+UJ 125 £L UJ
+100
+
+75
+
+50
+
+25 01234 NORMALIZED DISTANCE FROM VEIN WALL, IN CENTIMETERS
+Figure 9. Temperatures calculated from the sphalerite sulfur isotope measurements of Pinkney and Rafter (1972) (solid squares) and McLimans (1977) (open squares). The solid line is a polynomial fit to the data. Distances were normalized to the scale of the sphalerite stratigraphy defined by McLimans (1977).
+
+light isotope. This case occurs because galena is enriched in the light isotope of sulfur as compared to aqueous sulfide. Subsequent precipitation of sphalerite will thus occur from an thS reservoir enriched in the heavy isotope. This process increases the isotopic difference between ZnS and PbS and leads to calculation of apparent temperatures of formation above the true value.
+BIOMARKERS
+Biomarkers were originally used primarily as an indicator of provenance or depositional environment, hence their name. The two categories of biomarkers that we discuss here, steranes and triterpanes (of which hopanes comprise one category), are sometimes referred to as "chemical fossils" because their basic structure is similar to a known contemporary natural product. Steranes and triterpanes are not found in living organic matter, but closely related compounds (for example, triterpenoids and steroids) are present in many organisms. During diagenesis, some of these precursor molecules are converted through a complex series of reactions into more stable, saturated-hydrocarbon biomarkers that are preserved in geological samples (see, for example, refer-
+
+ences in Waples and Machihara, 1991). In the last decade, the rates at which several of the biomarker compounds undergo isomerization reactions as a function of temperature have been well established (Mackenzie, 1984; references in Lewis, 1993). Progressive changes in the ratio of biomarker reactant to product ratio are a measure of thermal stress, or temperature integrated over time. The biomarker data of Hatch and others (1986) provide an important constraint on the thermal history of the Thompson-Temperly mine.
+Among the best characterized of these biomarker transformations are the isomerization reactions at C-20 in 5a(H),14a(H),17a(H)-steranes, and at C-22 in 17a(H),21(3(H)-hopanes (fig. 10) (Mackenzie, 1984; Marzi and Rullkotter, 1992, p. 19). Hatch and others (1986) measured the extent of these reactions in C29 24-ethyl-sterane and in C3i-homohopane. In the sterane isomerization reaction, a precursor of biological origin that has 20R configuration is transformed to the 20S epimer (fig. 11), a reaction that occurs naturally only in the geosphere (Marzi and Rullkotter, 1992, p. 22). R and S refer to rectus and sinister, mirror image orientations of an epimer (Waples and Machihara, 1991, p. 4). The initial concentration of the product (20S) in the organic-bearing sediments is assumed to be zero and
+
+FLUID INCLUSIONS AND BIOMARKERS, UPPER MISSISSIPPI VALLEY ZINC-LEAD DISTRICT
+
+F13
+
+STERANES
+
+27
+
+TRITER PANES
+
+34
+
+24
+B
+
+Figure 10. Numbering system for carbon atoms in (A) steranes and (fi) triterpanes (includes hopanes). The steranes are identified by the orientation of the hydrogens located at carbon atoms C-5, C-14, and C-17 and the hopanes by the orientation of the hydrogens located at carbon atoms at C-17 and C-21. Isomerization reactions take place at C-20 and C-22 in steranes and hopanes, respectively. Modified from Waples and Machihara (1991).
+
+proceeds to an equilibrium ratio of 20S/20S+20R=0.55. Similarly, the isomerization reaction for hopane progressively transforms the original, purely biogenic precursor that has 22R configuration into a mixture of precursor (22R) and product (22S) whose maximum ratio is 0.60 (Peters and Moldowan, 1993; also see references in Marzi and Rullkotter, 1992, p. 22-23).
+
+Laboratory experiments carried out on initially mature rocks have in several instances resulted in a reversal in the trend toward increasing sterane maturity ratios (20S/20S+20R) with further thermal stress. Lewan and others (1986) noted such a reversal in the sterane isomerization trend during hydrous pyrolysis experiments on the Phosphoria Retort Shale. The sterane epimer ratio for the
+
+F14 EVOLUTION OF SEDIMENTARY BASINS ILLINOIS BASIN
+
+STERANE 20R
+
+20S
+
+REACTANT
+
+HOPANE
+
+PRODUCT
+
+8 REACTANT
+
+22R
+
+22S
+PRODUCT
+
+Figure 11. Isomerization reactions for the specific sterane and triterpane whose maturity ratios are used in this study, (#) 5a(H), 14<x(H),17cc(H) 24-ethylcholestane and (fi) C31-17<x(H),21(3(H) homohopane. See figure 10 for the numbering system for the carbon atoms. Open circles and open wedges denote bonds oriented in alpha configuration (pointing down), and solid circles and hatchured wedges denote bonds in beta configuration (pointing up). Modified from Waples and Machihara (1991).
+
+starting material was 0.42. Marzi and Rullkotter (1992) noted a similar reversal in the sterane ratio during laboratory hydrous pyrolysis experiments. The maturity ratios in their samples reached a maximum near 0.54 and then declined to lower values (Marzi and Rullkotter, 1992, figs. 2.1, 2.2); however, hopane maturity ratios did not show a reversal. Abbott and others (1990) and Marzi and Rullkotter (1992) attributed the reversals to the preferential destruction of the 20S sterane epimer in samples that are at or near their maximum maturity ratios.
+Individual biomarkers are sensitive as measures of maturity over different ranges of thermal stress. Both the hopanes and the steranes used in this study record conditions of relatively low thermal maturity. The hopanes record conditions to the beginning of early oil generation (vitrinite reflectance, RQ, approximately 0.6 percent), and the steranes
+
+record conditions up to the beginning of peak oil generation (approximately 0.8 percent R0) (fig. 12) (Mackenzie, 1984, fig. 26; Peters and Moldowan, 1993, fig. 3.46).
+The samples collected from the Upper Mississippi Valley district are at an early stage of maturity and oil generation is still "incipient." The Guttenberg Limestone Member of the Decorah Formation (fig. 5), for example, which overlies the Platteville Formation from which the biomarker samples were collected, is referred to locally as "oil rock" because of the small amounts of oil staining associated with the dark, organic-rich, shaly horizons (Heyl and others, 1959). The average sterane ratio measured by Hatch and others (1986) is 0.35 (table 2), corresponding to immature and early stages of oil generation (fig. 12). The hopane ratio, which is not known to undergo reversals, averages 0.58 and also corresponds to immature oil. Because the maturity with respect to
+
+FLUID INCLUSIONS AND BIOMARKERS, UPPER MISSISSIPPI VALLEY ZINC-LEAD DISTRICT
+
+F15
+
+Table 2. Sterane and hopane biomarker maturity ratios in the barren drift between the Thompson and Temperly orebodies.
+[From Hatch and others (1986). Distance is position of the sample relative to a point within main orebody of Thompson mine (see text for discussion). R, reactant or precursor compound; P, product]
+
+Sample No.
+TT64-2A TT64-3A TT64-5A TT64-7A TT64-13A
+Average limestone
+TT64-3 TT64^ TT64-5 TT64-7 TT64-8 TT64-13
+Average shale
+
+Distance (meters)
+5.72 9.53 32.39 44.45 161.93 50.80
+9.53 24.77 32.39 44.45 51.44 161.93 54.09
+
+Sterane P/R
+Limestone
+0.48 0.52 0.53 0.60 0.55 0.54
+Shale
+0.48 0.50 0.65 0.52 0.57 0.61 0.56
+
+Sterane P/(P+R)
+0.32
+0.34 0.35 0.38 0.35 0.35
+0.32 0.33 0.39 0.34 0.36 0.38 0.36
+
+Hopane P/R
+1.25 1.24 1.32 1.53 1.34 1.34
+1.26 1.43 1.33 1.33 1.51 1.45 1.39
+
+Hopane P/ (P+R)
+0.56 0.55 0.57 0.60 0.57 0.57
+0.56
+0.59 0.57 0.57 0.60 0.59 0.58
+
+Average (limestone and shale) Theoretical maximum
+
+52.59
+
+0.55
+
+0.35 1.36 0.58 0.55 0.60
+
+o 0.4
+t
+IoD
+
+22S/(22S+22R)=0.60 Hopane I 20R/ (20S+20R)=0.55 Sterane
+0.5 0.6 0.7 0.8 1.0 1.4
+
+| | Immature oil
+
+STAGES OF OIL GENERATION Peak 3 Late fTl Condensate/wet gas
+
+Figure 12. Maximum thermal maturity of hopane and sterane compared with stages of oil generation and with vitrinite reflectance (R0, in percent). Modified from Peters and Moldowan (1993).
+
+F16 EVOLUTION OF SEDIMENTARY BASINS ILLINOIS BASIN
+
+12.0
+
+11.0
+
+10.0
+
+9.0
+CO
+5i>n 8.0
+Z 7.0
+uf
+p= 6.0
+Og 5.0
+
+"s* Hopane = 0.577 Sterane = 0.353
+
+4.0
+
+3.0
+
+2.0
+
+1.0
+
+0.0
+20 40 60 80 100 120 140 160 180 200 220
+TEMPERATURE, IN °C
+
+Figure 13. Biomarker isomaturity curves for time-temperature combinations that give calculated maturities equal to the average of hopane and steranes ratios measured in the Upper Mississippi Valley district. Data from Hatch and others (1986).
+
+Table 3. Kinetic constants for sterane and hopane isomerization reactions. [From Marzi and Rullkotter (1993). A sample calculation shows biomarker maturity ratios [P/ (P+R)] based on the following relationships: k=A0 e(~Ea/RTK); P/ (P+R)=l-e~kt . R, reactant or precursor compound; P, product; temperature 130°C; duration 200,000 years]
+
+Sterane Hopane
+
+Pre-exponential factor
+A0 (S-')
+4.86x1 0+8
+8.10xlO+8
+
+Activation energy Ea (kJ/mol)
+169 168
+
+Rate constant k (s- 1 )
+-6.17X10" 14 -1.39X10- 13
+
+Sample calculation P/ (P+R)
+0.32 0.58
+
+oil generation is low, we are confident that the sterane ratios reflect conditions of overall low thermal maturity and were not achieved by a reversal from earlier, higher values. Good agreement between the sterane and hopane maturities is further evidence that progressive isomerization has not been disrupted in the sterane by a possible reversal (fig. 13).
+The biomarker transformation reactions are non-linear and are treated as first-order reactions,
+dC/dt=-kC,
+where C is the mass of reactant in the system, k is a rate constant, and t is time. The equation can be integrated to give the ratio of reactant remaining (C) to the initial concentration of reactant (C0) in the system (see Barker, 1989)
+C/C 0=_~e-kt
+
+The rate constant, k, is given by the Arrhenius equation
+where A0 and Ea are empirical kinetic parameters, R is the gas constant, and TK is temperature (Kelvin). In the numerical calculations described in the next section, temperature is held constant for each of three stages of mineralization at values determined from the fluid inclusion data. We used values from Marzi and Rullkotter (1992) for the pre-exponential factor, A0, and activation energy, Ea (table 3). Their approach combines results of both laboratory hydrous pyrolysis experiments performed at short durations and field-derived information that represents much longer durations. Waples and Machihara (1991) favored this approach because it incorporates information representing a large range in time.
+
+EXPLANATION FOR PLAN VIEW Approximate extent of mineralized rock
+Approximate extent of alteration aureoleSolid line indicates mapped boundary
+Outline of mine workings Sample location and number
+
+Thompson orebody
+
+Temperly orebody
+
+/
+
+t; <
+
+0.6- -----Hopane avg.
+
+---- -----------J---. --------
+
+^°< *£
+
+nP
+
+<H 0.4^ So ^5
+
+O+QKo no o\ ir\
+
+^fe -^c»^°s-
+
+£8 0.3-J
+
+DC DC < 0.
+
+00 0.2- Tmax av9-
+
++
+
+3 05 h-425*
+
+0.0-
+
+O -400
+
+100 200 300 400 500
+
+DISTANCE, IN METERS
+
+EXPLANATION Hopane (limestone) n Hopane (shale) O Sterane (limestone) O Sterane (shale)
++ Tmax (limestone) X Tmax(shale)
+
+Figure 14. Sample sites in the Thompson and Temperly orebodies and alteration halo and along the barren drift between the two mines. Samples were taken from the Quimbys Mill Member of the Ordovician Platteville Formation, from a thin, continuous shale layer, and from the adjacent, overlying limestone. Biomarker measurements (left axis) and Tmax values (right axis) for individual sites are shown in the graph. Data from Hatch and others (1986). Map modified
+from Heyl (1968) and Hatch and others (1986).
+
+G
+B o
+00
+O Z
+00
+Z O DO O
+oo oo
+OO 00
+N Z O
+rra >a a
+00
+H
+So
+H
+
+F18 EVOLUTION OF SEDIMENTARY BASINS ILLINOIS BASIN
+
+Hatch and others (1986) measured sterane and hopane biomarker ratios in samples collected at the Thompson-Temperly mine, both within the Thompson orebody and along a barren drift at sites extending approximately halfway to the Temperly orebody (fig. 14). Samples were collected both from the shaly basal part of the Quimbys Mill Member of the Platteville Formation and from the overlying limestone. It is significant that the biomarker ratios show no clear, systematic trend in thermal maturity with distance from the Thompson orebody (fig. 14) (Hatch and others, 1986). The analytical error of the measurements maturity ratio measurements is ±0.005 (D. King, personal commun.). Scatter in the measurements reflects the overall error due to factors such as inhomogeneity among individual samples, but significantly, there are no systematic differences between samples from the limestone versus the shale (see the section on "Sources of Error," following).
+Tmax, another common measure of thermal maturity, also was examined both at the Thompson and Temperly orebodies and at a number of sample sites along the drift between them (fig. 14). Tmax records the temperature of maximum hydrocarbon generation during pyrolysis and provides a reliable indicator of relative thermal maturity (Tissot and Welte, 1984). Tmax values of less than 435°C generally indicate thermally immature samples. Because the Tmax values exhibit only a small degree of variation, and no systematic trend between the mines, we are confident that thermal conditions adjacent to the Temperly orebody are similar to those reflected in biomarker measurements made in and adjacent to the Thompson orebody.
+Using the product to reactant ratios measured by Hatch and others (1986) and the kinetic constants of Marzi and Rullkotter (1992), we were able to define the range of time and temperature that would give biomarker ratios equal to the average measured hopane and sterane values (fig. 13). The temperature range shown in figure 13 is equal to the range of fluid inclusion homogenization temperatures measured by McLimans (1977). Although the diagram assumes a single, constant temperature, it nevertheless provides useful constraints, At 50°C, for example, it would take approximately 53 billion years to obtain the observed biomarker maturities, but at 220°C these maturities would be attained in approximately 20 years.
+FLUID- AND HEAT-FLOW AND THERMAL MATURITY CALCULATIONS
+The Thompson and Temperly orebodies are in permeable, fractured zones in otherwise low-permeability rock. In our conceptual model, mineralizing fluid circulates upward through fracture zones, and heat moves out into unmineralized rock. Heat transport is primarily by advection within
+
+fracture zones and primarily by conduction in adjacent unmineralized rock. Elevated heat flow due to the presence of hot fluids in the fracture zones and in underlying aquifers plays an important role in thermal maturation of the biomarkers.
+The immediate source of the warm, mineralizing fluid is an underlying aquifer; the highly permeable Mount Simon and St. Peter Sandstones have been suggested as likely possibilities (see, for example, Heyl, 1968). The ultimate source of the fluid is not addressed by the calculations but is discussed in the next section. Fluid inclusions provide a temperature constraint for the orebodies, and the biomarkers give a measure of thermal maturity (a function of both time and temperature) both in the orebodies and in the adjacent unmineralized rock. Our approach to combining these two constraints was to find durations that, given a specific temperature history for the orebodies, gave biomarker maturities consistent with the measurements of Hatch and others (1986). We made an initial estimate using an average temperature and the time read from the curves in figure 13. Then, using a fluid-inclusion derived temperature history, we adjusted time until we achieved the best possible match, for both hopane and sterane, between the measured and calculated biomarker maturities.
+Coupled, numerical fluid- and heat-flow calculations were carried out using a finite difference program, HYDROTHERM (Hayba and Ingebritsen, 1994), to determine the time interval needed to produce the observed biomarker maturities. The program calculates the density of water as a function of temperature but does not account for salinity. Incremental and cumulative thermal maturities are calculated for each time step, at each cell in the grid, using a subroutine written to work in conjunction with the flow program.
+BOUNDARY CONDITIONS AND GRID
+Figure 15 shows a schematic cross section through the Thompson-Temperly mine and the configuration of the flow model. The horizontal dimension of the grid is 380 m, determined by projecting the sample sites of Hatch and others (1986) onto a line drawn orthogonal to the trend of the Temperly orebody and intersecting the Thompson orebody (fig. 16). Two vertical dimensions of the grid were utilized, representing two possible depths for the upper surface of an aquifer system underlying the Platteville Formation. The vertical dimension of 1,485 m assumes a lower grid boundary at the top of the Mount Simon Sandstone and that of 1,150 m a boundary at the top of the St. Peter Sandstone. Fluid circulates upward from the aquifer through near-vertical fractures to the mineralized horizon.
+The symmetry of the cross section, as conceptualized here, implies a fluid- and heat-flow divide midway between the two orebodies at which the temperature and pressure gradients are zero. Calculations are therefore carried out in
+
+FLUID INCLUSIONS AND BIOMARKERS, UPPER MISSISSIPPI VALLEY ZINC-LEAD DISTRICT
+SPECIFIED TEMPERATURE AND PRESSURE BOUNDARY
+
+F19
+
+9.5 m ^
+
+360 m
+
+t
+BOOUNWDARY
+
+Fracture zone
+
+Unmineralized rock
+
+Permeability
+Fracture zone: 10-11 (m 2) Country rock: 10-16 (m 2) Heat capacity 1.05x1o3(J.kg-1.K-1)
+
+Thermal conductivity
+2.5 (W-m'1-K' 1 ) Porosity
+Fracture zone: 25% Country rock: 1%
+
+' 9.5 m >^ ^
+Fracture* zone -
+tH20 m
+
+t0
+Z
+Temperly
+
+Thompson orebody ^
+
+orebody
+
+r?"-° ..- .. ,.- ..- ,. . " .- ./ .-" .-' .Q.- u.-'im,.b-y/s/,M- ill./M.em. b/er,.-("b,-io/m.a,.'r.k,.-e.r- sxam. -p,l.-e.si.t'esy) .- .- . ,- / ,.- .- .)'
+
+t
+
+Upper surface of Mount Simon or St. Peter Sandstone
+SPECIFIED TEMPERATURE AND PRESSURE BOUNDARY
+
+Figure 15. Schematic cross section showing configuration of flow model. Fluid inclusion measurements for the district constrain temperature at the mineralized horizon. Thermal maturities were measured in samples from the Quimbys Mill Member of the Ordovician Platteville Formation. A fixed-temperature basal boundary was tested at two positions corresponding to the Mount Simon and the St. Peter Sandstone Sandstones. Heavy arrows indicate fluid circulation upward from the underlying aquifer(s) through the fracture zones. See text for discussion.
+
+the half-space that extends from one fracture zone to the central symmetry plane, or no-flow boundary. The fracture zone itself has a symmetry plane at its center and is also modeled as a half-space. The half-space cross section was divided into 434 cells, using 14 columns and 31 rows. Intersecting lines show the positions of the nodes at the center of each cell in the grid (fig. 17). The spacing of rows and columns is variable; cells are smaller near the fracture zone and near the Quimbys Mill horizon where more detail is desirable. The top boundary, representing the ground surface, is one of specified temperature and pressure, except for four cells at the top of the fracture zone for which fluid flux is specified. Two types of thermal boundary condition were tested at the base of the grid: (1) specified temperature, representing the top of the Mount Simon or St. Peter Sandstone, and (2) specified heat flux from the basement. Pressure was fixed at the bottom boundary.
+The variations in fluid temperature with time that we specify at the bottom boundary were constrained by fluid inclusion temperatures measured in the district (see preceding discussion ). The three stages of temperature evolution, corresponding to zones A, B, and C in the sphalerite stratig-
+
+raphy of McLimans (1977), represent an extreme simplification of the true temperature history, which, for example, would have changed as a smooth function of time rather than in stairstep fashion. Furthermore, our temperature information applies, strictly speaking, only to the ore horizon in the Upper Mississippi Valley district, and we have no temperature information for the fluids in the underlying aquifers. If, however, we specify the aquifer temperatures as the values observed in the ore, advective heat transport by fluid flow in the fracture zone causes rapid thermal equilibration so that the calculated temperatures at the mineralized horizon match the observations. Temperature within the aquifer is assumed to be constant on a horizontal scale of several hundred meters; that is, on the scale of the cross section between the two mines.
+The fixed-temperature boundary of the base of the grid represents the upper surface of the aquifer. Two positions were tested for this basal boundary, the top of the St. Peter Sandstone and the top of the Mount Simon Sandstone, approximately 15 m and 350 m, respectively, below the Quimbys Mill Member of the Platteville Formation. Both the Mount Simon and the St. Peter Sandstones have been pro-
+
+EXPLANATION ["_ ^ Approximate extent of mineralization
+Approximate extent of alteration aureole Solid line indicates mapped boundary Outline of mine workings Sample location
+Temperly orebody
+
+Thompson orebody
+
+Figure 16. Sample sites projected onto a line drawn normal to the trend of the fractures that controlled emplacement of the Thompson and Temperly orebodies. The distance between the two orebodies was taken as the horizontal dimension of the grid. Map modified from Heyl (1968) and Hatch and others (1986).
+
+<m
+O
+c oz o mo
+DO
+rZ
+o
+oo DO
+
+FLUID INCLUSIONS AND BIOMARKERS, UPPER MISSISSIPPI VALLEY ZINC-LEAD DISTRICT
+
+F21
+
+>^ \ F racture zo ne
+20 40
+
+/r
+/ St. Peter San<jstone (top)
+
+Quimbys Mill Member of th e Platteville Formatic>n
+/
+/
+/ 4
+Mount Simon Sar dstone (top)
+*
+
+\ 60 80 100 120 140 160
+DISTANCE, IN METERS
+
+-0
+- 100 - 200 - 300 - 400 - 500 - 600
+O h 700 Tj
+I - 800 "-
+- 900 | -1000 3en -1100 -1200 -1300 -1400 -1500
+180
+
+Figure 17. Grid used in numerical calculations; intersections of grid lines show the positions of the nodes at the center of each cell. Because the system is symmetrical, only half of the distance between the two orebodies (fracture zones) is represented here. Three scenarios were assumed: (1) a specified temperature basal boundary at the St. Peter Sandstone, (2) a specified temperature basal boundary at the Mount Simon Sandstone, and (3) constant heat flux from the basement, with temperature fixed in the fracture zone immediately below the Quimbys Mill Member of the Platteville Formation. Four additional rows, used to extend the grid into the basement for the constant heat flux calculation, are not shown here. See figure 15 for conceptual model and boundary conditions.
+
+posed as likely aquifers and a source for the mineralizing fluids (see, for example, Heyl, 1968).
+The surface temperature was fixed at 22°C, appropriate for this region during the Permian (Cluff and Byrnes, 1991), and the bottom boundary was set to fixed values; for example, 130°C-125°C-105°C, for the best-fit temperature path, based on the fluid inclusion data (fig. 7). The time intervals were equal for each temperature stage, as discussed previously. Calculated biomarker maturities in the Quimbys Mill differ only to a small degree as a function of position of the basal boundary, Mount Simon versus St. Peter Sandstone. If the top of the St. Peter Sandstone is taken to be the upper surface of the principal aquifer, thermal equilibration occurred very rapidly within the Quimbys Mill, and the calculated biomarker maturities vary very little across the grid between the two mines (fig. 18). If this boundary is moved down to the top of the Mount Simon Sandstone, thermal equilibration took slightly longer time, but the results are similar (fig. 19). Initial differences in temperature between the fracture zones and sample sites in unmineralized rock are preserved as
+
+cumulative differences in the thermal maturity of the biomarkers; however, these differences are insignificantly small (<0.006) even if the Mount Simon is taken as the bottom boundary, and they are within the uncertainty of the measurements made by Hatch and others (1986) (fig. 20).
+We tested a third boundary condition, a fixed basal heat flux of 62.5 mW/m2 , with temperature specified only within the fracture zone at the ore horizon. This configuration produces a much larger difference in the thermal maturity ratios (0.1), decreasing away from the fracture zone. This result is inconsistent with the data of Hatch and others (1986), which show no systematic trend with distance either for the biomarkers or Tmax (fig. 14). We conclude that physical conditions approximating a fixed-temperature lower boundary are necessary to explain the absence of a gradient of decreasing maturity away from the ore. This conclusion is significant because a fixed-temperature lower boundary requires regional flow through aquifers below the ore horizon. Heat is conducted upward from the aquifer, producing near-uniform temperatures at the horizontal scale of the
+
+F22 EVOLUTION OF SEDIMENTARY BASINS ILLINOIS BASIN
+
+100-
+2003004005006007008009001000-
+1100-
+0
+
+0.001 _
+
+-^0.330^ 20 40
+
+60
+
+Mineralized horizon 80 100 120 140 160 180
+
+01002003004005006007008009001000 1100H
+B
+
+0.001 _
+Mineralized horizon -0.594^
+ii iii iiiIiii iii1iiiiiii iii iii ii 20 40 60 80 100 120 140 160 180
+
+0 1 DO200-
+300 400 500600700-
+800 9001000-
+1100-
+0
+
+,40.0 -60.0
+-80.0
+
+-100.0
+
+TEMPERATURE
+
+>x. Fracture zone
+
+-105.0°C-
+
+Mineralized horizon n i i i i i i?1i05i.0°iC_i i i i i i i i i i i i i i i i | i i i | i i i | i r
+20 40 60 80 100 120 140 160 180 DISTANCE, IN METERS
+
+FLUID INCLUSIONS AND BIOMARKERS, UPPER MISSISSIPPI VALLEY ZINC-LEAD DISTRICT
+
+F23
+
+Figure 18 (facing page). Contours of calculated thermal maturity ratios for sterane (A) and hopane (fi) over the grid, assuming a best fit-temperature path and a specified temperature basal boundary at the St. Peter Sandstone. Temperatures at the end of the fluid flow event are shown in (Q.
+mines and biomarker maturities that record the absence of a horizontal thermal gradient.
+DEPTH OF BURIAL
+In a purely conductive thermal regime, depth of burial determines temperature. Previous estimates of maximum burial depth at the time of mineralization range from 600 to 800 m (Bailey and Cameron, 1951; Haas, 1961); Cluff and Byrnes (1991, fig. 25-6) estimated approximately 900 m of erosion in the northern Illinois Basin since the Permian, giving a burial depth on the order of 1 km during mineralization. These depths correspond to temperatures of 37°C-47°C, assuming a 25°C/km geothermal gradient and a 22°C surface temperature, appropriate for the Midcontinent in the Permian (Cluff and Byrnes, 1991). The elevated fluid inclusion temperatures in the orebodies clearly require an additional source of heat.
+Fluid inclusions in the post-ore calcite have an average temperature of approximately 50°C (Erickson, 1965) and may represent reestablishment of a conductive thermal regime long after decay of the mineralizing system. Brannon and others (1993) determined a Rb-Sr age of 159 Ma for stage II of the four post-ore generations of calcite; thus, stages II-IV are at least 110 m.y. younger than the ore and have fluid inclusion salinities and oxygen isotope values distinct from those of the ore fluids (McLimans, 1977). We hypothesize that fluid flow rates in a regional, gravity-driven system gradually declined due to factors such as erosion of the elevated recharge area and possibly faulting or diagenetic changes in the rocks along the flow path. Warm, highly saline brines of deep basin origin were gradually replaced by cooler, low-salinity, meteoric water.
+We reason that the calcite most likely formed in a conductive thermal regime controlled by basement heat flow with little contribution from the thermal effects of regional-scale fluid flow. Given a paleogeothermal gradient of 25°C/km, and a surface temperature of 22°C, the 50°C isotherm would have been at a depth of 1,120 m. We have assumed that 1,120 m represents the burial depth during formation of the calcite and take this to be the burial depth of the ore and of the Quimbys Mill horizon in the numerical model. Our somewhat deeper estimate of maximum burial is conservative in the sense that it permits a greater component of the heat to be explained by simple burial and by the geothermal gradient. It is important to note, however, that heat derived from the underlying aquifer, the fixed-temperature
+
+lower boundary, is the predominant factor influencing the biomarker maturity and that burial depth plays a secondary role in determining the thermal history at the Quimbys Mill horizon.
+PERMEABILITY, POROSITY, FRACTURE ZONE WIDTH, AND FLUID FLUX
+Unmineralized limestone has been assumed to have a permeability of 10~12 cm2 (10~ 16 m2) at the low end of the normal range for limestone (Freeze and Cherry, 1979), and the fracture zone was treated as an equivalent porous medium having a permeability of 10~5 cm2 (10~9 m2) over a half-thickness of 9.5 m. These values were chosen to reflect a large permeability contrast between the fracture zone and the country rock, which is a sublithographic limestone.
+The fluid flux that we have specified entering the base of the fracture, 1 g/s, is not tightly constrained but is of the same order as flux values used in other studies (see, for example, Garven, 1985; Hayba, 1993). Accordingly, we tested the effects of varying fluid flux on the thermal history of the Quimbys Mill Member. With the fixed-temperature boundary condition at the bottom of the grid that is, the top of the Mount Simon Sandstone or the St. Peter Sandstone aquifers variations in fluid flux have little effect on the thermal history of the Quimbys Mill Member. Both the Mount Simon and the St. Peter were sufficiently close to the Quimbys Mill that thermal equilibration took place rapidly in response to changes in the fluid temperature within the aquifer.
+We tested the sensitivity of biomarker maturities to several other factors including the width of the fracture zone and the porosity and permeability of the unmineralized country rock. Doubling or halving the width of the fracture zone, for example, while maintaining a constant flux had little effect on the thermal maturity of the Quimbys Mill Member because of its proximity to the underlying aquifer and the fixed-temperature boundary; however, high in the fracture, near the ground surface, the fluid temperature changed significantly due to the corresponding changes in the thermal inertia of the fracture system. The thermal maturity of rocks near the surface is therefore sensitive to the width of the fracture zone, but small errors in measuring the width of the ore zone had no significant effect on the biomarker ratios in the Quimbys Mill Member, deep in the sedimentary section.
+Preliminary calculations included heat conduction only, but we chose to include fluid flow to give a more realistic transient vertical thermal profile in the fracture zone and to allow a small amount of advective heat transport by fluid circulation outside of the fracture zone. In our calculations fluid flow from the fractures into the surrounding rock is minor due to their low permeability, and heat transfer from the fracture to the surrounding rocks is primarily by conduction. Increasing the permeability of the unmineral-
+
+F24 EVOLUTION OF SEDIMENTARY BASINS ILLINOIS BASIN
+
+1000-
+200300400500600700800900-
+1000 11001200130014001500-
+0
+
+0.001
+
+STERANE
+
+Mineralized horizon
+
+-0.33420 40 60 80 100 120 140 160 180
+
+o-
+100200300co 40 °gj 500600tH 700800H 900-
+5] 1000-,
+Q 1100:
+1200 1300
+
+"0.58
+Fracture 'zone
+
+-0.001-
+0.010-
+
+HOPANE
+
+Mineralized horizon
+
+1500-
+
+-0.599-
+IIi 20 40 60 80 100 120 140 160 180
+
+0
+100:
+200: 300: 400:
+500-
+600
+700: 800: 900: iooo: 1100-
+1200
+1300: 1400:
+1500-
+0
+
+TEMPERATURE
+
+Mineralized horizon
+
+_105°C_
+20 40 60 80 100 120 140 160 180 DISTANCE, IN METERS
+
+FLUID INCLUSIONS AND BIOMARKERS, UPPER MISSISSIPPI VALLEY ZINC-LEAD DISTRICT
+
+F25
+
+Figure 19 (facing page). Contours of calculated biomarker maturity ratios for sterane (A) and hopane (fi) over the grid, assuming a best-fit temperature path and a specified temperature basal boundary at the Mount Simon Sandstone. Temperatures at the end of the fluid flow event are shown in (Q.
+ized country rock by an order of magnitude resulted in a slight decrease in the time required for thermal equilibration due to increased fluid circulation outside of the fracture zones; however, the effect is minor at the Quimbys Mill horizon.
+THERMAL PROPERTIES
+Heat capacity and thermal conductivity values of the rock help to determine the rate at which the system reaches thermal equilibrium. We chose values typical of sedimentary rocks such as carbonate and sandstone, 2.5xl05 ergs/cm-s-K (2.5 W/m-K) for conductivity, and 1.05xl07 ergs/g-K (2.6xl06 J/m3 -K) for heat capacity (Roy and others, 1981).
+Porosity plays a role in the thermal regime of the system by determining the bulk thermal properties of the rock-water system. These properties also help to determine the time required for the system to reach thermal equilibrium. The porosity of the fracture zone was chosen as 25 percent, and most of the void space was assumed to be in the form of fractures. We assumed a porosity of 1 percent for the Quimbys Mill, a sublithographic limestone, as well as for the remaining unmineralized rock. Thermal equilibrium was attained rapidly at the stratigraphic level of the Quimbys Mill, again, due to proximity to the underlying aquifer, and biomarker maturity at this horizon was attained predominantly under near steady state thermal conditions. Several trials confirmed that calculated biomarker thermal maturity in the Quimbys Mill is not sensitive to changes in fracture zone porosity.
+RESULTS
+CALCULATED DURATION OF HYDROTHERMAL FLOW
+We tested three temperature histories (fig. 7), each consistent with the fluid inclusion measurements: high- and low-temperature paths and a best-fit through the fluid inclusion data. The time calculated to give the observed thermal maturities assuming the high-temperature path, 1500C-135°C-115°C, is 37,500 years. If the low-temperature path is assumed, 115°C-1050C-95°C, the time is 3.3 m.y. (fig. 21). The high- and low-temperature paths bracket the range of likely durations for a thermal episode, as constrained by biomarker and fluid inclusion data. We, however, consider the best-fit path, 130°C-125°C-110°C, to be the best representation of the fluid inclusion data. The
+
+best-fit path corresponds to 212,000 years; thus, a time period on the order of 200,000 represents a best estimate for the duration of the heating event responsible for mineralization in the Upper Mississippi Valley district. Figure 21 summarizes these results, showing the time-temperature paths and the resulting hopane and sterane biomarker maturities.
+A conservative estimate of the thermal maturity due to burial alone was made by assuming that the Quimbys Mill was at its maximum burial depth, 1,120 m, for 475 m.y., the approximate age of the rocks. This depth corresponds to a temperature of 50°C for a geothermal gradient of 25°C/km and a surface temperature of 22°C. The contribution of burial under these conditions to biomarker product-reactant ratios (thermal maturities) is calculated to be less than 0.01. This calculation oversimplifies the complexity of low-temperature reactions but serves to illustrate that the contribution of burial to overall thermal maturity can safely be neglected in the Upper Mississippi Valley district.
+Five of the fluid inclusion temperature measurements reported for sphalerite in the Upper Mississippi Valley district are in the range 160°C-218°C (fig. 7), significantly above the rest of the data (McLimans, 1977). The question of whether these high values represent a fluid temperature or are a product of necking-down is important due to the implications for the duration of the hydrothermal event, as well as metal solubility and maturation of hydrocarbons. At 218°C it would take only 26 years to obtain the observed hopane and sterane ratios (fig. 13). This is not sufficient time to form an orebody at any plausible concentration of zinc in solution nor is such an extremely short duration of heating geologically reasonable. At 160°C the biomarker maturities would be attained in approximately 6,500 years. A pulse of hot fluid cannot be ruled out by the data or the calculations; however, even for a geologically very brief time interval, temperatures of 160°C or more would make a major contribution to the biomarkers' thermal maturity, placing severe constraints on the total duration of the mineralization. We suggest that fluid inclusion homogenization temperatures of 160°C-218°C are more likely to have resulted from necking-down after entrapment of the inclusions (see preceding section on fluid inclusions), and therefore are not representative of fluid trapping temperatures.
+SOURCES OF ERROR
+We investigated the error resulting from several sources: (1) coarseness of the time-temperature discretization, (2) error inherent in the biomarker calculations, and (3) uncertainty in the fluid inclusion temperatures. The first two sources gave relatively small errors and are insignificant compared with the third source, uncertainty in the fluid inclusion temperatures.
+In our original calculations we divided time into three stages, A, B, and C, each of equal duration (Rowan and
+
+F26 EVOLUTION OF SEDIMENTARY BASINS ILLINOIS BASIN
+
+^0.610-J A1 0.600- 2(7
+
+" .1
+
+0.590-^
+
+f t
+
+: 0.580 -_
+
+1(7
+
+0.570 -_
+
+t
+
+0.560H I
+0.550 -j
+
+0
+
+0.540 7
+
+0.530 --j n son
+
+1 o=0.018
+
+A 0.400-
+
+ft _____
+ft
+
+Mount Simnn Sanrlstnnfi Aquifer
+
+«t Refer Sanrlstnne Aquifer
+
+A
+
+Average of hop_ane measurements
+
+^^^ Biomarker error ±0.024
+
+0.39Q~
+0.380-
+0.370 -:
+
+Biomarker error ± 0.018 /
+/
+^
+
+0.360^ 0.350 -,
+
+Average of sterane measurements
+
+1a
+
+0.340 -.
+-"
+CO 0.330- ~
+
+0.320I
+0.310-
+n -ann
+
+1(7=0.023 20
+
+~
+40 60
+
+Mount Rjmnn fianrlstnne Aquifer.,.,.,..,,
+St. Peter Sandstone Aquifer
+
+)f
+2 C7
+>f
+
+80 100 120 140 160 180 DISTANCE, IN METERS
+
+Figure 20. Maturities of hopane (A) and sterane (fi) plotted versus distance from the Thompson orebody at the Quimbys Mill horizon. Symbols represent measurements made by Hatch and others (1986), and dashed lines show the means of these measurements. Solid lines show maturities calculated assuming best-fit temperature path and two basal boundary conditions specified temperature at Mount Simon Sandstone and at St. Peter Sandstone. Assumed fluid flow duration of 212,000 years achieves a compromise between hopane and sterane maturity ratios calculated for both boundary conditions. Biomarker error bars represent the overall uncertainty both in measurements and calculations reflected by separation of sterane and hopane curves shown in figure 13. See text for discussion.
+
+Figure 21 (facing page). Calculated hopane and sterane maturities (heavy solid lines) shown as a function of temperature (light solid lines) and time. The ratios are the average of calculated values across the grid at the Quimbys Mill horizon. Dashed lines show average sterane and hopane ratios measured by Hatch and others (1986). Three time-temperature histories were evaluated: (4) high-temperature, (B) "best-estimate," and (Q low-temperature paths through the fluid inclusion data. Time periods A, B, and C represent three stages of sphalerite growth whose durations are assumed equal but are unknown in absolute terms. Time is treated as a variable and was adjusted until calculated biomarker maturities approximately matched average measured values. Calculations in this figure assume a specified temperature basal boundary at the St. Peter Sandstone.
+
+FLUID INCLUSIONS AND BIOMARKERS, UPPER MISSISSIPPI VALLEY ZINC-LEAD DISTRICT
+
+0.60 J Average ofhopane measurements (0.576) 0.50 T 0.40^ 0.30^ 0.20-
+
+Average ofsterane measurements (0.353)
+
+F27
+
+0.00 0.60 T A verage of hopane measuremt nts (0.576)
+
+Average ofsterane measurements (0.353)
+
+0.60 -__Average_of hopane measurements (OJ576_l
+
+0.50 -_
+0.40 J
+
+Hopane
+
+150,000
+
+o
+200,000
+
+-160 Average ofsterane -140 measurements (0.353)
+
+0.00-5 0
+
+1.0x10 6
+
+2.0x10 6 TIME (YEARS)
+
+3.0x10 6
+
+F28 EVOLUTION OF SEDIMENTARY BASINS ILLINOIS BASIN
+
+Goldhaber, 1995). This coarse discretization resulted in a calculated duration for a hydrothermal event of 212,000 years. To test the effects of a finer time discretization, we divided each stage into three parts for a total of nine equal subdivisions. Temperatures for each division were taken from the polynomial best-fit curve to the fluid inclusion data (fig. 7). When we matched the calculated with the measured thermal maturities, the total calculated duration of the hydrothermal event was reduced to 200,000 years, indicating an error of 5.7 percent due to the coarseness of our time-temperature discretization.
+The combined error inherent in the biomarker measurements of Hatch and others (1986) and in the kinetic constants of Marzi and Rullkotter (1992) is summarized in figure 13. These two curves show the combinations of time and temperature that give the average biomarker maturity ratios measured by Hatch and others (1986). Because the hopane and sterane ratios were measured on the same samples, having identical time-temperature histories, they should, ideally, give identical curves. The small separation between them (1.05°C for 200,000 years) reflects the combined effects of natural variation in the samples and analytical error, both in the measurements of Hatch and others (1986) and in the laboratory determinations of the kinetic constants (Marzi and Rullkotter, 1992). When we recalculated duration using the analytical solution, and adding or subtracting this temperature difference, we obtained an error of ±0.0175 for sterane and ±0.024 for hopane. These errors are virtually identical to one standard deviation of the biomarker measurements (fig. 20). This inherent error is useful in comparing calculated and measured values of the thermal maturity. These errors in the thermal maturity, assuming the best-fit temperature path, correspond to an error in duration of ±7,000 years, or ±3.3 percent.
+In table 4 we compare results of calculations made with the kinetic constants (A0 and Ea) of Marzi and Rullkotter (1992) and calculations made using the constants of several other authors. Our comparison included only kinetic constants that gave a rate constant (k) differing by less than a factor of five from the value calculated from the kinetic con-
+
+stants of Marzi and Rullkotter (1992). We did not compare our calculations with those based on published kinetic constants that gave dramatically different rate constants (see, for example, kinetic constants reported in Lewis, 1993). The calculated time necessary for sterane and hopane maturities to reach the values measured by Hatch and others (1986), assuming a temperature of 130°C, varies by a factor of approximately two (table 4) The kinetic constants of Marzi and Rullkotter (1992) are considered to be the most reliable (see discussion of biomarkers above); however, error in the determination of kinetic constants, and thus the rate constant, contributes to the overall uncertainty of the calculations.
+Hopane and sterane biomarker product-reactant ratios are extremely sensitive to temperature. A 20°C increase in temperature decreases the amount of time needed to reach a given thermal maturity by approximately an order of magnitude (fig. 13). It is not surprising, therefore, that by far the greatest source of error is in determining a temperature history based on the fluid inclusion data. Although these highand low-temperature paths were chosen subjectively, by inspection of the data, we believe that they adequately represent the extremes in the likely range of fluid inclusion temperatures. Given the sensitivity of the calculations to temperature, error in the estimation of the time-temperature history is dominant over all other sources of error.
+DISCUSSION
+Despite the elevated temperatures indicated by the fluid-inclusion data, the measured product to reactant ratios for hopane and sterane are indicative of organic matter that is immature or in the earliest stages of oil generation (Hatch and others, 1986). The immaturity of the organic matter is confirmed by Tmax measurements in the Thompson-Temperly mine (Hatch and others, 1986) and by an organic geochemical study of the Schullsburg mine (Gize and Barnes, 1987), also within the region studied in detail by McLimans (1977) (fig. 4). Sangster and others (1994) reported lower thermal maturities in conodonts; however, the discrepancy may be explained by the presence of water
+
+Table 4. Comparison of the durations calculated for the average biomarker maturities of Hatch and others (1986) assuming a
+temperature of 130°C and using several selected kinetic constants from the literature. [A0 and Ea kinetic constants; R, reactant; P, product; k, rate constant. See text for discussion]
+
+Aots'1 ) Ea (kJ/mol)
+
+Ms'1 )
+
+4.86xl08 7.83X109 6.60xl03
+
+169 175.59 84
+
+-6.17E-14 -1.39E-13 -8.63E-14
+
+S.lOxlO 8 3.50xl02
+
+168 87.8
+
+-1.39E-13 -1.47E-13
+
+P/R
+0.546 0.546 0.546
+1.363 1.363
+
+PI (P+R)
+0.353 0.353 0.353
+
+Time (years) Sterane
+224,326 99,445 160,319
+
+0.577 0.577
+
+Hopane
+196,993 185,263
+
+Reference
+Marzi and Rullkotter (1992). Lewan and others (1986) Alexander and others (1986), Strachan, Alexander, van Bronswijk, and Kagi (1989), and Strachan, Alexander, Subroto, and Kagi (1989).
+Marzi and Rullkotter (1992). Sajgo and Lefler ( 1986).
+
+FLUID INCLUSIONS AND BIOMARKERS, UPPER MISSISSIPPI VALLEY ZINC-LEAD DISTRICT
+
+F29
+
+(±methane) during conodont alteration, which has been shown to retard the alteration process (Rejebian and others, 1987). Our calculations are in general agreement with the results of Lavery and Barnes (1971), who calculated 250,000 years for the formation of an orebody in the Upper Mississippi Valley district, assuming a metal concentration of 35 ppm zinc in the mineralizing fluid.
+The assumptions built into our numerical calculations make our 200,000-year time estimate for sphalerite deposition a maximum. We have assumed instantaneous temperature changes in the underlying aquifers that supply heat and fluid to the ore zone. This simplification was chosen due to the absence of any information with which to constrain the true temperature path during the onset of regional fluid circulation but prior to sphalerite precipitation. If this onset were more gradual, then biomarker maturity might have increased significantly even prior to sphalerite deposition, thus decreasing the time interval during which sphalerite could form without exceeding the constraint of the observed biomarker ratios.
+IMPLICATIONS FOR REGIONAL FLUID FLOW
+Our calculation of the duration of the hydrothermal event in the Upper Mississippi Valley district was made independently of any assumptions regarding the ultimate fluid source or flow direction through underlying aquifers. In the discussion that follows, we do assume, however, that regional flow at a velocity on the order of meters per year a velocity capable of advective heat transport is required to explain the thermal history of the Upper Mississippi Valley district. Previous studies have examined gravity flow from several directions, westward from the Appalachian Basin (Garven and others, 1993) and northward through the Illinois and Arkoma Basins (Bethke, 1986; Garven and others, 1993). Of the numerous possible flow paths, northward flow through the Reelfoot rift and Illinois Basin meets the thermal requirements of the Upper Mississippi Valley fluid inclusion temperatures, whereas it appears that other flow paths do not. Additional geochemical evidence, discussed following, combines to make a strong case for northward flow within the Illinois Basin.
+Both the relatively short duration and the elevated temperatures of the mineralizing event place important constraints on the nature of processes operating in the Illinois Basin during the late Paleozoic. Calculations for steady-state heat transport through the Illinois Basin by advecting fluids predict temperatures in the Upper Mississippi Valley district of only 95°C, even allowing for focusing of fluids into the district by regional structural trends and vertical discharge of fluids along faults zones in the Upper Mississippi Valley district (Bethke, 1986) (fig. 22, curve C). The origin of the temperatures exceeding 100°C in the Upper Mississippi Valley
+
+district is difficult to explain without invoking either high basement heat flow or fluid-flow paths passing through deeper parts of the basin than have been modeled to date. Bethke (1986), for example, modeled elevated heat flow (three times normal or 179 mW/m2) in the southern third of the Illinois Basin (fig. 22, curve E). Garven and others (1993, fig. 30) assumed a burial depth of 2 km for the Upper Mississippi Valley district and an initial temperature of 110°C, on the basis of higher basement heat flow and a steeper geothermal gradient than we assumed in this study. If, however, the temperature scale of Garven and others is shifted downward to an initial temperature of 50°C, as we assumed in this study, the peak transient temperature is just less than 100°C and steady-state temperatures are near 90°C (fig. 22). These temperatures are still significantly lower than the majority of temperatures indicated by the fluid inclusion data. The additional thickness of Pennsylvanian and Permian sediments as assumed by Garven and others (1993) contributes to elevated temperatures but is not by itself sufficient to account for the fluid inclusion temperatures under a normal geothermal gradient. In the southern Illinois Basin and northern Reelfoot rift, there is geographically widespread evidence of Permian igneous activity. The Hicks dome, Omaha dome, and temporally related dikes and sills, as well as numerous igneous intrusions to the south in the Reelfoot rift, represent a potentially significant heat source (Bethke, 1986). Dikes, breccias, and intrusive rocks associated with the Hicks dome have been shown by radiometric dating to be contemporaneous, within uncertainty, to the Upper Mississippi Valley district (table 1). The coincidence in time of the igneous activity and Upper Mississippi Valley mineralization permits input of igneous heat into northward-moving fluids in the Illinois Basin.
+Bethke (1986) tested a hypothetical south to north flow path, with fluid recharge on the Pascola arch, a structural high of Mesozoic(?) age (Kolata and Nelson, 1991); however, the Early Permian age for the Upper Mississippi Valley district recently determined by Brannon and others (1992) precludes the Pascola arch as a possible recharge zone. If the flow path of Bethke (1986) is revised to place the recharge zone farther to the south in the Appalachian-Ouachita foldbelt and northward flow through the Reelfoot rift prior to Pascola arch uplift is considered, then burial depths along the flow path are several kilometers deeper than in the Illinois Basin proper (Buschbach and Kolata, 1991). Emplacement of igneous rocks along the flow path would further elevate fluid temperatures.
+In addition to explaining, at least in part, the elevated temperatures in the Upper Mississippi Valley district, igneous processes are also consistent with the limited duration of the heating event relative to the time scale of basin evolution or of the mountain building-erosion cycle in the Appalachian-Ouachita foldbelt that would have provided the hydrologic head for a gravity-driven flow system. The 200,000-year duration that we calculate for circulation of
+
+F30
+140" 130-
+o
+120-
+10090-
+
+EVOLUTION OF SEDIMENTARY BASINS ILLINOIS BASIN
+,^m^m^^
+//yFluid inclusion temperatures (zone A sphalerite) ////
+//////////////////////////
+Steady-state ternperature (depth= 1,100 m)
+
+-150
+m
+
+200 400
+
+600 800
+
+TIME, IN THOUSANDS OF YEARS
+
+O
+110 1000
+
+Figure 22. Comparison of fluid inclusion temperatures and temperatures predicted for the Upper Mississippi Valley district using two gravity-driven flow models. The crosshatched band indicates the range of values spanned by the high and low fluid inclusion temperatures in zone A, the earliest stage of sphalerite (see fig. 7). Curves C and E are the steady-state temperatures predicted by Bethke (1986) for a depth of 1,100 m. Curve C assumes that flow is focused by structural arches at the northern end of the basin and that highly permeable fracture zones focus flow upward in the vicinity of the Upper Mississippi Valley district. Curve E further assumes an elevated heat flow (179 mW/m2) over the southern third of the basin. Transient temperatures, as presented in Garven and others (1993), are read from the temperature scale on the right; these temperatures assume a burial depth of 2 km for the Upper Mississippi Valley district and an initial temperature of 110°C. The temperature scale on the left effectively shifts the transient temperature curve from the initial temperature of 110°C to 50°C, which we assume for the Upper Mississippi Valley district in this study, allowing us to compare the magnitude of the transient heat pulse to steady-state calculations and fluid inclusion temperatures.
+
+anomalously warm fluids through the Upper Mississippi Valley district and through aquifers at the northern margin of the Illinois Basin is short relative to the duration of the evolution and eventual decay of such a system. It may represent the period of emplacement and cooling of igneous rocks associated with the Hicks dome igneous event, a time interval of exceptionally high heat flow in the southern Illinois Basin. A relatively brief, but intense injection of heat into fluids circulating through the basin could explain fluid inclusion temperatures of more than 100°C in the Upper Mississippi Valley district. A contribution of igneous heat to a regional flow system, and ultimately to the Upper Mississippi Valley district, would require a northerly flow direction.
+Lewchuk and Symons (1995) recently estimated that magnetite formed over a time interval lasting from 1 to 8 m.y. in four Mississippi Valley-type districts in the Ozark region to the west of the Illinois Basin. They interpreted this
+
+interval as representing the duration of lead-zinc mineralization and pointed out a general agreement with the time frame of orogenesis and gravity-driven fluid circulation through a sedimentary basin. Because we believe that similar processes of regional gravity flow were also operating in the Illinois Basin, it is important to reconcile the estimate of Lewchuk and Symons (1995) with our estimated duration, which is an order of magnitude shorter. Our time estimate represents the duration of a hydrothermal event; that is, the presence of fluids at the northern end of the Illinois Basin at anomalously high temperatures given their burial depth. In the Upper Mississippi Valley district, the main stage of sphalerite precipitation records the hydrothermal event; however, fluid circulation at lower temperatures may have been much longer lived. Magnetite is a minor phase in Midcontinent Mississippi Valley-type districts and may have formed substantially below peak mineralization temperatures; it may also have formed as an alteration of pyrite. The
+
+FLUID INCLUSIONS AND BIOMARKERS, UPPER MISSISSIPPI VALLEY ZINC-LEAD DISTRICT
+
+F31
+
+biomarker maturity curves of figure 21 are almost flat in the third time stage (zone C) because of the lower fluid temperatures and the first-order kinetics of the isomerization reaction. Fluid flow and magnetite precipitation could have occurred for many millions of years at temperatures of less than 100°C without exceeding observed biomarker maturities in the Upper Mississippi Valley district.
+Geochemical data provide an independent line of evidence for northward flow in the Illinois Basin during the Permian. A data base of 15,000 analyses of element concentrations in drill core from the Illinois Basin was used
+
+to define a threshold between background and anomalous values for fluorine. Values in the southern Illinois Basin are strongly anomalous and decrease northward (fig. 23) (Goldhaber and others, 1994; M.B. Goldhaber, unpublished data). Hicks dome and the spatially and genetically associated Southern Illinois fluorite district (Goldhaber and others, 1992) are the only sources of fluorine presently recognized in the region. Igneous dikes related to the Hicks dome and to the fluorite itself have been dated as contemporaneous, within uncertainty, with the Upper Mississippi Valley district (table 1). The pattern of decreasing fluorine enrichment
+
+90° 88°
+
+86°
+
+42°
+
+40°
+
+38°
+36°
+Figure 23. Anomalous fluorine concentrations in drill core (circles) from the St. Peter Sandstone through the Maquoketa Formation in units of AMF/100 ft. Background levels of fluorine computed for the entire region have been subtracted. Units of AMF (anomalous metal feet) are defined as the element concentration (above background) over an interval of drill core times the length of the interval, then divided by the threshold concentration defining anomalous values.
+
+F32 EVOLUTION OF SEDIMENTARY BASINS ILLINOIS BASIN
+
+in the drill core to the north is best explained by northward fluid flow.
+SOURCES OF SALT
+Fluid inclusions in the Upper Mississippi Valley district contain highly saline brines, predominantly in the range 18-23 weight percent NaCl equivalent (McLimans, 1977). The source of the salinity is enigmatic because the Illinois Basin is poor in evaporites and shales. The Michigan Basin to the north contains major evaporites, but thermal considerations alone, as well as brine chemistry, probably eliminate them as a source of salinity. In a study of Cl-Br-Na systematics of present-day Illinois Basin pore fluids, Walter and others (1990) concluded that the high salinities resulted predominantly from subaerial, evaporative concentration of seawater just less than halite saturation, with a relatively small contribution from halite dissolution in the Mississippian and Pennsylvanian strata above the New Albany Shale. Viets (1995) reported that Cl/Br ratios measured in fluids extracted from inclusions in sphalerite from the Upper Mississippi Valley district are also similar to the ratios for seawater. Like the modern pore fluids, the fluid inclusion ratios are consistent with an evaporitically concentrated seawater fluid source that did not reach the point of halite precipitation; they are not consistent with evaporite dissolution as a principal source of salt. The brines trapped in these fluid inclusions may have formed in the evaporative environment of the Reelfoot rift to the south of the Illinois Basin.
+CONCLUSIONS
+Biomarker and fluid inclusion data for the Upper Mississippi Valley district provide a constraint on the duration of the thermal event that is independent of the mechanism of heating. The best estimate for the duration of the heating event is on the order of 200,000 years. The majority of the fluid inclusion temperatures in the Upper Mississippi Valley district exceed 100°C and, given estimates of burial depth, are difficult to explain by topographically driven flow through the Illinois Basin. Deeper fluid flow paths and (or) elevated basement heat flow are required to account for temperatures in the district. Sources of heat such as the Hicks dome and related igneous rocks are likely to have contributed significantly to the temperature of fluids deep in the Illinois Basin; their temperature would have decayed on the order of several hundred thousand years, approximately the same time scale as the hydrothermal event in the Upper Mississippi Valley district.
+We postulate that gravity flow drove fluids from south to north in the Illinois Basin during the Early Permian. A pulse of heat related to igneous processes was superimposed on this system in the southern Illinois Basin, and advective heat transport by northward fluid flow resulted in elevated fluid inclusion temperatures in the Upper Mississippi Valley
+
+district. Advection of heat through the Illinois Basin as a consequence of regional fluid flow would have contributed significantly to its thermal history.
+REFERENCES CITED
+Abbott, G.D., Wang, G.Y., Eglinton, T.I., Home, A.K., and Fetch, G.S., 1990, The kinetics of biological marker release from vitrinite kerogen during the hydrous pyrolysis of vitrinite kerogen: Geochimica et Cosmochimica Acta, v. 54, p. 2451-2461.
+Alexander, R., Strachan, M.G., Kagi, R.I., and van Bronswijk, W., 1986, Heating rate effects in aromatic maturity indicators,//? Leythaeuser, D., and Rullkotter, J., eds., Advances in organic geochemistry 1985: Oxford, Pergamon Press, p. 997-1003.
+Bailey, S.W., and Cameron, E.N., 1951, Temperatures of mineral formation in bottom-run lead-zinc deposits of the upper Mississippi Valley, as indicated by liquid inclusions: Economic Geology, v. 48, p. 626-651.
+Barker, C.E., 1989, Temperature and time in the thermal maturation of sedimentary organic matter, in Naeser, N.D., and McCulloh, T.H., eds., Thermal history of sedimentary basins, methods and case histories: New York, Springer-Verlag, p. 73-98.
+Bethke, C.M., 1986, Hydrologic constraints on the genesis of the Upper Mississippi Valley mineral district from Illinois basin brines: Economic Geology, v. 81, p. 233-249.
+Bethke, C.M., Harrison, W.J., Upson, C., and Altaner, S.P., 1988, Supercomputer analysis of sedimentary basins: Science, v. 239, p. 261-267.
+Bethke, C.M., and Marshak, S., 1990, Brine migrations across North America The plate tectonics of groundwater: Annual Review of Earth and Planetary Sciences, v. 18, p. 287-315.
+Bethke, C.M., Reed, J.D., and Oltz, D.F., 1991, Long range petroleum migration in the Illinois basin, in Leighton, M.W., Kolata, D.R., Oltz, D.F., and Eidel, J.J., eds., Interior cratonic basins: American Association of Petroleum Geologists Memoir 51, p. 455-472.
+Brannon, J.C., Podosek, F.A., and McLimans, R.K., 1992, Alleghenian age of the Upper Mississippi Valley zinc-lead deposit determined by Rb-Sr dating of sphalerites: Nature, v. 356, p. 509-511. 1993, Isotopic constraints for the formation of the Upper Mississippi Valley (UMV) district, southwest Wisconsin, USA: MVT Workshop, Campus Jussieu-Societe Geologique de France, February 15-18, Proceedings, p. 33-34.
+Buschbach, T.C., and Kolata, D.R., 1991, The regional setting of the Illinois basin, in Leighton, M.W., Kolata, D.R., Oltz, D.F., and Eidel, J.J., eds., Interior cratonic basins: American Association of Petroleum Geologists Memoir 51, p. 29-55.
+Chesley, J.T., Halliday, A.N., Kyser, T.K., and Spry, P.G., 1994, Direct dating of Mississippi Valley-type mineralization Use of Sm-Nd in fluorite: Economic Geology, v. 89, p. 1192-1199.
+Cluff, R.M., and Byrnes, A.P., 1991, Lopatin analysis of maturation and petroleum generation in the Illinois Basin, in Leighton, M.W., Kolata, D.R., Oltz, D.F., and Eidel, J.J., eds., Interior cratonic basins: American Association of Petroleum Geologists Memoir 51, p. 425-437.
+Doe, B.R., Stuckless, J.S., and Delevaux, M.H., 1983, The possible bearing of the granite of the UPH drill holes, northern Illinois,
+
+FLUID INCLUSIONS AND BIOMARKERS, UPPER MISSISSIPPI VALLEY ZINC-LEAD DISTRICT
+
+F33
+
+on the origin of Mississippi Valley ore deposits: Journal of Geophysical Research, v. 88, p. 7335-7345.
+Erickson, A.J., Jr., 1965, Temperatures of calcite deposition in the Upper Mississippi Valley lead-zinc deposits: Economic Geology, v. 60, p. 506-528.
+Fair, M.R., 1989, Compositional zoning characteristics of late dolomite cement in the Cambrian Bonneterre Formation, Missouri Implications for parent fluid migration pathways: Carbonates and Evaporites, v. 4, p. 177-194.
+Freeze, R.A., and Cherry, J.A., 1979, Groundwater: Englewood Cliffs, N.J., Prentice-Hall, 604 p.
+Garven, G., 1985, The role of regional fluid flow in the genesis of the Pine Point deposit, Western Canada sedimentary basin: Economic Geology, v. 80, p. 307-324.
+Garven, G., Ge, S., Person, M.A., and Sverjensky, D.A., 1993, Genesis of stratabound ore deposits in the midcontinent basins of North America I, The role of regional groundwater flow: American Journal of Science, v. 293, p. 497-568.
+Gize, A.P., and Barnes, H.L., 1987; The organic geochemistry of two Mississippi Valley-type lead-zinc deposits: Economic Geology, v. 82, p. 457-470.
+Goldhaber, M.B., Plumlee, G.S., Hayes, T.S., Potter, C.J., Rowan, E.L., and Taylor, C.D., 1992, The Illinois-Kentucky fluorspar district Rift-related fluorite mineralization superimposed on a basinal brine flow system: Geological Society of America Annual Meeting Abstracts with Programs, v. 24, p. A21-A22.
+Goldhaber, M.B., Rowan, E.L, Hatch, J., Zartman, R., Pitman, J., and Reynolds, R., 1994, The Illinois basin as a flow path for low temperature hydrothermal fluids, in Basin-wide diagenetic patterns Integrated petrologic, geochemical, and hydrologic considerations: SEPM Research Conference, Lake Ozark, Missouri, Program Abstracts and Field Guide, p. 29-30.
+Gregg, J.M., and Shelton, K.L., 1985, Regional epigenetic dolomitization in the Bonneterre Dolomite (Cambrian), southeastern Missouri: Geology, v. 13, p. 503-506.
+Haas, J.L., 1961, Partial vapor pressures and Mississippi Valley-type ore deposits: State College, Pennsylvannia State University, Seniors' thesis.
+Hanor, J.S., 1980, Dissolved methane in sedimentary brines Potential effect on the PVT properties of fluid inclusions: Economic Geology, v. 75, p. 603-617.
+Hatch, J.R., Heyl, A.V., and King, D., 1986, Organic geochemistry of hydrothermal alteration, basal shale and limestone beds, Middle Ordovician Quimbys Mill Member, Platteville Formation, Thompson-Temperly zinc-lead mine, Lafayette County, Wisconsin, in Dean, W.E., ed., Organics and ore deposits: Denver Regional Exploration Geologists Society, Proceedings, p. 93-104.
+Hay, R.L., Lee, M., Kolata, D.R., Matthews, J.C., and Morton, J.P., 1988, Episodic potassic diagenesis of Ordovician tuffs in the Mississippi Valley area: Geology, v. 16, p. 743-747.
+Hayba, D.O., 1993, Numerical hydrologic modeling of the Creede epithermal ore-forming system, Colorado: Champaign, University of Illinois, Ph.D. dissertation, 186 p.
+Hayba, D.O., and Ingebritsen, S.E., 1994, The computer model HYDROTHERM, a three-dimensional finite-difference model to simulate ground-water flow and heat transport in the temperature range of 0 to 1200°C: U.S. Geological Survey Water Resources Investigations Report 94-4045, 85 p.
+
+Heyl, A.V., 1968 The Upper Mississippi Valley base-metal district, in Ridge, J.D., ed., Ore deposits of the United States: New York, American Institute of Mining, Metallurgy, and Petroleum Engineering, p. 431-459.
+Heyl, A.V., Agnew, A.F., Lyons, E.J,, and Behre, C.H., 1959, The geology of the Upper Mississippi Valley zinc-lead district: U.S. Geological Survey Professional Paper 309, 310 p.
+Kolata, D.R., and Nelson, W.J., 1991, Tectonic history of the Illinois basin, in Leighton, M.W., Kolata, D.R., Oltz, D.F., and Eidel, J.J., eds., Interior cratonic basins: American Association of Petroleum Geologists Memoir 51, p. 263-286.
+Lavery, N.G., and Barnes, H.L., 1971, Zinc dispersion in the Wisconsin zinc-lead district: Economic Geology, v. 66, p. 226-242.
+Leach, D.L., Nelson, R.C., and Williams, D., 1975, Fluid inclusion studies in the northern Arkansas zinc district: Economic Geology, v. 70, p. 1084-1091.
+Leach, D.L., and Rowan, E.L., 1986, Genetic link between Ouachita foldbelt tectonism and the Mississippi Valley-type lead-zinc deposits of the Ozarks: Geology, v. 14, p. 931-935.
+Lewan, M.D., Bjoroy, M., Dolcater, D.L., 1986, Effects of thermal maturation on steroid hydrocarbons as determined by hydrous pyrolysis of Phosphoria Retort Shale: Geochimica et Cosmochimica Acta, v. 50, p. 1977-1987.
+Lewchuk, M.T., and Symons, D.T.A., 1995, Age and duration of Mississippi Valley-type ore-mineralizing events: Geology, v. 23, p. 233-236.
+Lewis, C.A., 1993, The kinetics of biomarker reactions Implications for the assessment of the thermal maturity of organic matter in sedimentary basins, in Engel, M.H., and Macko, S.A., eds.. Organic geochemistry, principles and applications: New York, Plenum Press, p. 491-510.
+Mackenzie, A.S., 1984, Applications of biological markers in petroleum geochemistry, in Brooks, J., and Welte, D., eds., Advances in petroleum geochemistry, v. 1: New York, Academic Press, p. 115-214.
+Marzi, R., and Rullkotter, J,, 1992, Qualitative and quantitative evolution and kinetics of biological marker transformations Laboratory experiments and application to the Michigan basin, in Moldowan, J.M., Albrecht, P., and Philp, R.P., eds., Biological markers in sediments and petroleum: Englewood Cliffs, N.J., Prentice Hall, p. 18-41.
+McLimans, R.K., 1977, Geochemical, fluid inclusion, and stable isotope studies of the Upper Mississippi Valley zinc-lead district, southwest Wisconsin: State College, Pennsylvania State University, Ph.D. dissertation, 175 p.
+McLimans, R.K., Barnes, H.L., and Ohmoto, H., 1980, Sphalerite stratigraphy of the Upper Mississippi Valley zinc-lead district, southwest Wisconsin: Economic Geology, v. 75, p. 351-361.
+Mullens, T.E., 1960, Geology of the Cuba City, New Diggings, and Shullsburg quadrangles, Wisconsin and Illinois, in Geology of parts of the Upper Mississippi Valley zinc-lead district: U.S. Geological Survey Bulletin 1123-H, p. 437-532.
+Newhouse, W.H., 1933, The temperature of formation of the Mississippi Valley lead-zinc deposits: Economic Geology, v. 28, p. 744-750.
+Ohmoto, H., 1986, Stable isotope geochemistry of ore deposits, in Valley, J.E., Taylor, H.P., Jr., and O'Neil, J.R., eds., Stable isotopes in high temperature geological processes: Mineralogical
+
+F34 EVOLUTION OF SEDIMENTARY BASINS ILLINOIS BASIN
+
+Association of America Reviews in Mineralogy, v. 16, p. 491-560.
+Ohmoto, H., and Rye, R.O., 1979, Isotopes of sulfur and carbon, in Barnes, H.L., ed., Geochemistry of hydrothermal ore deposits: New York, John Wiley, p. 509-567.
+Pan, H., Symons, D.T.A., and Sangster, D.F., 1990, Paleomagnetism of the Mississippi Valley-type ore and host rocks in the northern Arkansas and Tri-State districts: Canadian Journal of Earth Sciences, v. 27, p. 923-931.
+Peters, K.E., and Moldowan, J.M., 1993, The biomarker guide, interpreting molecular fossils in petroleum and ancient sediments: Englewood Cliffs, N.J., Prentice Hall, 363 p.
+Pinckney, D.M., and Rafter, T.A., 1972, Fractionation of sulfur isotopes during ore deposition in the Upper Mississippi Valley zinc-lead district: Economic Geology, v. 67, p. 315-328.
+Pitman, J.K., and Spottl, C., in press, Origin and timing of carbonate cements in the St. Peter Sandstone, Illinois basin Evidence for a genetic link to Mississippi Valley-type mineralization, in Louks, R., Totten, M., and Crossey, L., eds., Siliclastic diagenesis and fluid flow Concepts and Applications: SEPM Special Publication.
+Rejebian, V.A., Harris, A.G., and Huebner, J.S., 1987, Conodont color and textural alteration An index to regional metamorphism, contact metamorphism, and hydrothermal alteration: American Association of Petroleum Geologists Bulletin, v. 99, p. 471-479.
+Reynolds, R.L., Goldhaber, M.B., and Snee, L.W., 1992, Paleomagnetic study of the Grants Breccia and the Downeys Bluff Sill Implications for the influence of Permian igneous activity on Mississippi-Valley type (MVT) mineralization in southern Illinois, in Goldhaber, M.B., and Eidel, J.J., eds., Mineral resources in the Illinois basin in the context of basin evolution: U.S. Geological Survey Open-File Report 92-1, p. 51-52.
+Roedder, E., 1984, Fluid inclusions: Mineralogical Association of America Reviews in Mineralogy, v. 12, 644 p.
+Rowan, E.L., 1986, Cathodoluminescent zonation in hydrothermal dolomite cements Relationship to Mississippi Valley-type Pb-Zn mineralization in southern Missouri and northern Arkansas, in Hagni, R.D., ed.. Process mineralogy VI: American Institute of Mining Engineers, Symposium Proceedings, p. 69-87.
+Rowan, E.L., and Goldhaber, M.B., 1995, Duration of mineralization and fluid flow history of the Upper Mississippi Valley zinc-lead district: Geology, v. 23, p. 609-612.
+Rowan, E.L., and Leach, D.L., 1989, Fluid inclusion constraints on sulfide precipitation mechanisms and ore fluid migration in the Viburnum Trend lead-zinc district, southeast Missouri: Economic Geology, v. 84, p. 1948-1965.
+Roy, R.F., Beck, A.E., and Touloukian, Y.S., 1981, Thermophysical properties of rocks, in Touloukian, Y.S., and Ho, C.Y., eds., McGraw-Hill/Cindas data series on material properties, volume II-2 Physical properties of rocks and minerals: New York, McGraw-Hill/Cindas, p. 409-502.
+
+Sajgo, Cs., and Lefler, J., 1986, A reaction kinetic approach to the temperature-time history of sedimentary basins, in Buntebarth, G., and Stegena, L., eds., Paleogeothermics, Lecture notes in earth sciences, v. 5: Berlin, Springer-Verlag, p. 119-151.
+Sangster, D.F., Nowlan, G.S., and McCracken, A.D., 1994, Thermal comparison of Mississippi Valley-type lead-zinc deposits and their host rocks using fluid inclusion and conodont color alteration index data: Economic Geology, v. 89, p. 493-514.
+Snee, L.W., and Hayes, T.S., 1992, 40Ar/39Ar geochronology of intrusive rocks and Mississippi Valley-type mineralization and alteration from the Illinois-Kentucky fluorspar district, in Goldhaber, M.B., and Eidel, J.J., eds., Mineral resources in the Illinois basin in the context of basin evolution: U.S. Geological Survey Open-File Report 92-1, p. 59-61.
+Strachan, M.G., Alexander, R., Subroto, E.A., and Kagi, R.I., 1989, Constraints upon the use of 24-ethylcholestane diastereomer ratios as indicators of the maturity of petroleum: Organic Geochemistry, v. 14, p. 423-432.
+Strachan, M.G., Alexander, R., van Bronswijk, W., and Kagi, R.I., 1989, Source and heating rate effects upon heating rate parameters based on ratios of 24-ethylcholestane diastereomers: Journal of Geochemical Exploration, v. 31, p. 285-294.
+Symons, D.T.A., 1994, Paleomagnetism and the late Jurassic genesis of the Illinois-Kentucky fluorspar deposits: Economic Geology, v. 89, p. 438^49.
+Symons, D.T.A., and Sangster, D.F., 1991, Paleomagnetic age of the Central Missouri barite deposits and its genetic implications: Economic Geology, v. 86, p. 1-12.
+Tissot, B.P., and Welte, D.H., 1984, Petroleum formation and occurrence: New York, Springer-Verlag, 538 p.
+Viets, J.G., A comparative study of the composition of MVT ore fluids Solute compositions of inclusion fluids in North American and European MVT deposits: Society of Economic Geologists International Field Conference on Carbonate-Hosted Lead-Zinc Deposits, St. Louis, June 3-6, 1995, Abstracts, p. 328-330.
+Voss, R.L., and Hagni, R.D., 1985, The application of cathodoluminescent microscopy to the study of sparry dolomite from the Vibrnum trend, southeastern Missouri, in Hausen, D.M., and Kopp, O.C., eds., Mineralogy-applications to the minerals industry: Society of Mining Engineers, American Institute of Mining Engineers, Paul Kerr Memorial Symposium, New York, Proceedings, p. 51-68.
+Walter, L.M., and Stueber, A.M., and Huston, T.J., 1990, Br-Cl-Na systematics in Illinois basin fluids Constraints on fluid origin and evolution: Geology, v. 18, p. 315-318.
+Waples, D.W., and Machihara, T., 1991, Biomarkers for geologists A practical guide to the application of steranes and triterpanes in petroleum geology: American Association of Petroleum Geologists Methods in Exploration 9.
+Zartman, R.E., Brock, M.R., Heyl, A.V., and Thomas, H.H., 1967, K-Ar and Rb-Sr ages of some alkalic intrusive rocks from central and eastern United States: American Journal of Science, v.
+265, p. 848-870.
+
+Published in the Central Region, Denver, Colorado Manuscript approved for publication August 31, 1995 Edited by Judith Stoeser Graphics by the authors Photocomposition by Joan G. Nadeau
+
+

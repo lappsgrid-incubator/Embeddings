@@ -1,0 +1,3770 @@
+METHODS FOR SELECTION AND HYDROLOGIC DESCRIPTION OF POTENTIAL LANDFILL SITES IN SOUTHEASTERN SAN DIEGO COUNTY, CALIFORNIA
+By Charles A. Kaehler U.S. GEOLOGICAL SURVEY Water-Resources Investigations Report 90-4021
+Prepared in cooperation with the SAN DIEGO COUNTY DEPARTMENT OF PUBLIC WORKS
+o
+(oS
+Sacramento, California 1990
+
+U.S. DEPARTMENT OF THE INTERIOR MANUEL LUJAN, JR., Secretary U.S. GEOLOGICAL SURVEY Dallas L. Peck, Director
+For sale by the Books and Open-File Reports Section, U.S. Geological Survey Federal Center, Box 25425 Denver, CO 80225 For additional information write to: District Chief U.S. Geological Survey Federal Building, Room W-2234 2800 Cottage Way Sacramento, CA 95825
+
+CONTENTS
+Abstract 1 Introduction 2
+Purpose and scope 2 Acknowledgments 2 Numbering system for wells and springs 4 State and County site-selection criteria 4 Methods for selection of potential landfill sites 6 Phase 1--Initial selection of potential sites 6
+Use of topographic maps, aerial photographs, and field observations Compilation of available geologic and hydrologic data 7 Vertical electrical-resistivity soundings 7 Summary sheets 8 Phase 2-Detailed description of selected potential sites 10 Compilation of geographic, ownership, and climatic information 10 Compilation of geologic and hydrologic data 10 Test-well drilling 12 Measurement of ground-water levels 13 Aquifer tests 13 Ground-water sampling and chemical analysis 13 Hydrology of potential landfill sites 15 Vallecito Valley site 15 Physical setting 15 Geologic features and lithology 18 Surface water 26 Ground water 26
+Recharge, ground-water movement, and discharge 28 Aquifer characteristics 29 Water quality 40 Manzanita site 48 Physical setting 48 Geologic features and lithology 49 Surface water 55 Ground water 55 Recharge, ground-water movement, and discharge 55 Aquifer characteristics 62 Water quality 62 Evaluation of methods for selection and description of potential landfill sites 67 Phase 1 methods 67 Phase 2 methods 68 Need for additional data 69 Summary and conclusions 70 References cited 72
+Contents ffl
+
+FIGURES
+1. Map showing location of study area and potential landfill study sites 3 2. Example of a preliminary-site map 11 3. Graphs showing example aquifer-test analysis: (A) Recovery test (B)
+Displacement test 14 4-5. Maps showing:
+4. Topography, cultural features, well locations, and land ownership, Vallecito site and vicinity 16
+5. Geology of the Vallecito site and vicinity 20 6-8. Graphs showing particle-size distribution curves for selected drive samples,
+Vallecito site: 6. Wells 14S/6E-8P1 and 14S/6E-17H1, and test hole L-l 24 7. Wells 14S/6E-16C1 and 14S/6E-17A1 25 8. Well 14S/6E-8Q1 25 9-16. Maps showing: 9. Surface drainage and topography in vicinity of Vallecito site 27 10. Water-level altitude (contoured), Vallecito Valley area, August 1986 30 11. Water-level altitude and depth to water, Vallecito Valley area, August
+1986, and Mason Valley, various dates 38 12. Chemical quality of water from selected wells and springs in the Vallecito
+Valley area 46 13. Topography, cultural features, land ownership, and location of wells and
+springs, Manzanita site and vicinity 50 14. Geology of the Manzanita site and vicinity 52 15. Water-level altitude and depth to water, Manzanita site and vicinity 61 16. Chemical quality of water from selected wells, Manzanita site and
+vicinity 66
+TABLES
+1. Example of preliminary-site summary sheet 9 2. Particle-size distributions for selected drive samples, Vallecito site 23 3. Records of wells and springs, Vallecito Valley area 32 4. Estimates of hydraulic conductivity for the perforated interval of test wells,
+Vallecito Valley area 40 5. Estimated rates of horizontal ground-water movement, Vallecito Valley area 40 6. Chemical analyses of water from wells and springs, Vallecito Valley area 42 7. Detailed chemical analyses of water from selected wells, Vallecito Valley
+area 44 8. Particle-size distributions for selected drive samples, Manzanita site 54 9. Records of selected wells and springs, Manzanita site and vicinity 56 10. Estimates of hydraulic conductivity for the perforated interval of test wells,
+Manzanita site 62 11. Chemical analyses of water from wells, Manzanita site and vicinity 63 12. Detailed chemical analyses of water from selected wells, Manzanita site and
+vicinity 64
+IV Contents
+
+CONVERSION FACTORS
+Except as noted below, inch-pound units were used in this report. For those readers who prefer metric (International System) units, the conversion factors are listed below:
+
+Multiply inch-pound unit
+
+By To obtain metric unit
+
+acre acre-foot per year (acre-ft/yr) cubic yard (yd3) foot (ft) foot per day (ft/d) foot per minute (ft/min) cubic foot per second (ft3/8) gallon (gal) gallon per minute (gal/min) gallon per minute per foot [(gal/min)/ft] inch (in.)
+inch per year (in/yr) mile (mi) square mile (mi2)
+
+0.4047 1,233
+0.7646 0.3048 0.3048 0.3048 0.02832 3.785 0.06309 0.2070 25.4 2.54 2.54 1.609 2.590
+
+hectare cubic meter per year cubic meter meter meter per day meter per minute cubic meter per second liter liter per second liter per second per meter millimeter centimeter centimeter per year kilometer square kilometer
+
+Metric units were used for chemical concentration and particle size. To convert metric units to inch-pound units, multiply the metric unit by the reciprocal of the applicable conversion factor listed above.
+
+Abbreviations used:
+cm/s - centimeter per second mg/L - milligram per liter
+
+/ig/L - microgram per liter /iS/cm - microsiemen per centimeter
+at 25° Celsius
+
+Air temperature is given in degrees Fahrenheit (°F), which can be converted to degrees Celsius (°C) by using the equation:
+
+Temp. °C = (temp. °F-32)/1.8
+
+Water temperature is given in degrees Celsius (°C), which can be converted to degrees Fahrenheit (°F) by using the equation:
+
+Temp. °F = 1.8 temp. °C + 32.
+
+Electrical resistivity is given in ohm-meters (ohm-m), and specific conductance is given in microsiemens per centimeter (/iS/cm) at 25 ° Celsius. Microsiemens per centimeter is numerically equal to micromhos per centimeter.
+
+In this report sea level refers to the National Geodetic Vertical Datum of 1929 (NGVD of 1929)--a geodetic datum derived from a general adjustment of the first-order level nets of both the United States and Canada, formerly called Sea Level Datum of 1929.
+
+Contents V
+
+METHODS FOR SELECTION AND HYDROLOGIC DESCRIPTION OF POTENTIAL LANDFILL SITES IN SOUTHEASTERN SAN DIEGO COUNTY, CALIFORNIA
+By Charles A. Kaehler
+
+ABSTRACT
+Increasing urban growth in western San Diego County, along with population growth in the rural eastern part of the county, has created a need for additional landfill sites for household waste (Class II) disposal. Correspondingly, both the capacity in existing landfills and the number of suitable sites for future landfills in western San Diego County are decreasing. The primary objective of this study was to develop and test methods for appraisal of potential landfill sites, using southeastern San Diego County as the area of study. The methods were applied to phase 1 of the study, which involved the selection and preliminary evaluation of several potential landfill sites, and to phase 2, which included the collection of geologic and hydrologic data to aid in the more detailed evaluation of two potential sites that are geohydrologically different.
+Successful methods applied to phase 1 include the compilation of topographic, geologic, and hydrologic information from existing sources and from limited site visits, and the use of vertical electrical-resistivity soundings to provide additional information about subsurface geology. Topographic maps, low-altitude
+
+aerial photographs, field observations, existing hydrologic and climatic records, and the geophysical soundings were useful for compiling and checking topographic, geologic, and hydrologic data needed to describe the sites; highaltitude Landsat photographs were less useful.
+The methods used in phase 2 include: (1) data collection from existing wells and springs on and near the sites; (2) drilling of test holes, construction of test wells, and collection of subsurface lithologic data; (3) measurement of ground-water levels; (4) aquifer tests using the test wells; and (5) sampling and chemical analysis of water. The augering of test holes was relatively quick and provided actual lithologic samples rather than the indirect interpretation of lithologies obtained through geophysical methods. The disadvantages of augering include limited depth of penetration and difficulties with boulders in alluvium or hard zones in weathered rock. The water-quality data provide information on historical and current water quality in the site areas. The data also are useful, in conjunction with geologic information and water-level measurements, for interpretation of the ground-water flow system. Such interpretation can include qualitative assessment of horizontal and vertical components of flow, sources of recharge, and flow between basins.
+
+Abstract 1
+
+INTRODUCTION
+Rapid urban growth in western San Diego County, along with population growth in the rural eastern part of the county, has created a need for additional landfill sites for household waste (Class II) disposal. Currently (1989), waste generated in the eastern part of the county is transported by truck to landfills in western San Diego County. Both the remaining capacity in existing landfills and the number of suitable sites for future landfills are decreasing in western San Diego County as a result of urban growth.
+Faced with this problem, the County of San Diego has a need for quick and inexpensive methods of locating and evaluating potential landfill sites in the eastern part of the county. To help fulfill this need, a study to develop and test methods of selecting preliminary sites and of evaluating potential sites for their hydrologic suitability was undertaken by the U.S. Geological Survey in cooperation with the San Diego County Department of Public Works, Solid Waste Division.
+The southeastern part of the county (fig. 1) was chosen as the study area for development and testing of methods. The boundaries are: a north-south line from the town of Ramona to the United States-Mexico border on the west; Highway 78 on the north; the San DiegoImperial County line on the east; and the United States-Mexico border on the south.
+The primary objectives of this study were to develop methods for geohydrologic appraisal of potential landfill sites, and to test and evaluate the usefulness of these methods by applying them to the investigation of selected potential sites.
+The study consisted of two parts. In phase 1, methods were evaluated for selecting and screening a large number of potential landfill sites. Phase 2 involved collecting more-detailed geologic and hydrologic data to aid in the
+
+evaluation of two selected potential sites that are geohydrologically different.
+Purpose and Scope
+This report presents a description and evaluation of methods that were developed to select potential landfill sites in southeastern San Diego County, and a hydrologic description of two selected potential sites.
+Guidelines for the selection of potential landfill sites of suitable specifications and physical settings were provided by the San Diego County Department of Public Works and were augmented by guidelines for geohydrologic suitability provided by the California Administrative Code (California State Legislature, 1984). However, even though the study, in part, resulted in a description of two sites, the study was not meant to provide all the information necessary for the State permit process for siting and construction of new landfills. In addition, the two sites that are described in more detail are not specifically rated or ranked with regard to degree of compliance with the State guidelines. The suitability of a site depends in part on the results of investigations beyond the scope of this study, and on the eventual design, construction, and operating procedures of the landfill.
+Acknowledgments
+Appreciation is expressed to the Manzanita Indian Tribe and to other land owners in the study area for their cooperation and assistance. Special thanks are extended to Dan Martin of San Diego State University for performing chemical analyses on some of the water samples and for his help in tabulating and plotting data. The study was done in cooperation with the San Diego County Department of Public Works, and the assistance of Public Works personnel is gratefully acknowledged.
+
+2 Methods for Selection and Hydrologic Description of Potential Landfill Sites
+
+117°30 33°30 -
+
+116°30' RIVERSIDE CO SAN DIEGO CO
+Vallecito site Caiiente
+Springs
+
+32°30' -
+
+EXPLANATION STUDY AREA
+
+PHASE 1 SITE
+
+!!~\~2~611
+
+PHASE 1 AND 2 SITESite number and area of
+
+Figure 1. Location of study area and potential landfill study sites.
+
+Introduction 3
+
+Numbering System for Wells and Springs
+Wells and springs are numbered in this report according to their location in the rectangular system for the subdivision of public land. The study area lies entirely in the southeast quadrant of the San Bernardino base line and meridian. The part of the number preceding the slash (as in 17S/6E-10F1) indicates the township (T. 17 S.); the number and letter
+
+after the slash indicates the range (R. 6 E.); the number following the dash indicates the section (sec. 10); and the letter following the
+section number indicates the 40-acre subdivision of the section according to the diagram below. The final digit is a serial number for wells in each 40-acre subdivision. Springs are
+numbered using the same system except that an S is placed between the 40-acre subdivision letter and the final digit.
+
+R5E T15S
+
+R6E
+
+R7E
+
+T16S T17S
+
+DC B A
+-17S/6E-10F1
+E GH
+ML KJ
+N PQR
+
+STATE AND COUNTY SITE-SELECTION CRITERIA
+Criteria for suitable landfill sites provided by the San Diego County Department of Public Works (referred to in this report as the "County") included study-area boundaries, areal size, potential volume of material available for excavation, and general topographic and geohydrologic guidelines. The study-area
+
+boundaries (fig. 1) were specified by the County and excluded urban and State parklands from consideration. Originally, it
+was suggested that each potential site be a topographically and hydrologically closed basin of between 100 and 400 acres, with an approximately level perimeter ridgeline enclosing a volume of more than 2 million yd3. This would provide a landfill similar in concept to existing landfills in the western part of the
+county; each of those landfills involved the
+
+4 Methods for Selection and Hydrologic Description of Potential Landfill Sites
+
+filling of an existing canyon. Early in the search process it became evident that topographically closed basins meeting other criteria could not be found in the study area. Therefore, the criteria were changed to an area of approximately 100 to 400 acres having relatively low slope and containing an unsaturated volume "capable of being excavated" of more than 2 million yd3. A further requirement was that the base of the calculated unsaturated volume be a minimum of 5 feet above the water table. To address this volume criterion, the following were considered: lithology of fill, depth to water, and presence of boulders, bedrock outcrops, and buried pediments.
+Criteria involving access, site visibility from major roads, and presence of cultural features (such as buildings) and nearby wells were not explicitly listed by the County. However, brief notes were made during phase 1 for sites at which these factors might be significant.
+In addition, geologic and hydrologic siting criteria were obtained from the California Administrative Code regulations concerning discharges of waste to land (California State Legislature, 1984); these regulations include definitions, siting requirements, and construction standards for Class I, II, and III landfills. These criteria include, among others, minimum distance between waste and ground water, and minimum distance from flood plains, faults, and areas of potential rapid geologic changes. This study is oriented toward Class II landfills, which are defined as having the capability of accepting designated waste in addition to nonhazardous solid waste. Nonhazardous waste is defined as all wastes except those that contain wastes that must be managed as hazardous waste or as designated waste (California State Legislature, 1984, p. 2.8). Designated waste is nonhazardous waste that contains soluble pollutants that could be released at concentrations in excess of applicable water-quality objectives or that could cause degradation of waters of the State (California State Legislature, 1984, p. 2.7). The administrative code regulations state that Class II waste-management units shall not contain
+
+hazardous waste. The regulations also state that natural or artificial barriers or liners shall be used to prevent the movement of fluid, including waste and leachate, from the landfill to ground water or surface water.
+Many of the criteria for decisions involving the siting, construction, and operation of solidwaste landfills concern the protection of surface water and ground water from impairment of beneficial uses. For example, the State regulations specify that wastes shall be a minimum of 5 feet above the highest anticipated altitude of underlying ground water (California State Legislature, 1984, p. 3.1) In addition, knowledge of the occurrence and movement of surface water in the vicinity of potential landfill sites is important because of the possibility of pollution of surface-water resources, the possibility that the surface waste then may cause degradation of ground-water quality, and the possibility of physical damage to a facility caused by streamflow or flooding. In this regard, the administrative code (California State Legislature, 1984, p. 9-12) states that a Class II site shall be designed to prevent inundation or washout from floods with a 100-year recurrence interval.
+Seismic activity also can adversely affect the integrity of a landfill structure and thereby allow leachate to enter surface-water or ground-water systems. The criteria set by the State for location of a Class II site include a 200-foot setback from any known Holocene fault (California State Legislature, 1984, p. 3.8). Therefore, Holocene faults within or near potential landfill sites must be identified.
+A primary concern in the siting and design of a landfill is prevention of downward movement of leachate from the landfill into the ground-water system. In this regard, the regulations state that Class II landfills shall be immediately underlain by natural materials with a hydraulic conductivity of not more than IxlO"6 cm/s [2.8xlO'3 ft/d], or be underlain by an artificial liner of the same maximum conductivity (California State Legislature, 1984, p. 3.6-3.7).
+
+State and County Site-Selection Criteria 5
+
+METHODS FOR SELECTION OF POTENTIAL LANDFILL SITES
+Phase 1-Initial Selection of Potential Sites
+The initial selection and screening of potential landfill sites was a reconnaissance-level effort to locate and compile basic information on a large number of sites. The initial selection was based on the general topographic, size, and geohydrologic criteria specified by the San Diego County Department of Public Works and discussed in the preceding section of this report. The basic information that was obtained, primarily geohydrologic in nature, allowed a smaller number of sites (two) to be selected for more detailed study during phase 2 of this study.
+At the beginning of phase 1, 29 potential landfill sites were selected on the basis of generalized topographic, hydrologic, and cultural features shown on U.S. Geological Survey 7.5-minute topographic maps. Eighteen sites were deleted after brief site visits revealed unsuitable geohydrologic or cultural features-such as bedrock outcrops, swampy areas, or buildings-not indicated on the maps; two sites spotted during site visits were added. The remaining 13 phase 1 sites then were evaluated using topographic maps, aerial photographs, field observations, available geologic and hydrologic data, and vertical electrical-resistivity soundings. All the information was presented on phase 1 summary sheets.
+USE OF TOPOGRAPHIC MAPS, AERIAL
+PHOTOGRAPHS, AND FIELD OBSERVATIONS
+U.S. Geological Survey 7.5-minute topographic maps (1:24,000 scale) were used for preliminary selection of potential landfill sites. The maps helped determine areas that probably meet the size, slope, surface-water drainage, and land-use criteria. The maps also showed many of the cultural features, such as roads and buildings, to be avoided when choosing sites. Features not always apparent
+
+on topographic maps that could cause elimination of an initial selection after a site visit include meadows or marshy areas (indicating shallow depth to ground water), areas of bedrock outcrop within valleys, and cultural features built or changed since the maps were last updated.
+The approximate surface area of each of the 13 sites was determined by digitizing the area on the topographic map. The site boundaries were approximately drawn and may include land containing a house or houses. Other measurements that were made directly from the maps are altitudes and slopes of land surface. The maximum and minimum altitudes for each site were determined, and slope was calculated for a representative area of each site.
+The topographic maps show the location of surface-water features and the direction of surface-water flow. The size of the drainage basin as determined from the maps helps in estimating the potential magnitude of surfacewater flows. In addition, topography and the direction of surface-water flow often were useful in estimating direction of ground-water flow where data on ground-water levels were not available.
+Low-altitude (1:12,000 scale) color stereopair aerial photographs were used as a nonquantitative supplement to the maps and preliminary-site visits. Aerial photographs covering the entire county were available from the County Mapping Department. Landsat images were proposed for use in determining land use and in mapping structural lineaments that may affect subsurface and surface movement of water. However, the Landsat images were found to be of little use because they are of small scale and coarse resolution. Structural lineaments in the study area large enough to be seen on Landsat images generally appeared on existing geologic maps. Low-altitude aerial photographs, such as were used in phase 2 of the study, would be useful for determining land use and for mapping geologic and hydrologic features.
+
+6 Methods for Selection and Hydrologic Description of Potential Landfill Sites
+
+Brief visits were made to the 13 phase 1 sites after land ownership was determined from the County Assessor's records. The purpose of the visits was to field-check observations made from the topographic maps and to begin collection of geologic and hydrologic information.
+An important field observation is the location and abundance of bedrock outcrops. The presence of outcrops may necessitate a change in the site boundaries or elimination of a site entirely. Observation of outcrops and other geomorphologic features such as pediments (broad, sloping erosional surfaces-commonly overlain by a veneer of alluvium~at the base of mountains) also provides clues about the probable thickness of valley alluvium or weathered bedrock. (In this report, the local term "residuum" is used for bedrock that has been weathered in place.) Brief lithologic descriptions of surface material, and of near-surface sediments and bedrock in streambanks and roadcuts, can be helpful in evaluation of general hydrologic characteristics of the basinfill material and in evaluation of the possible ease of excavation. It should be kept in mind, however, that surface material is not always representative of subsurface lithologies.
+Additional hydrologic field observations were made during site visits. For example, any evidence of shallow ground water, as indicated by particular vegetation types or by swampy areas, was noted. Phreatophytes, such as cottonwood trees and some species of oak, tap the water table with their roots and generally indicate shallow depths to ground water. Water-level measurements were made in wells at or adjacent to sites and were used in combination with any existing records to determine depth to water and to estimate direction of ground-water movement. Surface-water features also were observed in the field, in more detail than was possible from topographic maps alone. Included in these observations are brief descriptions of any stream channels, of the probable type of flow (such as ephemeral, in response to heavy rainfall), and of the direction of surface drainage. Low-altitude
+
+aerial photographs (used in conjunction with topographic maps for preliminary selection of sites) also can be a useful supplement during subsequent site visits.
+COMPILATION OF AVAILABLE GEOLOGIC AND
+HYDROLOGIC DATA
+Existing geologic and hydrologic data from well schedules, from drillers' reports, and from published and unpublished studies provide valuable information for the preliminary assessment of potential landfill sites. Well schedules, on file at offices of the U.S. Geological Survey or published in reports, commonly contain water-level measurements and information on well construction and water use. Some drillers' reports also provide this information, as well as lithologic information and comments on well yields. One drawback to heavy reliance on drillers' logs as a source of lithologic information is that the descriptive terms are not standardized and can be difficult to interpret. Despite this problem, drillers' logs generally do show major lithologic changes with depth.
+Descriptions of bedrock geology at the phase 1 sites were compiled from published geologic maps and reports, including Strand (1962), Rogers (1965), California Department of Water Resources (1967), Moyle (1968), and Moyle and Downing (1978). A literature search provided additional information on the proximity of sites to known faults and estimates of the probable seismicity of the faults. Other information obtained from reports includes observations of the hydrologic characteristics of various geologic units (Moyle, 1968; Moyle and Downing, 1978) and annual precipitation (Rantz, 1969).
+VERTICAL ELECTRICAL-RESISTIVrrY
+SOUNDINGS
+A surface geophysical method, vertical electrical-resistivity soundings (VES), was used during phase 1 reconnaissance of potential
+
+Methods for Selection of Potential Landfill Sites 7
+
+sites to help determine the approximate thickness of alluvium or residuum. In some situations, the depth to ground water also could be estimated from interpretation of the VES data. Because many of the phase 1 sites had no wells within their boundaries from which to collect geohydrologic data, and because of the large number of sites, the VES techniques provided a quick and relatively effective method of gathering subsurface information without drilling test holes. The electrical-resistivity soundings can be less time consuming and less expensive than drilling test holes, especially when great depths and numerous sites are involved during a reconnaissance phase. An explanation of electrical-resistivity methods, along with a discussion of the application of many types of surface geophysical methods to ground-water investigations, is provided by Zohdy and others (1974).
+The results of the VES surveys were used in combination with available water-level and lithologic information from nearby wells to estimate the thickness of alluvium or residuum and to estimate the volume of excavatable unsaturated material at each site. The volume was calculated by multiplying the acreage of the site times a representative thickness of fill. For this study, the representative thickness of basin fill was assumed to be: (1) 5 feet less than the minimum depth to water estimated from the soundings, reported by well owners, or measured in wells; or (2) the average depth to bedrock (if less than the depth to water).
+The primary alternative to VES or to drilling for reconnaissance purposes is refraction seismic methods. Applied seismology involves analysis of the arrival times of artificially generated seismic waves at varying distances from the source. As with resistivity methods, refraction seismic methods require specialized equipment and the development of geologic
+
+models to interpret the nonunique results. A summary of refraction seismology field methods, interpretation, and application to hydrology is given by Zohdy and others (1974, p. 67-84).
+SUMMARY SHEETS
+To aid in the selection of two phase 2 sites, the information collected for each of the 13 phase 1 preliminary sites was summarized for presentation to members of the county staff involved in the selection process. An example of a preliminary-site summary sheet is shown in table 1. The format for the summary sheets is modified from a report by the California Department of Water Resources (1976). The types of topographic, hydrologic, geologic, and cultural data and observations included on the summary sheet have been discussed earlier in this report, with the exception of the listing of potential geohydrologic problems and the additional geohydrologic investigations needed for each site. The common potential geohydrologic problems or unknowns, some variations of which are applicable to many of the sites, include: (1) Potential inundation or washout of part of the site by floods; (2) evidence of shallow depth to ground water; (3) depth to water at the site is not easily determined from nearby wells or from vertical electrical soundings; and (4) depth to bedrock either is not well defined or is highly variable at the site. In addition, the critical geohydrologic elements are listed. Critical elements include items such as proximity of residential wells downgradient of surface-water or groundwater flow from the site; shallow water table; small thickness or volume of excavatable fill; presence of a fault, an area of shallow bedrock, or other geologic feature that may affect ground-water flow; and locations of groundwater discharge.
+
+8 Methods for Selection and Hydrologic Description of Potential Landfill Sites
+
+Table 1.-Example ofpreliminary-site summary sheet
+
+Preliminary-Site Summary
+
+Site number and name: Site 18, Earthquake Valley
+
+Location: Mostly in unsurveyed land grant, parts of sections 28,29,32,33, T.12S./R.5E. (Earthquake Valley quadrangle).
+
+Surface area: Approximately 720 acres.
+
+Mean annual precipitation: 11 inches (Rantz, 1969)
+
+Land-surface altitude and slope: Altitude ranges from about 2,250 to 2,600 feet above sea level.
+
+Bedrock: Lithology Granite, schist, and gneiss (Moyle, 1968) Hydraulic character Yields small quantities of water to wells from fractures and weathered zones (Moyle, 1968).
+
+Fill Material:
+Lithology~A\lu\ial fan. Unconsolidated to moderately consolidated sand, gravel, and boulders (Moyle, 1968). Boulders up to 2 to 3 feet in diameter.
+Hydraulic character Yields range from 3 to 80 gallons per minute. (Values are from nine driller's logs within 1 mile
+of site.) Estimated depth and vo/«/ne--Driller's logs do not report bedrock within the maximum well depth of 253 feet. The
+logs are from wells located 1.0 to 1.5 miles east of the site. The upper part of the fan may be an alluvial cover of unknown thickness over pedimented bedrock. VES 18-01 shows low-resistivity material, probably clay rich or saturated, from about 12 to 40 feet below land surface. There is a possible alternative indication of the water table at a depth of 90 feet. VES 18-02 indicates alluvium, with a possible coarse-grained zone from about 15 to 40 feet below land surface.
+
+The estimated volume of unsaturated fill = 720 acres x 30(?) ft = 3.485xl07 (?) cubic yards.
+
+Proximity to known faults: The Earthquake Valley fault (seismicity unknown) is 0.5 mile north of site. The Elsinore fault (potentially active) is 4 miles southwest of site (Moyle, 1968).
+
+Surface drainage: Drained by ephemeral streams that are tributaries to San Felipe Creek, which is perennial downstream from site. The site is on an alluvial fan.
+
+Ground water: Depth to water table Probably 20 to 100 feet below land surface. Water-table depth decreases north-northwest toward San Felipe Creek. Movement Probably north-northeast toward San Felipe Creek, 0.1 mile north of the northern edge of the site. Water levels in wells east of the site indicate possible flow toward the northeast. Chemical quality G^n^ral analysis by Burnham (1954) on well 34J1, approximately 1 mile east of site.
+
+Existing water use: Several domestic wells in sec. 34, T. 12 S., R. 5 E., 1.0 to 1.5 miles east of site.
+
+Potential Geohvdrologic Defects
+
+Further Investigation Needed
+
+(See introduction)
+
+Depth to water not easily determined from nearby
+
+Drilling or augering of holes needed to determine
+
+wells or vertical electrical-resistivity soundings.
+
+depth of water table.
+
+Critical elements at this site might be: (1) the possibility that a pediment, as suggested by the presence of bedrock outcrops immediately west and southwest of the site, may underlie the upper part of the fan; (2) boulders greater than 2 feet in diameter may be present in the alluvium; (3) the seismicity of the Earthquake Valley fault, 0.5 mile north of the site, is unknown; (4) there is possible ground-water discharge to the creek and marshy area 0.1 to 0.5 mile north of the site.
+
+Additional comments: Much of the site is visible from the adjoining highways. The site contains channels of ephemeral streams. The two vertical electrical soundings are more difficult to interpret than most others.
+
+Methods for Selection of Potential Landfill Sites 9
+
+A topographic map (1:24,000 scale) of each site accompanied the summary sheet. The maps (fig. 2) show the locations of approximate boundaries of sites, roads, cultural features, wells with water-level information, vertical electrical soundings, and major faults or fractures. In addition, photographic slides of each site were presented. The maps and summary sheets were used as reference materials during a field trip to the phase 1 sites. The trip provided an opportunity for county staff members to view the sites firsthand while discussing the geohydrologic features and conditions of each area.
+Phase 2--Detailed Description of Selected Potential Sites
+After reviewing the information presented on the summary sheets and viewing the 13 phase 1 sites, staff members of the San Diego County Department of Public Works, Solid Waste Division, chose two potential sites for more detailed study. The sites are in Vallecito Valley (site 23) and on the Manzanita Indian Reservation (site 26) (fig. 1).
+The methods used in the detailed site descriptions involved:
+1. Compilation of new and existing information on physical setting, geographic features, land ownership, and climate.
+2. Compilation and verification of geologic maps, and description of geologic and hydrologic features.
+3. Drilling of test holes, construction of test wells, and collection of subsurface lithologic data.
+4. Measurement and contouring of groundwater levels.
+5. Aquifer tests.
+6. Ground-water sampling and chemical analysis.
+
+COMPILATION OF GEOGRAPHIC, OWNERSHIP, AND
+CLIMATIC INFORMATION
+The physical setting of the two phase 2 sites was described and data concerning land ownership and climate were compiled using field observations, public records, and published reports and maps. Description of the physical setting included location, physiographic province, vegetation, generalized geomorphology, and size of the site. Field observations were used to describe geomorphology and vegetation, and maps were used to determine the other aspects of the physical setting. Rainfall and temperature data from published reports were used to summarize seasonal climatic trends.
+Land ownership was determined from maps and records kept by the County Assessor's office. Ownership information was used in obtaining permission for access to sites and in drilling of test holes and observation wells. In addition, the information was used to map the distribution of private and public lands near the sites.
+COMPILATION OF GEOLOGIC AND
+HYDROLOGIC DATA
+The methods used for general geologic and hydrologic description of phase 2 sites include compilation of a geologic map, field observations, analysis of published reports, and use of aerial photographs. The maps were compiled from existing maps and then verified and modified after making limited field observations and examining aerial photographs. For a reconnaissance study of an area covered by existing maps, remapping of the geology generally is not necessary or practical. Surface-water features were described using topographic maps, field observations, geomorphic analysis, and published data.
+
+10 Methods for Selection and Hydrologic Description of Potential Landfill Sites
+
+a°116°30'
+
+R5E 116028'
+
+T12S T13S
+
+Base from U.S. Geological Survey Earthquake Valley, 1959, 1:24,000
+
+EXPLANATION
+
+Location of fault from W.L. Burnham, 1954
+
+FAULT-Dashed where approximately located or inferred
+- BOUNDARY OF LANDFILL STUDY SITE
+->8 PHOTOGRAPH SITE-Direction and photograph number
+i * i VERTICAL ELECTRICAL SOUNDINGSj/ii 18-02 Resistivity survey location and number
+
+WELL DATA-
+A Well location and number
+® Driller's log available Water-level data
+/3/' In feet below land surface u/9 In feet above sea level ® Year of water-level measurement
+
+Figure 2. Example ot a preliminary-site map.
+
+Methods for Selection of Potential Landfill Sites 11
+
+Geologic description of a potential landfill site is important with regard to the criteria of ease of excavation and thickness of sediments, and with regard to hydrologic characteristics typical of certain depositional or geomorphic settings and determined in part by particle size and sorting in unconsolidated sediments or by the nature of the fractures in crystalline rock. Particle size and sorting are described in the following section on test-well drilling. The areal distribution of geologic units and their generalized hydrologic characteristics are discussed in this section. In addition, the possibility of disruption of a site due to seismic activity or landslides is addressed, in part, through description of the geology, as are the estimated hydrologic characteristics of the faults and the landslide deposits.
+Observation of landforms is used in a reconnaissance study as an aid to estimating aquifer dimensions and composition. Although the various alluvial landforms-such as alluvial fans, the gently sloping alluvial outwash-transition zone, and the valley floor-all are composed of a mixture of sand, silt, gravel, and clay, the proportions of these components and the degree of sorting vary. Alluvial fans commonly contain a higher percentage of gravel, cobbles, and boulders and are more poorly sorted than are deposits on the valley floor. Hydraulic conductivities generally are less in the alluvial fans than in the better sorted sandy sediments in the basin fill. In addition, the fan deposits generally are above the water table. In crystalline rocks, fracture characteristics and degree of weathering influence hydraulic conductivities and directions of groundwater movement.
+TEST-WELL DRILLING
+Test drilling was done to obtain subsurface lithologic samples and to construct shallow observation wells. The observation wells were used to measure water levels, conduct aquifer tests, and sample water for chemical analyses. These methods are discussed in subsequent sections of this report.
+Knowledge of the lithology of the basin sediments is important when investigating a
+
+potential landfill site. Particle size and sorting in the unsaturated zone help determine the ability of water to percolate down to the water table. Lithologic sampling also provides general constraints on estimates of hydraulic properties for the material below the water table.
+An 8-inch-diameter hollow-stem auger (4-inch inside diameter) was used to drill five test holes and three to five observation wells at or near each site. This method was chosen because of simplicity, ability to place casing while the auger flights keep the hole from collapsing, and avoidance of introducing drilling mud or other fluids that might disturb the background quality of water that is sampled later.
+During drilling, a 24-inch-long split-spoon sampler was used to obtain lithologic samples at intervals ranging from continuous to every 40 feet, most commonly every 10 feet. The sample interval was determined, in part, by monitoring the auger cuttings for changes in particle size or color. In addition, sampling was most frequent in the first holes drilled because frequency of lithologic change had not yet been determined. The best recovery of lithologic samples was obtained by hammering the sampler rather than by pushing it.
+A description of each distinctive zone in each core was made immediately after bringing the core to the surface. The descriptions, which include the range of particle size, degree of sorting, estimates of relative percentage of each particle-size category, wet color, and texture observations, are on file at the U.S. Geological Survey offices in San Diego.
+Selected samples, representing different locations within the site and different depths at a single location, were wet-sieved in the laboratory to more quantitatively determine particle-size distributions and to help calibrate the field lithologic descriptions. Some of the samples were chosen because they seemed to be representative of a common composition; others were chosen because they were from the saturated zone. In addition, two fine-grained samples were chosen to undergo
+
+12 Methods for Selection and Hydrologic Description of Potential Landfill Sites
+
+both sieving and detailed pipette analysis of the silt and clay fraction. The results of sieving are presented in graphs and in tabular form. The graphs provide a visual format for comparing particle-size distributions of several samples and for comparing degree of sorting.
+MEASUREMENT OF GROUND-WATER LEVELS
+The measurement and contouring of ground-water levels was used to help describe the directions of ground-water movement and to provide additional information about the locations and mechanisms of recharge to, and discharge from, the aquifer.
+During the study, water-level measurements were made at existing wells in the area of the two phase 2 sites and at the observation wells constructed during the study. A steel tape was used to make the measurements. In addition, historical water levels were compiled from published reports. Where possible, especially in areas with a relatively flat water table, altitude of land surface at wells was surveyed to allow more accurate determination of water-table gradients and direction of groundwater movement.
+AQUIFER TESTS
+Aquifer tests were conducted to estimate the hydraulic conductivity (permeability) of the upper part of the aquifer. Two types of onewell tests (recovery test and displacement test) were used because of the absence of observation wells. In-place vertical permeability of "soils" (materials in the unsaturated zone) was not tested.
+For the recovery tests, time-drawdown measurements were made both while pumping the well, using a low-capacity submersible pump, and during the recovery period after pumping had stopped. Residual drawdown was plotted against the ratio of t/t\ where t equals time since the pumping test started and f equals time since the pumping stopped. An example graph and analysis is shown in figure 3/4.
+
+Transmissivity was calculated using the method shown by Jacob (1963). Hydraulic conductivity is calculated by dividing the transmissivity by the saturated thickness of the zone being tested, which is assumed to be the zone opposite the well screen. The values obtained from the test are approximate because several assumptions that were made when using the method, such as full penetration of the aquifer, were not met. Assumptions made in using the method include: a confined, homogeneous, isotropic aquifer of infinite areal extent; constant discharge from a fully penetrating well of infinitesimal radius; and analysis based on latetime data.
+A displacement test also is a type of recovery test, but recovery takes place when water flows in or out of the well screen after inserting or removing an object of known volume in the well. Insertion is equivalent to adding a volume ("slug") of water, and removal is equivalent to pumping or bailing a volume of water. The time-drawdown data are analyzed, solving for hydraulic conductivity, using a method presented by Hvorslev (1951) and summarized by Freeze and Cherry (1979, p. 339-341). An example graph and analysis is shown in figure 3B. Again, the results are approximate; the small volumes of water displaced (0.3 gal) may have stressed mainly the material that filled in around the well screen rather than the undisturbed aquifer material. In both the displacement and recovery tests, a pressure transducer was used to measure the small changes in water level over short time intervals.
+GROUND-WATER SAMPLING AND CHEMICAL ANALYSIS
+Chemical analyses of ground water are valuable not only in defining existing water quality, but also as an aid to understanding the source of recharge and the movement of ground water. For the area of the Vallecito site, water samples were collected from 15 wells for field measurements of specific conductance, temperature, alkalinity, and pH and for laboratory chemical analyses of the major
+Methods for Selection of Potential Landfill Sites 13
+
+TIME AFTER PUMPING STOPPED (f), IN MINUTES
+
+EXPLANATION
+s is drawdown s' is residual drawdown
+Q is discharge, in gallons per minute Qave = 13-6 gallons per minute,
+average discharge
+
+7=
+
+264 Q As'
+
+= 264 (13.6 gal/min) 65 ft
+=5.5 (gal/d)/ft
+
+7 is transmissivity K is hydraulic conductivity thickness, b, = 436 ft
+
+K = T/b
+= 2xlO'3 ft/d
+
+0.01 0
+
+OOPOOP O <!' ©
+0.05 0.10
+
+0.15
+
+0.0090
+
+TIME, IN HOURS
+
+0.20
+
+K= 2LT0
+(1/12 ft) 2 ln(8ft/ 1/12ft ) 2(8 ft)(0.0090 h)
+=5.3 ft/d
+
+Hh'
+
+dh H h H0
+
+t = «>(and f<0)
+--tt+dt Recovery
+f=0
+
+V r " Datum
+From Freeze and Cherry (1979, fig. 8.20)
+
+Figure 3. Example aquifer-test analysis. A, Recovery test. B, Displacement test.
+
+14 Methods for Selection and Hydrologic Description of Potential Landfill Sites
+
+cations and anions (analyses done by Dan Martin, San Diego State University). In addition, water was sampled from two wells for detailed chemical analyses for major cations and anions, trace metals, boron, volatiles, nutrients, and turbidity. This second set of analyses was done by the U.S. Geological Survey Central Laboratory at Arvada, Colorado. The methods of analysis used are given by Feltz and others (1985). For the area of the Manzanita site, water samples were collected from three wells for detailed chemical analysis. In addition, analyses were available for 10 other wells.
+HYDROLOGY OF POTENTIAL LANDFILL SITES
+Vallecito Valley Site
+PHYSICAL SETTING
+Vallecito Valley is at the southwestern edge of Anza-Borrego Desert State Park in southeastern San Diego County, approximately 45 direct miles east-northeast of San Diego. Distance by road is approximately 90 miles. The valley is in the eastern part of the Peninsular Ranges batholith at the southwestern corner of the Basin and Range physiographic province.
+Vallecito Valley (fig. 4) is bounded on the south by the Laguna Mountains; on the west by the Sawtooth Range, including the spur that contains Campbell Grade; on the north by the Vallecito Mountains; and on the east by the Sawtooth Mountains. Land-surface altitude in the area ranges from 1,500 feet above sea level at the downstream end of Vallecito Valley to 6,000 feet at Mt. Laguna (about 6 miles to the south). The central part of the alluvial valley slopes toward the northeast at a gradient of about 1.5 percent. The gradient is less to the northeast in sections 9 and 10, and substantially greater (about 8 percent) on the southwest side where a large alluvial fan borders the basin. The valley floor is incised by several shallow ephemeral-stream channels and has a slightly hummocky appearance. An
+
+isolated hill, Troutman Mountain, separates the western part of the valley, which contains Campbell Ranch, from the main part. Southeast of the valley proper, a large alluvial wash called The Potrero drains part of the north slope of the Laguna Mountains and is separated from the main part of the valley by a ridge in sections 16 and 21. The western part of a paved road, the Old Overland Stage Route (County Highway S2), runs along a low eastwest trending divide that has a greater altitude than Vallecito Creek to the north and the central part of the valley to the south.
+Most of Vallecito Valley is under private ownership, but it is bounded by the AnzaBorrego Desert State Park on the north and largely by public-domain land managed by the U.S. Bureau of Land Management on the east, west, and south sides (fig. 4). About 15 houses are in the northern half of section 8. Some of the houses are occupied year round, and others are occupied sporadically, such as on weekends.
+The landfill study site, and surrounding area, is shown in figure 4. The site contains about 564 acres and is somewhat larger than the size (100 to 400 acres) specified in the design requirements. The boundaries of the site are partly constrained by lands on the south designated as limited-use lands by the Bureau of Land Management, by the proximity of houses in the northern half of section 8, and by the southern branch of the Elsinore fault in sections 9 and 16. The fault is discussed in the next section ("Geologic Features and Lithology") of this report.
+The climate in Vallecito Valley is warm and arid. The mean annual temperature in Vallecito Valley is 68 °F (Hely and Peck, 1964, pi. 4), and temperatures often exceed 100 ° F in the summer. Rainfall amounts are highly variable both areally and seasonally. Neither of the phase 2 sites has rain-gage stations on site. Therefore, records from the nearest stations must be used, and differences in altitude and geographic location must be considered. Rainfall data are available from two stations near the Vallecito Valley site.
+Hydrology of Potential Landfill Sites 15
+
+33 C DO-
+
+RSE
+
+116°25
+
+EXPLANATION LAND OWNERSHIP-
+
+VES21-01
+
+United States of America, public domain
+State of California, Anza-Borrego Desert State Park
+County of San Diego
+Private land
+
+T13S T14S 'D1
+
+fox
+:' ^D2
+
+!W"«
+
+"-C^SX
+
+'
+
+la WJt^t&a^''
+
+iWKp.
+
+\. G1W » TCT
+
+s
+
+Ii^V,,*- -, ^,\ H3 ^&^Jkm^mim^m^i^-ym-^Arf>^n.: ; j
+
+~
+
+''
+
+, ' -fs ^ -' ' ^
+
+- -^^sCjT || /
+
+VERTICAL ELECTRICAL SOUNDING SITE
+
+102558504 GAGING STATION-Partial recording djT-3 TEST HOLE
+
+SPRINGS"" FS1 Domestic
+Unused
+WELLS-
+
+Domestic
+
+Stock
+Irrigation P1 Observation /M1 Dry ,D3 Unused
+
+Destroyed
+
+Base from U.S. Geological Survey Monument Peak, 1959, and Agua Caliente Springs; 1959, 1:24,000
+Figure 4. Topography, cultural features, well locations, and land ownership, Vallecito site and vicinity.
+16 Methods for Selection and Hydrologic Description of Potential Landfill Sites
+
+>°25' R5E R6E
+
+116°22'30"
+
+CONTOUR INTERVAL 40 FEET National Geodetic Vertical Datum of 1929
+
+Hydrology of Potential Landfill Sites 17
+
+Average annual rainfall for 1967-85 at Agua Caliente County Park, 5 miles east in the Carrizo Valley, is 6.66 inches (San Diego County Flood Control District, 1967-81; San Diego County Flood Control District, oral commun., 1986). For this period, the highest average monthly rainfalls are 0.86 inch in January, 1.01 inches in February, and 0.89 inch in August. The lowest average monthly rainfalls are in April-June. June has the lowest average of 0.02 inch. The relatively high average for August is due to late-summer thunderstorms and tropical storms. The Mount Laguna station, 6 miles south of the potential landfill site at an altitude of 6,000 feet (more than 4,000 feet higher than Vallecito and Carrizo Valleys), received an average of 22.86 in/yr for the period 1968-85. The seasonal distribution is similar to that of the Agua Caliente station except that summer thunderstorms make a smaller relative contribution. The range of average monthly rainfall for April through October at the Mount Laguna station is 0.09 inch (June) to 1.37 inches (August). November through March is substantially wetter, with the highest monthly average rainfall in February (4.36 inches).
+The vegetation in Vallecito Valley consists primarily of creosotebush. Other desert plants, such as ocotillo and cholla, are common.
+GEOLOGIC FEATURES AND UtTHOLOGY
+The geologic map for the Vallecito site and vicinity (fig. 5) was compiled from maps by Todd (1977 and 1978) and Pinault (1984). The compiled map relies mainly on Pinault's map except for the southern and eastern parts. Mapping of the southern branch of the Elsinore fault was modified slightly after viewing 1:2,400 scale color stereo-pair aerial photographs.
+The rocks of the Vallecito Valley area can be divided into two main types-crystalline rocks of Mesozoic age and unconsolidated to moderately consolidated sediments of Cenozoic (Quaternary) age. The Mesozoic rocks form the hills and mountainous areas and underlie
+
+the basin fill, and the Quaternary deposits form the alluvial fans and the basin fill (fig. 5).
+The bedrock generally is impermeable, but weathered zones and fractures yield small quantities of water to wells (Moyle, 1968, p. 6). Quaternary-age alluvial deposits form the alluvial fans, the valley floors, and the transition zones between the alluvial fans and the valley floors in the Vallecito Valley area. Where saturated, these deposits form the principal aquifer in the area.
+The landslides mapped by Pinault (1984) along the south side of the Vallecito Mountains are of Quaternary age, but they are composed of boulders and large blocks of Mesozoic bedrock and probably are underlain by bedrock. Therefore, the hydrologic properties of the landslide deposits likely are more similar to those of fractured bedrock than to those of alluvial fans.
+The surface of Vallecito Valley is mapped as Quaternary alluvial outwash and as dissected alluvial fan, alluvial outwash, and pediment fan (fig. 5). The sediments filling the valley were derived from the surrounding mountains and were transported and deposited mainly at the distal ends of the alluvial fans. The thickness of the basin deposits is not known, but it is estimated to be between 300 and 2,000 feet. A vertical electrical sounding (VES 23-01, fig. 4) indicates a thickness of more than 330 feet. Deeper soundings show the alluvium/bedrock contact west of the southern branch of the Elsinore fault at a depth of about 600 to 700 feet, and at a maximum depth of 1,100 feet in the southeast corner of section 9 east of the fault (D.C. Martin, San Diego State University, oral commun., 1986). The maximum thickness of the alluvium is not likely to be greater than about 2,000 feet because the valley is not bounded by faults that show evidence of large dip-slip displacement. In addition, the outcrops of bedrock within the basin, such as Troutman Mountain and the hills in sections 16 and 17 (fig. 5), suggest that there may be only a thin veneer of alluvium or weathered bedrock, perhaps covering buried bedrock pediments, in the areas immediately adjacent
+
+18 Methods for Selection and Hydrologic Description of Potential Landfill Sites
+
+to the outcrops. Further geophysical studies, such as resistivity or seismic refraction soundings, or deep drill holes would be needed to determine the thickness of alluvial sediments.
+The volume of unsaturated basin fill available for excavation within the site boundaries is estimated to be 4.55 xlO7 yd3. This value is based on an area of 564 acres times an unsaturated thickness (a minimum of 5 feet above the water table) of 50 feet. Fifty feet may be deeper than is practical for excavation.
+Existing geologic reports, limited field observations, and consultations with researchers were used to investigate the possible effects of potentially active faults at the phase 2 sites. In this study, a fault was considered potentially active if there was evidence of movement within approximately the last 10,000 years. Faults are important to landfill-siting considerations for two reasons: (1) Movement along an active fault could cause downward leakage of leachate at a landfill by disrupting the natural or artificial liner; and (2) fault zones can affect ground-water movement, by functioning either as a barrier or as a conduit.
+The Quaternary unconsolidated deposits, as well as older rocks in the Vallecito Valley area, are cut by the Elsinore fault, a member of the San Andreas fault system. The fault extends approximately 125 miles from the northeast end of the Santa Ana Mountains southeastward to near Ocotillo, close to the United States-Mexico border (Allison, 1974). The most recent and most thorough study of the Elsinore fault in the Vallecito Valley area has been done by Pinault (1984). He mapped the fault in the Vallecito Creek drainage connecting Mason and Vallecito Valleys and east along the base of the Vallecito Mountains to the location where the fault trace disappears beneath landslide deposits in section 5 (fig. 5). Several lineaments primarily expressed by vegetation, trending N. 30° W. to N. 50° W., mark the southern branch of the fault. The main lineament, which is associated with a discontinuous northeast-facing scarp, extends from near Highway S2 southeast across the floor of the valley and up the ridge of the
+
+Sawtooth Mountains. The southern branch is the main branch of the Elsinore fault in the Vallecito Valley area, and it probably extends northwest from Highway S2 to join the northern branch near the east end of the canyon between Mason and Vallecito Valleys (T.M. Rockwell, Professor of Geology, San Diego State University, oral commun., 1986). The visible part of the southern branch may be part of a fault zone as much as one-half-mile wide (T.M. Rockwell, oral commun., 1986), and thus the zone may encroach on the northeastern part of the site.
+The Elsinore fault is considered active, but in comparison with other faults of the San Andreas system it has been relatively quiet during historical times (Alien and others, 1965). The largest earthquake along the fault occurred southwest of Elsinore (75 miles north of Vallecito Valley) in 1910 and had a magnitude of 6.0 (Pinault, 1984, p. 1). In the Vallecito Valley area, the largest historical earthquake had a magnitude of 4.8. It happened September 13, 1973, and was centered near Agua Caliente Springs, about 5 miles east of the study site. The Agua Caliente Springs area is the most active part of the Elsinore fault as determined by the frequency of small seismic events (Allison, 1974, p. 23).
+The type of potential movement of a fault near a landfill site may have an effect on the engineering design of the facility. The principal type of displacement along the Elsinore fault is right-lateral strike slip. Pinault (1984, p. 97-107) presented evidence for 1 to 5 miles of right-lateral displacement in the Vallecito Valley area. Strike-slip displacement can be seen in fans, streams, and landslide deposits that have been offset. In addition, evidence suggests that the ridge west and north of Campbell Ranch (fig. 5) has been dragged and rotated in a manner consistent with rightlateral strike-slip movement. Some zones along the Elsinore fault show evidence of normal displacement, but uplift takes place on alternate sides instead of consistently on one side, and the main component of displacement is strike slip. The apparent displacement on the most prominent part of the fault scarp
+Hydrology of Potential Landfill Sites 19
+
+EXPLANATION
+ALLUVIAL UNITS (Quaternary)
+Alluvial outwash and alluvial fan
+Landslide and (or) debris flow primarily composed of Mesozoic rock
+Dissected alluvial fan, alluvial outwash, and pediment fan
+Old dissected alluvial fan, old alluvial outwash, and old pediment fan
+ALLUVIAL UNITS (Quaternary-Tertiary)
+Canebrake Conglomerate-pebble to cobble conglomerate and conglomeratic arkosic arenite (Dibblee, 1954; Todd, 1978; Pinault, 1984)
+BEDROCK UNITS (Mesozoic)
+Includes Cretaceous tonalite, gneiss, and gabbro; Triassic and Jurassic schist, schist intimately mixed with batholithic rocks, and quartizite
+£ ? SELECTED FAULTS-Dashed where approximately located, queried where probable, dotted where concealed; U, upthrown side, D, downthrown side
+i i LANDSLIDE SCARP AND RELATED FAULTApproximately located except where indicated by a solid line
+?-GEOLOGIC CONTACT-Dashed where approximately located, queried where probable
+\ DIRECTION OF MOVEMENT OF LANDSLIDE AND (OR) DEBRIS FLOW
+
+R5E 116°2
+
+Figure 5. Geology of the Vallecito site and vicinity.
+
+Base from U.S. Geological Survey Monument Peak, 1959, and Agua Caliente Springs; 1959, 1:24,000
+
+20 Methods for Selection and Hydrologic Description of Potential Landfill Sites
+
+6°25' R5E R6E
+
+116°22'30"
+
+&S^ l; /i? 'V
+2 KILOMETERS
+CONTOUR INTERVAL 40 FEET National Geodetic Vertical Datum of 1929
+
+Geology modified from Todd (1977, 1978) and Pinault (1984)
+Hydrology of Potential Landfill Sites 21
+
+near well 14S/6E-16C1 is downward on the northeast side. At this location the scarp is about 10 feet in height. Pinault (1984, p. 63), however, stated that because the scarp is discontinuous, "***the relief may be due to the formation of pressure ridges rather than one side being consistently up." Pinault dug a 10foot-deep trench part way down the face of one of the apparent scarps and did not find evidence of ground rupture.
+The field descriptions of drive samples collected during drilling of test holes compare well with the results (table 2) from the corresponding sieved samples. The estimated amount of fines was within a few percentage points in nearly one-half of the samples, and the remainder were evenly divided between overestimates and underestimates that differed from the sieved value by an average of 7 percentage points. The estimated percentages and size categories of gravel agreed closely with the sieving results. For example, in test hole L-l, at the 27- to 29-foot depth interval, the field estimate was 15 percent 3- to 8-mmdiameter gravel, and sieving showed 18 percent. For the sand fraction, field descriptions of both the range of particle size and of the most common categories generally were close. Occasionally, the predominant sizes were estimated to be in a narrower range than indicated by the sieving. For example, in the 14- to 16-foot depth interval in test hole L-l, the sand was described as ranging from very fine to very coarse, with fine to medium predominant; the predominant categories actually were fine, medium, and coarse sand, at 20, 22, and 17 percent, respectively (table 2).
+The results of the sampling and sieving (figs. 6-8) show that the predominant texture at the site, both above and below the water table, is sandy. However, the sediments are not exclusively sand, and there are some variations in texture both areally and with depth. The primary minerals composing the silt to finegravel particles are quartz, feldspar, and mica. Individual lenses or layers seen in the core samples averaged 5 to 6 inches in thickness. The sediments seem to have been deposited in
+
+thin lens-shaped bodies; no laterally extensive fine-grained zones were found.
+The results of the test drilling indicate that, in general, the coarsest material-mixed in with a variety of moderately to poorly sorted finer grained material-was found at the southern edge of the site, which is the side nearest the alluvial fan and the Sawtooth Range (fig. 4). In particular, more cobbles and very coarse gravel were found in test holes L-l, T-3, and L-6 than in the other holes. The very coarse gravel and the cobbles are too large to fit into the sampler, but they were evident in the cuttings and were the cause of drilling difficulties. Test hole L-6 was stopped at 18 feet after the auger hit a boulder.
+Farther east, augering for observation well 14S/6E-17H1 encountered relatively coarse material, composed of sand and gravelly sand, in the upper 30 feet. From 40 to 80 feet, the samples contained thin alternating silty sands and sands, with minor very fine to fine gravel. The clayey and silty sand found at 60 feet had an estimated 15- to 40-percent clay and silt component, although the sand and silty sand from a depth of 80 to 81.5 feet had a 9-percent clay and silt component more typical of the area (table 2 and fig. 6). Figure 6 shows that the particle-size distribution for the sample from a depth of 80 to 81.5 feet is similar to that for the samples from 14 to 16 feet and 27 to 29 feet in test hole L-l.
+The materials from test holes and observation wells in the northern and northeastern parts of the site are finer grained, although still primarily sandy. In addition to the greater abundance of clayey sands and silty sands and the general scarcity of particles larger than fine gravel (4 mm), the sands in the northern and northeastern parts are very fine to medium as opposed to the primarily medium to coarse sands observed at the southern part of the site. The finest grained sediments are from drill holes for observation wells 14S/6E-16C1 and 14S/6E-8Q1 (table 2 and figs. 7 and 8). At observation well 14S/6E-17A1, also in the northern part of the site, the predominant
+
+22 Methods for Selection and Hydrologjc Description of Potential landfill Sites
+
+Table 2.~Particle-size distributions for selected drive samples, Vallecito site
+[Particle-size category: VC, very coarse; C, coarse; M, medium; F, fine; VF, very fine. Phi unit: phi= -Iog2 diameter (in millimeters), mm, millimeter. CPF, cumulative percent finer; IP, individual percent. P (in IP column), pan. Interval: w, below water table]
+
+Particlesize
+category
+
+Size (mm)
+
+Phi unit
+
+CPF
+
+IP CPF
+
+IP CPF
+
+IP CPF
+
+IP CPF
+
+IP CPF IP CPF
+
+IP
+
+Well No. ... Interval (feet)
+
+. . Test hole L-1 14-16
+
+Test hole L-1 27-29
+
+Test hole L-1 36-38.7
+
+4S/6E-8P1 80.2-81.2 w
+
+14S/6B-8Q1 9-10.5
+
+14S/6E-8Q1 50.6-51.5
+
+14S/6E-8Q1 60.6-61.5 w
+
+C 16
+
+-4 100
+
+100
+
+Gravel M 8 -3 96 F 4 -2 94
+
+4 98 2 97
+
+VF 2 -1 91
+
+3 94
+
+VC 1
+
+0 85
+
+6 87
+
+Sand
+
+C 0.5
+
+1
+
+68
+
+17 68
+
+M 0.25
+
+2
+
+46
+
+22 41
+
+F 0.125 3
+
+26
+
+20 20
+
+VF 0.0625 4
+
+14
+
+12
+
+7
+
+C 0.031 5
+
+Silt M 0.016 6
+
+P14
+
+F 0.008 7
+
+VF 0.004 8
+
+-
+
+Clay C 0.002 9
+
+100 2 94 1 88 3 82 7 69 19 47 27 26 21 13 13 6
+P7
+-
+__
+
+100 6 96 6 95 6 93 13 82 22 61 21 39 13 33 7 12
+P6 -
+__
+
+_ 100 4 98 1 96 2 95 11 91 21 83 22 70 6 45 21 23
+P12 _
+--
+
+__
+
+2 2 100
+
+-
+
+1 98 2
+
+4 94 4
+
+8 87 7
+
+13 74 13
+
+25 52 22
+
+22 25 27
+
+P23 19 6 _ 12 7
+
+75
+
+52
+
+32
+
+P3
+
+100 97 3 93 4 89 4 81 8 59 22 30 29 14 16 86
+P8 _
+-
+
+Well No. ... Interval (feet)
+
+. . 14S/6E-8Q1 . . 80-81.5 w
+
+14S/6E-16C1 19.5-32.5
+
+14S/6E-16C1 40.0-41.5 w
+
+14S/6E-16C1 59.5-61 w
+
+14S/6E-16C1 61-61.5 w
+
+14S/6E-17A1 80.3-81 w
+
+14S/6E-17H1 80-81.5 w
+
+I C 16
+
+-4
+
+..
+
+Gravel M 8
+
+-3
+
+_
+
+F4
+
+-2 100
+
+VF 2 -1 99
+
+VC 1
+
+0 95
+
+C 0.5
+
+1
+
+67
+
+Sand
+
+M 0.25
+
+2
+
+35
+
+F 0.125 3
+
+17
+
+VF 0.0625 4
+
+r Silt
+
+C 0.031 M 0.016
+
+5 6
+
+8
+
+F 0.008 7
+
+VF 0.004 8
+
+-
+
+C/5 Clay
+
+C 0.002 9
+
+f
+
+.. _ 100
+99 1 95 4 88 28 77 32 59 18 34 9 13 P8 _
+-
+
+..
+1 100 4 98 7 93 11 87 18 57 18 57 21 7
+P13
+
+100 2 97 5 88 6 72 30 52 30 30 13 14
+P7
+_
+
+__ _ _
+-_
+3 100 9 99 16 96 20 90 22 80 16 65 P14 53 - 43
+34 27 - 23
+
+_ -
+100 97 3 1 85 12 3 66 19 6 46 20
+10 28 18 15 14 14 12 P14 10 - 9 7-
+4 P23 _
+
+100 99 1 99 0 95 4 85 10 66 19 40 26 20 20 9 11
+P9
+-
+
+EXPLANATION FOR FIGURES 6, 7, AND 8
+
+Well or test-hole Depth of sample, in feet number below land surface
+14S/6E-8P1 80.2-81.2
+Phi = -Iog2 of diameter (in millimeters)
+
+vf = very fine
+f = fine m = medium c = coarse vc = very coarse
+
+Phi 100
+
+GRAVEL m f \f vc
+
+SAND
+c m f vf 2i___i
+
+SILT AND CLAY
+
+14S/6E-8P1 L-l L-l L-l
+14S/6E-17H1
+
+80.2-81.2 14.0-16.0 27.0-29.0 36.7-38.5
+80.0-81.5
+
+1
+
+40
+
+10 1 0.1 0.01 0.001 PARTICLE SIZE, IN MILLIMETERS
+Figure 6. Particle-size distribution curves for selected drive samples (wells 14S/6E-8P1 and 14S/6E-17H1, and test hole L-l), Vallecito site.
+
+lithologies are silty sand and clayey sand. The estimated percentage of fines is as high as 40 percent for zones at 30 and 50 feet, although 15 percent or less (estimated) is more typical. The sands are mostly very fine to fine. Some of the samples contained minor amounts of very fine to medium gravel.
+The particle-size distribution graphs (figs. 68) show differences with depth, in addition to areal differences. Test hole L-l contained mainly silty sand in the top 30 feet, and mainly
+
+sand with some gravely sand and silty sand
+below 30 feet. These differences can be seen both in the sample descriptions and in the sieving results (fig. 6). The slope of the cumulative-percent curves for the samples above 30 feet is steepest in the sand range (fig. 6), and the curves show a less than 10-percent contribution from the gravel fraction; whereas, the curve for the sample from a depth of 36.6 to 38.5 feet shows a more even distribution throughout the sand and gravel fractions (higher percentages of gravel at the expense of
+
+24 Methods for Selection and Hydrologic Description of Potential Landfill Sites
+
+<* P^
+
+_ K) Ji. ON 00 g ""*
+
+o ® 0000§
+I 1 1 I -iCI/3>'
+N
+
+2-7 oT&.
+
+CD 1 i
+asQ* O
+
+J 30 ////'i//'/ -K1) -,§3rpi
+
+2a
+a4
+
+/ 1,§
+o
+^-/~> i5 -
+X
+
+/ / /' *
+o -o
+rs
+
+Cdo».
+s5
+
+H
+
+SC/3
+oo<2T(-
+
+rpi
+73
+I-H
+N
+
+'-^
+'s'
+
+^
+S'-'
+
+-
+3
+-K)
+
+73
+§ CJ
+
+-»)
+
+ft) PI
+
+'
+
+-S ou
+2
+
+//
+/// '
+I/
+
+^**^r'
+s^* <.-^^ '
+'s .^^
+
+'III
+
+-
+»»
+rv
+
+*H
+rC/3
+/p rI-H
+2
+toT PI
+
+//
+/ /
+
+/|p
+j 7\f3j °!_,
+
+/
+/
+/
+
+'III' 1I1 '1 l* l1
+h-1 h-4 t * t *
+&&&&
+ON ON ON ON tfl tfl W W 00 C» 00 QO
+0000
+»' t ' t ' t '
+
+0
+
+3 -ON
+"»)
+
+73
+H-(
+5
+
+-
+
+fD
+I-no2o«o>Ti*--
+o*
+C/3
+
+8,
+5 CO
+Q ON W
+
+_/_______________ gg^^o / o L^ b\ cp / cio 6\ LH I-*
+i t» t' i' O U» U( U( U(
+
+<"»; ) -OO
+_ nr
+
+T 0)
+
+(X O
+OO
+
+1111
+
+^ CO
+ON
+
+W
+
+t*
+ON
+
+O
+
+oI '
+r-lO
+
+CUMULATIVE PERCENT FINER
+o g ££S
+
+f^=Tr I'
+|"
+
+the sand percentages). In addition, the shallowest sample from test hole L-l has a percentage of silt and clay (14 percent) twice as high as the percentages (7 and 6) for the other two samples from this hole (table 2). Gravel (generally less than 10 percent) and occasional small cobbles were found throughout.
+SURFACE WATER
+The surface-water system in the area of the Vallecito Valley site consists of ephemeral streams that originate primarily in the steep canyons south of the site and drain toward the lowest part of the valley (fig. 9). The largest stream channel on the valley floor is that of Vallecito Creek, an ephemeral stream that crosses the northern part of Vallecito Valley after entering from Mason Valley on the west. The channel of Vallecito Creek is discontinuous; it ends near a low dike along the line between sections 9 and 10, and it begins again near the Vallecito Stage Station County Park where the stream exits the valley (figs. 5 and 9). The area mapped (in the figures) as swamp currently (1986) is dry and the western part contains a former agricultural field. The area may become swampy during years of unusually heavy rainfall.
+The stream channels most directly affecting the site are those that emanate from the mountains to the south and then cross the alluvial fan and the study site. The entire area downstream from the line between sections 18 and 19, and between the first mapped channel east of Troutman Mountain and the channel running diagonally northeast through the center of section 17, seems to be slightly lower topographically than surrounding areas and contains a number of small, braided channels. This area produces some local runoff in response to heavy rainfall and, in addition, might experience sheet flow or flooding from high flows exiting the better defined channels that drain the steeper part of the alluvial fan. Much of the local runoff collects in puddles in shallow depressions and occasionally flows in poorly defined channels or along the graded
+
+dirt roads. The most active channel during 1985-86 was the channel that drains Storm Canyon and the eastern half of the fan and that runs diagonally through the center of section 17 (fig. 9). Inspection of this channel near well 14S/6E-17H1 indicated that the flows during the study period were as much as 20 feet wide and 4 to 6 inches deep. Although none of the channels crossing the study site join Vallecito Creek, this channel does extend the farthest northeast (to the center of section 10) before dissipating.
+About one-half of the surface-drainage-basin area, which totals 22.7 mi2, is steep and without appreciable soil cover. Therefore, the potential exists for the generation of large "flash" flows during intense rainfall over the upper part of the drainage basin. Field observations and inspection of aerial photographs do not indicate that any large flows (for example, flows that incised deep channels, covered areas outside channel banks, removed vegetation, or transported boulders) have taken place on the site in the past few years. Because many of the channels branch outward and become smaller and more discontinuous in the downstream direction, much of the flow from small events appears to be lost to infiltration and evaporation prior to moving out appreciably on the gentle alluvial slope of the site.
+GROUND WATER
+The measurement and contouring of groundwater levels is used to help describe the direction of ground-water movement and to provide additional information about the locations and mechanisms of recharge to, and discharge from, the aquifer. The principal aquifer in the Vallecito Valley area is basin fill composed of sand, silt, clay, and gravel. The boundaries of the aquifer are formed by crystalline plutonic and metamorphic rocks, which commonly have low permeabilities in comparison with basin fill (Peter Martin, U.S. Geological Survey, oral commun., 1989). The basin-fill sediments generally are coarser grained and more poorly sorted toward the southwest part of the valley
+
+26 Methods for Selection and Hydrologic Description of Potential Landfill Sites
+
+33 o116°27'3Q00'
+
+25'R5EiR6E
+
+116°22'30"
+
+BOUNDARY OF DRAINAGE BASIN -Dashed where approximately located
+STREAM-GAGING STATION
+
+Base from U.S. Geological Survey Monument Peak, 1959 and Agua Caliente Springs, 1959; 1:24,000
+
+1 2 KILOMETERS
+CONTOUR INTERVAL 20 AND 40 FEET National Geodetic Vertical Datum of 1929
+
+Figure 9. Surface drainage and topography in vicinity of Vallecito site.
+
+Hydrology of Potential Landfill Sites 27
+
+(T.M. Rockwell, Professor of Geology, San Diego State University, oral commun., 1986). A second possibility is that some of the wells may have been pumped some time shortly before the measurements were taken, and the measurements may not represent static water levels accurately.
+The relatively shallow depth to water in two wells in section 16 (fig. 11) southwest of the southern branch of the Elsinore fault, and phreatophytic vegetation that taps shallow ground water in the same area, indicate that this section of the fault functions as a ground-water barrier. As additional evidence, water-level altitudes northeast of the fault (sections 9 and 10) are substantially lower than water-level altitudes southwest of the fault (sections 16 and 17) (fig. 11).
+A fault can function as a ground-water barrier as a result of one or more conditions: (1) Cementation of the fault zone by minerals precipitated from ground water; (2) offset of more-permeable beds against less-permeable beds; and (3) presence of clay fault gouge that is less permeable than the aquifer. Cementation of the fault zone is the most likely reason for this segment of the fault to function as a barrier. There is no evidence of large vertical displacement, and the fault scarp appears white in places and seems to be cemented with calcium carbonate or silica. The vegetation along lineaments in the fault zone probably is nourished by ground water that is forced to near surface. Ground water elsewhere in the valley also discharges as transpiration by phreatophytes in section 10, and probably as subsurface flow beneath Vallicito Creek where it exits the valley in the northeast corner of section 10.
+Water-level data for the central and southern parts of the site are lacking because of the difficulty of augering test holes deeper than 95 feet. However, the water-level gradient clearly
+
+is less steep than the land-surface gradient, and the known gradients and depths to water can be used to estimate the depth to water for other locations within the site. For example, by projecting the water-level gradient on the eastern side (slope of approximately 0.1 percent), one can estimate the depth to water in the vicinity of test hole T-3 (fig. 4) to be 105 feet.
+The water-level gradient is less steep northeast of the fault zone than on the southwest side, except in the western part of section 10 (fig. 10). By inference, the gradient must be steep within the fault zone because of the large difference in water-level altitude on either side of the fault zone. The contour lines have been omitted from the fault zone in figure 10 because of the small contour interval. The orientation of the contour lines in sections 9 and 10 is uncertain because the data points are in a straight line.
+Aquifer Characteristics
+Aquifer tests were done on five test wells to estimate the hydraulic conductivity (permeability) for the upper part of the aquifer. The results of the aquifer tests are given in table 4. Two types of one-well tests (displacement test and recovery test) were used. The estimates of hydraulic conductivity determined from the recovery tests have an average value of 6.4 ft/d. The highest value is at well 14S/6E17A1, and the lowest value is at well 14S/6E16C1. The trends seen in the recovery-test results also are seen in the displacement-test results and, to some extent, in the textures of the lithologic samples taken from below the water table. The value calculated from the recovery test at well 14S/6E-17A1 seems to be anomalously high, but it also is possible that the corresponding displacement-test value is anomalously low.
+
+Hydrology of Potential Landfill Sites 29
+
+(toward the heads of alluvial fans). Finer grained sand and silty sand are predominant to the northeast (toward the distal ends of the fans and the downstream end of the valley).
+Recharge, Ground-Water Movement, and
+Discharge
+Ground-water levels at the eastern end of Mason Valley, which is 400 feet higher than Vallecito Valley, are approximately the same as the altitude of the spring (14S/5E-12FS1) on the side of the ridge west of Campbell Ranch (figs. 4 and 10). This fact, along with a similarity in water temperature, indicates that flow from the spring may be sustained by movement of ground water from Mason Valley through fractures in the crystalline rock of the ridge. Subsurface recharge to the alluvial aquifer from fractures in the crystalline rock underlying or adjacent to the alluvium, however, is assumed to occur at a much smaller scale than that of mountain-runoff recharge. Water may enter the fractures either from percolation of rainfall on outcrop areas or from alluvial aquifers (such as the alluvium in Mason Valley) that overlie the crystalline rock.
+Surface flow contributes to ground-water recharge. Recharge originates primarily as runoff from precipitation on the mountains that bound the valley on the south and southwest. The runoff infiltrates into the alluvial fans and through the channel bottoms of ephemeral streams that cross the gently sloping valley floor. A part of the runoff is lost to evaporation and transpiration. The evaporation rate from standing water is about 72 in/yr (Hely and Peck, 1964, pi. 6) for the Vallecito Valley area. Some recharge may take place as direct areal infiltration of rainfall, but most of this water, probably more than 90 percent as a conservative estimate, is lost to evaporation and transpiration (Sammis and Gay, 1979).
+
+Two other surface-water features that probably contribute to recharge of the valley's ground-water system are Vallecito Creek to the north and the drainage basin and alluvial fan of the area called The Potrero (fig. 5) to the southeast. The Potrero is part of a separate drainage basin, but ground water originating as recharge in The Potrero probably merges with the main Vallecito ground-water system in the northern half of section 16. Vallecito Creek is fed by drainage from Mason Valley and by tributaries from the Vallecito Mountains. Flow in Vallecito Creek, which is an ephemeral stream, is most frequent at the outlet of Mason Valley at the head of the gorge. Discharge at a stream gage (station 10255850, fie. 4) at that location averages about 0.12 fr/s and totals about 87 acre-ft/yr. Most of the discharge seems to infiltrate or evaporate a short distance after the stream enters Vallecito Valley.
+The contoured water-level altitudes for August 1986 (fig. 10) show that the general direction of ground-water movement in the alluvium in Vallecito Valley is from southwest to northeast. Water-level data and well-construction information are given in table 3. The direction of movement is assumed to be perpendicular to the water-level contour lines. Some of the wells and springs in the valley are located downgradient from the Vallecito site. Along Vallecito Creek, the ground-water-flow direction apparently is from west to east. In the area along Highway S2 in sections 7 and 8, the direction of flow ranges from northeast to southeast. The variable gradient and direction of movement in this area may be caused by the presence of an extension of the mapped southern branch of the Elsinore fault zone. A discontinuous extension has been mapped by Clark (1982) on the north side of the highway. The fault likely passes somewhere through this area to join the northern branch near the entrance of Vallecito Creek to the valley
+
+28 Methods for Selection and Hydrologic Description of Potential Landfill Sites
+
+EXPLANATION
+? FAULT-Main branches of the Elsinore fault. Dashed where approximate, dotted where concealed, queried where probable
+1530 7- WATER-LEVEL CONTOUR-Shows altitude of water level, August 1986. Dashed where approximately located, queried where uncertain. Contour interval is 2 feet. Datum is sea level
+DATA POINT FOR WATER-LEVEL MEASUREMENT, Vallecito Valley
+o WELL, Mason Valley
+S1 SPRING AND NUMBER
+
+116°2
+
+Base from U.S. Geological Survey Monument Peak, 1959, and Agua Caliente Springs; 1959, 1:24,000
+Figure 10. Water-level altitude (contoured), Vallecito Valley area, August 1986.
+30 Methods for Selection and Hydrologjc Description of Potential Landfill Sites
+
+6°25' R5E R6E
+
+116°22 130"
+
+\ -\ ^m^f^^Kf^ ,.%
+f\ \ 1\~\*.V^rV\ ,\ ....^^^ S^fc-^ -X-^, , '
+
+2 KILOMETERS
+CONTOUR INTERVAL 40 FEET National Geodetic Vertical Datum of 1929
+
+Faults modified from Pinault (1984)
+Hydrology of Potential Landfill Sites 31
+
+S) Table 3.~Records of wells and springs, Vallecito Valley area
+, microsiemens per centimeter at 25 °C; °C, degrees Celsius; NA, not applicable; --, no data available]
+
+Well No.: The number given is assigned to the well or spring according to the method described in the section on the well- and spring-numbering system.
+
+Springs are identified by the letter S before the final digit.
+
+Depth of welt Depths of wells reported by owners, drillers, or others given in whole feet; depths measured by U.S. Geological Survey given in feet and
+
+tenths of a foot.
+
+g
+
+Use of water: H, domestic; I, irrigation; P, public supply; R, recreation; S, stock; U, unused; Z, other. Measuring point: Distance above land-surface datum (Isd), in feet. The point from which water-level measurements are made by the U.S. Geological
+
+1 Survey is described as follows: Alg, air-line gage; Bhc, bottom of hole in casing; Bpd, bottom of pump base; Hpb, hole in pump base; Lsd, land-surface
+
+datum; Tap, top of access pipe; Tc, top of casing; Tec, top of casing cover; T£ top of flange; and Tpb, top of pump base. All U.S. Geological Survey
+
+measurements for an individual well are from the same measuring point unless otherwise indicated.
+
+Altitude of Isd and method of measurement: Altitude of the land-surface datum, in feet above National Geodetic Vertical Datum of 1929, at the well or
+
+spring. Method of measurement symbols are: A, altimeter; L, level (accuracy ± 0.1 ft); M, map (accuracy ± 20 ft).
+
+Water levet In feet below land-surface datum. A, pumping; B, recent pumping; C, nearby pumping; D, nearby recent pumping; E, estimated; F, dry; K,
+
+flowing; R, reported.
+
+Remarks: CH, chemical analysis of water from well or spring given in table 6; CSGD, casing diameter, may include casing material; DLG, drillers log
+
+available; DM, drilling method--B, bored; C, cable-tool; D, dug; R, rotary; DRL, name of driller; USGS, United States Geological Survey, PI, perforated
+
+interval, in feet below land surface.
+
+1L
+*
+
+Well
+
+Depth of T T ~f Measurine ooint
+
+Altitude of i^A ~~A Water level
+
+Date
+
+Specific conduc-
+
+Temper-
+
+No. well water Descrip- Distance method of (feet below measured tance ature
+
+Remarks
+
+tjjn
+
+(feet)
+
+tion above Isd measurement Isd)
+
+0*S/cm) CC)
+
+$ 14S/5E-12FS1 NA
+
+14S/5E-12G1 14S/5E-23N1
+
+230 1.9
+
+14S/6E-8C1 14S/6E-8C2
+
+H,S NA NA
+I Tc 1.8 H Tc .2
+
+M 2,000
+M 1,720 M 3,040
+
+NA
+140.81 _. 0.15
+
+08/22/86 01/22/86 04/30/52 09/02/65
+08/25/86 01/22/86 09/03/65
+
+1,570 24 CH 1,351 24.5 1,440
+CSGD: 8.5-inch steel
+592 23.8 DM:D; CH; CSGD: 395 23.5 24 inches
+
+U
+
+Hpb 2.53
+
+L 1,651.8
+
+67.51 06/06/86
+
+1,966 25.5 CSGD: 6.5 inches
+
+73.80 10/23/71
+
+68.24 09/01/65
+
+H -- --
+
+L 1,642.6
+
+59.22 08/22/86 2,890 25.5 CSGD: 8.5-inch steel
+
+§
+IMS
+
+13 if "33
+
+H ^rt
+1> 4)
+
+-t-p -t-p -t-p -t p -* i
+
+1/3 O3 O3 [A 03
+
+| % *?
+
+.a-CO .a-CU .aJU3 M.au J.oaS
+
+Q| 0 |_
+
+^3 1/3 .SO
+
+VO OO >^ OO ^O ^"
+
+O 0" *" Q
+
+s IsQ Q -fa Q Q Q 2
+
+O O S3 O O O %
+
+rf\ rf)
+
+O f-4 GO L^
+
+U U U UU Q Q U
+
+S^ ^ : ; :
+
+3a
+
+|
+00
+Q O
+0
+5£ Q
+SR
+
+0^
+s^)-i
+Q
+Ifil SI
+B{« rWl MJ
+B8| £ Q
+Hrt Uo »*o QQ
+ON <S
+
+I /-^v
+HH
+oo o sS
+o -(2^2 ^05
+P2 S
+
+S! ^
+T-T
+
+!
+
+ii
+
+00
+rH O
+rf rf
+
+0 fN
+2> rH
+CO O
+rf rf
+
+0i
+r-^
+
+vo vo 10 >o
+
+l^) f"** ^D ^O ^^1 ^^
+
+^^^ ^ OO OO *O 'O
+
+^D ^1 OO OO \C) ^&
+
+rO ro ^^ ^^
+
+^H ^^ C1^ C1^ ^^ O^
+
+i"ss 8 8" 88" 8"C^i C^i ^^ ^^
+
+Q\ f^) OO T-H Q\ T-H O O O O O rH
+
+^o ^o *o r~-
+OO OO ^<O *O
+CO <S rH Tf <S <S O rH
+SSS8
+
+t^£ sss<^st rr4a orH 9^
+OO OO
+^^ ^^
+
+11^
+
+u5 4_, <2
+
+13
+3£
+
+!> ^-^
+
+aoc
+
+^_i *o *** §
+
+s i *! §Ui
+
+« . § T3 -fl I Vg M t) ^
+>st
+
+£ S O *O
+g O _J2
+§ £>
+QoS«i *&
+-SJ g
+S soS *Co Co Q~
+.&Sc
+
+1 ^ 53 81
+
+8g3 $ S fM ^ r^ vo
+
+5,5^ , &a9 SS
+
+00 CO VO
+
+S S fe S S S 8\o i> od [LH 00 00 00 00 00 I> oo oo r-
+
+^2 '"^
+
+& OfH
+
+VO C^ *o *o
+
+rH r4 CO I>
+
+op o \o O rH IO o op O\ vr> co
+
+r-T rH" rH" rH" rH~ rH" rH" rH~ ^rH." r-T r-T
+
+JSJ
+
+J JJ
+
+0 00 rH ON
+
+cs ri
+
+«t
+
+rH rH rH rH rH
+
+j
+
+rH
+
+rH
+
+rH rH
+
+g ^O
+
+r_>
+
+^l
+
+00
+
+^3
+
+O
+
+O
+
+H H E^ HH J H H
+
+E^
+
+ffi D D D ffi D D ffi K X ffi
+
+p
+
+4 111 1 s r-4) ^ s^
+
+i i i i CD C^ CS rH
+S rH
+
+rH
+
+1^
+
+^Q
+
+o
+
+^ G S w wrH fS
+
+CO "t
+
+rH
+
+en 1> 0
+
+QQ
+
+WW
+
+00 00 00 00 00 00 00 00
+
+W 00
+
+Wop ^
+
+S^£ £ z WWW W W W W W
+
+W
+
+E^ rH rH rH rH rH rH rH rH rH rH rH
+
+Hydrology of Potential Landfill Sites 33
+
+Remarks
+00
+o"8
+pI a
+-O S ^ 43
+3
+Isil5 D g ^3 C
+^
+83
+Is
+I?
+C
+
+sp
+
+§S
+
+-28
+
+,0
+VO
+
+DRL:
+
+P^ -f6t
+p .a
+
+CQ p
+
+Q O
+3
+
+a! a
+
+r-
+00
+of rf
+
+00
+
+£R vo
+
+<S
+
+oCO
+
+«S
+
+CO O
+
+T-I O
+
+O <S
+
+vo tH
+
+SO 00
+
+'O
+
+VO
+
+§888
+
+Pi tO~- <i/"S) CvOo 0000
+
+>oO >Oo oOoN
+
+>oO
+
+VO TV-OH vc4o CvOo vtHo
+
+O ON
+
+CO ON *H
+rC~O~ O>ON tO*N»
+>0 ir> >o >o
+
+«0 ON O>ON O>ON
+
+s
+
+ON VO VO
+
+o H
+
+I
+tii
+
+§
+
+'S 6
+
+Eop
+WVO
+
+UVOJ
+
+CO
+fe O
+00 00
+II
+vo '5vof UJ tViO VO
+
+34 Methods for Selection and Hydrologic Description of Potential Landfill Sites
+
+O 5!
+.8
+
+Q O
+
+rf 5 e
+
+Q
+
+O 5!
+So
+Ie
+
+-g-
+
+s
+
+QU
+
+QQ
+
+**" G
+g3 o
+aI a
+Q
+!' C3
+
+(/5
+QI 6
+
+oo
+
+vooooinovooovooovooo
+
+VoOo
+
+oo S8
+ggg §s^g§
+
+to >OOOOOOOOOOO
+
+PL,
+
+3
+
+O
+
+U
+S
+
+,-s TS -s 5 3< ^3 5a^ «g§
+
+CO
+
+3 .§
+o
+li 8 H
+.IP
+N
+
+IS
+N
+
+1 00
+
+oop oPLpH
+
+oQp
+
+OO
+ON O\
+
+OS
+O\ rH
+
+ffl
+O
+
+fo(fSl
+
+W ^Wo
+
+W
+
+WW
+
+^^
+
+3 5?
+
+Hydrology of Potential Landfill Sites 35
+
+Table 3.--Records of wells and springs, Vallecito Valley area-Continued
+
+g
+
+f£sor
+VI
+0)
+SL
+
+Well No.
+
+Depth of well (feet)
+
+U-e of water
+
+Measuring point Descrip- Distance
+tion above Isd
+
+Altitude of ^ an(j Water level
+
+method of (feet below
+
+measurement
+
+Isd)
+
+Date measured
+
+Specific conductance (MS/cm)
+
+Temperature
+(-C)
+
+o*
+
+Remarks
+
+65
+
+14S/6E-10B3
+
+40
+
+&- 14S/6E-10B4
+
+14S/6E-10D1 114
+
+ocT
+
+ff 14S/6E-10D2 200 aW>
+
+S"
+
+14S/6E-10M1
+
+22
+
+0
+
+!o*
+ffi
+
+14S/6E-16C1
+
+46.7
+
+B_
+
+E?
+a
+
+22
+
+U ~P -- ~ U Tc 3
+
+M 1,520 M 1,530 L 1,541.7
+
+--
+31.42 30.88 28.91
+
+08/22/86 08/25/86 06/03/86 09/03/65
+
+2,190
+
+Buried 30.5 CSGD: 6-inch steel
+DRL: R.O. Harris; CSGD: 12-inch steel
+
+I
+
+Alg 3.9
+
+L 1,558.2
+
+36.44 08/25/86
+
+36.24 06/03/86
+
+43.22 09/03/65
+
+U
+
+Tc 1.8
+
+M 1,560
+
+F 09/02/65
+
+R14 10/--/20
+
+DRL: R. O. Harris; CSGD: 12-inch steel
+CSGD: 12-inch stovepipe
+
+Z
+
+Tc
+
+.5
+
+L 1,603.7
+
+27.49 08/25/86
+
+DRL: USGS; CSGD:
+
+27.15 06/26/86
+
+2-inch PVC; DM: B;
+
+26.73 06/05/86
+
+PI: 38.75-46.75
+
+26.68 06/03/86
+
+26.59 05/22/86
+
+661 24.5
+
+26.12 04/24/86
+
+26.13 04/14/86
+
+14S/6E-16F1
+
+62.0
+
+S Tec .8
+
+L 1,612.6
+
+32.16 32.90 32.90 34.84
+
+08/25/86 06/30/86 06/03/86 05/09/86 04/29/86
+
+CSGD: 12-inch steel; CH 581 25.5
+
+35.62 30.29
+
+02/19/86 01/22/86 07/23/85 09/02/65
+
+562 391 22
+
+Table ^. Records of wells and springs, Vallecito Valley area-Continued
+
+Altitude of
+
+Specific Tern-
+
+Well Denth nf T l-r nf Measuring point
+
+] j _ j Water level
+
+Date conduc- Per'
+
+No.
+
+well
+
+water Descrip- Distance
+
+method of (feet below measured tance
+
+<HUIGof-jifp
+
+(feet)
+
+tion above Isd measurement lsd)
+
+Remarks
+JXt/lllCLl AJJ
+
+14S/6E-16Fl~Continued
+
+14S/6E-17X1
+
+74.0
+
+25.36 11/05/58
+
+22.94 03/14/57
+
+22.32 02/18/56
+
+21.15 01/05/54
+
+U Bhc 1.5 M 1,680
+
+F 09/02/65
+
+70.05 01/05/54
+
+- - Destroyed
+
+14S/6E-17A1
+
+79.5
+
+Z
+
+Tc
+
+.5
+
+L 1,639.3
+
+53.43 08/25/86
+
+- - DRL: USGS; CSGD:
+
+53.72 06/26/86
+
+2-inch PVC; DM: B;
+
+53.84 06/05/86
+
+PI: 71.4-79.5
+
+53.83 06/03/86
+
+54.70 05/22/86
+
+457 25
+
+54.30 04/24/86
+
+54.02 04/14/86
+
+14S/6E-17H1 84.1 jj[
+
+Z Tc
+
+.35
+
+L 1,655.07 64.83 08/25/86
+
+539 24.2 DRL: USGS; CSGD:
+
+65.55 06/06/86
+
+2-inch PVC; DM: B;
+
+65.61 05/22/86
+
+510 24 PI: 76.1-84.1
+
+65.76 04/24/86
+
+65.95 04/14/86
+
+66.25 02/23/86
+
+8,
+2
+5
+
+a.
+c/a
+
+EXPLANATION
+FAULT-Main branches of the Elsinore fault. Dashed where approximate, dotted where concealed, queried where probable
+WELL AND DATA, VALLECITO VALLEYWater levels measured August 1986
+1,585- . Water-level altitude, in feet. Datum is sea level 66- ~~^-Depth to water, in feet below land surface
+WELL AND DATA, MASON VALLEY^-Water-level altitude, in feet. Datum is sea level o-1:j,|'9*^5(8~l-9^ 65)-Year of water-level measurement
+~Depth to water, in feet below land surface
+
+R5E 116°2
+
+Base from U.S. Geological Survey Monument Peak, 1959, and Agua Caliente Springs; 1959, 1:24,000
+Figure 11. Water-level altitude and depth to water, Vallecito Valley area, August 1986, and Mason Valley, various dates.
+38 Methods for Selection and Hydrologic Description of Potential Landfill Sites
+
+3°25' R5E R6E
+
+116°22'30U
+I ^^
+Sta$\Stalion ^J^^irntyTark^'J" " '
+
+2 KILOMETERS
+CONTOUR INTERVAL 40 FEET National Geodetic Vertical Datum of 1929
+
+Faults mcxJified from Pinault (1984)
+Hydrology of Potential Landfill Sites 39
+
+Table 4.--Estimates of hydraulic conductivity for the perforated interval of test wells, Vallecito Valley area
+[Perforated interval in all wells is 8 feet in length. Values are in feet per day. --, no data available]
+
+Well
+
+Displacement test
+
+Recovery
+
+No. Slug Bail Average test
+
+14S/6E-8P1 14S/6E-8Q1 14S/6E-17H1 14S/6E-17A1 14S/6E-16C1
+
+15.5 10.2 ---
+5.3
+
+14.9 15.2
+6.7 8.5 12.7 -11.6 --
+4.1 4.7
+
+5.3 2.1 4.3 19.1 1.2
+
+At all well locations where both slug and bail displacement tests were done, the hydraulic conductivities determined from the slug displacement tests are higher than those from the bail displacement tests. In addition, the values determined from displacement tests for a particular well were higher than those from the recovery tests. However, the difference between values in all cases is less than one order of magnitude, which is within the common range of variation for aquifer-test results. Of the types of tests done, the recovery test probably gave the most accurate results owing to the greater hydraulic stress placed on the aquifer by pumping; however, the results are better suited for comparison of relative differences in hydraulic conductivity at various well locations rather than for consideration as precise values.
+The estimated hydraulic conductivities can be used in combination with the estimated porosity and the measured hydraulic gradients to estimate rates of horizontal ground-water movement near the water table. The relation used to calculate the average linear velocity (v) is v = £/, where K is the hydraulic conductivity, n is porosity, and / is the hydraulic gradient. Both the average hydraulic conductivity and the maximum hydraulic conductivity are used to calculate a range of velocities for some specific paths, as summarized in table 5.
+
+Table 5.~Estimated rates of horizontal groundwater movement, Vallecito Valley area
+
+[Kave, average hydraulic conductivity, equals 6.4 feet per day; Kmax, maximum hydraulic conductivity, equals 19.1 feet per day]
+
+Path travel
+
+time, in
+
+Approxi- Average
+
+years, at
+
+mate linear
+
+average
+
+Path
+
+distance,
+
+velocity,
+
+velocity
+
+in feet
+
+in feet per
+
+calculated
+
+day, using:
+
+using:
+
+Kave Kmax
+
+Kave Kmax
+
+From near well 14S/6E-8P1 to near Highway S2
+From near well 14S/6E-17A1 to near center of section 9
+From near well 14S/6E-17A1 to near Stage Station County Park
+
+2,550 5,040 11,780
+
+0.04 0.13
+
+175 54
+
+.28 .84
+
+49 16
+
+.18 .53
+
+179 61
+
+The average linear velocity is a large-scale concept used to give a general approximation of flow rates and does not represent the average velocity of water particles (small scale) through the pore spaces (Freeze and Cherry, 1979, p. 70-71). Furthermore, the movement of contaminants is dependent on their solubility, chemical absorption, and other interactions with the aquifer matrix, and on dispersion. Areally uniform aquifer properties also are assumed in making the estimates; variations in permeability within the aquifer and the possible barrier effects of the southern branch of the Elsinore fault are not taken into account.
+Water Quality
+The quality of water in the Vallecito Valley area generally meets U.S. Environmental Protection Agency standards for drinking water (tables 6 and 7). Exceptions are dissolved sulfate and dissolved solids, which exceeded the recommended limits of 250 mg/L (milligrams per liter) and 500 mg/L, respectively, in
+
+40 Methods for Selection and Hydrologic Description of Potential Landfill Sites
+
+most wells, and chloride, which exceeded the recommended limit of 250 mg/L in one well (tables 6 and 7). The concentration limits of these constituents are among those that have been set primarily to provide acceptable esthetic and taste characteristics (Freeze and Cherry, 1979).
+Areal trends of ionic composition of ground water in the Vallecito Valley area are shown in figure 12. The water samples from wells and springs in the southern area (sec. 23, T. 14 S., R. 5 E.; sees. 17, 16, 9, and western part of 10, T. 14 S., R. 6 E.) had dissolvedsolids concentrations and specific-conductance values that ranged from 399 to 738 mg/L and 539 to 1,120 MS/cm (microsiemens per centimeter at 25 degrees Celsius), respectively. These values were one-half to one-third the values for wells and springs in the northern area, which had dissolved-solids concentrations and specific-conductance values that ranged from 1,020 to 2,100 mg/L and 1,570 to 2,890 jLiS/cm, respectively. In most of the water samples, calcium was the predominant dissolved cation and sulfate was the predominant anion. The samples with low specific conductance had higher concentrations of bicarbonate relative to chloride as well as lower water temperatures than the water from other wells and springs (table 6).
+The differences in water quality between the northern and southern areas probably are caused by one or more of the following factors: (1) Different sources of recharge; (2) upwelling of water in some sections of the fault zone; (3) percolation of water and salts from irrigated fields; and (4) contact of ground water with sediments of different chemical composition. Conversely, the observed qualityof-water trends provide clues in determining sources of recharge and travel paths of ground water.
+A possible explanation that involves the first factor is that ground water in the northern part of the valley may be recharged by under-
+
+flow and surface flow from Mason Valley and by runoff from the Vallecito Mountains, whereas ground water in the southern part of the valley probably is recharged largely by storm runoff from the Laguna Mountains to the south. The chemical characteristics of water from the spring (14S/5E-12FS1) near Campbell Ranch, and the fact that the rock types in the Vallecito Mountains are not significantly different from those in other parts of the drainage basin may indicate that flow from Mason Valley provides the major component for recharge in the northern area. Thus, the water-quality data lend support to the conclusions drawn from water-level-altitude and water-temperature data with regard to ground-water flow from Mason Valley.
+In reference to the second factor, the fault zone could cause the observed water-quality and water-temperature patterns if highly mineralized water were moving upward in the projected fault zone in section 8. However, in sections 9 and 16, where the fault zone is more evident as a surface feature, there is no noticeable increase in dissolved solids. Possibly, water is not upwelling in sections 9 and 16 because aquifer materials in the fault zone are more cemented and less permeable at those locations. This explanation is supported by ground-water-level data, which seem to indicate that the fault is functioning as a partial barrier to flow in sections 9 and 16.
+Third, the quality of ground water may be affected by the concentration of salts caused by evaporation and recycling of irrigation water. Fields used for growing hay or alfalfa are in the northeastern part of section 12, the northwestern part of section 7, and the northern part of section 10. These areas are upgradient from ground water with the highest dissolved-solids concentrations. The lack of irrigated fields immediately upgradient from sections 17, 16, and 10 might help explain (along with the different sources of recharge) the less-mineralized water in these areas.
+
+Hydrology of Potential Landfill Sites 41
+
+i Table 6.--Chemical analyses of water from wells and springs, Vallecito Valley area [mg/L, milligrams per liter; Mg/L, micrograms per liter; °C, degrees Celsius; nS/cm, microsiemens per centimeter at 25 °C; NA, not applicable; --, no
+? data available]
+C/5 Well No.: The number given is assigned to the well or spring according to the method described in the section on the well- and spring-numbering system. Date of sample: A, following the date, indicates the date the sample was analyzed, rather than the date it was collected. Total depth of welt Depths given in whole feet were reported by owners, drillers, or others. Depths given in feet and tenths of a foot were measured by the U.S. Geological Survey and are below land-surface datum. Source of analysis and (or) reference: CU, Culligan, Inc.; DWR, California Department of Water Resources; USGS, U.S. Geological Survey; DCM, D.C. Martin, M.S. thesis project at San Diego State University. Reference: 1, Moyle (1968).
+
+11
+n' Well No.
+I
+M«
+
+Date of
+sample
+
+Total depth
+of well (feet)
+
+Spe-
+cific con-
+ductance (nS/cm)
+
+PH (standard
+units)
+
+HardTemper- ness
+ature as CaCO3 (°C) (mg/L as
+Ca, Mg)
+
+Noncar-
+bonate hardness (mg/L)
+
+Dis-
+solved calcium (mg/L as Ca)
+
+Dis-
+solved magne-
+sium (mg/L as Mg)
+
+Dis-
+solved sodium (mg/L
+as Na)
+
+Percent sodium
+
+Dis-
+solved potassium (VmOg//L
+asK)
+
+&
+
+3 o
+
+14S/5E-12FS1
+
+08/22/86 NA
+
+1,570
+
+7.7
+
+24
+
+510 297 158
+
+28
+
+143 37
+
+8
+
+14S/5E-23N1
+
+08/22/86 1.9
+
+592
+
+6.9
+
+23.8 226 113 56 21
+
+41 28
+
+7
+
+2. 14S/6E-08C1 08/22/86
+
+1,970
+
+8.4
+
+25.5 360 186 88 34
+
+285 62 14
+
+3 14S/6E-08C2 08/22/86
+
+2,890
+
+7.4
+
+25.5 995 836 318 49
+
+270 37 12
+
+? 14S/6E-08C3 08/23/86
+
+1,970
+
+7.5
+
+27
+
+627 427 223
+
+17
+
+178 37 23
+
+-H 14S/6E-08E4 08/23/86 121
+
+2,190
+
+7.5
+
+28.5 708 510 208 46
+
+221 40 14
+
+3:L
+
+14S/6E-08E5 14S/6E-08E6
+
+08/23/86 120 08/23/86 100
+
+2,360 2,160
+
+7.5 7.4
+
+28 29
+
+761 545 234 654 499 186
+
+43 46
+
+223 38 25 249 45 12
+
+* 14S/6E-08F2
+
+05/22/86 120
+
+1,880
+
+7.6
+
+28
+
+709 497 200 51
+
+180 35
+
+9.3
+
+1' 14S/6E-08F4
+
+08/24/86 ~
+
+1,950
+
+7.4
+
+28
+
+637 491 196
+
+36
+
+208 41 15
+
+14S/6E-08G1
+
+05/31/62A 126
+
+1,920
+
+7.4
+
+~
+
+619 445 111 43
+
+145 33 10
+
+14S/6E-08G2
+
+03/11/55 67.0
+
+1,700
+
+8.1
+
+-
+
+550 391 151
+
+42
+
+121 32 10
+
+14S/6E-08G3
+
+08/22/86 118
+
+2,200
+
+7.2 28
+
+720 496 252 22
+
+205 38 11
+
+14S/6E-09G2
+
+08/22/86 210
+
+762
+
+7.2 26
+
+279 134 92 12
+
+52 28
+
+7
+
+14S/6E-10B1
+
+01/05/54
+
+1,920
+
+7.6
+
+20.6 660 459 185 48
+
+180 37
+
+7.8
+
+14S/6E-10B2
+
+03/30/64
+
+--
+
+~
+
+720 541 206 50
+
+250 43 10
+
+14S/6E-10B4
+
+08/22/86
+
+2,190
+
+7.7
+
+30.5 725 567 256 21
+
+212 38 17
+
+14S/6E-10X1
+
+03/14/57
+
+1,120
+
+7.6
+
+22.8 319 120 80 29
+
+116 44
+
+3.4
+
+01/05/54 - 1,120 --
+
+22.2 376 134 96 33
+
+98 35
+
+3.1
+
+14S/6E-16F1
+
+04/29/86 62.0
+
+581
+
+7.8 25.5 199 100 50 18
+
+55 45
+
+5.3
+
+14S/6E-17H1
+
+08/25/86 84.1
+
+539
+
+6.9
+
+24.2 200
+
+72 62 11
+
+38 29
+
+5
+
+.,
+i
+
+uuuuuuuugu
+»cos cn
+1 1 1 1 1 1 1 *+ 1
+
+i i ci
+
+. a,.
+c
+
+1111
+
+i-o
+<u
+
+^
+
+»O Tf
+
+3i-H
+o
+
+U
+
+o cs o o o
+
+OOQC'lOOOO'OOO
+
+o o TH" TH" cf TH"
+
+S8
+i
+
+Jf-OO |»OOO\ '»O»0 'C^QSfS 00 l> >O
+
+i , T3 S
+i f§ i O
+" -4 Q
+O
+
+OOrfOOOOOOOOf^O jOOOOO |O
+
+^SuuOSSwSSooooggSg feg
+VO 'o 6
+UUUUtUUUUUtUUUUUuJUUJtL) WW
+E2I rHrHTHrHTHrHrHrHrHTHrHrHTHrHrHrHrHrH
+
+Hydrology of Potential Landfill Sites 43
+
+Table 7.--Detailed chemical analyses of water from selected wells, Vallecito Valley area
+Property or constituent: Organic compounds are analyzed by purging and trapping; the value listed is the total recoverable for each compound (Feltz and others, 1985).
+Units: NTU, nephelometer turbidity units; /*S/cm, microsiemens per centimeter; standard units, negative logarithm of hydrogen concentration; mg/L, milligrams per liter; /ig/L, micrograms per liter.
+Value or concentration: <, concentration is less than the detection limit. The detection limit is the value that follows this symbol.
+EPA maximum level: U.S. Environmental Protection Agency maximum level for drinking water. MCL, maximum contaminant level; SMCL, secondary maximum contaminant level; PMCL, proposed maximum contaminant level; PRMCL> proposed recommended maximum contaminant level. Number after abbreviation indicates source of standard: 1, U.S. Environmental Protection Agency (1976); 2, U.S. Environmental Protection Agency (1979); 3, U.S. Environmental Protection Agency (1985); 4, U.S. Environmental Protection Agency (1986).
+
+Property or constituent
+
+Units
+
+Value or concentration ____for well:____ 14S/6E- 14S/6E-
+8F2 16F1
+
+EPA maximum level
+
+Date collected ................................. 5/22/86
+
+Specific conductance (field) Specific conductance (lab) pH (field) pH (lab) Water temperature Turbidity Calcium, dissolved Magnesium, dissolved Sodium, dissolved Potassium, dissolved Alkalinity (field) Alkalinity (lab)
+Sulfate, dissolved Chloride Fluoride, dissolved Silica, dissolved Solids, dissolved, sum of
+constituents Nitrogen, NO2 +NO3, dissolved Nitrogen, ammonia, dissolved Nitrogen, ammonia + organic,
+dissolved Phosphorus, dissolved Phosphorus, orthophosphate,
+dissolved Barium, dissolved Beryllium, dissolved Boron, dissolved Cadmium, dissolved Cobalt, dissolved Copper, dissolved Iron, dissolved
+
+/tS/cm juS/cm Standard units Standard units Degrees Celsius NTU mg/L as Ca mg/L as Mg mg/L as Na mg/L as K mg/L as CaCO3 mg/L as CaCO3 mg/L as SO4 mg/L as Cl mg/L as F mg/L as Si02 mg/L
+mg/L as N mg/L as N mg/L as N
+mg/L as P mg/L as P
+/ig/L as Ba /ig/L as Be /ig/L as B /ig/L as Cd /ig/L as Co /ig/L as Cu /ig/L as Fe
+
+1,880 2,050
+7.6 28 1 200 51 180 9.3 211 218 580 230 0.8 35 1,400
+1.4 0.1 0.2
+0.08 0.01
+21 <0.5 200 <1 <3 10 24
+
+See footnote at end of table.
+
+4/29/86
+581 672
+7.8 7.7 25.5 2 50 18 55 5.3 98 107 170 44 0.4 60 460
+0.4 0.4 0.5
+0.01 <0.01
+25 <0.5 40 <1 <3 10 75
+
+250 mg/L SMCL 250 mg/L SMCL h.6 mg/L MCL 500 /ig/L SMCL 10 mg/L
+1,000 /ig/L SMCL
+10 /ig/L MCL 1,000 ^g/L SMCL 300 /ig/L SMC
+
+44 Methods for Selection and Hydrologic Description of Potential landfill Sites
+
+Table 1.-Detailed chemical analyses of water from selected wells, Vallecito Valley area-Continued
+
+Property or constituent
+
+Umts
+
+Value or concentration for well:
+14S/6E- 14S/6E8F2 16F1
+
+EPA maximum level
+
+Date collected ............ ..................... 5/22/86
+
+Lead, dissolved Lithium, dissolved Manganese, dissolved Molybdenum, dissolved Strontium, dissolved Vanadium, dissolved Zinc, dissolved Dichlorobromomethane Carbon tetrachloride 1,2-Dichloroethane Bromoform Chlorodibromomethane Chloroform Toluene Benzene Chlorobenzene Chloroethane Ethylbenzene Methyl bromide Methyl chloride Methylene chloride Tetra chloroehylene Trichlorofluoromethane 1,1-Dichloroethane 1,1-Dichlorethylene 1,1,1-Trichloroethane 1,1,2-Chloroethane 1,1,2,2 Tetrachloroethane 1,2-Dichlorobenzene 1,2-Dichloropropane 1,2 Transdichloroethylene 1,3-Dichloropropane 1,3-Dichlorobenzene 1,4-Dichlorobenzene 2-Chloroethyl vinyl ether Trans 1,3-Dichloropropene Dichlorodifluoromethane Cis- 1,3-Dichloropropene Vinyl chloride Trichloroethylene
+
+/ig/L as Pb /ig/L as Li /ig/L as Mn /ig/L as Mo /ig/L as Sr /ig/L as V /ig/L as Zn /ig/L /ig/L /tg/L /tg/L /ig/L /ig/L /ig/L /ig/L /ig/L /tg/L /ig/L /ig/L /ig/L /ig/L /ig/L /ig/L /ig/L /ig/L /ig/L /tg/L /ig/L /ig/L /ig/L /ig/L /ig/L /ig/L /ig/L /ig/L /tg/L /ig/L /ig/L /ig/L /ig/L
+
+< 10 71 3
+< 10 920 <6 210 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3
+
+4~//2**9* /18\j6\J
+30 33 <10 290 <6 390 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 . <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3
+
+50 /ig/L SMCL 50 /ig/L SMCL
+
+4 4
+
+5,000 /ig/L SMCL
+5 /ig/L PMCL 5 /ig/L PMCL
+
+2
+3 3
+
+5 /ig/L PMCL 680 /tg/L PMCL
+
+3 3
+
+5 /ig/L PMCL
+5 /ig/L PMCL 200 /ig/L PMCL
+
+3 3
+
+1 /ig/L PMCL 5 /ig/L PMCL
+
+3 3
+
+1Maximum level is adjusted according to mean maximum daily air temperature (U.S. Environmental Protection Agency, 1976). For 72.5 °F at Vallecito Valley (National Oceanic and Atmospheric Administration, 1984), the level is 1.6 mg/L.
+
+Hydrology of Potential Landfill Sites 45
+
+EXPLANATION
+SPRING AND NUMBER
+12FS1
+23N1 WELL AND NUMBER
+WATER-QUALITY DIAGRAM (From Stiff, 1951)-Differences in configuration reflect differences in chemical character. The area of the diagram is an indication of dissolved-solids concentration. The larger the area of the diagram, the greater the dissolved solids
+
+Sodium Calcium
+
+/YEAR ANIONS
+
+19867
+
+Chloride
+
+<^w
+
+N^JBicarbonate
+
+iii
+
+iii
+
+15 10
+
+5
+
+0
+
+5 10 15
+
+MILLIEQUIVALENTS PER LITER
+
+R5E 116°2
+
+Base from U.S. Geological Survey Monument Peak, 1959, and Agua Caliente Springs; 1959, 1:24,000
+Figure 12. Chemical quality of water from selected wells and springs in the Vallecito Valley area.
+46 Methods for Selection and Hydrologic Description of Potential Landfill Sites
+
+B°25' R5E R6E
+
+116°22 130"
+
+1 2 KILOMETERS
+CONTOUR INTERVAL 40 FEET National Geodetic Vertical Datum of 1929
+
+Hydrology of Potential Landfill Sites 47
+
+A fourth possible factor influencing the difference in water quality in the northern and southern areas is variation in the composition of the sediments that compose the aquifer. The concentrations and types of chemical constituents in ground water can change as chemical reactions take place. For example, water in contact with clay lenses may undergo an increase or decrease in certain constituents because of ion exchange. Also, distance of travel may have an effect. The increase in dissolved solids in the downgradient direction, seen in sections 16, 9, and 10, may be caused by the longer flow path of water and the associated chemical reactions that occur when the ground water is in contact with the sediments.
+Manzanita Site
+The same methods used to evaluate the Vallecito Valley site were used at the Manzanita site. Minor modifications to the methods were made to adjust for differences in the physical setting and hydrogeologic characteristics of the two sites.
+PHYSICAL SETTING
+The Manzanita landfill site is within the Manzanita Indian Reservation, approximately 50 direct miles east of San Diego, in southeastern San Diego County (fig. 1). The distance by road is about 60 miles. The elongated site is in an area of ridges and valleys on the southeast flank of the Laguna Mountains and within the eastern part of the Peninsular Ranges batholith.
+The Manzanita site is located on part of a broad ridge called the Tecate Divide (fig. 13), which extends south beyond the United StatesMexico border. The ridge has saddles and knobs along its length, but in general the ridge gradually rises in altitude from about 4,100 feet near Interstate 8 to about 4,600 in section
+
+22, T. 16 S., R. 6 E., near the break in slope of the Laguna Mountains. The highest part of the axis of the ridge within the site is a hill south of test hole L-l (fig. 13), and the lowest part is a saddle near observation well 16S/6E34A1. The land surface descends to valleys on both the west and east sides of the divide. The east side of the ridge is steeper and has greater total topographic relief. The Manzanita site contains about 244 acres. The east and west sides of the site are limited by an increase in steepness of the slope and by absence, due to erosion, of weathered material. The site is 2 miles north of Interstate 8; it is accessible by a graded dirt road that crosses the Campo Indian Reservation and continues through the site along the axis of the ridge.
+The Manzanita Indian Reservation is bordered by other Indian reservations, other Federal land, and private land (fig. 13). About 7 houses are west of the site and about 10 houses, a tribal hall, and a horse camp are to the east. In addition, a tribal office is immediately south of the site and scattered houses are to the south near Interstate 8.
+The climate at the Manzanita site is semiarid, with a mean annual rainfall of about 19 inches for the period 1897-1947 (California Department of Water Resources, 1967, plate 5). The nearest rainfall records are for the town of Manzanita 5 miles southeast of the site. Average annual rainfall at the town, which is 800 feet lower in altitude than the site, is 15.6 inches for the period 1971-85. The wettest months for the area are November through March. In some years, August also is a relatively wet month because of thunderstorms or tropical storms. The mean annual temperature is approximately 58 ° F (Hely and Peck, 1964, pi. 4). The site often is windy and currently is monitored for wind conditions by a public utility (Frances Shaw, Manzanita Indian Reservation, oral commun., 1985). Vegetation at the site consists primarily of grasses and shrubs.
+
+48 Methods for Selection and Hydrologic Description of Potential Landfill Sites
+
+GEOLOGIC FEATURES AND L1THOLOGY
+Local geology was described using existing geologic maps and reports (Moyle and Downing, 1978; Todd and Shaw, 1979). As at the Vallecito site, verification and modifications were made through the use of aerial photographs and limited field observations.
+The geology of the Manzanita area is dominated by the presence of igneous and metamorphic rocks related to the Peninsular Ranges batholith. Many of the rock types are similar to those forming the borders of Vallecito Valley. In contrast to the Vallecito site, which is in an area of thick alluvial fill consisting of material that was transported and deposited in Vallecito Valley, the Manzanita site is in an area of crystalline rock that has been weathered or partially weathered in place to depths of as much as 200 feet.
+The Manzanita site, and much of the surrounding area, is underlain by granitic rocks of Cretaceous age (Moyle and Downing, 1978, pi. 1) (fig. 14). The mountainous area northwest of the site is mapped as basement complex, which consists primarily of metamorphic rocks, along with granodiorite, gabbro, and quartz diorite (fig. 14). These rocks are of Cretaceous to Triassic age or older, and predate emplacement of the batholith (Moyle and Downing, 1978, pi. 1). The basement complex generally does not yield water to wells (Moyle and Downing, 1978, p. 5).
+The granitic rocks are both fractured and weathered. Major fractures appear as vegetation lineaments on low-altitude aerial photographs and are shown in figure 14. Springs occur along these lineaments, such as on the eastern slope of the ridge that contains the site. The principal direction of fractures, approximately N. 25° W., is parallel to the major lineaments on the east side of the ridge and to the ridge itself. A secondary set of fractures, also visible on aerial photographs, trends approximately N. 73 ° E.
+
+No faults are mapped in the area. It is possible that some of the fractures have lateral displacement of their surfaces, which technically would classify them as faults.
+Bedrock is exposed at the site as small, isolated boulder outcrops along the ridge, and as larger areas of outcrop on both sides of the ridge where erosion has taken place. Most of the broad crest of the ridge is composed of weathered granitic rock.
+Many of the valleys and stream channels in the area contain alluvium that ranges in thickness from a few feet to about 100 feet (Moyle and Downing, 1978, p. 5). The alluvium is composed of sand, silt, and fine gravel derived from the granitic rocks and transported by streams. The alluvium yields water to wells; the quantity yielded depends on the thickness of the alluvium, its hydraulic properties, and the type of well construction (Moyle and Downing, 1978, p. 5). The alluvium is not a source of large quantities of water in the area of the Manzanita site.
+As at the Vallecito Valley site, test drilling was used at the Manzanita site to obtain subsurface lithologic samples and to construct shallow observation wells. Drilling at the Manzanita site was somewhat experimental because it was not known if the auger would be able to penetrate the weathered rock.
+The granitic rock at the Manzanita site is chemically weathered in place and has decomposed, to varying degrees, to depths as much as 100 feet or more at some locations. The terms used locally to describe the weathered rock are "residuum" or "decomposed granite." The drilling and lithologic sampling provided some information about the degree and depth of weathering, but precise interpretation is difficult. Specifically, the ease of augering and the appearance of the core samples provide indications of broad changes in degree of weathering with depth or location. Sieving and particle-size analysis of the samples at weathered-rock sites is less useful for hydrologic interpretations than at alluvial sites.
+Hydrology of Potential Landfill Sites 49
+
+116°22'30"
+
+R6E
+
+QS1 -j
+
+I
+
+^S&5SvS5^*^^S^^^^
+
+116°20' si ^ j
+
+i ^LiC"" v-^^-~,1 ~"x^" f\OH
+
+'2 , LANDFltLf
+
+co i »\
+iMi ^
+
+S l>i
+"^ s'\__
+
+S '" '-
+
+~i
+
+^"i" '»
+
+:-- iV' ^
+
+J
+
+<:^_Manzanitajlndian Reservation .'("''
+
+t\ *
+
+Campo|Indian Reservation*-- " ''__ ' I * " 1."
+
+* "I * V " ~~~ " *
+
+" _ ""
+
+" \ " ';
+
+Base from U.S. Geological Survey 0 Live Oak Springs, 1975 and Sombrero Peak, 1915; 1:24,000 °
+
+1 2 KILOMETERS CONTOUR INTERVAL 40 FEET National Geodetic Vertical Datum of 1929
+
+Figure 13. Topography, cultural features, land ownership, and location of wells and springs, Manzanita site and vicinity.
+
+50 Methods for Selection and Hydrologjc Description of Potential Landfill Sites
+
+EXPLANATION FOR FIGURE 13
+LAND OWNERSHIPUnited States of America, public domain United States of America, Indian reservations (Campo, Manzanita, LaPosta) Private land
+BOUNDARY OF INDIAN RESERVATION VES 26-01. VERTICAL ELECTRICAL SOUNDING SITE
+T.7 dD TEST HOLE SPRINGS-
+DS1
+stock
+,JS1
+Unused Extinct
+WELLSDomestic Observation
+L1 c{) Unused WP2 Destroyed
+
+At the Manzanita site, the top 2 or 3 feet of residuum is a dark brown sandy or gravelly soil. At a depth of about 5 to 20 feet, the appearance of the samples becomes more like that of fresh rock, with relatively unweathered quartz, feldspar, and biotite mineral grains in undisturbed positions but with rnicrofractures between and within the mineral grains. The feldspars have weathered to clay to some degree, and partially oxidized biotite grains cause orange mottles. The weathered rock appears solid but can be crumbled between one's fingers to produce primarily fine to very coarse sand and very fine gravel.
+In general, the crystalline rock at the Manzanita site is weathered to varying depths, commonly greater than 50 feet. The degree of weathering can vary with depth, but trends are difficult to distinguish. Interpretation based on drilling speeds indicates that several of the test holes and test wells may have encountered a transition zone between weathered rock and harder unweathered bedrock or fractured bedrock. At most test holes augured for this project, drilling speeds ranged from about 0.3 ft/min, or greater, to depths of 30 to 80 feet to less than 0.2 ft/min below those depths. The change in drilling speed seems to coincide with the degree of weathering and (or) the presence of ground water. This change took place at about 30 feet in test hole L-4, 30 feet in well 27P1 (coinciding with the water table), 37 feet in test hole L-l, 55 feet in well 27K1 (5 feet below the water table), 65 feet in well 34A1 (also 5 feet below the water table), and 80 feet in test hole L-2. Below the water table, the silt and clay produced by weathering and by the grinding action of the auger can form a somewhat gummy matrix that slows the auger. For those test holes in which the drilling speed changes at or immediately below the water table, it is not known whether the water table is coincidentally near the transition zone, the water table is perched on the less-permeable zone, or the change in speed is due partly to the gumminess of the wet cuttings. Drillers working in the Laguna Mountains area reported alternating decomposed granite and hard rock at some locations; this phenomenon may be due to spheroidal weathering (Ganus, 1974, p. 88).
+Hydrology of Potential Landfill Sites 51
+
+116 0 22'30"
+
+R6E 116°20'
+
+Base from U.S. Geological Survey 0
+
+Live Oak Springs, 1975 and
+
+h
+
+Sombrero Peak, 1975; 1:24,000 °
+
+1
+1 2 KILOMETERS CONTOUR INTERVAL 40 FEET National Geodetic Vertical Datum of 1929
+
+Figure 14. Geology of the Manzanita site and vicinity.
+
+2 MILES
+
+Geology from Moyle and Downing (1978)
+
+52 Methods for Selection and Hydrologic Description of Potential landfill Sites
+
+EXPLANATION FOR FIGURE 14 ALLUVIAL UNITS
+ALLUVIUM (Quaternary)-Sand, gravel, silt, and clay beneath small stream channels and alluvial valleys. Thickness ranges from a few feet to about 100 feet. Generally yields small to moderate quantities of water
+BEDROCK UNITSTONALITE (Cretaceous)-Yields small to
+moderate quantities of water where highly fractured or deeply weathered
+BASEMENT COMPLEX (Mesozoic)-Includes granodiorite and gabbro of Cretaceous age, quartz diorite of Jurassic age, and schist of Triassic age
+GEOLOGIC CONTACT
+LINEAMENT-
+Representative fracture pattern, mapped from aerial photographs
+\ Major lineament
+v FLOWING SPRING
+o- DRY SPRING
+
+The particle-size distribution of the weathered-rock samples, in contrast to that of alluvial samples, does not provide a clear indication of the hydrologic properties of the aquifer. The microfractures between grains and the weathering products, such as clay, have formed in place rather than as a result of having been abraded, sorted, and repacked during sediment transport and deposition. Sieving necessitates the breakup of the weathered rock into grains or groups of grains, and therefore does not preserve or reflect the hydraulic characteristics of the microfractures. The results of sieving of selected drive samples are shown in table 8. The samples have a fairly even distribution of particle sizes in the fine-sand to very-finegravel categories. The primary controlling factor in determining particle size probably is the original mineral-grain sizes in the crystalline rock. The fines ("pan" category, table 8) are partly the result of the crushing of mineral grains during sampling, especially for samples taken in the deeper or less-weathered zones, and partly the products of weathering.
+Drilling also provides a method of checking interpretations made from electrical-resistivity
+soundings. Interpretation of the electricalresistivity data at the site where test hole L-l later was drilled indicated weathered rock to a depth of 17 feet with less-weathered rock below. Samples taken during augering at this site confirmed the resistivity interpretation, showing a change to fresher appearing weathered rock at 16 feet. Below this contact, the degree of weathering varies rather than becoming consistently less with depth. The second vertical electrical sounding, at test hole L-2, indicated weathered rock to 350 feet, the maximum depth of the sounding, and a moreweathered zone (increased clay content) from 10 to 25 feet below land surface. The auger samples, however, mostly crumbled to sand and very fine to fine gravel-size particles, rather than clay, in the zone from 10 to 25 feet below land surface. The cause of the increase in conductivity above 25 feet, therefore, is unknown.
+
+Hydrology of Potential Landfill Sites 53
+
+i Table ^.--Particle-size distributions for selected drive samples, Manzanita site [Particle-size category: VC, very coarse; C, coarse; M, medium; F, fine; VF, very fine. Phi unit: phi= -Iog2 diameter (in millimeters), mm, millimeter. CPF, cumulative percent finer; IP, individual percent. P (in IP column), pan. Interval: w, below water table]
+
+Particlesize
+category
+
+Size (mm)
+
+Phi unit
+
+CPF IP CPF IP CPF
+
+IP CPF IP CPF IP
+
+i Well No. Interval (feet) ................
+
+Test hole L-1 12.7-14.7
+
+Test hole L-1 15.1-16.9
+
+16S/6E-27K1 w 59.7-59.9
+
+Test hole L-2 4.6-5.8
+
+Test hole L-2 9.8-10.9
+
+C 16
+
+-4
+
+100
+
+Gravel M 8
+
+-3
+
+100
+
+100
+
+97 3
+
+100
+
+F4
+
+-2
+
+96 4 98 2 93 4 100
+
+96 4
+
+VF 2
+
+-1
+
+81
+
+15 87 11
+
+77 16
+
+83 17 84 12
+
+VC 1
+
+0
+
+64
+
+17 67 20
+
+57 20
+
+64 19 65 19
+
+C 0.5
+
+1
+
+46
+
+18 46 21
+
+36 21
+
+45 19 46 19
+
+Sand M 0.25
+
+2
+
+29
+
+17 28 18
+
+19 17
+
+30 15 29 17
+
+iF VF Silt and
+
+0.125 0.0625
+
+3 4
+5
+
+16 13 16 12 10 9
+
+8 8 88 64
+
+8P 8P
+
+6P
+
+19 11 16 13
+11 8 8 8 IIP 8P
+
+clay
+
+Well No Interval (feet)
+
+C Gravel M
+F VF VC
+C Sand M
+F VF Silt and clay
+
+16 8 4 2 1 0.5 0.25 0.125 0.0625
+
+-4 -3 -2 -1
+0 1 2 3 4 5
+
+Test hole L-2 39-59
+100 99 1 93 6 80 13 58 22 37 21 23 14 13 10
+13P
+
+Tcjst hole L-2 69.3-69.7
+..
+100 99 1 91 8 78 13 61 17 43 18 28 15 18 10
+18P
+
+Tcjst hole L-2 81.4-81.9
+.. .. 100 97 3 83 14 69 14 56 13 40 16 26 14 16 10
+16P
+
+Test hole L-2 81.9-82.3
+.. .. 100 98 2 91 7 78 13 63 15 47 16 33 14 22 11
+22P
+
+SURFACE WATER
+The hydrologic system at the Manzanita site is different from the hydrologic system at the Vallecito site because of the differences in physical and geologic settings. Two primary factors that set apart the Manzanita site are the ridge location of the site and the weathered-rock/fractured-rock nature of the aquifer.
+Surface-water features are not prominent within the Manzanita site, because the site is on a surface-water divide. On the site, runoff in response to intense rainfall occurs primarily along the graded dirt roads and in the small saddles that cross the ridge. Small ephemeral streams drain both sides of the ridge, and larger ephemeral streams are present in the valleys to the east and west (fig. 14). Minor perennial surface flow, largely the result of discharge from springs, occurs for short reaches in channels in parts of sections 26 and 35 (including the wet area near McCain Ranch).
+GROUND WATER
+Recharge, Ground-Water Movement, and Discharge
+Determination of water levels or hydraulic head may help answer questions relevant to landfill siting, such as: (1) Are parts of the weathered rock saturated? (2) How thick is the unsaturated weathered rock? (3) How extensive is the saturated weathered rock? (4) What is the direction of ground-water movement to and from the site? (5) What is the nature of the hydraulic connection between the bedrock and weathered rock? and (6) Is water in the bedrock part of a regional flow system? Depth to water along the ridge at the Manzanita site, which is relevant information for the first four questions, was not known prior to augering of test holes and wells. A complete answer to the fifth question would have required water-level measurements and aquifer tests in wells that penetrate both weathered rock and bedrock and that have
+
+nearby observation wells in which one zone is isolated using packers. The last question, concerning regional flow, would have required more extensive study of water quality in addition to regional water-level data. Multiplezone water-level measurements and aquifer tests and detailed water-quality studies were beyond the scope of the study.
+Information is lacking about the locations and mechanisms of recharge and the flow paths that water takes through the aquifer system. Two mechanisms of recharge to the ground-water system are probable. First, precipitation infiltrates and percolates into the weathered rock, and some of that water probably continues downward to enter the unweathered rock through fractures. The details of hydraulic connection between the weathered rock and the fractured granitic rock below are not well understood. Second, rainfall or surface water may infiltrate directly into fractures in areas of exposed crystalline rock. In either mechanism, movement of water into the fractures may be impeded at some locations by the presence of clay in the fractures.
+Ground water in the area of the Manzanita site occurs both in the intergranular voids of the weathered crystalline rock and in fractures in the unweathered rock. Three of the test wells augered on or near the crest of the ridge (27K1, 27P1, and 34A1; fig. 13) encountered ground water in the weathered rock at depths ranging from 18 to 53 feet (table 9). The test wells, which have 2-inch-diameter casing and perforated intervals of 5 to 10 feet, yielded less than 1 gal/min. Water found in the weathered rock probably is recharged by infiltration of rainfall on the ridge. Other test holes on the ridge (fig. 13) were drilled either as deep as the length of auger allowed (about 80 feet) or until drilling speeds became slow, but the holes did not reach the water table. Therefore, the depth to water in the weathered rock on the ridge is variable with location and sometimes is greater than the depth to the top of the transition zone between weathered rock and unweathered fractured rock.
+
+Hydrology of Potential Landfill Sites 55
+
+Table 9.--Records of selected wells and springs, Manzanita site and vicinity
+Z
+I [ftS/cm, microsiemens per centimeter at 25 °C; °C, degrees Celsius; NA, not applicable; --, no data available]
+
+Well No.: The number given is assigned to the well or spring according to the method described in the section on the well- and spring-numbering system.
+
+Depth of welt Depths of wells reported by owners, drillers, or others given in whole feet; depths measured by the U.S. Geological Survey given in feet and tenths
+
+of a foot were measured below land-surface datum by the U.S. Geological Survey.
+
+Use of water: H, domestic; I, irrigation; P, public supply; R, recreation; S, stock; U, unused; Z, other.
+
+Measuring point: Distance above land-surface datum (Isd), in feet. The point from which water-level measurements are made by the U.S. Geological Survey is
+g described as follows: Alg, air-line gage; Bhc, bottom of hole in casing; Bpd, bottom of pump base; Hpb, hole in pump base; Lsd, land-surface datum; Tap, top
+1 of access pipe; Tc, top of casing; Tec, top of casing cover; Tf, top of flange; and Tpb, top of pump base. All U.S. Geological Survey measurements for an
+
+1X
+
+individual well are from the same measuring point unless otherwise indicated. Altitude of Isd and method of measurement: Altitude of the land-surface datum, in feet above sea level, at the well or spring. Method of measurement symbols
+
+are: A, altimeter; L, level (accuracy ± 0.1 ft); M, map (accuracy ± 20 ft).
+
+Water levet A, pumping; B, recent pumping; C, nearby pumping; D, nearby recent pumping; E, estimated; F, dry; K, flowing; R, reported.
+
+Remarks: CH, chemical analysis of water from well or spring given in table 11; CSGD, casing diameter; may include casing material; DLG, drillers log available;
+
+DM, drilling method--B, bored; C, cable-tool; D, dug; A, air rotary; DRL, name of driller, USGS, United States Geological Survey; OH, open- hole interval in
+
+feet, (casing installed in non-open-hole interval); PI, perforated interval, in feet below land surface; SI, source of data Moyle and Downing (1978, tables 4 and
+
+*)'
+
+3
+o
+^H
+Well
+t-
+No.
+^ *
+L
+
+Depth of well
+(feet)
+
+Use of water
+
+Measuring point
+De- Distance scrip- above tion Isd
+
+Altitude of Isd
+and method of
+measurement
+
+Water level
+(feet below Isd)
+
+Date measured
+
+Specific conduc-
+tance (nS/cm at
+25 *C)
+
+Tempera(tuCr)e
+
+Remarks
+
+is 16S/6E-25DS1
+
+2 16S/6E-25ES1
+
+# 16S/6E-25M1
+
+vS>
+
+16S/6E-26A1 16S/6E-26A2
+
+NA NA
+4 -
+250
+
+R R H --
+P
+
+16S/6E-26G1 205
+
+16S/6E-26G2
+16S/6E-26LS1 16S/6E-26Q1 16S/6E-26Q2 16S/6E-26Q3
+
+--
+NA -
+NA -
+
+H
+H
+S H H H
+
+NA NA NA NA ~~
+-Tec 0.3
+Tec .3
+Tec .4 NA NA -- -NA NA ~-
+
+M 4,000 M 4,000 M 4,100 M 4,075 M 4,100
+M 4,145
+M 4,105
+M 4,200 M 4,120 M 4,125 M 4,130
+
+-2.50 25.32 41.88 39.48
+52 21.23 20.66
+29.57 22.54 NA 3.00 1.70 4.40
+
+08/09/74 08/09/74 09/12/74 08/27/74 09/11/86 05/20/86 02/07/86 11/-/76 09/11/86 02/07/86
+09/11/86 05/20/86 08/27/74 08/01/74 08/01/74 08/09/74
+
+730 730 270 620
+341 216
+-201
+~ 230 235 220 180 215
+
+19.5 SI 19.5 SI 26 DM: D; CSGD: 60 inch; CH; SI 21 CSGD: 6 inch; CH; SI ~ DRL: Butler Drl. Co.; 17.5 DM: A; CSGD: 6-inch 17.5 steel; DLG; OH: 28-
+250 -- DRL: Fain Drl./Pump Co.; 17.5 DM: A; CSGD: 6-inch steel;CH; DLG;
+OH: 40-205 ._ CSGD: 6-inch steel 18 18 SI 22.5 DM: D; 72-inch hole; SI 21.5 DM: D; 240-inch hole; SI 24 DM: D; 96-inch hole; SI
+
+.1
+
+o U
+
+Remark
+
+..-
+82
+
+°* i u
+
+n>
+o ^S CQ (/3
+Q 2aU
+So
+
+r-l
+co
+
+0
+0 o o oo
+r-l CO rC Tf ^ ^
+i .a
+- H8 <.o H8
+
+^ ^ 4J
+
+8
+Oo
+n> 6 £+
+03 H
+
+>o
+S
+Z
+
+C^5 r-l
+O^5
+CN Ni ^i CS
+W
+
+s ^^
+
+S
+
+oo
+.1 J3 . ^
+I3
+\O
+c^
+*
+»r4O CS»CCOS SCS
+vo^OVOVOVO^OO^O^O^O
+oooooooooooooooooooo
+
+vo t*»CO >OCr-Ol ^K f^ f^ ^K ^^ W*l ^F cs«t r-l r-l r-l r-l r-l r-l
+Tfr"
+
+Tf Tf *" Tfr~ Tt" Tt"
+
+Tf
+
+Tf
+
+,<,,,,
+
+NN cs
+
+ro
+
+<Q
+
+g
+
+CO CO CO CO CO CO CO CO CO CO CO CO
+
+w WWWWWW W §
+
+8 s %C/3 Cv/^3Cv/^3Cv/^3Cv/^3vC/^3vC/^3 r-l r-l T 1 r-l r-l r-l
+
+Hydrology of Potential Landfill Sites 57
+
+43
+Remark
+
+-S
+
+01>*10> U
+H*
+
+OT3
+T(DD
+
+u
+
+(D
+
+-2 S
+
+O U
+
+QI
+a
+
+*4-> ^n /~^
+93 M
+
+Si^iS
+
+r-j ' r-i
+»o oo fO
+
+oo od|
+' o*o
+
+oo Q Q oo oo Q Q oo~ ooosod;
+
+<*l "I
+Tf Tf
+SS
+
+^t
+OO OO
+
+W
+
+ovoo
+
+mo\r-
+
+"t Tf SS
+
+oTf^" oTf^"oT^f"rT-f^" oCO^" oTf^" cTf^"oCO^" oCO^" oTf^'T^f'Trf^" <TNf"^
+SSSS SSSS S SSS S
+
+.c1
+1
+rS2
+
+oo
+
+oo oo oo oo a °° N
+
+N
+
+i ^o oo vo
+
+0P0QP(NQ
+
+ON
+
+COI COI COI COI
+
+«I
+
+<:
+I
+
+I
+
+I
+
+O O «H III
+
+SU\o U\o
+
+WW
+
+PL) PL) PL) PL) p.) PL) PL) PL)
+VOVOVOVO VOVOVOVO
+
+Wvo Wvo W^O
+
+2 IH
+
+oooooooo
+^O ^O ^O ^O
+
+oooooooo
+^O f"- f~- t~*
+
+00
+
+00 OO 00
+
+00
+
+58 Methods for Selection and Hydrologic Description of Potential Landfill Sites
+
+.ao
+
+r-l
+
+00
+
+J3 J3 Q
+
+.ao
+
+.9.90
+8
+
+PP U
+cog
+
+00 00 00 00 ooUUP
+
+.aO
+vO
+1P
+Os
+P«'
+'"i '"i /^ x
+V) 00 P P
+
+o -y
+
+J=l Q
+
+S
+.aai
+
+-S
+.?ai
+
+S
+.a
+
+rH rH
+
+P ^P
+
+PUP
+
+aOH 00
+
+oi
+
+O\
+
+! 99
+
+<u
+
+Io ?????
+
+U
+
+P CS U
+
+<N CS rH
+
+rH rH ^ rH
+
+00 00 00 00 ^ 00 i 00 O O O CD O O
+
+oin &
+
+« P4
+
+»-» S5
+
+a aO 4J
+
+w (U 'i i 02
+
+ti ti Q ^j
+
+>cn\ pc3 orH Q<o or- o'
+C^r-^ C^r-^O^ £5
+
+^ta 8 OU
+
+SSSSS
+
+SSS
+
+I § a,
+C
+
+g, , .
+
+ii iii
+
+PPPPP^PPP
+
+ffiffiffi
+
+P
+
+PC PC PC
+
+a I ^Q
+
+I
+
+rH
+
+00 00
+
+SofO rH
+
+<22S, ^rH r-i OWfe
+
+rH
+<s
+
+ON rHrHrHrHrHrHrHrHrH
+
+rH rH rH
+
+vO vo vO vo vo
+
+vO
+
+Wvo
+
+W
+
+[d
+VO
+
+OO OO OO OO OO
+
+^
+
+Hydrology of Potential Landfill Sites 59
+
+The extent and nature of the ground-water system in the fractured crystalline rock are not well known. The system likely is regional, as indicated by the broad extent of the fracturing seen on aerial photographs. Most of the existing wells from which water-level measurements were obtained at the Manzanita site are drilled through the weathered rock and into the fractured unweathered rock to total depths of 200 to 500 feet (table 9). Most wells are cased to the bottom of the 50- to 70-foot-thick weathered-rock zone and are uncased below. The bottom 20 feet of casing generally is perforated. Unweathered rock below the weathered granitic rock generally is described in drillers' logs as thin zones of fractured (jointed) rock, most commonly less than 1 to 10 feet in thickness, alternating with much thicker (20 to 80 feet) zones of solid unfractured rock. Drillers also reported that most of the yield of the wells seems to be produced from the weathered zone. Some yield also may be from the top part of the unweathered zone.
+Water-level altitudes and depth to water in the Manzanita site and vicinity are shown in figure 15. The highest water levels were in wells located on the highest parts of the undulating ridge. Ground water generally moves downgradient in westward and eastward directions from the ridge. Springs and wells are located downgradient from the Manzanita site. Some water also may move from the north and south ends of the ridge toward the center of the site. An alternative interpretation is that the ground-water levels in wells along the axis of the ridge may represent isolated perched zones that are not in hydraulic connection with one another. Water-level contours were not drawn because of the sparse distribution of data and the steepness of the water table. Additional wells would improve definition of the water table and the direction of movement of ground water within and near the study site.
+Water-level altitudes south of the study site near Interstate 8 also are shown in figure 15.
+
+The water-level altitudes to the south generally are lower than those at the site.
+Water levels were measured periodically during May-September 1986. Generally, September water levels were about 1 to 5 feet lower than May water levels (table 9). The largest decline was 8.6 feet in well 27N1. Two test wells completed in weathered rock on the ridge had water-level declines of 1.4 feet (27K1) and 2.8 feet (27P1), and a third well (34A1) had an increase of 0.4 foot. The general decline in water levels probably represents seasonal fluctuation.
+Ground water discharges as evapotranspiration in the valleys and as flow from springs on the eastern and western sides of the ridge. Again, the role of shallow circulation in the weathered rock as compared with deeper circulation in the fractured rock is not clear. Evapotranspiration probably takes place from the shallow part of the system. On the other hand, many of the springs seem to be fed by fractures, as is indicated by their location along major fracture-related lineaments. Two relevant questions are whether the weatheredrock ground-water system of the ridge is continuous to the west and east, and whether ground water has significant lateral movement either in the weathered rock or in the fractured rock.
+EXPLANATION FOR FIGURE 15
+WELL
+WELL DATA-
+Water-level altitude, in feet above sea level
+Date of measurement
+Depth to water, in feet below land surface
+
+60 Methods for Selection and Hydrologic Description of Potential Landfill Sites
+
+116°22'30"
+
+R6E
+
+116°20 >
+
+> K£:>wcffc
+
+ITUPY / £
+J>rri-jjN D 1 ^. ^_ Ip^
+
+< ': ., M66- j
+
+^^ =7C ' -64,....i\
+
+^ - r,
+
+-- 4-'
+
+'\
+*r?p(SEPT 074) <V
+
+^:/^T"J^""^k--f'3.r-,ffj-7r^ff-^k^;-'
+\NX (/oScErPiTT t49n7- %
+
+Base from U.S. Geological Survey 0 Live Oak Springs, 1975 and Sombrero Peak, 1975; 1:24,000 °
+
+1 2 KILOMETERS
+CONTOUR INTERVAL 40 FEET National Geodetic Vertical Datum of 1929
+
+Figure 15. Water-level altitude and depth to water, Manzanita site and vicinity.
+
+Hydrology of Potential Landfill Sites 61
+
+Aquifer Characteristics
+To provide an estimate of the hydraulic conductivity of the weathered-rock part of the system, slug and bail displacement tests were done using three observation wells. The results, shown in table 10, indicate that hydraulic conductivities for the screened zones generally are one to two orders of magnitude lower than the estimates (table 4) for the Vallecito Valley area. The hydraulic conductivities determined from the slug tests are higher than those from the bail tests; the difference is greatest for well 34A1. The accuracy of the tests is unknown; the small volumes of water displaced may have stressed mainly the material that filled in around the screen in the drill hole rather than the undisturbed formation. The range in values for the displacement test is two orders of magnitude, which generally is a common result for aquifer tests.
+Well 16S/6E-34R1, a 500-foot-deep well on the ridge immediately south of the Manzanita study area, was used for a recovery test after being pumped for 240 minutes at approximately 13.6 gal/min. The construction of this well is different from that of the other test wells, which are less than 75 feet deep. Casing in well 16S/6E-34R1 is perforated primarily below the weathered rock. Analysis of the
+
+Table W.--Estimates of hydraulic conductivity for the perforated interval of test wells, Manzanita site
+[Hydraulic-conductivity values are in feet per day. , no data available]
+
+Well No.
+
+Thickness of
+perforated interval, in feet
+
+Displacement test Slug Bail Aver-
+age
+
+Recovery
+test
+
+16S/6E-27K1 16S/6E-27P1 16S/6E-34A1 16S/6E-34R1
+
+10 8 5 436
+
+0.61 0.14 0.375 __ .43 .11 .27 1.24 .015 .63 ~
+0.002
+
+recovery test indicated a hydraulic conductivity of 0.002 ft/d for the perforated interval. This figure was obtained by dividing the calculated transmissivity by the length of perforated casing that penetrates both fractured (low permeability) and unfractured (very low permeability) bedrock. Thus, the figure represents an average value of hydraulic conductivity and is small.
+Water Quality
+Water samples were collected from three wells at or near the Manzanita site for chemical analysis. In addition, analyses were available for 10 other wells. The results of analyses for major anions and cations are shown in table 11, and the results of a more detailed analysis of water from three selected wells are shown in table 12. Specific conductance ranges from 180 to 580 /xS/cm, and the water quality generally is suitable for most uses. The water meets U.S. Environmental Protection Agency standards for drinking water, with the exception that dissolved iron and dissolved manganese in observation well 16S/6E-27K1 exceeded secondary maximum contaminant levels (recommended primarily for esthetic and taste reasons) (table 12). Well 16S/6E26A1 (table 11) also had a high concentration of iron.
+Chemical quality of water from selected wells is shown in figure 16. The relative sizes of the water-quality diagrams show the differences in concentrations of dissolved solids. The similar shape of most of the diagrams indicates that the relative abundance of major anions and cations does not vary substantially with location or well depth. The predominant cation is sodium and the predominant anion is bicnrbonate-with the exception that calcium is the predominant cation in water from well 16S/6E-27N1. Sodium calcium bicarbonate composition is typical for water extracted from tonalites (the predominant type of granitic rock in the area of the Manzanita site) (California Department of Water Resources, 1967, p. 89.)
+
+62 Methods for Selection and Hydrologic Description of Potential Landfill Sites
+
+Table 11. Chemical analyses of water from wells, Manzanita site and vicinity
+Well No. : The number given is assigned to the well according to the method described in the section on well- and spring-numbering system. Date of sample: A (in parentheses, following the date) indicates the date the sample was analyzed, rather than the date it was collected. Total depth of well: Depths given in whole feet were reported by owners, drillers, or others. Depths given in feet and tenths of a foot were measured by the U.S. Geological Survey and are below land-
+surface datum. Dissolved iron: <, concentration is less than the detection limit. The detection limit is the value that follows this symbol. Bicarbonate and Percent sodium: Data preceded by a were calculated by the author of this report. Source of analysts and (or) reference: Analysis EE. Environmental Engineering Laboratory; USGS, U.S. Geological Survey; Reference 1. Moyle and Downing (1978, table 9).
+
+Property or
+constituent
+
+Units
+
+16S/ 6E25M1
+
+16S/ 16S/ 6E- 6E26A1 26G1
+
+16S/ 16S/ 16S/ 16S/ 16S/ 16S/ 6E- 6E- 6E- 6E- 6E- 6E26G1 27K1 27N1 34D1 34K1 34L1
+
+16S/ 16S/ 6E- 6E34R1 35B2
+
+17S/ 6E12M1
+
+17S/ 6E12M2
+
+17S/ 6E12M4
+
+Date of sample ......
+
+Total depth of well Specific conductance PH Temperature Hardness as CaCO3
+(Ca, Mg) Noncarbonate
+hardness Calcium, dissolved Magnesium, dissolved Sodium, dissolved Percent sodium Potassium, dissolved Bicarbonate
+Carbonate Sulfate, dissolved
+Chloride, dissolved Fluoride, dissolved Silica, dissolved Solids, dissolved,
+residue
+Solids, dissolved, sum of constituents
+Nitrate, total
+Nitrite plus nitrate, dissolved
+Boron, dissolved Iron, dissolved ' Source of analysis and
+(or) reference
+
+(iS/cm
+°C mg/L
+mg/L
+mg/L as Ca mg/L as Mg mg/L as Na
+mg/L as K mg/L as HCO 3 mg/L as CO3 mg/L as SO ^ mg/L as Cl mg/L as Fl mg/L as SiO 2 mg/L at 180 °C
+mg/L
+mg/L as NO 3 mg/L as N
+Mg/L as B /tg/L as Fe
+
+9/12/74 3/-/T2
+4 270 6.9 6.9 26.0 62 260
+0
+16 77 5.4 17 25 120 45 a50 2.6 _ 94
+5.8 120 20 83 0.3 0.4 48
+600
+179
+5.0 2.2
+20 180 2,250 11
+
+3/19/86 5/14/86 6/25/86
+
+205 205 201 6.7 17.5
+
+64.5
+215 6.7 16.5
+
+12 3.1 20 a49 1.3 a54
+12 0.4 21 130
+3.7 30
+12 USGS
+
+~
+13 3.1 20 a48 1.3
+~ 3.9 13 0.3 41
+120
+0.14
+20 76 USGS
+
+15 2.2 44 a66 2 a88
+22 10 0.7 71
+210
+12
+30 1,500 USGS
+
+11/19/ 80(A) 300 440 6.8
+152
+-
+41 12 36 a34 2.8 145 0 15 43 0.42 10
+260
+19 4.4
+<10 EE
+
+11/19/ 80(A) 200 220 6.7
+
+11/19/ 80(A) 250 220
+6.6
+
+59 53 -
+
+17 16 4.0 3.4 28 28 a57 a52 25 2.6 77 76 00 4.1 4.5 21 23 0.47 0.43 9.0 8.5
+~
+
+148 156
+
+10 16 2.3 3.6
+<10 <10 EE EE
+
+12/19/74 5/14/86
+41.6 500 255 557 7.7 15 20.0 14.5 61
+0
+17 17 4.4 2.3 24 81 46 a76 1.2 2 82 a!39
+5.3 12 23 76 0.3 0.2 48 29 -
+183 290
+__ 4.3 3.7
+40 60 20 35 1 USGS
+
+12/23 80(A) 250 250 7.1
+65
+20 3.6 25 a45 1.9 85
+5.8 34 0.18 17
+96
+12 2.6
+60 EE
+
+4/13/76 9/14/74 8/14/74
+
+119 385 180 230 7.0 5.9 6.0 13.5 22.5 26.5 88 37 51
+17 0 0
+24 10 14 6.8 3.0 3.9 37 20 24 47 52 50 1.9 1.7 1.0 87 66 91 0~ 15 5.3 5.2 28 16 17 0.3 0.3 0.4 40 26 45
+~
+
+267 116 163
+-_ 16 0.08 1.8
+
+150 4
+
+3
+
+60 330 60
+
+1 11
+
+Table 12.--Detailed chemical analyses of water from selected wells, Manzanita site and vicinity
+Property or constituent: Organic compounds are analyzed by purging and trapping; the value listed is the total recoverable for each compound (Feltz and others, 1985).
+Units: NTU, nephelometer turbidity units; /jS/cm, microsiemens per centimeter; standard units, negative logarithm of hydrogen concentration; mg/L, milligrams per liter; pgfL, micrograms per liter.
+Value or concentration: <, concentration is less than the detection limit. The detection limit is the value that follows this symbol.
+EPA maximum level: U.S. Environmental Protection Agency maximum level for drinking water. MCL, maximum contaminant level; SMCL, secondary maximum contaminant level; PMCL, proposed maximum contaminant level; PRMCL, proposed recommended maximum contaminant level. Number after abbreviation indicates source of standard: 1, U.S. Environmental Protection Agency (1976); 2, U.S. Environmental Protection Agency (1979); 3, U.S. Environmental Protection Agency (1985); 4, U.S. Environmental Protection Agency (1986).
+
+Property or
+constituent
+
+Units
+
+Value or concentration for well:
+16S/6E- 16S/6E- 16S/6E- 16S/6E26G1 26G1 27K1 34R1
+
+EPA maximum level
+
+Date collected ...........
+
+3/19/86 5/14/86 6/25/86 5/14/86
+
+Specific Conductance (field) Specific Conductance (lab) pH (field) pH (lab) Water temperature Turbidity Calcium, dissolved Magnesium, dissolved Sodium, dissolved Potassium, dissolved Alkalinity (field) Alkalinity (lab)
+Sulfate, dissolved Chloride Fluoride, dissolved
+Silica, dissolved Solids, dissolved, sum of
+constituents Nitrogen, NO2 +NO3,
+dissolved Nitrogen, ammonia, dissolved Nitrogen, ammonia + organic,
+dissolved Phosphorus, dissolved Phosphorus, orthophosphate,
+dissolved Barium, dissolved Beryllium, dissolved Boron, dissolved Cadmium, dissolved Cobalt, dissolved Mg/L as Co Copper, dissolved Iron, dissolved Lead, dissolved
+
+MS/cm MS/cm Standard units Standard units Degrees Celsius NTU mg/L as Ca mg/L as Mg mg/L as Na mg/L as K mg/L as CaCO3 mg/L as CaCO3 mg/L as SO4 mg/L as Cl mg/L as F mg/L as Si02 mg/L
+
+201 190
+6.7 7.3 ~
+0.3 12 3.1 20 1.3 44
+56 3.4 12 0.4 44 130
+
+mg/L as N
+
+3.7
+
+mg/L as N mg/L as N
+
+<0.01 0.5
+
+mg/L as P mg/L as P
+
+0.03 0.20
+
+Mg/L as Ba Mg/L as Be Mg/L as B Mg/L as Cd
+Mg/L as Cu Mg/L as Fe Mg/L as Pb
+
+25 <0.5
+30 <1 <3 <10
+21 <10
+
+200 ~ 7.3 17.5 1 13 3.1 20 1.3 ~ 58 3.9 13 0.3 41
+120
+0.14
+0.03 0.3
+0.03 0.03
+29 <0.5 20 <1 <3 <10 76 <10
+
+251 286
+6.6 6.7 16.5 22 15 2.2 44 2 72 69 22 10 0.7 71 210
+12
+0.09 0.7
+0.09 0.08
+150 <0.5 30 <1 <3 20 1,500 <10
+
+557 580
+7.5 7.4 15 1.2 17 2.3 81 2 114 123 12 76 0.2 29 290
+3.7
+0.04 0.6
+0.05 0.02
+140 <0.5 60 <1 <3 10 35 10
+
+250 mg/L SMCL 2 250 mg/L SMCL 2 122 mg/L MCL 1 500 Mg/L SMCL 4 10 mg/L MCL 4
+1,000 Mg/L SMCL 4
+10 Mg/L MCL 4 1,000 Mg/L SMCL 2 300 Mg/L SMCL 4 50 Mg/L SMCL 4
+
+See footnote at end of table.
+
+64 Methods for Selection and Hydrologic Description of Potential landfill Sites
+
+Table 12.--Detailed chemical analyses of water from selected wells, Manzanita site and vicinityContinued
+
+Property or
+constituent
+
+Units
+
+Value or concentration ; for well: 16S/6E- 16S/6E- 16S/6E- 16S/6E26G1 26G1 27K1 34R1
+
+EPA maximum level
+
+Date collected .......... .............
+
+Lithium, dissolved Manganese, dissolved Molybdenum, dissolved Strontium, dissolved Vanadium, dissolved Zinc, dissolved Dichlorobromomethane Carbon tetrachloride 1,2-Dichloroethane Bromoform Chlorodibromomethane Chloroform Toluene Benzene Chlorobenzene Chloroethane Ethylbenzene Methyl bromide Methyl chloride Methylene chloride Tetra chloroehylene Trichlorofluoromethane 1,1-Dichloroethane 1,1-Dichlorethylene 1,1, 1-Trichloroethane 1,1,2-Chloroethane 1,1,2,2-Tetrachloroethane 1,2-Dichlorobenzene 1,2-Dichloropropane 1,2-Transdichloroethylene 1,3-Dichloropropane 1,3-Dichlorobenzene 1,4-Dichlorobenzene 2-Chloroethyl vinyl ether Trans 1,3-Dichloropropene Dichlorodifluoromethane Cis- 1,3-Dichloropropene Vinyl chloride Trichloroethylene
+
+/ig/L as Li /ig/L as Mn /tg/L as Mo /tg/L as SR /tg/L as V /tg/L as Zn /ig/L /tg/L /tg/L
+Mg/L /tg/L /tg/L /tg/L /tg/L /tg/L /tg/L
+Mg/L /tg/L /tg/L /tg/L
+Mg/L /tg/L /tg/L
+/tg/L /tg/L
+Mg/L Mg/L /tg/L /tg/L /tg/L /ig/L
+/tg/L /ig/L
+/tg/L /tg/L /tg/L
+Mg/L Mg/L /tg/L
+
+3/19/86 5/14/86 6/25/86 5/14/86
+
+39 37
+4 11 < 10 <10
+150 150 <6 <6
+180 890 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3
+<3 <3 <3 <3
+<3 <3
+<3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 < 3 <3
+<3 <3 <3 <3
+<3 <3 <3 <3 <3 <3
+<3 <3 <3 <3 <3 <3
+
+21 17
+460 6 <10 <10
+170 260 <6 <6
+230 2,600 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3
+<3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3
+<3 <3
+<3 <3
+<3 <3
+<3 <3 <3 <3 <3 <3 <3 <3
+
+50 /ig/L SMCL 4
+
+5,000 /ig/L SMCL 2
+
+5 /ig/L PMCL 5 /ig/L PMCL
+
+3 3
+
+5 /ig/L PMCL 3 680 /ig/L PMCL 3 5 /ig/L PMCL 3 200 /ig/L PMCL
+
+1 /ig/L PMCL 5 /ig/L PMCL
+
+3 3
+
+1Maximum level is adjusted according to mean maximum daily air temperature (U.S. Environmental Protection Agency,
+1976). For 53.8 °F at Manzanita Indian Reservation (National Oceanic and Atmospheric Administration, 1984), the level is 2.2 mg/L.
+
+Evaluation of Methods For Selection and Description of Potential Landfill Sites 65
+
+1160 22'30"
+
+R6E 116° 20'
+T I <--OV-N'' 1986;; A~\N I fr ^Ax .-£,:">
+
+Base from U.S. Geological Survey 0 Live Oak Springs, 1975 and
+Sombrero Peak, 1975; 1:24,000 °
+
+1 2 KILOMETERS
+CONTOUR INTERVAL 40 FEET National Geodetic Vertical Datum of 1929
+
+Figure 16. Chemical quality of water from selected wells, Manzanita site and vicinity.
+
+66 Methods for Selection and Hydrologic Description of Potential Landfill Sites
+
+EVALUATION OF METHODS FOR SELECTION AND DESCRIPTION OF POTENTIAL LANDFILL SITES
+Phase 1 Methods
+The following comments and evaluations can be made of methods used during the phase 1 reconnaissance-level appraisal of potential landfill sites:
+1. U.S. Geological Survey 7.5-minute topographic maps are useful in the preselection of potential sites and in the compilation of preliminary information for the phase 1 sites. The information obtained from maps includes site dimensions, slope, altitudes, surface-drainage patterns, and cultural features. Information from topographic maps needs to be supplemented by field observations. Landsat high-altitude images did not provide enough detail to be useful in selecting or appraising potential sites. Generally, the lineaments and geologic features visible on the Landsat images are large-scale features that have been mapped previously. Low-altitude photographs are especially useful for observing geologic, structural, surface-water, and cultural features.
+
+EXPLANATION FOR FIGURE 16
+12M1 WELL AND NUMBER
+WATER-QUALITY DIAGRAM (From Stiff, 1951)-Differences in configuration reflect differences in chemical character. The area of the diagram is an indication of dissolved-solids concentration. The larger the area of the diagram, the greater the dissolved solids
+
+/YEAR
+ANIONS
+
+Sodium
+
+19767
+
+Chloride
+
+Calcium ^*^<^S, ^^.^J> Bicarbonate
+
+Magnesium
+
+~"~^
+
+Sulfate
+
+11l
+321
+
+11l
+0123
+
+MILLIEQUIVALENTS PER LITER
+
+2. Field visits, compilation of existing data, and limited collection of field data are valuable methods for preliminary evaluation of phase 1 sites. The field visits primarily involve observations of geomorphology, occurrence of bedrock outcrops, surface-water features, and evidence of shallow ground water. Existing data are useful-especially well records, surface and borehole geophysics, climate records, surface-water records, geologic maps, and seismic studies. Unfortunately, existing data commonly are sparse and nonuniform in distribution. In particular, water-level and surface-water data commonly are available (at best) only for areas adjacent to a site. Some data, such as drillers' logs, can be difficult to interpret. The field data that are collected consist primarily of water-level measurements at existing wells and vertical electrical soundings.
+3. Vertical electrical soundings have the advantage of providing a quick and relatively effective method of collecting subsurface lithologic information, such as approximate thickness of alluvium or residuum, without drilling test wells. Doing electrical-resistivity soundings can be less time consuming and less expensive than drilling test holes, especially when great depths and numerous sites are involved during the reconnaissance phase. (However, during phase 2, shallow drilling and drive sampling with a hollowstem auger rig was nearly as quick as doing resistivity soundings.) In this study, vertical electrical soundings were particularly useful in determining the contact between residuum or alluvium and the partially weathered or unweathered bedrock below. Interpretation of the soundings was less successful in determining depth to water. Seismic refraction geophysics also can be a useful reconnaissance method for determining bedrock contacts, although the method was not used in this study.
+The disadvantages of the resistivity soundings in comparison with drilling and sampling are: (a) Data collected are indirect rather than in the form of actual lithologic
+
+Evaluation of Methods For Selection and Description of Potential Landfill Sites 67
+
+samples; (b) manipulation and interpretation of the data require adjustment when assumptions, such as the presence of horizontal isotropic layers, are not met; (c) the solutions are nonunique, and correct interpretation of the data requires some independent knowledge of the hydrogeologic setting; (d) the geoelectric layers detected by a resistivity sounding may not coincide with, or reflect, lithologic changes; and (e) some changes in lithology may not be electrically distinct enough to be detected. Despite these potential disadvantages, the method can be useful in landfill-siting studies.
+4. The summary sheets and accompanying maps are an effective method of presenting preliminary geohydrologic information on the potential landfill sites. A standardized format, such as is used on the summary sheets, is helpful in presenting the compiled information in a concise and usable manner. A subsequent field trip allows decisionmakers to view the sites in person and to have questions answered by the hydrologist.
+Phase 2 Methods
+Evaluations of selected methods used during the more-detailed phase 2 appraisals of two geohydrologically distinct sites are given below:
+1. Observation of landforms and geologic features is a useful tool in describing the geohydrologic system. The observations, in conjunction with subsurface data and geologic maps, allow the application of hydrogeologic information obtained from point data to be applied to a larger area through interpretation and extrapolation.
+2. Subsurface lithologic information was provided by augering and split-spoon sampling of test holes. The data obtained from drilling are advantageous because they are in the form of actual samples rather than the product of interpretation. These data are valuable both for the direct subsurface information obtained and as a tool for
+
+evaluation and calibration of geophysical methods such as vertical electrical sounding. The augering was relatively quick, and worked best in alluvium lacking large cobbles and boulders. Augering also worked well and drilling times generally were fast in residuum or weathered rock at the crystalline-rock site. However, augering does not allow easy testing of the transition zone or of fractured rock because of the hardness of the rock. Drilling speed may be used as a qualitative indication of degree of weathering or of presence of ground water at weathered-rock sites. Most of the disadvantages of augering-including limited depth ofpenetration, difficulty with boulders in alluvium or hard zones in weathered rock, and occasional difficulty in installing casing-can be overcome with a rotary rig. In some situations, such as deep exploration over a large area is needed, geophysical methods would be more practical than drilling.
+The split-spoon sampler worked best when hammered rather than pushed. Particles larger than 1.5 inches cannot be collected in the sampler and therefore must be observed in the cuttings. The samples collected in weathered rock show the general degree of weathering but are difficult to interpret hydrologically. The sampler could not provide full-length or uncrumbled samples in the harder zones of weathered rock. The grain-size distributions of the splitspoon samples were described in the field; in addition, selected samples were analyzed by sieving. For the alluvial site, the results (percentage of fines) from the field descriptions agreed well with the results from the corresponding sieved samples. Sieving and particle-size analysis of the samples at weathered-rock sites is less useful for hydrologic interpretations than at alluvial sites.
+3. Aerial photographs, field inspection, and topographic maps all were valuable in a non-quantitative geomorphic analysis used to describe surface-water features that might have an effect on the potential landfill sites. Methods for quantitative analysis exist, but
+
+68 Methods for Selection and Hydrologic Description of Potential Landfill Sites
+
+such analysis would require a separate study to collect and analyze the appropriate data.
+4. Aquifer tests consisted of recovery tests and slug/bail tests in 2-inch-diameter test wells at the Vallecito Valley site, and one recovery test in a production well in addition to slug/bail tests in three test wells at the Manzanita site. Of these methods, the recovery test probably gave the most accurate results; however, the results are better suited for comparison of relative differences in hydraulic conductivity at the various well locations rather than for consideration as precise values (such as might be obtained from tests involving observation wells and zone-isolation packers). The results of the slug/bail tests may be biased, to some degree, toward testing the fill around the well screen in the borehole, as opposed to undisturbed aquifer material, owing to the small volume (0.3 gal) of water displaced during each test. At the Vallecito Valley site, the hydraulic conductivities estimated from the slug/bail tests were higher than the recovery-test values. At both locations, the values from the slug tests were higher than those from the bail tests. For all the aquifer tests, a pressure transducer was able to measure small changes in water level over short time intervals (0.3 foot per 0.08 minute, for exampie).
+5. Historical and current water-quality data provide information on background water quality in the site areas. The data also are useful, in conjunction with geologic information, for interpretation of the ground-water flow system. Such interpretation can include qualitative assessment of horizontal and vertical components of flow, sources of recharge, and flow between basins.
+NEED FOR ADDITIONAL DATA
+The work done in phase 2 of this study, the collection of data and the detailed description and evaluation of the Vallecito Valley and Manzanita sites, pointed out the need for additional data. In most cases the need involves
+
+methods of data collection and analysis that were beyond the scope of the study. The additional data, discussed below, primarily would be useful for the successively more detailed site studies that generally would be done further along in the site-selection and permitapplication processes.
+1. The amount of flooding at a potential site caused by a flood with a recurrence interval of 100 years is of interest to landfill planners. The size and effects of a flood for the Vallecito Valley could be estimated using several methods. Regional data compiled by Waananen and Crippen (1977) could be used by entering the drainage-basin area for the Vallecito site in an equation based on regression of data from gaged drainage basins in the south Lahontan-Colorado Desert region of California. Another method of estimating the 100-year flood is to use the value determined by frequency analysis of a nearby gaged basin and adjust the value for differences in drainage area using one of the equations developed for this purpose (Waananen and Crippen, 1977, p. 4). Other methods of estimating peak flow-such as the channel-geometry, basin-characteristics, index-flood, Soil Conservation Service, and rational methods-are outlined by Potyondy (1979). Computer modeling techniques for basin surface-water flow are discussed by Hromadka and others (1987). Of additional interest would be hydraulic and geomorphic study to estimate how much of the site would be flooded or damaged by a 100-year flood.
+2. Additional data could be collected concerning aquifer properties and ground-water movement at the Vallecito Valley and Manzanita sites. Installation of several additional test wells near the upgradient (southwestern and southern) sides of the Vallecito Valley site would allow better definition of the depth to water and of water-table gradients. The depth to water was greater than expected (more than 90 feet) in these areas and was not reachable with the auger rig. More complete investigation of groundwater hydraulics at the two sites would be aided by installation of monitoring wells
+
+Evaluation of Methods For Selection and Description of Potential Landfill Sites 69
+
+distributed areally within and around the site and having perforations at a variety of depths below the water table; this would allow determination of the vertical components of flow in addition to improved definition of horizontal movements. Such data would be especially useful at the Manzanita site, where the depth to water is variable over short distances and the dynamics of the weathered-rock/fractured-bedrock ground-water system are not well understood. As a supplement to the types of aquifer test performed in phase 2 at the Vallecito Valley and Manzanita sites, tests could be conducted using larger diameter and deeper wells so that a larger volume of aquifer around the pumped well could be tested. The measurement of water levels in nearby observation wells during the tests would allow more accurate determination of hydraulic conductivities and storage properties, both areally and with depth. Some additional wells would have to be constructed for these tests.
+At the Manzanita site, the hydraulic and physical characteristics of both the weathered-rock and the fractured-rock systems are not well known. Denser coverage of the site by geophysical surveys and additional test holes would yield more information on the extent and continuity of the weathered-rock aquifer. Geophysical borehole logs-such as resistivity, neutron, acoustic televiewers, and caliper logs-could be run in the deep wells to determine the degree and orientation of fracturing. Aquifer tests, in which the test well is pumped and water-level responses are measured in observation wells that tap either the weathered rock or the fractured rock, would be useful in determining the transmissiviry, permeability, and storage of both the shallow and deep parts of the system. Other aquifer tests, in which packers in both pumped wells and observation wells are used to isolate selected pumped zones and observation zones in the fractured rocks and shallower weathered rock, could help determine the hydraulic connection between the weathered rock and the fractured rock.
+
+In-place vertical permeability of "soils" (unsaturated-zone materials) was not tested.
+3. Additional hydrologic information could be obtained through further ground-water sampling and chemical analysis. In the Manzanita area, analyses of nitrogen nutrients, boron, and stable isotopes in water from a variety of depths might add to the knowledge of ground-water movement and hydraulic connection between weathered rock and fractured rock. Isotope analyses (tritium, deuterium/protium, oxygen- 18/oxygen-16, carbon-14) of water from shallow and deep wells and from springs might help give a general indication of rates of groundwater movement and help determine if the fractured rock is a reservoir that is recharged only locally or if it is part of a regional flow system. For example, tritium analyses to determine relative ages of water in samples taken from wells and springs and perhaps a study of the relation (and lag time) between precipitation and the change in flow rate of springs might improve understanding of the circulation of water through the ground-water system. Similar isotope analyses probably would help determine locations of interbasin flow in the Vallecito Valley area. Knowledge of the circulation of ground water in the shallow and deep systems at the Manzanita site might also be aided by a study of the relation between precipitation and the change in flow rate of springs.
+SUMMARY AND CONCLUSIONS
+The primary objective of this study was to develop and test methods for appraisal of potential landfill sites using southeastern San Diego County as the area of study. The reconnaissance efforts that made up phase 1 of the study resulted in selection of 13 potential landfill sites. The topographic, cultural, hydrologic, and geologic information compiled during phase 1 was used by the San Diego County Department of Public Works for selection of two potential sites (Vallecito Valley and Manzanita) that were studied in
+
+70 Methods for Selection and Hydrologic Description of Potential Landfill Sites
+
+more detail during phase 2. The phase 2 studies were useful in determining basic geologic and hydrologic conditions at the two sites.
+A variety of methods were used successfully for evaluation of potential landfill sites during the two phases of study. Methods applied to phase 1 include the compilation of topographic, geologic, and hydrologic information from existing sources and from limited site visits, and the use of vertical electrical-resistivity soundings to provide additional information about subsurface geology. The topographic maps, low-altitude aerial photographs, field observations, existing hydrologic and climatic records, and geophysical soundings were useful for compiling and checking topographic, geologic, and hydrologic data needed to describe the sites; high-altitude Landsat photographs were less useful.
+Methods used in phase 2 include: (1) Data collection from existing wells and springs on and near the site; (2) drilling of test holes, construction of test wells, and collection of subsurface lithologic data; (3) measurement of ground-water levels; (4) aquifer tests in the test wells; and (5) water sampling and chemical analysis. The augering of test holes was relatively quick and provided actual lithologic samples rather than the indirect interpretation of lithologies obtained through geophysical methods. The disadvantages of augering include limited depth of penetration and difficulties with boulders or with hard zones in weathered rock. The water-quality data provided information on the historical water quality in the site areas. The data also were useful, in conjunction with geologic information and water levels, for interpretation of the ground-water flow system. Such interpretations could include qualitative assessment of horizontal and vertical components of flow, sources of recharge, and flow between basins.
+Findings from the more detailed phase 2 studies of the Vallecito Valley and Manzanita sites include:
+
+1. The results from test drilling in combination with interpretations of vertical electrical soundings showed that a suitable volume of unsaturated material is available for excavation at both the Vallecito Valley and Manzanita sites.
+At the Manzanita site, the thickness of weathered rock on the ridge and the degree of weathering are variable. The thickness, in particular, could be mapped in more detail by drilling additional holes or by running vertical electrical soundings or seismic refraction surveys.
+2. Faults are important features to note from both a geologic and hydrologic point of view when investigating landfill sites. A potentially active fault, previously mapped and visible both on aerial photographs and in the field, is present near the Vallecito Valley study site. The mapped configuration was modified slightly after viewing aerial photographs and contacting a geologist familiar with the area. California Administrative Code landfill-siting regulations state that new Class II landfills shall be set back at least 200 feet from known Holocene faults. Vegetation patterns and other data indicate that the southern branch of the Elsinore fault in Vallecito Valley functions as a partial barrier to ground-water flow. Geologists who have mapped the Manzanita area have not noted any faults. However, bedrock fracture lineaments are present. These fractures, which probably influence ground-water recharge, movement, and discharge, are especially visible on aerial photographs. Although it is possible that some of the fracture lineaments are faults, no strong evidence of offset along lineaments was noted on aerial photographs or during field visits.
+3. Existing wells and reconnaissance wells drilled for phase 2 of this study allowed measurement of water levels on and near the two sites. Water-level measurements were used to determine thickness of unsaturated material and direction of ground-water movement. Data indicate that
+Summary and Conclusions 71
+
+ground water is present in permeable alluvial sediments at depths greater than 25 to 90 feet at the Vallecito Valley site. The depth to water in permeable weathered rock and fractured bedrock at the Manzanita site ranges from 45 to more than 95 feet. Depth to water generally is greater on the ridge than on the sides of the ridge and in the adjacent valleys. Wells and springs are located downgradient from both the Vallecito Valley and Manzanita sites, and limited aquifer testing indicates that hydraulic conductivities at the two sites generally are greater than the specified criterion of 2.8xlO'3 ft/d. Therefore, impermeable liners or other means of controlling the movement of leachate would be needed to protect the ground-water resources if either site were to be developed as a Class II landfill.
+REFERENCES CITED
+Alien, C.R., St. Amand, P., Richter, C.F., and Hordquist, J.M., 1965, Relationship between seismicity and geologic structure in southern California: Seismological Society of America Bulletin, v. 55, p. 753-797.
+Allison, M.L., 1974, Geologic and geophysical reconnaissance of the Elsinore-Chariot Canyon fault system, in Hart, M.W. and Dowlen, RJ., Recent geological and hydrologic studies, eastern San Diego County and adjacent areas: San Diego Association of Geologists, p. 21-35.
+Burnham, W.L., 1954, Data on water wells in Borrego, Ocotillo, San Felipe, and Vallecito Valley areas, eastern San Diego County, California: U.S. Geological Survey Open-File Report, 60 p.
+California Department of Water Resources, 1967, Ground water occurrence and quality, v. 1, San Diego Region: California Department of Water Resources Bulletin 106-2, 235 p. 1976, Potential waste disposal areas, western San Diego County: California Department of Water Resources, Southern District Report, 25 p.
+California Sate Legislature, 1984, California Administrative Code-Title 23 waters, Chapter 3, Water Resources Control Board, Subchapter 15, Discharges of waste to land: adopted October 18, 1984, p. 1.1-10.11.
+
+Clark, M.M., 1982, Map showing recently active breaks along the Elsinore and associated faults, California, between Lake Henshaw and Mexico: U.S. Geological Survey Miscellaneous Investigations Series Map 1-1329, 1:24,000.
+Edward E. Johnson, Inc., 1966, Ground water and wells: Saint Paul, Minnesota, 440 p.
+Feltz, H.R., Duncan, S.S., and Zepp, Ann, eds., 1985, 1986-87-88 National Water Quality Laboratory Services catalog: U.S. Geological Survey Open-File Report 86-232, 69 p.
+Freeze, RA., and Cherry, JA., 1979, Groundwater: Englewood Cliffs, New Jersey, Prentice-Hall, 604 p.
+Ganus, W.R., 1974, Groundwater occurrence in the Mount Laguna area, San Diego County, California: San Diego Association of Geologists, Guidebook for December 14-15, 1974, field trip, p. 86-92.
+Hely, A.G., and Peck, E.L., 1964, Precipitation, runoff, and water loss in the lower Colorado River-Salton Sea area: U.S. Geological Survey Professional Paper 486B, 16 p.
+Hromadka, T.V., McCuen, R.H., and Yen, C.C., 1987, Computational hydrology in flood control design and planning: Mission Viejo, California, Lighthouse Publications, 523 p.
+Hvorslev, M.J., 1951, Time lag and soil permeability in groundwater observations: Vicksburg, Mississippi, U.S. Army Corps of Engineers, Waterways Experimental Station Bulletin 36.
+Jacob, C.E., 1963, Recovery method for determining the coefficient of transmissibility: U.S. Geological Survey Water-Supply Paper 1536-1, p. 283-292.
+Merriam, Richard, 1958, Geology of Santa Ysabel quadrangle, San Diego, California: California Division of Mines Bulletin 177, 42 p.
+Moyle, W.R., Jr., 1963, Data on water wells in Indian Wells Valley area, Inyo, Kern and San Bernardino Counties, California: California Department of Water Resources Bulletin 91-09, 243 p. 1968, Water wells and springs in Borrego, Carizzo, and San Felipe Valley areas, San Diego and Imperial Counties, California: California Department of Water Resources Bulletin 91-15, 16 p.
+Moyle, W.R., Jr., and Downing, D.J., 1978, Summary of water resources for the Campo, Cuyapaipe, La Posta, and Manzanita Indian Reservations and vicinity, San Diego County, California: U.S. Geological Survey Open-File Report 77-684, 41 p.
+National Oceanic and Atmospheric Administration, 1984, Climatological data annual summary California 1984: v. 88, no. 13, 24 p.
+Pinault, C.T., 1984, Structure, tectonics, geomorphology and neotectonics of the Elsinore fault zone between Banner Canyon and the Coyote Mountains: San Diego State University, unpublished M.S. thesis, 187 p.
+
+72 Methods for Selection and Hydrologic Description of Potential landfill Sites
+
+Potyondy, J.P., 1979, Recommended methods for peak flow determination: U.S. Forest Service, Technical Guide, Intermountain Region, 17 p.
+Rantz, S.E., 1969, [Map showing] mean annual precipitation in the California region: U.S. Geological Survey open-file report, 2 sheets, scale 1:500,000.
+Rogers, T.H., 1965, Geologic map of California, Santa Ana sheet: California Division of Mines and Geology.
+Sammis, T.W., and Gay, L.W., 1979, Evapotranspiration from an arid zone plant community: Journal of Arid Environments, v. 2, p. 313-321.
+San Diego County Flood Control District, 1967-1981, Annual hydrology report: County of San Diego, Department of Public Works.
+Strand, R.G., 1962, Geologic map of California, San Diego-El Centre sheet: California Division of Mines and Geology.
+Todd, V.R., 1977, Geologic map of Agua Caliente Springs quadrangle, San Diego County, California: U.S. Geological Survey Open-File Report 77-742,18 p. 1978, Geologic map of Monument Peak quadrangle, San Diego County, California: U.S. Geological Survey Open-File Report 78-697, 45 p.
+Todd, V.R., and Shaw, S.E., 1979, Structural metamorphic and intrusive framework of the Peninsular Ranges batholith in southern San Diego County, California, in P.L. Abbott and V.R. Todd, eds., Mesozoic crystalline rocks: Peninsular Ranges batholith and pegmatites, and Point Sal Ophiolite: San Diego, California, San Diego State University, 286 p.
+
+U.S. Environmental Protection Agency, 1975, Water programs: National interim primary drinking water regulations: Federal Register, v. 40, no. 248. 1976, National interim primary drinking water regulations: EPA-570/9-76-003, 159 p. 1979, National secondary drinking water regulations: Federal Register, v. 44, no. 140, July 19, 1975, p. 42195-42202 1985, Part III, National primary drinking water regulations; volatile synthetic organic chemicals; final rule and proposed rule: Federal Register, v. 50, no. 219, Nov. 13, 1985, p. 46880-46933.
+----1986, Quality criteria for water 1986: EPA 440/5-86001.
+Waananen, A.O., and Crippen, J.R., 1977, Magnitude and frequency of floods in California: U.S. Geological Survey Water-Resources Investigations Report 77-21,
+96 p. Zohdy, AA.R., 1973, A computer program for the
+automatic interpretation of Schlumberger sounding curves over horizontally stratified media: available only from U.S. Department of Commerce, National Technical Information Service, Springfield, VA 22161, as U.S. Geological Survey Report USGS-60-74-017, p. 232-703. 1975, Automatic interpretation of Schlumberger sounding curves using modified Dar Zarrouk functions: U.S. Geological Survey Bulletin 1313-E, 39 p. Zohdy, AA.R., Eaton, G.P., and Mabey, D.R., 1974, Application of surface geophysics to ground-water investigations: U.S. Geological Survey Techniques of Water-Resources Investigations, Book 2, Chapter Dl, 116 p.
+
+References Cited 73
+
+

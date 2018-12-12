@@ -1,0 +1,407 @@
+original article confirmation multiple risk loci genetic impact genome wide association study type diabetes japanese population fumihiko takeuchi masakuni serizawa ken yamamoto tomomi fujisawa eitaro nakashima keizo ohnaka hiroshi ikegami takao sugiyama tomohiro katsuya makoto miyagishi naoki nakashima hajime nawata jiro nakamura suminori kono ryoichi takayanagi norihiro kato3 
+objective identify novel type diabetes gene variant conﬁrm previously identiﬁed one three stag genomewide association study perform japanese population 
+research design and method stage scan genotyped case control subject single nucleotide polymorphism snp marker stage panel comprise case subject control subject assess snps stage additionally direct genotyping healthy control subject form silico control panel 
+along genome wide exploration aim replicate disease association snp candidate loci previously identiﬁed european 
+the associate replicate loci snps genome wide exploration replication examine stage panel comprise case subject population base sample nondiabetic control subject preselected 
+the subject use overall risk assessment general population 
+result four loci novel suggestive evidence pepd 19q13 three previously report identiﬁed association cdkal1 cdkn2a cdkn2b kcnq1 conﬁrmed 
+moreover signiﬁcant association replicate ﬁve candidate locus tcf7l2 from 1department medical ecology informatics research institute international medical center japan tokyo japan 2wellcome trust sanger institute cambridge 3department gene diagnostics therapeutic research institute international medical center japan tokyo japan 4department molecular genetics medical institute bioregulation kyushu university fukuoka japan 5department geriatric medicine osaka university graduate school medicine osaka japan 6division endocrinology diabetes department internal medicine nagoya university graduate school medicine nagoya japan 7department metabolism endocrine internal medicine chubu rosai hospital nagoya japan 8department geriatric medicine graduate school medical science kyushu university fukuoka japan 9department endocrinology metabolism diabetes kinki university school medicine osaka japan 10institute adult disease asahi life foundation tokyo japan 11department medical informatics kyushu university hospital fukuoka japan 12fukuoka prefectural university fukuoka tokyo japan 13department preventive medicine graduate school medical science kyushu university fukuoka japan 14department medicine bioregulatory science graduate school medical science kyushu university fukuoka japan 
+correspond author norihiro kato nokato imcj 
+receive october accept april 
+publish ahead print http diabetes diabetesjournals org april 
+doi db08 
+american diabetes association 
+reader may use article long work properly cite use educational proﬁt work alter 
+see http creativecommons org license detail 
+the cost publication article defray part payment page charge 
+this article must therefore hereby mark advertisement accordance 
+section solely indicate fact 
+igf2bp2 slc30a8 hhex kcnj11 
+there substantial overlap type diabetes susceptibility gene two population whereas effect size explain variance tend high japanese population 
+conclusion the strength association prominent japanese population europeans half conﬁrmed type diabetes loci 
+diabetes the predisposition course type diabetes vary accord ethnic group 
+japan incidence type diabetes increase recently comparable country supposedly attributable gradual spread western habit consume high fat diet low insulin secretory capacity japanese subject 
+recent technological development allow successful identiﬁcation gene region involve development type diabetes genome wide association gwa study 
+several susceptibility gene loci identiﬁed gwa study date use obtain reproducible evidence disease association different population european descent asian necessarily african american 
+number gwa study type diabetes conduct population european descent 
+two gwa scan japanese population simultaneously report discovery type diabetes susceptibility gene kcnq1 variant noneuropean population result also obtain scandinavian sample 
+thus far replicated association limit number candidate gene broadly indicate tendency interethnic similarity 
+even though common cosmopolitan effect type diabetes risk variant know extent causation disease differs overlap population remain unknown 
+here besides compare genetic association european descent japanese population aim identify new genetic variant use three stag gwa study design 
+research design and method detail characteristic subject enrol stage describe supplementary information supplementary table available online appendix http diabetes diabetesjournals org cgi content full db08 dc1 
+brieﬂy patient unaffected control subject analyze stage enrol depend whether meet certain uniform criterion 
+type diabetes diagnose accord world health organization criterion 
+all stage control subject ն55 
+diabetes vol 
+takeuchi and associate 
+genome wide association scan 
+replication previously report snp 
+meta analysis confirm snp 
+snp snp trend test stage panel jpn gemdbj snp snp redundancy snps trend test stage panel jpn gemdbj snp snp redundancy trend test stage panel snp 
+stage panel case control stage panel case control stage panel case control the rest subject 
+locus snp 
+jazf1 cdc123 camk1d tspan8 lgr5 thada adamts9 notch2 adam30 snp detect diagram study 
+cdkal1 cdkn2a hhex igf2bp2 slc30a8 tcf7l2 kcnj11 pparg fto 
+stage panel snp stage case control panel snp consider redundancy snp cdkal1 cdkn2a derive snp type stage gwa scan see method 
+locus snps robustly confirm european cdkal1 cdkn2a hhex igfbp2 slc30a8 tcf7l2 kcnj11 pparg fto top locus bold confirm study use test ethnic difference combine genetic risk type diabetes 
+public health genomics 
+replication estimation effect size population base sample 
+multivariate regression analysis log hba1c evaluation combine risk multiple locus robustness estimate general population 
+flow chart summarize multistage design study aim 
+high quality digital representation ﬁgure available online issue 
+year age examination normal glucose tolerance 
+the stage sample comprise type diabetes case subject derive biobank japan project http biobankjp org subject randomly select resident age year general population 
+the subject use population panel panel contain nondiabetic subject meet follow condition age ն55 year a1c previous current treatment diabetes absence renal failure serum creatinine 
+stage control subject use replication study wherein genotype compare patient 
+addition sample genotyped boost power gwa scan incorporate genotype frequency general japanese population derive genome medicine database japan gemdbj http gemdbj nibio use silico control panel 
+ﬂowchart summarize multistage design study aim show fig 
+stage genome wide scan quality control 
+genotyping perform inﬁnium humanhap550 beadarray illumina interrogate snps supplementary information 
+the average call rate case control subject 
+data clean analysis perform use plink software 
+sample genotype call rate ͻ90 exclude outlier respect number heterozygous snp duplicate relatives another sample ethnic outlier 
+exclude snp follow reason gentrain genotype quality score genotype call rate genotype call rate minor allele frequency maf signiﬁcant 10ϫ6 deviation hardy weinberg equilibrium control subject maf supplementary table remain snp analyze 
+analysis stage genotype data 
+ethnicity veriﬁed sample case control subject stage panel reference data hapmap population see supplementary information 
+type diabetes association test cochran armitage trend test stage panel additional panel random control subject 
+pool genotype count combine multiple panel 
+detect correct population stratiﬁcation unnoticed difference data processing 
+facility test statistic adjust use eigenstrat software genomic control method 
+the signiﬁcance level ﬁrst stage scan set signiﬁcant snp additionally choose use fisher test combine association result value locus previous affected sib pair scan 
+total snp surpass stage threshold remove redundant snp mutual strong linkage disequilibrium proceeding stage see supplementary information supplementary fig 
+table detailed analysis 
+stage genotyping analysis 
+stage genotyping perform iplex sequenom goldengate illumina assay 
+quality control conduct described stage snp successfully genotyped 
+calculate value trend test combine nondiabetic control subject random control subject similar stage 
+the signiﬁcance level second stage scan set 10ϫ5 comparison case subject control subject stage panels random control subject 
+total snp represent unique locus remain signiﬁcant 
+replication previously report snp 
+along genome wide exploration type diabetes association test stage panel use humanhap550 beadarray iplex assay taqman method apply biosystems snps candidate loci previously identiﬁed gwa study population european descent 
+these include igf2bp2 rs4402960 pparg rs1801282 cdkal1 rs7754840 rs7756992 slc30a8 rs13266634 cdkn2a cdkn2b rs10811661 hhex rs1111875 tcf7l2 rs7903146 ext2 rs3740878 kcnj11 rs5219 fto rs8050136 jazf1 rs864745 cdc123 camk1d rs12779790 tspan8 lgr5 rs7961581 thada rs7578597 adamts9 rs4607103 notch2adam30 rs10923931 
+the signiﬁcant snp trend test analyze stage panel taqman method 
+despite ﬁnding signiﬁcant association cdkal1 cdkn2a cdkn2b stage panel proceed rs4712523 instead rs7754840 rs7756992 cdkal1 rs2383208 instead rs10811661 cdkn2a cdkn2b gwa scan stage stage decision make consider 
+diabetes vol 
+gwa study type diabetes the japanese 
+strong linkage disequilibrium snp correspond locus 
+stage genotyping analysis 
+the stage design involve replication association estimation effect size gwa scan replication study previously report snp 
+for association consider signiﬁcant case control comparison case nondiabetic control subject involve risk allele previous stage accordingly assess one tail test 
+for snp locus conﬁrmed stage association additional independent snp haplotype locus also test supplementary information 
+moreover ass risk diabetes pre diabetes general population combination snps robustly conﬁrmed population european descent panel multiple regression analysis perform logarithm a1c log a1c response variable supplementary information use entire subject population base sample 
+meta analysis type diabetes case control study japanese population 
+addition snps robustly conﬁrmed association population european descent perform meta analysis combine stage rs1801282 rs7756992 rs8050136 stage result remain seven snps show supplementary figure previous japanese study conduct three group 
+accord woolf test heterogeneity among study japanese population insigniﬁcant exception pparg rs1801282 observe heterogeneity supposedly attributable low allele frequency 
+thus pool genotype count across study form combine dataset japanese population estimate effect size individual locus 
+use rmeta package software http www project org analysis 
+moreover compare explain variance japanese population population european descent calculate coefﬁcient determination locus conﬁrmed replication study 
+here square correlation genotype snp cod number risk allele disease status supplementary information 
+result gwa scan 
+snp pass quality control stage genotype obtain average marker subject 
+the subject enrol region japan strong population stratiﬁcation although variance inﬂation partly attributable subtle subpopulation structure apparent confounding inﬂuences could sufﬁciently remove use eigenstrat genomiccontrol adjustment 
+total marker assess stage panel fig 
+supplementary fig 
+after second stage scan snp represent unique locus attain arbitrarily deﬁned statistical signiﬁcance 10ϫ5 supplementary table 
+use one snp loci third stage scan 
+snp reach signiﬁcance threshold bonferroni correction 
+the current gwa study show strong highly consistent evidence disease association snp cdkal1 cdkn2a cdkn2b kcnq1 fig 
+table supplementary table 
+although three locus already report previous gwa study identiﬁed part genome wide exploration 
+cdkal1 among best replicate susceptibility locus 
+signiﬁcant association also detect region chromosome near cdkn2a cdkn2b 
+moreover strong association signal observe intron kcnq1 chromosome 11p15 agreement result two previous gwa scan japanese population 
+stage genotyping provide evidence suggestive new association chromosome 19q13 
+several snp 
+locate vicinity pepd peptidase gene show tendency replicate association stage supplementary table 
+signiﬁcant association replicate relatively large case control study stage panel rs10425678 attain genome wide signiﬁcance 10ϫ5 stage 10ϫ6 number control subject increase add random control subject supplementary table 
+give modest strength association see assume locus association still need establish 
+replication previously report snp 
+candidate locus test replication japanese population find associate type diabetes table 
+however signiﬁcant association observe snps remain nine loci fto pparg ext2 jazf1 cdc123 camk1d tspan8 lgr5 adamts9 notch2 adam30 stage panel thada stage panel 
+notably originally report snps complete linkage disequilibrium show strong statistical evidence association seven conﬁrmed loci linkage disequilibrium relation haplotype pattern appear similar identical european descent japanese population supplementary fig 
+besides kcnq1 candidate locus prioritize investigated disease association two candidate gene snps rs734312 wfs1 rs7501939 tcf2 base genotype data stage panel random control subject supplementary table 
+instance appear sample size sufﬁcient detect presume odds ratio supplementary table 
+nevertheless except rs12779790 cdc123 camk1d rs3740878 ext2 majority instance or consistent previously report 
+furthermore analyzed seven previously report snps suggestive evidence association japanese population none attain nominal signiﬁcance ﬁrststage scan supplementary table 
+ethnic difference genetic effect type diabetes 
+with regard candidate gene snps robustly conﬁrmed gwa study conduct japanese european descent population compare risk allele frequency meta analysis dataset japanese population population european descent fig 
+the consistently high japanese population snp except rs5219 kcnj11 
+among conﬁrmed locus cdkal1 cdkn2a cdkn2b slc30a8 hhex show signiﬁcant difference or european descent japanese population woolf test supplementary table 
+however risk allele frequency ﬂuctuated two ethnic group strength association differ accordingly snp risk allele frequency higher give rise strong association signal 
+thus whereas tcf7l2 show strong susceptibility locus population european descent association estimate much weak japanese population low risk allele frequency 
+contrast result meta analysis show cdkn2a cdkn2b cdkal1 locus strong association japanese population 
+diabetes vol 
+takeuchi and associate 
+plot type diabetes association linkage disequilib rium region surround cdkal1 region near cdkn2a cdkn2b kcnq1 
+contain ﬁve panel 
+top panel genotyped snps current japanese gwa scan pass quality control plot log10 value type diabetes cochran armitage trend test chromosome position 
+blue red square indicate value combine genotype stage stage respectively whereas vertical bar indicate value stage genotype 
+second panel log10 value plot diagram study population european descent similarly display 
+the third panel show genomic location refseq gene intron exon structure ncbi national center biotechnology information build 
+the fourth ﬁfth panel show wgaviewer plot linkage disequilibrium hapmap snp across region hapmap population japanese tokyo jpt ceph sub jects utah ceu respectively 
+indeed obtain high number hit loci 
+next compare strength association seven conﬁrmed loci japanese europeandescent population calculate proportion phenotypic variance explain snp see research design and method 
+illustrate curve correspond total sample size case control subject require 
+attain power signiﬁcance level signiﬁcance threshold generally require gwa test level 
+base measurement use meta analysis data association ﬁve seven replicate loci strong japanese population population european descent 
+for cdkal1 locus example one fourth sample size necessary population european descent 
+diabetes vol 
+gwa study type diabetes the japanese 
+table type diabetes susceptibility locus identiﬁed test replication current japanese study 
+position chromosome 
+risk allele control risk 
+allele proportion 
+stage case subject control subject trend 
+identiﬁed gwa 
+replication previously 
+report snp 
+notch2 adam30 
+cdc123 camk1d 
+tspan8 lgr5 
+continue following page 
+sufﬁcient obtain level statistical signiﬁcance japanese population 
+this true cdkn2a cdkn2b hhex slc30a8 ͻ50 sample size seem sufﬁcient signiﬁcance japanese population 
+however tcf7l2 show opposite trend regard 
+combine genetic risk type diabetes 
+despite small value explain variance risk locus assume knowledge multiple risk locus could allow identify individual accumulate genetic risk 
+end gwa study finn investigate combined risk type diabetes base associate loci logistic regression analysis resampled dataset 
+the total variance explain loci finns equivalent value locus obtain see discussion 
+likewise simulate population arrange individual order risk estimate logistic regression sort equal sized group calculate actual proportion affect individual group 
+find fold variation type diabetes prevalence low high estimate risk group combination seven associate locus study fig 
+the receiver operate characteristic curve also depict combined snps measure sensitivity speciﬁcity supplementary fig 
+moreover risk assessment general population perform multiple regression analysis use a1c surrogate quantitative phenotype estimate unbiased effect size individual locus supplementary table evaluate combined risk multiple locus 
+population base sample table supplementary information 
+then estimate risk compare actual a1c value disease classiﬁcation diabetes pre diabetes supplementary information 
+multiple regression analysis signiﬁcant association observe seven locus test accordance result case control study table supplementary table 
+show fig 
+male subject high estimate risk time likely suffer diabetes low estimate risk risk time female subject indicate potential existence sex difference genetic risk type diabetes supplementary fig 
+moreover notably snp genotype alone exert exaggerated effect increase genetic risk diabetes compare pre diabetes table 
+discussion conduct gwa study wider range population include east asian recently gain importance discovery new type diabetes susceptibility variant map kcnq1 gene simultaneously report two japanese study 
+both study however initiated year ago current standard consider modest regard coverage common snp hapmap number case subject subject respectively ﬁrst stage scan 
+therefore conduct another gwa study japanese population great coverage common snp phase 
+diabetes vol 
+table continue 
+stage case subject control subject 
+takeuchi and associate 
+all combine case subject control subject 
+report european case subject control subject 
+result one snp select individual chromosomal region gwa scan show table see supplementary table detail supplementary table result logistic regression adjust bmi 
+the ﬁnal value assess pool genotype count snp stage test without include random control subject gembdj 
+two region chromosome 6p22 cdkal1 19p13 pepd haplotype class show signiﬁcant association individual snp see supplementary information 
+stage panel genotyped rs4712523 instead rs7754840 rs7756992 cdkal1 rs2383208 instead rs10811661 near cdkn2a aim determine snp strong association japanese population 
+stage replication study previously report snps conﬁrmation signiﬁcant association case subject preselected control subject characterize subject comprise rest population base sample see research design and method fig 
+thus correspond snp control subject reselected entire population base sample use ﬁnal association analysis stage increase total number control subject across three stage 
+one tail test association perform direction consistent stage data case control subject derive diagram consortium zeggini 
+ϳ60 total sample zeggini 
+case control subject sladek 
+hapmap variant maf chb chinese beijing jpt japanese tokyo large number case subject subject unaffected control subject subject addition random control subject ﬁrst stage scan 
+four locus three previously report one novel identiﬁed via multistage scan 
+for top three locus kcnq1 cdkn2a cdkn2b cdkal1 maf control subject high japanese population population european descent 
+addition nomination four susceptibility locus kcnq1 cdkn2a cdkn2b cdkal1 pepd current study replicate signiﬁcant association ﬁve locus tcf7l2 igf2bp2 slc30a8 hhex kcnj11 previously report population european descent provide unbiased estimate risk conﬁrmed disease genotype 
+empirical study suggest genetic effect individual causal risk allele underlie complex genetic disease type diabetes modest genotype relative risk range 
+indeed observe true locus robustly 
+implicate development type diabetes gwa scan extensive candidate gene approach population european descent 
+currently number locus increase almost list supplementary table case except tcf7l2 kcnq1 estimate 
+the current study provide via genome wide exploration replication analysis priori select loci signiﬁcant evidence overall tendency toward strong association japanese rather europeandescent population least allele cosmopolitan effect 
+the tendency high asian europeans previously report cdkal1 locus 
+currently remain unknown whether penetrance genotype interest differs considerably japanese european descent population 
+with regard genetic effect four seven conﬁrmed loci demonstrate signiﬁcantly high japanese population 10ϫ5 supplementary table 
+simplify situation assess strength association individual snp measure scale risk allele frequency 
+diabetes vol 
+gwa study type diabetes the japanese 
+odds ratio 
+cdkal1 cdkn2a hhex 
+igf2bp2 kcnj11 
+risk allele frequency 
+comparison strength association seven conﬁrmed type diabetes loci japanese european descent population 
+for japanese population estimate or cis red solid square vertical line respectively locus base meta analysis involve four japanese case control study supplementary fig 
+for population european descent hand correspond value blue solid square vertical line derive publish data 
+the association snp type diabetes measure coefﬁcient determination represent ability detect association signal use cochran armitage trend test 
+find despite limited number snp test level statistical signiﬁcance often detectable japanese population much small sample size population european descent supplementary table 
+theoretically stringency ascertain control subject could lead bias effect size 
+respect addition multistage case control study extensive analysis associate loci general population conduct strength current study 
+use population base sample stage 
+percent individual t2d group 
+group predict t2d risk 
+estimation increase type diabetes risk combination seven susceptibility variant previously identiﬁed robustly replicate current study 
+used case control subject complete data stage study 
+first risk genotype snp estimate logistic regression 
+then multilocus risk individual assess sum risk genotype seven snp 
+simulated population prevalence bootstrap sample 
+simulated population arrange individual order multilocus risk sort equal sized group calculate actual prevalence group 
+mean cis groupwise prevalence estimate base bootstrap sample trial plot ﬁgure 
+signiﬁcant gene gene interaction observe seven snps multiple logistic regression analysis 
+t2d type diabetes 
+investigate effect control selection criterion case control comparison find or meta analysis almost comparable estimate general japanese population supplementary table s10 
+moreover regard ethnic diversity linkage disequilibrium cdkal1 kcnj11 strong east asian jpt chb whereas linkage disequilibrium igfbp2 hhex tend strong european ceu centre etude polymorphism humain ceph subjectsfrom utah supplementary figure thus besides issue power result gwa scan japanese population east asian seem useful term interethnic comparison association signal may enhance power ﬁne map effort design identify causal variant 
+the tendency strong genetic association japanese population also support concomitant evaluation multilocus effect 
+when assume additive model combine risk type diabetes measure sum value individual locus 
+for example total variance explain seven locus depict fig 
+japanese population population european descent 
+remains unknown whether ﬁndings reﬂect high heritability type diabetes japanese european descent population 
+because little data available estimation heritability japanese east asian population study require obtain standardized measure heritability across different population take account potential source heterogeneity degree westernization lifestyle 
+suggestive evidence association identiﬁed snp pepd gene 
+pepd play important role collagen metabolism extracellular matrix constituent collagen show profound impact insulin secretion 
+moreover enhance collagen degradation via pepd activity report diabetic patient 
+although evidence suggestive association pepd three stage current gwa study could conﬁrm refute evidence signiﬁcant association find previously report diabetes genetics replication meta analysis diagram data european risk allele frequency table initial screen data jsnp japanese single nucleotide polymorphism scan japanese population casevs 
+random control subject rs2241380 complete linkage disequilibrium rs10425678 pepd 
+the number gene could account appreciable population attributable fraction common disease debate 
+although current study detect replicated total nine susceptibility locus include pepd japanese population substantial number snp show extent association signal ﬁrst stage scan remain investigated reﬂected wide distribution replicate snp unexamined gap low leave part plot supplementary fig 
+the or correspond unexamined snp mostly fall range 
+assess statistical power gwa scan simulated frequency diseaseassociated snp could surpass cutoff level ﬁrst two stage stage supplementary information supplementary table s11 
+current experimental set likely ͼ50 susceptibility locus 
+diabetes vol 
+takeuchi and associate 
+table combine risk diabetes pre diabetic status base seven conﬁrmed loci age bmi sex general japanese population 
+versus population average 
+pre diabetes 
+versus population average 
+diabetes pre diabetes 
+versus population average 
+whole population 
+high risk group 
+all predictor 
+snp genotype 
+age bmi 
+low risk group 
+all predictor 
+snp genotype 
+age bmi 
+whole population 
+high risk group 
+all predictor 
+snp genotype 
+age bmi 
+low risk group 
+all predictor 
+snp genotype 
+age bmi 
+data mean unless otherwise indicate 
+relative risk calculate ratio prevalence people high low risk prevalence whole population 
+study combine disease risk individual assess use regression a1c see supplementary information 
+subject self report diabetes a1c classiﬁed diabetic antidiabetic medication a1c classiﬁed pre diabetic 
+the actual a1c level distribution diabetic status subgroup risk group illustrate supplementary fig 
+for reference diabetes pre diabetes risk assess use participant age bmi alone predictor 
+modest substantial effect unidentiﬁed 
+for example though statistically signiﬁcant association pparg japanese population show rs1801282 similar population european descent metaanalysis include current study supplementary table 
+increase sample size stage panel number snp genotyped second stage scan would allow discover susceptibility variant include new population speciﬁc loci japanese population 
+the incidence type diabetes escalate epidemic proportion globally high acceleration rate non european population 
+the integration gwa study result meta analysis europeandescent non european population necessary comprehensive understanding genetics type diabetes lead efﬁcient use genomic information base ethnic diversity clinical research 
+acknowledgment the construction fundamental infrastructure support part grant core research evolutional science technology japan science technology agency 
+this work support grant program promotion fundamental 
+study health science nibio national institute biomedical innovation organization 
+the dna sample stage case subject use research provide lead project personalize medicine ministry education culture sport science technology japan 
+potential conﬂicts interest relevant article report 
+the gwa study conduct nibio gwa study group organize clarify pathogenesis diabetes associate metabolic disorder well cardiovascular complication 
+the collaborating institution constitute nibio gwa study group follow international medical center japan kyushu university osaka university nagoya university kinki university shimane university tohoku university institute adult disease asahi life foundation chubu rosai hospital amagasaki health medical foundation collaborate group amagasaki medical association collaborate group kyushu region see detail nawata 
+acknowledge outstanding contribution international medical center japan imcj kyushu university employee provide technical infrastructural support work 
+above thank patient study subject make work possible 
+diabetes vol 
+gwa study type diabetes the japanese 
+give value 
+thank people continuously support hospital base cohort study imcj kyushu university fukuoka cohort study 
+also thank drs 
+akihiro fujioka chikanori makibayashi many physician amagasaki medical association well drs 
+miyuki makaya yukio yamori contribution collect dna sample clinical accompany information 
+also thank gemdbj make genotype japanese general population sample available 
+ehtisham crabtree clark shaw barrett ethnic difference insulin resistance body composition united kingdom adolescent 
+clin endocrinol metab 
+wong molyneaux zhao constantino gray twigg yue 
+different accelerator early onset type diabetes comparison anglo celtic chinese patient 
+diabetes complication 
+stevens truesdale katz cai 
+impact body mass index incident hypertension diabetes chinese asian american white american black people republic china study atherosclerosis risk community study 
+fukushima usami ikeda nakai taniguchi matsuura suzuki kurose yamada seino insulin secretion insulin sensitivity different stage glucose tolerance cross sectional study japanese type diabetes 
+nakanishi okubo yoneda jitsuiki yamane kohno comparison japanese american live hawaii los angel native japanese impact lifestyle westernization diabetes mellitus 
+biomed pharmacother 
+sladek rocheleau rung dina shen serre boutin vincent belisle hadjadj balkau heude charpentier hudson montpetit pshezhetsky prentki posner bald meyre polychronakos froguel genome wide association study identiﬁes novel risk locus type diabetes 
+wellcome trust case control consortium 
+genome wide association study case seven common disease share control 
+zeggini weedon lindgren frayling elliott lango timpson perry rayner freathy barrett shield morris ellard grove harries marchini owen knight cardon walker hitman morris doney wellcome trust case control consortium wtccc mccarthy hattersley 
+replication genome wide association signal sample reveals risk loci type diabetes 
+diabetes genetics initiative broad institute harvard mit lund university novartis institute biomedical research saxena voight lyssenko burtt bakker chen roix kathiresan hirschhorn dali hughes groop altshuler almgren florez meyer ardlie bengtsson bostro isomaa lettre lindblad lyon melander newton cheh nilsson orho melander råstam speliotes taskinen tuomi guiducci berglund carlson gianniny hackett hall holmkvist laurila sjo gren sterner surti svensson svensson tewhey blumenstiel parkin defelice barry brodeur camarata chia fava gibbon handsaker healy nguyen gate sougnez gage nizzari gabriel chirn parikh richardson rick purcell genome wide association analysis identiﬁes locus type diabetes triglyceride level 
+scott mohlke bonnycastle willer duren erdos stringham chine jackson prokunina olsson ding swift narisu pruim xiao conneely riebow sprau tong white hetrick barnhart bark goldstein watkins xiang saramies buchanan watanabe valle kinnunen abecasis pugh doheny bergman tuomilehto collins boehnke genome wide association study type diabetes finns detects multiple susceptibility variant 
+steinthorsdottir thorleifsson reynisdottir benediktsson jonsdottir walter styrkarsdottir gretarsdottir emilsson ghosh baker snorradottir bjarnason hansen bagger 
+wilensky reilly adeyemo chen zhou gudnason chen huang lashley doumatey andersen borch johnsen jorgensen van vliet ostaptchouk hofker wijmenga christiansen rader rotimi gurney chan pedersen sigurdsson gulcher thorsteinsdottir kong stefansson variant cdkal1 inﬂuences insulin response risk type diabetes 
+nat genet 
+salonen uimari aalto pirskanen kaikkonen todorova hyppo nen korhonen asikainen devine tuomainen luedemann nauck kerner stephens new ollier gibson payton horan pendleton mahoney meyre delplanque froguel luzzatto yakir darvasi 
+type diabetes whole genome association study four population diagen consortium 
+hum genet 
+florez man dupuis mcateer irenze gianniny mirel fox cupples meigs 
+100k genome wide association scan diabetes related trait framingham heart study replication integration genome wide datasets 
+hanson bogardus duggan kobes knowlton infant marovich benitez baier knowler 
+search variant associate young onset type diabetes american indian 100k genotyping array 
+hayes pluzhnikov miyake sun roe below nicolae konkashbaev bell cox hani 
+identiﬁcation type diabetes gene mexican american genome wide association study 
+rampersaud damcott shen mcardle shi shelton yin chang ott zhang zhao mitchell connell shuldiner 
+identiﬁcation novel candidate gene type diabetes genome wide association scan old order amish evidence replication diabetes related quantitative trait independent population 
+zeggini scott saxena voight marchini bakker abecasis almgren andersen ardlie bostro bergman bonnycastle borch johnsen burtt chen chine dali deodhar ding doney duren elliott erdos frayling freathy gianniny grallert grarup grove guiducci hansen herder hitman hughes isomaa jackson jørgensen kong kubalanza kuruvilla kuusisto langenberg lango lauritzen lindgren lyssenko marvel meisinger midthjell mohlke morken morris narisu nilsson owen palmer payne perry pettersen platou prokopenko qin rayner rees roix sandbaeka shield sjo gren steinthorsdottir stringham swift thorleifsson thorsteinsdottir timpson tuomi tuomilehto walker watanabe weedon willer wellcome trust case control consortium illig hveem laakso stefansson pedersen wareham barroso hattersley collins groop mccarthy boehnke altshuler meta analysis genome wide association data large scale replication identiﬁes additional susceptibility locus type diabetes 
+nat genet 
+frayling mccarthy 
+genetic study diabetes follow advent genome wide association study 
+omori tanaka takahashi hirose kashiwagi kaku kawamori nakamura maeda association cdkal1 igf2bp2 cdkn2a hhex slc30a8 kcnj11 susceptibility type diabetes japanese population 
+horikoshi hara ito shojima nagai ueki froguel kadowaki variation hhex gene associate increase risk type diabetes japanese population 
+horikawa miyake yasuda enya hirota yamagata hinokio oka iwasaki iwamoto yamada seino maegawa kashiwagi yamamoto tokunaga takeda kasuga replication genome wide association study type diabetes susceptibility japan 
+clin endocrinol metab 
+loo chen pan lin 
+common variant cdkal1 cdkn2a igf2bp2 slc30a8 hhex ide gene associate type diabetes impair fast glucose chinese han population 
+park tam cho shin lam cho kim lee chan cho 
+implication genetic variant near tcf7l2 slc30a8 hhex cdkal1 cdkn2a igf2bp2 fto type diabetes obesity asian 
+lewis palmer hick sale langefeld freedman 
+diabetes vol 
+takeuchi and associate 
+diver bowden 
+association analysis african american european derive type diabetes single nucleotide polymorphisms whole genome association study 
+yasuda miyake horikawa hara osawa furuta hirota mori jonsson sato yamagata hinokio wang tanahashi nakamura oka iwasaki iwamoto yamada seino maegawa kashiwagi takeda maeda shin cho park lee chan lyssenko tuomi nilsson groop kamatani sekine nakamura yamamoto yoshida tokunaga itakura makino nanjo kadowaki kasuga variant kcnq1 associate susceptibility type diabetes mellitus 
+nat genet 
+unoki takahashi kawaguchi hara horikoshi andersen holmkvist borch johnsen jørgensen sandbaek lauritzen hansen nurbaya tsunoda kubo babazono hirose hayashi iwamoto kashiwagi kaku kawamori tai pedersen kamatani kadowaki kikkawa nakamura maeda snp kcnq1 associate susceptibilityto type diabetes east asian european population 
+nat genet 
+the biobank japan project 
+clin adv hematol oncol 
+purcell neale todd brown thomas ferreira bender maller sklar bakker dali sham 
+plink tool set whole genome association population base linkage analysis 
+hum genet 
+the international hapmap consortium 
+second generation human haplotype map million snp 
+price patterson plenge weinblatt shadick reich principal component analysis corrects stratiﬁcation genome wide association study 
+devlin roeder genomic control association study 
+nawata shirasawa nakashima araki hashiguchi miyake yamauchi hamaguchi yoshimatsu takeda fukushima sasahara yamaguchi sonoda sonoda matsumoto tanaka sugimoto tsubouchi inoguchi yanas wake narazaki eto umeda nakazaki ono asano ito akazawa hazegawa takasu shinohara nishikawa nagafuchi okeda eguchi iwase ishikawa aoki keicho kato yasuda yamamoto sasazuki genome wide linkage analysis type diabetes mellitus reconﬁrms susceptibility locus 11p13 p12 japanese 
+hum genet 
+hayashi iwamoto kaku hirose maeda replication study association tcf7l2 susceptibility type diabetes japanese population 
+horikoshi hara ito nagai froguel kadowaki genetic variation transcription factor like gene associate risk type diabetes japanese population 
+miyake horikawa hara yasuda osawa furuta hirota yamagata hinokio oka iwasaki iwamoto yamada seino maegawa kashiwagi yamamoto tokunaga takeda makino nanjo kadowaki kasuga association tcf7l2 polymorphisms susceptibility type diabetes japanese subject 
+hum genet 
+mori ikegami kawaguchi seino yokoi takeda inoue seino yasuda hanafusa yamagata awata kadowaki hara yamada gotoda iwasaki iwamoto sank nanjo oka matsutani maeda kasuga the pro123 ala substitution ppargamma associate resistance development diabetes general population possible involvement impairment insulin secretion individual type diabetes 
+estimate relation blood group disease 
+ann intern med 
+yamaguchi kabata nakazono takahashi saito hosono kubo nakamura kamatani japanese population structure base snp genotype individual compare ethnic group effect population base association study 
+hum genet 
+sandhu weedon fawcett wasson debenham dali lango frayling neumann sherva blech pharoah palmer kimber tavendale morris mccarthy walker hitman glaser permutt hattersley wareham barroso 
+common variant wfs1 confer risk type diabetes 
+nat genet 
+gudmundsson sulem steinthorsdottir bergthorsson thorleifsson manolescu rafnar gudbjartsson agnarsson baker sigurdsson benediktsdottir jakobsdottir blondal stacey helgason gunnarsdottir olafsdottir kristinsson birgisdottir ghosh thorlacius magnusdottir stefansdottir kristjansson bagger wilensky reilly morris kimber adeyemo chen zhou tong hansen andersen borch johnsen jorgensen tres fuertes ruiz echarri asin saez van boven klaver swinkels aben graif cashy suarez van vierssen trip frigg ober hofker wijmenga christiansen rader palmer rotimi chan pedersen sigurdsson benediktsson jonsson einarsson mayordomo catalona kiemeney barkardottir gulcher thorsteinsdottir kong stefansson two variant chromosome confer prostate cancer risk one tcf2 protect type diabetes 
+nat genet 
+cauchi achhab choquet dina krempler weitgasser nejjari patsch chikri meyre froguel tcf7l2 reproducibly associate type diabetes various ethnic group global metaanalysis 
+mol med 
+lango type diabetes genetics consortium palmer morris zeggini hattersley mccarthy frayling weedon 
+assess combine impact common genetic variant modest effect size type diabetes risk 
+wray goddard visscher 
+prediction individual genetic risk disease genome wide association study 
+genome re 
+garner the use random control genetic association study 
+hum here 
+cast wide net diabetes susceptibility gene 
+nat genet 
+yuan yin guo jiang jin yang wang characterization prolidase activity use capillary electrophoresis tris 2јbipyridyl ruthenium electrochemiluminescence detection application evaluate collagen degradation diabetes mellitus 
+anal chem 
+kaido yebra cirulli rhodes diaferia montgomery 
+impact deﬁned matrix interaction insulin production culture human beta cell effect insulin content secretion gene transcription 
+yang khoury friedman little flanders 
+how many gene underlie occurrence common complex disease population 
+int epidemiol 
+wild roglic green sicree king global prevalence diabetes estimate year projection 
+diabetes care 
+zhang need martin fellay urban telenti goldstein 
+wgaviewer software genomic annotation whole genome association study 
+genome re 
+diabetes vol 

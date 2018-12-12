@@ -1,0 +1,1002 @@
+available online www sciencedirect com sciencedirect advance mathematics 
+www elsevier com locate aim 
+divide line within simple unstable theory malliaris ,∗, shelah department mathematics university chicago university avenue chicago usa einstein institute mathematics edmond safra campus givat ram the hebrew university jerusalem jerusalem israel department mathematics hill center busch campus rutgers the state university new jersey frelinghuysen road piscataway usa receive april accept august available online october communicate jerome keisler abstract give ﬁrst zfc divide line keisler order among unstable theory speciﬁcally among simple unstable theory 
+that inﬁnite cardinal construct regular ultraﬁlter model stable theory random graph saturate simple low saturate 
+the non saturation result relies notion ﬂexible ultraﬁlters 
+prove saturation result develop property class simple theory call qr1 generalizing fact whenever set parameter sufﬁciently saturate model random graph set nonalgebraic ﬁnitely realize 
+addition give information simple unstable theory proof reframes problem saturation ultrapowers several key way 
+give new characterization good ﬁlters term excellence measure accuracy quotient boolean algebra 
+introduce develop notion moral ultraﬁlters boolean algebra 
+prove call separation variable result show problem construct ultraﬁlters precise degree saturation may proﬁtably separate set theoretic stage building excellent ﬁlter follow model theoretic stage building call moral ultraﬁlters malliaris partially support nsf grant dm gödel fellowship shelah nsf grant dms dms rutgers 
+shelah partially support israel science foundation grant 
+this paper shelah list publication 
+correspond author 
+mail address mem math uchicago edu malliaris shelah math huji shelah 
+url http shelah logic shelah 
+see front matter elsevier inc all right reserve 
+http doi org aim 
+malliaris shelah advance mathematics 
+quotient boolean algebra process highlight complexity certain pattern arise ﬁrst order formula certain boolean algebra 
+elsevier inc all right reserve 
+keywords saturation regular ultrapowers unstable theory good ﬁlters keisler order 
+summary result 
+basic deﬁnitions 
+excellent ﬁlters 
+excellence goodness 
+separation variable 
+lemma existence 
+lemma morality 
+the moral ultraﬁlter 
+the dividing line 
+introduction keisler introduce framework compare complexity countable ﬁrstorder theory term relative difﬁculty produce saturate regular ultrapowers 
+morley review paper write exciting fact give rough measure complexity theory 
+for example ﬁrst order number theory maximal theory categorical uncountable power minimal 
+the known class keisler order appear theorem 
+summary theorem result class keisler order 
+tmax precisely class countable stable theory minimum class set without ﬁnite cover property stable 
+algebraically close ﬁelds 
+next large class set stable ﬁnite cover property 
+among unstable theory there minimum class contain theory random graph 
+among theory tp2 minimum class contain tfeq 
+there maximum class tmax contain theory sop3 thus linear order 
+however model theoretic identity unstable class know 
+malliaris shelah advance mathematics keisler fundamental paper deﬁned order show existence minimum maximum class deﬁned ﬁnite cover property 
+shelah establish identity show keisler order independently detect certain key divide line classiﬁcation theory 
+shelah also prove theory linear order generally sop belongs tmax extend sop3 see shelah shelah usvyatsov 
+malliaris prove existence minimum class among tp2 theory contain theory parametrized family independent equivalence relation 
+for detail result see introduction author paper 
+the prior non zfc result keisler order shelah result implies random graph maximal keisler order 
+under gch result nonmaximality related order proved džamonja shelah shelah usvyatsov result particularly interesting light recent work keisler order sop2 
+recently substantial progress understand interaction ultraﬁlters theory malliaris malliaris shelah 
+these result set stage current work 
+paper give ﬁrst zfc divide line among unstable theory speciﬁcally among simple unstable theory 
+our proof reframes problem saturation ultrapowers term call excellence intermediate ﬁlter call morality ultraﬁlter result quotient boolean algebra 
+also introduce property qr1 capture relevant structure class simple theory include random graph 
+main theorem 
+suppose give 
+then regular ultraﬁlter saturate ultrapowers countable stable theory random graph fails saturate ultrapowers non low non simple theory 
+the organization paper follow 
+section extend overview method result 
+section deﬁnes keisler order well regular good ﬂexible say ﬁlters simple low say theory 
+section motivates deﬁnes notion excellence ﬁlter 
+section deal relation goodness excellence 
+section deﬁnes moral ultraﬁlters prove theorem separation variable 
+section contain ingredient need prove existence excellent ﬁlters admit speciﬁed homomorphism 
+begin review construction via independent family introduces notation need current set concludes prove two key inductive step existence proof 
+section contain existence proof 
+section contain proof non saturation via nonﬂexibility describe 
+section motivates deﬁnes qr1 qr1 prof hold theory random graph 
+section prove ultraﬁlter b2λ moral theory qr1 
+section contain statement proof main theorem 
+summary result explain method give overview main theorem object paper 
+this discussion informal many deﬁnitions defer later section 
+for transparency ﬁlters regular deﬁnition theory countable 
+monotonic mean antimonotonic 
+malliaris shelah advance mathematics 
+excellent ﬁlters key point leverage argument development call excellent ﬁlters notion give new characterization goodness theorem 
+frame approach brieﬂy discus good ﬁlters central role question saturation 
+let regular ultrapower 
+fix advance canonical lifting element 
+may consider represent pℵ0 follow 
+write let łos map ”). 
+then pℵ0 łos theorem naturally monotonic moreover regular choose reﬁnes łos map belongs ﬁnitely many set spell deﬁnition convention observation 
+thus whether type realize depend whether distribution multiplicative informally imply entail ask whether various ﬁnite fragment type witness give index model common realization 
+meanwhile ﬁlter say good every monotonic pℵ0 multiplicative reﬁnement function 
+from point view saturation good ultraﬁlters maximally powerful sense regular good 
+good ultraﬁlter model countable signature saturate 
+follow discussion maximum class keisler order set theoretic characterization precisely set countable theory regular implies saturate iff good 
+for account correspondence recent work keisler order see section 
+the existence good ultraﬁlters result keisler assume gch kunen zfc see instance 
+now let motivate deﬁnition present paper 
+make ﬁner distinction ultraﬁlter construction would like great degree precision priori available deﬁnition goodness 
+the issue come focus work ﬁlters rather ultraﬁlters remark 
+let regular good ﬁlter let monotonic sequence nonzero element mod necessarily sequence element priori goodness guarantee multiplicative reﬁnements monotonic sequence element enough guarantee multiplicative reﬁnement 
+continue context remark suppose image quotient boolean algebra multiplicative reﬁnement 
+then reﬁnement multiplicative mod that mod priori imply actual multiplicative reﬁnement exists 
+from consideration one see useful intensiﬁcation goodness make quotient boolean algebra precise 
+what mean 
+roughly speak property sequence quotient boolean algebra accurately reﬂect sequence quotient boolean algebra appear certain property 
+multiplicativity indeed pull back multiplicative sequence 
+malliaris shelah advance mathematics our process gain precision ﬁrst require deﬁnitions quote introduction allow describe relevant set boolean term 
+informally idea would like replace sequence element equivalent sequence way certain set boolean algebra element original sequence mod correspond set really empty 
+sometimes refer solve equation mod however ask small set would strong explain example 
+the set term capture right set rough edge trim without remove much 
+and indeed rich enough solve issue sketch see claim 
+deﬁnition excellent ﬁlters 
+let ﬁlter index set 
+say excellent ﬁnd mod mod 
+say excellent excellent every 
+note deﬁnition set term arises naturally inductive construction excellence see claim also example 
+the analysis deﬁnition excellence follow consequence ultraﬁlter construction 
+once notion excellent ﬁlter potentially two stage construction give ultraﬁlter ﬁrst ensure excellence intermediate ﬁlter move work directly quotient boolean algebra remainder construction leverage guarantee work boolean algebra sufﬁciently accurate 
+this paradigm shift accomplish section theorem also quote late introduction 
+call theorem separation variable result 
+sense allow separate set theoretic consideration involve building excellent ﬁlter model theoretic consideration involve complexity pattern come give formula certain boolean algebra b2λ 
+morality separation variables the phenomenon excellence naturally give rise complementary property call morality deﬁnition 
+say ultraﬁlter boolean algebra moral theory roughly speak incidence pattern represent resolve multiplicatively reﬁned 
+the deﬁnition rely set reduce product 
+excellence morality combine give saturation follow way theorem separation variable 
+suppose follow data regular excellent ﬁlter ultraﬁlter extend good 
+malliaris shelah advance mathematics 
+boolean algebra surjective homomorphism 
+then follow equivalent moral 
+moral formula 
+for saturate model saturate 
+what theorem accomplish 
+ﬁrst glance may appear trade one construction problem building ultraﬁlter another building ultraﬁlter 
+the gain reveal point leverage allow separate theory realize type omit other 
+the leverage provide size maximal antichain quotient boolean algebra 
+theorem building excellent ﬁlters relatively free modify quotient boolean algebra 
+then strategy follow 
+for non saturation show subsequent ultraﬁlter ﬂexible apply prior work 
+for saturation show need prevent saturation random graph 
+section contain proof existence excellent ﬁlters meeting requirement theorem 
+theorem quote general need application theorem 
+speciﬁc case one could use theorem show equivalence excellent good build good regular ﬁlter good triple 
+the general result reﬂects fact framework theorem main contribution paper make signiﬁcant use framework wider range boolean algebras work preparation 
+moreover note inductive claim theorem clearly show naturalness deﬁnition deﬁnition thus sense optimality 
+theorem existence theorem 
+let let 
+complete boolean algebra cardinality 
+then exist regular excellent ﬁlter surjective homomorphism theorem require several lemmas notation otherwise proceed smoothly 
+brieﬂy need accomplish two thing ﬁrst solve instance excellence second ensure existence homomorphism 
+begin regular ﬁlter two disjoint independent family cardinality cardinality 
+extend second ﬁlter look alike sense deﬁnition 
+build ﬁlter induction respect background correspondence consume function give constraint odd successor stage ensure give subset appropriate homomorphic image via lemma 
+even stage solve instance excellence use claim 
+non saturation the non saturation result arise via notion ﬂexible ﬁlter introduce malliaris 
+malliaris ﬂexibility necessary condition ultraﬁlter saturate non low 
+malliaris shelah advance mathematics theory 
+malliaris case tp2 malliaris shelah case sop2 ﬂexibility necessary condition ultraﬁlter saturate non simple theory 
+adapt proof shelah originally state goodness show 
+quotient boolean algebra fall size index set subsequent ultraﬁlter ﬂexible thus every subsequent ultraﬁlter fail saturate non simple non low theory corollary non ﬂexibility thus non saturation 
+let let regular excellent ﬁlter give theorem case b2λ 
+then ultraﬁlter extend build method independent function ﬂexible 
+note class simple non low theory nonempty discuss 
+saturation the saturation result arise property random graph use shelah theorem 
+this key property follow engelking karłowicz ctrg ctrg every nonalgebraic ﬁnitely realize 
+that nonalgebraic type give set size ﬁnitely realize set strictly small size see section proof 
+note every simple theory relate though weak property 
+develop generalization property appropriate context call qr1 
+informally qr1 say monotonic sequence pℵ0 give boolean algebra b2λ accurately represent pattern background theory approximate multiplicative sequence 
+this property may think describe genericity sense independence property naturally orthogonal non technical sense phenomenon divide many instance formula spread admit common realization 
+section show qr1 hold random graph lemma qr1 random graph 
+let theory random graph 
+then qr1 
+brieﬂy prove lemma begin possibility pattern avatar type 
+choose complete subalgebra sequence support covered ultraﬁlters 
+roughly speak look happen type ultraﬁlter deﬁne function record parameter collide choose small dense subset type collapse parameter set 
+since type collapse set parameter everywhere distinct always realize 
+now ﬁnd cover give ﬁnite fragment original type ﬁrst choose ultraﬁlter ﬁnitely many parameter remain distinct choose appropriate member dense set realize type 
+section apply lemma prove existence ultraﬁlter b2λ moral class theory include theory random graph theorem the moral ultraﬁlter 
+suppose let b2λ 
+then ultraﬁlter moral countable theory qr1 
+particular moral countable stable theory theory random graph 
+malliaris shelah advance mathematics 
+finally combine result prove main theorem theorem the dividing line 
+then regular ultraﬁlter countable theory qr1 saturate particular stable theory random graph saturate non low non simple theory saturate 
+thus divide line keisler order among simple unstable theory 
+follow work separate theory keisler order therefore sufﬁcient ﬁnd pair 
+complete boolean algebra cardinality ultraﬁlter moral moral 
+note give natural new outside deﬁnitions class ﬁrst order theory term whether 
+every ultraﬁlter give boolean algebra moral 
+class nice inside deﬁnitions 
+basic deﬁnitions here deﬁne keisler order property ﬁlters regular good property theory simple low 
+fairly extensive discussion keisler order include overview relevant recent work find malliaris shelah 
+for accessible survey simplicity include result boolean algebras nonforking formulas simple theory see grossberg iovino lessmann 
+for background ultraﬁlters ultrapowers see chapter 
+concentrate regular ultraﬁlters theorem focus attention theory rather choice index model 
+all ultraﬁlters paper unless otherwise state regular deﬁnition 
+range complete countable ﬁrst order theory though indicate extension uncountable language use denote inﬁnite cardinal 
+index set cardinality though usually state 
+saturates always mean regular ultraﬁlter countable complete ﬁrst order theory saturate 
+make global assumption require regular 
+ultraﬁlter construction carry always enough guarantee existence independent family function size see 
+want family independent strong way 
+ask function simultaneously achieve assign value nonempty set use present argument would need 
+see appendix theorem 
+namely statement several key theorem include condition good 
+this automatically satisﬁed main case interest countable see claim 
+otherwise extra condition put real burden proof allow easy quotation later 
+malliaris shelah advance mathematics 
+ﬁlter index set cardinality say regular simply regular exists regularize family mean 
+equivalently element belongs ﬁnitely many set 
+regular ultraﬁlters 
+inﬁnite cardinal always exist extended ﬁlter 
+pℵ0 regular see 
+next theorem context saturation ultrapower depend 
+choice index model within elementary class 
+thus restriction regular ﬁlters justiﬁes 
+quantiﬁcation model keisler order deﬁnition 
+keisler corollary see also shelah 
+suppose ambient language countable regular ultraﬁlter 
+then m0λ saturate iff m1λ saturate 
+any nonprincipal ultrapower countable language saturate 
+the connection follow deﬁnition saturation sketch introduction 
+function domain pℵ0 call monotonic pℵ0 implies multiplicative 
+say reﬁnement pℵ0 
+consider deﬁnition lens follow example 
+then monotonicity natural requirement multiplicativity ask equality hold mean index choose whenever realization common realization 
+from point view saturation powerful ultraﬁlters good ultraﬁlters introduce keisler 
+these saturate countable theory thus witness existence maximum class keisler order 
+ﬁlter call good multiplicative reﬁnement 
+call good 
+every monotonic function good 
+keisler prove existence good countably incomplete ultraﬁlters assume 
+kunen give proof zfc use independent family function also call family large oscillation 
+kunen construction technique subsequent development second author chapter key ingredient approach paper 
+give important model theoretic property 
+the reader interested primarily ultraﬁlters rather model theory may take property black box give non saturation side argument section 
+malliaris shelah advance mathematics 
+deﬁnition simple low 
+give background theory formula tree property exist parameter set inconsistent set consistent partial type 
+formula simple tree property 
+tree property formula low indiscernible sequence parameter consistent 
+element subset consistent either consistent uniformly inconsistent 
+element subset inconsistent 
+say simple respectively low every formula 
+theory low often call non low 
+deﬁnition may also formulate term shelah rank formula simple every low exists 
+for simple theory second equivalent buechler original deﬁnition ask every 
+discussion simple non low theory 
+one hand many theory simple low instance stable theory random graph model companion acfa theory difference ﬁelds 
+also theories simple non low 
+the basic example model completion follow 
+consider two sorted structure inﬁnite set one side equivalence relation inﬁnitely many inﬁnite class edge relation connect two axiom say element leave connect precisely element nth equivalence class right 
+see casanovas kim example supersimple non low theory 
+finally deﬁne keisler order propose keisler 
+this preorder theory often think partial order equivalence class 
+the hypothesis regular deﬁnition justiﬁes quantiﬁcation model 
+see keisler 
+give countable theory say regular ultraﬁlter m2λ saturate m1λ must saturate 
+keisler order inﬁnite 
+informally regular saturates implies saturates 
+determine structure keisler order 
+excellent ﬁlters section deﬁne excellent ﬁlter deﬁnition develop consequence deﬁnition 
+malliaris shelah advance mathematics convention convention 
+consider boolean algebra language {∩, informally use symmetric difference setminus 
+note negation denote overline 
+always denote sequence complement set 
+denotes boolean algebra element boolean algebra write boldface 
+chain condition minimum regular cardinal partition maximal disjoint subset cardinality less 
+for ﬁlter index set boolean algebra 
+when ﬁlter index set boolean algebra denote set positive modulo 
+equal mod formula use shorthand denote respectively 
+use symmetric difference set formulas always clear context 
+denote ﬁlters 
+deﬁnition boolean term 
+let ﬁnite set 
+write sequence variable indexed subset 
+boolean term mean term language boolean algebra see convention 
+for boolean term write indicate free variable indexed way 
+for boolean term sequence element give boolean algebra write equivalently term evaluate relevant part sequence 
+consider certain distinguish set boolean term 
+for motivation see example claim 
+let boolean algebra sequence element deﬁne set otherwise 
+for purpose paper interested call possibility pattern deﬁnition thus sufﬁcient restrict monotonic indexed sequence 
+allow element sequence 
+for boolean algebra ﬁnite sequence member deﬁne set boolean term whenever 
+malliaris shelah advance mathematics 
+ﬁlter λb1 
+ﬁlter set determines write 
+give one central deﬁnitions paper 
+deﬁnition excellent ﬁlters 
+let ﬁlter index set 
+say excellent ﬁnd mod mod 
+say excellent excellent every 
+paper focus regular excellent ﬁlters 
+since often refer sequence kind describe give name 
+give deﬁnition call satisfy )–( deﬁnition excellent reﬁnement 
+when clear context may simply say excellent reﬁnement 
+essentially distinguish term capture equation solve isolate zero set safely eliminate 
+example respect boolean term would strong would strong ask term evaluate mod would evaluate consider monotonic sequence element then mod 
+mod ask equivalent reﬁnement implies would require instance completeness 
+verify case main interest capture deﬁnition excellent 
+let ﬁlter 
+excellent ﬁnd mod au0 au1 au0 mod bu0 bu1 bu0 
+excellent ﬁnd mod 
+excellent good 
+malliaris shelah advance mathematics proof 
+note follow case sequence assume monotonic sequence element let give otherwise replace ∅). 
+assume excellent let excellent reﬁnement 
+then condition hold deﬁnition 
+for condition sufﬁce show (∗) au0 au1 au0 mod (∗∗), (∗∗) condition write boolean term xu0 xu1 belongs 
+why would sufﬁce 
+because would immediate consequence excellent reﬁnement implies bu0 bu1 since (∗∗) implies au0 au1 mod let prove (∗) implies (∗∗). 
+that verify (∗) implies evaluate mod term sense deﬁnition 
+for mod au0 au1 mod (∗); either mod els au0 mod clearly true case previous case symmetry 
+word since sufﬁcient condition multiplicative expressible one distinguish term sequence multiplicative mod even consist element true multiplicative reﬁnement desire 
+this complete proof 
+may naturally extend monotonic sequence element index 
+let sequence write 
+apply deﬁnition obtain excellent reﬁnement 
+condition )–( clearly hold 
+for condition let 
+sufﬁces check boolean term 
+demand mod hold hypothesis 
+intersection replace least one intersection empty desire 
+claim remain true case replace arbitrary boolean algebra proof 
+excellence goodness section investigate relationship excellence goodness prove characterization base case remark explain discussion 
+the characterization theorem 
+assume ﬁlter boolean algebra 
+good excellent 
+malliaris shelah advance mathematics 
+let sequence element look excellent reﬁnement 
+that let deﬁnition 
+then would like ﬁnd whenever 
+0b1 sense deﬁnition boolean algebra 
+step safe set 
+first deﬁne a1u 
+construction a1u monotonic sequence element step multiplicative reﬁnement 
+apply hypothesis goodness obtain multiplicative reﬁnement b1u 
+each b1u element fact step the sequence deﬁne b1u 
+remainder proof show desire excellent reﬁnement 
+immediately deﬁnition mod remain show excellence hold 
+step excellence 
+for step consider 
+first deﬁnition fact constant language boolean algebras whenever respect note mean substitute 0b1 element a1u 
+second sense otherwise a1ς apply previous remark twice 
+for deﬁne b1ς b1ς b1t second equality use multiplicativity 
+thus give partition thus also b1u 
+sufﬁce show 
+first may justify restrict 
+then let vary use partition 
+sufﬁces show 
+let give 
+b1u b1w deﬁnition monotonicity 
+hence b1w b1w 
+b1w deﬁnition b1w thus 
+malliaris shelah advance mathematics 
+word write 
+otherwise bcw otherwise 
+now deﬁnition monotonicity step 
+b1ς a1ς 
+completes proof 
+theorem new characterization goodness 
+let ﬁlter boolean algebra 
+then follow equivalent 
+claim via remark 
+one naturally localize excellence goodness formula conﬁgurations try reﬁne arise distribution weak distribution type theory 
+from point view theorem show equivalence hold base case good formula theory iff excellent formula theory 
+otherwise strictly small class situation appear different 
+for instance work progress author investigate connection goodness atomic saturation versus connection excellence quantiﬁer free saturation show locally excellence goodness distinguish 
+believe interesting ﬁnd future point contact divergence two major property one varies formulas theory consideration 
+separation variable 
+the main result section separation variable theorem 
+the reader may ﬁnd useful refer discussion section frame result 
+deﬁnition possibility pattern 
+let boolean algebra 
+say possibility 
+implies monotonicity satisﬁes 
+malliaris shelah advance mathematics 
+ﬁnd model every iff 
+regard deﬁnition the requirement reﬂects fact informally speak interested look sequence set represent instance formula instance set contain image łos map would like accurate sense ultraﬁlter induce set nonzero element reﬂects pattern consistency inconsistency possible achieve use give formula model sequence parameter thus name possibility pattern 
+order build ultraﬁlters boolean algebras saturate give theory need way capture sequence whose multiplicative reﬁnements truly necessary visible theory question 
+slogan deﬁnition might nonzero element induce ultraﬁlter reveals consistent conﬁguration 
+sense characteristic sequence 
+deﬁnition moral ultraﬁlters boolean algebra 
+say ultraﬁlter boolean algebra moral every possibility satisfy deﬁnition possibility multiplicative reﬁnement 
+bu1 bu2 bu1 write moral mean moral moral mean formulas language see remark 
+note moral deﬁnition indeed mean morality hold locally 
+the global local case different context thanks fact case large language corollary 
+let formula language 
+type give parameter set consistent set positive negative instance parameter set 
+fact local saturation implies saturation theorem 
+suppose regular ultraﬁlter countable complete ﬁrst order theory 
+then follow equivalent saturate 
+realizes type set size formula language 
+malliaris shelah advance mathematics 
+paper focus countable theory transparency many result use prove include fact may extend general context 
+deﬁnition distribution 
+let countable complete ﬁrst order theory regular ultraﬁlter 
+let consistent partial type 
+then distribution map pℵ0 satisﬁes 
+range reﬁnes łos map 
+informally speak 
+note presence implies 
+range regularize family 
+map satisfy call weak distribution 
+distribution satisfy additional condition observation call accurate 
+often identify distribution weak distribution image 
+sequence form 
+let countable complete ﬁrst order theory regular ultraﬁlter 
+then follow equivalent for every consistent partial type size distribution multiplicative reﬁnement 
+let deﬁnition 
+weak distribution may choose weak distribution accurate mean addition 
+let give łos map 
+the argument extend large language change limit stage follow strong hypothesis lcf 
+the full statement corollary 
+let complete ﬁrst order theory 
+suppose regular ultraﬁlter good lcf 
+then follow equivalent saturate 
+realizes type set size formula language 
+malliaris shelah advance mathematics 
+let regularize family let give 
+now set ﬁnite 
+finally deﬁne follow 
+set size 
+for deﬁne 
+then desire 
+lemma transfer lemma 
+suppose follow data regular excellent ﬁlter ultraﬁlter extend good boolean algebra surjective homomorphism saturate 
+then follow two statement true 
+let image accurate weak distribution type 
+then possibility pattern 
+let possibility pattern 
+then exist sequence accurate weak distribution type 
+let accurate weak distribution give type let sequence element give 
+check possibility pattern 
+condition )–( deﬁnition follow deﬁnitions 
+recall condition need check 
+satisﬁes ﬁnd model every iff 
+let give 
+then mod since homomorphism 
+moreover partition 
+malliaris shelah advance mathematics 
+choose belong nonempty set 
+then accuracy let provide desired witness inset equation 
+possibility pattern desire 
+let possibility pattern 
+first surjectivity may choose 
+apply deﬁnition obtain excellent reﬁnement 
+prove claim look element accurate weak distribution type 
+deﬁne ﬁrst choosing follow 
+for let 
+want ﬁnd every ﬁnite 
+model saturate compactness sufﬁces show choose arbitrary ﬁxed ﬁnite 
+list subset let 
+list subset 
+notation look element 
+first observe always ﬁnd bwi bvj 
+suppose contradiction 
+consider correspond boolean term ∗)) xui xvj 
+let check whether 
+term assumption contradiction 
+miss expression clearly 
+but recall list include singleton set deﬁnition 
+obtain well 
+this show 
+excellent ∗)) 
+this contradict choice completes observation 
+since always ﬁnd apply deﬁnition possibility pattern choose desire parameter 
+thus able choose describe 
+for let arbitrary 
+then let 
+the type accurate weak distribution completes proof 
+theorem separation variable 
+suppose follow data 
+regular excellent ﬁlter ultraﬁlter extend good boolean algebra surjective homomorphism 
+then follow equivalent 
+moral formula 
+for saturate model saturate 
+malliaris shelah advance mathematics 
+first note sufﬁces replace conclusion saturate type formula fact main case interest keisler order corollary general 
+thus follow concentrate type 
+note also regular ultraﬁlter good thus always satisﬁed main case interest countable theory 
+suppose moral would like show saturate 
+let type question let accurate distribution thus sequence element 
+sufﬁce show multiplicative reﬁnement 
+transfer lemma write possibility pattern 
+assumed moral thus contain multiplicative reﬁnement 
+then sequence element multiplicative modulo apply excellence may replace sequence indexed sequence reﬁnes whose element belong truly multiplicative condition deﬁnition respectively 
+fortiori multiplicative reﬁnement completes proof 
+suppose saturate formula language recall need 
+show moral 
+let possibility look multiplicative reﬁnement 
+transfer lemma exist accurate weak distribution type deﬁnition assumption theorem fact accurate distribution 
+thus consistent type therefore assumption realize 
+let realization 
+then sequence deﬁned image multiplicative reﬁnement sequence element thus well multiplicative reﬁnement 
+this complete proof 
+often need keep track formula pattern much small critical set sufﬁce morality saturation 
+deﬁnition critical set 
+say critical set formula whenever regular ultraﬁlter good saturate saturated type 
+lemma existence section develop machinery streamline existence proof excellent ﬁlters theorem 
+see discussion organizational discussion aim section postpone several deﬁnitions 
+begin recall independent family function useful tool keep track remain decision ﬁlter construction 
+give ﬁlter say family function independent mod every distinct 
+choice range every mod 
+malliaris shelah advance mathematics 
+theorem see engelking karłowicz theorem see also shelah theorem 
+for every exists family size onto independent modulo empty ﬁlter alternately ﬁlter generate 
+for every exists regular ﬁlter family size independent modulo 
+let boolean algebra 
+small regular cardinal maximal antichain cardinality less 
+ﬁlter mean 
+suppose maximal ﬁlter modulo independent 
+then iff ﬁnitely many range range 
+otherwise ﬁrst regular cardinal implies range 
+the following deﬁnition good triple current use keep name note imply ﬁlter good sense deﬁnition though cause confusion 
+usual omit pre mean maximal give property 
+deﬁnition good triple 
+the triple pre good 
+inﬁnite set cardinality ﬁlter family function function ﬁnite mod 
+fin deﬁned dom ﬁnite fin fin 
+omit pre maximal subject condition 
+good triple fin dense mod proof 
+prove general case observation 
+the next fact summarizes family allow construct ultraﬁlters detail see chapter section 
+see lemma 
+suppose maximal ﬁlter modulo independent disjoint range cardinality less cof cof sequence increase let 
+suppose moreover increase sequence ﬁlters satisfy 
+malliaris shelah advance mathematics 
+each generate set support mod fin 
+independent modulo 
+iii maximal respect 
+then maximal ﬁlter modulo independent 
+empty ultraﬁlter satisﬁed whenever nontrivial satisﬁes 
+give satisfy extend ﬁlter satisfy iii 
+range partition 
+denote completion boolean algebra generate freely except condition 
+main construction ﬁrst build excellent ﬁlter whose quotient boolean algebra admit surjective homomorphism onto construct ultraﬁlter use method independent function 
+for ﬁrst stage set tool develop begin deﬁnition allow upgrade notion independent mod take account background boolean algebra retain speciﬁed amount freedom 
+this used construction theorem intention end construction desire map 
+for second stage deﬁnition observation discus direct translation facts family independent function purpose construct ultraﬁlters b2λ 
+thus case ﬁrst stage take b2λ boolean algebra occur throughout section essentially object different us correspond different stage proof 
+deﬁnition good boolean triple 
+the boolean triple pre good b2λ particular ﬁlter set partition function ﬁnite mod dom fin deﬁned dom ﬁnite fin fin 
+omit pre maximal subject condition 
+notice accord notation boolean triple 
+good ordinary triple would 
+this cause con 
+malliaris shelah advance mathematics fusion 
+throughout paper consider independent family size index set size deﬁnition 
+say set independent partition mod pre good boolean triple deﬁnition 
+let good boolean triple 
+let sequence element nonzero modulo then exist set independent partition element support fin 
+particular notation deﬁnition true 
+for choose partition ahj fin support 
+try induction use translation observation 
+odd step choose new element partition remainder inside even step choose new element remainder inside limit take union 
+partition stop bound stage remainder become empty may renumber partition indexed 
+let dom set index row use partition 
+let collect row 
+then support fin construction complete proof 
+this complete introduction notation building ultraﬁlters speciﬁed boolean algebra step correspond morality ”). 
+introduce notation complementary step correspond excellence 
+deﬁnition boolean algebra constraint independent family function 
+fix index set ﬁlter 
+let complete boolean algebra cardinality family function independent modulo ﬁlter 
+fix advance choice enumeration enumeration give enumeration remain ﬁxed remainder argument set 
+let cond cond bγ0 
+boolean term 
+say constrain modulo choice enumeration induce deﬁnition ∗}, contain ﬁlter generate 
+remark deﬁnition first could take family function range size 
+second deﬁnition look towards observation observation 
+main case interest constraint give boolean algebra barrier independence 
+malliaris shelah advance mathematics 
+notation deﬁnition let ﬁlter 
+suppose constrain modulo fix enumeration witness 
+let fin dom dom dom range 
+say fin prevent ∗]< range recall convention exponentiation 
+now deﬁne fin fin prevent fin fin 
+say pre good triple enumeration inﬁnite set cardinality regular ﬁlter family function 
+complete boolean algebra constrain modulo fin mod omit pre maximal subject condition 
+say pre good triple pre good triple particular 
+boolean algebra fin fin mod 
+mean range 
+current paper focus case 
+simplify notation write pre good triple good triple case simply pre good good cardinal constraint clear context 
+the next observation veriﬁes constraint boolean algebra still yield ﬁlter 
+let deﬁnition 
+suppose family function onto pre good triple particular independent mod then let ﬁlter generate notation deﬁnition ﬁlter every fin mod 
+since cond close ﬁnite disjunction sufﬁces show one elements nontrivial complement 
+see put negation correspond boolean term disjunctive normal form 
+since bγ0 
+bγn choose disjunct nonzero 
+then conjunction literal induct construct fin mod simply replace 
+malliaris shelah advance mathematics literal form bγi condition gγi literal form bγj condition gγj 
+recall range 
+choice indeed consistent mod since family independent 
+moreover contain construction 
+this show complement set cond contain element fin modulo completes proof )–( 
+for completeness spell object exist 
+let let 
+complete boolean algebra 
+then exist regular ﬁlter family function family function good triple 
+let independent family give corollary 
+without loss generality write disjoint union satisfy )–( 
+fin cardinality remain pre good 
+let list respectively 
+let usual deﬁne set condition cond bγ0 
+boolean term 
+let ﬁlter generate cond 
+then observation ﬁlter pre good 
+ﬁnish let maximal subject constraint pre good 
+good triple surjective homomorphism b2λ 
+good triple fin dense mod proof 
+just usual proof 
+recall deﬁnition good triple assumes maximal independent mod suppose contradiction statement claim fails 
+mod every fin mod thus mod let ﬁlter generate 
+then also good triple contradict assumption maxim with notation place give two proof 
+recall prove existence excellent ﬁlters want one hand ensure quotient modulo ﬁnal ﬁlter isomorphic give complete boolean algebra ensure existence excellent reﬁnements 
+the ﬁnal two result section form correspond inductive step 
+malliaris shelah advance mathematics 
+roughly speak follow lemma say ﬁlter family range family constrain subset index set may extend ﬁlter equivalent modulo element condition completeness cost element 
+suppose good triple 
+ﬁlter extend good triple support fin modulo 
+our strategy follow 
+induct consume function build par tition use element fin either entirely inside entirely outside ﬁxed set 
+the internal approximation stage call jα1 external approximation call jα0 
+since need support fin mod must continually consume function order clarify picture stage large ﬁlter continue construct partition 
+consume ﬁnitely many function successor stage limit take union 
+apply fact show construction stop 
+when induction stop desire partition complete proof 
+more formally try choose induction object j0α j1α satisfy 
+fin j1α 
+j1α mod mod 
+j1β j1α 
+fin j1α 
+j1α mod mod 
+j0β j0α 
+ﬁlter extend good triple 
+for let 
+choose j10 j00 maximal subject constraint )–( 
+for limit deﬁne accordance accordance 
+likewise let j1α j1β let j0α j0β 
+for successor stage distinguish even increase j0β odd increase j1β 
+first consider 
+j1β mod j0β mod satisfy ﬁnish 
+j1β mod ﬁnished construction j1β 
+suppose j1β mod 
+apply observation ﬁnd set fin fin j1β mod 
+malliaris shelah advance mathematics keep mind asymmetry role proof let dom satisﬁes deﬁnition fin 
+now let ﬁlter generated 
+clearly ﬁlter condition construction satisfy 
+finally let j1α j1β let j0α j0β 
+the case parallel odd case j0β j0α replace j1β j1α replace 
+without loss generality let maximal subject fact pre good triple 
+note condition fact moreover j0α j1α set pairwise disjoint element j0α j1α 
+thus length construction bound 
+word point j1β mod j0β mod take ﬁnish proof 
+conclude section show construct excellent reﬁnement 
+suppose good 
+let let sequence element fin mod then ﬁlter sequence element satisfy deﬁnition namely mod mod moreover good 
+proceed stage 
+step the exceptional set 
+let enumerate ﬁnite subset 
+for let boolean term mod 
+then ﬁnite union subset mod hence mod step the role 
+let sequence give otherwise 
+then also deﬁnition constant language boolean algebra 
+step deﬁning ﬁlter 
+now deﬁne 
+then propose reﬁnement 
+let ﬁlter generate 
+malliaris shelah advance mathematics 
+step the ﬁlter nontrivial triple pre good 
+then mod mod hold hypothesis independence since 
+likewise assume fin mod recall 
+since therefore mod thus ﬁlter 
+now consider fin 
+there two case 
+mod intersection contain mod otherwise mod either case nontrivially intersect mod remain nonempty mod 
+this show pre good triple 
+step the sequence excellent 
+show )–( statement claim 
+for condition let give 
+suppose contradiction 
+then step case give contradiction 
+step good triple 
+ﬁnish without loss generality may take maximal subject condition pre good triple 
+existence section prove complete 
+boolean algebra cardinality regular excellent ﬁlter isomorphic 
+theorem existence 
+let let 
+complete boolean algebra cardinality 
+then exist regular excellent ﬁlter surjective homomorphism b2λ 
+give proof several stage 
+recall identiﬁed index set 
+stage preliminary 
+begin choose family function onto family function onto good boolean triple notation deﬁnition 
+such triple exist corollary 
+stage set inductive construction 
+set construction build induction 
+recall want ensure one hand ﬁnal ﬁlter excellent quotient exactly 
+address issue quotient enumerate ensure odd inductive step set consideration appropriate image 
+this sufﬁces observation 
+order address possible barrier excellence even inductive step need enumeration sequence deﬁnition 
+say pℵ0 pℵ0 index sequence whenever 
+malliaris shelah advance mathematics let list index sequence appear time 
+below give write 
+))” indicate ﬁnite sequence element indexed image ﬁnite subset 
+now choose induction ﬁlter 
+limit implies 
+fin mod 
+boolean term mod ﬁnd buα satisfy deﬁnition 
+for trivial let 
+for limit let 
+for successor distinguish even odd 
+stage odd successor step 
+for address give 
+mod let ﬁnish 
+otherwise apply lemma case 
+then let ﬁlter let family return lemma 
+without loss generality let maximal subject condition remain independent 
+note condition guarantee statement lemma 
+stage even successor step 
+for address condition 
+suppose give index function correspond sequence element 
+clause condition fail let see bookkeeping remark next step 
+otherwise apply claim case 
+complete stage let ﬁlter return claim let ∗}. 
+stage inductive condition guarantee statement claim 
+stage remark bookkeeping 
+note element sequence appear element enumeration odd successor step condition satisﬁed deﬁnition good triple 
+likewise since index function therefore potential sequence occur coﬁnally often master enumeration coﬁnality construction great justiﬁed claim adjust instance boolean term ﬁlter already considers small 
+stage finish proof 
+since trouble carry induction ﬁnish letting 
+this complete proof 
+what effect section theorem 
+for purpose main theorem present paper theorem mean could substitute regular good ﬁlter 
+malliaris shelah advance mathematics 
+regular excellent ﬁlter theorem 
+then even step proof could replace add multiplicative reﬁnements kunen proof existence good ultraﬁlters 
+however essential also able specify quotient boolean algebra guarantee odd step 
+beyond result current paper believe excellence sufﬁciently interest right justify carry proof theorem language 
+ﬂexibility section give necessary background non saturation claim main theorem 
+that leverage prior work show build ﬁlter 
+ultraﬁlter extend saturate non simple non low theory 
+that provide build method independent family function appeal complete ultraﬁlters make situation change see 
+malliaris shelah remark 
+the main deﬁnition section ﬂexible ﬁlter due malliaris 
+roughly speak deﬁnition assign natural size give regularize family ask ﬂexible ﬁlter regularize family arbitrarily small nonstandard size 
+deﬁnition flexible ﬁlters 
+let regular ﬁlter let regularize family say element nonstandard deﬁne size element deﬁned 
+say ﬂexible every nonstandard element regularize family mod otherwise say inﬂexible simply ﬂexible 
+when often omit 
+for ﬂexibility see malliaris recent work malliaris shelah show ﬂexible consistently weak good 
+malliaris show ﬂexibility detect non low theory fact 
+see malliaris lemma 
+let non low let suppose regular ultraﬁlter ﬂexible 
+then saturate 
+dichotomy theorem shelah non simple theory either tree property ﬁrst kind tp1 equivalently sop2 els second kind tp2 
+consequence malliaris proof existence keisler minimum tp2 theory fact 
+see malliaris lemma 
+let regular ultraﬁlter 
+saturates theory tp2 must ﬂexible 
+consequence recent work malliaris shelah ultrapowers realize sop2 type complementary result 
+reword malliaris shelah claim level theory 
+let regular ultraﬁlter 
+saturates theory sop2 must ﬂexible 
+malliaris shelah advance mathematics combine three fact obtain conclusion 
+let regular ultraﬁlter suppose ﬂexible 
+let theory either non low non simple 
+then saturate 
+see observation 
+ﬂexible whenever pℵ0 pℵ0 multiplicative reﬁnement 
+the remain ingredient theorem shelah state constraint goodness 
+however proof proceeds deﬁning countably many element show function pℵ0 give multiplicative reﬁnement 
+since function uniform cardinality proof show albeit anachronistically failure ﬂexibility 
+see shelah claim 
+let maximal ﬁlter modulo independent inﬁnitely many range ultraﬁlter build method independent family function 
+then good 
+more precisely ﬂexible 
+let let regular excellent ﬁlter give theorem case b2λ 
+clearly b2λ 
+deﬁnition whenever maximal disjoint set nonzero element thus pairwise disjoint set nonzero element 
+let let regular excellent ﬁlter give theorem case b2λ 
+then ultraﬁlter extend build method independent function ﬂexible 
+the translation direct use observation 
+for completeness justify compliance word maximal fact 
+language theorem ﬁlter build union increase sequence ﬁlters 
+for good triple 
+thus fact maximal modulo remain independent 
+but construction isomorphic thus independent family function domain range 
+let stand statement fact sufﬁces 
+let let regular excellent ﬁlter give theorem case b2λ 
+let ultraﬁlter construct method independent family function 
+then saturate whenever non simple non low 
+corollary conclusion 
+malliaris shelah advance mathematics 
+lemmas morality section give non saturation cardinality argument small 
+theorem shift burden saturation onto morality ultraﬁlter 
+thus next section paper aim show ultraﬁlter b2λ deﬁnition moral trg theory random graph 
+however build somewhat general theory 
+the key inductive step construct ultraﬁlter ﬁnd multiplicative reﬁnement possibility pattern 
+essentially two stage 
+first section next show possibility pattern cover approximation multiplicative reﬁnement 
+second leverage approximation produce multiplicative reﬁnement original pattern 
+ﬁrst state several result indicate sense random graph see easy saturate theory divide 
+theorem see engelking karłowicz theorem 
+the cartesian product topological space contain dense subset power contain dense subset power 
+proof sketch 
+reduce case identify dense subset factor discrete space element 
+theorem guarantee existence independent family 
+index cartesian product subset element family let function give 
+then condition independent say precisely image dense product topology 
+note importance theorem theorem conclusion particular problem dense subsets factor ﬁnite 
+recall trg theory random graph language 
+ctrg ctrg every nonalgebraic ﬁnitely realize 
+quantiﬁer elimination sufﬁces consider xry xry 
+write stone space nonalgebraic type product many discrete element stone space apply previous theorem 
+the dense family size give theorem context family type since monster model saturate realize 
+call result set realization 
+the hypothesis density mean precisely nonalgebraic type ﬁnitely realize 
+the next fact simply restate proofs different language 
+ﬁnd set dense tychonoff topology 
+let b2λ 
+let b2λ boolean subalgebra generate independent partition see deﬁnition let completion 
+then write union ultraﬁlters 
+malliaris shelah advance mathematics observation 
+let b2λ good 
+let sequence element 
+then complete subalgebra sequence ultraﬁlters support 
+base partition write union ultraﬁlters 
+observation fact 
+deﬁnition the key approximation property 
+qr0 let qr0 mean complete countable ﬁrst order theory formula language 
+qr1 let qr1 mean qr0 addition give b2λ deﬁnition ultraﬁlter iii possibility 
+ﬁnd multiplicative reﬁnement iii 
+write qr1 mean qr1 critical set formula alternately critical set possibility pattern deﬁnition 
+suppose regular excellent ﬁlter ultraﬁlter extend b2λ boolean algebra surjective homomorphism formula 
+qr1 hold case deﬁnition replace quotient boolean algebra qr1 
+transfer lemma 
+the set xry xry critical set formula theory random graph 
+moreover consistency set instance follow consistency element subset 
+malliaris shelah advance mathematics 
+quantiﬁer elimination since algebraic type automatically realize regular ultrapowers 
+informally write instance formula observation truth value lemma 
+let theory random graph formula observation 
+then qr1 thus qr1 
+let ultraﬁlter let possibility satisfy deﬁnition 
+sufﬁce prove observation thus work set 
+reduce product excellent ﬁlter admits homomorphism let ﬁxed model random graph 
+transfer theorem may associate weak distribution nonalgebraic type element belong 
+give series deﬁnitions assertion 
+step support subalgebra 
+apply observation choose complete subalgebra cover sequence ultraﬁlters 
+follow denote set generator 
+note element support partition whose element ﬁnite intersection element 
+denote set nonempty ﬁnite intersection element nonempty mean 
+this set direct analogue fin case function correspond 
+step the collision function 
+for deﬁne partial function follow 
+let witness mean aj1 
+note condition may ask 
+however redundant possibility pattern random graph 
+choice whenever 
+note also one 
+let ch1 ch2 two distinct value give associated witness set notice ch1 ch2 witness ﬁlter contradict linear order 
+for remainder argument let witness 
+step inject 
+dom ai1 ai2 
+malliaris shelah advance mathematics 
+echc oi1nt racdhic it2s 
+contradicts step mod 
+step the family approximation index 
+roughly speak choose formula type whose parameter collide modulo record element whose instance type exponent ﬁltered element dense family function 
+step index double subscript little transparent leave pair 
+note neither set depend 
+step the multiplicative reﬁnements 
+for step let 
+let verify indeed multiplicative reﬁnement 
+since none intersection empty mod fact belong assignment multiplicative 
+let verify reﬁnes original sequence 
+observation sufﬁces check 
+the case follow step 
+step choice whenever 
+choice fact possibility pattern must desire 
+that inconsistency random graph arise equality 
+step cover type 
+step show sequence approximation cover type 
+let give let list 
+informally ﬁnd set give tuple distinct collision 
+function well deﬁned 
+this set belong observation construction 
+image desire 
+need choose correspond correct pattern 
+positive negative instance fact 
+more formally let aik set parameter distinct note particular 
+choose yh0 mod for choose yhm aim ajm aim 
+let yhn choice 
+note yhn witness also choice yh0 yhn 
+malliaris shelah advance mathematics 
+chose sequence function dense 
+now require 
+step index 
+for notational alignment deﬁnition index family triple 
+step largeness 
+finally verify 
+note belong 
+support ultraﬁlter may ﬁnd ∗)”. 
+since sequence choose cover choose 
+note may choose addition since index step amount absorb additional parameter 
+then nonzero intersects member 
+this complete proof 
+two property random graph make proof transparent ﬁrst question whether give distribution consistent relies pattern incidence parameter second pattern admit many inconsistency divide long chain boolean algebra describe fact translation 
+the class theory consistency distribution relies incidence quite rich 
+they study classiﬁed malliaris show theory dominate sense keisler order either empty theory random graph minimum tp2 theory 
+model completion parametrized family crosscut equivalence relation 
+such theory intrinsic interest correspond naturally independence property assertion second order structure ultrapowers fact classiﬁcation apply second author proof four second order quantiﬁers 
+clear result consistency distribution relies incidence enough guarantee proof lemma go 
+particular minimum tp2 theory would allow carry part proof lemma distribute element collision control function fact would longer apply due amount divide corresponding function fact would thus need large domain large properly code possible type 
+since ultraﬁlter saturates minimum tp2 theory ﬂexible discussed section main theorem paper show distinction random graph dominate theory tfeq dominated theory indeed sharp 
+the moral ultraﬁlter section construct ultraﬁlter b2λ moral qr1 theory particular theory random graph 
+note random graph minimum keisler order among unstable theory see 
+suppose let b2λ 
+then ultraﬁlter moral countable theory qr1 
+particular moral countable stable theory theory random graph 
+malliaris shelah advance mathematics proof 
+ﬁrst prove particular clause 
+any ultraﬁlter moral random graph lemma 
+moreover unstable theory particular random graph strictly stable theory keisler order see theorem 
+thus theorem moral random graph must moral countable stable theory well 
+remainder proof construct ultraﬁlter 
+step setup inductive construction 
+build ultraﬁlter 
+enumerate generator notation deﬁnition 
+let enumeration relevant possibility possibility occur many time 
+count note rename symbol continuum many complete countable theory continuum many theory qr1 
+moreover since may identify possibility pattern sequence pℵ0 pattern theory 
+build induction continuous increase sequence ﬁlters continuous decrease sequence independent partition satisfy follow condition 
+implies ﬁlters limit implies implies implies limit implies implies sequence element multiplicative reﬁnement consist element implies good boolean triple d2λ 
+for case let set generator deﬁnition 
+the limit case uniquely determine inductive hypothesis consistent direct translation fact 
+step the successor stage 
+thus nontrivial point case 
+let give suppose choose satisfy condition continue next step 
+note assume let ultraﬁlter thus 
+then may apply deﬁnition place 
+let object return deﬁnition 
+mod let 
+since nonempty set apply observation obtain element support fin 
+let element 
+now deﬁne propose multiplicative reﬁnement 
+for deﬁne 
+malliaris shelah advance mathematics 
+verify multiplicative approximation multiplicative 
+show set generate ﬁlter retains enough independence satisfy 
+let give 
+since monotonic since remark mod set generates ﬁlter call 
+let fin 
+choice nonzero fin 
+inductive hypothesis independence since pairwise empty intersection 
+show pre good boolean triple 
+without loss generality extend ﬁlter good boolean triple 
+this complete successor stage 
+step finish 
+note ultraﬁlter likewise g2λ empty fact explain begin section 
+this complete proof 
+the dividing line theorem 
+then regular ultraﬁlter countable theory qr1 saturate particular stable theory random graph saturate non low non simple theory saturate 
+thus divide line keisler order among simple unstable theory 
+theorem construction problem separate problem excellence problem morality 
+theorem regular excellent ﬁlter admits surjective homomorphism b2λ 
+theorem ultraﬁlter b2λ moral countable theory qr1 
+now let ∗}. 
+then ultraﬁlter regular extends 
+satisﬁes condition theorems satisﬁes condition conclusion 
+this complete proof 
+acknowledgment grateful anonymous referee thorough thoughtful read paper many comment improve presentation result 
+malliaris shelah advance mathematics reference buechler lascar strong type simple theory 
+symbolic logic 
+casanova kim supersimple nonlow theory notre dame 
+keisler model theory north holland 
+džamonja shelah maxim ann 
+pure appl 
+engelking karłowicz some theorem set theory topological consequence fund 
+grossberg iovino lessmann primer simple theory arch 
+keisler good ideal ﬁelds set ann 
+keisler ultraproducts saturate 
+symbolic logic 
+kunen ultraﬁlters independent set trans 
+malliaris phd thesis university california berkeley 
+malliaris realization type keisler order ann 
+pure appl 
+malliaris the characteristic sequence ﬁrst order formula 
+symbolic logic 
+malliaris hypergraph sequence tool saturation ultrapowers 
+symbolic logic 
+malliaris independence order interaction ultraﬁlters theory ann 
+pure appl 
+malliaris shelah construct regular ultraﬁlters model theoretic point view arxiv 
+malliaris shelah model theoretic property ultraﬁlters build independent family function arxiv 
+malliaris shelah coﬁnality spectrum problem model theory set theory general topology arxiv 
+shelah classiﬁcation theory north holland 
+shelah simple unstable theory ann 
+shelah classiﬁcation theory number non isomorphic model revise north holland 
+shelah toward classify unstable theory ann 
+pure appl 
+shelah usvyatsov more sop1 sop2 ann 
+pure appl 

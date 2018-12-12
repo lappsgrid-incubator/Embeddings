@@ -1,0 +1,337 @@
+Earth and Planetary Science Letters 474 (2017) 59–67
+Contents lists available at ScienceDirect
+Earth and Planetary Science Letters
+www.elsevier.com/locate/epsl
+
+Continental underplating after slab break-off
+V. Magni a,b,∗, M.B. Allen b, J. van Hunen b, P. Bouilhol c,b
+a The Centre for Earth Evolution and Dynamics (CEED), University of Oslo, Sem Sælands vei 24, PO Box 1048, Blindern, NO-0316 Oslo, Norway b Department of Earth Sciences, Durham University, DH1 3LE, Durham, United Kingdom c Université Clermont Auvergne, CNRS, IRD, OPGC, Laboratoire Magmas et Volcans, F-63000 Clermont-Ferrand, France
+
+article info
+Article history: Received 19 September 2016 Received in revised form 2 May 2017 Accepted 9 June 2017 Available online 30 June 2017 Editor: B. Buffett
+Keywords: continental collision underplating slab break-off numerical modelling subduction dynamics
+
+abstract
+We present three-dimensional numerical models to investigate the dynamics of continental collision, and in particular what happens to the subducted continental lithosphere after oceanic slab break-off. We ﬁnd that in some scenarios the subducting continental lithosphere underthrusts the overriding plate not immediately after it enters the trench, but after oceanic slab break-off. In this case, the continental plate ﬁrst subducts with a steep angle and then, after the slab breaks off at depth, it rises back towards the surface and ﬂattens below the overriding plate, forming a thick horizontal layer of continental crust that extends for about 200 km beyond the suture. This type of behaviour depends on the width of the oceanic plate marginal to the collision zone: wide oceanic margins promote continental underplating and marginal back-arc basins; narrow margins do not show such underplating unless a far ﬁeld force is applied. Our models show that, as the subducted continental lithosphere rises, the mantle wedge progressively migrates away from the suture and the continental crust heats up, reaching temperatures >900 ◦C. This heating might lead to crustal melting, and resultant magmatism. We observe a sharp peak in the overriding plate rock uplift right after the occurrence of slab break-off. Afterwards, during underplating, the maximum rock uplift is smaller, but the affected area is much wider (up to 350 km). These results can be used to explain the dynamics that led to the present-day crustal conﬁguration of the India–Eurasia collision zone and its consequences for the regional tectonic and magmatic evolution.
+© 2017 The Author(s). Published by Elsevier B.V. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+
+1. Introduction
+The dynamics of continental collision are complex due to the many forces acting in the system at the same time and the many factors that can affect them. Different scenarios are possible when a continent reaches the subduction zone trench. For instance, in the Apennines and the Carpathians many studies suggested that delamination of the lithospheric mantle from the continental crust occurred, leaving a thin layer of crust as the lithospheric mantle keeps subducting (e.g. Bird, 1979; Cloos, 1993; Brun and Faccenna, 2008; Gög˘üs¸ et al., 2011). In other cases (e.g. Zagros, Himalayas) slab break-off occurs as a result of the high tensile stresses caused by the oceanic slab pull at depth and the buoyant continental crust that resists subduction at the surface (e.g. Davies and von Blanckenburg, 1995; Wong A Ton and Wortel, 1997; Replumaz et al., 2010). Seismic studies that focused more on the architecture of the Himalayan area, however, showed that the Indian con-
+* Corresponding author at: The Centre for Earth Evolution and Dynamics (CEED),
+University of Oslo, Sem Sælands vei 24, PO Box 1048, Blindern, NO-0316 Oslo, Norway.
+E-mail address: valentina.magni@geo.uio.no (V. Magni).
+
+tinental lithosphere lies sub-horizontally underneath Eurasia for about 200 km north of the suture zone (Nábeˇlek et al., 2009; Chen et al., 2010). This conﬁguration has also been suggested to be present in ancient orogenies (e.g. the Slave Province in Canada, Helmstaedt, 2009; the Variscan orogeny in France, Averbuch and Piromallo, 2012). It is still unclear how the underthrusting of the subducting continental lithosphere and slab break-off coexist in the same system. In particular, it is poorly known how underthrusting evolves during continental collision, the dynamics of this process, and the factors that control its occurrence.
+The long-term history of the plates prior to collision is one of the key factors that can affect the evolution of the continental collision itself. Old and cold continents, such as cratons, are stronger than younger continents, which are usually characterised by a weak, “jelly sandwich”-style ductile lower crust (Burov, 2011), and favours the decoupling between upper crust and lithospheric mantle needed for delamination to occur (Bajolet et al., 2012; Magni et al., 2013). Moreover, the dynamics of collision might also be affected by the interaction with mantle convection caused by features like mantle plumes, or the formation of slab windows, or the presence of other subduction zones nearby. This is, for instance, the case for the India–Eurasia collision, in which the
+
+http://dx.doi.org/10.1016/j.epsl.2017.06.017
+0012-821X/© 2017 The Author(s). Published by Elsevier B.V. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+
+60 V. Magni et al. / Earth and Planetary Science Letters 474 (2017) 59–67
+
+presence of an external force has been argued for to explain the sustained convergence between the plates (Chemenda et al., 2000; Becker and Faccenna, 2011; Cande and Stegman, 2011).
+In the last decade many 2D and 3D numerical and analogue experiments on slab break-off allowed us to have a much better understanding of the break-off process and its consequences on the evolution of topography, stress ﬁeld and magmatism (Wong A Ton and Wortel, 1997; Gerya et al., 2004; Duretz et al., 2011; van Hunen and Allen, 2011; Pusok and Kaus, 2015). However, less work has been done in studying what happens to the subducted lithosphere after slab break-off. Several numerical studies have found the process of eduction to be geodynamically plausible, where subducted continental lithosphere coherently exhumes through the suture zone after slab detachment (Duretz et al., 2012; Bottrill et al., 2014). In this study we use 3D numerical models of continental collision to investigate what controls the occurrence of underplating, and discuss the possible applications of our model to the India–Eurasia collision system.
+2. Methodology
+We investigate the dynamics of continental collision with 3D numerical models of subduction using the ﬁnite element code CITCOM that solves the conservation of mass, momentum, thermal energy, and composition in a Cartesian geometry (Moresi and Gurnis, 1996) (see Magni et al. (2012) and Table 1 for used values of default parameters). Our models simulate the collision of a 2000 km wide continental block with a continental overriding plate after an initial stage of oceanic subduction (Fig. 1). Oceanic lithosphere of variable width ﬂanks the continental block, to take into account the complexity of natural subduction systems, where often oceanic and continental subduction happen simultaneously along the trench, and to better understand how they interact with each other. We vary the width of the oceanic margin and the density of the continental crust to investigate what controls the occurrence of underplating and its dynamics. Moreover, we also run an additional model with an imposed continuous convergence between the plates.
+To reduce computational costs, we exploit the system’s symmetry along the plane through the centre of the continental block perpendicular to the trench (x–z plane). Therefore, in the y-direction we model only half of the domain. The reference model (which has a computational domain size of 3300 × 2180 × 660 km) has a 500-km wide oceanic part within the subducting lithosphere (Fig. 1). Other model calculations have different oceanic plate widths (200–2000 km), and in those models the computational domain size in y-direction is adjusted accordingly (1850–3960 km). The initial position of the trench is imposed (at x = 1850 km), but
+
+Table 1 Symbols, units and default model parameters.
+
+Parameters
+Rheological pre-exponent Activation energy Gravitational acceleration Rheological power law exponent Lithostatic pressure Gas constant Absolute temperature Reference temperature Compositional density contrast Strain rate Second invariant of the strain rate Effective viscosity Reference viscosity Maximum lithosphere viscosity Friction coeﬃcient Reference density Yield stress Surface yield stress Maximum yield stress
+
+Symbols
+A E∗
+g
+n
+p0 R
+T abs Tm
+ρc ε˙ i j ε˙ I I η ηm ηmax μ ρ τy τ0 τmax
+
+Model geometry Domain depth Domain length Domain width Mesh resolution
+
+h l w
+
+Continental block half-width Oceanic side width Continental crust thickness
+
+– – Hc
+
+Value and unit
+6.52 × 106 [Pan s] 360 [kJ/mol] 9.8 [m/s2] 1 (diff. c.), 3.5 (disl. c.) [–] [Pa] 8.3 [J/K/mol] [K] 1350 [◦C] 500 (300) [kg/m3] [s−1 ] [s−1 ] [Pa s] 1020 [Pa s] 1024 [Pa s] 0.1 [–] 3300 [kg/m3] [MPa] 40 [MPa] 400 [MPa]
+660 [km] 3300 [km] 1848 (2180–3690) [km] from 8 × 8 × 8 to 20 × 20 × 20 [km3] 1000 [km] 200 (500–2000) [km] 40 (30) [km]
+
+during the model evolution the trench is free to move in response
+to the system dynamics (Magni et al., 2012). Subduction is facili-
+tated by imposing an initial oceanic slab that extends to 200 km depth. The initial temperature ﬁeld for the oceanic lithosphere is
+calculated following a half-space cooling solution for an 80-Myr
+old plate (Turcotte and Schubert, 2002). In the reference model,
+the continental lithosphere is modelled with a 40-km thick layer of
+positively buoyant crust ( ρc = 500 kg/m3 or ρc = 2.8 g/cm3) and its temperature extends linearly from 0 ◦C at the surface to T = Tm
+at 150 km depth. To allow possible mantle ﬂow around the edge
+of the slab and avoid artefacts due to the lateral boundary condi-
+tion the computational domain is wider than the subducting plate.
+This is modelled by imposing a transform fault with a 20 km wide low viscosity zone at y = 660 km. For simplicity, we assume the two plates to have the same width.
+Thermal boundary conditions are: T = 0 ◦C at the top, T = Tm at the bottom and left boundary (at x = 0), and insulating conditions along the rest of the boundaries. Mechanical boundary condi-
+tions are free-slip everywhere except the bottom boundary where
+
+Fig. 1. Initial setup and boundary conditions of the reference model. (a) The width of the oceanic side is 500 km in the reference model, but is varied in the other models: 200 or 2000 km, and accordingly (b) the width of the domain is varied: 1850 or 3960 km.
+
+V. Magni et al. / Earth and Planetary Science Letters 474 (2017) 59–67
+
+61
+
+a no slip-condition is applied to model the effect of a viscosity contrast between upper and lower mantle (Fig. 1). We run one model with an imposed velocity of 5 cm/yr at the surface between x = 0 and x = 30 km to investigate the effect of a far ﬁeld push on the subducting plate on continental collision dynamics.
+
+2.1. Rheology
+
+The viscosity of the system is temperature and stress dependent. The strain rate is accommodated by both diffusion and dislocation creep (Hirth and Kohlstedt, 2003; Korenaga and Karato,
+2008). The effective viscosity η for each mechanism is deﬁned as:
+
+1−n
+
+η
+
+=
+
+A
+
+ε˙
+
+I
+
+n
+I
+
+exp
+
+E∗ nR Tabs
+
+(1)
+
+with symbols as deﬁned in Table 1 and with ε˙ I I , the second in-
+variant of the strain rate deﬁned as:
+
+ε˙ I I =
+
+1 2
+
+ε˙ i
+
+2 j
+
+(2)
+
+where
+
+ε˙ i j
+
+=
+
+∂vi ∂xj
+
++
+
+∂v j ∂ xi
+
+(3)
+
+In addition, a yield mechanism is implemented to reduce the strength of the lithosphere, for which an effective viscosity is deﬁned as
+
+η
+
+=
+
+τy ε˙
+
+(4)
+
+with τy is the yield stress described as
+
+τy = min(τ0 + μp0, τmax)
+
+(5)
+
+where τmax is the maximum yield stress and τ0 + μp0 is Byerlee’s law, with τ0 is the yield stress at the surface, μ is the friction
+coeﬃcient, and p0 is the lithostatic pressure. At any point the effective viscosity is the minimum of viscosity values derived from
+each mechanism described above. To account for other weakening
+mechanisms at low temperatures, we impose a maximum viscosity of 1024 Pa s. The same rheology is assumed for mantle and
+crustal material without any internal rheological layering in the
+lithosphere.
+A narrow weak zone (with a viscosity η = 1020 Pa s) between
+the plates allows plate decoupling (Magni et al., 2012). The weak-
+ening of the mantle wedge due to slab dehydration and mantle
+re-hydration and melting is simulated by imposing an area above the slab with a maximum viscosity of 1020 Pa s, which can get
+weaker if the computed effective viscosity is lower.
+
+3. Results
+
+3.1. Reference model
+
+We ﬁrst investigate the ability of slab pull from the oceanic part of the subducting lithosphere to drive underplating. The evolution of the reference model (Oc500, Fig. 2 and Animation A1 in Supplementary Material) can be divided into three main phases: continental subduction (the onset of which deﬁnes initial collision), slab break-off, and underplating. In the ﬁrst phase, part of the continental block within the subducting plate is dragged down by the oceanic part of the slab at depth. The subducted continental crust reaches depths >200 km and, at this stage, has a dip of about 35◦ (Fig. 2a). After the onset of continental collision, the subduction velocity decreases, because the low density of the continental crust opposes subduction. Eventually, convergence completely stops, and the slab heats up and necks (Fig. 2b). Elsewhere along the trench,
+
+where the subducting plate is oceanic, subduction is still active and the trench is retreating. This fast retreat produces high tensile stresses in the overriding plate and results in the formation of a back-arc basin in the overriding plate. At depth the slab is highly curved as only the oceanic part is retreating, whereas the continental part is stationary or slowly advancing. About 35 Myr after the onset of continental collision, the slab breaks off (Fig. 2c). At this point the positively buoyant continental crust is able to ascend back towards the surface. However, it does not exhume through the suture zone (i.e., eduction), but, instead, ﬂattens underneath the overriding plate, forming a thick horizontal layer of continental crust that extends for about 200 km beyond the original suture between the two plates (Fig. 2d). We refer to this process as ‘underplating’.
+Fig. 3 shows the mantle ﬂow immediately after slab break-off, when the oceanic slab at the side of the continental block is still subducting. We observe two toroidal ﬂow cells triggered and controlled by the retreat of the oceanic slab (Fig. 3a). Far away from the continent, the mantle ﬂows around the slab edge, from behind to the front of the slab. In the second toroidal ﬂow cell, closer to the continent, the mantle ﬂows from behind the oceanic slab towards the continental part of the subducting plate, pushing the continental slab towards the overriding plate. Simultaneously, since break-off has just happened, the subducted continental lithosphere is rising towards the surface (Fig. 3b). The combination of these two forces makes possible for the continental crust to underlay sub-horizontally the overriding plate and, thus, for the underplating to occur.
+3.2. Controls on underplating
+We investigate what controls the occurrence of underplating after slab break-off with additional models (Table 2). The ﬁrst set of models aims at studying the effect of different oceanic plate widths and external forces: model Oc200 has a 200 km wide oceanic side within the subducting plate, narrower than the reference model, model Oc2000 has a much wider oceanic side (2000 km), and a ﬁnal model, Oc200v5, with a narrow oceanic side (200 km) and a 5 cm/yr velocity imposed to the subducting plate. In addition, we test the feasibility of underplating with different buoyancies of the subducting continental lithosphere: model Oc500thin has a thinner continental crust (30 km) and lithosphere (100 km) compared to the reference model, similar to the ‘unstretched continent’ used by Capitanio et al. (2010), and
+model Oc500layered includes a 20 km-thick upper crust (with ρ = 2.8 g/cm3) and a 20 km-thick denser lower crust (ρ = 3.0 g/cm3).
+From the ﬁrst set of models, we ﬁrst describe results from models Oc200 and Oc2000 to see what it is the effect of the width of the oceanic part of the subducting plate (and therefore the amount of available slab pull) on the dynamics of the system after collision and slab break-off. Then, we use model Oc200v5 to examine the role of an externally imposed force on underplating.
+In model Oc200 the narrow oceanic side retreats only a little, after collision occurred nearby, and both the trench and the slab remain almost undeformed. In this case we do not observe any underplating of the previously subducted continental crust. In fact, after break-off, the continental lithosphere rises back, exhuming through the suture zone (Fig. 4a), displaying the behaviour termed eduction (Andersen et al., 1991). On the other hand, the evolution of model Oc2000, with a very wide oceanic part of the subducting plate, is very similar to the reference model: a ﬁrst phase of normal continental subduction is followed by slab breakoff and subsequent ﬂattening of the continental lithosphere below the overriding plate (Fig. 4b). Interestingly, in this model only the part of the oceanic plate that is close to the continental indentor retreats, deforms, and triggers the opening of a back-arc basin. The
+
+62 V. Magni et al. / Earth and Planetary Science Letters 474 (2017) 59–67
+
+Fig. 2. Evolution of the reference model with a ﬁrst phase of continental subduction (a), followed by slab necking (b) and break-off (c), and, ﬁnally, the continental lithosphere
+rises back towards the surface and ﬂattens below the overriding plate (underplating) (d). The ﬁrst column shows the temperature ﬁeld and the position of the continental crust (white contour) in a vertical section along the symmetry axis. The middle and left columns are the front and top view, respectively: a T = 1080 ◦C isosurface representing the lithosphere is shown in blue and the continental crust is shown in grey. Green arrows show the velocity ﬁeld at the surface. The red thick line in the right column
+represents the trench. The orange line indicates where the vertical section showed in the left column is taken. Time is after the onset of collision. (For interpretation of the
+references to colour in this ﬁgure legend, the reader is referred to the web version of this article.)
+
+Table 2 Models parameters and results.
+
+Model
+
+Oceanic side width (km)
+
+Imposed velocity (cm/yr)
+
+Oc500 Oc200 Oc2000 Oc200v5 Oc500thin Oc500layered
+
+500 200 2000 200 500 500
+
+– – – 5 – –
+
+a uc: upper continental crust, lc: lower continental crust.
+
+Cont. crust thickness (km)
+40 40 40 40 30 40 (20 uc, 20 lc)a
+
+Cont. plate thickness (km)
+150 150 150 150 100 150
+
+Cont. crust density (g/cm3 )
+2.8 2.8 2.8 2.8 2.8 2.8 uc, 3.0 lca
+
+Underplating after slab break-off
+Yes No Yes Yes Yes Yes
+
+rest of the oceanic plate is almost stationary as subduction continues. The part of the oceanic plate that does retreat is ∼700 km wide, which is enough to trigger the same type of toroidal ﬂow observed in the reference model that pushes the subducted continental crust to ﬂatten below the overriding plate.
+
+We also took the model Oc200, in which underplating does not happen, and we performed the same model but with a 5-cm/yr velocity imposed at the left boundary to simulate the push of a far ﬁeld force on the subducting plate: model Oc200v5. As for model Oc200, the oceanic side is too narrow to have signiﬁcant trench
+
+V. Magni et al. / Earth and Planetary Science Letters 474 (2017) 59–67
+
+63
+
+Fig. 3. Mantle ﬂow of the reference model. (a) Mantle ﬂow in a horizontal section at a depth of 200 km. Colours show the x-component of the velocity (positive values are towards the overriding right); the black line shows where the slab is. (b) Temperature ﬁeld and mantle ﬂow of a vertical section at the symmetry axis. White arrows represent the general trend of the mantle ﬂow that triggered by the retreat of the oceanic slab pushes the rising continental crust below the overriding plate. (For interpretation of the references to colour in this ﬁgure legend, the reader is referred to the web version of this article.)
+
+Fig. 4. Results of the model (a) Oc200, with narrow oceanic sides (200 km), where eduction, thus no underplating, occurs after slab break-off. The process of underplating occurs in both models (b) Oc2000, with wide oceanic sides (2000 km), and (c) Oc200v5, with narrow oceanic side and an imposed velocity of 5 cm/yr on the subducting plate. The small grey triangle indicates the original suture location. See Fig. 2 caption for details on the colour legend.
+
+retreat and slab deformation and, thus, to be able to affect the dynamics of the rest of the system laterally. However, after the slab breaks off, the continental lithosphere is unable to exhume through the suture zone because of the continued plate convergence; the subducted continental lithosphere ﬂattens underneath the overriding plate (Fig. 4c).
+Finally, we tested the effect of the continental plate buoyancy on the underplating process. Model Oc500thin has a thinner continental lithosphere (100 km instead of 150 km of the reference model) as well as a thinner continental crust (30 km instead of 40 km) (Fig. 5a). Results are similar to the reference model, as also here we observe underplating occurring after slab break-off. However, this process occurs faster than in Oc500. Because the lithosphere is thinner, it takes less time for the slab to break-off (23 Myr after collision) and the previously subducted continental lithosphere underlies sub-horizontally the upper plate already 28 Myr after collision. We observe underplating even when the lower crust is slightly denser, in Oc500layered (Fig. 5b). However, the part of the subducting continental plate that underlies the overriding plate is less in this case, since the continental crust is on average denser than in the reference model, and therefore it is more diﬃcult for it to drive the underplating. Some density contrast between the subducted continent and the surrounding mantle seems necessary to drive rise and underplating after slab break-off, and indeed to promote slab break-off in the ﬁrst place (van Hunen and Allen, 2011).
+3.3. Consequences of underplating
+During the evolution of the reference model, from the ‘normal’ continental subduction stage to the underplating, the thermal structure of the entire subduction zone undergoes signiﬁcant variations (Fig. 6). Indeed, the rising of the subducted continental crust and its ﬂattening underneath the overriding plate force the mantle wedge to progressively migrate away from the trench by about 200 km over a period of ∼35 Myr. We observe a slight temperature decrease at the top of the rising continental crust close to the suture zone due to the mantle wedge migration. At the same time, however, most of the subducted continental crust becomes hotter during the break-off and underplating stages and the deepest part reaches temperatures >900 ◦C (Fig. 6b).
+We estimate the rock uplift (as deﬁned by England and Molnar, 1990) in the upper crust a posteriori from the normal stresses at the top of the model by assuming the relationship between rock
+
+64 V. Magni et al. / Earth and Planetary Science Letters 474 (2017) 59–67
+
+Fig. 5. Results of the model (a) Oc500thin, with a thin continental crust (30 km) and
+lithosphere (100 km), and (b) model Oc500layered with a 20 km-thick upper crust
+(with ρ = 2.8 g/cm3) and a 20 km-thick denser lower crust (ρ = 3.0 g/cm3). Both
+models show the occurrence of underplating after slab break-off. See Fig. 2 caption
+for details on the colour legend.
+
+uplift (H ) and normal stress (σzz ) is, to ﬁrst order, H = σzz/ρ g, where ρ is the reference density and g is the gravitational accel-
+eration. This simple approach ignores effects from elastic ﬂexure, near surface tectonics, and erosion/sedimentation, but gives a useful ﬁrst-order indication of rock uplift. Whilst we do not specifically model elevation changes (i.e. surface uplift) or exhumation rates, rock uplift would imply a rise in surface elevation unless it was completely matched by exhumation. We observe a sharp peak in the overriding plate rock uplift right after the occurrence of slab break-off (Fig. 6a). Afterwards, during underplating, the maximum rock uplift is smaller, but the affected area is larger (up to 350 km).
+4. Discussion
+Our results show how the subducting continental lithosphere can rise up after slab break-off and ﬂatten below the overriding plate. Previous 3D numerical studies with a buoyant indentor within an oceanic plate showed similar behaviours in terms of continental subduction, trench migration and overriding plate deformation (e.g., Moresi et al., 2014; Pusok and Kaus, 2015). Indeed, these models also show the partial subduction of the buoyant indentor and, laterally, fast trench retreat of the oceanic plate, causing the overriding plate to stretch enough to create a backarc basin. During slab rollback, the mantle ﬂows around the edges of the oceanic slab, in a toroidal fashion, as previously showed in many 3D analogue and numerical models (Funiciello et al., 2006: Stegman et al., 2006). Moreover, the dynamics of slab break-off in our models is similar to previous numerical studies (Wong A Ton and Wortel, 1997; Duretz et al., 2011; van Hunen and Allen, 2011), with the necking and consequent rupture of the slab due to the two opposite forces of the oceanic slab pull at depth and
+
+Fig. 6. Evolution of the rock uplift and continental crust position (left column) and temperature changes within the continental crust (right column) during the three main
+phases of the reference model: continental subduction (light blue), slab break-off (orange), with a peak in the surface uplift close to the suture and temperature increase in the subducted continental crust, and underplating (red) in which the uplift is less but extends over a wider area and the crust reaches temperatures >900 ◦C at depth. The small grey triangle indicates the original suture location. Times are Myr after initial continental collision. (For interpretation of the references to colour in this ﬁgure legend,
+the reader is referred to the web version of this article.)
+
+V. Magni et al. / Earth and Planetary Science Letters 474 (2017) 59–67
+
+65
+
+the buoyancy of the continental material at shallower depths. The subsequent underplating, however, is not a commonly observed behaviour and it has been documented, to our knowledge, only in a few models (Li et al., 2013). This is due to the fact that this process does not occur when the system is buoyancy-driven only and no lateral variations are present along the trench. Instead, our results show that for the underplating to occur after break-off an additional force is needed; this force could be provided by a far ﬁeld push on the subducting plate or by the mantle ﬂow and slab deformation associated with the ﬂanking oceanic subduction.
+A more often modelled behaviour in continental collision settings is the process of eduction, in which after slab break-off, i.e. after the loss of slab pull, the subducted continental plate coherently educts, leading to the exhumation of HP-UHP rocks along the shear zone between the plates (Andersen et al., 1991; Duretz et al., 2012). In this study, we observe the mechanism of eduction when there is no imposed velocity to the subducting slab and the oceanic side adjacent to the continent is too narrow to affect laterally the dynamics of the system (model Oc200, Fig. 4a). In the model with an imposed velocity to the subducting plate (model Oc200v5, Fig. 4c) or in those with wide oceanic sides there is a force that opposes eduction and makes underplating possible after the loss of slab pull due to slab break-off (model Oc2000, Fig. 4b). In the ﬁrst case, this force is simply the imposed continuous push to the subducting plate. In the second case, this force is provided by the toroidal mantle ﬂow and by the internal deformation triggered by the retreat of the oceanic slab close to the collision zone.
+The buoyancy of the subducting plate is an important factor in this process. Indeed, what drives the continental lithosphere to rise after the slab breaks off is its positive buoyancy. Continents can have different structures (e.g. thickness, composition) and estimating the precise density proﬁle of the continental crust is not a trivial task, since geophysical and petrological models do not give a unique answer and do not always agree. Our results show that underplating after slab break-off can occur even when a higher density for the lower continental crust is considered (model Oc500layered, Fig. 5b). For continents with even higher density crust, it would be increasingly more diﬃcult for underplating to occur. However, the denser the continental crust, the easier it would be for it to subduct and, thus, the more unlikely it is for break-off to happen. Although on-going subduction of continental lithosphere has been suggested in some cases (Capitanio et al., 2010), slab break-off is arguably a much more common behaviour.
+One of the main consequences of this process is the signiﬁcant change in the temperature ﬁeld of the subduction zone, which will have important effects on the presence and type of magmatism related to it. In particular, the progressive migration of the mantle wedge away from the suture zone would most likely result in a shift of volcanism as well. Furthermore, the warming-up of the continental crust during its underplating might lead to crustal melting and therefore affect the composition of the magmatism at the surface.
+The precise timing of break-off (and subsequent underplating) depends on many factors that we have not explicitly explored in this study such as the rheology, thickness and composition of the plates (Duretz et al., 2011; van Hunen and Allen, 2011). Moreover, in our models we assume the boundary between upper and lower mantle to be impermeable, whereas in nature slabs can either stagnate at or penetrate the upper–lower mantle transition (e.g., Fukao and Obayashi, 2013). If the slab could sink into the lower mantle, its pull would most likely be higher, and we expect slab break-off and the subsequent underplating process to occur earlier with respect to the onset of continental collision. This is, however, beyond the scope of this study and, although the timing of the process might change, the dynamics probably would not.
+
+4.1. Application to India–Eurasia collision
+Numerical models are inherently a more generic and simpliﬁed version of reality. Unlike other studies, our model setup is not designed to speciﬁcally reproduce the complex multi-phased India–Eurasia collision scenario (e.g. Bouilhol et al., 2013). However, these models can still be used to help us understand the dynamics and some aspects of this complex system. Model Oc200v5, with the 200-km oceanic plate adjacent to a 2000 km continental block and with an imposed velocity of 5 cm/yr, is the model that best represents the active collision of the ∼2000 km wide Indian continental block with the overriding Eurasian plate. The far ﬁeld force simulates the continuous on-going convergence between the plates of ∼5 cm/yr (Copley et al., 2011). We do not investigate the nature of this force, which has previously been interpreted as ridge push, basal traction, pull by neighbouring subducted slabs, or push of a plume associated “conveyor belt” in the mantle (Chemenda et al., 2000; Becker and Faccenna, 2011; Cande and Stegman, 2011). The presence of narrow oceanic plates adjacent to the Indian continental block is consistent with the tectonic reconstructions suggested for this area (Hall, 2012).
+In our model the underplating results in the formation of a thick horizontal layer of continental lithosphere that extends for about 200 km beyond the suture. Such a feature is present in Tibet, where geophysical studies imaged the rather ﬂat Indian lithosphere as far as 250 km north of the main suture (e.g. Wittlinger et al., 2009; Chen et al., 2010) with an overall geometry that corresponds to those obtained from the models.
+As the Indian plate becomes sub-horizontal and underplates Eurasia, the asthenosphere above the remaining slab progressively migrates away from the suture zone and eventually the whole slab ﬂattens below the Eurasian continental lithosphere (Powell, 1986). This process should correspond to a change in magmatism within the Lhasa terrane, since mantle wedge melting would be shut down. It has been shown that the source of magmatism observed within the Lhasa terrane evolve during the course of collision, shifting during the late Eocene from calc-alkaline – subduction dominated magmas to ultrapotassic lavas originating from a metasomatic mantle (e.g. Chung et al., 2005). From the Oligocene, the presence of the underthrusted Indian lithosphere is documented by the presence in the magmatic rocks of the southern Lhasa terrane of inherited zircon grains of Indian origin (Bouilhol et al., 2013). The observed temperature increase of the underplated continental crust beyond typical solidus temperatures ﬁts the geochemistry of volcanism from the northern Tibetan Plateau, where a contribution from continental crust is modelled to be present in the source region of the Neogene–Quaternary volcanic rocks (Guo et al., 2006). Moreover, the end results of slab break-off and underplating traps a non-negligible amount of the overriding plate mantle lithosphere between the two plates, which is demonstrated to be involved in the source of post-collisional magmas (e.g. Williams et al., 2004).
+Early–mid Miocene, synchronous thrusting and extensionalsense shear in the Himalayas are a distinct events in the evolution of the collision. Conceptual models requiring channel ﬂow (Grujic et al., 2002) need to explain the precise and rather restricted timeframe for this tectonic phase. Middle Miocene to recent east–west extension across the belt and the southern Tibetan Plateau relates to the high elevation and gravitational potential energy of this area (Elliott et al., 2010). Conventional crustal thickening alone might produce a state whereby the buoyancy force associated with the elevated crust resisted further shortening in the elevated region, but it would not produce the observed extension unless a significant change in boundary conditions took place (England et al., 1988).
+
+66 V. Magni et al. / Earth and Planetary Science Letters 474 (2017) 59–67
+
+Our modelled rock uplift, and consequent surface uplift, arising from slab break-off echoes very well with both High Himalayan and Tibetan Plateau evolution in the late Cenozoic. First, the early stages of slab break-off results in a high peak in rock uplift within ∼80 km north of the suture. This would perturb the Himalayan wedge, which responds by extension on the South Tibetan Detachment System to restore the critical taper angle, between ∼23 and ∼16 Ma (Kohn, 2014). After break-off, slab rebound and underplating further propagate the uplift away from the suture, as far as ∼350 km in our models. Since ∼15 Ma, rise of the southern Tibetan Plateau has resulted from slab ﬂattening, and triggered east–west extension (Copley et al., 2011; Styron et al., 2015). To explain the growth of the entire plateau, which is ∼1000 km across, from north to south, other mechanisms have to be taken into account. For instance, recent numerical studies showed how pre-existing heterogeneities within the overriding plate, especially in terms of rheology, play an important role in building the orogenic plateau (Pusok and Kaus, 2015; Chen and Gerya, 2016). Our models do not include such complexities as in this study we focus on the effect of the underplating process on the tectonics. Overall, oceanic slab break-off and the subsequent underthrusting of the Indian continental plate beneath Eurasia help explain the late Cenozoic changes in tectonics in the Himalayan–Tibetan system.
+5. Conclusions
+We performed 3D numerical models to study the dynamics of continental collision and, more speciﬁcally, the underplating of the subducting continental plate beneath the overriding plate. We ﬁnd that the previously subducted continental lithosphere can rise back towards the surface and ﬂatten below the overriding plate after slab break-off, forming a thick horizontal layer of continental crust that extends for about 200 km beyond the suture. Our results show that this process can occur only if there is a force that opposes eduction. Mechanisms that can provide this force could be, for instance, a far-ﬁeld push on the subducting plate or the toroidal mantle ﬂow triggered by the retreat of the oceanic slab nearby collision, if the oceanic plate is wide enough.
+Our models show that as the subducted continental lithosphere ﬂattens below the overriding plate the mantle wedge progressively migrates away from the suture and its crust heats up and can reach temperatures >900 ◦C, which might lead to crustal melting. A signature of this heating would most likely show in the occurrence and composition of syn-collision volcanism. Immediately after slab break-off there is a marked contribution to rock uplift close to the suture. Afterwards, the maximum uplift effect is reduced, but affects a wider area in the overriding plate.
+These results can be used to explain not only the present-day crustal conﬁguration of the India–Eurasia collision zone, but also the northward shift of volcanism and the changing distribution and style of deformation in the Himalayas and Tibetan Plateau since ∼20–15 Ma.
+Acknowledgements
+We thank M. Jadamec and A. Replumaz for their comments and suggestions that signiﬁcantly improved the manuscript. This study was supported by the European Research Council (ERC StG 279828). VM also acknowledges support from the Research Council of Norway through its Centres of Excellence funding scheme, Project Number 223272. MBA acknowledges Natural Environment Research Council grant NE/H021620/1. PB also acknowledges his Auvergne Fellowships (French Government Laboratory of Excellence initiative no. ANR-10LABX-0006, ClercVoc contribution no. 252). This work made use of the facilities of N8 HPC provided
+
+and funded by the N8 consortium and EPSRC (grant EP/K000225/1) and the UNINETT Sigma 2 computational resource allocation (Notur NN9283K and NorStore NS9029K).
+Appendix A. Supplementary material
+Supplementary material related to this article can be found online at http://dx.doi.org/10.1016/j.epsl.2017.06.017.
+References
+Andersen, T.B., Jamtveit, B., Dewey, J.F., Swensson, E., 1991. Subduction and eduction of continental crust: major mechanisms during continent–continent collision and orogenic extensional collapse, a model based on the south Norwegian Caledonides. Terra Nova 3, 303–310.
+Averbuch, O., Piromallo, C., 2012. Is there a remnant Variscan subducted slab in the mantle beneath the Paris basin? Implications for the late Variscan lithospheric delamination process and the Paris basin formation. Tectonophysics 558–559, 70–83.
+Bajolet, F., Galeano, J., Funiciello, F., Moroni, M., Negredo, A.-M., Faccenna, C., 2012. Continental delamination: insights from laboratory models. Geochem. Geophys. Geosyst. 13, Q02009.
+Becker, T.W., Faccenna, C., 2011. Mantle conveyor beneath the Tethyan collisional belt. Earth Planet. Sci. Lett. 310, 453–461.
+Bird, P., 1979. Continental delamination and the Colorado Plateau. J. Geophys. Res., Solid Earth 84, 7561–7571.
+Bottrill, A.D., van Hunen, J., Cuthbert, S.J., Brueckner, H.K., Allen, M.B., 2014. Plate rotation during continental collision and its relationship with the exhumation of UHP metamorphic terranes: application to the Norwegian Caledonides. Geochem. Geophys. Geosyst. 15, 1766–1782.
+Bouilhol, P., Jagoutz, O., Hanchar, J.M., Dudas, F.O., 2013. Dating the India–Eurasia collision through arc magmatic records. Earth Planet. Sci. Lett. 366, 163–175.
+Brun, J.-P., Faccenna, C., 2008. Exhumation of high-pressure rocks driven by slab rollback. Earth Planet. Sci. Lett. 272, 1–7.
+Burov, E.B., 2011. Rheology and strength of the lithosphere. Mar. Pet. Geol. 28, 1402–1443.
+Cande, S.C., Stegman, D.R., 2011. Indian and African plate motions driven by the push force of the Reunion plume head. Nature 475, 47–52.
+Capitanio, F.A., Morra, G., Goes, S., Weinberg, R.F., Moresi, L., 2010. India–Asia convergence driven by the subduction of the Greater Indian continent. Nat. Geosci. 3 (2), 136–139.
+Chemenda, A.I., Burg, J.-P., Mattauer, M., 2000. Evolutionary model of the Himalaya– Tibet system: geopoem: based on new modelling, geological and geophysical data. Earth Planet. Sci. Lett. 174, 397–409.
+Chen, L., Gerya, T.V., 2016. The role of lateral lithospheric strength heterogeneities in orogenic plateau growth: insights from 3-D thermo-mechanical modeling. J. Geophys. Res., Solid Earth 121 (4), 3118–3138.
+Chen, W.-P., Martin, M., Tseng, T.-L., Nowack, R.L., Hung, S.-H., Huang, B.-S., 2010. Shear-wave birefringence and current conﬁguration of converging lithosphere under Tibet. Earth Planet. Sci. Lett. 295, 297–304.
+Chung, S.-L., Chu, M.-F., Zhang, Y., Xie, Y., Lo, C.-H., Lee, T.-Y., Lan, C.-Y., Li, X., Zhang, Q., Wang, Y., 2005. Tibetan tectonic evolution inferred from spatial and temporal variations in post-collisional magmatism. Earth-Sci. Rev. 68, 173–196.
+Cloos, M., 1993. Lithospheric buoyancy and collisional orogenesis: subduction of oceanic plateaus, continental margins, island arcs, spreading ridges, and seamounts. Geol. Soc. Am. Bull. 105, 715–737.
+Copley, A., Avouac, J.-P., Wernicke, B.P., 2011. Evidence for mechanical coupling and strong Indian lower crust beneath southern Tibet. Nature 472, 79–81.
+Davies, J.H., von Blanckenburg, F., 1995. Slab breakoff: A model of lithosphere detachment and its test in the magmatism and deformation of collisional orogens. Earth Planet. Sci. Lett. 129, 85–102.
+Duretz, T., Gerya, T.V., Kaus, B.J.P., Andersen, T.B., 2012. Thermomechanical modeling of slab eduction. J. Geophys. Res., Solid Earth 117, B08411.
+Duretz, T., Gerya, T.V., May, D.A., 2011. Numerical modelling of spontaneous slab breakoff and subsequent topographic response. Tectonophysics 502, 244–256.
+Elliott, J.R., Walters, R.J., England, P.C., Jackson, J.A., Li, Z., Parsons, B., 2010. Extension on the Tibetan plateau: recent normal faulting measured by InSAR and body wave seismology. Geophys. J. Int. 183, 503–535.
+England, P., Molnar, P., 1990. Surface uplift, uplift of rocks, and exhumation of rocks. Geology 18 (12), 1173–1177.
+England, P.C., Houseman, G.A., Osmaston, M.F., Ghosh, S., 1988. The mechanics of the Tibetan Plateau [and discussion]. Philos. Trans. R. Soc. Lond. Ser. A, Math. Phys. Sci. 326, 301.
+Fukao, Y., Obayashi, M., 2013. Subducted slabs stagnant above, penetrating through, and trapped below the 660 km discontinuity. J. Geophys. Res., Solid Earth 118, 5920–5938.
+Funiciello, F., Moroni, M., Piromallo, C., Faccenna, C., Cenedese, A., Bui, H.A., 2006. Mapping mantle ﬂow during retreating subduction: laboratory models analyzed by feature tracking. J. Geophys. Res., Solid Earth 111 (B3).
+
+V. Magni et al. / Earth and Planetary Science Letters 474 (2017) 59–67
+
+67
+
+Gerya, T.V., Yuen, D.A., Maresch, W.V., 2004. Thermomechanical modelling of slab detachment. Earth Planet. Sci. Lett. 226, 101–116.
+Gög˘üs¸ , O.H., Pysklywec, R.N., Corbi, F., Faccenna, C., 2011. The surface tectonics of mantle lithosphere delamination following ocean lithosphere subduction: insights from physical-scaled analogue experiments. Geochem. Geophys. Geosyst. 12, Q05004.
+Grujic, D., Hollister, L.S., Parrish, R.R., 2002. Himalayan metamorphic sequence as an orogenic channel: insight from Bhutan. Earth Planet. Sci. Lett. 198, 177–191.
+Guo, Z., Wilson, M., Liu, J., Mao, Q., 2006. Post-collisional, potassic and ultrapotassic magmatism of the northern Tibetan Plateau: constraints on characteristics of the mantle source, geodynamic setting and uplift mechanisms. J. Petrol. 47, 1177–1220.
+Hall, R., 2012. Late Jurassic–Cenozoic reconstructions of the Indonesian region and the Indian Ocean. Tectonophysics 570–571, 1–41.
+Helmstaedt, H., 2009. Crust–mantle coupling revisited: the Archean Slave craton, NWT, Canada. Lithos 112 (Supplement 2), 1055–1068.
+Hirth, G., Kohlstedt, D., 2003. Rheology of the upper mantle and the mantle wedge: a view from the experimentalists. In: Inside the Subduction Factory, pp. 83–105.
+Kohn, M.J., 2014. Himalayan metamorphism and its tectonic implications. Annu. Rev. Earth Planet. Sci. 42, 381–419.
+Korenaga, J., Karato, S.-I., 2008. A new analysis of experimental data on olivine rheology. J. Geophys. Res., Solid Earth 113, B02403.
+Li, Z.-H., Xu, Z., Gerya, T., Burg, J.-P., 2013. Collision of continental corner from 3-D numerical modeling. Earth Planet. Sci. Lett. 380, 98–111.
+Magni, V., Faccenna, C., van Hunen, J., Funiciello, F., 2013. Delamination vs. break-off: the fate of continental collision. Geophys. Res. Lett. 40, 285–289.
+Magni, V., van Hunen, J., Funiciello, F., Faccenna, C., 2012. Numerical models of slab migration in continental collision zones. Solid Earth 3, 293–306.
+Moresi, L., Betts, P.G., Miller, M.S., Cayley, R.A., 2014. Dynamics of continental accretion. Nature 508 (7495), 245–248.
+
+Moresi, L., Gurnis, M., 1996. Constraints on the lateral strength of slabs from threedimensional dynamic ﬂow models. Earth Planet. Sci. Lett. 138, 15–28.
+Nábeˇlek, J., Hetényi, G., Vergne, J., Sapkota, S., Kaﬂe, B., Jiang, M., Su, H., Chen, J., Huang, B.-S., Hi-CLIMB Team, 2009. Underplating in the Himalaya–Tibet collision zone revealed by the Hi-CLIMB experiment. Science 325, 1371.
+Powell, C.M., 1986. Continental underplating model for the rise of the Tibetan Plateau. Earth Planet. Sci. Lett. 81, 79–94.
+Pusok, A.E., Kaus, B.J.P., 2015. Development of topography in 3-D continentalcollision models. Geochem. Geophys. Geosyst. 16, 1378–1400.
+Replumaz, A., Negredo, A.M., Villaseñor, A., Guillot, S., 2010. Indian continental subduction and slab break-off during Tertiary collision. Terra Nova 22, 290–296.
+Stegman, D.R., Freeman, J., Schellart, W.P., Moresi, L., May, D., 2006. Inﬂuence of trench width on subduction hinge retreat rates in 3-D models of slab rollback. Geochem. Geophys. Geosyst. 7 (3).
+Styron, R., Taylor, M., Sundell, K., 2015. Accelerated extension of Tibet linked to the northward underthrusting of Indian crust. Nat. Geosci. 8, 131–134.
+Turcotte, D.L., Schubert, G., 2002. Plate tectonics. In: Geodynamics, 2nd edn. Cambridge University Press, Cambridge/New York, pp. 1–21.
+van Hunen, J., Allen, M.B., 2011. Continental collision and slab break-off: a comparison of 3-D numerical models with observations. Earth Planet. Sci. Lett. 302, 27–37.
+Williams, H.M., Turner, S.P., Pearce, J.A., Kelley, S.P., Harris, N.B.W., 2004. Nature of the source regions for post-collisional, potassic magmatism in southern and northern Tibet from geochemical variations and inverse trace element modelling. J. Petrol. 45, 555–607.
+Wittlinger, G., Farra, V., Hetényi, G., Vergne, J., Nábeˇlek, J., 2009. Seismic velocities in Southern Tibet lower crust: a receiver function approach for eclogite detection. Geophys. J. Int. 177, 1037–1049.
+Wong A Ton, S.Y.M., Wortel, M.J.R., 1997. Slab detachment in continental collision zones: an analysis of controlling parameters. Geophys. Res. Lett. 24, 2095–2098.
+
+

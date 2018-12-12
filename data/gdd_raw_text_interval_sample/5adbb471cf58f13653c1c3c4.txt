@@ -1,0 +1,1294 @@
+Journal of Computational and Applied Mathematics 178 (2005) 169 – 190 www.elsevier.com/locate/cam
+A survey on orthogonal matrix polynomials satisfying second order differential equationsଁ
+Antonio J. Durána,∗, F. Alberto Grünbaumb
+aDepartamento de Análisis Matemático, Universidad de Sevilla, P.O. Box 1160, E-41080 Sevilla, Spain bDepartment of Mathematics, University of California, Berkeley, CA 94720, USA Received 12 October 2003; received in revised form 24 May 2004
+Abstract The subject of orthogonal polynomials cuts across a large piece of mathematics and its applications. Two notable
+examples are mathematical physics in the 19th and 20th centuries, as well as the theory of spherical functions for symmetric spaces. It is also clear that many areas of mathematics grew out of the consideration of problems like the moment problem that are intimately associated to the study of (scalar valued) orthogonal polynomials.
+Matrix orthogonality on the real line has been sporadically studied during the last half century since Krein devoted some papers to the subject in 1949, see (AMS Translations, Series 2, vol. 97, Providence, Rhode Island, 1971, pp. 75–143, Dokl. Akad. Nauk SSSR 69(2) (1949) 125). In the last decade this study has been made more systematic with the consequence that many basic results of scalar orthogonality have been extended to the matrix case. The most recent of these results is the discovery of important examples of orthogonal matrix polynomials: many families of orthogonal matrix polynomials have been found that (as the classical families of Hermite, Laguerre and Jacobi in the scalar case) satisfy second order differential equations with coefﬁcients independent of n. The aim of this paper is to give an overview of the techniques that have led to these examples, a small sample of the examples themselves and a small step in the challenging direction of ﬁnding applications of these new examples. © 2004 Elsevier B.V. All rights reserved.
+MSC: 42C05
+Keywords: Orthogonal polynomials; Index of determinacy; Orthogonal matrix polynomials
+ଁ The work of the ﬁrst author is partially supported by D.G.E.S, ref. BFM2000-206-C04-02, FQM-262 (Junta de Andalucía), that of the second author is partially supported by NSF grants FD9971151 and 1-443964-21160.
+∗ Corresponding author. E-mail addresses: duran@us.es (A.J. Durán), grunbaum@math.berkeley.edu (F.A. Grünbaum).
+0377-0427/$ - see front matter © 2004 Elsevier B.V. All rights reserved. doi:10.1016/j.cam.2004.05.023
+
+170 A.J. Durán, F.A. Grünbaum / Journal of Computational and Applied Mathematics 178 (2005) 169 – 190
+
+1. Introduction
+
+We start by recalling some basic deﬁnitions pertaining to matrix orthogonality on the real line. Matrix orthogonality is deﬁned with respect to a weight matrix W.
+Deﬁnition 1.1. We say that an N × N matrix of measures supported in the real line is a (positive deﬁnite) weight matrix if
+(1) W (A) is positive semideﬁnite for any Borel set A ⊂ R; (2) W has ﬁnite moments of every order, and (3) P (t) dW (t)P ∗(t) is nonsingular if the leading coefﬁcient of the matrix polynomial P is nonsingular.
+
+We will assume, for simplicity, that all the entries of the matrix W have a smooth density with respect to Lebesgue measure; we will write W (t) for the matrix whose entries are these densities. This assumption
+is much stronger than what we need but it will sufﬁce for our purposes.
+Condition (3) in the previous deﬁnition is necessary and sufﬁcient to guarantee the existence of a sequence (Pn)n of matrix polynomials orthogonal with respect to W, Pn of degree n and with nonsingular leading coefﬁcient. This condition is fulﬁlled, in particular, when W (t) is positive deﬁnite at inﬁnitely
+many points in the support of W. Just as in the scalar case, a sequence of orthonormal matrix polynomials (Pn)n satisﬁes a three-term
+recurrence relation
+
+tP n(t) = An+1Pn+1(t) + BnPn(t) + A∗nPn−1(t), n 0,
+
+(1.1)
+
+where P−1(t)= , An are nonsingular matrices and Bn are Hermitian (here and in the rest of this paper, we write for the null matrix, the dimension of which can be determined from the context). This three-term
+recurrence relation characterizes the orthonormality of a sequence of matrix polynomials with respect to
+a positive deﬁnite matrix of measures. tUonWWB,enaUrnen∗dmisanarstktiestafhydaatotfthhBerenpe.o-HtleyernrmeomarenicadulsirnrRetnnhc(ete)rre=esltaUotifnotPnhnea(stp)(a,1pw.e1ri)tIhwdiUethnnUoctone∗es=fﬁthcIeieaindrteesnaUtlistnoy−1omArathntrUoinxn∗o, irwnmhsatoelsaweddiotihfmAreennsspaienocdnt will be determined from the context.
+When dealing with weight matrices it is convenient to consider the following equivalence relation: We say that two weight matrices W1(t), W2(t) are similar if there exists a nonsingular matrix T (independent of t) such that W1 = T W 2T ∗.
+Given this notion of similarity, it is important to single out two special cases. We say that a weight
+matrix W reduces to a lower size if there exists a nonsingular matrix T for which
+
+W (t) = T Z1(t) Z2(t) T ∗,
+
+(1.2)
+
+where Z1 and Z2 are weight matrices of lower size. Notice that the orthonormal matrix polynomials with respect to W are then
+
+Pn(t) = Pn,1(t) Pn,2(t) T −1, n 0,
+
+A.J. Durán, F.A. Grünbaum / Journal of Computational and Applied Mathematics 178 (2005) 169 – 190
+
+171
+
+where (Pn,i)n are the orthonormal matrix polynomials with respect to Zi, i = 1, 2. Analogously, we say that W reduces to scalar weights if there exists a nonsingular matrix T for which
+W (t) = T D(t)T ∗
+
+with D(t) diagonal. This is clearly an extreme case of the situation considered earlier. According to our equivalence relation, to say that W does not reduce to lower size is just to say that
+there is no block diagonal weight matrix in the equivalence class of W, while weight matrices reducible to scalar weights are, precisely, those corresponding to the class of diagonal weights. Diagonal weights, as a collection of N scalar weights, belong to the study of scalar orthogonality more than to the matrix one. Unfortunately, this is the case of many examples of orthogonal matrix polynomials which can be found in the literature. We observe, however, that in [34] one ﬁnds a notion of similarity for the pair consisting of the weight and the differential operator. This notion allows one to distinguish among certain situations that are considered equivalent under the present deﬁnition. See example 5.1 in [34].
+If we assume that for some real number a, W (a) = I , then W reduces to scalar weights if and only if W (t)W (s) = W (s)W (t) for all t, s. This commutativity condition on the weight matrix W (t) gives a convenient way of checking if one is dealing with a case that reduces to scalar weights.
+During the last decade, many basic results of the theory of scalar orthogonal polynomials, such as Favard’s theorem [7,8,19,22], quadrature formulae [9,14,21] and asymptotic properties (Markov’s theorem [9], ratio [11,12], weak [13] and zero asymptotics [20]), have been extended to orthogonal matrix polynomials by one of us. Many other authors have contributed to the theory of matrix valued orthogonal polynomials on the real line started by Krein in [36,37]; see for instance [1,2,4,5,23,35,38,39], and their references (the list is not exhaustive).
+The most recent results consists in the discovery of important examples of orthogonal matrix polynomials. During the year 2003, many families of orthogonal matrix polynomials (Pn)n have appeared satisfying right-hand side second order differential equations of the form
+
+Pn (t)A2(t) + Pn(t)A1(t) + Pn(t)A0(t) = nPn(t), n 0,
+
+(1.3)
+
+where the differential coefﬁcients A2, A1 and A0 are matrix polynomials (which do not depend on n) of degrees not bigger than 2, 1 and 0, respectively, and n are Hermitian matrices. These families are most likely going to play in the matrix orthogonality the role of the classical families of Hermite, Laguerre or Jacobi in the scalar case. The Eq. (1.3) for the polynomial Pn is equivalent to saying that Pn is an eigenvector of the right-hand side second order differential operator
+
+2,R = D2A2(t) + D1A1(t) + D0A0(t).
+
+(1.4)
+
+A different source for the problem of ﬁnding examples of orthogonal matrix polynomials satisfying second order differential equations is the study of the bispectral problem; this has been pursued by one of us in a series of papers starting with [6] and continued in the context of orthogonal polynomials. See [27,28,31–34] and their references. The results in [32] grew out of a study of matrix valued spherical functions initiated in [41]. This development is an extension to the matrix case of fundamental work by E. Cartan and H. Weyl that allowed them to put under one roof a number of isolated results for several families of special functions, including ultraspherical polynomials. The product formula satisﬁed by the ultraspherical polynomials was taken by E. Cartan as the inspiration for his deﬁnition of spherical functions related to a symmetric space G/K where G is a Lie group and K a compact subgroup of it.
+
+172 A.J. Durán, F.A. Grünbaum / Journal of Computational and Applied Mathematics 178 (2005) 169 – 190
+The aim of this paper is to survey the recent results concerning these important examples of orthogonal matrix polynomials.
+Notice that if a weight matrix W has a corresponding symmetric second order differential operator then the same holds for any weight matrix similar to W: indeed, if R(t) = T W (t)T ∗ for a certain nonsingular matrix T, just take the new differential coefﬁcients equal to T Ai(t)T −1. The practical consequence of this and the equivalence relation for weight matrices deﬁned above is that when looking for examples of orthogonal matrix polynomials of size N satisfying (1.3) we can and will assume that our weight matrix does not reduce to lower size or to scalar weights either and that for certain real a we have W (a) = I .
+This survey is organized as follows: Section 2 discusses differential operators acting on matrix valued functions and recalls the relation between symmetric operators 2 and (1.3) above. Section 3 shows how to reduce the symmetry of 2 to a set of differential equations involving the weight matrix W (t) and the coefﬁcients in (1.3) and then how to solve these equations. In Section 4, we show some examples of important families of matrix valued orthogonal polynomials satisfying (1.3). Most of them come by solving explicitly special instances of the equations of Section 3; in that case, these examples enjoy some maximality property. In Section 5, we show that, as the classical families of Hermite, Laguerre and Jacobi, the matrix families also enjoy many structural properties. Section 6 will be devoted to a discussion of the time-and-band limiting problem of signal processing in the context of a matrix valued analog of the Legendre polynomials given (for general and ) in [24].
+To ﬁnish this introduction, we remark that while in the scalar case the only possible examples of orthogonal polynomials satisfying second order differential equations with coefﬁcients independent of n are the familiar Hermite, Laguerre and Jacobi polynomials, see [3], the complexity of the matrix valued situation opens the door to an embarrassment of riches, almost dwarﬁng the scalar situation by comparison.
+2. Right-hand side second order differential operators
+Some readers will be amused or annoyed by the fact that the coefﬁcients in (1.3) appear on the right side of the argument. This section deals with this issue.
+In considering differential operators it is customary to write them as linear combinations of products of functions of t multiplied on the right by powers of the differentiation operator. This applies just as well in the scalar as in the matrix valued case. Already in the scalar case, when one deals with the formal adjoint of a differential operator we have to deal with products written in the reversed order. When we deal with the matrix valued case where nothing is assumed to commute it is clear that, using the notation of (1.3) and (1.4) the adjoint of a term like
+A(t)D2P (t)
+is given by
+P ∗(t)D2A(t)∗
+i.e. we go from a left-hand differential operator acting on P (t) to a right-hand operator acting on P (t)∗. We could therefore be considering right-hand side operators
+2,R = D2A2 + D1A1 + D0A0
+
+A.J. Durán, F.A. Grünbaum / Journal of Computational and Applied Mathematics 178 (2005) 169 – 190
+
+173
+
+as well as left-hand side operators
+2,L = A2D2 + A1D1 + A0D0.
+We discuss brieﬂy the reason that makes right-hand side operators more natural and interesting in relation with matrix inner products deﬁned by a weight matrix W in the usual form
+
+P , Q 1 = P (t) dW (t)Q∗(t),
+
+(2.1)
+
+while left-hand side differential operators are more convenient when the inner product is deﬁned in the less natural way
+
+P , Q 2 = Q∗(t) dW (t)P (t).
+
+(2.2)
+
+The reason is the following: when inner products of the form (2.1) are considered, the natural way to expand a matrix polynomial in terms of the sequence of orthonormal polynomials (Pn)n is to put P (t) = n nPn(t), that is, placing the matrix coefﬁcients on the left; otherwise the coefﬁcients n interfere with the orthogonality of (Pn)n since in (2.1) the polynomial P multiplies the weight W on the left. Analogously, for (2.2), the natural expansion takes the form P (t) = nPn n. It turns out that righthand side operators are left linear but not right linear: that is, 2,R(CP ) = C 2,R(P ), P a matrix function and C a constant matrix, but, in general, 2,R(P C) = 2,R(P )C; analogously left-hand side operators are right linear but not left linear: 2,L(P C) = 2,L(P )C, but, in general, 2,L(CP ) = C 2,L(P ).
+The lack of left linearity of the left-hand side operators has certain undesirable consequences:
+Lemma 2.1 (Duran [10, Lemma 2.1]). Let W be a positive deﬁnite matrix of measures and (Pn)n be a sequence of orthonormal polynomials with respect to it. Then, for a right-hand side second order differential operator 2,R the following conditions are equivalent:
+(a) The operator 2,R is symmetric with respect to the inner product of the form (2.1), i.e. 2,R(P ), Q = P , 2,R(Q) , for any matrix polynomials P and Q.
+(b) The orthonormal polynomial Pn is a eigenvector of 2,R with a Hermitian left eigenvalue n : 2,R(Pn) = nPn, n = 0, 1, . . ..
+For a left-hand side operator (a) also implies (b) but, in general, (b) does not imply (a).
+
+We observe that from the beginning we are assuming that the coefﬁcients of our second order differential operator are matrix polynomials satisfying a degree condition that insures that the space of matrix polynomials of a given degree is invariant under the action of the differential operator.
+A lemma analogous to the one above can be given for left-hand side operators and inner products of the form (2.2). Such an approach is used in [34], a paper that grew out of a progression starting with [32]. In [32] the search for matrix valued spherical functions for a speciﬁc symmetric space yields a family of matrix valued functions Qn(t) that satisfy a three term recursion relation as in (1.1) and a differential equation of the form
+
+EQn(t)∗ = Qn(t)∗ n,
+
+(2.3)
+
+174 A.J. Durán, F.A. Grünbaum / Journal of Computational and Applied Mathematics 178 (2005) 169 – 190
+
+where the operator E is given by
+
+E
+
+=
+
+A2(t
+
+)
+
+d2 dt 2
+
++
+
+A1(t
+
+)
+
+d dt
+
++
+
+A0 (t ).
+
+(2.4)
+
+It is also clear that an equation like (1.3) is equivalent to one involving the operator above if one exchanges every coefﬁcient Ai(t) by its adjoint and makes the same replacement for Pn(t). A corresponding change has to be made on the right-hand side of (1.3). We will use most of the time the expression as in (1.3). But one should recall that both formulations are entirely equivalent.
+For a fuller account of this route to a large family of matrix valued orthogonal polynomials satisfying differential equations as in (1.3) one can consult [31–34,26].
+There is another reason to consider left-hand side operators as less interesting (than right hand ones) when the inner product (2.1) is used: as it was proved by one of us (see Theorem 3.2 of [10]), in the matrix case all the examples of weight matrices having a symmetric left-hand side second order operator reduce to the scalar classical examples.
+For all the reasons given above, in the rest of the paper we always consider right-hand side operators. We stress that we will make no commutativity assumptions on the coefﬁcients of this differential operator. This brings in certain difﬁculties, but it opens up the ﬁeld to interesting examples. The undesirable effect of making some simplifying assumptions is recalled now.
+The study of weight matrices W (t) having a symmetric second order differential operator can be smmimaattprriilxxiﬁ)WethdaalbtwyAaa1ysWsssua=mtiisWnﬁgeAsth∗1A.aTt2WAhe0=sWeWth=AreW∗2e,HAane∗0drm,baoisttihainnco[c1no0dn]id.tiiAtoinsosnestsatfakoberlniAstho2egWdet,ihnAer1TWihmepoalrnyedm(Am30a.Wy1 bbaeerlueop,wht,ootwaheecvowenres,ittgaonhott restrictive; for instance, all the examples we are going to study in this paper fail to fulﬁll these Hermitian conditions. Moreover, it is likely that all the examples satisfying these conditions could be reduced to the classic scalar weights (Jacobi, Laguerre, Hermite and Bessel). This is indeed the case when A2 is a nonsingular matrix: if W is a weight matrix having a symmetric second order differential operators for which A2 is a nonsingular matrix and A0 is the identity matrix up to a multiplicative constant, then W is necessarily of the form W = SDS∗, where S is a nonsingular matrix and D is a diagonal matrix whose entries are classical Hermite weights up to a linear change of variables (possibly a different change in every entry) (Proposition 4.1 of [10]).
+
+3. The differential equations for the weight matrix
+In this section we show how to convert the condition of symmetry for the pair made up of a weight matrix W and a right-hand side second order differential operator 2,R namely
+2(P ), Q 1 = P , 2(Q) 1, for any matrix polynomials P and Q, into a set of differential equations relating W and the coefﬁcients of 2 = 2,R.
+Theorem 3.1 (Duran and Grünbaum [15, Theorem 3.1], Grünbaum et al. [34]). Assuming that dW (t) = W (t) dt with a smooth W (t), the following conditions are equivalent
+(1) The operator 2 is symmetric with respect to W.
+
+A.J. Durán, F.A. Grünbaum / Journal of Computational and Applied Mathematics 178 (2005) 169 – 190
+
+175
+
+(2) The boundary conditions that
+
+A2(t)W (t) and (A2(t)W (t)) − A1(t)W (t),
+
+(3.1)
+
+should have vanishing limits at each of the endpoints of the support of W (t), and the weight matrix W should satisfy
+
+A2W = W A∗2,
+
+(3.2)
+
+as well as
+
+2(A2W ) = W A∗1 + A1W
+
+(3.3)
+
+and
+
+(A2W ) − (A1W ) + A0W = W A∗0.
+
+(3.4)
+
+Not all the conditions given above are of an equal importance. For instance condition (3.3) is, under
+the boundary conditions (3.1), a consequence of (3.2) and (3.4).
+In spite of its redundant character, this condition (3.3) plays an important role in ﬁnding the general
+solution of the set of three (3.2), (3.3), and (3.4). In fact condition (3.3) is a kind of noncommuting Pearson equation. When W A∗1 = A1W , it reduces to
+the scalar type Pearson equation
+
+(A2W ) = A1W.
+
+(3.5)
+
+It is worth spending a couple of paragraphs on this scalar type Pearson equation. Under the assumption that
+A2 is a scalar polynomial, this Pearson equation for the weight matrix W implies a scalar type Rodrigues’ formula for the orthogonal matrix polynomials (Pn)n with respect to the weight matrix W.
+
+Theorem 3.2 (Duran and Grünbaum [16, Theorem 2.1]). Let W be a weight matrix satisfying the Pearson equation
+
+(a2(t)W ) = A1(t)W (t),
+
+(3.6)
+
+where a2(t) is a scalar polynomial of degree not bigger than 2 and A1 is a matrix polynomial of degree 1 with nonsingular leading coefﬁcient. We assume that the weight matrix W also satisﬁes the boundary
+conditions that a2(t)W (t) has vanishing limits at each of the endpoints of the support of W (t). If the degree of a2 is 2 we assume, in addition, that its roots are different (just to avoid the analogs of the Bessel polynomials) and that the spectrum of the leading coefﬁcient of A1 is disjoint with the set of natural numbers N. Then
+
+Pn(t) = (a2n(t)W (t))(n)W −1(t)
+
+(3.7)
+
+is a sequence of matrix polynomials of degree n with nonsingular leading coefﬁcients. Moreover, they are orthogonal with respect to W.
+
+For the canonical choices a2 = 1, a2(t) = t and a2(t) = 1 − t2, the Pearson equation (3.5) can be easily integrated as soon as we assume that the coefﬁcients of the polynomial A1 commute. Otherwise
+the integration of this ﬁrst order matrix equation is not straightforward.
+
+176 A.J. Durán, F.A. Grünbaum / Journal of Computational and Applied Mathematics 178 (2005) 169 – 190
+For instance, when a2 = 1 (the rest of the cases can be managed analogously), we can write the Pearson equation (3.5) as
+W (t) = (2(B − I )t + A)W (t),
+which can be solved explicitly when A and B commute to get:
+W (t ) = e−t2 eBt2+At C.
+To avoid any integrability problem of W at ∞, the real part of the eigenvalues of B have to be less than 1. Since the weight matrix W has to be Hermitian, we have to impose, in addition to AB = BA, the
+conditions BC = CB∗ and AC = CA∗. Unfortunately, when C is positive deﬁnite (that is W is a positive deﬁnite weight matrix), W reduces to
+scalar weights. Indeed, taking into account the conditions on the matrices A, B and C we can write:
+W (t ) = e−t2 eBt2+At C = e−t2 C1/2eC−1/2(Bt2+At)C1/2 C1/2,
+where, C−1/2BC1/2 and C−1/2AC1/2 are now Hermitian commuting matrices; we can then take an unitary matrix U which simultaneous diagonalizes both matrices. Then, the weight can be written as
+W (t ) = e−t2 C1/2U eD1t2+D2t U ∗C1/2
+with D1 and D2 diagonal matrices: that is, W reduces to scalar weights. This is the case of many examples of orthogonal matrix polynomials which can be found in the literature, see for instance [4,35].
+Nevertheless, even in the case that the coefﬁcients of A1 do not commute, we conjecture that a weight matrix satisfying (3.5) will reduce to scalar weights. In Section 3 of [16], we integrated a case of Pearson equation where the coefﬁcients of the polynomial A1 do not commute: as in the case above, the weight matrix reduced to scalar weights.
+We point out here that, however, something more interesting can be done by considering a weaker condition than that of the positive deﬁniteness of the weight matrix ((1) of Deﬁnition 1.1): in doing this we get some examples of orthogonal matrix polynomials which are relatives of the classical Bessel scalar polynomials (see Sections 4 and 5 of [16]).
+It is worth noting that the examples of orthogonal matrix polynomials satisfying second order differential equations like (1.3) we are going to display in the next section, can be deﬁned by means of matrix Rodrigues’ formulas (see (5.3) in Section 5 below); these matrix Rodrigues’ formulas differ from the corresponding scalar type ones. What we have explained above and the comment after Theorem 3.3 below seem to be good indicators to suspect that scalar type Rodrigues’ formula like (3.7) are not going to play in the matrix orthogonality case the important role that they played in the scalar orthogonality case; instead, Rodrigues’ formulas like (5.3) are very likely going to be more useful.
+We return now to the task of solving the three equations (3.2), (3.3) and (3.4) above. We are interested in the case when A2(t) is a real valued scalar matrix: A2(t) = a2(t)I . We assume that a2(t) does not vanish inside the support of W (t). The ﬁrst equation (3.2) above is trivially satisﬁed. We have already mentioned that in the scalar case, since W A∗1 =A1W , the second equation (3.3) reduces to the Pearson equation. The Pearson equation is then equivalent (under suitable boundary conditions) to
+
+A.J. Durán, F.A. Grünbaum / Journal of Computational and Applied Mathematics 178 (2005) 169 – 190
+
+177
+
+the second order differential equation for the orthogonal polynomials and the corresponding Rodrigues’ formula. But the situation in the matrix case is completely different and rather more involved: ﬁrst of all the noncommuting Pearson equation (3.3) does not imply the second order differential equation (3.4) (which is, by the way, the important one here); that is, orthogonal matrix polynomials with respect to weight matrices satisfying noncommuting Pearson equations like (3.4) need not to satisfy second order differential equations like (1.3).
+Nonetheless, the noncommuting Pearson equation is rather useful because it implies a certain factorization for the weight matrix. Indeed, if W satisﬁes the Eq. (3.3) then it can be factorized in the form
+
+W (t) =
+
+(t ) (a)
+
+T
+
+(t
+
+)W
+
+(a)T
+
+∗(t
+
+),
+
+where the matrix valued function T (t) satisﬁes the ﬁrst order differential equation
+
+T (t) = F (t)T (t), T (a) = I,
+
+the matrix valued function F (t) is deﬁned by the relation
+
+A1(t) = 2a2(t)F (t) + c(t)I
+
+(3.8)
+
+and, ﬁnally, the scalar function c(t) is deﬁned by
+
+c = ( a2) ,
+
+where (t) is so far an unspeciﬁed scalar function. We note that in the scalar case the function F is identically zero and then it allows us to identify W (t) with (t).
+The choice of the value a above is a matter of convenience. Factorizations as the one above play a very important role in many areas of mathematics. Famous instances of them are connected with the names Riemann–Hilbert, Birkhoff, Wiener–Hopf and Gohberg–Krein. To get the second order differential equation (3.4) from the noncommuting Pearson equation (3.3), we need an additional condition. This condition seems to be rather technical and not easy to manage; in fact this is the difﬁcult part in solving the second order differential equation (3.4). Write (t) for the matrix function
+(t) = T −1(t)(a2(t)F (t) + a2(t)F 2(t) + c(t)F (t) − A0(t))T (t),
+(where F means derivative and F 2 means square) then that technical condition says that (t)W (a) is Hermitian for all t.
+Summarizing all these results, we have:
+
+Theorem 3.3 (Duran and Grünbaum [15, Theorem 4.1]). Let , a2, A1 and A0 be a (real) scalar function, a (real) scalar polynomial with degree at most 2 and matrix polynomials with degrees less than or equal to 1 and 0, respectively. Deﬁne A2(t) = a2(t)I , the scalar function c as
+
+c(t) =
+
+(
+
+(t )a2 (t )) (t )
+
+(3.9)
+
+178 A.J. Durán, F.A. Grünbaum / Journal of Computational and Applied Mathematics 178 (2005) 169 – 190
+
+and the matrix function F as A1(t) = 2a2(t)F (t) + c(t)I.
+Write T for the solution of the differential equation T (t) = F (t)T (t), T (a) = I
+and deﬁne the matrix function as (t) = T −1(t)(a2(t)F (t) + a2(t)F 2(t) + c(t)F (t) − A0)T (t).
+If the matrix function (t)W (a) is Hermitian for all t, then the matrix weight W (t) = (t) T (t)W (a)T ∗(t), (a)
+satisﬁes the differential equation (3.4). The converse is also true.
+
+(3.10) (3.11)
+
+This theorem allows us to understand why, in the matrix valued case, satisfying a scalar type Rodrigues’ formula is no longer equivalent to satisfying a second order differential equation like (1.3). Indeed, Theorem 3.1 says that the orthonormal matrix polynomials (Pn)n with respect to W satisfy a second order differential equation as (1.3) if and only if the weight W satisﬁes the Eqs. (3.2)–(3.4) (as well as the extra conditions (3.1)). In particular, W satisﬁes the noncommuting Pearson equation (3.3); we have already mentioned that this Eq. (3.3) does not imply the stronger one (3.4). In the scalar case both Eqs. (3.3) and (3.4) are equivalent (the ﬁrst one being the Pearson equation) and equivalent to the Rodrigues’ formula for the orthogonal polynomials. The noncommutativity of the matrix product implies that, in general, Eq. (3.3) also differs from the scalar type Pearson equation (3.6). Taking this into account, it is rather understandable that for orthogonal matrix polynomials a second order differential equation like (1.3) does not imply scalar type Rodrigues’ formula.
+When A2(t) is scalar we will see that the determinant of W (t), has to be among the classical scalar weights:
+
+Lemma 3.1. If the weight matrix W has a corresponding symmetric second order differential operator like (1.3) with A2(t) = a2(t)I , then det W is a classical scalar weight (up to a scalar change of variable).
+Proof. The main tool is a slight strengthening of the classical Abel’s result that gives from
+(W (t)) = A(t)W + W B(t)
+the relation
+(det W ) = (tr(A) + tr(B)) det(W ). This is proved in the same way as in the standard case, using the multilinearity of det(W ) with respect to both the rows and columns of the matrix W. Using this we go from
+2(a2(t)W ) = A1W + W A∗1
+
+A.J. Durán, F.A. Grünbaum / Journal of Computational and Applied Mathematics 178 (2005) 169 – 190
+
+179
+
+to
+a2(t)(det W (t)) = [−N a2(t) + tr(A1(t)) + tr(A∗1(t))] det W (t).
+This can be rewritten as
+(log(a2(t)N det(W )) = (tr(A1(t)) + tr(A∗1(t)))/a2(t)
+and since A1 is a polynomial of degree at most one and that a2(t) is one of degree at most two (with unequal roots) we conclude that the right-hand side of the expression above is (after a linear change of variables) of one of the forms
+
+a + bt
+
+or
+
+a t
+
++b
+
+or ﬁnally
+
+a t
+
++
+
+t
+
+b −
+
+1
+
+.
+
+From here one concludes that det W is either a Gaussian, a generalized Laguerre weight or a Jacobi weight respectively. The presence of the factor a2(t)N poses no problem.
+
+4. Examples
+
+In this section we display a variety of interesting examples. When in Theorem 3.3, is taken to be one of the classical scalar weights the function F has to be of one of the following forms
+
+when when
+when
+
+(t) = e−t2 then F (t) = 2Bt + A,
+
+(t) = t e−t then F (t) = A + B , t
+
+(t) = (1 − t) (1 + t)
+
+then
+
+F (t) =
+
+A 1−t
+
++
+
+1
+
+B +
+
+t
+
+,
+
+where A and B are N × N matrices.
+
+In [15,18], we have completely solved the case when either A or B vanish. In doing so, we have
+
+associated to each of the classical weights of Hermite, Laguerre and Jacobi two families of N × N weight
+
+matrices with a symmetric second order differential operator as in (1.4): namely, those weight matrices
+
+have one of the following forms
+
+Hermite weight
+
+e−t2 eAt eA∗t e−t2 eAt2 eA∗t2 ,
+
+and
+
+(4.1)
+
+Laguerre weights
+
+t e−t eAt eA∗t t e−t t At A∗ ,
+
+and
+
+(4.2)
+
+180 A.J. Durán, F.A. Grünbaum / Journal of Computational and Applied Mathematics 178 (2005) 169 – 190
+
+Jacobi weights
+
+(1 + t) (1 − t) (1 + t)A(1 + t)A∗ (1 + t) (1 − t) (1 − t)A(1 − t)A∗,
+
+and
+
+(4.3)
+
+where A is, in each of the cases, a matrix of a certain speciﬁc form which depends on a number of parameters. Hence, all these examples have one thing in common: of the matrices A, B that will make up the matrix valued function F (t) introduced above, only one of them is allowed to be nonzero. It turns out that all these examples introduced in [15] are maximal when the weight matrix W has one of the forms given by (4.1)–(4.3).
+We display at the end of this section an example corresponding to matrices A and B which do not commute.
+But let us go to the examples. We ﬁrst show the examples of weight matrices of the form e−t2eAt eA∗t ; it is worth including also part of the proof just to see how to manage the Hermitian condition the matrix function (3.11) has to satisfy.
+
+Theorem 4.1 (Duran and Grünbaum [18, Theorem 1.1]; the implication (3) ⇒ (1) is Duran and Grünbaum [15, Theorem 5.1]). Let A be a N × N singular matrix that is not unitarily equivalent to block-diagonal and consider the weight matrix W (t) = e−t2eAt eA∗t . The following conditions are equivalent
+
+(1) The second order differential operator (1.4), with A2(t)=I , is symmetric for the inner product deﬁned by W.
+(2) There exists a Hermitian matrix H0 such that
+
+2A + AH 0 − H0A = .
+
+(3) There are a partition of N, N = n1 + · · · + nk, 1 < k N , 1 ni < N , i = 1, . . . , k, nonnull matrices
+
+Vi, i = 1, . . . , k − 1, of respective sizes ni × ni+1, such that A is unitarily equivalent to the matrix
+
+ V1
+
+··· 
+
+ ...
+
+...
+
+V2 ...
+
+...
+
+··· ...
+··· ···
+
+... Vk−1
+
+
+
+.
+
+(4.4)
+
+···
+
+The unitary matrix, which gives the form (4.4) for A, diagonalizes then the Hermitian matrix H0 to the form
+
+diag(2(k − 1)In1, 2(k − 2)In2 , . . . , 2Ink−1, 0Ink ). The coefﬁcients A1 and A0 of the second order differential operator are then given by A1(t) = 2A − 2tI and A0(t) = A2 − H0.
+
+Before going into the proof, let us point out that the conditions imposed on the matrix A in this theorem are actually a normalization more than a restriction. We aim at obtaining only examples when W (t) does not reduce to lower sizes. The lower size reducibility for weight matrices of one of the forms (4.1), (4.2) and (4.3) depends on the structure of the matrix A. All these weight matrices reduce to lower size when A
+
+A.J. Durán, F.A. Grünbaum / Journal of Computational and Applied Mathematics 178 (2005) 169 – 190
+
+181
+
+is unitarily equivalent to block diagonal. Indeed, take the weight matrix W (t) = e−t2eAt eA∗t and assume that A is unitarily equivalent to block diagonal; that is, there exists an unitary matrix U such that
+
+A = U A1 A2 U ∗,
+
+then W (t ) = e−t2 eAt eA∗t = U
+
+e−t2 eA1t eA∗1t
+
+e−t2 eA2t eA∗2t
+
+U∗
+
+and then W reduces to two weight matrices of lower size and of the same form. A similar computation
+shows that also the other forms deﬁned by (4.1), (4.2) and (4.3) reduce to lower size when A is unitarily
+equivalent to block diagonal.
+Using a linear change of variable we can also assume some extra normalization on the matrix A. For instance, we could assume that A is singular. Indeed, consider again the weight matrix W (t)=e−t2eAt eA∗t ; for any complex number , we can write
+
+W (t ) = e−t2+2R t e(A− I )t e(A− I )∗t .
+
+By putting x = t − R , we get the new weight matrix R: R(x) = T (e−x2 e(A− I )x e(A− I )∗x )T ∗,
+
+where T = eRe2 /2e(A− )R . If we take equal to any of the eigenvalues of A, we have that R is similar to a weight matrix of the form e−x2eBxeB∗x with B singular.
+
+Proof. We include here only the proof of (3) ⇒ (1) (see [18] for the other implications). A weight function of the form W (t)=e−t2eAt eA∗t is obtained by taking in Theorem 3.3 above (t)=e−t2,
+a2(t) = 1 and F (t) = A, so that c(t) = −2t, T (t) = eAt and A1(t) = 2A − 2tI . According to Theorem 3.3 the symmetry of the second order differential operator is equivalent to the following matrix function
+being Hermitian
+
+(t) = A2 − 2At − e−tadA(A0)
+
+= (A2 − A0) − t (2A − adAA0) −
+
+(−1)nt n!
+
+n
+
+adnAA0.
+
+n2
+
+(4.5)
+
+This is equivalent to the following matrices being Hermitian: A2 − A0 = H0, 2A − [A, A0], adnAA0, n 2.
+A simple computation gives that if A has the form given in (4.4) and
+
+(4.6)
+
+H0 = diag(2(k − 1)In1, 2(k − 2)In2 , . . . , 2Ink−1, 0Ink ),
+then for A0 = A2 − H0 the equation 2A − [A, A0] = holds; hence also adnAA0 = , n 2. According to (4.6) this is equivalent to the matrix function (4.5) being Hermitian. It is enough now to apply Theorem 3.3.
+
+182 A.J. Durán, F.A. Grünbaum / Journal of Computational and Applied Mathematics 178 (2005) 169 – 190
+
+We include here two more examples to illustrate the different structure that the matrix A can have depending of the form of the matrix W as given by (4.1), (4.2) and (4.3). Explicitly, we give the other family associated to the Hermite weight (4.1) and one of those associated to the Laguerre weight (4.2).
+
+Theorem 4.2 (Duran and Grünbaum [18, Theorem 3.1]; the implication (3) ⇒ (1) is Duran and Grünbaum [15, Theorem 5.2]). Let A be a N × N singular matrix that is not unitarily equivalent to block-diagonal and consider the weight matrix W (t) = e−t2eAt2eA∗t2. To avoid any integrability problem we assume that the eigenvalues of A satisfy 2R < 1. The following conditions are equivalent
+
+(1) The second order differential operator (1.4), with A2 = I , is symmetric for the inner product deﬁned by W.
+(2) There exists a Hermitian matrix H0 such that
+
+4A2 − 4A + H0A − AH 0 = .
+
+(4.7)
+
+(3) There are a partition of N, N = n1 + · · · + nk, 1 < k N , 1 ni < N , i = 1, . . . , k, nonnull matrices
+
+Vi, i = 1, . . . , k − 1, of respective sizes ni × ni+1, such that A is unitarily equivalent to the matrix
+
+ V1 −V1V2 V1V2V3 · · · (−1)kV1V2 · · · Vk−1 
+
+ ... ...
+
+V2 ...
+
+−V2V3 ...
+
+··· ...
+··· ···
+
+(−1)k−1V2 · · · Vk−1 ...
+−Vk−2Vk−1 Vk−1
+
+
+
+.
+
+(4.8)
+
+···
+
+The unitary matrix, which gives the form (4.8) for A, diagonalizes then the Hermitian matrix H0 to the form
+
+diag(−4(k − 1)In1, −4(k − 2)In2 , . . . , −4Ink−1, 0Ink ).
+The coefﬁcients A1 and A0 of the second order differential operator are then A1(t) = 4At − 2I and A0(t) = 2A + H0.
+
+Theorem 4.3 (Duran and Grünbaum [18, Theorem 3.3]; the implication (3) ⇒ (1) is Duran and Grünbaum [15, Section 6.2]). Let A be a N × N singular matrix that is not unitarily equivalent to block-diagonal and consider the weight matrix W (t) = t e−t tAtA∗. Assume that > − 1, R > − (1 + )/2 if ∈ specA (just to avoid any integration problem at t = 0) and
+
+lim t tA(A∗ − A)tA∗ =
+t →0+
+
+(4.9)
+
+(so that W satisﬁes the boundary conditions (3.1)). Then the following conditions are equivalent
+
+(1) The second order differential operator (1.4), with A2 = t, is symmetric for the inner product deﬁned
+by W. (2) There exists a matrix B0 such that A2 + A − B0 is Hermitian and
+
+AB0 − B0A − B0 = .
+
+(4.10)
+
+A.J. Durán, F.A. Grünbaum / Journal of Computational and Applied Mathematics 178 (2005) 169 – 190
+
+183
+
+(3) There is a partition of N, N = n1 + · · · + nk, 1 < k N , 1 ni < N , i = 1, . . . , k, and nonnull matrices
+Vi, i = 1, . . . , k − 1, of respective sizes ni × ni+1, such that A is unitarily equivalent to the matrix T DT −1 where D = diag((k − 1)In1, (k − 2)In2, . . . , Ink−1, 0Ink ) and T = RS with R an arbitrary block diagonal matrix with blocks of size ni and S deﬁned by blocks as follows:
+
+S = (Sij )i,j =1,...,k;
+
+
+
+ I
+
+Sij
+
+=
+
+ j−i
+l=1
+
+ci
+
+1 − ci+l
+
+Vi+l−1
+
+if i > j, if i = j,
+if i < j,
+
+(4.11)
+
+where ci, i = 1, . . . , k, are the diagonal entries of D2 + D (i.e., ci = (k − i)2 + (k − i)). The matrix B0 is then B0 = SF S−1 where F = (Fi,j )i,j=1,...,k, with Fi,i+1 = Vi, i = 1, . . . , k − 1, and Fi,j = otherwise.
+The coefﬁcients A1 and A0 of the second order differential operator are then A1(t)=−tI −2A−( +1)I and A0(t) = −A + B0.
+
+To ﬁnish this section, we make some comments and display some examples corresponding to cases when the matrices A and B alluded to above do not commute. We notice that all the examples below were produced in a manner that does not require the introduction of the matrices A and B above. If one re-examines these examples in the light of the method in [15] one runs into noncommuting matrices A and B.
+We start with the observation that the results in [31–33], yield, apparently for the ﬁrst time, examples of matrix valued Jacobi polynomials where the parameters , take the values ∈ Z 0, =1 and the size of the matrices is arbitrary. This comes about, as stated above, from the study of the matrix valued spherical functions of a speciﬁc symmetric space, namely the complex projective space P2(C). The choice of this example allows for fairly explicit computations carried out in [32]. While one could in principle attempt the same computations for higher dimensional projective spaces, where higher integer values of should play a role, this has not been done yet.
+The results in [26] give a completely explicit description of an extension of the theory in the papers mentioned above to arbitrary values of the parameters , where there is no symmetric space around, but the results are given quite explicitly only in the case of two-by-two matrices.
+We do not reproduce these results here, but discuss brieﬂy a two-by-two example, taken from [34], example 5.2, that extends both of the situations discussed above.
+Deﬁne the matrices
+
+X=
+
++2−u u
+
+1−u +1+u
+
+,
+
+U=
+
++ +3 0
+
+−1 + +4
+
+,
+
+V=
+
+0 0
+
+0
+
+−
+
+1
+
++ −
+
+1 u
+
+.
+
+Now a sequence of matrix valued orthogonal polynomials Pn is obtained by solving the following differential equation
+
+t
+
+(1
+
+−
+
+t)
+
+d2 dt 2
+
+Pn∗
+
++
+
+(X
+
+−
+
+tU
+
+)
+
+d dt
+
+Pn∗
+
++
+
+V
+
+P
+
+∗ n
+
+−
+
+Pn∗
+
+n = 0,
+
+(4.12)
+
+184 A.J. Durán, F.A. Grünbaum / Journal of Computational and Applied Mathematics 178 (2005) 169 – 190
+
+where
+
+−n2 − ( + + 2)n
+
+0
+
+n=
+
+0
+
+−n2 − ( +
+
++
+
+3)n
+
+−
+
+1
+
++ −
+
+1 u
+
+.
+
+These polynomials are orthogonal with respect to the weight matrix given by
+
+W (t) = (t) T (t)W (1/2)T ∗(t) (1/2)
+
+with
+
+(t) = t (1 − t)
+
+and where T (t) solves the equation
+
+T (t) =
+
+A t
+
++
+
+t
+
+B −
+
+1
+
+T (t),
+
+T (1/2) = I
+
+(4.13)
+
+and the noncommuting matrices A and B are given by
+
+A= 1 2
+
+1−u 1−u
+
+u u
+
+,
+
+B=1 2
+
+u u−2
+
+−u −u + 2
+
+,
+
+u ∈ R.
+
+Notice that we are adopting here the notation in [34] where we have a differential operator acting on the left, and the matrix valued orthogonal polynomials are supposed to be transposed.
+For more details, including an expression for these polynomials in terms of a matrix valued version of the Gauss hypergeometric function, discovered in [42], see [34].
+
+5. Some examples of structural formulas
+
+The families of orthogonal matrix polynomials satisfying second order differential equations, displayed
+
+above, satisfy a rich variety of structural formulas too. This also happens in the case of the classical
+
+orthogonal families of Jacobi, Laguerre and Hermite. We include here several of these relations for two
+
+of the simplest examples.
+
+In Theorems 4.1 and 4.2 take A =
+
+0a 00
+
+; this gives the weight matrix
+
+Ha,1(t ) = e−t2
+
+1 + |a|2t2 a¯ t
+
+at 1
+
+,
+
+a ∈ C\{0}, t ∈ R,
+
+(5.1)
+
+and
+
+Ha,2(t ) = e−t2
+
+1 + |a|2t4 a¯ t2
+
+at2 1
+
+,
+
+a ∈ C\{0}, t ∈ R.
+
+(5.2)
+
+The corresponding sequences of monic orthogonal polynomials will be denoted by (Pˆn,a,i)n, i = 1, 2.
+
+A.J. Durán, F.A. Grünbaum / Journal of Computational and Applied Mathematics 178 (2005) 169 – 190
+
+185
+
+The second order differential equations satisﬁed by (Pˆn,a,i)n, i = 1, 2, are
+
+Pˆn,a,1(t ) + Pˆn,a,1(t )
+
+−2t 0
+
+2a −2t
+
++ Pˆn,a,1(t )
+
+−2 0
+
+0 0
+
+=
+
+−2n − 2 0
+
+0 −2n
+
+Pˆn,a,1(t ),
+
+Pˆn,a,2(t ) + Pˆn,a,2(t )
+
+−2t 0
+
+4at −2t
+
++ Pˆn,a,2(t )
+
+−4 0
+
+2a 0
+
+=
+
+−2n − 4 0
+
+2a(2n + 1) −2n
+
+Pˆn,a,2(t ).
+
+The orthogonal polynomials with respect to the weight matrices (5.1) and (5.2) can be deﬁned by means of a Rodrigues’s type formula; write
+
+Ra,1(t) =
+
+1 + |a|2t2 a¯ t
+
+at 1
+
+and
+
+Ra,2(t) =
+
+1 + |a|2t4 a¯ t2
+
+at2 1
+
+,
+
+then
+
+Theorem 5.1 (Duran and Grünbaum [17, Theorem 3.1]). The matrix polynomials deﬁned by
+
+Pn,a,i (t ) = (−1)n[e−t2 (Ra,i (t ) + Xn,a,i (t ))](n)Ra−,1i (t )et2 , i = 1, 2, n 0,
+
+(5.3)
+
+where
+
+ 
+
+|a|2n/2 0
+
+0 0
+
+Xn,a,i(t) = 
+
+|a|2 2
+
+n+1 2
+
++ |a|2 n − 1 2
+
+t2
+
+−a 2
+
+a¯n 0
+
+for i = 1, for i = 2,
+
+(5.4)
+
+are orthogonal with respect to the weight matrices Ha,i, i = 1, 2, deﬁned in (5.1) and (5.2), respectively. The leading coefﬁcient n,a,i of (Pn,a,i)n, i = 1, 2, are the nonsingular matrices given by
+
+n,a,1 = 2n
+
+1 0
+
+0
+2
+
+,
+
+n,a,1
+
+n,a,2 = 2n
+
+1
+
+−a
+
+n+ 1 2
+
+0
+
+2 n,a,2
+
+,
+
+where
+
+2 n,a,i
+
+=
+
+  1  1
+
++ +
+
+|a|2 n, 2
+|a|2 n 22
+
+,
+
+i = 1, i = 2.
+
+(5.5)
+
+In the proof of this theorem (see Section 3 of [17]) we show that for each i, i = 1, 2, there exists only one sequence of matrices ( n,a,i)n, each one independent of t, such that
+
+[e−t2 (Ra,i (t ) − n,a,i )](n)Ra−,1i (t )et2
+
+(5.6)
+
+186 A.J. Durán, F.A. Grünbaum / Journal of Computational and Applied Mathematics 178 (2005) 169 – 190
+
+is a polynomial of degree n with nonsingular leading coefﬁcient (actually, a nth orthogonal polynomial
+
+with respect to Ha,i). These sequences are precisely
+
+ 
+
+|a|2n/2 0
+
+0 0
+
+,
+
+for i = 1,
+
+n,a,i =  −
+
+3|a|2
+
+n 2
+
+/2
+
+−a¯ n
+
+an 0
+
+,
+
+for i = 2.
+
+Any other sequence of polynomials of the form 
+n[e−t2(Ra,i(t) − n)](n)Ra−,1i (t)et2, with det 
+n = 0, n 0, is again orthogonal with respect to Ha,i. The choice of the sequence of nonsingular matrices (
+n)n is then a matter of normalization. It turns out that the normalization 
+n = (−1)nI seems to be optimal to get the simplest expressions for the structural formulas corresponding to Pn,a,1. Concerning i = 2, we
+have that
+
+
+n = (−1)n
+
+1
+
+a
+
+n− 1 2
+
+01
+
+seems to be optimal for the polynomial Pn,a,2. A simple calculation shows that
+
+(−1)n
+
+1
+
+a
+
+n− 1 2
+
+01
+
+e−t 2
+
+Ra,2(t) −
+
+3|a|2
+
+n 2
+
+/2
+
+an
+
+−a¯n 0
+
+(n)
+Ra−,12(t )et2
+
+= (−1)n e−t2
+
+Ra,2(t) +
+
+|a|2 2
+
+n+1 2
+
++ |a|2 n − 1 t2 2
+
+−a 2
+
+a¯n 0
+
+(n)
+Ra−,12(t )et2 ,
+
+which is, actually, the formula we have used in (5.3) to introduce the sequence of polynomials Pn,a,2, n 0.
+The three term recurrence relation for (Pn,a,i)n is given by the following theorem
+
+Theorem 5.2 (Duran and Grünbaum [17, Theorem 4.3]). The sequences of matrix polynomials (Pn,a,i)n deﬁned by
+
+t P n,a,i (t ) = An+1,a,i Pn+1,a,i (t ) + Bn,a,i Pn,a,i (t ) + A∗n,a,i Pn−1,a,i (t ), n 0,
+
+(5.7)
+
+where
+
+ 
+
+√ (n
+
++
+
+1)/2
+
+An+1,a,i
+
+=
+
+
+
+√ (n
+
++
+
+1)/2
+
+n+2,a,1/ n+1,a,1 0
+
+0 n,1/ n+1,a,1
+
+,
+
+i = 1,
+
+n+3,a,2/ n+2,a,2 0
+
+a/ n+2,a,2 n+1,a,2 n,a,2/ n+1,a,2
+
+,
+
+i = 2,
+
+Bn+1,a,i =
+
+1 2 n+1,a,1 n,a,1
+
+0 a¯
+
+a 0
+
+,
+
+i = 1,
+
+, i = 2,
+
+and n,a,i, i = 1, 2, are given by (5.5), are orthonormal with respect to the weight matrices (5.1) and (5.2), respectively.
+
+A.J. Durán, F.A. Grünbaum / Journal of Computational and Applied Mathematics 178 (2005) 169 – 190
+
+187
+
+Other formulas and properties for (Pn,a,i)n like its expression in terms of the scalar Hermite polynomials, its explicit power expansion, generating functions, etc. can be found in [17].
+
+6. Time-and-band limiting for matrix valued orthogonal polynomials
+
+The numerical computation of all eigenvectors of a full matrix M (or of an integral operator) is a serious problem. The corresponding problem for a tridiagonal matrix T (or a differential operator) is a much simpler matter, specially if the spectrum of T is well separated.
+Given an M that “appears in nature” one can try to ﬁnd a T such that
+
+MT = T M.
+
+This relation is useful when the spectrum of T is simple. In that case the eigenvectors of T are automatically eigenvectors of M.
+This situation requiring an algebraic miracle and a numerical stability condition can only arise in exceptional cases.
+Such an exceptional situation appears in certain “signal processing” problems ﬁrst considered by C. Shannon and made into solid mathematics by H. Landau, H. Pollak and D. Slepian in a remarkable series of papers at Bell Labs in the early 1960s. For a survey of this work see the paper [40] by D. Slepian on the occasion of the von Neumann prize.
+These developments are tied up with the so called “prolate spheroidal wave functions” which appear as eigenfunctions of the integral operator M of time-and-band limiting as well as of a differential operator T that one gets by separation of variables of the Laplacian in R3.
+The same situation arises in Random Matrix Theory, ﬁrst with the work of M. Mehta, and more recently with the work of C. Tracy and H. Widom, P. Deift and others.
+The work of this group at Bell Labs was examined in the context of the classical scalar valued orthogonal polynomials by one of us, see [24]. The result is that in this case one produces naturally appearing global operators that happen to commute with properly chosen local operators.
+The same situation was found to hold on some situations where physical space is the surface of the sphere and the corresponding expansions are in terms of spherical harmonics. For some of this work see [29] as well as the more recent note [30]. For the larger picture behind this problem the reader may want to consult [25].
+Coming back to the subject of the paper, we have found that the same exceptional situation develops in the matrix valued case, as explained below.
+We will take a two-by-two version of the Legendre polynomials obtained by setting and equal to 0 in the construction described in [26]. These matrix valued polynomials are orthogonal with respect to the measure whose density is the product of the matrices
+
+11
+
+t0 1 1
+
+1 3t − 2 0 1 1 3t − 2
+
+in the interval [0, 1].
+
+188 A.J. Durán, F.A. Grünbaum / Journal of Computational and Applied Mathematics 178 (2005) 169 – 190
+
+For concreteness we give the ﬁrst four (unnormalized) polynomials
+
+1 0
+
+0 1
+
+,
+
+ 5 − 9t
+
+
+
+2 4t
+
+
+
+3
+
+1 − 10t
+
+
+
+,
+
+
+
+150t 2
+
+−
+
+152t
+
+3 + 35
+
+
+
+9 10t (1 − 2t)
+
+3 8(2 − 5t)
+
+
+
+35t
+
+2
+
+9 − 25t
+
++
+
+3
+
+
+
+,
+
+33  21 − 165t + 365t2 − 245t3 4
+
+5(7t2 − 6t + 1) 2
+
+ .
+
+2t (14t2 − 14t + 3)
+
+(1 − 15t + 49t2 − 42t3)
+
+The normalization matrices going with these four polynomials are given by (the square roots of the
+
+inverses of) 3  0 2 3, 0 2
+
+ 15  16
+0
+
+ 0 5,
+6
+
+ 35  54
+0
+
+ 0 7 ,
+12
+
+ 63  128
+0
+
+ 0 9 .
+20
+
+Consider the block matrix M whose i, j block is obtained by taking the inner product of the ith and jth normalized matrix valued Legendre type polynomials in the interval 0, w with w less than 1. Here i, j take values 0, 1, . . . , N. The restriction to the interval 0, w implements “band-limiting” while the restriction to the range 0, 1, . . . , N deals with “time-limiting”.
+For any w and N the matrix M is a block full matrix made up of two-by-two blocks and total size 2(N + 1) by 2(N + 1). As a sample we display the 1,1 block of this matrix, namely,
+
+ w(w + 2)  2
+2(w − 1)w
+
+ 2(w − 1)w w(6w2 − 11w + 8)  .
+2
+
+This is the analog of the celebrated sinc kernel that arises in the work surveyed in [40], giving rise to
+
+the prolate spheroidal wave functions that are used in signal processing. The remarkable fact discovered
+
+by the Bell Labs group in the early 1960s is that the integral operator with this kernel commutes with a
+
+certain speciﬁc second order differential operator. The main result in this section is that one can explicitly construct a block tridiagonal matrix T that
+commutes with M. The matrix T is actually a pentadiagonal matrix, i.e. the off-diagonal two-by-two
+
+blocks are triangular.
+
+An important difference with the scalar case, where the matrix T is unique up to shifts and scaling is that in the 2 × 2 case at hand this is no longer true.
+In the scalar case the vector space of possible T s is a two-dimensional space, In the matrix valued case at hand, for any w, the vector space of block tridiagonal matrices T commuting with M is three
+
+dimensional (not just shifts and scaling). This extra freedom can be traced back to a phenomenon ﬁrst
+
+A.J. Durán, F.A. Grünbaum / Journal of Computational and Applied Mathematics 178 (2005) 169 – 190
+
+189
+
+uncovered in [32]. This phenomenon is a manifestation of the fact that the scalar valued case is a very poor guide to what happens in the matrix valued case. More precisely: all computations become much harder due to the presence of noncommuting objects. However, the variety of interesting examples and the diversity of new phenomena dwarfs the scalar case by comparison.
+
+References
+[1] S. Basu, N.K. Bose, Matrix Stieltjes series and network models, SIAM J. Math. Anal. 14 (1983) 209–222. [2] Ju.M. Berezanskii, Expansions in eigenfunctions of selfadjoint operators, Transl. Math. Monographs AMS 17 (1968). [3] S. Bochner, S. Über Sturm-Liouvillesche polynomsysteme, Math. Z. 29 (1929) 730–736. [4] M. Cantero, L. Moral, L. Velazquez, Differential properties of matrix orthogonal polynomials, J. Comput. Appl. Math., to
+appear. [5] H. Dette, J. Studden, Matrix measures, moment spaces and Favard’s theorem for the interval [0, 1] and [0, ∞), Linear
+Algebra Appl. 345 (2002) 169–193. [6] J.J. Duistermaat, F.A. Grünbaum, Differential equations in the spectral parameter, Comm. Math. Phys. 103 (1986)
+177–240. [7] A.J. Duran, A generalization of Favard’s theorem for polynomials satisfying a recurrence relation, J. Approx. Theory 74
+(1994) 260–275. [8] A.J. Duran, On orthogonal polynomials with respect to a positive deﬁnite matrix of measures, Can. J. Math. 47 (1995)
+88–112. [9] A.J. Duran, Markov’s theorem for orthogonal matrix polynomials, Can. J. Math. 48 (1996) 1180–1195. [10] A.J. Duran, Matrix inner product having a matrix symmetric second order differential operator, Rocky Mount. J. Math. 27
+(1997) 585–600. [11] A.J. Duran, Ratio asymptotics for orthogonal matrix polynomials, J. Approx. Theory 100 (1999) 304–344. [12] A.J. Duran, E. Daneri-Vias, Ratio asymptotics for orthogonal matrix polynomials with unbounded recurrence coefﬁcients,
+J. Approx. Theory 110 (2001) 1–17. [13] A.J. Duran, E. Daneri-Vias, Weak convergence for orthogonal matrix polynomials, Indag. Math. 13 (2002) 47–62. [14] A.J. Duran, E. Defez, Orthogonal matrix polynomials and quadrature formulas, Linear Algebra Appl. 345 (2002) 71–84. [15] A.J. Duran, F.A. Grünbaum, Orthogonal matrix polynomials satisfying second order differential equations, Int. Math. Res.
+Notes 10 (2004) 461–484. [16] A.J. Duran, F.A. Grünbaum, Orthogonal matrix polynomials, scalar type Rodrigues’ formulas and Pearson equations,
+submitted for publication. [17] A.J. Duran, F.A. Grünbaum, Structural formulas for orthgonal matrix polynomials satisfying second order differential
+equations, I, Constr. Approx., to appear. [18] A.J. Duran, F.A. Grünbaum, A characterization for a class of weight matrices with orthogonal matrix polynomials satisfying
+second order differential equations, submitted for publication. [19] A.J. Duran, P. Lopez-Rodriguez, Orthogonal matrix polynomials: zeros and Blumenthal’s theorem, J. Approx. Theory 84
+(1996) 96–118. [20] A.J. Duran, P. Lopez-Rodriguez, E.B. Saff, Zero asymptotic behaviour for orthogonal matrix polynomials, J. d’Analyse
+Math. 78 (1999) 37–60. [21] A.J. Duran, B. Polo, Gauss quadrature formulae for orthogonal matrix polynomials, Linear Algebra Appl. 355 (2002)
+119–146. [22] A.J. Duran, W. Van Assche, Orthogonal matrix polynomials and higher order recurrence relations, Linear Algebra Appl.
+219 (1995) 261–280. [23] J.S. Geronimo, Scattering theory and matrix orthogonal polynomials on the real line, Circuits Systems Signal Process. 1
+(1982) 471–495. [24] F.A. Grünbaum, A new property of reproducing kernels for classical orthogonal polynomials, J. Math. Anal. Appl. 95 (2)
+(1983) 491–500. [25] F.A. Grünbaum, Time-band limiting and the bispectral problem, Comm. Pure Appl. Math. 47 (3) (1994) 307–328. [26] F.A. Grünbaum, Matrix valued Jacobi polynomials, Bull. Sci. Math. 127 (3) (2003) 207–214.
+
+190 A.J. Durán, F.A. Grünbaum / Journal of Computational and Applied Mathematics 178 (2005) 169 – 190
+[27] F.A. Grünbaum, L. Haine, A theorem of Bochner revisited, in: A.S. Fokas, I.M. Gelfand (Eds.), Algebraic Aspects of Integrable Systems, Programming in Nonlinear Differential Equations, vol. 26, Birkhäuser, Boston, 1997, pp. 143–172.
+[28] F.A. Grünbaum, P. Iliev, A noncommutative version of the bispectral problem, J. Comput. Appl. Math. 161 (2003) 99–118. [29] F.A. Grünbaum, L. Longhi, M. Perlstadt, Differential operators commuting with ﬁnite convolution integral operators: some
+non-Abelian examples, SIAM J. Appl. Math. 42 (1982) 941–955. [30] F.A. Grünbaum, L. Miranian, The magic of the prolate spheroidal wave functions in various setups, SPIE Proceedings,
+San Diego Meeting, July 2001. [31] F.A. Grünbaum, I. Pacharoni, J.A. Tirao, A matrix valued solution to Bochner’s problem, J. Phys. A: Math. Gen. 34 (2001)
+10647–10656. [32] F.A. Grünbaum, I. Pacharoni, J.A. Tirao, Matrix valued spherical functions associated to the complex projective plane, J.
+Funct. Anal. 188 (2002) 350–441. [33] F.A. Grünbaum, I. Pacharoni, J. Tirao, An invitation to matrix valued spherical functions: linearization of products in the
+case of the complex projective space P2(C), in: D. Healy, D. Rockmore (Eds.), Modern Signal Processing, vol. 46, MSRI Publication, 2003, pp. 147–160 (see arXiv math. RT/0202304). [34] F.A. Grünbaum, I. Pacharoni, J.A. Tirao, Matrix valued orthogonal polynomials of the Jacobi type, Indag. Math. 14 (2003) 353–366. [35] L. Jodar, R. Company, E. Navarro, Laguerre matrix polynomials and systems of second order differential equations, Appl. Numer. Math. 15 (1994) 53–63. [36] M.G. Krein, Inﬁnite J-matrices and a matrix moment problem, Dokl. Akad. Nauk SSSR 69 (2) (1949) 125–128. [37] M.G. Krein, Fundamental aspects of the representation theory of hermitian operators with deﬁciency index (m, m), AMS Translations, Series 2, vol. 97, Providence, Rhode Island, 1971, pp. 75–143. [38] F. Marcellan, M.A. Piñar, H.O.Yakhlef, Relative asymptotics for orthogonal matrix polynomials with convergent recurrence coefﬁcients, J. Approx. Theory 111 (2001) 1–30. [39] A. Sinap, W. van Assche, Orthogonal matrix polynomials and applications, J. Comput. Appl. Math. 66 (1996) 27–52. [40] D. Slepian, Some comments on Fourier analysis, uncertainty and modeling, SIAM Rev. 25 (3) (1983). [41] J. Tirao, Spherical functions, Rev. de la Unión Matem. Argentina 28 (1977) 75–98. [42] J. Tirao, The matrix valued hypergeometric equation, PNAS 100 (4) (2003) 8138–8141.
+
+

@@ -1,0 +1,3619 @@
+Considerations
+
+/
+
+U.S. GEOLOGICAL SURVEY Water-Resources Investigations 80-103
+Prepared in cooperation with the
+SCHENECTADY COUNTY PlANNING DEPARTMENT
+
+50212·101
+
+REPORT DOCUMENTATION /1. REPORT NO.
+
+PAGE
+
+I
+
+3. Recipient's Accession No.
+
+4. Title and Subtitle
+Considerations for monitoring water quality of the
+
+5. Report Date
+Lry 1981
+
+aquifer, Schenectady County, New York
+
+~------------------------------------------------------------------------------- !-------------------------------
+
+7. Author(s)
+
+8. Performing Organization Rept. No.
+
+Ronald V. Allen and Roger M. Waller
+
+USGS/WRI 80-103
+
+9. Performing Organization Name and Address
+U.S. Geological Survey
+Water Resources Division
+343 U.S. Post Office & Courthouse
+, New York 12201
+
+10. Project/Tuk/Work Unit No.
+11. Contract(C) or Grant(G) No. (C) (G)
+
+12. Sponsoring Organization Name and Address
+U.S. Geological Survey
+
+13. Type of Report & Period Covered
+
+Water Resources Division
+
+Final, 1979
+
+343 U.S. Post Office & Courthouse
+Albany, New York 12201
+
+14.
+
+r--------------------------------------------------------------------------------~------------------------------
+15. Supplementary Notes
+
+Prepared in cooperation with the Schenectady County Planning Department
+1-----------------------------------------------------------------------------------------------------------------16. Abstract (Limit: 200 words)
+
+Six public water-supply systems in Schenectady County obtain water from sand and gravel units that form a more or less continuous aquifer system contiguous to the Mohawk River. The aquifer is under water-table conditions and in hydraulic contact with the river, so that pumping wells induces recharge from the river. Direct recharge to the aquifer from precipitation and runoff occurs throughout the valley floor.
+
+Chemical analyses since 1972 have indicated no water-quality deterioration from toxic substances, including pesticides. Geohydrologic conditions at each of the six well fields were evaluated to determine the feasibility of a monitoring system to provide warning of contamination before it reaches a pumping center. Potential contamination sources in the area are landfills, gravel pits, industrial sites, and transporation corridors. Only two of the well fields have wells that could be used for monitoring; at most sites, two or more wells would need to be installed to provide minimal means of detecting contaminants migrating toward a pumping center.
+
+17. Document Analysis a. Descriptors
+*Water pollution, *Chemical analyses, *Monitoring, *Infiltration, Water table
+b. Identifiers/Open-Ended Terms
+County, New York, Public water systems, Schenectady
+
+c. COSATI Field/Group 18. Availability Statemen:
+No restriction on distribution.
+(See ANSI-Z39.18)
+
+19. Security Class (This Report)
+
+21. No. of Pages
+
+Unclassified
+
+32
+
+~--------------------------1--------------------
+
+20. Security Clan (This Pase>
+
+22. Price
+
+Unclassified
+
+See Instructions on Reverse
+
+OPT~ONAL FORM 272 (4-77) (Formerly NTIS-35) Department of Commerce
+
+CONSIDERATIONS FOR MONITORING WATER QUALITY OF THE SCHENECTADY AQUIFER, SCHENECTADY COUNTY, NEW YORK Ronald V. Allen and Roger M. Waller
+U.S. GEOLOGICAL SURVEY Water Resources Investigations 80-103
+Prepared in cooperation with the SCHENECTADY COUNTY PLANNING DEPARTMENT
+Albany, New York 1981
+
+UNITED STATES DEPARTMENT OF THE INTERIOR CECIL D. ANDRUS, Secretary GEOLOGICAL SURVEY H. William Menard, Director
+For additional information write to: U.S. Geological Survey 343 U.S. Post Office & Courthouse P.O. Box 1350 Albany, New York 12201
+ii
+
+NTS
+
+Page
+
+Conversion factors and abbreviations ...............•...•....•.......... Abstract................................................................ Introduction. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . • .
+Methods and scope. . . . . . . . . . . . . . . . . . . . . . • . . . . . . . . • . . . . • . . • . . . . . . . • . . Hydrology of the Schenectady aquifer.................................... Well fields studied ......................•............ 0 • • • • • • • • • • • • • • • • •
+Village of Rotterdam Junction...................................... Town of Glenville .............•.•...•.......•.•.•.•.•. o • • • • • • • • • • • • Village of Scotia.................................................. Town of Rotterdam.................................................. City of Schenectady ......•....•.....•..••.•.••.•.....••...••....... Town of Niskayuna (Water District 5)............................... Mohawk River monitoring. . . . . . . . • . . . . . . . . . • . . . . • • • • . . . . . . • . • • . . . • . . . . . . . . Monitoring discussion.. . . . • . . . . . . . • . . . . . . • . . • . . . . . . . . . . . . . . . . . . . . . . . . . . . Selected references.....................................................
+
+iv 1 3 3 4 5 5 6 8 9 11 12 13 14 14
+
+BLLUSTR IONS
+
+Figures 1.--Map of eastern Schenectady County showing major geographic features and location of well fields. • . .... . . • . • • • • . . . . . • . . . . . 4
+
+2-6.--Maps of:
+
+2.--Village of Rotterdam Junction area showing relation of well field to sources of potential contamination............
+
+5
+
+3.--Town of Glenville area showing relation of well field to sources of potential contamination.......................
+
+7
+
+4.--Village of Scotia area showing relation of well field to sources of potential contamination.......................
+
+8
+
+5.--Town of Rotterdam and Schenectady City area showing relation of well field to sources of potential contamination.... 10
+
+6.--Town of Niskayuna area showing relation of well field to sources of potential contamination....................... 12
+
+iii
+
+TABLES
+Page
+Table 1.--Chemical analyses of Pucci well water . ....................... 16
+2.--Chemical analyses of Widmer well water ......•................ 17
+3.--Chemical analyses of Lewis well water ........................ 18
+4.--Chemical analyses of Mantika well water ...................... 19
+5.--Chemical analyses of water from selected wells in Schenectady County, N.Y. . . . • . • • • • . . . . . . . • . • . • • . . . . . . • . . . . . . . 20
+6.--Chemical analyses of water from community systems in Schenectady County, N.Y..................................... 21
+7.--Chemical analyses (pesticides and related constituents) from city of Schenectady, N.Y. wells. . . . • . • . • • . . . . . . . . • . . • . . 25
+
+CONVERSION FACTORS
+The following factors may be used to convert inch-pound units of measurement in this report to the International System (SI) units.
+
+Multiply foot (ft) mile (mi)
+
+0.3048 1.609
+
+To obtain meter (m) kilometer (km)
+
+iv
+
+CONSIDERATIONS FOR MONITORING WATER QUALITY
+OF THE SCHENECTADY AQUIFER,
+SCHENECTADY COUNTY, NEW YORK
+By
+Ronald V .. Allen and Roger M.. Waller
+ABSTRACT
+Public water-supply systems in eastern Schenectady County obtain water from sand and gravel units that form a virtually continuous aquifer system contiguous to the Mohawk River. Water in the aquifer is principally under water-table conditions and in hydraulic contact with the river, so that pumping of most wells induces recharge from the river. Direct recharge to the aquifer from precipitation and runoff occurs throughout the valley floor.
+No water-quality deterioration from toxic substances, including pesticides, has been detected from chemical analyses of water since 1972. Geohydrologic conditions at six well fields were evaluated to determine the feasibility of a monitoring system to provide warning of contamination before it reaches a pumping center. Potential contamination sources in the area are landfills, gravel pits, industrial sites, and transportation corridors. Wells that could be used for monitoring were present in two of the well fields. At the other sites, two or more wells would need to be installed to provide minimal means of detecting contaminants migrating toward a pumping center.
+Water-quality monitoring, as required by the New York State Department of Health since the early 1970's, includes an annual evaluation of public water supplies to determine concentrations of inorganic chemicals and some heavy metals. The Mohawk River is sampled 9 miles east of the Niskayuna water supply (the well fi~ld farthest downstream), and 9 miles west of Rotterdam Junction (the site farthest upstream). Phenol concentrations have been noted in the river analyses, and chloride increases occur in the ground-water analyses. Chemical analyses of ~ree water samples from privately owned wells near well fields showed minor concentrations of arsenic, lead, and zinc; however, all three metals could be derived from domestic plumbing.
+Monitoring sites near each well field are indicated. Monitoring would be most effective by constructing pairs of wells to sample both shallow and deep zones of the aquifer. Frequency of water sampling for chemical analysis would
+be determined after an initial sampling period. An annual sample probably
+would be sufficient at most sites under ordinary circumstances.
+1
+
+INTRODUCTION
+Ground water used for public supply in Schenectady County has a potential for contamination. Six public water-supply systems in eastern Schenectady County have well fields in sand and gravel deposits that underlie the Mohawk River valley; these deposits form an aquifer system that is locally referred to as the Schenectady aquifer.
+A recent hydrologic study for Schenectady County (C. T. Male Associates, P. C., 1978) designated nine parts of the aquifer system to be protected from land-use practices that may contaminate the aquifer and result in shutdown of a well field for an indefinite period. The report also documented potential sources of contamination and recommended that the county develop a " ••. centrally coordinated water quality monitoring and surveillance program" where " ... land use activity could affect the quality of the supply" (C. T. Male Associates, P. C., 1978, p. vii).
+The U.S. Geological Survey, in cooperation with the Schenectady County Planning Department, evaluated the local hydrology to determine areas of recharge and possible sources of contamination. Monitoring and surveillance of the quality of ground water near the well fields could prevent contaminated water from being pumped into a distribution system that serves the public.
+Methods and Scope
+The six well fields--in the villages of Rotterdam Junction and Scotia, the towns of Glenville, Rotterdam, and Niskayuna, and the city of Schenectady-were evaluated for probable source and direction of recharge, potential sources of contamination, availability of wells for monitoring, and results of present or former monitoring programs. Information on the hydrology and geology, in addition to much well data, were available from a study by Winslow and others (1965). Possible sources of contamination were designated by C. T. Male Associates, P. C. (1978) and public water-supply authorities of the six well fields. Additional well inventories and water samplings were done by the USGS. The New York State Department of Health (NYSDH) and New York State Department of Environmental Conservation (NYSDEC) provided information on current and former water-quality programs. Additional water-quality and well data were obtained from files of the USGS in Albany.
+Appreciation is extended to the city, county, town, and village officials who made their time available to aid this study.
+3
+
+HYDROLOGY OF THE SCHENECTADY AQUIFER
+The six public water-supply well fields (fig. 1) tap the Schenectady aquifer, which consists of deposits of coarse sand and gravel that were deposited in a shale bedrock valley by glacial meltwaters and subsequently reworked, in part, by the Mohawk River. The deposits form an extensive linear water-table aquifer system ranging from 30 to 100 feet thick in the city of Schenectady. The system is in hydraulic contact with the Mohawk River. The downstream, southernmost field (Niskayuna) is separated from the upstream sand and gravel units by bedrock in the vicinity of Lock 7.
+The Mohawk River is the dominant hydrologic factor in the aquifer system. Under nonflood conditions, the river receives discharge from the aquifer except near well fields in which pumping from the aquifer creates radial
+
+I
+\
+I
+42° \ 55 1
+
+73° 55'
+
+Lock 9
+
+Rotterdam 8 Junction
+
+SCHENECTADY COUNTY
+
+e Scotia
+
+EXPLANATION
+•
+Well Field
+.6. Gaging station
+01354490 USGS 120004 NYSDEC
+120005 NYSDEC
+
+------
+
+----------
+
+---0 Y:z
+
+1
+
+2MILES
+
+Base from U.S. Geological Survey
+
+Modified from Winslow and others, 1965
+
+State base map, 1:500,000, 1974
+
+Figure 1.--Major geographic features and location of well fields.
+
+4
+
+flow toward the pumping centers. Under flood conditions the river recharges the aquifer. Recharge also occurs from precipitation on the valley floor, by under£ low from valley deposits up gradient, and from runoff and seepage from adjacent highlands. Consequently, normal ground-water flow is toward the stream in a downvalley direction. Because of the interplay between the river and the aquifer, water moving down the valley may leave and reenter the aquifer several times on its way to the Hudson River. Therefore, the extent and distribution of pumping can greatly influence the movement of contaminants near or below the water table.
+
+WELL FIELDS STUDIED
+VIllage of Rotterdam Junction
+The Rotterdam Junction well field, about 300 feet southwest of the Mohawk River (fig. 2), has two wells screened 51 to 83 feet below land surface. Pumping in the well field causes ground water to flow mainly southwestward from the river. Some ground water probably flows eastward and northwestward
+
+_ __0...____ _~.__
+
+_ _Y. 2MILE
+
+42° 52 1 30 11
+EXPLANATION ..,.__ Direction of ground-water flow
+X Potentia I monitoring site
+- Direction of river flow
+
+42° 51' 30'' Base from U.S. Geological Survey
+Pattersonvi lleand Rotterdam Junction, 1:24,000
+
+Aquifer boundaries from Winslow and others, 1965
+
+Figure 2.--Village of Rotterdam Junction area showing relation of well field to sources of potential contamination.
+
+5
+
+toward the field. Winslow and others (1965, p. 38) reported excellent hydraulic contact between the river and the Schenectady aquifer.
+Potential sources of contamination of the aquifer are road salt on Route 5S, an abandoned oil-tank storage lot north of the river, a junk-car storage lot southwest of the well field, and a landfill more than a mile to the west. Although these sites are improbable sources of contamination, they are possible sources to monitor.
+If a gravel pit to the south were to receive wastes, it could introduce contaminants into the aquifer because it is open to the water table. During periods of low river level and heavy pumpage in the village well field, ground-water conceivably could move upvalley toward the well field.
+Village well water has been analyzed annually by NYSDH for several years. Comparison of a 1960 analysis (see well RWD3, table 5) with a 1973 analysis (see well F, table 6) indicates that chloride concentration in the aquifer has increased from 27 to 68 mg/L in the village well field.
+None of the observed wells could be used for monitoring. Sites for observation wells should be near the river; northwest, north-northeast, and northnorthwest of the well field; and near Route 5S (fig. 2).
+Town of Glenville
+The Glenville well field, 800 feet northeast of the river (fig. 3), has three screened wells, which tap the aquifer at 55 feet below land surface. A
+fourth well is planned. An abandoned gravel pit just northeast of the well
+field probably overlies the principal route of ground-water travel toward the river. Pumping withdrawals cause radial flow of ground water toward the well field and induces eastward and northeastward flow from the river. Stream infiltration is greater during summer than winter because river levels are higher during the summer navigation season, and river water is warmer and thus has a higher viscosity.
+Potential sources of ground-water contamination include accidental spills along transportation routes to the north (a railroad 0.2 mile from the well field and Route 5, 0.4 mile from the well field) and the abandoned gravel pit immediately to the northeast. In addition, the river receives industrial effluent from a chemical plant 0.5 mile upstream.
+Water samples have been collected annually and analyzed by NYSDH and a consultant chemist. A 1958 analysis (see well 251-401-11, table 5) showed a chloride concentration of 6 mg/L, whereas in 1971 the chloride was 23 mg/L (well B, table 6). Two wells were located for sampling in this study. Water from the Pucci well (well 1, fig. 3), 0.5 mile east of the field, was sampled August 29, 1979. Concentrations of minor elements, nutrients, and organic compounds were within recommended limits, and no pesticides were detected (table 1). The Widmer well (well 2, fig. 3) was sampled on August 30, 1979. This water had 1 mg/L of arsenic; zinc and iron were unusually high (320 and 450 ug/1, table 2). All three elements could be derived from plumbing metals.
+6
+
+Analyses of five samples by NYSDH for nutrients and major ions (both raw and distribution water) during 1971-78 indicate concentrations below recommended limits for these constituents. However, raw water from wells require routine analysis for organic compounds and minor elements to establish a baseline for future comparisons.
+No wells are available for monitoring in the immediate vicinity of the well field. Potential locations for observation wells are 900 feet northwest and 800 feet northeast of the well field.
+EXPLANATION Direction of ground-water flow X Potential monitoring site
+o2 Privately owned well and number
+::217-4Z App.-oximate extent of aquifer
+Direction of river flow
+
+0 %MILE
+
+Base from U.S. Geologica I Survey Schenectady and Rotterdam Junction, 1:24,000
+
+Aquifer boundaries from Winslow and others, 1965
+
+Figure 3.--Town of Glenville area showing relation of well field to sources of potential contamination.
+7
+
+Village of Scotia
+The Scotia well field, 0.9 mile northeast of the river (fig. 4), has three wells screened between 60 and 98 feet below land surface. The wells probably receive little infiltration from the river because of their relatively long distance from it and because the pumping level is generally 10 to 20 feet higher than the stream elevation above Lock 8 (fig. 1). Recharge is derived principally from the north and from an unnamed stream that drains the higher elevations and crosses the aquifer 0.2 mile northeast of the well field.
+
+EXPLANATION Directl£n of ground-water flow o3 Privately owned well and number
+~Approximate extent of aquifer
+Direction of river flow
+0
+
+73° 58' %MILE
+
+Base from U.S. Geological Survey Schenectady and Rotterdam Junction, 1:24,000
+
+Aquifer boundaries from Winslow and others, 1965
+
+Figure 4.--Village of Scotia area showing relation of well field to sources of potential contamination.
+
+8
+
+The area surrounding the well field is prone to contamination from accidental spills. Transportation lanes immediately to the north (Route 147, Vley Road, and Amtrak) overlie the probable area of pumping influence. The town of Glenville landfill is about 1 mile northwest of the well field, and a large gravel pit 0.1 mile south of the well field has been excavated to the upper limits of the water table, which was visible in June 1979. The planned expansion of the pit westward will eventually increase this area of vulnerability. Contaminants introduced to the lower elevations of the pit would be in contact with the upper zone of the source of water withdrawn at the well field.
+Analyses of raw water that was routinely sampled by NYSDH from 1972-78 showed no concentrations of the constituents analyzed to be above established or recommended limits. Analyses of a combined sample from two of the wells in 1943 (table 5) and one in 1971 (table 6) show that chloride has increased from 3 to 43 mg/L. One well was located in this study to obtain a water sample. The Lewis well (well 3, fig. 4), along Route 5 and south of the field, was sampled August 30, 1979 (table 3) and showed arsenic to be present. Sodium and chloride were somewhat higher than in most analyses. This is not surprising because the site is subject to road-salt contamination.
+The well field may require four or five observation wells. The Village of Scotia has abandoned two wells along Vley Road just north of their present wells; if accessible, these could be used for monitoring. Observation wells tapping the upper part of the aquifer could provide early evidence of contaminants moving toward production wells, and an observation well screened in a lower part could identify contaminant migration or mixing characteristics within the cone of depression.
+Town of Rotterdam
+The Rotterdam well field is southwest of Isle of the Oneidas Island, about 300 feet from the river (fig. 5). The field consists of three wells 80 feet deep. Ground water moves principally from the river to the well field. The quality of water infiltrating from the river can be determined by analysis of water pumped from wells 61 and 54 (Winslow and others, 1965, fig. 26).
+Route SS, 400 feet southwest, and Route I-890, 900 feet southwest, may contribute chloride from winter road salt. The aquifer is also subject to spills from vehicles on the highways.
+Chemical analyses of water from the Rotterdam well field have been made routinely by the NYSDH for several years. A 1971 analysis, presented in table 6 (site G), shows chloride at 19 mg/L. One of the wells was sampled for analysis of organic compounds in 1978 by the USGS; no contaminants were detected.
+The Mantika well (well no. 4, fig. 5), 0.4 mile northwest of the well field, reportedly taps the aquifer at 60 feet below land surface. Water sampled from this well on August 29, 1979 was free of pesticides and contained concentrations below recommended limits for minor elements (table 4). However, the sum of iron plus manganese (0.54 mg/L) and the phenol concentration (0.0001 mg/L) equaled NYSDEC quality standards. The chloride concentration, 16 mg/L, was slightly above that from most other wells in the area.
+9
+
+Two of the well field s original observation wells--wells 54 and 61, to the north and northeast, were found in July 1979. A portable pump would be required for sampling. An additional well west of the field should also be considered for monitoring.
+EXPLANATION Direction of ground-water f Iow
+Potential monitoring site and number 0 4 Privately owned well and number
+~Approximate extent of aquifer
+Direction of river flow
+
+Base from U.S. Geological Survey Schenectady, 1:24,000
+
+Aquifer boundaries from Winslow and others, 1965
+
+Figure 5.--Town of Rotterdam and city of Schenectady area showing relation of well field to sources of potential contamination.
+
+10
+
+City of Schenectady
+The Schenectady well field, which has 12 wells, is 1,200 feet southwest of the Mohawk River and 900 feet south of the Rotterdam well field (fig. 5). The water originates primarily from induced river infiltration from the north at Lock 8, but water flows from all other directions (Winslow and others, 1965).
+The river is a potential source of contamination to the well field. Route I-890, which traverses the length of the well field 300 feet to the southwest, may contribute chloride leachate from road-salt applications and is also subject to accidental spills. Potential areas of contamination to the south include a truck terminal and gravel pits near Campbell Road. An industrial complex, 1 mile to the southeast and downgradient from the well field, may be too far away to threaten the well field.
+A review of analyses made by NYSDH during 1971-78 shows the water to be of excellent quality. Several determinations for pesticides revealed zero or near-zero concentrations (see table 7). Fluoride and manganese concentrations were above recommended limits in a few analyses. Selected analyses by the USGS are given in tables 5 and 6. Two of the city wells were sampled in 1978 by the USGS for analyses of organic compounds, but none were noted.
+An excess of chloride, which is a common problem in shallow ground waters in much of the Northeast, is also common in this area. Table 5 shows that chloride concentration in the Schenectady City water averaged 6 mg/L in the 1940's and 18 mg/L (table 6) in the 1970's (the State and Federal recommended limit is 250 mg/L).
+Observation well 47 (Winslow and others, 1965, fig. 26) is available to sample water moving toward the well field from the river. The observation wells to the northwest, nos. 57, 36, 46, and 24 (Winslow and others, 1965, fig. 26), were not found during field reconaissance and are assumed to have been destroyed during construction of Route I-890. A well drilled in this area north of Schermerhorn Road would give early notice of contaminants moving toward the well field from the northwest. Observation wells could be drilled 0.1 mile northwest of Campbell Road to monitor the southern part of the area influenced by pumping.
+11
+
+Town of Niskayuna (Water District 5)
+Niskayuna's Water District 5 well field is along the south shore of the Mohawk River 0.6 mile downstream from Lock 7 (fig. 6). Its four wells are about 60 feet deep and are located 150 to 200 feet southwest of the river, which is the principal source of water to the well field. This reach of the river is subject to flooding as a result of ice jams; flood water in February 1979 reached within a few feet of the pumping station.
+EXPLANATION ....,._ Direction of ground-water flow
+X Potential monitoring site
+~Approximate extent of aquifer
+- Direction of river flow
+
+0
+
+Base from U.S. Geological Survey Niskayuna, 1:24,000
+
+Aquifer boundaries from Winslow and others, 1965
+
+Figure 6.--Town of Niskayuna area showing relation of well field to sources of potential contamination.
+
+12
+
+A potential source of contamination to the Schenectady aquifer is runoff in the unnamed stream that drains the area occupied by the sewage-disposal plant on New Meadow Road. The stream discharges into the river below Lock 7, 0.4 mile upstream from the well field. Other areas of potential contamination along the south side of the river are the town of Niskayuna landfill, 1.5 miles northwest of the well field, the Knolls Atomic Power Laboratory (KAPL), and General Electric (GE) plant, about 2 miles north of the well field (not shown in fig. 6).
+Chemical analyses of water from the well field have been made routinely by the NYSDH for several years. Water from the well field contains large amounts of iron and manganese, which are removed by chemical treatment (see table 6). Observation wells could be located in a number of places. Two potential sites are between the bedrock outcrop and the river, 0.3 mile upstream from the well field, and adjacent to Lock 7 Road, about 1,800 feet west of the well field.
+
+MOHAWK RIVER MONITORING
+
+River water has been sampled monthly since 1972 at Route 5 on the north side of the Mohawk River (USGS station 01354490, fig. 1). In addition, water from the river at Lock 10, 7 miles upstream from Rotterdam Junction, and Cresent Dam, 9 miles downstream from Niskayuna's well field, have been sampled by NYSDEC. Grescent Dam is the only monitoring site at present. The period of record and types of analyses are as follows:
+
+Sites
+
+Record
+
+Type of analysis
+
+USGS 01354000, at Tribes Hill
+
+Monthly,
+
+April 1973 - March 1979
+
+Chemical, nutrients, heavy metals
+
+USGS 01354160, Lock 10 at Cranesville
+
+Monthly April 1969 - April 1979
+
+Chemical, nutrients, heavy metals
+
+NYSDEC 12-0300, Lock 10
+
+Biweekly November 1967. to present
+
+Chemical, biological, heavy metals
+
+USGS 01354490, at Schenectady, at Rte. 5
+
+Monthly April 1969 - May 1979
+
+Chemical, nutrients, heavy metals
+
+NYSDEC 12-0004.5; at Schenectady, at Rte. 5 (Washington Avenue Branch)
+
+Biweekly
+
+Chemical, biological,
+
+October 1964 - October 1976 heavy metals
+
+NYSDEC 12-0002, at Cresent Dam
+
+Biweekly Sept. 1965 - Sept. 1976
+
+Chemical, nutrients, biological, heavy metals
+
+The analyses indicates that only phenols have been present occasionally. Chloride does not seem to have been increasing since 1972, although Peters and Turk (in press) indicate a 75-percent increase in mean chloride concentration
+
+13
+
+in the Mohawk River basin since the 1950's. They also conclude that 41 percent of the current chloride load (maximum 28 mg/L) is due to road-salt operations in the basin. The river-monitoring system can be a useful indicator for aquifer protection, but only in a broad sense and on a long-term basis.
+MONITORING DISCUSSION
+An adequate monitoring system would include observation wells for each well field. The appraisals given in the previous section suggest observation well sites at each field. However, if only one or two are installed in areas where ground-water flow toward the well field is indicated, local contamination might not be detected. The first priority in site selection would be downgradient from areas having a known source of contamination.
+Pairs of observation wells would enable drawing water from both the top of the aquifer and from greater depth because some contaminants move near the top of an aquifer whereas others disperse and move downward. For economy, chemical analyses could be limited to suspected constituents or those most critical in human consumption. Because ground-water movement is relatively slow, monthly or annual sampling may be adequate.
+The Scotia well field, in particular, seems to have the greatest potential for contamination and, in addition, has the least, if any, directly induced river water. Potential sources of contamination are on all sides of the field.
+Of critical importance is curtailment of pumping to allow spilled contaminants to move away from a well field. Once a contaminant is known to have entered a system, a program of well installation and sampling can be set up to map the movement of the contaminanted water or, if necessary, to pump the contaminated water from the aquifer.
+SELECTED REFERENCES
+C. T. Male Associates, P. C., 1978, Schenectady County aquifer preservation
+study and report: C. T. Male Associates, P. c., 3000 Troy Rd.,
+Schenectady, N.Y., 89 p.
+Peters, N. E., and Turk, J. T., Increase in sodium and chloride in Mohawk River, New York, attributed to road salt: American Water Resources Association Bulletin (in press).
+Simpson, E. S., 1952, The ground-water resources of Schenectady County, New York: New York State Water Power and Control Commission, Bulletin GW-30, 110 p.
+Winslow, J.D., Stewart, H. G., Jr., Johnston, R. H., and Crain, L. J., 1965, Ground-water resources of eastern Schenectady County, New York, with emphasis on infiltration from the Mohawk River: New York State Conservation Department, Bulletin 57, 148 p.
+14
+
+TABLES 1-5 CHEMICAL ANALYSES OF WELL WATER
+Page Table 1. --Town of Glenville, Pucci well.. . . . . . . . . . . . . . • . . . . . . . . . . . . . . . • . 16
+2.--Town of Glenville, Widmer well. . . . . . . . . . . • . • • . . . . • . . . . . . . . . • . . 17 3.--Village of Scotia, Lewis well. . • . . • . . . . . . . • • . . . . . . . • . . . . . . . . • . 18 4.--Town of Rotterdam, Mantika well. • • • • • . • • . . • . • • • • • • • • • • • • . • • . • . 19 5. --Selected Schenectady County wells............................. 20
+
+Abbreviations Used in Tables 1-5
+
+ALK COND DEG DIS, DISS E
+FLD KJD LSD MBAS
+MG/L MEQ/L
+
+Alkalinity Conductance Degree
+Dissolved Estimated (reported
+well depths) Field Kjeldahl Land surface datum Methlene blue active
+substance Milligrams per liter Millequivalents per liter
+
+MIN NC NITR
+NONCARB PCI/L PROS SAR SP, SPEC TEMP TON/AFT TOT UGL
+
+Minimum Noncarbonate Nitrogen
+Noncarbonate Picocuries per liter Phosphate Sodium absorption ratio
+Specific Temperature Tons per acre foot Total Micrograms per liter
+
+15
+
+Table !.--Chemical analysis of water from Pucci well (well 1) Town of Glenville
+
+[Analysis by U.S. Geological Survey]
+
+SAMPLE LOCATION: RALPH PUCCI
+
+STATION ID: 425102074003601
+
+LAT.LONG.SEQ.: 425102 0840037 01
+
+DATE OF COLLECTION: BEGIN--790829 END--
+
+TIME--1445
+
+STATE CODE: 36
+
+COUNTY CODE: 093
+
+PROJECT IDENTIFICATION: 443607200
+
+DATA TYPE: 2
+
+SOURCE: GROUND WATER
+
+GEOLOGIC UNIT: 1125DGV
+
+COMMENTS:
+
+COLL BY RV ALLEN FILTERED FOR METALS BUT ACID ADDED BEFORE FILTERING
+
+AND NO VISIBLE SEDIMENT ON FILTER
+
+ALDRIN TOTAL (WATER) UG/L
+
+0.00
+
+ALK,TOT(CAC03)
+
+MG/L
+
+160
+
+ANALYZING AGENCY
+
+80010
+
+ARSENIC TOTAL
+
+UG/L
+
+1
+
+CADMIUM TOTAL
+
+UG/L
+
+0
+
+CALCIUM DISS
+
+MG/L
+
+54
+
+CARBON DIOXIDE
+
+MG/L
+
+16
+
+CARBON TOT ORGANIC MG/L
+
+1.2
+
+CHLORDANE TOT(WATER) UG/L
+
+0.0
+
+CHLORIDE DISS
+
+MG/L
+
+11
+
+CHROMIUM TOTAL
+
+UG/L
+
+10
+
+COPPER TOTAL
+
+UG/L
+
+40
+
+DDD TOTAL (WATER) UG/L
+
+0.00
+
+DDE TOTAL (WATER) UG/L
+
+0.00
+
+DDT TOTAL (WATER) UG/L
+
+0.00
+
+DEPTH BELOW LSD (FT)
+
+E 68.0
+
+DEPTH OF WELL IN IT.
+
+E 75.0
+
+DIAZINON TOT (WATER) UG/L
+
+0.00
+
+DIELDRIN TOT (WATER) UG/L
+
+0.00
+
+ENDOSULFAN I TOTAL UG/L ENDRIN TOTAL (WATER) UG/L
+
+0.00
+o.oo
+
+ETH PARTH TOT(WATER) UG/L
+
+0.00
+
+ETH TRITH TOT(WATER) UG/L
+
+0.00
+
+ETHION TOTAL (WATER) UG/L
+
+0.00
+
+FLUORIDE DISS
+
+MG/L
+
+0.1
+
+HARDNESS NONCARB
+
+MG/L
+
+33
+
+HARDNESS TOTAL
+
+MG/L
+
+190
+
+HEPT EPOX TOT(WATER) UG/L HEPTACHLOR T.(WATER) UG/L
+
+0.00
+o.oo
+
+IRON TOTAL
+
+UG/L
+
+70
+
+LEAD TOTAL
+
+UG/L
+
+0
+
+LINDANE TOTAL(WATER) UG/L
+
+0.00
+
+MAGNESIUM DISS
+
+MG/L
+
+14
+
+MALATHION TOT(WATER) UG/L
+
+0.00
+
+MANGANESE TOTAL
+
+UG/L
+
+20
+
+MERCURY TOTAL
+
+UG/L
+
+~ 0.5
+
+MET PARTH TOT(WATER) UG/L
+
+0.00
+
+MET TRITH TOT(WATER) UG/L
+
+0.00
+
+NITR. NH4 AS NH4 DIS MG/L
+
+NITR. N02 AS N02 DIS MG/L
+
+NITR. N03 AS N03 DIS MG/L
+
+NITROGEN DIS ORG ASN MG/L
+
+NITROGEN DISS AS N MG/L
+
+NITROGEN DISS KJD MG/L
+
+NITROGEN NH4 ASN DIS MG/L
+
+NITROGEN N02 ASN DIS MG/L
+
+NITROGEN N03 ASN DIS MG/L
+
+N02+N03 AS N DISS MG/L
+
+OIL AND GREASE
+
+MG/L
+
+PCB TOTAL (WATER) UG/L
+
+PCN TOTAL (WATER) UG/L
+
+PERTHANE TOTAL
+
+UG/L
+
+PH FIELD
+
+PH LAB
+
+PHENOLS
+
+UG/L
+
+PROS ORTHO DIS AS P MG/L
+
+PHOSPHATE DIS ORTHO MG/L
+
+PHOSPHORUS DIS AS P MG/L
+
+POTASSIUM DISS
+
+MG/L
+
+POTASSIUM 40.D.PCI/L
+
+PUMP PERIOD (MIN)
+
+RESIDUE DIS CALC SUM MG/L
+
+RESIDUE DIS TON/AFT
+
+RESIDUE DIS 180C
+
+MG/L
+
+SAMPLE SOURCE CODE
+
+SAR
+
+SELENIUM TOTAL
+
+UG/L
+
+SILICA DISSOLVED
+
+MG/L
+
+SODIUM + POTASSIUM MG/L
+
+SODIUM DISS
+
+MG/L
+
+SODIUM PERCENT
+
+SP. CONDUCTANCE FLD
+
+SP. CONDUCTANCE LAB
+
+SULFATE DISS
+
+MG/L
+
+TOXAPHENE TOT(WATER) UG/L
+
+WATER TEMP (DEG C)
+
+ZINC TOTAL
+
+UG/L
+
+0.01 0.00 3.9
+o.oo
+0.87
+o.oo
+0.01
+o.oo
+0.87 0.87
+1
+o.o o.o o.oo
+7.3 7.7
+0
+o.oo o.oo
+0.00 0.9 0.7 20.0 228 0.36 266 30 0.2
+0 9.4 8.2 7.3
+8
+423 405
+31
+o.o
+13.5 60
+
+CATIONS
+
+ANIONS
+
+CALCIUM DISS MAGNESIUM DISS POTASSIUM DISS SODIUM DISS
+
+(MG/L) 54 14
+0.9
+7.3
+
+(MEQ/L) 2.695 1.152 0.024
+0.318
+
+(MG/L)
+
+CHLORIDE DISS 11
+
+FLUORIDE DISS
+
+0.1
+
+SULFATE DISS
+
+31
+
+ALK.TOT(CAC03) 160
+
+N02+N03 AS N D 0.87
+
+(MEQ/L) 0.311 0.006 0.646 3.197 0.063
+
+TOTAL 4.187
+
+TOTAL 4.220
+
+16
+
+Table 2.--Chemical analysis of water from Widmer well (well 2) Town of Glenville
+[Analysis by u.s. Geological Survey]
+
+SAMPLE LOCATION: FRED WIDMER
+
+STATION ID: 425118074000801
+
+LAT.LONG.SEQ.: 425118 0740008 01
+
+DATE OF COLLECTION: BEGIN--790830 END--
+
+TIME--1045
+
+STATE CODE: 36
+
+COUNTY CODE: 093
+
+PROJECT IDENTIFICATION: 443607200
+
+DATA TYPE: 2
+
+SOURCE: GROUND WATER
+
+GEOLOGIC UNIT:
+
+COMMENTS:
+
+COLL BY RV ALLEN
+
+ALDRIN TOTAL (WATER) UG/L
+
+0.00
+
+ALK,TOT(CAC03)
+
+MG/L
+
+87
+
+ANALYZING AGENCY
+
+80010
+
+ARSENIC TOTAL
+
+UG/L
+
+1
+
+CADMIUM TOTAL
+
+UG/L
+
+0
+
+CALCIUM DISS
+
+MG/L
+
+48
+
+CARBON DIOXIDE
+
+MG/L
+
+2.1
+
+CARBON TOT ORGANIC MG/L
+
+0.9
+
+CHLORDANE TOT(WATER) UG/L
+
+0.0
+
+CHLORIDE DISS
+
+MG/L
+
+6.4
+
+CHROMIUM TOTAL
+
+UG/L 10
+
+COPPER TOTAL
+
+UG/L
+
+20
+
+DDD TOTAL (WATER) UG/L
+
+0.00
+
+DDE TOTAL (WATER) UG/L
+
+0.00
+
+DDT TOTAL (WATER) UG/L
+
+0.00
+
+DEPTH BELOW LSD ( FT)
+
+E 60.0
+
+DEPTH OF WELL IN FT.
+
+E 92.0
+
+DIAZINON TOT (WATER) UG/L
+
+o.oo
+
+DIELDRIN TOT (WATER) UG/L
+
+0.00
+
+ENDOSULFAN I TOTAL UG/L ENDRIN TOTAL (WATER) UG/L
+
+0.00
+o.oo
+
+ETH PARTH TOT(WATER) UG/L
+
+0.00
+
+ETH TRITH TOT(WATER) UG/L
+
+0.00
+
+ETHION TOTAL (WATER) UG/L
+
+0.00
+
+FLUORIDE DISS
+
+MG/L
+
+0.1
+
+HARDNESS NONCARB
+
+MG/L
+
+82
+
+HARDNESS TOTAL
+
+MG/L
+
+170
+
+HEPT EPOX TOT(WATER) UG/L HEPTACHLOR T. (WATER) UG /L
+
+0.00
+o.oo
+
+IRON TOTAL
+
+UG/L
+
+450
+
+LEAD TOTAL
+
+UG/L
+
+LINDANE TOTAL(WATER) UG/L
+
+0
+o.oo
+
+MAGNESIUM DISS
+
+MG/L
+
+MALATHION TOT(WATER) UG/L
+
+12
+o.oo
+
+MANGANESE TOTAL
+
+UG/L
+
+20
+
+MERCURY TOTAL
+
+UG/L
+
+MET PARTH TOT(WATER) UG/L
+
+<0.5
+o.oo
+
+MET TRITH TOT(WATER) UG/L
+
+0.00
+
+NITR. NH4 AS NH4 DIS MG/L
+
+NITR. N02 AS N02 DIS MG/L NITR. N03 AS N03 DIS MG/L
+
+NITROGEN DIS ORG ASN MG/L
+
+NITROGEN DISS AS N MG/L
+
+NITROGEN DISS KJD MG/L
+
+NITROGEN NH4 ASN DIS MG/L
+
+NITROGEN N0 2 ASN DIS MG/L NITROGEN N03 ASN DIS MG/L
+
+N02+N03 AS N DISS OIL AND GREASE
+
+MG/L MG/L
+
+PCB TOTAL (WATER) UG/L
+
+PCN TOTAL (WATER} UG/L
+
+PERTHANE TOTAL
+
+UG/L
+
+PH FIELD
+
+PH LAB
+
+PHENOLS
+
+UG/L
+
+PROS ORTHO DIS AS P MG/L
+
+PHOSPHATE DIS ORTHO MG/L
+
+PHOSPHORUS DIS AS P MG/L
+
+POTASSIUM DISS
+
+MG/L
+
+POTASSIUM 40.D.PCI/L
+
+PUMP PERIOD (MIN)
+
+RESIDUE DIS CALC SUM MG/L
+
+RESIDUE DIS TON/AFT
+
+RESIDUE DIS 180C
+
+MG/L
+
+SAMPLE SOURCE CODE
+
+SAR
+
+SELENIUM TOTAL
+
+UG/L
+
+SILICA DISSOLVED
+
+MG/L
+
+SODIUM + POTASSIUM MG/L
+
+SODIUM DISS
+
+MG/L
+
+SODIUM PERCENT
+
+SP. CONDUCTANCE FLD
+
+SP. CONDUCTANCE LAB
+
+SULFATE DISS
+
+MG/L
+
+TOXAPHENE TOT(WATER) UG/L
+
+WATER TEMP (DEG C)
+
+ZINC TOTAL
+
+UG/L
+
+0.01 0.00 1.2
+o.oo
+0.27 0.00 0.01 0.00 0.27 0.27
+1
+0.0
+0.0
+o.oo
+7.9 7.8
+0 0.00 0.00 0.00 1.4 1.0 30.0 210 0.34 251 30 0.2
+0
+11
+7.5 6.1
+7
+378 347
+71
+0.0 8.0 320
+
+CATIONS
+
+ANIONS
+
+CALCIUM DISS MAGNESIUM DISS POTASSIUM DISS SODIUM DISS
+
+(MG/L) 48 12
+1.4 6.1
+
+(MEQ/L) 2.396 0.988
+0.036 0.266
+
+TOTAL 3.683
+
+CHLORIDE DISS FLUORIDE DISS SULFATE DISS
+ALK.TOT(CAC03) N02+N03 AS N D
+
+(MG/L) 6.4 0.1 71
+87 0.27
+
+TOTAL
+
+(MEQ/L) 0.181 0.006 1.479 1. 739 0.020
+3.422
+
+PERCENT DIFFERENCE ... 3.69
+
+17
+
+Table 3.--Chemical analysis of water from Lewis well (well 3) Village of Scotia
+[Analysis by U.S. Geological Survey]
+
+STATION ID: 4249570735900
+
+LAT.LONG.SEQ.: 424957 0735900 01
+
+DATE OF COLLECTION: BEGIN--790830 END--
+
+TIME--0905
+
+STATE CODE: 36
+
+COUNTY CODE: 093
+
+PROJECT IDENTIFICATION: 443607200
+
+DATA TYPE: 2
+
+SOURCE: GROUND WATER
+
+GEOLOGIC UNIT:
+
+COMMENTS:
+
+COLL BY RV ALLEN PUMPED DIR FROM WELL
+
+ALDRIN TOTAL (WATER) UG/L
+
+0.00
+
+ALK,TOT(CAC03)
+
+MG/L
+
+270
+
+ANALYZING AGENCY
+
+80010
+
+ARSENIC TOTAL
+
+UG/L
+
+1
+
+CADMIUM TOTAL
+
+UG/L
+
+0
+
+CALCIUM DISS
+
+MG/L
+
+84
+
+CARBON DIOXIDE
+
+MG/L
+
+105
+
+CARBON TOT ORGANIC MG/L
+
+2.4
+
+CHLORDANE TOT(WATER) UG/L
+
+0.0
+
+CHLORIDE DISS
+
+MG/L
+
+37
+
+CHROMIUM TOTAL
+
+UG/L
+
+20
+
+COPPER TOTAL
+
+UG/L
+
+10
+
+DDD TOTAL (WATER) UG/L
+
+0.00
+
+DDE TOTAL (WATER) UG/L
+
+0.00
+
+DDT TOTAL (WATER) UG/L
+
+0.00
+
+DEPTH BELOW LSD (FT)
+
+E 29.1
+
+DEPTH OF WELL IN FT.
+
+E 32.0
+
+DIAZINON TOT (WATER) UG/L
+
+0.00
+
+DIELDRIN TOT (WATER) UG/L
+
+0.00
+
+ENDOSULFAN I TOTAL UG/L
+
+0.00
+
+ENDRIN TOTAL (WATER) UG/L
+
+0.00
+
+ETH PARTH TOT(WATER) UG/L
+
+0.00
+
+ETH TRITH TOT(WATER) UG/L
+
+0.00
+
+ETHION TOTAL (WATER) UG/L
+
+0.00
+
+FLUORIDE DISS
+
+MG/L
+
+0.1
+
+HARDNESS NONCARB
+
+MG/L
+
+22
+
+HARDNESS TOTAL
+
+MG/L
+
+290
+
+HEPT EPOX TOT(WATER) UG/L
+
+0.00
+
+HEPTACHLOR T.(WATER) UG/L
+
+0.00
+
+IRON TOTAL
+
+UG/L
+
+70
+
+LEAD TOTAL
+
+UG/L
+
+0
+
+LINDANE TOTAL(WATER) UG/L
+
+0.00
+
+MAGNESIUM DISS
+
+MG/L
+
+MALATHION TOT(WATER) UG/L
+
+20
+o.oo
+
+MANGANESE TOTAL
+
+UG/L
+
+10
+
+MERCURY TOTAL
+
+UG/L
+
+.c. 0.5
+
+MET PARTH TOT(WATER) UG/L
+
+0.00
+
+MET TRITH TOT(WATER) UG/L
+
+0.00
+
+NITR. NH4 AS NH4 DIS MG/L
+
+NITR. N0 2 AS N02 DIS MG/L NITR. N03 AS N03 DIS MG/L
+
+NITROGEN DIS ORG ASN MG/L
+
+NITROGEN DISS AS N MG/L
+
+NITROGEN DISS KJD MG/L
+
+NITROGEN NH4 ASN DIS MG/L
+
+NITROGEN N0 2 ASN DIS MG/L NITROGEN N03 ASN DIS MG/L
+
+N0 2+N0 3 AS N DISS OIL AND GREASE
+
+MG/L MG/L
+
+PCB TOTAL (WATER) UG/L
+
+PCN TOTAL (WATER) UG/L
+
+PERTHANE TOTAL
+
+UG/L
+
+PH FIELD
+
+PH LAB
+
+PHENOLS
+
+UG/L
+
+PROS ORTHO DIS AS P MG/L
+
+PHOSPHATE DIS ORTHO MG/L
+
+PHOSPHORUS DIS AS P MG/L
+
+POTASSIUM DISS
+
+MG/L
+
+POTASSIUM 40.D.PCI/L
+
+PUMP PERIOD (MIN)
+
+RESIDUE DIS CALC SUM MG/L
+
+RESIDUE DIS TON/AFT
+
+RESIDUE DIS 180C
+
+MG/L
+
+SAMPLE SOURCE CODE
+
+SAR
+
+SELENIUM TOTAL
+
+UG/L
+
+SILICA DISSOLVED
+
+MG/L
+
+SODIUM + POTASSIUM MG/L
+
+SODIUM DISS
+
+MG/L
+
+SODIUM PERCENT
+
+SP. CONDUCTANCE FLD
+
+SP . CONDUCTANCE LAB
+
+SULFATE DISS
+
+MG/L
+
+TOXAPHENE TOT(WATER) UG/L
+
+WATER TEMP (DEG C)
+
+ZINC TOTAL
+
+UG/L
+
+0.01 0.03 12 0.00 2.7 0.00 0.01 0.01 2.7 2.7
+1 0.0 0.0 0.00 6.7 7.6
+0 0.00 0.00 0.00 1.0 0.7 20.0 421 0.54 397 47 1.1
+0 12 45 44 25 750 707 49
+0.0 11.5 30
+
+CATIONS
+
+ANIONS
+
+CALCIUM DISS MAGNESIUM DISS POTASSIUM DISS SODIUM DISS
+
+(MG/L) 84 20
+1.0 44
+
+(MEQ/L) 4.192 1.646 0.026 1.914
+
+CHLORIDE DISS FLUORIDE DISS SULFATE DISS ALK.TOT(CAC03) N02+N03 AS N D
+
+(MG/L) 37
+0.1 49 270
+2.7
+
+(MEQ/L) 1.044 0.006 1.021 5.395 0.193
+
+TOTAL 7. 776
+
+TOTAL 7.657
+
+PERCENT DIFFERENCE 0.78
+
+18
+
+Table 4.--Chemical analysis of water from Mantika well (well 4) Town of Rotterdam
+
+[Analysis by U.S. Geological Survey]
+
+SAMPLE LOCATION: PAUL MANTIKA
+
+STATION ID: 424938073593101
+
+LAT.LONG.SEQ.: 424938 0735931 01
+
+DATE OF COLLECTION: BEGIN--790829 END--
+
+TIME--1725
+
+STATE CODE: 36
+
+COUNTY CODE: 093
+
+PROJECT IDENTIFICATION: 443607200
+
+DATA TYPE: 2
+
+SOURCE: GROUND WATER
+
+GEOLOGIC UNIT:
+
+COMMENTS:
+
+COLL BY RV ALLEN
+
+ALDRIN TOTAL (WATER) UG/L
+
+0.00
+
+ALK,TOT(CAC03)
+
+MG/L
+
+110
+
+ANALYZING AGENCY
+
+80010
+
+ARSENIC TOTAL
+
+UG/L
+
+1
+
+CADMIUM TOTAL
+
+UG/L
+
+0
+
+CALCIUM DISS
+
+MG/L
+
+44
+
+CARBON DIOXIDE
+
+MG/L
+
+8.5
+
+CARBON TOT ORGANIC MG/L
+
+3.6
+
+CHLORDANE TOT(WATER) UG/L
+
+0.0
+
+CHLORIDE DISS
+
+MG/L
+
+16
+
+CHROMIUM TOTAL
+
+UG/L
+
+10
+
+COPPER TOTAL
+
+UG/L
+
+DDD TOTAL (WATER) UG/L
+
+10
+o.oo
+
+DDE TOTAL (WATER) UG/L
+
+0.00
+
+DDT TOTAL (WATER) UG/L
+
+0.00
+
+DEPTH BELOW LSD (FT)
+
+E 20.0
+
+DEPTH OF WELL IN FT.
+
+E 60.0
+
+DIAZINON TOT (WATER) UG/L
+
+o.oo
+
+DIELDRIN TOT (WATER) UG/L
+
+0.00
+
+ENDOSULFAN I TOTAL UG /L
+
+0.00
+
+ENDRIN TOTAL (WATER) PG/L
+
+0.00
+
+ETH PARTH TOT(WATER) UG/L
+
+0.00
+
+ETH TRITH TOT(WATER) UG/L
+
+0.00
+
+ETHION TOTAL (WATER) UG/L
+
+0.00
+
+FLUORIDE DISS
+
+MG/L
+
+0.1
+
+HARDNESS NONCARB
+
+MG/L
+
+28
+
+HARDNESS TOTAL
+
+MG/L
+
+140
+
+HEPT EPOX TOT(WATER) UG/L
+
+0.00
+
+HEPTACHLOR T.(WATER) UG/L
+
+0.00
+
+IRON TOTAL
+
+UG/L
+
+120
+
+LEAD TOTAL
+
+UG/L
+
+LINDANE TOTAL(WATER) UG/L
+
+0
+o.oo
+
+MAGNESIUM DISS
+
+MG/L
+
+MALATHION TOT(WATER) UG/L
+
+6.8
+o.oo
+
+MANGANESE TOTAL
+
+UG/L
+
+420
+
+MERCURY TOTAL
+
+UG/L
+
+L0.5
+
+MET PARTH TOT(WATER) UG/L
+
+0.00
+
+MET TRITH TOT(WATER) UG/L
+
+0.00
+
+NITR. NH4 AS NH4 DIS MG/L
+
+NITR. NOz AS NOz DIS MG/L
+
+NITR. N03 AS N03 DIS MG/L
+
+NITROGEN DIS ORG ASN MG/L
+
+NITROGEN DISS AS N MG/L
+
+NITROGEN DISS KJD MG/L
+
+NITROGEN NH4 ASN DIS MG/L
+
+NITROGEN NOz ASN DIS MG/L
+
+NITROGEN N03 ASN DIS MG/L
+
+NOz+N03 AS N DISS OIL AND GREASE
+
+MG/L MG/L
+
+PCB TOTAL (WATER) UG/L
+
+PCN TOTAL (WATER) UG/L
+
+PERTHANE TOTAL
+
+UG /L
+
+PH FIELD
+
+PH LAB
+
+PHENOLS
+
+UG/L
+
+PROS ORTHO DIS AS P MG/L
+
+PHOSPHATE DIS ORTHO MG/L
+
+PHOSPHORUS DIS AS P MG/L
+
+POTASSIUM DISS
+
+MG/L
+
+POTASSIUM 40.D.PCI/L
+
+PUMP PERIOD (MIN)
+
+RESIDUE DIS CALC SUM MG/L
+
+RESIDUE DIS TON/AFT
+
+RESIDUE DIS 180C
+
+MG/L
+
+SAMPLE SOURCE CODE
+
+SAR
+
+SELENIUM TOTAL
+
+UG/L
+
+SILICA DISSOLVED
+
+MG/L
+
+SODIUM + POTASSIUM MG/L
+
+SODIUM DISS
+
+MG/L
+
+SODIUM PERCENT
+
+SP. CONDUCTANCE FLD
+
+SP. CONDUCTANCE LAB
+
+SULFATE DISS
+
+MG/L
+
+TOXAPHENE TOT(WATER) UG/L
+
+WATER TEMP (DEG C)
+
+ZINC TOTAL
+
+UG/L
+
+0.08 0.03 0.04 0.02 0.10 0.08 0.06 0.01 0.01 0.02
+2 0.0 0.0 0.00 7.4 7.8
+1
+0.01 0.03 0.00
+1.3 1.0 25.0 178 0.25 187
+30 0.4
+0 6.1 12 11 15 370 314 26 0.0 16.5
+0
+
+CATIONS
+
+ANIONS
+
+CALCIUM DISS MAGNESIUM DISS POTASSIUM DISS SODIUM DISS
+
+(MG/L) 44 6.8 1.3
+11
+
+(MEQ/L) 2.196
+0.560 0.034 0.479
+
+TOTAL 3.267
+
+CHLORIDE DISS FLUORIDE DISS SULFATE DISS ALK.TOT(CAC03) NOz+N03 AS N D
+
+(MG/L) 16 0.1
+26 110
+0.02
+
+TOTAL
+
+(MEQ/L) 0.452 0.006 0.542 2.198 0.002
+3.197
+
+PERCENT DIFFERENCE • 1.08
+
+19
+
+Table 5.--Chemical analyses of water from selected wells in Schenectady County, N.Y.
+
+[Analyses by New York State Department of Health unless otherwise indicated. Dissolved constituents given in parts per million.]
+
+number Previous or well
+Number owner numbera
+
+Depth (feet)
+
+Water-bearing formation
+
+1 Scotia Sn 4&5
+
+70 & 85 Pleistocene sand
+
+2 Schen Sn 127
+
+44 Pleistocene gravel
+
+3 Schen Sn nob
+
+62 Pleistocene gravel
+
+4 Schen Sn nob
+
+62 Pleistocene gravel
+
+5 Schen Sn n3b
+
+62 Pleistocene gravel
+
+6 Schen Sn n4
+
+57
+
+7 Schen Sn 126-128c --
+
+8 Schen Sn 126-128c --
+
+9 Schen Sn 129-138C --
+
+Pleistocene gravel Pleistocene gravel Pleistocene gravel Pleistocene gravel
+
+10 Glen 251-401-11 51
+
+Sand and gravel
+
+11 RWD3 252-402-16 r63
+
+Sand and gravel
+
+(SN 229)
+
+Date of collec-
+tion
+
+Dissolved solids
+
+Silica (Si02)
+
+Iron (Fe)
+
+Manganese (Mn)
+
+Calcium (Ca)
+
+Magnesi-
+urn (Mg)
+
+5-26-43 6- 1-28 11- 9-49 9-23-48 8-22-47 10- 5-46 10-13-40 1-27-42 9-14-44 1- 9-58 12- 7-60
+
+--
+--
+187 173 195 212 216 218
+---
+
+-- .03
+
+-- .23
+6.5 .05
+
+--
+
+6.0 .09 .13
+-- .03 .05 -- .15 -- .2
+
+-- .1
+
+-- .08
+-- .08
+
+49 8.6 46 7.5
+
+N 0
+
+Number
+1 2 3 4 5 6 7 8 9 10 11
+
+Sodium and
+potassium (Na + K)
+--
+9.2 4.4
+---
+--
+--
+--
+--
+
+Bicarbonate (HC01)
+n7 122 150 157 152 159 154 161 146 192
+--
+
+Sul- Chlo- Fluo- Nifate ride ride trate
+<so4) ___j_g_!)~_<F'_)__ (~03)
+
+- 3.0 -- --
+-- 5.5 -- --
+
+32 7.6 .0 .6
+
+30 7.2 .1 .3
+
+23 4.4 .1 .3
+10 8.6 .05 --- 7.0 -- --- 5,5 -- --
+
+-
+
+6.0 --
+
+--
+
+-- 6
+-- 27
+
+-- 1.5 -- 6.5
+
+Hardness (calculated as Ca~l
+
+Car-
+
+Noncar-
+
+Total
+
+bonate
+
+bonate
+
+128 112 119 100 154 123 158 128 146 125 148 130 174 126 165 132 164 120 220 220 310 310
+
+16 19 31 30 21 18 48 33 44
+--
+
+a Well numbers in Winslow and others, 1965. b Analysis by the Quality of Water Branch, U.S. Geological Survey. c Analysis by Schenectady Sewage Disposal Laboratory.
+
+Total alkaUnity (as CaC01)
+
+pH
+
+112 7.5 100 123 7.8 128 7.7 125 7.7 130 7.7 126 7.5 132 7.5 120 7.6
+-- 7.7
+
+TABLES 6-7 Page
+Table 6.--Chemical analyses of water from community systems in Schenectady County, New York ......................... 22
+Table 7.--Chemical analyses (pesticides and related constituents) of water from City of Schenectady, New York, wells ...... 28
+21
+
+Table 6.--Chemical analyses of water from community systems in Schenectady County, New York
+
+USGS-ASSIGNED SYSTEM (QW SITE) NAME
+
+COLUMN(S) LATITUDE-LONGITUDE
+
+AND RAW SOURCE
+
+ON THIS PAGE
+
+NUMBER
+
+OF WATER SAMPLED
+
+A
+
+424934073575900
+
+SCOTIA(V)·-WELL
+
+B
+
+424950073591001
+
+GLENVILLE--WELL
+
+c
+
+424950073591000
+
+GLENVILLE--WELL
+
+D
+
+424745073503401
+
+NI SKAYUNA·-WELLS
+
+E
+
+424745073503400
+
+NISKAYUNA--WELLS
+
+F
+
+424718073585601
+
+ROTTERDAM JUNCTION-WELLS
+
+G
+
+425725073585700
+
+ROTTERDAM JUNCTION-WELLS
+
+SYSTEM(S) ON THIS PAGE .• A TYPE OF WATER SAMPLED ... DISTRBN DATE .................... 12/01/71
+
+B RAW 12/01/71
+
+c
+TREATED 12/01/71
+
+D RAW 12/01/71
+
+D TREATED 04/11/75
+
+E RAW 12/01/71
+
+E TREATED 04/11/75
+
+F RAW 02/28/73
+
+G DISTRBN 12/01/71
+
+ALUMINUM UG/L ARSENIC UG/L N BARIUM UG/L N BERYLLIUM UG/L BICARBONATE MG/L
+BISMUTH UG/L BORON UG/L CADMIUM UG /L CALCIUM MG/L CARBONATE MG/L
+
+5.0 1 35
+< 2.0
+210
+< 8.0
+33 0
+70 0
+
+89 2
+24
+< 2.0
+190
+< 6.0
+26 0
+58 0
+
+7.0 1
+< 12 < 2.0
+189
+< 6.0
+24 0
+19 0
+
+67 2
+28
+< .80
+115
+< 4.0
+31 0
+37 0
+
+13 1
+32
+< .70
+145
+< 2.0
+25 0
+50 0
+
+63 1
+23
+< .90
+148
+< 5.0
+25 0
+37 0
+
+20 0
+25
+< .80
+178
+< 2.0
+25 0
+45 0
+
+7.0 0 37
+< 4.0
+330
+< 10
+64 0
+98 0
+
+46 3
+22
+< 1.0
+185
+< 5.0
+30 0
+57 0
+
+CHLORIDE MG/L CHROMIUM UG/L COBALT UG/L COLIFORM COL/100 ML COPPER UG/L
+
+43
+<8 < 16
+22
+
+23
+<6 < 12
+< 2.0
+
+22
+<6 < 12
+14
+
+17
+<4 < 8.0
+1.0
+
+18
+<2 < 1.0
+.60
+
+21
+<5 < 10
+37
+
+23
+<2 < 2.0
+35
+
+68
+< 10 < 10
+3.0
+
+19
+<5 < 10
+8.0
+
+CYANIDE MG/L DISS SOLIDS SUM MG/L FLUORIDE MG /L GALLIUM UG/L GERMANIUM UG/L
+
+0 320
+.10
+< 2.0 < 8.0
+
+0
+237
+.10
+< 2.0 < 6.0
+
+0
+255
+.10
+< 2.0 < 6.0
+
+0
+173
+.20
+< .80 < 4.0
+
+0.1
+206
+0
+< .70 < 2.0
+
+0 208
+.20
+< .90 < 5.0
+
+0 240
+.10
+< .80 < 2.0
+
+0
+469 .10
+< 5.0 < 10
+
+0 226
+.20
+< 1.0 < 5.0
+
+SYSTEM(S) ON THIS PAGE •• A TYPE OF WATER SAMPLED ••• DISTRBN
+DATE ••••...•••.••.•.•••• 12/01/71
+
+HARDNESS TOTAL MG/L HARDNESS NONCARB MG/L IRON UG/L LEAD UG/L LITHIUM UG/L
+
+249 77
+220
+< 8.0 < 10
+
+B
+RAW 12/01/71
+202 47 16
+< 6.0 < 10
+
+c
+TREATED 12/01/71
+66 0 4.0
+< 6.0 < 1.0
+
+D RAW 12/01/71
+1.31 36
+670
+< 4.0 < 10
+
+D
+TREATED
+04/1•1/75
+1.66 47
+650
+< 2.0
+6.0
+
+E RAW 12/01/71.
+130 9
+10
+< 5.0 < 10
+
+E TREATED 04/11/75
+1.53 7
+50
+< 2.0
+6.0
+
+F RAW 02/28/73
+352 81.
+< 1.0 < 10 < 10
+
+G DISTRBN 12/01/71.
+188 36 58
+< 5.0 < 10
+
+MAGNESIUM MG/L MANGANESE UG/L MBAS MG/L MERCURY UG/L MOLYBDENUM UG/L
+
+18
+< 8.0
+.03
+< .so < 2.0
+
+14
+< 6.0
+.01
+< .so < 2.0
+
+4.5
+< 6.0
+.02
+< .so < 2.0
+
+NICKEL UG/L
+
+< 8.0
+
+< 6.0
+
+< 6.0
+
+NITRATE AS N MG/L NITRITE AS N MG/L
+
+1.1 .30 .90
+-- -- --
+
+NITROGEN NH4 AS N MG/L
+
+N NITROGEN NH4+0RG-N MG/L .08
+w
+
+.03 .02
+
+PH UNITS
+
+7.7 7.7 7.6
+
+PHENOLS UG/L
+
+1.0 5.0 0
+
+PHOSPHORUS AS P MG/L
+
+.01 0
+
+0
+
+POTASSIUM MG/L
+
+1.5 1.2 .80
+
+RUBIDIUM UG/L
+
+9.3 280
+.02
+< .so < .80
+6.0 .40
+--
+.40
+7.1 1.0
+.01 1.4
+
+10 1100
+0
+< .so < . 70
+2.0 .23
+0
+.04
+7.1
+--
+.01 1.1
+
+9.2
+< 5.0
+.02
+< .so < .90
+< 5.0
+.30
+--
+.1.2
+7.9 0
+.oo
+1.4
+
+9.8 1.0 0
+< .so < .80
+< 2.0
+.22 0
+.20
+7.6 --
+.02 1.2
+
+26
+< 8.0
+.02
+< .50 < 5.0 < 10
+4.8
+.01
+7.8
+-.oo
+2.3
+
+11 130
+.01
+< .50 < 1.0
+< 5.0
+.10
+.05
+7.6 1.0
+.80 1.4
+
+SELENIUM UG/L SILICA MG/L SILVER UG/L SODIUM MG/L SPECIFIC COND UMHOS
+
+0 7.0
+< .50
+20
+582
+
+0
+7.3
+< .30
+10 422
+
+2 6.9
+< .30
+72
+436
+
+0 7.2
+< .20
+10
+305
+
+0 6.8
+< .20
+10
+369
+
+0 7.3
+< .30
+27
+366
+
+0 6.7
+< .20
+27 418
+
+0 9.1
+< 1.0
+34 818
+
+0 6.5
+< .30
+11
+396
+
+STRONTIUM UG/L SULFATE MG/L TIN UG/L TITANIUM UG/L VANADIUM UG/L
+ZINC UG/L ZIRCONIUM UG/L
+
+200 56
+< 8.0 < 4.0 < 4.0
+400
+< 16
+
+140 30
+< 6.0 < 3.0 < 3.0
+< 250 < 12
+
+62 36
+< 6.0 < 3.0 < 3.0
+< 250 < 12
+
+130 34
+< 4.0 < 2.0 < 2.0
+< 170 < 8.0
+
+220 39
+< 2.0 < 2.0 < 2.0
+0
+< 2.0
+
+140 32
+< 5.0 < 3.0 < 3.0
+< 210 < 10
+
+210 39
+< 2.0 < 2.0 < 2.0
+0
+< 3.0
+
+240 64
+< 10 < 10 < 10
+50
+< 22
+
+240 28
+< 5.0 < 3.0 < 3.0
+< 210 < 10
+
+Table 6.--Chemical analyses of water from community systems in Schenectady County, New York (Continued)
+
+USGS-ASSIGNED SYSTEM (QW SITE) NAME
+
+COLUMN(S) LATITUDE-LONGITUDE
+
+AND RAW SOURCE
+
+ON THIS PAGE
+
+NUMBER
+
+OF WATER SAMPLED
+
+A
+
+424910073591700
+
+SCHENECTADY(C)-WELLS
+
+SYSTEM(S) ON THIS PAGE •• A TYPE OF WATER SAMPLED ••• TREATED DATE •••••••••••••••••••• 11/10/70
+
+A TREATED 07/12/71
+
+A TREATED 10/14/71
+
+A TREATED 01/13/72
+
+A TREATED 04/06/72
+
+A TREATED 07/13/72
+
+A TREATED 10/18/72
+
+A TREATED 01/10/73
+
+A TREATED 04/17/73
+
+ALUMINUM UG /L ARSENIC UG/L BARIUM UG/L BERYLLIUM UG/L BICARBONATE MG/L
+N BISMUTH UG/L ~ BORON UG/L
+CADMIUM UG/L CALCIUM MG/L CARBONATE MG/L
+
+9.0 0 34
+< .50
+162
+< 5.0
+45 0
+52 0
+
+3.0 0 41
+< .60
+192
+< 3.0
+18 0
+60 0
+
+7.0 0 42
+< 2.0
+200
+< 6.0
+39 0
+61 0
+
+5.0 2 33
+< 1.0
+170
+< 5.0
+41 0
+54 0
+
+l3 0 28
+< 1.0
+152
+< 5.0
+20 0
+52 0
+
+12 1
+26
+< 1.0
+160
+< 5.0
+16 0
+52 0
+
+47 0
+36
+< 2.0
+201
+< 6.0
+22 0
+62 0
+
+13
+{)
+26
+< 2.0
+173
+< 5.0
+27 0
+58 0
+
+6.0 0 29
+< 2.0
+194
+< 5.0
+17 0
+63 0
+
+CHLORIDE MG/L CHROMIUM UG/L COBALT UG/L COLIFORM COL/100 ML COPPER UG/L
+
+16
+<5 < 5.0
+21
+
+18
+<6 < 2.0
+160
+
+18
+<6 < 3.0
+180
+
+16
+<5 < 5.0
+14
+
+16
+<3 < 5.0
+330
+
+14
+<5 < 5.0
+500
+
+18
+<6 < 6.0
+3.0
+
+18
+<5 < 6.0
+140
+
+18
+<6 < 6.0
+390
+
+CYANIDE MG/L DISS SOLIDS SUM MG/L FLUORIDE MG/L GALLIUM UG/L GERMANIUM UG/L
+
+0 201
+.20
+ND
+< 5.0
+
+0 232
+.40
+< 2.0 < 6.0
+
+0 238
+.90
+< 3.0 < 6.0
+
+0 212
+1.1
+< 1.0 < 5.0
+
+0 197
+.20
+< 3.0 < 5.0
+
+0 198
+1.2
+< 5.0 < 10
+
+0 239
+.10
+< 3.0 < 6.0
+
+0.1 225
+.90
+< 3.0 < 5.0
+
+.01 239
+.90
+< 3.0 < 6.0
+
+SYSTEM(S) ON THIS PAGE •• A TYPE OF WATER SAMPLED •.• RAW DATE •••••••••••••••••.•• 11/10/70
+
+A RAW 07/12/71
+
+A RAW 10/14/71
+
+A RAW 01/13/72
+
+A RAW 04/06/72
+
+A RAW 07/13/72
+
+A RAW 10/18/72
+
+A
+RAW 01/10/73
+
+A RAW 04/17/73
+
+MAGNESIUM MG/L MANGANESE UG/L MBAS MG/L MERCURY UG/L MOLYBDENUM UG/L
+NICKEL UG/L NITRATE AS N MG/L NITRITE AS N MG/L NITROGEN NH4 AS N MG/L NITROGEN NH4+0RG-N MG/L
+
+S.9 190
+.01
+< .so
+.70
+< 2.0
+.10 0 0
+--
+
+12 93
+.01
+< .so < 2.0
+< 6.0
+.44 0 0 0
+
+11 180
+.02
+< .so < 2.0
+< 6.0
+.20
+.02
+
+11 180
+.02
+< .so < 2.0
+< 3.0
+.30
+.11
+
+10 140
+.01
+< .so < 2.0
+< 6.0
+.30
+0
+
+9.8 9S
+.02
+< .so < 1.0
+< s.o
+.20
+.17
+
+10 1SO
+.02
+< .so < 3.0
+< 6.0
+.30
+.08
+
+10 9S
+.07
+< .so < 3.0
+< s.o
+.30
+.06
+
+10 190
+.01
+< .so <0 < 6.0
+.so
+.10
+
+PH UNITS
+
+7.8 7.8
+
+N PHENOLS UG/L U1 PHOSPHORUS AS P MG/L
+
+0 .02
+
+0 .01
+
+POTASSIUM MG/L
+
+1.3 2.1
+
+RUBIDIUM UG/L
+
+< 2.0
+
+< .40
+
+7.6 0
+.01
+1.4
+
+7.8 0
+.01 l.S
+
+7.4 1.0
+.01 1.4
+
+7.8
+.02 1.1
+
+8.0
+.02 1.4
+
+7.8
+.02 1.1
+
+8.3
+.01 1.2
+
+SELENIUM UG/L SILICA MG/L SILVER UG/L SODIUM MG/L SPECIFIC COND UMHOS
+
+1
+S.1
+< .50
+11 336•
+
+2 6.5
+< .60
+11
+433
+
+6 7.1
+< .60
+12 422
+
+1 8.6
+< 2.0
+12
+427
+
+1 8.0
+< 2.0
+10
+413
+
+0
+6.8
+< 1.0
+8.6
+382
+
+7 7.7
+< .60
+11
+422
+
+2
+7.0
+< .so
+9.4
+39S
+
+0 7.0
+< .60
+10
+404
+
+STRONTIUM UG/L SULFATE MG/L TIN UG/L TITANIUM UG/L VANADIUM UG/L
+ZINC tTG/L ZIRCONIUM UG/L
+
+300 2.?
+< 5.0 < 3.0 < s.o
+< 300
+ND
+
+240 34
+< 6.0 < 6.0 < 3.0
+< 270 < 3.0
+
+320 30
+< 6.0 < 3.0 < 3.0
+< 270 < 13
+
+290 33
+< 6.0 < 3.0 < 3.0
+600
+< 13
+
+280 32
+< 6.0 < 6.0 < 3.0
+< 250 < 12
+
+230 28
+< 11 < s.o < 3.0
+< 480 < 11
+
+300 30
+< 6.0
+3.0
+< 3.0
+< 370 < 8.0
+
+290 31
+< s.o < s.o < 5.0
+0
+< s.o
+
+260 33
+< 6.0 < 4.0 < 6.0
+0
+< 8.0
+
+Table 6.--Chemical analyses of water from community systems in Schenectady County, New Yor~ (Continued)
+
+USGS-ASSIGNED SYSTEM (QW SITE) NAME
+
+COLUMN(S) LATITUDB-LONGITUDE
+
+AND RAW SOURCE
+
+ON THIS PAGE
+
+NUMBER
+
+OF WATER SAMPLED
+
+A
+
+424910073591701
+
+SCHENECTADY(C)-WELLS
+
+SYSTEM(S) ON THIS PAGE .• A TYPE OF WATER SAMPLED ... RAW DATE ........•..•........ 11/10/70
+
+A RAW 07/12/71
+
+A RAW 10/14/71
+
+A RAW 01/13/72
+
+A RAW 04/06/72
+
+A RAW 07/13/72
+
+A RAW 10/18/72
+
+A RAW 01/10/73
+
+A RAW 04/17/73
+
+ALUMINUM UG /L ARSENIC UG/L BARIUM UG/L BERYLLIUM UG/L BICARBONATE MG/L
+
+14 0
+30
+< .so
+150
+
+.90 0
+38
+< .60
+202
+
+8.0 0
+40
+< 2.0
+202
+
+48 1
+41
+< 2.0
+206
+
+·~1
+0 34
+< 2.0
+182
+
+7.0
+2
+30
+< 1.0
+180
+
+11 1
+36
+< 2.0
+201
+
+48 0
+28
+< 2.0
+180
+
+4.0 0 31
+< 2.0
+192
+
+BISMUTH UG/L
+
+BORON UG/L
+
+CADMIUM UG/L
+
+N
+Q"\
+
+CALCIUM MG/L
+
+CARBONATE MG/L
+
+< 5.0
+36 0
+48 0
+
+< 3.0
+16 0
+63
+0
+
+< 6.0
+48 0
+66
+0
+
+< 6.0
+33 0
+65
+0
+
+< 6.0
+27 0
+62
+0
+
+< 5.0
+17 0
+57
+0
+
+< 6.0
+25 0
+60
+0
+
+< 5.0
+24 1
+61
+0
+
+< 5.0
+20
+0 68
+0
+
+CHLORIDE MG/L CHROMIUM UG/L COBALT UG/L COLIFQRM COL/100 ML COPPER UG/L
+
+15
+<5 < 5.0
+4.0
+
+20
+<6 < 2.0
+1.0
+
+19
+<6 < 3.0
+25
+
+20
+<6 < 6.0
+3.0
+
+20
+<3 < 6.0
+s.o
+
+14
+<5 < 5.0
+4.0
+
+17
+<6 < 6.0
+5.0
+
+25
+<5
+6.0
+1.0
+
+16
+<6 < 6.0
+40
+
+CYANIDE MG/L DISS SOLIDS SUM MG/L FLUORIDE MG /L GALLIUM UG/L GERMANIUM UG/L
+
+0 185
+.10
+ND
+< 5.0
+
+.01 248
+0
+< 2.0 < 6.0
+
+0 246
+.10
+< 3.0 < 6.0
+
+0 253
+.10
+< 2.0 < 6.0
+
+0 233
+.10
+< 3.0 < 6.0
+
+0 214
+.10
+< 5.0 < 11
+
+0 236
+.10
+< 3.0 < 6.0
+
+0.1 233
+.10
+< 3.0 < 5.0
+
+.01 240
+.10
+< 3.0 < 6.0
+
+HARDNESS TOTAL MG /L HARDNESS NONCARB MG/L IRON UG/L LEAD UG/L
+LITHIUM UG/L
+
+144
+21
+7.0
+< 5.0
+2.0
+
+207
+41
+3.0
+< 2.0
+2.0
+
+210
+44
+14
+< 13 < 10
+
+208
+39
+5.0
+< 6.0 < 10
+
+196
+lf7
+12
+< 3.0 < 10
+
+183
+35
+9.0
+< 5.0 < 10
+
+191
+26
+12
+< 6.0 < 10
+
+193 46
+< 5.0 < 5.0 < 10
+
+211
+53
+12
+< 6.0
+
+SYSTEM(S) ON THIS PAGE .. A TYPE OF WATER SAMPLED .•. TREATED DATE .................... 11/10/70
+
+A TREATED 07/12/71
+
+A TREATED 10/14/71
+
+A TREATED.
+01/13/72
+
+A TREATED 04/06/72
+
+A TREATED 07/13/72
+
+A TREATED 10/18/72
+
+A TREATED 01/10/73
+
+A TREATED 04/17/73
+
+HARDNESS TOTAL MG/L HARDNESS NONCARB MG/L IRON UG/L LEAD UG/L LITHIUM UG/L
+
+158
+25
+130.0
+< 5.0
+3.0
+
+191 34 9.0 4.0 2.0
+
+198
+34
+15
+< 13 < 10
+
+176
+37
+8.0
+8.0
+< 10
+
+164
+39
+35
+3.0
+< 10
+
+166 35 11 37
+< 10
+
+196
+31
+13
+< 6.0 < 10
+
+185 43
+< 5.0 < 5.0 < 10
+
+198
+39
+11
+< 6.0
+
+MAGNESIUM MG/L MANGANESE UG/L MBAS MG/L MERCURY UG/L MOLYBDENUM UG/L
+
+6.9 270
+.01
+< .so
+.70
+
+10 290
+.01
+< .so < 2.0
+
+NICKEL UG/L
+
+< 3.0
+
+< 6.0
+
+NITRATE AS N MG /L
+
+.10 .26
+
+NITRITE AS N MG/L
+
+00
+
+NITROGEN NH4 AS N MG/L
+
+0
+
+.03
+
+N
+
+NITROGEN NH4+0RG-N MG/L
+
+--
+
+.33
+
+'-J
+
+PH UNITS PHENOLS UG/L PHOSPHORUS AS P MG/L POTASSIUM MG/L RUBIDIUM UG/L
+
+7.7 0
+.04 1.3
+< 2.0
+
+7.7 0 0 1.5
+< .40
+
+11 460
+.02
+< .50 < 2.0
+15 .10
+.15
+7.4 0
+.01 1.4
+
+10 260
+.01
+< . 50
+2.0
+< 3.0
+0
+.04
+7.7 0
+.18 l.S
+
+8.2 150
+.01
+< .so < 1.0
+5.0 .10
+.02
+7.5 28
+.08 1.1
+
+8.9 170
+.02
+< .50 < 1.0
+22 .50
+.16
+7.7
+.26 1.0
+
+10 50
+.02
+< .50 < 3.0
+< 6.0
+.30
+.11
+8.2
+.01 1.4
+
+9.7 160
+.02
+< .50 < 3.0
+< 5.0
+.50
+.06
+7.5
+.28 1.1
+
+10 210
+.02
+< .50 < 2.0
+< 6.0
+.50
+.06
+8.2
+.01 1.1
+
+SELENIUM UG/L SILICA MG/L SILVER UG/L SODIUM MG/L SPECIFIC COND UMHOS
+
+3 S.6
+< .so
+11 370
+
+2 7.4
+< .60
+10
+406
+
+5 8.0
+< .60
+11
+420
+
+2
+6.9
+< 1.0
+11
+364
+
+0 5.2
+< 1.0
+9.4
+351
+
+0
+6.1
+< 1.0
+8.6
+358
+
+4 7.7
+< .60
+10 420
+
+3 6.3
+< .so
+10 392
+
+0 7.9
+< .60
+11 387
+
+STRONTIUM UG/L SULFATE MG/L
+TIN UG/L TITANIUM UG/L VANADIUM UG/L
+
+320
+28
+< 5.0
+12
+< 5.0
+
+280
+30
+< 6.0 < 6.0 < 3.0
+
+300
+28
+< 6.0 < 3.0 < 3.0
+
+340
+28
+< 5.0 < 3.0 < 3.0
+
+320
+30
+< 5.0
+7.0
+< 3.0
+
+260
+27
+< 10 < 5.0 < 3.0
+
+310
+31
+< 6.0
+2.0
+< 3.0
+
+290
+3S
+< 5.0 < 5.0 < 5.0
+
+300
+31
+< 6.0 < 4.0 < 6.0
+
+ZINC UG/L ZIRCONIUM UG/L
+
+< 340
+ND
+
+< 240 < 3.0
+
+< 270 < 13
+
+< 490 < 11
+
+< 220 < 11
+
+< 450 < 10
+
+< 370 < 8.0
+
+< 330 < 5.0
+
+< 8.0
+
+Table 7.--Chemical analyses (pesticides and related constituents) of water from City of Schenectady, New York, wells
+
+USGS-ASSIGNED SYSTEM (OR SITE) NAME
+
+COLUMN(S) LATITUDE-LONGITUDE
+
+AND RAW SOURCE
+
+ON THIS PAGE
+
+NUMBER
+
+OF WATER SAMPLED
+
+A 424910073591701 SCHENECTADY(C)-WELLS B 424910073591700 SCHENECTADY(C)-WELLS
+
+SYSTEM(S) ON THIS PAGE.. A TYPE OF WATER SAMPLED. . . RAW DATE .•.............•.... ll/10/70
+
+A RAW 07/12/71
+
+A RAW 10/14/71
+
+A RAW 04/06/72
+
+A RAW 07/13/72
+
+TOT ORG CARBON MG/L 5.0 6.0 0 0 0
+
+PCB UG/L
+
+0 000
+
+PCN UG/L
+
+ALDRIN UG/L
+
+0 0 0 00
+
+CHLORODANE UG /L
+
+0 000
+
+DDD UG/L DDE UG/L DDT UG/L DIAZINON UG/L
+DIELDRIN UG/L
+
+0 0 00
+
+0000
+
+0 0 00
+
+000
+
+0
+
+< .01
+
+< .01
+
+0
+
+0 0 0 0 0
+
+ENDRIN UG/L
+
+0 0 000
+
+ETHION UG/L
+
+0 0 000
+
+HEPTACHLOR UG/L
+
+0 0 0 00
+
+HEPTACHLOR EPOXIDE UG/L
+
+0 000
+
+LINDANE UG/L
+
+0 0 000
+
+MALATHION UG/L
+
+0 0000
+
+METHYOXYCHLOR UG/L
+
+0 0 00
+
+METHYL PARATHION UG/L
+
+0
+
+0
+
+0
+
+0
+
+0
+
+METHYL TRITHION UG/L
+
+0 0 00
+
+PARATHION UG/L
+
+0 0 000
+
+TOXAPHENE UG /L TRITHION UG/L 2,4-D UG/L 2,4,5-T UG/L SILVEX UG/L
+
+0 000 0 0 000 0 0000 0 0 000 0 0000
+
+SYSTEM(S) ON THIS PAGE.. B TYPE OF WATER SAMPLED ... TREATED
+DATE ..•••••.•••......•.• 11/10/70
+
+TOT ORG CARBON MG /L PCB UG/L PCN UG/L ALDRIN UG/L CHLORODANE UG/L
+
+7.0 0
+
+DDD UG/L DDE UG/L
+DDT UG/L DIAZINON UG/L DIELDRIN UG/L
+
+0 0 0
+0
+
+ENDRIN UG/L ETHION UG/L HEPTACHLOR UG/L HEPTACHLOR EPOXIDE UG/L LINDANE UG/L
+
+0 0 0
+0
+
+MALATHION UG/L METHYOXYCHLOR UG/L METHYL PARATHION UG/L METHYL TRITHION UG/L PARATHION UG/L
+
+0 0 0
+
+TOXAPHENE UG /L TRITHION UG/L 2,4-D UG/L 2,4,5-T UG/L SILVEX UG/L
+
+0 0 0 0
+
+B
+TREATED 07/12/71
+4.0 0
+0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+
+B
+TREATED 10/14/71
+0 0
+0 0
+0 0 0
+.02
+< .01
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+
+B
+TREATED 04/06/72
+0 0
+0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+
+B
+TREATED 07/13/72
+1.0 0
+0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+
+28
+
+

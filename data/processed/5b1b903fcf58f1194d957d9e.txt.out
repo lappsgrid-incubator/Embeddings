@@ -1,0 +1,523 @@
+developmental biology content list available sciverse sciencedirect developmental biology journal homepage www elsevier com developmentalbiology genome developmental control select micrornas essential early development sea urchin jia song ,⁎, marlon stoeckius jonas maaskola marc friedländer nadezda stepicheva celina juliano svetlana lebedeva william thompson nikolaus rajewsky ,⁎⁎, gary wessel ,⁎⁎⁎ department molecular biology cellular biology biochemistry brown university providence usa department apply mathematics brown university providence usa max delbrück center molecular medicine berlin berlin germany department biological science university delaware newark usa 
+article info article history receive publication february revise october accepted november available online december keywords sea urchin microrna embryogenesis 
+abstract micrornas mirnas small noncoding rna mediate post transcript gene regulation emerge essential regulator many developmental event 
+the transcript network early embryogenesis purple sea urchin strongylocentrotus purpuratus well describe serve excellent model test functional contribution mirnas embryogenesis 
+examine loss function phenotypes major component mirna biogenesis pathway 
+inhibition novo synthesis drosha dicer embryo lead consistent developmental defect failure gastrulate embryonic lethality include change steady state level transcription factor signal molecule involve germ layer speciﬁcation 
+annotate proﬁled small rna expression ovary several early embryonic stage deep sequence follow computational analysis 
+mirnas well large population putative pirnas piwi interact rna dynamic accumulation proﬁles early development 
+defect morphogenesis cause loss drosha could rescue four mirnas 
+take together result indicate post transcript gene regulation direct mirnas functionally important early embryogenesis integral part early embryonic gene regulatory network purpuratus 
+elsevier inc all right reserve 
+introduction small rnas component conserve gene regulatory mechanism include micrornas mirnas short interfere rnas sirnas piwi interact rna pirnas 
+mirnas negatively regulate protein expression bind sequence complementary target site messenger rnas mrna induces repression mrna translation transcript destabilization decay bartel brodersen voinnet ghildiyal zamore guo hendrickson rajewsky 
+animal mirnas thousand target altogether regulate correspondence 
+song wolf hall newark usa 
+correspondence rajewsky max delbrück center molecular medicine robert rössle str 
+berlin germany 
+⁎⁎⁎ correspondence 
+wessel meet street providence usa 
+mail address jsong udel edu 
+song rajewsky mdc berlin rajewsky rhet brown edu 
+current address center genomic regulation barcelona catalonia spain 
+current address department cell biology yale university new haven usa 
+see front matter elsevier inc all right reserve 
+doi ydbio 
+major portion protein cod gene baek bartel friedman krek lewis selbach stark xie 
+the vast majority mirnas initially process drosha cofactor dgcr8 han lee maturation mirnas sirnas require dicer 
+dicer member rnase iii riboendonuclease family responsible processing double strand rna dsrna small interfere rnas sirnas rna interference rnai zhang 
+also key enzyme mediate ﬁnal processing mirnas precursor 
+number fundamental step embryogenesis appear regulate mirnas documentation gene regulatory network involve cell fate speciﬁcation differentiation reveal importance numerous signal molecule transcription factor diverse regulatory role mirnas early development emerge review fabian ghildiyal zamore pauli 
+recently number mirnas identiﬁed purple sea urchin strongylocentrotus purpuratus campo paysaa friedländer peterson wheeler reveal many deeply conserved mirnas also present human 
+echinoderm sister group chordates function mirnas embryos may reﬂect transition deuterostome development 
+developmental biology 
+ovary gblp3laa2sutts treecuulgluellsaga 
+depth knowledge transcript gene regulatory network sea urchin see www spbase org endomes set inves tigate importance mirnas early embryogenesis ani mal 
+proﬁled annotate small rna expression ovary several early embryonic stage deep sequence fol low computational analysis include application mirna identiﬁcation tool mirdeep friedländer friedländer 
+individual knockdown dicer drosha dgcr8 well mirna rescue experiment suggest mirna pathway play important functional role early cell fate decision sea chin embryogenesis serf paradigm ancestral feature deuterostome lineage 
+spu mir spu mir spu mir spu mir spu mir spu mir 92c spu mir spu mir 92a spu mir 92b spu mir spu mir spu mir spu mirdeep2 spu mir spu mir 252b spu mir spu mir spu mir spu mir spu mir spu mir spu mir spu mir spu mirdeep2 spu mir spu mir spu mir spu let spu mir spu mir spu mir spu mir spu mir 29b spu mir spu mirdeep2 spu mir spu mir spu mir spu mir spu mir spu mir 252a spu mir spu mir spu mir spu mir spu mir spu mir spu mirdeep2 spu mir 92c spu mir spu mir spu mir 92b spu mir spu mir 252b spu mir spu mir spu mir spu mir spu mir spu mir spu mir spu mir spu mir spu mirdeep2 spu mir spu mir spu mir 29b spu mir spu mir spu mir spu mir spu mir spu mir spu let spu mir spu mir spu mir spu mir spu mir spu mirdeep2 spu mir spu mir spu mir spu mir spu mir spu mir relative expression low high fig 
+dynamic expression sea urchin mirnas 
+hierarchical cluster mirnas base gene expression pattern plot heat map 
+most mirnas express ternally upregulated hpf 
+the “*” corresponds minor mirna pre cursor product find low concentration 
+three novel mirnas spu mirdeep2 spu mirdeep2 spu mirdeep2 
+result small rna annotation expression proﬁling clone sequence small rna population nucleotide ovary egg cell stage embryos hour post fertilization hpf blastula hpf gastrula hpf early larva plutei hpf 
+use mirdeep2 friedländer friedländer previously publish algorithm identiﬁes mirna gene base sequenced dicer hairpin product conﬁdently identiﬁed mirnas ovary ﬁve developmental stage sea urchin embryo fig 
+table three identiﬁed mirnas novel mirnas previously annotate mirbase version 
+interestingly one mirnas transcribe genomic strand know mirna locus show directional mirna gene deeply conserve stark tyler 
+ten annotate mirnas appear sea urchin speciﬁc 
+most mirnas present egg dynamic accumulation proﬁles majority upregulated gastrulation fig 
+investigate whether deep sequence data accurately quantify differential mirna expression test expression mirnas mir 252b use qpcr taqman assay 
+observe overall good correlation deep sequencing qpcr test developmental stage fig 
+square correlation coefﬁcient lie except sample square correlation coefﬁcient 
+the observed difference may due different sample preparation efﬁciencies reverse transcription cdna library construction pcr ampliﬁcation step 
+next investigated length distribution annotation sequence read 
+small rna show bimodal length distribution distinct peak around nucleotide fig 
+all mirnas identiﬁed mirdeep account characteristic peak around nucleotide 
+interestingly find sequence sea urchin rna map exist annotation distinct length proﬁle peak nucleotide observe piwi interact rnas pirnas specie 
+pirnas associate silence transposable element germline recently show involved maternal mrna deadenylation early embryo thus mediate maternal zygotic transition rouget 
+far find large portion rna tend overlap exactly ten nucleotides one read exhibit uridine bias end adenine bias tenth nucleotide 
+these feature consistent conserve ping pong pirna biogenesis pathway via mutual cleavage sense antisense pirna precursor piwi protein aravin brennecke girard grivna gunawardane houwing saito vagin watanabe 
+therefore annotate rna overlap exactly ten nucleotide pirnas refer remain small rna specie around nucleotide overlap ten nucleotide unknown sequence although length distribution suggest likely highly enrich pirnas fig 
+observe signiﬁcant decrease total read map mirnas cell stage 
+this correlated increase read map putative pirnas fig 
+distribution sequence read reﬂect absolute abundance rather relative frequency two possible interpretation cell stage transition mirnas either cleared egg follow fertilization pirnas strongly increase cell stage 
+distinguish possibility perform northern blot select pirna candidate 
+observe pronounced increase detectable pirnas cell stage fig 
+moreover qpcr analysis illustrate drastic decrease test mirnas 32cell stage fig 
+take together result suggest pirnas 
+developmental biology 
+read read 
+mirna unknown pirna cd trna rrna 
+egg length 
+read read read 
+cell stage embryo length blastula hpf length gastrula hpf length pluteus hpf length fig 
+sea urchin small rna composition expression proﬁle 
+small rna ovary egg cell stage blastula hpf gastrula hpf pluteus hpf sequence annotated 
+mirnas nt putative pirnas nt 
+putative pirnas overlap consistency conserve ping pong mode biogenesis see material method label pirna remain label unknown 
+the ﬁgure scale yield identical vertical extend nucleotide mirna fraction 
+compare fig 
+illustration static scaling 
+early cell stage fig 
+this suggest novo dicer translation early development fast decrease dicer protein knockdown indicate short half life protein early embryo 
+observe injected embryo develop normally blastulae 
+however hpf dicer maso embryo fail gastrulate phenotype dependent dose maso fig 
+developmental defect embryos range overall delay development failure form proper archenteron primitive gut embryonic lethality 
+these phenotype also observe two different non overlap dicer masos fig 
+data show negative control masos fig 
+masos use knock different gene function irrelevant mirna biogenesis pathway juliano data show 
+test knockdown dicer lead decrease level mature mirnas early embryo use qpcr quantify sea urchin speciﬁc mirna mir conserve vertebrate mirna mir blastula stage hpf 
+compare mock inject control mirnas decrease dicer maso inject embryos suggest decrease dicer protein result significant inhibition mirna biogenesis fig 
+the absence complete mirna knockdown may explain stability assay mirnas lack complete dicer gene knock use maso residual dicer still generate functional mirnas 
+dicer may mirna independent function centromeric silence process endogenous sirnas alternative deoxyribonuclease activity fukagawa kanellopoulou nakagawa 
+test phenotype observe dicer knockdown embryo speciﬁc alteration mirna expression assay knockdown phenotype drosha dgcr8 two dsrna processing enzyme catalyze nuclear primary mirna cleavage critical canonical mirna biogenesis 
+follow maso treatment drosha observe earlier severe developmental defect compare dicer deﬁcient embryo fig 
+hpf delay development already observe drosha knockdown blastula hpf embryo either abnormal still gastrula stage normally observe hpf development 
+dgcr8 maso inject embryos illustrate signiﬁcant developmental effect fig 
+although aberrant embryo similar morphological defect dicer drosha knockdown fig 
+this could explain longer half life dgcr8 compare protein involve mirna biogenesis 
+however knockdown combination dgcr8 dicer dgcr8 drosha result pronounced developmental abnormality compare dicer drosha knockdown alone fig 
+dynamic expression pattern early sea urchin embryo 
+this increase pirna expression may correspond speciﬁcation piwi positive small micromere lineage juliano rodriguez 
+key enzyme involve mirna biogenesis require early development dicer dsrna processing enzyme catalyze ﬁnal cytoplasmic mirna precursor cleavage reaction generate mature mirnas detect relatively constant mrna level egg cell stage decrease prior gastrulation fig 
+contrast dicer protein expression peak blastulae decrease gastrulation fig 
+s4b s4c 
+test function dicer result mirna product early embryogenesis egg microinjected dicer morpholino antisense oligonucleotides maso 
+inject embryo show estimate decrease dicer protein compare mock inject embryo 
+alteration mirna biogenesis lead misexpression gene involve early embryogenesis dicer knockdown embryos failed gastrulate exhibit range phenotype largely blastula hpf gastrula hpf stage endoderm mesodermal tissue form 
+expression endoderm marker endo1 wessel mcclay signiﬁcantly decrease dicer knockdown embryos compare mock inject control embryo fig 
+observe similar decrease expression level mesodermal marker meso1 wessel mcclay dicer knockdown embryos fig 
+these result indicate observed phenotype cause alteration mirna biogenesis likely reﬂect failure properly specify various tissue type 
+thus measure transcript level number developmentally regulate molecule involve cell signal transcript regulation cell adhesion cell movement cell proliferation fig 
+ben tabou leon davidson byrum davidson duboc flower logan peter davidson 
+48h 24h 
+developmental biology 
+dicer maso 
+lineage repress transcription ubiquitously present transcript repressor hesc oliveri 
+this doublenegative repression lead activation delta ligand three regulatory gene alx1 ets1 tbr skeletogenic micromere lineage revilla domingo 
+the delta notch pathway lead activation gcm mesodermal gene regulator ransick davidson 
+tested time point hpf expect capture critical gene expression change essential proper endomesodermal speciﬁcation likely affect global depletion mirnas fig 
+catenin wnt8 pmar1 hesc delta nodal mrna level increase drosha knockdown embryo fig 
+upregulation may suggest gene directly regulate mirnas 
+interestingly endoderm regulatory gene foxa mesodermal regulatory gene gcm decrease mrna level instead suggest indirect mirna regulatory pathway consistent observation decrease endo mesodermal immunostaining drosha knockdown embryo fig 
+catenin know directly regulate transcription pmar1 wnt8 therefore increase mrna level wnt8 pmar1 may result increase βcatenin directly regulate mirnas 
+previous study indicate pmar1 overexpression lead increase delta decrease spec1 mrna level oliveri oliveri consistent observe qpcr data fig 
+however result indicate gcm foxa mrna level decrease delta mrna increase indicate gcm foxa likely regulate indirectly mirna dependent mechanism 
+take together alteration mirna biogenesis pathway lead deregulation test determinant early sea urchin development 
+whether mrna change directly indirectly cause alteration mirna expression remain determine 
+percent normal development relative control dice1r2nmamso 
+mirna expression relative control log2 
+dicer maso 4nm dicer maso 24nm 
+spu mir 
+spu mir 
+dicer require early sea urchin development 
+dicer morpholino antisense oligonucleotide maso injected embryo dose dependent developmental defect 
+barplots depict percentage normal embryos experimental treatment relative percentage normal embryo mock inject control hpf 
+number embryo analyze 
+unpaired student test use determine signiﬁcance knockdown compare mock control 
+value dicer maso sample 
+dicer knockdown result decrease mirnas 
+mirna unique sea urchin spu mir mir31 conserve mirna decrease dicer knockdown embryos compare control mock inject embryos hpf 
+standard deviation error bar replicates 
+sherwood mcclay sweet sweet wikramanayake 
+the transcript repressor pmar1 exclusively express skeletogenic micromere 
+rescue drosha knockdown phenotype mirnas mir mir mir mir sequence least time often mirnas likely indicating among high express mirnas sea urchin embryo fig 
+reason high level could reﬂect broad crucial function early embryo 
+test assumption design rescue experiment inject four abundant mirnas double strand rna dsrna dicer substrates drosha knockdown embryo 
+find synthetic dsrna duplex signiﬁcantly rescue drosha knockdown embryo include morphogenesis function major cell type embryo fig 
+while drosha knockdown embryo severe developmental defect embryos rescue dsrna duplex able develop feed larvae day fertilization fig 
+complementation mir mir two least abundantly sequence mirnas negative control dsrna however rescue effect drosha knockdown indicate sequence speciﬁcity mir rescue fig 
+dissect mirna essential rescue drosha knockdown phenotype set experiment test combination dsrna drosha knockdown background fig 
+observe single dsrna able rescue drosha knockdown phenotype normal embryo drosha knockdown background normal embryo 
+the dsrna rescue effect drosha knockdown induced phenotype due amount inject solution fig 
+take together combination dsrnas contain dsrna drosha knockdown background rescue drosha knockdown phenotype effectively suggest mir may essential component gene regulatory network early developmental process fig 
+percent normal development relative control drosha12mnamso drosha24mnasmo 
+developmental biology 
+drosha knockdown mock 12nm 24nm 24h 48h 72h 
+scale bar 
+dgcr8 knockdown mock 12nm 24nm 24h 
+scale bar 
+percent normal development relative control 
+percent normal development relative control 
+drosha maso 
+drosha knockdown display similar developmental defect dicer knockdown 
+morpholino antisense oligonucleotides variable concentration inject newly fertilize egg 
+dic image embryos hpf hpf hpf 
+scale bar 
+barplots depict percentage normal embryos experimental treatment relative percentage normal embryo mock inject control hpf 
+total number inject embryo 
+unpaired student test use determine signiﬁcance level knockdown mock control 
+the value drosha maso drosha maso respectively drosha maso inject embryos dose dependent developmental defect whereas dgcr8 maso inject embryos show phenotype 
+inject morpholinos dgcr8 drosha dgcr8 dicer lead decreased percentage normal embryo compare maso injection alone 
+low concentration drosha dicer maso instead lane use observe decrease percentage normal embryo maso injection 
+average two biological replicate presented 
+discussion specie speciﬁc difference temporal expression functional role mirnas development likely contribute variation life history speciﬁc organism 
+give posttranscriptional regulation throughout development study limited number organism extensive investigation function mirnas need achieve fuller understanding aspect evolution 
+thus set investigate role mirnas early embryogenesis sea urchin purpuratus 
+ﬁrst conﬁdently annotate total mirnas early stage sea urchin 
+development proﬁled expression throughout early embryogenesis 
+the comparatively small number identiﬁed mirnas may correspond morphological complexity campo paysaa peterson wheeler alternatively adult sea urchin tissue may harbor mirnas detect embryonic stage campo paysaa christodoulou heimberg lee niwa slack sempere wheeler 
+most annotated sea urchin mirnas maternally present dynamically express ﬁrst blastula gastrula development fig 
+developmental biology 
+dicer maso 24nm control dicer maso 24nm control 
+catenin wnt8 pmar hesc delta notch gcm foxa nodal bmp2 spec1 wnt16 dynein cyclina collagen ncam1 arf6 taf7 cyiib rhogap kif3a gelsolin rask 
+mrna level drosha maso normalize control log2 
+17h 24h 
+mirnas regulate broad gene set 
+embryo hpf immunolabeled endo1 meso1 monoclonal antibody identify cell type speciﬁc differentiation marker endoderm mesoderm respectively 
+scale bar 
+qpcr measurement mrna level molecule mediate transcript regulation cell signal cell adhesion cell movement cell proliferation 
+qpcr result independent biological experiment measure embryo respectively 
+elegans total mirnas express zygote presumably maternally deposit great change mirna dynamic occur around time gastrulation stoeckius 
+the majority zebraﬁsh mirnas also express gastrulation segmentation stage hpf tissue speciﬁc manner wienholds 
+zebraﬁsh mirnas may essential early fate decision rather think function pattern maintenance tissue identity wienholds plasterk wienholds 
+our data suggest mirnas play central role early cell fate decision sea urchin embryo 
+this hypothesis support observe early embryonic lethal phenotype upon inhibition novo synthesis drosha dicer sea urchin embryo 
+zebraﬁsh mutant maternal zygotic dicer knock embryos displayed defect gastrulation result embryos defective brain morphogenesis heart development giraldez 
+partial rescue brain developmental defect achieve addition abundant zebraﬁsh mirnas mir family giraldez 
+the mir family early express mirna express onset embryonic transcription hpf show function clear maternal mrna pool early embryo giraldez 
+similar role speciﬁc mirnas maternal zygotic transition observe drosophila melanogaster bushati xenopus lund 
+our drosha knockdown rescue experiment combination mirnas suggest maternally express mir may particularly important developmental process prior blastulation fig 
+moreover rescue mirnas complete show zebraﬁsh mir giraldez 
+previous study demonstrate mouse embryonic stem cell deﬁcient dicer viable fail differentiate vitro vivo thus indicate mirnas involve establishment differentiate cell state 
+therefore establishment 
+maintenance differentiate cell state may conserve function mirnas deuterostome lineage kanellopoulou 
+the best computational tool predict mirna target sequence scan mrna utrs short motif complementary nucleotide mirna krek lewis 
+for conﬁdent target prediction tool incorporate sequence conservation relatively closely related specie search unfortunately available purpuratus genome 
+nevertheless scan available utrs sea urchin transcriptome samanta sequence complementary nucleotide mirna seed sequence within regulatory gene active early embryogenesis fig 
+further experimental testing need test direct regulation speciﬁc mirnas potential gene target 
+interest conduct bioinformatic analysis well annotate utr sequence become available number sea urchin sister specie 
+give identiﬁcation dynamically express embryonic mirnas functional requirement protein involve mirna biogenesis data indicate post transcript regulation mirnas essential developmental mechanism early sea urchin embryo 
+our result consistent previous report different sea urchin specie hemicentrotus pulcherrimus exhibit dose dependent severity developmental defect dicer knockdown okamitsu 
+silico vitro experiment show single mirna regulate many hundred target various level efﬁcacy baek krek lewis selbach 
+thus possible certain mirnas dominate regulatory landscape development 
+this conclusion support rescue experiment abnormal morphology associate mirna reduction obviate supply four abundant mirnas spumir early embryo mir alone may control key node early developmental process prior blastula stage 
+this result suggest mirnas may 
+percent normal development relative control dsdsrrn ad1 sld1d scrsld3 rsnrd13 nrasddddddn1 rrrrrranra 17oooooo a13nssssss171 35hhhhhh1ac3 5aaaaaao5 3o0t2 mmmmmmr37n103taaaaaao75r2l17ssssss5o251l11oooooo36663112000222222266nnnnn44444400nnnnnnnmmnmmmmmmmmmmm 
+developmental biology 
+regulatory network contributes cell fate decision speciﬁcation sea urchin embryo 
+detailed examination functional role mirnas sea urchin embryo likely yield insight ancient conserve function mirnas early development throughout deuterostome taxon 
+the comparably small total number mirnas lack redundancy multiple mirna family sea urchin make attractive model examine function single mirnas embryogenesis fig 
+table campo paysaa wheeler 
+addition transcript network directs sea urchin development well understood davidson oliveri davidson thus provide strong framework interpret function single mirnas 
+material method 
+drosha maso dsrna160nm 
+scale bar fig 
+four mirnas rescue developmental defect drosha loss function 
+embryos inject drosha maso without exogenous dsrnas 
+barplots depict percentage normal embryos experimental treatment relative percentage normal embryo mock inject control hpf 
+drosha knockdown embryos complement dsrna duplex mir dsrna negative control nci 
+injection dsrna alone cause developmental defect data show 
+total number inject embryo 
+embryo drosha knockdown complemented dsrna duplex develop normal larva 
+important regulator within gene regulatory network directs early developmental signaling pathway essential proper early embryogenesis 
+conclusion our result support hypothesis mirnas essential early embryogenesis 
+this study suggest ﬁrst time posttranscriptional regulation mirnas integral part gene 
+deep sequence small rna total rna extract ovary egg cell stage hpf blastula hpf gastrula hpf pluteus hpf stage trizol invitrogen carlsbad accord manufacturer instruction follow modiﬁcations sample initially extract chloroform several time aqueous phase free visible protein rnas precipitate overnight 
+small rna size select urea polyacrylamide gel 
+sequence library sample prepared monophosphate dependent clone protocol illumina dge small rna illumina inc sequence genome analyzer illumina 
+obtain total million sequence read per sample 
+mirnas annotate use mirdeep2 friedländer friedländer mirbase version 
+computational analysis sequence small rna libraries the six sequence small rna library clip map parallel use mapper module mirdeep2 friedländer 
+speciﬁcally read parse fasta format adapter clip search perfect match ﬁrst six nucleotide adapter sequence start position read 
+match ﬁrst six nucleotide nt adaptor find give read match ﬁrst ﬁve nt last ﬁve nt read identiﬁed match ﬁrst four nt last four nt read etc 
+split clip read annotation map reference database use annotation hierarchy berninger mirna mrna trna rrna unknown 
+identify mirna read map 
+percent normal embryo control maso drosha rddsnds arr rndd1sn ssnd arr d33 sndr1snnd111s arsnaar ndda1r3n77377 ssnda1na1 sdddddddddddddddarr rrrrrrrrrrrrrrra3 nnooooooooooooooo11122222222sssssssssssssssnaa0 hhhhhhhhhhhhhhha171711111371 73aaaaaaaaaaaaaaa212212222112111kkkkkkkkkkkkkkkddddddddddddddd 
+mir rescue signiﬁcant drosha knockdown phenotype 
+single combination dsrnas correspond mir dicer substrate coinjected drosha maso newly fertilize egg 
+the percentage normal abnormal embryo exclude dead embryo tabulate hpf 
+two independent biological experiment conduct 
+developmental biology 
+purpuratus mirna precursor mirbase version three novel precursor friedländer 
+identify mrna read map genecds cod sequence spbase http sugp caltech edu spbase download 
+identify trna read analyze spurv2 genome trnascan use default eukaryotic parameter map predict trna sequence 
+identify rrna read map purpuratus 18 28 rrna sequence obtain genbank benson 
+last read map spurv2 genome map annotation label unkown 
+read map bowtie langmead option best stratum 
+use stringent procedure successfully map clipped read six datasets correspond million read 
+even though read may map incomplete state genome assembly number comparable previous small rna study 
+mayr bartel persson show consistent high quality data 
+annotate pirnas follow way read map genome map exist annotation unknown read pool across sample 
+use custom ruby script identiﬁed instance two read overlap opposite genomic strand end overlap exactly ten nucleotide 
+since overlap perfect accordance ping pong model pirna biogenesis annotate read pair pirnas 
+microinjection approach morpholino antisense oligonucleotides maso dicer drosha dgcr8 order genetools philomath 
+the maso sequence dgcr8 acacggtatggcagccactggaaca drosha taccggatcattgctacacgtcaca dicer ggactcgatggtggctcatccattc3 use experiment present dicer5utr gtaccagaactctgaaagatagcaa3 demonstrate phenotype ﬁrst data show 
+standard control morpholino cctcttacctcagttacaatttata3 purchase genetools philomath 
+microinjections perform previously describe cheer ettensohn modiﬁcations 
+maso oligos resuspend sterile water heat min prior use 
+injection solution contain sterile glycerol texas red lysine charge dextran molecular probe carlsbad vary concentration speciﬁc masos 
+egg purpuratus collect inject animal kcl induce spawn 
+egg dejellied acidic sea water min ice follow sea water wash 
+dejellied egg row onto protamine sulfate coat petri dish 
+egg fertilize sperm presence amino triazol sigma louis 
+injection perform use femto jet injection system eppendorf hamberg germany 
+injection needle 1x90mm glass capillary ﬁlaments narashige tokyo japan pull vertical needle puller narishige 
+the injection solution calculate base injection bolus egg diameter 
+the volume injection bolus calculate used determine μmoles inject morpholino 
+the ﬁnal concentration inject morpholino determine divide μmol inject morpholino volume egg calculate radius 
+drosha dgcr8 dicer knockdown abnormal phenotype deﬁned either embryos delayed development lack gastrulation limit gut formation vacuolarization blastocoel 
+dicer drosha dgcr8 maso inject embryos image zeiss axioplan microscope carl zeiss incorporation thorwood orca ccd camera hammamatsu corporation bridgewater 
+real time quantitative pcr mirnas taqman mirna primer spu mir spu mir use real time quantitative pcr 
+total rna prepare dicer drosha maso inject embryos hpf use mirvana mirna isolation kit apply biosystems foster city isolate small rna accord manufacturer instruction fig 
+total rna resuspend nuclease free water 
+cdna prepare total rna use taqman kit apply biosystems foster city 
+reverse transcription conduct accord taqman microrna kit reaction tube contain one single custom design primer 
+qpcr conduct accord taqman microrna assay protocol apply biosystems foster city 
+the value dicer masoinjected embryos normalized mock inject embryos δct value 
+two separate experiment conduct replicates 
+multiplex reverse transcription step perform detect spu mir spu mir spu mir34 spu mir251 ubiquitin expression level egg cell stage embryo fig 
+total small rna population isolate egg embryos use mirvana mirna isolation kit apply biosystems foster city 
+each reverse transcription reaction consist taqman primer oligo stock small rna total rna dntps multiscribe reverse transcriptase buffer rnase inhibitor 
+the qpcr reaction contains cdna taqman microrna assay universal master mix total reaction 
+qpcr conduct use real time fast pcr cycler system apply biosystems foster city 
+data normalize internal control ubiquitin 
+data present fold change egg sample 
+real time quantitative pcr mrna embryos various time point collect total rna extract use qiagen microrneasy kit accord manufacturer instruction qiagen inc valencia 
+cdna ampliﬁed use taqman reverse transcription reagent kit apply biosystems foster city 
+qpcr perform use realtime pcr cycler system apply biosystems foster city 
+two embryo equivalent use qpcr reaction syber green pcr master mix invitrogen 
+qpcr primer design use primer3 program rozen skaletsky table 
+result ﬁrst normalize ubiquitin level express fold difference compare uninjected embryo 
+independent biological experiment replicates conduct 
+double strand mirna rescue duplex synthetic double strand rna duplex integrate dna technology inc coralville design four abundant mirnas obtain deep sequencing data spumir spu mir spu mir spu mir 
+dicer substrate negative dsrna control nc1 purchase idt integrated dna technology inc coralville 
+double strand rna duplex design base idt protocol dicer substrates idtdna 
+dsrna duplex resuspend sterile nuclease free water make stock solution store aliquot 
+northern blot test pirna candidate perform northern blot analysis describe previously lagos quintana 
+total rna use per sample 
+equal loading transfer determine methylene blue 
+since select pirna candidate 
+developmental biology 
+low abundance image plate expose one week 
+picture obtain image plate reader process adobe illustrator 
+immunological procedure dicer knockdown embryos ﬁxed either paraformaldehyde min room temperature follow min methanol endo1 stain wessel mcclay dicer methanol meso1 stain wessel mcclay follow pbst wash 
+fix embryo block goat serum sigma louis pbstween room temperature incubate polyclonal dicer monoclonal endo1 meso1 antibody overnight washed time pbs contain tween pbst follow incubation goat anti rabbit alexa flour conjugate antibody invitrogen goat anti mouse cy3 conjugate antibody invitrogen room temperature block buffer 
+the embryo wash time pbst incubate hoechst molecular probe carlsbad stock dilution dna label 
+immunolabeled embryo image lsm laser scan confocal microscope carl zeiss inc thornwood 
+dicer antibody generation puriﬁcation antiserum raise rabbit middle amino acid gsqsqf vidtwd carboxyl end amino acid kqpapa ksqpkk purpuratus dicer fuse 6xhis tag use ptat vector generous gift steven dowdy 
+cell extract prepare describe previously follow modiﬁcations leguia 
+the fusion construct transform bl21 cell overexpression 
+clone overexpressing fusion protein identiﬁed sds page immunoblot analysis protein extract use anti hi monoclonal antibody dilute 
+bl21 clone contain dicer construct grow overnight culture 
+large scale culture protein puriﬁcation prepare overnight culture dilute broth ampicillin follow addition iptg bacterial pellet resuspend buffer urea nacl hepes contain imidazole lysed sonic prior puriﬁcation probond nta agarose column invitrogen carlsbad accord manufacturer instruction 
+lysates dialyze water overnight lyophilize 
+immunogen freund adjuvant inject three booster shots new zealand white rabbit 
+the dicer antibody afﬁnity puriﬁed 
+dicer protein elute buffer contain imidazole concentrate centricon column accord manufacturer instruction millipore billerica follow immobilization dicer protein pierce aminolink plus immobilization kit thermofisher scientiﬁc rockford 
+rabbit serum contain dicer antibody puriﬁed elute tris buffer glycine 
+afﬁnity puriﬁed antibody dicer middle region recombinant protein use immunocytochemistry western blotting 
+western blot embryo prepare resuspend pellet embryo heat sds sample load buffer boil dtt roche min 
+sample store run sds page gel immediately 
+sample load onto trisglycine gradient gel invitrogen transfer nitrocellulose pall corporation pensacola 
+western blot probe afﬁnity puriﬁed dicer antibody blotto 
+dry milk nacl tris tween20 overnight follow incubation secondary antibody goat antirabbit hrp jackson immunoresearch laboratories west grove dilute blotto room temperature 
+signal detect use supersignal west femto maximum sensitivity substrate thermo scientiﬁc rockford accord manufacturer instruction 
+quantitation dicer protein knockdown fig 
+perform quantify normalize intensity band equal number embryos dicer maso inject embryo control 
+the pixel intensity within linear range detection determine metamorph software molecular device inc sunnyvale 
+sequence raw data repository sequence deposit geo gene expression omnibus sra short read archive 
+supplementary material related article find online doi ydbio 
+compete interest statement the author declare compete ﬁnancial interest 
+acknowledgement thank member wessel rajewsky lab important discussion 
+this work fund grant nih award gmw nrsa award jls well start fund university delaware jls 
+acknowledges fund bimsb nyu phd program 
+reference aravin gaidatzis pfeffer lagos quintana landgraf iovino morris brownstein kuramochi miyagawa nakano chien russo sheridan sander zavolan tuschl 
+novel class small rna bind mili protein mouse testis 
+baek villen shin camargo gygi bartel 
+the impact micrornas protein output 
+micrornas target recognition regulatory function 
+ben tabou leon davidson 
+experimentally base sea urchin gene regulatory network causal explanation developmental phenomenology 
+wiley interdiscip 
+benson karsch mizrachi lipman ostell wheeler 
+genbank update 
+nucleic acid re 
+d23 d26 
+berninger gaidatzis van nimwegen zavolan 
+computational analysis small rna clone data 
+brennecke aravin stark dus kellis sachidanandam hannon 
+discrete small rna generate loci master regulator transposon activity drosophila 
+brodersen voinnet 
+revisit principle microrna target recognition mode action 
+cell biol 
+bushati stark brennecke cohen 
+temporal reciprocity mirnas target maternal zygotic transition drosophila 
+byrum bince mcclay wikramanayake 
+block dishevel signal noncanonical wnt pathway sea urchins disrupts endoderm formation spiculogenesis secondary mesoderm formation 
+campo paysaa semon cameron peterson schubert microrna complement deuterostomes origin evolution micrornas 
+cheer ettensohn 
+rapid microinjection fertilize egg 
+method cell biol 
+christodoulou raible tomer simakov trachana klaus snyman hannon bork arendt 
+ancient animal micrornas evolution tissue identity 
+davidson rast oliveri ransick calestani yuh minokawa amor hinman arena mena otim brown livi lee revilla schilstra clark rust pan arnone rowen cameron mcclay hood bolouri 
+provisional regulatory gene network speciﬁcation endomesoderm sea urchin embryo 
+developmental biology 
+duboc rotting besnardeau lepage 
+nodal bmp2 signal organizes oral aboral axis sea urchin embryo 
+fabian sonenberg filipowicz 
+regulation mrna translation stability micrornas 
+flower courteau poustka weng venuti 
+nodal activin signal establishes oral aboral polarity early sea urchin embryo 
+friedländer chen adamidi maaskola einspanier knespel rajewsky 
+discover micrornas deep sequence data use mirdeep 
+friedländer mackowiak chen rajewsky mirdeep2 accurately identiﬁes know hundred novel microrna gene seven animal clade 
+nucleic acid re 
+sep electronic publication ahead print 
+friedman farh burg bartel 
+most mammalian mrna conserve target micrornas 
+genome re 
+fukagawa nogami yoshikawa ikeno okazaki takami nakayama oshimura 
+dicer essential formation heterochromatin structure vertebrate cell 
+cell biol 
+ghildiyal zamore 
+small silence rnas expand universe 
+giraldez cinalli glasner enright thomson baskerville hammond bartel schier 
+micrornas regulate brain morphogenesis zebraﬁsh 
+girard sachidanandam hannon carmell 
+germline speciﬁc class small rna bind mammalian piwi protein 
+grivna beyret wang lin 
+novel class small rna mouse spermatogenic cell 
+gene dev 
+gunawardane saito nishida miyoshi kawamura nagami siomi siomi 
+slicer mediate mechanism repeat associate sirna end formation drosophila 
+guo ingolia weissman bartel 
+mammalian micrornas predominantly act decrease target mrna level 
+han lee yeom nam heo rhee sohn cho zhang kim 
+molecular basis recognition primary micrornas drosha dgcr8 complex 
+heimberg sempere moy donoghue peterson 
+micrornas advent vertebrate morphological complexity 
+hendrickson hogan mccullough myers herschlag ferrell brown 
+concordant regulation translation mrna abundance hundred target human microrna 
+plo biol 
+houwing kamminga berezikov cronembold girard van den elst filippov blaser raz moens plasterk hannon draper ketting 
+role piwi pirnas germ cell maintenance transposon silence zebraﬁsh 
+juliano voronina stack aldrich cameron wessel 
+germ line determinant localize early sea urchin development accumulate small micromere lineage 
+juliano yajima wessel 
+nanos function maintain fate small micromere lineage sea urchin embryo 
+kanellopoulou muljo kung ganesan drapkin jenuwein livingston rajewsky 
+dicer deﬁcient mouse embryonic stem cell defective differentiation centromeric silence 
+gene dev 
+krek grun poy wolf rosenberg epstein macmenamin piedade gunsalus stoffel rajewsky 
+combinatorial microrna target prediction 
+lagos quintana rauhut lendeckel tuschl 
+identiﬁcation novel gene cod small express rna 
+langmead trapnell pop salzberg 
+ultrafast memory efﬁcient alignment short dna sequence human genome 
+genome biol 
+lee risom strauss 
+evolutionary conservation microrna regulatory circuit examination microrna gene complexity conserve micrornatarget interaction metazoan phylogeny 
+dna cell biol 
+lee ahn han choi kim yim lee provost radmark kim kim 
+the nuclear rnase iii drosha initiate microrna processing 
+leguia conner berg wessel 
+synaptotagmin involve regulation cortical granule exocytosis sea urchin 
+lewis burg bartel 
+conserve seed pair often ﬂanked adenosine indicate thousand human gene microrna target 
+logan miller ferkowicz mcclay 
+nuclear beta catenin require specify vegetal cell fate sea urchin embryo 
+lund liu hartley sheet dahlberg 
+deadenylation maternal mrna mediate mir xenopus laevis embryo 
+mayr bartel 
+widespread shorten utrs alternative cleavage polyadenylation activate oncogene cancer cell 
+nakagawa shi kage nakadai mitani xue 
+caspase dependent conversion dicer ribonuclease death promote deoxyribonuclease 
+niwa slack 
+the evolution animal microrna function 
+okamitsu yamamoto fujii ochiai sakamoto 
+dicer require normal development sea urchin hemicentrotus pulcherrimus 
+oliveri carrick davidson 
+regulatory gene network directs micromere speciﬁcation sea urchin embryo 
+oliveri davidson 
+gene regulatory network control embryonic speciﬁcation sea urchin 
+oliveri davidson mcclay 
+activation pmar1 control speciﬁcation micromeres sea urchin embryo 
+pauli rinn schier 
+non cod rnas regulator embryogenesis 
+persson kvist vallon christersson medstrand borg rovira 
+the non cod rna multidrug resistance link vault particle encode multiple regulatory small rna 
+cell biol 
+peter davidson 
+gene regulatory network control embryonic speciﬁcation endoderm 
+peterson dietrich mcpeek 
+micrornas metazoan macroevolution insight canalization complexity cambrian explosion 
+rajewsky microrna target prediction animal 
+micrornas operon paper 
+ransick davidson ci regulatory processing notch signal input sea urchin glial cell miss gene mesoderm speciﬁcation 
+revilla domingo oliveri davidson 
+miss link sea urchin embryo gene regulatory network hesc double negative speciﬁcation micromeres 
+rodriguez seipel hamill romancino suprenant bonder 
+seawi sea urchin piwi argonaut family member component rnp complex 
+rouget papin boureux meunier franco robin lai pelisson simonelig 
+maternal mrna deadenylation decay pirna pathway early drosophila embryo 
+rozen skaletsky 
+primer3 www general user biologist programmer 
+method mol 
+saito nishida mori kawamura miyoshi nagami siomi siomi 
+speciﬁc association piwi rasirnas derive retrotransposon heterochromatic region drosophila genome 
+gene dev 
+samanta tongprasit istrail cameron davidson stolc 
+the transcriptome sea urchin embryo 
+selbach schwanhausser thierfelder fang khanin rajewsky 
+widespread change protein synthesis induce micrornas 
+sempere cole mcpeek peterson 
+the phylogenetic distribution metazoan micrornas insight evolutionary complexity constraint 
+sherwood mcclay 
+lvnotch signal mediates secondary mesenchyme speciﬁcation sea urchin embryo 
+stark brennecke bushati russell cohen 
+animal micrornas confer robustness gene expression signiﬁcant impact utr evolution 
+stark bushati jan kheradpour hodges brennecke bartel cohen kellis 
+single hox locus drosophila produce functional micrornas opposite dna strand 
+gene dev 
+stoeckius maaskola colombo rahn friedlander chen piano rajewsky 
+large scale sort elegans embryos reveals dynamic small rna expression 
+sweet gehring ettensohn 
+lvdelta mesoderm induce signal sea urchin embryo endow blastomeres organizer like property 
+sweet hodor ettensohn 
+the role micromere signal notch activation mesoderm speciﬁcation sea urchin embryogenesis 
+tyler okamura chung hagen berezikov hannon lai 
+functionally distinct regulatory rna generate bidirectional transcription processing microrna locus 
+gene dev 
+vagin sigova seitz gvozdev zamore 
+distinct small rna pathway silence selﬁsh genetic element germline 
+watanabe takeda tsukiyama mise okuno sasaki minami imai 
+identiﬁcation characterization two novel class small rna mouse germline retrotransposon derive sirnas oocyte germline small rna testis 
+gene dev 
+wessel mcclay 
+sequential expression germ layer speciﬁc molecule sea urchin embryo 
+wheeler heimberg moy sperling holstein heber peterson 
+the deep evolution metazoan micrornas 
+wienholds kloosterman miska alvarez saavedra berezikov bruijn horvitz kauppinen plasterk 
+microrna expression zebraﬁsh embryonic development 
+wienholds plasterk 
+microrna function animal development 
+feb lett 
+wikramanayake peterson chen huang bince mcclay klein 
+nuclear beta catenin dependent wnt8 signal vegetal cell early sea urchin embryo regulate gastrulation differentiation endoderm mesodermal cell lineage 
+xie kulbokas golub mootha lindblad toh lander kellis 
+systematic discovery regulatory motif human promoter utrs comparison several mammal 
+zhang kolb brondani billy filipowicz 
+human dicer preferentially cleave dsrnas terminus without requirement atp 

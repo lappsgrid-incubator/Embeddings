@@ -1,0 +1,421 @@
+Tectonophysics 731–732 (2018) 172–180
+Contents lists available at ScienceDirect
+Tectonophysics
+journal homepage: www.elsevier.com/locate/tecto
+
+Constraints on fault and crustal strength of the Main Ethiopian Rift from
+formal inversion of earthquake focal mechanism data
+Ameha A. Muluneha,*, Tesfaye Kidanea,b, Giacomo Cortic, Derek Keird,e
+a School of Earth Sciences, Addis Ababa University, Addis Ababa, Ethiopia b School of Agricultural, Earth and Environmental Sciences, University of KwaZulu-Natal, Durban, South Africa c CNR, Istituto di Geoscienze e Georisorse, UOS Firenze, Firenze, Italy d National Oceanography Centre, University of Southampton, Southampton, UK e Dipartimento di Scienze della Terra, Università degli Studi di Firenze, Florence, Italy
+
+T
+
+ARTICLE INFO
+Keywords: Main Ethiopian Rift Strong upper crust Friction coeﬃcient Shear strength Brittle-ductile transition
+
+ABSTRACT
+We evaluate the frictional strength of seismogenic faults in the Main Ethiopian Rift (MER) by inverting the available, well-constrained earthquake focal mechanisms. The regional stress ﬁeld is given by − 119.6°/77.2°, 6.2°/7.6°, and 97.5°/10.2° for trend/plunge of σ1, σ2 and σ3, respectively agrees well with previous fault kinematic and focal mechanism inversions. We determine the coeﬃcient of friction, μ, for 44 seismogenic faults by assuming the pore pressure to be at hydrostatic conditions. Slip on 36 seismogenic faults occurs with μ ≥ 0.4. Slip on the remaining eight faults is possible with low μ. In general, the coeﬃcient of friction in the MER is compatible with a value of μ of 0.59 ± 0.16 (2σ standard deviation). The shear stresses range from 16 to 129 MPa, is similar to crustal shear stress observed in extensional tectonic regimes and global compilations of shear stresses from major fault zones. The maximum shear stress is observed in the ductile crust, below the seismologically determined brittle-ductile transition (BDT) zone. Below the BDT, the crust is assumed to be weak due to thermal modiﬁcation and/or high pore ﬂuid pressure. Our results indicate linearly increasing μ and shear stress with depth. We argue that in the MER upper crust is strong and deforms according to Coulomb frictionalfailure criterion.
+
+1. Introduction
+Thorough understanding of the regional stress ﬁeld is of paramount importance in constraining the strength of faults and the crust along actively deforming plate boundaries. In general, fault zones are relatively weaker than the surrounding stable crust (Zoback et al., 1987). However, there are still questions regarding whether the strength of individual faults in a deformed region is the same or varies, and also whether the strength of the fault varies along strike on the same fault. In a recent study, Floyd et al. (2016) showed that the frictional parameters of a fault may vary over only a few kilometers distance depending on lithological controls. Fault strength varies not only spatially but also temporally. By reviewing about 300 experimental results, Di Toro et al. (2011) suggested that the strength of faults could be reduced during earthquakes.
+Coeﬃcient of friction, μ, can be used as a proxy to model the strength of faults and crust. Laboratory estimates of μ are usually high, ranging from 0.6 to 0.8 (Byerlee, 1978) although lower μ values are reported (using rotary shear apparatus) from the San Andreas fault
+
+(e.g., Carpenter et al., 2015). Some researchers argue that if these μ values really exist during seismic slip, we should have found high heat ﬂow and extensive melting (e.g. pseudotachilite) along exhumed faults (e.g., Mulargia and Bizzarri, 2016). The apparent absence of these rock types is used to argue that coeﬃcient of friction is lower than laboratory estimates. In line with this, numerical modeling studies in active tectonic areas, e.g. in East African Rift (EAR) (Bird et al., 2006), argue that the friction coeﬃcient is much lower than the laboratory estimates. This agrees with recent laboratory experiment that found μ to be below 0.4 under pressure condition equivalent to a depth of ∼15 km (Di Toro et al., 2011).
+Mulargia and Bizzarri (2016) proposed a multi-stage earthquake process which involves a high friction coeﬃcient with μ ∼ 0.7 during the ﬁrst stage. The high friction stage induces high temperature that almost immediately induces ﬂuid pressurization and reduces the permeability of fault gouges and subsequently the pore pressure reaches lithostatic state. In this case, μ drops to ∼0.2. Other, equally important fault lubrication mechanisms include melt lubrication (Di Toro et al., 2006), geliﬁcation (Di Toro et al., 2004) and decarbonation (Han et al.,
+
+* Corresponding author. E-mail address: ameha.atnafu@aau.edu.et (A.A. Muluneh).
+https://doi.org/10.1016/j.tecto.2018.03.010 Received 26 September 2017; Received in revised form 18 February 2018; Accepted 16 March 2018 Available online 23 March 2018 0040-1951/ © 2018 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY license (http://creativecommons.org/licenses/BY/4.0/).
+
+A.A. Muluneh et al.
+
+Tectonophysics 731–732 (2018) 172–180
+
+Fig. 1. Location map of the Main Ethiopian Rift (MER). (a) The main map of the study area with inset showing map of Africa. The white circles are earthquake epicenters determined by EAGLE network for a period of 2001–2003 (Keir et al., 2006). The size of the circles is scaled to their magnitudes. The red triangles are active volcanic centers. (b) Histogram of the number of earthquakes per 1 km depth bin interval. BDT shows the depth to brittle-ductile transition at 16 km where 90% of seismicity occurs. MER = Main Ethiopian Rift. (For interpretation of the references to color in this ﬁgure legend, the reader is referred to the web version of this article.)
+
+2010), which are also proposed for the reduction of μ during seismic slip.
+Stamps et al. (2015) argue that buoyancy forces, weak continental faults and Couette-type mantle ﬂow in the asthenosphere explain extension across the EAR. In that study, weak fault friction results in better ﬁt between geodynamic model and present-day geodetic observations in Africa (Saria et al., 2014).
+In the Main Ethiopian Rift (MER) (Fig. 1), the crust and faults are assumed to be weakened by hotspot tectonics over the last ∼30 Ma (e.g., Pik et al., 2006), including ongoing dyke intrusion (e.g., Keranen et al., 2009; Wright et al., 2006; Beutel et al., 2010). We constrain the coeﬃcient of friction and stress magnitudes in the actively deforming MER. Our approach is that ﬁrst we invert the focal mechanisms and follow basic assumptions of ﬁnding the shear and normal stresses using tensor transformation, acting on optimally oriented seismogenic faults and subsequently determine the coeﬃcient of friction, μ. Our results show spatial variation of μ along the strike of the MER and the shear stress variation in the crust. The results presented will contribute to the understanding of the stress magnitude at the earthquake focal depths where in situ measurements are totally absent and the frictional strength of MER faults and crust.
+2. Tectonic setting, focal mechanism data and regional stress ﬁeld
+2.1. Tectonics of the Main Ethiopian Rift
+The Main Ethiopian Rift forms an active plate boundary between the Africa (Nubia) and Somalia plates in the northern EAR. Starting from ∼18 Myrs, the MER is thought to have initiated asynchronously along its length (Wolfenden et al., 2004). The asynchronous development of the diﬀerent sectors of the rift potentially inﬂuences the melt production and strain accommodation mechanisms (Keir et al., 2015; Muluneh et al., 2017). The MER orientation is inﬂuenced by the Neoproterozoic, Pan-African suture zone that runs through Ethiopia, and signiﬁcantly inﬂuences the orientation of faults (e.g., Agostini et al., 2011), seismic anisotropy (e.g., Gashawbeza et al., 2004) and also crustal thickness (e.g., Keranen and Klemperer, 2008). During the past ∼2 Myrs, deformation in the northern MER focused along 20 km-wide, 60 km-long
+
+magmatic segments arranged in an en echelon manner within midMiocene half-graben basin (Ebinger and Casey, 2001). The transfer of strain from border faults to the magmatic segments could be due to rift obliquity (Corti, 2008), weakening of the crust by release of magmatic ﬂuids (Muirhead et al., 2016), or by localizing extensional stresses in strong crust within the rift in which the increase in the rock strength is due to metamorphic reactions in rocks intruded by ascending magmas (Lavecchia et al., 2016), and/or by solidiﬁcation of new maﬁc material (e.g., Beutel et al., 2010).
+2.2. Earthquake focal mechanism data
+Earthquake data from the EAGLE catalogue (Keir et al., 2006) for the period 2001 to 2003 (Fig. 1a & b) shows that seismicity continues to the depth of 28 km with magnitude ML 0.0 to 4 (Fig. 1a & b). We assume that the depth to the brittle-ductile transition (BDT) occurs at a depth of 16 km, above which 90% of seismicity occurs (Fig. 1b). This depth also coincides with the average depth to the base of the upper crust in the MER (Maguire et al., 2006).
+We compiled 55 well determined earthquake focal mechanisms from CMT catalogues and published sources (Fig. 2a) (Ayele, 2000; Hofstetter and Beyth, 2003; Ayele et al., 2006; Keir et al., 2006; Delvaux and Barth, 2010; Wilks et al., 2016) in the MER. Fig. 2b shows hypocentral depth of the focal mechanisms compiled and only two mechanisms are located in the lower crust. The focal mechanism data are strike, dip and rake of the fault planes. Most of the studies reported the fault planes except for Hofstetter and Beyth (2003) who reported both the auxiliary and interpreted fault planes. Distinction between fault and auxiliary planes is based on orientation of fault traces on the surface. Planar faults tend to have linear fault traces on the Earth's surface whereas listric fault planes tend to be arcuate in plan view and listric in 3-D with alternating and overlapping half grabens that change polarity along strike (Rosendahl, 1987). In the MER, the observed faults on the surface are linear segments with steep fault plane that led us to conclude that they continue to be planner at depth. In cases when multiple mechanisms for a single earthquake is reported, we use the most recent publication. The largest focal mechanism dataset comes from Keir et al. (2006) (33 out of 55 mechanisms) who assign a 2 sigma
+
+173
+
+A.A. Muluneh et al.
+
+Tectonophysics 731–732 (2018) 172–180
+
+Fig. 3. Result of stress tensor inversion using earthquake focal mechanisms in the MER. Circle, triangle and diamond symbols show σ1 (largest compressive stress), σ2 (intermediate), and σ3 (least compressive stress), respectively. The 95% conﬁdence level is estimated with bootstrap resampling (Michael, 1987). Inversion results in our study are shown by open symbols. Principal stresses from Delvaux and Barth (2010) using Delvaux and Sperner (2003) are shown by blue and using Michael (1984) by red ﬁled symbols. Black diamond symbol shows σ3 orientation from Keir et al. (2006). (For interpretation of the references to color in this ﬁgure legend, the reader is referred to the web version of this article.)
+
+Fig. 2. (a) Earthquake focal mechanisms compiled for this study scaled to the magnitude of events. (b) Depth of earthquake focal mechanisms is shown on (a). BF = border fault.
+uncertainty of ± 20° to the focal parameters and ± 2 km for the hypocentral depth. Most focal mechanisms show dip-slip movements along the faults and slip with dips > 50° similar to the dip of recently active faults in the rift (e.g., Agostini et al., 2011).
+2.3. Inversion method and regional stress ﬁeld
+The stress ﬁeld can be quantiﬁed by formally inverting a group of earthquake focal mechanisms or active fault data. A least square inversion technique is developed to invert a group of diverse earthquake mechanisms by assuming the regional stress ﬁeld is uniform (Michael, 1984). The inversion technique minimizes the diﬀerence between the slip vector and the resolved shear stress which can be used to assess the success of the inversion result. The resulting stress ﬁeld quantiﬁes the relative magnitude, ϕ, trend and plunge of principal stresses (σ1, σ2 and σ3; where σ1 ≥ σ2 ≥ σ3). We used the inversion method of Michael (1984, 1987) in order to estimate the regional stress ﬁeld of the MER. The conﬁdence region for the best ﬁt stress tensor is calculated using the bootstrap resampling method. To estimate the 95% conﬁdence limit
+
+we used 2000 repetitions (Michael, 1987). During the inversion process, we used the reported fault planes (Ayele, 2000; Ayele et al., 2006; Keir et al., 2006; Wilks et al., 2016) as they are. In cases when we encounter large angular misﬁt during the inversion process, we change the nodal plane until the misﬁt is reduced to an acceptable level. The nodal planes that reduce the angular misﬁt are the preferred fault planes (Michael, 1987). However, the individual misﬁt of each plane must be kept below 25° (Michael, 1991). Only two focal mechanisms show individual misﬁt of higher than 25° but below 30°. The observed regional stress ﬁeld is given by − 119.6°/77.2°, 6.2°/7.6°, 97.5°/10.2° for trend/plunge of σ1, σ2 and σ3 (Fig. 3; Table 1). The quality of the inversion result is measured by the β value; a misﬁt measure that deﬁnes the angle between the observed and predicted rake angles for the mechanisms (Michael, 1984). Our inversion results an average misﬁt, β , of 10.3° ± 7.6°. Although the inversion process suﬀers from the absence of diverse focal mechanisms, it results in similar trend and plunge of principal stress axes to other studies in the rift (e.g., Delvaux and Barth, 2010; Keir et al., 2006) and extension direction inferred from GPS observations (e.g., Saria et al., 2013). In addition, the focal mechanism dataset is a complete compilation of literature.
+Several studies have been conducted in order to compare diﬀerent inversion techniques (e.g., Kastrup, 2003; Delvaux and Barth, 2010). Irrespective of the methods used, the optimal solutions for the stress inversion are consistent and similar. Using 7 earthquake focal mechanism solutions from CMT catalogue in the MER, Delvaux and Barth (2010) conducted stress inversions using the method of Michael (1984, 1987) and Delvaux and Sperner (2003). They showed that the orientation of the principal stress axes is almost the same with signiﬁcant diﬀerence in stress ratio.
+2.4. Absolute stress magnitudes
+In areas where in-situ stress measurements are lacking, a number of
+
+174
+
+A.A. Muluneh et al.
+
+Tectonophysics 731–732 (2018) 172–180
+
+Table 1 Stress inversion results from earthquake focal mechanism data.
+
+# of fms
+
+σ1 tr/pl [°]
+
+σ2 tr/pl [°]
+
+σ3 tr/pl [°]
+
+β ± s.d. [°]
+
+τ ± s.d. [°]
+
+ϕ Reference
+
+44
+
+−119.6/77.2
+
+6.2/7.6
+
+97.5/10.2
+
+10.3 ± 7.6
+
+0.93 ± 0.2
+
+0.37
+
+This study
+
+7
+
+178/76
+
+029/13
+
+297/07
+
+–
+
+–
+
+0.57
+
+DB10
+
+7
+
+239/79
+
+024/09
+
+115/06
+
+–
+
+0.94 ± 0.19
+
+0.79
+
+DB10*
+
+36 –
+
+–
+
+283/06
+
+10.9 ± 7.0
+
+–
+
+– D06
+
+# of fms = number of focal mechanism solutions; tr/pl - trend/plunge of the principal stress axes; ϕ measures the relative size of principal stresses. τ ± s.d. - the average angular misﬁt with standard deviation. High standard deviation might be due to a non-diverse range of focal mechanisms (Keir et al., 2006). fms = focal mechanism solutions, DB10* = Delvaux and Barth (2010) using Michael (1984) method, DB10 = Delvaux and Barth (2010) using Delvaux and Sperner (2003) method; D06 = Keir et al. (2006).
+
+assumptions can be used to ﬁnd the absolute magnitude of principal stresses at the earthquake focal depths and later used to quantify the strength of the crust. In order to quantify the shear and normal stresses and later the coeﬃcient of friction, μ, on optimally oriented faults, information about the absolute magnitude of the principal stresses is required (Zoback, 1992). Earthquake focal mechanism inversion allows the determination of direction and relative magnitudes of principal stresses, σ1, σ2, and σ3. When one principal stress axis is oriented vertically (σ1 in extensional regime), its magnitude is given by the overburden weight (e.g., Zoback and Zoback, 2002)
+
+∫z
+σv = σ1 = 0 ρgdz ≈ ρgz
+
+(1)
+
+where ρ is the density of crustal material (taken here as 2800 kg/m3), g is acceleration due to gravity [∼10 m/s2] and z is the focal depth [m].
+
+Eq. (1) shows that σ1 increases in an approximately a linear fashion with depth.
+
+Based on limiting frictional strength of optimally oriented faults in
+
+the crust (e.g., Sibson, 1974; Zoback and Townend, 2001), the least
+
+compressive stress, σ3, can be estimated by
+
+σ1 − p0 σ3 − p0
+
+= [(μc2 + 1)1/2 + μc ]2
+
+(2)
+
+where p0 is the pore ﬂuid pressure which is assumed to be hydrostatic and is given by λ × σv where λ = 0.3737 (Albaric et al., 2009; Zoback, 1992; Fadaie and Ranalli, 1990); μc is a static frictional coeﬃcient ∼0.75 (Sibson, 1974; Jager and Cook, 1979) and is considered to re-
+
+present the regional value for absolute stress determination (Kastrup,
+
+2003). From Eq. (2), it is evident that p0 can not exceed σ3 without the occurrence of hydraulic fracturing, although λ values greater than 1 are
+
+possible without causing hydraulic fracturing if total principal stresses
+
+within the fault zone are magniﬁed due to contrasts in rheological
+
+( )properties (e.g., Rice, 1992).
+
+Inserting the
+
+μc value into θ
+
+=
+
+1 2
+
+tan−1
+
+1 μc
+
+,
+
+where θ is the angle σ1 makes with the fault plane, gives the dip angle of
+
+∼ 63° for optimally oriented normal faults (Sibson, 1974). This angle is
+
+the typical dip of normal faults (Agostini et al., 2011) and the inter-
+
+preted fault planes of earthquake focal mechanisms (Keir et al., 2006)
+
+(Fig. 4a & b) in the MER. Fig. 3 shows that σ1 is near-vertical and fulﬁlls the assumption of vertical maximum stress in order to determine ab-
+
+solute stress magnitude.
+
+Finally an additional constraint to the determination of absolute
+
+magnitudes is given by
+
+ϕ = σ2 − σ3 σ1 − σ3
+
+(3)
+
+in which ϕ value is independently determined from the inversion of earthquake focal mechanisms. Eqs. (1)–(3) are adequate to estimate the absolute magnitude of principal stresses.
+To get the normal (σn) and shear (τ) stresses on individual fault plane, we need to transform the stress tensor through tensor transformation (e.g., Allmendinger et al., 2012). To quantify the frictional strength of the faults, the ratio of τ to σṅ must be determined using the
+
+modiﬁed linear frictional sliding equation (Eq. (4)) where the cohesion is assumed to be close to zero (Zoback, 1992, and references therein)
+
+τ = μ (σn − p0) = μσṅ
+
+(4)
+
+where μ is considered to represent the frictional strength of the earthquake faults. We assume that the pore pressure to be hydrostatic and we vary μ to match the normal and shear stresses.
+
+3. Results and discussion
+
+3.1. Coeﬃcient of friction, μ
+
+The ratio of shear to eﬀective normal stresses give μ values on each
+
+fault (Fig. 5). Fig. 6a & b shows μ values plotted in the MER. We esti-
+
+mated the frictional parameters (μ, normal and shear stresses) for 44
+
+well constrained earthquake focal mechanisms in the MER. Earthquakes
+
+used in the this study together with calculated σn, τ and μ are included
+
+as a supplementary material to this paper.
+
+Most faults in the MER fail under high frictional stress with μ ≥0.3.
+
+A regression of all the μ values (Fig. 5) indicates the rift deforms ac-
+
+cording to laboratory-determined friction coeﬃcients (Byerlee, 1978).
+
+The average value for the crust is computed using
+
+∑iN=1 μi fi ∑iN=1 fi
+
+from dis-
+
+tribution of μ values on earthquake faults, where μi and fi are friction
+
+coeﬃcients and number of events, respectively. In general, the crust
+
+fails with μ of 0.59 ± 0.16 (2σ standard deviation). Box plot of μ values
+
+(Fig. 5) also fall within this range.
+
+An exception to the relatively high μ values for most of the data, is
+
+that six focal mechanisms have μ ranging from 0.21 to 0.3 (Fig. 7a).
+
+There are potentially several explanations for the low μ results. We
+
+observed a cluster of 3 earthquakes near the axis of the northernmost
+
+MER with μ < 0.3 (Fig. 7a). These earthquakes are spatially and tem-
+
+porally coincident with the intrusion of a dyke near Amoissa volcano
+
+during May 2000, and interpreted to be induced by stress change above
+
+the new intrusion (Keir et al., 2011). Two strike-slip faults of ML 1.4 and 1.55 beneath Fentale volcano make angles of 64° and 56° to σH, higher than the angle expected for reactivated strike-slip faults, and as a result
+
+slip with μ of 0.23 and 0.3, respectively. Weak faults such as the San
+
+Andreas Fault fail by creeping with small magnitude earthquakes (Mw ∼ 2) (Nadeau and Guilhem, 2009). The low frictional strength and low
+
+magnitude earthquakes might explain failure by creeping along the two
+
+strike-slip faults.
+
+An additional focal mechanism (Keir et al., 2006) with a selected
+
+nodal plane with a dip of 22° (selected during the inversion since this
+
+lowers the individual misﬁt to 6.8°) shows a μ of 0.21. The new dip
+
+angle deviates by ∼40° from optimally oriented normal faults (Fig. 4b)
+
+so that a lower μ is evident. Traditionally, normal faults with dip angle
+
+of < 30° were not thought to be able to lock and subsequently slip as
+
+earthquakes (Collettini et al., 2011), but emerging evidence of slip on
+
+low angle normal faults, e.g. in West Salton detachment faults (Prante
+
+et al., 2014) argues that low angle fault might slip through earthquakes.
+
+The geometry of this fault can be explained by very low μ, near
+
+175
+
+A.A. Muluneh et al.
+
+Tectonophysics 731–732 (2018) 172–180
+
+Fig. 4. (a) Histogram of the dips of focal mechanisms with unambiguously determined fault planes per 2° bin. (b) Deviation of the dip angles from optimal dip of fault for μ = 0.75. Lock-up angle of fault planes, 27° for μ = 0.75 is also shown. All, but one, fault planes are above the expected angle of ∼30° for reactivation of normal faults.
+
+Fig. 5. Shear stress vs eﬀective normal stress plot to estimate the coeﬃcient of friction, μ on each earthquake fault (circles). A linear ﬁt in the main map deﬁnes μ = 0.59 ± 0.16 (2σ standard deviation). A Tucky box plot in the inset shows a median value of 0.66 and the box outlines the upper and lower quartiles of 0.7 and 0.58, respectively.
+lithostatic pore pressure or some combination of the two. Middleton and Copley (2013) noted that slip on such low angle normal faults possibly occurs due to the presence of weak materials along the preexisting fault surface. Lower strength faults at shallower depth could be due to the presence of clay minerals along the fault surfaces and high temperatures near active magmatic centers, such as beneath Fentale and Amoissa volcanoes (e.g., Keir et al., 2011).
+The estimated μ for one mechanism at a depth of ∼19 km is ∼0.67 (Fig. 7a). The shear stress for the same mechanism is ∼70 MPa (Fig. 7b), lower than the maximum shear stress observed at the BDT (∼100 MPa) (Fig. 7b). In order for a slip to occur at higher μ and lower shear stress, the eﬀective normal stress should be low which in turn implies higher pore pressure at this depth. This hints that the pore pressure in the lower crust might be in super hydrostatic or lithostatic
+
+condition. Plotting the distribution of μ with depth (Fig. 7a) indicates that μ
+generally increases upwards from the BDT. Below the BDT, μ decreases from the maximum value but is still high (0.65–0.7). Fig. 7a shows μ values cluster in two zones. At 0–10 km depth, the crust is mainly characterized by μ of 0.2–0.4. Below 10 km up to 16 km, the crust is generally characterized by higher μ (∼0.6–0.75). The high μ (∼0.6) observed for MER faults is also supported by the agreement between P-, B-, and T-axes of the earthquake focal mechanisms and the regional stress ﬁeld (e.g., Keir et al., 2006). Zoback and Zoback (2002) argue that in regions for which μ ranges from 0.6 to 1, P-, B-, and T-axes approximate the average principal stress orientations.
+Our estimate of μ for the MER crust deviates signiﬁcantly from the frictional parameter inferred using numerical modeling studies in the EAR (Bird et al., 2006; Stamps et al., 2015). To produce a better ﬁt with observed plate scale separation of Somalia from Africa, low fault friction is required (Bird et al., 2006; Stamps et al., 2015). We argue that discrepancy between our results and numerical modeling studies might be due to the input and model parameters used in the numerical modeling studies.
+3.2. Frictional strength of the crust
+Maggi et al. (2000) questioned the popular view of continental strength proﬁles in which a weaker lower crust resides between stronger upper crust and mantle. Spatial variation in continental strength of the lithosphere is mainly controlled by the presence or absence of smaller amounts of water (Maggi et al., 2000). Topography and gravity ﬁeld analysis indicate that lithospheric stress is supported by upper crust overlying a weaker lower crust (Thatcher and Pollitz, 2008).
+Albaric et al. (2009) noted that the strength of lithosphere/crust can vary within the same tectonic setting. Even on a ﬁner scale, Floyd et al. (2016) showed how the along strike variation of rheological properties controls the frictional strength of a fault. Here we discuss the frictional strength of the MER crust based on shear stress magnitudes estimated at hypocentral depth. The shear stress magnitude varies from 16.2 to 129 MPa with an average value of 60 MPa similar to crustal-average shear stress of 56 MPa (e.g., Bird, 1999). Similar to μ values, the shear
+
+176
+
+A.A. Muluneh et al.
+
+Tectonophysics 731–732 (2018) 172–180
+
+Fig. 6. (a) Variation of μ values in the MER. Inset shows the histogram of μ values. (b) Zoom in of the open rectangle in (a) with tectono-magmatic segments shown by gray ﬁlled area (Wolfenden et al., 2004). The magmatic segments are characterized by higher μ (≥0.4) which could be due to melt-induced thermal metamorphism as shown by Lavecchia et al. (2016). However, low μ values are observed at or near active volcanic centers (red triangles). YTVL = Yerrer-Tullu Wellel Volcano-tectonic Lineament. (For interpretation of the references to color in this ﬁgure legend, the reader is referred to the web version of this article.)
+
+stress also show a lower value (∼20 MPa) above 10 km and ranges from 40 to 100 MPa between 10 and 16 km. One earthquake fault fails with a shear stress of 129 MPa (Fig. 7b), at ∼20 km depth, higher than friction controlled shear stress for the upper crust.
+The shear stress variation with depth seems inconsistent with models in which signiﬁcant decrease in strength occurs at the BDT (e.g., Chester, 1995) but rather shows an increase to a depth of ∼20 km, within the ductile, lower crust. This argument, however, is based on only one focal mechanism. A recent thermo-mechanical modeling study in the MER (Lavecchia et al., 2016) shows a transition from brittle to ductile rheology at a depth between 20 km and 25 km. On the other hand, geophysical studies show that the lower crust is weak (Keranen et al., 2009) and therefore the highest shear stress observed here might be due to the hydrostatic pore pressure imposed in our calculation.
+Fig. 7b shows that faults at depths shallower than the 10 km appear to be weaker than their equivalent at depth below 10 km. This agrees
+
+with the global compilation of stress-depth data (Behr and Platt, 2014) that middle crust sustains higher stress than the brittle faults above. Furthermore, the process that allows slip at lower shear stress (∼16–50 MPa, Fig. 7b) in the brittle crust terminates at 10 km depth probably due to higher temperature in the lower part of the upper crust.
+Our argument for strong crust and faults in the MER agrees well with the modeling studies in the region (Lavecchia et al., 2016; Beutel et al., 2010). Lavecchia et al. (2016) showed that the variations in mineral assemblages due to temperature increase during dyke intrusion and subsequent metamorphism locally increases the strength of the crust. This mainly occurs by changing weak minerals to strong minerals (Lavecchia et al., 2016). This agrees with the modeling results of Beutel et al. (2010) who noted an increase in the strength of the crust due to solidiﬁed maﬁc intrusions beneath magmatic segments. In regions of active magmatism and dyke intrusion where magma input is likely to be particularly high (i.e. near active volcanic centers), the crust appears to
+
+Fig. 7. (a) Coeﬃcient of friction and (b) shear stress magnitudes plotted at hypocentral depth. The gray shaded regions show where μ (a) and shear stress (b) cluster. Both parameters show sharp increase at a depth of 10 km. The dashed line at 16 km marks the BDT.
+177
+
+A.A. Muluneh et al.
+
+Tectonophysics 731–732 (2018) 172–180
+
+be weak as shown by lower μ values (Fig. 6b) in agreement with modeling studies in the EAR (e.g., Bialas et al., 2010; Daniels et al., 2014).
+The strong faults and crust inferred in our study directly inﬂuence kinematics of crustal blocks in the MER. Recent GPS study from EAR (e.g., Saria et al., 2014) shows signiﬁcant deviation in Nubia-Somalia motion from the stable parts of the plates and crustal blocks in the MER. This points to argument that strength of the faults and crust controls the surface kinematics of the MER.
+Strength of the faults and the crust are very sensitive to the pore ﬂuid pressure considered (Sibson, 2000). Elevated pore pressures change the state of eﬀective stress and reduce the force required for deformation to occur (Hubbert and Rubey, 1959). An experiment on ﬂuid-rock interaction (Reynolds and Lister, 1987) showed existence of high ﬂuid pressure in the ductile part of the crust. For the EAR, high pore pressure due to dehydration of metamorphic minerals in the lower crust is invoked (Seno and Saito, 1994). However, Keir et al. (2009) argued that in the absence of any accumulated ﬂuid in the lower crust, earthquake activities are controlled by emplacement of melt supplied from the upper mantle into the lower crust. This argument is in line with geochemical evidence of water-poor magmas in the lower crust (Rooney et al., 2005). High pore ﬂuid pressure and hence low strength of faults and of the crust makes a number of predictions (e.g., Scholz, 2000) including a low magnitude of shear stress and high angle between σ1 and the fault plane. Although, there are no reported measurements on the magnitude of shear stress in MER, structural mapping on active faults and studying earthquake focal mechanisms show that σ1 forms a low angle with the fault planes. The latter lends support to the interpretation that the faults in the rift are strong.
+3.3. Hydrostatic vs lithostatic pore pressure
+Pore ﬂuid pressure is the most uncertain parameter in the calculation of the strength proﬁle of the crust (e.g., Brace and Kohlstedt, 1980). Constraints on pore pressure in the MER are scarce. In order to assume the pore pressure is near lithostatic state, either the rock permeability must be very low (Nur and Walder, 1990) or an active source of overpressured ﬂuids must exist at depth (Rice, 1992). Townend and Zoback (2000) and Barton et al. (1995) showed that critically stressed faults are hydraulically conductive and act like ﬂuid conduits. These faults control the permeability of the crust and results in short diﬀusion time (10–1000 years over distances of 1–10 km). In extensional tectonic setting of the Taupo volcanic zone, high permeability (k > 10−16) causes earthquake ruptures (Sibson and Rowland, 2003). This implies that ﬂuid pressures in the crust equilibrate over relatively shorter time and hydrostatic pore pressure develops within the crust. Note that long diﬀusion time (> 105 years) leads to near-lithostatic pore pressure to be maintained (Nur and Walder, 1990).
+In the previous sections, we showed that the MER faults are favorably oriented and hence facilitate the easy passage of ﬂuids and supports the notion that the pore pressure in the region is near hydrostatic state. Recent CO2 degassing study at Aluto volcano in the central MER estimated a total of 250–500 t d−1 CO2 emitted along major faults and volcanic structures (Hutchison et al., 2015). Such emission rate is comparable to rates observed in the Eastern rift of the EARS (Lee et al., 2016). Furthermore, maximum CO2 ﬂux is observed adjacent to the faults implying that the permeability of faults in the MER is high and gives an easy access to the ﬂow of ﬂuids. Hutchison et al. (2015) also noted that the faults in the Aluto volcano penetrate deep and connect the reservoir to the surface. This provides a favorable condition for the ﬂuid to reach hydrostatic state in a relatively short time period. Permeability values ranging 0.5–1.1 × 10−12 m2 are estimated from ∼2 km deep Aluto-Langano geothermal wells (Electroconsult, 1985). Deep penetrating faults in other parts of the EAR (e.g. in Tanzania) are known to act as pathways for CO2 ascent (e.g., Lee et al., 2016). Seismicity recorded by CRAFTI array suggest that volatiles migrate from
+
+upper mantle or lower crust following extensional faults (e.g., Lee et al., 2016). However, it is questionable whether the permeability at upper crustal level is adequately representative of the deeper level or not (Sibson, 2000). Recent geophysical studies in the EAR (Lindenfeld et al., 2012; Weinstein et al., 2017) and Taupo rift (Reyners et al., 2007) showed that high pore ﬂuid pressure induce faulting and seismic activities in the lower crust. Geophysical studies in MER (Keranen et al., 2009) and Tanzanian rift (Weinstein et al., 2017) indicated that the lower crust in these regions is weak and ductile and higher pore ﬂuid pressure can provide a mechanism for brittle failure at lower shear stress. Our compilation of earthquake focal mechanisms in MER indicated that only two earthquake focal mechanisms occurred in the lower crust (below 16 km). For the two lower crustal earthquake focal mechanisms, we examine how increased pore pressure (from hydrostatic to super hydrostatic; i.e. 0.56 × σv) aﬀects the strength of the faults. Using a mean μ of 0.59 and normal stress values (see the supplementary material), Eq. (4) results in the shear stress of 34 MPa and 3 MPa for focal mechanisms at depths of 20.29 km and 19.01 km, respectively. Increasing the pore pressure from hydrostatic to super hydrostatic conditions leads to signiﬁcant reduction of shear strength of earthquake faults.
+However, since most of focal mechanisms occur at depths above 16 km, the assumption of hydrostatic pore pressure can be considered as adequately representative of the state of pore ﬂuid pressure in the upper crust and well depicts the strength of the crust and faults in the MER. We found both high and low μ values for earthquake faults in the MER implying that thermal modiﬁcations are more important than pore ﬂuid pressure in modifying the strength of the faults in the upper crust.
+Finally, further studies constraining the condition of pore ﬂuid pressure in the crust are required in order to link ﬂuid weakening and deep crustal earthquakes in MER.
+4. Conclusions
+Based on our ﬁndings, we reach the following conclusions:
+1. Based on the orientation of optimally oriented faults controlling the ﬂow of ﬂuids in the rift and high CO2 seepage rate, we argue that pore pressure in the upper crust is in near hydrostatic state. However the argument for hydrostatic pore pressure in the lower crust might be ﬂawed as indicated by high μ, low shear strength fault and deep crustal seismicity.
+2. Very low μ (≤0.3) values are observed near active volcanic centers, whereas high μ correspond to areas either at margins or in between magmatic segments implying that high pore ﬂuid pressure might not be required for slip on weak faults.
+3. Although data from the southern MER are scarce, there are no indications of weak faults, which could be in agreement with a less evolved rifting and lower magmatic modiﬁcation in the area.
+4. A best ﬁt of μ values for MER faults indicate a regional value of 0.59 ± 0.16 implying the crust is strong under hydrostatic condition.
+5. The strong upper crust contributes to the strength of the lithosphere in the MER, with the lower portion of the upper crust (10–16 km) being the strongest layer.
+The strong faults and crust inferred in our study directly inﬂuence the kinematics of crustal blocks in the MER. Therefore, the conclusion we draw can be tested by future geodetic and modeling studies.
+Acknowledgments
+AM and TK acknowledge the support from NAS through GeoPower Africa project sub-grant 2000004834. DK is supported by NERC grant NE/L013932/1. The manuscript beneﬁted from detailed and constructive reviews by Damien Delvaux and an anonymous reviewer. We
+
+178
+
+A.A. Muluneh et al.
+
+Tectonophysics 731–732 (2018) 172–180
+
+also thank Prof. Jean-Philippe Avouac for his comments and editorial handling. The ﬁgures were drafted with Generic Mapping Tools (Wessel and Smith, 1998).
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at https:// doi.org/10.1016/j.tecto.2018.03.010.
+References
+Agostini, A., Bonini, M., Corti, G., Sani, F., Manetti, P., 2011. Distribution of Quaternary deformation in the central Main Ethiopian Rift, East Africa. Tectonics 30. http://dx. doi.org/10.1029/2010TC002833.
+Albaric, J., Deverchere, J., Petit, C., Perrot, J., Le Gall, B., 2009. Crustal rheology and depth distribution of earthquakes: insights from the central and southern east African Rift System. Tectonophysics 468, 28–41.
+Allmendinger, R., Cardozo, N., Fisher, D.M., 2012. Structural Geology Algorithms-Vectors and Tensors, First edition. Cambridge University Press.
+Ayele, A., 2000. Normal left-oblique fault mechanisms as indication of sinistral deformation between the Nubia and Somalia plates in the Main Ethiopian Rift. J. Afr. Earth Sci. 31, 359–368.
+Ayele, A., Nyblade, A., Langston, C., Cara, M., Leveque, J., 2006. New evidence for Afroarabian plate separation in southern Afar. In: Yirgu, G., Ebinger, C., Maguire, P.K.H. (Eds.), The Afar Volcanic Province Within the East African Rift System. 259. Geological Society of London, pp. 133–141.
+Barton, C., Zoback, M.D., Moos, D., 1995. Fluid ﬂow along potentially active faults in crystalline rock. Geology 23, 683–686.
+Behr, W.M., Platt, J.P., 2014. Brittle faults are weak, yet the ductile middle crust is strong: implications for lithospheric mechanics. Geophys. Res. Lett. 41. http://dx.doi.org/10. 1002/2014GL061349.
+Beutel, E., van Wijk, J., Ebinger, C., Keir, D., Agostini, A., 2010. Formation and stability of magmatic segments in the Main Ethiopian and Afar rifts. Earth Planet. Sci. Lett. 293. http://dx.doi.org/10.1016/j.epsl.2010.02.006.
+Bialas, R.W., Buck, W.R., Qin, R., 2010. How much magma is required to rift a continent? Earth Planet. Sci. Lett. 292, 68–78.
+Bird, P., 1999. Thin-plate and thin-shell ﬁnite-element programs for forward dynamic modeling of plate deformation and faulting. Comput. Geosci. 25, 383–394.
+Bird, P., Ben-Avraham, Z., Schubert, G., Andreoli, M., Viola, G., 2006. Patterns of stress and strain rate in southern Africa. J. Geophys. Res. 111. http://dx.doi.org/10.1029/ 2005JB003882.
+Brace, W.F., Kohlstedt, D.L., 1980. Limits on lithospheric stress imposed by laboratory experiments. J. Geophys. Res. 85, 6248–6252.
+Byerlee, J.D., 1978. Friction of rock. Pure Appl. Geophys. 116, 615–626. Carpenter, B.M., Saﬀer, D.M., Marone, C., 2015. Frictional properties of the active San
+Andreas Fault at SAFOD: implications for fault strength and slip behavior. J. Geophys. Res. Solid Earth 120, 5273–5289. Chester, F.M., 1995. A rheologic model for wet crust applied to strike-slip faults. J. Geophys. Res. 100, 13,033–13,044. Collettini, C., Niemeijer, A., Viti, C., Smith, S.A.F., Marone, C., 2011. Fault structure, frictional properties and mixed-mode fault slip behaviour. Earth Planet. Sci. Lett. 311. http://dx.doi.org/10.1016/j.epsl.2011.09.020. Corti, G., 2008. Control of rift obliquity on the evolution and segmentation of the Main Ethiopian Rift. Nat. Geosci. 1, 258–262. Daniels, K.A., Bastow, I.D., Keir, D., Sparks, R.S.J., Menand, T., 2014. Thermal models of dyke intrusion during development of continent-ocean transition. Earth Planet. Sci. Lett. 385, 145–153. Delvaux, D., Barth, A., 2010. African stress pattern from formal inversion of focal mechanism data. Tectonophysics 482, 105–128. Delvaux, D., Sperner, B., 2003. Stress tensor inversion from fault kinematic indicators and focal mechanism data: the TENSOR program. In: Nieuwland, D. (Ed.), New Insights Into Structural Interpretation and Modelling. 212. Geological Society of London Special Publication, pp. 75–100. Di Toro, G., Goldsby, D.L., Tullis, T.E., 2004. Friction falls towards zero in quartz rock as slip velocity approaches seismic rates. Nature 427, 436–439. Di Toro, G., Han, R., Hirose, T., De Paola, N., Mizoguchi, K., Ferri, F., Cocco, M., Shimamoto, T., 2011. Fault lubrication during earthquakes. Nature 471, 494–498. Di Toro, G., Hirose, T., Nielsen, S., Pennacchioni, G., Shimamoto, T., 2006. Natural and experimental evidence of melt lubrication of faults during earthquakes. Science 311, 647–649. Ebinger, C., Casey, M., 2001. Continental breakup in magmatic province. Geology 29, 527–530. Electroconsult, 1985. Measurements and tests on Langano-Aluto deep exploratory wells. Final Report. Fadaie, K., Ranalli, G., 1990. Rheology of the lithosphere in the East African Rift System. Geophys. J. Int. 102, 445–453. Floyd, M.A., Walters, R.J., Elliott, J.R., Funning, G.J., Svarc, J.L., Murray, J.R., Hooper, A.J., Larson, Y., Marinkovic, P., Burgmann, R., Johanson, I.A., Wright, T.J., 2016. Spatial variations in fault friction related to lithology from rupture and afterslip of the 2014 South Napa, California, earthquake. Geophys. Res. Lett. 43. http://dx.doi.org/ 10.1002/2016GL069428. Gashawbeza, E., Klemperer, S., Nyblade, A., Walker, K., Keranen, K., 2004. Shear wave
+
+splitting in Ethiopia: Precambrian mantle anisotropy locally modiﬁed by Neogene rifting. Geophys. Res. Lett. 31. http://dx.doi.org/10.1029/2004GL020471. Han, R., Hirose, T., Shimamoto, T., 2010. Strong velocity weakening and powder lubrication of simulated carbonate faults at seismic slip rates. J. Geophys. Res. 115 (B3), B03412. Hofstetter, R., Beyth, M., 2003. The Afar depression: interpretation of the 1960–2000 earthquakes. Geophys. J. Int. 155, 715–732. Hubbert, M.K., Rubey, W.W., 1959. Role of ﬂuid pressure in the mechanics of overthrust faulting. Geol. Soc. Am. Bull. 70, 115–205. Hutchison, W., Mather, T.A., Pyle, D.M., Biggs, J., Yirgu, G., 2015. Structural controls on ﬂuid pathways in an active rift system: a case study of the Aluto volcanic complex. Geosphere 11. http://dx.doi.org/10.1130/GES01119.1. Jager, J.C., Cook, N.G.W., 1979. Fundamentals of Rock Mechanics, 3rd edition. Chapman and Hall, New York. Kastrup, U., 2003. Seismotectonics and Stress Field Variations in Switzerland. Ph.D thesis. Swiss Federal Institute of Technology Zurich. Keir, D., Bastow, I.D., Corti, G., Mazzarini, F., Rooney, T.O., 2015. The origin of along-rift variations in faulting and magmatism in the Ethiopian Rift. Tectonics 34. http://dx. doi.org/10.1002/2014TC003698. Keir, D., Bastow, I.D., Whaler, K.A., Daly, E., Cornwell, D.G., Hautot, S., 2009. Lower crustal earthquakes near the Ethiopian rift induced by magmatic processes. Geochem. Geophys. Geosyst. 10. http://dx.doi.org/10.1029/2009GC002382. Keir, D., Ebinger, C., Stuart, G., Daly, E., Ayele, A., 2006. Strain accommodation by magmatism and faulting as rifting proceeds to breakup: seismicity of the northern Ethiopian Rift. J. Geophys. Res 111. http://dx.doi.org/10.1029/2005jb003748. Keir, D., Pagli, C., Bastow, I., Ayele, A., 2011. The magma-assisted removal of Arabia in Afar: evidence from dike injection in the Ethiopian Rift captured by using InSAR and seismicity. Tectonics 30. http://dx.doi.org/10.1029/2010TC002785. Keranen, K., Klemperer, S., 2008. Discontinuous and diachronous evolution of the Main Ethiopian Rift: implications for development of continental rifts. Earth Planet. Sci. Lett. 265, 96–111. Keranen, K., Klemperer, S., Julia, J., Lawrence, J., Nyblade, A., 2009. Low lower crustal velocity across Ethiopia: is the Main Ethiopian Rift a narrow rift in a hot carton? Geochem. Geophys. Geosyst. 10. http://dx.doi.org/10.1029/2008GC002293. Lavecchia, A., Beekman, F., Clark, S.R., Cloetingh, S.A.P.L., 2016. Thermo-rheological aspects of crustal evolution during continental breakup and melt intrusion: the main Ethiopian Rift, East Africa. Tectonophysics 686, 51–62. Lee, H., Muirhead, J.D., Fischer, T.P., Ebinger, C.J., Kattenhorn, S.A., Sharp, Z.D., Kinaji, G., 2016. Massive and prolonged deep carbon emissions associated with continental rifting. Nature. http://dx.doi.org/10.1038/NGEO2622. Lindenfeld, M., Rümpker, G., Link, K., Koehn, D., Batte, A., 2012. Fluid-triggered earthquake swarms in the Rwenzori region, East African Rift - evidence for rift initiation. Tectonophysics 566, 95–104. Maggi, A., Jackson, J.A., McKenzie, D., Priestly, K., 2000. Earthquake focal depths, effective elastic thickness, and the strength of the continental lithosphere. Geology 28, 495–498. Maguire, P.K.H., Keller, G.R., Klemperer, S.L., Mackenzie, G.D., Keranen, K., Harder, S., O’Reilly, B., Thybo, H., Asfaw, L., Khan, M.A., Amha, M., 2006. Crustal structure of the northern Main Ethiopian Rift from the EAGLE controlled-source surveys; a snapshot of incipient lithospheric break-up. In: Yirgu, G., Ebinger, C., Maguire, P.K.H. (Eds.), The Afar Volcanic Province Within the East African Rift System. 259. Geological Society of London, pp. 269–291. Micheal, A.J., 1984. Determination of stress from slip data: faults and folds. J. Geophys. Res. 89, 11,517–11,526. Micheal, A.J., 1987. Use of focal mechanisms to determine stress: a control study. J. Geophys. Res. 92, 357–368. Micheal, A.J., 1991. Spatial variations in stress within the 1987 Whittier Narrows, California, aftershock sequence: new techniques and results. J. Geophys. Res. 96, 6303–6319. Middleton, T.A., Copley, A., 2013. Constraining fault friction by re-examining earthquake nodal plane dips. Geophys. J. Int. http://dx.doi.org/10.1093/gji/ggt427. Mulargia, F., Bizzarri, A., 2016. Earthquake friction. Phys. Earth Planet. Inter. 261, 118–123. Muluneh, A., Cuﬀaro, M., Kidane, T., 2017. Along-strike variation in deformation style inferred from kinematic reconstruction and strain rate analysis: a case study of the Ethiopian Rift. Phys. Earth Planet. Inter. 270, 176–182. http://dx.doi.org/10.1016/j. pepi.2017.07.009. Muirhead, J.D., Kattenhorn, S.A., Lee, H., Mana, S., Turrin, B.D., Fischer, T.P., Kianji, G., Dindi, E., Stamps, D.S., 2016. Evolution of upper crustal faulting assisted by magmatic volatile release during early-stage continental rift development in the East African Rift. Geosphere 12, 1670–1700. Nadeau, R.M., Guilhem, A., 2009. Nonvolcanic tremor evolution and the San Simeon and Parkﬁeld, California, earthquakes. Science 325. http://dx.doi.org/10.1126/science. 1174155. Nur, A., Walder, J., 1990. Time-dependent hydraulics of the earth's crust. In: Bredehoeft, J.D., Norton, D.L. (Eds.), The Role of Fluids in Crustal Processes. 113–127 National Academy Press, Washington, DC. Pik, R., Marty, B., Hilton, D.R., 2006. How many mantle plumes in Africa? The geochemical point of view. Chem. Geol. 226, 100–114. Prante, M.R., Evans, J.P., Janecke, S.U., Steely, A., 2014. Evidence for paleoseismic slip on a continental low-angle normal fault: tectonic pseudotachylyte from the West Salton detachment fault. Earth Planet. Sci. Lett. 387, 170–183. Reyners, M., Eberhart-Phillips, D., Stuart, G., 2007. The role of ﬂuids in lower-crustal earthquakes near continental rifts. Nature 446, 1075–1078. Reynolds, S.J., Lister, G.S., 1987. Structural aspects of ﬂuid-rock interactions in detachment zones. Geology 15, 362–366.
+
+179
+
+A.A. Muluneh et al.
+
+Tectonophysics 731–732 (2018) 172–180
+
+Rice, J.R., 1992. Fault stress states, pore pressure distributions, and the weakness of the San Andreas Fault. In: Evans, B., Wong, T.-F. (Eds.), Fault Mechanics and Transport Properties of Rocks. Academic press, New York, pp. 475–503.
+Rooney, T., Furman, T., Yirgu, G., Ayalew, D., 2005. Structure of the Ethiopian lithosphere: xenolith evidence in the main Ethiopian rift. Geochim. Cosmochim. Acta 69, 3889–3910.
+Rosendahl, B.R., 1987. Architecture of continental rifts with special reference to East Africa. Ann. Rev. Earth Planet. Sci. 15, 445–503.
+Saria, E., Calais, E., Altamimi, Z., Willis, P., Farah, H., 2013. A new velocity ﬁeld for Africa from combined GPS and DORIS space geodetic solutions: contribution to the deﬁnition of the African reference frame (AFREF). J. Geophys. Res. 118, 1–21.
+Saria, E., Calais, E., Stamps, D.S., Delvaux, D., Hartnady, C.J.H., 2014. Present-day kinematics of the East African Rift. J. Geophys. Res. 119, 3584–3600.
+Scholz, C.H., 2000. Evidence for strong San Andreas fault. Geology 28, 163–166. Seno, T., Saito, A., 1994. Recent East African earthquakes in the lower crust. Earth Planet.
+Sci. Lett. 121, 125–136. Sibson, R.H., 1974. Frictional constraints on thrust, wrench and normal faults. Nature
+249, 542–544. Sibson, R.H., 2000. Fluid involvement in normal faulting. J. Geodyn. 29, 469–499. Sibson, R.H., Rowland, J.V., 2003. Stress, ﬂuid pressure and structural permeability in
+seismogenic crust, North Island, New Zealand. Geophys. J. Int. 154, 584–594. Stamps, D.S., Iaﬀaldano, G., Calais, E., 2015. Role of mantle ﬂow in Nubia-Somalia plate
+divergence. Geophys. Res. Lett. 42. http://dx.doi.org/10.1002/2014GL062515. Thatcher, W., Pollitz, F.F., 2008. Temporal evolution of continental lithospheric strength
+in actively deforming regions. GSA Today 18. http://dx.doi.org/10.1130/ GSAT01804-5A.1. Townend, J., Zoback, M.D., 2000. How faulting keeps the crust strong. Geology 28,
+
+399–402. Weinstein, A., Oliva, S.J., Ebinger, C.J., Roecker, S., Tiberi, C., Aman, M., Lambert, C.,
+Witkin, E., Albaric, J., Gautier, S., Peyrat, S., Muirhead, J.D., Muzuka, A.N.N., Mulibo, G., Kianji, G., Ferdinand-Wambura, R., Msabi, M., Rodzianko, A., Hadﬁeld, R., Illsley-Kemp, F., Fischer, T.P., 2017. Fault-magma interaction during early continental rifting: seismicity of the Magadi-Natron-Manyara basins, Africa. Geochem. Geophys. Geosyst. 18, 3662–3686. http://dx.doi.org/10.1002/2017GC007027. Wessel, P., Smith, W., 1998. New, improved version of the generic mapping tools released. EOS Trans. AGU 79, 579. Wilks, M., Ayele, A., Kendall, J-M., Wookey, J., 2016. The 24th January 2016 Hawassa Earthquake: implications for seismic hazard in the Main Ethiopian Rift. J. Afr. Earth Sci. 125, 118–125. http://dx.doi.org/10.1016/j.jafrearsci.2016.11.007. Wolfenden, E., Ebinger, C., Yirgu, G., Deino, A., Ayalew, D., 2004. Evolution of the northern Main Ethiopian Rift: birth of a triple junction. Earth Planet. Sci. Lett. 224, 213–228. Wright, T.J., Ebinger, C., Biggs, J., Ayele, A., Yirgu, G., Keir, D., Stork, A., 2006. Magmamaintained rift segmentation at continental rupture in the 2005 Afar diking episode. Nature 442, 291–294. Zoback, M.L., 1992. Stress ﬁeld constraints on intraplate seismicity in the Eastern North America. J. Geophys. Res. 97, 11,761–11,782. Zoback, M.D., Townend, J., 2001. Implications of hydrostatic pore pressures and high crustal strength for the deformation of intraplate lithosphere. Tectonophysics 336, 19–30. Zoback, M.D., Zoback, M.L., Mount, V.S., et al., 1987. New evidence on the state of stress of the San Andreas fault system. Science 238, 1105–1111. Zoback, M.D., Zoback, M.L., 2002. Stress in the Earth's lithosphere. In: Third edition. Encyclopedia of Physical Science and Technology 16. pp. 143–154.
+
+180
+
+

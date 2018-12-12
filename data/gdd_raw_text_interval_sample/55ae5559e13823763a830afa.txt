@@ -1,0 +1,1665 @@
+U.S. DEPARTMENT OF THE INTERIOR U.S. GEOLOGICAL SURVEY
+Characteristics of discrete and basin-centered parts of the Lower Silurian regional oil and gas accumulation, Appalachian basin:
+Preliminary results from a data set of 25 oil and gas fields
+Robert T. Ryder 1
+Open-File Report 98-216
+This report is preliminary and has not been reviewed for conformity with U.S. Geological Survey editorial standards and stratigraphic nomenclature. Any use of trade names is for descriptive purposes only and does not imply endorsement by the USGS. 1 U.S. Geological Survey, Reston, Virginia 20192
+
+CONTENTS Page
+Abstract....................................................................................... 1 Introduction.................................................................................. 2 Availability of relevant oil and gas field data............................................. 6 Comparison of selected oil and gas field characteristics................................. 6
+Depth to production and hydrocarbon types..................................... 6 Structural setting and natural fractures........................................... 10 Trap types............................................................................ 12 Reservoir porosity and permeability............................................. 15 Reservoir water saturation and volume and composition of
+produced waters............................................................ 18 Segregation of gas and fluids in reservoirs....................................... 22 Reservoir pressure and bottom-hole temperature............................... 23 Ultimate gas recovery per well..................................................... 25 Discussion..................................................................................... 29 Conclusions.................................................................................... 32 References cited............................................................................... 36 Appendices..................................................................................... 47
+
+ILLUSTRATIONS Page
+Figure 1. Map of the northern part of the Appalachian basin province (067) showing oil and gas plays in the Lower Silurian "Clinton" sands, Medina Group sandstones, and Tuscarora Sandstone identified in the 1995 USGS National Oil and Gas Assessment........................ 3
+
+Figure 2. Map of the regional hydrocarbon accumulation in Lower Silurian sandstone reservoirs of the Appalachian basin, U.S. and Canada showing oil and gas fields used in the report. Also shown is the approximate boundary between discrete and basin-centered parts of the accumulation...............................................................
+
+5
+
+Figure 3. Correlation chart of Niagaran Provincial Series rocks (Lower to lower Upper Silurian) in the area of the regional accumulation............. 8
+
+Figure 4. Plot of depth to production vs. hydrocarbon type for oil and gas fields................................................................................ 9
+
+Figure 5. Map ofthe regional hydrocarbon accumulation in Lower Silurian sandstone reservoirs of the Appalachian basin showing oil and gas fields used in this report. Also shown is the approximate updip limit ofthe basin-centered (deep basin) gas accumulation and adjoining water-block trap ofDavis (1984) and Zagorski (1991)..........
+
+16
+
+Figure 6. Plot of reservoir porosity vs. reservoir permeability for oil and gas fields........................................................................... 17
+
+Figure 7. Plot of reservoir water saturation vs. depth to production for oil and gas fields. Also shown are the volume and salinity of produced waters.................................................................. 19
+
+Figure 8. Plot of reservoir pressure vs. depth to production for oil and gas fields........................................................................... 24
+
+Figure 9. Plot of bottom-hole temperature vs. depth to production for oil and gas fields.................................................................. 26
+
+Figure 10. Probability plot of estimated ultimate recovery (EUR) of gas per well in the Northeast Salem field......................................... 28
+
+Figure 11. EUR per well distributions for discrete and basin-centered parts of the regional accumulation........................................... 30
+
+Figure 12. Generalized model of origin and modification ofthe Clinton/ Medina basin-centered gas accumulation and adjoining discrete and hybrid accumulations....................................................... 31
+
+Figure 13. Map showing discrete, hybrid, and basin-centered parts of the Clinton/Medina/Tuscarora regional hydrocarbon accumulation........... 33
+
+TABLES Page
+Table 1. Summary of oil and gas fields in Ohio, Pennsylvania, and New York that constitute the data set in this report........................................ 7
+
+Table 2. Summary of local and regional structural elements imprinted on the north- to northeast-striking structural trend of the Appalachian basin...... 11
+
+Table 3. Summary of trap types............................................................. 13
+
+Table 4. Summary of produced water...................................................... 20
+
+Table 5. Summary of gas and oil EUR per well distributions............................ 27
+
+11
+
+APPENDICES
+
+Data sheets for:
+
+Page
+
+Appendix A. Adams/Waterford/Watertown gas field, Washington County, Ohio.... 47
+
+Appendix B. Athens gas field, Crawford County, Pennsylvania......................... 48
+
+Appendix C. Best gas field, Portage and Mahoning Counties, Ohio.................... 49
+
+Appendix D. Carbon Hill oil field, Hocking County, Ohio............................... 50
+
+Appendix E. Claysville oil field, Guernsey County, Ohio................................. 51
+
+Appendix F. Clayton oil field, Perry County, Ohio........................................ 52
+
+Appendix G. Conneaut gas field (Indian Springs pool), Crawford County, Pennsylvania.................................................................... 53
+
+Appendix H. Conneaut gas field (Kastle field), Crawford County, Pennsylvania.................................................................... 54
+
+Appendix I. Cooperstown gas field, Venango and Crawford Counties, Pennsylvania..................................................................... 55
+
+Appendix J. Cooperstown gas field (Oil Creek pool), Venango County, Pennsylvania..................................................................... 56
+Appendix K. East Canton/Magnolia oil field, Stark and Carroll Counties, Ohio...... 57
+Appendix L. Homer gas field, Licking and Knox Counties, Ohio....................... 58
+Appendix M. Kantz Corners gas field, Crawford and Mercer Counties, Pennsylvania................................................................... 59
+Appendix N. Lakeshore gas field, Chautauqua County, New York..................... 60
+Appendix O. Lancaster/Sugar Grove gas field, Fairfield and Hocking Counties, Ohio.............................................................................. 61
+Appendix P. Lenox gas field, Ashtabula County, Ohio.................................... 62
+Appendix Q. Logan oil field, Hocking County, Ohio...................................... 63
+Appendix R. Mantua/Shalersville gas field, Portage County, Ohio...................... 64
+
+in
+
+Appendix S. Moreland oil field, Wayne County, Ohio.................................... 65 Appendix T. North Jackson/Lordstown gas field, Trumbull and Mahoning
+Counties, Ohio.................................................................. 66 Appendix U. Northeast Salem gas field, Mahoning County, Ohio....................... 67 Appendix V. Ravenna gas field, Portage County, Ohio................................... 68 Appendix W. Senecaville gas field, Guernsey County, Ohio............................. 69 Appendix X. Sharon Deep gas field, Mercer County, Pennsylvania and Trumbull
+County, Ohio................................................................... 70 Appendix Y. Yorktown/Clay gas field, Tuscarawas County, Ohio..................... 71
+IV
+
+ABSTRACT
+Oil and gas trapped in Lower Silurian "Clinton" sands and Medina Group sandstone constitute a regional hydrocarbon accumulation that extends 425 mi in length from Ontario, Canada to northeastern Kentucky. The 125-mi width of the accumulation extends from central Ohio eastward to western Pennsylvania and west-central New York. Lenticular and intertonguing reservoirs, a gradual eastward decrease in reservoir porosity and permeability, and poorly segregated gas, oil, and water in the reservoirs make it very difficult to recognize clear-cut geologic- and production-based subdivisions in the accumulation that are relevant to resource assessment. However, subtle variations are recognizable that permit the regional accumulation to be subdivided into three tentative parts: a western gas-bearing part having more or less discrete fields; an eastern gasbearing part having many characteristics of a basin-centered accumulation; and a central oil- and gas-bearing part with "hybrid" fields that share characteristics ofboth discrete and basin-centered accumulation. A data set of 25 oil and gas fields is used in the report to compare selected attributes of the three parts of the regional accumulation. A fourth part of the regional accumulation, not discussed here, is an eastern extension of basin-centered accumulation having local commercial gas in the Tuscarora Sandstone, a proximal facies ofthe Lower Silurian depositional system.
+A basin-centered gas accumulation is a regionally extensive and commonly very thick zone of gas saturation that occurs in low-permeability rocks in the central, deeper part of a sedimentary basin. Another commonly used term for this type of accumulation is deep-basin gas accumulation. Basin-centered accumulation is a variety of continuous-type accumulation. The "Clinton" sands and Medina Group sandstone part ofthe basincentered gas accumulation is characterized by: a) reservoir porosity ranging from about 5 to 10 percent; b) reservoir permeability equal to or less than 0.1 mD; c) low reservoir water saturation and an average water yield per well less than about 9 to 13 BW/MMCFG; d) a broadly defined updip water-block trap; e) underpressured reservoirs with a gradient ranging from 0.25 to 0.35 psi/ft; and f) reservoir temperature of at least 125°F (52°C).
+Other than for historical and location purposes, the term field has little or no meaning as an assessment unit for the regional accumulation. In practice, each designated field represents a production sweet spot having relatively high EURs per well that in turn merges with surrounding gas-productive regions that are generally larger in area but have lower EURs per well. This important feature of the Lower Silurian regional accumulation, whereby most wells drilled into it are gas productive, must be considered when assessing its potential for remaining recoverable gas resources. Most of the remaining gas resources reside in "Clinton" sands and Medina Group sandstone in the basin-centered part of the accumulation where as much as several tens of TCP of natural gas may be technically recoverable. The Tuscarora Sandstone in the eastern extension of the basin-centered part of the accumulation underlies a very large area and, although commonly characterized by very low porosity and permeability and low-Btu gas, probably contains additional gas resources. Remaining undiscovered recoverable gas and oil resources in the discrete and hybrid parts ofthe accumulation are primarily located beneath Lake Erie.
+
+INTRODUCTION
+Two fundamentally different types of hydrocarbon plays were recognized in the regional, Lower Silurian oil and gas accumulation of the Appalachian basin for the U.S.Geological Survey (USGS) 1995 National Assessment of United States Oil and Gas Resources (Ryder, 1995; Ryder and others, 1996; fig.l).
+The western part of the accumulation in east-central Ohio and northwesternmost Pennsylvania was defined as a play with conventional reservoirs and discrete fields, whereas an eastern part of the accumulation in eastern Ohio, northwestern Pennsylvania, western New York, northwestern West Virginia, and northeasternmost Kentucky was defined as a group of plays with unconventional reservoirs and regionally continuous zones of gas accumulation (fig. 1). The plays in the western and eastern parts of the regional accumulation were categorized, respectively, by the USGS as discrete (conventional) and continuous-type (unconventional) accumulations (Schmoker, 1995a,b). Major reservoirs in the Lower Silurian sandstone sequence consist of the "Clinton" sands and Medina sand in Ohio and adjoining West Virginia and their respective equivalents, the Grimsby Sandstone and Whirlpool Sandstone of the Medina Group, in Pennsylvania and New York. These sandstone units were deposited in shallow marine to estuarine environments. A third hydrocarbon play in the sequence, the Tuscarora Sandstone of west-central Pennsylvania, south-central New York, and west-central West Virginia is an eastern and more proximal facies of the Lower Silurian sandstone depositional system with a moderate fluvial component (Ryder, 1995; fig. 1). Although part of the regional Lower Silurian hydrocarbon accumulation, the Tuscarora Sandstone gas play with its generally small scattered gas fields is not discussed any further in this report.
+General attributes assigned to the western (discrete/conventional) play in the USGS 1995 National Oil and Gas Assessment are: 1) discrete fields controlled by welldefined stratigraphic and (or) structural traps, 2) oil- and (or) gas productive regions surrounded by nonproductive regions, 3) sandstone reservoirs with good to moderate porosity and permeability, 4) well-defined oil- and gas-water contacts, 5) normal (hydrostatic) fluid pressures, 6) hydrocarbon production dominated by oil and associated gas, and 7) moderate to high water yields. Using a play analysis approach, where field size is the basic unit of assessment, the USGS estimated that, because of the densely spaced drilling in the play since the late 1870s, there are no remaining undiscovered fields of 1 million barrels of oil or greater (or 6 billion cu ft of gas or greater) except beneath Lake Erie. Thus, most of the remaining hydrocarbon resources in the western play were considered to be additions (growth) to existing reserves (Gautier and others, 1995; 1996).
+The eastern (continuous-type/unconventional) plays were adopted from a deep basin/basin-centered model for the Clinton/Medina gas accumulation proposed by Davis (1984), Zagorski (1988, 1991), and Law and Spencer (1993). In this report, the term basin-centered accumulation is used. Following Rose and others (1986) and Law and Spencer (1993), a basin-centered gas accumulation is a regionally extensive and commonly very thick zone of gas saturation that occurs in low-permeability rocks in the central, deeper part of a sedimentary basin. Foreland basin examples, such as the Lower Silurian of the Appalachian basin, reside in the thicker, more deeply buried part of the
+
+84
+
+PLAY BOUNDARY
+
+APPALACHIAN BASIN PROVINCE (067) BOUNDARY
+
+SCALE 1:5,000,000 0 100 MILES 0 150 KM
+
+Basin-centered part of regional accumulation
+Discrete part of
+regional accumulation
+
+LOWER SILURIAN SANDSTONE OIL & GAS PLAYS
+6727 Tuscarora Sandstone gas 6728 Clinton/Medina sandstone gas high potential 6729 Clinton/Medina sandstone gas medium potential 6730 Clinton/Medina sandstone gas medium-low potential
+.6731 Clinton/Medina sandstone gas low potential ["6732 Clinton/Medina sandstone oil/gas
+
+Figure 1. Map of the northern part of the Appalachian basin province (067) showing oil and gas plays in the Lower Silurian "Clinton" sands, Medina Group sandstones, and Tuscarora Sandstone identified by Ryder (1995) in the USGS 1995 National Assessment of United States Oil and Gas Resources.
+
+characteristic cratonward-tapered sedimentary wedge that lies updip of the thrust-faulted margin of the basin. Basin-centered gas accumulation is a variety of continuous-type accumulation (Schmoker, 1995a,b) and is synonymous with deep-basin gas accumulation (Masters, 1979; 1984). Tight gas (low-permeability) reservoirs described by Button and others (1993) are a necessary but not a sufficient condition ofbasin-centered gas accumulation.
+General attributes assigned to the eastern (continuous-type/unconvential) plays in the USGS 1995 National Assessment ("Clinton" sands and Medina Group sandstone part of basin-centered accumulation of this report) are: 1) regionally extensive accumulations of nonassociated gas without stratigraphic or structural control on entrapment, 2) gas shows and (or) production after hydrofracturing in most wells drilled, 3) sandstone reservoirs with low porosity and permeability, 4) an absence of gas-water contacts, 5) rocks with high water saturation are situated updip of the gas accumulation and serve as the regional trap, 6) abnormally low formation pressures, and 7) low water yields. Because of the recency of drilling and production involving the eastern continuous-type plays (late 1970s to present), this part of the regional Lower Silurian accumulation is considered by the USGS to be an emerging source of natural gas. Using a new methodology (Schmoker, 1995b) that assumed a regionally extensive gas-saturated reservoir and used estimated ultimate recovery (EUR) of gas per well as a basic unit of assessment, the continuous-type plays were estimated to have, at a mean value, about 30 trillion cu ft (TCF) of technically recoverable gas (Gautier and others, 1995; 1996).
+Primary objectives of this report are to compile a reliable set of oil and gas field data from the Lower Silurian regional accumulation and to develop criteria for subdividing it into discrete and basin-centered parts. Comprehensive field studies required for in-depth analysis of the Lower Silurian regional accumulation are sparse. However, numerous attributes of selected fields are available in the literature (Laughrey, 1984; Keltch and others, 1990), unpublished theses (Seibert, 1987; Zagorski, 1991), and published data sets (McCormac and others, 1996). At least two important elements of the second objective will be addressed. First, many of the criteria applied to the Lower Silurian regional accumulation in the 1995 National Assessment (Ryder, 1995) were based on Rocky Mountain basin analogues and, thus, need to be more rigorously tested with reliable Appalachian basin data. Secondly, the tentative boundary drawn by Ryder (1995) between identified discrete and continuous-type (basin-centered in this report) parts of the regional hydrocarbon accumulation needs to be validated. This boundary is presently located at the approximate downdip (eastern) limit of oil production (see fig. 2; Wandrey and others, 1997). Both elements identify a need to better define the nature and origin of a very complex hydrocarbon system.
+Field-specific data collected for this investigation representing a variety of geoscience disciplines and conclusions reached from them are expected to increase the accuracy of future assessments of remaining recoverable natural gas and oil in the Lower Silurian regional accumulation. Assessment accuracy is expected to increase because of: 1) the better definition of the discrete and basin-centered parts of the accumulation each of which requires a different assessment methodology, and 2) a better understanding ofthe internal variability of the accumulation such as the distribution of production "sweet spots". Moreover, criteria developed for characterizing these Appalachian basin examples
+
+Ontario, Canada
+
+Onondaga field
+-4o-
+Norfolk field
+
+42
+-.< ^ ,-\ v^'v\\\\j^;v>.-A Ma/ShWVS>>NJ/L|
+
+Arabia field
+/
+
+SCALE 1:2,500,000
+
+0 50 Miles
+
+«»
+
+Distribution of oil and gas in Lower Silurian sandstone reservoirs, Appalachian basin
+
+m
+
+fields studied in this report
+
+Oil Gas Oil and associated gas Gas and Nonassociated gas
+
+associated oil
+
+Approximate updip limit of basin-centered accumulation (based on Ryder, 1995)
+
+-7- Approximate updip limit of the Tuscarora Sandstone
+
+Figure 2. Map of the regional hydrocarbon accumulation in Lower Silurian sandstone reservoirs ofthe Appalachian basin showing oil and gas fields used in this report. See table 1 for the code to field names.
+5
+
+may be applicable to other domestic and foreign examples of regional hydrocarbon accumulations.
+AVAILABILITY OF RELEVANT OIL AND GAS FIELD DATA
+The data set used in this report consists of 25 oil and gas fields that produce from the Lower Silurian "Clinton" sands, Medina sand, and Medina Group sandstones (table 1; figs.2, 3). Each of the 25 fields were chosen because of its wide variety of geological, geophysical, geochemical, reservoir, and production data that have been collected and recorded. Most of the field names are recognized by the petroleum industry as well as State geological surveys in the Appalachian basin region. Several fields have multiple names. Moreover, many of the older fields have coalesced with adjoining fields as a result of infill drilling. The data set is about equally represented by fields that occur in the discrete (13) and basin-centered (12) parts of the regional accumulation as delineated by Ryder (1995) and Wandrey and others (1997).
+Recorded attributes for the selected oil and gas fields in the data set are: 1) location, 2) discovery date, 3) depth, 4) hydrocarbon types, 5) structural setting, 6) stratigraphic name of reservoir, 7) trap type, 8) porosity, 9) permeability, 10) natural fractures, 11) diagenesis, 12) water saturation, 13) volume and composition of produced water, 14) gas/water and (or) oil/water contacts, 15) reservoir pressure, 16) bottom-hole temperature, 17) well spacing, and 18) ultimate production. These data were compiled from published literature, unpublished M.S. and Ph.D. theses, records from State geological surveys and (or) oil and gas/mineral resources divisions, and records from petroleum industry files. Summary sheets for each of the 25 oil and gas fields cited in this report are shown in Appendices A through Y. This field data set and the one compiled by McCormac and others (1996) should be continually updated and expanded as new information become available.
+COMPARISON OF SELECTED OIL AND GAS FIELD CHARACTERISTICS
+Depth to Production and Hydrocarbon Types
+A plot of depth to production vs. hydrocarbon type for the 25-field data set shows several clusters of data points (fig. 4). The depth to production for the oil and gas fields in the data set ranges from about 2,000 ft along the western margin of the discrete part of the accumulation in east-central Ohio (Homer, Appendix L, and Lancaster/Sugar Grove, Appendix O, gas fields) to as much as 6,200 ft near the eastern margin of the Clinton/Medina part of the basin-centered part of the accumulation in northwestern Pennsylvania (Oil Creek pool of the Cooperstown gas field, Appendix J).
+Hydrocarbon types produced in the data set range from oil and associated gas to nonassociated gas. Intermediate categories of hydrocarbon type in the data set are 1) gas and associated oil and 2) gas and local associated oil. These general classes of hydrocarbon type are roughly determined by their gas-to-oil ratio (GOR) (fig. 4). For example, a GOR of 20,000 (cu ft of gas): 1 (barrel of oil) or greater defines a gas well or field. Few GORs are available for the fields in the data set so their location as plotted on
+
+Field Code A/W/Wt
+A B
+CH Civ Cl Cn(IS)
+Cn(K)
+C
+C(OC)
+EC/Mg
+H KC
+LS La/SG
+Ln Lo Ma/Sh
+M NJ/L
+NES R S SD
+Y/Cy
+
+Field Name
+Adams/ Waterford/ Watertown Athens Best
+Carbon Hill Claysville Clayton Indian Springs pool of Conneaut field Kastle pool of Conneaut field Cooperstown
+Oil Creek pool of Cooperstown field East Canton/ Magnolia Homer Kantz Corners
+Lakeshore Lancaster/ Sugar Grove Lenox Logan Mantua/ Shalersville Moreland North Jackson/ Lordstown Northeast Salem Ravenna Senecaville Sharon Deep
+Yorktown/Clay
+
+Accumulation Type
+(using boundary of Ryder, 1995)
+Basin-centered
+Basin-centered Discrete
+Discrete Discrete Discrete Basin-centered
+Basin-centered
+Basin-centered
+Basin-centered
+Discrete
+Discrete Basin-centered
+Basin-centered Discrete
+Discrete Discrete Discrete
+Discrete Basin-centered
+Basin-centered Discrete Basin-centered Basin-centered
+Discrete
+
+County
+Washington
+Crawford Portage, Mahoning Hocking Guernsey Perry Crawford
+Crawford
+Venango, Crawford Venango
+Stark, Carroll
+Licking, Knox Crawford, Mercer Chautauqua Fairfield, Hocking Ashtabula Hocking Portage
+Wayne, Holmes Trumbull, Mahoning Mahoning Portage Guernsey Mercer Trumbull Tuscarawas
+
+State
+Ohio
+Pennsylvania Ohio
+Ohio Ohio Ohio Pennsylvania
+Pennsylvania
+Pennsylvania
+Pennsylvania
+Ohio
+Ohio Pennsylvania
+New York Ohio
+Ohio Ohio Ohio
+Ohio Ohio
+Ohio Ohio Ohio Pennsylvania Ohio Ohio
+
+Table 1. Summary of oil and gas fields in Ohio, Pennsylvania, and New York that constitute the data set used in this report. See figure 2 for the location of the fields.
+
+1. R. D. He-H-/K>3 ev £ i^ R^a«Lr ^-»a o-fUcrs. /T^')
+Figure 3. Correlation chart of Niagaran Provincial Series rocks (Lower and lower Upper Silurian) and adjoining Upper Ordovician and Upper Silurian rocks in the area of the regional hydrocarbon accumulation. The European and North American chronostratigraphic units are after Brett and others (1995).
+8
+
+u
+Part of regional accumulation as defined by Ryder (1995)
+
+f dj Mean and range J ^
+jn
+
+Basin-centered Discrete
+
+4« <*
+«*
+O
+
+0p 0^ O
+c
+*'
+c
+O
+
+^- -" _ / n LO / n CH
+
+^^
+- - _ " j^- ^^ ^ -s
+^\
+
+__ Q 75 » «* /
+t/
+
+.- ^D La/SG \
+/^^%i^n H x/
+
+0/0Bo =
+
+A ^°
+
+<l*
+
+**i
+
+_
+1
+
+LS
+
+O / n ci
+
+^
+
+n Ln \ ^
+
+U / DM^^
+
+------ ~.\,_^
+
+^
+
+O
+
+- ;k_
+Q.
+04
+
+/* ^
+
+*- i
+
+^^^
+
+m^r "^ *»
+
+xCn(K) tT Cn(IS) '^T
+
+D Ma/Sh J- ^
+
+/
+
+^^
+
+J-
+
+.c
+»-
+
+i
+
+^^ ' T
+
+Q. (D
+
+DR ^^ N / /
+
+^NJ/L
+
+x ^^
+
+QX
+
+^ 5 9^|V
+
+n B ^ D Y/Cy ^ /N/
+
+EC/Mg
+
+^^*
+
+^ ^- x N N
+
+f SD i A
+
+KC N X
+
+s
+
+^. ** "*
+
+^
+
+^
+
+S NES c \
+
+6-
+GOR>20, 000:1
+
+v
+
+^^
+
+*
+
+T
+
+*
+
+""-^ - KV<.D° _^
+
+N A*/w/wt T C(OC),'/'
+
+/ ^*
+
+^^ s
+
+^^ ^^k .^-^M.
+
+0\0^°
+
+GOR>100, 000:1 °P
+
+GOR>1, 000, 000:1
+
+III
+
+Oil and associated gas
+
+Gas and associated oil
+
+Gas and local associated oil
+
+Nonassociated gas
+
+Hydrocarbon type
+
+Figure 4. Plot of depth to production vs. hydrocarbon type for oil and gas fields. See table 1 for the field codes and appendices for the data. Also shown (heavy dashed lines) are approximate levels of equivalent vitrinite reflectance (%Ro) for the fields (Wandrey and others, 1997). The %R<, values are from Middle Ordovician rocks approximately 1,500 to 2,000 ft beneath Lower Silurian rocks.
+
+the horizontal axis of figure 4 is very approximate. Several of the fields noted as having nonassociated gas as their hydrocarbon type also produce some condensate.
+Most of the data fall in two slightly overlapping clusters (fig. 4). One of the data clusters consists primarily of fields in the discrete part of the regional accumulation that range in depth from about 2,800 to 5,100 ft and whose hydrocarbon types are either oil and associated gas or gas and associated oil. The second data cluster consists of fields in the basin-centered part of the accumulation that range in depth from about 4,300 ft to 6,200 ft and whose hydrocarbon types are either nonassociated gas or gas with local associated oil. The overlap of these data clusters is caused by gas and associated oil at about 4,000 ft in the Conneaut gas field (Indian Springs and Kastle pools; Appendices G, H) (fig. 2). Perhaps this overlap indicates that the Conneaut field has been misidentified as belonging to the basin-centered part ofthe accumulation. In this region of northwestern Pennsylvania, the discrete-basin-centered boundary ofRyder (1995) could be moved eastward to include the Conneaut gas field with the discrete part of the regional accumulation. Although obvious overlap occurs, figure 4 suggests that a depth of about 5,000 ft and a GOR of about 100,000:1 are threshold values to distinguish discrete verses basin-centered accumulations. Moreover, the addition of equivalent vitrinite reflectance (%Ro) isograds from Middle Ordovician strata about 1,000 to 1,500 ft below the Lower Silurian (Wandrey and others (1997) to figure 4 suggests that %Ro =1.10 may represent another threshold value for discriminating discrete versus basin-centered accumulations. Equivalent %Ro isograds may be significant for discriminating between discrete and basincentered accumulation because they identify areas of peak gas generation and, thus, favorable regions for basin-centered accumulation. Law and Dickinson (1985) report that in Rocky Mountain basin examples of basin-centered accumulation, %Ro = 0.94 corresponds to the top of active overpressuring, a temperature of 180° F (82° C), and the top of active gas generation.
+Several small anomalous data clusters on figure 4 indicate that nonassociated gas can be present at shallow depths (2,000 to 3,000 ft) in the discrete and basin-centered parts of the accumulation. Shallow nonassociated gas in the Homer and Lancaster/Sugar Grove gas fields (fig. 2) characterizes a band of fields along the western margin of the discrete part of the accumulation that extends from northern Kentucky to Ontario, Canada. Moreover, shallow nonassociated gas in the Lakeshore gas field characterizes the basin-centered part of the accumulation (Ryder, 1995) in most of western New York State and adjoining Ontario, Canada (fig. 2). These large areas of shallow nonassociated gas that seem out of place with respect to their apparent thermal maturation history must be explained in petroleum generation and migration models that are proposed for the regional accumulation (Nuccio and others, 1997).
+Structural Setting and Natural Fractures
+The dominant structure associated with the Lower Silurian hydrocarbon accumulation is a gentle southeast-dipping homocline (<1°) that forms the northwest flank of the Appalachian basin (Knight, 1969; Boswell and others, 1993). In the 25-field data set, this dominant north- to northeast-striking structural trend commonly has a subtle overprint of structural terraces, anticlinal noses, faults, and fractures (table 2). Minor
+10
+
+Field Name Accumulation Structural
+
+(Code)
+
+Type Terraces
+
+Adams/ Waterford/ Watertown (A/W/Wt) Athens (A)
+Best(B)
+Carbon Hill (CH)
+Claysville (Civ)
+Clayton (Cl)
+Indian Springs pool of Conneaut field [Cn(IS)] Kastle pool of Conneaut field FCn(K)l Cooperstown (C)
+Oil Creek pool of Cooperstown field [C(OC>] East Canton/ Magnolia (EC/Mg) Homer (H)
+Kantz Corners (KC) Lakeshore (LS)
+Lancaster/ Sugar Grove (La/SG) Lenox (Ln)
+Logan(Lo)
+Mantua/ Shalersville (Ma/Sh) Moreland (M)
+
+BC
+BC D D D D BC
+BC
+BC BC
+D D BC BC D D D D
+D
+
+X
+X X X
+
+North Jackson/ Lordstown (NJ/L) Northeast Salem (NES) Ravenna (R)
+Senecaville (S)
+SharonDeep(SD)
+Yorktown/Clay (Y/Cy)
+
+BC
+BC
+D BC BC D
+
+X X
+
+Anticlinal Faults Fractures Noses
+X? X
+
+Associated Regional Structures
+Cambridge Arch
+
+X
+
+X
+
+Tyrone-Mi Union lineament
+
+X
+
+XX X Cambridge Arch
+
+XXX
+
+X
+
+X
+
+X
+
+X?
+
+French Creek lineament
+
+X X XX X X?
+X X? X
+
+X
+
+North end of Parkersburg- Lorain
+
+syncline
+
+X X?
+
+X
+
+X X Suffield fault
+
+X
+
+Table 2. Summary of local and regional structural elements overprinted on the north- to northeast-striking regional structural trend of the Appalachian basin. D = discrete, BC = basin-centered. Location of fields are shown on figure 2.
+
+11
+
+closure is noted on several of the anticlinal noses. Moreover, several of the oil and gas fields are closely associated with probable basement-controlled, cross-strike structures such as the Cambridge arch (Baranoski, 1993; Root and Martin, 1995) and the TyroneMt. Union lineament (Rodgers and Anderson, 1984). The conspicuous absence of structural closure in the fields of the data set supports Knight's (1969) interpretation that structure has a negligible effect on entrapment in the regional accumulation. However, structure is considered important for controlling: 1) the segregation of oil, gas, and water in the reservoir (Knight, 1969), 2) conduits for hydrocarbon migration, 3) zones of preferential reservoir drainage (Bush and others, 1987), and 4) the distribution and character of naturally fractured reservoirs (Core, 1986).
+Natural fractures are documented or inferred in over one-half of the fields in the data set (table 2). Many of the fractures accompany regional structures cited in table 1 and probably share a common origin with them. In the Best gas field (Appendix C) and the Carbon Hill oil field (Appendix D), measured fracture orientations in the "Clinton" reservoir are dominated by northwest- and northeast-trending sets. Outcrops ofDevonian strata near the Athens gas field (Appendix B) show similar fracture orientations. Very likely, the northwest-southeast oriented fracture sets were caused by compressive stresses during the Alleghanian orogeny (Engelder and Geiser, 1980; Engelder, 1985), whereas the northeast-southwest oriented sets were caused by contemporary compressive stresses on the crust of the eastern and midcontent regions of the U.S. (Zoback and Zoback, 1980; Engelder, 1982). Most petroleum-industry geologists recognize the importance of natural fractures for creating high-yield oil and gas wells in the Clinton and Medina sandstone reservoirs (Sitler, 1969; Alexander and others, 1985; Core, 1986). In wells stimulated by hydrofracturing, these natural fractures improve the permeability of the reservoir and the subsequent drainage of hydrocarbons into the wellbore. Also, Zagorski (1991) suggests that natural fractures are important conduits for migrating formation water. According to Zagorski, this water has dissolved chemically unstable grains, such as feldspar, to form highly productive gas-bearing zones with secondary porosity. Although concentrations of natural fractures are very important for predicting production sweet spots, they are widely distributed across both the discrete and basin-centered parts of the regional accumulation and, thus, have little discriminatory value.
+Trap Types
+Although most oil and gas fields in the Lower Silurian regional accumulation are identified as stratigraphic-trap fields (Knight, 1969; McCormac and others, 1996), many of them do not demonstrate a well-defined updip pinchout of the sandstone reservoir(s) (table 3). Entrapment of oil and (or) gas in these situations may be explained by several mechanisms: 1) subtle updip changes in depositional and (or) diagenetic facies and 2) high-water saturation in low- to moderate-permeability rocks (water block).
+Subtle updip changes in reservoir character, for depositional and (or) diagenetic reasons, have been documented as the cause of stratigraphic entrapment of oil and gas in many shallow-marine and coastal terrigenous-clastic sequences (Harms, 1966; Reinert and Davies, 1976; Wood and Hopkins, 1992). Depositional and (or) diagenetic changes may create subtle increases in capillary pressure in a given reservoir that, in turn, form a barrier
+12
+
+Field Name (Code)
+Adams/Waterford/ Watertown (A/W/Wt) Athens (A)
+Best(B)
+Carbon Hill (CH)
+Claysville (Civ)
+Clayton (Cl)
+Indian Springs pool of Conneaut field [Cn(IS)l Kastle pool ofConneaut field [Cn(K)l Cooperstown (C)
+Oil Creek pool of
+Crco(oopcer)sitown field
+East Canton/Magnolia (EC/Mg) Homer (H)
+Kantz Comers (KC)
+Lakeshore (LS)
+Lancaster/Sugar Grove CLa/SG) Lenox (Ln)
+Logan (Lo)
+Mantua/Shalersville (Ma/Sh) Moreland (M)
+North Jackson/ Lordstown (NJ/L) Northeast Salem (NES)
+Ravenna ( R )
+Senecaville (S)
+Sharon Deep (SD)
+Yorktown/Clay (Y/Cy)
+
+Accumulation Type BC
+
+Trap Type(s) S/St (F/f)
+
+BC S DS DS DS D S/St (F) BC S
+
+BC _ S
+
+BC WB BC WB
+
+DS
+DS BC WB BC S DS
+D S/St DS DS
+DS BC S
+BC S/St DS BC S BC WB D S/St
+
+Updip pinchout of reservoir No
+No No
+
+Updip decrease in net sandstone
+Yes
+
+No Yes Yes
+
+Yes No No No
+No Yes
+Yes No No No No Yes No No
+No
+Yes No No No No Yes No No
+
+Table 3. Summary of trap types in the oil and gas field data set. S = stratigraphic, St = structural, F = fault, f= fractures, WB = water block, D = discrete, BC = basincentered. Location of fields shown on figure 2.
+
+13
+
+to updip oil and gas migration (Berg, 1975; Schowalter, 1979; Vavra and others, 1992). The height of the hydrocarbon column is a direct measure ofthe effectiveness of the trap (Berg, 1975). That is, the thicker the hydrocarbon column the greater the differential capillary pressure between the reservoir and trap facies. Berg (1975) reports that permeable and water-bearing facies may form an effective barrier to hydrocarbon migration. Moreover, capillary pressures required to trap natural gas are higher than those required to trap oil. Undoubtedly, the majority ofthe stratigraphic traps in the Lower Silurian regional accumulation are controlled by similar factors.
+The Athens gas field is one of a small number of Clinton/Medina fields that have been comprehensively studied for depositional and diagenetic facies variability and their effect on hydrocarbon entrapment (Laughrey, 1984). Laughrey reports that there is no obvious updip pinchout ofthe reservoir sandstones in the field but they do show an updip loss of porosity due to increased cementation. He proposes that gas may originally have been trapped in a paleostructure and cementation occurred at an associated gas-water contact beneath it. In a later episode oftilting that formed the present-day homocline, gas was kept in place by the pre-tilt zone of cementation. Gas is produced from the trapping facies but at lower initial rates than is produced from the reservoir facies (Laughrey, 1984).
+Depositional facies of the Senecaville gas field (Appendix W) were studied in detail by Keltch and others (1990). They show that the field is a stratigraphic-trap accumulation caused by the updip pinchout of reservoir sandstone of distributary mouth bar and distributary channel origin. Four time slices through the 185-ft-thick "Clinton" sands-Cabot Head Shale interval show marked thickness variations of individual sandstone reservoirs ranging from 2 to 24 ft.
+Except for the East Canton/Magnolia oil field (Appendix K; fig. 2) and its large associated gas cap, hydrocarbon columns in the "Clinton" sands of Ohio are relatively thin, perhaps averaging 50 ft thick or less. Such relatively thin hydrocarbon columns suggest that the trapping facies have capillary pressures that only slightly exceed those ofthe reservoir facies and, consequently, updip leakage of oil and gas has been a common condition ofthe regional accumulation. Schowalter (1979) postulated a stratigraphic-leak differential-entrapment model for such a setting where oil is trapped downdip from the gas. The model operates on the premise that the traps along a migration path are a series of displacement-pressure barriers that will hold a certain hydrocarbon column and leak gas preferentially to oil updip through the barrier before the trap is filled to its stratigraphic spillpoint (Schowalter, 1979). This model might account for the large gas fields that rim the western margin ofthe discrete part of the Lower Silurian regional accumulation in Ohio and Ontario, Canada. However, other origins for the gas also should be considered such as late-stage gas exsolution from oil during Mesozoic uplift and erosion of the Appalachian basin (R. C. Burruss, oral communication, September 1997).
+High water saturation in low-permeability rocks was recognized by Masters (1979) as a dominant trapping mechanism for the deep basin Elmworth gas field in Lower Cretaceous strata of western Canada. This trapping mechanism differs from that accompanying conventional reservoirs because gas is overlain by water rather than the reverse. This mechanism of entrapment (commonly referred to as water block), is probably caused by moderate- to low-permeability rocks with high water saturation where
+14
+
+relative permeability of gas to water is reduced to essentially zero (Masters, 1979; Price, 1995). Gies (1984) suggests that the Elmworth deep basin (basin-centered) gas accumulation of western Canada is in a dynamic state of updip migration.
+Davis (1984) and Zagorski (1988, 1991) applied the basin-centered (deep basin) concept to the Lower Silurian regional accumulation of the Appalachian basin. In Ohio, Davis interprets the eastern margin of the water-block trap to conform approximately with the -3,500 ft subsea structure contour at the top of the "Clinton" sands. In the area east of this contour line, which includes Best (Appendix C), East Canton/Magnolia (Appendix K), and Claysville fields (Appendix E), the "Clinton" sands are considered to be part of a 2,000-ft-thick gas column with no associated formation water (fig. 5). According to Davis (1984), west of this line the "Clinton" sands and their hydrocarbon accumulations are associated with formation water. Zagorski (1991) extends the line ofDavis (1984), and consequently the water-block mechanism of entrapment, into northwestern Pennsylvania along the updip margins of Sharon Deep (Appendix X), Kantz Corners (Appendix M), and Cooperstown (Appendix I) fields (fig. 5). There, the boundary between the water-block trap and the downdip gas accumulation is somewhat irregular as a result of its interaction with cross-cutting lineaments (Zagorski, 1996).
+Of the 25 oil and gas fields in the data set, only the Cooperstown, Kantz Corners, and Sharon Deep fields having a water-block mechanism of entrapment can be clearly identified as belonging to the basin-centered part of the accumulation (table 3). The remainder of the fields in the data set, particularly those without a recognizable updip pinchout of the reservoir or a significant updip decrease in net sandstone thickness, have no distinguishing characteristics to classify them as either discrete or basin-centered accumulation. However, those fields characterized by an updip pinchout or decrease in thickness of the reservoir have a greater likelihood of being associated with the discrete part of the regional accumulation. Additional details of depositional and diagenetic facies variations and their associated capillary pressures are required to determine whether or not the traps are strictly stratigraphic. Data concerning the volume of produced water from these fields to be discussed in a following section of the report will provide a better understanding of the nature of entrapment. In particular, the produced water data are required to evaluate the disparity between the discrete and basin-centered accumulation boundaries identified by Davis (1984)-Zagorski (1991) and Ryder (1995).
+Reservoir Porosity and Permeability
+A plot of average reservoir porosity (<Dave) vs. average reservoir permeability (Kave) for the 25-field data set shows an expected direct relation between these variables (fig. 6). Although tentative, this plot suggests two distinct reservoir types in the Lower Silurian regional accumulation.; one type with Kave > 0.1 mD, <X>ave > 10%, and another with Kave < 0.1 mD, <X>ave < 10%. Furthermore, Kave = 0.1 mD is the threshold value used by the Federal Energy Regulatory Commission (FERC) to designate a tight (low-permeability) gas formation (Dutton and others, 1993), implying geologic significance to the regulatory limit.
+Judging from figure 6, average reservoir permeability seems to be a reasonable first approximation for identifying discrete and basin-centered parts of the regional
+15
+
+Ontario, Canada
+82
+
+Onondaga field
+
+42
+
+41
+
+Arabia field
+
+SCALE 1:2,500,000
+0 50 Miles
+Distribution of oil and gas in Lower Silurian sandstone reservoirs, Appalachian basin
+fields studied in this report
+
+R ^ WeSt Virginia '-' ^
+
+M »
+-7-
+
+Oil Gas Oil and associated gas Gas and Nonassociated gas associated oil
+Approximate updip limit of basin-centered accumulation (based on Ryder, 1995) Approximate updip limit of gas saturation (Davis, 1984; Zagorski, 1991) Approximate updip limit of the Tuscarora Sandstone
+
+Ky /
+
+Figure 5. Map of regional hydrocarbon accumulation in Lower Silunan sandstone reservoirs ofthe Appalachian basin showing the updip limit of gas saturation as proposed by Davis (1984) and Zagorski (1991).
+16
+
+100
+10
+Q
+£
+
+Lo
+a
+La/SG D Cl
+D H
+NJ/L D M
+D Civ CH
+
+Part of regional accumulation as defined by Ryder (1995)
+
+Mean
+
+Basin-centered Discrete
+
+03 CD
+E
+CD Q.
+0.1
+
+D Ln LS
+
+D R
+
+EC/Mg KG NES
+*f U m Cn(IS) C(OC) Y/Cy
+Cn(K)
+DB
+
+0.01
+0
+
+A/W/Wt
+
+Ma/Sh D
+
+I
+10
+
+20 Porosity (%)
+
+30
+
+Figure 6. Plot of average reservoir porosity vs. average reservoir permeability for oil and gas fields. Only Only matrix porosity and permeability appear on the plot. See table 1 for the field codes and
+appendices for the data.
+
+accumulation. Of the 12 fields in the data set whose reservoirs have an average permeability of 0.1 mD or less, 8 fields are located in the basin-centered part of the regional accumulation as defined by Ryder (1995). In contrast, those fields in the data set whose reservoirs have an average permeability of greater than 0.1 mD, 9 of 13 are located in the discrete part of the accumulation. Although slightly different fields are involved, a 0.1 mD threshold value of average reservoir permeability has about the same degree of success for differentiating water saturated (discrete) versus gas saturated (basin-centered) parts of the regional accumulation as defined by the boundary ofDavis (1984) and Zagorski (1991).
+The imperfect match between average permeability and accumulation type is further shown on the Grimsby-interval permeability map by Boswell and others (1993). This map suggests that highly irregular, northwest-oriented tongues having 0.3 to >1.0 mD permeability extend from the discrete part ofthe accumulation, where they predominate, into the basin-centered part of the accumulation where they eventually pinch out. In contrast, similarly oriented irregular tongues of lower permeability (<0.3 mD) are predominant in the basin-centered part of the accumulation but extend westward, tens of miles, into the discrete part ofthe accumulation.
+Reservoir Water Saturation and Volume/Salinity ofProduced Waters
+Law and Dickinson (1985) postulate that most reservoir water accompanying active basin-centered accumulation is at irreducible saturation levels. However, they add that mobile water may re-enter the accumulation after temperature and pressure reduction following basin uplift and erosion. Capillary pressure curves that show irreducible water saturation of a given reservoir rock are normally unavailable for the Lower Silurian accumulation and, thus, could not be used to help discriminate between its discrete and basin-centered parts. A plot of average water saturation (Sw) vs. depth to production shows a general trend of decreasing Sw with depth (fig. 7). Although the trend of the plot is consistent with basin-centered accumulation, the plot appears to have little value for differentiating discrete versus basin-centered parts ofthe accumulation as defined by Ryder (1995). Part of the reason for the poor discriminatory value of the plot is because reservoir permeability has not been accounted for as it would have been had irreducible water saturation been used.
+Castle and Byrnes (in press) report that most water saturation in the Cooperstown field (basin-centered part; Appendix I) is at irreducible levels. Here, irreducible water saturation (Swi) ranges from 10 to 80 percent and varies inversely with porosity. Medina Group sandstones with porosity in the 6 to 8 percent range and Swi < 20 % contain the majority ofthe gas storage capacity in the reservoir whereas those with porosity less than 3 percent and Swi > 40% are non-pay.
+Produced water has been reported for 20 fields in the data set (table 4) and, very likely, the remaining 5 fields will be reported as such when data are available. Of the 20 fields in the data set that produce water, 11 ofthem have information regarding the volume of produced water (table 4). Information ranges from incomplete reports that indicate "all wells produce some water" or "water production is low" to detailed reports that permit calculations of water production (table 4; fig. 7). Water production per well is
+18
+
+0
+Part of regional accumulation as defined by Ryder (1995)
+
+Mean
+
+Basin-centered O Discrete
+
+o o o
+c o o
+13 O
+l_
+Q. O
+Q. 0) Q
+6'
+
+La/SG
+Ha
+D
+
+Lo
+D Sa = 240,760 (n=3)
+
+LS Sa = 256,274 (n=29) O
+
+1,200 BW/MMCFG
+
+D
+M Sa = 200,083
+
+Ma/Sh Sa = 319,638
+
+CH Sa = 200,000-300,000
+
+D Ln Sa = 220,014 (n=3)
+
+NJ/L
+
+R D
+
+D
+Civ
+
+EC/Mg
+
+Sa = 212,000 Sa = 250,000 (n=10)
+
+°D
+
+I
+
+D
+
+<12 BW/MMCFG "
+
+B Sa = 287,611 (n=3)
+
+KG 13 BW/MMCFG Sa = 257,000 (n=5)
+
+NES
+9 BW/MMCFG
+
+A/W/Wt 11 BW/MMCFG (n=26)
+
+J_
+10 20 30 40 50 60
+Reservoir water saturation (average Sw in %)
+Figure 7. Plot of average reservoir water saturation vs. depth to production for oil and gas fields. See table 1 for field codes and appendices for the data. Also shown are volume of produced water per well in barrels of water (BW)/million cu ft of gas (MMCFG) and average salinity (Sa) of formation waters (in ppm). n = number in sample set.
+
+Field Name (Code)
+Adams/Waterford/ Watertown (A/W/Wt)
+Athens (A) Best(B) Carbon Hill (CH) Claysville (Civ) Clayton (Cl) Indian Springs pool of Conneaut field [Cn(IS)] Kastle pool of Conneaut field [Cn(K)] Cooperstown (C)
+Oil Creek pool of Cooperstown field [C(OQ] East Canton/ Magnolia (EC/Mg) Homer (H) Kantz Corners (KC) Lakeshore (LS)
+Lancaster/Sugar Grove (La/SG) Lenox (Ln)
+Logan(Lo) Mantua/Shalersville (Ma/Sh) Moreland (M)
+North Jackson/ Lordstown (NJ/L) Northeast Salem (NES)
+Ravenna ( R ) Senecaville (S)
+SharonDeep(SD) Yorktown/Clay (Y/Cy)
+
+Accumulation Type BC
+BC D D D D BC
+BC
+BC
+BC
+D
+D BC BC
+D
+D
+D D
+D
+BC
+BC
+D BC
+BC D
+
+Reports of Produced Water
+Yes
+Yes Yes Yes Yes Yes Yes Yes
+Yes
+Yes Yes Yes Yes Yes Yes Yes
+Yes
+Yes
+Yes Yes
+
+Estimated or Measured Volume
+Not much water produced; x = 11 BW/MMCFG, range <1 to 35, n = 29 13 BW/MMCFG, n = 1
+All wells produce some water Brine production is insignificant except in local areas
+Most wells produce water; from several gal/day to a few BW/day
+No produced water reported from early wells large amount of salt water in discovery well All wells produce some liquid (oil and/or water) x ~ 1,200 BW/MMCFG, n = 3
+Permeable zones are essentially water free
+44% of wells do not produce water; x ~ 9 BW/MMCFG
+Water production is low; 0 to 2,000 BW/year; <12 BW/MMCFG
+
+Table 4. Summary of produced water in Clinton/Medina sandstone reservoirs. D = discrete, BC = Basin-centered, BW = Barrels ofwater, MMCFG = Million cu ft of gas, n = number in sample set, x = mean.
+
+20
+
+summarized in this report as barrels ofwater (BW) per million cu ft of gas (MMCFG). As suggested by the plot ofwater saturation (fig. 7), fields classified with the basin-centered part of the regional accumulation have lower volumes of produced water per well than fields classified with the discrete part ofthe accumulation (table 4). Four fields in the data set affiliated with the basin-centered part of the accumulation have an average yield per well that ranges from 9 to 13 BW/MMCFG (table 4; fig. 7). Water yields in this range or less may be a diagnostic feature of the basin-centered part of the accumulation. A water yield of 1,200 BW/MMCFG for the Logan field (Appendix Q) (fig. 7) suggests high water yields for the discrete part ofthe accumulation.
+Produced water from the Lower Silurian regional accumulation is classified as a brine [>35,000 mg/1 total dissolved solids (IDS)] with sodium and chloride as dominant constituents and calcium and magnesium as major components (Stith, 1979; Breen and others, 1985; Lowry and others, 1988; Siegel and others, 1990; Rose and Dresel, 1990; Sanders, 1991). Sodium, calcium, and chlorine account for approximately 97% of the IDS (Sanders, 1991). Potassium and bromide are present in the brines as relatively concentrated minor components (Breen and others, 1985). These Na-rich brines in the Lower Silurian regional accumulation probably originated from the interaction of migrating connate water with beds of halite in the Upper Silurian Salina Group (Lowry and others, 1988; Rose and Dresel, 1990; Siegel and others, 1990)(see fig. 3 for the stratigraphic position ofthe Salina Group). Also, Lowry and others (1988) recognize a second type of brine (Ca-rich) that they imply may have originated beneath the Salina Group in the Appalachian basin. This second type ofbrine may represent water expelled during basin-centered gas generation and accumulation in a manner proposed by Law and Dickinson(1985).
+Brine salinity expressed as TDS (in mg/1 or ppm) or as total concentration of common constituent elements (in ppm) is available for 14 ofthe fields in the data set. Salinity of the produced waters in the data set ranges from 147,000 to 327,000 TDS but is largely confined to a range of 200,000 to 300,000 TDS (fig. 7). In the data set used in this report there does not appear to be a correlation between salinity and depth to production or salinity and hydrocarbon type (fig. 7). However, larger data sets in Ohio suggest a regional eastward to southeastward decrease in Na-rich brine (Lowry and others, 1988) and divalent metal chlorides (Sanders, 1991). Sanders (1991) suggests that the southeastward decrease in divalent metal chlorides reflects an earlier stage of compaction-driven water flow toward the margin ofthe basin. Alternately, these waters characterized by a southeastward decrease in divalent metal chlorides could have been expelled during basin-centered gas generation and accumulation in a manner proposed by Law and Dickinson (1985).
+Data in this report (table 4; fig. 7) reveal the important fact that water (brine) is produced from both discrete and basin-centered parts ofthe regional accumulation. Moreover, the data set suggests that fields in the basin-centered part of the accumulation produce less water than fields in the discrete part. Thus, although an oversimplification, the concept proposed by Davis (1984) whereby the Clinton/Medina hydrocarbon accumulation is subdivided into water-bearing and water-deficient compartments appears to be correct. Obviously more data are required to better quantify water production per well in terms of volume with respect to each MMCF of gas produced.
+21
+
+Judging from the small data set gathered to date, the basin-centered part of the regional accumulation seems to be characterized by an average water production per well of 13 BW/MMCFG or less.
+Segregation of Gas and Fluids in Reservoirs
+Of the few fields in the data set where fluid contacts were evaluated, none have recognizable oil-water or gas-water contacts. However, by analogy to the Arabia gas field in Lawrence County, Ohio (fig. 2), studied by Zagorski (1996), a gas-water contact could be present at the Homer and Lancaster/Sugar Grove gas fields. Moreover, probable oilwater and gas-water contacts although not reported as such appear to be present in the Onondaga oil field (Harkness, 1935) and locally in the Norfolk field (MacDougall, 1973) in Ontario, Canada (fig. 2). These proposed oil-water and gas-water contacts in the Canadian part ofthe regional accumulation may be very localized because they have not been reported in published investigations (MacDougall, 1973; Cochrane and Bailey Geological Services Ltd., 1986).
+Referring to the regional Clinton accumulation in general, Lockett (1929) reports that, "gas occurs in the higher parts ofthe sandstone reservoir and, where the reservoir is relatively continuous, considerable oil has accumulated in its lower parts." He did not mention oil-water or gas-water contacts. This published comment by Lockett (1929) also seems to apply to oil-bearing fields in the data set such as 1) Best gas field (Seibert, 1987) and East Canton/Magnolia oil field (Sitler, 1969) where oil most commonly occupies a structurally low position with respect to gas and 2) Ravenna and Mantua/ Shalersville (Wilson, 1988) gas fields where oil seems to be associated with the thickest sandstone reservoirs. Exceptions such as the Lenox gas field (Munsart, 1975) where oil occurs in the structurally highest parts of the field and the Northeast Salem gas field (Seibert, 1987) where local oil lies updip or lateral to gas suggest special circumstances caused by paleostructure or marked stratigraphic variability within the reservoir.
+Although water is most commonly located in the structurally lowest part of the reservoir, such as in the Lenox gas field (Munsart, 1975), it can appear anywhere. For example, in the East Canton/Magnolia oil field, the structurally highest part of the field produces the most water (Schrider and others, 1969). Moreover, long gas-to-water transition zones are reported in the Athens gas field (Laughrey, 1984) and in the Norfolk gas field (MacDougall, 1973). Finally, as discussed by Zagorski (1991), a zone of high water saturation is located updip ofthe Cooperstown and Sharon Deep gas fields and appears to serve as the trap. Even in this situation, the boundary between gas and water is very transitional and most water-bearing units contain some associated gas.
+Normally, classical discrete (conventional) accumulations show well-defined gasoil-water, oil-water, or gas-water contacts due to the differential buoyancy ofthe fluid and gas involved. These well-defined oil-gas-water contacts are obviously missing in the discrete part of the regional accumulation in central and eastern Ohio, as defined by Ryder (1995). The absence of fluid-gas segregation begs the important question as to whether or not any of the oil and gas fields in central and east-central Ohio should be classified as discrete accumulations. A major cause of the poor oil-gas-water segregation observed here and the associated classification dilemma is pervasive reservoir heterogeneity.
+22
+
+Significant contributors to reservoir heterogeneity are relatively thin, intertonguing, lenticular sandstone bodies; marked depositional and diagenetic facies variability; and relatively low porosity and permeability. Another factor contributing to the classification dilemma is human nature. Commonly, we overly simplify a natural system into two end members when in reality it is far more complex (T. S. Dyman, written communication, March 1998). Only those fields observed or surmised to have gas-water contacts along the western margin of the accumulation are recognized here as true discrete (conventional) accumulations. The remainder of the discrete part of the accumulation as defined by Ryder (1995) is neither a discrete or basin-centered type and, thus, following Zagorski (1996), is tentatively classified as a hybrid type of accumulation.
+Segregation of gas and water by a different mechanism occurs at the broad transitional contact between the discrete and basin-centered parts of the regional accumulation (Davis, 1984; Zagorski, 1988, 1991). By analogy to basin-centered accumulations in western North America (Gfies, 1984; Law and Dickinson, 1985), the zone ofhigh water saturation (water-block trap) located updip from the zone of high gas saturation consists, in large part, of mobile pore water that was displaced from deeper in the basin by large-scale gas generation. The continuous gas phase and irreducible pore water left behind constitutes the basin-centered gas accumulation. This mechanism can only operate in low- permeability rocks (Gies, 1984; Law and Dickinson, 1985; Price, 1995). The interface between downdip gas and updip water fluctuates according to rates of gas generation and accumulation vs. rates of gas loss. Law and Dickinson (1985) and Spencer (1987) suggest that gas generation and its net accumulation coincides with an overpressured phase in the basin that occurs during maximum burial and high heat flow whereas gas loss coincides with an underpressured phase that occurs during regional uplift and erosion. According to Gies (1984), the updip limit of high gas saturation is controlled by a regional facies change to sandstone reservoirs of higher permeability. This facies change to more permeable rocks permits buoyant forces to become dominant and, thus, permit gas to move updip at a rate that exceeds the rate of gas influx from lower permeability rocks in the deeper part ofthe basin.
+Reservoir Pressure and Bottom-hole Temperature
+A plot of reservoir pressure vs. depth to production for the data set shows that most of the Clinton/Medina reservoirs are underpressured with respect to a normal hydrostatic gradient for salt water (fig. 8). The plot shows considerable scatter because 8 fields include pressures calculated by Thomas (1993) in addition to those reported from other sources. Most pressures in the Thomas (1993) data set are higher than those from other sources, commonly by several hundred psi, because they represent bottom-hole pressure rather than wellhead pressure. However, in older fields, such as Homer and Lancaster/Sugar Grove, pressures calculated by Thomas (1993) tend to be lower than those reported from other sources because they were based on wells drilled after the original pressures had been greatly reduced.
+The overall trend of the plot is toward increasing underpressuring with depth (fig. 8), a trend also recognized by Thomas (1993). Moreover, data points on the plot are grouped into two clusters. One cluster consists of fields very close to being normally
+23
+
+Overpressured
+
+Part of regional accumulation as defined by Ryder (1995) Basin-centered Discrete
+
+o o o o
+
+c o
+4«
+o
+o
+1_
+ex o
+4'
+-C ^i
+a
+a Underpressured
+
+500 1000 1500 2000 2500
+Reservoir pressure (in psi)
+Figure 8. Plot of reservoir pressure vs. depth to production for oil and gas fields. See table 1 for the field codes and appendices for the data. Arrowheads on the curved and straight lines point toward values in the data set of Thomas (1993).
+
+pressured and that define a trend with a gradient of approximately 0.35 to 0.40 psi/ft (fig. 8). All 5 fields in this cluster are from the discrete part of the regional accumulation and 4 of the 5 fields are located near the western margin of the accumulation where probable gas-water contacts occur. In contrast, the second cluster consists of fields that are markedly underpressured and that define a trend with a gradient of approximately 0.10 to 0.25 psi/ft (fig. 8). The second cluster is dominated by fields from the basin-centered part of the accumulation. Although overlap occurs, these two populations of pressure/depth gradients on figure 8 and also shown by Thomas (1993) may define useful criteria for differentiating discrete from basin-centered parts of the accumulation.
+The origin of the underprejssuring is unresolved. According to Thomas (1993), no single existing hypothesis is sufficient to explain all the observed pressure trends. Most promising of the hypotheses appear to be basin hydrodynamics, deep basin gas saturation, epeirogenic movement, and horizontal flow (Thomas, 1993). Post-orogenic uplift ofthe regional accumulation with subsequent cooling and slow leakage of the hydrocarbons after an earlier phase of overpressuring offers another plausible explanation of the regional underpressuring (Law and Dickinson, 1985; C. W. Spencer, oral communication, May 1997).
+Although the Lower Silurian regional accumulation has been modified by uplift and erosion, bottom-hole temperature may discriminate between discrete and basin-centered accumulation because it identifies areas of peak gas generation that were most favorable to basin-centered accumulation. A plot of bottom-hole temperature (corrected) vs. depth to production for the data set approximates a straight line that defines a regional temperature gradient of about 1.3°F/100 ft (23.7°C/km) (fig. 9). This gradient is slightly lower than the recognized norm of about 1.65°F/100 ft (30°C/km) but it is in general agreement with geothermal gradients shown for the Appalachian basin (American Association of Petroleum Geologists and USGS, 1976). A threshold temperature of about 125°F (52°C) separates most of the fields associated with the discrete and basin-centered parts of the regional accumulation (fig. 9). Moreover, as suggested in figure 4, a vitrinite reflectance -1.10 may be a plausible threshold value for discriminating discrete from basin-centered parts of the Lower Silurian regional accumulation. The 126° to 162°F (52° to 72°C) temperatures of fields in the basin-centered part of the accumulation (fig. 9) suggest significant cooling since the 180° to 200° F (82°-94° C) temperatures probably achieved during its active phase (Law and Dickinson, 1985; Spencer, 1989).
+Ultimate Gas Recovery Per Well
+Gas production expressed as estimated ultimate recovery (EUR) per well is available for 10 fields in the data set (table 5). These EURs are shown in table 5 as median (Fso) or mean (x) values depending on how they are reported in the literature or on probability plots used in this investigation (fig. 10). In fields such as Yorktown/Clay (Appendix Y) where production records are available for just the best 1 or 2 wells, the EUR is expressed as the 5th percentile (Fs) (table 5). EURs are most valuable where they are plotted as a probability distribution of at least 25 wells (fig. 10). However, only 5 of the 10 fields with mean or median EURs have been calculated from a probability plot; the remainder represent a "best guess" based on the experience of the reporting individual.
+25
+
+Part of regional accumulation as defined by Ryder (1995) I
+Basin-centered Discrete
+V) O O O
+c
+O '+O
+o
+IM.
+Q. O
+Q. 0) Q
+162
+
+100 110 120 130 Bottom-hole temperature (corrected using AAPG Geothermal Committee chart)
+
+140°F
+
+Figure 9. Plot of bottom-hole temperature (corrected using AAPG Geothermal Committee chart in Meissner, 1978) vs. depth to production for fields. See table 1 for the field codes and appendices for the data. Also shown (heavy dashed lines) are approximate levels of vitrinite reflectance (%Ro) for the fields (from Wandrey and others, 1997).
+
+Field Name (Code)
+Adams/Waterford/ Watertown (A/W/Wt) Athens (A)
+Best (B)
+Carbon Hill (CH)
+Claysville (Civ) Clayton (Cl)
+Indian Springs pool of Conneaut field [Cn(IS>] Kastle pool of Conneaut field [Cn(K)l Cooperstown (C)
+Oil Creek pool of Cooperstown [C(OC)] East Canton/ Magnolia (EC/Mg) Homer (H)
+Kantz Corners (KC) Lakeshore (LS) Lancaster/ Sugar Grove (La/SG) Lenox (Ln)
+Logan (Lo)
+Mantua/Shalerville (Ma/Sh) Moreland (M)
+North Jackson/ Lordstown (NJ/L) Northeast Salem (NES)
+Ravenna (R)
+Senecaville (S)
+SharonDeep(SD)
+Yorktown/Clay (Y/Cy)
+
+Accumulation Type BC
+BC D D D D BC
+BC
+BC BC
+D
+D BC BC D
+D D D
+D BC
+BC D BC BC D
+
+EUR/well Gas (in MMCF) Fso = 98, n = 26
+
+EUR/well Oil (in MB)
+
+x = 17
+
+x = 400 F50 = 225
+x=150
+
+F5 = 81.5
+
+Fso = 120, n= 100
+
+Fso = 170 Fso = 84,n = 65
+
+x = 205
+Fso = 166, n= 127 Fso = 200, n=81 Fso =180, n=81
+
+Fso = 2
+
+F5 = 800; x = 450
+
+Table 5. Summary of estimated ultimate recovery (EUR) of gas and oil per well. D =
+discrete, BC = Basin-centered, Fs = 5th fractile, Fso = 50th fractile, x = mean, n = number in sample, MMCF = Million cu ft, MB = Thousand barrels. Location of fields shown on figure 2.
+
+27
+
+10,000
+
+oou_
+1000
+0)
+5 ko>_
+Q. CO CO O)
+
+QC
+
+ID LLJ^
+
+100
+
+>k_> 0>
+O O 0)
+
+0> 03
+£
+
+0>
+H
+
+10
+
+CO
+
+£
+
+to
+LU
+
+0.05 0.5
+
+25 50 75 Probability
+
+95
+
+100
+
+Figure 10. Probability plot of estimated ultimate recovery (EUR) of gas per well in the Northeast Salem MMCFG = Million cu ft of gas. Sample number (n) = 127.
+28
+
+Judging from this preliminary data set, the fields from the basin-centered part of the accumulation have slightly greater median EURs than fields from the discrete part (fig. 11). Fields from the basin-centered part ofthe accumulation have median (or mean) EURs that range from 98 to 400 MMCFG per well whereas fields from the discrete part have median (or mean) EURs that range from 84 to 450 MMCFG per well. Far more production data are required from discrete and basin-centered parts of the accumulation before their EUR per well distributions are established. Also, additional production data are required to better understand the geologic causes of production sweet spots such as Ravenna (F50=200 MMCFG) and Cooperstown (x=400 MMCFG) fields (table 5, fig. 11), although it is probably significant that these fields adjoin fault zones and (or) surface lineaments.
+DISCUSSION
+The Clinton/Medina/Tuscarora basin-centered gas accumulation appears to differ significantly from the classic Cretaceous and lower Tertiary examples of the U.S. and Canadian Rocky Mountains and Great Plains (Masters, 1979, 1984; Law and Dickinson, 1985; Spencer, 1987). An important difference is the very wide transition zone that occurs between the Clinton/Medina/Tuscarora basin-centered, gas-bearing part of the accumulation and its updip discrete, oil- and gas-bearing part of the accumulation. Characteristics of this broad transition zone are: 1) low to modest water (brine) productivity, 2) a 50- to 75-mi-wide zone of oil-bearing strata in Ohio and northwestern Pennsylvania, 3) a general absence of hydrocarbon/water contacts, and 4) a continuous network of adjoining oil and gas fields. This zone of transition is so wide and the accompanying fields have coalesced to such a degree that the entire regional accumulation could be interpreted as a continuous-type accumulation.
+One reason for the wide transition zone is the lack of an abrupt, regionally extensive depositional and (or) diagenetic facies change in the Clinton/Medina sandstone reservoirs. The sandstone bodies that constitute the reservoirs are so highly lenticular and complexly intertongued that they have similar properties, such as porosity and permeability, across a broad region. A general trend of eastward-diminishing porosity and permeability is noted across the regional accumulation but the rate of change is very gradual and, thus, no well-defined boundary exists between its discrete and basin-centered parts.
+A second reason for the wide transition zone is that the regional accumulation has been substantially modified from its original basin-centered configuration. Among the probable post-generation/emplacement modifications to the regional accumulation are uplift and erosion, re-migration and slow leakage of constituent hydrocarbons, and mixing of several types of brine. A generalized model shown in figure 12 suggests how the Lower Silurian regional accumulation may have originated and how it was modified by post-entrapment processes. Important parts of the model include: 1) generation of oil and gas from a Middle Ordovician black shale source rock (Cole and others, 1987; Drozd and Cole, 1994; Ryder and others, 1998); 2) abnormally high fluid pressures caused by the transformation of oil to gas (Law and others, 1998), 3) updip displacement of moveable pore water by overpressured gas (Law and Dickinson, 1985), 4) post-orogenic uplift and
+29
+
+Basin-centered part of the accumulation
+
+co "-
+"o3 *^* "o
+v_ ' ~
+0)
+E
+Z
+0-
+c1
+
+v-ftygsSj:-N:.v.7."j;V:;;;.y
+fsl ;^ §
+SSS-SSS ^Z i§
+iwi
+
+IS!B aml|l fjjsf PI l^l
+l<i
+
+| jc I
+ill
+
+I 11 1C 0 2C 10 300 4()0 500
+
+F 5 oor X of the EUR distribution (in MMCFG)
+
+Discrete part of the accumulation
+
+2 03
+
+111 |"S| PHI!! IT? if !o| |Lnj
+
+H >>! 1^1
+
+0-
+c)
+
+;.;'it;-:;0*::X:^;V;:
+1C10
+
+11'
+
+2()0 300
+
+4C 10
+
+1
+500
+
+F 50 or X of the EUR distribution (in MMCFG)
+
+Figure 11. Estimated ultimate recovery (EUR) of gas per well distributions for fields in the discrete and basin-centered parts of the regional accumulation. See table 1 for the field codes and appendices for the data.
+30
+
+Oil/gas migration pathway
+
+Moveable water from overpressured region
+Latest Paleozoic
+
+Uplift + erosion + temperature reduction
+
+b
+Brine
+
+Underpressured region.
+
+Original updip limit of basin-centered
+
+part of regional accumulation
+
+Retreat of basin-centered part
+
+EL Mesozoic
+
+of accumulation due to gas loss, and shutdown of gas generation
+
+Figure 12. Generalized model ofthe origin and modification ofthe Clinton/Medina/Tuscarora regional oil and gas accumulation. Not to scale. The width of the figure covers about 130 mi and the total thickness ofthe stratigraphic units shown is about 1,500 ft.
+
+31
+
+erosion resulting in temperature decline, pressure loss, hydrocarbon remigration and loss, and basinward retreat of the updip limit of the basin-centered gas (Law and Dickinson, 1985), and 5) mixing ofbasin-centered and discrete parts ofthe accumulation with highdensity brine derived from the Upper Silurian Salina Group.
+The timing of mixing between Salina Group- and basin-center-derived brine is important for understanding the origin of the regional accumulation. The model shown in figure 12 suggests that brine from the Salina Group was introduced in Mesozoic time, much later than gas generation and entrapment in late Paleozoic time. B. E. Law (written communication, March 1998) favors pre-gas emplacement for the Salina Group-derived brine because ofthe unlikelihood that saline water has re-entered "Clinton" sands and Medina Group sandstone reservoirs during the underpressuring phase.
+Because of its high degree of modification, one should perhaps also think about a paleo-configuration as well as a present-day configuration when classifying the accumulation as a whole. An understanding ofthe paleo-configuration ofthe accumulation would require reconstruction of the "zone of retreat" to determine the maximum updip extent ofthe original basin-centered gas. However, the most practical approach to classifying the Lower Silurian regional accumulation and its components, particularly for resource assessment purposes, is to work within the present-day framework established by Davis (1984), Zagorski (1991, 1996), and Ryder (1995). A tentative classification scheme that incorporates their contributions is shown in figure 13. This classification recognizes three parts ofthe regional accumulation: 1) an eastern, basin-centered part, 2) a western, quasi-discrete part, and 3) a wide, central hybrid part. This classification is imperfect because of the very subtle differences between its three components but it incorporates factors that are relevant to an understanding of the accumulation's origin as well as to its recoverable energy resources.
+Other than for historical and location purposes, the term field is meaningless as an assessment unit for this regional accumulation. In practice, designated fields within the regional accumulation are production "sweet spots" having high EURs per well. Because of the lenticular and intertonguing nature of the sandstone reservoirs, wells surrounding the sweet spots also are gas and oil productive but characteristically they have lower EURs per well. Development and exploration drilling around given sweet spots in the regional accumulation gradually evolve into an elaborate hydrocarbon mosaic whose constituent parts have differing ultimate production capabilities. This important characteristic ofthe Lower Silurian regional accumulation must be considered when assessing its potential for remaining recoverable gas and oil resources.
+CONCLUSIONS
+1. Oil and gas trapped in Lower Silurian shallow marine and tidally influenced (estuarine) sandstone reservoirs of the Appalachian basin constitutes a regional hydrocarbon accumulation with large recoverable gas resources. Based on subtle variations, the regional accumulation is tentatively subdivided into three parts: an eastern, basincentered part, a western quasi-discrete part, and a wide central hybrid part having characteristics of both the discrete and basin-centered parts. Very likely, all three parts could be assessed with an EUR per well approach. A fourth part ofthe regional
+32
+
+Ontario, Canada
+
+Lake Ontario
+Onondaga field
+
+42
+
+41
+
+40
+Pennsylvania Maryland
+
+SCALE 1:2,500,000 0 50 Miles
+
+Arabia field I
+
+Distribution of oil and gas in Lower Silurian sandstone reservoirs, Appalachian basin
+fields studied in this report
+Oil and associated gas Gas and Nonassociated gas
+Oil associated oil
+Approximate updip limit of basin-centered accumulation (based on Ryder, 1995)
+
+v/^38 *1 West Virginia
+Vy
+
+__ __ Approxjmate updjp ||m,t of the Juscatola Sandstone
+Figure 13. Map showing discrete, hybrid, and basin-centered parts of the ClintonMedina/Tuscarora regional hydrocarbon accumulation in the Appalachian basin.
+
+33
+
+accumulation, not discussed in this report, is an eastern extension of the basin-centered part where gas is trapped locally in a thicker sandstone sequence that represents a more proximal depositional setting with a moderate fluvial component. 2. The regional accumulation is characterized by such a broad region of interconnected oil and gas fields that, other than for historical and location purposes, the term field is meaningless as an assessment unit. In practice, designated fields represent production sweet spots having high EURs per well that merge gradually with surrounding regions that are also productive but have lower EURs per well. 3. Most of the resources reside in "Clinton" sands and Medina Group sandstone in the basin-centered part of the regional accumulation where as much as several tens of TCF of gas are estimated to be technically recoverable. However, the Tuscarora Sandstone in the eastern extension of the basin-centered part of the accumulation underlies a large area and, although characterized by very low porosity and permeability and low Btu gas, its potential for basin-centered gas should not be ignored. Remaining gas and oil resources in the discrete and hybrid parts ofthe accumulation are located primarily beneath Lake Erie. 4. Stratigraphic traps are the dominant mode of entrapment in the discrete and hybrid parts of the accumulation. These traps are caused by subtle lateral changes in depositional and (or) diagenetic facies. Locally, anticlinal noses and fault blocks play a secondary role in entrapment. A broad water-block trap, where water is located updip from the gas-saturated reservoir intervals, seems to control entrapment of the basincentered part of the accumulation. 5. The basin-centered part of the accumulation is characterized by: a) reservoir permeability equal to or less than 0.1 mD, b) low reservoir-water saturation and average water yield per well ranging from 9 to 13 BW/MMCFG, c) broadly defined water-block trap updip of the gas-saturated regional reservoir, d) underpressured reservoirs with gradients ranging from 0.25 to 0.35 psi/ft, e) reservoir temperature of 125°F (52°C) or greater, f) depth of production at 5,000 ft or greater, and g) a dominantly gas-bearing reservoir sequence. 6. The discrete part of the regional accumulation is characterized by: a) reservoir permeability greater than 0.1 mD, b) high reservoir-water saturation and average water yield per well of several hundred BW/MMCFG or more, c) facies-change and(or) diagenetic Stratigraphic traps, d) normally pressured to slightly underpressured reservoirs, e) reservoir temperature lower than 125°F (52°C), f) depth of production at 2,000 to 2,500 ft or less, and g) a dominantly gas-bearing reservoir sequence. 7. The hybrid part ofthe accumulation is both oil and gas bearing and has characteristics of both the basin-centered and discrete parts. 8. Available data indicate that EURs per well are very similar for the basin-centered (median range of 98 to 400 MMCF of gas) and hybrid parts (median range of 84 to 450 MMCF of gas) of the accumulation. No EUR per well data are available for the discrete part of the regional accumulation but it is expected that they would exceed these values. 9. High-salinity formation water (brine) with TDS = 200,000 to 300,000 mg/1 (ppm) commonly is produced from all parts of the regional hydrocarbon accumulation. Very likely these brines were derived from connate water derived from the Upper Silurian
+34
+
+Salina Group evaporite beds. Moreover, these Salina-derived brines may have mixed with an earlier brine derived during dewatering and (or) gas generation in the deep Appalachian basin. 10. The basin-centered part of the Lower Silurian regional accumulation has been significantly modified by post-emplacement episodes of uplift and erosion. Among the modifications are a reduction in temperature, gas remigration and loss, a reduction in fluid pressure from above normal to subnormal, and mixing with circulating brine. Many of these observed modifications to the Lower Silurian basin-centered accumulation differ largely by degree from those affecting the classic western U.S. and Canadian examples because of the much greater time involved (200+ million years versus 50 to 60 million years) following hydrocarbon emplacement and entrapment. However, some of the differences between the Lower Silurian Appalachian basin and Cretaceous-Tertiary Rocky Mountain basin-centered accumulations may be related to fundamentally different geologic processes.
+35
+
+REFERENCES CITED
+Alexander, R., Biddison, J. M., Brannock, M., Reyher, S., Shafer, W., Maslowski, A., and Shafer, M., 1985, Clinton panel discussion 1985, in The new Clinton collection 1985: Ohio Geological Society, Columbus, Ohio, p. 3-18.
+Alkire, R. L., 1952, Oil and gas in Perry County, Ohio: Ohio Division of Geological Survey Report of Investigations 10, Petroleum and Natural Gas Series 2, 64 p.
+American Association of Petroleum Geologists and U.S. Geological Survey, 1976, Geothermal gradient map of North America, Reston, Virginia, 2 sheets, scale 1:5,000,000.
+Baranoski, M. T., 1993, The Cambridge monocline: A revisitation of a major positive structural inversion in southern Ohio, in An update on Ohio's subsurface geology, 1 st Annual Technical Symposium of the Ohio Geological Society (Canton, Ohio, October 1993), Ohio Geological Society, Columbus, Ohio, 9 p.
+Beinkafher, K. J., 1983, Deformation of the subsurface Silurian and Devonian rocks of the southern tier of New York State: unpublished Ph.D. thesis, Syracuse University, Syracuse, New York, 324 p., 12 pis.
+Berg, R. R., 1975, Capillary pressures in stratigraphic traps: American Association of Petroleum Geologists Bulletin, v. 59, no. 6, p. 939-956.
+Boley, D. W., Johnson, H. R., and Overbey, W. K., Jr., 1965, Oil-reservoir analysis and predicted recovery by waterflooding, Clinton sand, Logan oil field, Hocking County, Ohio: U.S. Bureau of Mines Report of Investigations 6683, 43 p.
+Boswell, R., Pool, S., Pratt, S., and Matchen, D., 1993, Appalachian basin lowpermeability sandstone reservoir characterizations: Report 94CC-AC2190MC26328, Morgantown Energy Technology Center, Morgantown, West Virginia, 73 p.
+Bownocker, J. A., 1903, The Clinton Formation as a source of oil and gas, in The occurrence and exploitation of petroleum and natural gas in Ohio: Geological Survey of Ohio, Fourth Series, Bulletin 1, p. 101-125.
+Breen, K. J., Angelo, C. G, Masters, R. W., and Sedam, A. C., 1985, Chemical and isotopic characteristics of brines from three oil- and gas-producing sandstones in eastern Ohio, with applications to the geochemical tracing of brine sources: U.S. Geological Survey Water-Resources Investigations Report 84-4314, 58 p.
+36
+
+Brett, C. E., Tepper, D. H., Goodman, W. M, LoDuca, S. T., and Eckert, B., 1995, Revised stratigraphy and correlations of the Niagaran Provincial Series (Medina, Clinton, Lockport Groups) in the type area of western New York: U.S. Geological Survey Bulletin 2086, 66 p.
+Bush, D., Core, D., Goings, R., Maslowski, A., andReyher, S., 1987, Deeper ClintonMedina drilling in southeast Ohio, in The new Clinton collection 1985 (reprinted in 1987 with one additional paper): Ohio Geological Society, Columbus, Ohio, p. 243-257.
+Castle, J. W. and Byrnes, A. P., in press, Petrophysics of low-permeability Medina Sandstone, northwestern Pennsylvania, Appalachian basin: The Log Analyst.
+Cochrane, R. O. and Bailey Geological Services Ltd., 1986, Evaluation ofthe conventional and potential oil and gas reserves of the Silurian sandstone reservoirs of Ontario: Ontario Geological Survey Open-File Report 5578, 275 p.
+Cole, G. A., Drozd, R. J., Sedivy, R. A., and Halpern, H. I, 1987, Organic geochemistry and oil-source correlations, Paleozoic of Ohio: American Association of Petroleum Geologists Bulletin, v. 71, no. 7, p. 788-809.
+Copley, D. L., 1980, Upgrading Medina gas well production in western New York: World Oil, v. 190, no. 5, p. 97-104.
+Core, D. L., 1986, Clinton/Medina production in southern Adams Township, Washington County, Ohio: Preprint of paper presented at the Technical Session of the Ohio Oil and Gas Association, (October 22, 1986, Hyatt Regency, Columbus, Ohio), 6 p, 18 figs.
+Cottingham, K., 1929, Structural conditions in portions of eastern Ohio, in Structure of typical American oil fields, v. 1: American Association of Petroleum Geologists, Tulsa, Oklahoma, p. 124-137.
+Cottingham, K. C., 1951, Highlights in the search for oil and gas in Ohio, in Alkire, R. L., part II, Oil and gas production, history, regulation, secondary recovery, and biography of oil and gas in Ohio: Ohio Division of Geologic Survey Report of Investigations 8, p. 66-71.
+Davis, T. B., 1984, Subsurface pressure profiles in gas saturated basin, in Masters, J. A., ed., Elmworth case study of a deep basin gas field: American Association of Petroleum Geologists Memoir 38, p. 189-203.
+Dresel, P. E., 1985, The geochemistry of oilfield brines from western Pennsylvania: M.S. thesis, Pennsylvania State University, University Park, Pennsylvania, 237 p.
+37
+
+Drozd, R. J. and Cole, G. A., 1994, Point Pleasant-Brassfield (!) petroleum system, Appalachian basin, USA, in Magoon, L. B. and Dow, W. G., eds., The petroleum system From source to trap: American Association of Petroleum Geologists Memoir 60, p. 387-398.
+Dutton, S. P., Clift, S. J., Hamilton, D. S., Hamlin, H. S., Hentz, T. F., Howard, W. E., Akhter, M. S., and Laubach, S. E., 1993, Major low-permeability gas reservoirs in the continental United States: Texas Bureau of Economic Geology and Gas Research Institute Report of Investigations 211, 221 p.
+Dyman, T. S., Collett, T. S., Hettinger, R. D., Johnson, R. C., Nuccio, V. F., Ridgley, J. L., Ryder, R. T., Schmoker, J. W., and Wandrey, C. J., 1997, Natural gas research Energy Resources Program of the U.S. Geological Survey (abs.): U.S. Department of Energy, Office of Fossil Energy, Natural Gas Conference (Houston, TX, March 24-27, 1997), paper P25, 2 p.
+Engelder, T., 1982, Is there a genetic relationship between regional joints and contemporary stress within the lithosphere ofNorth America: Tectonics, v. 1, no. 2, p. 161-177.
+Engelder, T., 1985, Loading paths to joint propagation during a tectonic cycle: an example from the Appalachian Plateau, U. S.A.: Journal of Structural Geology, v. 7, nos. 3/4, p. 459-476.
+Engelder, T. and Geiser, P., 1980, On the use of regional joint sets as trajectories of paleostress fields during the development of the Appalachian plateau, New York: Journal of Geophysical Research, v. 85, no. B11, p. 6319-6341.
+Fenstermacher, C. D., 1969, Resume of current activity of the oil industry northeast of the Mississippi River Geographic, geologic and magnitude of recent years discoveries, in Rose, W. D., ed., Proceedings of the Technical session of the Kentucky Oil and Gas Association 32nd Annual Meeting (June 6-7, 1968), Kentucky Geological Survey, Series X, Special Publication 17, p. 50-77.
+Gautier, D. L., Dolton, G L., Takahashi, K. I., and Varnes, K. L., eds., 1995, 1995 National Assessment of United States Oil and Gas Resources Results, methodology, and supporting data: U.S. Geological Survey Digital Data Series DDS-30.
+, 1996, 1995 National Assessment of United States Oil and Gas Resources Results, methodology, and supporting data: U.S. Geological Survey Digital Data Series DDS-30, release 2.
+38
+
+Gies, R. M, 1984, Case history for a major Alberta deep basin gas trap: The Cadomin Formation, in Masters, J. A., ed., Elmworth case study of a deep basin gas field: American Association ofPetroleum Geologists Memoir 38, p. 115-140.
+Greene, J., 1977, Study of refracturing results in the Clinton sand formation: Presented at the Winter Meeting ofthe Ohio Oil and Gas Association, March 10, 1977, Columbus, Ohio: Reprinted in Clinton sandstone papers presented at the Ohio Oil and Gas Association Winter Meetings 1961 to 1978, Abridged reprint 1985: Ohio Geological Society, Columbus, Ohio, p. 219-228.
+Gurley, J., 1963, A productivity and economic projection method Ohio Clinton sand gas wells: Journal ofPetroleum Technology, November 1963, p. 1183-1188.
+Harkness, R. B., 1935, Natural gas fields of Ontario, in Ley, H. A., ed., Geology of natural gas: American Association of Petroleum Geology, Tulsa, Oklahoma, p. 59-87.
+Harms, J. C., 1966, Stratigraphic traps in valley fill, western Nebraska: American Association ofPetroleum Geologists Bulletin, v. 50, no. 10, p. 2119-2149.
+Janssens, A., 1977, Oil and gas in Ohio past, present and future: 8th Annual Appalachian Petroleum Symposium preprint, 39 p.
+Janssens, A. and Olds, J. C., 1993, The Cambridge arch in southern Noble County, Ohio; the case for a salt-based decollement origin, in An update on Ohio's subsurface geology, 1st Annual Technical Symposium of the Ohio Geological Society (Canton, Ohio, October 1993), Ohio Geological Society, Columbus, Ohio, 29 p.
+Johnson, H. R. and Boley, D. W., 1963, Waterflooding possibilities ofthe Clinton sand, Logan oilfield, Hocking County, Ohio: Producers Monthly, v. 27, no. 12, p. 2226.
+Keighin, C. W., and Hettinger, R. D., 1997, Depositional dip-oriented cross section through the Lower Silurian "Clinton" sands and Medina Group in northeastern Ohio and western Pennsylvania (abs.): American Association ofPetroleum Geologists Bulletin, v. 81, no. 9, p. 1555.
+Kell, S. R., 1980, Testimony of S. R. Kell regarding Ohio FERC applications: Proceedings before Andrew Skalkos, chief, Ohio Division of Oil and Gas, Department ofNatural Resources (November 10, 1980).
+Kelley, D. R., 1966, The Kastle Medina gas field, Crawford County, in Lytle, W. S., Goth, J. H., Jr., Kelley, D. R., McGlade, W. G., and Wagner, W. R., Oil and gas developments in Pennsylvania in 1965: Pennsylvania Topographic and Geologic Survey Progress Report 172, p. 30-44.
+39
+
+Keltch, B. W., Wilson, D. A., and Potter, P. E., 1990, Deltaic depositional controls on Clinton sandstone reservoirs, Senecaville gas field, Guernsey County, Ohio, in Barwis, J. H., Studlick, J. R. J., and McPherson, J. G., eds., Sandstone petroleum reservoirs: Casebooks in Earth Science Series, Springer-Verlag New York Inc., p. 263-280.
+Knight, W. V., 1969, Historical and economic geology of Lower Silurian Clinton sandstone of northeastern Ohio: American Association of Petroleum Geologists Bulletin, v. 53, no. 7, p. 1421-1452.
+Kornfeld, J. A, 1973, Higher gas prices boost drilling in eastern Ohio: World Oil, v. 176, no. 1, p. 57-58.
+Krueger, R. L., 1971, Clinton production history and statistics in Tuscarawas County, Ohio: Presented at the Winter Meeting of the Ohio Oil and Gas Association, March 5, 1971, Columbus, Ohio: Reprinted in Clinton sandstone papers presented at the Ohio Oil and Gas Association Winter Meetings 1961 to 1978, Abridged reprint 1985: Ohio Geological Society, Columbus, Ohio, p. 137-150.
+Laughrey, C. D., 1984, Petrology and reservoir characteristics of the Lower Silurian Medina Group sandstones, Athens and Geneva fields, Crawford County, Pennsylvania: Pennsylvania Topographic and Geologic Survey Mineral Resource Report 85, 126 p.
+Law, B. E. and Dickinson, W. W., 1985, Conceptual model for origin of abnormally pressured gas accumulations in low-permeability reservoirs: American Association ofPetroleum Geologists Bulletin, v. 69, no. 8, p. 1295-1304.
+Law, B. E., Ryder, R. T., Nuccio, V. F., and Burruss, R. C., in press, Pressure endmembers in the Lower Silurian Clinton-Medina-Tuscarora basin-centered gas accumulation, Appalachian basin, USA (abs.): Elf Aquitaine Bulletin des Centres de Recherchie Exploration-Production.
+Law, B. E. and Spencer, C. W., 1993, Gas in tight reservoirs An emerging major source of energy, in Howell, D. G, ed., The future of energy gases: U.S. Geological Survey Professional Paper 1570, p. 233-252.
+Locke, C. D., 1967, Appalachian region oil field reservoir investigations, Clinton sand, S. S. Fry South oilfield, Rose Township, Carroll County, Ohio: Producers Monthly, v. 31, no. 10, p. 11-13.
+Lockett, J. R., 1929, General structure of the producing sands in eastern Ohio, in Structure of typical American oil fields, v. 1: American Association of Petroleum Geologists, Tulsa, Oklahoma, p. 138-147.
+40
+
+Lowry, R. M., Faure, G., Mullet, D. I, and Jones, L. M., 1988, Interpretation of chemical and isotopic compositions of brines based on mixing and dilution, "Clinton" sandstones, eastern Ohio, U.S.A.: Applied Geochemistry, v. 3, p. 177-184.
+Lytton, C. W., 1970, The East Ohio Gas Company hydraulic fracturing evaluation study: Presented at the Winter Meeting of the Ohio Oil and Gas Association, March 6, 1970, Columbus, Ohio: Reprinted in Clinton sandstone papers presented at the Ohio Oil and Gas Association Winter Meetings 1961 to 1978, Abridged reprint 1985: Ohio Geological Society, Columbus, Ohio, p. 197-218.
+MacDougall. T. A., 1973, The oil and gas potential of the "Clinton-Cataract" reservoirs of Norfolk County: Ontario Division of Mines, Petroleum Resources Section Paper 73-2, 72 p.
+McCormac, M. P., Mychkovsky, G. O., Opritza, S. T., Riley, R. A., Wolfe, M. E., Larson, G E., and Baranoski, M. T., 1996, Play Scm: Lower Silurian Cataract/ Medina Group ("Clinton") sandstone play, in Roen, J. B. and Walker, B. J., eds., The atlas of major Appalachian gas plays: West Virginia Geological and Economic Survey Publication V-25, p. 156-163.
+McMullin, W. D., 1976, Subsurface geology of the Lower Silurian Grimsby ("Clinton") Sandstone of Ashtabula County, Ohio: unpublished M.S. thesis, The University of Texas at Arlington, Arlington, Texas, 160 p.
+Masters, J. A., 1979, Deep basin gas trap, western Canada: American Association of Petroleum Geologists Bulletin, v. 63, no. 2, p. 151-181.
+_______, ed., 1984, Elmworth case study of a deep basin gas field: American Association of Petroleum Geologists Memoir 38, 316 p.
+Meissner, F. F., 1978, Patterns of source-rock maturity in nonmarine source rocks of some typical Western Interior basins, in Nonmarine Tertiary and Upper Cretaceous source rocks and the occurrence of oil and gas in west-central U.S.: Rocky Mountain Association of Geologists Continuing Education Lecture Series, p. 1-37.
+Mullet, D. J., 1982, The geology of the Albion Group of Tuscarawas County, Ohio: unpublished M.S. thesis, Wright State University, Dayton, Ohio, 104 p.
+Multer, H. G, 1963, Geology of the Silurian producing zones in the Moreland oil pool, Wayne County, northeastern Ohio: Ohio Division of Geological Survey Report of Investigations 46, 48 p., 8 pis.
+41
+
+Munsart, C. A., 1975, Analysis of the Lower Silurian "Clinton" sandstone in Lenox field, Ashtabula, Ohio: unpublished M.S. thesis, University of Akron, Akron, Ohio, 91 P-
+Nuccio, V. F., Wandrey, C. J., Ryder, R. T., and Harris, A. G., 1997, Thermal maturity and petroleum generation of Middle Ordovician black shale source rocks, central Appalachian basin controls on oil and gas in Lower Silurian low permeability sandstone reservoirs (abs.): American Association ofPetroleum Geologists Bulletin, v. 81, no. 9, p. 1560.
+Ohio Division of Oil and Gas, 1997, What's available on line to view?: Ohio Division of Oil and Gas home page http://www.dnr.ohio.gov/odnr/oiB-gas/
+Oil and Gas Journal, 1965, Ohio's Tuscarawas gets two big gas strikes: Oil and Gas Journal, v. 63, no. 51, p. 101.
+___________, 1968, Ohio oil giant facing market problems: Oil and Gas Journal, v. 66, no. 11, p. 51.
+_, 1969, Michigan, Ohio post big gas, condensate hits: Oil and Gas Journal, v. 75, no. 10, p. 1593-1608.
+Osten, M. A., 1982, The subsurface stratigraphy, paleoenvironmental interpretation and petroleum geology of the Albion Group (Lower Silurian), southeast Ohio: unpublished M.S. thesis, Kent State University, Kent, Ohio, 166 p., 13 pis.
+Overbey, W. K., Jr. and Henniger, B. R, 1971, History, development, and geology of oil fields in Hocking and Perry Counties, Ohio: American Association of Petroleum Geologists Bulletin, v. 55, no. 2, p. 183-203.
+Pees, S. T., 1983a, Model area describes NW Pennsylvania's Medina play: Oil and Gas Journal, v. 81, no. 21, p. 55-60.
+______, 1983b, Medina group geology and production test indicate area worth further drilling: Oil and Gas Journal, v. 81, no. 22, p. 98-102.
+__, 1986, Geometry and petroleum geology ofthe Lower Silurian Whirlpool Formation, portion ofNW Pennsylvania and NE Ohio: Northeastern Geology, v. 8, no. 4, p. 171-200.
+__, 1994, Silurian Medina gas revitalizing Pennsylvania's historic Oil Creek: Oil and Gas Journal, v. 92, no. 42, p. 116-121.
+Pees, S. T. and Burgchardt, C. R, 1985, In Pennsylvania and New York what to expect from a typical Medina gas well: World Oil, v. 200, no. 2, p. 37-65.
+42
+
+Pennsylvania Oil and Gas Association Gas Advocacy Committee, 1980, Application for recommendation that certain parts of the Medina sandstone be designated as tight formation pursuant to the regulations of the Federal Energy Regulatory Commission: Testimony before Bureau of Topographic and Geologic Survey, Department of Environmental Resources, Commonwealth of Pennsylvania, 4 volumes, 662 p.
+Persons, J. V., 1970, Review of Stacker & Sitler, Inc. Clinton sand completions, Rose Township, Carroll Co., Ohio: Presented at the Winter Meeting of the Ohio Oil and Gas Association, March 6, 1970, Columbus, Ohio: Reprinted in Clinton sandstone papers presented at the Ohio Oil and Gas Association Winter Meetings 1961 to 1978, Abridged reprint 1985: Ohio Geological Society, Columbus, Ohio, p. 173-195.
+Piotrowski, R. G, 1981, Geology and natural gas production of the Lower Silurian Medina Group and equivalent rock units in Pennsylvania: Pennsylvania Topographic and Geologic Survey Mineral Resource Report 82, 21 p., 11 pis.
+Price, L. C., 1995, Origins, characteristics, controls, and economic viabilities of deep-basin gas resources: Chemical Geology, v. 126, p. 335-349.
+Reinert, S. L. and Davies, D. K., 1976, Third Creek field, Colorado: a study of sandstone environments and diagenesis: Mountain Geologist, v. 13, no. 2, p. 47-60.
+Rodgers, M. R. and Anderson, T. H., 1984, Tyrone-Mt. Union cross-strike lineament of Pennsylvania: A major Paleozoic basement fracture and uplift boundary: American Association ofPetroleum Geologists Bulletin, v. 68, no. 1, p. 92-105.
+Root, S. I. And Martin, R. J., 1995, The influence of basement tectonics on oil and gas traps in eastern Ohio: A synthesis, in Structural influences on oil and gas reservoirs: 3rd Annual Technical Symposim (Canton Symposium III) of the Ohio Geological Society (Canton, Ohio, October 25, 1995), Ohio Geological Society, Columbus, Ohio, p. 31-47.
+Rose, A. W. and Dresel, P. E., 1990, Deep brines in Pennsylvania, in_Majumdar, S. K., Miller, E. W., and Parizek, R. R, eds., Water resources in Pennsylvania: Availability, Quality, and Management: The Pennsylvania Academy of Science, p. 420-431.
+Rose, P. R., Everett, J. R., and Merin, I. S., 1986, Potential basin-centered gas accumulation in Cretaceous Trinidad Sandstone, Raton Basin, Colorado, in Spencer, C. W. and Mast, R. F., eds., Geology of tight gas reservoirs: American Association of Petroleum Geologists Studies in Geology 24, p. 111-128.
+43
+
+Ryder, R. T., 1995, Appalachian basin province (067), in Gautier, D. L., Dolton, G. L., Takahashi, K. L, and Varnes, K. L., eds., 1995 National Assessment ofUnited States Oil and Gas Resources Results, methodology, and supporting data: U.S. Geological Survey Digital Data Series DDS-30, 144 p., 28 figs.
+Ryder, R. T., Aggen, K. L., Hettinger, R. D., Law, B. E., Miller, J. J., Nuccio, V. F., Perry, W. J., Jr., Prensky, S. E., SanFilipo, J. R., and Wandrey, C. J., 1996, Possible continuous-type (unconventional) gas accumulation in the Lower Silurian "Clinton" sands, Medina Group, and Tuscarora Sandstone in the Appalachian basin: A progress report of 1995 project activities: U.S. Geological Survey OpenFile Report 96-42, 82 p.
+Ryder, R. T., Burruss, R. C., and Hatch, J. R., 1998, Black shale source rocks and oil generation in the Cambrian and Ordovician of the central Appalachian basin, USA: American Association ofPetroleum Geologists Bulletin, v. 82, no. 3, p. 412-441.
+Sanders, L. L., 1991, Geochemistry of formation waters from the Lower Silurian Clinton Formation (Albion sandstone), eastern Ohio: American Association ofPetroleum Geologists Bulletin, v. 75, no. 10, p. 1593-1608.
+Schmoker, J., 1995a, Continuous hydrocarbon reservoirs: Selected issues in the USGS Energy Research Surveys Program: U.S. Geological Survey Fact Sheet, August 1995, 2 p.
+Schmoker, J. W., 1995b, Method for assessing continuous-type (unconventional) hydrocarbon accumulations, in Gautier, D. L., Dolton, G. L., Takahashi, K. I., and Varnes, K. L., eds., 1995 National Assessment of United States Oil and Gas Resources Results, methodology, and supporting data: U.S. Geological Survey Digital Data Series DDS-30, 17 p., 7 figs.
+Schowalter, T. T., 1979, Mechanics of secondary hydrocarbon migration and entrapment: American Association of Petroleum Geologists Bulletin, v. 63, no. 5, p. 723-760.
+Schrider, L. A., Watts, R. J., and Wasson, J. A., 1969, East Canton oil field waterflood evaluation: Society ofPetroleum Engineers of AIME preprint SPE 2764, 8 p.
+Seibert, J. L., 1987, Analysis of the "Clinton" sandstone and its hydrocarbon potential in south-central Mahoning County, Ohio: unpublished M.S. thesis, University of Akron, Akron, Ohio, 124 p.
+Shyer, E. B., 1989, Historical digest: Medina Sandstone, in New York State Oil and Gas Drilling and Production 1988: New York State Department of Environmental Conservation, 59 p.
+44
+
+Siegel, D. I., Szustakowski, R. J., and Frape, S., 1990, Regional appraisal ofbrine chemistry in the Albion Group sandstones (Silurian) ofNew York, Pennsylvania and Ohio: Association of Petroleum Geochemical Explorationists Bulletin, v. 6, no. 1, p. 66-77.
+Sitler, G. F., Jr., 1969, East Canton-Magnolia oil field: Presented at the Winter Meeting ofthe Ohio Oil and Gas Association, March 5, 1971, Columbus, Ohio: Reprinted in Clinton sandstone papers presented at the Ohio Oil and Gas Association Winter Meetings 1961 to 1978, Abridged reprint 1985: Ohio Geological Society, Columbus, Ohio, p. 41-51.
+Spencer, C. W., 1987, Hydrocarbon generation as a mechanism for overpressuring in the Rocky Mountain region: American Association of Petroleum Geologists Bulletin, v. 71, no. 4, p. 368-388.
+________, 1989, Comparison of overpressuring at the Pinedale anticline area, Wyoming, and the Multiwell experiment site, Colorado, in Law, B. E. and Spencer, C. W., eds., Geology of tight sand reservoirs in the Pinedale anticline area, Wyoming, and at the Multiwell experiment site, Colorado: U.S. Geological Survey Bulletin 1886, p. C1-C16.
+Stith, D. A., compiler, 1979, Brine analyses, 1972-1974 (A. H. Morth and J. R. Hatch, analysts): Ohio Division of Geological Survey Open-File Report 79-1, 77 p.
+Suphasin, C., 1979, The subsurface geology of the Grimsby "Clinton" sandstone of Trumbull County, northeastern Ohio: unpublished M.S. thesis, Kent State University, Kent, Ohio, 59 p.
+The Staff, Morgantown (W. Va.) Petroleum Research Laboratory, 1962, Appalachian region oil field reservoir investigations, Clinton sand, North Logan field, Falls Gore Township, Hocking County, Ohio: Producers Monthly, v. 26, no. 7, p. 1013.
+Thomas, M. A., 1993, Subnormal fluid pressure in the Clinton sandstone of eastern Ohio: unpublished Ph.D. thesis, Kent State University, Kent, Ohio, 111 p.
+U.S. Bureau ofMines, 1969, Core analysis of Golden Cycle Corporation well 1, James Linkhorn lease, Claysville field, Westland Township, Guernsey County, Ohio: U.S. Bureau ofMines GER-4/23/69, 3 p.
+U.S. Geological Survey National Oil and Gas Resource Assessment Team, 1995, 1995 National Assessment ofUnited States Oil and Gas Resources: U.S. Geological Survey Circular 1118, 20 p.
+45
+
+Vawa, C. L., Kaldi, J. G., and Sneider, R. M., 1992, Geological applications of capillary pressure: A review: American Association of Petroleum Geologists Bulletin, v. 76, no. 6, p. 840-850.
+Wandrey, C. J., Ryder, R. T., Nuccio, V. F., and Aggen, K. L., 1997, The areal extent of continuous type gas accumulations in Lower Silurian Clinton sands and Medina Group sandstones of the Appalachian basin and environments affected by their developments: U.S. Geological Survey Open-File Report 97-272, 2 sheets with text, scale 1:500,000 (website http://energy.cr.usgs.gov:8080/energy/oilgas.html).
+Watts, R. J., Schrider, L. A., and Craig, J. G, 1971, Reservoir and production characteristics of the Clinton sand, East Canton oilfield: Proceedings of the Eastern Regional Meeting of the Society of Petroleum Engineers of AIME (Charleston, W. Va., November 4-5, 1971), Paper SPE 3661, 12 p.
+Whielden, C. E., Jr., 1966, Appalachian region oilfield reservoir investigations, Clinton sandstone, Carbon Hill West pool, Green Township, Hocking County, Ohio: Producers Monthly, v. 30, no. 12, p. 6-7, 26.
+Wilson, J. T., 1988, Portage County revisited an indepth analysis of the occurrence of oil and gas in the Clinton sandstone reservoir in Portage County, Ohio: unpublished M.S. thesis, Kent State University, Kent, Ohio, 187 p.
+Wood, J. M. and Hopkins, J. C., 1992, Traps associated with paleovalleys and interfluves in an unconformity bounded sequence: Lower Cretaceous Glauconitic member, southern Alberta, Canada: American Association of Petroleum Geologists Bulletin, v. 76, no. 6, p. 909-926.
+Zagorski, W. A., 1988, Exploration concepts and methodology for deep Medina sandstone reservoirs in northwestern Pennsylvania (abs.): American Association of Petroleum Geologists Bulletin, 72, no. 8, p. 976.
+_________, 1991, Model of local and regional hydrocarbon traps in the Lower Silurian Medina Sandstone Group, Cooperstown gas field, Crawford and Venango Counties, Pennsylvania: unpublished M.S. thesis, University of Pittsburgh, Pittsburgh, Pennsylvania, 132 p.
+_________, 1996, Structural vs. stratigraphic controls on production in "Clinton"/ Medina sandstone fields, Ohio and Pennsylvania: Presented at Society of Professional Well Log Analysts (Ohio Chapter) luncheon, November 21, 1996, Canton, Ohio.
+Zoback, M. L. and Zoback, M. D., 1980, State of stress in the conterminous United States: Journal of Geophysical Research, v. 85, p. 6113-6156.
+46
+
+Appendix A
+
+Adams/Waterford/Watertown gas field (A/W/Wt)
+
+Location: Discovery date: Depth (ft): Hydrocarbon type and GOR: Structural setting:
+Stratigraphic name of reservoir: Trap:
+Porosity:
+Permeability:
+Natural fractures:
+Diagenetic features:
+Water saturation and volume/salinity of produced water: Gas/water and oil/water contacts: Reservoir pressure: Bottom-hole temperature: Well spacing: Ultimate production (EUR per well):
+References:
+
+Washington County, Ohio (Adams, Waterford, Watertown Twps.) 1970s; extensively developed in the 1980s 5,800 to 6,000 Nonassociated gas; some condensate (60 to 61°API gravity)
+East-southeast dipping homocline; near the Cambridge arch; irregular structural contours suggest northwest-southeast trending basement faults "Clinton" sands and Medina sand
+Stratigraphic; influenced by local structures and fractures; no recognizable updip pinchout of sandstone reservoirs
+^ave (core) = 6%; <Dlower "Clinton" ave (core) = 4%, range 3.3 tO 6%; <Dmedina ave (core) =
+4%, range 2.9 to 5.4% Kave = 0.36 mD; Kiower «ciinton" ave (core) = 0.02 mD, range 0.01 to 0.03 mD; K
+medina ave (core) ^0.01 HlD
+Noted in core; fractures are considered important for improved reservoir quality Clay = 2 to 4% of reservoir; complex diagenetic history with several stages of cementation, dissolution, and quartz overgrowths SW (ave) = 26.9%, range 8 to 74% based on 4 logs; not much water is produced; x=HBW/MMCFG, sample number = 26, range <1 to 35 BW/MMCFG None reported
+1,500 to 1,600 psi (0.27 psi/ft) 112°F (in nearby wells in Washington County)
+80 acres 95th percentile (F95) = 39 MMCF of gas, 50th percentile (F50) = 98 MMCF of gas, 5th percentile (F5) = 280 MMCF of gas, sample number = 26; these are minimum EURs because they only represent 11 years of the well's production Baranoski (1993); Bush and others (1987); Core (1986); Janssens and Olds (1993); Ohio Division of Oil and Gas (1997); Root and Martin (1995)
+
+47
+
+Appendix B
+
+Athens gas field (A)
+
+Location:
+Discovery date: Depth (ft): Hydrocarbon type and GOR: Structural setting:
+Stratigraphic name of reservoir: Trap:
+Porosity:
+Permeability:
+Natural fractures:
+Diagenetic features:
+Water saturation and volume/salinity of produced water: Gas/water and oil/water contacts: Reservoir pressure: Bottom-hole temperature: Well spacing: Ultimate production (EUR per well): References:
+
+Crawford County, Pennsylvania (Lake Canadohta and Centerville 7^ min. quads) 1974; shut in until 1980 4,900 to 5,100 Gas and local associated oil
+Regional southeast-dipping homocline with local anticlinal noses; northwestsoutheast trending Tyrone-Mount Union lineament crosses the southwestern corner of the field Medina Group; Grimsby Formation and Whirlpool Sandstone
+Stratigraphic; no recognizable updip pinchout of sandstone reservoirs; updip reservoir limits are defined by a loss of gas-filled porosity (i.e. updip Medina Group sandstones produce small amounts of water and gas); this configuration of reservoir and trap is explained by paleostructure with a cemented gas/water contact that is later tilted ®ave = 3.25%, range 1.6 to 7.3%; secondary (dissolution) porosity is dominant; O = 3.01, 5.55, 6.04 % also reported Kave =1.4 mD, range <0.1 to 177mD (high value caused by drilling-induced fractureX K ave < 1 mD, range < 0.1 to 0.6 mD if high value removed); K = 0.0368, 0.139, 0.159 mD also reported Vertical fractures (18 to 40 cm long and 0.5 to 1 mm wide) and local horizontal fractures are reported in a core; outcrops of Upper Devonian strata above the Athens field show dominant joint sets trending N40 to 70° E and N40 to 70° W Reservoirs consist of a variety of quartzose, lithic, and feldspathic arenite whose diagenetic history includes formation of authigenic clay, cementation (silica and dolomite), dolomitization, and dissolution of cements and grains Sw(ave) = 39.7%, range 22 to 73 %; water production is minimal; for 320 days in 1981 and early 1982, 270 barrels of water was produced with 20,474 MCF of gas (rate of 13 BW/MMCFG) A gas/water contact is difficult to define because of the long gas-to-water transition zone 1,125 to 1,272 psi (0.26 psi/ft) 110°F (in nearby wells in Washington County)
+40 acres
+Laughrey (1984); Pennsylvania Oil and Gas Oil and Gas Association Gas Advocacy Committee (1980); Rodgers and Anderson (1984)
+
+48
+
+Appendix C
+
+Best gas field (B)
+
+Location: Discovery date: Depth (ft): Hydrocarbon type and GOR: Structural setting:
+Stratigraphic name of reservoir: Trap:
+Porosity: Permeability:
+Natural fractures:
+Diagenetic features:
+Water saturation and volume/salinity of produced water: Gas/water and oil/water contacts: Reservoir pressure: Bottom-hole temperature: Well spacing: Ultimate production (EUR per well): References:
+
+Portage (Deerfield Twp.) and Mahoning (Smith Twp.) Counties, Ohio 1960 -5,100 Gas and associated oil
+Regional southeast-dipping homocline; no terraces or anticlinal noses reported "Clinton" sands
+Stratigraphic; no recognizable updip pinchout of sandstone reservoirs, however, the net thickness of the reservoir interval decreases updip from 65 to 40 ft Oave = 7.5%, range 6 to 9.7%; Oave = 6.3%, max 8.9% also reported Kave <0.1 mD; Kave(logderived) = 0.029 mD, range 0.003 to 0.086 mD also reported Noted in core with N78°E, S8°E, and S54°E orientations; fractures also detected using acoustic scanning logging tool, N55°E to N70°E orientations Clay =11.8% of reservoir; complex diagenetic history with several stages of cementation, dissolution, and quartz overgrowths SW (ave)= 25.9%, range 15.8 to 41.1%; salinityave = 287,611 ppm, range 261,273 to 308384, sample number = 3
+None reported but oil occupies a structurally lower position than the gas
+1,400 psi (0.27 psi/ft); 1628 psi (0.33 psi/ft) also reported 102°F
+40 to 50 acres
+McCormac and others (1996); Sanders (1991); Seibert (1987); Wilson (1988)
+
+49
+
+Appendix D
+
+Carbon Hill oil field (CH)
+
+Location: Discovery date: Depth (ft): Hydrocarbon type and GOR: Structural setting: Stratigraphic name of reservoir: Trap: Porosity: Permeability: Natural fractures:
+Diagenetic features:
+Water saturation and volume/salinity of produced water: Gas/water and oil/water contacts: Reservoir pressure: Bottom-hole temperature: Well spacing: Ultimate production (EUR per well): References:
+
+Hocking County, Ohio (Ward Twp.) 1917 3,050 Oil and associated gas; GOR = 400 to 7,000, based on 2 wells
+Regional southeast dipping homocline with local anticlinal noses "Clinton" sands; best producing wells in sandstone reservoirs of distributary and tidal channel origin Stratigraphic <Dave = 10.3%, range 1 to 15% Kave = 3.9 mD, range 1 to 10 mD Oriented core indicates a well-developed natural fracture system oriented N55°E to N75°E Local secondary silica cementation; dominant cement is calcite, clay may have prevented excessive silica cementation
+i^w (ave, core, producing interval) JO.'fr/o, Ow (ave, log, producing interval) JJ/0, ^w (ave, core, total
+interval) = 62.1%, range 20 to 100%; salinity = 200,000 to 300,000 ppm
+20 acres per oil well; 80 acres per gas well
+Overbey and Henniger (1971); Whieldon (1966)
+
+50
+
+Appendix E
+
+Claysville oil field (Civ)
+
+Location: Discovery date: Depth (ft): Hydrocarbon type and GOR: Structural setting:
+Stratigraphic name of reservoir: Trap:
+Porosity: Permeability: Natural fractures: Diagenetic features: Water saturation and volume/salinity of produced water: Gas/water and oil/water contacts: Reservoir pressure: Bottom-hole temperature: Well spacing: Ultimate production (EUR per well): References:
+
+Guernsey County, Ohio (Spencer and Westland Twps.) 1968 4,800 to 5,100 Oil and associated gas
+Regional southeast-dipping homocline; adjoins the west side of the Cambridge arch "Clinton" sands; reservoirs dominated by northeast-trending sandstone bodies of distributary channel and distributary mouth bar origin Stratigraphic; no recognizable updip pinchout of sandstone reservoirs; the net thickness of the reservoir interval decreases slightly updip
+Oave(core)= 5%, KingC 0.1 tO 9.2%
+Kave(COre) = 3.5 mD, range <0.01 to 13.2 mD Noted in core
+SW (ave)= 31.2%, range 16.5 to 43.4%; salinityave = 212,000 ppm, range 147,000 to 256,000
+1,200 psi (0.24 psi/ft); 1,559 to 1,906 psi (0.30 to 0.39 psi/ft) also reported
+Baranoski (1993), Keltch and others (1990); Root and Martin (1995); Sanders (1991), Thomas (1993); U.S. Bureau of Mines (1969)
+
+51
+
+Appendix F
+
+Clayton oil field (Cl)
+
+Location: Discovery date:
+Depth (ft): Hydrocarbon type and GOR: Structural setting:
+Stratigraphic name of reservoir: Trap: Porosity: Permeability: Natural fractures:
+Diagenetic features:
+Water saturation and volume/salinity of produced water: Gas/water and oil/water contacts: Reservoir pressure: Bottom-hole temperature: Well spacing: Ultimate production (EUR per well):
+References:
+
+Perry County, Ohio (Clayton Twps) 1935; (20 exploration wells were drilled in the township between 1917 and 1935) 3,300 Oil and associated gas
+Regional eastward-dipping homocline with very local anticlinal noses; residual structure map suggests that the field is cut by a northwest-trending fault (southwest side up) "Clinton" sands; reservoirs dominated by sandstone bodies of distributary and tidal channel origin Stratigraphic; local closure along a possible northwest-trending fault
+OaVe(core)= 14.5%, range 12 tO 17%
+Kave(oore) = 34.8 mD, range <0.1 to 150 mD Water used in a 5-spot well pattern for secondary recovery may have escaped through fractures; oriented core in nearby Hocking County indicate a welldeveloped natural fracture system; natural fractures may enhance production Calcite is the dominant cement; local dolomite rhombs; most quartz grains are coated with clay; quartz overgrowths common Salinity (ave) = 316,132 ppm, range 315,487 to 316,778 ppm, sample number =2
+20 acres per oil well; 80 acres per gas well EUR = 17,000 BO per well, range 1,000 to 75,000 BO per well, based on production from 85 wells; best production (IP > 500 BOPD) located in local closure along the southwest-up side of a proposed northwest-trending fault Alkire (1952); Cottingham (1951); Osten (1982); Overbey and Henniger (1971)
+
+52
+
+Appendix G
+
+Conneaut gas field (Indian Springs pool) [Cn(IS)]
+
+Location:
+Discovery date: Depth (ft): Hydrocarbon type and GOR: Structural setting:
+Stratigraphic name of reservoir: Trap: Porosity: Permeability: Natural fractures: Diagenetic features: Water saturation and volume/salinity of produced water: Gas/water and oil/water contacts: Reservoir pressure: Bottom-hole temperature: Well spacing: Ultimate production (EUR per well): References:
+
+Crawford County, Pennsylvania (Conneaut and Harmonsburg 7^ min. quads.) 1957 3,700 to 4,190 Gas and associated oil (as much as 30 BOPD)
+Regional southeast-dipping homocline with numerous terraces and southestplunging anticlinal noses Medina Group (Grimsby Formation and Whirlpool Sandstone) Stratigraphic; no recognizable updip pinchout of sandstone reservoirs ^>ave(iog)= 10%, as high as 18%; Omedma *»(«») = 4%, range 2.9 to 5.4% Kave = <0.1 mD; K= 0.082 mD also reported
+Salinity = 152,000 mg/1
+Pave = 1,020 psi (0.26 psi/ft), range 800 to 1,150 psi 98°F
+Dresel (1985); Keighin and Hettinger (1997); Laughrey (1984); Pees and Burgchardt (1985); Pennsylvania Oil and Gas Association Gas Advocacy Committee (1980)
+
+53
+
+Appendix H
+
+Conneaut gas field (Kastle pool) [Cn(K)]
+
+Location:
+Discovery date: Depth (ft): Hydrocarbon type and GOR: Structural setting:
+Stratigraphic name of reservoir: Trap: Porosity: Permeability: Natural fractures: Diagenetic features: Water saturation and volume/salinity of produced water: Gas/water and oil/water contacts:
+Reservoir pressure: Bottom-hole temperature: Well spacing: Ultimate production (EUR per well): References:
+
+Crawford County, Pennsylvania (Edinboro South and Meadville 7^ min. quads) 1962 3,950 Gas and associated oil (all wells produce some oil, as much as 50 BOPD)
+Regional southeast-dipping homocline with southest-plunging anticlinal noses Medina Group (Grimsby Formation and Whirlpool Sandstone); northeasttrending sandstone bodies subparallel to interpreted shoreline trend Stratigraphic; updip permeability barrier caused by shale-out of pay sand
+3>ave (log) (estimated)- 9%, TWgG 5 tO 18%
+Kave = <0.05 mD, range 0.0093 to 0.13 mD
+Reservoirs have < 10% clay and silica and (or) dolomitic cement All wells produce some water; amount is unknown
+Not enough data to determine; segregation of fluids may occur in some of the larger water-bearing, porous Medina Group sandstones located in other fields to the northwest 1,060 psi (0.25 psi/ft), range 635 to 1,280 psi
+80 to 320 acres; trend is toward 160 acres
+Kelley (1966); Pennsylvania Oil and Gas Association Gas Advocacy Committee (1980)
+
+54
+
+Appendix I
+
+Cooperstown gas field (C)
+
+Location: Discovery date: Depth (ft): Hydrocarbon type and GOR: Structural setting: Stratigraphic name of reservoir: Trap: Porosity:
+Permeability:
+Natural fractures:
+Diagenetic features:
+Water saturation and volume/salinity of produced water:
+Gas/water and oil/water contacts: Reservoir pressure: Bottom-hole temperature: Well spacing: Ultimate production (EUR per well): References:
+
+Venango and Crawford Counties, Pennsylvania (Cochranton, Dempseytown, Franklin, New Lebanon, Sugar Lake, and Utica 7^ min quads.) 1982 -5,600 Nonassociated gas
+Regional southeast-dipping homocline with numerous southeast-plunging anticlinal noses; field is cut by numerous lineaments Medina Group (Grimsby Formation best reservoir; Cabot Head Shale minor reservoir; Whirlpool Sandstone minor reservoir) Water block Grimsby Formation, Oave(core)= 10.35%, range 5.9 to 26%, O^accore) = 9.9%, secondary intergranular porosity is dominant (caused by feldspar dissolution) Cabot Head Shale, O ave (core)= 8.8%, range 4.5 to 20%; <Dmed(core)= 8.6%, local intragranular porosity (caused by partial dissolution of shale clasts) and extensive quartz cementation Whirlpool Sandstone, ® ave (core) = 7.6%, range 2.0 to 13.7%; <X>med (C0re) = 7.5%, intergranular porosity Medina Group, O ^ (core) = 5.7%, range <1.5 to 18% (Castle and Byrnes, in press) K < 0.1 mD, except in several thin zones defined by low log resistivity where drilling fluid has invaded the reservoir; these zones of higher permeability are caused by secondary intergranular porosity (feldspar dissolution); K<ave) = 0.08 mD, range 0.001 to 1048 mD (Castle and Brynes, in press) None are evident in cores and thin sections; however, because of the close proximity of the field to regional lineaments, fractures are considered to be important for improving reservoir quality Extensive quartz and calcite cementation has greatly reduced the intergranular porosity of the reservoirs; the best porosity type is intergranular porosity caused by feldspar-grain dissolution; most dissolution of feldspar grains has occurred along northwest-trending lineaments Reservoirs are characterized by low water saturation (resistivity-log readings of 80 to 200 ohm-meters), little to no water produced; trap is characterized by high water saturation (resistivity-log readings of <80 ohm-meters can be as low as 10 ohm-meters), high salt water saturation and show of gas after hydrofracturing); irreducible water saturation (S ) = 10-80% depending on O, S ~ 12% for O > 8%, S ~ 20% for O = 6%, S^ ~ 40% for O = 3%, brine production is insignificant except for a few local areas (Castle and Byrnes, in press) None; zone of high gas saturation is located downdip of the zone of high water saturation; a transitional zone is characterized by high water saturation in the gas phase 1,570 to 1,960 psi (0.28 to 0.35 psi/ft) Tave = 119°F, range 111 to 140°F; Tave ~ 140°F also reported
+ve = 400 MMCF of gas per well, range 170 to 430 MMCF of gas per well; about 1 TCF of recoverable gas in the field Zagorski (1991, 1996); Castle and Byrnes (in press)
+
+55
+
+Appendix J
+
+Cooperstown gas field (Oil Creek pool) [C(OC)]
+
+Location:
+Discovery date: Depth (ft): Hydrocarbon type and GOR: Structural setting:
+Stratigraphic name of reservoir: Trap: Porosity:
+Permeability: Natural fractures: Diagenetic features: Water saturation and volume/salinity of produced water: Gas/water and oil/water contacts: Reservoir pressure: Bottom-hole temperature: Well spacing: Ultimate production (EUR per well): References:
+
+Venango County, Pennsylvania (Oil City and Titusville South 7*2 min quads.) -1984 5,800 to 6,200 Nonassociated gas
+Regional southeast-dipping homocline with numerous southeast-plunging anticlinal noses; field is near the Tyrone-Mt. Union regional lineament Medina Group; Grimsby Formation and Whirlpool Sandstone Water block ^>ave (core) = 6 to 8.5%, range for Grimsby Formation <6 to 20%, range for Whirlpool Sandstone 4.5 to 13% K < 0.1 mD, based on Cooperstown field
+1,400 to 1,500 psi (0.23 to 0.25 psi/ft)
+= 225 MMCF of gas per well, range <100 to >500 MMCF of gas per well Pees (1994); Zagorski (1991)
+
+56
+
+Appendix K
+
+East Canton/Magnolia oil field (EC/Mg)
+
+Location: Discovery date: Depth (ft): Hydrocarbon type and GOR: Structural setting: Stratigraphic name of reservoir: Trap:
+Porosity:
+Permeability:
+Natural fractures: Diagenetic features: Water saturation and volume/salinity of produced water:
+Gas/water and oil/water contacts: Reservoir pressure: Bottom-hole temperature: Well spacing: Ultimate production (EUR per well):
+References:
+
+Stark (Osnaberg and Sandy Twps.) and Carroll (Rose Twp.) Counties, Ohio 1966 4,900 to 5,100 Oil and associated gas; GOR = 400
+East-southeast dipping homocline "Clinton" sands
+Stratigraphic with little or no structural control; influenced by local structures and fractures; no recognizable updip pinchout of sandstone reservoirs but the net thickness of the reservoir interval decreases updip ^ave (log) = 7 to 8%; O ave = 5%, range 1 to 11%; range 5 to 12% also reported; best matrix porosity is in the Clinton red sand Kave < 0.1 mD, range < 0.01 to 0.6 mD; local zones having K = 20 mD or greater; good fracture permeability in the Clinton red sand, lower permeability in the Clinton white sand Reported in core; good fracture permeability in the Clinton red sand Silica cement Sw(ave) = 35%, range 26.5 to 96.2%; not much water is produced most wells produce salt water from several gallons/day to several barrels/day; salinity(ave) = 250,885 ppm, range 232,905 to 280,620 ppm, sample number = 10, salinity of 125,000 ppm and ~240,000 ppm also reported None reported; most water produced in the field comes from the structurally highest parts 1,596 psi (0.32 psi/ft); 1,500 psi also reported 104°F; T(ave) = 94°F, sample number = 7, also reported
+40 acres; locally 10 acres EUR per well (for 1 well) = 81,500 MMBO; EUR per well (for casinghead gas) ~150 MMCF of gas, ~6 MMCF of gas/year for first several years then increases to ~13 MMCF of gas/year in sixth year; Ultimate oil production for field = 200 MMBO Fenstermacher (1969); Locke (1967); McCormac and others, 1996; Oil and Gas Journal (1968); Persons (1970); Sanders (1991); Schrider and others (1969); Sitler, (1969); Thomas(1993); Watts and others (1971)
+
+57
+
+Appendix L
+
+Homer gas field (H)
+
+Location:
+Discovery date: Depth (ft): Hydrocarbon type and GOR: Structural setting: Stratigraphic name of reservoir: Trap: Porosity: Permeability: Natural fractures: Diagenetic features: Water saturation and volume/salinity of produced water: Gas/water and oil/water contacts: Reservoir pressure:
+Bottom-hole temperature: Well spacing: Ultimate production (EUR per well): References:
+
+Licking (Bennington, Burlington, Granville, Liberty, and McKean Twps.) and Knox (Milford and Miller Twps.) Counties, Ohio 1900 2,100 to 2,200 Nonassociated gas
+Regional eastward-dipping homocline; minor anticlinal noses and terraces "Clinton" sands; reservoir is an offshore-marine bar
+Stratigraphic; westward pinchout of "Clinton" sands <l>ave = 9.5%, range 4 to 17% Kave =20mD
+SW(ave) = 31%
+None reported; but by analogy to the Arabia field, Lawrence Co., Ohio, this field may have a gas-water contact P(ave) = 780 psi (0.36 psi/ft), range 739 to 821 psi; 700 to 800 psi 950 psi) also reported 89°F
+Bownocker (1903); Cottingham (1929); Knight (1969); McCormac and others (1996); Overbey and Henniger (1971); Zagorski (1996)
+
+58
+
+Appendix M
+
+Kantz Corners gas field (KC)
+
+Location:
+Discovery date: Depth (ft): Hydrocarbon type and GOR: Structural setting: Stratigraphic name of reservoir: Trap: Porosity:
+Permeability:
+Natural fractures:
+Diagenetic features: Water saturation and volume/salinity of produced water: Gas/water and oil/water contacts: Reservoir pressure: Bottom-hole temperature: Well spacing: Ultimate production (EUR per well): References:
+
+Crawford (Cochranton and Geneva 7^ min. quads) and Mercer (Hadley and New Lebanon 7^ min. quads) Counties, Pennsylvania 1977 5,100 to 5,200 Nonassociated gas
+Regional southeast-dipping homocline with local anticlinal noses Medina Group (Grimsby Formation and Whirlpool Sandstone)
+Probable water-block mechanism; no updip pinchout of sandstone reservoirs Grimsby Formation: Oaveaog) = 6.5%, range 5 to 11.5%; Oave (core) = 4.9%, range 4 to 6.5% Whirlpool Sandstone: O^o^ range 4 to 5.9; <I>ave(core) = 3.9%, range 2.7 to 5.4% Grimsby Formation: Kave = <0.1 mD, range <0.1 to 0.64 mD Whirlpool Sandstone: Kave = <0.1 mD; K = 0.0156 mD also reported Natural fractures are the probable cause of a 2.7 mD zone in a core of the Whirlpool Sandstone
+Sw(ave) = 34.8% in nearby Geneva gas field; Salinity^) = 257,000 ppm, range 210,000 to 310,000 ppm, sample number = 5
+1,182 psi (0.21 psi/ft) 112°F
+80 acres
+Dresel (1985); Laughrey (1984); Keignin andHettinger (1997); Pees (1983a,b); Pennsylvania Oil and Gas Association Gas Advocacy Committee (1980); Zagorski (1991)
+
+59
+
+Appendix N
+
+Lakeshore gas field (LS)
+
+Location: Discovery date:
+Depth (ft): Hydrocarbon type and GOR: Structural setting:
+Stratigraphic name of reservoir: Trap: Porosity:
+Permeability:
+Natural fractures: Diagenetic features: Water saturation and volume/salinity of produced water: Gas/water and oil/water contacts: Reservoir pressure: Bottom-hole temperature: Well spacing: Ultimate production (EUR per well): References:
+
+Chautauqua County, New York First Medina Group well was completed in 1887 but the field was not developed until 1903 or 1904 D(ave) = 3,000; range 2,000 to 4,200 Nonassociated gas
+Regional south-southeast-dipping homocline with numerous southeastplunging anticlinal noses and irregular structure contours Medina Group (Grimsby Formation and Whirlpool Sandstone)
+Stratigraphic; no updip pinchout of sandstone reservoirs Oave = 6.3%, range 1.5 to 11.2%; <DaVe (Core) = 4.9%, range 4 to 6.5% Whirlpool Sandstone: ®ave(core) = 4.7%, range 1.9 to 5.9% K=3.4mD Whirlpool Sandstone: K = 0.1 mD, range <0.1 to 0.2 mD
+Sw(ave) = 40%; early wells reported no producing water; Salinity^) = 256,274 ppm, range 215,377 to 298,780 ppm, sample number = 29
+= 98°F, range 92 to 102°F, sample number = 10
+95th percentile (F95) = 45 MMCF of gas, 50th percentile (F50) = 120 MMCF of gas, 5th percentile (F5) = 460 MMCF of gas, sample number =100 Beinkafner (1983); Copley (1980); Keighin and Hettinger (1997); McCormac and others (1996); Pees (1986); Shyer (1989)
+
+60
+
+Appendix O
+
+Lancaster/Sugar Grove gas field (La/SG)
+
+Location:
+Discovery date: Depth (ft): Hydrocarbon type and GOR: Structural setting: Stratigraphic name of reservoir: Trap: Porosity: Permeability: Natural fractures: Diagenetic features: Water saturation and volume/salinity of produced water: Gas/water and oil/water contacts: Reservoir pressure:
+Bottom-hole temperature: Well spacing: Ultimate production (EUR per well): References:
+
+Fairfield (Berne and Pleasant Twps.) and Hocking (New Hope Twp.) Counties, Ohio 1887, 1893 1,900 Nonassociated gas
+Regional east-dipping homocline "Clinton" sands; reservoir is an offshore-marine bar
+Stratigraphic; westward pinchout of "Clinton" sands <J>ave(iog) = 12.5%, range 4 to 23% Kave =40mD
+Sw(ave) = 39%; large amount of salt water in discovery well
+None reported; but by analogy to the Arabia field, Lawrence Co., Ohio, this field may have a gas-water contact Pave = 790 psi, range 724 to 844 psi (0.37 to 0.47 psi/ft); 500 to 600 psi in 1902 (Pjnitiai = 900 psi) also reported 85°F
+Bownocker (1903); McCormac and others (1996); Overbey and Henniger (1971); Zagorski (1996)
+
+61
+
+Appendix P
+
+Lenox gas field (Ln)
+
+Location: Discovery date: Depth (ft): Hydrocarbon type and GOR: Structural setting:
+Stratigraphic name of reservoir:
+Trap:
+Porosity:
+Permeability: Natural fractures: Diagenetic features: Water saturation and volume/salinity of produced water: Gas/water and oil/water contacts:
+Reservoir pressure: Bottom-hole temperature: Well spacing: Ultimate production (EUR per well): References:
+
+Ashtabula County, Ohio (Lenox and Morgan Twps.) 1960 -3,200 Gas and major associated oil
+Structural terrace and southeast-plunging structural noses superimposed on a regional southeast-dipping homocline "Clinton" sands; lower part of the red Clinton; best reservoirs consist of braided stream deposits confined to east-west trending channels; reservoirs also described as sand tongues and associated channels Stratigraphic; locally influenced by southeast-plunging anticlinal noses; no recognizable updip pinchout of sandstone reservoirs; an ~5 mi-wide zone of little to no gas production adjoins the updip part of the field (water block?) <£ave = 7.5%, range 5.9 to 9.6%, 10.1 to 14.6% in one well; rarely exceeds 15 to 18% also reported Kave = 4 mD, as high as 10 mD; K= 0.048 mD also reported Indirect evidence from decline-curve analysis Secondary quartz is the dominant cement SW (ave) = 45%; all wells produce some fluids oil and (or) water; salinityave = 220,014 ppm, range 174,095 to 253,218 ppm, sample number=3, salinity = 112,000 to 155,000 ppm also reported None reported; oil occupies the structurally highest parts of the field, water has been a problem in several of the structurally lowest wells in the southwestern part of the field 1,200 to 1,250 psi (0.38 to 0.39 psi/ft); 1409 psi (0.42 psi/ft) also reported 95°F
+80 acres; 40 acres may be necessary for the most effective drainage Three groups of decline curves are recognized: a well drilled early in the history of the field has an EUR = 170 MMCF of gas Kell (1980); McCormac and others (1996); McMullin (1976); Munsart (1975); Oil and Gas Journal (1969); Sanders (1991)
+
+62
+
+Appendix Q
+
+Logan oil field (Lo)
+
+Location: Discovery date: Depth (ft): Hydrocarbon type and GOR: Structural setting: Stratigraphic name of reservoir: Trap: Porosity: Permeability: Natural fractures: Diagenetic features:
+Water saturation and volume/salinity of produced water:
+Gas/water and oil/water contacts: Reservoir pressure:
+Bottom-hole temperature: Well spacing: Ultimate production (EUR per well):
+References:
+
+Hocking County, Ohio (Green and Falls Twps.) 1939 2,700 to 2,800 Oil and associated gas; GOR = 800, based on 3 wells
+Regional southeast dipping homocline; minor anticlinal noses "Clinton" sands; best producing wells in sandstone reservoirs of deltaic and offshore-bar origin Stratigraphic
+Oave(core) = 13.9%, KingC 11 tO 19.6%
+Kave(core)= 67.9 mD, range 4.5 to 349.3 mD
+Quartz grains are locally clay coated and cemented with silica and carbonate (dolomite and ankerite) SW (ave, core, producing inteivai) = 27.3%, range 8.3 to 62.7%; water and oil are produced in nearly equal amounts one well produced 60 BW per day; 1,200 BW/MMCFG, based on 3 wells; Salinityave = 240,760 ppm, range 165,063 to 288,701 ppm, sample number = 3; salinity = 160,000 to 185,000 ppm also reported
+Original pressure (estimated) ~ 1,250 psi (-0.44 psi/ft); 600 psi in August 1962; 960 psi (0.36 psi/ft) also reported 80°F
+20 to 40 acres Three wells produced 24,251 BO, 20 MMCF of gas, and 24,251 BW from Dec. 1960 to Jan. 1963; EUR (one well) = 13,200 BO; Ultimate oil in place -48.5 MMBO/8000 acres, 5 to 25% is recoverable Boley and others (1965); Greene (1977); Johnson andBoley (1963); Sanders (1991); The Staff, Morgantown (W. Va.) Petroleum Research Laboratory (1962)
+
+63
+
+Appendix R
+
+Mantua/Shalersville gas field (Ma/Sh)
+
+Location: Discovery date: Depth (ft): Hydrocarbon type and GOR: Structural setting: Stratigraphic name of reservoir: Trap: Porosity:
+Permeability: Natural fractures: Diagenetic features: Water saturation and volume/salinity of produced water: Gas/water and oil/water contacts: Reservoir pressure: Bottom-hole temperature: Well spacing: Ultimate production (EUR per well): References:
+
+Portage (Mantua and Shalersville Twps.) County, Ohio 1961 -4,200 Gas and associated oil
+Regional southeast-dipping homocline "Clinton" sands
+Stratigraphic; no recognizable updip pinchout of sandstone reservoirs Oave = 7.6%, range 5.8 to 9.8% K = 0.011 mD
+SW (ave) = 30%, range 18 to 40%; Salinity = 319,638 ppm, sample number=l
+None reported but oil accumulation seems to be associated with the thickest sandstone reservoirs
+40 to 160 acres 95th percentile (F95) = 12 MMCF of gas, 50th percentile (F50) = 84 MMCF of gas, 5th percentile (F5) = 240 MMCF of gas, sample number = 65 Kell (1980); Sanders (1991); Seibert (1987); Wilson (1988)
+
+64
+
+Appendix S
+
+Moreland oil field (M)
+
+Location: Discovery date: Depth (ft): Hydrocarbon type and GOR: Structural setting:
+Stratigraphic name of reservoir: Trap: Porosity: Permeability: Natural fractures: Diagenetic features: Water saturation and volume/salinity of produced water:
+Gas/water and oil/water contacts: Reservoir pressure: Bottom-hole temperature: Well spacing: Ultimate production (EUR per well): References:
+
+Wayne (Franklin Twp.) and Holmes (Prairie Twp.) Counties, Ohio 1956 3,500 Oil and associated gas
+East-southeast-dipping homocline; possibly influenced by the north end of the Parkersburg-Lorain syncline "Clinton" sands; reservoirs dominated by north-south trending, sinuous and elongate sandstone bodies of offshore bar origin Stratigraphic; updip pinchout of reservoir sandstone Oave = 9.55%, range 2.2 to 13.9% Kave = 7.27 mD, range <0.01 to 43 mD Vertical fractures reported in core Silica cement most common, local calcite cement Sw(ave) = 22.8%, range 9.2 to 95%; reservoir is generally lacking in produced water, all permeable zones are reported to be essentially water free, overlying Newburg zone (400 ft above "Clinton") contains water; Salinity = 200,083 ppm, sample number = 1
+1,100 psi (0.3Ipsi/ft)
+20 acres per oil well; 80 acres per gas well The field has produced 2.6 MMBO through mid-1960
+Multer (1963); Sanders (1991)
+
+65
+
+Appendix T
+
+North Jackson/Lordstown gas field (NJ/L)
+
+Location: Discovery date: Depth (ft): Hydrocarbon type and GOR: Structural setting: Stratigraphic name of reservoir: Trap: Porosity: Permeability: Natural fractures: Diagenetic features: Water saturation and volume/salinity of produced water: Gas/water and oil/water contacts: Reservoir pressure: Bottom-hole temperature: Well spacing: Ultimate production (EUR per well):
+References:
+
+Trumbull (Lordstown Twp.) and Mahoning (Jackson Twp.) Counties, Ohio 1963; most development began in 1972 4,300 to 4,900 Gas and local associated oil
+Regional southeast-dipping homocline; minor terraces and anticlinal noses "Clinton" sands; reservoirs consist of sandstone of distributary channel and offshore bar origin Stratigraphic; no recognizable updip pinchout of sandstone reservoirs Oave = 7.8%, range 5.3 to 9.9% Kave =8.55mD
+Sw(ave)=20%
+1,457 psi (0.34 psi/ft) 108°F
+40 acres 50th percentile (F50)=205 MMCF of gas; North Jackson field has produced -175 BCF of gas through 1991, Lordstown field has produced -131 BCF of gas through 1993 Kornfeld (1973); McCormac and others (1996); Seibert (1987); Suphasin (1979)
+
+66
+
+Appendix U
+
+Northeast Salem gas field (NES)
+
+Location:
+Discovery date: Depth (ft): Hydrocarbon type and GOR: Structural setting:
+Stratigraphic name of reservoir:
+Trap:
+Porosity:
+Permeability: Natural fractures:
+Diagenetic features: Water saturation and volume/salinity of produced water:
+Gas/water and oil/water contacts: Reservoir pressure: Bottom-hole temperature: Well spacing: Ultimate production (EUR per well): References:
+
+Mahoning County, Ohio (Beaver, Boardman, Canfield, Ellsworth, and Green Twps.) -1975 -5,700 Gas and local associated oil
+Regional southeast-dipping homocline; minor terraces and anticlinal noses; major southeast-plunging anticlinal nose defined on 5th order trend surface map "Clinton" sands; reservoirs consist of east-west trending sandstone bodies of distributary channel origin; the best gas production occurs in the thickest and cleanest reservoirs within the structural terrace Stratigraphic with subtle structural terrace; no recognizable updip pinchout of sandstone reservoirs
+®ave > 8%; ®lower "Clinton" ave (core) = 4%, range 3.3 tO 6%; ®medinaave(core) = 4%,
+range 2.9 to 5.4% K=0.09mD An increase in fracture density probably is associated with folds within the structural terrace; northwest-southeast oriented producing trends in Mahoning County may be controlled by fracture systems with similar orientations
+Sw = 15.8 to 22.2%; 44% of the wells do not produce salt water, 80% of the wells produce < 100 BW/year (< ^ BW/day), 75% of the salt water (brine) is produced in the first two years (some of this is frac water flowing back into the well bore; x = 9 BW/MMCFG None recognized; local oil production appears to lie updip or lateral to gas production
+118tol20°F
+58 to 72 acres 95th percentile (F95) = 20 MMCF of gas, 50th percentile (F50) = 166 MMCF of gas, 5th percentile (F5) = 489 MMCF of gas, sample number =129 Alexander and others (1985); Boswell and others (1993); Kell (1980); Seibert (1987)
+
+67
+
+Appendix V
+
+Ravenna gas field (R)
+
+Location: Discovery date: Depth (ft): Hydrocarbon type and GOR: Structural setting:
+Stratigraphic name of reservoir: Trap:
+Porosity:
+Permeability: Natural fractures: Diagenetic features: Water saturation and volume/salinity of produced water: Gas/water and oil/water contacts: Reservoir pressure:
+Bottom-hole temperature: Well spacing: Ultimate production (EUR per well):
+References:
+
+Portage County, Ohio (Randolph, Ravenna, and Rootstown Twps.) 1949 -4,500 Gas and local associated oil
+Regional southeast-dipping homocline; no terraces or anticlinal noses reported; northwest-trending Suffield fault in Randolph and Suffield Twps. adjoins the southwest side of the field; large east-plunging anticlinal nose is located at the north end of the field "Clinton" sands
+Stratigraphic; no recognizable updip pinchout of sandstone reservoirs; no recognizable updip decrease in net sandstone thickness Oave = 9%, sample number = 7; <Dave = 7.5%, range 6 to 9.7%; Oave = <10% also reported; North Ravenna, Oave = 8.2%, range 5.8 to 11.0% K>0.3mD
+Sw(ave)= 30%; SW(«VB) = 25%, range 13 to 32% also reported; Sw + So = 50%
+None recognized; oil seems to have accumulated in the thickest sandstone reservoirs 1,400 psi (0.31 psi/ft); Pave = 1,564 psi, range 1548 to 1578 psi, sample number = 3; (0.36 psi/ft) 102° F
+100 acres or more Ravenna: 95th percentile (F95) = 40 MMCF of gas, 50th percentile (F50) = 300 MMCF of gas, 5th percentile (F5) = 1,100 MMCF of gas, sample number = 33 North Ravenna: 95th percentile (F95) = 32 MMCF of gas, 50th percentile (F50) = 132 MMCF of gas, 5th percentile (F5) = 475 MMCF of gas, sample number = 48 Ravenna and North Ravenna: 95th percentile (F95) = 34 MMCF of gas, 50th percentile (F50) = 200 MMCF of gas, 5th percentile (F5) = 980 MMCF of gas, sample number = 81 Boswell and others (1993); Gurley (1963); Janssens (1977); Lytton (1970); McCormac and others (1996); Seibert (1987); Wilson (1988)
+
+68
+
+Appendix W
+
+Senecaville gas field (S)
+
+Location: Discovery date: Depth (ft): Hydrocarbon type and GOR: Structural setting: Stratigraphic name of reservoir: Trap: Porosity: Permeability: Natural fractures: Diagenetic features: Water saturation and volume/salinity of produced water: Gas/water and oil/water contacts: Reservoir pressure: Bottom-hole temperature: Well spacing: Ultimate production (EUR per well):
+References:
+
+Guernsey County, Ohio (Richland Twp.) 1969; 1971 ("Clinton" part) 5,600 Gas and local associated oil (38 to 42° API gravity); GOR = 125,000
+Regional southeast-dipping homocline "Clinton" sands; reservoirs are fluvial-dominated deltaic sandstone
+Stratigraphic; possible updip pinchout of sandstone reservoirs Oave = 8%, range 2 to 16% Kave = 0.5 mD, range 0.01 to 5 mD; K = 0.011 mD also reported
+Sw(ave) = 20%, range 10 to 60%; water production is low, range 0 to 2,000 BW/year or 0 BW/MMCFG to 12 BW/MMCFG
+1,200 psi (0.21 psi/ft)
+40 acres 50th percentile (F50) = 180 MMCF of gas and 2,000 BO Typical well: EUR(i5 years) - 245 MMCF of gas also reported Best well (Consolidated Resources America No. 1 Dziedzic, Ohio, permit no. 2647, drilled in 1980): produced 153 MMCF of gas in the first year (1980); produced 104,637 MCF of gas, 0 BO, and 2,735 BW from 1984 through 1995; production unknown in 1981 through 1983 Ultimate production for field = 4.2 BCF of gas and 46,000 BO Kell (1980), Keltch and others (1990)
+
+69
+
+Appendix X
+
+Sharon Deep gas field (SD)
+
+Location:
+Discovery date: Depth (ft): Hydrocarbon type and GOR: Structural setting: Stratigraphic name of reservoir: Trap: Porosity: Permeability: Natural fractures: Diagenetic features: Water saturation and volume/salinity of produced water:
+Gas/water and oil/water contacts: Reservoir pressure: Bottom-hole temperature: Well spacing: Ultimate production (EUR per well): References:
+
+Mercer County, Pennsylvania (Sharpsville and Sharon East 7^ min. quads) and Trumbull County, Ohio (Brookfield and Hartford Twps.) 1978 4,800 to 5,100 Gas and local associated oil
+Regional southeast-dipping homocline Medina Group (Grimsby Formation and Whirlpool Sandstone)
+Probable water-block mechanism; no updip pinchout of sandstone reservoirs O = 6.8% Kave = 0.0275 mD
+Reservoir: little to no water produced, log resistivity > 80 ohm-meters Trap: high salt water saturation, shows of gas and oil commingled with salt water, log resistivity < 80 ohm-meters Salinity(ave) = 291,408 ppm, range 249,835 to 326,909 ppm, sample number =6 None; transitional zone of high water saturation in gas phase downdip of water l,310psi(0.26psi/ft) 120°F
+40 acres
+Dresel (1985); Laughrey (1984); Keighin and Hettinger (1997); Pees (1983a,b); Pennsylvania Oil and Gas Association Gas Advocacy Committee (1980); Piotrowski (1981); Sanders (1991); Suphasin (1979); Zagorski(1991)
+
+70
+
+Appendix Y
+
+Yorktown/Clay gas field (Y/Cy)
+
+Location: Discovery date: Depth (ft): Hydrocarbon type and GOR: Structural setting:
+Stratigraphic name of reservoir: Trap: Porosity: Permeability: Natural fractures: Diagenetic features: Water saturation and volume/salinity of produced water: Gas/water and oil/water contacts: Reservoir pressure: Bottom-hole temperature: Well spacing: Ultimate production (EUR per well): References:
+
+Tuscarawas County, Ohio (Clay and Warwick Twps.) 1965 -5,000 Gas and associated oil
+East-southeast-dipping homocline; several southeast-plunging anticlinal noses; possible local anticlinal closure "Clinton" sands; red Clinton sand has the best porosity
+Stratigraphic; possible updip pinchout of sandstone reservoirs Oave = 7 to 8%, as high as 10 to 12%; <Dave = 8.4% also reported K = 0.053 to 0.094 mD
+Total fluid saturation (oil + water) = 20 to 35%; SalinityaVe = 213,277 ppm, range 173,688 to 287,074 ppm, sample number = 3
+1,450 psi (0.29 psi/ft); 1,718 to 1,796 psi (0.34 to 0.37 psi/ft) also reported
+40 acres Two wells: EUR = 1,100 MMCF of gas; EUR = 800 MMCF of gas Early wells in Warwick Twp: EURave = 440 to 490 MMCF of gas Krueger (1971), Lytton (1970), Mullet (1982), Oil and Gas Journal (1965); Sanders (1991); Thomas (1993)
+
+71
+
+

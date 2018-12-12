@@ -1,0 +1,4220 @@
+U.S. Department of the Interior U.S. Geological Survey
+Prepared in cooperation with Idaho Department of Environmental Quality
+Aquatic Assemblages and Their Relation to Temperature Variables of Least-Disturbed Streams in the Salmon River Basin, Central Idaho, 2001
+Water-Resources Investigations Report 03–4076
+
+COVER: Center, Middle Fork Salmon River; left, collecting benthic invertebrates; right, bull trout
+
+Aquatic Assemblages and Their Relation to Temperature Variables of Least-Disturbed Streams in the Salmon River Basin, Central Idaho, 2001
+By Douglas S. Ott and Terry R. Maret Water-Resources Investigations Report 03–4076
+Prepared in cooperation with Idaho Department of Environmental Quality Boise, Idaho 2003
+
+U.S. DEPARTMENT OF THE INTERIOR Gale A. Norton, Secretary
+U.S. GEOLOGICAL SURVEY Charles G. Groat, Director
+
+Any use of firm, trade, and brand names in this report is for identification purposes only and does not constitute endorsement by the U.S. Government.
+
+Additional information can be obtained from:
+District Chief U.S. Geological Survey 230 Collins Road Boise, ID 83702-4520
+http://idaho.usgs.gov
+
+Copies of this report can be purchased from:
+U.S. Geological Survey Information Services Box 25286 Federal Center Denver, CO 80225
+e-mail: infoservices@usgs.gov
+
+Copies of this report also are available in PDF format, which can be viewed using Adobe Acrobat Reader, at URL:
+http://idaho.usgs.gov/public/reports.html
+
+CONTENTS
+Contents
+
+Abstract . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Purpose and scope. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Description of study area . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Acknowledgments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Data collection methods . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Site selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Environmental variables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Stream temperature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Onsite water quality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Physical habitat . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Benthic invertebrate collection and processing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Fish collection and processing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Analytical methods . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . General approach . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Environmental variables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Stream temperature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Water quality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Benthic invertebrate assemblages and metrics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Fish assemblages and metrics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Results of temperature data and metrics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Stream temperature metrics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Comparison of stream temperature metrics with life-stage stream temperature criteria . . . . . . . . . . . . . . . . Results of water-quality data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Results of benthic invertebrate taxa and metrics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Comparison of benthic invertebrate assemblages at multiple-reach sites. . . . . . . . . . . . . . . . . . . . . . . . . . . . Coldwater taxa . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Stream Macroinvertebrate Index scores and metrics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Results of ﬁsh taxa and metrics. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Comparison of ﬁsh assemblages at multiple-reach sites . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Stream Fish Index scores and metrics. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Correlations between stream temperature and environmental variables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Correlations between stream temperature and benthic invertebrate variables . . . . . . . . . . . . . . . . . . . . . . . . . . . Correlations between stream temperature and ﬁsh variables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . References cited . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Supplemental information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Table A. Habitat characteristics for selected sample sites in the Salmon River Basin, central Idaho, 2001 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Table B. Microhabitat characteristics for all sample sites in the Salmon River Basin, central Idaho, 2001 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Table C. Water-quality and nutrient data for all sample sites in the Salmon River Basin, central Idaho, 2001. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+1 2 3 3 5 5 5 6 6 9 9 9 10 10 10 11 11 11 11 12 12 13 13 17 18 18 18 19 21 23 24 24 26 28 31 34 37
+39
+43
+44
+
+Contents iii
+
+FIGURES
+
+1. Location of sample sites in the Salmon River Basin, central Idaho . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2–6. Graphs showing:
+2. Percent coldwater benthic invertebrate taxa in relation to maximum daily-maximum stream temperature at all sample sites in the Salmon River Basin, central Idaho, July through September 2001 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3. Elevation in relation to seasonal degree-days (July through August, above 0 degrees Celsius) for selected sample sites in the Salmon River Basin, central Idaho, 2001 . . . . . . . . . . . . . . . . . . . . . .
+4. Range of maximum weekly-maximum stream temperatures (based on date of sample collection and 6 days prior) at which fish and tailed frogs were collected in the Salmon River Basin, central Idaho, 2001 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5. Bull trout densities in relation to maximum daily-maximum stream temperature at selected sample sites in the Salmon River Basin, central Idaho, 2001 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6. Model-predicted probabilities of occurrence of juvenile bull trout in relation to maximum dailymaximum stream temperature, based on regional and Salmon River Basin datasets. . . . . . . . . . . . . .
+
+4
+19 24
+29 31 32
+
+TABLES
+
+1. Basin and site characteristics for all sample sites in the Salmon River Basin, central Idaho, 2001 . . . . . . 2. Definition of stream temperature metrics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3. Stream temperature metrics for selected sample sites in the Salmon River Basin, central Idaho,
+July through September 2001 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4. Relations between stream temperature metrics and life-stage stream temperature criteria for
+selected sample sites in the Salmon River Basin, central Idaho, July through September 2001 . . . . . . . . 5. Spearman rank correlation coefficients for relative abundance of coldwater benthic invertebrate
+taxa and selected stream temperature metrics for selected sample sites in the Salmon River Basin, central Idaho, July through September 2001. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6. Relations between benthic invertebrate metrics and Stream Macroinvertebrate Index scores for selected sample sites in the Salmon River Basin, central Idaho, 2001 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7. Relations between fish metrics and Stream Fish Index scores for selected sample sites in the Salmon River Basin, central Idaho, 2001 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8. Spearman rank correlation coefficients for selected habitat variables and selected stream temperature metrics for selected sample sites in the Salmon River Basin, central Idaho, July through September 2001 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9. Spearman rank correlation coefficients for relative abundance of benthic invertebrate taxa and selected stream temperature metrics for selected sample sites in the Salmon River Basin, central Idaho, July through September 2001. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10. Spearman rank correlation coefficients for relative abundance of fish species and selected stream temperature metrics for selected sample sites in the Salmon River Basin, central Idaho, July through September 2001 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11. Spearman rank correlation coefficients for selected fish and stream temperature metrics for selected sample sites in the Salmon River Basin, central Idaho, July through September 2001 . . . . . . . .
+
+7 11 14 16
+20 22 25
+26
+27
+28 30
+
+iv Aquatic Assemblages and Relation to Temperature Variables, Least-Disturbed Streams, Salmon River Basin, Idaho, 2001
+
+CONVERSION FACTORS AND VERTICAL DATUM
+
+Multiply
+centimeter (cm) cubic meter per second (m3/s)
+kilometer (km)
+meter (m)
+millimeter (mm) square kilometer (km2)
+square meter (m2)
+
+By
+0.3937 35.31
+0.6214 3.281 0.03937 0.3861 10.76
+
+To obtain
+inch (in.) cubic foot per second (ft3/s)
+mile (mi)
+foot (ft)
+inch (in.) square mile (mi2) square foot (ft2)
+
+Temperature in degrees Celsius (ºC) can be converted to degrees Fahrenheit (ºF) as follows: ºF=(1.8)(ºC) + 32
+
+Other abbreviated units: µm micrometer µS/cm microsiemens per centimeter mg/L milligram per liter
+
+Sea Level: In this report “sea level” refers to the National Geodetic Vertical Datum of 1929 (NGVD of 1929)—a geodetic datum derived from a general adjustment of the ﬁrst-order level nets of the United States and Canada, formerly called Sea Level Datum of 1929.
+
+EXPLANATION for boxplots shown in figures 4 and 6
+290 Number of sites where species were collected
+Outlier
+3rd Quartile plus 1.5 times the IQR
+3rd Quartile
+Median
+1st Quartile
+1st Quartile minus 1.5 times the IQR
+Outlier
+
+Interquartile Range (IQR)
+
+Contents v
+
+Aquatic Assemblages and Their Relation to Temperature Variables of Least-Disturbed Streams in the Salmon River Basin, Central Idaho, 2001
+
+By Douglas S. Ott and Terry R. Maret
+
+Abstract
+Abstract.
+In the late 1990s, Idaho’s established stream temperature criteria for the protection of coldwater biota and salmonid spawning were considered inadequate because the criteria did not agree with observed biological conditions in many instances and did not allow for variability in environmental condition or species diversity across a broad area such as the entire State of Idaho.
+In 2001, benthic invertebrate and fish assemblages in 34 least-disturbed streams in the Salmon River Basin, central Idaho, were evaluated in relation to stream temperature and other environmental variables. The Salmon River Basin retains watersheds that are minimally affected by human activities. These “natural” stream conditions provide a basis for deriving attainable stream temperatures that can be used to set new, and revise existing, water-quality criteria for stream habitats affected by human activities.
+During July through September 2001, data were collected to document the thermal regime of least-disturbed streams, characterize the distribution of aquatic biota at streams representing a gradient of temperature, and describe the relations between environmental variables and benthic invertebrate and fish assemblages. Nine stream temperature metrics were compared with the U.S. Environmental Protection Agency’s criterion of 10°C (degrees Celsius) for bull trout spawning and juvenile rearing. The maximum weekly-maximum temperature at all 33 sites where temperature data were available exceeded this criterion. The maximum daily-maximum temperature (MDMT) at 30 of the sites exceeded the Idaho Department of Environmental Quality (IDEQ) criterion of 13.0°C for the protection of salmonid spawning; and the maximum daily-average temperature at all 33 sites
+
+exceeded the 9.0°C criterion for the protection of salmonid spawning. The thermal regime at most sites did not exceed the IDEQ criteria for the protection of coldwater biota. Nine environmental variables—water-surface gradient, discharge, wetted channel width, width:depth ratio, aspect, total seasonal thermal input, open canopy, riparian canopy density, and elevation were selected for correlation with the nine stream temperature metrics. Elevation showed the strongest inverse correlation with the stream temperature metrics.
+Two hundred and one benthic invertebrate taxa from the 34 sampling sites were identified. The most abundant taxa were Baetis tricaudatus, Oligochaeta, Tvetenia bavarica gr., Acari, Rhithrogena, Cinygmula, Heterlimnius, Micropsectra, Eukiefferiella devonica gr., Drunella doddsi, and Cricotopus. Of the 201 benthic invertebrate taxa collected during this study, 57 taxa (present at a minimum of 5 sampling sites) were significantly correlated with one or more of the stream temperature metrics. Among the invertebrate taxa collected, 32 were identified as coldwater taxa. Of the coldwater taxa collected, Zapada oregonensis gr. showed the strongest inverse correlation with the stream temperature metrics and was collected at sites where maximum weekly-maximum temperature (based on date of sample and 6 days prior) ranged from 11.3° to 18.5°C.
+Ten species of fish in the families Salmonidae, Cottidae, and Cyprinidae were collected. Two species (bull trout and chinook salmon) listed as threatened under the U.S. Fish and Wildlife Service Endangered Species Act were collected. Among all species, bull trout showed the strongest inverse correlation between relative fish abundance and stream temperature. Bull trout and juvenile bull trout densities were inversely correlated
+
+Abstract 1
+
+with stream temperature. The probability of occurrence of juvenile bull trout was significantly correlated with MDMT on the basis of results from a logistic regression model developed during this study. However, this model differed from a similar model developed by the U.S. Forest Service on the basis of regional data collected in the Pacific Northwest. The regression model based on data collected during this study showed higher probabilities of occurrence of bull trout at colder stream temperatures (10° to 15°C) and lower probabilities of occurrence at warmer stream temperatures (16° to 21°C) than did the model based on regional data. The model comparisons suggest that regional or local differences need to be considered when deriving stream temperature criteria.
+INTRODUCTION
+Introduction.
+Throughout the United States, watersheds have been altered by various forms of human disturbance. As a result, the distribution and structure of aquatic assemblages in rivers and streams within these watersheds have changed. Many endemic fish species of the Western United States are endangered, threatened, or of special concern as a result of human activities (Warren and Burr, 1994). Documenting these spatial and temporal changes in aquatic assemblages among streams can provide important information on waterresource quality and the biotic integrity of freshwater systems (Karr, 1991). However, before the effects of human alteration of streams can be evaluated, biological information is required from least-disturbed or “reference” streams, or by using suitable historical data (Hughes and others, 1986).
+Unlike many areas of the United States, Idaho still retains watersheds that are minimally affected by human disturbance. It is assumed that these wilderness and roadless watersheds are without human sources of pollution and, thus, represent a priori natural background conditions (Grafe and others, 2002). Because the habitat structure and associated aquatic assemblages of a stream are determined by climate, geology, vegetation, and other features of the surrounding watershed (Frissell and others, 1986), streams within these watersheds are assumed to approximate historical conditions. The assessment of aquatic assemblages and environmental variables in relation to least-disturbed
+
+landscape characteristics is important for documenting resource potential (Hughes and others, 1986; Maret and others, 1997). In addition, this type of information provides the basis for deriving attainable conditions that can be used to set new and revise existing criteria within water-quality standards for stream habitats affected by human activities.
+According to Karr (1991), criteria are those conditions that are presumed to support or protect the designated uses. In Idaho, the Idaho Department of Environmental Quality (IDEQ) is responsible for establishing and enforcing water-quality standards as mandated by Section 303 of the Clean Water Act. Idaho water-quality standard IDAP 58.01.02 (see http://www2.state.id.us/deq/rules/waterrul.htm) defines the goal of a water body by designating the use or uses of the water, setting criteria to protect those uses, and preventing degradation of water quality (Grafe and others, 2002).
+Idaho water-quality standards WQS 3.35 and 100.01 to 100.05 designate four beneficial uses which all water bodies must meet: (1) aquatic life support— coldwater biota, seasonal coldwater biota, warm-water biota, and salmonid spawning; (2) contact recreation—primary (swimming) and secondary (boating); (3) water supply—domestic, agricultural, and industrial; and (4) wildlife habitat and esthetics.
+In the early 1990s, Idaho WQS adopted the criteria of a 22.0°C maximum daily-maximum temperature (MDMT) and a 19.0°C maximum daily-average temperature (MDAT) for the protection of coldwater biota, and a 13.0°C MDMT and a 9.0°C MDAT for the protection of salmonid spawning, within the aquatic life support beneficial use (Grafe and others, 2002).
+In addition to the Idaho WQS stream temperature criteria, the U.S. Environmental Protection Agency (USEPA) imposed a site-specific rule on those water bodies where bull trout (Salvelinus confluentus) are present (40 CFR 131.E.1.i.d, 1997). This rule set a 10.0°C maximum weekly-maximum temperature (MWMT) during June through September for the protection of bull trout spawning and juvenile rearing in natal streams.
+At the time the criteria were adopted, little was known about the thermal regime of most Idaho streams. This lack of information led to the acceptance of stream temperature criteria that, in part, were established on the basis of laboratory studies of temperature tolerances of various species of aquatic life (Beitinger and others, 2000; Selong and others, 2001). While use-
+
+2 Aquatic Assemblages and Relation to Temperature Variables, Least-Disturbed Streams, Salmon River Basin, Idaho, 2001
+
+ful, laboratory studies of this type have limitations when applied to actual environmental conditions because laboratory studies don’t take into account the ecologically diverse conditions in natural environments. By 1998, IDEQ had concluded that the established temperature criteria for Idaho streams were not adequate because they did not agree with observed biological conditions in many instances and did not allow for variability in environmental condition or species diversity (Essig, 1998).
+Significant study of Idaho stream temperatures and their relation to established criteria had not been undertaken until recently, when exceedances were found to be common. During the summer of 2000, Donato (2002) studied the temperature regime of 183 minimally disturbed streams in the Salmon and Clearwater River Basins. Her results showed that temperatures in 100 percent (183 of 183) of the streams failed to meet the IDEQ 9.0°C MDAT and the 13.0°C MDMT criteria for the protection of salmonid spawning. Her results also showed that temperature in 35 percent (64 of 183) of the streams exceeded the IDEQ 19.0°C MDAT criterion, and temperatures in 40 percent (73 of 183) exceeded the 22.0°C MDMT criterion for the protection of coldwater biota. Results from this study underscore the fact that exceedances of temperature criteria are likely in many or most Idaho streams. In fact, Maret and others (2001), who studied sites across Idaho as part of the Idaho statewide surfacewater quality monitoring program during 1996–98, identified 62 percent (25 of 40) of their sites where temperatures exceeded the Idaho WQS criterion of 22.0°C MDMT for protection of coldwater biota.
+Within Idaho, most rivers and streams are presumed or explicitly designated such that their water quality supports coldwater biota (Grafe, 2002). Essig (1998) and Hillman and Essig (1998), on the basis of their reviews of several studies within Idaho, concluded that, although temperatures in many streams exceed criteria, these same streams are supporting populations of coldwater indicator species. Bugosh (1999), who looked at temperature regimes of streams and rivers draining wilderness or minimally disturbed watersheds in the Lochsa River Basin, concluded that, although summer stream temperatures naturally exceed the current criteria, the streams continue to support their beneficial uses.
+Results of studies such as these support the fact that a single stream temperature standard is difficult to apply across a broad area such as the entire State of
+
+Idaho because streams differ in environmental complexity and biological diversity.
+In 2001, the U.S. Geological Survey (USGS), in cooperation with IDEQ, began a study of 34 least-disturbed streams in the Salmon River Basin to document the environmental complexity and biological diversity of sites that are minimally affected by human activities. Objectives of the study were to provide a basis for defining attainable thermal conditions for stream habitats affected by human activities and to provide waterquality managers, policymakers, and the public with an improved scientific basis which would aid in establishing new, and revising current, life-stage temperature criteria for streams throughout Idaho.
+Purpose and Scope
+This report characterizes selected environmental variables, with a focus on stream temperature, and benthic invertebrate and fish assemblages for 34 wadeable (primarily second- through fourth-order), leastdisturbed stream sites in the Salmon River Basin. Environmental and aquatic biota data were collected during the summer of 2001. Purposes of this report are to (1) document the thermal regime of least-disturbed streams; (2) characterize the distribution of aquatic biota in streams that represent a gradient of temperature; and (3) describe relations between environmental variables and benthic invertebrate and fish assemblages. Study results will assist resource managers in the development of applicable criteria that will protect coldwater biota and salmonid spawning and take into account natural environmental diversity.
+Description of Study Area
+The Salmon River Basin (fig. 1) is located in central Idaho and extends 684 km from its headwaters on the east side of the Sawtooth Range to the confluence with the Snake River, draining an area of approximately 36,324 km2 (Lipscomb, 1998). The basin contains large areas that have been designated as wilderness, several national forests, and a national recreation area. Certain reaches of the Salmon River and its tributaries are designated as wild and scenic rivers. These features make the basin a popular destination for hiking, whitewater rafting, and other outdoor activities.
+Elevation above sea level ranges from 3,852 m at Borah Peak, the highest point in Idaho, to 310 m at the
+
+Introduction 3
+
+4 Aquatic Assemblages and Relation to Temperature Variables, Least-Disturbed Streams, Salmon River Basin, Idaho, 2001
+
+46° 46°
+Salmon
+34 116°
+
+115°
+
+114°
+
+33 White Bird
+
+North Fork
+
+River
+
+Riggins
+
+IDAHO
+Salmon
+31
+
+30
+
+23 River
+
+12 Salmon
+
+11
+
+Salmon River
+
+Salmon River
+
+Lemhi River
+
+Little Salmon River
+
+32
+116° 45°
+EXPLANATION Sampling site and number 28
+Base from U.S. Geological Survey digital data, 1:100,000, 1980 Albers Equal-Area projection Standard parallels 43° 30', 47° 30' and -114° 00', 41° 45' No false easting or false northing
+
+22
+
+East Fork
+
+South Fork
+
+26
+
+Salmon River 27
+
+21 20
+
+28 25 29
+
+19
+
+South Fork
+
+24
+VALLEY
+Middle 14
+
+16 Fork 17
+15
+
+18
+
+Salmon
+LEMHI
+Challis
+
+River
+
+13 4
+44°
+
+CUSTER
+
+56 Stanley
+3 2
+
+Salmon Fork 7
+
+114° 44°
+
+East
+
+1
+115°
+
+Pahsimeroi
+
+River
+
+45°
+Lemhi River
+10 9
+8
+0 10 20 30 MILES 0 10 20 30 KILOMETERS
+
+Figure 1. Location of sample sites in the Salmon River Basin, central Idaho. (Site names and characteristics shown in table 1)
+
+Study area
+IDAHO
+
+confluence of the Salmon and Snake Rivers. Mean elevation of the basin is 2,014 m. Climate in most of the basin is semiarid and annual precipitation ranges from less than 10 to 50 cm; at higher elevations in the southwestern part of the basin, annual precipitation can average more than 50 cm (Lipscomb, 1998). Precipitation is primarily snow, and peak flows in streams generally result from spring snowmelt.
+The Salmon River Basin is located in the Blue Mountains, Idaho Batholith, and Middle Rockies ecoregions (McGrath and others, 2001), which consist primarily of coniferous forests in upper elevations and sagebrush and grasslands in the valleys. Pine and fir predominate, covering 67 percent of the basin; rangeland and agricultural land cover 30 and 3 percent, respectively.
+Geologically, the basin consists primarily of metamorphic and sedimentary rocks, granite, volcanic rocks, and alluvium (King and Beikman, 1974). The most noticeable geological feature within the basin is the Mesozoic Idaho batholith, which makes up the central mountains. Much of the basin is characterized by stream channels deeply incised in bedrock and bordered by steep terrain. Two major exceptions are the Lemhi and Pahsimeroi River Basins in the eastern part of the basin. Both of these basins have broad, alluvial valleys bounded by steep mountains (Lipscomb, 1998).
+Mean annual streamflow of the Salmon River at the USGS streamflow gaging station near White Bird, Idaho, is 316 m3/s for the period of record. The drainage area of the basin upstream from this gaging station is 35,095 km2, or 97 percent of the entire basin area. Streamflow conditions for the study period were below the long-term average. The mean streamflow for 2001 was 55 percent of the mean annual streamflow for the Salmon River near White Bird (O’Dell and others, 2002).
+Streams in the upper parts of watersheds in the basin typically have high water clarity, coarse-grained substrates (cobble and boulders), high stream gradients (>0.5 percent), well-defined riffles and pools, and very sparse macrophyte growth. Streams in these areas show few signs of human activities. Where present, most noticeable are the effects from historical logging, mining, and cattle grazing activities.
+In contrast, streams in the lower parts of watersheds typically have lower water clarity, more finegrained sediments, lower stream gradients, abundant run habitat, and generally denser macrophyte growth. These lower parts frequently are subjected to channel-
+
+ization, loss of riparian habitat by cattle grazing, and diversion of water for irrigation.
+Invertebrates and fish in the Salmon River and its tributaries consist primarily of coldwater species. The most common benthic invertebrate orders are Ephemeroptera (mayflies), Plecoptera (stoneflies), Trichoptera (caddisflies), and Diptera (true flies); the most common fish families are Salmonidae (trout), Cottidae (sculpins), Cyprinidae (minnows), and Catostomidae (suckers).
+Acknowledgments
+Numerous individuals assisted in collecting and processing data during the course of this study, including Mike A. Beckwith, Ross G. Dickinson, Mary M. Donato, Dorene E. MacCoy, Marcia Medford, William H. Mullins, and Kenneth D. Skinner, all from the USGS. Several individuals from IDEQ also contributed significantly to the study: Don W. Zaroban, who assisted with data collection and logistics; Christopher A. Mebane and Don A. Essig, who contributed to the study design and facilitated its support; and Nick Gerhardt, who assisted with site selection. Craig Johnson, Bureau of Land Management, also assisted with site selection. Jason B. Dunham, U.S. Forest Service (USFS), Intermountain Research Station, provided regional data and assistance with the logistic regression model. Les Bechtal of Canyons, Inc., provided professional guide service to access tributary sites along the Middle Fork Salmon River. Funding for this study was provided by the USGS and IDEQ.
+DATA COLLECTION METHODS
+Data Collection Methods.
+Site Selection
+Sampling sites in the Salmon River Basin were selected to represent least-disturbed conditions with an emphasis on sites minimally affected by prior logging or mining activities within their watersheds. Criteria outlined by Hughes and others (1986) guided the selection of sample sites representing minimal human disturbance. These criteria included determining the level of human disturbance, quantifying stream size, characterizing stream channels, locating refuges, and determining migration barriers.
+Other methods used to select least-disturbed sites included examination of existing data, review of previ-
+
+Data Collection Methods 5
+
+ous qualifications of levels of disturbance of Idaho streams reported by Overton and others (1995), and consultation with local land management agencies familiar with streams in the area. Sites also were selected to represent a gradient of temperature as indicated by a previous study of least-disturbed streams in the basin (Donato, 2002). Final selection of sampling sites was made only after a thorough field reconnaissance of candidate sites to verify their lack of human disturbance.
+In all, 34 sites were selected (table 1, fig. 1). Each site consisted of a representative reach generally containing repeating geomorphic channel units (riffles, runs, and pools). The length of a reach was determined as a function of stream width (Fitzpatrick and others, 1998). Reach lengths sampled during this study ranged from 130 to 280 m and usually exceeded 20 times the wetted channel width. The stream sites represented second- through fifth-order streams (Strahler, 1957), and all were wadeable. At two sites, Valley Creek (site 4) and Big Creek (site 30), three spatially disjunct stream reaches were sampled to evaluate spatial variability in the invertebrate and fish assemblages along a stream segment.
+Environmental Variables
+Several environmental variables, including basin and reach characteristics (table 1), physical habitat characteristics (tables A and B, back of report), and water physicochemistry (table C, back of report), were evaluated for each site. Several sources were used to construct geographic data layers. Basin characteristics, including basin size, stream elevation, stream order, and land cover, were determined using Arc Macro Language programs written for ArcInfo (Environmental Systems Research Institute, Inc., 1999). Basin boundaries were determined from the National Elevation Dataset (NED), which is based on a 30-m-resolution digital elevation dataset (http://gisdata.usgs.gov/ned). Hydrologic derivatives of the NED, including stream elevation and order, were developed using procedures similar to those in Stage 1 processing, using a custom projection for Idaho (http://edcnts12.cr.usgs.gov/ned-h/about/Stage1.html). Percent land cover (agricultural, barren, forest/upland, herbaceous upland, and range/shrub land) also was determined for each basin by using the National Land Cover Dataset (Vogelmann and others, 1998). Hydro-
+
+logic unit code was determined from the Hydrologic Unit Map of Idaho (U.S. Geological Survey, 1975). Stream type was determined onsite following guidelines outlined by Rosgen (1994). Stream latitude and longitude were determined onsite by handheld Global Positioning System receivers.
+STREAM TEMPERATURE
+Temperature data collection and data logger deployment followed procedures outlined by Stevens and others (1975) and Zaroban (2000). The two digital data loggers used in this study (StowAway TidbiT and Optic StowAway; Onset Computer Corporation, Pocasset, Mass.) measure temperature to within ±0.4°C and record temperature within a range of – 0.5° to 37°C.
+Prior to deployment of the data loggers, a calibration audit was conducted using an ice water and ambient temperature bath. Results of the audit showed that all data loggers recorded temperature to within ±0.4°C of the audit temperatures as determined by a thermometer calibrated by the American Society of Testing and Materials.
+Data loggers were deployed in mid-June 2001 at most sites and programmed to record stream temperature hourly. Sites 16 through 22, located on tributaries to the Middle Fork Salmon River in the Frank Church River of No Return Wilderness Area, have limited access; an extensive, multiday trip by whitewater raft was required to reach these sampling sites. Data loggers were deployed at these sites in September 2000 during a raft trip conducted by IDEQ. Data loggers at these sampling sites varied in their collection intervals and recording time ranged from 30 to 72 minutes.
+With the exception of sites 16 through 22, two data loggers were deployed at each site. Upon selection of a representative stream reach, data loggers were installed near both the upper and lower reach boundaries. At each boundary, cross-sectional measurements of stream temperature and specific conductance were made to verify stream mixing and lack of ground-water influence. Once a location near a reach boundary was determined to be well mixed, a data logger (wrapped in aluminum foil to reduce the effects of solar radiation) was attached to a steel rod that was driven into the streambed in the thalweg. Data loggers were placed at mid-depth and out of direct sunlight when possible. In addition, physical measurements of stream depth, stream aspect, percent open canopy, and riparian canopy density were made.
+
+6 Aquatic Assemblages and Relation to Temperature Variables, Least-Disturbed Streams, Salmon River Basin, Idaho, 2001
+
+Table 1. Basin and site characteristics for all sample sites in the Salmon River Basin, central Idaho, 2001 [Site locations shown in ﬁgure 1; No., number; latitude and longitude in degrees, minutes, and seconds; HUC, hydrologic unit code; km2, square kilometers]
+
+Rosgen
+
+(1994)
+
+Site stream
+
+No.
+
+Site name
+
+Latitude Longitude
+
+HUC
+
+type
+
+1 Alpine Creek . . . . . . . . . . . . . 435351 1145439 17060201
+
+C
+
+2 Fourth of July Creek . . . . . . . 440148 1144802 17060201
+
+B
+
+3 Huckleberry Creek. . . . . . . . . 440452 1145214 17060201
+
+C
+
+4 Valley Creek. . . . . . . . . . . . . . 441823 1150312 17060201
+
+C
+
+5 Basin Creek . . . . . . . . . . . . . . 441609 1144944 17060201
+
+B
+
+6 Warm Springs Creek . . . . . . . 441436 1144046 17060201
+
+B
+
+7 Germania Creek . . . . . . . . . . . 440219 1142745 17060201
+
+B
+
+8 Big Creek, South Fork . . . . . . 442629 1133558 17060202
+
+B
+
+9 Morse Creek . . . . . . . . . . . . . 443756 1134717 17060202
+
+B
+
+10 Hayden Creek, East Fork. . . . 444345 1134017 17060204
+
+C
+
+11 Sheep Creek . . . . . . . . . . . . . . 452955 1135528 17060203
+
+B
+
+12 Owl Creek . . . . . . . . . . . . . . . 451916 1142660 17060203
+
+B
+
+13 Cape Horn Creek . . . . . . . . . . 442322 1151030 17060205
+
+C
+
+14 Sulphur Creek . . . . . . . . . . . . 443227 1151844 17060205
+
+C
+
+15 Vanity Creek . . . . . . . . . . . . . 443247 1150344 17060205
+
+B
+
+16 Indian Creek . . . . . . . . . . . . . 444609 1150533 17060205
+
+B
+
+17 Marble Creek . . . . . . . . . . . . . 444440 1150102 17060205
+
+B
+
+18 Loon Creek . . . . . . . . . . . . . . 444755 1144819 17060205
+
+B
+
+19 Camas Creek . . . . . . . . . . . . . 445331 1144313 17060206
+
+B
+
+Stream order
+3 3 2 3 3 3 3 2 3 2 3 3 3 4 3 3 4 5 4
+
+Basin area (km2)
+24.8 44.6 20.2 115 129 208 130 67.0 33.5 20.4 87.5 139 64.1 132.7 46 215.3 338 887 1,029
+
+Elevation (meters above
+sea level)
+
+Forest/ upland
+
+2,146
+
+39.5
+
+2,182
+
+69.8
+
+2,030
+
+79.6
+
+2,036
+
+76.9
+
+1,865
+
+74.6
+
+1,829
+
+68.6
+
+1,950
+
+60.5
+
+2,006
+
+62.8
+
+1,908
+
+44.1
+
+2,286
+
+63.5
+
+1,341
+
+78.6
+
+975 60.4
+
+1,996
+
+71.4
+
+1,731
+
+70.3
+
+1,853
+
+70.0
+
+1,450
+
+69.2
+
+1,355
+
+68.6
+
+1,225
+
+65.9
+
+1,160
+
+76.7
+
+Percent land use
+
+Range/ shrubland
+
+Herbaceous upland
+
+Agricultural
+land
+
+Barren land
+
+Other
+
+3.1 3.0 0
+
+53.1 1.3
+
+5.1 5.9 0
+
+17.6 1.6
+
+6.7 4.3 0
+
+7.9 1.5
+
+5.2 7.2
+
+.2 8.6 1.9
+
+6.0 9.8 0
+
+9.1 .5
+
+7.0 8.3 0
+
+15.2 .9
+
+8.1 8.1 0
+
+22.8 .5
+
+17.0 11.2
+
+0
+
+9.0 0
+
+25.7 22.6
+
+0
+
+7.4 .2
+
+12.3 12.8
+
+0
+
+11.3 .1
+
+9.8 10.6
+
+0
+
+.8 .2
+
+15.8 22.8
+
+0
+
+.7 .3
+
+7.1 4.5 0
+
+15.5 1.5
+
+9.9 7.8
+
+.2 10.5 1.3
+
+5.7 4.8 0
+
+19.2 .3
+
+10.5 8.9 0
+
+11.1 .3
+
+11.5 12.1
+
+0
+
+7.7 .1
+
+9.0 14.1
+
+0
+
+10.8 .2
+
+7.5 9.0 0
+
+6.5 .3
+
+Data Collection Methods 7
+
+Table 1. Basin and site characteristics for all sample sites in the Salmon River Basin, central Idaho, 2001—Continued
+
+8 Aquatic Assemblages and Relation to Temperature Variables, Least-Disturbed Streams, Salmon River Basin, Idaho, 2001
+
+Rosgen
+
+(1994)
+
+Site stream Stream
+
+No.
+
+Site name
+
+Latitude Longitude
+
+HUC
+
+type order
+
+20 Wilson Creek. . . . . . . . . . . . . 450201 1144326 17060206
+
+B
+
+3
+
+21 Papoose Creek. . . . . . . . . . . . 451027 1144319 17060206
+
+A
+
+3
+
+22 Ship Island Creek . . . . . . . . . 451035 1144312 17060206
+
+A
+
+2
+
+23 Big Mallard Creek . . . . . . . . 453446 1151833 17060207
+
+B
+
+3
+
+24 Blackmare Creek. . . . . . . . . . 444920 1154218 17060208
+
+B
+
+3
+
+25 Fourmile Creek . . . . . . . . . . . 445147 1154124 17060208
+
+A
+
+3
+
+26 Fitsum Creek. . . . . . . . . . . . . 450003 1154323 17060208
+
+A
+
+3
+
+27 Tamarack Creek . . . . . . . . . . 445735 1152322 17060208
+
+B
+
+3
+
+28 Proﬁle Creek . . . . . . . . . . . . . 445729 1152544 17060208
+
+B
+
+3
+
+29 Riordan Creek . . . . . . . . . . . . 445424 1152907 17060208
+
+B
+
+3
+
+30 Big Creek . . . . . . . . . . . . . . . 453509 1153128 17060207
+
+C
+
+3
+
+31 French Creek. . . . . . . . . . . . . 452523 1160138 17060209
+
+A
+
+3
+
+32 Hazard Creek . . . . . . . . . . . . 451058 1161657 17060210
+
+A
+
+3
+
+33 Skookumchuck Creek . . . . . . 454207 1161553 17060209
+
+C
+
+3
+
+34 Rice Creek. . . . . . . . . . . . . . . 455226 1162412 17060209
+
+B
+
+3
+
+Basin area (km2)
+
+Elevation (meters above
+sea level)
+
+Forest/ upland
+
+Range/ shrubland
+
+Percent land use
+
+Herbaceous upland
+
+Agricultural
+land
+
+Barren land
+
+Other
+
+97.8 1,116
+
+58.6 10.5
+
+12.2
+
+0
+
+18.2 0.5
+
+76.2 1,040
+
+61.7 12.3
+
+9.5 0
+
+16.2 .3
+
+31.8 975 64.2 10.0
+
+5.1 0
+
+18.8 1.9
+
+100.8 1,561
+
+97.2
+
+.9
+
+.9 0
+
+.4 .6
+
+45.8 1,332
+
+72.8 12.3
+
+11.5
+
+0
+
+3.4 0
+
+39.1 1,276
+
+91.3
+
+3.1
+
+3.6 0
+
+2.0 0
+
+80.6 1,188
+
+74.0 11.0
+
+12.4
+
+0
+
+2.6 0
+
+47.5 1,700
+
+68.6
+
+8.1
+
+6.0 0
+
+17.1 .2
+
+50.4 1,615
+
+76.4
+
+4.4
+
+3.8 0
+
+15.1 .3
+
+58.2 1,494
+
+90.1
+
+3.0
+
+1.7 0
+
+4.7 .5
+
+42.1 1,859
+
+96.5
+
+1.0
+
+1.0 0
+
+.1 1.4
+
+194
+
+624 81.3
+
+8.2
+
+8.0 0
+
+2.4 .1
+
+109
+
+719 74.7 12.0
+
+9.8 0
+
+3.4 .1
+
+77.5 451 65.6 20.4 10.3 0
+
+3.4 .3
+
+93
+
+419 33.8 45.0 14.5
+
+6.7
+
+0
+
+0
+
+ONSITE WATER QUALITY
+Water-quality samples were collected at each site by using methods described by Wilde and others (1999) for analysis of selected nutrients. A portion of each sample was filtered through a 0.45-µm filter; analytes in this portion hereafter are referred to as dissolved. Samples were shipped on ice to the USGS National Water Quality Laboratory in Arvada, Colorado, for analysis (Fishman, 1993). Onsite measurements of water temperature, dissolved oxygen, pH, and specific conductance also were recorded (Wilde and Radtke, 1998).
+Onsite quality assurance (QA) consisted of waterquality blank samples and replicates. Laboratory QA consisted of routine blank analyses and replicates for water samples (Fishman, 1993). All analysis results for QA laboratory samples were within acceptable USGS method standards.
+PHYSICAL HABITAT
+Physical habitat measurements followed procedures as outlined in Fitzpatrick and others (1998). The reach length, lengths of geomorphic channel units (riffle, run, and pool) within the reach, and the watersurface gradient were measured. Six habitat transects were placed perpendicular to streamflow, equidistant throughout the reach. At each transect, wetted channel width, bankfull width, percent open canopy, percent riparian canopy density, and stream aspect were measured. In addition, along each transect at the thalweg and two intermediate locations, depth, velocity, bottom substrate size, percent substrate embeddedness, and instream habitat cover types were measured. Velocities were measured at 0.6 of the stream depth. Bottom substrate size, percent substrate embeddedness, instream habitat cover, and bank features were categorized visually.
+Instream habitat cover was determined visually within a 1-m strip along each transect at the three instream locations and the left and right banks. Instream habitat cover is expressed as percent woody debris, overhanging vegetation, undercut banks, boulders, aquatic macrophytes, and artificial structures (such as tires and riprap). For data analysis, a mean value for each habitat variable was calculated to represent a reach.
+Flow, channel, and bank conditions were characterized using combinations of easily measurable, but
+
+representative, descriptors. Discharge was calculated on the basis of width, depth, and velocity measured at the time of sampling. Width:depth ratio was determined as a relative measure of channel cross-sectional shape. Three measures of habitat complexity were calculated: the coefficients of variation (CV) for width, depth, and velocity (Gorman and Karr, 1978; Rahel and Hubert, 1991). A flow stability index was calculated as the ratio between low flow depth and estimated bankfull depth (Rosgen, 1994; Lammert and Allan, 1999). A flow stability index approaching 1.0 represents minimal flow fluctuation between low and bankfull flow and, therefore, higher stability. A bank stability index also was calculated on the basis of measures of bank angle, height, substrate type, and vegetative cover (Fitzpatrick and others, 1998). Scores were assigned to each measure and summed for a total bank stability score. The mean of all bank scores was used to represent the bank stability index score for the reach. Scores of 4 to 7 represent stable banks; 8 to 10 represent banks at risk of erosion; and 16 to 22 represent unstable banks.
+Total seasonal thermal input for the months of June through September was determined using a Solar Pathfinder. This measure of the amount of incident solar radiation striking the surface of the water was determined at mid-channel at the upper, lower, and middle transects of each stream reach following procedures outlined by Platts and others (1987).
+At each riffle location where invertebrates where sampled, microhabitat data were collected following procedures outlined by Cuffney and others (1993). Depth, velocity, percent substrate fines (<2 mm), bottom substrate size, percent substrate embeddedness, and percent open canopy were measured. Bottom substrate particle size was measured quantitatively across each riffle following procedures outlined by Wolman (1954). As stated previously, for the purpose of data analysis, a mean value for each habitat variable was calculated to characterize a riffle sample location.
+Benthic Invertebrate Collection and Processing
+Benthic invertebrates were collected once at all sites during low streamflow conditions from July through September 2001. Three riffle areas within the reach were selected and then sampled using a Slack rectangular kick net sampler equipped with a 425-µm mesh net (Cuffney and others, 1993). At each riffle,
+
+Data Collection Methods 9
+
+large gravel and cobbles within a 0.25-m2 sample area in front of the net were brushed to dislodge organisms, after which the sample area was disturbed by kicking the loose gravel for 30 seconds.
+Onsite processing consisted of elutriation of each sample by repeated washing with a 424-µm mesh sieve. After processing, the three riffle samples were composited (total sample area of 0.75 m2) in a 1-L plastic jar, fixed with 10 percent buffered formalin, and shipped to EcoAnalysts in Moscow, Idaho, for taxonomic processing. At EcoAnalysts, samples were sorted and organisms were identified and counted to the lowest practical taxonomic level (genus or species for most taxa). Voucher specimens from this study were deposited in the Orma J. Smith Museum of Natural History, Albertson College of Idaho, Caldwell, Idaho.
+Fish Collection and Processing
+All sites but one were sampled during low streamflow conditions from July through September 2001. Fish were collected once at all sites except at Marble Creek (site 17). This site was not sampled because of high flow conditions and extreme turbidity. A scientific collection permit was obtained from the Idaho Department of Fish and Game (IDFG), and species data were provided to them as a provision of the permit. Fish sampling consisted of single-pass electrofishing. Single-pass electrofishing has been shown to be an effective method of sampling fish species richness, abundance, and assemblage structure in small streams (Simonson and Lyons, 1995; Kruse and others, 1998). Fish were collected using a backpack electrofisher (Smith-Root model 12) emitting pulsed direct current. Sampling was done in an upstream direction and included all available habitats within the reach. Sampling effort was measured as the total time that power was applied to the electrode, typically from 500 to 2,000 seconds.
+Fish were anesthetized with a dilute solution of clove oil and ethanol, identified to species, measured for total length and weight, and examined for external anomalies following methods described by Meador and others (1993). After examination, the fish were returned to the stream. Specimens of selected species were retained for reference and verification of field identifications. Age class determinations for salmonids and cottids were based on length-frequency distribu-
+
+tions and descriptions by Scott and Crossman (1973) and Wydoski and Whitney (1979).
+In addition to fish, tailed frogs (Ascaphus truei) and salamanders, which have been shown to be effective indicators of stream conditions (Bennett and Fisher, 1989; Corkran and Thoms, 1996), also were identified and counted. A voucher collection from this study is located in the Orma J. Smith Museum of Natural History, Albertson College of Idaho, Caldwell, Idaho.
+ANALYTICAL METHODS
+Analytical Methods.
+General Approach
+A variety of analytical methods were used to describe and evaluate aquatic communities and environmental variables. Initially, analysis focused on identifying general patterns and relations by data tabulation and graphical displays. Metrics then were calculated to quantify thermal regimes and to describe benthic invertebrate and fish assemblages. A metric is a biological or physical attribute which helps evaluate a stream’s water-quality condition, or biotic integrity. According to Karr and others (1986), a metric is an enumeration representing an assemblage characteristic or combination of characteristics that change in a predictable way with disturbance. A metric score can be used as a single numeric index, such as MDMT, or combined into a comparative rating of multiple metrics, such as the Stream Fish Index (SFI) (Mebane, 2002) described in the section “Fish Assemblages and Metrics” later in this report. Once metrics were calculated, Spearman rank correlation matrices were developed to examine all possible combinations of responses and explanatory variables. As guided by the rank correlations, selected metrics were examined further using boxplots, scatterplots, and bar graphs. The latter analyses helped evaluate specific relations between fish and benthic invertebrate metrics and environmental variables and provided a visual description of variability among sample sites. All statistical analyses were performed using SYSTAT, version 9.0 (Wilkinson, 1999).
+To evaluate spatial variability, community data collected among multiple reaches at a single sampling site were compared by calculating Jaccard’s coefficient of community similarity (JC) index. The JC index is calculated for each site pair as the proportion of species out of the total list of species common to both sites: JC = C/ (A+B+C), where C is the number of species
+
+10 Aquatic Assemblages and Relation to Temperature Variables, Least-Disturbed Streams, Salmon River Basin, Idaho, 2001
+
+common to both sites, and A and B are the number of species unique to each of the two sites.
+Finally, logistic regression (Hosmer and Lemeshow, 1989) was used to develop an algorithm that predicts the probability of occurrence of juvenile (<150 mm) bull trout as a function of maximum dailymaximum stream temperature. In logistic regression, the dependent variable (for this study, juvenile bull trout) is a binary variable. Unlike linear regression, logistic regression does not require normally distributed data. Model results were compared with a regional bull trout dataset compiled by the USFS (Dunham and others, 2001).
+Environmental Variables
+STREAM TEMPERATURE
+Stream temperature data were inspected for obvious errors such as data logger malfunction and exposure to air temperature. Data collected prior to deployment and after retrieval were removed from the dataset. Time-series plots and other forms of graphical displays
+
+were used to visually inspect the data and to compare datasets. Quantitative summaries of the thermal regime, or metrics, were calculated for all sites and are described in table 2. Because most sites were equipped with two data loggers, the paired datasets were compared to evaluate spatial variability.
+WATER QUALITY
+Because the water-quality data in this study were collected to establish a baseline, extensive data analysis was not conducted. Primarily, data were collected to provide a more comprehensive understanding of environmental conditions during this study, to document water-quality conditions of least-disturbed streams, and to publish data for comparison with data from future studies.
+Benthic Invertebrate Assemblages and Metrics
+Benthic invertebrate assemblages were analyzed without accounting for ambiguous taxonomic groups. Ambiguities in the benthic invertebrate dataset arise when some specimens in a sample lack the characteris-
+
+Table 2. Deﬁnition of stream temperature metrics
+
+Stream temperature
+metric
+
+Deﬁnition
+
+MDMT
+
+Maximum daily-maximum temperature, in degrees Celsius
+
+MDAT
+
+Maximum daily-average temperature, in degrees Celsius
+
+MWMT
+
+Maximum weekly-maximum temperature. Derived from 7-day moving average of daily maximum temperatures, in degrees Celsius
+
+MWAT
+
+Maximum weekly-average temperature. Derived from 7-day moving average of daily average temperatures, in degrees Celsius
+
+Maximum weekly-maximum temperature for date of sample collection. Derived from 7-day moving average of daily maxMWMTS imum temperatures on sample date and 6 days prior, in degrees Celsius
+
+MWATS
+
+Maximum weekly-average temperature for date of sample collection. Derived from 7-day moving average of daily average temperatures on sample date and 6 days prior, in degrees Celsius
+
+MAX∆T
+
+Maximum of the maximum daily temperature minus minimum daily temperature (diurnal ﬂuctuation) for deployment period, in degrees Celsius
+
+BIG∆T
+
+Maximum daily-maximum temperature minus minimum daily-minimum temperature for deployment period, in degrees Celsius
+
+Seasonal degree-days. Derived as sum of differences between daily average temperature and base temperature of 0 degrees DEGDAY Celsius for period July 1 through August 31, 2001
+
+Analytical Methods 11
+
+tics that allow identification to the targeted level of taxonomic resolution. Slight variations in the results of the benthic invertebrate data can occur if ambiguous taxonomic groups are accounted for prior to analysis.
+Benthic invertebrate assemblages were analyzed using relative abundance data, density data, and the Stream Macroinvertebrate Index (SMI) (Jessup and Gerritsen, 2002). The SMI is a multimetric index that uses a bioregional scheme based on a grouping of ecoregions. These bioregions include the Northern Mountains, Central and Southern Mountains, and Basins. All sample sites in this study were located in the Central and Southern Mountains bioregion. Six metric categories—richness, composition, pollution tolerance, diversity, feeding group, and habitat—were used to identify assemblage attributes. The richness category consists of metrics for total number of taxa and total number of Ephemeroptera (mayflies), Plecoptera (stoneflies), and Trichoptera (caddisflies) (EPT) taxa. The composition category consists of the metric percent Plecoptera, or percent of sample that includes stonefly nymphs. The pollution tolerance category derives a metric using the Hilsenhoff Biotic Index (HBI) that determines the abundance-weighted average tolerance of organisms to pollution (Hilsenhoff, 1987). According to Hilsenhoff (1987), an HBI value between 0 and 3.50 indicates “excellent” water quality with no apparent organic pollution. An HBI value between 3.51 and 4.50 indicates “very good” water quality with slight organic pollution. An HBI value between 4.51 and 5.50 indicates “good” water quality with some organic pollution. An HBI value above 5.51 indicates “fair” to “very poor” water quality with varying degrees of organic pollution from fairly significant to severe. The diversity category consists of the metric percent five dominant taxa, or percent of sample including the five most abundant taxa. The feeding group category consists of one metric, scraper taxa, or number of taxa that scrape periphyton from substrates. The final category, habitat, consists of the metric clinger taxa. This metric is the number of taxa that have fixed retreats or adaptations that allow them to attach to substrate in flowing water.
+The multimetric index value (SMI score) for a sample site is the sum of the individual metric scores. Once an SMI score for a sample site is determined, comparisons are made with conditions at least-disturbed sites within the same bioregion. This comparison allows assignments of a narrative rating for the sample site ranging from “very good” to “very poor.”
+
+According to Jessup and Gerritsen (2002), SMI scores between 79 and 100 are considered “very good,” scores between 58 and 78 are considered “good,” scores between 39 and 57 are considered “fair,” and scores below 38 are considered “poor” to “very poor.”
+Fish Assemblages and Metrics
+Fish assemblages were analyzed using relative abundance data, density data, and the SFI (Mebane, 2002). Like the SMI just described, the SFI is a multimetric index. The SFI was developed for use on two separate site classes, montane-forested and desert basin-rangeland, on the basis of a grouping of ecoregions. All sites in this study were located in the Northern Rockies ecoregion, which is one of four ecoregions that make up the montane-forested classification grouping. Hence, the montane-forested classification was used for all sites in this study. Three metric categories—species richness and composition, reproductive function, and abundance—were used to identify fish assemblage attributes. The richness and composition category consists of the metrics number of coldwater native species, percent coldwater individuals, and percent sensitive native individuals. The reproductive function category consists of the metrics number of cottid age classes and number of salmonid age classes. The abundance category consists of one metric, catch per unit effort (CPUE, fish caught per minute of electrofishing). The presence of amphibians also was included as part of the SFI as a qualitative presence metric only. Supplemental points are added to the final index scores when amphibians are present. Absence of amphibians, however, is not considered a negative factor.
+As with the SMI, the SFI score for a sample site is the sum of the individual metric scores. The higher the SFI score, the more closely a sample site represents least-disturbed conditions within its ecoregion. According to Mebane (2002), scores above 81 would place a sample site above the median of reference condition. A narrative rating of “very good” could be inferred for scores above 81, and a rating of “good” to “very poor” could be inferred for scores less than 81 to 0.
+RESULTS OF TEMPERATURE DATA AND METRICS
+Results of Temperature Data and Metrics.
+Temperature data loggers were retrieved from all sites during late September and early October
+
+12 Aquatic Assemblages and Relation to Temperature Variables, Least-Disturbed Streams, Salmon River Basin, Idaho, 2001
+
+2001. The raw temperature data can be accessed at http://idaho.usgs.gov/public/studies.html. Of the 68 data loggers deployed, 64 were retrieved. Both data loggers at Skookumchuck Creek (site 33) and French Creek (site 31) were missing. Of the 64 retrieved, three data loggers either were damaged or malfunctioned, and no stream temperature record was obtained. These included one of two data loggers at both Valley Creek (site 4) and Fourth of July Creek (site 2) and the only data logger at Marble Creek (site 17).
+After the data loggers were downloaded, July 1 through September 30 (92 days) was selected as the period used to calculate the stream temperature metrics for most sites. Stream temperature records for Skookumchuck Creek and French Creek were available for 2000 from Donato’s (2002) work in the basin and were used for calculations of the metrics at both sites. However, the deployment period in 2000 did not span the entire 92-day period as in 2001. The stream temperature record at Skookumchuck Creek in 2000 comprised a 76-day period from July 11 through September 24. The stream temperature record at French Creek in 2000 comprised a 77-day period from July 13 through September 27. No alternate stream temperature record was available for Marble Creek.
+Other inconsistencies in the stream temperature records for sites 16 and 18 through 22 were evident. Data loggers were removed from these sites, which were located on tributaries to the Middle Fork Salmon River, on the day the sampling crew visited the site. Ending dates for the temperature record at these sites ranged from September 13 to September 20.
+Because two data loggers were deployed at most sites, the variability between these paired data loggers was determined. Analysis of the stream temperature record of 24 paired data loggers indicated that the maximum difference in temperatures between any paired data logger was 1.4°C, and 96 percent of all temperatures recorded by paired data loggers were within 1.0°C.
+Stream Temperature Metrics
+Comparison of the nine stream temperature metrics for the 33 sites where data were available (table 3) indicated that water temperature varied substantially among sites within the basin, and that the range of observed temperatures varied over a broad gradient. Spearman rank correlations among the nine stream
+
+temperature metrics indicated that all were significantly correlated (all p-values <0.01); correlation coefficients ranged from 0.70 to 0.99. MDMT ranged from 12.0°C at Morse Creek (site 9) to 23.6°C at Indian Creek and Skookumchuck Creek (sites 16 and 33, respectively). MDAT ranged from 10.2°C at Morse Creek to 21.1°C at Skookumchuck Creek. MWMT ranged from 11.5°C at Morse Creek to 23.2°C at Skookumchuck Creek. The maximum weekly-average temperature (MWAT) ranged from 9.7°C at Morse Creek and East Fork Hayden Creek (site 10) to 20.7°C at Skookumchuck Creek. Maximum weekly-maximum temperature for date of sample (MWMTS) ranged from 11.3°C at Morse Creek to 22.9°C at Skookumchuck Creek. Maximum weekly-average temperature for date of sample (MWATS) ranged from 9.4°C at East Fork Hayden Creek to 20.4°C at Skookumchuck Creek. The maximum diurnal fluctuation (MAX∆T) ranged from 3.0°C at Ship Island Creek (site 22) to 12.2°C at Valley Creek (site 4). The maximum fluctuation for period of deployment (BIG∆T) ranged from 7.0°C at Morse Creek to 18.6°C at Basin Creek (site 5). The number of seasonal degree-days (DEGDAY) ranged from 550 at East Fork Hayden Creek to 1,070 at Rice Creek (site 34).
+Comparison of Stream Temperature Metrics with Life-Stage Stream Temperature Criteria
+Stream temperatures exceeded criteria for bull trout and chinook salmon spawning at all sites. A comparison of stream temperatures with life-stage stream temperature criteria is presented in table 4. Criteria established by USEPA (40 CFR 131.E.1.i.d, 1997) for the protection of bull trout spawning and juvenile rearing in natal streams are applicable during the months of June through September. Criteria established by IDEQ (Grafe and others, 2002) for the protection of salmonid spawning are specific to species and their spawning/ egg incubation period. These criteria are intended to be applicable only during the period when a species is present and actually spawning.
+During this study, the stream temperature record overlapped the core period for spring/summer run chinook salmon (Oncorhynchus tshawytscha) spawning and egg incubation, which extends from August 15 to June 1 (Grafe and others, 2002). Consequently, the criteria were applicable for this species during this period of time. To determine exceedances, the salmo-
+
+Results of Temperature Data and Metrics 13
+
+Table 3. Stream temperature metrics for selected sample sites in the Salmon River Basin, central Idaho, July through September 2001
+[Site locations shown in figure 1; site names and characteristics shown in table 1; description of temperature metrics shown in table 2; No., number; med, median; min, minimum; max, maximum; —, data unavailable; no temperature record available for site 17 because of missing data logger]
+
+Site No. MDMT
+1 15.6 2 15.0 3 18.4 4 22.1 5 21.7 6 16.2 7 16.3 8 15.0 9 12.0 10 13.9 11 13.3 12 20.1 13 19.9 14 21.0 15 13.8 16 23.6 18 21.6 19 20.3 20 17.6 21 18.2 22 16.0 23 19.6 24 16.3 25 16.3 26 19.5 27 17.6
+
+MDAT 12.4 11.2 13.5 16.1 16.5 13.0 12.3 11.9 10.2 10.3 10.8 17.9 14.0 16.8 11.4 17.3 18.4 17.7 15.4 16.0 15.0 16.5 14.4 14.7 16.2 12.5
+
+MWMT 14.4 13.9 16.7 20.1 20.2 15.2 15.5 14.0 11.5 13.2 12.5 18.9 18.7 19.9 13.2 22.1 20.3 19.1 16.8 17.3 15.5 18.7 15.4 15.4 18.1 16.8
+
+MWAT 11.5 10.4 12.4 15.0 15.5 12.3 11.6 11.2
+9.7 9.7 10.3 16.8 12.9 16.0 10.7 16.5 18.0 17.1 15.0 15.6 14.5 15.7 13.5 14.1 15.3 12.2
+
+MWMTS 13.9 13.2 16.4 18.6 18.4 14.1 15.3 13.5 11.3 12.7 12.4 18.5 18.5 18.8 12.6 16.3 16.3 14.9 13.8 14.2 12.4 18.7 14.6 14.9 18.0 14.9
+
+MWATS 10.6 9.6 11.1 13.9 14.1 10.9 11.0 11.0 9.6 9.4 10.2 16.5 12.1 14.9 9.7 11.7 14.4 13.6 12.7 13.1 11.8 15.7 12.7 13.4 15.3 11.5
+
+MAX∆T 7.2 8.2
+10.8 12.2 12.1
+7.0 8.7 7.5 4.2 7.5 4.8 5.5 12.1 9.2 5.9 11.7 5.7 5.5 4.9 4.4 3.0 6.8 5.0 3.9 6.9 8.9
+
+BIG∆T 11.4 13.6 15.5 18.3 18.6 11.8 13.9 10.9 7.0 13.4 8.3 11.5 16.9 14.9 10.1 17.3 12.8 12.1 9.2 8.8 7.2 13.9 11.1 10.6 13.2 12.7
+
+DEGDAY 649 580 677 838 863 688 660 627 556 550 595 980 732 923 604 956
+1,045 1,001
+— 908 840 850 766 795 875 703
+
+14 Aquatic Assemblages and Relation to Temperature Variables, Least-Disturbed Streams, Salmon River Basin, Idaho, 2001
+
+Table 3. Stream temperature metrics for selected sample sites in the Salmon River Basin, central Idaho, July through September 2001—Continued
+
+Site No. 28 29 30 31 32 33 34 Med Mean Max Min
+
+MDMT 15.5 17.4 19.4 21.5 20.5 23.6 21.9 18.2 18.2 23.6 12.0
+
+MDAT 12.2 15.4 13.8 19.7 17.6 21.1 19.4 15.0 14.9 21.1 10.2
+
+MWMT 14.8 16.6 18.3 20.9 19.9 23.2 21.1 16.8 17.2 23.2 11.5
+
+MWAT 11.8 14.5 12.9 19.1 17.2 20.7 19.0 14.5 14.2 20.7
+9.7
+
+MWMTS 13.5 16.2 18.3 20.0 19.9 22.9 20.9 15.3 16.0 22.9 11.3
+
+MWATS 11.3 14.3 12.9 18.1 17.1 20.4 18.8 12.7 13.1 20.4 9.4
+
+MAX∆T 6.2 6.1 11.1 4.0 6.3 6.1 5.4 6.3 7.1 12.2 3.0
+
+BIG∆T 10.6 12.0 17.0 15.3 13.0 14.4 12.8 12.8 12.7 18.6
+7.0
+
+DEGDAY 674 806 703 — 963 —
+1,070 781 783
+1,070 550
+
+nid spawning criteria were applied from August 15 to the end of the stream temperature record (September 30, in most cases). Criteria established by IDEQ for the protection of coldwater biota apply year round, but the warmest period (July through August) was the time of focus. To determine exceedances, the coldwater biota criteria were applied from July 1 to the end of the stream temperature record (September 30, in most cases).
+Comparison of the stream temperature metrics with the stream temperature criterion showed that temperatures at all 33 sites exceeded USEPA’s 10.0°C MWMT criterion for bull trout spawning and juvenile rearing. The percentage of total days that the temperatures exceeded the criterion ranged from 58 to 100. Temperatures at 20 of 33 (58 percent) sites exceeded the criterion 100 percent of the time. Although this criterion is applicable only to those streams where bull trout are present, and bull trout were collected at only 19 of the 33 sites, it is notable that temperatures at none of these least-disturbed sites met this criterion during this study.
+Temperatures at 91 percent (30 of 33) of the sites exceeded the IDEQ 13.0°C MDMT criterion for the
+
+protection of salmonid spawning; temperatures at all sites exceeded the 9.0°C MDAT criterion. The percentage of total hours that temperatures exceeded the 13.0°C MDMT criterion ranged from 0.4 to 91. Those sites where temperatures did not exceed the 13.0°C MDMT criterion were Morse Creek, Sheep Creek, and Vanity Creek (sites 9, 11, and 15, respectively). Temperatures at all 15 sites where chinook salmon were collected exceeded IDEQ criteria for the protection of salmonid spawning. The percentage of total hours that temperatures at these sites exceeded the 13.0°C MDMT criterion ranged from 5.9 to 87. The MDAT ranged from 9.8° to 19.2°C.
+Thermal regime at most sites did not exceed the IDEQ criteria for the protection of coldwater biota. Thermal regime exceeded the criteria at Valley Creek, Indian Creek, and Skookumchuck Creek (sites 4, 16, and 33, respectively), where temperatures exceeded the 22.0°C MDMT criterion; and French Creek (site 31), Skookumchuck Creek, and Rice Creek (site 34), where temperatures exceeded the 19.0°C MDAT criterion. The percentage of total hours that temperatures exceeded the 22.0°C MDMT criterion ranged from 1.4 to 4.8. The MDAT ranged from 10.2° to 21.1°C.
+
+Results of Temperature Data and Metrics 15
+
+Table 4. Relations between stream temperature metrics and life-stage stream temperature criteria for selected sample sites in the Salmon River Basin, central Idaho, July through September 2001
+[Idaho Department of Environmental Quality salmonid spawning criteria exceedances based on summer chinook salmon spawning period beginning August 15 to end of temperature record (September 30, most cases); site locations shown in ﬁgure 1; site names and characteristics shown in table 1; °C, degrees Celsius; MWMT, maximum weekly-maximum temperature; MDMT, maximum daily-maximum temperature; MDAT, maximum daily-average temperature; No., number; no temperature record available for site 17 because of missing data logger]
+
+U.S. Environmental Protection Agency bull trout spawning
+and juvenile rearing criterion of 10.0°C MWMT
+June 1 through September 30 (most cases)
+
+Idaho Department of Environmental Quality
+
+Salmonid spawning criteria
+of 13.0°C MDMT and 9.0°C MDAT August 15 through September 30 (most cases)
+
+Coldwater biota criteria
+of 22.0°C MDMT and 19.0°C MDAT July 1 through September 30 (most cases)
+
+MWMT
+
+MDMT 13.0°C
+
+MDAT 9.0°C
+
+MDMT 22.0°C
+
+MDAT 19.0°C
+
+No.
+days
+Site above No. 10.0°C1
+
+Percent days above 10.0°C
+
+Consecutive days
+above 10.0°C
+
+No. hours above 13.0°C2
+
+Percent hours above 13.0°C
+
+Consecutive hours
+above 13.0°C
+
+MDAT2
+
+No. hours above 22.0°C1
+
+Percent hours above 22.0°C
+
+Consecutive hours
+above 22.0°C
+
+MDAT1
+
+1 71
+
+77
+
+71 17 1.5
+
+6 11.2 0 0
+
+0 12.4
+
+2 70
+
+76
+
+70 16 1.4
+
+3 9.9 0 0
+
+0 11.2
+
+3 92 100
+
+92 141 13
+
+8 11.2 0 0
+
+0 13.5
+
+4 92 100
+
+92 306 27
+
+13 14.0 2 0
+
+2 16.1
+
+5 92 100
+
+92 302 27
+
+16 14.4 0 0
+
+0 16.5
+
+6 91
+
+99
+
+91 75 6.6
+
+7 11.6 0 0
+
+0 13.0
+
+7 90
+
+98
+
+90 99 8.8
+
+8 11.3 0 0
+
+0 12.3
+
+8 75
+
+82
+
+64 18 1.6
+
+5 11.2 0 0
+
+0 11.9
+
+9 53
+
+58
+
+45
+
+00
+
+0 9.8 0 0
+
+0 10.2
+
+10 69
+
+75
+
+69
+
+5 .4
+
+2 9.8 0 0
+
+0 10.3
+
+11 71
+
+77
+
+62
+
+00
+
+0 10.4 0 0
+
+0 10.8
+
+12 92 100
+
+92 696 62
+
+530 16.6 0 0
+
+0 17.9
+
+13 92 100
+
+92 206 18
+
+10 12.1 0 0
+
+0 14.0
+
+14 92 100
+
+92 416 37
+
+18 15.6 0 0
+
+0 16.8
+
+15 68
+
+74
+
+68
+
+00
+
+0 10.2 0 0
+
+0 11.4
+
+16 375
+
+100
+
+75 4326 54
+
+17
+
+416.3
+
+321
+
+1.4
+
+4 317.3
+
+18 578
+
+100
+
+78 6572 87
+
+444
+
+617.7
+
+50
+
+0
+
+0 518.4
+
+19 779
+
+100
+
+79 8541 80
+
+199
+
+816.7
+
+70
+
+0
+
+0 717.7
+
+20 972
+
+100
+
+72
+
+10492
+
+59
+
+125 1014.8 90
+
+0
+
+0 915.4
+
+21 1182
+
+100
+
+82
+
+12519
+
+70
+
+440
+
+1215.3
+
+11 0
+
+0
+
+0 1116.0
+
+16 Aquatic Assemblages and Relation to Temperature Variables, Least-Disturbed Streams, Salmon River Basin, Idaho, 2001
+
+Table 4. Relations between stream temperature metrics and life-stage stream temperature criteria for selected sample sites in the Salmon River Basin, central Idaho, July through September 2001—Continued
+
+U.S. Environmental Protection Agency bull trout spawning
+and juvenile rearing criterion of 10.0°C MWMT
+June 1 through September 30 (most cases)
+
+Idaho Department of Environmental Quality
+
+Salmonid spawning criteria
+of 13.0°C MDMT and 9.0°C MDAT August 15 through September 30 (most cases)
+
+Coldwater biota criteria
+of 22.0°C MDMT and 19.0°C MDAT July 1 through September 30 (most cases)
+
+MWMT
+
+MDMT 13.0°C
+
+MDAT 9.0°C
+
+MDMT 22.0°C
+
+MDAT 19.0°C
+
+No.
+days
+Site above No. 10.0°C1
+
+Percent days above 10.0°C
+
+Consecutive days
+above 10.0°C
+
+No. hours above 13.0°C2
+
+Percent hours above 13.0°C
+
+Consecutive hours
+above 13.0°C
+
+MDAT2
+
+No. hours above 22.0°C1
+
+Percent hours above 22.0°C
+
+Consecutive hours
+above 22.0°C
+
+MDAT1
+
+22 1182
+
+100
+
+82
+
+12245
+
+33
+
+25
+
+1213.8
+
+110
+
+0
+
+0 1115.0
+
+23 92 100
+
+92 341 30
+
+20 15.3 0 0
+
+0 16.5
+
+24 78
+
+85
+
+71
+
+67 5.9
+
+15 13.9 0 0
+
+0 14.4
+
+25 81
+
+88
+
+72 127 11
+
+30 14.4 0 0
+
+0 14.7
+
+26 92 100
+
+92 275 24
+
+25 15.5 0 0
+
+0 16.2
+
+27 92 100
+
+92 162 14
+
+9 12.2 0 0
+
+0 12.5
+
+28 91
+
+99
+
+91 66 5.9
+
+7 11.9 0 0
+
+0 12.2
+
+29 85
+
+92
+
+85 110 9.8
+
+16 14.0 0 0
+
+0 15.4
+
+30 92 100
+
+92 165 15
+
+11 12.7 0 0
+
+0 13.8
+
+31 13 77
+
+100
+
+77
+
+14594
+
+56
+
+161
+
+1416.3
+
+13 0
+
+0
+
+0 1319.7
+
+32 92 100
+
+92 610 54
+
+126 17.1 0 0
+
+0 17.6
+
+33 1576
+
+100
+
+76
+
+16898
+
+91
+
+461
+
+1618.3
+
+1588
+
+4.8
+
+8 1521.1
+
+34 92 100
+1 days, n=92; hours, n=2,208 2 days, n=47; hours, n=1,128 3 days, n=75; hours, n=1,500 4 days, n=30; hours, n=600
+
+92 946 84
+5 days, n=78; hours, n=1,560 6 days, n=33; hours, n=660 7 days, n=79; hours, n=1,580 8 days, n=34; hours, n=680
+
+285 19.2 0
+9 days, n=72; hours, n=1,728 10 days, n=35; hours, n=840 11 days, n=82; hours, n=1,640 12 days, n=37; hours, n=740
+
+0
+
+0 19.4
+13 days, n=77; hours, n=1,848 14 days, n=44; hours, n=1,056 15 days, n=76; hours, n=1,824 16 days, n=41; hours, n=984
+
+RESULTS OF WATER-QUALITY DATA
+Results of Water-Quality Data.
+The analytical results (table C) indicate that water quality at sites sampled during this study is representative of least-disturbed conditions. Although samples from most sites did contain some form of a nutrient (nitrogen or phosphorus), many nutrient concentrations were at or near the method detection limit (MDL). Under ideal sample and analytical conditions, a few of the nutrient compounds in table C were positively
+
+identified at or below the determined MDL. However, concentrations reported below the MDL are considered qualitative. Nutrient concentrations were highest at sites in areas of recent forest fires. It is assumed that these high nutrient concentrations are a result of these fires. Dissolved oxygen concentrations ranged from 7.3 mg/L at Marble Creek (site 17) to 10.0 mg/L at Ship Island Creek (site 22). pH values at most sampling sites were near neutral and ranged from 6.9 at Morse Creek (site 9) to 8.4 at several sites. Specific
+
+Results of Water-Quality Data 17
+
+conductance values ranged from 27 µS/cm at Big Creek (site 30) to 162 µS/cm at Fourth of July Creek (site 2). Dissolved nitrogen concentrations ranged from less than detection to 0.018 mg/L as N at Marble Creek. Total nitrogen concentrations ranged from less than detection to 0.647 mg/L as N at Marble Creek. Dissolved nitrite plus nitrate concentrations ranged from less than detection at Sulphur Creek (site 14) to 0.225 mg/L as N at Rice Creek (site 34). Total phosphorus concentrations ranged from less than detection at several sites to 0.2470 mg/L as P at Marble Creek (site 17). Orthophosphorus concentrations ranged from less than detection at several sites to 0.073 mg/L as P at Rice Creek.
+RESULTS OF BENTHIC INVERTEBRATE TAXA AND METRICS
+Results of Benthic Invertebrate Taxa and Metrics.
+Two hundred and one benthic invertebrate taxa from the 34 sampling sites were identified. The raw invertebrate data can be accessed at http://idaho.usgs.gov/public/studies.html. The most abundant taxa (greater than 1 percent of total abundance and identified in 75 percent or more of the samples) were Baetis tricaudatus, Oligochaeta, Tvetenia bavarica gr., Acari, Rhithrogena, Cinygmula, Heterlimnius, Micropsectra, Eukiefferiella devonica gr., Drunella doddsi, and Cricotopus. Fifty-eight rare taxa (composing less than 0.005 percent total abundance and identified in less than 5 percent of the samples) were collected.
+Total abundance (density expressed as individuals/m2) varied greatly and ranged from 1,331 to 27,040 individuals/m2 at Alpine Creek (site 1) and Basin Creek (site 5), respectively. The high abundance at site 5 resulted from large numbers of Simulium (blackflies) and Cricotopus (midges).
+Comparison of Benthic Invertebrate Assemblages at Multiple-Reach Sites
+The JC index was used to compare spatial variability in the benthic invertebrate assemblages at multiple-reach sites (Valley Creek and Big Creek). Differences among reaches in similarity of community structure (taxonomic composition), as determined by the JC index, provide an indication of how well a single sampling reach represents the biological conditions within that stream segment. Values for this index range from 0 (no species in common) to 1 (species composition is
+
+identical). Gauch (1982) suggested that, because biological community samples can be highly variable, JC values for replicate samples from a community often are less than 1 and typically range from 0.60 to 0.90.
+During this study, JC values ranged from 0.54 to 0.63 at Valley Creek (site 4), and from 0.54 to 0.66 at Big Creek (site 30). JC values in the lower end of the typical range, such as these, indicate a greater degree of spatial variability in taxa occurrence between the multiple reaches.
+Coldwater Taxa
+According to Grafe and others (2002), coldwater obligates are taxa which have less than a 10-percent chance of occurrence in streams where the temperature exceeds 19.0°C. To determine obligate coldwater taxa in streams throughout Idaho, the IDEQ analyzed stream temperature and macroinvertebrate community data from more than 1,000 sampling locations (Grafe and others, 2002). From this information, a list of 64 coldwater obligate taxa was empirically derived.
+Of the designated 64 coldwater obligates, 32 taxa (present at a minimum of 5 sampling sites) were collected during this study (table 5). Coldwater taxa represented 16 percent (32 of 201) of all taxa collected. The most frequently collected coldwater taxon was the mayfly Drunella doddsi, which was collected at 28 sampling sites. The most abundant coldwater taxon was Oligophlebodes, a caddisfly typically associated with mountain streams in the West. The number of individual coldwater taxa collected ranged from 4 at Skookumchuck Creek (site 33) to 29 at Big Creek (site 30). The percentage of coldwater taxa collected ranged from 1 at Camas Creek, Skookumchuck Creek, and Rice Creek (sites 19, 33, and 34, respectively) to 74 at East Fork Hayden Creek (site 10) (fig. 2).
+Coldwater taxa were collected at all five sites (sites 4, 16, 31, 33, 34) where temperatures exceeded the IDEQ criteria for the protection of coldwater biota. The number of taxa at these sites ranged from 2 at Skookumchuck Creek (site 33) to 12 at Valley Creek (site 4).
+Nine additional taxa, not classified by Grafe and others (2002) as coldwater obligates, were significantly (p<0.05) inversely correlated with one or more of the stream temperature metrics (table 5). Of these taxa, Rhithrogena, a mayfly typically associated with high velocity streams, was the most frequently collected at 30 sampling sites.
+
+18 Aquatic Assemblages and Relation to Temperature Variables, Least-Disturbed Streams, Salmon River Basin, Idaho, 2001
+
+PERCENT COLDWATER BENTHIC INVERTEBRATE TAXA
+MAXIMUM DAILY-MAXIMUM STREAM TEMPERATURE, IN DEGREES CELSIUS
+
+80 25
+
+70 60 Maximum daily-maximum
+stream temperature at site 50
+
+20
+
+40
+
+30 15
+20
+
+10
+
+0 10 10 1 15 25 27 8 24 9 28 6 11 7 22 2 30 3 21 20 23 29 13 26 4 18 14 12 32 5 16 17 31 19 33 34
+SITE NUMBER
+Figure 2. Percent coldwater benthic invertebrate taxa in relation to maximum daily-maximum stream temperature at all sample sites in the Salmon River Basin, central Idaho, July through September 2001. (Site locations shown in figure 1; site names and characteristics shown in table 1)
+
+Stream Macroinvertebrate Index Scores and Metrics
+In general, invertebrate metrics describe expected conditions for least-disturbed sites with SMI scores ranging from 69 (Marble Creek, site 17) to 100 (table 6). SMI scores for 85 percent (29 of 34) of the sample sites were above 79, which places these sites in the “very good” category when compared with other sites in the same bioregion.
+Within the richness category (number of species), the total number of taxa ranged from 38 at Hazard Creek (site 32) to 68 at Fitsum Creek (site 26). Hazard Creek is a high-gradient stream with large boulder substrate and plunge-pool habitat conditions that may limit the diversity of taxa at this location. The total number of EPT taxa ranged from 17 at Marble Creek, Camas Creek, and Skookumchuck Creek (sites 17, 19, and 33, respectively) to 39 at Fourmile Creek (site 25).
+The low diversity of EPT taxa at some locations may have been the result of severe forest fires in the summer of 2000 in parts of many drainages in the Mid-
+
+dle Fork of the Salmon River Basin, including Marble Creek and Camas Creek. These fires caused large amounts of silt and sediment to be transported to the streams by overland runoff during localized rainstorms. According to Minshall and others (2001), “blowouts” in the headwaters of Marble Creek continue to send large amounts of silt and sediment into this creek following local rainstorms. The effect of continued high sediment transport is the destruction of the benthic habitat by sediment deposition (Minshall and others, 2001). On the day of sampling, Marble Creek and Camas Creek both were transporting large amounts of silt and sediment as a result of a recent rainstorm. In addition, high flow conditions made sampling these two sites extremely difficult. Either of these conditions may help to explain the low diversity of EPT taxa at these locations.
+Within the composition category, percent Plecoptera ranged from 0.4 to 25.2. The HBI scores within the pollution tolerance category ranged from 1.91 to 4.97. HBI scores for 82 percent (28 of 34) of the sample sites were below 4.50, which indicates “very good” water
+
+Results of Benthic Invertebrate Taxa and Metrics 19
+
+Table 5. Spearman rank correlation coefﬁcients for relative abundance of coldwater benthic invertebrate taxa and selected stream temperature metrics for selected sample sites in the Salmon River Basin, central Idaho, July through September 2001
+[Number of sites sampled, 33; taxa shown were collected at ﬁve or more sample sites; bold denotes signiﬁcance (p<0.05); see table 2 for description of stream temperature metrics; No., number]
+
+Taxon
+Baetis bicaudatus Cinygmula sp. Drunella coloradensis/ﬂavilinea Drunella doddsi Drunella spinifera Epeorus deceptivus Epeorus grandis Epeorus sp. Ephemerellidae Cultus sp. Leuctridae Megarcys sp. Perlidae Sweltsa sp. Taeniopterygidae Visoka cataractae Yoroperla sp. Zapada columbiana Zapada oregonensis gr. Heterlimnius sp. Lara sp. Narpus sp. Apatania sp. Oligophlebodes sp.
+
+No. of sites where collected
+8 26 14 28 10 12 14 22
+7 5 18 15 7 25 8 5 5 17 13 26 7 5 10 10
+
+MDMT
+
+MDAT
+
+MWMT
+
+Coldwater taxa2
+
+-0.34
+
+-0.38
+
+-0.30
+
+-.49 -.43 -.47
+
+-.52 -.61 -.55
+
+-.72 -.68 -.71
+
+-.38 -.39 -.38
+
+-.61 -.61 -.64
+
+-.59 -.61 -.56
+
+0 -.06 .01
+
+-.35 -.39 -.33
+
+.48 .37 .46
+-.59 -.68 -.59 -.67 -.74 -.67
+
+.06 .15 .04
+-.29 -.44 -.33 -.54 -.42 -.51 -.33 -.25 -.29 -.23 -.22 -.23
+
+-.66 -.57 -.62
+
+-.70 -.76 -.70
+-.10 -.29 -.18
+
+.02 .15 .02
+
+.33 .47 .36
+-.20 -.35 -.25 -.34 -.11 -.35
+
+MWAT MWMTS MWATS
+
+-0.35 -.41 -.61 -.67 -.38 -.61 -.61 -.08 -.40
+.35
+-.70 -.74
+.11
+-.45 -.39 -.25 -.20
+-.53 -.77
+-.33
+.17 .48 -.38
+-.14
+
+-0.30 -.54 -.42 -.61 -.23 -.52 -.44
+.05
+-.33
+.25
+-.55 -.56
+.19
+-.21 -.61 -.32 -.09
+-.62 -.59 .07
+-.08
+.35
+-.09 -.29
+
+-0.27 -.53 -.53 -.60 -.23 -.65 -.48 -.01 -.40
+.25
+-.68 -.68
+.23
+-.43 -.40 -.24 -.06
+-.41 -.76
+-.19
+.22 .47
+-.22
+.01
+
+DEGDAY1
+-0.32 -.39 -.59 -.65 -.38 -.63 -.60 -.04 -.39
+.36
+-.67 -.71
+.11
+-.48 -.36 -.25 -.23
+-.48 -.75
+-.36
+.20 .46 -.38
+-.10
+
+20 Aquatic Assemblages and Relation to Temperature Variables, Least-Disturbed Streams, Salmon River Basin, Idaho, 2001
+
+Table 5. Spearman rank correlation coefﬁcients for relative abundance of coldwater benthic invertebrate taxa and selected stream temperature metrics for selected sample sites in the Salmon River Basin, central Idaho, July through September 2001—Continued
+
+Taxon
+
+No. of sites where collected
+
+MDMT
+
+MDAT
+
+MWMT
+
+Coldwater taxa2
+
+Parapsyche elsis
+
+13
+
+-0.69
+
+-0.62
+
+-0.68
+
+Rhyacophila betteni gr. Rhyacophila brunnea gr. Rhyacophila hyalinata gr.
+
+16 -.74 -.68 -.70
+19 -.30 -.39 -.34 12 -.29 -.27 -.29
+
+Rhyacophila narvae
+
+14 -.45 -.45 -.50
+
+Rhyacophila pellisa/valuma
+
+6 -.38 -.40 -.41
+
+Rhyacophila vagrita gr. Glutops sp.
+
+5 -.25 -.28 -.25
+5 -.10 -.17 -.13
+
+Other taxa3
+
+Rhithrogena sp. Serratella tibialis Chloroperlidae Perlodidae Glossosoma sp.
+
+30 -.49 -.45 -.47
+18 -.23 -.45 -.27 9 -.38 -.36 -.33 18 -.20 -.37 -.26 20 -.33 -.32 -.31
+
+Pericoma sp. Parametriocnemus sp.
+
+5 -.38 -.39 -.37
+12 -.34 -.38 -.28
+
+Ostracoda
+
+19 -.49 -.43 -.46
+
+Polycelis sp.
+
+21 -.52 -.69 -.57
+
+1Sites 20, 31, and 33 not included (n=30). 2Coldwater taxa from Grafe and others (2002). 3Taxa signiﬁcantly correlated with one or more temperature metrics.
+
+MWAT MWMTS MWATS
+
+-0.61 -.66 -.42
+-.23
+-.47 -.41 -.28
+-.16
+
+-0.65 -.63
+-.24 -.16 -.30 -.31
+-.18 .02
+
+-0.60 -.61
+-.35 -.15
+-.39 -.44
+-.28 -.13
+
+-.45 -.46 -.39 -.37
+-.31
+-.39 -.38 -.39 -.69
+
+-.45
+-.08 -.29 -.12
+-.56
+-.32 -.28
+-.54 -.47
+
+-.41
+-.30 -.32 -.25
+-.48 -.37
+-.34
+-.37 -.66
+
+DEGDAY1
+-0.61 -.66 -.43
+-.25
+-.51 -.42
+-.26 -.17
+-.44 -.45 -.40
+-.36 -.30
+-.40
+-.34 -.36
+-.69
+
+quality with slight organic pollution. The highest HBI score (5.20), was for Riordan Creek (site 29). Within the diversity category, the percent five dominant taxa ranged from 38.9 to 76.4. The number of scraper taxa in the feeding group category ranged from 4 to 12, and the number of clinger taxa in the habitat category ranged from 19 to 35.
+
+RESULTS OF FISH TAXA AND METRICS
+Results of Fish Taxa and Metrics.
+Ten species of fish in the families Salmonidae, Cottidae, and Cyprinidae were collected. The raw fish data can be accessed at http://idaho.usgs.gov/public/studies.html. A total of 4,199 fish were collected from the 33 sites sampled during
+
+Results of Fish Taxa and Metrics 21
+
+Table 6. Relations between benthic invertebrate metrics and Stream Macroinvertebrate Index scores for selected sample sites in the Salmon River Basin, central Idaho, 2001
+[Total SMI scores were calculated from the metric values reported by Jessup and Gerritsen (2002); site locations shown in ﬁgure 1; site names and characteristics shown in table 1; No., number, SMI, Stream Macroinvertebrate Index]
+
+Site No. No. species
+1 56 2 53 3 49 14 61 5 48 6 48 7 60 8 57 9 51 10 42 11 60 12 48 13 55 14 53 15 53 16 44 17 41 18 51 19 43 20 43 21 43 22 51 23 53 24 49 25 59
+
+No. Ephemeroptera
+taxa 17 11 14 14 14 11 15 10 14
+9 13 10 16 10 11 8 6 10 7 8 7 8 12 13 13
+
+No. Plecoptera
+taxa 7 7 6 6 5 8
+11 11 9 10 11 3 6 7 10 4 5 6 2 7 7 9 9 5 11
+
+No. Trichoptera
+taxa 10 17 10 10
+9 12 8 14 10 7 11 9 7 9 11 10 6 9 8 6 6 11 8 14 15
+
+Percent Plecoptera
+13.0 9.5 5.9 4.9 .9 4.6 11.1 15.2 13.5 25.2 7.8 1.3 7.0 5.6 13.1 1.9 3.4 3.8 .9 13.6 10.7 15.1 8.8 2.4 7.8
+
+Hilsenhoff Biotic Index 2.87 2.67 4.35 4.02 4.97 1.91 3.35 2.62 3.21 2.71 3.08 4.64 3.84 4.33 3.32 4.65 3.69 3.79 3.73 3.98 4.51 4.42 3.66 2.32 2.42
+
+Percent ﬁve
+dominant taxa 46.5 50.4 58.2 41.6 68.8 59.0 41.7 49.4 44.9 63.3 55.3 67.2 53.0 38.9 49.0 68.0 74.0 59.9 66.0 53.9 57.3 50.0 42.0 64.7 53.6
+
+No. scraper
+taxa
+
+No. clinger
+taxa
+
+11 23
+
+10 27
+
+6 21
+
+8 27
+
+7 25
+
+10 25
+
+10 27
+
+10 30
+
+10 24
+
+9 19
+
+12 31
+
+7 26
+
+8 25
+
+4 25
+
+7 25
+
+7 23
+
+6 20
+
+11 30
+
+8 21
+
+8 23
+
+6 26
+
+8 30
+
+7 29
+
+9 26
+
+7 32
+
+Total SMI score 100 100 91 95 86 100 100 100 100 98 100 81 99 92 100 78 69 98 73 88 83 100 100 100 100
+
+22 Aquatic Assemblages and Relation to Temperature Variables, Least-Disturbed Streams, Salmon River Basin, Idaho, 2001
+
+Table 6. Relations between benthic invertebrate metrics and Stream Macroinvertebrate Index scores for selected sample sites in the Salmon River Basin, central Idaho, 2001—Continued
+
+Site No. No. species 26 68 27 59 28 59 29 53 130 54 31 44 32 38 33 45 34 47
+
+No. Ephemeroptera
+taxa 17 15 13
+9 12
+6 10
+7 6
+
+No. Plecoptera
+taxa 9 8 8 3 8 4 2 3 5
+
+No. Trichoptera
+taxa 12
+7 13 11 10 13
+7 7 8
+
+Percent Plecoptera
+7.4 8.9 5.0 .8 11.4 2.5
+.4 5.2 14.9
+
+Hilsenhoff Biotic Index 4.15 3.08 4.20 5.20 4.08 4.02 4.18 4.95 4.28
+
+Percent ﬁve
+dominant taxa
+45.5
+39.4
+46.2
+39.6
+42.1
+76.4
+57.5
+42.2
+52.4
+
+No. scraper
+taxa
+
+No. clinger
+taxa
+
+11 35
+
+9 23
+
+9 32
+
+7 24
+
+6 27
+
+11 27
+
+7 22
+
+5 23
+
+5 22
+
+Total SMI score 100 100 100 88 99 87 74 76 82
+
+1 Average of three multiple reaches.
+
+this study. Fish collected at all sites appeared in good health with few external anomalies. The number of species collected at a site ranged from 1 at East Fork Hayden Creek (site 10) to 8 at Indian Creek (site 16).
+Six salmonid species, composing 54 percent of the total number of fish collected, were collected during the study. Two species listed as threatened under the U.S. Fish and Wildlife Service Endangered Species Act (ESA) were collected—bull trout and chinook salmon—at 58 and 45 percent of the sampling sites, respectively. Rainbow trout (Oncorhynchus mykiss), which are considered native in the Salmon River Basin (Simpson and Wallace, 1982), were collected at 82 percent of the sampling sites, composing 33 percent of the total number of fish collected. According to the IDFG, rainbow trout are stocked in streams and rivers in the Salmon River Basin. However, less than 1 percent (6 of 1,381) of the rainbow trout collected showed signs such as eroded fins, deformities, and scars typically associated with hatchery fish. Cutthroat trout (Oncorhynchus clarki) were collected at 55 percent of the sampling sites; however, they composed only 2.6 percent of the total number of fish collected. Mountain whitefish (Prosopium williamsoni) were collected at
+
+21 percent of the sampling sites. One introduced species, brook trout (Salvelinus fontinalis), was collected at 21 percent of the sampling sites.
+Two cottid species were collected during the study. Shorthead sculpin (Cottus confusus) were collected at 85 percent of the sampling sites and was the most abundant species, composing 43 percent of the total number of fish collected. Torrent sculpin (Cottus rhotheus) were collected at 12 percent of the sampling sites.
+Although common to the basin, suckers (Catostomus sp.) were not collected at any of the sampling sites. In addition to fish, tailed frogs and salamanders were collected at 48 percent and 18 percent of the sampling sites, respectively.
+Comparison of Fish Assemblages at MultipleReach Sites
+The JC index was used to compare spatial variability in the benthic invertebrate assemblages at multiple-reach sites (Valley Creek and Big Creek). The lower range of JC values for the multiple reaches sampled at Valley Creek (site 4) ranged from 0.29 to 0.57,
+
+Results of Fish Taxa and Metrics 23
+
+SEASONAL DEGREE-DAYS
+
+1,100
+
+1,000
+
+34 32
+
+18
+
+19 12
+
+16
+
+R= -0.71 (p<0.01)
+
+900 21 14 26
+
+800
+
+22
+
+23 29
+
+5 4
+
+25
+
+24 13
+
+700 30
+
+27 6
+
+3
+
+28 7 1
+
+600 8 11 15 2 9 10
+
+500 0
+
+500
+
+1,000
+
+1,500
+
+2,000
+
+2,500
+
+3,000
+
+ELEVATION, IN METERS ABOVE SEA LEVEL
+
+Figure 3. Elevation in relation to seasonal degree-days (July through August, above 0 degrees Celsius) for selected sample sites in the Salmon River Basin, central Idaho, 2001. [Trend line based on LOWESS smoothing technique (Helsel and Hirsch, 2002); site locations shown in figure 1; site names and characteristics shown in table 1]
+
+indicating that the fish species were taxonomically dissimilar among multiple reaches. In other words, species composition varied substantially among the individual reaches. This variability is not easily explained. Typically, low JC values can be explained by low capture efficiency when sampling large rivers or streams with complex habitat. Valley Creek is neither large nor complex. This third-order, meandering, meadow stream can be sampled easily and contains little habitat variability.
+The JC values for the multiple reaches sampled at Big Creek (site 30) ranged from 0.50 to 1.0 and were more typical of values for a small, wadeable stream. This range indicates that fish species were generally taxonomically similar and that fish collected at a single reach at this site are representative of the fish community assemblage.
+Stream Fish Index Scores and Metrics
+Similar to invertebrate metrics, the fish metrics describe expected conditions for least-disturbed sites; SFI scores ranged from 74 (Big Mallard Creek, site 23) to 100 at several sites (table 7). SFI scores for 91 per-
+
+cent (30 of 33) of the sample sites were above 81, which places these sites above the median of reference conditions for their ecoregion.
+Within the richness and composition categories, the number of coldwater native species ranged from 1 at East Fork Hayden Creek (site 10) to 7 at Indian Creek and Camas Creek (sites 16 and 19, respectively); percent coldwater individuals ranged from 76 at Hazard Creek (site 32) to 100; and percent sensitive native individuals ranged from 25 at Big Mallard Creek (site 23) to 100. Within the reproductive function category, the number of cottid age classes ranged from 0 to 5. The number of salmonid age classes ranged from 2 to 5. Within the abundance category, CPUE ranged from 2.3 at Fourth of July Creek (site 2) to 21.9 at Skookumchuck Creek (site 33).
+CORRELATIONS BETWEEN STREAM TEMPERATURE AND ENVIRONMENTAL VARIABLES
+Correlations Between Stream Temperature and Environmental Variables.
+Representative environmental variables consisting of basin, site, and habitat characteristics (tables 1, A, and B) were analyzed in relation to the stream temperature metrics by using Spearman rank correlation analysis. Nine environmental variables—water-surface gradient, discharge, wetted channel width, width:depth ratio, aspect, total seasonal thermal input, open canopy, riparian canopy density, and elevation were selected for correlation with the nine stream temperature metrics.
+Analysis of Spearman rank correlation coefficients for pairwise comparisons between the selected variables (table 8) determined that elevation showed the strongest inverse correlation with the stream temperature metrics, especially those metrics associated with mean temperature. Seasonal degree-days for July through August exhibited the strongest inverse correla-
+tion with elevation (r=-0.71) (fig. 3). Donato (2002)
+also reported that elevation showed a strong negative correlation with stream temperature in the Salmon River Basin. Riparian canopy density showed a strong inverse correlation with stream temperature metrics associated with maximum temperature. Wetted channel width and width:depth ratio were positively correlated with all stream temperature metrics. Donato (2002) also reported that these two variables showed a significant positive correlation with temperature in the Salmon River Basin. Discharge was positively corre-
+
+24 Aquatic Assemblages and Relation to Temperature Variables, Least-Disturbed Streams, Salmon River Basin, Idaho, 2001
+
+Table 7. Relations between ﬁsh metrics and Stream Fish Index scores for selected sample sites in the Salmon River Basin, central Idaho, 2001 [Site locations shown in ﬁgure 1; site names and characteristics shown in table 1; No., number; CPUE, catch per unit effort; electroﬁshing not conducted at site 17]
+
+Correlations Between Stream Temperature and Environmental Variables 25
+
+No.
+
+cold-
+
+Percent
+
+No.
+
+No.
+
+water
+
+Percent
+
+sensitive cottid salmonid
+
+Site native coldwater
+
+native
+
+age
+
+age
+
+No. species individuals individuals classes classes
+
+CPUE (No. coldwater individuals per minute electrofishing)
+
+No.
+
+Stream
+
+cold-
+
+Percent
+
+No.
+
+No.
+
+Fish
+
+water
+
+Percent
+
+sensitive cottid salmonid
+
+Index Site native coldwater
+
+native
+
+age
+
+age
+
+(forest) No. species individuals individuals classes classes
+
+CPUE (No. coldwater individuals per minute electrofishing)
+
+Stream Fish Index
+(forest)
+
+1 3 100
+
+75
+
+45
+
+4.3
+
+95 19 7 100
+
+52
+
+44
+
+4.2
+
+94
+
+2 4 100
+
+96
+
+52
+
+2.3
+
+80 20
+
+2
+
+99
+
+99
+
+53
+
+5.1
+
+97
+
+3 2 100
+
+80
+
+3 2 10.1
+
+87 21 5 100
+
+100
+
+53
+
+7.0 100
+
+4 3 100
+
+84
+
+4 3 10.9
+
+97 22 2 100
+
+100
+
+03
+
+4.5 100
+
+54
+
+99
+
+99
+
+42
+
+9.1
+
+90 23 2 100
+
+25
+
+02
+
+3.6
+
+74
+
+6 5 100
+
+96
+
+54
+
+2.6
+
+89 24
+
+5
+
+99
+
+99
+
+4 2 16.1 100
+
+7 4 100
+
+91
+
+55
+
+6.9
+
+99 25 3 100
+
+100
+
+03
+
+4.1 100
+
+8 4 100
+
+100
+
+53
+
+4.5
+
+96 26
+
+3
+
+97
+
+97
+
+43
+
+6.6 100
+
+9 3 100
+
+100
+
+54
+
+4.6
+
+97 27 3 100
+
+100
+
+53
+
+3.2 100
+
+10 1 100
+
+100
+
+05
+
+5.4
+
+75 28 4 100
+
+98
+
+53
+
+2.7
+
+99
+
+11 3 100
+
+100
+
+53
+
+8.5
+
+98 29 4 100
+
+100
+
+53
+
+6.8 100
+
+12 5
+
+98
+
+72
+
+53
+
+9.2
+
+98 30 2 100
+
+100
+
+03
+
+5.5
+
+89
+
+13 4 100
+
+90
+
+4
+
+2 10.4
+
+100 31
+
+5
+
+94
+
+93
+
+53
+
+4.7
+
+96
+
+14 3 100
+
+99
+
+42
+
+5.0
+
+90 32
+
+4
+
+76
+
+76
+
+43
+
+7.5 100
+
+15 3 100
+
+98
+
+43
+
+4.2
+
+100 33
+
+2
+
+93
+
+93
+
+4 3 21.9
+
+97
+
+16 7 100
+
+94
+
+45
+
+7.7
+
+100 34
+
+2
+
+97
+
+97
+
+3 3 13.1
+
+95
+
+18 6
+
+96
+
+68
+
+33
+
+3.0
+
+Table 8. Spearman rank correlation coefﬁcients for selected habitat variables and selected stream temperature metrics for selected sample sites in the Salmon River Basin, central Idaho, July through September 2001
+[Number of sample sites, 33; bold denotes signiﬁcance (p<0.05); see table 2 for description of stream temperature metrics; m3/s, cubic meters per second; m, meters; BTUs/m2/d, British thermal units per square meter per day]
+
+Habitat parameter Water-surface gradient (percent) . . . . . . . Discharge (m3/s) . . . . . . . . . . . . . . . . . . . . Wetted channel width (m) . . . . . . . . . . . . Wetted stream width:depth ratio. . . . . . . . Stream aspect . . . . . . . . . . . . . . . . . . . . . . Total seasonal thermal input, June through
+September 2001 (BTUs/m2/d) . . . . . . . Open canopy (percent) . . . . . . . . . . . . . . . Riparian canopy density (percent) . . . . . . Elevation (m above sea level). . . . . . . . . .
+
+MDMT
+-0.25
+.37 .58 .52 .01
+.60 .48
+-.59 -.29
+
+MDAT
+-0.01
+.40 .64 .48
+-.14
+.41 .22
+-.30 -.62
+
+MWMT
+-0.21
+.40 .62 .54
+-.05
+.60 .46
+-.57 -.35
+
+MWAT 0.04
+.43 .66 .49
+-.15
+
+MWMTS
+-0.26
+.20 .46 .51 .20
+
+MWATS 0.11 .24 .49 .44
+-.13
+
+DEGDAY 1 0.10 .46 .66 .47
+-.18
+
+.40 .45 .29 .43 .19 .36 .10 .24
+-.27 -.52 -.19 -.29 -.66 -.13 -.60 -.71
+
+1 Sites 20, 31, and 33 not included (n = 30).
+
+lated with all stream temperature metrics except those associated with the date of sample and 6 days prior (MWMTS and MWATS). Total seasonal thermal input was positively correlated (p<0.05) with all stream temperature metrics except MWATS. Open canopy was positively correlated with MDMT and MWMT. Neither water-surface gradient nor aspect was correlated with the stream temperature metrics.
+CORRELATIONS BETWEEN STREAM TEMPERATURE AND BENTHIC INVERTEBRATE VARIABLES
+CaTbeomlrerspe.ela.rt.aiCotuonrrsereBalneatdtwioBeneesnnBtSheittcrweIaenmevneTrSteetmrberpaaemtreaVtuarreiaabnledsB. enthic Invertebrate Vari-
+Of the 201 benthic invertebrate taxa collected during this study, 57 taxa (present at a minimum of 5 sampling sites) were significantly correlated with one or more of the stream temperature metrics. Spearman rank correlation coefficients for pairwise comparisons of relative benthic invertebrate abundance and stream temperature metrics are shown in tables 5 and 9.
+Of the 32 coldwater taxa collected, only 20 taxa showed a significant inverse correlation with one or more of the stream temperature metrics at the <0.05 probability level (table 5). Two of the designated cold-
+
+water obligates, Cultus and Narpus, showed a significant positive correlation with one or more of the stream temperature metrics. Of the coldwater taxa collected, Zapada oregonensis gr. showed the strongest inverse correlation with the stream temperature metrics and was collected at sites where MWMTS ranged from 11.3° to 18.5°C. Of the nine additional taxa not classified by Grafe and others (2002) as coldwater obligates, Polycelis showed the strongest inverse correlation with all stream temperature metrics and was collected at sites where MWMTS ranged from 11.3° to 18.6°C.
+As expected, the percentage of coldwater taxa
+showed a strong inverse correlation (-0.73 to -0.87)
+with all stream temperature metrics. Figure 2 illustrates this correlation and indicates that, as MDMT increases, percent coldwater taxa decreases.
+In contrast to coldwater taxa, 26 invertebrate taxa (present at a minimum of 5 sampling sites) showed a significant (p<0.05) positive correlation with one or more of the stream temperature metrics (table 9). These results suggest that these taxa may be tolerant of warmer water temperatures. These taxa represented 13 percent (26 of 201) of the total number of invertebrate taxa collected. Of the 26, the most frequently collected
+
+26 Aquatic Assemblages and Relation to Temperature Variables, Least-Disturbed Streams, Salmon River Basin, Idaho, 2001
+
+Table 9. Spearman rank correlation coefﬁcients for relative abundance of benthic invertebrate taxa and selected stream temperature metrics for selected sample sites in the Salmon River Basin, central Idaho, July through September 2001
+[Number of sample sites, 33; taxa shown were collected at ﬁve or more sample sites; No., number; bold denotes signiﬁcance (p<0.05); see table 2 for description of stream temperature metrics]
+
+Taxon
+
+No. of sites where
+collected
+
+Acentrella turbida. . . . . . . . . . .
+
+10
+
+Baetis tricaudatus. . . . . . . . . . .
+
+33
+
+Diphetor hageni . . . . . . . . . . . .
+
+14
+
+Hesperoperla paciﬁca . . . . . . .
+
+14
+
+Pteronarcys californica . . . . . .
+
+7
+
+Pteronarcys sp. . . . . . . . . . . . . .
+
+6
+
+Skwala sp.. . . . . . . . . . . . . . . . .
+
+6
+
+Cleptelmis addenda . . . . . . . . .
+
+12
+
+Optioservus sp. . . . . . . . . . . . . .
+
+17
+
+Zaitzevia sp. . . . . . . . . . . . . . . .
+
+16
+
+Brachycentrus americanus . . . .
+
+19
+
+Hydropsyche sp. . . . . . . . . . . . .
+
+19
+
+Lepidostoma sp. . . . . . . . . . . . .
+
+12
+
+Micrasema sp. . . . . . . . . . . . . .
+
+13
+
+Neophylax rickeri . . . . . . . . . . .
+
+5
+
+Antocha sp. . . . . . . . . . . . . . . . .
+
+20
+
+Atherix sp.. . . . . . . . . . . . . . . . .
+
+8
+
+Cricotopus (Nostococladius) sp. . . . . . . .
+
+17
+
+Cricotopus sp.. . . . . . . . . . . . . .
+
+26
+
+Orthocladius Complex . . . . . . .
+
+22
+
+Orthocladius sp. . . . . . . . . . . . .
+
+24
+
+Polypedilum sp. . . . . . . . . . . . .
+
+6
+
+Rheotanytarsus sp. . . . . . . . . . .
+
+21
+
+Sublettea sp. . . . . . . . . . . . . . . .
+
+5
+
+Thienemanniella sp. . . . . . . . . .
+
+8
+
+Acari (=Acarina) . . . . . . . . . . .
+
+32
+
+1 Sites 20, 31, and 33 not included (n=30).
+
+MDMT 0.58
+.30 .53 .46 .46 .54 .44 .40 .57 .29 .47 .67 .53 .41 .38 .62 .53
+.39 .50 .36 .44 .34 .55 .48 .33 .59
+
+MDAT 0.51
+.49 .38 .34 .57 .55 .40 .28 .74 .48 .30 .81 .53 .36 .30 .74 .45
+.25 .50 .25 .47 .29 .47 .43 .28 .62
+
+MWMT 0.57 .30 .54 .45 .49 .54 .45 .39 .61 .35 .41 .69 .53 .38 .34 .65 .51
+
+MWAT 0.50
+.48 .38 .33 .57 .54 .44 .30 .74 .49 .27 .82 .51 .37 .27 .78 .45
+
+MWMTS 0.57 .40 .52 .50 .44 .40 .29 .52 .40 .14 .41 .50 .31 .61 .33 .41 .47
+
+MWATS 0.54 .56 .37 .32 .51 .44 .37 .40 .61 .37 .24 .66 .31 .51 .31 .65 .40
+
+DEGDAY1 0.50 .49 .39 .31 .55 .54 .42 .24 .73 .51 .24 .81 .51 .31 .26 .80 .44
+
+.38 .24 .36 .28 .22 .49 .52 .42 .49 .52 .32 .22 .46 .40 .20 .49 .50 .26 .44 .53 .34 .28 .47 .43 .23 .55 .44 .59 .54 .43 .51 .45 .39 .32 .42 .33 .30 .41 .39 .30 .61 .63 .47 .59 .66
+
+Correlations Between Stream Temperature and Benthic Invertebrate Variables 27
+
+was Baetis tricaudatus, which was collected at 33 of the 34 sampling sites. The caddisfly Hydropsyche showed the strongest positive correlation with the stream temperature metrics.
+CORRELATIONS BETWEEN STREAM TEMPERATURE AND FISH VARIABLES
+Correlations Between Stream Temperature and Fish Variables.
+Spearman rank correlation coefficients for pairwise comparisons of relative fish abundance and stream temperature metrics are shown in table 10. Results of this comparison indicate that bull trout showed the strongest inverse correlation with stream temperature. According to Selong and others (2001), of salmonids in North America, bull trout are regarded as having one of the lowest thermal tolerances and typically do not live where maximum temperatures exceed 15°C. In this study, bull trout were collected at sites where MWMTS ranged from 11.3° to 20.0°C (fig. 4).
+In contrast, rainbow trout were positively correlated with all stream temperature metrics except
+
+MDMT and MWMTS. Chinook salmon also showed a weak positive correlation with all stream temperature metrics except MWAT and MWATS. These two species were collected at sites where MWMTS ranged from 12.4° to 22.9°C and 14.2° to 20.0°C, respectively (fig. 4).
+Two additional species were positively correlated with the stream temperature metrics. Longnose dace (Rhinichthys cataractae) showed a strong positive correlation with stream temperature, and torrent sculpin, although less pronounced, also showed a positive correlation with all stream temperature metrics except MWAT, MWMTS, and MWATS. The correlation between brook trout, cutthroat trout, speckled dace (Rhinichthys osculus), shorthead sculpin, mountain whitefish, or tailed frogs and the stream temperature metrics was not significant (p>0.05).
+Correlations between SFI metrics, selected fish densities, and the stream temperature metrics are presented in table 11. As expected, percent coldwater individuals showed a strong inverse correlation with stream temperature. Percent sensitive native individu-
+
+Table 10. Spearman rank correlation coefﬁcients for relative abundance of ﬁsh species and selected stream temperature metrics for selected sample sites in the Salmon River Basin, central Idaho, July through September 2001
+[Number of sample sites, 33; No., number; bold denotes signiﬁcance (p<0.05); see table 2 for description of stream temperature metrics]
+
+Fish species
+
+No. of sites where
+collected
+
+Brook trout . . . . . . . . . . . . . . . .
+
+7
+
+Bull trout . . . . . . . . . . . . . . . . .
+
+19
+
+Chinook salmon . . . . . . . . . . . .
+
+15
+
+Cutthroat trout . . . . . . . . . . . . .
+
+18
+
+Longnose dace . . . . . . . . . . . . .
+
+11
+
+Rainbow trout . . . . . . . . . . . . . .
+
+27
+
+Speckled dace. . . . . . . . . . . . . .
+
+2
+
+Shorthead sculpin . . . . . . . . . . .
+
+27
+
+Torrent sculpin . . . . . . . . . . . . .
+
+4
+
+Mountain whiteﬁsh. . . . . . . . . .
+
+11
+
+Tailed frog . . . . . . . . . . . . . . . .
+
+14
+
+1 Sites 20, 31, and 33 not included (n=30).
+
+MDMT
+- 0.01 -.64
+.45
+-.21
+.64 .36 .22
+-.06
+.45 .30
+-.05
+
+MDAT
+- 0.16 -.54
+.37
+-.20
+.66 .53 .36
+-.31
+.37 .32
+-.08
+
+MWMT
+- 0.07 -.63
+.40
+-.23
+.65 .44 .26
+-.10
+.42 .30
+-.02
+
+MWAT
+- 0.19 -.51
+.34
+-.20
+.66 .56 .34
+-.33
+.35 .31
+-.04
+
+MWMTS 0.11
+-.63
+.38
+-.29
+.53 .30 .30
+-.07
+.12 .16
+-.02
+
+MWATS
+- 0.16 -.53
+.32
+-.25
+.61 .54 .35
+-.32
+.13 .14 .04
+
+DEGDAY1
+- 0.25 -.52
+.41
+-.11
+.55 .55 .25
+-.31
+.44 .35 .07
+
+28 Aquatic Assemblages and Relation to Temperature Variables, Least-Disturbed Streams, Salmon River Basin, Idaho, 2001
+
+als showed a weak inverse correlation with all stream temperature metrics except MWATS. Catch per unit effort showed a weak positive correlation with stream temperature metrics associated with maximum temperatures (MDMT, MWMT, MWMTS); all other stream temperature metrics were not correlated with this fish metric. No significant (p>0.05) correlation was evident between any of the stream temperature metrics and number of coldwater native species, number of sculpin and salmonid age classes, or percent sculpins.
+Results of the fish density and stream temperature metric comparison were similar to the comparisons of relative fish abundance and stream temperature metrics; bull trout and juvenile bull trout (<150 mm) density showed strong inverse correlations with stream temperature (table 11 and fig. 5). Bull trout densities ranged from 0.001 fish/m2 at Hazard Creek (site 32) to 0.094 fish/m2 at Morse Creek (site 9). Juvenile bull trout densities ranged from 0 to 0.049 fish/m2 at the 19 sites where bull trout were collected. Morse Creek and
+
+East Fork Hayden Creek (site 10) contained exceptionally high densities of bull trout relative to densities at other sites (fig. 5). MDMT at these sites was 12.0° and 13.9°C, respectively. Neither salmonid nor sculpin density was correlated with the stream temperature metrics.
+Because bull trout are listed as threatened under the ESA and are believed to be among the most thermally sensitive species in coldwater habitats (Selong and others, 2001), regional models have been developed to predict their occurrence at various stream temperatures. These predictive tools also have been used to develop stream temperature water-quality criteria to protect bull trout. Dunham and others (2001) developed a univariate logistic regression model predicting the probability of occurrence of juvenile bull trout using MDMT as the predictor variable for 643 stream sites throughout the Western United States (fig. 6). They selected MDMT because it was significantly correlated with other stream temperature metrics
+
+25
+
+28 27
+
+15 11
+
+21 19
+
+14
+
+18
+
+17
+
+11 4
+
+7
+
+2
+
+TEMPERATURE, IN DEGREES CELSIUS
+
+13
+
+9
+
+Bull trout Cutthroat trout
+
+Tailed
+
+frog Shorthead
+
+sculpin
+
+Rainbow
+
+trout Mountain
+
+whitefish Torrent sculpin
+
+Brook
+
+trout Chinook
+
+salmonLongnose
+
+dace
+
+Speckled
+
+dace
+
+AQUATIC VERTEBRATE SPECIES
+
+Figure 4. Range of maximum weekly-maximum stream temperatures (based on date of sample collection and 6 days prior) at which fish and tailed frogs were collected in the Salmon River Basin, central Idaho, 2001. [Species are ranked by median water temperatures at all sites where collected; site locations shown in figure 1; site names and characteristics shown in table 1]
+
+Correlations Between Stream Temperature and Fish Variables 29
+
+Table 11. Spearman rank correlation coefﬁcients for selected ﬁsh and stream temperature metrics for selected sample sites in the Salmon River Basin, central Idaho, July through September 2001
+[Number of sample sites, 33; No., number; bold denotes signiﬁcance (p<0.05); see table 2 for description of stream temperature metrics; m2, square meters; <, less than; mm, millimeters]
+
+Metric Stream Fish Index
+(forested) No. of coldwater native species . . . . . . . . . . .
+Percent coldwater individuals . . . . . . . . . . . .
+Percent sensitive native individuals . . . . . . . .
+No. of cottid age classes. . . . . . . . . . . . . . . . .
+No. of salmonid age classes . . . . . . . . . . . . . .
+Catch per unit effort (No. of coldwater individuals per minute electroﬁshing) . . . . . . . . .
+Density (No. ﬁsh/m2) Salmonid. . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Bull trout . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Juvenile bull trout (<150 mm in length). . . . .
+Sculpin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1 Sites 20, 31, and 33 not included (n=30).
+
+MDMT
+0.22
+-.52 -.48 -.32 -.22
+.41
+.06
+-.61 -.66
+.19
+
+MDAT
+0.27
+-.64 -.46 -.31 -.18
+.28
+.15
+-.52 -.62 -.04
+
+MWMT
+
+MWAT
+
+MWMTS MWATS DEGDAY1
+
+0.22 0.27 0.05 0.11 0.33
+-.55 -.63 -.42 -.58 -.63 -.45 -.43 -.48 -.31 -.39 -.32 -.30 -.33 -.29 -.27 -.20 -.18 -.35 -.34 -.15
+.36 .26 .44 .31 .25
+
+.05 .15 .11 .24 .14
+
+-.60 -.49 -.58 -.51 -.51
+
+-.67 -.61 -.52 -.54 -.63
+
+.14 -.08
+
+.16 -.09 -.08
+
+and is an easily understood metric with strong biological implications for acute exposure. Juvenile fish were used because they represent resident (nonmigratory) individuals that are present for at least an entire annual thermal regime within the stream. Model predictions for the regional data set showed that the probability of occurrence is relatively low (<0.50) until MDMT declines to approximately 14° to 16°C, and the probability of occurrence is not high (>0.75) until MDMT declines to approximately 11° to 12°C.
+To determine the probability of occurrence of bull trout in Salmon River Basin streams, a univariate logistic regression model was developed using MDMT from 33 sites in this study. The model developed during this study describes a significant (p<0.001) correlation between the probability of occurrence of juvenile bull trout and MDMT. However, this model differed from the regional model developed by Dunham and others (2001) in that the range of observed stream tem-
+
+peratures for the Salmon River Basin dataset is narrower than for the regional dataset. Perhaps this is because sites in the Salmon River Basin represent only minimally disturbed reference sites and constitute a much smaller sample size.
+The regression model for this study showed higher probabilities of occurrence of bull trout at colder stream temperatures (10° to 15°C) and lower probabilities of occurrence at warmer stream temperatures (16° to 21°C) than the regional model showed. Most importantly, the regional model likely would overpredict the probability of bull trout occurrence at warmer stream temperatures if applied to streams in the Salmon River Basin. The boxplots comparing the predicted probabilities for both datasets (fig. 6) show that, for sites where no bull trout were present, the regional model predicts a median probability of occurrence of about 40 percent, whereas the model developed during this study predicts the median probability
+
+30 Aquatic Assemblages and Relation to Temperature Variables, Least-Disturbed Streams, Salmon River Basin, Idaho, 2001
+
+of bull trout occurrence at about 10 percent. A MannWhitney test for both datasets shows a significant (p<0.001) difference in predicted probability between cases where bull trout are absent and cases where they are present. Regression model results using all bull trout and MDMT did not perform as well as the model using juveniles only; the significance level was p=0.01. McFadden’s rho, a measure of model performance (goodness of fit), was 0.40 and 0.15 for the model using juvenile bull trout and all bull trout, respectively. Values between 0.2 and 0.4 suggest a good fit to the model (Hosmer and Lemeshow, 1989).
+As suggested in the preceding discussion, the model developed in this study probably would be a better predictor of bull trout occurrence for Salmon River Basin streams than would a model based on regional data for the entire Pacific Northwest, possibly because of other limiting factors that may not be present at least-disturbed sites sampled in this study. Additionally, the regional dataset was composed of a wide variety of data sources and varying collection methods that may have influenced model results, whereas during the Salmon River Basin study, consis-
+
+tent electrofishing effort was applied at each study site to standardize fish capture efficiency. The model comparisons suggest that regional or local differences need to be considered when deriving stream temperature criteria. These comparisons should be viewed with caution because of sample size differences—the regional dataset contained an order-of-magnitude more observations than those modeled in this study.
+SUMMARY
+Summary.
+Environmental variables, with a focus on stream temperature, and benthic invertebrate and fish assemblages were evaluated for 34 least-disturbed, wadeable, second- through fifth-order streams in the Salmon River Basin, Idaho. Data were collected to document the thermal regime of least-disturbed streams, characterize the distribution of aquatic biota in streams representing a gradient of temperature, and describe relations between environmental variables and benthic invertebrate and fish assemblages.
+The Salmon River Basin is located within the Blue Mountains, Idaho Batholith, and Middle Rockies
+
+BULL TROUT, PER SQUARE METER MAXIMUM DAILY STREAM TEMPERATURE,
+IN DEGREES CELSIUS
+
+0.10
+0.09 Bull trout longer than 150 mm Bull trout shorter than 150 mm
+0.08 Maximum daily-maximum stream temperature at site
+0.07
+0.06
+
+25 20
+
+0.05
+
+0.04
+15 0.03
+
+0.02
+
+0.01
+
+0 9 10 28 1 15 8
+
+10 2 23 27 25 29 21 16 22 24 19 6 31 32
+
+SITE NUMBER
+
+Figure 5. Bull trout densities in relation to maximum daily-maximum stream temperature at selected sample sites in the Salmon River Basin, central Idaho, 2001. [mm, millimeter; site locations shown in figure 1; site names and characteristics shown in table 1]
+
+Summary 31
+
+PREDICTED PROBABILITY OF OCCURRENCE (P)
+
+1.0
+
+0.9
+
+0.8
+
+0.7 0.6
+
+P
+
+=
+
+1
+
++
+
+e e
+
+[4.81 [4.81
+
++ +
+
+(-0.29)(MDMT)] (-0.29)(MDMT)]
+
+P
+
+=
+
+1
+
++
+
+e e
+
+[11.91 [11.91
+
++ +
+
+(-0.71)(MDMT)] (-0.71)(MDMT)]
+
+0.5
+
+0.4
+
+0.3
+
+0.2
+USFS—Regional data 0.1
+USGS—Salmon River Basin
+0 0 5 10 15 20 25
+MAXIMUM DAILY-MAXIMUM TEMPERATURE (MDMT), IN DEGREES CELSIUS
+
+USFS regional data
+Mann-Whitney U test, p<0.001 1.0
+
+USGS, Salmon River Basin data
+Mann-Whitney U test, p<0.001 1.0
+
+0.9 0.9 353
+0.8 0.8
+
+12
+
+0.7 290
+0.6
+
+0.7 0.6
+
+0.5 0.5
+
+0.4 0.4 0.3 0.3 21
+
+0.2 0.2
+
+0.1 0.1
+
+0
+
+Absent
+
+Present
+
+0
+
+Absent
+
+Present
+
+JUVENILE BULL TROUT, SHORTER THAN 150 MILLIMETERS
+
+30
+
+PREDICTED PROBABILITY OF OCCURRENCE (P)
+
+Figure 6. Model-predicted probabilities of occurrence of juvenile bull trout in relation to maximum daily-maximum stream temperature, based on regional and Salmon River Basin datasets. [Boxplots show predicted probabilities of occurrence for both models; regional data from U.S. Forest Service (Dunham and others, 2001); Salmon River Basin data from U.S. Geological Survey (this study); USFS, U.S. Forest Service; USGS, U.S. Geological Survey]
+32 Aquatic Assemblages and Relation to Temperature Variables, Least-Disturbed Streams, Salmon River Basin, Idaho, 2001
+
+ecoregions, which consist primarily of coniferous forests. Land use in the basin comprises 67 percent forest, 30 percent rangeland, and 3 percent agricultural land. Large areas of the basin are designated as wilderness, and parts of the Salmon River and its tributaries are designated as wild and scenic rivers.
+Sampling sites were selected to represent leastdisturbed conditions with an emphasis on sites minimally affected by historical logging or mining activities within their watersheds. Several environmental variables, including basin and reach characteristics, physical habitat characteristics, and water physicochemistry, were examined and relations with benthic invertebrate and fish assemblages were evaluated.
+Nine different stream temperature metrics were calculated for the 33 sites where stream temperature data were available. Stream temperature metrics indicated that water temperature varied substantially among sites within the basin and that the range of observed temperatures varied over a broad gradient. A comparison of stream temperature metrics with current stream temperature criteria showed that temperatures at all 33 sites where data were available exceeded the U.S. Environmental Protection Agency 10.0°C maximum weekly-maximum temperature criterion for bull trout spawning and juvenile rearing. Temperatures exceeded the Idaho Department of Environmental Quality 13.0°C maximum daily-maximum temperature criterion for the protection of salmonid spawning at 30 sites and exceeded the 9.0°C maximum daily-average temperature criterion for the protection of salmonid spawning at all 33 sites. Thermal regimes at most sites did not exceed the Idaho Department of Environmental Quality criteria for the protection of coldwater biota.
+Nine environmental variables—water-surface gradient, discharge, wetted channel width, width:depth ratio, aspect, total seasonal thermal input, open canopy, riparian canopy density, and elevation were selected for correlation with the nine stream temperature metrics. Results of this analysis indicated that seasonal degree-days for July through August exhibited the strongest inverse correlation with elevation.
+Two hundred and one benthic invertebrate taxa from the 34 sampling sites were identified. The most abundant taxa were Baetis tricaudatus, Oligochaeta, Tvetenia bavarica gr., Acari, Rhithrogena, Cinygmula, Heterlimnius, Micropsectra, Eukiefferiella devonica gr., Drunella doddsi, and Cricotopus. Thirty-two coldwater taxa, representing 16 percent of the total number of invertebrate taxa collected, were collected during
+
+this study. Coldwater taxa were collected at all sites where temperatures exceeded the Idaho Department of Environmental Quality criteria for the protection of coldwater biota. Stream Macroinvertebrate Index scores ranged from 69 to 100 and, in general, describe expected conditions for least-disturbed sites. Of the 201 benthic invertebrate taxa collected during this study, 57 taxa were significantly correlated with one or more of the stream temperature metrics. Of the 32 coldwater taxa collected, only 20 taxa showed a significant inverse correlation with one or more of the stream temperature metrics. In contrast to coldwater taxa, 26 invertebrate taxa showed a significant positive correlation with one or more of the stream temperature metrics.
+A total of 4,199 fish were collected from the 33 sites sampled during this study. Ten species of fish in the families Salmonidae, Cottidae, and Cyprinidae were collected. Bull trout and chinook salmon, two species listed as threatened under the U.S. Fish and Wildlife Service Endangered Species Act, were collected. In addition to fish, tailed frogs and salamanders also were collected. Stream Fish Index scores ranged from 74 to 100 and, in general, describe expected conditions for least-disturbed sites.
+Correlation between relative fish abundance and the stream temperature metrics indicated that bull trout showed the strongest inverse correlation with stream temperature and were collected at sites where the maximum weekly-maximum temperature (based on date of sample and 6 days prior) ranged from 11.3° to 20.0°C. Correlations between the Stream Fish Index metrics, selected fish densities, and the stream temperature metrics indicated that percent coldwater individuals showed the strongest inverse correlation with stream temperature metrics. Results of the fish density and stream temperature metric comparison were similar to the comparisons of relative fish abundance and stream temperature metrics. Bull trout and juvenile bull trout density showed strong inverse correlations with stream temperature.
+A univariate logistic regression model developed during this study predicts the probability of occurrence of juvenile bull trout on the basis of the maximum daily-maximum temperature. Compared with a regional model, the regression model for the Salmon River Basin predicted higher probabilities of occurrence of bull trout at colder stream temperatures (10° to 15°C) and lower probabilities of occurrence at warmer stream temperatures (16° to 21°C). The model devel-
+
+Summary 33
+
+oped in this study appeared to be more effective at predicting the probability of bull trout for Salmon River Basin streams than did the regional model. The model comparison suggests that regional or local differences need to be considered when deriving stream temperature criteria.
+REFERENCES CITED
+References Cited.
+Beitinger, T.L., Bennett, W.A., and McCauley, R.W., 2000, Temperature tolerances of North American freshwater fishes exposed to dynamic changes in temperature: Environmental Biology of Fishes, v. 58, p. 237–275.
+Bennett, D.H., and Fisher, T.R., 1989, Use of the index of biotic integrity to assess the impact of land management activities on low order streams in northern Idaho: Moscow, University of Idaho, Idaho Water Resources Research Institute, Research Technical Completion Report 14 – 08 – 0001 – G1419 – 06.
+Bugosh, N., 1999, Lochsa River subbasin assessment—final report: Lewiston, Idaho Division of Environmental Quality, 93 p.
+Corkran, C.C., and Thoms, C., 1996, Amphibians of Oregon, Washington and British Columbia: Renton, Wash., Lone Pine Publishing, 175 p.
+Cuffney, T.F., Gurtz, M.E., and Meador, M.R., 1993, Methods for collecting benthic invertebrate samples as part of the National Water-Quality Assessment Program: U.S. Geological Survey Open-File Report 93–406, 66 p.
+Donato, M.M., 2002, A statistical model for estimating stream temperatures in the Salmon and Clearwater River Basins, central Idaho: U.S. Geological Survey Water-Resources Investigations Report 02–4195, 39 p.
+Dunham, J.B., Lockwood, J., and Mebane, C.A., 2001, Salmonid distributions and temperature: U.S. Environmental Protection Agency, Issue Paper 2, 22 p.
+Dunham, J.B., Rieman, B.E., and Chandler, G.L., 2001, Development of field-based models of suitable thermal regimes for interior Columbia Basin salmonids: Boise, Idaho, U.S. Forest Service, Final Report, Interagency Agreement no. 00–IA–11222014–521, 80 p.
+Environmental Systems Research Institute, Inc., 1999, Getting started with Arc/Info: Redlands Calif.,
+
+Environmental Systems Research Institute, Inc., 230 p. Essig, D.A., 1998, The dilemma of applying uniform temperature criteria in a diverse environment: an issue analysis: Boise, Idaho Division of Environmental Quality, 29 p. Fishman, M.J., 1993, Methods of analysis by the U.S. Geological Survey National Water Quality Laboratory—determination of inorganic and organic constituents in water and fluvial sediments: U.S. Geological Survey Open-File Report 93–125, 217 p. Fitzpatrick, F.A., Waite, I.R., D’Arconte, P.J., Meador, M.R., Maupin, M.A., and Gurtz, M.E., 1998, Revised methods for characterizing stream habitat in the National Water-Quality Assessment Program: U.S. Geological Survey Water-Resources Investigations Report 98– 4052, 67 p. Frissell, C.A., Liss, W.J., Warren, C.E., and Hurley, M.D., 1986, A hierarchical framework for stream habitat classification: viewing streams in a watershed context: Environmental Management, v. 10, no. 2, p. 199–214. Gauch, H.G., Jr., 1982, Multivariate analysis in community ecology: New York, Cambridge University Press, 298 p. Gorman, O.T., and Karr, J.R., 1978, Habitat structure and stream fish communities: Ecology, v. 59, no. 3, p. 507–515. Grafe, C.S., ed., 2002, Idaho small stream ecological assessment framework: an integrated approach: Boise, Idaho Department of Environmental Quality, [variously paged]. Grafe, C.S., Mebane, C.A., McIntyre, M.J., Essig, D.A., Brandt, D.H., and Mosier, D.T., 2002, The Idaho Department of Environmental Quality water body assessment guidance, 2d ed.—final: Boise, Idaho Department of Environmental Quality, [variously paged]. Helsel, D.R., and Hirsch, R.M., 2002, Statistical methods in water resources: U.S. Geological Survey Techniques of Water-Resources Investigations, Book 4, Chap. A3, 510 p. Hillman, T.W., and Essig, D.A., 1998, Review of bull trout temperature requirements: a response to the EPA bull trout temperature rule: Boise, Idaho, prepared by BioAnalysts, Inc., for the Idaho Division of Environmental Quality, 70 p., accessed February 24, 2003, at URL http://www2.state.id.us/deq/water/bulltrt98.htm
+
+34 Aquatic Assemblages and Relation to Temperature Variables, Least-Disturbed Streams, Salmon River Basin, Idaho, 2001
+
+Hilsenhoff, W.L., 1987, An improved biotic index of organic stream pollution: Great Lakes Entomology, v. 20, no. 1, p. 31–39.
+Hosmer, D.W., and Lemeshow, S., 1989, Applied logistic regression: New York, John Wiley and Sons, 307 p.
+Hughes, R.M., Larsen, D.P., and Omernik, J.M., 1986, Regional reference sites—a method for assessing stream potentials: Environmental Management, v. 10, p. 629–635.
+Jessup, B., and Gerritsen, J., 2002, Stream macroinvertebrate index, in Grafe, C.S., ed., Idaho small stream ecological assessment framework: an integrated approach: Boise, Idaho Department of Environmental Quality, p. 3–1 to 3–45.
+Karr, J.R., 1991, Biological integrity: a long-neglected aspect of water resource management: Ecological Applications, v. 1, no. 1, p. 66–84.
+Karr, J.R., Fausch, K.D., Angermeier, P.L., Yant, P.R., and Schlosser, I.J., 1986, Assessing biological integrity in running waters—a method and its rationale: Champaign, Ill., Natural History Survey, Special Publication 5, 28 p.
+King, P.B., and Beikman, H.M., 1974, Geologic map of the United States: U.S. Geological Survey, scale 1:2,500,000.
+Kruse, C.G., Hubert, W.A., and Rahel, F.J., 1998, Single-pass electrofishing predicts trout abundance in mountain streams with sparse habitat: North American Journal of Fisheries Management, v. 18, p. 940–946.
+Lammert, M., and Allan, J.D., 1999, Assessing biotic integrity of streams—effects of scale in measuring the influence of land use/cover and habitat structure on fish and macroinvertebrates: Environmental Management v. 23, no. 2, p. 257–270.
+Lipscomb, S.W., 1998, Hydrologic classification and estimation of basin and hydrologic characteristics of subbasins in central Idaho: U.S. Geological Survey Professional Paper 1604, 49 p.
+Maret, T.R., MacCoy, D.E., Skinner, K.D., Moore, S.E., and O’Dell, I., 2001, Evaluation of macroinvertebrate assemblages in Idaho rivers using multimetric and multivariate techniques, 1996–98: U.S. Geological Survey Water-Resources Investigations Report 01–4145, 69 p.
+Maret, T.R., Robinson, C.T., and Minshall, G.W., 1997, Fish assemblages and environmental correlates in least-disturbed streams of the upper Snake
+
+River Basin: Transactions of the American Fisheries Society, v. 126, no. 2, p. 200–216. McGrath, C.L., Woods, A.J., Omernik, J.M., Bryce, S.A., Edmondson, M., Nesser, J.A., Shelden, J., Crawford, R.C., Comstock, J.A., and Plocher, M.D., 2001, Ecoregions of Idaho (color poster with map, descriptive text, summary tables, and photographs): Reston, Va., U.S. Geological Survey, scale 1:1,350,000. Meador, M.R., Cuffney, T.E., and Gurtz, M.E., 1993, Methods for sampling fish communities as part of the National Water-Quality Assessment Program: U.S. Geological Survey Open-File Report 93–104, 40 p. Mebane, C.A., 2002, Stream fish indexes, in Grafe, C.S., ed., Idaho small stream ecological assessment framework: an integrated approach: Boise, Idaho Department of Environmental Quality, p. 4–1 to 4–65. Minshall, G.W., Robinson, C.T., Lawrence, D.E., Andrews, D.A., and Brock, J.T., 2001, Benthic macroinvertebrate assemblages in five central Idaho (USA) streams over a 10-year period following disturbance by wildfire: International Journal of Wildland Fire, v. 10, p. 201–213. O’Dell, I., Lehmann, A.K., Campbell, A.M., Beattie, S.E., and Brennan, T.S., 2002, Water resources data, Idaho, water year 2001, v. 2, Upper Columbia River Basin and Snake River Basin below King Hill: U.S. Geological Survey Water-Data Report ID–01–2, 390 p. Overton, C.K., McIntyre, J.D., Armstrong, R., Whitwell, S.L., and Duncan, K.A., 1995, User’s guide to fish habitat: descriptions that represent natural conditions in the Salmon River Basin, Idaho: Ogden, Utah, U.S. Forest Service, General Technical Report INT–GTR–322, 142 p. Platts, W.S., Armour, Carl, Booth, G.D., Bryant, Mason, Bufford, J.L., Culpin, Paul, Jensen, Sherman, Lienkaemper, G.W., Minshall, G.W., Monsen, S.B., Nelson, R.L., Sedell, J.R., and Tuhy, J.S., 1987, Methods for evaluating riparian habitats with applications to management: Ogden, Utah, U.S. Forest Service, General Technical Report INT–221, 177 p. Rahel, F.J., and Hubert, W.A., 1991, Fish assemblages and habitat gradients in a Rocky Mountain-Great Plains stream—biotic zonation and additive patterns of community change: Transactions of the American Fisheries Society, v. 120, p. 319–332.
+
+References Cited 35
+
+Rosgen, D.L., 1994, A classification of natural rivers: Catena, v. 22, p. 169–199.
+Selong, J.H., McMahon, T.E., Zale, A.V., and Barrows, F.T., 2001, Effect of temperature on growth and survival of bull trout, with application of an improved method for determining thermal tolerances in fishes: Transactions of the American Fisheries Society v. 130, p. 1026-1037.
+Scott, W.B., and Crossman, E.J., 1973, Freshwater fishes of Canada: Ottawa, Fisheries Research Board of Canada, 966 p.
+Simonson, T.D., and Lyons, J., 1995, Comparison of catch per effort and removal procedures for sampling stream fish assemblages: North American Journal of Fisheries Management v. 15, p. 419–427.
+Simpson, J.C., and Wallace, R.L., 1982, Fishes of Idaho: Moscow, The University Press of Idaho, 238 p.
+Stevens, H.H., Jr., Ficke, J.F., and Smoot, G.F., 1975, Water temperature—influential factors, field measurement, and data presentation: U.S. Geological Survey Techniques of Water-Resources Investigations, Book 1, Chap. D1, 65 p.
+Strahler, A.N., 1957, Quantitative analysis of watershed geomorphology: Transactions of the American Geophysical Union, v. 38, p. 913–920.
+U.S. Geological Survey, 1975, Hydrologic unit map— 1974, State of Idaho: Reston, Va., 1 sheet, scale 1:500,000.
+Vogelmann, J.E., Howard, S.M., Yang L., Larson, C.R., Wylie, B.K., and VanDriel, N., 2001, Completion of the 1990s national land cover data set for the conterminous United States from landsat thematic mapper data and ancillary data sources:
+
+Photogrammetric Engineering and Remote Sensing, 67:650–652, accessed February 24, 2003, at URL http://edcwww.cr.usgs.gov/programs/lccp
+Warren, M.L., Jr., and Burr, B.M., 1994, Status of freshwater fishes of the United States—overview of an imperiled fauna: Fisheries, v. 19, no. 1, p. 6–18.
+Wilde, F.D., and Radtke, D.B., eds., 1998, Field measurements, Chap. A6, in National field manual for the collection of water-quality data: U.S. Geological Survey Techniques of Water-Resources Investigations, Book 9, Handbooks for WaterResources Investigations, [variously paged].
+Wilde, F.D., Radtke, D.B., Gibs, J., and Iwatsubo, R.T., eds., 1999, Collection of water samples, Chap. A4, in National field manual for the collection of water-quality data: U.S. Geological Survey Techniques of Water-Resources Investigations, Book 9, Handbooks for Water-Resources Investigations, [variously paged].
+Wilkinson, Leland, 1999, SYSTAT for Windows— statistics, version 9.0: Evanston, Ill., SPSS, Inc., 1086 p.
+Wolman, M.G., 1954, A method for sampling coarse riverbed material: Transactions of the American Geophysical Union, v. 35, p. 951–956.
+Wydoski, R.S., and Whitney, R.R., 1979, Inland fishes of Washington: Seattle, Wash., University of Washington Press.
+Zaroban, D.W., 2000, Protocol for placement and retrieval of temperature data loggers in Idaho streams: Boise, Idaho Division of Environmental Quality, Water Quality Monitoring Protocols, Report no. 10, 34 p.
+
+36 Aquatic Assemblages and Relation to Temperature Variables, Least-Disturbed Streams, Salmon River Basin, Idaho, 2001
+
+SUPPLEMENTAL INFORMATION
+
+Table A. Table A 39
+
+Table A. Habitat characteristics for selected sample sites in the Salmon River Basin, central Idaho, 2001 [Site locations shown in ﬁgure 1; site names and characteristics shown in table 1; No., number; m, meter; m/s, meters per second; mm, millimeters; m3/s, cubic meters per second; CV, coefﬁcient of variation; BTUs/m2/d, British thermal units per square meter per day; no data available for site 17]
+
+Reach Site length No. (m)
+1 150 2 150 3 150 2 4 150 5 150 6 280 7 150 8 155 9 150 10 150 11 150 12 150 13 150 14 200 15 150 16 200 18 200 19 200 20 150
+
+Rifﬂe area (percent)
+39 57 27 36 60 69 73 85 77 20 85 77 60 62 77 54 100 100 75
+
+Run area (percent)
+29 28 60 59 27 31 27 6 13 57 13 10 40 38 20 37 0 0
+3
+
+Pool area (percent)
+32 15 13 7 13 0 0 9 10 23
+2 13 0 0 3 9 0 0 22
+
+Watersurface gradient (percent)
+1.0 3.8 1.0 1.0 2.1 3.5 2.7 1.8 3.5 1.0 2.2 3.4 1.0 1.8 2.4 1.9 1.0 1.8 3.5
+
+Wetted channel width1
+(m)
+7.3 4.3 4.3 5.6 7.4 11.5 7.8 4.5 3.7 4.1 5.4 6.8 10.0 12.0 7.9 12.1 23.2 15.1 8.0
+
+Bankfull width1
+(m)
+9.3 4.9 4.9 6.9 10.6 13.4 8.5 6.2 5.4 6.0 7.0 8.3 11.0 14.1 8.7 15.9 26.7 21.7 9.7
+
+Open canopy1 percent)
+27 3 21 86 32 32 27 16 26 36 16 14 61 34 20 43 48 52 14
+
+Riparian canopy (percent)
+71 93 59 6 39 43 57 80 78 45 87 88 25 33 61 11 12 237 90
+
+Stream aspect1
+92 220 360 148 120 360 159 275 253 360 275 140 360 117 360 127 276 316 262
+
+Stream depth1
+(m)
+0.28 .25 .19 .20 .27 .39 .28 .21 .15 .27 .25 .27 .23 .27 .25 .30 .42 0.60 .30
+
+Thalweg depth1
+(m) 0.35
+.31 .30 .28 .36 .51 .39 .24 .17 .35 .31 .34 .36 .32 .36 .4 .50 0.69 .41
+
+Bankfull thalweg depth1
+0.67 .71 .55 .72 1.00 .94 .68 .77 .65 .55 .70 .75 .79 .81 .61 .89 1.12 1.37 .82
+
+40 Aquatic Assemblages and Relation to Temperature Variables, Least-Disturbed Streams, Salmon River Basin, Idaho, 2001
+
+Table A. Habitat characteristics for selected sites in the Salmon River Basin, 2001—Continued
+
+Reach Site length No. (m)
+
+Rifﬂe area (percent)
+
+Run area (percent)
+
+Pool area (percent)
+
+Watersurface gradient (percent)
+
+Wetted channel width1
+(m)
+
+Bankfull width1
+(m)
+
+Open canopy1 percent)
+
+21 150
+
+66
+
+3 31 14.0
+
+7.5 9.2 26
+
+22 150
+
+74
+
+0 26 21.5
+
+6.2 10.7
+
+13
+
+23 150
+
+20 57 23
+
+1.7
+
+8.8 11.3
+
+18
+
+24 150 92 0 8 3.1 6.5 7.9 31
+
+25 130
+
+58 19 23
+
+5.7 5.8 6.3 16
+
+26 150
+
+62 29
+
+9
+
+5.9
+
+8.7 10.9
+
+24
+
+27 150
+
+28
+
+2 70
+
+4.5
+
+7.3 10.2
+
+38
+
+28 150
+
+60 37 3 4.5 7.8 9.1 24
+
+29 150 230 150
+
+82 18 0 6.3 6.3 7.6 25 57 38 6 1.7 6.5 7.5 46
+
+31 150
+
+80
+
+0 20
+
+4.5 11.8 16.8 22
+
+32 150
+
+80
+
+0 20
+
+5.9 14.6 16.8 24
+
+34 130
+
+33 14 53
+
+4.5 2.5 8.9
+
+0
+
+Riparian canopy (percent)
+84 90 63 60 92 69 37 77 58 28 89 69 100
+
+Stream aspect1
+98 268 195 30 296 51 234 238 314 226 233 235 360
+
+Stream depth1
+(m)
+0.35 .23 .29 .28 .23 .27 .34 .24 .29 .22 .35 .29 .20
+
+Thalweg depth1
+(m)
+0.50 .33 .41 .37 .35 .38 .40 .32 .37 .30 .54 .45 .25
+
+Bankfull thalweg depth1
+1.43 1.19 .97 .68 .65 .92 1.14 .77 .90 .64 1.52 1.09 1.01
+
+Table A. Habitat characteristics for selected sites in the Salmon River Basin, 2001—Continued
+
+Total
+
+Bottom
+
+Percent Percent
+
+Stream
+
+seasonal
+
+Stream substrate
+
+Percent
+
+instream large
+
+Wetted
+
+Width
+
+depth Velocity Bank
+
+Flow
+
+thermal
+
+Site velocity1
+
+size
+
+substrate
+
+habitat woody Discharge width/depth
+
+CV
+
+CV
+
+CV stability stability input
+
+No. (m/s)
+
+(mm)
+
+embeddedness1 cover
+
+debris
+
+(m3/s)
+
+ratio (percent) (percent) (percent) index index (BTUs/m2/d)
+
+1 0.31
+
+9
+
+80
+
+18.8 9.4
+
+0.18
+
+26
+
+72 68 81 10 0.52 31,501
+
+2 .42
+
+384
+
+0
+
+17.8 1.7
+
+.32
+
+17
+
+27 39 71
+
+8
+
+.44 8,077
+
+3 .48
+
+48
+
+37
+
+6.1 0.6
+
+.29
+
+23
+
+27 75 46 10
+
+.55 19,760
+
+2 4 .29
+
+72
+
+26
+
+6.5 .2
+
+.23
+
+29
+
+22 53 58 10
+
+.39 95,627
+
+5 .48
+
+192
+
+19
+
+8.9 1.6
+
+.64
+
+27
+
+20 52 69
+
+8
+
+.36 42,448
+
+6 .70
+
+192
+
+19
+
+20.0 5.0
+
+2.25
+
+29
+
+28 30 43
+
+8
+
+.54 57,979
+
+7 .59
+
+192
+
+38
+
+8.9 3.3
+
+1.25
+
+28
+
+21 38 51 11
+
+.57 22,506
+
+8 .55
+
+96
+
+0
+
+10.0 4.4
+
+.40
+
+22
+
+16 24 43
+
+8
+
+.31 17,564
+
+9 .39
+
+96
+
+18
+
+8.8 2.7
+
+.15
+
+25
+
+16 28 63
+
+7
+
+.26 19,702
+
+10 .24
+
+24
+
+86
+
+12.0 5.0
+
+.13
+
+15
+
+36 67 78 10
+
+.64 35,632
+
+11 .60
+
+96
+
+15
+
+6.1 3.3
+
+.60
+
+22
+
+24 32 51 10
+
+.44 8,836
+
+12 .37
+
+192
+
+18
+
+20.0 5.0
+
+.48
+
+25
+
+10 35 72
+
+9
+
+.45 17,084
+
+13 .53
+
+96
+
+27
+
+7.7 0
+
+1.03
+
+43
+
+17 57 45 10
+
+.46 78,384
+
+14 .32
+
+192
+
+38
+
+6.0 1.6
+
+.78
+
+44
+
+29 34 43
+
+7
+
+.40 67,798
+
+15 .60
+
+192
+
+28
+
+20.0 4.0
+
+1.07
+
+32
+
+12 42 47 10
+
+.59 44,008
+
+16 .43
+
+96
+
+19
+
+5.6 1.1
+
+1.11
+
+40
+
+21 42 55
+
+9
+
+.45 79,592
+
+18 .52
+
+192
+
+19
+
+6.7 0 3.76 55
+
+8 27 26 10
+
+.45 85,718
+
+19 .50
+
+768
+
+0
+
+17.0 0
+
+3.68
+
+25
+
+16 29 41 10
+
+.50 76,403
+
+Table A 41
+
+42 Aquatic Assemblages and Relation to Temperature Variables, Least-Disturbed Streams, Salmon River Basin, Idaho, 2001
+
+Table A. Habitat characteristics for selected sites in the Salmon River Basin, 2001—Continued
+
+Total
+
+Bottom
+
+Percent Percent
+
+Stream
+
+seasonal
+
+Stream substrate
+
+Percent
+
+instream large
+
+Wetted
+
+Width
+
+depth Velocity Bank
+
+Flow
+
+thermal
+
+Site velocity1
+
+size
+
+substrate
+
+habitat woody Discharge width/depth
+
+CV
+
+CV
+
+CV stability stability input
+
+No. (m/s)
+
+(mm)
+
+embeddedness1 cover
+
+debris
+
+(m3/s)
+
+ratio (percent) (percent) (percent) index index (BTUs/m2/d)
+
+20 0.53
+
+96
+
+16
+
+13.3 1.7 1.16
+
+27 22
+
+41 53
+
+8 0.50 30,297
+
+21 .30
+
+192
+
+7
+
+12.0 2.2
+
+.91
+
+22 45
+
+48 92 12
+
+.35 39,645
+
+22 .25
+
+192
+
+4
+
+19.4 3.3
+
+.24
+
+27 52
+
+50 97 10
+
+.28 10,088
+
+23 .32
+
+48
+
+79
+
+18.9 6.1
+
+.55
+
+30 26
+
+61 50 10
+
+.42 17,058
+
+24 .48
+
+192
+
+11
+
+13.8 2.7
+
+.70
+
+23 30
+
+43 75
+
+8
+
+.54 40,498
+
+25 .23
+
+192
+
+22
+
+12.7 2.7
+
+.20
+
+25 29
+
+48 73
+
+8
+
+.54 8,739
+
+26 .40
+
+192
+
+32
+
+12.0 1.7
+
+.77
+
+32 16
+
+37 62
+
+8
+
+.41 33,989
+
+27 .49
+
+96
+
+17
+
+18.9 4.4
+
+.90
+
+21 22
+
+26 38
+
+9
+
+.35 60,065
+
+28 .49
+
+144
+
+14
+
+16.1 1.7
+
+.74
+
+32 13
+
+42 54
+
+8
+
+.42 40,234
+
+29 .45
+
+192
+
+22
+
+17.0 1.6
+
+.68
+
+22 20
+
+37 62
+
+9
+
+.41 59,389
+
+230 .35
+
+80
+
+47
+
+17.4 1.7
+
+.36
+
+29 24
+
+39 47 10
+
+.47 64,131
+
+31 .63
+
+384
+
+0 12.7 0 2.39 34 26 51 61 10 .36 26,835
+
+32 .31
+
+768
+
+0 18.3 0 1.03 50 16 56 55 10 .41 47,872
+
+34 .14
+
+96
+
+0
+
+8.3 1.1
+
+.04
+
+12 38 104 67 10
+
+.25 29,453
+
+1 Average measurements taken at six transects. 2 Multiple-reach site. Average measurements taken at 18 transects.
+
+Table B.
+
+Table B. Microhabitat characteristics for all sample sites in the Salmon River Basin, central Idaho, 2001
+[Values represent average of measurements taken at rifﬂe collection sites within each reach; site locations shown in ﬁgure 1; site names and characteristics shown in table 1; No., number; m, meters; m/s, meters per second; <, less than; mm, millimeters; —, data unavailable]
+
+Stream Site depth No. (m) 1 0.13 2 .19 3 .10 4 .22 5 .19 6 .17 7 .12 8 .15 9 .28 10 .09 11 .23 12 .17 13 .17 14 .20 15 .15 16 .25 17 .30 18 .20 19 .31 20 .20 21 .22 22 .18 23 .13 24 .25 25 .14 26 .11 27 .23 28 .19 29 .13 30 .12 31 .25 32 .22 33 .19 34 .14
+
+Stream velocity
+(m/s) 0.65
+.67 .59 .44 .47 .57 .71 .52 .35 .79 .61 .76 .48 .38 .45 .49 .65 .61 .41 .48 .53 .39 .59 .51 .29 .32 .49 .62 .52 .45 .59 .13 .19 .23
+
+Percent substrate
+ﬁnes (< 2mm) 18
+0 5 5 0 5 3 0 3 20 0 3 0 7 13 7 10 3 3 3 3 3 3 13 10 0 0 0 0 5 0 0 0 0
+
+Bottom substrate
+size (mm) 64 96 48 64 96 96 64 96 96 23 128 256 64 192 96 96 64 64 256 64 192 96 64 96 192 192 96 192 192 75 768 768 192 192
+
+Substrate embeddedness
+(percent) 23 15 23 7 15 15 38 12 15
+100 8 8 38 15 23 38 46 15 15 23 8 15 23 23 23 30 15 15 46 28 15 23 5 38
+
+Wolman bottom substrate
+size (mm)
+31 31 48 64 96 96 96 96 96 23 96 384 96 192 48 96 192 — — 192 192 1,536 48 96 192 192 96 192 192 64 384 384 — 96
+
+Wolman ﬁnes, < 6mm
+(percent) 33 13 23 11 11 12 20 13 15 42 16 22 18 31 20 14 13 — — 17 2 8 32 22 28 19 9 5 11 24 9 4 — 3
+
+Open canopy (percent) 13 26 24 80 23 27 34 25 29 37 19 18 68 30 20 44 43 25 49 18 23
+6 12 24 10 19 50 25 46 46 28 16 31 0
+
+Table B 43
+
+Table C.
+
+44 Aquatic Assemblages and Relation to Temperature Variables, Least-Disturbed Streams, Salmon River Basin, Idaho, 2001
+
+Table C. Water-quality and nutrient data for all sample sites in the Salmon River Basin, central Idaho, 2001
+[Site locations shown ﬁgure 1; site names and characteristics shown in table 1; No., number; sample date, month/day/year; sample time, 24-hour; °C, degrees Celsius; mg/L, milligrams per liter; µS/cm, microsiemens per centimeter; N, nitrogen; P, phosphorus; —, data unavailable; <, less than; E, estimated value reported by laboratory]
+
+Site Sample No. date
+1 8/2/01 2 8/23/01 3 7/26/01 4 7/23/01 5 7/24/01 6 7/25/01 7 7/31/01 8 8/23/01 9 8/24/01 10 8/24/01 11 8/22/01 12 8/23/01 13 7/30/01 14 8/7/01 15 8/1/01 16 9/14/01 17 9/15/01 18 9/17/01 19 9/18/01
+
+Sample time 0830 1420 0900 1630 0800 0900 1000 1000 0900 1000 1400 1200 1200 1000 1000 1700 1600 1300 1600
+
+Water temperature
+°C
+
+Dissolved oxygen (mg/L)
+
+8.0 8.7
+
+12.2 7.9
+
+6.8 9.5
+
+18.3 7.6
+
+9.0 9.1
+
+9.5 9.6
+
+6.5 9.7
+
+8.6 9.5
+
+7.9 8.9
+
+5.9 9.1
+
+10.9 8.7
+
+14.3 8.8
+
+8.5 9.2
+
+12.8 8.3
+
+6.4 9.7
+
+17.9 8.0
+
+15.8 7.3
+
+13.8 8.6
+
+13.5 8.7
+
+Dissolved oxygen
+saturation (percent)
+97 — 100 102 99 105 100 — — 96 92 98 101 — 99 — — — —
+
+pH (standard
+units) 7.8 8.1 8.1 8.4 7.9 8.4 8.2 7.6 6.9 8.0 7.9 8.0 8.2 8.0 8.2 7.8 8.0 8.1 8.0
+
+Speciﬁc conductance
+(µS/cm) 55
+162 37 95 97 148 155 77 33 60 64 81 67 82 108 118 98 126 129
+
+Nitrogen, ammonia, dissolved (mg/L as N) < 0.002
+.014 .002 < .002 < .002 < .002 < .002 .006 .006 .005 < .002 .004 < .002 < .002 < .002 .002 .018 .003 .005
+
+Nitrogen, ammonia +
+organic, total
+(mg/L as N) <0.080
+E.054 E.049 E.052 E.058 E.068 E.054 E.077 E.064 E.076 E.051 E.067 E.042 < .080 E.059
+.376 .647 .128 .453
+
+Nitrite + nitrate, dissolved (mg/L as N) 0.011
+.010 .013 .009 .008 .016 .006 .029 .049 .037 .015 .007 .006 < .005 .007 .009 .087 .009 .010
+
+Phosphorus total
+(mg/L as P) <0.0040
+.0096 E.0025 E.0032
+.0046 .0041 .0278 .0329 .0192 .0175 .0160 .0098 .0039 .0040 E.0028 .1506 .2470 .0133 .1844
+
+Orthophosphorus,
+dissolved (mg/L as P) <0.007
+E.004 <.007 <.007 <.007 <.007 <.007
+.023 .012 .009 .007 < .007 < .007 < .007 < .007 .014 E.005 < .007 < .007
+
+Table C 45
+
+Table C. Water-quality and nutrient data for all sites in the Salmon River Basin, central Idaho, 2001—Continued
+
+Site Sample No. date
+
+Sample time
+
+Water temperature
+°C
+
+Dissolved oxygen (mg/L)
+
+Dissolved oxygen
+saturation (percent)
+
+pH (standard
+units)
+
+Speciﬁc conductance
+(µS/cm)
+
+Nitrogen, ammonia, dissolved (mg/L as N)
+
+Nitrogen, ammonia +
+organic, total
+(mg/L as N)
+
+Nitrite + nitrate, dissolved (mg/L as N)
+
+Phosphorus total
+(mg/L as P)
+
+20 9/19/01 1645
+
+12.3
+
+9.2
+
+— 7.7
+
+84
+
+0.006
+
+0.084
+
+0.024
+
+0.0048
+
+21 9/21/01 1000
+
+12.0
+
+9.8
+
+— 7.8
+
+78
+
+.005 .087 .020 .0104
+
+22 9/21/01 1600
+
+10.1
+
+10.0
+
+— 7.0
+
+50 <.002 .080 .113 .0110
+
+23 8/15/01 1230
+
+13.8
+
+8.7 102
+
+7.9
+
+32 <.002 .098 .005 .0179
+
+24 8/8/01 1000
+
+11.9
+
+9.0
+
+— 7.4
+
+45
+
+< .002
+
+<.080
+
+.009
+
+.0061
+
+25 8/8/01 1200
+
+13.1
+
+8.7
+
+98 8.0
+
+47
+
+.002 E.044 .032 .0244
+
+26 7/19/01 0800
+
+10.7
+
+9.7 103
+
+7.8
+
+43
+
+< .002
+
+E.069
+
+.005
+
+.0045
+
+27 7/16/01 1400
+
+10.7
+
+8.5
+
+94 8.3
+
+111 <.002 .130 .006 E.0029
+
+28 7/17/01 1230
+
+9.2
+
+9.3
+
+99 8.4
+
+113
+
+.005 <.080
+
+.007 <.0040
+
+29 7/18/01 0800
+
+9.6
+
+9.3
+
+99 8.1
+
+73
+
+< .002
+
+E.075
+
+.006
+
+.0047
+
+30 8/14/01 0800
+
+8.5
+
+9.0
+
+97 7.5
+
+27
+
+.009 .097 .006 .0093
+
+31 8/15/01 1030
+
+17.0
+
+8.8
+
+— 7.7
+
+82
+
+.007 .108 .011 .0069
+
+32 8/13/01 1210
+
+16.5
+
+8.6
+
+— 7.6
+
+50
+
+.009 .089 .014 .0099
+
+33 8/16/01 0900
+
+15.8
+
+9.0
+
+— 7.7
+
+72
+
+.003 .162 .030 .0609
+
+34 8/14/01 0900
+
+17.3
+
+8.6
+
+— 7.9
+
+118
+
+.010 .195 .225 .0854
+
+Orthophosphorus,
+dissolved (mg/L as P) < 0.007
+< .007 < .007
+.011 < .007
+.014 < .007 < .007 < .007 < .007 E.004 < .007 E.005
+.044 .073
+
+Ott and Maret—Aquatic Assemblages and Relation to Temperature Variables, Least-Disturbed Streams, Salmon River Basin, Idaho, 2001—U.S. Geological Survey Water-Resources Investigations Report 03 –4076
+
+PriPnrtientdedonornerceyccylceldedpappaeprer
+
+

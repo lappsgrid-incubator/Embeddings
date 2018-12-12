@@ -1,0 +1,839 @@
+r DEPARTMENT G* mt INTERIOR UNITED STATES GEOLOGICAL SURVEY
+
+TO ACCOMPANY OIL AND GAS INVESTIGATIONS CHART OC-84
+
+BOREHOLE GRAVITY SURVEY IN THE DRY PINEY OIL AND GAS FIELD, BIG PINEY-LA BARGE AREA, SUBLETTE COUNTY, WYOMING
+By L. A. Beyer and F. G. Clutsom
+
+Introduction
+This report presents formation density and porosity profiles calculated from a borehole gravity survey made by the U.S. Geological Survey in the Dry Piney oil and gas field in western Wyoming.
+Borehole gravity measurements were used in the Dry Piney unit primarily to determine, with high relative accuracy, the in situ density of large volumes of rock that extend tens to hundreds of feet outward from the drill hole. In some cases, borehole gravity surveys can be analyzed to determine the gravitational effects of rock density anomalies associated with nearby geologic structure that is not penetrated by the drill hole. Remote sensing of geologic structure was not an objective of the Dry Piney survey.
+The borehole gravity method is unique for three important reasons. Unlike other well-logging techniques, borehole gravity measurements depend directly on rock bulk density. The large radius (and volume) of investigation insures that the measurements, for all practical purposes, are unaffected by borehole fluids, borehole rugosity, casing, cement, or the region close to the borehole that may be modified by flushing or invasion by drilling fluids. The method is sensitive to very small variations of formation density (usually 0.005 to 0.04 g/cm3 depending on length of the borehole interval).
+Proven and potential applications of borehole gravity surveys include detection of irregularly distributed porosity, detection of gas and oil zones behind casing, evaluation and recalibration of conventional types of well logs, vertical density profiling for gravity map interpretation and for seismic modeling and analysis, remote detection of geologic structures such as salt domes and ore bodies, large-volume determination of reservoir porosity for reserve estimates, monitoring of reservoir fluid conditions for production evaluation (for example, detection of gas cap coning or water invasion), and porosity evaluation of unconsolidated materials for ground-water and engineering studies.
+The usefulness of borehole gravity measurements for any application depends greatly on the types and quality of independent drill hole, geologic, or geophysical data that are available to assist in the analysis. For example, density profiles calculated for borehole gravity measurements are easily converted to porosity profiles, provided that reasonable assumptions can be made about the pore fluid density and grain density of the rocks. (See the explanations for columns 15 through 18, in supplement at end of this pamphlet.) Relatively small
+
+gravity variations due to remote geologic structure may be hidden in the larger gravity variations due to rock density fluctuations immediately around the borehole. In this case an independent method is needed to estimate the densities of the rocks immediately around the borehole (well logs, core analyses, geologic factors).
+Selected readings on the borehole gravity method include Smith (1950), McCulloh (1966), McCulloh, Kandle, and Schoellhamer (1968), Beyer (1971), Rasmussen (1973), Jageler (1976) and Bradley (1976).
+Acknowledgments. Permission to log the Dry Piney
+Unit No. 19 was given by Mountain Fuel Supply Company, Belco Petroleum Corporation and Exxon Company. The cooperation and help of E. R. Keller, R. Bates, T. M. Colson, P. Brotherton, J. C. Gale, and J^Golden of Mountain Fuel, J. B. Dunnewald of Belco Petroleum, and Steven S. Oriel of the U.S. Geological Survey are gratefully acknowledged. A successful borehole gravity survey is always a team effort, and I am pleased to acknowledge and thank the other members of the field party: N. M. Morgan, K. A. Pisciotto, and N. B. Sasnett.
+The content of this report is the responsibility of the senior author and does not necessarily reflect the opinions of the owners or operator of the well. The junior author was responsible for the maintenance and operation of the borehole gravimeter during the survey.
+Geologic Setting
+The Dry Piney unit is part of the greater Big Piney-La Barge oil and gas producing area that is located along the west margin of the Green River basin where it is overlapped by the Idaho-Wyoming thrust belt. The unit encompasses slightly more than 9 square miles of mountainous terrain in the southern part of T. 28 N., R. 114 W., and the northern half of T. 27 N., R. 114 W., and lies approximately 20 miles southwest of the town of Big Piney (fig. 1). Gas production is obtained from sandstones in the Frontier and Bear River Formations of Cretaceous age, and oil is produced from the Nugget Sandstone of Triassic(?) and Jurassic(?) age along a northwest-southeast-trending anticline (fig. 2).
+The structural setting of the Dry Piney unit has been described by Murray (1960, sections A-A' and B-fi'), Oriel (1969, section A-A') and McDonald (1976, fig. 23). McDonald (1976, p. 117) states:
+"Wells are spudded in overthrust Paleozoics most commonly Mississippian and are drilled through the Darby or Hogsback Thrust into underlying Cretaceous
+
+rocks. The crestal portion of the fold in the Cretaceous is nearly identical in position to the top of an anticlinal feature in the overlaying Cambrian or any other overthrust unit. This fold developed in both the overthrust and subthrust during or subsequent to the final stages of thrusting." Section A -A' (sheet 1) shows that (1) the Hogsback thrust fault closely parallels the bedding of both underlying and overlying units; (2) there are no perceptible faults, except for possible bedding plane faults, within the uppermost 2,000 feet of Cretaceous rocks beneath the Hogsback thrust; and (3) arcuate reverse faulting or thrust slices repeat part of the Cambrian section above the Hogsback fault in at least one well. Further resolution of the structure within the thrust plate will depend on detailed surface geologic mapping, examination of drilling records, and more extensive correlation of well logs. Oriel (1969, p. M24, M26) believes that movement on the Hogsback fault took place during Paleocene time, and he proposes that the thrust plate moved eastward a minimum distance of about 20 miles. According to Oriel, the Hogsback fault rides on claystone of Cambrian age that extends over an area, including the Dry Piney unit, of almost 200 square miles. The discussion by Rubey and Hubbert (1959, p. 193) of the Darby (Hogsback) fault is reviewed in a following section. The stratigraphy of the 15-minute Fort Hill quadrangle that adjoins the Dry Piney unit to the south is described by Oriel (1969, p. M6-M23) and is partly summarized in table 1. These descriptions are valid for the Dry Piney unit, but some of Oriel's estimates of formation thickness have been adjusted to correspond to the thicknesses estimated from well logs and descriptions of ditch samples from wells in the Dry Piney unit; Oriel's original thicknesses are shown in parentheses where adjustments have been made.
+Petroleum Development and Production
+Sustained commercial production of natural gas began in the Dry Piney area in 1957 with the completion of Dry Piney Unit No. 1 in the Frontier Formation. In 1970 oil was discovered in the Nugget Sandstone by the Dry Piney Unit No. 17. Thirteen gas wells now produce from sandstone units at a depth of about 6500 feet in the Frontier Formation. Two of these wells also produce gas from the Bear River Formation at a depth of about 8,200 feet. Eight oil wells produce from the Nugget Sandstone at a depth of about 11,000 feet. The Nugget Sandstone reservoir has a strong water drive, and the shallower reservoirs produce by gas expansion. Cumulative production from the Dry Piney unit through December 1976 was 9,318,786 barrels of oil, 812,981 barrels of water, and 88,702,194 cubic feet of natural gas.
+In 1967 a drill-stem test of 98 feet of the Adaville(?) Formation (Mesaverde Group of some authors) in the Dry Piney Unit No. 2 found no gas or oil. No oil or gas shows have been reported and no drill-stem tests conducted in the thrust plate at the Dry Piney unit.
+
+110 30'
+
+110
+
+109 30*
+
+110°
+
+i
+0
+
+i
+10 105°
+
+a WYOMING -Area of figure 1
+
+20 MILE
+EEXPLANATION Oil field
+Gas field
+
+Figure 1 . Index map of Big Piney-La Barge oil and gas producing area showing location of Dry Piney unit,
+Wyoming.
+
+Reservoir and Hydrocarbon Characteristics
+On the basis of the reservoir and hydrocarbon data of table 2, the in situ densities of the Nugget reservoir oil and water are calculated to be about 0.60 g/cm3 and 1.03 g/cm 3 , respectively. Assuming a reservoir water saturation of 30 percent, an average grain density of 2.66 g/cm3 , and a porosity of 15 percent, the oil reservoir rock is about 0.045 g/cm3 less dense than equivalent rock that is 100 percent saturated with formation water. The gas reservoir rocks and equivalent rocks that are 100 percent saturated with formation water probably display an even greater density contrast.
+These calculations assume that the hydrocarbon- and water-saturated rocks have the same porosity. The hydrocarbon-bearing rocks actually may have higher porosities because hydrocarbons may selectively retard porosity-reducing chemical diagenesis. If so, the density contrast between the oil and gas reservoir rocks and associated water-bearing rocks would be greater than predicted above. Nonetheless, careful borehole gravity measurements should be able to detect these reservoir rocks, or similar ones, provided that they are at least 7 to 10 feet thick and do not contain appreciable thicknesses of argillaceous interbeds.
+
+110 25'
+
+23' 22'
+
+21' R.114W. 11020'
+
+20'
+
+Base from U.S. Geological Survey edition sheets, 1:24,000 Lake Mountain and TheHogsback, 1969
+
+1 KILOMETER
+VA, Vz MILE Contour Interval 40 feet
+EXPLANATION
+Oil or gas well -<{>- Dry hole 18A Borehole gravity survey
+
+JL.^^ Thrust fault
+; Cross section profile A__A' (see sheet 1)
+500 Structure contourInterval SCO feet
+
+Figure 2. Structure contour map of Dry Piney unit. Datum is bentonite marker bed between first and second sandstone, Frontier Formation. Structure contours after McDonald (1976, fig. 19).
+
+Table 1. Generalized stratigraphy of the Dry Piney unit in order penetrated by wells
+
+System
+
+Thickness Unit (feet)
+
+Lithology
+
+Pennsylvanian and Permian
+
+Wells Formation
+
+<450(?)
+
+Mississippian and Amsden Formation Pennsylvanian
+
+400
+
+Mississippian Devonian and
+Mississippian
+Ordovician Cambrian Cambrian
+
+Madison Limestone
+
+Darby Formation (Jefferson and Three Forks of others)
+
+Bighorn Dolomite
+
+|
+
+Gallatin Limestone
+
+(
+
+Gros Ventre Formation Park Shale Member Death Canyon Limestone Member
+
+1,000 (1,100) 400 (500)
+600 (?)
+330 (400 220(120-300)
+
+Mainly calcareous and quartzitic sandstone ; some dolomite
+Mudstone, limestone, dolomite, sandstone; carbonate rocks abundant in lower part
+Limestone, dolomite
+Dolomite, limestone; some claystone, mudstone, siltstone, sandstone
+Dolomite, dolomitic limestone
+Limestone, dolomitic limestone
+Shale; some limestone interbeds Limestone, dolomitic limestone;
+few claystone interbeds
+
+Cretaceous Cretaceous
+
+Adaville (?) Formation (Mesaverde Group)
+
+-Hogsback thrust fault 150-175 (<500)
+
+Milliard Shale (Baxter Shale)
+
+3,300
+
+Nonmarine calcareous sandstone, micaceous and carbonaceous mudstone; some coal
+Marine mudstone; siltstone, sandstone, bentonite interbeds; prominant sandstones near middle of unit
+
+(Borehole gravity survey did not extend below the Milliard Shale)
+
+Table 2. Selected data for the reservoirs and hydrocarbons of the Dry Piney Unit
+
+Characteristic
+Depth ................... Temperature. .............. Pressure. ................. Water saturation ............ Salinity of water ............ API gravity of oil. ........... Gas gravity. ............... Gas oil ratio ............... Condensate production. ....... Formation volume factor (initial) , Average porosity of cores ......
+
+Frontier and Bear River gas reservoirs
+6,500-8,200 feet 140-146° F
+1,000-1,325 psia
+15,000-20,000 ppm (est.) 57° (condensate) 0.65
+6 bbls/mcf gas
+
+Nugget Sandstone oil reservoir
+11,000 feet 200° F
+3,500 psia 30 percent 90,000 ppm
+55°
+1.09 100 (est.)
+1.298 15 percent
+
+Well History and Gravity Logging Program
+
+DISCUSSION
+
+Borehole gravity measurements were made in the Dry Piney Unit No. 19, which is located at a ground elevation of 8,834 feet in sec. 15, T. 27 N., R. 114 W. This well was drilled in 1971 to a total depth of 11,200 feet and completed as an extension well in the intervals 1 1 ,008 to 11,032 feet and 11,054 to 11,064 feet in the Nugget Sandstone. A dual induction-laterolog (spontaneous potential curve and three focused resistivity curves) was run from 995 feet to 11,196 feet. A boreholecompensated gamma-gamma log with gamma-ray and caliper logs was run from 6,500 feet to 11,196 feet. Drill-stem tests of the interval 7,762 to 7,804 feet in the Frontier Formation and 8,107 to 8,207 feet in the Bear River Formation indicated the presence of gas. In September 1975 oil production from the Nugget was suspended owing to high water production.
+Because the Dry Piney Unit No. 19 was completed with 7-inch casing, it was necessary to use the smaller diameter and less pressure-tolerant housing for the borehole gravimeter in order to gain sufficient clearance between the casing and logging tool. A relatively low static fluid level had been predicted, and it was felt that the borehole gravity survey could be conducted safely at least down through the gas sands in the Frontier and Bear River Formations. Accurate evaluation of the density and porosity of these gas zones and comparisons of the density and porosity profiles with the gammagamma and sonic logs were primary objectives. Unfortunately, the fluid level occurred at a much shallower depth than predicted, and the Frontier and Bear River gas sands could not be safely reached. Secondary objectives included a careful examination of the rocks adjacent to the Hogsback fault and porosity estimates of the sandstones in the Adaville(?) Formation and Milliard Shale.
+Presentation of Data
+Tabulation and explanation of the data for the borehold gravity survey are given at the end of this pamphlet. Profiles of interval density and porosity calculated from the borehole gravity survey are given on sheet 2, together with the electric log for the Dry Piney Unit No. 19 and the electric and gamma-gamma logs for the Hogsback Unit No. 36-13. The Hogsback well is located 2 miles east-southeast of the Dry Piney Unit No. 19 (fig. 2) and is the nearest well in which a gamma-gamma log was run over the same stratigraphic interval as the borehole gravity survey. To facilitate discussion of the interval density and porosity profiles on sheet 2, each interval is labeled with its interval number (column 19 of data tabulation). Error bars that represent estimated standard deviation accompany most intervals (columns 14 and 18 of data tabulation).
+
+The interval density profile shows a well-defined boundary between the denser limestone, dolomite, and shale of Paleozoic age above the Hogsback fault and the less dense shale and sandstone of Cretaceou^ age beneath the fault.!/
+The average density of the thrust plate is 2.68 g/cm 3 or, excluding the uppermost interval, 2.71 f/cm 3 . The general increase in density downward to the Hogsback fault probably reflects a gradual decrease in porosity and increase in the relative abundance of dolomite and accessory pyrite. Intervals 5,9, 11, and 15 are notable exceptions to the general increase in density with depth. These intervals correspond to units that are primarily shales, a conclusion that is based on the known stratigraphic sequence, descriptions of well cuttings, and the higher intensities on the gamma-ray log from the Hogsback Unit No. 36-13. Interval 5 probat 'y includes sandstone, siltstone, and mudstone units of the Darby Formation (Jefferson and Three Forks Formations of some authors), whereas intervals 9,10, and 11 correspond to the Park Shale Member of the Gros Ventre Formation, which Oriel (1969, p. M6) describes as about 400 feet of green shale with thin interbeds of limestone and a prominent limestone unit from 100 to 200 feet below the top.
+Intervals 12 through 16 correspond to the Death Canyon Limestone Member, the middle member of the Gros Ventre Formation. Oriel (1969) describes these rocks as gray to brown, very finely to mediumcrystalline limestone, dolomitic limestone and dolomite with a few beds of oolitic limestone, limestone breccia, limestone conglomerate, and green shaley c'aystone. Well cuttings of these rocks from the Dry P ;ney unit are reported to be gray to brown, finely to cryptocrystalline, dense limestone with pyrite and some stylolites or veinlets of calcite. The relatively high density of intervals 13, 14, and 16 suggests that these rocks are dolomitic or pyritic limestone or dolomite with very little porosity.
+Fifty feet or more of the Death Canyon Limestone Member is repeated in a thrust slice located at 2,894 feet. Examination of the expanded-scale dual inductionlaterolog suggests that this thrust slice moved along a claystone bed located between about 2,892 and 2,897 feet. The thrust slice apparently cut out the lower part of this claystone. The claystone is repeated in its entirety between about 2,943 feet and 2,956 feet, and this interval correlates with the claystone bed that is evident between 2,391 feet and 2,400 feet on the well logs of the Hogsback Unit No. 36-13. (Rubey (1973, sheet 1) described a persistent shale bed located between the top and middle parts of the Death Canyon Limestone Member northwest of the Dry Piney unit.) The upper and most of the lower occurrences of this claystone bed in the Dry Piney Unit No. 19 are within interval 15, which probably accounts for tin slightly
+
+Interval density is the gravitational average density of the stratified or massive rocks bracketed by the pair of borehole gravity measurements. In practice, the investigated region extends outward from the borehole for a distance equal to 5 to 10 times the vertical distance between the gravity measurements.
+
+lower density of this interval. The lower density of interval 15 may also be due either to higher porosities caused by brecciation and solution associated with faulting or to smaller amounts of dolomite or pyrite.
+Interval 17 extends from 2,999 feet to 3,010 feet and includes the Hogsback fault, which is reported to be at 3,006 feet. The precise nature of the Hogsback fault surface and breccia in the Dry Piney Unit No. 19 is not known. As stated previously, Oriel believes that the Hogsback fault rides on Cambrian claystone in the Dry Piney unit. Rubey and Hubbert (1959, p. 187) state that the fault breccia is "in most places surprisingly thin" along the Darby fault northwest of the Dry Piney unit. The Darby fault is thought by many to be the northward continuation of the Hogsback fault. Rubey and Hubbert describe one locality where the fault breccia is unlaminated argillite less than 2 feet thick. They also report that "at some places where thick units of limestone, dolomite or quartzite form the hanging wall, the rock is minutely broken and recemented for as much as 50 feet or even 100 feet above the fault surface." Interval 17 probably includes not only the fault surface and breccia but also several feet of the overlying Cambrian carbonate rocks and underlying Cretaceous mudstones and sandstones. All or part of these rocks presumably were cataclastically disrupted during faulting and subsequently recemented.
+Intervals 18 through 24 and part of interval 25 encompass the Adaville(?) Formation, which well logs indicate is about 150 to 175 feet thick in the Dry Piney unit. McDonald (1976, p. Ill) describes the Adaville(?) (Mesaverde Group) as "a Late Cretaceous regression that progressed, in general, from northwest to southeast" and that "may be expected to grade from paludal to littoral-paralic to marine in a northwest-southeast direction." The density fluctuations over intervals 18 through 24 presumably are due to beds of coal, carbonaceous mudstone, poorly cemented sandstone, and denser mudstone and calcareous sandstone.
+Oriel (1969, p. M14) describes the Adaville(?) Formation as "fine- to medium-grained sparsely conglomeratic calcareous sandstone, and . . . partly micaceous and partly carbonaceous mudstone with some coal." Well cuttings collected from directly beneath the Hogsback fault in a nearby drill hole are reported to consist primarily of shale with some sandstone, loose sand, and traces of coal. Sandstone with some shale is described in the cuttings from the lower three-fourths of the Adaville(?) in this well. Cuttings of coal are not reported below the uppermost part of the Adaville(?) beneath the Hogsback fault in this well but are reported from farther below the Hogsback fault in a more distant Dry Piney well.
+In the Hogsback Unit No. 36-13, the Adaville(?) Formation appears to be present from 2,432 feet to 2,600 feet. The caliper log from this well shows extensive caving or washout of the drill hole immediately beneath the Hogsback fault between 2,432 feet and 2,460 feet. Rocks in this interval presumably are poorly consolidated, highly fractured, or both. The gamma-gamma density log from this well is not
+
+quantitatively reliable over this caved or washed-out interval but probably shows correctly that the rocks are less dense than those above and below the internal. The relatively high intensities of the gamma-ray log recorded from 2,439 feet to 2,463 feet suggest that there is more clay in this interval. The relatively low intensities of the gamma-ray log and the extremely low density of the gamma-gamma log over the interval from 2,432 feet to 2,439 feet suggest coal. A coal seam, reported to be 6 feet thick or less, was mined from the Adaville(?) Formation beneath the Hogsback fault in sec. 7, T. 26 N., R. 113 W., 5.2 miles south-southeast of the Hogsback Unit No. 36-13 (Oriel, 1969, p. M34-M35). The well logs from the Hogsback Unit No. 36-13 suggest that the remainder of the Adaville(?) Formation from 2,460 feet to 2,600 feet is composed of consolidated sandstone with shale interbeds. The drill hole is not caved or washed out over this interval, and the gamma-gamma log reliably indicates that these rocks are less dense than the underlying rocks of the Hillmd Shale.
+On the basis of the evidence given above and the character of the dual induction-laterolog of the Dry Piney Unit No. 19, the density fluctuations of intervals 18 through 25 are believed to support, in part, the regressive sedimentation sequence described by McDonald (1976). The very low relative density of interval 18 probably represents mudstone with thin interbeds of coal and poorly consolidated sandstone, all of which may be highly fractured. Interval 18 presumably corresponds to some part of the caved or washed-out interval from 2,432 to 2,460 feet in the Hogsback Unit No. 36-13, although a coal seam 6 or 7 feet thick is not present in the Dry Piney Unit l To. 19. The large increase in density from interval 18 through interval 21 reflects a transition from mudstones with interbeds of coal and sandstone (interval 18) to possibly conglomeratic calcareous sandstone with interbeds of calcareous mudstone (interval 21). The lower relative density of interval 22 may be due to sandstone, less well-cemented than in interval 21, with interbedded mudstone that may be carbonaceous. Intervals 23 and 24 probably are moderately cemented sandstones with a few interbeds of mudstone at the top that gradually become more abundant downward. Interval 25 is mostly mudstone with a few interbeds of sandstone near the top. Intervals 19 through 24 encompass 130 feet of section and presumably correspond to the uncaged interval of the Adaville(?) Formation in the Hogsback Unit No. 36-13 between 2,460 feet and 2,600 feet. The
+regressive sequence of sedimentation began with the increase in sandstone near the top of interval 2f and proceeded through a littoral environment to a coastal swamp environment with deposition of carbonaceous matter in interval 18. The interval densities reflect these lithologic variations fairly well but also reflect my post-depositional processes that have altered bulk rock density.
+Intervals 26 through 42 bracket the upper part of the Hilliard Shale. Oriel (1969, p. Ml3) describes tl ? Hilliard Shale as marine mudstone with interbeds of
+
+siltstone, sandstone, and some bentonite. Rocks that correspond to intervals 26 and 27 are slightly denser than those of the underlying 700 feet of the Milliard Shale. Well cuttings from this part of the Milliard Shale are reported by the unit operator to be generally calcareous to very calcareous with traces of limestone and pyrite. Well cuttings that correspond to intervals 28 and 29 suggest that this part of the Hillard Shale generally is less calcareous, more carbonaceous, and more arenaceous, than the overlying rocks; some well cuttings of sandstone and traces of coal are described by the unit operator. With several exceptions, density increases with depth from interval 30 through interval 39, similar to a compacting sequence of clastic sedimentary rocks. Traces of limestone are reported in well cuttings by the unit operator that correspond to interval 34, which is slightly denser than the intervals above and below it. Intervals 40 and 42 correspond to sandstones and siltstones that have lower densities than the mudstone with which they are associated. Minor amounts of coal or carbonaceous matter also may contribute to the lower densities of these intervals.
+An interval porosity profile is not shown for the thrust plate because grain densities for these rocks could not be estimated accurately from available information.^/ Approximate calculations of porosity, made with a plausible range of grain densities, suggest that the overall porosities of the shales and carbonates below about 500 feet range from 0 to about 3 percent. Intervals of locally higher porosity occur in the carbonate rocks, especially in the Madison Limestone, because drill-fluid circulation occasionally is lost in drilling through this formation. Interval porosities of mudstones that are not carbonaceous range from about 8 to 10 percent in the Adaville(?) Formation and upper part of the Milliard Shale. Interval porosities of sandstones in these formations can be greater than 10 percent and, in some units, may be 15 percent or more.
+CONCLUSIONS AND COMMENTS
+The borehole gravity survey of the Dry Piney Unit No 19 provides accurate and unique (gravimetric) large volume estimates of the in situ density of 3,000 feet of Paleozoic limestone, dolomite, and shale and nearly 2,000 feet of underlying mudstone and sandstone of Cretaceous age that are separated from the Paleozoic rocks by the Hogsback thrust fault.
+The average density contrast is about 0.15 g/cm 3 between Paleozoic rocks above the Hogsback fault and the upper 2,000 feet of Cretaceous rocks beneath this fault. However, the Hogsback fault has juxtaposed individual formations and members of formations whose bulk densities differ by amounts as great as 0.33 g/cm 3 , which is the density contrast between the Adaville(?) Formation and the overlying Death Canyon Limestone Member of the Gros Ventre Formation (fig.3). These
+
+density differences are important for the interpretation of surface gravity maps although their applicability to rocks in other parts of the Big Piney-La E arge area and other regions of the Wyoming-Idaho thrust belt depends on similarity of lithology, age, and burial history.
+
+1000 2000
+
+oc
+500 ut-i
+
+3000 4000
+
+1000
+
+5000 2.4
+
+2.5 2.6
+
+2.7
+
+DENSITY, IN GRAMS PER CUBIC CENTIMETER
+
+1500 2.8
+
+Figure 3. Generalized formation densities from borehole gravity survey in the Dry Piney Unit No. 19. A = Amsden Formation possibly with some overlying Wells Formation, B = Madison Limestone and Darby Formation, C = Bighorn
+Dolomite and Gallatin Group, D = Park Shale Member of the Gros Ventre Formaticn, E = Death Canyon Limestone Member of the Gros Ventre Formation, F = Hogsback thrust fault, G = Adaville (?) Formation, H = upper part of the Hilliard Shale.
+
+The interval density profile has a positive correlation with the lithology, age, and depth of burial of rocks within the thrust and subthrust sections. The general increase in density with depth in the thrust plate corresponds to a decrease in porosity, increase in abundance of dolomite, increase in age, and probably to an increase in abundance of pyrite as an accessory mineral. Shale is less dense than limestone and dolomite in the thrust plate. The Adaville(?) Formation located directly beneath the Hogsback fault is described by McDonald (1976) as a marine regressive sequence. Variations in the interval density profile are believed to correspond to lithologies that range from carbonaceous mudstone with interbedded coal (lowest density) to conglomeratic(?) calcareous sandstone (highest density). Beneath the Adaville(?) Formation, internals of lower density in the Hilliard Shale correspond to marine mudstone that is less calcareous, more carbonaceous, and more arenaceous than the mudstone associated with intervals of higher density. Most sandston0 in the
+
+Interval porosity and interval density are related by a simple equation whose solution requires estimates of the interval pore fluid density and grain density (tabulation and explanation of data from borehole gravity survey). The relatively large standard deviations on the interval porosity profile are due principally to uncertainty in the estimates of grain density.
+
+Adaville(?) Formation and the two prominent sandstone units surveyed in the Hilliard Shale have lower densities than the mudstone with which they are associated. In the subthrust section density increases with depth, reflecting a decrease in porosity due to compaction.
+Qualitative comparison of the interval density profile from the Dry Piney Unit No. 19 and the gamma-gamma density log from the Hogsback Unit No. 36-13 confirms several characteristics of each density logging method: (1) The gamma-gamma density log is a continuous type of log that nearly always gives more detail spatially than the discontinuous density profile calculated from a borehole gravity survey. (2) The gamma-gamma density log usually is not reliable over caved or washed-out intervals of the drill hole because of its shallow radius of investigation. (3) The reliability of the interval density profile is independent of the condition of the drill hole because it is based on a very large radius of investigation. (Note the large differences in measured density between the two types of logs over the shaly intervals of the Gros Ventre Formation in the thrust plate (sheet 2).) (4) The reliability with which interval density can be calculated from borehole gravity measurements depends on the length of the interval densities of short intervals are less reliably known than densities of long intervals. More quantitative comparisons are possible when both types of density logs are run over the same interval in the same borehole.
+Reservoir and hydrocarbon characteristics provided by the operator suggest that the bulk densities of the oil and gas reservoirs in the Dry Piney unit are at least 0.045 g/cm 3 less than the bulk densities of equivalent rocks that are saturated with formation water. This
+density difference is measurable in cased or uncased boreholes with a carefully conducted borehole gravity survey, provided that the reservoirs are at least 10 feet thick. Even though the borehole gravimeter was unable to reach the gas reservoirs of the Frontier and Bear River Formations to verify this conclusion, detection of small density differences over short intervals was demonstrated at shallower depths in the Adaville(?) Formation. The bulk densities of the oil and gas reservoirs in the Dry Piney unit may not differ measurably from those of equivalent water-saturated rocks if they contain abundant interbeds of argillaceous rocks or have suffered water invasion as a result of hydrocarbon production.
+The transmission of acoustic energy through the Hogsback fault and the return to the surface of usable reflections from underlying horizons depend partly on the velocities and densities of the rocks in the thrust plate and immediately beneath it. Approximate calculations of acoustic impedance (the product of interval density and interval velocity) made with the interval density profile of figure 3 and a boreholecompensated sonic log from a well in the Hogsback unit suggest that significant reverberations probably are observed in seismic reflections from subthrust horizons. Well velocity and borehole gravity surveys, by virtue of their analogous examination of large volumes of rock and general insensitivity to borehole effects, provide the ideal acoustic impedance data with which to study the
+
+problems of seismic exploration of the subthrust section. Maintenance of abnormally high porosity by
+unusually high pore fluid pressure is a well-known concept that Rubey and Hubbert (1959, p. 193) used to search for evidence to support their fluid-pressure hypothesis for the mechanics of overthrusting. The^e. authors reported that an outcrop sample of Cambran shale of the Gros Ventre Formation collected from La Barge Mountain about 3 miles east of the Dry Piney urit had a porosity of 11 percent and a water-saturated bulk density of 2.49 g/cm 3 . Samples of Cambrian limestone and Ordovician dolomite collected in the same area by these authors had porosities of 8.6 percent. Rubey and Hubbert concluded that these three porosities were "surprisingly high" and that, if the samples were unweathered, these rocks had not reached the state of compaction that should have been caused by their prior maximum depth of burial. Even if these surface samples were unweathered, which seems unlikely, the porosity history of these rocks probably was obscured by burial diagenesis after cessation of the thrust faulting and loss of the proposed abnormally high pore-fluid pressure. Interval porosities determined in this study for rocks in the thrust plate are not abnormally high, but thr conclusion sheds no light on the pore fluid history of these rocks. Certain claystones in the Death Canyon Limestone Member of the Gros Ventre Formation were intimately involved in the thrust faulting. Further study of these claystones, preferably with drilling records, well logs, and subsurface samples, may provide additional information about the mechanism of overthrusting.
+Oil and gas are produced from sandstone units in the Adaville(?) Formation in many parts of the Big Piney-La Barge area to the east of the Dry Piney unit, and early wells drilled in the Hogsback and Tip Top units encountered high-pressure, low-volume gas in the fractured rocks of the Hilliard Shale (Michael, 1960, p. 211). Although no hydrocarbon production has been found in these rocks in the Dry Piney unit, sufficient porosity for economic accumulations of oil or gas exists in at least some of the sandstones of the Adaville(?) Formation and Hilliard Shale.
+Relatively high porosity and poorly consolidf ted sandstones of Paleocene age are productive in other parts of the Big Piney-La Barge area. Formation evaluation of these types of reservoirs with conventional shallowpenetration, open-hole logs is dependent on the condition of the drill hole and the extent of formation damage caused by drilling. Borehole gravity surveys may be well suited to the evaluation of these types of reservoirs.
+REFERENCES CITED
+Beyer, L. A., 1971, The vertical gradient of gravity in vertical and near-vertical boreholes: U.S. Geo1 Survey open-file Report, 229 p., 50 figs., 14 tables.
+Beyer, L. A. and Corbato, C. E., 1972, A FORTRAN IV computer program for calculating borehole gravity terrain corrections: U.S. Geo. Survey, 30 p., rvailable from Natl. Tech. Info. Service, Springfield, Va., (PB2-08679).
+
+Bradley, J. W., 1976, The commercial application and interpretation of the borehole gravimeter: in Tomorrow's Oil From Today's Provinces, edited by Ronald E. Jantzen, Amer. Assoc. Petrol. Geologist Misc. Pub. 24, p. 98-109.
+Jageler, A. H., 1976, Improved hydrocarbon reservoir evaluation through use of borehole-gravimeter data: Petroleum Technology Jour., v. 28, no. 6, p. 709-718.
+McCulloh, T. H., 1966, The promise of precise borehole gravimetry in petroleum exploration and exploitation: U.S. Geol. Survey Circ. 531, 12 p.
+McCulloh, T. H., Kandle, J. R. and Schoellhamer, J. E., 1968, Application of gravity measurements in wells to problems of reservoir evaluation: Artn. Logging Symposium of Soc. Prof. Well Log Analysts, 9th, June 23-26, 1968, New Orleans, La., Trans., p. 1-28.
+McDonald, R. E., 1976, Big Piney-La Barge producing complex, Sublette and Lincoln Counties, Wyoming, in Braunstein, Jules, ed., North American oil and gas fields: Am. Assoc. Petroleum Geologists Mem. 24, p. 91-120.
+Marzolf, J. E., 1965, Stratigraphy of the Mobil Oil Company Paleozoic test well No. 22-19-G, Tip Top unit, Sublette County, Wyoming: U.S. Geol. Survey open-file Report, 39 p.
+Michael, R. H., 1960, Hogsback and Tip Top units, Sublette and Lincoln Counties, Wyoming: Wyoming Geol. Assoc. Guidebook, 15th Ann. Field Conf., p. 211-216.
+
+Murray, F. E., 1960, An interpretation of tl e Hilliard thrust fault, Lincoln and Sublette Count'es, Wyoming: Wyoming Geol. Assoc. Guidet ook, 15th Ann. Field Conf., p. 181-186.
+Oriel, S. S., 1969, Geology of the Fort Hill quadrangle, Lincoln County, Wyoming: U.S. Geol. Survey Prof. Paper 594-M, p. M1-M38, 2 pis.
+Rasmussen, N. F., 1973, Borehole gravity survey planning and operation: Ann. Logging Symposium Soc. Prof. Well Log Analysts, 14th, May 6-9, 1973, Lafayette, La., Trans., p. Ql-28.
+Rubey, W. W., 1973, Geologic map of the ^fton quadrangle and part of the Big Piney quadrangle, Lincoln and Sublette Counties, Wyoming: U.S. Geol. Surv. Misc. Geol. Inv. Map 1-686, 2 sheets.
+Rubey, W. W. and Hubbert, M. K., 1959, Role of fluid pressure in mechanics of overthrust faulting, II. Overthrust belt in geosynclinal area of western Wyoming in light of fluid-pressure hypothesis: Geol. Soc. America Bull., v. 70, no. 2, p. 167-205.
+Smith, N. J., 1950, The case for gravity data from boreholes: Geophysics, v. 15, no. 4, p. 605-636.
+Taylor, B. N. and Cohen, E. R., 1973, The 1973 least squares adjustment of the fundamental constants: Jour. Physical and Chemical Reference Data, U.S. Natl. Bur. Standards, v. 2, no. 4, p. 663-734.
+
+SUPPLEMENT Tabulation and explanation of data from borehole gravity survey of Dry Piney Unit No. 19
+
+COLUMN 1 Sequential numbers for 43 borehole gravity stations.
+
+COLUMNS 2, 3 & 4
+
+Gravity station elevations and borehole depths that were calculated from cable length measurements and the references
+
+given below. The calibration of the cable measuring sheave is believed to be accurate to 0.03 percent or better, on the
+
+basis of many tests with the well-conditioned logging cable. Elevation and depth data were not corrected for borehole
+
+deviation from the vertical.
+
+Reference
+
+Elevation in feet
+
+Kelly bushing Top of blowout preventer Ground level Uppermost gravity station
+
+8,855.3* 8,838.0**
+8,834.0 8,832.2
+
+* Depth datum for well logs ** Depth datum for borehole gravity survey
+
+COLUMN 5
+Terrain corrections were calculated by the method described by Beyer and Corbato (1972) for topography that extends 103.6 miles outward from the well. The density of the topography was assumed to be 2.67 g/cm^. Corrections for topography are extremely large for the Dry Piney Unit No. 19 because of the mountainous setting of the well. When applied to the calculated interval density profile, these corrections shifted the densities toward more positive values by amounts that ranged from slightly over 0.4 g/cm^ for the uppermost interval to slightly over 0.1 g/cm^ for the lowermost interval.
+
+Terrain corrections for borehole gravity surveys normally are small or negligible.
+
+COLUMNS 6 & 7
+Values of borehole gravity adjusted to an assumed zero value for the uppermost gravity station. These values are corrected for gravimeter calibration, predicted tidal gravity fluctuations, terrain effects, and gravimeter drift as reconstructed from repeated measurements made at a well-head base station and seven downhole stations.
+
+Uncertainty in relative gravity is the sum of the uncertainties associated with (1) repeatability of individual gravimeter readings, (2) evaluation of gravimeter drift corrections and (3) calculation of terrain corrections. In a practical sense, uncertainty as used here can be thought of as the maximum likely variation of a gravity value relative to the values of gravity at the two adjacent borehole gravity stations located above and below the station of consideration. Uncertainty is used as an approximate measure of the standard deviation of relative gravity in the error analysis described
+COLUMNS 8 & 9
+Ag is obtained by forming the difference between successive pairs of values of relative gravity.
+
+Fractional standard deviation of Ag expressed as a percentage is the square root of the sum of the squares of the uncertainties of the relative gravity values divided by Ag. For example, the fractional standard deviation for the first value of Agis
+
+100 /(0.105)2 + (0.013)2 / 11.287 = 0.94 percent
+
+COLUMNS 10 & 11
+Distances between adjacent borehole stations (Az) were determined in one of two ways. Values of Az less than 50 feet
+were measured by taping flagged cable lengths under load between the winch and well-head. Taped Az values are repeatable to the nearest 0.02 feet and are underlined in the tabulation. Values of Az greater than 50 feet were determined from successive odometer readings of the cable-measuring sheave and are repeatable to about 0.15 feet, on the basis of many comparisons with hand-chained cable lengths. It was assumed that cable movement at the ground surface accurately reflected movement of the logging tool in the borehole.
+
+Fractional standard deviation of Az expressed as a percentage is the quotient of the repeatability divided by Az. For example, fractional standard deviation for the first value of Az is
+100(0.15/381.59) = 0.04 percent
+
+and for the seventeenth value of Az is
+
+100(0.02/10.22) = 0.20 percent
+
+COLUMN 12 Gravity difference (Ag) divided by depth difference (Az) is the interval vertical gradient of gravity.
+
+COLUMNS 13 & 14 Interval density (p~) was calculated with the equation
+p- = (l/47Tk)(F-Ag/Az)
+where k is the Newtonian gravitational constant and is equal to 6.6720±0.0041xlO~ 8 cm 3 /g sec- (Taylor and Cohen, 1973) and l/47rk is equal to 39.131±0.024 in units of g/cm 3 , milligals and feet.
+F is the normal free-air vertical gradient of gravity that for the Geodetic Reference System of 1967 is given wit1! sufficient accuracy by the equation
+F = 0.094114 - 0.000134sin20 - 0.0000000134h
+
+where 0 is latitude and h is elevation in feet. F varies from 0.093935 mgal/ft at the well-head gravity station to 0.094001 mgal/ft at the deepest gravity station. Using an average value of 0.093968 mgal/ft for F, the above equation becomes
+p =3.677 -39.131 (Ag/Az)
+
+Interval density between any two borehole gravity stations a and b may be calculated from
+
+p= 3.677 -39.131 (gb - ga)/2Az
+
+g b>g a
+
+where ga and gb are relative gravity at a and b and SAz is the sum of the Az values between a and b.
+
+Standard deviation of interval density expressed in g/cm 3 is the square root of the sum of the squares of the fractional standard deviations of Ag and Az multiplied by interval density. For example, standard deviation of the first interval density is
+/(0.0094)2 + (0.0004)2 (2.518) = 0.024 g/cm3
+
+COLUMNS 15 & 16
+Interval grain densities were estimated from lithologic descriptions that were obtained primarily from cuttings, cores, and well logs from the Dry Piney Unit No. 19 and adjacent wells and secondarily from Marzolf (1965) and Oriel (1969). Estimates of interval grain density are least accurate in those parts of the section where rocks of contrasting mineral densities occur together in uncertain proportions (for example, carbonate and (or) evaporite with shale and sandstone and shale, pyrite in unusual amounts in any rock, chert in carbonate, coal with sandstone or shale). For this reason, no attempt was made to estimate grain density for the intervals above the Hogsback thrust fault where reliable lithologic data are lacking or for the first low-density interval beneath the fault where coal occurs.
+
+10
+
+COLUMNS 17 & 18 Interval porosity was calculated with the equation
+0=100(p -Pg)/(pf-p g) where p = interval density (column 13)
+p~g= interval grain density (column 14) p~f= 1.00 g/cm 3 (assumed interval pore fluid density)
+
+Errors in interval density (p~) and estimated grain density (p~g) introduce errors in calculated interval porosity. For example, erroneously high estimates of grain density result in erroneously high calculated values of porosity and vice versa. On the other hand, erroneously high values of interval density result in erroneously low calculated values of porosity and vice versa. Fractional standard deviations of interval density (column 14) and estimated uncertainty in grain density (column 16), the latter treated as a standard deviation, were used to calculate standard deviation in interval porosity. The fractional standard deviation of the numerator of the porosity equation is equal to the square root of the sum of the squares of the fractional standard deviations of p~ and p~g divided by (p" p"g). The fractional standard deviation of the denominator of the porosity equation is equal to the uncertainty in p~g divided1 by p~g. Then the standard deviation in interval porosity, expressed in porosity percent, is the square root of the sum of the squares of the fractional standard deviations of the numerator and denominator multiplied by the interval porosity. For example, standard deviation for the nineteenth interval porosity is
+
+/C033)2 + (0.04)2 2.436 - 2.66
+
+(0.04)
+2.66
+
+1/2 (13.5) = 3.1 porosity percent
+
+A third source of possible error in interval porosity involves the assumed value of 1.00 g/cm 3 for pore fluid density. If significant amounts of hydrocarbons are present in a given interval, the actual average pore fluid density may be substantially less than 1.00 g/cm 3 . In such cases, use of 1.00 g/cm 3 for pore fluid density results in erroneously high calculated values of interval porosity. For particular intervals where pore fluid density is believed to be significantly different from 1.00 g/cm 3 the following equation may be used to determine the correction to interval porosity
+A0 = [Ap f/ (1 - p g - Ap f) ] (0)
+
+where 0 is the calculated interval porosity expressed in percent (column 17), Ap~f is 1.00 minus true pore fluid density, and A0 is the error in calculated porosity expressed in porosity percent. For example, the interval porosity of 11.6 percent for interval 40 would be 9.3 percent if, because of the presence of hydrocarbons, the actual pore fluid density were 0.60 g/cm3 instead of the assumed value of 1.00 g/cm 3 .
+
+COLUMN 19
+
+Sequential numbers for 42 intervals.
+
+COLUMN 20
+* The larger uncertainties in relative gravity for these uppermost six stations are due to possibly significant inaccuracies in the terrain corrections.
+
+# The unusually low interval density is due to coal within this interval.
+
+11
+
+BOREHOLE STATION DATA
+
+BOREHOLE INTERVAL DATA
+
+f' /
+1[ 2
+1 8832.2 2 8450.6 3 8045.6 4 7605.7 5 7255.2 6 7055.7 7 6855.8 8 6655.8 9 6481.4 10 6325.9 11 6285.8 12 6146.8 13 6096.8 14 6055.6 15 5966.0 16 5906.0
+18 5845.7 19 5835.8 20 5825.9 21 5815.9 22 5805.9 23 5775.9 24 5755.8 25 5705.8 26 5655.7 27 5455.5 28 5255.7 29 5055.7 30 4855.4 31 4655.5 32. 4560.8 33 4445.8 34 4383.6 35 4331.6 36 4234.6 37 4155.8 38 4085.8 39 4061.7 40 4011.2 41 3984.8
+43 3901.4 1j 2
+
+5.8 387.4 792.4 1232.3 1582.8 1782.3 1982.2 2182.2 2356.6 2512.1 2552.1 2691.2 2741.1 2782.4 2872.0 2932.0
+
+23.1 404.7 809.7 1249.6 1600.1 1799.6 1999.5 2199.5 2373.9 2529.4 2569.4 2708.5 2758.4 2799.7 2889.3 2949.3
+
+/ 5
+
+/
+6
+
+5.023 0.0
+
+0.254 11.287
+
+-3.077 22.003
+
+-5.633 33.205
+
+-7.250 41.941
+
+-fl.069 47.059
+
+-8.837 51.878
+
+-9.562 56.537
+
+-10.165 60.640
+
+-10.684 64.518
+
+-10.815 65.479
+
+-11.263 68.669
+
+-11.421 70.032
+
+-11.550 70.958
+
+-11.828 72.961
+
+-12.011 74.429
+
+/" ' /
+
+78
+
+.105 .013 .067 .033 .014 .008 .003 .004 .004 .003 .003 .003 .003 .003 .003 .003
+
+11.287 10.716 11.202
+8.736 5.118 4.819 4.659 4.103 3.878 0.961 3. 390 1.163 0.926 2.003 1.468 1.123
+
+,' 9
+0.94 0.64 0.67 0.41 0.32 0.18 0.11 0.14 0.13 0.44 0.13 0.36 0.46 0.21 0.29 0.38
+
+V*
+10
+381 .59 405.05 439,86 350.48 199.53 199.93 199.93 174.39 155.54
+40.05 139.07
+49.93 41.26 89.59 59.96 50.16
+
+/ II
+0.04 0.04 0.03 0.04 0.08 0.08 0.08 0.09 0.10 0.05 0.11 0.04 0.05 0.17 0.25 0.04
+
+/ 12
+
+/x 13
+
+/> 14 15
+
+.02958 .02646 .02547 .02493 .02565 .02410 .02330 .02353 .02493 .02399 .02438 .02329 .02244 .02236 .02449 .02238
+
+2.518 .024 0.0 2.641 .017 0.0 2.680 .018 0.0 2.701 .Oil 0.0 2.673 .009 0.0 2.734 .005 0.0 2.765 .004 0.0 2.756 .004 0.0 2.701 .004 0.0 2.738 .012 0.0 2.723 .004 0.0 2.766 .010 0.0
+2.799 .013 o.o
+2.802 .008 0.0 2.719 .010 0.0 2.801 .011 0.0
+
+/ -0 *» v/
+
+/ X/
+
+/
+
+16 17 1 8 19 20
+
+.0 0.0 0. 0 1 * .0 0.0 0. 0 2 * .0 0.0 0. 0 3 * .0 0.0 0. 0 4 * .0 0.0 0. 0 S * .0 0.0 0. 0 6 * .0 0.0 0. 0 7 .0 0.0 0. 0 8 .0 0.0 0. 0 9 .0 0.0 0. 0 10 .0 0.0 0. 0 11 .0 0.0 0. 0 12 .0 0.0 0. 0 13 .0 0.0 0. 0 14 .0 0.0 0, 0 15 .0 0.0 0. 0 16
+
+.003
+
+-12.224 76.164 .003
+
+3012.1 3029.4 -12.254 76.477 .003
+
+3022.1 3039.4 -12.284 76.773 .003
+
+3032.1 3062.1
+
+3049.4 -12.314 77.054 .003 3079.4 -12.404 78.032 .003
+
+3082.2 3132.2
+
+3099.5 -12.464 78.647 .003 3149.5 -12.612 80.205 .003
+
+3182.3 3199.6 -12.759 81.654 .003
+
+3382.5 3582.3 3782.3 3982.5 4182.5 42?7.2 4392.2 4454.4 4506.4
+
+3399.8 -13.337 87.400 .003 3599.6 -13.898 93.138 .003 3799.6 .14.444 99.002 .003 3999.8 -14.977 104.864 .003 4199.8 -15.496 110.656 .003 4294.5 -15.738 113.394 .003 4409.5 -16.028 116.695 .003 4471.7 -16.183 118.487 .003 4523.7 -16.311 119.947 .003
+
+4603.4 4682.2 4752.2 4776.3 4826.8 4853.2
+
+4620.7 -16.549 122.715 .003 4699.5 -16.741 124.947 .003 4769.5 -16.910 126.928 .003 4793.6 -16.967 127.602 .003 4844.1 -17.088 129.009 .004 4870.5 -17.150 129.819 .003
+
+130.934 .004
+4936.6 4953.9 -17.347 132.234 .003 3 14 e 6 7
+
+0.268 1.58 10.22 0.20 .02623
+
+0.344 1.23 9.88 0.20 .03482
+
+0.313 1.36 9.87 0.20 .03171
+
+0.296 1.43 10.04 0.20 .02947
+
+0.281 1.51
+
+9.93 0.20 .02830
+
+0.978 0.43 30.00 0.07 .03260
+
+0.615 0.69 20.13 0.10 .03055
+
+1.558 0.27 50.05 0.04 .03113
+
+1.449 0.?9 50.09 0.04 .02893
+
+5.746 0.07 200.13 0.07 .02871
+
+5.738 0.07 199.83 0.08 .02871
+
+5.864 0.07 200.03 0.07 .02932
+
+5.862 0.07 200.23 0.07 .02928
+
+.02897
+
+2.738 0.15 94.68 0.16 .02892
+
+3.301 0.13 115.03 0.13 .02870
+
+1.792 0.24 62.25 0.24 .02879
+
+1.460 0.29 51.98 0.29 .02809
+
+2.768 0.15 96.97 0.15 .02855
+
+2.232 0.19 78.82 0.19 .02831
+
+1.981 0.21 70.03 0.21 .02829
+
+0.674 0.63 24.04 0.08 .02804
+
+1.407 0.36 50.51 0.04 .02785
+
+0.8)0 0.62 26.38 0.08 .03070
+
+1.115 0.45 39.47 0.05 .02825
+
+1.300 0.38 43.92 0.05 .02960
+
+8 9 10 II 12
+
+2.651 .042 0.0 .0 0.0 0. 0 17
+
+2.315 .029 0.0 .0 0.0 0. 0 18 # 2.436 .033 2.66 .04 13.5 3. 1 19
+
+2.524 .037 2.68 .03 9.3 2. 8 20
+
+2.570 .039 2.69 .03 7.1 2. 9 21
+
+2.402 .011 2.66 .04 15.6 2. 5 22
+
+2.482 .017 2.67 .03 11.3 2. 1 23
+
+2.459 .007 2.66 .04 12.1 2. 5 24
+
+2.545 .008 2.68 .03 8.0 1. 8 25
+
+2.554 .003 2.69 .03 8.0 1. 8 26
+
+2.554 .003 2.69 .03 8.1 1. 8 27
+
+2.531 .003 2.68 .03 8.9 1. 8 28
+
+2.532 .003 2.68 .03 Z.544 .003 2.69 .03
+
+8.8 1. 8 29 8.6 1. 8 30
+
+2.546 .006 2.69 .03 8.5 1. 8 31
+
+2.555 .005 2.69 .03 8.0 1. 8 32
+
+2.552 .009 2.69 .03 8.2 1. 8 33
+
+2.579 .011 2.69 .03 6.6 1. 9 34
+
+2.561 .006 2.69 .03 7.6 1. 8 35
+
+2.570 .007 2.69 .03 7.1 1. 8 36
+
+2.571 .008 2.69 .03 7.0 1. 8 37
+
+2.581 .016 2.69 .03 2.588 .009 2.69 .03 2.477 .015 2.67 .03
+
+6.4 2. 0 6.0 1. 9 11.6 2. 0
+
+38 39 40
+
+2.573 .012 2.69 .03 2.520 .010 2.67 .03
+
+6.9 1. 9 41 9.0 1. 9 42
+
+13 14 15 16 17 1 3 19 20
+
+12
+
+SUPPLEMENT: Explanation and Tabulation of Data From Borehole Gravity Survey of Dry Pin^y Unit No. 19
+
+COLUMN 1
+
+Sequential numbers for 43 borehole gravity stations.
+
+COLUMNS 2, 3 & 4
+
+Gravity station elevations and borehole depths were calculated from cable length measurements and the references given below. The calibration of the cable measuring sheave is believed to be accurate to 0.03 percent or better, based on many tests with the well-conditioned logging cable. Elevation and depth data were not corrected for borehole deviation from the vertical.
+
+Reference Kelly bushing Top of blowout preventer Ground level Uppermost gravity station
+
+Elevation in feet 8,855.3 * 8,838.0 ** 8,834.0 8,832.2
+
+* Depth datum for well logs. ** Depth datum for borehole gravity survey.
+
+COLUMN 5
+i _^ Terrain corrections were calculated by the method described by Beyer and Corbato (1972) for topography that extends 103.6 miles outward from the well. The density of the topography was assumed to be 2.67 g/cm . Corrections for topography are extremely large for the Dry Piney Unit No. 19 because of the mountainous setting of the well. When applied to the calculated interval density profile, these corrections shifted the densities toward more positive values by amounts that ranged from slightly over 0.4 g/cm for the uppermost interval to slightly over 0.1 g/cm for the lowermost interval. Terrain corrections for borehole gravity surveys normally are small or negligible.
+COLUMNS 6 & 7
+
+Values of borehole gravity adjusted to an assumed zero value for the uppermost gravity station. These values are corrected for gravimeter calibration, predicted tidal gravity fluctuations, terrain effects, and gravimeter drift as reconstructed from repeated measurements made at a wellhead base station and seven downhole stations.
+Uncertainty in relative gravity is the sum of the uncertainties associated with (1) repeatability of individual gravimeter readings, (2) evaluation of gravimeter drift corrections, and (3) calculation of terrain corrections. In a practical sense, uncertainty as used here can be thought of as the maximum likely variation of a gravity value relative to the values of gravity at the two adjacent borehole gravity stations located above and below the station of consideration.
+COLUMNS 8 & 9
+Ag is obtained by forming the difference between successive pairs of values of relative gravity. Uncertainty in Ag is the sum of the uncertainties of the relative gravity values used to determine Ag.
+
+COLUMNS 10 & 11
+Distances between adjacent borehole stations (Az) were determined in one of two ways. Values of Az less than 50 feet were measured by hand-chaining flagged cable lengths under load between the winch and wellhead. Hand-chained Az values are repeatable to the nearest 0.02 feet and are underlined in the tabulation. Values of Az greater than 50 feet were determined from s'.\ccessive odometer readings of the cable measuring sheave and are repeatable to about 0.15 fe^t, based on many comparisons with hand-chained cable lengths. It was assumed that cable movement at the ground surface accurately reflected movement of the logging tool in the borehole.
+
+COLUMN 12
+Gravity difference (Ag) divided by depth difference (Az) is the interval vertical gradient of gravity.
+
+COLUMNS 13 & 14
+
+Interval density (p) was calculated with the equation
+
+p = (l/47rk) (F - Ag/Az)
+where k is the Newtonian gravitational constant and is equal to 6.6720 +_ 0.0041 x 10 -8 cm3 /g sec 2 (Taylor and Cohen, 1973 and l/4Trk is equal to 39.131 +_ 0.024 in units of g/cm3 , milligals, and feet. F is the normal free-air vertical gradient of gravity that for the Geodetic Reference System of 1967 is given with sufficient accuracy by the equation
+2 F = 0.094114 - 0.000l34sin <j> - 0.0000000l34h
+
+where <J> is latitude and h is elevation in feet. F varies from 0.093935 mgal/ft at the wellhead gravity station to 0.094001 mgal/ft at the deepest gravity station. Using an average value of 0.093968 mgal/ft for F, the interval density equation becomes
+
+p = 3.677 - 39.131(Ag/Az)
+
+Interval density between any two borehole gravity stations a and b may be calculated from
+
+p = 3.677 - 39.131 (g,b - gaJ/ZAz gb>ga where ga and gb are relative gravity at a and b and ZAz is the sum of Az values between a r.nd b.
+
+A sample measure of the uncertainty in interval density expressed in g/cm is the difference between interval densities calculated with and without the uncertainties in Ag and Az.
+
+39.131 Ag - Age_rr_o_r
+Az + Azerror
+
+Ag g/cm3
+Az
+
+For example, the uncertainty in the first interval density is
+
+39 -
+
+COLUMNS 15 & 16
+
+Interval grain densities were estimated from lithologic descriptions that were obtained primarily from cuttings, cores and well logs from the Dry Piney Unit No. 19 and adjacent wells and secondarily from Marzolf (1965) and Oriel (1969). Estimates of interval grain density are least accurate in" those parts of the section where rocks of contrasting mineral densities occur together in uncertain proportions (for example, carbonate and (or) evaporite with shale and sandstone, pyrite in unusual amounts in any rock, chert in carbonate, coal with sandstone and shale). For this reason, no attempt was made to estimate grain density for the intervals above the Hogsback thrust fault where reliable lithologic data are lacking or for the first-low density interval beneath the fault where coal occurs.
+COLUMNS 17 & 18
+
+Interval porosity was calculated with the equation:
+
+<f> = 100 (p - P >/<P f - P )
+
+where p = interval density (column 13) p = interval grain density (column 15)
+
+p = 1.00 g/cm (assumed interval pore fluid density)
+
+Uncertainties in interval density and estimated grain density introduce uncertainties in calculated interval porosity. For example, erroneously high estimates of grain density result in erroneously high calculated values of porosity and vice versa. On the other hand, erreoneously high values of interval density result in erroneously low calculated values of porosity and vice versa. Generally, the largest deviation in calculated porosity occurs when the uncertainty in interval density_(p error ) is added to p and the uncertainty in grain density (pgerror) i-s subtracted from pg in the porosity equation. Following this procedure, a simple measure of the uncertainty in interval porosity is the difference between porosities calculated with and without p error and pgerror
+
+(p + p error ) " (pg " pgerror )
+
+= 100 error
+
+P f - (p g - ~
+
+'
+
+porosity percent
+
+For example, the uncertainty in the nineteenth interval porosity is
+
+100
+
+(2.436
+
++
+
+0.026..)
+
+(2
+
+.
+
+6(62.6..6
+
+Q
+
+- 0.04) . 04)
+
+- 0n.1n3o5c =3,.80 poroszty percent
+
+A third source of possible error in interval porosity involves the assumed value of 1.00 g/cm for pore fluid density, if significant amounts of hydrocarbons are present in a given interval, the actual average pore fluid density may be substantially less than 1.00 g/cm3 . In ruch cases, use of 1.00 g/cm3 for pore fluid density results in erroneously high calculated valuer of interval porosity. For particular intervals where pore fluid density is believed to h<=> significantly different from 1.00 g/cm3 the following equation may be used to determine the correction to interval porosity;
+
+A<f> = Ap f/(l - P g - Ap f )
+<j> is the calculated interval porosity expressed in percent (column 17) , Ap,. is 1.00 minus x.rue pore fluid density, and A<J> is the error in calculated porosity expressed in porosity percent. For example, the interval porosity of 11.6 percent for interval 40 would be 9.3 percent if, because of the presence of hydrocarbons, the actual pore fluid density were 0.60 g/cm instead of the assumed value of 1.00 g/cm .
+
+COLUMN 19
+Sequential numbers for 42 intervals.
+COLUMN 20
+*The larger uncertainties in relative gravity for these uppermost six stations are due to possibly significant inaccuracies in the terrain corrections. #The unusually low interval density is due to coal within this interval.
+
+BOREHOLE STATION DATA
+
+BOREHOLE INTERVAL DATA
+
+12
+1 8832.2
+
+31 5.8
+
+«1 23.1
+
+"\ 5.02 3
+
+6 0.0
+
+\ *7 8 9 10 1 II
+. 05
+n.2«7 .11S 381.59 0.15 .02958
+
+,'«13 14 15
+2.518 .013 0.0 .0
+
+17 8 | 19 | 20 0.0 0 .0 1 »
+
+10.716 .OHO 405.05 0.15 .02646 2.641 .008 0.0 .0 3 8045.6 792.4 809.7 -3.07 7 22.003 . 67
+11.202 .100 439.86 0.15 .02547 2.680 .009 0.0 .0 4 7605.7 1232.3 1249.6 -5.63 3 33.205 . 33
+
+0.0 0 .02* 0.0 0 .03*
+
+5 7255.2 1582. 8 1600.1 -7.25 3 41.941 . 14 5.118 .022 199.53 0.15 .02565 2.673 .005 o.o .0
+4.819 .011 199.93 0.15 .02410 2.734 .003 0.0 .0 7 6655.8 1962.2 1999.5 -8.83 1 51.676 . 03
+4.659 .007 199.93 0.15 .02330 2.765 .002 0.0 .0 8 6655.8 2182.2 2199.5 -9.56 > 56.537 . 04
+4.103 .008 174.39 0.15 .02353 2.756 .003 0.0 .0
+
+0.0 0 .0 5 * 0.0 0 .06*
+0.0 0 .0 7 0.0 0 .0 8
+
+3.878 .007 155.54 0.15 .02493 2.701 .003 0.0 .0 0.0 0 .0 9
+
+0.961 .006 40.05 0.02 .02399 2.738 .006 0.0 .0 11 6285.8 2552.1 2569.4 -10.61 5 65.479 . 03
+3.390 .006 139.07 0.15 .0243A 2.723 .003 0.0 .0
+
+0.0 0 .0 10 0.0 0 .0 11
+
+1.163 .006 49.93 0.02 .02329 2.766 .003 0.0 .0 0.0 0 .0 12
+
+0.926 .006 41.26 0.02 .02244 2.799 .006 0.0 .0 0.0 0 .0 13
+
+14 6055.6 2782.4 2799.7 -11,55 S 70.958 . 03
+
+2.003 .006 69.59 0.15 .02236 2.802 .004 0.0 .0 0.0 0 .0 14
+
+15 5966.0 2872.0 2889.3 -11.82 5 72.961 ,C 03
+
+1.466 .006 59.96 0.15 .02449 2.719 .006 0.0 .0 0.0 0 .0 15
+
+16 5906.0 2932.0 2949.3 -12.01 74.429 .( 03
+
+1.123 .006 50.16 0.02 .02238 2.801 .005 0.0 .0 17 5855.9 29B2.1 2999.4 -12.16 75.552 .( 03
+
+0.0 0 .0 16
+
+0.268 .006 10.22 0.02 .02623 2.651 .025 0.0 .0 0.0 0 .0 17
+
+16 5845.7 2992.3 3009.6 -12.19 . 75.820 ,C 03
+
+0.344 .006 9.88 0.02 .03482 2.315 .026 0.0 .0 0.0 0 .0 IB *
+
+19 5835.8 3002.2 3019.5 -12.22 » 76.164 .( 03
+
+0.313 .006 9.87 0.02 .03171 2.436 .026 2.66 .04 13. 5 3 .8 19
+
+20 5825.9 3012.1 3029.4 -12.25 » 76.477 .( 03
+
+0.296 .006 10.04 0.02 .02947 2.524 .026 2.68 .03 9.3 3 .2 20
+
+21 5615.9 3022.1 3039.4 -12.26't 76.773 .C 03
+
+0.281 .006 9.91 0.02 .02830 2.570 .026 2.69 .03 7.1 3 .2 21
+
+0.97fl .006 30.00 0.02 .03260 2.402 .009 2.66 .04 15.6 2 .6 2?
+
+0.615 .006 20.13 0.02 .03055 2.482 .013 2.67 .03 11.3 2 .4 23
+
+1.558 .006 50.05 0.02 .03113 2.459 .005 2.66 .04 12.1 2 .5 24 2b 5705.8 3132.2 3149.5 -12.61 > 80.205 . 03
+1.449 .006 50.09 0.02 .02893 2.545 .005 2.68 .03 8.0 2 .0 25
+
+5.746 .006 200.13 0.15 .02871 2.554 .002 2.69 .03 8.0 1 .8 26
+
+5.738 .006 199.83 0.15 .02871 2.554 .002 2.69 .03 S.I 1 .8 27 26 5255.7 3562.3 3599.6 -13. B9 9 93.138 . 03
+5.864 .006 200.03 0.15 .02932 2.531 .002 2.68 .03 8.9 1 .8 28
+
+5.662 .006 200.23 0.15 .02928 2.532 .002 2.68 .03 8.6 1 .8 29
+
+5.792 .006 199.93 0.15 .02897 2.544 .002 2.69 .03 8.6 1 .8 30
+31 4655.5 4182.5 4199.8 -15.49 i 110.656 .( 03 2.738 .006 94.68 0.15 .02892 2.546 .004 2.69 .03 a.s i .9 31
+3.301 .006 115.03 0.15 .02870 2.555 .004 2.69 .03 a.o i .9 32
+
+1.792 .006 62.25 0.15 .02879 2.552 .006 2.69 .03 8.2 2 .0 33 34 4383.6 4454.4 4471.7 -16.18 3 118.487 . 03
+1.460 .006 51.98 0.15 .02809 2.579 .008 2.69 .03 6.6 2 .2 34 35 4331.6 4506.4 4523.7 -16.31 119.947 . 03
+2.768 .006 96.97 0.15 .02855 2.561 .004 2.69 .03 7.6 1 .9 35
+
+2.232 .006 78.82 0.15 .02831 2.570 .005 2.69 .03 7.1 2 .0 36 37 4155.8 4682.2 4699.5 -16.74 124.947 . 03
+1.9*1 .006 70.03 0.15 .02829 2.571 .006 2.69 .03 7.0 2 .0 37
+
+0.674 .006 24.04 0.02 .02604 2.581 .011 2.69 .03 6.4 2 .3 38
+
+1.407 .007 50.51 0.02 .02785 2.588 .006 2.69 .03 6.0 2 .1 39 40 4011.2 4626.6 4844.1 -17.08 9 129.009 . 04
+0.810 .007 26.38 0.02 .03070 2.477 .011 2.67 .03 11.6 i .3 40
+41 39B4.8 4853.2 4870.5 -17.15 9 129.819 . )03 1.115 .007 39.47 0.02 .02625 2.573 .007 2.69 .03 6.9 2 .1 41
+
+1.300 .007 43.92 0.02 .02960 2.520 .007 2.67 .03 9.0 2 .1 42
+
+12
+
+3
+
+4
+
+5
+
+6
+
+r 8 9 10 | II 12
+
+13 14 15 16 17 8 19 j 20
+
+U. S. GOVERNMENT PRINTING OFFICE : 1978 O - 278-6
+
+278-688 O - 78 - 2
+
+

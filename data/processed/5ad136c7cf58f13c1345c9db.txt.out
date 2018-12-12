@@ -1,0 +1,651 @@
+ecological economics content list available sciencedirect ecological economics journal homepage www elsevier com locate ecolecon analysis the dynamic human environment interaction collapse classic maya sabin roman erika palmerc markus bredea institute complex system simulation university southampton agent interaction complexity group school electronics computer science university southampton challenge advanced democracy chad research group department comparative politics university bergen norway 
+abstract study investigate societal development maya southern lowlands span approximately year explore whether societal dynamic link depletion natural resource explain rise fall classic maya 
+propose dynamical system model account state land population worker employ swidden intensive agriculture monument building 
+optimisation model output empirical data ﬁxes biometric parameter value consistent literature require shift swidden intensive agriculture take place around 
+the latter prediction consistent date begin late classical period 
+thus model oﬀers explanation collapse society maya suggest role drought may overestimate 
+consistent previous work collapse model critical transition supercritical hopf bifurcation critical parameter harvest rate per caput intensive agriculture 
+furthermore extensive sensitivity analysis indicate model prediction robust 
+introduction the collapse classic maya subject considerable focus publish literature many diﬀerent hypothesis propose regard underlie cause driver collapse tainter aimers turner sabloﬀ 
+important check degree narrative consistent historical record require mathematical computational modelling turchin 2003b 
+beyond occam razor need apply mean check simple hypothesis enough explain collapse 
+simple hypothesis enough help put complex explanation perspective 
+the aim study explore whether nonlinear dynamical system focus socio environmental feedback account observe data maya civilisation 
+present study identify quantify key feedback mechanism socio environmental system lowland classic maya building model capture diﬀerent specialisation majority population link resource abundance environment number monument built time 
+show less intensive swidden agriculture would remain dominant method food production rapid 
+increase population level occur around concomitant extent monument construction would take place 
+numerically determine match model output archaeological record require assumption change farm practice less intensive agriculture around year 
+this change eventually lead severe depletion agricultural resource largely account steep drop population number around year 
+hence ﬁnd onward increase spread intensive agricultural practice account observed archaeological record maya society reconstruct demographic data folan 
+monument building rate report erickson 
+similar fashion work anderies carry extensive sensitivity test ensure robustness ﬁndings 
+addition change assumption precipitation level also analyse impact drought ﬁnd dynamical model reproduce historical data without assume reduction precipitation 
+best knowledge present work provide ﬁrst robust mathematical model maya society accurately reproduce historical trend regard population growth present folan 
+building rate monument 
+correspond author institute complex system simulation university southampton 
+mail address sr10g13 soton roman 
+http doi org ecolecon receive april receive revised form september accept november available online november the author 
+publish elsevier 
+this open access article license http creativecommons org license 
+ecological economics 
+find work erickson also available tainter 
+the collapse understand driven critical transition system supercritical hopf bifurcation critical parameter harvest rate per caput intensive agriculture 
+importantly consistent previous ﬁndings regard easter island roman generalise conclusion collapse model certain type critical transition 
+the collapse thus understood endogenous process socio environmental system question importance contingent event catastrophic drought 
+our model thus suggest sociocultural process might lead widespread permanent adoption intensive agriculture key driver rapid growth expansion maya civilisation start late classic period well cause later decline 
+important note give vast array potential aspect study regard classic maya aim model give accurate representation potential factor 
+furthermore deﬁnition societal collapse applies maya issue ongoing debate aimers 
+rather address occam razor type question investigate small set interlocking factor could potentially account available data maya society particular signiﬁcant decline population monument construction occur 
+the paper organise follow 
+section highlight main theory regard collapse classic maya provide review quantitative mathematical computational modelling regard 
+follow section present parsimonious model maya society human environment interaction 
+the result model analysed section demonstrate excellent match empirical data evolution crude growth rate population level build rate 
+finally provide summary result section 
+the result complement two appendix appendix include simpliﬁed mathematical treatment critical transition undergo model propose appendix present detailed sensitivity analysis 
+literature review hypotheses collapse maya generally separate two category socio political class conﬂict hamblin pitcher chase chase inter site warfare webster inomata change trade route demarest pathological ideological system dornan mansky dun environmentally relate include soil erosion beach dun anselmetti volcanic activity gill keating tankersley deforestation oglesby mcneil disease acuna soto climate change induce drought hodell haug hodell gill webster medina elizalde medina elizalde rohling kennett douglas 
+concomitant present day concern climate change drought hypothesis maya collapse receive signiﬁcant attention recent year 
+strong case make climate change drought main contributing factor towards collapse lowland classic maya however single factor explanation collapse misrepresent underlying complexity maya socioenvironmental system show wide range diverse feature space time aimers dun turner sabloﬀ 
+some researcher skeptical regard signiﬁcance drought episode context maya collapse robichaux aimers hodell dun 
+argue need integrate understanding sociocultural process along environmental constraint 
+this view 
+support robichaux highlight initial sign collapse also present water advantage area 
+distinguish two possibility explain observe isotope concentration lake salpetén guatemala either great aridity decrease water intake lake due forest recovery implies previous deforestation 
+aimers hodell point climate data highly localise prohibits generalise across length scale several thousand mile 
+also even though experimental method provide annual resolution data collection guarantee annual accuracy 
+furthermore calibration proxy actual rainfall necessarily exact 
+luzzadder beach 
+show site abandonment occur even wetlands eﬀects drought signiﬁcant 
+reassess conclusion hodell 
+determine methodological artefact cast doubt drought cycle hypothesis 
+while drought water scarcity certainly play role dynamic maya society socio cultural process least equally important quantiﬁed aimers hodell 
+numerical model dynamic maya society quantitative modelling dynamic maya society sparse history begin early model propose hosler 
+develop within framework system dynamic forrester 
+the model attempt capture mathematical form best historical knowledge understanding time maya coyle 
+the model manage use variable despite complexity model realism debatable predicts average life span year maya many building monument despite lack available food 
+noted sharer timescales dynamic model output consistent actual data 
+hamblin pitcher incorporate diﬀerent hypotheses one equation model regard monument building maya sit ﬁnd class conﬂict hypothesis collapse ﬁts data best 
+compare hosler 
+model hamblin pitcher much simpler attempt cast explanation collapse mathematical form point way next generation collapse model low 
+despite good data model lack good conceptual mathematical element mathematical relationship use support completely diﬀerent view collapse low 
+furthermore model lack feedback variable therefore simple capture enough systemic feature maya society provide accurate description least allow univocal interpretation 
+several system dynamic model similar spirit hosler 
+recently develop 
+the focus model demographical evolution maya forest bueno forest 
+while model attempt capture societal feedback feature maya society validity questionable 
+the model forest conclude either involvement warfare climatic variation suﬃcient account collapse 
+however model forest show population close maximum population level undergo boom bust cycle year result forest show collapse population cycle year 
+both outcome inconsistent reconstruct time series archaeological record folan 
+contrast model bueno show qualitative agreement archaeological data overall trend population level 
+however model propose bueno highly sensitive parameter change 
+critical parameter fraction population engage warfare 
+above certain threshold enough people would available harvest 
+ecological economics 
+produce food lead collapse 
+such high sensitivity behaviour base single parameter unrealistic suggests society could avert collapse slightly reduce army 
+more recently kuil 
+developed dynamical socio hydrological model examine impact water scarcity maya classic period 
+main result simulation modest reduction precipitation could lead reduction population 
+nevertheless point population density sensitivity crop variation precipitation may equally important role 
+the model ﬁndings consistent archaeological record population growth decline 
+however kuil 
+recognise model outcomes show sensitivity parameter input extent reliable prediction diﬃcult make 
+addition ode base model assume large well mixed population spatially resolve agent base model abms alternative approach might suitable account diversity maya society lucero 
+heckbert make ambitious attempt integrate quantify many feature environment maya society 
+settlement represent agent develop spatial landscape evolve response climate anthropogenic eﬀects 
+the richness model allow many element physical social reality explore little empirical evidence validate feature model heckbert 
+the calibration veriﬁcation validation abms troublesome insight real system straightforward crook 
+ideally complexity model rise proportion gain explanatory power 
+clear abm oﬀer best balance regard consider maya society give sparsity uncertainty empirical data prefer parsimonious modelling framework 
+none study mention perform explicit comparison historical data hence discussion base independent comparison model output present article data folan 
+the model propose speciﬁed dynamical system 
+see early model type hosler match know demographic development archaeological record 
+more recent model bueno kuil agree good extent data overall population trend time 
+however show sensitivity change parameter precludes robust prediction making 
+furthermore address issue monument construction could prove important constrain model dynamic 
+contrast previous approach explicitly compare model output archaeological record population growth folan monument construction erickson ﬁnd good data 
+furthermore show collapse understand driven supercritical hopf bifurcation provide comprehensive sensitivity analysis show model outcomes robust change parameter 
+quantify maya society environment provide concise model maya society human environment interaction 
+capture portion population engage mainly agricultural monument building activity undertake within representative site km2 km2 agriculturally productive land 
+the model consist set ordinary diﬀerential 
+table list parameter model value 
+divide population three occupation worker swidden agriculture intensive agriculture monument building 
+the environment model simply one stock namely food production capacity land label number monument build region 
+least maya population involve agriculture diamond 
+give scope model part 
+table parameter maya model 
+the value set scale model choose simplify presentation analysis set match value literature turner similarly haug medina elizalde medina elizalde rohling 
+other parameter subject constraint literature soil management suggest low bound usda survey 
+parameter signal scarcity food expect diﬀusion coeﬃcient value monument building would occur food per caput would suﬃciently high estimate 
+the value choose satisfy constraint also numerically optimise 
+the parameter determine solely numerical optimisation see appendix 
+the parameter optimise also consistent value literature see section 
+symbol meaning 
+population parameter resource parameter 
+monument parameter 
+natality scale factor death rate exponent prevalence popularity swidden agriculture prevalence popularity intensive agriculture year transition transition switch land recovery rate year maximum available land threshold fraction land relative precipitation time land depletion rate relative productivity intensive agriculture swidden productivity pers year year precipitation change builder productivity monum pers year monument decay rate year diﬀusion coeﬃcient year step function steepness minimum food availability monument building 
+population high interest agricultural activity relate practice likely large impact environment turner webster 
+beyond agriculture becker identiﬁes six specialisation classic maya tikal four directly relate stone work likely two woodworking pottery 
+hence consider agricultural monument related practice cover activity maya involve 
+try capture administrative military artisan aspect society 
+compare segment population include occupation make much small part demography 
+assume environmental impact people profession derive mainly food requirement model easily extend account part population though role would otherwise remain inert within model scope 
+the consideration take form model boundary limit internal dynamic model choice boundary inform data time series aim explain reproduce 
+concretely dynamical model propose give 
+τps βnx δxs τpi βnx δxi δxb sdnx bxb 
+ecological economics 
+above represent total size population food available per caput smooth approximation step function parameterises require minimum food availability people change activity towards monument building control steepness step function 
+the model interpreted follow people bear certain agricultural specialisation determine fraction give 
+they harvest resource rate speciﬁc specialisation 
+proportional swidden intensive agriculture 
+the harvested amount provide food surplus positively aﬀects population growth rate 
+harvest insuﬃcient meet basic requirement per capita population start decrease 
+leave alone land productive capacity regenerates within characteristic time year give patch harvest consecutive year use intensive practice crop failure 
+thus exist negative feedback loop population environment reﬂecting malthusian mechanism 
+high availability resource lead high population lead rapid depletion resource base later impact growth rate population 
+see due land overuse increase number worker intensive agriculture lead loss production capacity long term subsequently demographic decline 
+food available per caput high part swidden worker move monument construction 
+monument build proportion number builder available also decay slowly time 
+harvest poor yield builder back practice agriculture compensate 
+thus high agricultural yield lead high population high rate monument building 
+the building monument direct eﬀect population within scope model 
+next outline feature model precisely 
+the ﬁrst three equation model dictate population dynamic 
+the parameter set scale ﬁrst two term represent natality birth death rate 
+the ﬁrst term equation represent crude birth rate assume proportional total population available food per caput parameter represent proportion new generation respective occupation 
+birth rate often assumed literature proportional present population turchin 2003a also monotonically increase function food per caput anderies motesharrei 
+the parameter add interpreted prevalence popularity swidden intensive agricultural activity society 
+addition conventional aspect birth rate feature binary parameter either set onset intensive agriculture onset thus model rapid change parameter see section detail 
+the next term equation population dynamic death rate also assume proportional population size 
+natural candidate death rate dependence food availability food population would quickly decline zero mean death rate would grow large even diverge 
+for example death rate proportional previously use world2 model forrester 
+the last term population equation diﬀusion term model movement people two diﬀerent specialisation swidden agriculture monument building 
+monument build take place surplus production exist support 
+speciﬁcally food availability high enough surplus production exist support non agriculturally related activity shift work purely subsistence base agriculture monument building model via diﬀusion term 
+once people move diﬀuse practice swidden agriculture building monument 
+opposite eﬀect occurs 
+the parameter represent diﬀusion coeﬃcient upper bound cannot population ﬂow within year 
+use value determine numerical optimisation see section imply population give specialisation change diﬀerent occupation within year condition availability food discuss 
+the movement specialisation typically take place much rapidly short timescale demographic growth specialisation 
+this lead make two simplify assumption model 
+first equation feature birth rate term second movement via diﬀusion intensive agriculture 
+regard ﬁrst simpliﬁcation possible set prevalence parameter monument building activity zero signiﬁcantly aﬀect model dynamic 
+the birth rate term variable number builder would dominate diﬀusion dynamic 
+because chose eliminate one parameter prevalence monument building set zero 
+the second simpliﬁcation justiﬁed movement intensive agriculture require large initial investment undertaken allocation land building terrace etc 
+therefore unlikely intensive practice pick quickly 
+due sunk cost eﬀects janssen large investment make unlikely activity immediately abandon alternative 
+hence decide implement diﬀusion mechanism towards away intensive agriculture 
+the fourth equation 
+model resource dynamic 
+the ﬁrst term follow usual logistic dynamic describes resource recover time second term capture harvest activity population 
+the production capacity renewable resource regenerate characteristic timescale year consistent typical time harvest swidden agriculture turner 
+left unexploited resource return maximum value within matter decade 
+this likely also happen reality collapse maya environment today good condition turner sabloﬀ 
+the maya employ wide range agricultural technique turner attempt capture full complexity endeavour 
+the work turner suggest agricultural practice polarise two category short two year long decade cycle 
+thus simplicity distinguish two category swidden agriculture full harvesting cycle year intensive practice cycle year 
+intensive practice equate short fallow swidden agriculture represent aggregated activity diverse type method use 
+the average amount land per year person require fulﬁl caloric need turner 
+hence measure food production capacity land hectares set initial value size region model 
+presence human population production capacity decrease proportion number agricultural worker productivity 
+take productivity per caput swidden agriculture year pers minimum value meet subsistence need 
+for intensive agriculture harvest take place annually reﬂected model assign productivity time higher swidden practice 
+the depletion parameter choose average number consecutive time piece land harvest completely deplete intensive practice time 
+soil high 
+ecological economics 
+productivity less prone erosion one find yucatan peninsula harvest maximum consecutive year still give good yield usda survey 
+our choice thus reﬂects optimistic low bound depletion rate maya environment 
+wilk highlight fact even good soil quality enjoy mopan community san antonio serious problem start emerge fallow cycle shorten ﬁve year less 
+depletion case refers amount food produce crop harvest strictly refer state soil 
+soil depletion vary widely throughout lowland beach dun variation complex issue capture simple model 
+when production capacity high resource extract per worker roughly constant depend type agricultural activity 
+this assumption previously use model easter island basener ross basener warfare dynamic turchin 
+nevertheless production capacity land decrease threshold maximum productive land become increasingly sparse lead decrease food production per caput 
+this dynamic implemented exponential term deﬁnition food availability per caput see 
+when extraction term natural resource becomes ﬁrst order predator prey term find lotkavolterra model type functional response 
+because parameter signal scarcity food expect numerical optimisation value determine 
+particular feature resource dynamic eﬀect precipitation 
+the absolute level rainfall relevant model important relative variation amount water impact diﬀerent parameter model 
+there three aspect directly relate rainfall rate resource regeneration maximum amount productive land iii extraction term natural agricultural resource 
+reduction amount available water reduce rate regeneration environment allow recovery small carrying capacity also impede eﬀorts exploit 
+the propose model account three eﬀects 
+for simplicity assume eﬀects linearly proportional relative amount precipitation time thus normal precipitation condition correspond 
+deviation assumption explore appendix fig 
+diﬀerent area lowlands subject diﬀerent exogenous factor besides precipitation also include volcanic ash tankersley 
+the eﬀect exogenous contribution environmental recovery volcanic ash incorporate model similar way precipitation 
+thus interpret precipitation scale factor aggregate external eﬀects resource recovery use 
+for clarity variable interpreted agricultural production capacity land logistic equation growth represent dynamic renewable resource could equally represent forest resource 
+also term model dictate resource exploitation univocal regard interpretation 
+strictly say distinguish low intensity high intensity resource extraction 
+for concreteness associate low intensity activity swidden agriculture high intensity activity intensive agriculture 
+the factor intensities extraction activity take match relative diﬀerence annual harvesting swidden practice might see one instance wide variety low high impact environmental activity 
+thus variable generally interpret aggregate renewable resource include output agriculture forestry ﬁshing 
+then extraction activity see exploitation set resource positive eﬀect birth rate 
+food security study modern agricultural amazonian society ivanova piperata 
+explain primary source energy caloric intake agricultural product 
+dietary diversity increase nutritional content individual intake contribute greatly overall caloric quantity 
+because important role energy societal development emphasise agricultural interpretation stock parameter 
+the last equation 
+describes dynamic underlie monument building 
+monument construct rate proportional number builder 
+the productivity builder choose people work year would build average one medium size monument 
+the monument decay rate implies half life approximately year 
+the half life estimate base observed weather rate per century maya building uxmal site yucatan roussel andré assumption cumulate weather would compromise structural integrity monument 
+addition propose equation monument building also consider another option implement minimum threshold worker required start construction increase return scale 
+but output model change signiﬁcantly see appendix 
+the model omit several feature maya society amenable dynamical system model war webster martin grube water management lucero ﬁner detail agricultural intensiﬁcation johnston 
+the time period model cover year strive capture feedback mechanism persist long timescales 
+our assumption prove suﬃcient model reproduce historical pattern simpliﬁed treatment justiﬁed interest parsimony 
+the speciﬁcations outline model main assumption dynamic 
+while likely leave aspect real world complexity important start simple formulation remain faithful reality namely one capture element play long term feedback also prove suﬃcient explain data 
+methodology result search calibration model propose section give good match empirical data 
+more speciﬁcally determine parameter minimise deviation model output respect empirical time series population level birth rate folan monument building rate erickson 
+depend model structure deviation necessarily small hence even optimal choice parameter value actual historical time series might poor 
+also even time series excellent certainty numerically optimise parameter realistic match archaeologically determine value 
+thus validate model compare optimal parameter value archaeological estimate well perform sensitivity test 
+thus model prediction empirical data well result largely insensitive change parameter parameter choice consistent archaeological estimate conclude propose model partially validate viable theory historical process aim capture 
+more speciﬁcally aim reproduce historical evolution crude growth rate population level reconstruct folan 
+santley data monument building rate erickson 
+refer time series data reference mode 
+the scope model dictate reference mode wish reproduce 
+thus temporal limit set regard population dynamic monument building activity focus time span monument date 
+see time series folan 
+ecological economics 
+level set correspond deviation simulate total population 
+reference data fig 
+monument building predict model reference data fig 
+for pi0 
+table demographic evolution many site follow similar pattern 
+thus instead focus one speciﬁc region aim develop abstract model capture demographic commonality several region 
+the dynamical system model propose intended capture prototypical dynamic occur diﬀerent region 
+the reference mode population fig 
+generate use reference mode overall crude growth rate observe south central maya lowlands fig 
+folan match well population development see tikal calakmul folan 
+when analyse data crude growth rate see fig 
+solid line distinguish two regime early regime birth rate decrease indicate convergence towards equilibrium sustainable outcome later boom bust regime birth rate increase dramatically subsequently crash 
+take initial condition total population maya population work swidden agriculture intensive agriculture 
+assume initially food requirement meet intensive agriculture mean eﬀort new people would intensive practice mean extent activity gradually decline 
+this lead initial decrease available food per caput hence also birth rate correspond ﬁrst regime reference mode fig 
+pattern continue would see modest rise population level classic maya see fig 
+dot line 
+hence assume transition two regime corresponds change occupation agricultural practice society 
+thus certain time fraction new generation start practice intensive agriculture 
+model prediction relative crude growth rate total population precipitation normal dashed line enhance triangle reduce inverted triangle 
+the standard output ﬁtted historical reference continuous line crude growth rate fig 
+reconstruct santley 
+the population reference continuous line generate crude growth rate 
+population level similar see tikal calakmul fig 
+reconstruct santley 
+for comparison also show simulated case assumption shift agricultural activity normal precipitation dot line 
+numerically determine optimal value minimises deviation model output historical data 
+measure deviation model output historical data follow 
+let total population let xref total population reference mode fig 
+deﬁne follow distance function determine far apart total population model output reference mode population year 
+xref xref xref 
+the distance metric divide area reference mode 
+the numerator 
+measure sum area curve model output reference mode diﬀer 
+xref would see perfect model prediction historical data 
+distance function similar 
+deﬁned building rate monument reference mode fig 
+vary factor two entry table similarly vary range plot 
+ecological economics 
+model prediction monument building rate monument density case normal precipitation agricultural transition dash line without dotted line 
+from onward signiﬁcant building activity undertaken monument decay exponentially constant rate dash dot line 
+the standard output ﬁtted building rate data continuous line erickson 
+katun period equal year 
+the simulated monument density time compare presently observe density area tikal approximately monument webster area km2 correspond roughly monument per km2 continuous line 
+distance reference mode population level monument building rate obtain contour plot visualise fig 
+see parameter value table namely achieve global minimum distance model output population level monument building rate 
+all neighbour value show increase deviation either population monument data 
+hence historical data cannot reproduce unless change agricultural preference around year assume model change parameter 
+thus explain sudden rise birth rate assumption dramatic change prevalence popularity intensive agricultural practice require 
+this reﬂected model shift initial prevalence year onwards attract large share new worker intensive agriculture gradually become widely use detriment swidden practice 
+this lead increase food production allow increase population 
+with optimal value model reproduces population level relative crude growth rate well see fig 
+the maximum population density reach around km2 consistent estimate turner 
+addition good agreement population reference mode 
+simulated best model output population level fraction total population specialisation swidden agriculture dash dot line intensive agriculture dash line monument build continuous line 
+model also good agreement data monument building rate erickson especially time range show fig 
+moreover ﬁnal density monument obtain model consistent observe density area tikal see fig 
+furthermore value obtain consistent literature maya 
+know least maya involve agricultural production diamond consistent estimate 
+the agreement result diamond estimate attribute fact intensive agricultural technique likely lasting environmental impact turner hence estimate farm population likely representative fraction involve intensive practice 
+the year correspond start late classic period accord lucero estrada belli 
+the change prevalence activity transition lead change population stock fig 
+much large fraction population become involve intensive agriculture reach fraction practice swidden fall see fig 
+the ﬁnal fraction show fig 
+approach prevalence parameter 
+long term fraction population intensive agriculture equilibrate value popularity follow calculation show 
+ecological economics 
+the approximate value obtain fig 
+due transient nature dynamic 
+hence reasonable compare fraction population involve intensive practice 
+appendix vary prevalence parameter relativity productivity intensive agriculture see behaviour model change 
+when stock model equilibrate stationary value line would expect society low sustainable harvesting rate swidden agriculture nigh diemont 
+exceeds certain threshold system undergoes critical transition lead large oscillation population level 
+phrase generally harvest rate increase beyond certain point hopf bifurcation take place lead large amplitude oscillation system 
+similar conclusion reach another model society collapse namely easter island roman 
+the ﬁndings lend support general thesis societal collapse model certain type critical transition supercritical hopf bifurcation 
+detailed mathematical treatment critical transition simpliﬁed version without specialisation monument build model also present appendix exhibit similar behaviour complete model vary parameter 
+appendix use distance function population similarly deﬁned function monument build rate perform thorough sensitivity analysis key parameter model namely parameter except set scale model 
+what ﬁnd respect deviation reference mode population level monument building rate model parameter table lie minimum subspace population resource relate parameter close minimum subspace monument relate parameter 
+the sensitivity analysis also indicate similar output obtain range parameter around standard value table 
+for change parameter water availability deviation minimum gradual quasi parabolic shallowness optimum also indicate robustness ﬁndings parameter change 
+furthermore optimal value several important parameter model show good agreement value literature case 
+the fact model reproduce empirical time series well optimal parameter value consistent real measurement indicate model structure choice parameter value viable 
+therefore model partially validate 
+model also allow study impact change precipitation 
+reduction medina elizalde increase available amount water start year haug medina elizalde rohling impact population level large extent 
+detailed section assume precipitation directly aﬀects parameter food available per caput small set possible eﬀects precipitation consider model output largely unchanged compare fig 
+strictly speak time lag include impact precipitation observe lag even year little eﬀect system trajectory leave simplicity sake 
+important note sensitivity analysis appendix fig 
+vary amount precipitation throughout entire time span model take year precipitation change 
+consider start time precipitation change deviation model output reference mode would comparable small show fig 
+hence irrespective precipitation level change drought occurs expect see either similar result discuss large deviation reference mode 
+formulate model address issue property right 
+wilk state population density low common access favour density high private property emerges dominant institution 
+thus population pressure determine assignment property right 
+our model suggest prior common access likely use population grow private land become widespread 
+property right emerge output model explicitly consider formulation contrast previous literature topic considers foundational issue anderies reuveny decker dalton coat 
+while assume base data folan 
+many maya region similar population trajectory nevertheless variation demographic geographic cultural element occur spatially temporally throughout many region aimers iannone 
+this also lead asynchronous development decline society diﬀerent area wahl 
+for example late preclassic maya mirador basin build large maya structure dun hansen 
+addition evidence multiple intensive agricultural system find several maya region dun beach 
+hence certain site show deviation model assumption hence also model output 
+note main goal reproduce aggregate pattern integrate multi regional model would require veriﬁcation substantially ﬁne grain temporal data regional interaction trade warfare etc 
+discussion conclusion study present low dimensional model aim describe evolution population size farm activity monument build classic maya society 
+what insights gain 
+first show low dimensional model indeed robustly reproduce demographic monument building data 
+best knowledge ﬁrst model type validate direct comparison historical data worth emphasise reproduction historical data possible use low dimensional model capture basic feedback population resource monument building activity 
+more generally model exercise suggest instead building detailed model incorporate complex explanation collapse well methodological practice attempt simpler explanation model do 
+second model indicate change practice intensive agriculture maya society around year important contributing factor collapse 
+important note model formulation allow change agricultural practice 
+however precise location shift time direct result optimisation show within scope class low dimensional model reproduce demographic monument building dynamic possible shift occur 
+the year around begin late classic lucero estrada belli period saw unprecedented expansion maya demographically also culturally 
+the model thus provide mechanism golden age later collapse explain 
+the shift intensive agriculture mean maya forfeit knowledge environmental management area continue adapt local condition use diﬀerent technique dun beach change large enough forgo 
+ecological economics 
+establish equilibrium likely take place 
+why would occur 
+most individual would typically pursue intensive form agriculture russell despite productive due taxing time consume nature boserup 
+additional driver need activity become commonplace 
+speculate likely reason govern policy case war high real perceive degree wealth neighbouring region iii trade beneﬁts ideological religious political etc 
+determinant similar nature describe demarest 
+third model bring question role drought play collapse 
+drought often name cause major contribute factor maya collapse recent estimate indicate reduction annual precipitation medina elizalde medina elizalde rohling 
+our result indicate reduction rainfall signiﬁcantly alter outcome simulation respect population level see fig 
+what model show land production capacity might already severely exhausted reduction crop might unavoidable even absence drought 
+fall crop production consistent evidence skeletal remain show sign progressive nutritional disease folan hyde sharer traxler time mass graf discover might indicate large scale epidemic warfare folan 
+our research cannot take proof suggest drought though important play small role previously think hodell haug gill webster kennett douglas 
+lastly mathematical perspective shift intensive agriculture see type critical transition supercritical hopf bifurcation 
+speciﬁcally harvest rate natural resource exceeds threshold dynamic system change stationary state situation large amplitude oscillation population experience result collapse amplitude oscillation become large population number become low 
+this echo similar ﬁnding easter island roman 
+the model develop study reproduces general demographic trend see many region lowlands folan make minimum assumption regard change agricultural practice 
+addition model predict monument building rate well time series erickson 
+the model initialise 
+assumption society sustainable regime change much resource intensive regime explain rapid demographic rise 
+the nature transition society underwent consistent previous ﬁnding regard dynamic societal collapse roman thus point general mechanism collapse understood namely type critical transition supercritical hopf bifurcation 
+addition methodology employ could adopt elsewhere provide similar insight historical case 
+our methodology explore parameter space lead careful alignment model parameter empirical data achieve sensitivity analysis comprehensive previous literature context 
+the behaviour model change parameter show achieves local minimum parameter space stay consistent estimate provide literature 
+prominent explanation societal collapse throughout time often fall trap prefer one cause cause reﬂects current dominant social problem issue tainter climate change environmental degradation diamond 
+the case make climatic variation lead collapse classic maya line modern climate change concern highlight common bias throughout time single current problem project past function cautionary tale tainter 
+hand common lesson generalise past case collapse do previous work roman provide valuable insight present condition tainter 
+try single one cause collapse classic maya aim identify set interlocking mechanism could spur positive feedback population growth monument building 
+also claim settle long stand problem classic maya collapse rather hope balance discussion regard role drought socio cultural factor 
+acknowledgement this work support epsrc doctoral training centre grant g03690x 
+the model implement result obtain use python programming language 
+new data collect research 
+analysis critical transition 
+ecological economics 
+minimum maximum value total population maya model vary relativity productivity fraction people work intensive agriculture 
+panel analogous simpliﬁed system 
+panel show point bifurcation occurs 
+when vary parameter parameter ﬁxed standard value table 
+show minimum maximum population value maya model predicts long term 
+see certain productivity intensive agriculture system show hopf bifurcation 
+similar pattern see respect fraction people work intensive agriculture 
+case high value compatible archaeological record 
+gain analytic insight system ﬁrst simplify consider one specialisation population extract resource relativity productivity 
+normalise food per caput 
+the system 
+two ﬁxed point 
+one ﬁxed point give ﬁxed point 
+wck log 
+denote jacobian ﬁxed point 
+apply routh hurwitz stability criterion characteristic polynomial ﬁnd ﬁxed change stable spiral unstable one relative productivity exceed value give 
+log ⎞⎛− log 
+see maximum minimum population determine 
+plot function deﬁned 
+bifurcation simpliﬁed system occur also fig 
+addition main model consider paper also analyse diﬀerent formulation monument construction 
+the following equation implement minimum threshold worker require eﬃcient monument building describe simple form increase return scale 
+bxb θbuild 
+exp 2kbuild xbuild 
+xbuild workforce threshold monument construction become eﬃcient 
+consider realistic range xbuild people 
+ﬁnd long kbuild large enough value xbuild change output signiﬁcantly consistency archaeological record largely maintain similar fig 
+ecological economics 
+appendix parameter sensitivity analysis refer model standard parameter value table standard model label quantity parameter population etc 
+model subscript 
+let total population standard model 
+)–( )–( vary key parameter model factor standard value table plot two distance function population level building rate 
+)–( population environmental parameter vary 
+see minimum value population distance xref build rate distance 
+both minimum achieve standard parameter value 
+when vary parameter related monument building fig 
+)–( see total population level largely leave unchanged 
+for build rate minimum achieve standard value 
+the deviation minimum gradual case sudden change model behaviour change parameter value 
+)–( )–( allow conclude standard model simultaneously minimise distance reference mode respect key parameter 
+the standard value parameter choose align much possible literature 
+hence model achieve local minimum value consistent literature available 
+this increase conﬁdence model validity 
+why deﬁne distance function respect population level birth rate 
+the reference mode crude growth rate discontinuous likely less accurate total population level 
+case monument build rate suﬃciently smooth well know deﬁne distance function 
+sensitivity analysis perform vary key population environment parameter model respect standard value label subscript measure distance formula total population reference mode dot line 
+also plot distance build rate predict model correspond reference mode solid line 
+the minimum distance reference mode indicate red diamond population achieve standard value parameter table 
+the parameter axis logarithmic base 
+analyse change water availability see subﬁgure consider constant function throughout entire time range 
+ecological economics 
+sensitivity analysis perform vary key monument relate parameter model respect standard value label subscript measure distance formula total population reference mode 
+also plot distance build rate predict model correspond reference mode solid line 
+the parameter axis logarithmic base 
+reference acuna soto stahle therrell chavez cleaveland 
+drought epidemic disease fall classic period culture mesoamerica 
+hemorrhagic fever cause massive population loss 
+aimers hodell 
+societal collapse drought maya 
+what maya collapse 
+terminal classic variation maya lowland 
+culture human agro ecosystem dynamic tsembaga new guinea 
+model human behavior institution simple ecological economic system 
+economic development demographic renewable resource dynamical system approach 
+anselmetti hodell ariztegui brenner rosenmeier 
+quantiﬁcation soil erosion rate related ancient maya deforestation 
+basener ross 
+boom crash population easter island 
+siam appl 
+basener brook radin wiandt 
+rat instigate human population collapse easter island 
+nonlinear dynamic psychol 
+life sci 
+beach dun 
+impact ancient maya soil soil erosion central maya lowland 
+archaeological evidence occupational specialization among classic period maya tikal guatemala 
+the condition agricultural growth the economics agrarian change under population pressure 
+allen unwin 
+simple system dynamic model collapse complex society 
+the 29th international conference system dynamic society 
+the system dynamic society washington 
+carleton campbell collard 
+reassessment impact drought cycle classic maya 
+chase chase 
+contextualizing collapse hegemony terminal classic ceramic caracol belize 
+lópez varela foias 
+geography power understanding nature terminal classic pottery maya lowland 
+british archaeological report oxford 
+qualitative quantitative modelling system dynamic research question 
+crook castle batty 
+key challenge agent base model geospatial simulation 
+dalton coat 
+could institutional reform save easter island 
+ideology ancient maya cultural evolution dynamic galactic polity 
+demarest conrad 
+ideology pre columbian civilization 
+school american research press santa 
+demarest andrieu torr forné barrientos wolf 
+exchange power new evidence late classic maya port city cancuen 
+collapse how society choose fail succeed 
+beyond belief religious experience ritual cultural neuro phenomenology interpretation past religious system 
+douglas pagani canuto brenner hodell eglinton curtis 
+drought agricultural adaptation sociopolitical collapse maya lowland 
+dun beach 
+noxious nurturing nature 
+maya civilization environmental context 
+golden borgstede 
+continuity change maya archaeology 
+routledge press new york 
+dun beach 
+farm forest spatial temporal perspective ancient maya landscape 
+landscape society 
+springer netherlands 
+dun beach luzzadder beach 
+kax kol collapse resilience lowland maya civilization 
+the life cycle life style project course local evolutionary sequence 
+estrada belli 
+the first maya civilization ritual power before classic period 
+folan hyde 
+climatic forecasting recording among ancient historic maya ethnohistoric approach epistemological paleoclimatological patterning 
+contribution archaeology ethnohistory great mesoamerica 
+southern illinois university press carbondale 
+folan faust lutz gunn 
+social environmental factor classic maya collapse 
+lutz priesto sanderson 
+population development environment yucatan peninsula from ancient maya international institute apply system analysis laxenburg austria 
+maya apocalypse warfare punctuate equilibrium limit growth 
+the 25th international conference system dynamic society 
+the system dynamic society boston 
+maya apocalypse vary productivity consumption impact result 
+the 31th international conference system dynamic society 
+the system dynamic society cambridge 
+industrial dynamic 
+pegasus communication 
+world dynamic 
+wright allen press 
+gill keating 
+volcanism mesoamerican archaeology 
+gill mayewski nyberg haug peterson 
+drought maya collapse 
+hamblin pitcher 
+the classic maya collapse test class conﬂict hypothesis 
+hansen bozarth jacob wahl schreiner 
+climatic environmental variability rise maya civilization preliminary perspective northern petén 
+ecological economics 
+haug günther peterson sigman hughen aeschlimann 
+climate collapse maya civilization 
+mayasim agent base model ancient maya social ecological system 
+hodell brenner curtis 
+terminal classic drought northern maya lowland inferred multiple sediment core lake chichancanab mexico 
+hodell brenner curtis guilderson 
+solar force drought frequency maya lowland 
+hosler sabloﬀ rung 
+simulation model development case study classic maya collapse 
+social process maya pre history 
+academic press london 
+the great maya drought cultural context case study resilience vulnerability 
+university press colorado 
+warfare fall fortiﬁed center archaeological investigation aguateca 
+vanderbilt university press nashville 
+dietary change ribeirinha woman evidence nutrition transition brazilian amazon 
+janssen kohler scheﬀer 
+sunk cost eﬀects vulnerability collapse ancient society 
+the intensiﬁcation pre industrial cereal agriculture tropic boserup cultivation lengthen classic maya 
+kennett breitenbach aquino asmerom awe baldini bartlein culleton ebert jazwa macri 
+development disintegration maya political system response climate change 
+kuil carr viglione prskawetz blöschl 
+conceptualize sociohydrological drought process case maya collapse 
+water resour 
+mathematical model classic maya collapse class conﬂict hypothesis reexamine 
+classic lowland maya political organization review 
+world prehist 
+lucero gunn scarborough 
+climate change classic maya water management 
+luzzadder beach beach dun 
+wetland ﬁelds mirror drought maya abandonment 
+martin grube 
+maya superstates 
+mcneil burney burney 
+evidence dispute deforestation cause collapse ancient maya polity copan honduras 
+medina elizalde burn lea asmerom von gunten polyak vuille karmalkar 
+high resolution stalagmite climate record yucatán peninsula span maya terminal classic period 
+earth planet 
+medina elizalde rohling 
+collapse classic maya civilization relate modest reduction precipitation 
+motesharrei rivas kalnay 
+human nature dynamic handy model inequality use resource collapse sustainability society 
+nigh diemont 
+the maya milpa ﬁre legacy living soil 
+e45 e54 
+oglesby sever saturno erickson srikishen 
+collapse maya could deforestation contribute 
+mansky dunning 
+settlement late classic political disintegration petexbatun region guatemala 
+demarest rice rice 
+the terminal classic maya lowlands collapse transition transformation 
+university press colorado boulder 
+piperata ivanova dagloria veiga polsky spence murrieta 
+nutrition transition dietary pattern rural amazonian woman period economic change 
+reuveny decker 
+easter island historical anecdote warning future 
+compatibility epigraph geographic archaeological data drought base explanation classic maya collapse 
+roman bullock brede 
+couple society robust collapse hypothetical look easter island 
+rosenmeier hodell brenner curtis guilderson 
+year lacustrine record environmental change southern maya lowlands petén guatemala 
+roussel andré 
+quantitative assessment pre post restoration weather rate limestone mayan temple uxmal yucatán 
+population swidden farm tropical environment 
+demographic archaeology maya lowland 
+culbert rice 
+pre columbian population history maya lowland 
+university new mexico press 
+sharer traxler 
+the ancient maya 
+stanford university press 
+the maya collapse revisit 
+social process maya pre history 
+academic press london 
+the collapse complex society 
+cambridge university press 
+archaeology overshoot collapse 
+collapse sustainability environment author choose fail succeed 
+tankersley scarborough dun huﬀ maynard gerke 
+evidence volcanic ash fall maya lowlands reservoir tikal guatemala 
+turchin 2003a 
+complex population dynamic theoretical empirical synthesis 
+princeton university press 
+turchin 2003b 
+historical dynamic why state rise fall 
+princeton university press princeton 
+long term population cycle human society 
+prehistoric intensive agriculture mayan lowland 
+population density classic maya lowlands new evidence old approach 
+turner sabloﬀ 
+classic period collapse central maya lowlands insight human environment relationship sustainability 
+soil survey kingﬁsher county oklahoma 
+department agriculture oklahoma agricultural experiment station june 
+wahl byrne schreiner hansen 
+palaeolimnological evidence lateholocene settlement abandonment mirador basin petén guatemala 
+the peaceful civilization review maya war 
+world prehist 
+the fall ancient maya solve mystery maya collapse 
+thames hudson 
+webster brook railsback cheng edward alexander reeder 
+stalagmite evidence belize indicate signiﬁcant drought time preclassic abandonment maya hiatus classic maya collapse 
+household ecology economic change domestic life among kekchi maya belize 
+northern illinois university press 

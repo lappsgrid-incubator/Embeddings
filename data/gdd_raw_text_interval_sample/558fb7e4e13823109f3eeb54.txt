@@ -1,0 +1,989 @@
+HYDROGEOLOGIC SETTING, HYDRAULIC PROPERTIES, AND GROUND-WATER FLOW AT THE O-FIELD AREA OF ABERDEEN PROVING GROUND, MARYLAND
+U.S. GEOLOGICAL SURVEY
+Water-Resources Investigations Report 95-4248
+Prepared in cooperation with the
+U.S. ARMY ABERDEEN PROVING GROUND SUPPORT ACTIVITY ENVIRONMENTAL CONSERVATION AND RESTORATION DIVISION ABERDEEN PROVING GROUND, MARYLAND
+The text ofthis article has been approved for public release and unlimited distribution by the U.S. Army distribution number 1424-A-3
+
+CONVERSION FACTORS, ABBREVIATIONS, AND VERTICAL DATUM
+
+Multiply
+
+By
+
+To obtain
+
+inch (in.)
+foot (ft)
+mile (mi)
+
+LENGTH
+2.54
+0.3048 1.609
+
+acre acre square foot (ft ) square mile (mi2) square mile (mi2)
+
+AREA
+4,047
+0.4047
+0.09294 259.0
+2.590
+
+inch per year (in/yr) foot per second (ft/s)
+foot per day (ft/d) cubic foot per second (ft3/s)
+
+FLOW
+0.02540 0.3048 0.3048 0.02832
+
+gallon per minute (gal/min) gallon per day (gal/d)
+million gallons per day (Mgal/d) million gallons per day per square mile[(Mgal/d)/mi2 ]
+
+0.06308 0.003785 0.04381 1,460
+
+TEMPERATURE
+degree Fahrenheit (°F) °C = 5/9x (°F-32)
+
+HYDRAULIC CONDUCTIVITY
+
+foot per day (ft/d)
+
+0.3048
+
+TRANSMISSMTY
+
+cubic foot per day per square foot times
+
+0.09290
+
+foot of aquifer thickness [(ft3/d)/ft2]ft
+
+centimeter meter kilometer
+square meter hectare square meter hectare square kilometer
+meter per year meter per second meter per day cubic meter per second
+liter per second cubic meter per day cubic meters per second cubic meter per day per square kilometer
+degree Celsius
+meter per day
+cubic meter per day per square meter times meter of aquifer thickness
+
+Sea Level: In this report, "sea level" refers to the National Geodetic Vertical Datum of 1929 a geodetic datum derived from a general adjustment ofthe first-order level nets of the United States and Canada, formerly called Sea Level datum of 1929.
+
+CONTENTS
+Abstract.......................................................................... 1 Introduction....................................................................... 2
+Background................................................................ 2 Purpose and scope .......................................................... 5 Description of study area ..................................................... 5 Methods of study ........................................................... 5 Previous studies............................................................. 6 Acknowledgments .......................................................... 6 Hydrogeologic setting............................................................... 6 Hydrogeologic units......................................................... 6
+Water-table aquifer.................................................... 7 Upper confining unit................................................... 7 Upper confined aquifer................................................ 10 Lower confining unit. ................................................ 10 Water-level changes and recharge............................................. 11 Water-table aquifer................................................... 11 Upper confining unit.................................................. 11 Upper confined aquifer................................................ 11 Hydraulic properties............................................................... 12 Water-table aquifer......................................................... 13 Upper confining unit........................................................ 13 Upper confined aquifer...................................................... 13 Lower confining unit ....................................................... 13 Ground-water flow ................................................................ 13 Ground-water-flow directions and discharge areas ................................ 13 Water-table aquifer .................................................. 13 Upper confining unit................................................. 14 Upper confined aquifer ............................................... 14 Chlorofluorocarbon dates.................................................... 14 Factors influencing concentrations ...................................... 15 Sampling and analysis................................................ 16 Application to ground-water flow....................................... 17 Ground-water-flow simulation................................................ 18 Model grid and boundary conditions..................................... 18 Calibration......................................................... 18 Sensitivity analysis .................................................. 23 Implication of Chlorofluorocarbon data................................... 23 Flow paths......................................................... 25 Summary........................................................................ 27 References cited .................................................................. 28
+Hydrogeologic setting, hydraulic properties, and ground-water flow, O-Field Area, APG, Md. Ill
+
+FIGURES
+1-2. Maps showing location of: 1. The O-Field area, Aberdeen Proving Ground, Maryland ......................... 3 2. Wells and line of hydrogeologic section A-A' at New O-Field .................... 4
+3. Idealized section, A-A' showing hydrogeologic units and generalized direction of ground-water flow at New O-Field............................................ 7
+4- 5. Maps showing altitude of the: 4. Water table and flow lines at O-Field, June 1993 ............................... 8 5. Top of the upper confining unit at O-Field .................................... 9
+6. Map showing thickness of the upper confining unit at O-Field........................ 10 7. Hydrograph showing the altitude of the water table in well OF16A and the
+potentiometric surface of the upper confined aquifer in well OF16B at New O-Field, October 1, 1992 through September 30, 1993........................ 12 8. Map showing potentiometric surface of the upper confined aquifer and flow lines at O-Field, June 1993 ............................................. 15 9. Schematic cross section showing major hydrogeologic units and boundary conditions modeled at New O-Field.................................. 19 10. Map showing finite-difference grid and model boundaries at O-Field .................. 20 11. Diagram showing error between measured and simulated water levels with respect to multiples of leakance through the upper confining unit and recharge to the water-table aquifer........................................ 21
+12-13. Maps showing distributions of: 12. Hydraulic conductivity in the water-table aquifer at New O-Field................ 21 13. Leakance in the upper confining unit at New O-Field ......................... 22
+14. Diagram showing error between measured and simulated water levels with respect to the horizontal hydraulic conductivity of the water-table aquifer and selected recharge values to the water-table aquifer............................ 24
+15. Map showing measured and simulated hydraulic heads of the water-table aquifer at O-Field, June 1993...................................... 26
+TABLES
+1. Chlorofluorocarbon data for wells at New O-Field, Aberdeen Proving Ground, Maryland......................................... 16
+2. Traveltime of ground water between wells OF-3 and OF-9 at New O-field, based on Chlorofluorocarbon data, hydraulic heads measured in June 1993, and modeled hydraulic heads............................ 25
+iv Hydrogeologic setting, hydraulic properties, and ground-water flow, O-Fleld Area, APG, Md..
+
+HYDROGEOLOGIC SETTING, HYDRAULIC PROPERTIES, AND GROUND-WATER FLOW AT THE O-FIELD AREA OF ABERDEEN PROVING GROUND, MARYLAND
+By William S. L. Banks, Barry S. Smith, and Colleen A. Donnelly
+ABSTRACT
+The U.S. Army disposed chemical agents, laboratory materials, and unexploded ordnance at O-Field in the Edgewood Area of Aberdeen Proving Ground, Maryland, from before World War II until at least the 1950's. Soil, ground water, surface water, and wetland sediments in the O-Field area were contaminated from the disposal activity. A ground-water-flow model of the O-Field area was constructed by the U.S. Geological Survey (USGS) in 1989 to simulate flow in the central and southern part of Gunpowder Neck. The USGS began an additional study of the contamination in the O-Field area in cooperation with the U.S. Army in 1990 to (1) further define the hydrogeologic framework of the O-Field area, (2) characterize the hydraulic properties of the aquifers and confining unit, and (3) define ground-water flow paths at O-Field on the basis of the current data and simulations of ground-water flow.
+A water-table aquifer, an upper confining unit, and an upper confined aquifer comprise the shallow ground-water system of the O-Field area. A lower confining unit, through which ground-water movement is negligible, is considered a lower boundary to the shallow system. These units are all part of the Pleistocene Talbot Formation.
+The model developed in the previous study was redesigned using the data collected during this study and emphasized New O-Field. The current steady-state model was calibrated to water levels of June 1993. The rate of ground-water flow calculated by the model was approximately 0.48 feet per day and the rate determined from chlorofluorocarbon dates was approximately 0.39 feet per day.
+Hydrogeologic setting, hydraulic properties, and ground-water flow, O-Field Area, APC, Md.
+
+INTRODUCTION
+The Edgewood Area ofAberdeen Proving Ground (APG) has been the primary chemical warfare research and development center for the U.S. Army since 1917. APG includes approximately 145 mi2 and is split between the Edgewood Area and the Aberdeen Area, two peninsulas in the northern part of the Chesapeake Bay (fig. 1). During the past 50 years, release of hazardous materials into the environment resulted from disposal of chemical agents, contaminated materials, and unexploded ordnance at O-Field in the Edgewood Area of APG, Maryland (fig. 1). Soil, surface water, ground water, and wetland sediments at O-Field were contaminated from the disposal activity. O-Field is approximately 1 mi2 in area and about 2.7 mi north of the southern tip of Gunpowder Neck. O-Field is divided into Old O-Field, the northernmost site, and New O-Field, which is about 1,500 ft south of Old O-Field (fig. 2).
+Background
+The U.S. Geological Survey (USGS), in cooperation with the U.S.Army, began to study O-Field in 1990 as part of the remedial investigation and feasibility study required by the Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA). The study was directed through the Directorate of Health, Safety, and Environment (DSHE) of APG. In 1992, DSHE also installed wells to pump and treat contaminated ground water at Old O-Field. Since 1990, the USGS has been working with the U.S. Army and ICF Kaiser Engineers to study the hydrogeologic framework and groundwater flow in the O-Field area.
+Disposal activity may have began at the Old O-Field site as early as the 1930's, with most of the disposal activities occurring during and after World War II. Disposal was accomplished by burial and burning in unlined trenches. Explosions in some trenches in late 1949 ejected ordnance and contaminants over the Old O-Field site and into Watson Creek. In an effort to decontaminate the site, 1,000 barrels of decontamination agent
+
+noncorrosive (DANC) were dispersed on and around the site. An effort to clean up the site in the early 1950's involved open-pit burning using fuel oil to burn chemical ordnance and debris (Yon and others, 1978). A fire at Old O-Field, probably from ignition of a white phosphorous munition, was reported as late as 1984 (Vroblesky and others, 1989).
+Disposal began at New O-Field in 1950 and continued until the 1970's. A common method of disposal involved placing ordnance, dunnage, and fuel oil in an open pit and igniting the mixture. Occasionally, large fires outside the designated pit resulted from the explosion of rounds of ammunition. Chemical-warfare agents, unexploded ordnance, contaminated laboratory equipment, and dead animals were buried in trenches at New O-Field from 1950 to 1961 (Yon and others, 1978). Some contaminants, including dead animals, were later removed. Some of the disposal pits at both Old and New O-Fields remain and, as late as 1994, wastes were observed in collapsing and eroding trenches at Old O-Field (ICF Kaiser Engineers, 1994).
+In 1978, the U.S. Army detected arsenic and chlorinated organic solvents in ground water at Old O-Field (Nemeth and others, 1983). In 1984, arsenic, cadmium, iron, and volatile organic compounds were confirmed in the ground water at Old O-Field by the U.S. Army Toxics and Hazardous Materials Agency (USATHAMA). In 1985, the U.S. Army Environmental Hygiene Agency found concentrations of organic and inorganic contaminants in Watson Creek. In 1989, arsenic and cadmium were reported above the U.S. Environmental Protection Agency's (USEPA) maximum contaminant levels (MCL) in the watertable aquifer at Old O-Field (Vroblesky and others, 1989). Benzene, carbon tetrachloride, trichloroethylene, and vinyl chloride also were present. Concentrations of numerous other inorganic and organic contaminants (some above MCL's) also were reported by Vroblesky and others (1989) in the shallow aquifers of Old O-Field as well as in the sediment and surface water of Watson Creek.
+
+Hydrogeologlc setting, hydraulic properties, and ground-water flow, O-Fleld Area, APG, Md.
+
+76f22'30" 3Sf22'30"
+
+76° 15'
+
+76f7'30"
+
+3ff15' Basefrom U.S. Geological Survey, 1:100,000
+
+PENNSYLVANIA
+
+HAXFOXD COVNTT
+
+3 MILES 0123 KILOMETERS
+
+MARYLAND
+Figure 1. Location of the O-Field area, Aberdeen Proving Ground, Maryland. Hydrogeologic setting, hydraulic properties, and ground-water flow, O-Field Area, APG, Md. 3
+
+3Sf20'45" 3Sf20'30"
+
+7&17'45"
+
+76f17'30"
+Watson Creek
+
+3Sf20'15"
+
+Basefrom USGS. 1:100.000
+
+EXPLANATION
+
+.OFS WELL AND IDENTIFICATION NUMBER.
+
+0OF3 WELL SAMPLED FOR CHLOROFLUOROCARBON AGE DATA.
+
+. EXS EXTRACTION WELL AND IDENTIFICATION NUMBER.
+
+mm MONITORING WELL AND IDENTIFICATION NUMBER.
+
+A'
+
+250 500 FEET 62 121 METERS
+^ TOPOGRAPHIC CONTOUR- Shows altitude of land surface. Contour interval is 5 feet. Datum is sea level.
+A1 LINE OF SECTION.
+
+Figure 2. Location of wells and line of hydrogeologic section A-A' at New O-Field. Hydrogeologlc setting, hydraulic properties, and ground-water flow, O-Fleld Area, APG, Md.
+
+In 1986, the USEPA issued a Resource Conservation and Recovery Act (RCRA) Corrective Action permit to the U. S. Army for APG. In 1990, the entire Edgewood Area was put on the National Priority List and came under the Comprehensive Environmental Response, Compensation and Liability Act of 1980 (CERCLA).
+Purpose and Scope
+The purpose of this report is to (1) further define the hydrogeologic framework of the O-Field area, (2) characterize the hydraulic properties of the aquifers and confining units, and (3) define ground-water flow paths at O-Field on the basis of new data and new simulations of ground-water flow. This report presents the results of a study of the shallow ground-water-flow system at the Old and New O-Field sites at APG. The study refines an existing model of the shallow flow system and provides information on ground-water flow in the water-table aquifer with an emphasis toward New O-Field.
+Description of Study Area
+The O-Field area is located on Gunpowder Neck of the Edgewood Area of APG, Harford County, Maryland (fig. 1). The study area is bounded on the north and east by Watson Creek and on the west by the Gunpowder River. H-Field is further to the south.
+The Gunpowder River and Watson Creek are subject to some tidal flux. The stage of the Gunpowder River varies between 1 and 3 ft over the diurnal cycle, while the stage in Watson Creek varies depending on wind direction. Banks and others (1996) indicate that tidal cycles are often missed in Watson Creek (possibly due to adverse wind conditions). During these events, water continues to discharge from Watson Creek to the Gunpowder River through a culvert under Watson Creek Road.
+The O-Field area is within the Coastal Plain Physiographic Province and is characterized by flat topography with low rolling hills. The land surface rises from near sea level at the Gunpowder
+
+River and Watson Creek to about 15 ft above sea level at both Old O-Field and New O-field. An intermittent stream follows a channel between Old and New O-Fields and drains into Watson Creek. South of New O-Field, the land surface rises to between 20 and 25 ft.
+The study area is underlain by unconsolidated deposits of Pleistocene and Cretaceous age that overlie Paleozoic and Precambrian crystalline bedrock. The shallow aquifers that are the subject of this report consist of Pleistocene and Holocene sediments. The Pleistocene sediments are primarily interbedded sand, silt, and clay of fluvial, estuarine and marginal marine origin (Owens, 1969). During sea-level regressive sequences, river channels were cut into the underlying Cretaceous sediments. The channels were filled with estuarine sediments during Pleistocene interglacial periods when sea level rose. These buried channels, called paleochannels, are common features of the Chesapeake Bay area. A paleochannel, probably formed as described above, was identified by Hughes (1993) 2 mi south of O-Field atJ-Field.
+Methods of Study
+Data from new borings and wells were used to modify the already existing hydrogeologic framework from Old O-Field (Vroblesky and others, 1989) to the New O-Field area. Data collected during the current study and by Vroblesky and others (1989) were evaluated for use in the groundwater-flow model, and a cross section of the hydrogeologic framework was constructed. Maps of the tops and thicknesses of the aquifers and confining units were compiled for New O-Field. Hydraulic properties of the aquifers and confining units were compiled on the basis of data from aquifer tests, slug tests, and chlorofluorocarbon age dating. Hydraulic head maps of the water-table and the upper confined aquifers were compiled on the basis of water levels measured in June 1993. Recharge to the water-table aquifer was evaluated using data from previous reports and interpretations of new data. Previous conceptual models of ground-water flow at O-Field were revised on the basis of those interpretations.
+
+Hydrogeologic setting, hydraulic properties, and ground-water flow, O-Field Area, APG, Md.
+
+A previous USGS ground-water-flow model of the O-Field area, including the central and southern parts of Gunpowder Neck (Vroblesky and others, 1989), was modified to incorporate the new data. The Old and New O-Field areas within the current model were finely discretized to reflect the emphasis of the current study. The results of simulations made by use of a ground-water-flow model of the O-Field area developed for the U.S. Army by ICF Kaiser Engineers (1994) also were evaluated with regard to the hydrologic parameters it used. The current steady-state model was calibrated using hydraulic heads measured in June 1993 and was used to determine ground-water flow paths.
+Previous Studies
+The history of operations and early clean-up activities at O-Field was compiled from interviews and base records by Yon and others (1978). Nemeth and others (1983) reported chlorinated organic solvents and arsenic in ground water at O-Field and arsenic in Watson Creek and its bottom sediments. The U.S. Army Environmental Hygiene Agency reported organic and inorganic contaminants, including metals, in Watson Creek.
+Vroblesky and others (1989) defined the hydrogeologic framework of the shallow aquifers at O-Field, characterized aquifer and confiningunit properties, determined the extent of contamination at O-Field and in Watson Creek, simulated ground-water flow of the O-Field area, and evaluated potential effects of various mitigation strategies on ground-water flow at O-Field. Hydraulic conductivity of the water-table aquifer was determined from constant rate and step-drawdown tests at Old O-Field (U.S. Army Corps ofEngineers, 1994). In an interim Remedial Investigation Report for the U.S. Army, ICF Kaiser Engineers (1994) determined aquifer properties by aquifer tests, conducted several geophysical surveys (some in concert with the USGS), constructed geologic sections at New O-Field, and constructed a model to simulate ground-water flow. ICF Kaiser Engineers (1994) also further defined the extent, probable fate, and transport of contamination at New O-Field and in Watson Creek,
+
+and conducted a benthic survey, a bioassay, and a baseline risk assessment. In 1992, the USGS collected passive soil-gas data at New O-Field. Discharge of ground water from the shoreline of Gunpowder Neck was investigated using thermal images flown by the National Oceanic and Atmospheric Administration (NOAA) on March 8 and 9, 1992 (Banks and others, 1996).
+Acknowledgm ents
+The authors wish to thank the people and agencies whose help made this study possible. Ms. Cynthia Powels, Project Officer at DSHE, provided logistical support for the study. Joseph Beman of the USGS contoured the hydrogeologic maps in this report and made outstanding contributions to the field operations. Some of the hydrologic data used in this report were collected with the assistance of ICF Kaiser Engineers, who were under contract to the U.S. Army.
+HYDROGEOLOGIC SETTING
+Data from previous studies (Vroblesky and others, 1989) indicate that three aquifers are present at O-field within a depth of about 120 ft. Investigation of the deepest of these aquifers, previously designated as the "lower confined aquifer" is beyond the scope of this report. This report focuses on data from new borings and wells drilled by ICF Kaiser Engineers and the U.S Army Corps of Engineers between 1991 and 1993. Chlorofluorocarbon data collected by the USGS at six wells were used to refine horizontal hydraulic conductivity values. Aquifer tests performed by ICF Kaiser Engineers were used to develop and refine an understanding of the hydrogeology. Precipitation data, collected between 1990 and 1993 from H-Field at APG, were used to determine a recharge rate to the water-table aquifer.
+Hydrogeologic Units
+The hydrogeologic framework at O-Field was described previously by Vroblesky and others (1989). From land surface downward, the units include the "water-table aquifer", the "upper confining unit", and the "upper confined aquifer"
+
+Hydrogeologic setting, hydraulic properties, and ground-water flow, O-Field Area, APG, Md.
+
+WEST A
+e 15 OF25
+10-
+5-
+
+EAST
+
+Well OF27
+
+Land Surface
+
+We|| QF16
+
+A
+
+-5-
+c
+« -10 wu £ 3 -15
+
+-20-
+VERTICAL EXAGGERATION BX
+
+EXPLANATION
+
+Generalized flow of water from areas of recharge to areas of discharge
+Marsh area
+
+Clay stringer Well Well number and OF31B depth of completion
+
+Figure 3. Hydrogeologic units and generalized direction of ground-water flow at New O-Field,
+
+(fig. 3). These units are either within the Pleistocene Talbot Formation or more recently reworked alluvium of the Holocene. The geology of Harford County, which includes the O-Field area, was described in a report by Owens (1969).
+Water-Table Aquifer
+The water-table aquifer consists of a sequence of saturated sediment, which is mostly quartz sand interbedded with silt and clay, that extends throughout Gunpowder Neck. This sequence ranges in thickness at the O-Field area from 13 to 23 ft These sediments were deposited in rivers, wetlands, and streams during the Pleistocene Epoch. During the Holocene, some of the sediments have been eroded and redeposited along the banks of and beneath the present tidal rivers, wetlands, and estuaries.
+The sand of the water-table aquifer ranges in size from fine grained to coarse. Gravel is mixed
+
+with the sand in some places as indicated by a few lithologic logs from boreholes. Sieve analyses of several samples of the aquifer indicated an average of 80 percent sand, 19 percent silt, and 0.09 percent gravel (ICF Kaiser Engineers, 1994).
+The water table is the upper surface of the saturated zone where the hydraulic pressure is equal to atmospheric pressure. It is, by definition, unconfined (fig. 4). Beneath Old O-Field and to a lesser degree beneath New O-Field, the bottom of the water-table aquifer is confined by a clay layer termed the "upper confining unit."
+Upper Confining Unit
+The upper confining unit is a sequence of finegrained sediments beneath the water-table aquifer. It is composed primarily of silt and clay mixed with fine sand. Three samples from the upper confining unit at New O-Field averaged 58 percent silt or clay, 41 percent sand, and 0.6 percent gravel
+
+Hydrogeologic setting, hydraulic properties, and ground-water flow, O-Fleld Area, APG, Md.
+
+33f20'45" 39f20'30"
+
+76°77'45"
+
+7G'17'30"
+Watson Creek
+
+33f20'15"
+
+Basefrom U.S. Geological Survey, 1:100,000
+
+EXPLANATION
+
+LOCATION OF WELLUsed to determine altitude of the potentiometric surface. Number is altitude, in feet above sea level.
+
+POTENTIOMETRIC SURFACE CONTOURS- Dashed where approximately located. Contour interval is 1 foot. Datum is sea level.
+
+SAMPLED FOR CHLOROFLUOROCARBON
+AGE DATA-Top number is altitude of water level, in feet above sea level. Bottom number is years since recharge. Dashes indicate data unavailable.
+
+FLOW LINES- Arrows indicate general direction of groundwater flow.
+
+250 500 FEET 62 121 METERS
+
+Figure 4. Altitude of the water table and flow lines at O-Field, June 1993.
+
+8 Hydrogeologlc setting, hydraulic properties, and ground-water flow, O-Field Area, APG, Md.
+
+(ICF Kaiser Engineers, 1994). The sediments range in color from black to gray or greenish gray (Vroblesky and others, 1989).
+The clay content of the upper confining unit is greater beneath Old O-Field than beneath New O-Field. In places, particularly at New O-Field where the upper confining unit contains a large proportion of sand, the upper confining unit is difficult to distinguish from the water-table aquifer.
+The top of the upper confining unit is about 4 ft below sea level near Watson Creek Road and about 12 to 16 ft below sea level beneath Watson Creek (fig. 5). The top of the unit slopes to the east beneath Old and New O-Fields; however, the surface undulates, indicating that it has been partially eroded in places by streams or that the
+
+thickness of the unit varied at the time of deposition.
+According to Vroblesky and others (1989), undisturbed parts of the upper confining unit were probably thicker beneath Old O-Field than beneath New O-Field. Furthermore, trenches may have been dug through the upper confining unit in many places at both Old and New O-Fields. In addition, data from borings at New O-Field showed that the upper confining unit is considerably thinner beneath New O-Field. The upper confining unit ranges from approximately 1 to 4 ft thick at Old O-Field, but in most ofNew O-Field, it is approximately 1 ft thick or less (fig. 6). The watertable aquifer could, therefore, be hydraulically connected to or poorly separated from the upper confined aquifer in some places.
+
+76°77'45"
+
+76°77'30"
+
+Watson Creek
+
+3ff20'30"
+
+cI?
+
+S
+'-10
+
+Basefrom U.S. Geological Survey, 1:100,000
+EXPLANATION
+
+250 500 FEET 62 121 METERS
+
+WELL LOCATION- Number is the altitude of the top of the upper confining unit, in feet below sea level.
+
+\ CONTOUR- Shows altitude of the top of -6 the upper confining unit. Dashed where
+approximately located. Contour interval is 2 feet. Datum is sea level.
+
+Figure 5. Altitude of the top ofthe upper confining unit at O-Field.
+
+Hydrogeologlc setting, hydraulic properties, and ground-water flow, O-Fleld Area, APG, Md.
+
+76°77'45"
+
+76°77'30"
+Watson Creek
+
+3ff20'30"
+
+cI?
+
+Basefrom U.S. Geological Survey, 1:100,000
+EXPLANATION
+
+250 500 FEET 121 METERS
+
+.-" WELL LOCATION- Number is thickness of the upper confining unit, in feet.
+
+CONTOUR- Shows thickness of the upper confining unit. Dashed where approximately located. Contour interval is 2 feet.
+
+Figure 6. Thickness ofthe upper confining unit at O-Field.
+
+Upper Confined Aquifer
+Beneath the upper confining unit is a sand and gravel aquifer interbedded with clay throughout most of the O-Field area. The sand is dark gray to brown and ranges in grain size from coarse to medium. Ten samples from the upper confined aquifer at Old and New O-Fields averaged 18 percent gravel, 63 percent sand, and 19 percent silt (ICF Kaiser Engineers, 1994). The gravel, sand, and silt were deposited by Pleistocene rivers and streams.
+The upper confined aquifer is bounded by less permeable silt and clay layers above and by a thick clay layer below. Water in a confined aquifer is underpressure and the hydraulic heads of the aquifer at depth are typically higher than the elevation of the top of the confined aquifer.
+
+The upper confined aquifer is continuous beneath the O-Field area, but thins to the west and may have been eroded and replaced by finergrained sediments beneath the Gunpowder River. The upper confined aquifer ranges in thickness from 2 to about 13 ft.
+Lower Confining Unit
+The lower confining unit is a dark gray to black clay that contains abundant leaf and plant fossils (Vroblesky and others, 1989). One sample from this unit collected at New O-Field was composed of 98 percent silt or clay and 2 percent sand (ICF, Kaiser Engineers, 1994).
+The clay was probably deposited in a marginal marine or estuarine environment (Owens, 1969). The lower confining unit is a continuous and relatively thick unit, averaging about 50 ft thick beneath Old O-Field.
+
+10 Hydrogeologlc setting, hydraulic properties, and ground-water flow, O-Fleld Area, APG, Md.
+
+Water-Level Changes and Recharge
+Continuous recorders were used to monitor water levels in selected wells during this investigation. Analysis of well hydrographs indicates daily or seasonal recharge events and the effects of tides on the aquifers. Rates of recharge to the water-table aquifer were calculated using data from previous reports and interpretations of new data. These recharge rates were then tested in the current ground-water-flow model to determine which rate (or rates), when compared with combinations of hydraulic conductivity, transmissivity, and leakance, provided the most accurate representation of heads in the water-table and upper confined aquifers.
+Precipitation at H-Field ranged from 35.55 to 46.08 in/yr from 1990 (when the station was established) to 1993 and averaged 41.08 in/yr, with a standard deviation of 3.98 in/yr (Wayne Kaiser, U.S. Army Test and Evaluation Command, oral commun., 1994). Rasmussen and Andreasen (1959) and Harsh and Laczniak (1990) indicated that ground-water recharge can range between 31 and 52 percent of total precipitation. Based on these percentages and the 41.08 in/yr average for precipitation at O-Field, recharge to the water-table aquifer is estimated to range between 12.7 and 21.4 in/yr. In order to consider a wide range of possible recharge values, values of one and two standard deviations above and below the mean precipitation (41.08 in/yr) were calculated, yielding five precipitation values. Each of these values was then multiplied by the high (52 percent) and the low (31 percent) recharge rate to yield 10 recharge values. The 10 values ranged from 10.26 to 25.5 in/yr and were used in the ground-water-flow model as described above.
+A recharge value of about 9 in/yr was used in a previous flow model of the O-Field area by ICF Kaiser Engineers (1994). Vroblesky and others (1989) indicated that recharge in the O-Field area ranged from 12.5 to 13 in/yr depending on the clay content of the soil zone and how the water-table aquifer responded to rainfall.
+
+Water-Table Aquifer
+The water-table aquifer is recharged primarily by precipitation directly on Gunpowder Neck. A small amount ofrainfall and snowmelt is carried in runoff to the Gunpowder River and to Watson Creek. A larger part of the precipitation is evaporated at land surface or is taken up by plants and transpired. The remaining precipitation infiltrates through the unsaturated zone to recharge the water table.
+Water levels in wells screened in the watertable aquifer tend to rise in the winter and early spring, indicating a seasonal recharge when plants are dormant and recharge is relatively high (fig. 7). Water levels tend to decline in the late spring and throughout the growing season from summer to early autumn when there is low or negligible recharge. The water table thus fluctuates with the seasons, but the fluctuations and the mean are consistent from year to year.
+Upper Confining Unit
+The upper confining unit inhibits water flowing between the water-table aquifer and the upper confined aquifer. The volume of water leaking through the upper confining unit is small and the flow rate is slow compared to movement through the water-table aquifer.
+The upper confining unit varies in lithology and thickness and may not be continuous throughout the O-Field area. Recharge to the upper confined aquifer could be substantial where the upper confining unit is sandy and thin or breached by paleochannels or trenches.
+Upper Confined Aquifer
+Water levels in the upper confined aquifer (fig. 3) are underpressure and respond to changes in pressures imposed on the water-table aquifer. Beneath the higher land surface altitudes, the confined aquifer responds to loads (depending on how well it is confined) imposed by major changes such as seasonal increases or decreases in the volume of water stored in the water-table aquifer. Daily rises and subsequent declines in water levels caused by major recharge events can also cause sharp increases and declines in the pressure heads.
+
+Hydrogeologlc setting, hydraulic properties, and ground-water flow, O-Field Area, APG, Md. 11
+
+OCT
+
+NOV 1992
+
+DEC I JAW
+
+FEB MAR APR DATE
+
+MAY 1993
+
+JUN
+
+JUL
+
+AUG SEP
+
+Figure 7. Altitude of the water table in well OF-16A and the potentiometric surface ofthe upper confined aquifer in well OF-16B at New O-Field, October I, 1992 through September 30,1993.
+
+Near the shore and the tidal wetlands, the water levels of the upper confined aquifer respond to changes in tidal loads. Tides in Watson Creek, however, are heavily influenced by winds and frequently do not show a diurnal response. In the absence of a tidal stress in Watson Creek, heads in the upper confined aquifer do not show a response.
+The upper confined aquifer is covered by silt and clay layers above and is bounded by a clay layer below. Although confined, the aquifer is recharged by water leaking through the upper confining unit from the water table. Because the vertical hydraulic conductivity of the upper confining unit is likely to be much lower than that of the water-table aquifer, the recharge rate through the upper confining unit is probably much smaller than the recharge rate to the water-table aquifer. Where the upper confining unit is missing or more
+
+permeable (more sand and less silt or clay), recharge rates could approach those of the watertable aquifer.
+HYDRAULIC PROPERTIES
+The hydraulic conductivities of aquifers and confining units control, to a large degree, the movement of ground water and the speed and directions that contaminants in ground water can travel. The vertical hydraulic conductivity of the upper confining unit and its thickness are significant factors governing the flow of ground water and contaminants between the water-table aquifer and the upper confined aquifer, and Watson Creek or the Gunpowder River. Hydraulic conductivities of the units at O-Field have been investigated by various methods in previous studies, and are summarized below.
+
+12 Hydrogeologlc setting, hydraulic properties, and ground-water flow, O-Field Area, APG, Md.
+
+Water-Table Aquifer
+Step-drawdown tests done at Old 0-Field by the U.S. Army Corps of Engineers (1994) and aquifer tests at New 0-Field by ICF Kaiser Engineers (1994) showed an average horizontal hydraulic conductivity of about 30 ft/d^for the water-table aquifer. A value of 20 ft/d for horizontal hydraulic conductivity was used in a ground-water-flow model done by ICF Kaiser Engineers. A ground-water-flow model of Gunpowder Neck developed by the USGS (Vroblesky and others, 1989) used a range in values of 5 to 110 ft/d in the 0-Field area. Results of slug tests at Old 0-Field by Vroblesky and others (1989) indicated an even greater range in the hydraulic conductivity ofthe water-table aquifer of less than 0.1 ft/d to about 200 ft/d. The values less than 0.1 ft/d are considered to have resulted from the presence of fine particles, which were not removed during well construction, and did not represent aquifer material (Vroblesky and others, 1989).
+Upper Confining Unit
+The vertical hydraulic conductivity of the upper confining unit and its thickness are significant factors governing the flow of ground water and contaminants between the water-table aquifer and the upper confined aquifer and Watson Creek or the Gunpowder River. Vertical hydraulic conductivity ranged from 0.0002 to 0.001 ft/d for the upper confining unit in the flow model developed by Vroblesky and others (1989). ICF Kaiser Engineers (1994) calculated a vertical hydraulic conductivity of 0.02 ft/d at New 0-Field on the basis of simulations of the aquifer tests and estimated O.Olft/d for Old 0-Field.
+Upper Confined Aquifer
+The horizontal hydraulic conductivity of the upper confined aquifer ranges from 20 to 30 ft/d and averages 22 ft/d on the basis of drawdown and recovery tests at two New 0-Field sites (ICF Kaiser, Engineers, 1994). A hydraulic conductivity value of 20 ft/d was used by ICF Kaiser Engineers (1994) for the upper confined aquifer in a flow model of the 0-Field area. On the basis of slug tests analyzed by the Hvorslev method (Hvorslev, 1951) for six wells that were purged of
+
+fine material near the well screen, hydraulic conductivity of the upper confined aquifer ranges from 18 to 63 ft/d with a median of 31 ft/d (Vroblesky and others, 1989). In their flow model, Vroblesky and others (1989) used a range of transmissivities for different areas representing the lower confined aquifer.
+Lower Confining Unit
+Laboratory analyses of six cores from two sites at Old 0-Field showed that the vertical
+hydraulic conductivity ranged from 4.7 x 10'6 to 4.7x 10-4 ft/d with a median of 1.6 x 10-5 ft/d (Vroblesky and others, 1989). The low hydraulic conductivity and thickness of this unit make it a relatively impermeable lower boundary for the aquifers of interest in this report.
+GROUND-WATER FLOW
+Water levels were monitored in 31 wells in the water-table aquifer and in 21 wells in the upper confined aquifer from October 1992 through September 1993. The shallow aquifer system of the 0-Field area is comprised of the water-table aquifer, the upper confining unit, and the upper confined aquifer (fig. 3). Because ground-water movement through the lower confining unit is negligible, it is considered a lower boundary to the shallow aquifer system.
+Ground-Water-Flow Directions and Discharge Areas
+Water levels in the water-table aquifer tend to be highest in late winter and early spring, decline throughout the summer, and reach yearly lows in September or October. Average head values for the year would therefore be found during midsummer or mid-winter. For the current groundwater-flow model, heads measured in June 1993 were chosen to represent steady-state conditions. Water-level maps of the aquifer were drawn from hydraulic heads measured in June 1993. Directions of ground-water flow and discharge areas are derived from interpretation of these maps
+Water-Table Aquifer
+The water table is located a few feet beneath land surface and roughly follows topographic contours. The water table slopes from higher altitudes
+
+Hydrogeologlc setting, hydraulic properties, and ground-water flow, O-Field Area, APG, Md. 13
+
+at the southern and central part of the study area northward and outward toward the wetlands between Old O-Field and New O-Field, Watson Creek, and the Gunpowder River (fig. 4).
+The ground-water flow is horizontal, in linear or slightly curved paths perpendicular to the equipotential lines. The direction of ground-water flow is from the higher hydraulic heads beneath the land to the lower heads beneath the wetlands and tidal rivers near the shore. Ground water moves from the water-table aquifer to the shore, where it discharges. A small amount of ground water also leaks downward through the upper confining unit and provides recharge to the upper confined aquifer.
+Upper Confining Unit
+Because of the large differences in hydraulic conductivities between the aquifers and the confining unit, the direction of movement through the fine-grained sediments is predominantly vertical. In recharge areas beneath the higher land surfaces, ground water moves downward through the confining unit. In discharge areas near and beneath the tidal rivers and wetlands, ground water moves upward through the confining unit For example, water from the upper confined aquifer discharges by upward leakage through the bottom sediments of Watson Creek.
+Upper Confined Aquifer
+The potentiometric surface of the upper confined aquifer is similar to that ofthe water-table aquifer in that the highest heads are to the south and beneath the center of the study area. Ground water flows in linear or curved paths from the higher potentiometric heads beneath the southern and central parts ofthe study area toward the lower heads beneath the shore of the Gunpowder River and Watson Creek. The hydraulic heads and gradients are lower in the upper confined aquifer than in the water-table aquifer (fig. 8). Beneath the tidal creeks and wetlands, heads in the upper confined aquifer are probably higher than sea level and ground water from the upper confined aquifer discharges by upward leakage through confining units and other sediments beneath these surfacewater bodies.
+
+Chlorofluorocarbon Dates
+The age of water samples collected from the wells was determined by use of Chlorofluorocarbon methods and then used to estimate ground-waterflow rates (Busenberg and Plummer, 1992). Chlorofluorocarbons (CFC's) are synthetic, chemically stable compounds that have been manufactured since the 1930's for use as refrigerants and solvents, propellants in aerosols, and foaming agents in plastics. CFC's are persistent in the environment (virtually all that are manufactured eventually are released into the atmosphere), and are resistant to microbial degradation in aerobic ground-water systems (Thompson and Hayes, 1979). Two CFC's in particular, CFC-12 (CC12F2) and CFC-11 (CC13F), make up over 77 percent of the 109 kilograms produced annually in the global market, with worldwide annual production currently increasing at a rate of approximately 3.7 percent (Busenberg and Plummer, 1992). The atmospheric concentrations of these compounds from 1940 to 1977 have been estimated from production records. From 1977 to the present, concentrations have been determined from semiannual averages of measured atmospheric concentration (Busenberg, and others, 1993).
+By the mid-1970's, it was recognized that detectable CFC concentrations in natural water held potential as an environmental tracer for water recharged after 1945. Thompson (1976) and Thompson and Hayes (1979) conducted studies in New Jersey, Texas, and Arkansas that showed that CFC-modeled age dates agree with dates based on known hydrologic parameters and tritium (3H) concentrations. The qualitative implication of CFC's in ground water is that some or all of the sampled water contains post-1945 water. Because CFC concentrations in the atmosphere are continuously increasing, concentrations of CFC's in ground water will continuously increase as new precipitation recharges the aquifer. In order to estimate water age from CFC concentrations, it is assumed that the recharged water maintains equilibrium with the air in the unsaturated zone prior to incorporation into the water table. For
+
+14 Hydrogeologic setting, hydraulic properties, and ground-water flow, O-Field Area, APG, Md.
+
+76" 1745"
+
+76° J 730"
+Watson Creek
+
+3Sf20'30"
+
+c
+
+Basefrom USCS, 1:100,000
+.4.72 WELL- Used to determine altitude of the potentiometric surface. Number is altitude, in feet above sea level.
+
+EXPLANATION
+
+250 500 FEET 62 121 METERS
+
+POTENTIOMETRIC SURFACE CONTOURSDashed where approximately located. Contour interval is 1 foot. Datum is sea level.
+
+FLOW LINES- Arrows indicate general direction of groundwater flow.
+
+Figure 8. Potentiometric surface of the upper confined aquifer and flow lines at O-Field, June 1993.
+
+hydrologic settings similar to the O-Field study area where depth to ground water is shallow (less than 20 ft), it is assumed that CFC concentrations in the unsaturated zone do not differ significantly from those in the atmosphere (Weeks and others, 1982).
+Factors Influencing Concentrations
+Henry's law is used to calculate the partitioning of CFC-12 and CFC-11 between the atmosphere in the unsaturated zone and the ground water. The Henry's law constants for CFC-12 and CFC-11 were calculated from their solubilities under environmental conditions. Recharge temperatures of O-Field ground water were based on the dissolved concentrations of argon and nitrogen incorporated at equilibrium with the atmosphere at the time of recharge (Heaton, 1981; Heaton and Vogel, 1981). The methods used to sample and analyze dissolved gases are described in Pearson and others (1978) and by Busenberg and others
+
+(1993). The method involves bringing a water sample in a closed container of known volume into contact with an evacuated container of known volume. After equilibration, the head space in the sample container is analyzed for N2, O2, CO2, Ar, and CH4 by use of a gas chromatograph. The concentration of the dissolved gases in the aquifer is determined by summing the amounts present in the two phases and dividing by the volume of the water chamber. Using this method, dissolved gas concentrations measured in the O-Field area indicate a recharge temperature of approximately 12±2°C.
+CFC concentrations in ground water may be influenced by microbial degradation, soil sorption, modern air in the sample, hydrologic processes such as hydrodynamic dispersion and mixing at the well screen, and contamination. Of these phenomena, contamination from atmospheric and non-
+
+Hydrogeologlc setting, hydraulic properties, and ground-water flow, O-Field Area, APG, Md. 15
+
+atmospheric sources represents the largest potential source for error at the O-Field site. Contaminated CFC samples are defined as samples with concentrations that exceed the range possible for air/water equilibrium at the determined recharge temperature. For water recharged at 12°C in equilibrium with 1993 atmosphere, concentrations of CFC-12 would be expected to be about 328.4 picograms per kilogram (pg/kg) and CFC-11 would be about 723.5 pg/kg. Because of the potential for CFC contamination at the O-Field site and because errors associated with CFC sampling are orders of magnitude greater than those associated with CFC analysis, the ages shown in table 1 are the older of either the CFC-12 and CFC-11 ages. In samples that have been contaminated through nonatmospheric sources, actual water ages will be older than reported on the basis of CFC age modeling.
+Samples taken from wells OF-23 and OF-37 were contaminated with CFC's (table 1). Well OF-23 had 128,752 pg/kg of CFC-12 and an unquantifiable amount of CFC-11; well OF-37 had 5,108 pg/kg of CFC-12 and 12,582 pg/kg of CFC-11. Well OF-23 had 393 times the amount of CFC-12 while well OF-37 had 16 and 17 times the expected amounts for CFC-12 and CFC-11 for 1993 atmosphere, respectively (table 1). In previous studies, CFC contamination has been attributed to PVC well casing, and/or Teflon ] or rubber pump parts (Dunkle and others, 1993). Given the disposal history of the area, however, it is more probable that CFC contamination at O-Field was a direct result of disposal or decontamination actions performed in the area. Although Nemeth (1989) does not specifically describe activities that would directly contribute to CFC contamination at O-Field, he does identify activities on post, process cooling and degreasing, in particular, that probably used CFC's.
+
+Table 1. Chlorofluorocarbon datafor wells at New O-Field, Aberdeen Proving Ground, Maryland (Samples taken from wells OF-23 and OF-37 were contaminated with chlorofluorocarbons)
+
+[pg/kg, picograms per kilogram; nd, no data available; , age data not available due to sample contamination]
+
+Well Date
+
+Time
+
+Recharge temperature CFC-11 CFC-12
+
+no. collected collected (F)
+
+(PE/kg) (pg/kg)
+
+OF-3 OF-9
+OF-10 OF-23 OF-37 OF-39
+
+10/26/93 10/27/93
+10/27/93 10/25/93 10/28/93 10/28/93
+
+1000 1700
+1100 1200 1000 1400
+
+12 12
+12 12 12 12
+
+437 166
+652 nd 12,582 674
+
+275 199
+268 128,752
+5,108 349
+
+Age
+(years) 3
+14.3 23.3 b 6.3 5.3
+
+a Ages based on CFC-11 data unless otherwise noted. b Based on CFC-12 data.
+
+Physical processes (such as mixing of ground water in the well annulus) can also introduce uncertainties into the interpretation of CFC data. Mixing of ground water can occur if a well is located in an area of ground-water discharge where flow lines of different ages converge. Mixing also can occur if a well is screened across multiple aquifers, drawing multiple age waters into the well bore. Once ground-water sources are mixed, CFC data cannot be used to distinguish water from different recharge years.
+Sampling and Analysis
+Busenberg and Plummer (1992) and Dunkle and others (1993) describe CFC sampling procedures, laboratory methods, and analysis. The wells at the O-Field site were sampled on October 25-28, 1993, by use of a submersible reciprocating-piston Bennett pump constructed of stainless steel with 0.25-in. copper discharge line. Pumping rates during purging and sampling typically ranged from approximately 0.5 to 1.0 gal/min, depending on well yield. Four to six
+
+The use of brand, firm, or trade names in this report is for identification purposes only, and does not constitute endorsement by the U.S. Geological Survey.
+
+16 Hydrogeologic setting, hydraulic properties, and ground-water flow, O-Field Area, APG, Md.
+
+samples at each well were collected in 63-milliliter (mL) borosilicate glass ampules and preserved in the field by sealing the ampule without allowing the sample to contact the atmosphere. The apparatus for collecting the samples is described in Busenberg and Plummer (1992). Sample analysis involved the use of a purge-and-trap gas chromatograph with an electron capture detector (BCD). Independent model ages were derived for CFC-11 and CFC-12 for each of the ampules collected at each site by comparing sample concentrations to the atmospheric growth curve (Busenberg and others, 1993). An independent model age was derived for CFC-11 and CFC-12 from each of the sample vials associated with a given sample. For the current study, the smallest concentration of CFC-11 or CFC-12 for each ampule was used to determine CFC modeled age. Errors in CFC concentrations introduced from field procedures tend to be larger than errors introduced during laboratory analysis. In environments where sampling conditions are less likely to be the major contributor to sample error, however, variance for CFC modeled ages range from 24 to 36 months (Eurybiades Busenberg, U.S. Geological Survey, oral commun., 1995).
+Well-selection criteria were based on the location of the site upgradient of or sufficiently distant from known disposal areas. This was particularly important because chlorinated organic solvents were disposed of at many sites around the O-Field area (Nemeth, 1989). These solvents can potentially mask CFC signatures during analyses.
+Six wells (OF-3, 9, 10, 23, 37, and 39) near Old and New O-Fields were sampled for CFC's to better refine estimates of the rate of ground-water movement (fig. 4). All wells, except OF-39, were screened in the water-table aquifer. All wells, including OF-39, were thought to be approximately located along areal flow-path lines (fig. 4). All wells are constructed of polyvinyl chloride (PVC). All wells, except OF-39, were drilled using hollow-stem auguring techniques and screened in the water-table aquifer using 10 ft of 0.01-in. screen. Wells OF-9 and OF-10 are 2 in. in diameter and wells OF-3, OF-23, and OF-37 are 4 in. in diameter. Well OF-39 was constructed by use of mud rotary drilling techniques. Well OF-39
+
+is 6 in. in diameter and has a 25-ft long, 0.01-in. screen that penetrates both the water-table and upper confined aquifers.
+Application to Ground-Water Flow
+CFC age dates can provide an empirical method of refining the simulated physical properties of the aquifer used to calibrate a groundwater-flow model. This is done by comparing rates of water movement calculated from the CFC data to average velocities calculated using the following equation for average rate of movement of water through a porous media (Lohman, 1979):
+
+v = (K/Q) (dh/dl),
+
+(1)
+
+where:
+
+v = average velocity (ft/d), K = horizontal hydraulic conductivity (ft/d), dh = change in head (ft), dl = distance between the wells (ft), and 0 = effective porosity (unitless).
+
+Average ground-water velocity under a given set of hydraulic conditions was determined in three ways: (1) head data measured in the field were used in the velocity equation above and assumed values for effective porosity and horizontal hydraulic conductivity were used; (2) the velocity equation was used with model-derived heads and the same assumed values for effective porosity and horizontal hydraulic conductivity as in (1) above; and (3) the distance between two wells along a flow path was divided by the difference in CFCderived ages to attain an average velocity based exclusively on CFC data. The flow model could be calibrated to the CFC data by iteratively changing one of the assumed hydraulic parameters and comparing the resulting velocity values to those calculated from the CFC modeled age data.
+The value used for dl remained a constant 1,274 ft for all simulations. The values for dh reflected either measured or modeled heads. Effective porosity values ranging from 0.25 to 0.45 were considered on the basis of the description of
+
+Hydrogeologic setting, hydraulic properties, and ground-water flow, O-Field Area, APG, Md. 17
+
+others (1989) as composed of medium-grained sand with interbedded silt and clay. Johnson (1967) indicated these sediments can have porosities ranging from about 0.38 to 0.48. Porosities were varied in 0.05 increments. For all velocity calculations, using both measured and modeled heads, an effective porosity value of 0.4 was found to provide the closest match with CFC age data. A horizontal hydraulic conductivity value of 28 ft/d for the water-table aquifer was found to provide reasonable values for velocity. This value was determined by the calibrated flow model described in the following section.
+Ground-Water-Flow Simulation
+A previous USGS ground-water-flow model of the O-Field area (Vroblesky and others, 1989) was redesigned using new aquifer-test data and was rediscretized in the vicinity of New O-Field. The current model expanded the modeled domain from Vroblesky and others (1989) so that model boundaries extended well beyond the area of interest. The current model was calibrated to water levels of June 1993. The current model was designed to determine aquifer properties and directions of ground-water flow.
+Model Grid and Boundary Conditions
+The USGS modular finite-difference groundwater-flow model (McDonald and Harbaugh, 1988) was used for the previous and the current model of the O-Field area. The current O-Field model extended the grid so that the grid boundaries would not influence model results. The current model also increases the discretized area to cover both Old and New O-Field. Like the original model, the current model simulates flow in the water-table aquifer, the upper confining unit, and the upper confined aquifer for part of Gunpowder Neck. Vertical leakage from the lower confining unit beneath the upper confined aquifer was assumed to be negligible.
+As in the previous model, a two-layer aquifer system was simulated with vertical leakance calculated between the layers (fig. 9). The watertable aquifer was simulated as one distinct layer in the current model and designated as "unconfined." The upper confined aquifer was simulated as the
+
+second layer and designated as "confined" during all simulations. Vertical leakage between the water-table aquifer and the upper confined aquifer was simulated for each cell by a hydraulic conductance term that includes values for vertical hydraulic conductivity and thickness of the confining unit. In this configuration, hydraulic heads are calculated by the model for the watertable and the upper confined aquifer, but not for the upper confining unit between the two aquifers. See McDonald and Harbaugh (1988, p. 2-35) for a general description of the method.
+A variable-sized grid (fig. 10) containing 88 rows and 105 columns was constructed and merged to various map coverages of Gunpowder Neck, Watson Creek, and the Gunpowder River by use of a geographic information system (GIS). The smallest cell sizes (block centered nodes) were used to simulate ground-water flow at the Old and New O-Field sites and are 25 ft on a side. The grid and cell size expand outward from the Old and New O-Field area where less definition of groundwater flow is required.
+Lateral boundaries of the model (fig. 10) were placed far from the areas of interest so that they would not artificially affect the simulated results. A constant head value of 0.9 ft was used in cells representing the Chesapeake Bay and Gunpowder River. Tidal data were collected from a tide gage located on the culvert at the mouth of Watson Creek. The median tidal value for 1993 (January through December) was 1.15 ft above mean sea level. This value was used to represent the constant head in Watson Creek as well as the adjoining wetlands. As in the model created by Vroblesky and others (1989), a line of drains representing the wetland between the Old and New O-Field sites was included in the top layer, the water-table aquifer.
+Calibration
+The model was calibrated to water levels measured in June 1993 in 31 wells screened in the water-table aquifer and 21 wells screened in the upper confined aquifer. For each computer run of the calibration phase, the measured water level at each well was compared to the simulated water
+
+18 Hydrogeologlc setting, hydraulic properties, and ground-water flow, O-Field Area, APG, Md.
+
+Layer 1 Water-Table Aquifer
+
+x Fixed Heads
+
+^/
+
+T
+
+X/ / / /////
+Leakance of Upper Confining Unit
+
+Layer 2 - Upper Confined Aquifer
+
+EXPLANATION
+
+SOLID SHADING INDICATES HYDROGEOLOGIC UNIT
+
+HATCHED SHADING INDICATES BOUNDARY CONDITIONS
+
+Figure 9. Major hydrogeologic units and boundary conditions modeled at New O-Field.
+
+level at that well and the differences were squared and then summed. A large sum of squared errors for a run indicated a poor simulation of measured water levels. A low sum of errors indicated a better approximation. By incrementally changing model variables and plotting the sum of squared errors for each model run on a two-dimensional matrix, a visual representation of model accuracy can be displayed (fig. 11).
+A horizontal hydraulic conductivity of 28 ft/d was initially assigned for the entire water-table aquifer based on a median value from aquifer tests performed by ICF Kaiser Engineers (1994), the U.S. Army Corps of Engineers (1994), and Vroblesky and others (1989). This value was later refined to include an area of lower horizontal hydraulic conductivity (5.0 ft/d) around the New O-Field site (fig. 12). This assumption of lower hydraulic conductivity near Watson Creek is
+
+supported by Banks and others (1996) in their analysis of thermal imagery of the area. Thermal image data collected on March 8 and 9, 1992, showed that areas of Watson Creek northwest of New O-Field had a cooler thermal signature than did the main body of Watson Creek. This was attributed to decreased ground-water discharge relative to other areas of Watson Creek, possibly due to a buildup of fines on the creek bottom and surrounding marsh area. Sieve analysis ofmaterial from the water-table aquifer taken while drilling wells OF-30 and OF-31 shows that more than 50 percent is fine sand and silt
+A vertical hydraulic conductivity of 0.0045 ft/d was assigned to the upper confining unit in all appropriate areas of Gunpowder Neck and Watson Creek. For the Gunpowder River and Chesapeake Bay where the upper confining unit was not present, a value of 1,000 ft/d was
+
+Hydrogeologlc setting, hydraulic properties, and ground-water flow, O-Field Area, APG, Md. 19
+
+39F21 1
+
+76° 18'
+
+7&17'
+
+7&1&
+
+3SP20'
+
+3SP19' Basefrom U.S. Geological Survey, 1:100,000
+
+0 1.000 2,000 FEET 0 242 484 METERS
+
+Figure 10. Finite-difference grid and model boundaries at O-Field. 20 Hydrogeologic setting, hydraulic properties, and ground-water flow, O-Fleld Area, APG, Md.
+
+MULTIPLES OF LEAKANCE
+
+THROUGH THE UPPER
+
+CONFINING UNIT (DAY)
+
+f*i"!
+
+O 0
+b
+
+_k
+0
+b
+
+-» b
+0
+
+o '->
+0
+
+o b
+
+0
+ob
+
+1o
+
+8 ISb
+S
+CO
+
+0
+-si
+CD
+
+Cr"o^O
+
+00
+bo
+
+00
+ro
+
+00
+p^
+
+ro en
+
+o obro
+CD
+
+CO
+CO CD
+
+CO
+-si
+CO CO
+
+ro
+00 CD
+bo
+
+-
+00 -^
+j*.
+
+_L
+ro b
+
+e_An P*"
+
+(To
+
+8ro
+CD
+
+CO
+eCOn
+CD
+
+CO CO
+P^
+
+Kp"*
+
+"wp21 s/ en
+
+|w
+I ^. 3 00
+
+o bo CroO
+
+ro
+00 CD
+bo
+
+ro
+sj
+CO
+en
+
+L
+eCnD
+
+/__^»i.
+
+* en
+
+i^\ too4,
+
+_-*i
+
+i
+
+CD Ji.
+
+ro | -1
+
+p^) CeOn
+
+ro CoD en
+
+ro ^*
+
+f m \ §_L _L _A
+
+CD O
+
+(xOi I\
+
+0 00
+
+00
+
+CO i ° 1 bo CD
+
+k
+
+-te
+a
+9Q
+
+p ro ro
+
+^
+CO CD
+
+CeOn en
+
+o ro
+
+*j
+
+Sc
+0tn0
+LA
+
+_L _k
+
+rroo P
+-si
+
+VO
+7bo
+*
+
+ro en
+CD
+
+0ro0 bo
+
+0 CD
+b
+
+00 P
+
+CO
+b
+
+ro CoD b
+
+20
+b
+CD
+
+oeron *
+
+§
+
+CD CD
+
+0ro
+
+en ro
+
+1
+
+ro
+
+0en // boy
+
+p'-L
+
+CO
+%
+CO
+
+3"
+fI
+
+&o
+
+O
+bo *
+
+CD 00 CD
+
+CD CD CO
+
+o P^
+
+O
+bo
+
+ro e0n0
+CO
+
+CD
+C'roD
+
+Ia
+
+0
+boen
+00
+
+.
+Ce'-DnL
+
+_L
+en
+CD
+en
+
+_i
+CD
+ro
+
+_A
+CD
+en
+
+oCeonO en
+
+CoD
+C' O*
+
+assigned to ensure that vertical movement of ground water was not restricted. The vertical hydraulic conductivity of the upper confining unit was divided by its thickness so that leakance changed areally in the model (fig. 13). Transmissivities of the upper confined aquifer used in the current model were modified from those used in the previous model by Vroblesky and others (1989). A transmissivity value of 283 ftVd was used for cells beneath the Gunpowder Neck peninsula and Watson Creek. A value of 600 ftVd was used for cells beneath the Gunpowder River and Chesapeake Bay, where the sediments are probably more permeable.
+The model was calibrated by changing the values of poorly known variables through reasonable ranges while holding measured or
+
+calculated variables constant. The transmissivity of the upper confined aquifer and the hydraulic conductivity of the water-table aquifer were well defined from the previous flow models and aquifer tests. However, no measured data were available on the recharge rate to the water table and very little data were available on the vertical hydraulic conductivity of the upper confining unit.
+Recharge rates and the vertical hydraulic conductivity of the upper confining unit were changed through ranges of reasonable values and the sum of the squared errors for each change was calculated. A matrix was plotted to compare the results and the local minima of errors with respect to the recharge rate and the vertical leakance values (fig. 11). A recharge rate of 0.0039 ft/d or 17 in/yr, coupled with a vertical hydraulic conductivity
+
+76° 18'
+
+7&17'
+
+76° re1
+
+3SP21'
+
+3SP20'
+
+EXPLANATION LEAKANCE, IN DAY'
+D 9.0xlOJ O 5.0x10"' H 3.0x10"'
+H 2.0x10"'
+H 1.0x10"'
+EH l.OxlO2
+_______I
+Base from U.S. Geological Survey, 1:100,000
+
+2flOO FEET 0 242 484 METERS
+
+Figure 13. Distribution of leakance in the upper confining unit at New O-Field.
+
+22 Hydrogeologic setting, hydraulic properties, and ground-water flow, O-Field Area, APG, Md.
+
+0.01 times the original, or 0.00045 ft/d for the peninsula and Watson Creek, and 10 ft/d for the bay and river produced the lowest sum of squared errors for both layers, which was 85.1 ft.
+Sensitivity Analysis
+After calibrating the current model by establishing the local minima with respect to the two least known variables (recharge to the watertable aquifer and leakance through the upper confining unit), the hydraulic conductivity of the water-table aquifer was tested to indicate the sensitivity of the model to changes in that parameter. Because both slug and pump tests have been performed on various wells around O-Field, hydraulic conductivity values were changed to reflect reasonable maximum and minimum values based on these data. Hydraulic conductivity values in the current calibrated model were changed based on the exclusion of censored (less than 0.1 ft/d) slug test data from Vroblesky and others (1989). Vroblesky and others (1989) indicated that a number of wells on which slug tests were performed did not respond to the introduction of the slug because fine sediment clogged the well screen. By excluding hydraulic conductivity data from these wells, the median horizontal hydraulic conductivity in the current model was increased to 50 ft/d. A series of model runs was then executed in which values for leakance and a horizontal hydraulic conductivity value of 50 ft/d were used while varying selected recharge rates as described above (fig. 11). Vroblesky and others (1989) stated that in wells where a hydraulic conductivity below a censoring threshold of less than 0.1 ft/d was measured, the actual hydraulic conductivity was probably between 4 and 30 ft/d. Excluding all but the censored slug test data and assuming a median value for horizontal hydraulic conductivity of 13 ft/d for the values less than 0.1 ft/d provided a reasonable value for a minimum horizontal hydraulic conductivity. The current model was then run varying selected recharge values against leakance and with a horizontal hydraulic conductivity of 13 ft/d.
+
+A matrix of the sum of squared errors, for both layers, for each of the sensitivity tests for the three values of horizontal hydraulic conductivity show that a local minima with respect to recharge (and leakance) had been established (fig. 14) using a horizontal hydraulic conductivity of 28 ft/d. This solution, however, does not represent a unique combination of model parameters. There were indications at the peripheries of the matrices that changes, beyond those tested, could possibly produce another local minima. No other local minima found in the matrices, however, were as low in error as that established previously.
+Implication of Chlorofluorocarbon Data
+Of the six wells sampled for CFC's, wells OF-23 and OF-37 were contaminated with CFC-11 and CFC-12. Although wells OF-39 and OF-10 probably are not contaminated, data from those wells were not used for several reasons. The annular seal on well OF-10 appeared to be faulty, potentially providing contact between the sampled aquifer material and modern (1993) air. The screen length of well OF-39 made it doubtful that water sampled from the well would be exclusively from the water-table aquifer. The location of well OF-39 in the flow system allowed for the potential of flow to the southeast, away from well OF-10, the nearest site downgradient from well OF-39. The remaining two uncontaminated wells, OF-3 and OF-9, defined a line approximately parallel to ground-water flow. Well OF-3 (fig. 4) is located near the topographic high of the study area and contains ground water with a modeled age of 14.3 years (table 1). Well OF-9 is located 1,274 ft to the northwest, and downgradient of well OF-3. Water from well OF-9 had a CFC modeled age of 23.3 years, implying that water recharged near well OF-3 takes 9 years to travel to well OF-9, at an average velocity of 0.39 ft/d. Equation 1 was solved for K so that CFC data could be related to the modeled parameter of horizontal hydraulic conductivity. This resulted in a horizontal hydraulic conductivity of 26 ft/d~an estimate independent of the model or the aquifer-test data. The data from the measured heads of June 1993
+
+Hydrogeologlc setting, hydraulic properties, and ground-water flow, O-Field Area, APG, Md. 23
+
+158.6 321 7
+28 155.7 M14 5
+50 244.3 196 5 2u5
+0.0029 0.0032
+
+313 8 446.0 -100
+[97.0 85.1
+
+651.6 86.9
+
+V167 9 134.6 112.4
+
+0.0035 0.0032 0.0044
+
+RECHARGE, IN FEET PER DAY
+
+Figure 14. Error between measured and simulated water levels with respect to the horizontal hydraulic conductivity of the water-table aquifer and selected recharge values to the water-table aquifer. The values inside of the 100 contour indicate the range of solutions with the lowest error.
+
+(target heads used to calibrate the steady-state model) were used to compute a slope from well OF-3 to well OF-9 (table 2). Using a porosity of 0.4 and a horizontal hydraulic conductivity of 28 ft/d, an average velocity of 0.42 ft/d was computed from well OF-3 to well OF-9. This represents a traveltime between these wells of 8.3 years.
+Initially, when modeled heads were substituted for measured heads, average velocities increased to 0.63 ft/d, which is equivalent to a traveltime between well OF-3 and well OF-9 of 5.5 years. The increase in velocity using calculated heads from the flow model was the result of a 3.91-ft increase in the head at well OF-3 and a 1.1-ft decrease in head at well OF-9 between the modeled versus measured heads. This increased the slope of the water table between the two wells by 40 percent. Errors such as these could be the result of inaccurate representation of one or several modeled parameters or errors in CFC data collection or analysis. In their model, Vroblesky and others (1989) suggest that the upper confining unit becomes more permeable and thins to the south-implying that water could pass more easily
+
+between the water-table and upper confined aquifers. By altering the current calibrated model so that the leakance of the upper confining unit is 0.09 d-1 for all cells immediately southeast ofNew O-Field, calculated heads in well OF-3 were effectively reduced to within about 2 ft below the measured head, while heads for well OF-9 were raised to less than 1 ft below the measured head. This change reduced the slope to within about 12 percent of the slope computed using measured heads, thereby decreasing the average velocity of ground water between the two wells to 0.48 ft/d, which is equivalent to a traveltime between well OF-3 and well OF-9 of 7.4 years. When the values for CFC (9.0 years) and modeled (7.4 years) traveltime are compared to the velocity derived from measured heads (8.3 years), there is less than 12 percent difference. This comparison illustrates (1) that the current model simulates the slope ofthe water table in the area of well OF-3 and well OF-9 with reasonable accuracy when compared to the measured values of June 1993, and (2) horizontal hydraulic conductivity values generated from aquifer tests are corroborated by CFC data when measured heads are used in conjunction with an assumed porosity of 0.4.
+
+24 Hydrogeologk setting, hydraulic properties, and ground-water flow, O-Field Area, APG, Md.
+
+Table 2. Traveltime ofground water between wells OF-3 and OF-9 at New O-Field, based on chlorofluorocarbon data, hydraulic heads measured in June 1993. and modeled hydraulic heads
+
+[ft = feet; ft/d = feet per day]
+
+Hydraulic
+bead (It)
+Well Well
+OF-3 OF-9
+
+Change
+in Hydraulic
+
+head (Ah) conductivity Velocity
+
+(ft) (ft/d)
+
+(ft/d)
+
+Traveltime, (years)
+
+CFCdata 6.36 Measured 6.36 Modeled 4.33
+
+14.00 14.00 13.01
+
+7.64 7.64 8.68
+
+26 0.39 9.0 a28 .42 8.3 a28 .48 7.4
+
+1 Value used in model.
+
+The use of shallow ground-water age-dating techniques demonstrates that CFC data can be used effectively as a tool to refine the knowledge of the physical properties governing ground-water flow. The changes to the calibrated flow model described above provided a more representative simulation of the water-table aquifer. The CFC-modeled age data, in conjunction with a knowledge of the geology of the area, provide independent insight to the properties governing the hydrologic system.
+
+Flow Paths
+Ground-water flow paths and heads in the calibrated model closely follow those interpreted from measured hydraulic heads in June 1993 (fig. 15). Seasonal changes in water levels could change the directions of ground-water flow. Changes in water levels, however, are centered about an average annual water level, which is what the calibrated model represents. Because groundwater flow is slow compared to seasonal changes in water levels, temporary changes in velocity tend to be negligible over long periods of time and an average flow rate is valid.
+From the chlorofluorocarbon-modeled age dates, a rate of ground-water flow of 0.39 ft/d was estimated between wells OF-3 and well OF-9 south of New O-Field. An estimate of the velocity of ground water based on the ground-water-flow model of 0.48 ft/d was calculated for the same path based on the hydraulic gradients of the flow model and the equation for the average linear velocity (Lohman, 1979). An effective porosity of 40 percent was assumed for the water-table aquifer in the calculation. The velocities estimated from independent (CFC) data indicate that the rates of ground-water flow south of the O-Field area can be estimated by the ground-water-flow model with reasonable accuracy.
+
+Hydrogeologic setting, hydraulic properties, and ground-water flow, O-Field Area, APG, Md. 25
+
+39f20'45" 39>20'30"
+
+7G1T45"
+
+76" 17'30"
+Watson Creek
+
+3ff20'15"
+
+2.00 5.27
+
+Basefrom USGS, 1:100,000
+WELL LOCATION-Top number is measured hydraulic head; bottom number is simulated hydraulic head value. Both values are in feet above sea level.
+
+EXPLANATION
+HYDRAULIC HEADContours based on simulated values, in feet. Dashed where approximately located. Contour interval is 1 foot. Datum is sea level.
+
+250 500 FEET 62 121 METERS
+FLOW LINES-Arrows indicate general direction of groundwater flow.
+
+Figure 15. Measured and simulated hydraulic heads of the water-table aquifer at O-Field, June 1993.
+
+26 Hydrogeologic setting, hydraulic properties, and ground-water flow, O-Field Area, APG, Md.
+
+SUMMARY
+
+The U.S. Army disposed chemical agents, contaminated materials, and unexploded ordnance at O-Field in the Edgewood Area of Aberdeen Proving Ground, Maryland. Soil, ground water, surface water, and wetland sediments in the O-Field area were contaminated from the disposal activity. The USGS began a study in cooperation with the U.S. Army in 1990 to (1) further define the hydrogeologic framework of the O-Field area, (2) characterize the hydraulic properties of the aquifers and confining units, and (3) define groundwater flow paths at O-Field based on the new data and new simulations of ground-water flow.
+The water-table aquifer, the upper confining unit, and the upper confined aquifer comprise the shallow aquifer system of the O-Field area. The lower confining unit is considered a lower boundary to the shallow aquifer system through which ground-water movement is negligible. These units are within the Talbot Formation of Pleistocene age or more recently reworked alluvium of the Holocene.
+
+A previous USGS ground-water-flow model of the O-Field area was redesigned with new data and with emphasis on New O-Field. The current model was calibrated to water levels of June 1993. The model was calibrated by changing the values of the least known variables through reasonable ranges while holding measured variables constant. Ground-water flow paths in the calibrated model follow closely those interpreted from hydraulic heads measured in June 1993.
+On the basis of chlorofluorocarbon dates, a rate of ground-water flow of 0.39 ft/d was estimated between two wells south of New O-Field. These data were used to change the calibrated ground-water-flow model so that modeled heads in the water-table aquifer more closely reflected the velocity implied by the CFC data. The refined model produced an estimate of ground-water velocity of 0.48 ft/d for the same flow path based on the hydraulic gradients from the flow model and the equation for the average linear velocity.
+
+Hydrogeologlc setting, hydraulic properties, and ground-water flow, O-Field Area, APG, Md. 27
+
+REFERENCES CITED
+
+Banks, W.S.L., Paylor, R.L., and Hughes, W.B., 1996, Using thermal-infrared imagery to delineate ground water discharge: Ground Water, v. 34, no.3, p. 434-443.
+Busenberg, Euryblades, and Plummer, L.N., 1992, Use of chlorofluorocarbons (CC13F and CC12F2) as hydrologic tracer and agedating tools~The alluvium and terrace system of central Oklahoma: Water Resources Research, v. 28, p. 2257-2283.
+Busenberg, Eurybiades, Weeks, E.P., Plummer, L.N., and Bartholomay, R.C., 1993, Age dating ground water by use of chlorofluorocarbons (CC13F and CC12F2), and distribution of chlorofluorocarbons in the unsaturated zone, Snake River Plain Aquifer, Idaho: U.S. Geological Survey Water-Resources Investigation Report 934054, p. 47.
+Dunkle, S.A., Plummer, L.N., Busenberg, E., Phillips, P.J., Denver, J.M., Hamilton, P.A., Michel, R.L., and Coplen, T.B., 1993, Chlorofluorocarbons (CC13F and
+CC12F2) as dating tools and hydrologic tracers in shallow ground water of the Delmarva Peninsula, Atlantic Coastal Plain, United States: Water Resources Research, v. 29, p. 3837-3860. Harsh, J.F., and Laczniak, R.J., 1990, Conceptualization and analysis of groundwater flow systems in the Coastal Plain of Virginia and adjacent parts of Maryland
+and North Carolina: U.S. Geological Survey Professional Paper 1404-F, 100 p. Heaton, T.H.E., 1981, Dissolved gases-Some applications to groundwater research: Transactions of the Geological Society of South Africa, v. 84, p. 91-97. Heaton, T.H.E., and Vogel, J.C., 1981, "Excess air" in groundwater: Journal ofHydrology, v. 50, p. 201-216.
+
+Hughes, W.B., 1993, Hydrogeology and soil gas at J-Field, Aberdeen Proving Ground, Maryland: U.S. Geological Survey WaterResources Investigations Report 92-4087, 83 p.
+Hvorslev, M.J., 1951, Time lag and soil permeability in ground water observations: U.S. Army Corps of Engineers Waterway Experimentation Station, Bulletin 36, 50 p.
+ICF Kaiser Engineers, 1994, Aberdeen Proving Ground Remedial Investigation Report for the O-Field Area - Phase I Draft Document, DAAA15-91-D-0014.
+Johnson, A.I., 1967, Specific yield-Compilation of specific yields for various materials: U.S. Geological Survey Water-Supply Paper 1662-D, 74 p.
+Lohman, S.W., 1979, Ground-water hydraulics: U.S. Geological Survey Professional Paper 708, 70 p.
+McDonald, M.G., and Harbaugh, A.W., 1988, A modular three-dimensional finitedifference ground-water-flow model: U.S. Geological Survey Techniques of WaterResources Investigations, book 6, chap. Al,528p.
+Nemeth, Gary, Murphy, J.M., and Zarzycki, J.H., 1983, Environmental survey of the Edgewood Area of Aberdeen Proving Ground, Maryland: Aberdeen Proving Ground, Md., U.S. Army Toxic and Hazardous Materials Agency Report No. DRXTH-AS-FR-82185, 265 p.
+Nemeth, Gary, 1989, RCRA facility assessment report, Edgewood Area, Aberdeen Proving Ground, Maryland: U.S. Army Toxic and Hazardous Materials Agency Report No. 39-26-0490-90, 929 p.
+Owens, J.P. 1969, Coastal Plain rocks of Harford County, in The geology ofHarford County, Maryland: Maryland Geological Survey, p. 77-103.
+
+28 Hydrogeologlc setting, hydraulic properties, and ground-water flow, O-Fleld Area, APG, Md.
+
+Pearson, F.J., Jr., Fisher, D.W., and Plummer, L.N., 1978, Correction of ground-water chemistry and carbon isotopic composition for effects of C02 degassing: Geochimica et Cosmochimica Acta, v. 42, p. 17991807.
+Rasmussen, W.C., and Andreasen, G.E., 1959, Hydrologic budget of the Beaverdam Creek basin, Maryland: U.S. Geological Survey Water-Supply Paper No. 1472, 106 p.
+Thompson, G. M., 1976, Trichloromethane, a new hydrologic tool for tracing and dating ground water-Bloomington, Indiana, Indiana University, Ph.D. dissertation, 93 p.
+Thompson, G.M., and Hayes, J.M., 1979, Trichloromethane in groundwater - A possible tracer and indicator of groundwater age: Water Resources Research, v. 15, p. 546-554.
+U.S. Army Corps of Engineers, Baltimore District, 1994, Phase I Technical Report, containment and treatment of contaminated groundwater at Old O-Field, Aberdeen Proving Ground, Maryland, DCN: APG-8117-15-AAMG8.
+
+U.S. Army Corps of Engineers, Baltimore District, 1994, Phase II Technical Report, containment and treatment of contaminated groundwater at Old O-Field, Aberdeen Proving Ground, Maryland, DCN: APG-8117-15-AANZ.
+Vroblesky, D.A., Lorah, M.M., and Oliveros, J.P., 1989, Ground-water, surface-water and bottom-sediment contamination in the O-Field Area, Aberdeen Proving Ground, Maryland, and the possible effects of selected remedial actions on ground water: U.S. Geological Survey Open-File Report 89-399, 162 p.
+Weeks, E.P., Earp, D.E., and Thompson, G.M., 1982, Use of atmospheric fluorocarbons F-ll and F-12 to determine the diffusion parameters of the unsaturated zone in the southern high plains of Texas: Water Resources Research, v. 18, p. 1365-1378.
+Yon, R.L., Wenz, D.J., and Brenner, Charles, 1978, Information relevant to disposal of hazardous material at O-Field, Aberdeen Proving Ground, Maryland: Aberdeen Proving Ground, Maryland, Chemical Systems Laboratory, Record Evaluation Report 1978-1,52 p.
+
+Hydrogeologic setting, hydraulic properties, and ground-water flow, O-Field Area, APG, Md. 29
+
+

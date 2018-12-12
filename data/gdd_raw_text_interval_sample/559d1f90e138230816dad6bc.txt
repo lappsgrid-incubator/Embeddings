@@ -1,0 +1,505 @@
+DEPARTMENT OF THE INTERIOR U.S. GEOLOGICAL SURVEY
+Gravity profiles across the Uyaijah Ring structure, Kingdom of Saudi Arabia by 17
+M. E. Gettings and G. E. Andreasen
+Open-File Report 87- 500
+Report prepared by the U.S. Geological Survey in cooperation with the Deputy Ministry for Mineral Resources, Saudi Arabia
+
+This report is preliminary and has not been reviewed for conformity with U.S. Geological Survey editorial standards and stratigraphic nomenclature,
+
+If USGS, Reston, VA
+
+1987
+
+CONTENTS
+Page
+ABSTRACT.............................................. 1
+INTRODUCTION.......................................... 1
+GRAVITY PROFILE DATA.................................. 4
+DISCUSSION............................................ 9
+CONCLUSIONS........................................... 12
+DATA STORAGE.......................................... 12
+Data File......................................... 12 Mineral Occurrence Documentation System........... 12
+REFERENCES CITED...................................... 13
+ILLUSTRATIONS
+Figure 1. Index map showing the location of the study area................................. 2
+2. Generalized geologic map and simple Bouguer gravity-anomaly map of the area of study................................... 4
+3. Profiles from the Bouguer gravity-anomaly map........................................ 5
+4. Detailed gravity profiles over the Uyaijah ring structure............................. 6
+5. Scatterplots of measured rock densities.... 8
+6. Residual isostatic-gravity-anomaly map of the study area............................. 10
+7. Schematic structural cross section of the Uyaijah ring structure..................... 11
+APPENDIX
+1. Principal facts for the 217 gravity stations of the detailed profiles.......... 15
+
+GRAVITY PROFILES
+ACROSS THE UYAIJAH RING STRUCTURE,
+KINGDOM OF SAUDI ARABIA
+by
+II M. £. Geffings and G. £. Andreasen
+ABSTRACT
+Three detailed gravity profiles across parts of the Uyaijah ring structure have been completed using an average station spacing of 260 M (giving a total of 217 gravity stations) and level surveys for elevation control. When combined with regional gravity-anomaly data, the profiles are adequate for construction of a structural model of the ring complex based on gravity models.
+The resulting structural model, based on profile fits to gravity responses of three-dimensional models and excess-mass calculations, gives a depth estimate to the base of the complex of 4.75 km. The contacts of the complex are inferred to be steeply dipping inward along the southwest margin of the structure. To the north and east, however, the basal contact of the complex dips more gently inward (about 30 degrees). The ring structure appears to be composed of three laccolith-shaped plutons; two are granitic in composition and make up about 85 percent of the volume of the complex, and one is granodioritic and comprises the remaining 15 percent. The source area for the plutons appears to be in the southwest quadrant of the Uyaijah ring structure. A northwest-trending shear zone cuts the northern half of the structure and contains mafic dikes that have a small but identifiable gravity-anomaly response. The structural model agrees with models derived from geological interpretation except that the estimated depth to which the structure extends is decreased considerably by the gravity results.
+INTRODUCTION
+The Uyaijah ring structure is a circular plutonic mass within the Kushaymiyah igneous complex in the east central part of the Arabian Shield (fig. 1). The ring structure is composed of a granodiorite pluton that is elliptical in outcrop, about 20 km in diameter, and is intruded by a central granite stock and a later ring of alkalic granite. The ring dike formed by invasion of ring fractures created when the granodiorite and granite stock were intruded by the alkalic granite and were uplifted in a piston-like fashion (Dodge, 1979). The Uyaijah ring structure has been extensively investigated because early geological and geochemical reconnaissance work revealed anomalous concentrations of tungsten and molybdenum in the area (Lacombe and Letalenet, 1970; Bois and others, 1975; Whitlow, 1966, 1968a, b). Delfour (1980) compiled a regional l:250,000-scale geologic map that includes the Khushaymiyah igneous complex. Other studies in this part of the Arabian Shield were completed by Theobald (1970), Dodge (1973), Theobald and Allcott (1973), Flanigan and Andreasen (1973), and by Dodge and Helaby (1975).
+I/ USGS, Reston, VA
+
+34W
+
+36° 37'30' 39" 40°30'
+
+42° 43W 45" 46°30'
+
+48" 49°30
+
+511 52"30' 54° 55"30' 57"
+
+Figure 1. Index map showing the location of the area of study in the Arabian Shield of Saudi Arabia.
+
+Geophysical investigations of this area included interpretation of aeromagnetic data and acquisition and interpretation of airborne spectrometric data (Flanigan and Andreasen, 1975). At the same time, topographic mapping was done in selected target areas undergoing mineral exploration (Dodge and Helaby, 1975). Several detailed gravity traverses with surveyed elevation control were also completed. The resulting gravity-anomaly data were of limited utility until regional gravity-anomaly control became available to constrain the ends of the profiles. On completion of regional gravity-anomaly maps of the area (Gettings, 1983, 1984), an interpretation of the profile data was carried out and the results are presented in this report.
+Figure 2 illustrates the simple (not terrain-corrected) Bouguer gravity-anomaly field (Gettings, 1983) superimposed on the generalized geology of the area. The batholithic rocks consist of large plutonic bodies of calc-alkalic granodiorites and granites (Greenwood and Brown, 1973) that intrude the axis of a southeasttrending synclinorium of Murdama group metasediments. This spatial relationship appears to be related to basin subsidence and associated lower-crustal melting leading to the emplacement of large batholithic complexes at upper crustal levels.
+In a regional sense, the batholithic masses have well-defined gravity- anomaly minima of about 20-milligal (mgal) amplitude associated with them (fig. 2); this is typical of other plutonic complexes in the Arabian Shield (Gettings, 1983) and elsewhere in the world. To the east, the area is bounded by a steep positive gravity-anomaly gradient marking the western edge of the Ar Rayn block, an allocthonous block of different crustal composition (Gettings and others, 1983). The positive gravity anomaly in the southwest corner of the map (fig. 2) is a part of the gravity anomaly associated with the Najd fault zone (Gettings, 1983, 1984).
+Figure 3 presents two profiles constructed from the gravity-anomaly map (fig. 2). Profile A-A' extends axially through the Khushaymiyah complex and across the large batholith to the east; profile B-B* is transverse to A-A* and extends across the Uyaijah ring structure within the Khushaymiyah complex. The shapes of the gravity anomalies suggest that the batholiths are composed of tabular plutons (that is, plutons having horizontal extent greater than vertical) whose source zones are located over the absolute gravity minima. In such model, the anomaly minima are located over the feeder zones for the plutons because they are the locus of maximum mass deficiency.
+In a preliminary interpretation, the regional gradient shown in figure 3 was removed from profile B-B' and the residual anomaly was interpreted as if it were due to a spherical source. The analysis yields a depth to center of mass of 8 km. As the batholith is exposed at the surface, the radius of the sphere canbe assumed to be 8 km, and thus the density contrast required to cause the anomaly is -0.107 g cm"3. The calculated anomaly (fig. 3) is systematically greater than the observed residual, implying a mass deficiency that is too large, and thus the depth estimate of 8 km is certainly an upper bound. The spherical source interpretation implies that the source is mainly at depths less than 8 km and has a density contrast of approximately -0.1 g cm'3. The shape of the anomaly and the fact that the upper surface is nearly flat imply that the source is probably funnel shaped or at least decreases in size with depth.
+This work was completed under the terms of a work agreement between the Deputy Ministry of Mineral Resources, Kingdom of Saudi Arabia, and the U.S. Geological Survey. The efforts of the USGS staff and Ministry personnel who contributed to various aspects of the work are gratefully acknowledged.
+
+GRAVITY PROFILE DATA
+A total of 217 gravity stations were established by G. E. Andreasen, A. R. Gazzaz, and H. M. Merghelani in 1973 using Lacoste-Romberg gravimeter number G138. Elevation control was achieved by level-line surveys completed by K. S. McLean. Topographic relief in the area is minimal, except for isolated hills that commonly rise only about 50 m above the surface of the plain. In a few cases, however, these hills may reach 300 m. The mean elevation of the area is about 950 m above sea level. The locations of the gravity traverses are shown in figure 2. Ii
+The gravity data were reduced by G. E. Andreasen and B. M. North in 1975 using a programmable calculator. Topographic corrections are judged to be negligible in all cases and have not been applied to the data. Earth tidal and gravimeter-drift corrections have not been applied to the data; however, this is not a serious problem as their absence will not cause errors greater than 0.4 mgal and the anomalies being considered are on the order of several mgal. The profile data are on a floating datum but have been adjusted to the absolute datum of Gettings (1983, 1984). Average station spacing was 260 M for the profiles. The 3 profiles in figure 4 show gravity-anomaly values as a function of total distance (not projected) along the traverse. Relevant information concerning principal facts for the profile stations is given in appendix 1.
+Detailed comparison of the profiles with the exposed geology (fig. 4) shows the following correlations: a) the metasediments are always associated with relatively high gravity values, b) the alkalic granite of the ring dike is the least dense of the rock units and relative minima ("notches" in the curve) are always found over it, c) the granodiorite is more dense than the alkalic granite and has gentler gravity anomaly gradients, and d) the central core granite must have a lesser density (similar to the alkalic granite) as it has steeper gravity-anomaly gradients and a gravity minimum. In profiles B-C and C-D (fig. 4), the gravity anomaly climbs gently and steadily to its maximum value at point C in a lobe of Plutonic rock. This area was mapped by Dodge (1979) as the Al Areyef granodiorite of the Uyaijah ring structure. This gravity-anomaly pattern may be
+
+Figure 2.~Generalized geologic map and simple Bouguer gravity anomaly map
+of the area of study. Traces of the detailed gravity profiles (fig. 4) over the Uyaijah ring structure are shown by the dashed lines labeled A, B, C, and D. Traces A-A* and B-B* are the locations of the profiles of figure 3.
+Solid dots are gravity station locations from Gettings (1983); geologic base from Flanigan and Andreasen (1973). Irregular outline within the Uyaijah ring structure is the outcrop of the Jabal Thaaban core granite (Dodge, 1979). Contour interval 5 mgal.
+
+EXPLANATION
+
+I I Unconsolidated surficial deposits
+
+Alkaline granite; some associated syenite
+
+Calc-alkalic granite or granodiorite
+
+Migmatitic granite or granodiorite of uncertain age
+
+Murdama group
+
+Lv.:;'i Diorite, gabbro, quartz diorite, granodiorite, ultramafic rocks
+
+V:/\ Halaban group
+
+K^H Sericite-chlorite schist, amphibole gneiss, biotite gneiss, amphibolite, marble
+
+Contact
+
+Fault
+
+-120 L
+Figure 3. Profiles from Bouguer gravity-anomaly map of figure 2. The residual anomaly shown is derived by subtraction of the regional field (dashed line) from profile B-B', and a model calculation from a spherical source is shown.
+
+Distance, Km 0 10 20
+
+~agltdl , *1
+^1
+\
+£ganraoumvgiaetlyr A'
+
+U KI d d dd d gr
+O*
+
+.\
+«
+\
+%v^.--*'
+-105
+
+Id 1 IllQUQH
+
+ddd d Q mu ag
+
+1 «l 1
+
+.*
+
+i **
+
+9
+
+jJ B
+
+/ / .-*
+
+Distance, Km 0 10 20
+
+C
+ft
+
+D
+
+^
+S-96 t § ft
+
+%-.%
+^"^ %Vw**. "*...
+
+1
+gd 1i,|
+
+ff
+<{r ldl dHdId d|Id|I|d
+
+1 _J 1
+
+-106
+
+( Distance, Km
+) 10
+
+B
+
+'-. » _m
+|-96
+
+/~' *^_. ^~
+\*^~S **^
+
+i«
+« j~Mill Q mu d
+
+{ f ff
+
+\,l$ 1 l|lxl M
+
+gd mu
+
+ag mu
+
+406
+
+20 C
+i
+
+Figure 4.--Detailed gravity-anomaly profiles with geologic sections over the Uyaijah ring structure. Profile location map is a part of figure 2. Irregular outline within the ring structure encloses the outcrop of Jabal Thaaban granite (Dodge, 1979). Symbols are: f, fault; d, mafic dike; gd, granodiorite; gr, granite; ag, alkalic-granite ring dike; mu, Murdama metasediments; and Q,
+Quaternary alluvium.
+
+caused by a shallowing of the contact of the granodiorite with the metasediments. There is about a 2 mgal anomaly between the ends of the profiles (point C) and their intersection with the ring dike; this corresponds to about 500 m of granodiorite with a density contrast of -0.1 g cm'3. This lobe is probably a sill thinning to the southeast and becoming about 500 m thick where it is cut off by the ring dike.
+Profile A-B (fig. 4) contains the most structural information as it crosses both contacts, most of the ring complex, and all of the major rock units. A bulge in the gradient is present between 13 and 17 km on the profile, and is largest at 13 km where it is bounded by an abrupt offset in the anomaly values. The sharpness of the offset implies that the source of the bulge is shallow. Examination of the geologic map (Theobald and Alcott, 1973) shows that this bulge coincides with a zone of northwest-trending mafic dikes that cut the complex along a shear zone parallel to the nearby Najd fault zone. The analyses by Dodge (1979) indicate that these dike rocks have a mean density of about 2.8 gm cm'3 and range in composition from basalt to andesite. The fact that these dikes are highly altered in some cases will affect their magnetic response; however, the alteration will have little effect on the rock density since the alteration minerals have nearly the same density as the minerals from which they were formed. Judging from the amplitude and wavelength of the bulge in profile AB, the volume ratio of dikes to host rocks probably increases at depth.
+Dodge (1979) gives rock bulk density measurements from a suite of samples of all the major rock units of the area. These data have been plotted in scatterplot format for convenience in estimating density contrasts for model calculations and are shown in figure 5. The figure shows that the granites have a density contrast of about -0.13 g cm'3 with the metasediments, whereas the granodiorite has only about a -0.07 g cm'3 contrast. If the average density contrast inferred from the spherical source model above is correct, and the measured densities are representative of the actual mean densities at depth, the granodiorite must be volumetrically smaller than the alkalic granite and granite, and make up only about 15 percent of the batholithic mass. The amphibolites shown in figure 5 are reported by Dodge (1979) to have been infolded and faulted into the metasediments in small slivers and pods; however, the literature gives no indication of their size. Examination of the l:100,000-scale geologic map (Bois and others, 1975) showed that the only mapped amphibolites are quite far from the Khushaymiyah area and appear to be part of the crystalline rocks in the Najd zone to the southwest. The amphibolites were here assumed to be volumetrically unimportant; however, if they constituted, say 15 percent of the host rocks, the mean host rock density would be increased and thus the density contrast would increase and computed depths and volumes of the batholithic rocks would decrease. The models that follow, therefore, place maximum limits on the depth extent and volume of the plutons of the ring complex.
+Profile AB, extended laterally using data from the regional Bouguer gravity-anomaly map (fig. 2), was modelled in several ways in order to derive the final structural model described below. This final model shows that the Uyaijah ring structure is laccolithic in shape, with its root zone in the southwestern quadrant of the outcrop area (fig. 2); however, it is sill-like to the northeast. These relations are suggested (but certainly not required) by the regional map (fig. 2) which shows that the gravity-anomaly gradients associated with the ring structure are steepest to the southwest but gentler elsewhere.
+
+NOTATION
+
+p-5 m
+
+p+5
+
+Min. Max. \ # samples
+
+Mafic dike rocks
+
+1*
+
+X | N=14
+
+Felsic dike rocks Alkaline granite RUONCITK Altered granite
+
+| X X | N=33 | X x) N=9
+
+Core granite
+
+1 * H N=22
+
+Granodiorite
+
+1X
+
+X | N=22
+
+Schist and hornfels
+25
+
+hx X | N=10
+
+Amphibolite in schist 1 1 N=2
+
+1 1 1 1 1 "1 2.6 2.7 2.8 2.9 3.0 3.1
+Density, gem 3
+
+Figure 5. Scatterplots showing the measured rock densities (Dodge, 1979) for the various rock units. For each set of specimens, the mean density, range, and mean + one standard deviation are shown with the number of specimens measured.
+
+DISCUSSION
+On the basis of the regional data (fig. 2), profile AB can be extended to the southwest; but, to the northeast, there are no nearby stations to control the profile. In addition, to the northeast, the geologic situation is more complex because the metasediments are a wedge between two plutons and the shape of the profile is affected by the gravity anomaly of the intrusive rocks.
+The southwest side of the anomaly of profile AB (fig. 4) was analysed first using as a model a dipping interface (or step) that extends infinitely in a direction normal to that of the profile (as formulated by Grant and West, 1965, p. 282). The results of the calculations show that the depth to the source is essentially zero as expected and the average dip of the density discontinuity is about 80 degrees to the northeast. The derivation of other parameters from this model (for example, depth to the bottom, and density contrast) is not reliable because these parameters depend upon the total amplitude of the gravity anomaly; the use of a two-dimensional model for this three-dimensional case is not valid. For the northeast gradient of the profile, the lack of data beyond the edge of the ring structure and the noise introduced into the profile by near-surface sources make quantitative analysis by this method impossible. However, inspection of the profile shows that the average dip of the interface must be between one-third and one-half of that for the southwest gradient.
+Each half of the profile was modelled by curve-fitting techniques using model curves for frusta of right-circular cones from an album (Phoenix Corp., 1980). Good fits were obtained for both gradients of the profile and yielded a model where a vertical contact was the best fit for the southwest gradient (the album cone slopes vary in increments of 30 degrees). This agrees with the estimated slope as derived from the fault interpretation. For the northeast gradient, the best fit was a 30 degree dip to the southwest. For both models, the depth to the bottom of the model was 4.75 km and the calculated density contrast was -0.114 g cm"3. The density contrast agrees nicely with that obtained from the spherical source model.
+The final step in the modelling was to calculate the excess mass caused by the ring complex (Grant and West, 1965, p. 269). The Bouguer gravity anomaly map of figure 2 was not used because it contains strong regional trends that affect anomaly-amplitude estimates. Instead, a second map was drawn from the isostatic gravity reductions of Gettings (1984, appendix 1) that account for most of the regional variations. This map is shown in figure 6, superimposed on the geologic base. The estimated contour closures for those parts of the anomaly caused by the ring complex are also shown. A compensating polarimeter was used to measure the areas enclosed by each contour (including the zero contour) (fig. 6). The resulting areas were converted to units of mgal km"2, numerically integrated to yield the desired integral, and corrected to compensate for the lack of anomaly definition at distance from the source (using a method described in Grant and West, 1965, p. 270). The resulting mass-deficiency estimate is 1.22 x 10 17 g. The mass of a circular cylinder of radius 9.4 km (the mean radius of the ring complex), of 4.75 km thickness, and of density contrast -0.114 g cm"3 is 1.50 x 10 17 g. The mass of a body made up of half of this cylinder and half of a circular cone frustrum dipping at 30° from the horizontal, and having 4.75 km thickness, and the same density contrast, is 1.04 x 1017 g. The values of the masses of the two bodies bracket the amount of the estimated mass deficiency,
+
+and thus substantiate the general features of the model. The volume proportion deduced for the granodiorite is 15 percent and for the granite is 85 percent. This is in contrast to the 53 percent granodiorite and 47 percent core plus ring-dike granite that are seen in outcrop.
+
+A schematic structural cross section was constructed from the results of the analysis and the geology (fig. 7). This figure shows the inferred structure of the Uyajiah ring complex at depth. It agrees with the model proposed by Dodge (1979) except that the depth scale is considerably shortened and the relative volume of the granodiorite is much reduced in the model derived here. The figure also shows that the dips of the primary foliation in the granodiorite (Dodge, 1979) indicate that the intrusion to the northeast is a sill-like structure.
+
+The general shape of the ring structure inferred by Flanigan and Andreasen
+
+(1975) from the aeromagnetic data differs markedly from the model in figure 7.
+
+Their model has an approximately rectangular cross section about 3 km thick with
+
+a vertical southern contact, and a northern contact that is steeply
+
+outward-dipping to the northeast. Magnetic models are insensitive to the depth to
+
+the bottom of the model for the case of a model that is thick compared to the
+
+flight height (150 m). Therefore, a 3. km thickness is in agreement with the
+
+gravity model. The magnetic "hole" in the central part of the model (Flanigan
+
+and Andreasen, 1975) coincides with the core granite and implies that the granite
+
+is less magnetic than the surrounding granodiorite. Clearly the dike swarm
+
+through the northern half of the structure would have an effect on the magnetic
+
+response; this is borne out by examination of the aeromagnetic map. In a
+
+qualitative sense at least, the shape of the magnetic anomaly located along the
+
+northern and northeastern contact is in agreement with models that have a
+
+southeasterly-dipping magnetic-body base (see Blank and Andreasen, 1980) rather
+
+than with models that have a northeasterly dip as proposed by Flanigan and
+
+Andreasen (1973). The discrepancy between the model of Flanigan and Andreasen
+
+(1975) and the model based on gravity data presented here can only be resolved by
+
+more detailed modelling than is attempted either here or by Flanigan and
+
+Andreasen. Of course, the contact may have an average inward dip, despite local
+
+steep or even outward dips. Considering the viscous nature of the magma and the
+
+stoping process by which emplacement takes place, the contacts actually must be
+
+very irregular in detail.
+
+!
+
+Figure 6. Residual isostatic gravityanomaly map of the study area. Dashed contours were used in the excess mass calculation. Geologic base and profiles as in figure 2; gravity
+data from Gettings (1984). Solid dots are gravity-station locations. Contour interval 5 mgal.
+
+EXPLANATION
+
+Unconsolidated surficial deposits
+
+Alkaline granite; some associated syenite
+
+Calc-alkalic granite or granodiorite
+
+Migmatitic granite or granodiorite ef uncertain age
+
+Murdama group
+
+Lv-; i Diorite, gabbro, quartz diorite, granodiorite, ultramafic rocks
+L\y'J Halaban group
+
+F~EI~i Sericite-chlorite schist, amphibole gneiss, biotite gneiss, amphibolite, marble
+
+Contact
+
+Fault
+
+10
+
+/Ocu
+
+-96
+S I
+mg
+
+Distance, Km 10
+
+20 EXPLANATION Malic dikes ADcalai granite Granite Granodiorite Metamorphic host rocks
+
+Figure 7.--Schematic structural cross section of the Uyaijah ring structure. Gravity anomaly profile is from figure 4 (AB). Vertical and horizontal scales are the same.
+11
+
+In summary, the Uyaijah ring structure appears to be composed mostly of three plutons, each laccolithic in shape and together achieving an aggregate thickness of about 5 km. The earliest pluton, the granodiorite, is volumetrically the smallest; its core has been intruded by a granite stock. A third pluton, the alkalic granite, forms the floor of the complex and raised it as a single mass upon intrusion, giving rise to the ring fractures along which a part of the alkalic granite magma intruded. Finally, late-stage northwest-trending dikes of mafic composition intruded the entire complex. Proportion of dike material per unit volume increases with depth, thus not all dikes are exposed at the present erosion surface. The ring complex appears to be a type example in the Arabian Shield and may represent the root zone of a caldera complex, as suggested by Dodge (1979).
+CONCLUSIONS
+Analysis of regional gravity-anomaly data and detailed gravimetric profiles have resulted in a structural model of the Uyaijah ring structure that is similar to Plutonic complexes underlying felsic volcanic calderas. The complex is made up of three plutons, two of which are granitic in composition and which are volumetrically dominant over the granodiorite of the third pluton. The plutons are laccolithic in shape with a total thickness of about 5 km, and their source region appears to be in the southwest quadrant of the ring structure. Late stage tectonism associated with the Najd faulting event resulted in the formation of northwest- trending shear zones throughout the complex, and dike emplacement, particularly in the northern half of the ring structure. Structural models based on the gravity data agree well with the geologic data and are reasonably concordant with the interpretation of the aeromagnetic data by Flanigan and Andreasen (1973).
+In view of the relative geologic simplicity of the area, the amount of geologic literature available, the nearly flat terrane, and the overall excellent geophysical response of the rock units, this area warrants a detailed areal gravity survey. An interpretation of the combined gravity, aeromagnetic, and geologic data would provide a good reference model for the structure of young batholiths in the Arabian Shield.
+DATA STORAGE
+DATA FILE
+All data used in the preparation of this report are included within the Appendix; therefore, no Data File was established.
+MINERAL OCCURRENCE DOCUMENTATION SYSTEM (MODS)
+No new MODS entries were made as a result of the work described in this report.
+12
+
+REFERENCES CITED
+
+Blank, H. R., Jr., and Andreasen, G. £., 1980, Magnetic fields for two-dimensional step and dike models calculated for a geomagnetic inclination of 30 degrees: Saudi Arabian Directorate General of Mineral Resources Technical Manual TM-1980-1, 179 p.
+
+Bois, J., Leca, X., and Shanti, M., 1975, Geology and mineral exploration of the Al Kushaymiyah Quadrangle, 22/44 A: Bureau de Recherches Geologiques et
+Minieres (Saudi Arabian Mission) Report 75-JED-14, 57 p., scale 1:100,000.
+
+Delfour, J., 1980, Geologic map of the Wadi Ar Rika Quadrangle, Sheet 22G, Kingdom of Saudi Arabia (with topographic base): Saudi Arabian Directorate General of Mineral Resources Geologic Map GM- 51-A, 34 p. scale 1:250,000.
+
+Dodge, F. C. W., 1973, Geology and evaluation of tungsten anomalies, Buhairan-Abu Khurg area, southeastern part of the Uyaijah ring structure, Kingdom of Saudi Arabia: U.S. Geological Survey Open-File Report, SA (IR) 163, 32 p.
+
+__________ 1979, The Uyaijah ring structure, Kingdom of Saudi Arabia: U.S. Geological Survey Professional Paper 774-E, 17 p.
+
+Dodge, F. C. W., and Helaby, A. M, 1975, Mineralization in the Uyaijah-Thaaban
+
+area, west-central part of the Uyaijah ring structure, Kingdom of Saudi
+
+Arabia: U.S. Geological Survey Open-File
+
+Report SA (IR)-191, 43
+
+P.
+
+Flanigan, V. J., and Andreasen, G. E., 19751 Tungsten anomalies in the Uyaijah ring structure, Kushaymiyah igneous complex, Kingdom of Saudi Arabia, Section B-Regional geophysics: U.S. Geological Survey Open-File Rpt 75-657, SA (IR)-160, p. 67-86.
+
+Gettings, M. E., 1983, A simple Bouguer gravity anomaly map of southwestern Saudi Arabia and an initial interpretation: Saudi Arabian Deputy Ministry for Mineral Resources Open-File Report USGS-OF-03-94, 89 p. Also, 1983, U.S. Geological Survey Open-File Report 83-789.
+__________ 1984, The isostatic gravity anomaly field of southwestern Saudi Arabia and its interpretation: U.S. Geological Survey Open-File Report 85-254, (IR)SA-696.
+
+Gettings, M. E., Blank, H. R., Mooney, W. D., and Healy, J. H., 1983, Crustal
+
+structure of southwestern Saudi Arabia: U.S. Geological Open-File Report
+
+83-638, (IR)SA-560.
+
+.!
+
+Grant, F. S., and West, G. F., 1965, Interpretation theory in applied geophysics: New York, McGraw-Hill, 584 p.
+
+Greenwood, W. R., and Brown, G. F., 1973, Petrology and chemical analyses of selected plutonic rocks from the Arabian Shield, Kingdom of Saudi Arabia: Saudi Arabian Directorate General of Mineral Resources Bulletin 9, 9 p.
+
+13
+
+Lacombe, P., and Letalenet, J., 1970, Mineral resources and geology of the Jibal al Hawshah quadrangle, Sheet 129E-Zone 2: Bureau de Recherches Geologique et Minieres Report 70JED26, 32 p.
+
+Phoenix Corporation, 1980, Total intensity magnetic and gravity effects for 2D and 3D models at geomagnetic inclination 30°: Prepared by Phoenix Corporation, McLean, Virginia, for the U.S. Geological Survey Saudi Arabian Mission and the Saudi Arabian Directorate General of Mineral Resources, 38 p.
+
+Theobald, P. K., 1970, Al Kushaymiyah as a target for a Colorado-type
+
+molybdenite deposit, Southern Najd quadrangle, Kingdom of Saudi Arabia:
+
+U.S. Geological Survey Open-File
+
+Report SA (IR)-120, 13 p.
+
+Theobald, P. K., and Allcott, G. H., 1973, Tungsten anomalies in the Uyaijah ring
+
+structure, Kushaymiyah igneous complex, Kingdom of Saudi Arabia, Section
+
+A-Geology and geochemistry of the Uyaijah ring structure: U.S. Geological
+
+Survey Open-File
+
+Report SA (IR)-160, p. 1-66.
+
+Whitlow, J. W., 1968a, Geology and geochemical reconnaissance of the Jabal Al Hawashah quadrangle, southern Najd: Saudi Arabian Directorate General of Mineral Resources Minerals Investigation Map MI-16.
+
+__________1968b, Geology and geochemical reconnaissance of the Al Kushaymiyah quadrangle, southern Najd: Saudi Arabian Directorate General of Mineral Resources Minerals Investigation Map MI-17, scale 1:100,000.
+
+__________1966, Areas in the southern Najd quadrangle, Saudi Arabia, recommended for mineral investigation: U.S. Geological Survey Open-File
+Report (IR)SA-79, 11 p.
+
+14
+
+Appendix 1. Principal facts for the 217 gravity stations of the detailed profiles. Heading abbreviations: Station, station name; X, minutes of longitude east of 44°E; Y, minutes of latitude north of 22 N; Alt, station altitude in meters above sea level; Obs. Grav., observed gravity in mgals based on the International Gravity Formula adopted by the International Association of Geodesy in Stockholm in 1930; SBA, simple Bouguer gravity anomaly in mgals using a reduction density of 2.67 g cm" .
+
+Station
+AO Al A2 A3 A4 A5 A6 A7 A8 A9 A10 All A12 A13 A14 A15 A16 A18 A19 A20 A21 A23 A24 A26 A27 A28 A29 A31 A32 A34 A37 B138 B143 B145 B146 B147 B148
+
+20.52 20.62 20.71 20.81 20.89 20.97 21.07 21.15 21.24 21.33 21.42 21.52 21.60 21.70 21.79 21.90 21.95 22.15 22.27 22.36 22.45 22.60 22.70 22.90 22.96 23.08 23.18 23.32 23.42 23.57 23.71 23.78 23.89 24.07 24.17 24.28 24.35
+
+45.75 45.82 45.89 45.96 46.02 46.08 46.15 46.21 46.27 46.34 46.41 46.48 46.54 46.61 46.68 46.76 46.80 46.94 47.03 47.10 47.17 47.28 47.35 47.49 47.54 47.62 47.70 47.80 47.87 47.99 48.09 48.14
+48.19 48.28 48.33 48.38 48.42
+
+Alt.
+957.23 958.89 959.62 960.76 962.34 964.18 966.60 964.27 962.41 962.14 962.89 963.43 964.04 964.71 965.01 966.14 967.80 969.65 971.57 973.03 974.49 978.69 979.13 983.03 984.37 986.46 988.40 992.50 994.48 996.28 994.40 992.35 978.85 993.77 971.97 969.58 968.14
+
+Obs. Grav,
+978540.83 978540.06 978539.43 978538.53 978537.97 978537.09 978536.38 978536.67 978536.57 978535.76 978537.90 978534.03 978533.36 978532.67 978532.15 978531.50 978530.88 978529.65 978528.92 978528.24 978527.65 978526.44 978526.00 978524.81 978524.47 978523.83 978523.30 978522.35 978521.96 978521.31 978521.60 978522.10 978524.70 978525.71 978526.06 978526.52 978526.78
+
+SBA
+-91.20 -91.72 -92.28 -92.74 -93.35 -93.93 -94.24 -94.47 -95.00 -95.94 -96.73 -97.57 -98.18 -98.81 -99.35 -99.86 -100.20 -101.22 -101.66 -102.13 -102.51 -103.01 -103.44 -104.01 -104.14 -104.46 -104.69 -104.94 -105.02 -105.44 -105.63 -105.59 -105.70 -105.78 -105.84 -105.90 -105.97
+
+15
+
+Appendix 1.--Principal facts for gravity stations of detailed profiles.--Continued.
+
+Station
+
+Alt. Obs. Grav. SBA
+
+B249 B251 B254 B255 B259 B262 B264 B266 B268
+C170 C172 C174 C176 C178 C180 C182 C184 C186 C188 C190 C192 C194 C195 C196 C2108 C2110 C2111 C2112 C2113 C2114 C2116 C2118 C2120 C2121 C2122 D14 D16 D113 D114 D115 D116 D226 D227 D229 D230 D231 D232
+
+24.43 24.65 24.80 24.89 25.13 25.31 25.47 25.62 25.75
+25.94 26.13 26.29 26.52 26.77 26.99 27.19 27.36 27.48 27.64 27.80 28.13 28.34 28.43 28.52 28.73 28.90 29.02 29.14 29.25 29.36 29.56 29.77 30.01 30.11 30.19 30.29 30.36 30.42 30.48 30.53 30.56 30.64
+30.68 30.76 30.86 30.98 31.12
+
+48.46 48.57 48.63 48.64 48.69 48.73 48.76 48.80 48.82 48.87 48.93 48.98 49.05 49.12 49.19 49.24 49.29 49.33 49.38 49.43 49.52 49.58 49.61 49.63 49.69 49.71 49.77 49.79 49.82 49.85 49.90 49.95 50.01 50.03 50.05 50.09 50.12 50.15 50.18 50.21 50.22 50.26
+50.29 50.32 50.37 50.43 50.51
+
+966.24 963.37 958.69 956.38 951.51 945.57 943.47 942.03 941.39 938.31 933.54 929.86 927.11 924.70 923.27 922.00 923.62 923.46 919.69 917.69 916.19 915.10 917.04 917.81 909.31 907.44 906.36 905.48 905.30 904.77
+903.52 901.60 898.56 898.62 900.37 898.98 897.65 893.18 891.74 891.59 893.65 888.66 889.42 886.30 886.48 885.39 883.37
+
+978527.43 978527.94 978529.00 978529.63 978530.65 978531.98 978532.66 978533.09 978533.26 978533.94 978535.25 978536.45 978537.51 978538.58 978538.53 978540.47 978540.69 978540.94 978541.99 978542.63 978543.66 978544.65 978544.21 978544.33 978546.36 978546.90 978547.45 978547.95 978548.26 978548.48 978549.01 978549.95 978551.15 978551.46 978551.38 978552.10 978552.57 978553.63 978554.13 978554.50 978554.26 978555.33 978555.47 978556.27 978556.52 978557.04 978557.52
+
+-105.73 -105.91 -105.83 -105.67 -105.66 -105.54 -105.30 -105.20 -105.18 -105.16 -104.85 -104.43 -103.98 -103.79 -103.87 -102.23 -101.75 -101.57 -101.32 -101.12 -100.49 -99.77 -99.86 -99.61 -99.32 -99.17 -98.90 -98.59 -98.35 -98.26 -98.03 -97.53 -96.99 -96.69 -96.45 -96.04 -95.87 -95.72 -95.53 -95.22 -95.07 -95.02 -94.77 -94.61 -94.38 -94.14 -94.14
+
+16
+
+Appendix 1.--Principal facts for gravity stations of detailed profiles.--Continued.
+
+Station
+
+Alt. Obs. Grav. SBA
+
+D233 31.21 50.55 883.17 978557.48 -94.26 D234 31.27 50.58 880.07 978558.37 -94.02 D335 31.32 50.60 879.28 978558.80 -93.76 D336 31.42 50.66 877.37 978560.00 -93.00 D338 31.59 50.75 875.56 978561.47 -91.99 D341 31.77 50.85 879.86 978560.47 -92.25 D354 32.02 50.99 872.86 978561.88 -92.36 D357 32.15 51.06 871.59 978561.92 -92.65 D47 32.22 50.91 874.57 978561.10 -92.72 D410 32.19 50.73 893.87 978560.79 -92.98
+E15 32.19 50.53 881.00 978558.89 -93.26 E110 32.20 50.37 873.81 978558.75 -94.64 E113 32.21 50.20 877.94 978558.18 -94.22 E230 32.23 49.88 882.76 978557.09 -94.02 E232 32.24 49.66 885.21 978555.99 -94.40 E235 32.25 49.42 890.15 978554.10 -95.06 E241 32.27 49.19 893.53 978553.42 -94.83 E243 32.28 49.01 894.85 978552.62 -95.18 E31 32.19 48.92 896.33 978552.10 -95.31 E33 32.01 48.79 899.51 978550.20 -96.44 E34 31.92 48.72 901.34 978550.48 -95.73 E35 31.83 48.64 903.10 978549.63 -96.15 E36 31.74 48.57 904.90 978548.78 -96.57 E37 31.65 48.50 907.19 978547.94 -96.88 E38 31.55 48.42 909.08 978547.34 -97.02 E10 31.45 48.34 912.60 978546.25 -97.34 E314 31.36 48.27 916.47 978545.17 -97.58 E316 31.30 48.22 914.72 978545.27 -97.77 E317 31.23 48.16 915.56 978545.13 -97.68 F124 31.12 48.07 917.14 978544.66 -97.74 F125 31.06 48.01 919.27 978544.14 -97.78 F126 30.98 47.94 920.50 978543.75 -97.85 F127 30.91 47.88 921.73 978543.20 -98.10 F240 30.76 47.97 936.61 978540.31 -98.16 F242 30.75 47.81 936.32 978540.27 -98.08 F131 30.82 47.79 923.35 978542.87 -98.01 F232 30.81 47.71 924.62 978542.44 -98.11 F233 30.80 47.59 926.12 978542.04 -98.08 F234 30.79 47.49 927.78 978541.74 -97.95 F235 30.79 47.38 929.54 978541.33 -97.90 F237 30.78 47.21 931.57 978541.02 -97.62 F238 30.77 47.11 932.75 978540.81 -97.50 G151 30.73 46.69 938.63 978539.80 -96.90 G153 30.70 46.53 940.65 978539.30 -96.83 G154 30.68 46.43 942.19 978538.86 -96.86 G155 30.66 46.32 943.36 978538.76 -96.61 G265 30.64 46.17 946.91 978537.86 -96.65
+
+17
+
+Appendix 1.--Principal facts for gravity stations of detailed profiles.--Continued.
+
+Station X
+
+Y AH. Obs. Grav. SBA
+
+G266 30.63 46.11 948.32 978537.77 -96.40 F267 30.62 46.04 949.08 978537.67 -96.28 G268 30.60 45.93 950.81 978537.24 -96.25
+G270 30.56 45.73 953.95 978536.58 -96.08
+G272 30.53 45.51 956.81 978535.77 -96.09 G274 30.49 45.28 960.54 978535.07 -95.81
+G276 30.46 45.10 963.62 978534.55 -95.53 G278 30.45 45.02 966.03 978534.22 -95.30 G32 30.60 45.00 965.88 978534.17 -95.36
+G34 30.76 44.98 970.81 978533.32 -95.22 G36 30.90 44.96 975.13 978532.32 -95.35 H17 31.05 44.92 974.75 978532.97 -94.73 HIS 31.15 44.88 972.37 978533.77 -94.36 H19 31.24 44.84 969.95 978534.72 -94.34 Hill 31.40 44.78 970.69 978534.31 -94.04 H115 31.44 44.76 970.16 978534.27 -94.16 H118 31.52 44.73 968.81 978534.51 -94.16 H120 31.68 44.66 969.99 978534.16 -94.20 H122 31.87 44.59 967.94 978535.19 -93.50 H20 31.98 44.54 966.16 978535.49 -93.49 H23 31.80 44.23 961.43 978536.20 -93.38 H27 31.61 43.88 959.14 978536.94 -92.72
+H211 31.44 43.59 958.05 978537.43 -92.13
+H215 31.26 43.28 952.40 978538.87 -91.47 H218 31.08 42.96 948.56 978540.12 -90.64
+10 30.94 42.72 949.07 978540.66 -89.79
+12 30.88 42.87 951.13 978539.70 -90.50
+14 30.80 43.07 952.36 978538.83 -91.30 16 30.73 43.26 954.36 978537.69 -92.25 17 30.70 43.33 956.08 978537.42 -92.25 19 30.66 43.42 957.00 978537.05 -92.54 11 30.63 43.49 957.98 978533.44 -96.03 111 30.60 43.59 959.28 978536.23 -93.09 J10 30.55 43.72 960.95 978535.29 -93.84 0112 30.49 43.79 962.06 978534.70 -94.29 0113 30.44 43.87 963.32 978534.23 -94.60 0114 30.38 43.96 964.27 978534.10 -94.63 0115 30.33 44.02 965.46 978534.01 -94.56 0116 30.28 44.10 966.94 978533.95 -94.41 0117 30.24 44.16 968.56 978533.88 -94.23 0119 30.20 44.22 971.76 978533.32 -94.22 0121 30.18 44.24 975.10 978532.74 -94.16 0122 30.15 44.28 974.64 978532.88 -94.16 0124 30.14 44.31 980.20 978531.46 -94.52 0226 30.11 44.34 977.84 978532.31 -94.16 0227 30.07 44.38 975.19 978532.68 -94.36 0230 29.99 44.47 974.61 978532.40 -94.85
+
+18
+
+Appendix 1. Principal facts for gravity stations of detailed profiles. Continued.
+
+Station X
+
+Y Alt. Obs. Grav. SBA
+
+J231 29.91 44.55 975.11 978532.21 -95.02
+J233 29.79 44.68 974.24 978532.22 -95.32 J236 29.64 44.83 971.56 978532.61 -95.62 J240 29.54 44.95 970.58 978532.70 -95.85 J242 29.40 45.08 972.35 978532.31 -96.03
+J244 29.26 45.24 976.18 978531.27 -96.49 J245 29.16 45.34 978.44 978530.78 -96.64 J246 29.08 45.42 979.80 978530.56 -96.68 J248 28.99 45.51 978.93 978530.84 -96.67
+J250 28.87 45.64 978.33 978530.72 -97.05
+J251 28.82 45.69 980.94 978530.40 -96.91
+J35 28.78 45.82 973.51 978531.57 -97.34 J37 28.77 45.93 972.33 978531.84 -97.42 J312 28.77 46.10 967.57 978532.69 -97.69 J314 28.76 46.18 965.53 978532.97 -97.89 J315 28.76 46.28 963.83 978533.40 -97.90
+J316 28.75 46.40 961.64 978533.80 -98.06 J317 28.75 46.52 962.91 978533.87 -97.87 J322 28.74 46.68 957.68 978534.75 -98.19 J323 28.74 46.76 957.28 978534.84 -98.27 J327 28.73 46.89 957.93 978534.89 -98.23 J330 28.73 47.03 955.03 978535.43 -98.41 J336 28.72 47.15 952.12 978535.89 -98.65 J338 28.72 47.36 948.34 978536.55 -98.96 J340 28.71 47.61 944.84 978537.38 -99.08 J341 28.70 47.73 942.21 978537.99 -99.12 J342 28.69 47.86 939.86 978538.38 -99.33
+J343 28.69 47.98 937.88 978538.82 -99.41 J344 28.68 48.11 935.80 978539.27 -99.51
+J345 28.68 48.23 933.87 978539.78 -99.50 J346 28.68 48.33 932.27 978540.03 -99.68 J347 28.67 48.45 930.60 978540.51 -99.65 J348 28.67 48.57 929.51 978540.90 -99.61
+J349 28.66 48.68 927.78 978541.30 -99.67 J352 28.66 48.85 926.66 978541.75 -99.62 J358 28.65 49.01 925.84 978542.02 -99.68 J361 28.65 49.14 920.68 978543.35 -99.50 J363 28.64 49.32 916.09 978544.29 -99.66 J365 28.63 49.51 913.56 978545.07 -99.58
+
+19
+
+

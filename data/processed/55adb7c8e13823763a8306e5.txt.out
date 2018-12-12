@@ -1,0 +1,980 @@
+proceeding the advanced seminar 
+sedimentation august 
+denver colorado 
+proceeding the advanced seminar sedimentation august denver colorado douglas glysson editor nou 
+geologry cal utlv wrd bri tte ttm rquuee s1102 alsuquerq 
+united state department the interior donald paul hodel secretary geological survey dallas peck director 
+for additional information write chief hydrologist national center geological survey wrd reston virgnia 
+copy report purchase open file service section western distribution branch geological survey box federal center denver colorado 
+abstract •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• introduction •••••••••••••••• ••••• •••••••••••••••••••••••••••••••••• ••• summary presentation •••••••••••••••••••••••••••••••••••••••• 
+bdel model water discharge sediment concentration hydrographs surface mine sit pennsylvania l1oyd reed ••••••••••••••••••••••••••••••••·• preliminary investigation physical basis soil erosion parameter precipitation runoff modeling system prms william carey andrew simon •••••••••••••••••••••••••••••••••••••••••• reduce sediment sample frequency streamflow gag station rio grand otowi bridge near san ildefonso new mexico david marshall ••••••• comparison digital modeling technique simulate sedimentation process agricultural watershed leslie arihood •••••••••••••••••••••••••••••••••• 
+measurement suspend sediment surface water 
+discussion new technology operate 
+continuously unattended marvin goldberg 
+instrumentation automatically monitoring sediment 
+concentration particle size progress report 
+james ficken other ••••••••••••••••••••••••• 
+monitoring streambed change sediment concentration 
+use acoustic velocity meter antonius laenen 
+iii debris flow geobotanical evidence debris flow 
+shasta california hupp osterkamp ••••••••• downstream dilution lahars mount helen define boundary debris flow hyperconcentrated streamflow pierson scott stream channel adjustment lahars subsequent stormflow mount helens holly martinson david meyer •••••••••••••••••••••••••••••••••••• erosion development north fork toutle debris avalanche deposit david meyer richard janda 
+sediment transport erosion landform modification low level radioactive waste disposal facility near sheffield illinois john gray •••••••••••••••••• estimate long term sediment discharge method use 
+thomas york •••••••••••••••••••• sediment budget tidal potomac river estuary water year edward hickman james bennett •••••••••••••••••••••••••••••••••••••• effect propose cooper river rediversion sedimentation charleston harbor south carolina glenn patterson ••••••••••••••••••••••••••••••••• 
+sediment chemistry determination lake sedimentation rate lead cesium albert yang ••••••••••••••• inorganic partitioning sediment arthur horowitz ••• transport suspend sediment associate chemical constituent low mississippi river louisiana charles demas philip curwick •••••••••••••• suspend sediment transport chemistry organic carbon thurman ••••••••••••••••••••••••••••••• 
+channel morphology 
+sediment impact coal mine northeast tennessee 
+osterkamp carey hupp ••••••• 
+unit hydraulic geometry indicator channel change 
+williams ••••••••••••••••••••••••••••••••••••• 
+channel adjustment man induce stress west 
+tennessee andrew simon clarence robbins 
+contrast stream channel response major storm 
+example two mountainous area california 
+michael nolan donna marron ••••••••••••••• 
+effect dam construction channel geometry bed 
+material bear creek denver colorado 
+hadley emmett ••••••••••••••••••••••••••••••• 
+sediment storage discharge steep unstable terrane 
+richard janda ••••••••••••••••••••••••••••••••••• 
+bedload variability measure bedload transport constant slowly change water discharge condition william carey •••••••••••••••••••••••••••••••••••••• some characteristic fluvial process river william emmett luna leopold robert myrick measurement bedload discharge nine illinois stream helley smith sampler julia graf ••••••• 
+list attendee ··········'·········································· 
+illustration page figure 
+graph show water discharge suspend sediment concentration hydrographs compute prms •••••••••••••• 
+diagram show type botanical evidence debris flow ••••••••••••••••••••••••••••••••••••••••••••• 
+map show location study area 
+shasta california •••••••••••••••••••••••••••••••••••••••••••••• 
+diagram show representative cross section ash creek near military pas california •••••••••••••••••••••••••• 
+graph show dominant fluvial process pine creek south fork toutle river •••••••••••••••••••••••• 
+graph show dominant fluvial process pine creek south fork toutle river ••••••••••••••••••••• 
+graph show drainage integration time upper north fork toutle river basin debris retention structure •••••••••••••••••••••••••••••• 
+diagram show dekaport divisor system ••••••••••••••••••• 
+diagram summarizing use botanical evidence date recent flow event along smoky creek northeast tennessee ••••••••••••••••••••••••••••••••••••••••••••••• 
+diagram show schematic representation positive feedback physical process northwestern california •••••••••••••••••••••••••••••••••••••••••••••• 
+graph show variability consecutive bedload sample 
+graph show theoretical sampled distribution relative transport rate •••••••••••••••••••••••••••••• 
+graph show variability consecutive bedload sample smooth ·····································~· 
+table information rills gully use prms subroutine summary debris flow date upper whitney creek bolam creek whitney creek us97 whitney creek juniper flat ••••••••••••••••••••••••••••••••••••••••••• 
+summary debris flow date mud creek california 
+summary debris flow date ash creek california 
+correlation coefficient standard error estimate relation logarithms water discharge concentration sediment sand silt clay suspension schuylkill river manayunk pennsylvania •••••••••••••••••••••••••••••••••••••••••••• 
+measure estimate suspended sediment discharge schuylkill river manayunk october september •••••••••••••••••••••••••••••••••••••• 
+conversion factor for use reader prefer use metric unit conversion factor term use report list 
+multiply inch square inch in2 foot foot per second foot square ft2 cubic foot ft3 cubic foot per second ft3 mile square mile mi2 acre acre foot acre ton ton per square mile mi2 gallon gal ounce 
+obtain centimeter square centimeter cm2 meter meter per second square meter cubic meter ni2 cubic meter per second kilometer square kilometer km2 hectare cubic meter megagram megagram per square mile liter gram 
+proceeding the advanced seminar sedimentation august denver colorado douglas glysson editor abstract august geological survey water resource division wrd sponsor advanced seminar sedimentation national training center lakewood 
+topic discuss included modeling mud debris flow sediment transport sediment chemistry channel morphology instrumentation bedload 
+this circular present summary presentation give seminar plus one additional summary present 
+introduction the term sedimentation encompass process erosion entrain transportation deposition compaction sediment vanoni 
+historically wrd primarily limit effort study transport deposition process 
+some geomorphologic study conduct majority work do wrd national research program 
+several major event past year bring increase public awareness sedimentation problem 
+notably eruption mount helens dixon sediment time beach rapid erosion offshore island coast louisiana 
+not noticeable introduction new chemical use pesticides fertilizer seepage direct erosion waste disposal site 
+order adequately assess nation water resource wrd last several year expand field study include five process sedimentation 
+division investigate role sediment play transport deposition certain chemical 
+the sediment particle may sorb chemical water release back solution depend physical chemical environment 
+the wrd also study effect sedimentation process ecosystem nation waterway 
+effort improve effectiveness division expand sediment program quality water branch organize advanced seminar sediment hold august geological survey national training center lakewood 
+the objective seminar gather together division research district headquarter personnel actively engage geomorphology sedimentation relate study discuss mutual problem provide 
+forum effective transfer sediment relate technology 
+the purpose circular present summary presentation make seminar 
+hop present summary technology transfer process extend unable attend seminar 
+reference vanoni sedimentation engineering american society civil engineer manual engineering practice 
+summary the presentation model modeling water discharge and sediment concentration hydrographs surface mine sit pennsylvania lloyd reed rainfall water discharge suspend sediment data collect several surface mine sit bituminous coal field pennsylvania 
+these data use refine precipitation runoff model system prms leavesley other 
+prms modular design model system develop evaluate impact various combination precipitation land use water discharge sediment yield 
+prms compute hydrographs water discharge suspend sediment concentration small large basin affect single multiple land us 
+the subroutine describe run tektronix calculates water discharge suspend sediment concentration hydrographs storm hour duration 
+the model take observe precipitation calculate precipitation excess sediment dislodge storm 
+observe rainfall minute increment store unit array model user 
+precipitation excess compute minute increment subtract infiltration calculate green ampt philip infiltration model green other total precipitation 
+sediment dislodge mine area minute increment compute two step 
+relation precipitation intensity suspend sediment concentration varies linearly soil erodibility use calculate suspend sediment concentration ratio 
+the suspended sediment concentration multiply precipitation excess determine ton sediment dislodge acre minute increment 
+after precipitation excess sediment production value calculate store array prms move rout subroutine route water sediment mine area produce water discharge sediment concentration hydrograph 
+precipitation excess sediment production first minute period recall divided minute interval 
+prms distribute precipitation excess sediment first interval mine area 
+the precipitation excess sediment distribute mined area accumulate rill gully equation openchannel flow sediment deposition use route water sediment mine area 
+the size number rills gully use prms select inspection several regraded surface mine site 
+lithe use brand name report identification purpose imply endorsement geological survey 
+the rill gully range size noticeable several inch wide classify 
+small rill class join form large rill discharge directly large rill gully large rill join formed gully discharge directly gully diversion channel 
+table list information rills gully use prms subroutine 
+table information gully use prms subroutine 
+class gully 
+direct drainage area ft2 
+total drainage area ft2 
+channel area ft2 
+number outlet per acre 
+channe discharge 
+class class rills class rill diversion terrace 
+after prms distribute precipitation excess sediment production first minute rainfall disturbed area accumulate four class rills gully proportion direct drainage area list table 
+the depth water class channel calculate equation open channel flow use compute velocity water 
+the velocity multiply depth width number outlet determine water discharge class rills gully 
+sediment deposition class channel calculate basis particle settle velocity sediment depth water channel 
+sediment deposition class channel subtract original amount sediment remain suspension rout water discharge channel 
+sediment rout proportion equal water discharge 
+percent water rill gully discharge percent sediment remain suspension also discharge 
+after water sediment discharge calculate class rill gully water sediment rout next class diversion terrace list table 
+the diversion terrace divide four equal segment segment receive percent water sediment discharge mine area 
+water sediment rout four segment diversion terrace segment discharge segment segment discharge segment discharge segment segment discharge mine site 
+the water discharge suspend sediment concentration segment plot minute interval 
+water sediment discharge hydrographs compute storm hour less duration 
+the result one storm show figure 
+rainfall storm precipitation excess 
+the measured sediment discharge ton sediment discharge calculate model ton 
+the measure calculated water discharge ft3 
+,•,' precipitation excess suspend sediment concentration tea discharge 
+time minute 
+figure water discharge suspend sediment concentration hydrographs compute prms 
+reference green ampt study soil physic 
+flow air water soil journal agricultural research 
+leavesley lichty troutman 
+•., saindon precipitation runoff model system user manual geological survey water resource investigation press 
+preliminary investigation the physical basis soil erosion parameters the precipitation runoff model system prms william carey andrew simon simulation upland soil erosion prms currently require user estimate two rainfall detachment parameter three hydraulic detachment parameter 
+one rainfall paramenters coefficient three hydraulic parameter directly relate erosion property surface material 
+the remain rainfall parameter exponent relate dampen effect surface water depth raindrop impact 
+present five parameter must estimate calibrate simulated result observe data collect either small upland plot downstream gag station 
+neither method provide physical basis estimate transfer parameter 
+order provide start point research physical basis parameter preliminary assessment status model upland soil erosion modeling conduct 
+although progress slow relating measurable soil parameter rainfall detachment study meyer harmon meyer show portable rainfall simulator use evaluate coefficient rainfall detachment equation 
+various intensity rainfall applied soil cover condition 
+the relation erosion rate intensity generally log linar thus coefficient rainfall detachment equation determine 
+the ratio coefficient quantifies relative erodibility different soil relative erosion different cover condition give soil 
+value exponent rainfall detachment equation difficult choose depends ratio surface water depth raindrop diameter 
+reformulation rainfall detachment equation base work mutchler larson would provide dampen term would require user supply parameter 
+the three hydraulic detachment parameter consist one exponent two coefficient 
+foster meyer state bed shear stress large compare critical shear stress initial value exponent set equal 
+the two coefficient hydraulic detachment equation function soil resistance erosion flow 
+research relation coefficient measurable soil property yield result easily apply model study 
+most study cohesive material focus relation critical tractive force soil property 
+however ariathurai arulanandan successfully correlate cation exchange capacity sodium adsorption ratio erosion rate coefficient 
+recommendat1ons concern method evaluate hydraulic detachment coefficient prms cannot make time 
+far research need relation model parameter soil property general applicability method develop primarily agricultural application 
+reference ariathurai arulanandan erosion rate cohesive soils american civil engineer society journal hydraulics division 
+foster meyer mathematical simulation upland erosion fundamental erosion mechanic present prospective technology predict sediment yield source proceed sediment yield workshop usda sedimentation laboratory oxford november 
+meyer how rain intensity affect interrill erosion transaction american society agricultural engineer 
+meyer harmon multiple intensity rainfall simulator erosion research row sideslopes transaction american society agricultural engineer 
+mutchler larson splash amount waterdrop impact smooth surface water resource research 
+reduce sediment sample frequency streamflow gag station rio grand otowi bridge near san ildefonso new mexico david marshall suspend sediment sample currently collect daily station operate new mexico district geological survey 
+less frequent sample would reduce cost exist network free resource expand data collection network 
+the purpose project develop test technique estimate daily suspend sediment concentration use record discharge climate suspend sediment concentration determine best sampli schedule couple estimation technique would provide accurate estimate daily suspend sediment concentration yearly total suspended sediment load estimate number year daily record necessary define suspend sediment concentration versus water discharge relation particular station 
+study condition rio grand otowi bridge begin analysis trend yearly mean suspend sediment concentration 
+double mass curve use determine change take place relation suspend sediment discharge water discharge 
+the graph accumulative annual water discharge versus accumulative annual suspendedsediment load show linear relationship obvious break slope 
+annual mean concentration group year double mass curve constant slope kruskal wallis test canover perform see group similar 
+the test show group differ percent significance level data select current group constant slope present 
+the model develop predict daily suspend sediment concentration contain deterministic probabilistic component 
+the deterministic component estimate increase suspend sediment concentration cause rise stage precipitation 
+the probabilistic component estimate decline suspend sediment concentration increase give cause increase suspend sediment concentraiton day increase 
+flow rio grand follow yearly cycle 
+spring runoff snowmelt rocky mountain begin april peak june end late july early august 
+flow july september typically rapid increase decline intense short duration thundershower 
+release abiquiu reservoir cause rapid increase stage follow sustain flow 
+the plot daily suspend sediment concentration versus discharge form hysteresis loop concentration high rise stage spring runoff fall stage discharge 
+the discharge concentration hysteresis loop hysteresis loop form froude number discharge appear similar 
+the relationship froude number suspend sediment concentration use deterministic probabilistic component model 
+the deterministic component use rainfall data five rain gage station basin velocity hydraulic depth calculate dis charge record rio grand otowi bridge 
+rainfall depth group accord travel time rainfall runoff need reach otowi bridge group sum 
+the summed depth correlate increase suspend sediment concentration line fit data use median slope form origin data point 
+this relationship use estimate increase suspend sediment concentration give rainfall depth 
+increase cause rise stage estimate correlate increase concentration velocity square divide hydraulic depth line fit data use median slope 
+velocity determine use discharge weight velocity rise day 
+day rise discharge weighted velocity cross sectional area increase cross sectional area increase mean depth acceleration gravity 
+the velocity rise assume celerity velocity wave depth river 
+this undoubtedly overestimate actual velocity use separate rise different discharge 
+the probabilistic component estimate use markov model karlin taylor 
+the markov process estimate first group suspend sediment concentration data time since late increase type increase 
+five group use day day storm day day storm day storm day rise stage day rise stage 
+the range suspend sediment concentration break interval state 
+concentration pair day nand day group sort state space day only pairs concentration day low day use 
+the mean concentration day state space calculate 
+all state space mean join use arctangent function make model continuous 
+low limit suspend sediment concentration calculate estimate low boundary velocity square divide hydraulic depth measure concentration 
+this act absorb state concentration fall level remain constant give velocity square hydraulic depth increase take place 
+the model develop exploratory develop determine technique feasible 
+many variable affect concentration use actual field condition properly estimate 
+ass accuracy 
+model develop use data water year test use data water year 
+the calculated yearly suspend load percent measure load daily estimate suspendedsediment concentration reasonably close measure concentration day precipitation occur 
+use observation suspendedsediment concentration precipitation occur point estimate yearly load percent measure load daily concentration close 
+future work model need well estimate rise stage velocity develop well assessment rainfall relation account seasonal change 
+the data base increase year time observe convergence estimate parameter 
+other sample scheme study optimize accuracy few possible sample recommendation reduce sample developed 
+reference canover practical nonparametric statistic new york john wiley son 
+karlin samuel taylor howard first course stochastic process new york academic press 
+comparison digital modeling technique which simulate sedimentation process agricultural watershed leslie arihood the precipitation runoff model system prms areal nonpoint watershed environmental response simulation answer model evaluate accuracy applicability practicality simulate water sediment runoff midwestern agricultural watershed 
+the model applicability performance analyze light watershed characteristic storm pattern runoff characteristic 
+model design able incorporate specific characteristic hooker creek watershed 
+sediment production mostly flood plain area close flood plain 
+the drainage network develop manner runoff rapid 
+the steady state hydraulic conductivity soil reach within minute water pool soil surface 
+soil near stream soil uplands different capacity infiltrate hold drain water 
+sediment transport influence greatly source material rainfall intensity 
+about percent suspend sediment less reflect fine textured soil watershed 
+rainfall intensity strongly influence suspended sediment concentration discharge 
+fact sediment discharge storm similar maximum intensity adequately describe straight line arithmetic plot mean daily storm discharge sediment discharge 
+difference model structure concept hydrologic process important determine model usefulness applicability 
+the prms capable simulate several storm nonstorm period whereas answer simulate one storm period per run 
+answer grid system well suit hooker creek drainage network 
+overland flow plane outlet directly adjacent overland flow plane begin stream continue maintain actual watershed slope 
+the prms subsurface reservoir contribute streamflow whereas answer simulate subsurface flow tile drain 
+answer simulate infiltration surface pool dry prms simulate infiltration rainfall 
+answer data collection simplify provide source data documentation reference source easily obtain 
+data answer must collect watershed discharge rainfall commonly collect district require significant increase data collection expertise 
+instrumentation measurement suspend sediment surface water discussion new technology that will operate continuosly and unattended marvin goldberg timely accurate data particle size distribution mass concentration suspend sediment natural water body use geological survey agency concerned water quality stream hydrology 
+obtain data adequately efficiently would make easy device available could analyze sediment automatically unattended sit 
+the analyzer ideally would able extract sample cross section measure particle size mass distribution 
+range micrometer hydrodynamic size part per million concentration 
+make measurement accurately reliably without operator attention period least week 
+there several technology currently use particle size measurement 
+these include sieve sedimentation gravimetry elutriation turbidimetry light obscuration electrozone measurement coulter type sensor doppler shifted light scatter acoustic echo holography microscopy ray fluorescence photon correlation spectroscopy elastic light scatter attenuation transmit energy beam beam visible light ray beta ray gamma ray ultrasonic 
+only sieve visible light beam attenuation single particle obscuration light beam electrozone device back angle light scatter measure size range desire 
+single particle obscuration electozone method require many sensor operate parallel case sensor contain small orifice particle must flow 
+provision automatically unclogging orifice necessity introduce degree complexity undesirable fieldsited particle sensor 
+automatic sieving instrument mechanically quite complicate long term reliability electronic complexity preferable mechanical 
+the technique remain light beam attenuation light scatter 
+two method light scatter advantage relatively insensitive large concentration change easy combine depolarization measurement extend low end size range 
+the geological survey use hydrodynamic size size parameter 
+few method accurately measure size mass single measurement thus mass often approximated multiply average density time determined volume particle 
+light beam attenuation light scatter technique combine sedimentation procedure provide hydrodynamic size measurement 
+particle size instrument develop laboratory incorporate right angle scatter depolarization ratio back angle scatter demonstrate good resolution small size range small sample gravimetric sedimentation equal 
+capability large particle 
+the instrument mechanically quite simple produce signal readily digitize adaptable incorporated field sit particle analyzer 
+instrumentation for automatically monitoring sediment concentration and particle size progress report 
+james ficken 
+the instrument development laboratory procure several new instru ments evaluation capability measure suspend sediment one instrument particle size analysis 
+two markland ultrasonic suspend solid meter procure evaluate meter capability measure suspend sediment concentration range 
+daily sediment load two select site estimate use output markland meter 
+these estimate compare estimate make routine daily sediment sample analysis 
+dynatrol instrument vibrate tube procure evaluate capability measure density water sediment mixture field site 
+the density relate sediment concentration provide correction make variation density dissolve solid temperature 
+markland sludge gun infrared transmissometer procure evaluate capability detect measure absorption scattering infrared light water sediment mixture 
+this instrument evaluate ability measure concentration sediment water sediment mixture 
+micromeritics sedigraph 5000d procured particle size analysis sediment 
+analytical determination instrument compare determination standard pipet method pertinent measurement accuracy analytical cost 
+the instrument development laboratory hif work district interagency sedimentation project evaluate instrumentation mention 
+report give follow individual 
+bill matthes iowa district report work micromeritics sedigraph 
+dave marshall new mexico district report progress date operate markland ultrasonic suspendedsol id meter 
+dallas childers vancouver washington subdistrict report 
+application markland ultrasonic suspend solid 
+gerry goddard wisconsin district discus characteristic site dynatrol plan installed 
+john skinner federal intra agency sedimentation project discuss dynatrol 
+note select summary presentation include report 
+progress report test the sedigraph particle size analyzer bill matthes sedigraph model 5000d manufacture micromeritics instrument corporation purchase hydrologic instrument facility assign iowa district test potential unit alternate pipet method 
+the sedigraph measure sedimentation rate particle disperse liquid range size micron 
+the instrument determines mean finely column beam ray concentration particle remain decrease sedimentation depth function time 
+analysis time reduce continuously move sedimentation cell effective sedimentation depth inversely relate elapsed time 
+build solid state computer solve stoke law synchronize cell movement equivalent spherical diameter axis recorder correspond elapsed time instantaneous depth 
+the logarithm difference transmit ray intensity electronically generate scaled plot linearlly cumulative mass percent axis 
+the experiment utilized testing procedure design supply information degree operator training time analysis effect vary concentration analysis reproducibility result effect change cell comparison result pipet method 
+the material utilized instrument evaluation consist seven fluvial sediment sample various site around country 
+delaney shrader 
+operator train the training qualify operator sedigraph less demand critical traditional pipet method 
+about hour job train would sufficient bring prospective operator level acceptable compet nce 
+time comparison sample preparation time either pipet sedigraph method 
+the time analysis per sample minute sedigraph approximately minute pipet range micron 
+one operator one unit could analyze approximately prepared sample per year 
+effect vary concentration the concentration sample ascertain previous analysis 
+rather sample diluted concentration meet operational limit 
+the effect vary sample concentration test start turbid solution dilute dilute disperse agent run 
+negligible difference note run 
+reproducibility minimum two analysis obtain sample nearly identical result obtain sample many eight repetition 
+effect interchange cell during normal operation cell window replace various reason 
+result indicate significant difference use two different cell 
+comparison result general best agreement method obtain sample percent material finer micron 
+for sample uniform distrfbution particle size result acceptable large difference note sample contain percent material large micron 
+these difference significant work still do resolve discrepancy 
+choice alternate method sedigraph utilization depend largely reliability availability reproducibility comparability method 
+with exception note sedigraph appear initially fulfill criterion adequately 
+reference delaney schroder preparation reference material particle size analysis silt clays geological survey open file report 
+weaver grobler evaluation sedigraph standard method sediment particle size analysis water south africa 
+shahvar zoreh particle size analysis effect method sediment concentration disperse agent measure size distribution master thesis iowa state university 
+schiebe welch cooper measure fine silt clay size distribution american society agricultural engineer paper summer meeting june 
+micromeritics instruction manual sedigraph 5000d particle size analyzer ray shutter mic june 
+instrumentation for automatically monitoring sediment concentration and particle size progress report gerald goddard description willow creek storm sewer basin madison wisconsin dynatrol test site the willow creek storm sewer basin locate west central part city madison wisconsin 
+the gaging station operate cooperation city madison dane county regional planning commission determine nutrient sediment water loading lake mendota 
+continuous discharge water quality data collect since october 
+willow creek drain area mi2 percent impervious area 
+the basin primarily residential small area commercial development consider fully develop 
+the drainage network consist variously size enclose storm sewer along natural concrete line open channel 
+the gaging station locate downstream storm sewer outlet along dredge open channel 
+the control station consist wide parshall flume instal broad crest concrete weir 
+over year record maximum observe instantaneous discharge ft3 minimum observe instantaneous discharge ft3 the average discharge ft3 willow creek flashy regard discharge typical urban stream storm sewer 
+the stage change within minute corresponds change discharge ft3 suspend sediment sample collect since october use automatic point sampler 
+suspend sediment concentration range less maximum 
+the maximum daily load ton 
+annual suspect sediment yield range ton mi2 
+rapid change sediment concentration occur within minute 
+this provide good response time dynatrol monitor change sediment concentration 
+dynatrol also evaluate regard response particle size 
+particle size suspend sediment gag station mostly silt clay size range 
+the amount silt size particle sample range percent clay size particle range percent sand size particle range percent 
+the dynatrol test see closely monitor sediment concentration throughout storm event 
+check accuracy dynatrol sample collect outlet unit analyze sediment concentration dissolve solid specific conductance 
+sieve analysis also make 
+temperature specific conductance record use minimonitor 
+the variation discharge sediment concentration site provide wide variety situation evaluate dynatrol 
+storm vary rainfall amount intensity relatively frequent normal condition 
+this site also locate within one half mile wisconsin district office close surveillance frequent inspection possible 
+determine sediment concentration with fluid density cell skinner the combination commercial density cell special electronic circuit show considerable promise sediment concentration meter 
+the cell consist shape tube attach electromagnetic vibrator water sample pump 
+sediment particle move tube force vibrate thereby increase mass oscillate system 
+sediment concentration increase vibrational period also increase 
+the electronic circuit performs three function sustain vibration tube accurately measure vibrational period digitally displays measurement eset time interval 
+the relation concentration vibrational period establish series laboratory test 
+result indicate accurate measurement period reading must correct water temperature dissolve solid 
+monitoring streambed change and sediment concentration use the acoustic velocity meter antonius laenen acoustic velocity meter avm system operational tool measurement streamflow since laenen smith 
+these system measure traveltime sonic pulse transmit diagonally across stream direction determine stream velocity along acoustic path 
+this paper point acoustic application may useful measurement sediment transport describe experience avm system 
+the measurement stream depth acoustic mean certainly new 
+fathometer use routinely geological survey field personnel define stream bottom profile 
+this device use single transducer transmit acoustic pulse reflect surface stream bottom time backscatter signal obtain measurement depth 
+subbottom profiler another widely use device 
+profilers useful locate well define surface beneath less consolidated bottom material 
+this device use trail hydrophone listen reflect signal originate source lateral distance away 
+avm system use direct signal transducer define velocity component move water 
+addition signal also reflect streambed monitor indirectly oscilloscope use measure streambed change vicinity midway transducer 
+these phenomenon document leanen verified cowlitz river washington oscilloscope photography 
+this study show depth measure scaling signal time oscilloscope photo within sounded depth point measure good index cross section 
+avm system presently use recognize reflect signal signal recognition technique need explore avm could monitor reflected signal automatically 
+signal correlation analysis yet try stream base acoustic system likely method available make measurement acoustic reflection viable tool 
+the measurement sediment concentration ultrasonic mean also new idea 
+physical equation define relation signal attenuation particle size concentration derive early 
+water resouces division bulletin article flammer conclude remark ultrasonic method determine sediment size concentration seem adaptable continuously record automatic field installation 
+the acoustic attenuation signal propagate stream determines well avm system operate 
+signal strength affect particulate matter present acoustic medium signal attenuation experience normal avm operation may reasonable indicator relative magnitude sediment concentration along acoustic path 
+this paper present seminar 
+equation urick indicate significant signal attenuation occur frequency path length use avm system enough attenuation provide information regard sediment concentration 
+oscilloscope photograph signal avm system use indicate indeed 
+date formal study document effect sediment concentration signal attentuation exist avm system 
+equipment design build record change signal strength program initiate verify relation signal strength sediment concentration reasonable approach 
+the speed acoustic signal travel stream affect desity water sediment mixture 
+temperature specific conductance know density gradient bend acoustic signal significantly relative density change indicate change traveltime acoustic pulse 
+the accuracy practicality scheme yet test however noticeable change speed sound associate sediment concentration document 
+problem incur approach measurement sediment concentration include derivation modulus elasticity value water sediment mixture 
+definition modulus value could entail difficult involved laboratory analysis 
+reference flammer ultrasonic measurement suspend sediment geological survey bulletin laenen measure water surface streambed elevation change acoustic measuring system american geophysical union water resource research 
+laenen smith acoustic system measurement streamflow geological survey water supply paper urick pri nci p1es underwater sound edition mcgrawhi 
+mud and debris flow geobotanical evidence debris flow mount shasta california hupp osterkamp geobotanical data include increment core cross section tree grow near debris flow deposit collect vicinity mount shasta july 
+evidence debris flow common valley section along stream drain mount shasta especially head alpine glacier 
+this evidence usually appear deposit terrace level present stream channel 
+case past debris flow degrade valley section deposit downstream 
+debris flow either destroy damage vegetation near path nearly surface create debris flow sustain reestablish woody vegetation 
+recent surface along six stream date dendrochronologically provide magnitude frequency information debris flow activity vicinity mount shasta 
+flood debris flow various effect woody vegetation include partly fell tree scar stem create bare area seedlings become establish 
+the effect record wood age geomorphic event measure year annual growth increment 
+tree survive debris flow provide highly accurate date 
+effect debris flow manifest several way usually deformation stem wood anatomy 
+these deformation four basic type fig 
+eccentric annual growth suppression release sequence adventitous sprout along parent trunk corrasion stem debris transport debris flow 
+the analysis cross date core cross section stem bear one deformation ultimately yield date particular event 
+all line evidence employ debris flow date mount shasta 
+area debris flow remove vegetation minimum age obtain date reestablish tree 
+often age structure tree stand terrace indicate tree begin grow shortly deposition 
+whitney bolam ash mud creeks intensively study drainage fig 
+study site select facilitate determination downvalley extent particular debris flow 
+field routine consist determination deposit terrace ground traverse topographic map aerial photography removal increment core cross section wedge tree grow near debris flow terrace use increment borer hand saw analysis wood sample age ring pattern 
+tree select dendrochronological analysis either grow terrace root flare indicate germination surface deposition bore obvious deformation ndicative debris flow damage 
+detailed field note take described character location debris flow terrace location type botanical evidence tree sample field date debris flow possible 
+about tree analyze 
+result tree ring analysis summarize table 
+debris flow edge 
+figure type botanical evidence debris flow 
+shlaskset pip 
+california kilometer mile 
+figure study area mount shasta california 
+summary debris flow date upper whitney creek bolam creek 
+upper whitney creek 
+bolam creek 
+whitney creek below 
+whitney creek juniper flat 
+tree age ring anomaly tree age tree age corrasion scar tree age ring anomaly corrasion scar corras ion scar tree age ring anomaly corras ion scar tree age tree age probably flood debris flow historically document site major deposition event occur one site 
+table summary debris flow date mud creek california 
+tree age ring anomaly corrasion scar tree age ring anomaly adventitious sprout flood debris flow tree age tree age tree age corrasion scar tree age tree age corrasion scar tree age corrasion scar tree age ring anomaly tree age probably flood debris flow historically document site major depositon event occur one site 
+table summary debris flow date ash creek california 
+upper ash creek l977 
+1itary pas ford 
+old site 
+tree age corrasion scar tree age ring anomaly corrasion scar tree age ring anomaly corrasion scar tree age ring anomaly tree age tree age historically document site major deposition event occur one site 
+most dendrochronologically datable debris flow terrace occur relatively low valley section 
+usually two three terrace find major stream incisement sample site 
+example show figure representative cross section ash creek 
+rule recent small debris flow identify high elevation mountain low valley section large debris flow usually identify low elevation high valley section fig 
+evidence old small debris flow rare probably owe likelihood wash subsequent large debris flow 
+much evidence suggest cyclic scour fill sequence along give reach 
+recent debris flow trace downvalley indicate fining clast downslope coarse lahar hyperconcentrated flood 
+tree ring date useful date surface old year 
+however considerable geomorphic stratigraphic data indicate many debris flow much old 
+these data thoroughly analyze yet literature show widespread pyroclastic deposit year old 
+this deposit distinctive use marker bed relative age older deposit indicator area recent debris flow activity 
+exposure debris flow stratigraphy especially cut bank indicate periodic large event prior since pyroclastic deposit 
+the unsorted reverse grading may typical debris flow deposit see exposure 
+recent ancient debris flow mount shasta represent major surficial geomorphic agent 
+these flow along streams valley may significant geomorphic process contribute formation large alluvial fan 
+dendrochronologic stratigraphic analysis may allow estimation magnitude frequency debris flow mount shasta 
+13j ~~>~·:.~· 
+~~'·~-~ .~·-~~~ :·, 
+not scale figure representative cross section asn creek near military pas california 
+downstream dilution lahar from mount helen define the boundary between debris flow and hyperconcentrated streamflow pierson scott mudflows debris flow collectively termed lahar volcanic terrain behave non newtonian fluid 
+hyperconcentrated streamflow hand think behave newtonian fluid 
+although transition one type fluid significant implication mechanic flow sediment transport sediment concentration boundary separate arbitrarily define 
+several lahar occur mount helen since catastrophic eruption may transform debris flow hyperconcentrated streamflow 
+these flow provide opportunity describe change flow property boundary cross correlate change character deposit transition 
+explosive eruption march cause nearly instantaneous melt large volume snow mount helen crater 
+subsequently flood roughly acre foot water hot volcanic ejecta cascade north flank volcano erode incorporate enough additional rock debris flow transform debris flow within mile creater breach 
+lahar initial peak discharge estimate excess ft3 enter north fork toutle river flow mile downstream move two surge coherent debris flow slurry 
+flow velocity compute superelevation bend range 
+sediment concentration peak flow deposit experimentally determine reconstituted sample show progressive downstream decrease percent weight 
+the deposit remain liquefied day typical debris flow deposit poor sort phi unit lack stratification within deposit unit matrix support clast rather openwork structure relatively low silt clay content percent weight 
+between mile downstream crater character deposit change progressively lahar runout facies consist poorly stratify moderately well sort phi unit bed non cohesive openwork sand predominantly coarse occasional lens pumice gravel 
+these bed commonly exhibit normal reverse grading 
+four gag observation station locate mile downstream observer note flow longer coherent slurry rather sand suspend muddy water hyperconcentrated streamflow 
+grab sample observe deposition coarse sand deposit drain immediately formation high stand wave confirm change fluid property 
+progressive downstream change peak flow observe respect station menti ned suspended sediment concentration percent weight discharge ft3 temperature 
+mean velocity change significantly remain 
+the sedimentology stratigraphy deposit may south fork toutle river lahar deposit several prehistoric lahar toutle river valley show trend similar march deposit 
+dilution debris flow deposition coarser particles incorporation additional water river result transition one phase slurry trap pore water transport within framework particle two phase hyperconcentrated fluid coarser particle freely suspend mixture water fine 
+for march lahar sediment concentration threshold cross 
+percent solid 
+sample recessional limb may north fork toutle river lahar indicate threshold lahar mudflow bracket 
+percent solid 
+this boundary however dependent particle size distribution slurry 
+past experimental work indicate silt clay rich mixture make transition considerably low sediment concentration 
+stream channel adjustment lahar and subsequent stormflow mount helens holly martinson david meyer the south fork toutle river flow west mount helen pine creek flow southeast two river system alter lahar generate may eruption 
+during water year volume sediment erode deposit fluvial process comparable great volume erode depostied channel cross section may lahars 
+reach comparable slope adjust similarly although magnitude storage change proportional discharge trend pattern adjustment persist time 
+these large scale change reflect response disturbed channel statistically large streamflows occur since eruption 
+the large change sediment storage occur water year measure section 
+this part due ubiquitous lateral instability pervasive widening channel foot water year fig 
+the additional downcutting channel incision steep uppermost reach cause net loss sediment storage 
+for example upper pine creek cross sectional area survey site increase ft2 
+moderate slope reach area change much ft2 reflected net storage loss gain 
+channel aggradation dominate site erosion high terrace valley wall contribute net loss sediment storage measure half site 
+low slope reach south fork toutle channel incise increase cross sectional area much ft2 mainly cause increase channel width 
+during water year change storage average one fifth magnitude change water year pattern response commonly reverse fig 
+eighty percent measure cross section high slope reach upper pine creek fill net gain storage 
+channel incise percent measure section moderate slope reach low pine creek middle south fork toutle river lower bed much foot cause net loss storage 
+widen negligible pine creek except near mouth continue dominant process middle reach south fork toutle 
+the channel aggrade widen low slope reach low south fork toutle 
+therefore high flow cause storm water year first flush effect 
+subsequent discharge comparable magnitude water year proportional effect channel 
+site large change storage occur high flow cause first significant storm water year 
+jpine creek 
+south fork toutle river 
+explanation aggrao wid dcgrade widen degrade 
+distance above mouth foot 
+figure dominant fluvial process pine creek south fork toutle river 
+pine creek 
+south fork toutle river 
+explanation aggrade wlden degrade widen degrade aggrade widen change 
+distance above mouth feej 
+figure dominant fluvial process pine creek south fork toutle river 
+erosion development the north fork toutle debris avalanche deposit david meyer richard janda year 
+follow may eruption mount helen chaotic hummocky topography massive debris avalanche deposit north fork toutle river significantly alter mass waste fluvial process 
+this deposit initially cover mi2 average foot poorly sort low cohesion primarily sand size debris 
+three major nine minor tributary impound avalanche deposit numerous close depression exist surface 
+for erosion proceed flow drainage develop 
+erosion development area avalanche deposit involve four step sequence event drainage integration fill spill close depression fig 
+channel incision extension channel widen alternate scour fill 
+however even reach experience aggradation show net decrease sediment storage bank erosion compensate aggradation bed 
+these process deliver anually ton suspend sediment large yet unquantified amount bed load north fork toutle river 
+this extreme load create major sediment management problem along low toutle cowlitz river 
+drainage integration initiate lahar generate compaction dewatering possibly liquefaction avalanche deposit morning afternoon may 
+further integration proceed quickly area upstream avalanche deposit receive inch precipitation annually 
+surface runoff ground water seepage fill depression cause breach cut incipient channel 
+breach flow surge downstream sometimes debris flow contain large depression 
+the first significant discharge avalanche deposit north fork toutle river occur august acre foot lake near elk rock mile northwest crater mile upstream distal end avalanche breach generate peak flow ft3 some breach cause erode away earthen impoundment rather fill spill process 
+the large breach type occur february north fork toutle river breach impoundment jackson creek lake release acre foot water 
+addition natural breach mi2 drainage integration bring construct control outlet south fork castle coldwater spirit lake 
+spillway construct first two lake summer pump scheme instal spirit lake autumn 
+stream result initial drainage integration quickly erode deep narrow channel generally steep initial slope readily erodible character avalanche deposit 
+new channel commonly incise foot response breaching flow storm runoff early water year 
+figure dra1nage integration time upper north fork toutle river basin debris retention structure 
+during last three quarter water year mark incision occur upstream elk rock 
+nearly sediment erode incise reach carry elk rock reach beyond distal end avalanche deposit 
+channel width incise poised reach commonly increase percent 
+bank erosion cause relatively dry debris slide avalanches well occasional slump bank generally remain steep straight 
+storm runoff volume peak discharge sediment delivery low compare per unit precipitation basis event water year 
+channel response north fork avalanche deposit quite different water year least three reason 
+first annual precipitation storm intensity great water year 
+second least mi2 drainage area gain episodic natural integration construction control exit coldwater south castle lake 
+finally effluent ground water table develop much avalanche greatly increased bank susceptibility slump flow 
+tributary slump saturated debris generate debris flow observe flow much mile 
+high peak discharge increase sediment delivery cause massive channel widen foot single day storm 
+locally width increase point flow depth insufficient transport impose sediment load 
+within elk rock reach net change thalweg elevation minimal although complex cut fill sequence much foot thick evident follow several storm period 
+even period aggradation channel widen reach erode great volume material deposit bed 
+upstream downstream elk rock large alluvial fan form considerable amount alluvium place temporary storage 
+erosion development avalanche deposit also influence volcanically generate debris flow large occur march initial explosive phase dome building eruption 
+this flow integrate drainage crater pumice plain north mountain north fork toutle river responsible large peak discharge upper north fork toutle river since may 
+although flow cause considerable erosion deposition avalanche merely accentuate fluvial landforms develop precede winter storm 
+despite drastic change surface morphology date percent original avalanche deposit erode away 
+thus unit likely cause persistent sediment management problem 
+sediment transport erosion and landform modification low level radioactive waste disposal facility near sheffield illinois john gray erosion landform modification process study acre low level radioactive waste disposal site near sheffield 
+the primary objective study along concurrent study saturate unsaturated ground water resource site develop data base site hydrology surface stability develop criterion future waste site selection 
+the determination rainfall runoff runoff sediment transport relation comparison relation obtain nearby undisturbed basin specific study objective 
+runoff sediment discharge monitor three watershed comprise two third site area acre watershed undisturbed terrain mile south site 
+the effect slope land use infiltration runoff sediment yield evaluate four plot range size ft2 two site two undisturbed watershed 
+three tip bucket one weighing rain gage record amount intensity precipitation 
+micrometeorological station collect data compute evapotranspiration 
+land surface altitude measure periodically fix location onsite quantify settle compaction fill material 
+photograph take periodically reference point provide visual comparison vegetative surficial change time 
+survey grind cover density also make one variable affect relation rainfall runoff 
+preliminary result indicate inch precipitation july june produce inch runoff site compare inch runoff undisturbed watershed 
+evapotranspiration compute inch site period 
+the balance inch water infiltrate subsurface 
+peak sediment concentration milligrams per 11ter measure compare 
+the reduced concentration follow implementation erosion control measure establishment 75percent vegetative cover site 
+site sediment yield still significantly great yield undisturbed watershed 
+inch rain july example cause ton sediment per arc transport acre area site whereas runoff result storm undisturbed watershed 
+analysis sample particles distribution show silt clay size particle comprise percent sediment load site 
+slope appear significant factor relation rainfall runoff sediment transport undisturbed watershed 
+however storm sediment yield obtain plots different slope stte suggest rainfall runoff sediment transport relation less dependent slope factor soil composition compaction antecedent soil moisture condition 
+significant difference runoff plot large gag watershed observe inch rain june induce inch 
+runoff combine gag site area compare inch runoff site plot percent slope 
+measurement sediment deposit ft3 still basin downstream gage indicate less percent total storm sediment discharge retain still basin 
+more collapse hole form site december december 
+although collapse hole less foot diameter two exceeded foot width one estimate foot deep 
+over percent hole form along edge waste disposal trench 
+modify bubble gage measure stage one station 
+the device use gas purge system transmit hydrostatic pressure orifice anchor hub crest stage gage differential port pressure transducer 
+the transducer attenuate regulate voltage battery function pressure differential sense port atmospheric pressure reference port 
+the voltage record convert engineering unit stage data logger 
+dekaport divisor system develop obtain reliable data runoff sediment yield plot fig 
+the system pump runoff 3gallon primary collect vessel port cone splitter housing subunit geological survey cone splitter 
+the cone splitter housing divide pumpage equal part 
+discharge one port retain gallon auxillary collect vessel volumetric measurement sample collection 
+ten port cone splitter 
+auxillary collect vessel sample tube 
+exit port 
+secondary collect vessel 
+intake port connect hose from pump 
+discharge hose ten port cone splitter 
+upper float switch 
+primary collect vessel figure dekaport divisor system 
+estimate long term sediment discharge which method use 
+thomas york the accuracy various method estimate long term suspendedsediment discharge evaluate compare discharge measure long term daily sediment station discharge estimate different method 
+the flow duration suspend sediment transport curve procedure miller colby use basis method difference method type curve dependent variable curve plot 
+the ypes curve include single annual curve two seasonal curve dormant grow season three size fraction curve sand silt clay 
+relation sediment concentration sediment discharge water discharge develop type curve 
+the curve compute straight line leastsquares regression hand draw average sediment concentration sediment discharge value within specified water discharge interval 
+daily suspend sediment discharge record schuylkill river manayunk use base information analysis 
+the river drain mi2 traverse three physiographic province 
+land use range anthracite mining forest mountain headwater extensive agriculture industrial city middle low basin 
+more million ton suspend sediment discharge river annual sediment discharge range ton ton 
+the sediment percent sand percent silt percent clay 
+major flood significant affect long term sediment discharge characteristic river high annual sediment discharge occur flood generate hurricane connie diane hurricane agnes transport annual sediment discharge 
+during year period percent suspendedsediment discharge transport day percent time percent transport day percent time 
+only sample collect particle size determination use analysis 
+the water discharge time sample range ft3 the correlation coefficient standard error estimate relation water discharge concentration sediment sand silt clay indicate table 
+generally relation sediment water discharge clay water discharge well low standard error relation sand water discharge silt water discharge 
+also grow season relation good good either dormant season ann ua1 re1at the average annual suspended sediment discharge estimate different method range ton table compare measured average discharge ton 
+the mean discharge estimate method ton standard deviation ton 
+the mean eight regression method tonsjyr mean eight group average method ton standard deviation ton respectively 
+table correlation coefficient standard error estimate relation logarithms water discharge concentration sediment sand silt clay suspension schuylkill river manayunk 
+correlation coefficient 
+standard error estimate log unit 
+grow season 
+sediment sand silt clay 
+dormant season 
+sediment sand silt clay 
+sediment sand silt clay 
+table measure estimate suspended sediment discharge schuylkill river manayunk october september 
+ton day 
+measure average annual sediment d1scharge 
+estimate average annual sediment discharge 
+regression concentration data 
+annual curve 
+seasonal curve 
+annu particle size curve 
+seasonal particle size curve 
+regression sediment discharge data 
+annual curve 
+seasonal curve 
+annual particle size curve 
+seasonal particle size curve 
+group average curve concentration data 
+annual curve 
+seasonal curve 
+annual particle size curve 
+seasonal particle size curve 
+group average curve sediment discharge data 
+annual curve 
+seasonal curve 
+annual particle size curve 
+seasonal particle size curve 
+difference percent 
+the positive bias estimate probably cause use sample collect particle size determination 
+these sample normally collect concentration sediment high 
+expand data set clude water sediment discharge october april year period improve accuracy estimate discharge appreciably 
+long term discharge estimate relation sediment discharge water discharge ton regression group average technique respectively 
+these estimate within percent percent long term measure discharge 
+the analysis indicate follow generalization apply estimate long term sediment discharge schuylkill river manayunk single relation suspend sediment concentration discharge water discharge provide good estimate long term sediment discharge individual relation sand silt clay two seasonal relation sediment concentration discharge water discharge provide good estimate single annual curve curve hand draw average value sediment concentration discharge provide good estimate straight line compute least square regression relation sediment concentration water discharge provide good estimate relation sediment discharge water discharge 
+reference colby relationship sediment discharge streamflow geological survey open file report miller analysis flow duration sediment rating curve method compute sediment yield department interior bureau reclamation 
+sediment budget the tidal potomac river and estuary water year 
+edward ckman james bennett 
+determination sediment budget tidal potomac river 
+estuary involve two different type study calculation 
+load enter upland source shore erosion calculation 
+amount sediment transport tidal potomac river 
+estuary passing tidal potomac chesapeake bay 
+upper potomac bridge calculate 
+river use 
+bsatsainnd aerdn eur 
+tidal geological 
+potomac chain survey method 
+although load shore erosion include determination 
+the load local nonpoint source introduce streamflow leave local tributary watershed downstream chain bridge overflow combine sewer system district columbia 
+the load overflow combine sewer system estimate daily volume overflow mean concentration develop study 
+the load local tributary watershed estimate calculate yield five monitor watershed apply yield remain area 
+yield calculate four monitor watershed three urban one rural develop rel tionships sediment concentration streamflow 
+the yield calculate urban watershed percent less value calculate use sample collect 
+this decrease due part imposition effective sediment control construction sit construction two multipurpose impoundment 
+the yield calculate one rural watershed range value urban watershed two three time great yield report rural watershed area 
+this discrepancy probably sample watershed collected dry period 
+the amount sediment transport tidal potomac tidal potomac river chesapeake bay calculate use hybrid one layer two layer box model continuously calibrate use observation sediment salt concentration make throughout tidal potomac river estuary adjacent chesapeake bay 
+transport model element determine solve conservation mass equation use implicit finite difference technique 
+result indicate water year million ton sediment enter tidal potomac river estuary upland source retain tidal potomac 
+the potomac river chain bridge supply percent incoming sediment local nonpoint source percent shoreline erosion percent 
+the tidal potomac river estuary also serve sediment sink chesapeake bay period 
+the chesapeake bay contribute ton tidal potomac pass direction 
+ffects the propose cooper river rediversion sedimentation charleston harbor south carolina glenn patterson the rate sedimentation resultant maintenance dredge charleston harbor increase dramatically follow two major modification harbor 
+one modification deepen project depth navigation channel foot mean low water 
+the modification santee cooper diversion project add average ft3 santee river water cooper river increase many time freshwater inflow harbor 
+the diversion bring additional sediment harbor make harbor efficient sediment trap induce landward flow salty water along harbor floor 
+plan make redivert santee river water back former channel order reduce rate sedimentation harbor 
+the purpose investigation use exist information determine probable effectiveness propose rediversion reduce rate sedimentation maintenance dredge harbor 
+the approach estimate sediment budget harbor estimate effect rediversion sediment budget 
+major source sediment include erosion bed bank upper cooper river sediment originate santee river basin pass pinopolis dam divert water 
+number minor source directly affect diversion contribute additional sediment 
+between sediment dredge navigation channel return harbor result rapid rate sedimentation harbor floor 
+improvement dredge spoil disposal method reduce rate runback dredge sediment estimate percent rate maintenance dredging remain high million cubic yard per year higher account known sediment input 
+inflow ocean bottom current may provide additional sediment 
+rediversion reduce sediment load cooper river diminish sediment trap landward bottom current 
+the rate maintenance dredge need follow rediversion cannot precisely estimate uncertainties sediment budget rate maintenance dredge follow rediversion probably percent less average period 
+the reduction rate maintenance dredging may delay decade need remove previously accumulate sediment may partially offset effect future channel deepen 
+sediment chemistry determination lake sedimentation rate lead cesium yang natural artificial radionuclides 210pb 137cs use widely determination sedimentation rate lake estuary coastal region 
+since 210pb half life year possible date sediment age year 
+the 210pb method use determine sedimentation rate base occurrence excess 210pb member 238u decay series 
+there continuous escap 222rn lithosphere hydrosphere atmosphere decay day half life transforms 210pb four short live daughter 
+the 21upb rapidly remove atmosphere wet precipitation dry fallout provide measurable flux earth surface rate proximately disintegration per minute per square inch per year 210pb in2jyear depend location 
+from water column scavenge bottom sediment 
+there three assumption invo ved influx 210pb sediment water interface remain constant sedimentation rate remain constant independent migration 210pb occurs deposit 
+these assumption verify many author koid other eakins other thompson other 
+137cs year half life produce atmosphere result nuclear weapon test extensively 
+the residence time nuclide air water column less year 
+therefore appearance 137cs activity sediment column would indicate onset nuclear test device maximum activity would correspond year subsequently decrease present time 
+there three method use measure 210pb activity gamma method direct counting sediment kev gamma activity 210pb detector beta method separation radionuclides ion exchange column precipitation pbcr03 age ingrow 210bi daughter 210pb decay count 210bi beta particle low beta gas proportional counter alpha method chemical separation 210pb silver disk count 210pb alpha particle alpha spectrometer 
+the last two method capable high sensitivity gram size sample although many process step involve longer ingrowth time ughter radioactivity require 
+the first method simple fast less accurate require large sample 
+lake sediment core scofield reservoir utah lahontan reservoir nevada date 210pb 137cs method 
+the result scofield reservoir indicate top inch sediment yield excess 210pb activity pci dry weight decrease pci depth inch 
+the sedimentation rate approximately comparable value obtain independently 
+137cs method 
+the scofield reservoir bottom sediment thickness inch corresponds lake history approximately year 
+lahontan reservoir excess 210pb activity pr6files show inverse curve surface layer due inverse sedimentation probably cause filter feed organism 
+the excess 210pb activity top inch pci increase pci depth 
+thereafter activity gradually decrease pci depth inch 
+the sedimentation rate compare 137cs value 
+reference eakins morrison international journal apply radiation isotope 
+koide soutar goldberg earth planetary science letter 
+thompson turekin mccaffrey estuarine research cronin 
+academic new york 
+inorganic partitioning sediment arthur horowitz historically water resource division wrd name implies concentrate much water quality effort analysis dissolve constituent 
+result water quality tend evaluated basis kind concentration various inorganic constituent find solution 
+however aquatic system sediment suspend bottom contains many time concentration certain inorganic constituent dissolve water column 
+the strong association numerous element compound arsenic mercury cadmium lead zinc other sedimentary material mean much distribution transport availability inorganic constituent give hydrologic system cannot detect evaluate solely sample analysis water 
+additionally sediment view chemical reservoir may certain physico chemical condition release chemical water column otherwise enter food cha1n 
+finally several inorganic constituent degrade react constituent form soluble possibly even toxic form example conversion mercury methyl mercury 
+therefore comprehensive picture water quality adequately describe distribution transport availability inorganic constituent require chemical data sediment 
+present time wrd lack capability requisite field laboratory procedure determine total true concentration inorganic constituent partition sediment 
+the term total mean actual concentration constituent sense series analyse yield result equal percent confuse term totally recoverable 
+partition involve physical chemical separation 
+the physical aspect refers analysis various size fraction example sand silt clay specific gravity fraction order ascertain constituent distribution within particular sample faciltitate intersample comparison readily ascertain spatial trend 
+the chemical aspect refer determination association inorganics various material within sample humic acid carbonate ferromanganese oxide type association exist adsorption complex substitution other 
+through use type data may possible begin identify source sink fate possible effect potentially toxic environmentally necessary inorganic constituent 
+similarly data help transport model estimate cycle rate determine availability inorganics ecological system 
+order provide procedure techniques deal inorganic sediment association method development project inorganic partitioning sediment establish 
+initial project objective include adapt develop method determination total concentration sediment routine use wrd central laboratory system develop size fractionation method alter chemistry selection appropriate size range range routine analysis adapt develop method inorganic sediment chemical partition provide guideline use interpretation data generate method 
+transport suspend sediment and associated chemical constituent the low mississippi river louisiana charles demas philip curwick suspend sediment transport low mississippi river view burden asset state louisiana 
+sediment deposition bed movement pose constant navigational threat this result million maintenance dollar spent year dredge 
+conversely diversion sediment laden mississippi river water sediment control measure mississippi river basin accelerate rate erosion state coastal wetland shoreline 
+coastal erosion enormous economic repercussion state affect offshore oil revenue influence productivity vast nearshore fishery 
+use sedimentladen mississippi river water maintain reclaim coastal wetland area potential management tool available state help reduce rate coastal erosion 
+for reason louisiana district geological survey enter cooperative agreement state louisiana perform year study characterize suspend sediment movement attach chemical load lower mississippi river tarbert land venice river mile 
+the specific objective study identify area suspend sediment associate chemical load deposit resuspended respect variation streamflow suspend sediment load upstream boundary determine select chemical constituent load relation suspend sediment concentration particle size water discharge relate bed sediment develop test one dimensional numerical sediment transport model use predict sediment chemical load study reach 
+suspend sediment bottom material attach chemical constituent sample several different rise river stage course study 
+suspend sediment also collect monthly basis 
+instantaneous discharge measurement make concurrently sample trip select site 
+all suspend sediment sample depth integrated five equal discharge increment cross section 
+suspend sediment water quality sample collect use point sampler bag sampler 
+bottom material collect teflon coat shipek grab sampler 
+data collection site selection optimize aid numerical unsteady flow model onedimensional numerical sediment transport model 
+fathometer tracing continuous stage data collect several site help calibrate model 
+suspend sediment bottom material characterize accord particle size associate chemical constituent 
+suspend sediment transport and chemistry organic carbon thurman suspend sediment transport percent total organic carbon ocean important part global carbon cycle 
+suspend particulate organic carbon soc poc varies concentration microgram per liter milligram per liter depend type river meybeck 
+the concentration suspend organic carbon follow river continuum concept vannote other 
+that concentration least first second order stream increase downstream great concentration high order stream 
+suspend organic carbon consist live biomass detritus organic coating silt clay 
+the importance source vary river season 
+small stream river contain organic carbon allochthonous origin outside riverine system 
+large river autochthonous input algae aquatic organism 
+the amount autochthonous input large summer fall least winter 
+the percentage organic carbon suspend sediment varies percent percent 
+the least amount find river great discharge find slow move river drain wetland swamp 
+thus concentration soc world river varies inversely concentration suspend sediment meybeck 
+because high erosial rate dilute soc reduce primary production soc less 
+however within river system soc varies directly suspend sediment log log fashion nordin meade 
+that increase discharge increase concentration suspend sediment increase soc 
+this increase soc usually peak ahead dissolve organic carbon discharge 
+soc longer residence time river doc 
+because sediment may exist ten year stream tens thousand year flood plain major river soc undergoes biological chemical degradation much longer period dissolve organic carbon 
+the ratio suspend sediment mean suspend sediment considerably enrich nitrogen compare surround soil nitrogen ratio malcolm durum 
+because suspend sediment concentrate nitrogen ion exchange also consist coating live biomass enrich organic nitrogen compound 
+this make good substrate bacteria colonize surface 
+bacteria attach pili thread like organ act microbial factory degrade organic matter aerobically suspend state 
+here carbon dioxide water major product suspend organic carbon convert inorganic carbon 
+however sediment deposit oxygen may deplete interstitial water 
+the bacterial community change anaerobic organism convert poc organic acid methane carbon dioxide 
+this characteristic interstitial water sediment doc increase thurman 
+suspend organic carbon sediment behave adsorbent organic pollutant 
+well establish percent organic carbon good prediction equilibrium constant organic schwartzenbach westall 
+thus sediment concentrate least soluble organic compound contaminant act sink store contaminant flood plain river 
+reference malcolm durum organic carbon nitrogen concentra tions annual organic carbon load six select river united state geological survey water supply paper meybeck river transport organic carbon ocean report workshop flux organic carbon river oceans ntis report conf 
+nordin meade the flux organic carbon ocean 
+some hydrological consideration 
+report workshop flux organic carbon river oceans ntis report cong 
+schwarzenbach westall transport nonpolar organic compound surface water groundwater laboratory sorption study environmental science technology 
+thurman organic carbon water chapter organic geochemistry natural water martinus nijhoff 
+junk the hague review 
+vannote other the river continuum concept canadian journal fishery aquatic science 
+channel morphology sediment impact from coal mining northeast tennessee osterkamp carey hupp extensive data include water sediment discharge channel morphology bed bank material characteristic botanical evidence flow event collect since smoky creek crabapple creek louse creek basin northeast tennessee 
+most basin area heavily impact coal mining activity 
+crabapple creek louse creek drain adjacent basin mi2 respectively 
+percent louse creek basin disturb surface mining much mining occur prior 
+the crabapple creek basin remain relatively undisturbed since lumber prior world war 
+preliminary data crabapple creek basin indicate annual suspended sediment yield less mi2 whereas casual observation suggest substantially high yield louse creek basin 
+mark difference two basin also apparent channel characteristic particularly morphology 
+crabapple creek relatively stable well armored channel foot width closely lined mature population tree shrubs 
+analysis coal content bank material period average less percent suggest little fluvial transport deposition coal 
+contrast louse creek foot wide anabranching channel numerous gravel cobble bar stabilize sycamore alder 
+most tree less year old suggest stabilize channel condition follow deposition coarse material channel widening mining 
+coal content bank material sample along louse creek average percent 
+along channel active coal mining coal content often range percent 
+smoky creek drain basin mi2 
+upper smoky creek major tributary high gradient subalpine channel generally either well armored form bedrock 
+the stream valley progressively alluvial downstream direction bottom land widths foot near confluence smoky creek new river 
+extensive strip mining begin basin continue vary intensity present 
+since annual suspend sediment yield measure smoky creek hembree central part basin average mi2 
+over percent suspend sediment silt clay size range 
+yield data smoky creek hembree mile upstream hembree gage drainage area mi2 available suspended sediment concentration peak discharge appear great hembree 
+channel morphology data collect nine monument section smoky creek basin supplement stratigraphic botanical observation central part basin 
+preliminary result indicate general sequence channel widen aggradation movement coarse bed material upper reach drainage net active 
+m1n1ng eventual movement bed material upper central part smoky creek channel coarsest size least mobile incisement recent deposit channel narrow reestablish woody vegetation along upland reach follow cessation mine continue bank erosion possible channel widen aggradation rework mobile bed material transport downstream high flow event 
+upland area bill branch near hembree drainage area mi2 example mine principally 
+part bill branch channel mostly cut bedrock apparently substantial aggradation 
+recent cross section measurement indicate much previously deposit debris incise transport downstream degradation remain coarse alluvium continue 
+smoky creek hembree similar measurement show recent aggradation presumably deposition material derive tributary basin bill branch 
+section data stratigraphic evidence botanical observation smoky creek hembree along low reach show recent year substantial bank erosion occur 
+site mile downstream smoky creek hembree gage botanical evidence show flow event deposited inch debris respectively fig 
+during last year least foot lateral channel migration accompany bank erosion site 
+smoky creek point bar sycamore 
+high coal content low coal content 
+figure diagram summarizing use botanical evidence date recent flow event along smoky creek northeast tennessee 
+unit hydraulic geometry indicator channel change williams water discharge sediment transport data collect select site survey river reach western united state use evaulate hydraulic variable energy equation evaluate channel change stream section 
+the coefficient exponents hydraulic geometry relation base unit discharge rather total discharge 
+unit hydraulic geometry great application define channel change conventional analysis 
+the unit hydraulic geometry relation use infer sectional competence course sediment discharge expect channel change define quasi equilibrium near bank stream 
+result study suggest long term projection coursesediment transport initially involved evaluation past hydraulic change stream reach 
+although primary analysis use streamflow measurement slope area technique use analyze ungaged reach 
+the method describe applicable broad range stream condition provide technique evaluate natural change man influence stream reach 
+channel adjustment man induce stress west tennessee andrew simon clarence robbins alluvial stream channel dynamic geomorphic system continuously adjust alter energy input 
+west tennessee channel modification cause drastic channel adjustment plan profile 
+more specifically modification conjunction land use practice lead accelerated downcutting headward degradation downstream aggradation accelerate scour bank instability 
+channel straighten creates steepen profile thus heighten energy condition within channel 
+channel response induce stress therefore similar type great magnitude change cause dredge clearing 
+large scale channel instability adjustment occur obion river south fork fork deer river whereas nonchannelized hatchie river flow similar deposit continue exhibit characteristic stability 
+channel slope define primary dependent variable mackin prove sensitive descriptive parameter essential determine channel adjustment 
+although channel slope generally consider one difficult hydraulic variable define rejuvenate fluvial system west tennessee manifest readily measurable variation 
+adjustment profile man induce slope increase describe inverse exponential function basic form function channe1 ope number year nee comp1et ion channel work coefficient unique reach 
+these equation define response time particular reach entire river 
+the length time require attain quasi equilibrium condition function magnitude extent impose disturbance 
+the adjusted profile similar predisturbed profile gradient alteration channel length take place 
+where channel straighten construct cutoff slope adjustment trend towards profile low gradient 
+reference mackin concept grade river geological society america bulletin 
+contrast stream channel response major storm examples from two mountainous area california michael nolan donna marron study two mountainous area california illustrate basic difference effect major flood event morphology stream channel 
+widespread catastrophic storm effect northwestern california contrast localize storm relate effect santa cruz mountains west central california 
+major storm northwestern california trigger widespread debris slide along inherently unstable colluvial streambanks 
+streamside failure particularly widespread area positive feedback effect physical process fig 
+these effect responsible trigger additional landsliding downstream initial failure site 
+massive amount colluvium deposit gravel bed channel result landslide activity overwhelm sediment transport capacity channel result massive channel aggradation major increase channel width throughout entire drainage basin 
+the effect large volume colluvium channel geometry exacerbate persistent mass figure schematic representation positive feedback physical process northwestern california colman 
+order channel annual basis 
+widespread channel change result recent storm northwestern california last decade may last decade longer 
+contrast major channel change associate storm santa cruz mountain occur locally 
+most storm relate channel change severe associate moderate event 
+catastrophic channel change limit localized area experience exceptionally abundant mass movement activity form debris flow debris avalanche trigger high pore water pressure cause locally intense precipitation 
+the moderate volume colluvium introduce elsewhere trans orted little affect channel geometry much colluvium characterize relatively small grain size sand channel gradient generally steep channel usually contain large quantitites alluvium prior major storm 
+the relatively coherent bedrock find area limit steambank erosion 
+streamside failure due undercut therefore relatively limited positive feedback find hillslope stream channel process northwestern california occur great extent santa cruz mountain 
+major channel change associate storm event therefore limit localized area receive maximum precipitation intensity 
+the contrast channel response observe two study area result interaction naturally occur physical process operate respective area 
+although cultural activity may cause impact give storm event disproportionately large activity alter basic process interacttons 
+delicate balance exist process northwestern california santa cruz mountain 
+this suggest would easier cultural activity cause storm disproportionately large impact stream channel northwestern california santa cruz mountain 
+the contrast channel response occur despite similarity magnitude frequency sediment transport area 
+the effectiveness flood event shape channel morphology mountainous area therefore independent magnitude frequency sediment transport best judged basis impact duration 
+channel morphology present stream reach give time northwestern california reflect effect individual storm length time available moderate post flood flow modify flood effect 
+contrast channel morphology santa cruz mountains reflect effect moderate extreme flow event 
+where overwhelm volume sediment introduce channel previous storm channel tend flow alluvial channel relatively wide flat 
+elsewhere channel tend shape relatively steep presumably reflect effect moderate event least much effect extreme event 
+since localize effect generate one storm persist long recurrence interval storm channel morphology throughout area probably reflect effect multiple storm 
+the key understanding persist storm relate effect northwestern california widespread santa cruz mountains lie identify physical process operate hillslopes stream channel area well assess process interact 
+study interaction provide information describe effect major flood morphology stream channel also provide information role various hydrologic event shape general basin morphology 
+reference colman the history mass movement process redwood creek basin humboldt county califnria paper present lieu 
+thesis university park pennsylvania state university oepartment geosciences 
+effect dam construction channel geometry and bed material bear creek denver colorado hadley emmett 
+the objective study determine downstream effect channel geometry characteristic bed material cause construction flood control dam reservoir bear creek near denver 
+this back yard project require day year field survey data collection analysis 
+bear creek originates mount evans along continental divide west denver flow eastward mountain onto plain join south platte river denver metropolitan area 
+the drainage area bear creek approximately mi2 lie mountain 
+there two streamflow gag station bear creek year record 
+one morrison stream leave mountain second sheridan near mouth 
+the mean annual flow morrison ft3 ft3js near mouth 
+before floodcontrol dam construct generally snowmelt peak spring occasional flood peak summer thunderstorm 
+the channel relatively unregulated prior except diversion 
+flow irrigation construct 
+july flood control near morrison complete 
+impoundment bear creek lake begin 
+since closure dam flow 
+bear creek regulate peak discharge reduce 
+march five cross section survey monument bear creek bear creek park south lamar avenue south sheridan boulevard reach foot long 
+the study reach threefourths mile upstream gag station near mouth bear creek 
+the five cross section survey three time twice dam close dam closure 
+bankfull width five cross section range foot average foot dam closure 
+the mean bankfull depth range foot average foot 
+bankfull width range foot average foot 
+the mean bankfull depth range foot average foot 
+study reach gradient decrease percent 
+although channel become wider deeper since dam closure obvious change large increase depth 
+change width probably restrict dense vegetation growth along bank confine flow 
+cross section locate pool cross section locate riffle cross section upstream end second pool 
+median diameter bed material pool median diameter bed material riffle 
+sediment storage and discharge steep unstable terrane richard janda storage readily erodible sediment adjacent stream channel profoundly influence fluvial sediment discharge particularly steep unstable terrane 
+most recent hydrologic geomorphic investigation geological survey emphasize transport process 
+sediment however often equally important aspect long term movement sediment drainage basin 
+sediment discharge headwater reach humid steepland stream commonly supply limited whereas downstream reach likely transport limit 
+the impact land use change sediment discharge geomorphic significance storm give magnitude properly document change storage consider along change transport 
+the initial location volume physical characteristic store sediment together change parameter storage matter interest dietrick other 
+the sediment impact two comparable flood river may differ greatly recurrence interval flood less time require recharge streamside sediment storage area 
+the volume temporarily store modern alluvium along river commonly times large average annual total sediment discharge swanson other 1982b 
+alluvium may store bedforms behind organic debris landslide dams bar flood plain 
+sediment discharge channel characteristic might also influence storage change associate streamside outcrop glacial drift lahar colluvium loess residual soil unconsolidated bedrock well modern alluvium 
+the type stability storage function stream order terrane characteristic vegetation play particularly prominent rule 
+storage channel flood plain alluvial fan may delay attenuate peak downstream delivery sediment introduce hill slope disturbance 
+conversely increase peak water discharge may cause transport store sediment without increase hill slope erosion 
+increased water sediment discharge often lead increased channel width thereby set selfreinforcing positive feedback accelerate erosion 
+fact change channel width generally exert profound influence storage change bed elevation mountainous terrain 
+example process provide oregon cascade swanson fredricksen swanson other coast range california oregon janda other dietrick dunne 
+mount helen impact area southwestern washington janda meyer press 
+water resource division often ask assess immediate longterm sedimentation impact intense storm change land use exotic form disturbance 
+these assessment often must perform short time limited fund 
+nonetheless undertaking project one imum ass qualitatively whether system interest supply limit transport limit 
+preferably one develop quantitative term practicable flow chart storage landscape element interest transport process move sediment element 
+this procedure help identify storage 
+element transport process need documentation 
+system supply limited historical observation time sequential aerial photograph stratigraphic technique may provide useful information short term transport study 
+develop predictive capability shall make increase use analytical model 
+however exist sediment rout model improve make two dimensional incorporate stochastic well deterministic element within 
+calibration verification model require carefully select long term data set 
+reference dietrich dunne sediment budget small catchment mountainous terrain 
+geomorph suppl 
+dietrich dunne humphrey reid construction sediment budget drainage basins forest general technical report pnw 
+janda nolan harden colman watershed condition drainage basin redwood creek humboldt county california geological survey open file report 
+swanson fredricksen sediment rout budget implication judge impact forestry practice forest service general technical report pnw 
+swanson fredricksen mccorison 1982a material transfer western oregon forest watershed natural behavior response stress western coniferous forest edmunds 
+douden hutchinson ross inc stroudsburg 
+swanson janda dunne summary sediment budget rout study forest service general technical report pnw 
+bedload variability measure bedload transport during constant and slowly changing water discharge condition william carey cyclic variation bedload transport constant water discharge condition inherent part bedload transport process 
+although cyclic variation measure extensively laboratory similar information available field measurement 
+the exist field data set cyclic variation generally consist small number sample yield little information nature transport cycle 
+collect comprehensive field data variation complicate restriction constant slowly change water discharge 
+the sand bed channel western tennessee particularly suit type sample tend hold peak discharge period several day recede slowly 
+during period sustain peak discharge assume bedload transport equilibrate flow condition measure variability indicative inherent variability transport process 
+during day period slowly changing water discharge condition four set bedload sample obtain sample point use standard pound helley smith bedload sampler 
+the sample set consist sample 
+sample sample set collect consecutively approximate minute interval sample 
+water discharge essentially constant sample set vary less percent day period 
+individual measure transport rate exhibit large variation one sample next show figure 
+these individual rate convert dimensionless rate divide individual set mean rate set 
+when dimensionless rate plot cumulative frequency distribution show good agreement theoretical probability distribution derive case ripple dune fig 
+number sample increase similarity sample theoretical distribution also increase 
+probability distribution sample set closely aprroximate theoretical distribution 
+this agreement sample theoretical distribution verify many laboratory investigation field data set sufficient number sample 
+plot measure transport rate versus time sample set show peak transport rate seem occur approximately equal interval fig 
+this cyclical trend well documented laboratory study show correspond passage dune bedforms 
+apply smooth technique data set short term cycle become distinct much long term oscillation appear fig 
+this long term oscillation also report laboratory study may 
+cause group large small dune move pass sample point 
+information orr frequency length bedforms obtain sample period 
+the data collect study believe constitute one ost comprehensive set field observation cyclic variab111ty existence today 
+these observation confirm existence least two superimposed cycle occur condition constant slowly change water discharge 
+--· ..· 
+time day figure variability con ecut1ve bedload sample 
+theoretical consecutive sample relative transport rate 
+figure theoretical sample distribution relative transport rate 
+qqi tipc 
+time day figure variability consecutive bedload sample smooth 
+some characteristic fluvial process river william emmett luna leopold robert myrick fluvial process river study extensively united state past year 
+this paper relate old study scour fill new study detail data water surface slope bedload transport rate help substantiate early interpretation 
+although discussion base data three small river principle involve transfer value river 
+reversal maximum value water surface slope riffle low flow pool high flow cause similar reversal maximum value stream power reversal reflect measured value bedload transport rate 
+both pool riffle reach likely contribute sediment bedload result generalize scour high flow 
+however spatially variable bedload transport rate require reach least available stream power time high transport rate temporarily fill continuity sediment budget maintain 
+similarly reach least available stream power time recede river stage become sinks storage move sediment 
+this process help explain sort mechanism sediment maintenance pool riffle sequence river 
+the volume scour material within annual travel distance average equal annual bedload approximation bed particle move speed travel distance 
+scour associate dilation grain bed scour depth individual particle move intermittently speed much less water 
+the volume material scour move may large low mean speed downstream entire volume move long reach affect shift downstream limit distance 
+measurement bedload discharge nine illinois stream with the helley smith sampler julia graf sample collect helley smith bedload sampler provide useful information transport sand size sediment illinois stream 
+bedload sample collect nine site range drainage area mi2 
+sample site year sample vermilion river near leonore spoon river near seville moine river near ripley kishwaukee river near perryville green river near geneseo rock river near joslin edward river near new boston henderson creek near oquawka kaskaskia river near venedy station 
+the purpose sample program provide information need estimate volume sand size material enter mississippi river two major tributary rock river illinois river 
+all stream sample drain flat gently roll terrain 
+surficial material drainage basin compose largely unconsolidated sediment deposit process related pleistocene glaciation loess drift till dune sand 
+bedrock expose place along stream particularly rock vermilion river 
+bed material stream except vermilion river range fine coarse sand 
+the vermilion river bed compose primarily granule cobble gravel 
+median diameter bed material sample site vermilion river spoon river moine river kishwaukee river green river rock river edward river henderson creek kaskaskia river 
+the helley smith sample provide basis bedload discharge rating curve rock kaskaskia river henderson creek 
+the sample rock river collect flow range almost peak discharge record yield well define bedload transport curve 
+data henderson creek cover much narrow range flow condition show wide scatter 
+sample method change year sample period may affect result 
+although transport curve develop data additional sampling need obtain reliable curve 
+only three measurement define kaskaskia river rating curve cover range flow condition fall straight line 
+measure bedload discharge near venedy station much less bedload discharge compute hydraulic channel characteristic suggest reservoir mile upstream site may significant factor reduce bedload 
+the possibility extend bedload discharge rating curve develop curve station measurement investigate compare measure bedload discharge bedload discharge compute hydraulic channel characteristic range flow condition 
+three theoretical empirical method use computation 
+one bedload sample collect spoon kishwaukee edward river 
+comparison compute bedload discharge one measure value make possible selection appropriate method compute bedload discharge stream 
+one computational method best 
+represent bedload discharge stream 
+bedload discharge rating curve develop moine river two measure bedload discharge sufficient development rating curve agree well compute bedload discharge 
+bedload discharge measure vermilion river sand gravel bedrock bed much low compute bedload discharge 
+large bed material grain high flow velocity may interfere operation bedload sampler 
+paucity movable bed material also may cause low measure bedload discharge site 
+the dominant size bedload stream sample range 
+suspend sediment sample stream compose predominantly silt clay size particle less percent sample large sampler bag mesh 
+therefore stream bedload sample probably contain little sediment actually travel suspension 
+however high percentage sediment less bedload sample may cause significant suspended load size close sampler bag mesh size 
+very high percentage sediment less collect green river sample percent suggest fine bed material stream may clog sampler 
+because inferred clogging sample use develop bedload discharge rating curve green river 
+suspend sediment discharge measure time bedload nine sample 
+the fraction total sediment discharge travel within inch bed ranged percent percent 
+the bedload fraction low kaskaskia vermilion river percent respectively high kishwaukee rock river henderson creek percent percent percent respectively 
+list attendee northeastern region leslie arihood indianapolis gerald goddard madison julia graf urbana john gray urbana lloyd reed harrisburg thomas york harrisburg southeastern region willian carey nashville philip curwick baton rouge john george regional office atlanta james ficken hif bay louis glenn patterson columbia andrew simon nashville central region john costa lakewood james kircher 
+lakewood david harshall albuquerque wilbur matthes iowa city albert yang central laboratory arvada western region dallas childers vancouver richard janda vancouver holly martinson vancouver david meyer vancouver michael nolan menlo park thomas pierson vancouver rhea williams boise research william emmett lakewood marvin goldberg lakewood edward hickman reston arthur horowitz atlanta cliff hupp reston waite osterkamp reston john skinner minneapolis michael thurman lakewood headquarters douglas glysson quality water branch 
+government printing office 

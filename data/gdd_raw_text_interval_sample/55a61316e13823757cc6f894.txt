@@ -1,0 +1,2793 @@
+A DESCRIPTION OF GLIMPCE, 1986, LARGE OFFSET SEISMIC EXPERIMENT FROM THE GREAT LAKES
+D.R. Hutchinson - U.S. Geological Survey, Woods Hole, MA P. Morel-a-1'Huissier - Geological Survey of Canada, Ottawa, Ontario H. Meyer - University of Wisconsin, Madison, WI I. Asudeh - Geological Survey of Canada, Ottawa, Ontario P. Ervin - Northern Illinois University, Dekalb, IL Z. Hajnal - University of Saskatchewan, Saskatoon, Saskatchewan J. Karl - University of Wisconsin, Oshkosh, WI R. Mereu - University of Western Ontario, London, Ontario R. Meyer - University of Wisconsin, Madison, WI J. Sexton - Southern Illinois University, Carbondale, IL C. Spencer - Geological Survey of Canada, Ottawa, Ontario A. Trehu - U.S. Geological Survey, Woods Hole, MA
+U. S. Geological Survey Open-file Report 88-431
+This report is preliminary and has not been reviewed for conformity with U.S. Geological Survey editorial standards and stratigraphic nomenclature. Any use of trade names is for descriptive purposes only and does not imply endorsement by the U. S. Geological Survey, by the Geological Survey of Canada, or by any of the participating universities.
+Present address: Oregon State University, Corvallis, OR
+
+TABLE OF CONTENTS
+
+List of Tables.................................................... List of Figures................................................... Abstract..........................................................
+
+Introduction...................................................... Experiment Overview...............................................
+Obj ectives............................................... Summary.................................................. Marine Seismic Survey............................................. Airgun Array............................................. Navigation............................................... Shot time determination.................................. Bathymetry............................................... Brief Chronology.........................................
+
+Experimental Details.............................................. Line A - refraction (L. Superior)........................ Line A - refraction (L. Superior)........................ Line B - (L. Superior)................................... Line C - (L. Superior)................................... Line F - (L. Superior)................................... Line G - (L. Superior)................................... Line H - (L. Michigan)................................... Line I - (L. Huron)...................................... Line J - L. Huron).......................................
+Discussion and Summary............................................ Acknowledgements.................................................. References........................................................
+
+Tables............................................................ Figures...........................................................
+
+Appendix I: Appendix II: Appendix III: Appendix IV:
+
+Instrument Details and Personnel................... Navigation and Timing Information for Shot Points.. Range Algorithm.................................... SEG-Y(LDS) Data Exchange Format...................
+
+Page No,
+ii iii iv
+1 1 1 1 2 2 2 2 3 3
+4 4 5 5 5 6 6 6 6 7 7 8 9
+11 22
+47 53 71 75
+
+Table 1: Table 2: Table 3: Table 4: Table 5: Table 6: Table 7: Table 8: Table 9: Table 10: Table 11:
+
+List of Tables Page No,
+Summary of Stations occupied in GLIMPCE'86 Experiment.... 11 Start and End Information for Marine Seismic Lines....... 12 Summary of stations occupied for Line A - refraction..... 13 Summary of stations occupied for Line A - reflection..... 14 Summary of stations occupied for Line B.................. 15 Summary of stations occupied for Line C.................. 16 Summary of stations occupied for Line F.................. 17 Summary of stations occupied for Line G.................. 18 Summary of stations occupied for Line H.................. 19 Summary of stations occupied for Line I.................. 20 Summary of stations occupied for Line J.................. 21
+
+11
+
+List of Figures
+
+Page No.
+
+Figure 1:
+Figure 2:
+Figure 3:
+Figure 4: Figure 5: Figure 6: Figure 7: Figure 8: Figure 9: Figure 10: Figure 11: Figure 12:
+
+Location of GLIMPCE multichannel seismic reflection lines and stations used to record wide-angle and large-offset data.......................................
+Source and streamer configuration for GLIMPCE marine multichannel profiles..................................
+Bathymetric profiles associated with each GLIMPCE shot line...............................................
+Shot and station locations for line A - refraction......
+Shot and station locations for line A - reflection......
+Shot and station locations for line B...................
+Shot and station locations for line C...................
+Shot and station locations for line F...................
+Shot and station locations for line G...................
+Shot and station locations for line H...................
+Shot and station locations for line I...................
+Shot and station locations for line J...................
+
+23
+25
+27 29 31 33 35 37 39 41 43 45
+
+iii
+
+ABSTRACT In late summer of 1986, eight U.S. and Canadian academic and government groups deployed 137 seismometers and land geophone arrays at 86 locations in and around the upper Great Lakes to passively record airgun shots fired as part of a deep-penetration marine multichannel seismic reflection program of the Great Lakes International Multidisciplinary Program on Crustal Evolution (GLIMPCE). Vertical components were recorded in all locations; horizontal components were recorded in 43 locations. The primary objective of recording the refracted, wide-angle reflected, and fan arrivals was to provide information on crustal velocity structure to supplement images recorded on the eight deep-penetration marine reflection profiles (five in Lake Superior, one in Lake Michigan, and two in Lake Huron). One of the Lake Superior lines was reshot to optimize recording of the large offset data. This report gives a data summary of the field operations related to the large-offset data.
+iv
+
+INTRODUCTION
+The Great Lakes International Multidisciplinary Program on Crustal Evolution (GLIMPCE), comprises United States and Canadian government, academic and industry geoscientists interested in the evolution of the midcontinent region of North America. GLIMPCE was formed in late 1985 to direct and coordinate future research around the Great Lakes. The first major experiment (August-September, 1986) was funded by the U.S. Geological Survey (USGS) and the Geological Survey of Canada (GSC) and utilized a large marine seismic airgun source for simultaneous acquisition of nine normal-incidence multichannel reflection and wide-angle reflection/refraction profiles in Lakes Superior, Michigan, and Huron (fig. 1). Passive recording of large offset information from all lines was done by eight academic and government groups. Together, the multichannel reflection data and the wide-angle reflection/refraction data provide an impressive and unprecedented data set for studying the deep crust and velocity structure of the midcontinent region.
+This report describes the details of the field operations in which the large-offset reflection/refraction data were collected. Details of the nearvertical deep-penetration multichannel reflection profiles are included where relevant to the acquisition of the wide-angle data. A summary of the acquisition and processing parameters used for the contract multichannel seismic survey is given in Lee and others (1988) and Milkereit and others (1988). No effort is made to judge data quality or present interpretations.
+EXPERIMENT OVERVIEW
+Objectives: This first major seismic experiment was designed to investigate the tectonic framework and regional velocity structure of the crust in the Great Lakes region. Specific targets were the midcontinental geophysical anomaly, the Keweenawan rift, the Grenville Front, the Penokean and Huronian fold belts, and the Hemlo and Michipicoten greenstone belts.
+Summary; The experiment is most easily divided into two parts: a normal incidence, deep-penetration multichannel reflection survey and a large-offset refraction/wide-angle reflection survey. The vertical reflection data comprise eight lines that were shot using a state-of-the-art marine multichannel acquisition system (lines A-C, F-I, fig. 1).
+The large-offset data, consisting of wide-angle reflection, refraction and fan (i.e., off-line) arrivals, were recorded by seismometers located around the lakes during shooting of the eight offshore profiles. A ninth line was shot on equally spaced firing times and recorded by seismometers located within and around Lake Superior. This refraction line, Line A-refraction, essentially overlies line A-reflection, and is not plotted as a separate line on Figure 1.
+In total, 1350 km of multichannel reflection data were collected; shots for the refraction profile covered an additional 214 km. Throughout the survey, large-offset data were recorded at 137 stations in 86 locations (table 1), including five ocean-bottom seismometers within Lake Superior and three multichannel arrays positioned around the lakes. Vertical components were recorded in all locations; horizontal components were recorded in 43 locations. Recording stations for individual lines ranged from 5 (line I) to 31 (line A-Refraction).
+
+The research groups who provided instruments for acquisition of the large-offset data included two federal surveys (USGS and GSC), two Canadian universities (U. of Western Ontario and U« of Saskatchewan), and four U.S. universities (U, of Wisconsin-Madison, U, of Wisconsin-Oshkosh, Southern Illinois U., and Northern Illinois U.). Additional personnel who participated in the field work were from U.S. Department of Energy, U.S. Coast Guard, Geological Survey of Ontario, University of Toronto, and University of Manitoba. Appendix I gives information about participants and instrumental details not covered elsewhere in the report.
+MARINE SEISMIC SURVEY
+All data were shot using M/V Fred J. Agnich, a seismic vessel operated by Geophoto Services, Ltd. (GSI, Calgary, Alberta). Five lines were shot in Lake Superior (lines A,B,C,F,G), one in Lake Michigan (line H) and two in Lake Huron (lines I, J). Line A in Lake Superior was also shot separately as a refraction line, utilizing the marine airgun array without the multichannel streamer array. Missing line numbers (D, E) have been reserved for speculation lines shot by GSI in Lake Superior that have not been purchased by GLIMPCE. Table 2 summarizes relevant statistical information about the marine lines. All digital navigation, shot instant, and bathymetry data as well as detailed reports from GSI are archived at GSC (Ottawa, Ont) and USGS (Denver, CO, and Woods Hole, MA).
+Airgun Array: The source array (fig. 2) consisted of 76 guns, with 60 guns supplying the operating volume of 7780 inj (127.49L) and 16 guns providing spare volume of 2110 in (34.58L). Guns were strung on six linear subarrays, each 9.9 m long, with a total array width of 80 m. Gun sizes ranged from 80 in (1.31L) to 160 in (2.62 L). Operating pressure was maintained at 1900-2000 psi (12.8 - 13.8 MPa). Air gun synchronization was provided by GSI TIGER II controller. Array depths were 12 ± 1 m in Lake Superior, and 6 ± 1 m in Lakes Michigan and Huron. The shallower array depth was used because of shallow water in northern Lake Michigan and in the channel between Georgian Bay and Lake Huron.
+Navigation; Primary navigation for all lines was by GEONAV, which utilized doppler sonar velocities to interpolate fixes between transitsatellite updates.
+LORAN C provided secondary navigation and a Global Positioning System receiver provided backup (satellite) navigation. All navigation positions refer to the position of the transit satellite antenna, which was located 74 m in front of the center of the airgun array (fig. 2). Details of the navigation system are given in Appendix II.
+Shot time determination; In order to utilize a common time base between the normal incidence reflection data acquired by the contract vessel and the large-offset reflection/refraction data acquired independently during shooting, all times were synchronized to the time of the eastern Geostationary Operational Environmental Satellite (GOES). The shot instant was calculated by adding known internal system delays to the time recorded for the command to fire the guns which was always initiated on a whole second. System delays totalled .90796 s for reflection lines and 1.90796 s for line A-refraction, with additional delays of .31062 s for shots coinciding with the change of
+
+tape of the DPS V acquisition computer, 24.5 s for all of line A-reflection, and 23.1 s for SP 970-1880 for line C. Determination of these delays is given in Appendix II.
+Bathymetry: Digital bathymetry was acquired by a 38-kHz fathometer assuming a water velocity of 1470 m/s. This assumed velocity is valid for Lakes Michigan and Huron, where the average water temperature during the survey was 12°C (corresponding to a theoretical fresh water velocity of 1465 m/s). Because the colder water in Lake Superior would lower the velocity (5°C corresponds to a theoretical fresh water velocity of 1432 m/s), water depths there may be slightly overestimated. The fathometer was located 33.5 m in front of the ship's antenna, or 107.5 m in front of the center of the airgun array.
+The original digital bathymetry provided by the contractor contained frequent gaps and noise of 10 to 50 m compared to the fathometer strip-chart profile. Final bathymetry was obtained (fig. 3) by (1) plotting the bathymetry at the same scale as the original fathometer strip-charts, (2) adjusting line segments that were reading a constant offset, (3) redigitizing those parts of lines that were either absent or missed the character of the bottom, and (4) applying a 3-point running average to smooth the noisy signal. Because no fathometer record was kept for line A-refraction (although digital bathymetry were recorded), this line was divided into 50-shot increments and smoothed and redigitized in accordance with its agreement to the relevant portions of line A-reflection. No 3-point running average was used for these relatively widely spaced shots.
+The smoothed bathymetry is considered to be accurate to within 5 m of the depth given on the fathometer strip chart, and should be more than accurate enough for topographic corrections to the large-offset data.
+Brief Chronology; The experiment began in Lake Superior with shooting of line A-refraction on 31 August - 1 September 1986. After five days of downtime to resolve a navigation problem, multichannel reflection acquisition began with line B on 6 September. Maintaining the ship's speed so as to fire the guns every 50 m (about every 23 s) while recording long records (every 20 s) and keeping the streamer from sinking in the fresh water of the lake proved to be impossible. The shot spacing was therefore adjusted from 50 m (30-fold data) to 62.5 m (24-fold data). The change between 50-m and 62.5-m shots on lines F (7-8 September) and A (9-10 September) reflects unsuccessful efforts to reballast the streamer for 50-m (30-fold) data. Line G was shot on 11 September. Line C was shot in 2 parts on 12-13 September because of poor weather conditions and on-board computer problems.
+After a port stop in Sault Ste. Marie to exchange personnel, replenish supplies, and reconfigure the source and streamer arrays for shallow water, the reflection shooting resumed in Lake Michigan with line H (18-19 September). Parts of the streamer damaged in the ship's propeller during retrieval were replaced in transit between Lakes Michigan and Huron. The final lines collected were lines I (21 September) and J (22-23 September) in Lake Huron.
+
+EXPERIMENTAL DETAILS
+This section provides a line-by-line description of the large offset data, including a brief summary of the stations occupied, type of data recorded, and maximum offsets. (Appendix I gives additional instrumental details, a list of participants for each group that supplied field instruments, and archive information on the field data).
+During the field work, coordination between the shooting ship and landbased groups was critical to the success of the operation. A.G. Green and C. Spencer (both with GSC, Ottawa) provided this support out of Sault Ste. Marie (Lake Superior lines) and Ottawa (Lakes Michigan and Huron lines).
+Line A-Refraction; Line A-Refraction in Lake Superior was shot specifically as a refraction line along the same position as line Areflection. The primary objective of this line was to determine the velocity structure of the crust and upper mantle across the Keweenaw rift where earlier refraction studies yielded crustal thicknesses in excess of 50 km (Halls, 1982). Figure 4 shows shot and receiver locations, table 3 lists relevant information about the receiving stations.
+This line was shot by time, rather than by distance, so that receiving seismographs could be synchronized to record discrete shots. The airgun array was fired every two minutes for a total of 640 shots, which averaged about 333 m apart. This shot spacing was chosen so that, at the longest ranges, arrivals from previous shots would not overlap.
+A total of 31 stations recorded data along this line (fig. 4). Although no multichannel streamer array was towed from the ship, three multichannel geophone arrays were positioned on land: WISCORP south of the line, CH in the Keweenaw Peninsula, and AA north of the line. Five four-component oceanbottom seismometers (A8, A2, C4, C9, C3 of USGS) were spaced along the line within the lake. Seven vertical component seismometers were located in a linear array north of the line (SUP1, SUP3-SUP8). Five 3-component seismometers (Cl, C2, C3, C4, C5, C6 of UW, Madison) and two verticalcomponent seismometers (2N, 5S) were located south of the lake. Three 3component seismometers were located slightly offline on the Keweenaw Peninsula
+A special problem exists regarding the OBS locations. The initial locations were chosen based on LORAN C fixes of the Coast Guard vessel from which the instruments were deployed. These locations were incompatible with locations determined by arrival times of shots from the shooting ship (which used Satellite/Doppler sonar navigation). Hence, either the navigation of the deploying ship or the shooting ship or both was in error. OBS locations were calculated (as described in Appendix I) as though all of the error originated from the deploying ship. (This is reasonable because most commercial LORAN C units fail to include overland-propagation and secondary factor corrections to final latitude/longitude calculations). If, however, the error was in the navigation of the shooting ship, this implies that all ranges calculated for the onshore instruments may be biased. Relative range from shot to shot (and therefore observed apparent velocities) should not be significantly affected. This possible source of error would affect intercept times and may affect correlation of the large-offset data to the near-vertical data.
+
+(CP1-CP3). Fan recordings were made at five locations: Michipicoten Island (A), Isle Royale (IR1, IR2), Brule River (Bl), Bayfield Peninsula (BF1) and Ontanagon (ON1).
+For shots along the profile, maximum ranges recorded are 256 km (SP 109 to station SUPS) and 231 km (SP 748 to station C4).
+Line A-Reflection: Line A-Reflection was shot in two parts with different shot spacings (50 m and 62.5 m) because of problems in balancing ship's speed against streamer buoyancy. The overlap begins at SP 2290, with SP 2290-2326 (50 m shots) overlapping with SP 2290-2320 (62.5 m shots). As with line A-Refraction, the primary objective of this line was to image the crust and upper mantle structure at the position of the thickest crust associated with the midcontinent rift. Because this line was also shot separately as a refraction profile, collection of large-offset data was not a high priority.
+Fourteen stations recorded large offset data (fig. 5; table 4). Two stations (SUP2A, SUP7A) were occupied north of the lake to record data where instruments had failed during the recording of line A-refraction. Two 3component stations recorded data on the Keweenaw Peninsula and south of the line, respectively. Six stations recorded fan arrivals, including one 96channel geophone array (WISCORP).
+Line B; Line B, along the northeast shore of Lake Superior (fig. 6), was shot with a 50-m shot interval over a distance of 98 km. The primary objective of this line was to profile the structure of a granite-greenstone belt along the edge of the Keweenaw rift. The offline recorders also received ray paths directly through and beneath the main part of the Keweenaw rift.
+A total of 13 stations (fig. 6, table 5) recorded large offset information from shots fired on line B. No station was located exactly along the axis of the profile, although BB (a 48-channel geophone array north of the lake) and A (a vertical-component seismometer on Michipicoten Island) are reasonably close to the axis. The remaining 11 stations recorded fan arrivals on 3-component instruments.
+Line C; Line C in Lake Superior, 109 km long, was shot in two parts because of shipboard computer malfunction. Both parts were shot with 62.5 m shots. The objective of this line was to image the structure of the western limb of the Keweenaw rift. Its location roughly coincides with a refraction line shot in 1967 (Luetgert and Meyer, 1982).
+A total of 15 stations recorded data from shots on this line (fig. 7, table 6). One 96-channel geophone array was positioned south of the line (WISCORP). The remaining fourteen stations were 3-component instruments located northwest of the line (6 stations, B1-B6), south of the line (4 stations, ON1-ON4) and offline at Isle Royal (2 stations, IR1, IR2), Keeweenaw Peninsula (1 station, CP3) and Big Bay (1 station, C6). Maximum offsets recorded were 131 km (SP 156 to station ON3 and SP 1880 to station B3).
+The overlap between the two parts of line C occurs between SP 741 and SP 771. A special timing problem occurred on the start of the second part of the line. At SP 741, the GSI clock was synchronized to the satellite clock
+
+for shot instant determination. However, by SP 1057, the two clocks read 23.1 s apart. When the discrepancy occurred was not logged, and hence the exact shot instants for SP 741-1057 remains uncertain. The 23.1s correction has been applied to all shots after SP 970.
+Line F; Line F, located in Lake Superior, was shot in 6 parts alternating between 50 m and 62.5 m shot intervals (see table 2), This variation reflects buoyancy problems with the streamer, A 2,2 km gap occurs between SP 455 and SP 457; and a major change in the orientation of the line occurs at SP 1579, The primary objective of this line was to image the eastern limb of the Keweenawan rift in a region of relative gravity low and two positive magnetic anomales.
+Twelve stations (fig, 8, table 7) recorded data from line F. A verticalcomponent seismometer on Michipicoten Island (A, Fig. 8) is the closest instrument to the axis of the north-northeast segment of the line (SP 1011579); four three-component instruments (C6, ON1-3) and a 96-channel geophone array (WISCORP) are approximately along the axis of the east-north-east segment of the line (SP 1580-1843), The remaining six stations (CP3, IR1, IR2, B1-B3) are three component seismometers that recorded fan arrivals through and beneath the rift basin,
+Line G: Line G, 54 km long in Lake Superior, was shot with 62,5-m shot intervals and is the shortest of all lines. It was positioned to give a line crossing with line A in the region where continental crust was assumed to be thickest.
+Eight stations, all three-component seismometers deployed by University of Wisconsin-Madison, recorded fan shots for this line (figure 9, table 8). There were no stations positioned along the axis of the line.
+Line H; Line H, the only line in Lake Michigan, was shot with 62,5-m shot intervals for a total length of 283 km. A major bend in the line occurs at SP 3565. The primary objective of this line was to image the structure of the Penokean fold belt buried beneath Paleozoic sediments of the Michigan Basin.
+A total of 21 stations were deployed along Line H (figure 10, table 9). Seventeen stations, containing a combination of fifteen vertical-component instruments (MCla-MC5c) amd two 3-component instruments (MC6, MC7), were positioned north of the lake along the axis of the north-northeast trending segment of the line (SP 101-3565). The remaining four stations were verticalcomponent seismometers (IS, 2N, 3S, 5S) located northwest of the lake and slighly off the axis of the east-northeast trending segment of the line (SP 3565 - SP 4636). The maximum range recorded for this line was 256 km (SP 101 to station MC6),
+Line I: Line I in Lake Huron, was a north-south line (108-km long) positioned so as to image the structure of Proterozic Huronian platform deposits exposed north of the lake but buried beneath the lake by Phanerozoic sediments. Shots were spaced 62.5 m apart.
+Five stations were occupied during the shooting of line I (figure 11, table 10). One vertical component seismometer was positioned along the north
+
+shore of the lake (IRON). A second vertical-component instrument (MAN) was located slightly offline on the western end of Manitoulin Island. The remaining three stations, all south of the line in Michigan, comprised 2 three-component seismometers (HE1, HE2) and a 24-channel geophone array (AL). The largest offsets recorded were 116 km (SP 102 to station IRON) and 118 km (SP 1823 to station HE2). No fan arrivals were recorded for this line.
+Line J; Line J, located in Georgian Bay and Lake Huron, is the longest of all lines in the GLIMPCE experiment (323 km). All shots were fired at 62.5-m spacings. Several kinks occur where the vessel adjusted course to stay within the channel separating Georgian Bay and Lake Huron (SP 1800-2300). The primary objective of this line was to profile the Grenville front and the buried igneous terrane to the west.
+Eighteen stations were occupied during the acquisition of this line (figure 11, table 10). Three vertical-component seismometers were positioned east of the line on the coast of Georgian Bay (stations C, D, E). A fourth vertical-component instrument was located on the Bruce Peninsula midway down the line (station B). The rest of the stations were located just west of the end of the line and consisted of one 24-channel geophone array (SH) and thirteen three-component seismometers, ten of which were in a linear array less than 2 km long. Maximum offsets for this line are 336 km (SP 101 to station Fll) and 346 km (SP 5264 to station D).
+DISCUSSION AND SUMMARY
+In order to insure consistency in data preparation and distribution, all participants agreed to use the same algorithm for range calculation to display and interpret the large offset data. This algorithm uses the geodetic inverse formula with geodesy by A. R. Clarke (1880) and is listed in Appendix III. Final data exchange format is a superset of SEG-Y, with header definitions for refraction data given in Appendix IV.
+In summary, this first GLIMPCE experiment has provided an impressive amount of seismic information for studying crustal structure and tectonics of the mid-continent. Eight academic and government groups "piggybacked" on a major marine multichannel reflection survey and were able to record vertical and three-component data for all seismic lines shot in the Great Lakes. The success of this effort rests with the careful coordination between the shooting ship and the land-based groups. The experiment demonstrates that large offset information can be acquired simultaneously with deep crustal reflection profiling at a fairly modest expenditure of dollars, time and effort.
+
+ACKNOWLEDGEMENTS
+An experiment of this size and cost would not have been possible without the dedication and cooperation of numerous individuals. Bill Cannon of USGS and Alan Green of GSC provided the driving force behind the organization of GLIMPCE and the 1986 seismic experiment and were instrumental in securing the USGS and GSC funding that made the experiment possible. Alan Green, with help from Carl Spencer, also impressively coordinated efficient communications between the shooting ship and the often remotly located field parties deploying seismometers and geophone arrays. J.C. Behrendt (USGS) and L.D. McGinnis (U.S.-DOE) were GLIMPCE representatives aboard M/V Fred J. Agnich during the Lake Superior lines; A.G. Green (GSC) and D.R. Hutchinson (USGS) were on-board representatives during the Lake Michigan and Lake Huron lines. We thank John Clink (GSI) and the captain and crew of the Fred J. Agnich for their cooperation during the contracting and shooting. We thank the Captain and crew of the U.S. Coast Guard vessel Katmai Bay for their cooperation during deployment and recovery of the OBS's in Lake Superior, and the Geological Survey of Ontario for helicopter logistics into Michipicoten Island. Much of the field logistics would not have been possible without the dedicaton of the many researchers, technicians, and students who operated the field instrumentation, most who are listed in Appendix I. Finally, we thank K. Ruffin, M.C. Mons-Wengler, E. Winget, P. Forrestel, J. Zwinakis and D. Blackwood for technical assistance in preparing the manuscript and J. Luetgert and W. Agena for critical reviews.
+
+REFERENCES
+Barry, K.M., Cavers, D.A., and Kneale, C.W., 1975, Recommended standards for digital tape formats: Geophysics, v. 40, p. 334-352.
+Clarke, A.R., 1880, Geodesy, Oxford, Clarendon Press, 356p.
+Creager, K.C., and Dorman, L.M., 1982, Location of instruments on the seafloor by joint adjustment of instrument and ship positions: Journal of Geophysical Research, v. 87, p. 8379-8388.
+Halls, B.C., 1982, Crustal thickness in the Lake Superior region, in Wold, R.J., and Hinze, W.J., eds, Geology and tectonics of the Lake Superior Basin: Geological Society of America Memoir 156, p. 239-243.
+Lee, M.W., Agena, W.F., and Hutchinson, D.R., 1988, Processing of GLIMPCE multichannel seismic data: U.S. Geological Survey Open-file Report 88225, 46p.
+Luetgert, J.H., and Meyer, R.P., 1982, Structure of the western basin of Lake Superior from cross structure refraction profiles, in Wold, R.J., and Hinze, W.J., eds., Geology and tectonics of the Lake Superior basin: geological Society of America Memoir 156, p. 245-255.
+Milkereit, B. , Green, A.G., Morel'a-l,Huissier, P., Lee, M.W., and Agena, W.F., 1988, 1986 Great Lakes seismic reflection survey-migrated data: Geological Survey of Canada Open file report/Dossiers Publics no. 1592. 35p.
+
+10
+
+TABLE 1: Summary of Stations Occupied in GLIMPCE '86 Experiment
+
+Research Group
+
+Instrument
+
+Type
+
+Components
+
+Lake Superior
+AA (refraction) (reflection)
+
+Lake Michigan BCFGH
+
+Lake Huron IJ
+
+TOTAL STATIONS LOCATIONS OCCUPIED OCCUPIED
+
+GSC
+uses
+UWMadison UWOshkosh
+SIU
+NIU
+UWO USask
+
+PRS 1
+Ocean Bottom Seismometer
+UW Digital Seismographs
+96-channel geophone array
+24-channel geophone array
+1) S-6000 2) MEQ-800
+UWO/MP
+48-channel geophone array
+
+z x,y,z,
+p x,y,z
+z
+z
+z z z
+
+72 5 13 11 11 14 10 8 1111
+
+17 3
+
+2 2 13
+
+11 11 55
+99 53 42
+
+1 1133
+
+2
+1 11 11
+
+465
+475 22
+
+TOTAL
+
+31
+
+14
+
+13 15 12 8
+
+21
+
+5 18
+
+137
+
+Abbreviations: GSC-Geological Survey of Canada; USGS-U.S. Geological Survey; UW-Univ. of Wisconsin;
+
+SlU-Southern Illinois Univ.; NIU-Northern Illinois Univ.; UWO-Univ. of Western Ontario;
+
+USask-Univ. of Saskatchewan.
+
+Components:
+
+x,y-horizontal; z-vertical; p-hydrophone
+
+On Line H, 15 of the 17 stations were collecting Z-component data only
+
+86
+
+TABLE 2: Start and End Information for Marine Seismic Lines
+
+Glimpce Line ID
+
+GSI Length Shot Fold Start Time 2
+
+ID1 (KM) Int (m)
+
+JD/GMT
+
+A-refraction A-reflection
+
+AA-
+A'A A"A
+
+B BB' C CC 1
+CC'A
+
+F BFLINK FF'
+
+F'F"
+
+G G'G H3 I1 J 2A
+
+214
+111 103
+98
+38 71
+18 26 2 42 26 47
+54
+283
+108
+323
+
+2 min
+
+50 62.5
+
+30 24
+
+50 30
+
+62.5 62.5
+
+24 24
+
+50 62.5 50 62.5 50 62.5
+
+30 24 30 24 30 24
+
+62.5 24
+
+62.5 24
+
+62.5 24
+
+62.5 24
+
+243/1600
+252/0950 253/0327
+249/1345
+255/1320 255/2250
+250/1732 250/1959 250/2246 250/2300 251/0656 251/1016
+254/0312
+261/1306
+263/1943
+265/0649
+
+End Time 2 JD/GMT
+244/1318
+253/0012 253/1428
+250/0216
+255/1715 256/0609
+250/1946 250/2246 250/2300 251/0330 251/1016 251/1541
+254/0849
+262/1840
+264/0701
+266/1631
+
+Start End SP SP
+
+109
+101 2290
+111
+156 741
+101 457 867 903 1580 2096
+101
+101
+102
+101
+
+748
+2326 3944
+2063
+771 1880
+455 866 902 1579 2095 2843
+969
+4636
+1823
+5264
+
+TOTAL
+
+9 lines 1564 km
+
+Line ID used by the contractor in collecting the multichannel
+
+processing
+
+JD-Julian Day; GMT-Greenwich Mean Time. All times rounded to whole minutes,
+
+navigation
+
+Research Group
+
+IStation ID
+
+TABLE 3: Summary of Stations Occupied for Line A - refraction
+
+LAT
+
+LON
+
+Elev 1
+
+o Components
+
+Record Time
+
+(masl)
+
+(JD/GMT)
+
+start
+
+end
+
+U.S.G.S.
+
+A8
+
+48.54810
+
+-87.16109
+
+A2
+
+48.26583
+
+-87.27365
+
+C3
+
+47.14079
+
+-87.59501
+
+C4 47.95688 -87.36752
+
+C9 47.71128 -87.43908
+
+38 z,p -47 x,y,z,p
+62 x,y,z,p -24 x,y,z
+23 x.y.z
+
+243/1600 243/1600 243/1600 243/1600 243/1600
+
+243/2154 244/1628 244/1618 244/1512 244/1450
+
+G.S.C
+
+SUP1 48.77233 SUPS 48.90250 SUP4 48.94567 SUPS 48.99717 SUP6 49.04100 SUP7 49.09283 SUPS 49.14400
+
+-87.11450 -87.06650 -87.07983 -87.10017 -87.07417 -87.06217 -87.05467
+
+190 305 320 335 302 338 325
+
+z z z z z z z
+
+243ii /1600 ii
+i. n i
+
+244/ii 1520 U " .1 M ii
+
+U. Wisconsin Bl
+
+47.90127
+
+-90.06084
+
+451 x,y,z
+
+243/1523 244/1816
+
+(Madison)
+
+BF1 46.80583 -91.03833
+
+347 x.y.z
+
+242/1302 244/1600
+
+OJ
+
+Cl 46.80610 -87.64292
+
+198 x,y,z
+
+243/1518 244/1444
+
+C2
+
+46.78452
+
+-87.64140
+
+201 x.y.z
+
+242/2036 244/1411
+
+C3 46.76120 -87.64594
+
+201 x,y,z
+
+243/1521 244/0903
+
+C4
+
+46.71639
+
+-87.63824
+
+259 x,y,z
+
+242/2343 244/1640
+
+C6
+
+46.78597
+
+-87.72867
+
+305 x,y,z
+
+243/1517 244/1516
+
+CP1 47.45694 -87.79222
+
+305 x.y.z
+
+243/1316 244/1500
+
+CP2 47.41778 -87.75833
+
+247 x,y,z
+
+243/1506 244/1600
+
+CP3 47.41194 -87.79722
+
+222 x,y,z
+
+243/1415 244/1546
+
+IR1 48.09617 -88.59450
+
+207 x.y.z
+
+243/1518 244/1536
+
+IR2 48.09250 -88.60083
+
+207 x,y,z
+
+243/1553 244/1612
+
+ON1 46.82167 -89.35833
+
+221 x.y.z
+
+243/1508 244/1540
+
+U. Western A 47.720045 -85.798667 230 Ontario
+
+z
+
+243/1550 244/1314
+
+Northern Illinois U.
+
+5S 2N
+
+1 U. Saskatchewan AA
+
+45.73383 45.92033
+48.85033
+
+-88.18883 -88.15667
+-87.09867
+
+387 z 384 z
+317 48 * z
+
+243/1555 243/2230 243/1600 244/0812
+
+U. Wisconsin (Oshkosh)
+
+WISCORP 46.80167
+
+-87.64333
+
+204 96 * z
+
+243/1600 244/1319
+
+Southern Illinois U.
+
+CH
+
+47.42639 -87.76278
+
+242 24 * z
+
+243/1600 244/1422
+
+All OBS elevations corrected for lake level (183 masl). x,y-horizontal; z-vertical; p-pressure (hydrophone)
+
+Research Group
+
+Station ID
+
+TABLE 4: Summary of Stations Occupied for Line A - reflection
+
+LAT
+
+LON
+
+Elev
+
+Components
+
+Record Time
+
+(masl)
+
+(JD/GMT)
+
+start
+
+end
+
+G.S.C.
+
+SUP2A SUP7A
+
+48.84033 49.09250
+
+-87.10017 -87.06233
+
+314 332
+
+z z
+
+U. Wisconsin (Madison)
+
+Bl B2 B3 B4 B5 C6 CP3 IR1 IR2 ON2 ON3
+
+47.90127 47.84592 47.95893 47.91972 47.93963 46.78597 47.41194 48.09617 48.09250 46.71833 46.67917
+
+-90.06084 -90.04132 -90.12148 -90.09130 -90.09724 -87.72867 -87.79722 -88.59450 -88.60083 -89.38250 -89.35417
+
+451 338 552 527 546 305 222 207 207 347 348
+
+x,y,z x,y,z x.y.z x,y,z x,y,z x,y,z x,y,z x,y,z x,y,z x,y,z x,y,z
+
+U. Wisconsin
+
+WISCORP 46.68667
+
+-89.38750
+
+337
+
+96 * z
+
+(Oshkosh)
+
+253/0400 253/1430 253/0400 253/1430
+
+252/0115 252/0200 253/0037 251/2130 251/2345 252/0252 251/0146 251/2339 252/0040 251/1900 251/1941
+
+253/1939 254/1400 253/0119 252/2100 252/2330 253/0505 253/0849 253/2259 253/2345 256/1235 254/1700
+
+252/1010 253/0009
+
+TABLE 5: Summary of Stations Occupied for Line B
+
+Research Group
+
+Station ID
+
+LAT
+
+LON Elev Components
+
+Record Time
+
+(masl)
+
+(JD/GMT)
+
+start
+
+end
+
+U. Wisconsin Bl
+
+47.90127
+
+(Madison)
+
+B2 47.84592
+
+B3 47.95893
+
+IR1 48.09617
+
+IR2 48.09250
+
+ON1 46.82167
+
+ON2 46.71833
+
+ON3 46.67917
+
+ON4 46.69833
+
+C6 46.78597
+
+CP3 47.41194
+
+-90.06084 -90.04132 -90.12148 -88.59450 -88.60083 -89.35833 -89.38250 -89.35417 -89.37167 -87.72867 -87.79722
+
+451 338 552 207 207 221 347 348 366 305 222
+
+x,y,z x,y,z x,y,z x,y,z x,y,z x,y,z x,y,z x,y,z x,y,z x,y,z x,y,z
+
+249/0000 249/0000 249/2137 249/0000 249/0000 249/1300 247/0830 248/2120 249/2145 249/1200 248/2134
+
+250/1919 251/0145 250/2319 250/2325 251/0005 250/1201 250/1330 251/1926 250/1400 250/0452 250/1211
+
+U. Western
+
+B
+
+47.720045
+
+-85.798667
+
+230
+
+f-1 (Ontario)
+Ui
+
+249/1220 250/0337
+
+U. Saskatchewan BB
+
+49.029167
+
+-87.211167
+
+445
+
+48 * z
+
+249/1345 250/0223
+
+Research Group
+
+Station ID
+
+LAT
+
+U. Wisconsin (Madison)
+U. Wisconsin (Oshkosh)
+
+Bl 47.90127 B2 47.84592 B3 47.95893 B4 47.91972 B5 47.93963 B6 47.85279 IR1 48.09617 IR2 48.09250 ON1 46.82167 ON2 46.71833 ON3 46.67917 ON4 46.69883 C6 46.78597 CP3 47.41194
+WISCORP 46.68667
+
+TABLE 6: Summary of Stations Occupied for Line C
+
+LON
+-90.06084 -90.04132 -90.12148 -90.09130 -90.09724 -90.05097 -88.59450 -88.60083 -89.35833 -89.38250 -89.35417 -89.37167 -87.72867 -87.79722
+-89.38750
+
+Elev (masl)
+
+Components
+
+451 x,y,z 338 x,y,z
+552 x,y,z
+527 x,y,z
+546 x,y,z
+402 x,y,z
+207 x,y,z
+207 x,y,z
+221 x,y,z 347 x,y,z
+348 x,y,z 366 x,y,z
+305 x,y,z 222 x,y,z
+337
+
+Record Time
+
+(JD/GMT)
+
+start
+
+end
+
+255/1051 255/0945 255/1200 255/1122 255/1137 255/1550 255/1202 255/1230 255/1138 255/1213 255/1312 255/1229 255/1259 255/1235
+
+255/2351 256/0047 255/2302 255/2332 255/2314 256/0022 255/2320 255/2352 256/0323 256/0016 256/0106 256/0036 255/1309 255/1909
+
+255/1335 256/0641
+
+Research Group
+
+Station ID
+
+LAT
+
+U. Wisconsin (Madison)
+U. Wisconsin (Oshkosh)
+U. Western (Ontario)
+
+Bl 47.90127 B2 47.84592 B3 47.95893 IR1 48.09617 IR2 48.09250 ON1 46.82167 ON2 46.71833 ON3 46.67917 C6 46.78597 CP3 47.41194
+WISCORP 46.68667
+A 47.720045
+
+TABLE 7: Summary of Stations Occupied for Line F
+
+LON
+
+Elev
+
+Components
+
+(masl)
+
+-90.06084 -90.04132 -90.12148 -88.59450 -88.60083 -89.35833 -89.38250 -89.35417 -87.72867 -87.79722
+-89.38750
+-85.798667
+
+451 338 552 207 207 221 347 348 305 222
+337
+230
+
+x,y,z x,y,z x,y,z x,y,z x,y,z x,y,z x,y,z x,y,z x,y,z x,y,z
+96 * z
+z
+
+Record Time
+
+(JD/GMT)
+
+start
+
+end
+
+249/2320 250/0020 249/2137 249/2318 250/0000 250/1252 250/1330 249/2330 250/0520 250/1227
+
+252/0108 252/0200 251/2359 251/2321 252/0040 250/1900 251/1830 251/1926 250/2359 252/0239
+
+251/0717 251/1440
+
+250/1000 251/0400
+
+TABLE 8: Summary of Stations Occupied for Line G
+
+Research Group
+U. Wisconsin (Madison)
+
+Station ID
+
+LAT
+
+Bl 47.90127 B2 47.84592 IR1 48.09617 IR2 48.09250 ON2 46.71833 ON3 46.67917 C6 46.78597 CP3 47.41194
+
+LON
+-90.06084 -90.04132 -88.59450 -88.60083 -89.38250 -89.35417 -87.72867 -87.79722
+
+Elev (masl)
+451 338 207 207 347 348 305 222
+
+Components
+x,y,z x,y,z x,y,z x,y,z x,y,z x,y,z x,y,z x,y,z
+
+Record Time
+
+(JD/GMT)
+
+start
+
+end
+
+254/0230 254/0230 253/2339 254/0000 253/2150 253/2230 254/0220 253/2210
+
+255/0200 254/0845 254/2219 255/0005 254/1700 254/1700 254/1034 254/0924
+
+00
+
+Research Group
+
+Station ID
+
+LAT
+
+U. Wisconsin (Madison)
+Northern Illinois U.
+
+MCla MClb MClc MC2a MC2b MC2c MC3a MC3b MC3c MC4a MC4b MC4c MC5a MC5b MC5c MC6 MC7
+IN IS 3S 5S
+
+46.05033 46.04953 46.04793 46.04873 46.04712 46.04553 46.04632 46.04472 46.04311 46.04391 46.04231 46.04150 46.04070 46.03990 46.03910 46.09363 46.01237
+45.90917 45.69683 45.72133 45.73383
+
+TABLE 9: Summary of Stations Occupied for Line H
+
+LON
+-86.07704 -86.07764 -86.07884 -86.07824 -86.07945 -86.08065 -86.08004 -86.08124 -86.08245 -86.08185 -86.08305 -86.08365 -86.08425 -86.08485 -86.08545 -86.07319 -86.11105
+-88.09217 -87.90033 -88.03533 -88.18883
+
+Elev (masl)
+
+Components
+
+221 z 221 z 219 z 219 z 218 z 215 z 216 z 213 z 210 z 213 z 209 z 207 z 207 z 207 z 207 z 197 x,y,z 207 x,y,z
+380 x,y,z 290 z 329 x,y,z 387 z
+
+Record Time
+
+(JD/GMT)
+
+start
+
+end
+
+261/0800 11 11
+261/0800 " "
+261/0840
+
+262/2015 262/2020
+" 262/1424
+
+261/0830 " "
+261/0900 11 "
+261/1600 261/1700
+262/0253 261/2222 262/0300 262/0300
+
+262/2030
+262/1917 "
+262/1957 262/2045
+262/1230 262/0920 262/0700 262/0739
+
+Research Group
+
+Station ID
+
+LAT
+
+G. S .C.
+U. Wisconsin (Madison)
+Southern Illinois U.
+
+IRON MAN
+HE1 HE2
+AL
+
+46.24067 45.91350
+45.15621 45.10619
+45.07917
+
+TABLE 10: Summary of Stations Occupied for Line I
+
+LON
+-83.23833 -83.17917 -83.39214 -83.39413 -83.39583
+
+Elev (masl)
+
+Components
+
+204 z z
+207 x,y,z 201
+158 24 * z
+
+Record Time
+
+(JD/GMT)
+
+start
+
+end
+
+263/1400 264/1100 263/1400 264/1000
+
+263/1244 264/1200 263/1500 264/1120
+
+263/1930 264/0736
+
+to o
+
+Research Group
+
+Station ID
+
+LAT
+
+U. Wisconsin (Madison)
+U. Western Ontario
+Southern Illinois U.
+
+Fl F10 Fll F12 F13 F2 F3 F4 F5 F6 F7 F8 F9
+B C D E
+SH
+
+45.59559 45.59939 45.61227 45.57724 45.58297 45.59612 45.59621 45.59628 45.59643 45.59679 45.59689 45.59746 45.59818
+45.200548 45.086081 45.070883 45.165681
+45.62638
+
+TABLE 11: Summary of Stations Occupied for Line J
+
+LON
+
+Elev
+
+Components
+
+(masl)
+
+Record Time
+
+(JD/GMT)
+
+start
+
+end
+
+-84.35345 -84.37473 -84.38957 -84.33746 -84.38998 -84.35585 -84.35826 -84.36082 -84.36338 -84.36577 -84.36833 -84.37056 -84.37284
+-81.555128 -80.029875 -79.851781 -79.880952
+-84.21250
+
+220 220 220 220 215 220 220 220 220 220 220 220 220
+207 197 230 230
+188
+
+x,y,z x,y,z
+x,y,z
+x.y.z x,y,z x.y.z x.y.z x,y,z x.y.z x,y,z x.y.z x,y,z x.y.z
+z z z z
+24 * z
+
+265/0600 265/1200 265/1655 265/1700 265/2300 265/0600 265/0600 265/0600 265/0600 265/0600 265/0600 265/0600 265/0600
+
+266/1733 266/1755 266/1801 266/1730 266/1054 266/1744 266/1654 266/1204 266/1745 266/1750 266/1750 266/1750 266/1755
+
+265/0651 266/1800 "
+
+""
+
+265/1451 266/1755
+
+Figure Captions
+
+Figure 1:
+
+Location of GLIMPCE multichannel seismic reflection lines and stations used to record wide-angle and large-offset data. Line A-refraction overlies line A-reflection and is not plotted. Individual station names associated with each line are shown in figures 4 to 12.
+
+22
+
+50°N
+
+GLIMPCE 1986 REFLECTION / REFRACTION 49°
+* EXPERIMENT +
+
+REFRACTION STATIONS GEOLOGICAL SURVEY of CANADA U.S. GEOLOGICAL SURVEY UNIV. WISCONSIN-MADISON UNIV. WISCONSIN-OSHKOSH
+o SOUTHERN ILLINOIS UNIV. o NORTHERN ILLINOIS UNIV.
+UNIV. WESTERN ONTARIO + X UNIV. SASKATCHEWAN
+
+48° 47«
+
+46°
+
+45°
+
+Polyconic Projection
+23
+
+Figure 2:
+
+Source and streamer configuration for GLIMPCE marine multichannel profiles. A) Streamer geometry and relative positions of fathometer, satellite antenna, airgun array and streamer. B) Geometry and size of the airgun array. Whereas the total array contained 76 guns, only 60 guns were operational at any one time.
+
+24
+
+A. GLIMPCE 19S6 CONTRACT VESSEL
+v Satellite Antenna
+
+Fathometer
+
+Airgun Array
+
+-33.5m - -74.0m*- _228_
+
+107.5m
+
+-236m
+
+120- Channel Streamer
+-3024m (center near trace to center far trace)
+
+~~rr~Sr*-*~^r*~*&ry
+
+B. AIRGUN AKKAY
+
+STBD /' OUTER
+^
+STBD ^^ MIDDLE
+STBD INNER
+
+4x|60(2.62L)
+o-o-o-o -s
+4x|60(2.62L)
+O-O-O-O-S 4x|60(2.62L)
+
+3x125 (2.05L)
+
+2xlOO(l.64L)
+
+O-O-O-S 3x|25(2.05L)
+
+O-O-S 2xlOO(l.64L)
+
+O-O-O-O-S 4xl25(2.05L)
+
+O-O-O-O 4x80(l.3IL)
+
+PORT INNER
+PORT MIDDLE
+PORT OUTER
+
+-O-O-O-O-s4x|60(2.62L)
+
+-O-O-O-O-S4x|25(2.05L)
+
+O-O-O-O 4X80(I.3IL)
+
+O-O-O-O-S4x|60(2.62L)
+
+O-O-O-S 3x|25(2.05L)
+
+O-O-S 2xlOO(l.64L)
+
+o-o-o-o-s-
+4xl60(2.62L)
+
+O-O-O-S 3x125(2.051)
+
+O-O-S 2xlOO(l.64L)
+
+O-OPERATING GUN
+
+S- SPARE GUN
+
+ACTIVE GUNS: 24x|60(2.62L) 20M25(2.05L) 8xlOO(l.64L) 8»80(I.3IL)
+Total 7780 in3 (127.48L)
+SPARE GUNS: 6x|60(2.62L) 6x|25(2.05L) 4»IOO(I.64L)
+Total 2IIOin3 (34.58L)
+ARRAY WIDTH : 80m STRING LENGTH: 9.9m
+
+25
+
+Figure 3:
+
+Bathymetric profiles associated with each GLIMPCE shot line. See text for a description of processing and smoothing of the digital data.
+
+26
+
+GLIMPCE 1986 BATHYMETRY PROFILES
+
+200400 LINE A-REFRACTION
+700 600 500 400 300 200
+
+200400 LINE A-REFLECTION
+3500 3000
+
+2500 2000 1500 1000 500
+
+200LINEB
+400 500 1000 1500 2000
+0 200-
+LINEC 400
+500 1000 1500 0
+CL 200-1 oLJ 400 LINE F
+500 1000 1500 2000 2500 0
+LINES 200-
+
+50 Km _i
+
+400 500 101
+0 200-
+LINE H 400
+4500 4000 3500 3000 2500 2000 1500 1000 500
+
+200-
+400 LINE I
+1500 1000 500 0
+200-
+LINEJ 400
+5000 4500 4000 3500 3000 2500 2000 1500 1000 500 SHOTPOINT
+
+27
+
+Figure 4:
+
+Shot and station locations for line A-refraction. Symbols are the same as those used in Figure 1. Additional information is listed in Table 3.
+
+28
+
+50°N
+LAKE SUPERIOR LINE A-REFRACTION
+Polyconic Projection
+29
+
+Figure 5:
+
+Shot and station locations for line A-reflection. Symbols are the same as those used in Figure 1. Additional information is listed in Table 4.
+
+30
+
++ B3 +s*s*r' JS^S**
+
+50°N
+
+LAKE SUPERIOR
+
+LINE A-RE FLECTION
+
+45° *" 91° 90° 89° 88° 87° 86° 85° 8-
+
+Polyconic Projection
+
+0i IOi OKM
+
+31
+
+Figure 6:
+
+Shot and station locations for line B. Symbols are the same as those used in Figure 1. Additional information is listed in Table 5.
+
+32
+
+LAKE SUPERIOR LINE B
+91° 90° 89 Polyconic Projection
+
+50°N
+49°
+48°
+47e
+IOOKM
+
+33
+
+Figure 7:
+
+Shot and station locations for line C. Symbols are the same as those used in Figure 1. Additional information is listed in Table 6.
+
+34
+
+3NH dOld3dflS 3WI
+NoOS
+
+Figure 8:
+
+Shot and station locations for line F. Symbols are the same as those used in Figure 1. Additional information is listed in Table 7.
+
+36
+
+50°N 49* 48 e
+
+LAKE SUPERIOR LINE F
+91° 90° 89 Polyconic Projection
+
+86° 85° IOOKM
+
+37
+
+Figure 9:
+
+Shot and station locations for line G. Symbols are the same as those used in Figure 1. Additional information is listed in Table 8.
+
+38
+
+50°N
+LAKE SUPERIOR LINE G
+92° <-n« '9"0"'o" 89° Polyconic Projection
+39
+
+Figure 10:
+
+Shot and station locations for line H, Symbols are the same as those used in Figure 1. Additional information is listed in Table 9.
+
+40
+
+47°N
+
+LAKE MICHIGAN LINE H
+
+89 <
+
+J_______I______l4|o 87° 86° 85°W
+
+Pdlyconic Projection
+
+0
+
+IOOKM
+
+41
+
+Figure 11:
+
+Shot and station locations for line I. Symbols are the same as those used in Figure 1. Additional information is listed in Table 10.
+
+42
+
+47°N
+LAKE HURON LINE I
+
+84° 83° Polyconic Projection
+
+0
+I________I
+
+80° IOOKM
+
+79°W
+
+43
+
+Figure 12:
+
+Shot and station locations for line J. Symbols are the same as those used in Figure 1. Additional information is listed in Table 11.
+
+44
+
+47°N
+LAKE HURON LINE J
+
+84° 83° Polyconic Projection
+
+80° 79°W 0 IOOKM
+
+45
+
+46
+
+APPENDIX I INSTRUMENT DETAILS AND PERSONNEL This Appendix lists the people participating in the field effort and appropriate instrumental details and archive information not covered elsewhere in the report.
+47
+
+I. U.S. GEOLOGICAL SURVEY (USGS)
+
+Anne M. Trehu: USGS, Principal Investigator G. Miller: USGS J.F. Boyd: U.S. Coast Guard, Captain Crew of vessel U.S.C.G. Katmai Bay
+
+Instrument: USGS Ocean Bottom Seismometer
+
+Sample rate: 7.813 ms, reformatted to 8 ms.
+
+Record length: 32 s
+
+Frequency of recording: 2 min
+
+Filters: 0-30 Hz
+
+Field tape ID: GL86-A2,-A8,-C9,-C4,-C3
+
+Field tape format: TIP (USGS/OBS internal format)
+
+Archived at:
+
+U.S. Geological Survey
+
+Data Library
+
+Branch of Atlantic Marine Geology
+
+Woods Hole, MA 02543
+
+Comment: - Instruments C3, C4, C9: no hydrophone data. - Instrument A8: recorded only far ranges. - Locations for A2, C3, C4, C9 calculated by water wave inversion technique, as described below. - Location for A8 taken as the LORAN C position calculated by ranging to the instruments from USCG Katmai Bay. - Horizontal components recorded for only a portion of the line because of data storage limitations.
+
+Note on Instrument locatons:
+
+Instrument locations in field were determined by acoustically ranging to the OBS on the lake floor from 4-6 surface locatons and inverting the traveltimes thus obtained (Creager and Dorman, 1982). Ranges calculated from these locations were not consistent with the positions of the closest shots plotted on the record sections, indicating that the navigation of the Coast Guard Ship (LORAN C) was incompatible with that of the shooting ship (Satellite and Doppler Sonar).
+
+Instrument locatons for A2, C3, C4, and C9 were recalculated based on the locations of the shots provided by the shooting ship using water-wave inversion solutions, which invert the travel times of the water waves from the closest shots. Because the cross-over distance between the direct water-wave arrival and first refracted arrival occurred within 2-3 shots of the closest approach, locating the instruments with this technique required information on the near-surface sediment velocity in the vicinity of the instrument. This velocity was not well known; however, varying the assumed velocity should yield a solution for both instrument position and velocity that gives minimum travel-time variance. This was not done because of program limitations and the probable poor resolution of the final result. The simplified water-wave inversion solutions were in good agreement with the plotted intersections of allowable range circle drawn for the three closest shots based on direct water wave arrival times and an assumed velocity of 1.45 km/s. The water-wave inversion technique also calculates water depths (given in Table 3) which were
+essentially identical to those recorded on the ship's fathometer during OBS deployment.
+
+48
+
+Because the water-wave inversion technique utilizes the closest shots, none of which were recorded for instrument A-8, its location is based on inversion of travel-time ranging obtained on the Coast Guard ship
+
+II. GEOLOGICAL SURVEY OF CANADA (GSC)
+
+Patrick Morel-a-1'Huissier: GSC, Principal Investigator C.P. Spencer: GSC I. Asudeh: GSC W, Moon: University of Manitoba P. Burchat: GSC J. Craven: GSC F. Larue: GSC H. Lau: GSC P. Shyre: GSC R. Stevens: GSC C, Samson: University of Toronto D, Epili: University of Western Ontario T. Shortt: University of Western Ontario
+
+Instrument: PRS 1 digital recorder
+
+Sample rate: 120 Hz (8 ms)
+
+Record length: 30, 40, 50 s, 3 min
+
+Frequency of recording: 2 min and continuous
+
+Filters: 0.5 - 60 Hz
+
+Field tapes: floppies and/or cassettes (transcribed to 9T)
+
+Field tape format: SEGY (9T)
+
+Archived at:
+
+P, Morel-a-1' Huissier
+
+Lithosphere and Canadian Shield Division Geological Survey of Canada 1 Observatory Crescent Ottawa, Ontario KIAOY3
+
+Comment: - SUP1, SUP7: data sets incomplete because of instrument malfunction
+- SUPS: hole in middle of section because of instrument malfunction
+- SUP2A: completes data that were not recorded by Univ, of Saskatchewan because of poor weather
+- SUP7A: completes data not recorded for SUP7. - Locations and elevations from TOPO sheets
+
+49
+
+III. UNIVERSITY OF WISCONSIN - MADISON (UWM)
+
+Robert P. Meyer: H. Meyer: UWM R. Meyer: UWM V. Green: UWM S. Shih: UWM B. Unger: UWM
+
+UWM, Principal Investigator
+
+Instrument: UW Digital Seismographs
+
+Sample rate: 10 ms
+
+Record length: variable
+
+Frequency of recording: variable
+
+Filters: 0.27 - 24 Hz
+
+Field tape 10: 275 field tapes
+
+Field tape format: UW Digital Seismograph Standard
+
+Archived at:
+
+Dept. of Geology and Geophysics
+
+University of Wisconsin
+
+1215 W. Dayton St.
+
+Madison, Wisconsin 53706
+
+Comment: - Stations MCI, MC2, MC3, MC4, MC5 are 3 vertical geophones in a linear array: all others are 1 vertical, 2 horizontals (north and east).
+- Locations and elevations from TOPO sheets
+
+IV. UNIVERSITY OF WESTERN ONTARIO (UWO)
+
+Robert F. Mereu: UWO, Principal Investigator T. Cox: UWO J. Wu: UWO T. Shortt: UWO C. Faust: UWO D. Epili: UWO R. Secco: UWO B. Lenson: UWO C. Spindler: UWO J. Brunet: UWO B. Dunn: UWO B. Price: UWO
+
+Instrument: U. Western Ontario Portable FM recorders
+
+Sample rate: 8 ms (125 Hz)
+
+Record length: 45 min
+
+Frequency of recording: continuous
+
+Filters: 0.1 - 35 Hz
+
+Field tapes: analog transcribed to digital
+
+Field tape format: SEGY (digital tapes)
+
+Archived at:
+
+R.F. Mereu
+
+Department of Geophysics
+
+University of Western Ontario
+
+London, Ontario N6A 5B7
+
+Comment: - Locations and elevations from TOPO sheets
+
+50
+
+V. NORTHERN ILLINOIS UNIVERSITY (NIU)
+
+Patrick Ervin: NIU, Principal Investigator P. Carpenter: NIU G. Frantti: Michigan Tech. B. Morrow: NIU T. Salihoglu: NIU M. Thompson: NIU C.L. Ervin: NIU Students from Michigan Tech University
+
+Instrument: PDR-2 and MEQ-800
+
+Sample rate: 10 ms
+
+Record length: 6258 bytes
+
+Frequency of recording: continuous
+
+Filters: 0-50 Hz
+
+Field tapes: 20 tapes and paper records
+
+Field tape format: Kinemetrics hi-density, Terra-Tec internal format
+
+Archived at:
+
+Department of Geology
+
+Northern Illinois University
+
+Dekalb, Illinois 60115
+
+Comment: - Instrumental problems and large noise made data recovery on all instruments minimal
+- Locations and elevations from TOPO sheets
+
+VI. UNIVERSITY OF SASKATCHEWAN (U SASK.)
+
+Zoltan Hajnal: U. Sask, Principal Investigator W. Chan: U. Sask. D. Wilkinson: U. Sask. M. Johnson: U. Sask. G. Wood: U. Sask.
+
+Instrument: multichannel geophone array
+
+Total groups: 48
+
+Group Interval: 67 m
+
+Array geometry: linear (N45°W-BB), (N30°E-AA)
+
+Recording Instrument: DFS V
+
+Sample rate: 2 ms
+
+Record length: 20 s, 30 s
+
+Frequency of recording: 40 s, 2 min.
+
+Filters: 0-128 Hz
+
+Field tapes: 2 - 102 (9T, 1600 BPI)
+
+Field tape format: SEG B
+
+Archived at:
+
+Department of Geological Sciences
+
+University of Saskatchewan
+
+Saskatoon, Saskatchewan S7N OWO
+
+Comment: - Instrument failure 31 Aug: 1756 - 1916 and no recording because of storm after 1 Sept 0759
+- Locations and elevations from TOPO sheets - Locations are given for the center of the array. Locations
+written in to the SEG-Y tape header are for the best trace of the array and are slightly different.
+
+51
+
+VII. SOUTHERN ILLINOIS UNIVERSITY (SIU)
+
+John L. Sexton: SIU, Principal Investigator S. Wendling: SIU J. Bowden: SIU H. Henson: SIU
+
+Instrument: multichannel geophone array
+
+Total Groups: 24
+
+Group Interval: 25 ft.
+
+Array Geometry: linear (E/W)
+
+Recording Instrument: DFS V
+
+Sample Rate: 2 ms
+
+Record Length: 60 s, 44 s
+
+Frequency of recording: continuous
+
+Filters: 0 - 64 Hz
+
+Field tapes: 186 (9T, 1600 BPI) tapes
+
+Field tape format: SEG B
+
+Archived at:
+
+Department of Geology
+
+Southern Illinois University
+
+Carbondale, Illinois 62901
+
+Comment: - Some 60 Hz problems on lines I, J - Locations and elevations from TOPO sheets
+
+VIII. UNIVERSITY OF WISCONSIN - OSHKOSH (UWOSH)
+
+John H. Karl: UWOSH, Principal Investigator T. Jefferson: UWOSH S. Bouc: UWOSH J. Colletta: UWOSH D. Kowalkowski: UWOSH P. Meyer: UWOSH
+
+Instrument: multichannel geophone array
+
+Total Groups: 96
+
+Group Interval: 100 m, 50 m
+
+Array Geometry: L-shape, X-shape
+
+Recording Instrument: DFS - IV
+
+Sample Rate: 8 ms
+
+Record length: 295 s, 80s
+
+Frequency of recording: continuous, 2 min
+
+Filters: 0-31 Hz
+
+Field tapes: 87 (9T, 1600 BPI) tapes
+
+Field tape format: SEGB
+
+Archived at:
+
+Department of Physics and Astronomy
+
+University of Wisconsin, Oshkosh
+
+Oshkosh, Wisconsin 54901
+
+414-424-4432/4431
+
+Comment: - Locations and elevations from TOPO sheets - Reel changes cause 10-minute gaps in recording, approximately every hour
+- Instrument failure on Line A-reflection caused loss of E-W arm of x-shaped array on 7 September, 0420-1400 GMT.
+
+52
+
+APPENDIX II: NAVIGATION AND TIMING DETAILS FOR SHOT POINTS This appendix consists of the final report submitted by the contractor on the navigation and shot instants. Note that the navigation for each shot point is taken to be the position of the satellite antenna, which was located 74 m in front of the center of the airgun array. These data are archived at USGS (Denver, CO, and Woods Hole, MA) and are available from National Geophysical Data Center, NOAA, Code E64, 325 Broadway, Boulder, CO, 80303 (telephone: 303-497-6338)
+53
+
+NAVIGATION REPORT ON
+SATELLITE AND TIMING CORRECTIONS FOR THE 1986 GREAT LAKES REFRACTION
+AND REFLECTION SEISMIC SURVEY FOR
+THE GEODETIC SURVEY OF CANADA (SIC) AND
+THE UNITED STATES GEOLOGICAL SURVEY
+by GEOPHOTO SERVICES, LTD
+CALGARY, ALBERTA 1987 12 07
+55
+
+CONTENTS
+
+PAGE
+
+Introduct i on .......................... 1
+
+L i st of Se i smi c L i nes ................ 2
+
+Map of Survey Area ................... 3
+
+Summary of Events During Survey ...... 4
+
+Satellite Antenna Height Error ....... 6
+
+Sketch of Hei ght Effects ............. 8
+
+He i ght Correct i on D i agram ............ 9
+
+Errors in the Timing System .......... 10
+
+Recommendat i ons ...................... 12
+
+56
+
+INTRODUCTION
+A marine geophysical survey was conducted for the Geodetic Survey of Canada in conjunction with the United States Geological Survey between 1986 08 29 and 1986 09 23 In the Great Lakes. The M/V Fred J.. Agnich shot two lines of refraction data and 1343 km of reflection data in Lake Superior, Lake Huron and Lake Michigan.
+Geonav was used as the navigation system to shoot the entire Great Lakes prospect. The integrated navigation was a configuration of a Magnavox 1107 TRANSIT satellite receiver, doppler sonar and a gyrocompass. An Internav 400 LORAN C receiver was available with additional velocity and position information and a TI4100 GPS receiver was on board for most of the survey as backup and an additional QC system and for updates to the LORAN C.
+For the purposes of the GLIMPCE experiment some special modifications were made to the M/V Agnich's control/navigation system (CMS). These include interfacing to a GOES satellite receiver/chronometer, interfacing to a modified CMS chronometer and modifying the system coordinator to allow predetermined delays to be set into the recording sequence.
+The CMS was synchronized to WWV time through the GOES satellite receiver and the CMS chronometer. After the initial passing of time to the CMS chronometer and simultaneous CMS start and WWV synchronization, the chronometer supplied the CMS with a 100 ms interrupt by which the CMS kept time. If the CMS chronometer missed its interrupt from the WWV chronometer the two would be out of synchronization and a LED indicated the error unless the CMS was stopped and restarted.
+During the course of the project several problems affected the data collection. One serious problem was unexplained large satellite updates occurring with otherwise good navigation data. After completion of the first line on 09 01 several days were spent investigating all aspects of the satellite system and on 09 05 it was discovered that the update problems were a result of loading an erroneous antenna height into the
+57
+
+CMS (neglecting to account for 183 metre difference of Lake Superior to sea level). Another problem affecting the data was the time as recorded on tape was not in synchronization with the WWV satellite time. This was due to some delays not being accounted for and interruptions in the system.
+The errors introduced by the above incidents were corrected. This report gives an explanation of the corrections and how they were applied.
+
+LIST OF SEISMIC LINES
+
+Line AABB' BFLINK FF' F'F" A'A A"A G'G CC' CC'A 3 1 2A
+
+Julian Day_ 243 249 250 250 251 252 253 254 255 255 261 263 265
+
+JFSP. 109 111 101 457
+1580 101
+2290 101 156 741 101 102 101
+
+Julian Day 244 250 250 251 251 253 253 254 255 256 262 264 266
+
+LSP 748 2063 455 1579 2843 2326 3944 969 771 1880 4636 1823 5264
+
+58
+
+AREA OF SURVEY
+59
+
+SUMMARY OF EVENTS DURING SURVEY
+LAKE SUPERIOR
+Line AA- was shot in time mode with an external chronometer synchronized to WWV satellite time for control. An external fire command was issued on every even two minute mark. Various stations were set along the shore to collect refraction data in a continuous mode as well as several buoys being placed the U.S.G.S. by the U.S. Coast Guard for collection of reflection data. Problems with large satellite updates began during the shooting of the line but as it was a one time effort (batteries in the buoys were good for about 24 hours) the production was continued. Line AA- was completed on 09 01. After several days of investigating all aspects of the satellite system, on 09 05 it was discovered that the update problems were a result of loading an erroneous antenna height into the system This incident is detailed later in this report.
+The first chargeable shotpoint on line BB' was 111 and the line proceeded normally to the end with a 50 m shot spacing.
+The end coordinates for BFLINK were the southerly coordinates off line BB' and the the northerly coordinates of FF' and the line was shot as a tie between the two. The shot interval was 50 m but the cable became uncontrollable and sank due to a change in water temperature. The line was terminated at shotpoint 456. The client representative on board the vessel approved a decision to increase the shotpoint interval to 62.5 m to allow an increase in vessel speed.
+Line FF' was started with the 62.5 m shot interval and a speed of 4.3 kn until shotpoint 865 where the interval was reduced to 50 m and then increased to 62.5 m at shot 902 for the remainder of the line. A dogleg was executed at shotpoint 592.
+F'F" was started at a 50 m interval and remained that way until shot 2096 where it was increased to 62.5 m for the remainder of the survey. Velocity information was from sonar and at times LORAN C due to loss of tracking in deep water (+365 m).
+C 5= V 60
+
+The 980B NAV computer was halted temporarily to replace a circuit board before the beginning of Line A'A. The system was restarted before the first chargeable shotpoint. The synchronization between the CMS and WWV time were lost because of this and the CMS time had a 24.5 s offset (slow) that remained until the end of A"A.
+On line A"A the sonar velocities gave some problems due to a rising and falling water bottom.
+Before commencing Line G'G the CMS/GOES timing system was resynchronized.
+On Line CC' the compasses in the streamer began spiking and were unusable due to a very strong magnetic anomaly in the area. By shotpoint 356 the anomaly was sufficiently far enough away for the Streamer Tracking System (STS) to accept the compass data and they remained settled for the remainder of the line. There were time loss problems at the end of this line due to a loose connector for the 100 KHz signal thus affecting the count-up for the CMS 0.1 s clock interrupt and causing it to lose time. It was terminated for this reason and restarted at the last known good time.
+Line CC'A was started with the CMS synchronized to WWV but a 23.1 s shift occurred was discovered to have occurred sometime after shotpoint 970.
+LAKE MICHIGAN
+The CMS was reinitialized with the new antenna height to include the elevation of Lake Michigan (176.5 m above sea level). Line 3 had a dogleg initiated at shotpoint 3556.
+LAKE HURON
+The elevation of Lake Huron (& Georgian Bay) is the same as Lake Michigan so the antenna heights remained unchanged. Line 1 was shot South to North through Mississagi Strait in Lake Huron. The beginning of the line was shot at a slower speed to avoid a barge. It was no longer obstructing the path by shot 166. The line was terminated 3.8 km from the prep lotted E.O.L. due to impending shallow water endangering the streamer.
+61
+
+Line 2A was shot from East to West from Georgian Bay into Lake Huron through the Main Channel via a series of dogleg segments. Deviations of up to 485 m to the north of the intended line had to be initiated through the channel to avoid rocks, ferry boats and shallow water. The doglegs were executed at shotpoints 1841, 2033 and 2487. At the second dogleg the vessel was steered off line to starboard to avoid a shallow water area. They were back on line at shot 2281 and performed another dogleg at shot 2487. The line terminated normally.
+SATELLITE ANTENNA HEIGHT ERROR
+It was discovered after completion of line AA- that the update problems were due to the wrong satellite antenna elevation being input into the CMS. Lake Superior is 183 m above mean sea level which was not originally accounted for during system initialization. The errors introduced by this omission are predictable and were corrected in post processing. The magnitude of shift introduced by the error in height initialization ranged from 42 to 392 m with the greatest movement in a longitudinal direction. The table below summarizes the corrections computed. Figure 2 gives a graphical representation of the situation and Figure 3 shows the magnitudes of the displacement (corrections) versus the satellite elevation angles.
+62
+
+The following is a list of the corrections applied to the individual satellite fixes on line AA- in the
+post processing:
+
+FIX# 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+
+Elev. Az. 25 85.2 65 272.6 13 95.7 54 285.6 1 1 89.7 41 259.9 13 101 .4 55 91 .7 27 265.7 26 75.4 26 75.4 57 238.4 54 87.5 56 281 .2 20 73.5
+
+CORR(M) 85.3
+392.5 42.2
+251.9 33.0 158.2 42.2
+261.4 93.2 89.2 89.2
+281.7 251 .9 271 .3
+66.6
+
+dN(M) dE(M)
+
+85.0
+
+6.7
+
+-392. 1
+
+17.8
+
+42.0 - 4.2
+
+-242.4
+
+67.7
+
+35.6
+
+0.2
+
+-156.6 - 27.9
+
+41.4 - 8.3
+
+261.2 - 7.8
+
+- 93.0 - 7.0
+
+86.4
+
+22.5
+
+86.4
+
+22.5
+
+-240.0 -147.7
+
+251.7
+
+1 1.0
+
+-266. I
+
+52.7
+
+63.8
+
+18.9
+
+Subsequent lines were shot with the proper antenna he i ght app1i ed.
+
+63
+
+Satell ite
+
+ELEV
+
+Lake Superior
+
+t dEL
+
+Sea Level
+
+CORR= TAN (ELEV) dEL
+dN=COS(AZ) CORR
+= SIN(AZ) -CORR
+The elevation (ELEV) of the satellite is the vertical angle from the horizon to the satellite and should be between 12 and 75 degrees to be acceptable.
+The azimuth (AZ) of the. satellite is its direction from the vessel with respect to north.
+The correction (CORR) is the absolute distance in metres that the particular fix must be adjusted by.
+The correction in Northing (dN) and Easting (dE) is the computed value in metres to be added to the coordinates to compensate for the error in antenna height.
+FIGURE 2 8
+64
+
+DOPPLER SATELLITE HEIGHT CORRECTIONS
+FOR LAKE SUFKBIOB <163 M ABOVE MSL)
+700
+
+£00 -
+
+a. 500 ao 400 -
+
+300 -
+
+g 200 -
+S
+4 100 -
+
+0-
+10
+
+30
+SATELLITE ELEVATION (DEGREES)
+
+ERRORS IN THE TIMING SYSTEM
+A variety of different timing delays affected the the data collected for the prospect.
+The firing sequence for all lines except the first (AA-) was accomplished with the DPS V in distance mode. The CMS issued the firing command to start the sequence. Additional circuitry to delay the start by 200 ms was added to avoid CMS shot-to-shot jitter of the start pulse (1 - 20 ms) . A delay off 0.65536 swas present to allow the DPS tape transports to ramp up to speed and write the header data. A wire blast was issued to the TIGER II which issued a time break (1.4 ms delay). There was a 51.2 ms delay from the issue of the field time break to the firing of the guns. There was a further 1.31072 second delay at the first shot after each DPS tape change due to the DPS taking longer writing Its ID burst to tape and detection of the wire blast missing the first normal "window" latch and catching the next rising clock cycle.
+Line AA- was shot for refraction data in a time fired mode. The DPS V was fired on a two minute interval controlled by the time from the WWV satellite. To accomplish this additional circuitry was installed in the chronometer to synchronize it with the WWV clock to within 1 ms. The interval was set to fire on even two minute marks with the external start issued from this clock circuitry to the system coordinator which passed it to the CMS and immediately issued a start. All of the above mentioned delays were also present during this mode of shooting except that an additional 1 s delay was introduced into the time as recorded on the CMS (ex: 5m 59 s would be recorded on tape for a shot at 6 m 00 s) since it used presently latched time to store on tape (gets updated 50 - 150 ms later).
+The navigation data were processed without due regard for the original field time and in cases of missed shotpoints and deletions of data anomalies the time was interpolated. Under reflection seismic processing circumstances this would not cause any problems but in the case of the refraction lines it is not acceptable. The time as recorded in the field was stripped from the CMS data and used for the final data.
+10
+"eeT
+
+The final navigation data with original CMS times were corrected to remove the effects of the delays and time offsets.
+The following is a summary of the various system delay corrections (all are positive values) used for the final post processed Navigation Tape:
+
+Distance & External Mode ....
+
+delay from fire issue to DPS receiving start start issue to wire blast to TIGER
+wire blast at TIGER to field time break internal gun delay
+TOTAL
+
+0.20000 s 0.65536 s
+0.00140 s 0.05120 s
+0.90796 s
+
+Total Delay in Distance Mode:
+Total of the above delays First shot at every BOT
+
+0.90796 s 2.21868 s
+
+Total delay in External Mode:
+Total of the above delays External Mode delay
+
+0.90796 s L-_QO_000 s 1.90796 s
+
+11 67
+
+RECOMMENDATIONS
+On any future jobs of this nature it is recommended that the time from the reference source (WWV satellite receiver in this project) be input from a parallel output into a display with an accuracy of milliseconds. In addition to this a similar output from the CMS clock should be sent to the same display and the time difference computed and displayed as well. These times should be recorded for every shotpoint (to 5 significant digits) in a spare or unused position on the CMS tape. An alarm associated with the display should be in place so that a defined limit could be set and any differences outside the chosen range would be flagged and the alarm tripped. A hardcopy of al1 times and differences should be recorded in the ADL printer output.
+In addition to displaying both CMS start time and WWV clock time we should also log the true firing time of the airguns by using the sum shuttle pulse to load the clock time. This could be output to the line printer and stored to tape at the next (SP 4-1) shotpoint. We would always have to shoot 1 extra shot at the end of the line but this would be easy to do with existing CMS software. Every shot would have a three-way check (time) with all delays being known. This would also show any wire-blast to time break jitter which exists in the present TIGER II software if the TIGER II is not synchronized to a 1 millisecond interrupt.
+As well as the proper recording and QC display of the timing there should be the opportunity to make corrections to the CMS recorded time for the known delays including those due to BOT headers at DPS tape changes so that the WWV and CMS time difference is zero. The proper time to be recorded on tape is the correct one (no changes or corrections in post processing). If an offset does occur due to a system idle or a loose connection and can't be corrected immediately, then the corrections will have to be made during the post process ing.
+12
+~~68~
+
+Respectfully submitted by Geophoto Services, Ltd.
+"Andrew Brebner, P.Eng Navigation Dept. Manager
+
+D i str i but i on:
+Dr. Alan Green
+John C1i nk Matt K i rnba 1 1 Dave Ridyard John Rollans Jim Spackman
+
+8 Copies
+
+G.S.C.
+Geophoto GVJeCoWMp*h\o\jt\~o\j G.S.I. G.S.I. G.S.I.
+
+Ottawa, Ont.
+Ca1gary, A1 ta Cv_.aalg^aairy/,, A^l. t«.a*, Houston, Tex Dallas, Tax. Dallas,
+
+13
+<&
+69
+
+APPENDIX III: RANGE ALGORITHM The attached listing gives the FORTRAN code for the algorithm used by all participants in calculating ranges from the shots to the instruments.
+71
+
+SUBROUTINE GEODIST (SLAT,SLON,ELAT,ELON,D,AZ1,AZ2) C
+IMPLICIT REAL*8 (a-h,o-z) C C uses geodetic inverse formula (geodesy by A.R. Clarke) C SLAT, SLON - station latitude and longitude in radians C ELAT, ELON - shot latitude and longitude in radians C D - distance in kilometers C AZ1 - azimuth of station from the shot in radians C AZ2 - azimuth of the shot from the station in radians C
+DIMENSION C(4) ABLE = 6378.2064dO BAKE = 6356.5838dO EASY = 0.006768658dO RAT = BAKE*BAKE/(ABLE*ABLE) CSLAT = COS(SLAT) SSLAT = SIN (SLAT) CELAT = COS (ELAT) SELAT = SIN (ELAT) CD = COS (SLON - ELON) SD = SIN (SLON - ELON) ENS = ABLE/SORT (l.dO-EASY*SSLAT*SSLAT) ENE = ABLE/SORT (l.dO-EASY*SELAT*SELAT) ENE = ENE/ENS A = -CSLAT*SD B = RAT*CELAT*SSLAT-CSLAT*SELAT*CD+EASY*CELAT*SELAT*ENE AZ1 = ATANG(A,B) A = CELAT*SD B = RAT*CSLAT*SELAT-CELAT*SSLAT*CD+EASY*CSLAT*SSLAT/ENE AZ2 = ATANG (A,B) FKON = CELAT*CD*ENE-CSLAT A = CELAT*SD*ENE B = SELAT*ENE-SSLAT B = B*RAT FKON = FKON*FKON+A*A+B*B FKON - SORT (FKON) B = SORT (EASY/(1.-EASY)) A = B*SSLAT B = B*CSLAT*COS (AZ2) BEFF = l.dO+B*B FKOR = FKON*BEFF BEFF = l.dO/BEFF BACH = (A*A-B*B)*BEFF BEFF = A*B*BEFF C(l) = -0.1875dO*BEFF*BACH-0.3333333333dO*BEFF*BEFF*BEFF C(2) = 0.0046875dO+.0375dO*BACH+0.25dO*BEFF*BEFF C(3) = -0.125dO*BEFF C(4) = 0.04166666667dO D = C(l) DO 1 K = 2,4
+D = D*FKOR+C(K) 1 CONTINUE
+D = D*FKOR*FKOR+1 D = FKON*ENS*D RETURN END C************************************************************************
+FUNCTION ATANG(A,B)
+C IMPLICIT REAL*8 (A-H,0-Z)
+C C Computes ATAN(A/B) for all values of A and B from 0 to 2*PI C
+IF (B) 1,3,5
+72
+
+I ATANG = ATAN (A/B) + 3.14159265dO RETURN
+3 IF (A) 7,9,11 7 ATANG=4.71238897dO
+RETURN 9 ATANG = 0.
+RETURN II ATANG = +1.57079632dO
+RETURN 5 IF (A) 13,15,15 13 ATANG = ATAN (A/B) + 6.2831853dO
+RETURN 15 ATANG = ATAN (A/B)
+RETURN END
+73
+
+APPENDIX IV:
+SEG-Y(LDS) EXCHANGE FORMAT
+This appendix lists the FORTRAN code used for the exchange of all refraction and wide-angle data. This code is a series of FORTRAN EQUIVALENCE statements which define file and trace header information for programs used to read the data. This code was developed by C. Spencer and I. Asudeh at GSC for use with Lithoprobe refraction data.
+The exchange format, called SEG-Y(LDS) (SEG: Society of Exploration Geophysicists; LDS: Lithoprobe data storage), is a superset of SEG-Y format. Whereas SEG-Y provides an industry standard for the exchange of seismicreflection data (Barry et al., 1975), SEG-Y(LDS) provides a suitable format for the storage and exchange of seismic refraction data. Any existing SEG-Y program is capable of reading the data. However, SEG-Y(LDS) goes beyond SEG-Y in three ways: (1) it utilizes unused portions of SEG-Y headers for informaton unique to refraction data; (2) it extends the definition to organization within a disk file; and (3) it allows (but does not require) that data be stored with word formats other than the IBM real and integer formats defined in the industry standard.
+Header definition; SEG-Y(LDS) maintains the two part file organization of standard SEG-Y in which a file header (3600 bytes long) is followed by seismic trace data blocks, each containing a 240-byte trace header. The last 340 bytes of the file header and the last 60 bytes of the trace header, which were undefined in original SEG-Y standard, are used in SEG-Y(LDS) for information relative to refraction data, such as shot times. The main additions are allowing storage of (1) flexible shot, receiver and line names, (2) more shot and receiver information, (3) more data word formats, and (4) different seismic sttributes. Comments within the code clearly indicate which items are unique to SEG-Y(LDS).
+Disk storage; SEG-Y(LDS) has been adapted to disk storage primarily by GSC. The SEG-Y file contains a number of traces, each trace containing a number of data samples. File organizaton, as on tapes, consists of a single line header followed by data blocks containing trace headers. The file is a series of bytes with no logical record structure, and the bytes are defined as for tapes. A file structure without logical record structure allows easy access by most machines (all files must have a machine dependent physical record length, but on most machines this can be transparent to the user). For instance, on the PC, the bytes may easily be read in the C-language. Using the IBM PROFORT compiler the file must be opened for direct access with a chosen record length, then data must be read into a buffer in chunks with that record length. Because most sophisticated processing needs direct access to a particular trace, it is convenient to pad out all traces to the same length (and a minimum of 3600 bytes). When this is done easy direct access to bytes from FORTRAN is possible. Other institutions and users of other languages may ignore this restriction.
+Data word formats; SEG-Y defines four data word formats. The actual format used is indicated by the contents of bytes 25-26 in the line header. For SEG-Y(LDS) we have chosen a fifth format to be the gain-ranged LUNCHBOX format utilized by GSC, and a sixth format to be VAX FORTRAN R*4. Note that SEG-Y defines the byte organization within a 2-byte integer on a tape. This is opposite to that on the VAX and the P.C. Yet to be decided is which would
+75
+
+be the most sensible ordering on disk. Currently, GSC is using the natural way for the VAX and PC, i.e., least significant byte is the first in a two byte integer.
+76
+
+c c LDS INCLUDE FILE VERSION 1.0 c c this file is an implicit definition of SEGY format with additions c for refraction work. It is the SEGY standard of Barry et al c Geophysics (1975) with extensions labelled LDS USE for refraction c work. When used as an INCLUDE file for a FORTRAN programme, all c vaiables will be set after reading arrays SEGY1A, SEGY1B, and SEGYDB c c Character code is EBCDIC unless using IEEE (see variable 'icode') c c modifications
+c Carl Spencer and Isa Asudeh 4/2/86 original specification
+
+c Isa Asudeh , may 31, 1986
+
+c Carl Spencer 3/9/86
+
+c update: July 15, 1986
+
+c July 26, 1986
+
+c oct 16, 1986
+
+c Isa Asudeh
+
+nov 16, 1986
+
+c Claire Smith; feb 16, 1987
+
+c Carl Spencer nov 19 1987 FINAL VERSION marked with CPSNOV87 *****
+
+, Parameter definitions
+
+-
+
+integer*4 maxlen,maxsam
+
+maxlen maximum data file size in bytes (including a 240 bytes header)
+parameter (maxlen = 131068) c maxsam maximum number of samples
+parameter (maxsam = 32767)
+
+c SEGY REEL IDENTIFICATION HEADER PART 1
+
+character*! segyla(3200)
+
+c SEGY REEL IDENTIFICATION HEADER PART 2
+
+character*! segylb(400)
+
+c SEGY TRACE DATA BLOCK - System dependent maximum record size
+
+character*! segydb
+
+dimension segydb(MAXLEN)
+
+c
+
+equivalence(segydb(1),thead(1))
+
+c
+
+c
+
+c DATA WORDS
+
+integer*2 idata(maxsam)
+
+real*4
+
+rdata(maxsam)
+
+equivalence(segydb(241),idata(l),rdata(l))
+
+77
+
+c SEGY VARIABLES c c-
+c Binary area of file (or Reel) Identification Header Starts here
+
+c Job Identification number integer*4 jobid equivalence (segylb(l),jobid)
+c Line Number integer*4 lineno equivalence (segylb(5),lineno)
+c reel Number integer*4 reelno equivalence (segylb(9),reelno)
+c c Number of data traces per record
+integer*2 ntrace equivalence (segylb(13),ntrace) c c Number of auxilliary traces per record c integer*2 nauxt equivalence (segylb(15),nauxt) c c Sample interval in microseconds - this data integer*2 sint equivalence (segylb(17),sint) c c Sample interval in microseconds (in field) c
+integer*2 sint2
+equivalence (segylb(19),sint2) c c No of samples per trace this data
+integer*2 nsam equivalence (segylb(21),nsam) c integer*2 nsamf equivalence (segylb(23),nsamf) c NO of samples per trace in the field
+
+SEGY STANDARD SEGY STANDARD SEGY STANDARD SEGY STANDARD SEGY STANDARD
+SEGY STANDARD SEGY STANDARD
+SEGY STANDARD
+
+c Data sample format code
+
+SEGY STANDARD
+
+c the ordering of bytes within this field indicates whether data
+
+c is stored in SEGY standard or IEEE standard. SEGY has most
+
+significant
+
+c byte first, IEEE (as on PC, or VAX) has least significant byte first
+
+78
+
+icode=0001 icode=0002 icode=0003 icode=0004
+
+FLOATING POINT FIXED POINT (4 bytes) FIXED POINT (2 bytes) FIXED POINT WITH GAIN
+
+SEGY STANDARD SEGY STANDARD SEGY STANDARD SEGY STANDARD
+
+icode=0100
+STANDARD icode=0200 icode=0300
+
+FLOATING POINT - IEEE
+FIXED POINT (4 bytes) FIXED POINT (2 bytes)
+
+IEEE IEEE
+
+VERITAS
+
+icode=0500 LUNCHBOX FORMAT
+
+LDS USE ***
+
+icode=0600 VAX R*4 FORMAT
+
+LDS USE ***
+
+Note that the swapped bytes of codes 0100 - 0600 will indicate
+
+that all other header and data words also have their bytes
+
+swapped. In this case, character information is ASCII.
+
+integer*2 icode equivalence (segylb(25),icode)
+
+No of traces per CDP ensemble
+
+integer*2 ncdp
+
+equivalence (segylb(27),ncdp)
+
+Trace sorting code
+
+itsort=l
+
+as recorded
+
+itsort=2
+
+CDP ensemble
+
+itsort=3
+
+Single fold continuous
+
+itsort=4
+
+Horizontal stack
+
+integer*2 itsort equivalence (segylb(29),itsort)
+
+Vertical sum code vcode=n sum on n traces
+
+integer*2 vcode equivalence (segylb(31),vcode) Start sweep frequency (HZ)
+
+integer*2 ssweep equivalence (segylb(33),ssweep)
+
+End sweep frequency (HZ)
+
+integer*2 esweep equivalence (segylb(35),esweep) Sweep Length in milliseconds
+
+CPSNOV87 integer*2
+
+sleng
+
+SEGY STANDARD
+SEGY STANDARD SEGY STANDARD SEGY STANDARD SEGY STANDARD SEGY STANDARD NO LDS USE
+SEGY STANDARD SEGY STANDARD
+SEGY STANDARD
+SEGY STANDARD
+SEGY STANDARD
+
+79
+
+equivalence (segylb(37),sleng)
+SWEEP TYPE stype-l LINEAR stype=2 PARABOLIC stype=3 EXPONENTIAL stype=4 OTHER stype=5 BOREHOLE SOURCE stype=6 WATER EXPLOSIVE SOURCE stype=7 AIRGUN SOURCE integer*2 stype equivalence (segylb(39),stype)
+Trace no of sweep channel
+integer*2 nts equivalence (segylb(41),nts)
+Sweep trace taper in milliseconds at start
+integer*2 stts equivalence (segylb(43),stts)
+Sweep trace taper length in milliseconds at end
+integer*2 stte equivalence (segylb(45),stte)
+Taper type ttype=l LINEAR ttype=2 COS**2 ttype=3 OTHER
+integer*2 ttype equivalence (segylb(47),ttype)
+Correlated data traces cort=l no 2 yes
+integer*2 cort equivalence (segylb(49),cort) Binary Gain recovered arm=l yes 2 no
+integer*2 bgr equivalence (segylb(51),bgr) Amplitude recovery methods arm=l none 2 spherical 3 AGC 4 OTHER
+integer*2 arm equivalence (segylb(53),arm)
+
+SEGY STANDARD SEGY STANDARD SEGY STANDARD SEGY STANDARD SEGY STANDARD LDS USE LDS USE LDS USE
+SEGY STANDARD
+SEGY STANDARD
+SEGY STANDARD
+SEGY STANDARD SEGY STANDARD SEGY STANDARD SEGY STANDARD
+SEGY STANDARD
+SEGY STANDARD
+SEGY STANDARD
+
+80.
+
+c
+
+c Measurement system
+
+SEGY STANDARD
+
+c l=meters 2=feet
+
+SEGY STANDARD
+
+integer*2 isys
+
+equivalence (segylb(55),isys)
+
+c
+
+c Polarity
+
+SEGY STANDARD
+
+c ipol=l upward case movement gives negative number SEGY STANDARD
+
+c ipol=2 upward case movement gives positive number SEGY STANDARD
+
+integer*2 ipol
+
+equivalence (segylb(57),ipol)
+
+c
+
+c Vibrator polarity code
+
+SEGY STANDARD
+
+c
+
+integer*2 vpc
+
+equivalence (segylb(59),vpc)
+
+c
+
+c number of traces in the file
+
+SEGY UNASSIGNED
+
+c used for disk files
+
+LDS USE ****
+
+integer*2 notif
+
+equivalence (segylb(61),notif)
+
+CCPSNOV87
+
+c attribute information
+
+c attri=0 velocity/displacement data
+
+c attri=l instantaneous amplitude
+
+c attri=2 instantaneous frequency
+
+c attri=3 instantaneous phase
+
+c attri=4 slowness (m/ms)
+
+c attri=5 semblance (0-1000)
+
+integer*2 attri
+
+equivalence (segylb(63),attri) c
+
+LDS USE ***
+
+c
+
+c mean amplitude of all samples in all traces in the file,
+
+c used for disk files
+
+CCPSNOV87
+
+c SEGY UNASSIGNED
+
+real*4 meanas
+
+equivalence (segylb(65),meanas)
+
+c domain of data
+
+LDS USE
+
+c domain=0 time/distance
+
+c =1 fk
+
+c =2 tau-p
+
+integer*2 domain
+
+equivalence (segylb(69),domain)
+
+c
+
+c 71,72 unused to allign four byte boundaries,
+
+c reduction velocity meters/second if data is reduced
+
+CCPSNOV87
+
+integer*4 vred
+
+equivalence (segylb(73),vred)
+
+81
+
+CCPSNOV87
+
+c minimum of all samples in the file.
+
+real*4 minass
+
+equivalence (minass,segylb(77))
+
+CCPSNOV87
+
+c maximum of all traces in the file
+
+real*4
+
+maxass
+
+equivalence (maxass,segylb(81))
+
+c
+
+c
+
+c n.b. bytes 85-400 of File Id. Header are not used,
+
+c
+
+C ___________________________
+
+c Binary area of file (or Reel) Identification Header Ends here
+
+c Trace Identification Header (total of 240 bytes) starts here
+
+c c Trace sequence number within line
+integer*4 tsnl equivalence (thead(1),tsnl) c c Trace sequence number within tape c integer*4 tsnt equivalence (thead(5),tsnt) c c Original field record number c for LDS this will be sequential shot number c integer*4 ofrn equivalence (thead(9),ofrn) c c Trace number withint original field record integer*4 tnofr equivalence (thead(13),tnofr) c c ENERGY source point number
+c integer*4 espn equivalence (thead(17),espn)
+
+SEGY STANDARD SEGY STANDARD
+SEGY STANDARD LDS USE
+SEGY STANDARD SEGY STANDARD
+
+c CDP number c
+integer*4 cdp equivalence (thead(21),cdp) c c Trace number within cdp c integer*4 tncdp equivalence (thead(25),tncdp) c
+
+SEGY STANDARD SEGY STANDARD
+
+c
+
+c TRACE IDENTIFICATIONS CODE
+
+SEGY STANDARD
+
+c tic=l seismic data
+
+SEGY STANDARD
+
+C TIC=2 DEAD
+
+SEGY STANDARD
+
+c tic=3 dummy
+
+SEGY STANDARD
+
+c tic=4 time break =5 uphole =6 sweep
+
+SEGY STANDARD
+
+c tic=7 timing =8 water break
+
+SEGY STANDARD
+
+c
+
+integer*2 tic
+
+equivalence (thead(29),tic)
+
+c
+
+c Number of vertically summed traces yeilding this trace SEGY STANDARD
+
+integer*2 nvs
+
+equivalence (thead(31),nvs)
+
+c
+
+c Number of horizontally stacked traces yeilding this trace SEGY
+
+STANDARD
+
+integer*2 nhs
+
+equivalence (thead(33),nhs)
+
+c
+
+c Data use (l=productions 2=test)
+
+SEGY STANDARD
+
+integer*2 duse
+
+equivalence (thead(35),duse)
+
+c
+
+c Distance from source to receiver
+
+SEGY STANDARD
+
+integer*4 idist
+
+equivalence (thead(37),idist)
+
+c
+
+c Receiver group elevation
+
+SEGY STANDARD
+
+integer*4 irel
+
+equivalence (thead(41),irel)
+
+c
+
+c Surface elevation of source
+
+SEGY STANDARD
+
+integer*4 ishe
+
+equivalence (thead(45),ishe)
+
+cc
+
+c Shot depth
+
+SEGY STANDARD
+
+integer*4 ishd
+
+equivalence (thead(49),ishd)
+
+c
+
+83
+
+Datum elevation at receiver
+integer*4 delr equivalence (thead(53),delr)
+Datum elevation at source
+integer*4 dels equivalence (thead(57),dels)
+
+SEGY STANDARD SEGY STANDARD
+
+water depth at source integer*4 wds equivalence (thead(61),wds)
+water depth at receiver integer*4 wdr equivalence (thead(65),wdr)
+Scalar multiplier/divisor (+/-)for bytes 41-68 integer*2 smull equivalence (thead(69),smull)
+
+SEGY STANDARD SEGY STANDARD
+SEGY STANDARD
+
+Scalar multiplier/divisor (+/-)for bytes 73-88
+integer*2 smu!2 equivalence (thead(71),smu!2)
+Source coordinate X or Longitude (East positive) integer*4 ishlo equivalence (thead(73),ishlo)
+Source coordinate Y or Latitude (North positive) integer*4 ishla equivalence (thead(77),ishla)
+
+SEGY STANDARD SEGY STANDARD
+SEGY STANDARD
+
+Group coordinate X or Longitude (East positive) integer*4 irlo equivalence (thead(81),irlo)
+
+SEGY STANDARD
+
+Group coordinate Y or Latitude (North positive) integer*4 irla equivalence (thead(85),irla)
+
+SEGY STANDARD
+
+coordinate units (
+
+1 : meters/feet,
+
+SEGY STANDARSD
+
+2 : seconds of arc (smu!2 holds multiplier)
+
+-N : mod 100 = TX zone
+
+div 100 = RX zone
+
+84
+
+integer*2 cunits
+
+equivalence (thead(89),cunits)
+
+c
+
+c Weathering velocity (m/s?)
+
+SEGY
+
+STANDARD
+
+integer*2 wvel
+
+equivalence (thead(91),wvel)
+
+c
+
+c
+
+c SUBWeathering velocity (m/s?)
+
+SEGY
+
+STANDARD
+
+integer*2 swvel
+
+equivalence (thead(93),swvel)
+
+c
+
+c Uphole time at source
+
+SEGY
+
+STANDARD
+
+integer*2 utimes
+
+equivalence (thead(95),utimes)
+
+c Uphole time at group
+
+SEGY
+
+STANDARD
+
+integer*2 utimeg
+
+equivalence (thead(97),utimeg)
+
+c Source static correction (ms?)
+
+SEGY
+
+STANDARD
+
+integer*2 sstati
+
+equivalence (thead(99),sstati)
+
+c Group static
+
+SEGY
+
+STANDARD
+
+integer*2 gstati
+
+equivalence (thead(101),gstati)
+
+c
+
+c Total static
+
+SEGY
+
+STANDARD
+
+integer*2 tstati
+
+equivalence (thead(103),tstati)
+
+c
+
+c Lag time A
+
+SEGY
+
+STANDARD
+
+c
+
+c LDS USE definition:
+
+c Time in millisec between end of 240 byte trace Identification Header
+
+and
+
+c time bread (time zero). Positive if time break occurs after end of
+
+header,
+
+c negative if time break occurs before end of header,
+
+c This value is the negative of the start time of the trace,
+
+c i.e. if the trace ranges from -50 to + 75 millisec then this entry
+
+will
+
+c be +50.
+
+c
+
+integer*2 istime
+
+85
+
+equivalence (thead(105),istime) c c c Lag time B STANDARD c
+integer*2 ibtime equivalence (thead(107),ibtime) c c Delay recording time STANDARD integer*2 ictime equivalence (thead(109),ictime) c c Mute time start STANDARD c integer*2 mtimes equivalence (thead(111),mtimes) c c Mute time end STANDARD c integer*2 mtimee equivalence (thead(113),mtimee) c c c No of samples in this trace STANDARD c USE *** integer*2 length equivalence (thead(115),length) c c Sample interval in microseconds STANDARD c integer*2 isi equivalence (thead(117),isi) c c Gain type (l=fixed 2=binary 3 floating) STANDARD c integer*2 gaint equivalence (thead(119),gaint) c c Gain constant STANDARD c integer*2 gc equivalence (thead(121),gc)
+86
+
+SEGY SEGY SEGY SEGY
+SEGY VISTA SEGY SEGY SEGY
+
+c Instrument or initial gain in dB STANDARD c
+integer*2 gidb equivalence (thead(123),gidb) c c Correlated l=no 2=yes STANDARD c integer*2 tcorr equivalence (thead(125),tcorr)
+Start sweep frequency (HZ)
+integer*2 tsswee equivalence (thead(127),tsswee)
+End sweep frequency (HZ)
+integer*2 teswee equivalence (thead(129) , teswee) Sweep Length in milliseconds
+integer*2 tsleng equivalence (thead(131) , tsleng)
+SWEEP TYPE stype=l LINEAR stype=2 PARABOLIC stype=3 EXPONENTIAL stype=4 OTHER stype=5 BOREHOLE SOURCE Stype=6 WATER EXPLOSIVE SOURCE stype=7 AIRGUN SOURCE integer*2 tstype equivalence (thead(133),tstype)
+Sweep trace taper in milliseconds at start
+integer*2 tstts equivalence (thead(135) , tstts)
+Sweep trace taper length in milliseconds at end
+integer*2 tstte equivalence (thead(137),tstte)
+Taper type ttype=l LINEAR
+
+SEGY
+SEGY
+SEGY STANDARD
+SEGY STANDARD
+SEGY STANDARD
+SEGY STANDARD SEGY STANDARD SEGY STANDARD SEGY STANDARD SEGY STANDARD LDS USE LDS USE LDS USE
+SEGY STANDARD
+SEGY STANDARD
+SEGY STANDARD SEGY STANDARD
+
+87
+
+c ttype=2 COS**2 c ttype=3 OTHER c
+integer*2 tttype equivalence (thead(139),tttype) c Anti alias filter frequency integer*2 aif equivalence (thead(141),aif) c c Alias filter slope integer*2 ais equivalence (thead(143),ais) c Notch filter frequency integer*2 nif equivalence (thead(145),nif) c c Notch filter slope integer*2 nis equivalence (thead(147),nis) c c Low cut frequncy integer*2 flc equivalence (thead(149),flc) c c High cut frequncy STANDARD integer*2 fhc equivalence (thead(151),fhc)
+c Low cut slope STANDARD
+integer*2 sic equivalence (thead(153),sic)
+c High cut slope STANDARD
+integer*2 she equivalence (thead(155),shc) c c Year of start of trace STANDARD integer*2 tyear equivalence (thead(157),tyear) c c day of start of trace integer*2 tday equivalence (thead(159),tday) c c Hour of start of trace STANDARD
+88
+
+SEGY STANDARD SEGY STANDARD SEGY STANDARD SEGY STANDARD SEGY STANDARD
+SEGY STANDARD SEGY
+SEGY SEGY SEGY SEGY STANDARD SEGY
+
+integer*2 thour equivalence (thead(161),thour) c
+c Minute of start of trace
+STANDARD integer*2 tmin equivalence (thead(163),tmin)
+c c c second of start of trace STANDARD
+integer*2 tsec equivalence (thead(165),tsec) c Time basis code l=local 2=gmt STANDARD integer*2 tbcode equivalence (thead(167),tbcode) c c Trace weighting factor STANDARD c integer*2 twf equivalence (thead(169),twf) c c Geophone group no on roll switch first position STANDARD c integer*2 ggrpl equivalence (thead(171),ggrpl) c c Geophone group no trace position 1 on field rec STANDARD c integer*2 ggtp equivalence (thead(173),ggtp) c c Geophone group no on last trace of filed rec STANDARD c integer*2 gglp equivalence (thead(175),gglp) c
+c Gap size
+STANDARD
+c integer*2 gapsz equivalence (thead(177),gapsz)
+c c Overtravel l=down 2=behind STANDARD c
+
+SEGY SEGY SEGY SEGY
+SEGY SEGY SEGY SEGY SEGY
+
+89
+
+integer*2 overt
+
+equivalence (thead(179),overt)
+
+c
+
+c
+
+c microseconds of trace start time
+
+LDS USE
+
+integer*4 mst
+
+equivalence (thead(181),mst)
+
+c
+
+c millisecond of timing correction
+
+LDS USE
+
+c to be added to reported times to get local or gmt times
+
+integer*2 cor
+
+equivalence (thead(185),cor)
+
+c
+
+c charge size in kg
+
+LDS USE
+
+integer*2 charge
+
+equivalence (thead (187),charge)
+
+c
+
+c shot time - year
+
+integer*2 syear
+
+equivalence (thead(189),syear)
+
+c LDS USE
+
+c
+
+c shot time - day
+
+integer*2 sday
+
+equivalence (thead(191),sday)
+
+c LDS USE
+
+c
+
+c shot time - hour
+
+LDS USE
+
+integer*2 shour
+
+equivalence (thead(193),shour)
+
+c shot time - minute
+
+LDS USE
+
+integer*2 smin
+
+equivalence (thead(195),smin)
+
+c shot time - second
+
+LDS USE
+
+integer*2 sseco
+
+equivalence (thead(197),sseco)
+
+c
+
+c shot time - microsecond
+
+LDS USE
+
+integer*4 ssmic
+
+equivalence (thead(199),ssmic)
+
+c
+
+c azimuth of receiver from shot-units are minutes
+
+LDS USE
+
+integer*2 azimut
+
+equivalence (thead(203),azimut)
+
+CPSNOV87
+
+c azimuth of geophone orientation axis with respect to true north
+
+c in minutes of arc
+
+integer*2 geoazi
+
+equivalence (thead(205),geoazi)
+
+CPSNOV87
+
+c angle between geophone orientation axis and vertical.
+
+c in minutes of arc
+
+integer*2 geover
+
+equivalence (thead(207),geover)
+
+CPSNOV87
+
+c time to be added to recorded trace time to get actual trace start
+
+c time. To be used when data has been reduced but trace start time is
+
+not
+
+c updated so that the actual time can be recovered even if distance and
+
+shot
+
+c time have changed (microseconds),
+
+c LDS USE
+
+integer*4 ttrace
+
+equivalence (thead (209),ttrace)
+
+c
+
+c
+
+CPSNOV87
+
+c recording instrument number
+
+LDS USE
+
+character*4 scrs
+
+equivalence (thead (213),scrs)
+
+c
+
+c deployment name
+
+LDS USE
+
+character*4 deploy
+
+equivalence (thead(217),deploy)
+
+c
+
+c Shotpoint Name
+
+LDS USE
+
+character*4 spname
+
+equivalence (thead(221),spname)
+
+c
+
+c Receiver site Name
+
+LDS USE
+
+character*4 rstnam
+
+equivalence (thead(225),rstnam)
+
+c
+
+C SHOTID
+
+LDS USE
+
+character*4 shotid
+
+equivalence (thead(229),shotid)
+
+c
+
+C LINEID
+
+LDS USE
+
+character*4 lineid
+
+equivalence (thead (233),lineid)
+
+c
+
+C GEOPHONE ORIENTATION EG R40,Z
+
+LDS USE
+
+character*4 geoor
+
+equivalence (thead (237),geoor)
+
+c
+
+c
+
+_^^^^^^^
+
+$LIST
+
+91
+
+

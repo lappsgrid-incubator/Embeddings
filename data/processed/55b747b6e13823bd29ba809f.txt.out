@@ -1,0 +1,656 @@
+spatial analysis geochemical geologic information tonopah quadrangle nevada 
+geological survey bulletin 
+spatial analysis geochemical geologic information tonopah quadrangle nevada john dwyer thomas nash experimental application geographic information system analysis map information use typical mineral resource assessment geological survey bulletin 
+department the interior manuel lujan secretary geological survey dallas peck director 
+any use trade product firm name publication descriptive purpose imply endorsement government 
+united state government print office for sale book open file report section geological survey federal center box denver 
+library congress catalog publication data 
+dwyer john 
+spatial analysis geochemical geologic information 
+tonopah quadrangle nevada john dwyer 
+thomas nash 
+geological survey 
+include bibliographical reference 
+mine mineral resource nevada data processing 
+information system 
+eros data center 
+nash thomas john 
+geological survey ill 
+content abstract introduction geologic set introduction geographic information system preprocessing data prior analysis geochemical background anomaly threshold spatial model useful resource assessment geochemical map method interpolate surface array map drainage basin map spatial model mineral deposit skarn deposit model epithermal deposit model quantification spatial model discussion database requirement compute requirement output option cost effectiveness spatial map geochemistry suggestion future research reference cite plate plate pocket 
+representative geochemical geologic map tonopah °>< quadrangle nevada map 
+regional distribution arsenic stream sediment sample represent surface interpolation 
+regional distribution arsenic stream sediment sample represent sampled drainage basin 
+map comparison areal extent arsenic antimony molybdenum zinc anomaly depict surface interpolation drainage basin method 
+representative geochemical geologic map tonopah quadrangle nevada map 
+distribution total concentration bismuth molybdenum lead tungsten individual element value adjust accord dominant drainage basin lithology 
+area favorable tungsten skarn type miner basis geological geochemical criterion 
+map comparison areal extent bismuth molybdenum lead tungsten anomaly depict surface interpolation drainage basin method 
+content ill 
+representative geochemical geologic map tonopah quadrangle nevada map 
+distribution total concentration arsenic antimony molybdenum zinc individual element value adjust accord dominant drainage basin lithology 
+distribution total concentration arsenic antimony molybdenum zinc individual element value adjust accord dominant drainage basin lithology exclude area expose plutonic rock 
+map area favorable carlin type gold deposit basis geological geochemical criterion 
+map show location major mine prospect tonopah quadrangle 
+map show generalized geology tonopah quadrangle 
+schematic diagram gi subsystems interface example datasets 
+diagram show spatial representation encode point line polygon feature attribute 
+diagram show hierarchical scheme encode sample drainage area 
+outline methodology spatial representation geochemical result 
+map show stream sediment geochemical data tonopah quadrangle 
+schematic diagram spatial information useful proximity analysis 
+conceptual illustration show use buffer generation define paleozoic carbonate crop within expose granitic intrusive 
+geologic map show geologic unit permissive skarn deposit tonopah quadrangle table 
+summary analytical result select element 
+recalculate background concentration three major rock type tonopah quadrangle 
+descriptive model copper tungsten skarn deposit 
+descriptive model volcanic associate epithermal deposit 
+descriptive model sediment host epithermal deposit content 
+spatial analysis geochemical geologic information tonopah quadrangle nevada 
+john dwyer thomas nash 
+abstract advance computer technique geographic information system gi eros data center use spatial analysis geochemical geologic information tonopah quadrangle nevada 
+the gi technique permit rapid mapping geochemical trend development spatial model mineralize environment resource analysis 
+information gi include simplified geologic map map unit structure chemistry millimeter stream sediment nonmagnetic heavy mineral concentrate stream sediment remotely sense limonitic alteration geologic geochemical information mine prospect 
+once digital database establish map analysis proceed rapidly use interactive graphic workstation 
+real time display manipulation capability allow geoscientists retrieve information database establish spatial relation among datasets adjust parameter generate optimum map product via color black white plotter 
+the gi routine permit recognition trend previously determine much slow computer manual treatment geochemical information yet provide mechanisms rigorous integrate analysis available data 
+addition cartographic product illustration color slide could readily prepare publication 
+digital encoding drainage sample geochemical survey permit realistic representation sample area 
+portrayal geochemistry drainage polygon visually effective scientifically appropriate whereas conventional portrayal geochemical information point sit confuse upstream extent drainage generally cannot estimate regional map 
+digital data drainage basin also permit automatic computation geology drainage digital geologic map 
+once geology geochemistry merge basin inquiry make geologic geochemical criterion 
+manuscript approve publication november 
+geochemical background anomaly threshold compute accord geologic unit drainage tonopah quadrangle small structurally juxtaposed geologic unit map unit combine obtain representative basis compute background threshold 
+the gi expedite interactive spatial model mineralized environment use multiple data layer analogous overlay map transparency 
+search rule qualitative presence absence quantitative spatial geochemical geologic structural geophysical data layer 
+area meet deposit model criterion easily quantify respect spatial distribution know deposit prospect 
+gis method permit recognition unsuspected relation among multiple datasets quantification relationship resource assessment 
+although gi technique expedite many spatial analysis task substantial amount effort require ensure database structure appropriately inherent limitation baseline datasets acknowledge document 
+gi method recommend project large database incorporate datasets represent many discipline project area investigate repeatedly different scale 
+introduction interpretation geochemical geologic information resource assessment slow inefficient nonreproducible process 
+application computer technology expedite process case manual method result analysis constrain integrity data assumption upon analysis base 
+the abundant geochemical geologic information gather tonopah quadrangle conterminous united state mineral assessment program cusmap interpret various way nash orris kleinhampl john excellent database 
+gold silver deposit 
+mercury deposit 
+tungsten skarn deposit 
+copper molybdenum deposit 
+silver base metal deposit antimony 
+quadrangle location 
+map show location major mine prospect tonopah quadrangle 
+symbol represent six major deposit type know area 
+experimental application newly develop computer technology dwyer other 
+report discuss computer technique available spatial analysis geologic information use integrate computer hardware software call geographic information system gi 
+the ult gi processing describe possible interpretation data consider final resource assessment data expertise tonopah cusmap geoscientists incorporate 
+the tonopah quadrangle thoroughly prospect many mine prospect discover fig 
+additional undiscovered resource presume remain 
+quadrangle study team geological survey geologist geochemists geophysicist 
+geology percent quadrangle map scale large topical study address geology mineral deposit many area quadrangle 
+geochemical survey make mineralized rock stream sediment collect analyzed characterize regional geochemistry 
+folio map present geologic geochemical geophysical information publish miscellaneous field study map 
+part information multidisciplinary study convert digital format serve database present investigation 
+spatial analysis geochemical geologic information tonopah 10x2 quadrangle nevada 
+the major focus investigation spatial analysis geochemical information 
+the geochemical data report elsewhere team chemist work tonopah cusmap project fairfield other siems other hill other 
+geochemical map scale present nash siems 
+the data stream sediment definition element anomaly relation geochemical trend geology mineral deposit discuss nash companion publication base chiefly manual method data inspection map overlay 
+one objective present investigation compare efficiency accuracy manual automate process information 
+second objective identify factor affect extent gi technique enhance effort regional geochemical study 
+traditional limitation stream sediment geochemical survey fact individual sample analysis represent displace modified homogenized chemical signature rock mineral deposit resident within specific drainage basin 
+regional survey involve thousand sample site tonopah cusmap project time consume manual method relate repeatedly sample analysis geology upstream sample site 
+the gi base capability associate spatially drainage basin correspond streamsediment geochemical data provide accurate expedient mean represent analyze evaluate geochemical associate data 
+order realize completely analytical capability afford gis initial investment time effort require encode properly basic datasets 
+geologic set the tonopah quadrangle comprise km2 within basin range physiographic province 
+the region characterize generally north trend uplifted mountain range separate broad alluviated valley 
+the range abundant rock exposure constitute roughly percent area fig 
+rock range age late precambrian quaternary albers stewart kleinhampl ziony whitebread 
+pre tertiary sedimentary rock chiefly dark eugeoclinal facies west miogeoclinal carbonate facies east 
+triassic cretaceous plutonic rock expose central western range 
+tertiary ash flow tuff flow intrusion volcaniclastic rock present range comprise rock expose eastern part quadrangle 
+quaternary basalt flow present southeastern part area 
+major orogeny late paleozoic mesozoic produce thrust complex 
+fold whereas cenozoic structure chiefly normal strike slip fault 
+low angle detachment fault late tertiary age occur northwestern part quadrangle 
+mineral deposit many age type present tonopah quadrangle 
+the geology mineral deposit discuss kral albers stewart kleinhampl ziony geochemistry deposit describe series report nash siems budge 1985a nash siems hill nash 
+significant amount silver gold iron molybdenum mercury tungsten mine well minor amount copper lead zinc antimony arsenic 
+nonmetallic deposit mine include barite magnesite diatomite 
+introduction geographic information system this study utilize advanced compute technique gi new name computer technology apply earth science decade 
+the key effective gi efficient linkage among many software system hardware device require input data data management analysis output 
+the computer facility eros data center edc host comprehensive network computational resource digitize station graphic display terminal paper film plotter connect several minicomputer 
+extensive library software permit compilation edit transfer databases among several subsystem within gi 
+only technical procedure requirement gi described outline compute concept provide background example discuss later 
+the structure database use study complex fundamental characteristic discuss generic term 
+datasets study manipulate three format tabular vector raster fig 
+tabular data matrix within row correspond individual site columns relate attribute field record may write binary character format 
+information tabular datasets typically relate site specific observation measurement areal phenomenon 
+specific example study geochemical result stream sediment sample information mineral deposit fig 
+the geochemical file transfer local database resident denver translate format compatible system edc mineral deposit prospect information import geological survey mineral resource data system mrd likewise reformatted compatibility 
+the tabular subsystem 
+introduction geographic information system 
+quaternary sediment ill quaternary tertiary basalt tertiary intrusive volcanic sedimentary rock 
+kilometer list map unit mesozoic granitic intrusive rock mesozoic intrusive volcanic sedimentary rock 
+paleozoic volcanic sedimentary rock cambrian precambrian metasedimentary rock 
+map show generalized geology ofthe tonopah quadrangle geology simplify stewart carlson 
+geologic map scale easily make gi present color monochrome pattern depend upon choice output device 
+efficient repository much data utilize extensively edit selective data retrieval manipulation statistical analysis report generation 
+software use process tabular datasets consist relational database management statistical analysis tool 
+vector process system provide capability advantageous geographic analysis point line polygon area data 
+information vector form characterize locational topological descriptive attribute 
+vector process involves management spatial feature arc node data structure capability digitize graphic edit spatial feature overlay relational attribute manipulation esri 
+example datasets efficiently store 
+process within vector base gis include geologic map geophysical remote sense interpretation 
+the procedure digitize geologic map illus trates concept arc node data structure implication data encode subsequent analysis task 
+consider basic component geologic map 
+polygon define areal extent geologic unit tum consist unique line segment define contact fig 
+the trace geologic structure fault axial plane fold represent line yet fault may also define lithologic contact fig 
+each geology polygon encode unique identifier assign class number base stratigraphic ordinal compositional nominal attribute 
+similarly structural feature 
+spatial analysis geochemical geologic information tonopah quadrangle nevada 
+geographic information system 
+put output 
+input output 
+relational database tabular data process subsystem mineral occurrence data geochemical data radiometric age date drill hole data 
+vector database arc node data processing subsystem digital line graph data mining district geologic map structure lithology geophysical interpretation remote sense interpretation 
+raster database grid data process subsystem digital elevation model remote sense imagery aeromagnetics gravity aeroradiometrics input output 
+schematic diagram gi subsystems interface example datasets 
+categorical nominal often carry connotation relative sense movement along feature whether movement know infer 
+geologic map may require generalization digitize number topology polygon may exceed system capability storage manipulation detail may exceed analytical requirement project 
+the strategy digital encoding must consider requirement spatial accuracy maintain categorical distinction necessary support spatial relational manipulation 
+once content digital geologic map define digitize process start structural feature 
+point define structural feature encode predetermine sequential order use reference sense movement particular side feature example downthrown leave specific code use type structure may require late analysis 
+type digital encode best encode specific structural information example normal fault thrust fault strike slip fault rather general feature permit maximum flexibility analysis 
+careful planning require define appropriate digitize scheme although map revise extensive edit digitizing add feature take time original digitizing 
+geologic unit digitize next appropriate arc segment previously encode fault use define geologic contact 
+this eliminate redundant digitize effort minimize registration error subsequent overlay analysis 
+raster datasets inherently spatial representation data acquire form rasterize tabular vector data various interpolation grid technique 
+example raster datasets include remotely sensed image digital elevation model 
+interpolate array surface represent geophysical anomaly base gravity magnetics 
+raster datasets efficiently process display use conventional image processing system 
+digital merge spatial overlay datasets easily compute use arithmetic logical function subsequently display 
+flexibility design generation output product major asset gi 
+change output scale accomodated interactive display device hardcopy film recorder plotter 
+output color monitor greatly aide visualization result spatial analysis photographic print slide make quickly permanent record visual aid 
+more precise cartographic product generate use black andwhite color plotter laser film recorder photographic processing 
+color separate generate expedite processing map publication printing 
+preprocessing data prior analysis dataset transfer digitize edit major effort study gis application 
+substantial amount effort require build relevant datasets ensure geographically reference free error 
+map digitize skilled technician database design edit define performed geoscientists familiar data 
+geochemical result regional streamsediment sample program fairfield other siems other transfer tape minicomputer geological survey denver system edc 
+fortran program write reformat data compatibility relational 
+preprocessing data prior analysis 
+mineral occurrence 
+label ppm ppm 
+tslos ts2011 ts1 
+sl1e deparryp majprod 
+nw1 nw2 sw1 
+lode placer vein 
+structural feature 
+gedq unit 
+area perimeter oas label 
+pi qat dsh 
+diagram show spatial representation encode point line polygon feature attribute 
+database management system use edc 
+the geochemical analysis previously edit denver supply latitude longitude coordinate 
+convert universal transverse mercator coordinate projection use geographic base 
+drainage basin represent stream sediment sample 
+spatial analysis geochemical geologic information tonopah quadrangle nevada 
+level level level 
+basin pdygon sample drainage network drainage basin boundary 
+poly area rooo 
+level lnk 
+basin area cliem 
+diagram show hierarchical scheme encode sample drainage area 
+the drainage basin dataset structure polygon cod unique identifier poly link file attribute 
+secondary attribute basin level down lnk numlnks lnkl lnk2 facilitate aggregation selective retrieval composite basin 
+drainage basin geochemical data file merge use chem common attribute relate one file another 
+delineate separately digitize edc via vector processing subsystem 
+there difficulty automate linkage drainage basins geochemical sample site drainage basin map provide digitize scale original map use measure longitude latitude sample sit many site link manually updating relational construct attribute file 
+high density sample area pose additional problem multiple sample site occasionally attribute single digitize basin thereby prevent delineation unique basin area sample site 
+the chemical datasets drainage basin link matching sample site basin identifier process site eliminate 
+closely space normal density one site per km2 
+some large drainage basin represent one sample site 
+cod scheme devise identify large basin constituent sub basins link downstream sample site 
+this scheme illustrate figure 
+the mrd dataset contain information mineral occurrence localities tonopah quadrangle 
+the mrd national database many geologist technician contribute past consequently suffers inconsistent terminology classification 
+the data check edited inconsistency prior incorporation gi 
+for study able identify error location 
+preprocessing data prior analysis 
+classification retrieve part information 
+retrieval base commodity present give location seem consistent reliable classify deposit selection base mrd definition deposit type 
+host source rock description use refine classification resolve discrepancy 
+the information mrd potentially useful data layer interpretation geochemistry geology must carefully edit knowledgeable economic geologist 
+geochemical background and anomaly threshold the spatial integration geochemical geologic data offer mean refine estimate local geochemical background anomaly threshold tonopah quadrangle 
+early interpretation geochemical analysis nash disregard geologic variability among basin assume one set anomaly threshold sample efficient way define background thresholds basis geologic criterion 
+after fractional proportion geologic unit present sampled drainage basin compute many new opportunity exist manipulation geochemical result 
+investigated correlation geochemistry geology use several statistical technique include multiple linear regression result inconclusive due large number geologic independent variable large number analyse element interest fell analytical detection limit table 
+result similar report bonham carter goodfellow relate geochemical abundance lithology could achieve highly generalized statistical relationship could obtain table 
+the intuitive notion stratigraphic unit different bulk composition different minor element composition evident table refine estimate concentration possible digital geologic map unit heterogeneous lithologically also compositionally distinct sedimentary unit compose small fraction individual drainage basin 
+geochemical background compute retrieve subset sample related basin stratigraphic unit comprise large areal fraction 
+for volcanic unit problem obtain subset basin related sample contain areal percent unit geometric mean concentration element subset seem fair estimate background 
+however basins contain percent single plutonic sedimentary unit representative subset obtainable require mixing several unit show 
+although background concentration somewhat different among major rock type insufficient statistical variance conclude anomaly threshold significantly different basin define major rock type 
+thus basis change interim application nash one set geochemical threshold across entire quadrangle regardless dominant rock type within sample basin 
+geochemical signature volcanic terranes tonopah quadrangle low contrast involve few element terranes nash 
+hop use geologic information supplement chemistry method anomaly enhancement could develop 
+our best effort develop apply normalize factor adjust element concentration basis dominant rock type characterize sample drainage basin 
+the methodology use normalizing element concentration outline figure 
+sample basin rank basis adjust concentration ppm part per million value 
+the ranking technique give element equal importance regardless absolute magnitude part per million minimizes effect extremely high analytical value goldfarb other lognormalization find yield comparable definition anomaly 
+normalized chemical concentration basins contain large areal fraction volcanic rock high original value still much contrast relative average background concentration derive entire sample dataset 
+spatial model useful for resource assessment resource assessment necessarily involve spatial analysis 
+integration spatial information many scale pose major problem regional resource assessment yet rarely problem discuss 
+final product map include indication original data process interpolated generalize user little way judge reliability final representation feature relationships interest 
+many descriptive ore deposit model suit evaluation individual prospect large area 
+for purpose regional assessment useful information characteristic mineral deposit mineralogy alteration structural control geochemical signature ekstrand cox singer must apply many prospect process use regional scale knowledgeable geologist 
+the straightforward example spatial representation data conventional geologic map 
+normally limit map show reliability structure contact show 
+spatial analysis geochemical geologic information tonopah quadrangle nevada 
+summary analytical result select element 
+detennined less limit detection detect great upper limit detennination 
+geometric mean compute dataset qualify data replace accord follow rule value analytical step lower three analytical step low analytical step upper limit detennination 
+concentration part per million 
+number sample 
+element minimum maximum geometric mean valid stream sediment 
+nonmagnetic heavy mineral concentrate 
+different line type denote approximately locate cover 
+the ideal geologic map also show area rock outcrop although rarely do geological survey publication except detailed map small area 
+map portray image data derivative information obtain remote sense device show sample close regular interval may consider spatially complete coverage area except cloud cover 
+geophysical geochemical data however spatially complete result sample along widely space line irregularly distribute discrete site 
+assumption must make spatially incomplete data process represent two dimensional map area 
+many grid contour algorithm available spatially extend data obtain point along line davis choice application influence appearance resultant map 
+case scatter partial data coverage require interpolation final product misleading limitation assumption underlie technique clearly explain 
+study chiefly concern spatial representation analysis geochemical data 
+more sample various medium collect tonopah cusmap study 
+make attempt treat information rock sample investigation represent grab sample collect determine composition relate unusual feature color alteration miner 
+big difficulty rock sample collect cluster within mine district none intervene ten kilometer 
+even many rock sample collect sample divide district alone nash other 1985b much variation among site 
+spatial model useful resource assessment 
+recalculate background concentration three major rock type tonopah quadrangle 
+value part per million 
+medium stream sediment nonmagnetic heavy mineral concentrate 
+compute geometric mean basin subset describe text compose chiefly state lithology qualify analytical value replace describe table 
+small difference compute value sediment probably significant 
+volcanic rock 
+plutonic rock 
+sedimentary rock 
+all rock l041 
+compute mean ppm part per million value element 
+determine mean ppm value element geolog1c subgroup xtv basin great percent tertiary volcanics basin great percent pluton 
+xpt basin w1th great percent pre tertiary sediment 
+compute normalization factor geolog1c subgroup ntv xtv 
+npt xpt 
+compute basin adjustment factor apply ppm value atv ntv percent baslntv 
+percent basmp 
+apt npt percent basinpt apply adjustment factor basin ppm value atv apt 
+rank basin accord adjust ppm value xai element 
+outline methodology spatial representation geochemical result 
+the geochemical value stream sediment sample link respective drainage basin adjust accord dominant rock type basin 
+detection meaningful trend zone even square kilometer preclude 
+for spatial analysis stream sediment geochemical data sample choose represent areal analyse site approximate extent upstream drainage basin 
+the outline drainage basins stream sediment site digitize scale topographic base map 
+these polygon reliable estimate source area sample although slightly accurate estimate could obtain available 500scale map 
+once basin digitize coregistered datasets gi relatively easy determine basin area areal proportion individual geologic unit underlie basin 
+for initial spatial analysis geochemical data utilized interpolation technique 
+this method consider reliable basin method information direction streamflow include computation might allow bias interpolated value direction sediment source 
+the interpolation method base minimum curvature algorithm briggs use generate grid array consist equidimensional mx200 ground equivalent cell quantitative value express part per million 
+the resultant interpolate display geochemical information extend across entire quadrangle include broad intermontaine basins beyond limit sample 
+the geologic map coregistered interpolated geochemistry make possible qualify geochemical map accord geologic criterion 
+for example could digitally mask part interpolated geochemical map coincide 
+unconsolidated quaternary sediment focus spatial analysis area bedrock 
+this accomplish use overlay analysis technique raster domain 
+geochemical map method fundamental difficulty analysis interpretation geochemical data confidence result individual sample use characterize area 
+for tonopah study consider particularly important problem several reason use regional scale topographic base map generally possible determine bearing 
+stream sample adjacent site commonly plot one point fact reflect different drainage geology adjacent drainage basin different juxtaposition diverse rock type several type fault geology particularly different range broad intermontaine valley 
+for reason geology logistics geochemical sample site uniformly distribute across quadrangle 
+use two method fig 
+spatially portray geochemistry assignment geochemical value digitize drainage basins accurately reflect source area contribute sample generation geochemical surface interpolation constrain know physiographic geologic domain 
+surface generation automate procedure require minimal analyst intervention interpolation value unsampled area may questionable validity 
+drainage basin may spatially accurate substantial analyst time require prepare digitize edit map 
+spatial analysis geochemical geologic information tonopah quadrangle nevada 
+combination approach maximum number discernible category color black white display 
+the output category easily aggregate remapped display final presentation 
+interpolated surface array map spatial analysis geologic geochemical data commonly aid computer manipulation interpolate contour data 
+many method use include move average trend surface kriging davis 
+each computational method require certain assumption merit problem easily evaluate commonly apparent end user 
+high low value might reflect local source aberration analytical error smooth 
+interpolation value extrapolation beyond sample point use generate geographically reference grid dataset allow cell cell analysis along coregistered grid dataset 
+some interpolation method constrain interpolated value reflect existence discontinuity method interpolation proceeds without benefit predefined constraint 
+for example basin range province fundamental structural stratigraphic compositional break range front validity interpolate geochemistry across broad intermontaine valley highly questionable 
+the interpolation algorithm use study sensitive geologic boundary nevertheless automate procedure provide expedient mean view regional distribution element concentration 
+relative element concentration 
+ill low 
+map show stream sediment geochemical data tonopah quadrangle 
+stream sediment geochemical data display point label site drainage basin encode display element concentration interpolate surface contour 
+useful method combine multiple datasets single display refer bit mapping 
+example show fig 
+several single element geochemical anomaly display cod spatially combine form single map anomalous multielement association 
+bit map use generation thematic point line polygon image display 
+although system accommodate bit dynamic range bit 
+example total figure 
+schematic diagram spatial information useful proximity analysis 
+bit map cod technique multiple datasets combine additively single output value index unique combination input 
+case geochemical data background value set anomalous value assign code value 
+geochemical map method 
+surface interpolate element analytical result concentrate streamsediment sample 
+each surface log10 transform normalized divided mean log10 value element sample dataset mean log10 value transform surface 
+value less normalized surface truncate mapped zero define single element anomaly 
+single element anomaly surface sum spatial array derive composite anomaly surface value background value great equal anomalous 
+the anomalous portion surface stratify identify area correspond quaternary alluvium valley fill tertiary old unit bedrock 
+the result geologically qualify surface composite geochemical anomaly cod surface background anomalous valley fill anomalous bedrock 
+drainage basin map drainage basins correspond respective streamsediment sample digitize referenced appropriate sample chemical result 
+because factor duplicate sample closely spaced sample site incomplete analytical result locational error introduce manual data encode final basin map describe sample site 
+about percent total quadrangle area account area drainage basin link respective geochemical sample 
+the basin assign composite lognormalized concentration value correspond sample compute manner describe previously except interpolated value involve 
+the composite anomaly map drainage basin assign secondary code define basin unsampled anomalous sample threshold 
+the basin map rasterize grid array coregistered interpolated surface 
+the regional distribution arsenic show interpolated surface 
+map drainage basin appropriate value 
+although map base geochemical data clearly different 
+the drainage basin map map show areal extent sample analysis assign also show area represent sample 
+the interpolated surface map map show broad geochemical trend extend across area quaternary basin fill unsampled area 
+comparison areal extent anomaly depict two method readily accomplish gis show map plate 
+spatial model mineral deposit test spatial analysis capability gi develop simple model three deposit type know important tonopah quadrangle skarn deposit tungsten copper epithermal base precious metal deposit volcanic rock epithermal base precious metal deposit sedimentary rock 
+the type locality skarn deposit quadrangle gunmetal tungsten skarn pilot mountain grabber nash siems budge 1985d although analogous deposit significance find many place world einaudi other 
+epithermal deposit important amount silver gold abundant tonopah quadrangle volcanicassociated silver gold deposit well know tonopah divide round mountain berger eimon nash siems budge 1985b 
+sediment host gold deposit know northumberland several prospect kleinhampl ziony best known example carlin nev radtke other 
+our model generalize consistent available data gi accommodate much complex model appropriate support information resident database 
+important consider assessment objective database design content define spatial model 
+the requirement regional resource assessment much different evaluation prospect typically available data much different 
+individual prospect mine occurrence commonly evaluate use information ore mineralogy alteration mineralogy rock chemistry fluid inclusion stable isotope reflect many deposit model example cox singer ekstrand 
+some complete deposit model assemble prospector artificial intelligence system reboh query attribute however model sufficient regional assessment 
+much information request model mineralogic fluidinclusion isotopic data pertains chiefly point locality although inferred characterize geologic unit pluton 
+regional resource model useful require information applies small part study area 
+the consequent requirement dataset represent type information applies region generally dictate method use data acquisition 
+regional geochemical trend anomaly pattern describe use stream sediment rather rock sample alteration describe use remotely sense information rather soil sample field map magnetic anomaly describe use result airborne magnetometry rather ground magneto 
+spatial analysis geochemical geologic information tonopah quadrangle nevada 
+descriptive model copper tungsten skarn deposit 
+global model cox cox singer einaudi other 
+element tectonic setting age rock type structural control alteration geochemistry remote sense geophysical signature 
+back arc belt postorogenic pluton 
+chtefly mesozoic age 
+tonalite granodiorite quartz monzonite limestone 
+contact aureole near intrusion silicate skarn mineral alteration 
+structure2 magnetic high gravity low 
+same global chiefly cretaceous granodiorite quartz monzonite limestone impure limestone 
+same global same global same global especially 
+same global same global 
+gi application dot 
+use study 
+yes yes 
+explanation diagnostic feature observe example consider important recognition deposit 
+permissive feature observe many example consider indirect guide deposit permissive useful scale quadrangle 
+permissive feature unique deposit type 
+effective information obtainable regional study use gi 
+future refinement possible information generally available regional study 
+not pertinent spatial analysis information pertain specific site costly 
+1geochemical signature stream sediment agree suite find mineralized rock sample 
+rock geochemistry provide petrogenetic classification intrusion must systematically apply throughout study area 
+2characteristics detectable remote sense landsat multispectral scanner thematic mapper data establish known example 
+presence iron oxides derive sulfide mineral bleach carbonate rock may useful probably unique deposit type 
+3geophysical signature probably inconsistent variable amount magnetite ore 
+meter survey 
+usually choice produce datasets less precise analytically spatially amenable generalized interpretation result site specific study 
+limited time fund preclude widespread application many data collection method require high density sample although desirable use resolve ambiguity select site 
+another consideration formulation model resource assessment base observable measurable feature 
+although genetic model prevalent much current research ore deposit part deal process cannot observe directly field inference process basis indirect evidence generally vary experience preconception observer 
+spatial model rely empirical association even significance uncertain regard current understanding genetic process may effectively direct attention subtle spatial relationship target require detailed analysis 
+also genetic hypothesis likely change possibly invalidate assessment base whereas assessment base spatially descriptive empirical relation revise long source data remain valid 
+skarn deposit model metasomatically alter sedimentary rock contact metamorphic aureole pluton sit important deposit tungsten tonopah quadrangle notably pilot cedar mountains northern toiyabe range fig 
+skarn miner name calc silicate metamorphic rock rich garnet amphibole pyroxene characteristically host rock type deposit 
+these deposit contain variable potentially valuable concentration 
+the simple skarn model outline table highly generalize compare subdivision geologic detail know class deposit einaudi other commensurate datasets gi 
+the primary recognition criterion derive geologic map presence pluton pre tertiary sedimentary unit contact pluton geochemical signature 
+include criterion presence fault limonitic alteration evaluation spatial relationship variable suggest diagnostic correlation particular judgment although fault important development skarn deposit fault show 
+spatial model mineral deposit 
+generalize geologic map would important fracture local scale 
+the geochemical signature skarn deposit tonopah quadrangle distinctive 
+previous study mineralize rock sample know deposit nash siems budge 1985d nash siems hill show presence high concentration many base metal many anomalous level heavymineral concentrate derive stream sediment nash 
+although many metal enrich skarn environment suite find diagnostic 
+factor analysis inspection data tonopah quadrangle nash reveal excellent spatial association suite know skarns also area similar geology lack well develop skarn type alteration ore mineral 
+the signature conclude effective indicator skarn insufficient determine conclusively existence significant deposit 
+model analytical result concentrate adjust normalized rock type individually rank high low base adjust concentration level sample rank score sum site 
+for model define geochemical anomaly threshold 75th percentile composite rank score 
+the composite rank score assign appropriate basin simplicity assign bit value background anomalous forth 
+the map anomalous skarn type geochemistry show map plate 
+the geologic criterion skarn model highly generalized conform aggregate unit digitize geologic map 
+although specific wallrock intrusive rock characteristic einaudi other could accommodate gis map lack detail 
+particular unit map emphasize stratigraphy rather lithology thus possible specify impure carbonate similar optimum lithology 
+likewise although could specify triassic sedimentary unit include luning formation host many deposit similarly encode unit would also identify many less optimum characteristic 
+although detail petrologic attribute plutonic rock quadrangle know john would useful refine model available purpose 
+although geologic map use generalized classification combine lithofacies would possible append supplemental attribute specific polygon representative distinct lithology 
+wide reaction zone buffer around pluton fig 
+consider reasonable approximation know spatial association skarns margin pluton tonopah quadrangle elsewhere einaudi other 
+the width zone 
+also allow possible unmapped dike apophysis intrusive contact shallow dip 
+map show proximity plutonic unit generate easily use raster process technique zone different proximity select map minute time accommodate iterative processing model narrower wider version favorable contact metasomatic zone 
+interior buffer could define within pluton allow possible endoskarn deposit rare variety occur victory tungsten mine near gabbs 
+the gi could easily accommodate many search criterion would make skarn model specific 
+notably lack model criterion host rock alteration apart interpretation supergene limonite remotely sense data available database 
+topical mapping pluton contact zone david john oral commun include observation metamorphic character alteration mineralogy time permit systematic study throughout quadrangle 
+three stage spatial analysis use criterion skarn model show map plate figure 
+the geochemically favorable area map identify previously manual inspection geochemical result nash 
+the geologically favorable area fig 
+widespread reasonably expect deposit require highly specialized wallrock intrusive rock composition criterion could explicitly define information available source data digitize geologic map 
+the final identification favorable area 
+map agreement observe field silurian limestone figure 
+conceptual illustration show use buffer generation define paleozoic carbonate pattern crop within expose granitic intrusive 
+spatial analysis geochemical geologic information tonopah quadrangle nevada 
+kilometer list map unit 
+pre tertiary intrusive rock 
+pre tertiary sedimentary rock expose within kilometer pre tertiary intrusive rock 
+geologic map show geologic unit permissive skarn deposit tonopah quadrangle 
+relationship area pilot cedar mountain toiyabe range extensive lone mountain round mountain area misidentified area could exclude restriction impose explicitly define host rock composition alteration characteristic 
+the large geochemical anomaly big ten peak area nash rule model geology favorable although small skarn deposit could occur exotic megabreccia block raft upward caldera margin 
+keith oral commun 
+epithermal deposit model many ore deposit prospect tonopah quadrangle grossly classified epithermal permissive evidence mineral deposition warm hydrothermal solution shallow depth 
+these deposit tend contain economically important amount precious metal work definition lack 
+specific type deposit subdivide general group basis host rock geology alteration ore mineralogy example cox singer 
+the economically important deposit historically silver gold deposit associate volcanic rock tonopah divide round mountain gold deposit calcareous shale northumberland 
+these type deposit tend enrich call volatile element variable amount ewer keays berger eimon other 
+mineralize rock sample epithermal deposit tonopah quadrangle show geochemical tendency metal even abundant type ore environment associate pluton nash siems budge 1985d nash siems hill 
+rock geochemistry alone reliable mean recognize epithermal deposit contain precious metal 
+this problem compound stream sediment geochemical survey tend low element concentration source deposit 
+spatial model mineral deposit 
+descriptive model volcanic associate epithermal deposit 
+generalize several silver gold model berger cox singer tooker 
+gi use 
+tectonic set age rock type structural control alteration geochemistry remote sense geophysical signature mineralogy fluid inclusion isotope 
+global craton continental margin caldera extensional fault mainly quarternary tertiary andesitic rhyolitic volcanics volcaniclastic sediment small intrusion high angle fault breccia zone inside outside caldera adularia clay alunite alteration structure1 magnetic low gravity low 
+see reference 
+tonopah same global same global same global same global same global same global same global same global same global 
+yes yes yes 
+explanation diagnostic feature observe example consider important recognition deposit 
+permissive feature observe many example consider indirect guide deposit permissive useful scale quadrangle 
+permissive feature unique deposit type 
+effective information obtainable regional study use gi 
+future refinement possible information generally available regional study 
+not pertinent spatial analysis information pertain specific site costly 
+scale may permit necessary detail document properly feature 
+1alteration mapping multichannel capability scale landsat thematic mapper well suit alteration assemblages deposit provide uniform data coverage appropriate processing refinement available interference vegetation problem 
+2geochemical signature deposit highly variable term base metal grade element suite abundance observe type deposit research application special analytical method could probably clarify problem 
+contrast background anomalous concentration low well 
+geologic information contain gi offer additional criterion aid recognition epithermal deposit 
+epithermal geochemical suite consist 
+map define factor analysis element concentration mineralize rock sample well stream sediment nash 
+analysis determine atomic absorption spectrometry fraction stream sediment value emission spectrographic analysis concentrate 
+this suite tend weakly develop many area quadrangle especially mountain range chiefly tertiary ashflows toiyabe toquima monitor range nash 
+the concentration element commonly slightly select anomaly threshold many site two three element anomalous 
+this sharp contrast area generally near pluton strong anomalous multielement signature involve element 
+several method enhance epithermal signature investigate 
+first method site characterize skarn suite especially discard many high level 
+although reduce size dataset consider involve circular reasoning could cancel site epithermal rather skarn source know volcanic terrane hot creek range 
+second method use geologic information screen chemical analysis whereby subset retrieve basin plutonic rock present basin underlie pre 
+dominantly volcanic sedimentary rock 
+area underlie chiefly plutonic rock could eliminate entirely show map plate 
+third method geochemical analysis normalize basis background major contribute rock type table effect raise value drainage basins chiefly volcanic source lower value element drainage basins chiefly plutonic sedimentary source 
+the normalized analytical result rank described early drainage basin give score sum rank value 
+model epithermal system volcanic terrane develop table compute two way 
+for one submodel search rule basins chiefly tertiary volcanic rock basins anomalous epithermal element suite 
+the distribution basins meet simple volcanic associate model show map plate 
+variant volcanic epithermal submodel include third search rule presence tertiary intrusion 
+district divide tonopah tertiary intrusion probably important mineralizing process bonham garside however intrusion tend small show digitized regional map resident gi 
+the inclusion alteration criterion might enhance submodels relate data limonite occurrence map derive interpretation landsat multispectral scanner ms data 
+the utility information limit spectral spatial resolution 
+spatial analysis geochemical geologic information tonopah quadrangle nevada 
+descriptive model sediment host epithermal deposit 
+essentially carbonate host model berger cox singer 
+tectonic set miogeocline age rock type structural control alteration geochemistry remote sense geophysical signature mineralogy fluid inclusion isotope 
+global normal fault accrete mainly tertiary age impure carbonaceous shaley carbonate near felsic intrusion 
+high angle thrust fault jasperoid argil alunite alteration structure2 associate magnetic high electrical conductor see reference 
+tonopah same global same global same global same global jasperoid argil same global 
+same global unknown same global 
+gi application dot 
+use study 
+yes yes yes 
+explanation diagnostic feature observe example consider important recognition deposit 
+permissive feature observe many example consider indirect guide deposit permissive useful scale °>< quadrangle 
+permissive feature unique deposit type 
+effective information obtainable regional study use gi 
+future refinement possible information generally available regional study 
+not pertinent spatial analysis information pertain specific site costly 
+scale may permit necessary detail document properly feature 
+1expression stream sediment medium well establish trace element require special analytical method normally use regional survey 
+2alteration mapping multichannel capability scale landsat thematic mapper well suit deposit type provide uniform data coverage appropriate processing refinement available interference vegetation problem 
+ms sensor purdy other bailey other substantial vegetation cover upland area mask spectral response underlie rock soil 
+model epithermal deposit sedimentary rock table resembles carlin type gold deposit radtke other tooker 
+the search criterion utilized geochemical stratigraphic structural layer database 
+the distribution area meet sediment host epithermal model show map plate 
+for general purpose geologic criterion basin sedimentary rock obviously rule could make specific 
+the addition geologic map show distinct lithofacies would especially useful carlin model 
+the structural criterion presence thrust fault debatable ore deposit demonstrably related structure yet thrust near major deposit also near northumberland deposit kleinhampl ziony 
+this good example application empirical spatial association proximity criterion wide zone influence along structural trace could easily add spatial model 
+quantification spatial model spatial model previously discuss evaluate use gis least two way spatially compute compare area define 
+anomaly spatially compare define anomaly distribution know mineral occurrence mrd file 
+particular interest comparison com parison area geochemical anomaly define interpolation basin method 
+map compare spatial expression geo chemical anomaly define interpolation drainage basin 
+map show method agree differ 
+case basin define anomaly typically agree anomalous area define interpolation yet extensive anomaly show latter method geochemical information constrain sample basin area 
+the skarn geochemical map 
+map show area bedrock deem anomalous basin method interpolation method method 
+note sample area percent total area quadrangle 
+compute basis entire quadrangle percentage area indicate anomalous basin method alone percent indicated interpolation method percent percent overlap 
+the interpolation method constrain geology extends anomaly across large area quaternary basin fill 
+the unconstrained interpolation indicate percent quadrangle area underlie quaternary alluvium anomalous almost large area anomalous bedrock 
+feel unreasonable estimate 
+map plate show anomalous area epithermal geochemical suite accord interpolation basin method 
+the anomalous area define basin 
+quantification spatial model 
+amount percent method agree percent area area define interpolation method percent 
+confidence level could assign geochemical map imply map plate 
+would assign high confidence level anomalous area within sample basin green red low confidence anomalous area compute interpolation extend beyond sample drainage basins blue 
+user geochemical map resource assessment would benefit indication map confidence attach various anomaly type 
+another test two method well identify superposition know deposit prospect 
+the standard test mrd information deposit judge site skarn type epithermal type chiefly silver gold deposit 
+for skarn deposit basin method exclusively identify percent interpolation exclusively identify percent method inclusively identify percent percent deposit remain unidentified outside sample area 
+for epithermal deposit basin method exclusively identify percent interpolation method exclusively identify percent method inclusively identify percent percent remain unidentified outside sample area 
+the interpolation method unconstrained geology indicate percent quadrangle anomalous area quaternary alluvium 
+the fact many know deposit occur outside sample basin partially account difference number deposit identify two method extension anomaly unsampled area interpolation method compensate lack coverage 
+although may instance extension anomaly across quaternary alluvium intermontaine basin would useful search conceal fault deposit basin geochemical resource consideration extension best eliminate geologically untenable digitally mask area quaternary sedimentary cover 
+discussion application gi technology tonopah quadrangle permit improved spatial analysis geological geochemical information 
+section review problem well success encounter study 
+describe earlier section gi technique allow identify associate major geochemical trend geology related resource tonopah quadrangle confirm feature previously identify manual method nash 
+the gi effective respect cannot overcome 
+deficiency database create scientific breakthrough 
+this experiment encounter share problem human error circumvent future application make process efficient 
+database requirement the effectiveness gi largely proportional quality datasets compile investigation 
+study rarely encounter software hardware limitation sophistication model limited basic datasets 
+the gi capable handle many datasets available 
+whether one wish use empirical relationship spatial correlation application association demonstrate know deposit resource assessment multiple data layer desirable 
+ideally scale associate spatial accuracy geology geochemistry geophysics comparable gis compensate discrepancy tend round difference possible misrepresentation information 
+comprehensive planning obviously important success project time data input crucial meeting project publication deadline 
+geologic map use gi compile meet explicit goal project 
+present experiment available geologic map generally appropriate inquiry attempt 
+most geochemical resource inquiry require map emphasize lithology alteration rather stratigraphy 
+also inquiry would benefit detailed information local structure addition major regional feature former likely control occurrence geochemical anomaly ore deposit 
+dilemma tonopah cusmap project limit time funding permit detailed mapping part region yet reliable assessment use gis require consistent uniform geologic coverage 
+map lithology structure alteration high resolution landsat thematic mapper spot system probatoire observation terre satellite imagery may contribute compilation detailed geologic information 
+indeed suggest utility gi constrain appropriate geologic map available geochemical resource survey 
+the geochemical data requirement generally dictate needs program gi accommodate wide variety geochemical information 
+specification sample medium sample density determine geology logistics within study area 
+although uniformly space sample site amenable map show gis compensate nonideal pattern closely space multiple sample plot one point give scale 
+spatial analysis geochemical geologic information tonopah quadrangle nevada 
+unexpected observation study limitation impose qualified result analytical method use determine element concentration 
+although extensive statistical analysis geochemical data do prior project nash find method quantitative modeling integrate geology geochemistry require chemical analysis method wider range detectable concentration 
+geochemical database few qualified entry detect value might permit quantitative interpretation geochemical background geochemical suite 
+know statistical analysis geochemistry computer manipulation geochemical data gi make computationally precise cannot compensate inherent deficiency data 
+careful selection geochemical method meet program objective might avoid type problem 
+compute requirement the definition technical requirement hardware software beyond scope discussion general point need make 
+base experience several multidisciplinary study similar tonopah project dwyer other clear operational gi capability require well equip facility system capable store handle large datasets kilobytes single dataset 
+despite many advance desktop personal computer storage compute capacity unit yet sufficient handle large spatial datasets 
+some example file sizes drainage basin outline vector format raster format map geologic unit megabyte vector file raster file geochemical map multiple single element vector format interpolate surface 
+storage requirement expand rapidly derivative vector raster file create archived future recall 
+some task require interactive capability analytical workstation whereas function may computationally intensive best execute batch process 
+specialize hardware software require digitize manage manipulate information generate statistical graphic textual summary 
+dynamic graphic display environment major functional requirement 
+although many computeraided design mapping cad cam computer aid design computer aid manufacture system facilitate graphic edit gi distinct ability capture merge manipulate spatial feature basis locational topologic descriptive attribute 
+the integration tabular vector raster process technique maximize utility dataset unique characteristic 
+even simple experiment use 
+numerous output device generation tabular cartographic product monochrome color 
+suspect project lack facility could encounter obstacle would result investigation fall short goal objective 
+output option perhaps great single advantage gi ability iteratively implement refine spatial model 
+color graphic workstation facilitate real time display analysis spatial relationship 
+desire product generate use several type color black white film recorder plotter adjustment scale annotation readily make 
+film recorder use generate color separate publication print thereby save much time labor 
+the technical precision linework varies type output device case may meet certain strict engineering standard graphic publication 
+part project publication requirement review outset 
+the gi approach advantageous project need many type visual aid meeting publication 
+the technical requirement publisher must consider early date gi capable meeting requirement compromise requirement possible manual redraft map figure could obviously nullify particular advantage gi 
+cost effectiveness this pilot project lesson learn minimize amount time enhance effort similar project future 
+some major pitfall encounter effort attribute follow gi approach adapt tonopah cusmap project already start reluctance geologist participate inappropriate base map basins geology digitized limitation impose type analytical method use geochemical analysis human error might well inevitable occur 
+application gi spatial analysis geochemical resource survey effective potential problem address 
+the preparation geographically reference spatial database expensive therefore undertaken project program use extensively time 
+scale easily change gi thus database use quadrangle county state wide investigation 
+the database useful many topical investigation relate natural resource environmental study 
+project involve many type spatial data require team geoscientists benefit access common geographically referenced database particularly respect generation interim cartographic product visual aid 
+however without initial commitment design development appropriate database regular interaction among principal investigator gi utilized full potential 
+spatial map geochemistry the choice map method geochemical data complex subjective 
+foremost consideration give scale purpose specific data use study 
+for study large area low sample density interpolation method probably advantage chiefly result cover area perhaps risk unreliable extension anomaly beyond sample represent area 
+also surface generation automate procedure require less analyst time basin encode surface qualify extent geology 
+for small study area high sample density study require conservative resource assessment area specific analysis basin method reliable base topographic definition sample domain 
+suggestion future research 
+appropriate coordination geologic geochemical datasets gis access require information extraction elemental background threshold value applicable project area 
+significantly geochemical parameter would compute accord geologic rather statistical criterion 
+this new method practice rarely do even though could do rapidly routinely 
+challenge evident work gi implementation efficient technique publication map 
+this cartographic research require insight geologist cartographer editor publisher 
+key issue development standard appropriate new era digital cartography 
+perhaps significant opportunity research gi environment development spatial model resource assessment 
+the flexibility inquiry gi permit creation search rule design local regional global criterion 
+lesson learn research ore deposit model regard artificial intelligence system reboh apply elsewhere 
+indeed gis become spatially oriented artificial intelligence system sense rule develop one group expert reliably reproducibly apply another group 
+find research ore deposit model example adams reboh cox singer useful benefit research creation uniform standard datasets systematic description ore environment 
+the gi capability available use study sufficient inquiry present 
+there many opportunity new application technology outline 
+digital file sample drainage useful show need acquire efficient process use 
+automate technique analysis digital elevation model develop identify extract drainage line flow direction drainage basin boundary extent depression outflow point jenson jensen trautwein 
+another semiautomated process involve scan map 
+streamsediment geochemical survey sample basin choose outline desire site drainage basins possibly modify sample collection original field sheet provide reliable map scan carry few error sample location sample number 
+routine process one would require minimal operator time permit realistic representation specific area contribute streamsediment sample 
+this open door effective spatial analysis geochemical result many purpose 
+research geochemical background anomaly threshold expedite gis geologic map lithology alteration include database 
+reference cite albers stewart geology mineral deposit esmeralda county nevada nevada bureau mine geology bulletin bailey dwyer podwysocki evaluation landsat thematic mapper data geologic mapping semi arid terrains proceeding international symposium remote sense environment fourth thematic conference remote sense exploration geology san francisco calif environmental research institute michigan 
+berger eimon conceptual model epithermal precious metal deposit shank cameron volume unconventional mineral deposit american institute mining metallurgical petroleum engineer 
+bonham garside geology tonopah lone mountain klondike northern mud lake quadrangle nevada nevada bureau mine geology bulletin bonham carter goodfellow background correction stream geochemical data use digitized drainage geological map application selwyn basin yukon northwest territory journal geochemical exploration 
+spatial analysis geochemical geologic information tonopah quadrangle nevada 
+briggs machine contour use minimum curvature geophysics 
+cox singer i986 mineral deposit model geological survey bulletin davis statistic data analysis geology new york john wiley dwyer moll trautwein elliot pearson pratt nash i987 geographic information system requirement mineral resource assessment lesson learn cooperative research sachs usgs research mineral resource geological survey circular 
+einaudi meinert newberry skarn deposit 
+skinner seventy fifth anniversary volume economic geology publish 3i7 
+ekstrand i984 canadian mineral deposit type geologic synopsis geological survey canada economic geology report esri esri geographic information software description redlands calif environmental system research institute 
+ewer keays volatile precious metal zone broadlands geothermal field new zealand economic geology i337 
+fairfield siems zuker hill nash budge suzanne i985 analytical result sample locality map stream sediment sample tonopah quadrangle nevada geological survey openfile report goldfarb leach speckman application rank order statistic exploration geochemistry abs loth ige symposium association exploration geochemists helsinki finland 
+grabber union carbide pilot mountain project geologic set field trip guide 
+johnson exploration ore deposit north american cordillera field trip guide association exploration geochemists ft5 ft24 
+hill siems nash analytical result sample locality map minus mesh stream sediment sample eastern part tonopah quadrangle nevada geological survey open file report sheet scale 
+jenson automate derivation hydrologic basin characteristic digital elevation model data washington auto carto march 
+jenson trautwein method application surface depression analysis baltimore auto carto march april 
+john map show distribution characteristic plutonic rock tonopah quadrangle central nevada geological survey miscellaneous field study map scale 
+kleinhampl ziony mineral resource northern nye county nevada nevada bureau mine geology bulletin 99b 
+geology northern nye county nevada nevada bureau mine geology bulletin 99a i72 kral 195i mineral resource nye county nevada university nevada bulletin 
+nash interpretation regional geochemistry tonopah quadrangle nevada base analytical result stream sediment nonmagnetic heavy mineral concentrate sample geological survey bulletin nash siems regional geochemical map tonopah quadrangle nevada base sample stream sediment nonmagnetic heavy mineral concentrate geological survey miscellaneous field study map scale 
+nash siems budge suzanne 1985a geochemical study belmont silver district nye county nevada geological survey open file report 1985b geochemical signature divide silver gold district esmeralda county nevada geological survey open file report 1985c geochemical signature ore alter rock gilbert district esmeralda county nevada geological survey open file report 1985d geochemical signature ore deposit mineralize rock pilot mountains mineral county nevada geological survey open file report nash siems hill geochemical signature ore deposit mineralize rock cedar mountain mineral nye county nevada geological survey open file report orris kleinhampl preliminary mineral resource assessment tonopah quadrangle nevada geological survey open file report purdy bailey dwyer use thematic mapper data alteration geologic map southcentral nevada proceeding international symposium remote sense environment fourth thematic conference remote sense exploration geology san francisco calif environmental research institute michigan 
+radtke rye dickson geology stable isotope study carlin gold deposit nevada economic geology 
+reboh rene knowledge base system regional mineral resource assessment menlo park calif sri international final report sri project siems marchitti nash analytical result sample nonmagnetic heavy mineral concentrate tonopah quadrangle nevada geological survey open file report 2i3 tooker geologic characteristic sediment volcanic host disseminated gold deposit search occurrence model geological survey bulletin whitebread compiler generalize geologic map tonopah quadrangle nevada geological survey open file report scale 
+reference cite 
+government printing office 

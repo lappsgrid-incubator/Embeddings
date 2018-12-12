@@ -1,0 +1,815 @@
+DIRECTION OF GROUND-WATER FLOW AND GROUND-WATER QUALITY NEAR A LANDFILL IN FALMOUTH, MASSACHUSETTS By James H. Persky U.S. GEOLOGICAL SURVEY Water-Resources Investigations Report 85-4188
+Prepared in cooperation with the MASSACHUSETTS DEPARTMENT OF ENVIRONMENTAL QUALITY ENGINEERING DIVISION OF WATER POLLUTION CONTROL and the TOWN OF FALMOUTH, MASSACHUSETTS
+Boston, Massachusetts 1986
+
+UNITED STATES DEPARTMENT OF THE INTERIOR DONALD PAUL HODEL, Secretary GEOLOGICAL SURVEY Dallas L. Peck, Director
+
+For additional information write to:
+U.S. Geological Survey Water Resources Division 150 Causeway Street, Suite 1001 Boston, MA 02114-1384
+
+Copies of this report can be purchased from:
+Open-File Services Section Western Distribution Branch U.S. Geological Survey Box 25425, Federal Center Denver, CO 80225 Telephone: (303) 236-7476
+
+CONTENTS
+Abstract Introduction
+Background Purpose and scope Methods of study Acknowledgments Falmouth landfill site Site description Location of monitor wells Geologic setting Direction of ground-water flow Ground-water quality Leachate generation and migration Water-quality analyses Estimation of maximum impact of landfill on Long Pond Summary References cited
+
+Page 1 1 2 2 4 4 4 4 4 8 6 11 11 13
+21 23 23
+
+ILLUSTRATIONS
+
+Figure 1. 2. 3. 4.
+5.
+
+Map showing location of study area
+Map showing location of wells mentioned in this report Generalized geologic map of study area Map showing water-table altitudes and direction of ground-water
+How, April 16-17, 1981
+Map showing water-table altitudes and direction of ground-water flow, September 2, 1981
+
+Page 3 5 7
+9
+10
+
+in
+
+TABLES
+Table 1. Water-table altitudes in 1980-81 2. Chemical analyses of ground water from wells in vicinity of the Falmouth landfill 3. Organic chemicals analyzed in samples from wells FSW 208 and 210 4. Specific conductance of ground-water samples from wells in vicinity of the Falmouth landfill
+
+Page
+14 18 18
+
+CONVERSION FACTORS
+For the convenience of readers who may prefer to use metric (International System) units rather than the inch-pound units used in this report, values may be converted by using the following factors.
+
+Multiply inch-pound units
+
+To obtain SI Units
+
+inch (in.) foot (ft) mile (mi)
+foot per day (ft/d)
+
+Length 25.4 millimeter (mm) 0.3048 meter (m) 1.609 kilometer (km) Hydraulic Conductivity 0.3048 meter per day (m/d)
+
+IV
+
+DIRECTION OF GROUND-WATER FLOW AND GROUND-WATER QUALITY NEAR A LANDFILL IN FALMOUTH, MASSACHUSETTS
+By James H. Persky
+ABSTRACT
+A landfill in Falmouth, Massachusetts, is upgradient of a pond used for municipal -water supply, but analysis of ground-water-flow directions and ground-water quality indicates that leachate from the landfill does not threaten the municipal supply. A network of water-table observation wells was established, and water-table altitudes were measured in these wells on several dates in 1981. These data were used to prepare water-table-contour maps to determine the direction of ground-water flow. Waterquality analyses and specific-conductance measurements were made on water samples from several wells in the vicinity of the landfill between October 1980 and April 1983.
+A water-table-altitude contour map of the area between the landfill and Long Pond for April 16-17, 1981, indicates that the direction of ground-water flow is primarily southwest from the landfill to Buzzards Bay. A similar map for September 2, 1981 a time at which the water table was unusually low indicates the possibility of groundwater discharge to Long Pond from the landfill site. On the latter date, extreme lowering of the pond-surface altitude of Long Pond by pumping for public-water supply deflected the direction of ground-water flow toward the pond.
+Ground-water quality beneath the landfill exceeded U.S. Environmental Protection Agency water-quality criteria for domestic water supply for manganese and total dissolved solids. Concentrations as high as 52 milligrams per liter of nitrogen as ammonia and 4,500 micrograms per liter of manganese were found. Concentrations of ammonia, manganese, calcium, potassium, and alkalinity exceeded local background levels by more than a factor of 100; specific-conductance levels and concentrations of hardness, barium, chloride, sodium, magnesium, iron, and strontium exceeded local background levels by more than a factor of 10; and cadmium concentrations exceeded local background levels by more than a factor of 5. One sample contained an arsenic concentration of 19 micrograms per liter, whereas nearby wells contained arsenic concentrations of 1 microgram per liter. Specific conductances of up to 2,900 microsiemens per centimeter and pH values of up to 7.10 were measured. Toluene, benzene, chlorobenzene, ethylbenzene, and 1,1-dichloroethane were detected in concentrations of up to 9 micrograms per liter in the ground water.
+Water-quality analyses and field specific-conductance measurements indicate the presence of a volume of leachate extending south-southwest from the landfill. Existing data do not reveal whether this leachate composes the center or the eastern edge of a leachate plume. The presence or location of the plume cannot presently be established further downgradient than well FSW 340, approximately one-half mile from the landfill.
+The maximum potential impact of the landfill upon the water quality of Long Pond was estimated. Average chloride concentrations of landfill leachate, precipitation on the surface of Long Pond, and recharge from the remainder of the recharge area were 180, 3, and 9 milligrams per liter, respectively. If all leachate from the landfill is assumed to discharge into Long Pond, the chloride concentration of Long Pond water would be 14.7 milligrams per liter. However, only a fraction of the landfill leachate
+
+is lifcely to actually enter Long Pond. The amount would depend on the extent of lowering of the pond level by pumping, and on the depth within the aquifer to which the plume has sunfc when it nears the pond. Most Zeachate constituents are nonconservative, and thus are expected to be attenuated by the time the leachate nears the pond. No significant degradation of the quality of water in Long Pond is expected as a result of leachate from this landfill. Ground-water mounding from a proposed rapid-infiltration sewage-disposal site west-southwest of the landfill would be ZiJceZy to deflect groundwater flow from the landfill toward Long Pond.
+INTRODUCTION
+Background
+Cape Cod is comprised of thick deposits of highly permeable stratified drift and, to a lesser extent, of glacial moraine material with a moderate-to-high permeability. The permeability and surficial exposure of the stratified drift permit rapid infiltration of precipitation. Consequently, surface-water runoff is virtually nonexistent and the surface-water drainage pattern is poorly developed, except where sustained by groundwater discharge. The municipal and industrial water needs of Cape Cod are obtained from ground-water supplies or from kettle hole ponds, which are widely distributed throughout the Cape.
+The high permeability of the deposits also permits the rapid infiltration of liquid contaminants such as liquid wastes dumped at landfills and landfill leachate. Ground water can move at a rate of several feet per day (the rate depends partly on the slope of the water table); therefore, any introduction of contaminants to the ground water may result in rapid transport of contaminants and widespread degradation of ground water, which is relied upon for public and industrial supply.
+One of the most widely used methods of waste disposal in the United States is the sanitary landfill, in which refuse is dumped into an excavation over a prepared embankment and then covered with a layer of soil to prevent odor and the proliferation of vermin. Percolation of water from precipitation through landfill refuse and into the ground water is a common source of ground-water pollution.
+The Town of Falmouth Sanitary Landfill in Falmouth, Massachusetts, is located 2 miles north-northeast of Long Pond a major source of public-water supply for Falmouth (fig. 1). The town, concerned that ground-water transport of any chemical components in leachate from the landfill might degrade the water quality of Long Pond, installed several observation wells on the landfill site during the mid-1970Ts and obtained limited water-quality analyses of samples from these wells. Water-table altitudes measured by the U.S. Geological Survey on several dates in 1980 showed flow of ground water from the landfill to be west-southwest to Buzzards Bay (unpublished data on file in the Massachusetts Office). Computer simulation of ground-water flow in western Falmouth by Camp Dresser <5c McKee Inc. (1983) showed a similar flow direction, although an earlier resistivity survey (Camp Dresser <5c McKee Inc., 1982, p. 45) indicated that landfill leachate was flowing to the south. The U.S. Geological Survey conducted a study of the ground water in the vicinity of the Falmouth landfill from 1980 to 1983.
+Purpose and Scope
+This report describes the results of a study to determine the direction of groundwater flow in the area of the landfill, and to describe ground-water quality in this area. A description of the geologic characteristics of the landfill site and an estimate of the maximum impact of the landfill on Long Pond are included.
+-2-
+
+41" 40'
+
+70" 35'
+SANDWICH
+
+41°35'
+
+Base from U.S. Geological Survey Providence 1:250,000,1948
+Figure 1. Location of study area.
+-3-
+
+2 MILES 3 KILOMETERS
+
+Methods of Study
+
+1
+
+A network of water-table observation wells was established, using both new and existing wells. The land-surface altitudes of these wells were determined by leveling. The water-table altitudes in these wells were measured on several dates in 1981, and
+water-table contour maps were compiled from the data collected. The general direction
+of ground-water flow in the study area was determined from these maps. Water samples were taken from wells in the vicinity of the landfill and analyzed.
+The specific conductance of water from several wells in the study area was measured in the field. Data from water-quality analyses of samples from wells in the study area
+obtained and analyzed by the Barnstable County Health Department were retrieved from WATSTORE, the U.S. Geological Survey National Water Storage and Retrieval System. The maximum impact of the landfill on the quality of Long Pond water was estimated using an inflow-outflow balance method.
+
+Acknowledgments
+
+This study was conducted in cooperation with the Town of Falmouth, Massachu-
+setts, and the Massachusetts Department of Environmental Quality Engineering, Division of Water Pollution Control. Richard Witt of the Falmouth Department of Public Works
+provided information on the history and contents of the landfill. Paul Papasodora and Col. Oliver B. Brown, Ret., of the Falmouth Department of Public Works provided data on the pond-surface altitude and maximum depth of Long Pond. Diane Letty, Robert Fowler, and Barbara Ryan of the U.S. Geological Survey conducted the planning and field
+investigations for this study. The U.S. Geological Survey maintains a data base of
+water-quality analyses of samples from public and private supply wells throughout Cape
+Cod that are obtained and analyzed by the Barnstable County Health Department; several of these analyses were used in this report.
+
+FALMOUTH LANDFILL SITE
+
+Site Description
+
+The Town of Falmouth Sanitary Landfill is located near the intersection of Thomas
+Landers Road and Blacksmith Shop Road in Falmouth (fig. 1). The landfill covers an area of 54 acres, and approximately 50 percent of the capacity of the landfill has been used.
+Waste materials include household trash, building materials, scrap metal, tires, brush, and septic-tank and cesspool waste.
+The landfill began operation in the mid-1950's. No accurate records have been kept of the type, volume, and location of disposed waste. Septic-tank lagoons in the southeastern section of the landfill became operational in the late 1970's, before which septage was dumped in the western section of the landfill. The landfill is covered with a 2-foot-thick layer of silty, mixed sand and gravel.
+
+Location of Monitor Wells
+
+The location of all wells mentioned in this report is shown in figure 2. With the
+exception of wells P-8 and P-10, all wells are referred to by their U.S. Geological Survey station names, which consist of the designation for the town of Falmouth, FSW, and the well number. The town designation is not given in figure 2, so the well marked 208 in the figure, for example, refers to well FSW 208.
+
+-4-
+
+41*37'30T
+
+70T36 1
+
+41°35
+
+© 1674
+
+OBSERVATION WELL PUMPING WELL BOUNDARY OF LANDFILL SITE
+
+Base from U.S. Geological Survey Falmouth 1:25.000, 1979 Pocasset 1:25.000. 1979 Woods Hole 1:25,000, 1967 Onset 1:25.000. 1967
+Figure 2. Location of wells mentioned in this report.
+
+-5 -
+
+Geologic Setting
+Cape Cod is comprised primarily of two types of geologic deposits: Deposits of stratified drift created by the glaciofluvial transport, sorting, and deposition of glacial outwash material; and recessional moraines deposited by glaciers during the Wisconsin Glaciation. The moraines on Cape Cod are unusual in that they are comprised primarily of well-sorted sand and gravel, and contain little of the clay and poor sorting usually found in moraines (the degree of sorting of a mass of sediment is the extent to which the sediment is segregated by grain size). This gives the moraines a moderately high permeability, though not as high as the permeability of the stratified drift.
+The Falmouth landfill is located on stratified deposits of sand and gravel containing occasional boulders that are part of the Mashpee pitted plain deposits (fig. 3). These deposits are comprised of well-sorted, fluvially deposited sand and gravel (Oldale, 1981, p. 22). The hydraulic conductivity (a measure of the ability of an aquifer material to transmit water) of the Mashpee pitted plain deposits at a location approximately 4 miles to the northeast has been estimated at 200 to 300 ft/d (LeBlanc, 1982, p. 7). The Buzzards Bay moraine lies at the west edge of the landfill, and is a north-trending ridge made up of well-sorted sand and gravel and glaciolacustrine silt and clay with a veneer of till that contains numerous large boulders (Oldale, 1981, p. 22). The moraine forms hilltops with elevations as high as 206 feet in the vicinity of the landfill. The glacial deposits in the study area are 250 to 300 feet thick (Oldale, 1969, p. B123).
+DIRECTION OF GROUND-WATER FLOW
+The saturated zone of an aquifer is that part of the aquifer within which all interconnected pore spaces are filled with water. Similarly, the portion of the aquifer in which the interconnected pore spaces are devoid of, or only partially filled with, water is called the unsaturated zone. The boundary between the two zones is the water table.
+Because ground water moves from areas of higher water-table altitude to areas of lower water-table altitude, a network of water-table observation wells was used to determine the direction of ground-water flow in the study area. Water-table-altitude measurements made at these wells are shown in table 1. The water-table levels for April 16-17 and September 2, 1981, when the water table was nearing its highest and lowest points for the year, respectively, were used to compile water-table-contour maps (figs. 4 and 5). The water levels given for the kettle ponds on the base map are the water levels at the time the base map was compiled; several of the pond levels were substantially lower when these water-table altitudes were measured.
+The ground-water level on September 2, 1981, was below the normal monthly level for the area (U.S. Geological Survey, 1981, p. 1). The probable high ground-water levels for the area are approximately 6 feet higher than those shown in figure 5, and the probable low ground-water levels are approximately 3 feet lower than those shown in figure 5. In any one year, the average range of fluctuation of the water-table altitude is approximately 3 feet. These values are based on estimation techniques developed by Frimpter (1980) and Frimpter and Fisher (1983), and ground-water levels for index wells on Cape Cod for September 1981 (U.S. Geological Survey, 1981, p. 4). The average annual range of fluctuation, as well as the long-term range, may be substantially greater in the immediate vicinity of Long Pond, where pumping of the pond water causes the water table to become lower during the summer and early fall than it would become in the absence of pumping.
+Movement of ground water in the aquifer from areas of higher water-table altitude to areas of lower water-table altitude means that a change in the pattern of water-table contours would cause a change in the direction of ground-water flow. Changes in the pattern can be caused not only by variations in the amount of water recharging the aquifer, but also by variations in the amount of water removed from the aquifer; lowering of the surface level of Long Pond by pumping is one such source of change. When the pond level drops below the altitude of the water table in the surrounding area, ground water on all sides of the pond flows toward the pond.
+-6-
+
+70*37'3O" 41°37'30(
+
+/eras1
+
+41°35
+
+PLAIN DEPOSITS
+BUZZARDS BAY MORAINE
+
+,.
+L_J
+
+LANDFILL SITE
+
+| 1 PROPOSED RAPID-
+
+BUZZARDS BAY '__-! INFILTRATION SITE
+
+OUTWASH DEPOSITS
+
+Base from U.S. Geological Survey Falmouth 1:25.000. 1979 Pocasset 1:25.000. 1979 Woods Hole 1:25,000, 1967 Onset 1:25,000, 1967
+
+Figure 3. Generalized geologic map of study area.
+
+-7-
+
+Table 1. Water-table altitudes, 1980-81 [A dash indicates that no data are available.]
+
+Well no. or pond
+
+Water-table altitude, in feet above mean sea level
+
+Late May-
+early June 1980
+
+Jan. 27, 1981
+
+Mar. 12, 1981
+
+Apr. IB17, 1981
+
+June 23- Sept. 2, July 1, 1981
+1981
+
+FSW 169 FSW 199
+FSW 200
+
+32.4 31.0 _ _
+
+_ 31.0
+23.6 23.7
+
+FSW 206
+
+13.2
+
+FSW 208
+
+20.8 21.6 21.7
+
+FSW 209 ' 22.7 21.9 22.8 22.9
+
+23.1 22.2
+
+FSW 210 FSW 303 FSW 309
+
+22.0 22.0 23.7
+21.0 22.0
+
+23.2 22.4 24.2
+22.0 21.4
+
+FSW 311 FSW 312 FSW 313
+
+21.9 22.0 21.0 22.0 21.9 20.9 21.8 21.9
+
+22.1 22.1 21.3 22.0 21.3
+
+FSW 314 FSW 316 FSW 317
+
+17.2 15.2 16.1 16.2 22.0 20.2 21.4 21.5 24.9 23.4 24.5 24.6
+
+15.9 21.2 20.5 24.4 23.8
+
+FSW 318 FSW 319 FSW 320
+
+17.1 15.6 15.6 16.1 12.0 10.9 11.2 13.9 11.9 12.5 12.8
+
+16.0 11.4 11.2
+12.4
+
+FSW 321 FSW 322 FSW 323
+
+11.1 10.7 10.2 10.4 12.5 10.4 j 11.3 11.4 '
+
+10.6 10.5
+9.8
+
+FSW 324 FSW 325 FSW 326
+
+9.0 7.2 6.9 7.3
+
+7.0
+
+10.9 10.2
+
+18.9 18.2
+
+FSW 327 FSW 328
+
+7.6 6.6 16.4 15.6
+
+Coonamessett Pond
+
+34.8
+
+Crocker Pond
+
+13.8
+
+14.0
+
+Long Pond
+
+6.6 5.1 5.8 6.2
+
+5.9 4.0
+
+-8-
+
+70f°i3-r7''t3n0"
+Proposed rapid-p infiltration site
+
+41° 35
+
+Base from U.S. Geological Survey Falmouth 1:25,000, 1979 and Woods Hole 1:25,000, 1967
+
+WATER-TABLE CONTOUR Shows altitude of water table, April 16-17, 1981. Contour interval 2 feet. Datum is mean sea level
+DIRECTION OF FLOW
+OBSERVATION WELL
+SURFACE-WATER STAGE MEASUREMENT SITE
+
+Figure 4. Water-table altitudes and direction of ground-water flow, April 16-17,1981.
+
+-9-
+
+70°37'30"
+Proposed rapidinfiitration site
+
+70°35'
+
+41°35
+
+Base from U.S. Geological Survey Falmouth 1:25,000,1979 and Woods Hole 1:25,000.1967
+
+WATER-LEVEL CONTOUR Shows altitude of water table, September 2, 1981. Contour interval 2 feet. Datum is mean sea level
+DIRECTION OF FLOW
+OBSERVATION WELL
+A SURFACE-WATER SITE
+-A- SURFACE-WATER STAGEMEASUREMENT SITE
+
+Figure 5. Water-table altitudes and direction of ground-water flow, September 2, 1981.
+
+-10-
+
+The direction of ground-water flow on April 16-17, 1981, was west-southwest from the landfill to Buzzards Bay, with recharge from the landfill site passing well to the north of Long Pond (fig. 4). However, on September 2, 1981 (fig. 5), pumping of Long Pond had lowered the water table in the vicinity of the pond to the extent that some of the ground-water flow from the landfill site was directed into Long Pond.
+The direction of ground-water flow from the landfill site, especially from the southeastern section of the site where the septage lagoons are located, depends greatly upon the pond-surface altitude of Long Pond. The level of Long Pond drops several feet during the summer because of pumping. Between January 1, 1978, and December 31, 1983, the highest level of the pond surface was 10.75 feet above mean sea level and the lowest level of the pond surface was 3.52 feet. The latter value was the lowest pond level ever recorded at Long Pond. The highest pond-surface level recorded in 1981 was 6.50 feet, and the lowest pond-surface level in 1981 was 3.92 feet.
+The general direction of ground-water flow from the landfill is southwest toward Buzzards Bay, usually passing to the north of Long Pond. However, extreme lowering of Long Pond by pumping for public water supply, as on September 2, 1981 (fig. 5), can cause the deflection of some recharge from the landfill site into Long Pond. The pond level usually reaches its annual low during the early fall, due to evaporation from the pond surface and utilization of water by plants throughout the spring and summer, as well as increased pumping during these seasons. The low pond level in September 1981 was near the lowest level ever recorded at the pond, so the deflection of ground-water flow toward Long Pond shown in figure 4 may approximate the maximum effect pumping is likely to have on ground-water flow. The creation of a ground-water mound at the proposed rapid-infiltration site may deflect ground-water flow from the landfill to the south and significantly increase the influx of recharge from the landfill to Long Pond.
+The Town of Falmouth has proposed construction of a facility for the treatment and disposal of wastewater from the municipal sewage system at a location approximately 1.2 miles west-southwest of the landfill and 1.5 miles north of the western end of Long Pond (fig. 1). The treated wastewater would be disposed of by rapid infiltration at the proposed site. Introduction of large volumes of water to the saturated zone at this location would cause a higher water-table level beneath the site than in the surrounding area. This manmade peak in the water-table level is referred to as a ground-water mound. The ground-water mound would alter the pattern of water-table contours throughout the area, thereby altering the local and regional directions of ground-water flow. The likely effect of such an occurrence would be increased ground-water flow from the landfill site toward Long Pond.
+GROUND-WATER QUALITY
+Leachate Generation and Migration
+This section is a discussion of the basic processes involved in the generation and transport of landfill leachate. This discussion is intended to serve as a general review of the chemical processes observed at landfills, though not all of these processes have been observed at the Falmouth landfill.
+In the absence of surface-water drainage at a landfill, precipitation percolates through the landfill. Chemicals in the refuse are added to the water by dissolution or chemical reaction. The dissolution of chemicals by percolating water is called leaching, and the resulting solution is a leachate. If the landfill does not have an impermeable base, the leachate percolates downward into the ground-water system beneath the site.
+Microbial activity within the landfill breaks down organic material in the refuse, releasing carbon dioxide as a by-product. This process utilizes dissolved oxygen, and as a result the leachate rapidly becomes depleted in oxygen. The leachate becomes a reducing, rather than an oxidizing, environment. In such an environment, anaerobic bacteria
+-11 -
+
+further break down the organic material through fermentation processes to create methane and other hydrocarbons, organic acids, ammonia, and carbon dioxide. Much of the carbon dioxide is used in turn by methane-producing bacteria. The combination of the generation of ammonia and the removal of carbon dioxide (which would otherwise react with the water to form a weak acid) and the hydrogen ion from the leachate during the production of methane causes an increase in the pH of the leachate (Baedecker and Back, 1979, p. 433).
+The chemical composition of the leachate changes in the unsaturated zone due to adsorption, cation exchange, dissolution, redox reactions, and microbial activity. Cation exchange is the replacement of cations (positively charged ions, including the ions of most metals) adsorbed to a grain surface by other cations which are more strongly held to the grain surface. In freshwater, monovalent cations (cations with a charge of +1) such as sodium, potassium, and ammonium tend to be replaced by divalent and trivalent cations, which include calcium and most of the heavy metals. This is the chief means by which the heavy metals, including lead, zinc, and cadmium, are removed from solution. Phosphate and carbonate are removed from solution by the formation of insoluble compounds (U.S. Environmental Protection Agency, 1977, p. 199-200). Iron and manganese, which are insoluble under oxidizing conditions, may be mobilized from the refuse or from oxides coating sediment particles in the unsaturated zone under reducing conditions (Baedecker and Back, 1979, p. 432-433).
+In the saturated zone, leachate generally moves in the direction of flow of the ground water, gradually dispersing downgradient from the landfill (upgradient and downgradient are the ground-water analogues of upstream and downstream). The straight-line distance that a volume of water travels in an aquifer from its source during a certain amount of time is less than the length of the actual path that the water has traveled in that time. This is because water in an aquifer cannot flow directly between two points, but rather must follow a tortuous course around the sediment grains that comprise the aquifer. Because of the different paths of flow that portions of the leachate must take around the grains, two ions which enter the saturated zone near the same location at the same time may not have traveled the same distance downgradient by some future time. As a volume of leachate moves in the aquifer, the leachate is progressively scattered as flow proceeds in various directions around each successive sediment grain. This scattering effect, called mechanical dispersion, tends to spread the leachate as it travels downgradient. This dilutes the concentration of the dissolved material by causing the leachate to mix with uncontaminated ground water. Mechanical dispersion is greatest in the downgradient direction, but it also has lateral and vertical components.
+The water quality in the area downgradient of the landfill is noticeably poorer than that of the surrounding area, because of the transported leachate. The volume of degraded water in the downgradient area is often referred to as a plume. Because of dispersion, the concentration of contaminants in a plume is generally highest in the center, or core, of the plume, gradually becoming more dilute toward the periphery. Oxidizing conditions return toward the periphery as reduced leachate mixes with uncontaminated water that contains dissolved oxygen.
+Plumes often sink within the water column, due to a density greater than that of the surrounding water (Kimmel and Braids, 1980, p. 28), and due to the overlying weight of water added to the saturated zone by precipitation downgradient of the landfill. The depression of a plume within an aquifer often leads to the misconception that contamination of the ground water is not present at some location downgradient of the landfill because samples taken from shallow wells at the location do not contain any contaminants, when it is possible that the plume is in fact present at the location, but is below the bottom of the well.
+-12 -
+
+Water-Quality Analyses
+Ground-water samples from several wells in and around the landfill were collected and analyzed. Samples from wells FSW 208 and 210, located on the landfill site (fig. 2), were tested for several chemical constituents, including trace metals and organic compounds. Wells FSW 312 and 335 were sampled for common inorganic ground-water constituents, and wells FSW 313 and FSW 335 through 340 were sampled for specific conductance and nutrients. The enalyses were compared with an analysis of water from well FSW 242, a well northeast of the landfill considered to represent the local background level of water quality in the aquifer. These analyses are compiled in table 2.
+The chemical analyses indicate the presence of landfill leachate in the ground water beneath the landfill. The ground water exceeded U.S. Environmental Protection Agency water-quality criteria for domestic water supply for manganese and total dissolved solids. Levels of ammonia, manganese, alkalinity, calcium, and potassium concentrations exceeded local background levels by at least a factor of 100, and levels of specific conductivity and barium, chloride, sodium, hardness, magnesium, iron, and strontium concentrations exceeded local background levels by at least a factor of 10. The cadmium concentration in well FSW 208 exceeded the local background concentration by more than a factor of 5. An arsenic concentration of 19 micrograms per liter was recorded for well FSW 208, while analyses for well FSW 210 and 312 include arsenic concentrations of 1 microgram per liter, which probably approximates the local background level. The wells at the landfill (wells FSW 208, 210, and 312) contained low concentrations of iron in comparison to the high concentrations of manganese in the water.
+Of the 27 organic chemicals analyzed in the samples from wells FSW 208 and 210 (table 3), 5 were detected in amounts greater than 1 microgram per liter, the detection limit of the testing method. Only these five are included in table 2. Toluene, benzene, chlorobenzene, ethylbenzene, and 1,1-dichloroethane were detected in well FSW 208, and chlorobenzene was detected in well FSW 210. The highest concentration recorded for an organic chemical was 9 micrograms per liter of chlorobenzene in well FSW 210. Camp Dresser & McKee Inc. (1982, p. 20) reported a value of 19 parts per billion (in freshwater, parts per billion approximates micrograms per liter) for the mean chlorobenzene concentration of an unspecified number of samples from FSW 209, and values of 10 parts per billion for the mean benzene concentration of an unspecified number of samples from FSW 208 and 209.
+Specific-conductance measurements were made in the field of water from several wells that were not sampled for more extensive testing. Specific conductance is an indicator of the amount of dissolved material in a water sample. All field conductance measurements made during this study are shown in table 4. Table 4 also includes the mean value of specific conductance for an unspecified number of samples from wells P-8 and P-10 collected and analyzed by Camp Dresser & McKee Inc. (1982, p. 20), as well as specific conductances recorded for a number of water samples from private wells that were obtained and analyzed by the Barnstable County Health Department. The latter group of analyses were retrieved from a data base maintained for the county by the U.S. Geological Survey; the samples were collected from faucets in the residences supplied by the private wells, but passage through the holding tanks and plumbing is not believed to have significantly altered the specific conductance of the samples. Land-surface altitudes of the wells sampled by the Barnstable County Health Department were estimated from a topographic map. These wells each serve one house and tend to be shallow, rarely extending as much as 20 feet below the water table.
+Wells FSW 208 to 317 in table 4 were installed by the Town of Falmouth. These wells have 2- to 4-foot-long screens at the bottom of the wells. Wells FSW 318 to 321 were installed by C. E. Maguire, Inc., to a depth of 10 feet below the water-table level at the time of installation. The screens on these wells extend from at least 5 feet above the water table to the bottoms of the wells.
+-13 -
+
+Table 2. Chemical analyses of ground water
+[diss., dissolved; ug/L, micrograms per liter; uS/cm, microsiemens per centimeter U.S. Environmental Protection Agency; org., organic; <0.1, less
+Date of collection: Month, day, and year of collection of sample. Well numbers are listed without Falmouth town designation (FSW). U.S. Environmental Protection Agency maximum level for drinking water from the U.S.
+
+Constituent or property
+Specific conductance (yS/cm)
+pH - field value pH - laboratory value Chemical oxygen demand
+(high level - mg/L) Nitrogen, total (mg/L) Ammonia, diss. (mg/L as N) Nitrite, diss. (mg/L as N) Nitrate, total (mg/L as N) Ammonia + org. nitrogen,
+diss. (mg/L as N) Ammonia + org. nitrogen,
+total (mg/L as N) Nitrite + nitrate,
+diss. (mg/L as N) Nitrite + nitrate,
+total (mg/L as N) Phosphorus, diss. (mg/L) Carbon, total org. (mg/L) Carbon, diss. org. (mg/L) Hardness (mg/L as CaCO 3) Hardness, noncarbonate
+(mg/L as CaCO 3) Alkalinity (mg/L as
+CaCO 3) Calcium, diss. (mg/L) Magnesium, diss. (mg/L) Sodium, diss. (mg/L) Potassium, diss. (mg/L)
+
+Well number and
+
+208 210 312
+
+313 335 335
+
+4-20-83 4-21-83 12-18-80 4-20-83 6-7-82 4-19-83
+
+2250 6.7 6.7
+130
+
+340 5.6 5.7
+42
+
+2500 7.1
+
+2750 6.6
+
+-
+
+52 <.01
+
+3.6 <.01
+
+18 <.01
+
+61 3.5
+
+23
+
+_____
+
+<.l 1.2
+
+.05 <.l
+
+.02
+38 590
+860 170
+39 79 60
+
+<.01
+6.4 63
+25
+38 13 7.4 33 4.6
+
+.01 37
+540
+770 140 46 130 85
+
+.21 _
+-
+
+79 -
+2.3 .2
+2.1 .2 _
+-
+
+68 6.7 5.8 -
+.12 <.01
+.2
+<.l
+.02 _
+9 .99 8.0 2.0 1 7.3 .6
+
+-14-
+
+from wells in vicinity of the Falmouth landfill
+at 25°C; mg/L, milligrams per liter; N A, no maximum has been set by the than 0.1; , sample not analyzed for constituent or property.]
+
+Environmental Protection Agency, 1983, p. 233, 293.
+
+U.S. Environ-
+
+date of collection of sample
+
+mental Protec-
+
+____________________________________ tion Agency
+
+maximum level
+
+336 337 338
+
+339 339 340
+
+242 for drinking
+
+6-2-82 6-7-82 6-1-82 7-23-82 4-19-83 8-4-82 3-19-84 water
+
+60 82 59 615 680 205 6.2
+__
+
+51 5.4
+r /» O.D
+
+2.5 .9 1.4 .47
+
+.21 .40
+
+_ ofi»\oj ^^..1JLnU
+
+<.01 <.06
+
+.1 .2 .1 .17 - .11 .11
+
+3.2 .5
+
+2.4 .7 1.3 .3 - .1 -
+
+<.l .2 <.l .17
+
+.11
+
+- - - .08
+
+.04
+
+------
+__ __
+
+1.0
+-i n 1..6
+5.5
+
+NA NA NA
+NA NA NA NA
+10
+NA
+NA
+NA
+NA NA NA NA NA
+NA
+NA NA NA NA NA
+
+-15-
+
+Table 2. Chemical analyses of ground water from wells
+
+Constituent or property
+Chloride, diss. (mg/L) Sulfate, diss. (mg/L) Fluoride, diss. (mg/L) Silica, diss. (mg/L) Arsenic, diss. ( yg/L) Barium, diss. ( yg/L) Beryllium, diss. ( yg/L) Cadmium, diss. (yg/L) Chromium, diss. ( yg/L) Cobalt, diss. ( yg/L) Copper, diss. (yg/L) Iron, total (yg/L) Iron, diss. ( yg/L) Lead, diss. ( yg/L) Manganese, diss. (yg/L) Molybdenum, diss. ( yg/L) Nickel, diss. ( yg/L) Silver, diss. ( yg/L) Strontium, diss. ( yg/L) Vanadium, diss. ( yg/L) Zinc, diss. ( yg/L) Aluminum, diss. ( yg/L) Lithium, diss. ( yg/L) Selenium, diss. ( yg/L) Mercury, diss. ( yg/L) Toluene, total ( yg/L) Benzene, total (yg/L) Chlorobenzene, total
+( yg/L)
+Ethylbenzene, total (yg/L) 1,1-dichloroethane,
+total (yg/L) Solids, diss., residue
+at 18QOC (mg/L)
+
+Well number and
+
+208 210 312
+
+313 335 335
+
+4-20-83 4-21-83 12-18-80 4-20-83 6-7-82 4-19-83
+
+97 6.2 .1 13 19 290 1 6 1 9 1 -
+80 8
+4500 1 6
+<1
+750 1.3 3
+<100 4
+<1
+.5 8 6
+
+40 180
+
+-
+
+8.3 2.7
+
+<.l .1 -
+
+14 12
+
+-
+
+11-
+
+110 <1.0 <1 <1
+
+--
+
+5i __
+
+__
+
+20 20
+
+-
+
+4 __
+
+4300 <1
+0
+<1
+110 .3
+40 <10
+<4 <1
+.2 <1.0 <1.0
+
+1400 -
+__
+-
+<1 .2 -
+
+__
+-
+-
+
+-
+_
+3000 _ -
+_ _.
+
+y.o
+5.5 <.l 13
+_
+2700
+__ 17
+_ _ __ -_
+
+69 4 <1.0
+
+- - __
+
+8 <1.0
+
+983 235
+
+-16-
+
+can be expected to oxidize to the insoluble oxide form. The presence of halogenated hydrocarbons may be due to their use in some septic system cleaners (U.S. Environmental Protection Agency, 1981, appendix B).
+Estimation of Maximum Impact of Landfill on Long Pond
+Although the available data are insufficient to determine whether leachate is entering Long Pond, an estimate of the worst possible impact of the landfill on Long Pond can be calculated. This section includes such a calculation, based on an assumption of steady-state conditions for Long Pond.
+It is assumed for the purposes of this estimate that Long Pond is in a state of equilibrium, or steady state, in which the volume of the pond remains constant over a period of years. While the pond level may rise in a wet year due to abnormally high recharge or drop in a dry year because evapotranspiration and pumping exceed recharge, over the long term the pond level, and therefore the pond volume, remains effectively constant. For the volume to remain constant, the total volume of water entering the pond has to be equal to the total volume of water leaving the pond. Pumping of the pond lowers the water-table level in the vicinity of the pond, creating a ground-water depression. Ground water on all sides of the pond flows toward the pond, and discharge of water from Long Pond to the aquifer does not take place. The volume of water leaving the pond is, therefore, comprised of pumpage for public water supply and evaporation from the pond surface. The volume of water entering the pond consists of ground-water recharge and precipitation onto the pond surface. With inflow equal to outflow:
+L+R+P=O+E
+where
+L = annual recharge to Long Pond from the landfill, in liters; R = annual recharge to Long Pond from the remainder of the recharge area,
+in liters;
+P = annual precipitation onto the surface of Long Pond, in liters;
+O = volume of water pumped annually for public water supply, in liters; and
+E = annual evaporation from the surface of Long Pond, in liters.
+The average rate of withdrawal from Long Pond by pumping is 2.44 million gallons per day (Richard Witt, Town of Falmouth Department of Public Works, written commun., 1984). Using this figure, O has a value of 3.37 x 10 9 liters. P and E equal the annual precipitation and the annual evaporation, respectively, multiplied by the area of Long Pond, which is determined by planimetry. The average annual precipitation between 1951 and 1980 in Hatchville, a section of northern Falmouth, was 46 inches (National Oceanic and Atmospheric Administration, 1984, p. 9). Mean annual pan evaporation in Rochester, a town in southeastern Massachusetts, is 29 inches (Farnsworth and Thompson, 1982, p. 35). The values calculated from these figures are 6.45 x 10 8 liters for P and 4.07 x 10 8 liters for E. A range of 17.3 to 18.4 inches of annual recharge has been determined for Truro, on the outer Cape, using the Thornthwaite method (Jayne Fifield Knott, U.S. Geological Survey, 1983, written commun.), so a value of 18 inches of annual recharge was used in this calculation. Using a value of 18 inches for recharge and a landfill area of 3.86 x 10 8 square inches (from planimetry), recharge at the landfill is calculated to be 1.14 x 10 8 liters. In order to represent the worst case for impact of the landfill on Long Pond, all the recharge to the aquifer at the landfill is assumed to discharge into Long Pond; therefore, this figure is used as the value of L. Solution of the above equation gives a value of 3.02 x 10 9 liters for R.
+-21 -
+
+With values of the amounts of recharge to Long Pond from the various sources and values for the concentrations of a conservative (nonreactive) contaminant in each of the sources, the concentration of that contaminant in Long Pond can be estimated using the mass-balance equation:
+CjL + CrR + CpP = C 0O + C eE
+where
+Ci - concentration of the contaminant in recharge from the landfill, in milligrams per liter;
+Cr = concentration of the contaminant in recharge from the remainder of the recharge area, in milligrams per liter;
+Cp = concentration of the contaminant in the precipitation onto the surface of Long Pond, in milligrams per liter;
+C0 = concentration of the contaminant in the water pumped from Long Pond for public supply, in milligrams per liter; and
+C e = concentration of the contaminant in the water evaporated from the surface of Long Pond, in milligrams per liter.
+If the values of all the concentrations except Co are known, solution for C o will show the extent to which recharge to Long Pond from the landfill site is diluted by precipitation and recharge from the remainder of the recharge area. Chloride is used here as an example of a contaminant because it is a conservative ion, one which tends to remain in solution and does not react chemically with aquifer materials. The highest chloride concentration found at the landfill was 180 mg/L (milligrams per liter) at FSW 312 (table 2). This concentration will be used here as the value for C\. The concentration of 3.66 mg/L found in FSW 242 is uncommonly low for Cape Cod. The median chloride concentration of 202 ground-water samples collected throughout Cape Cod by Frimpter and Gay (1979, p. 4) was 19 mg/L, while the lowest chloride concentration of these samples was 5.8 mg/L. Well FSW 335, one of a multi-level group of wells located to the east of the leachate path, had a chloride concentration of 9.3 mg/L, and 9 mg/L will be used here as the value of Cr. Analyses from 33 storms at a precipitation station in North Truro between September 17, 1983, and July 27, 1984, show a median chloride concentration of 3.0 mg/L (unpublished data on file in the Massachusetts Office); therefore, this concentration was used as the value of Cp. The value of C e is assumed to be zero.
+If it is assumed that all the recharge to the aquifer at the landfill flows into Long Pond, then solving the above equation, C o has a value of 14.7 mg/L. Because the direction of flow indicates that a small fraction of the recharge from the landfill actually goes into Long Pond (figs. 4 and 5), the equation can be solved again using a smaller value for L. If a smaller value of L is used, the value of R has to be increased by the same amount that is subtracted from L, so that inflow to and outflow from Long Pond remain equal. If half of the recharge from the landfill is assumed to enter Long Pond, the value of Co is 11.8 mg/L. More realistic values of 25 percent, 10 percent, 5 percent, and 1 percent for the portion of landfill recharge entering Long Pond result in values of 10.4, 9.5, 9.2, and 9.0 mg/L, respectively, for C o. A sample of water from Long Pond collected on August 23, 1984, contained a concentration of 11 mg/L of chloride (Richard Witt, Town of Falmouth Department of Public Works, written commun., 1984).
+The water quality of Long Pond is not likely to be significantly degraded by influx of landfill leachate. The estimate of the maximum impact of the landfill upon the water quality of Long Pond indicates that if the entire volume of leachate entered the pond, the chloride concentration would increase to 5.7 mg/L more than the background concentration. Because only a fraction of the leachate is likely to enter the pond, the actual
+-22-
+
+Well number
+FSW 317
+FSW 318 FSW 319 FSW 320 FSW 321 FSW 335
+FSW 336 FSW 337 FSW 338 FSW 339
+FSW 340
+P-8 P-10
+FSW 1362 FSW 1574 FSW 1575 FSW 1577 FSW 1578 FSW 1846 FSW 1918 FSW 2129 FSW 2130 FSW 2131 FSW 2132 FSW 2133 FSW 2134
+
+Table 4. Specific conductance of ground-water samples from wells in vicinity of the Falmouth landfill (continued)
+
+Date of collec-
+tion
+
+Specific conduct-
+ance
+
+Depth
+of well
+
+Altitude of land surface
+
+Top of
+sampling interval
+
+Bottom of sampling interval
+
+U.S. Geological Survey samples
+
+10- -80 1-27-81 3-12-81 3-12-81 3-12-81 3-12-81 6- 7-82 4-19-83 6- 2-82 6- 7-82
+6- 1-82 7-23-82 4-19-83 8- 4-82
+
+89 11 31.03 70
+148 117.5 118.6
+61 140 114.6 60 65 71.0
+77 127 117.9
+79 187 75 68
+60 N A 75 82 N A 75 59 N A 75 615 124 48 680
+205 215 90
+
+NA
+NA NA NA NA 178
+158 110
+80 89
+130
+
+Camp Dresser & McKee Inc. samples
+
+N D 60 170 72 ND 95 175 104
+
+110 85
+
+Barnstable County Health Department samples
+
+8- 5-81 3- 3-82 3- 3-82 3- 3-82 3- 3-82 6-28-82 8-30-82 6-14-82 8-10-82 6- 6-82 6-14-82 5-19-82 5- 4-82 6- 7-82
+
+70 141 125 70 N A 75 66 N A 65 70 N A 75 350 N A 85 82 70 80 220 74 90 59 N A 90 62 N A 135 86 70 130 65 77 115 115 90 75 66 80 80 80
+
+NA NA NA NA NA NA NA NA NA NA NA NA NA
+
+11
+117.5 140 65 127 NA
+NA NA NA 104
+160
+170 175
+NA NA NA NA NA NA NA NA NA NA NA NA NA
+
+-19-
+
+Elevated values of specific conductance were observed at the landfill site; the highest value, 2900 microsiemens per centimeter, was observed at well FSW 312. Wells FSW 339 and 340, south-southwest of the landfill, had conductances much higher than the background level, but high conductances were not found in the multilevel group of wells FSW 335-338 (multilevel wells are wells of different depths located at the same site). Well FSW 2133, located between FSW 339 and 340, had a conductance higher than the background level, but nearby well FSW 1577 did not. To the south of the landfill, wells FSW 1578 and 1918 had high conductances, but FSW 2129 had a very low conductance. Well P-10, southwest of the landfill, had a conductance slightly higher than the background level.
+Although specific conductance measurements in the study area do indicate the presence of leachate in the ground water near the landfill, certain instances of elevated specific conductance are not necessarily due to the presence of leachate. Salt applied to roads in the winter is an important cause of elevated specific conductances throughout Cape Cod, and is likely to be responsible, within the study area, for elevated conductances in wells that do not extend far below the water table. The elevated conductance in well FSW 318 is probably due to road salt, and the same cause might be responsible for the elevated conductances in wells FSW 1578 and 1918.
+Water-quality analyses and specific-conductance measurements indicate the presence of leachate in the ground water below the landfill and in wells FSW 339 and 340, to the south-southwest of the landfill. The conductances in wells FSW 339 and 340 are much higher than that in well FSW 2133, which is between the other two wells, and those in wells FSW 314 and 315, which are next to well FSW 339. Because wells FSW 339 and 340 are much deeper than wells FSW 314, 315, and 2133, it seems that the leachate is sinking in the water column. The deep wells FSW 335 and 336, located to the southeast of well FSW 340, do not show the presence of leachate. Between the landfill and well FSW 340, the leachate seems to become significantly more dilute. The lower concentrations observed in this area may be because the wells observed are to the east of the center of the plume, because the center of the plume is at a different depth than those at which water quality was sampled, because of dispersion or attenuation of the leachate constituents, or because of any combination of these effects. Attenuation would be due to chemical reactions within the aquifer, such as adsorption of leachate constituents onto sediment particles or precipitation of metals which had been mobilized in or beneath the landfill by a reducing environment. The precise location of the boundaries and center of the leachate plume cannot be determined from the existing data, nor can the existence of the plume be verified downgradient of well FSW 340.
+Because waste is continually being added to the landfill, there is likely to be some leachate along most of the path between the landfill and Buzzards Bay. The difference between figures 4 and 5 illustrates that the lowering of the pond level can cause marked variation in the direction of flow from the landfill. Such pronounced variation over a long period could produce lateral spreading of a plume. This effect would result not only in a more rapid dilution of the contaminated ground water, but also in degradation of water quality throughout a greater total volume of the aquifer. The presence of elevated specific conductances in wells along such different flow paths from the landfill as P-10 and FSW 1578 and 1918 might point to such an effect.
+The elevated levels of ammonia in the leachate come from septage disposal and production by nitrogen-reducing bacteria in a reducing environment. As the leachate is transported downgradient in the saturated zone and mixing occurs, an oxidizing environment again develops and the ammonia is gradually converted to nitrate by nitrogenoxidizing bacteria (LeBlanc, 1982, p. 24). The low oxidation potential of the leachate permits the release of large amounts of manganese from the refuse and from compounds coating sediment grains in the unsaturated zone (Baedecker and Back, 1979, p. 432-433; Tirsch and Jennings, 1978, p. 62). With the return to oxidizing conditions, the manganese
+-20 -
+
+in vicinity of the Falmouth landfill (continued)
+
+date of collection of sample
+
+336 337 338
+
+339 339 340
+
+6-2-82 6-7-82 6-1-82 7-23-82 4-19-83 8-4-82
+
+U.S. Environ-
+mental Protection Agency
+maximum level 242 for drinking 3-19-84 water
+
+510 1300 5300 310
+
+3.7 5.6
+-1 «
+
+- 2000
+
+^^w 1J.nU
+
+11 <6 11
+
+250 250 NA NA 50 1000 NA 10 50 NA 1000 300 300 50 50 NA NA 50 NA NA 5000 NA NA 10
+2.0 NA NA
+
+NA NA
+
+NA
+
+500
+
+-17-
+
+Table 3. Organic chemicals analyzed in samples from wells FSW 208 and 210
+
+Benzene Bromoform Carbon tetrachloride Chlorobenzene Chlorodibromomethane Chloroethane 1,1,2 -Chloroethane 2-Chloroethyl vinyl ether Chloroform
+
+Dichlorobromomethane Dichlorodifluoromethane 1.1-Dichloroethane 1.2-Dichloroethane 1,1-Dichloroethylene 1 ,2 -trans-D ichloroe thy lene 1.2-Dichloropropane 1.3-Dichloropropane Ethylbenzene
+
+Methyl bromide Methylene chloride 1,1,2,2-Tetrachloroethane Tetrachloroethylene Toluene 1,1,1-Trichloroethane Trichloroethylene Trichlorofluoromethane Vinyl chloride
+
+Table 4. Specific conductance of ground-water samples from wells in vicinity of the Falmouth landfill
+Date of collection, in month, day, and year of collection of sample. Specific conductance, in microsiemens per centimeter at 25°C. Depth of well, top and bottom of sampling interval, in feet below land-surface datum, Altitude of land surface, in feet above mean sea level. N A, depth not available from well records. N D, no date (specific conductance is mean of unspecified number of analyses).
+
+Well number
+
+Date of collec-
+tion
+
+Specific Depth
+conduct- of ance well
+
+Altitude of land surface
+
+Top of Bottom of
+sampling sampling interval interval
+
+FSW 199 FSW 208
+FSW 209
+FSW 210 FSW 311 FSW 312
+FSW 313 FSW 314 FSW 315 FSW 316
+
+1-27-81
+10- -80 1-27-81 4-20-83
+10- -80 1-27-81 4-20-83
+10- -80 4-21-83
+10- -80 4-20-83
+10- -80 12-18-80 4-20-83
+10- -80 4-20-83
+1-27-81
+10- -80
+10- -80
+
+U.S. Geological Survey samples
+60 57 50
+1600 15 28.56 1440 2250
+1600 21 30.26 2100 1860
+720 19 30.5 340
+1800 14 28.5 250
+2800 21 28.5 2500 2900
+2500 40 28.5 2750
+115 63 40.72
+145 43 40.75
+60 21 29.80
+
+47 NA
+NA
+NA NA NA
+NA NA NA NA
+
+57 15
+21
+19 14 21
+40 63 43 21
+
+-18-
+
+increase is much less. Most constituents of leachate are nonconservative, and their concentrations will be greatly reduced by reaction, adsorption, and precipitation before the leachate approaches Long Pond. The pumping station at Long Pond is at the extreme far end of the pond from the area where recharge from the landfill site is likely to enter the pond; therefore, complete mixing and dilution of the recharge will occur before it can be pumped.
+SUMMARY
+Water-table-contour maps indicate that the general direction of ground-water flow from the Falmouth landfill is southwest toward Buzzards Bay, but extreme lowering of the water table near Long Pond by pumping for public water supply can divert the direction of flow southward so that some amount of recharge from the landfill site enters the western end of the pond. A ground-water mound created by the operation of a proposed wastewater treatment and disposal facility to the west-southwest of the landfill would be likely to facilitate the deflection of recharge from the landfill site toward Long Pond.
+The ground water beneath the landfill contains levels of specific conductance, alkalinity, hardness, ammonia, manganese, calcium, potassium, barium, chloride, sodium, magnesium, iron, strontium, cadmium, and arsenic that are significantly higher than the local background levels. Manganese and total dissolved solids levels exceed the U.S. Environmental Protection Agency water-quality criteria for domestic water supply. The organic chemicals toluene, benzene, chlorobenzene, ethylbenzene, and 1,1-dichloroethane have been detected in ground water beneath the landfill. Water-quality analyses and field specific-conductance measurements indicate the presence of a volume of leachate extending south-southwest from the landfill. The presence of the plume cannot be verified downgradient of well FSW 340 from existing data, nor can the boundaries or center of the plume be located with precision.
+Estimation of the maximum impact of the landfill upon the water quality of Long Pond with inflow-outflow mass-balance equations indicates that entry of the entire volume of the leachate into Long Pond, with chloride concentrations of 180 mg/L in the leachate, 3 mg/L in precipitation onto the pond surface, and 9 mg/L in recharge from the remainder of the recharge area, would result in a chloride concentration of 14.7 mg/L in Long Pond. Only a small fraction of the landfill leachate is liable to enter the pond, and at this distance from the landfill, the leachate is likely to be dilute. No significant degradation of the quality of water in Long Pond is expected.
+The extent to which leachate from the landfill is entering Long Pond cannot be determined from existing data, and may depend greatly on the depth to which the plume has sunk in the vicinity of the pond. The lowest spot on the lake bottom is at an altitude of 66 feet below sea level, whereas the leachate seems to have already sunk to an altitude of approximately 75 feet below sea level at well FSW 339.
+REFERENCES CITED
+Baedecker, M. J., and Back, William, 1979, Hydrogeological processes and chemical reactions at a landfill: Ground water, v. 17, no. 5, p. 429-437.
+Camp Dresser & McKee Inc., 1982, Town of Falmouth, Massachusetts: Phase I groundwater report: Boston, 67 p.
+___1983, Town of Falmouth, Massachusetts: Phase II groundwater report: Boston, 46 p.
+-23 -
+
+Farnsworth, R. K., and Thompson, E. S., 1982, Mean monthly, seasonal, and annual pan evaporation for the United States: Washington, B.C., National Oceanic and Atmospheric Administration National Weather Service, NOAA Technical Report NWS 34, 82 p.
+Frimpter, M. H., 1980, Probable high ground-water levels on Cape Cod, Massachusetts: U.S. Geological Survey Water-Resources Investigations Report 80-1008, 20 p.
+Frimpter, M. H., and Fisher, M. N., 1983, Estimating highest ground-water levels for construction and land use planning a Cape Cod, Massachusetts, example: U.S. Geological Survey Water-Resources Investigations Report 83-4112, 23 p.
+Frimpter, M. H., and Gay, F. B., 1979, Chemical quality of ground water on Cape Cod, Massachusetts: U.S. Geological Survey Water-Resources Investigations Report 7965, 11 p.
+Kimmel, G. E., and Braids, O. C., 1980, Leachate plumes in ground water from Babylon and Islip landfills, Long Island, New York: U.S. Geological Survey Professional Paper 1085, 38 p.
+LeBlanc, D. R., 1982, Sewage plume in a sand and gravel aquifer, Cape Cod, Massachusetts: U.S. Geological Survey Open-File Report 82-274, 35 p.
+National Oceanic and Atmospheric Administration, National Climatic Data Center, 1984, Climatological data, annual summary, New England, 1983: Asheville, North Carolina, v. 95, no. 13, 40 p.
+Oldale, R. N., 1969, Seismic investigations on Cape Cod, Martha's Vineyard, and Nantucket, Massachusetts, and a topographic map of the basement surface from Cape Cod Bay to the Islands: U.S. Geological Survey Professional Paper 650-B, p. B122B127.
+___1981, Pleistocene stratigraphy of Nantucket, Martha's Vineyard, the Elizabeth Islands, and Cape Cod, Massachusetts, in Larson, G. J., and Stone, B. D., eds., Late Wisconsinan glaciation of New England: Kendall/Hunt, Dubuque, Iowa, p. 1-34.
+Tirsch, F. S., and Jennings, A. A., 1978, Leachate reactions with soils under anaerobic conditions: University of Massachusetts, Department of Civil Engineering Report No. Env. E. 60-78-3, 104 p.
+U.S. Environmental Protection Agency, 1977, Procedures manual for ground water monitoring at solid waste disposal facilities: U.S. Environmental Protection Agency, Office of Solid Waste, EPA/530/SW-611, 269 p.
+___1981, Wastewater collection and treatment facilities, Falmouth, Massachusetts: Environmental Impact Statement, Appendix B.
+___1983, Water programs: Code of Federal Regulations, Title 40 (Protection of Environment), Parts 100 to 149, 399 p.
+U.S. Geological Survey, 1981, Current water resources conditions in central New England: U.S. Geological Survey, September 1981, 4 p.
+-24-
+
+

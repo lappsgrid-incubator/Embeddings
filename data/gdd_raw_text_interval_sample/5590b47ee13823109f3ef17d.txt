@@ -1,0 +1,1143 @@
+PRELIMINARY ANALYSIS OF THE SHALLOW GROUND-WATER SYSTEM IN THE VICINITY OF THE GRAND CALUMET RIVER/INDIANA HARBOR CANAL, NORTHWESTERN INDIANA By Lee R. Watson, Robert J. Shedlock, Konrad J. Banaszak, Leslie D. Arihood, and Paul K. Doss U.S. GEOLOGICAL SURVEY Open-File Report 88-492
+Prepared in cooperation with the U.S. ENVIRONMENTAL PROTECTION AGENCY
+Indianapolis, Indiana 1989
+
+DEPARTMENT OF THE INTERIOR DONALD PAUL HODEL, Secretary
+U.S. GEOLOGICAL SURVEY Dallas L. Peck, Director
+
+For additional information write to:
+District Chief U.S. Geological Survey 5957 Lakeside Boulevard Indianapolis, IN 46278-1996
+
+Copies of this report can be purchased from:
+U.S. Geological Survey Books and Open-File Reports Box 25425, Federal Center, Bldg. 810 Denver, CO 80225-0425
+
+CONTENTS
+
+Page
+
+Abstract........... ...
+
+Introduction.......................... ...
+
+Purpose and scope...................................... ..
+
+Physical setting.....................................................
+
+Acknowledgments............. ..
+
+.
+
+Methods..................................................................
+
+Compilation of existing data.........................................
+
+Field methods........................................................
+
+Model construction...................................................
+
+Simulation of ground-water flow......................................
+
+Preliminary analysis of the shallow ground-water system..................
+
+Physical characteristics.............................................
+
+Ground-water flow system.............................................
+
+Simulations of ground-water flow.....................................
+
+Summary and conclusions ..................................................
+
+References cited.........................................................
+
+1 2 8 8 12 12 12 13 16 16 18 18 30 35 42 44
+
+FIGURES
+Figure 1-4. Maps showing: 1. Study area and locations of hazardous-waste sites.......... 2. Surficial geology of the study area........................ 3. Major land use in the study area........................... 4. Data-collection network in the study area..................
+5. Conceptual geologic section and digital-model grid, based on hydrogeologic section C-C T .................................
+6-7. Maps showing: 6. Configuration and altitude of bedrock surface.............. 7. Configuration and altitude of base of the Calumet aquifer..
+8. Map showing saturated thickness of the Calumet aquifer, March 31 through April 4, 1986.............................
+9-12. Hydrogeologic sections: 9. A-A'....................................................... 10. B-B f ....................................................... 11. C-C f ....................................................... 12. D-D f .......................................................
+13. Map showing configuration and altitude of water-table in the Calumet aquifer, March 31 through April 4, 1986............
+14. Generalized geologic section showing typical well placement.. 15. Conceptual geologic section showing the first conceptual-
+model-simulated flow system with two surface drains........ 16. Conceptual geologic section showing the second conceptual-
+model-simulated flow system with eight drain nodes......... 17. Conceptual geologic section showing simulated flow system
+with eight drain nodes and downward leakage to bedrock.....
+TABLE
+Table 1. List of simulations and significant hydraulic parameters.......
+
+4 6 10 14
+17
+20 22
+24
+26 27 28 29
+32 34
+38
+40
+41
+36
+
+-iii-
+
+CONVERSION FACTORS AND ABBREVIATIONS
+
+Inch-pound units in this report may be converted to metric (International System) units by using the following conversion factors:
+
+Multiply inch-pound unit
+
+By To obtain metric unit
+
+foot foot per day inch mile
+
+0.3048 0.3048 25.4 1.609
+
+meter meter per day millimeter kilometer
+
+Sea level: In this report "sea level" refers to the National Geodetic Vertical Datum of 1929 (NGVD of 1929) a geodetic datum derived from a general adjustment of the first-order level nets of the United States and Canada, formerly called "Sea Level Datum of 1929."
+
+-iv-
+
+PRELIMINARY ANALYSIS OF THE SHALLOW GROUND-WATER SYSTEM IN THE VICINITY OF THE
+GRAND CALUMET RIVER/INDIANA HARBOR CANAL, NORTHWESTERN INDIANA
+By Lee R. Watson, Robert J. Shedlock, Konrad J. Banaszak,
+Leslie D. Arihood, and Paul K. Doss
+ABSTRACT
+The shallow ground-water system in the vicinity of the Grand Calumet River/Indiana Harbor Canal and the surrounding area was analyzed from June 1985 through May 1986. This analysis was the preliminary phase of a study, the main objective of which was to assess the potential for ground-water contaminants to migrate to Lake 'Michigan or to the Grand Calumet River/Indiana Harbor Canal. This preliminary analysis was done to obtain more detailed information about the physical characteristics and thickness of the Calumet aquifer and the shallow flow regime in that aquifer and to select the best sites for ground-water-quality monitoring.
+During this preliminary analysis, 36 shallow wells were installed, 19 continuous sediment cores ranging from 4 to 18 feet long were collected, and 7 test holes were drilled to the bottom of the surficial aquifer. In addition to water-level measurements made in the 36 shallow wells, measurements also were made in 9 privately-owned wells. These measurements and other available data indicate that the surficial aquifer consists of fine- to medium-grained sand, which is locally overlain by slag fill. Total aquifer thickness ranges from 0 to 65 feet. This aquifer is underlain by a mantle of till and lacustrine clay about 100 feet thick that overlies carbonate bedrock of Silurian age.
+Based on measurements in these 45 shallow wells, broad water-table mounds of low relief underlie the area between Lake Michigan and the Grand Calumet River/Indiana Harbor Canal and between the Grand Calumet River/Indiana Harbor Canal and the Little Calumet River to the south. The crests of these mounds form major water-table divides that trend east-west in the study area. Northwest of the Indiana Harbor Canal, a narrow water-table ridge extends along the Lake Michigan shoreline and connects to a somewhat circular, mound northwest of the Indiana Harbor Canal.
+The direction of flow generally is from these water-table mounds to the major streams or to Lake Michigan. Ground water locally discharges to small ditches, wetlands, and sewer lines. Ground water discharges directly to Lake Michigan north of the first water-table divide that is inland from the lake.
+Stream/aquifer relations along the Grand Calumet River/Indiana Harbor Canal also were examined. Water-table fluctuations near the stream banks are complex and need to be monitored further.
+-1-
+
+Digital-model simulations of a north-south geologic section through the middle of the study area indicate that discharge of water to small ditches and leaky sewer lines has lowered the water table by several feet from predevelopinent levels. Simulated drains create fully penetrating local flow systems in the Calumet aquifer. The digital-model simulations also indicate that downward leakage to the bedrock through the intervening till layer could contribute to the decline in the water table.
+INTRODUCTION
+The southern shoreline of Lake Michigan, in northwestern Indiana, is one of the major urban and industrial centers in the Great Lakes region and includes the cities of East Chicago, Gary, Hammond, and Whiting, in Lake County, Indiana (fig. 1). The heavy industry in the area includes several large steel mills, a major petrochemical plant, several large petroleum-tank farms, several forging and foundry plants, several food and paper industries, and a coalfired electric-generating plant.
+The study area is entirely within the physiographic province known as the Calumet Lacustrine Plain (Schneider, 1966) which extends from the shoreline of Lake Michigan to the Valparaiso moraine 11 miles south of Lake Michigan. Several distinct dune-beach complexes were formed in this province during the Pleistocene and Holocene Epochs (Leverett and Taylor, 1915; Bretz, 1951; Hansel and others, 1985) when levels of ancestral Lake Michigan were higher than levels of modern Lake Michigan. ,The dune, beach, and lacustrine silts, sands, and gravels (fig. 2) that were deposited formed a thin (saturated thickness less than 50 feet) but extensive surficial aquifer in this area (Rosenshein and Hunn, 1968) known as the Calumet aquifer (Hartke and others, 1975). This aquifer is not a major source of water supply in the study area because all the municipalities obtain their water from Lake Michigan. However, a few thousand domestic wells for older homes that are outside municipal corporation limits and outside the study area probably penetrate the Calumet aquifer.
+Although its use as a water supply is limited, the water quality of the Calumet aquifer is of great concern to the U.S. Environmental Protection Agency and the International Joint Commission on the Great Lakes because of the great contamination potential of the aquifer (Hartke and others, 1975) and because of the potential discharge of ground-water contaminants to Lake Michigan. More than 80 sites in the vicinity of this study area are on the Emergency Remedial Response Inventory Site (ERRIS) list and 4 waste-disposal sites are on the National Priority List (NPL) (fig. 1) (Dean Nygard, Indiana Department of Environmental Management, written commun., 1986). Most of the heavy industry, three of the NPL sites, and most of the ERRIS sites are in the vicinity of the Grand Calumet River/Indiana Harbor Canal (GCR/IHC) drainage system (fig. 1), which discharges into Lake Michigan.
+-2-
+
+Discharge of contaminants from the Calumet aquifer into the GCR/IHC also is of concern. Recent field studies of the water quality of the streams have indicated that the chemical loads cannot be explained completely by the known industrial and municipal,discharges to the streams (HydroQual, 1984; Crawford and Wangsness, 1987). However, no studies of sufficient detail about the shallow flow system in the Calumet aquifer have been conducted to determine the potential for discharge of contaminants into the GCR/IHC.
+-3-
+
+87°32'30
+41°42'30"|
+37'30"|
+Base from U.S. Geological Survey 1:24,000 quadrangles
+Figure 1. Study area and locations of hazardous-waste sites. .4.
+
+41°42 f30"
+
+EXPLANATION Emergency Remedial Response Inventory Site hazardous-waste site o National Priority List hazardous-waste sites
+Study area.
+
+40' 87°22 f 30"
+
+23 20'
+
+5 KILOMETERS 17'30"
+
+5 MILES 87°15'
+
+37 f 30 f
+
+Gary
+
+41°35'
+ew ; j Chicago.^
+
+41°42'30
+
+87°32 t30 >
+
+'ri'l
+
+I I I III
+'I'l'l'l'l'l,1,1,1,1,1 , ll.v'->-
+
+'ill II
+I I I I
+
+I I I I
+
+I
+I I I I I I
+
+I I I I I I
+
+I
+I I I I I I
+
+I I I I I I
+
+I
+I I I I I I
+
+I I I I I I
+
+IlIIIII 'IIIIIIlIIIIII
+
+I I I I I
+
+I I
+
+30'
+
+27'30"
+
+87°25'
+
+37'30"
+41°35'
+Base from U.S. Geological Survey 1:24,000 quadrangles
+Figure 2. Surficial geology of the study area. -6-
+
+41P 42'30' 40'
+
+EXPLANATION .Lake-fill land (slag) Modified land (slag) Muck, peat or silt over sand and gravel *£ :£ Silt, sand, or gravel; dune, beach, or lacustrine (Calumet Aquifer) Lacustrine clay ^BO'£ Glacial till Line of section Geologic contact
+
+87°22'30"
+
+23 20'
+
+5 KILOMETERS 17'30"
+
+5 MILES 87°15'
+
+^?.v^^.;o:,**--*-'»^^---^i-*-'.'J- '-^'t'' --'^I^^A
+rj**"**4«it 1-.'< VT'- ' *-. -Vi* --*"/ .*_->"iC>1-_?W~Tr^
+
+37'30
+
+41°35'
+*\-f///'S//'SS/'//////S////S//Str/////////*///////
+Geology modified from Schneider and Keller -7-
+
+Purpose and Scope
+The purpose of this report is to present methods used in and results from a preliminary analysis of the shallow flow system of the Calumet aquifer in the vicinity of the GCR/IHC and surrounding area. The results of this analysis will be used to select ground-water-quality monitoring sites in a subsequent study to determine the potential for ground-water contaminants to migrate directly to Lake Michigan or to the GCR/IHC.
+This analysis was based on previously published and unpublished data, which have been supplemented by data from a network of sediment cores, test holes, and water-table wells that were installed in the summer and fall of 1985. Maps of the altitude of the base of the aquifer, saturated thickness of the aquifer, and the water-table altitude and hydrogeologic sections that are roughly perpendicular to the Grand Calumet River have been included. Flow patterns along hydrogeologic section designated C-C f were simulated using a finite-difference digital model.
+Physical Setting
+The study area is in the northern one-quarter of Lake County, which is the northwesternmost county in Indiana, and is situated at the southern end of Lake Michigan (fig. 1). The study area originally was covered by sand dunes and by linear ridges of sand that were remnants of past shorelines and high levels of Lake Michigan (Schneider, 1966). The long, narrow lowlands between the sand ridges were wetlands or ponds, a result of the poor drainage from the sluggish Grand Calumet River and Little Calumet River (Moore and Trusty, 1977).
+Late in the 19th century, as industrial land in Chicago was developed, the nearby lakeshore lands in Indiana also became desirable areas for development. Construction of petroleum refineries and steel mills was started, and development of one of the most intensely industrialized regions in the world began. This development required draining of wetland areas and leveling many of the sand dunes and beach ridges. Ditches were dug, and excess sand from the dunes and slag from the steel-making process were used to fill in the wetlands (Moore and Trusty, 1977).
+The Indiana Harbor Canal was constructed during 1901-06, and Gary Harbor was constructed in 1906. Locally, the course of the Grand Calumet River was changed during this construction and later was changed during the construction of major highways. In the vicinity of U.S. Steel f s Gary Harbor (fig. 1), the river channel was moved south about 1,000 feet, and part of the flow was diverted through the Indiana Harbor Canal. For additional details about these changes, refer to Cook and Jackson (1978).
+-8-
+
+Another important change to the region, the extension of the lakeshore with fill land, occurred for two reasons. First, inexpensive industrial land adjacent to existing manufacturing facilities was needed; and, second, vast quantities of slag were being produced. Legislation passed by the 1907 Indiana General Assembly permitted the building of land into Lake Michigan and, in 1986, much heavy industry is located on such land, which is composed mainly of slag and is referred to as lake-fill land. The surficial geology map (fig. 2) differentiates between major areas of lake-fill land and modified land. Slag still is the aggregate of choice for filling operations and for the road-building base in the region.
+In 1986, much of the land is used for steel-making and petroleum-related activities (fig. 3). Most of the steel industry is located along the lakeshore or on lake-fill land, and much of the petroleum industry is located adjacent to or near the Indiana Harbor Canal. Much of the other industrial land is used for manufacturing that is related to the steel industry such as rail-car building, foundries, and forging plants. Chemical-processing plants occupy a large part of the land and supply products for manufacturing and the retail market.
+Residential areas are located primarily to the south of the Grand Calumet River and to the west of the Indiana Harbor Canal (fig. 3). Population trends in the 1950's were toward the southern part of the county, away from the immediate vicinity of the heavy industry (Moore and Trusty, 1977). Many small areas or pockets of natural land remain essentially unaltered in 1986. The original topography of linear ridges separated by wetlands still exist, and diverse natural plant communities can be observed by traversing these areas. Efforts are being made to save these areas for nature preserves.
+-9-
+
+87°32'30" 41°42'30
+
+27'30"
+
+87°25 f
+
+37'30"
+41°35' X--
+Base from U.S. Geological Survey 1:24.000 quadrangles
+Figure 3.- Major land use in the study area. -10-
+
+41°42'30"
+
+Residential area Agricultural land Park or natural area
+
+EXPLANATION Steel Industry
+H Petrochemical Industry
+II!: : : : : : : Commercial or light Industrial area
+
+40' 67°2Z'30'
+
+1I 23
+20'
+
+5 KILOMETERS 17'30"
+
+5 MILES J
+67°15'
+
+37'30
+
+-11"
+
+41°35"
+
+Acknowledgment s
+The authors acknowledge the assistance of the many State, municipal, and corporate entities who helped make this report possible:
+Amoco Oil Company, Standard Oil Division, Whiting, Indiana E.I. DuPont DeNemours & Co., East Chicago, Indiana East Chicago, Indiana, Parks Department East Chicago, Indiana, Public Schools Gary, Indiana, Municipal Airport Gary, Indiana, Parks Department Gary, Indiana, Public Schools Hammond, Indiana, Parks Department Hammond, Indiana, Public Schools Indiana Department of Highways Indiana Department of Environmental Management Indiana Department of Natural Resources, Division of Nature Preserves Indiana Department of Natural Resources, Division of Water Lake County Parks and Recreation National Park Service, Indiana Dunes National Lakeshore Phillips Pipeline Co., East Chicago, Indiana United States Steel, USX Corporation, Gary, Indiana Whiting, Indiana, Parks Department Whiting, Indiana, Street Department
+We also wish to thank Dr. Todd Thompson who split the vibracores and provided descriptions of the sedimentological features and bedforms.
+METHODS
+Compilation of Existing Data
+Existing data from published and unpublished sources were used in this analysis. Published sources include Rosenshein and Hunn (1968), Hartke and others (1975), and Weiss (1982). Unpublished data include the following:
+1. Lithologic logs from water wells in the study area, which were in the files of "located water wells" at the Indiana Department of Natural Resources, Division of Water, Indianapolis.
+2. Lithologic logs from numerous soil borings in the surficial sand, which were made for major State and federal highway projects that cross the study area. These logs were made available by the Indiana Department of Highways and the Indiana Toll Road Commission.
+-12-
+
+3. The Remedial Planning/Field Investigation Team Report for the Lake Sandy Jo site (a Superfund or NPL site). The Lake Sandy Jo site is located in the south-central part of the study area in an unincorporated area. Informal discussions with technical teams assessing the other three NPL sites in the study area affected the interpretation of conditions around these sites.
+4. A current (1985) listing of NPL and ERRIS sites, which was provided by the Division of Land Pollution Control of the Indiana Department of Environmental Management. (The locations of these sites are shown in figure 1.)
+Field Methods
+During the summer and fall of 1985, 36 observation wells were installed and used to measure water levels in the study area (fig- 4). Additionally, water levels were measured in nine privately-owned observation wells. During the same time, 26 sites were chosen and samples of the underlying sedimentary material were obtained. Vertical control, using standard surveying techniques, was established at all observation well and sedimentary material sites so that water levels and stratigraphic information could be correlated. Measuring points that had vertical control also were established at 13 surface sites so that surface-water stage could be measured.
+All new wells were constructed completely of Type 304 stainless steel and were 2 inches in inside diameter. The well screens were continuous-slot, wire-wound design with an opening size of 0.010 inch. Each well screen had 3 feet of open section and had a drive point at the base. Where possible, the wells were hand driven using a fence-post driver. Four wells were installed using a power auger. All wells were installed in the uppermost part of the saturated zone of the aquifer. After completion, the wells were developed using a hand-operated piston pump. Concrete aprons were constructed, and locking caps were installed at each well.
+Each of the nine privately-owned wells was constructed of 2-inch insidediameter polyvinyl chloride pipe and well screens. Six wells had screens that were open to the entire saturated aquifer and three had screens that were 10 feet long.
+The primary method by which shallow samples of the underlying sedimentary material was obtained was a process called vibracoring (Finkelstein and Prins, 1981). The vibracoring process uses a concrete vibrator to vibrate a 3-inch diameter vertical aluminum tube into loose, moist sediments. When penetration of the tube stops, the vibrator is stopped and the tube containing the core sample is withdrawn from the ground. Vibracoring worked well to collect core samples to depths of as much as 18 feet at many locations. However, at some locations, dry soil and coarse aggregate fill prevented successful sampling using the vibracoring process. At these sites, a power auger was used to drill a hole and retrieve sediment samples that stuck to the auger flights. Sediment samples could be obtained from the full depth of the surficial aquifer using the power auger, and these samples then were used to improve definition of the base of the aquifer on the map.
+-13-
+
+87°3?'30' Al°42'30
+
+30'
+
+27'30'
+
+87°25'
+
+37'30"
+41°35'
+Jase from U.S. Geological Survey 1:24,000 quadrangles
+Figure 4.-- Data-collection network in the study area. -14-
+
+41°42'30-" \
+
+EXPLANATION Observation well Sedimentary material site Surface-water measuring site
+
+40* 01
+
+5 KILOMETERS 17'30"
+
+5 MILES 87°15"
+
+37'30'
+
+-15-
+
+4T35'
+
+Model Construction
+A finite-difference digital model (McDonald and Harbaugh, 1984) was used to study flow patterns in the Calumet aquifer and the interaction between ground water and surface water. About 20 model analyses were necessary to make a preliminary calibration of model results and a preliminary analysis of model sensitivity.
+The finite-difference digital model was used to study flow in a vertical section of the Calumet aquifer. Studying a vertical section simplifies model construction and analysis of results but still provides a basic understanding of flow in areas of the aquifer that are similar to that of the modeled section. The conceptual geologic section modeled roughly corresponds to the hydrogeologic section designated by line C-C T (fig. 2) from about 1 mile south of the Grand Calumet River to Lake Michigan (fig. 5).
+Features of the model design, specifically the grid system and the locations of river and drain nodes, also are shown in figure 5. Ten rows and 60 columns were used to simulate vertical and horizontal gradients. The grid blocks around the Grand Calumet River were small enough to indicate details of the flow expected in that area. This smaller grid spacing will be used in future simulations to study the effect of transient changes in the water table on patterns of ground-water flow to the river.
+Simulation of Ground-Water Flow
+Water flow was simulated for a north-south section through the Calumet aquifer in the middle of the study area. Although the model is based on a real section, the simulations were generalized somewhat, and comprehensive calibration and sensitivity analysis were not done. Instead, the model was used as a study tool to obtain a general understanding of the ground-water flow system and to identify the factors that could affect the water-table profile and the size and depth of the local flow cells near the streams and drains. This preliminary model analysis was done primarily to select well sites to sample and to monitor ground-water quality. A more detailed areal model of part of the study area is planned for the next phase of the investigation.
+-16-
+
+VERTICAL EXAGGERATION X 8
+GRAND CALUMET RIVER
+
+NORTH METERS r190
+FEET 600
+-180
+
+550-
+
+-170
+550
+-160
+-500 -150
+
+450
+1 .T
+
+I
+
+II
+
+I
+
+i
+I
+
+» .1
+
+I. I .1 'I
+
+'I ' I
+
+400 DATUM IS SEA LEVEL
+
+ii T
+
+-140 -450
+
+II
+
+I
+
+I I [1
+
+i V 'i 'i 'i .'i , 'i 7r , iy i.i
+i ;i . i
+
+-130
+
+0
+
+2,000
+
+4,000
+
+6,000
+
+8 000 FEET
+
+I r^n r^ H ' i i
+
+h r1
+
+400 L 120 VERTICAL EXAGGERATION X 40
+
+. 0 400 800 1,200 1,600 2,000 2,400 METERS
+
+EXPLANATION
+
+Silt, sand and gravel (Calumet Aquifer) Till Bedrock
+
+i'SSB: Drain node and altitude River node
+i - i Model node
+
+Figure 5.-- Conceptual geologic section and digital-model grid based on hydrogeologic section OC .
+
+PRELIMINARY ANALYSIS OF THE SHALLOW GROUND-WATER SYSTEM
+Physical Characteristics
+The Calumet aquifer is underlain by 100 to 150 feet of unconsolidated glacial and lacustrine sediments that were deposited on an erosional surface of bedrock consisting of carbonate rock of Silurian age. The bedrock surface has about 70 feet of relief in the study area (fig. 6). The most prominent feature of the bedrock surface is a north-trending valley in the area of the Indiana Harbor Canal where the canal trends northeast-southwest.
+The unconsolidated sediments can be divided into two major units, the lower unit consists mainly of glacial till that has some lacustrine clays or weathered till at the top. These clays and glacial till form a confining unit between the Calumet aquifer and the underlying bedrock. The upper surface of this confining unit (fig. 7) slopes gently toward Lake Michigan. Although there is a depression in this surface above the north-trending bedrock valley, it has only about 5 to 10 feet of closure and trends east-west. Another noteworthy feature in the area of this depression is that the upper 20 feet of the lower unit is loosely consolidated lacustrine or paludal clay as indicated by lithologic logs. Lithologic logs indicate that the top of this confining unit generally is a more compacted and competent till than this lacustrine clay.
+The upper unit of the unconsolidated sediments consists primarily of dune, beach, and lacustrine sands and also of thin layers of peat and organic sediments of small areal extent. These sands and organic deposits comprise the Calumet aquifer. At the steel mills along the shoreline and in many former inland depressions, crushed and hot-poured slag overlie the sands. Thickness of the aquifer ranges from 0 to 65 feet. The aquifer generally is thickest in the east. The unit thins to the west and pinches out a short distance west of the Illinois-Indiana border. It also pinches out in the southwestern part of the study area in the valley of the Little Calumet River (fig- 7).
+The sands of the upper unit comprise the Unit 1 described by Rosenshein and Hunn (1968) and the Calumet aquifer described by Hartke and others (1975). Rosenshein and Hunn also reported an average hydraulic conductivity of 60 feet per day for these sands. In our report, slag fill also is included as part of the Calumet aquifer. Generally, slag fill is not areally or vertically extensive and no attempt was made to measure or estimate its hydraulic properties separately from those of the rest of the Calumet aquifer. Although the carbonate bedrock of Silurian age is not a substantial aquifer in the study area, some discharge probably occurs from it to the Calumet aquifer by upward leakage through the clays of the confining unit in the eastern one-half of the study area (R. J. Shedlock, U.S. Geological Survey, written commun., 1985). However, near line of section C-C 1 , water levels in the bedrock that were obtained from NPL site investigations indicate that discharge occurs from the Calumet aquifer to the bedrock aquifer.
+-18-
+
+The saturated thickness of the Calumet aquifer in the study area is shown in figure 8. This map is based on the difference in altitude between the water-table map for spring 1986 conditions and the map of the base of the upper unit (fig. 7). The contours are subparallel to the Lake Michigan shoreline and generally indicate the thinning of the aquifer from east to west and north to south. From the topographic highs between the rivers, the saturated thickness decreases to the south toward the Little Calumet River and increases toward the lakeshore north of the Grand Calumet River. Both trends result from the gentle slope toward Lake Michigan of the surface of the underlying confining unit. The large saturated thickness between the Grand Calumet and Little Calumet Rivers in Gary is caused by a broad water-table mound that is discussed in the section "Ground-Water Flow System."
+Notable geometric features of the Calumet aquifer are shown in the hydrogeologic sections in figures 9 through 12. The eastern end of the study area, where the aquifer is thickest, is shown in figure 9 (line of section A-A 1 in fig. 2). At the southern end of this section, is a back-barrier, calcareous clay lens, one of several such deposits that occur within the surficial sands east of the study area. In the study area, no such clay lenses were found in the vibracores, test-hole data, or existing boring logs.
+A noteworthy geomorphic feature in figure 9 is the location of the Grand Calumet Lagoons. These ponded lowlands represent the former distal end of the undisturbed Grand Calumet River when it flowed east to discharge into Lake Michigan during pre-development times. These lagoons are connected by a buried culvert to the upstream end of the modern Grand Calumet River channel and represent the headwaters of the river.
+West of the headwaters, the distance between the channel of the Grand Calumet River and the lakeshore increases, as indicated by comparing figures 9 and 10 (line of section B-B 1 in fig. 2). A section of lake-fill land (slag) along the shoreline also is shown in figure 10. The lakeward edge of this slag body primarily is hot-poured slag that cooled shortly after exposure to water and air. Farther landward, crushed slag probably functions hydraulically as a poorly sorted, unconsolidated sediment. However, the physical and hydraulic properties of the hot-poured slag are similar to those of lava. The authors have observed typical lava-like features, such as ropy surfaces and hexagonal jointing in the slag along the shoreline. Ground-water flow in the hot-poured slag probably is along the hexagonal joints; however, the permeability of the hot-poured slag was not determined because of insufficient data.
+The next section (line of section C-C 1 in fig. 2) to the west (fig. 11) shows a more natural lakeshore. Also shown are several discrete bodies of sand and gravel, presumably representing beach deposits. Although these bodies are not extensive and probably do not differ dramatically in hydraulic properties from the other sands, they do indicate important local subtleties in the sediment that may be significant to ground-water transport problems. This section also shows the small difference in altitude between the Grand Calumet River and Lake Michigan and the general slope of the underlying till surface (interrupted by local highs) toward the lake. This section was used as the basis for digital-model simulations of flow because of its central location in the study area and also because it probably is most representative of pre-development conditions.
+-19-
+
+87 C32'30" 41°42'30
+
+30'
+
+27'30'
+
+87°25'
+
+37'30" _
+41°35 f
+Base from U.S. Geological Survey 1:24,000 quadrangles
+Figure 6. Configuration and altitude of bedrock surface. -20-
+
+-440
+
+EXPLANATION
+BEDROCK-SURFACE CONTOUR shows altitude of bedrock. Interval 10 feet. Datum is sea level
+
+2345 KILOMETERS 20' 17'30"
+
+5 MILES 87°15'
+
+-21
+
+87°32'30" 41°42'30 W
+
+30'
+
+27'30'
+
+87°25
+
+37'30" _
+41°35'
+Base from U.S. Geological Survey 1:24,000 quadrangles
+Figure 7. Configuration and altitude of base of the Calumet aquifer.
+-22-
+
+EXPLANATION
+
+41Q 42'30"
+
+BASE-OF-AQUIFER CONTOUR shows altitude of base of Calumet aquifer. Hachures indicate depression. Interval 5 feet. Dashed where approximate. Datum is sea level
+
+V/T7 AQUIFER ABSENT
+
+40'
+
+0 1 23
+
+87°22'30"
+
+20'
+
+5 KILOMETFRS 17'30"
+
+5 MILES 87°15'
+
+37'30'
+
+41°35'
+23-
+
+87°32'30" 41°42'30
+
+27'30'
+
+87°25'
+
+37'30"
+41°35' _
+Base from U.S. Geological Survey 1:24,000 quadrangles
+Figure 8. Saturated thickness of the Calumet -24-
+
+4F42'30"
+
+-20-
+
+EXPLANATION
+SATURATED-THICKNESS CONTOUR shows saturated thickness of the Calumet aquifer. Interval 5 feet. Dashed where approximate
+
+40* 87°22'30"
+
+23 20'
+
+5 KILOMETERS 17'30"
+
+5 MILES 87°15'
+
+37'30'
+
+iquifer, March 31 through April 4, 1986.
+
+25-
+
+41°35'
+
+LITTLE CALUMET RIVER
+
+Grand Calumet Lagoon
+
+A' FEET METERS
+-650 - 200
+-190
+600 -180
+
+500
+
+-170 550
+-160
+500 -150
+
+450 en
+400 DATUM IS SEA LEVEL
+
+-140 -450
+
+-130
+
+0 200
+
+2,0,00 , 4,000 1,000
+
+VERTICAL SCALE GREATLY EXAGGERATED 400 120 | 6,000 FEET
+1,800 METERS
+
+EXPLANATION
+
+Muck, peat, or silt Silt, sand, and gravel (Calumet aquifer)
+Clay
+
+Lacustrine clay and till Bedrock
+
+Figure 9.-- Hydrogeologic s.ection A-A'.
+
+B
+500450 DATUM IS SEA LEVEL
+to
+
+GRAND CALUMET RIVER
+
+Bf
+FEET METERS 1-650 r-200
+-190 -600
+-180
+
+-170 -550
+-160
+-500 -150
+
+2,000
+
+4,000
+
+0 200
+
+1,000
+
+EXPLANATION
+
+140 450 VERTICAL SCALE GREATLY EXAGGERATED 6,000 FEET
+1,800 METERS
+
+/#£ Silt, sand, and gravel (Calumet aquifer)
+
+Lake-fill land (slag)
+
+Sand and gravel (Calumet aquifer)
+
+^23 Till
+
+Figure 10. Hydrogeologic section B-B'.
+
+c
+FEET 650-1
+600-
+550 -
+500-
+
+GRAND CALUMET RIVER
+
+LAKE MICHIGAN
+
+C' METERS
+FEET r 200 r650
+M90 H600
+180
+-170 -550
+- 160 -500
+- 150
+
+450
+
+ro
+CO
+400
+
+J. 4- ^-L
+
+'. I.I
+
+-450 140
+- 130
+-400 120
+
+350-
+
+I.I
+
+.I
+
+-350 - 110
+
+-100
+
+300
+
+II
+
+-I J I
+
+DATUM IS SEA LEVEL
+
+1i
+
+I. ' .' ~
+
+' ' '' VERTICAL SCALE GREATLY EXAGGERATED
+
+300 -
+
+90
+
+2,000
+
+4,000
+
+lJ_____I____I
+III1 III
+
+0 200
+
+1,000
+
+6,000 FEET
+Il 1,800 METERS
+
+EXPLANATION
+
+Silt, sand, and gravel (Calumet aquifer) Sand and gravel (Calumet aquifer)
+
+Till Bedrock
+
+Figure 11.-- Hydrogeologic section C-C'.
+
+GRAND CALUMET RIVER
+
+FEET r-600 METERS
+80
+-170
+
+500-
+
+-160
+-500
+-150
+
+400
+
+1 . . J , I, ,J . 1 , LI IZ JL
+T '. r
+
+I ' I ' I 'I
+L, L ._!
+
+-140
+
+TTT
+
+-130
+
+400 120
+
+110
+
+300-!- *
+
+''
+
+'
+
+DATUM IS SEA LEVEL
+
+' ''
+
+' ,1
+
+100
+
+1'
+
+.'
+
+,1
+
+¥-300 VERTICAL SCALE GREATLY EXAGGERATED
+
+- 90
+
+0ii i i i2,0li 00i i l4,0ii00l i l 6,0li 00i i l 8,0ri0.0\ i.n10,r0i 00 FEET
+
+0
+
+1,000
+
+2,000
+
+3,000 METERS
+
+EXPLANATION
+
+Silt, sand, and gravel (Calumet aquifer)
+
+Lacustrine clay
+
+Modified land (slag)
+
+Till
+
+Bedrock
+
+Figure 12.-- Hydrogeologic section D-D'.
+
+The westernmost section (line of section D-D f in fig. 2) (fig. 12) shows no slope in the underlying till surface because of the direction of the section. As in the other sections, however, the till surface slopes gently toward Lake Michigan. This section also shows a thinner Calumet aquifer and Wolf Lake whose bed has been dredged for fill for the adjacent roadbed. The dredging has exposed the till surface as the bed in part of the lake. This section also shows fill in former wetlands near the lake, a condition common throughout the study area. Lacustrine clay is shown to the north end of the section.
+Ground-Water Flow System
+Water-table altitudes from March 31 through April 4, 1986, are shown in figure 13. Altitudes are based on water-level measurements from each shallow observation well and at each surface-water measuring point shown in figure 4. Two broad water-table mounds are shown in the study area. The more extensive of the two trends east-west through the study area between the Little Calumet River and the Grand Calumet River and corresponds approximately to the surface drainage divide between these two rivers. Altitudes along this mound are more than 600 feet at each end of the study area with a shallow sag in the middle of the mound. This mound forms a water-table divide that essentially is the southern boundary of the ground-water basin of the GCR/IHC.
+The other broad water-table mound is north of the Grand Calumet River between Gary Harbor and the Indiana Harbor Canal. This mound forms a divide that represents the southern boundary of that part of the shallow ground-water flow system that discharges directly to Lake Michigan.
+Northwest of the Indiana Harbor Canal, a broad, low water-table mound is connected to a long, narrow ridge that parallels the Lake Michigan shoreline. This narrow ridge may exist because many sets of railroad tracks parallel the shoreline in a narrow area. This area probably receives greater than normal recharge because the coarse slag used for railroad ballast on the surface prevents runoff and because ditches in the area cause depression-focused recharge (Lissey, 1968). Minimal evapotranspiration also occurs because the railroad companies keep the right-of-way cleared of almost all vegetation.
+Several small depressions also are shown in figure 13. These depressions are near major sewer lines and probably are caused by local drainage of ground water to the sewer. There probably are more of these local depressions that were not detected through the observation-well network.
+Although not shown in figure 13, there are a number of small drainage ditches in the study area to which shallow ground water discharges locally. Such drainage cannot be indicated by the contours at the scale and contour interval used for this map. The importance of such drainage is discussed in the section "Simulations of Ground-Water Flow."
+-30-
+
+Water-table fluctuations near the GCR/IHC were monitored in six sets of closely spaced observation wells located along transects perpendicular to the stream. Five of these sets of wells had water-level recording equipment so short-term fluctuations could be detected. A typical well placement is shown in figure 14. The close spacing of near-stream wells and of the stream-stage well was done to enable study of shallow ground-water and surface-water interactions.
+In 1986, analysis of aquifer/stream interactions was incomplete, but enough data had been collected to indicate that interactions were complex. The interactions varied with time and space. In the reach of the Grand Calumet River near and east of the hydrogeologic section designated by line B-B 1 (fig. 2), the stream lost water to the Calumet aquifer most of the time. Throughout the rest of the GCR/IHC, the stream usually gained water from the aquifer. Normal and natural hydrologic factors caused flow patterns to reverse for varying periods of time. Bank storage affected the stream/aquifer interaction; and locally variable recharge, such as that produced by summer thunderstorms, also may have affected these interactions. Storms on Lake Michigan caused estuary-like effects on the Indiana Harbor Canal that could be detected as far as 4 miles upstream from the lake. These estuary-like effects caused the stage in the Indiana Harbor Canal to rise. When the stage in the Indiana Harbor Canal rose rapidly because of the estuary-like effects, the flow gradient was reversed, and the Indiana Harbor Canal lost water to the Calumet aquifer.
+An example of how human activities may reverse the normal stream/aquifer interaction is apparent in the upper reach of the Grand Calumet River, east of the hydrogeologic section designated B-B 1 (fig. 2). In this reach, much of the streamflow is water obtained from Lake Michigan, used for cooling and processing at a large steel mill, and then discharged to the river. A shutdown at the steel mill causes a substantial decrease in discharge to the river, and the normal stream/aquifer interaction can be reversed. This reversal causes the stream to gain water from the Calumet aquifer.
+-31-
+
+87°32'30" 41°42'30"
+
+30'
+
+27'3p"
+
+87°25'
+
+40'
+37'30"
+41°35'
+'Base from U.S. Geological Survey 1:24.000 quadrangles
+Figure 13. Configuration and altitude of the water table in -32-
+
+41Q 42'30"
+
+.585-
+
+EXPLANATION
+WATER-TABLE CONTOUR shows wafer-table altitude. Hachures indicate depression. Intervals 2.5 and 5 feet. Dashed where approximate. Datum is sea level
+
+40'
+
+012345 KILOMETERS
+
+5 MILES 87°15'
+
+MICHIGAN
+"==^==zff*8SF&?
+
+37*30
+
+the Calumet aquifer, March 31 through April 4, 1986. -33-
+
+FEET 600-
+595-
+590-
+585-
+580Co
+E 7 *% ' '' '^ ''' ' '' V-'V:.' ;-:-'-'vA^''''^:-'': ''-''!' ..' -.' '
+O» O Dr>AATTiUiKM« IiSo Sr>Er-AA ILEriV;EriL
+
+0h 1 11
+0
+
+100
+1 1
+
+i 1i
+
+30
+
+20i i 0 i i 60
+
+EXPLANATION
+
+FEET METERS r600 r183
+
+-595
+
+-182 -181
+
+-590 -180
+-179 -585
+-178
+
+-177 -580
+-176 575 VERTICAL EXAGGERATION X 10
+, 30i 0 FEET 90 METERS
+
+Sand
+
+Figure 14. Generalized geologic section showing typical well placement.
+
+Simulations of Ground-Water Flow
+The conceptual section (fig. 5), along which ground-water flow was simulated, roughly parallels the hydrogeologic section designated C-C f (fig. 11) from 1 mile south of the Grand Calumet River to Lake Michigan. Features of the conceptual section, specifically the grid system and the locations of the river and drain nodes are shown in figure 5. Ten rows and 60 columns were used to represent vertical and horizontal gradients. Around the Grand Calumet River, the blocks are small and are shown enlarged in the inset in figure 5.
+Several different boundary conditions were used along the margins of the digital model (fig. 5). The various boundary conditions were simulated using the appropriate part or package from the model. Specified fluxes were assigned to the uppermost active nodes to simulate recharge to the water table. The general-head boundary package was used to simulate boundary conditions at the southern end and the base of the model. A ground-water flux was calculated across a general-head boundary based on a known or estimated hydraulic head outside the modeled area and on an average value of hydraulic conductivity near the model boundary. The specified head at the southern end of the model was the water-table altitude of 600 feet, 1 mile south of the Grand Calumet River at the ground-water divide between the Grand Calumet and Little Calumet Rivers. The hydraulic conductivity was the same as that used within the modeled area. For the base of the model, several specified head distributions in the bedrock were used to simulate the general-head boundary. The bedrock was separated from the Calumet aquifer by about 100 feet of till that was assigned an assumed hydraulic conductivity of 0.01 foot per day for all simulations.
+The river package was used to simulate the Grand Calumet River and also the boundary at Lake Michigan so different values of hydraulic conductivity of the lake bed could be simulated. Hypothetical drains were simulated in some model experiments using the drain package. These drains were spaced about 2,000 feet apart and at a depth of 6 feet below the land surface. The hypothetical drains simulate the discharge of ground water to leaky sewer lines, drain tiles, and small unmapped ditches that exist throughout the study area, although their exact locations in the area of the conceptual section are not known.
+Two major conceptual models of the ground-water flow system were simulated using steady-state conditions. Rigorous calibration and sensitivity analysis were not attempted. However, a basic understanding of the important parameters of the physical flow system was obtained. A listing of the simulations and their parameters are shown in table 1.
+-35-
+
+Table 1. List of simulations and significant hydraulic parameters [GCR, Grand Calumet River; A, variable, about 4 feet above the water table in the Calumet aquifer; NA, not applicable; B, see figure 5]
+
+Simulation
+number
+
+Hydraulic conduc-
+tivity of Calumet aquifer (feet per
+day)
+
+Hydraulic conduc-
+tivity of confining
+layer (feet per
+day)
+
+Anistropy factor of
+Calumet aquifer
+
+Hydraulic conductivity of GCR streambed (feet per day)
+
+Hydraulic conductivity of Lake Michigan
+"streambed" (feet per
+day)
+
+Bedrock head distribution
+(feet above
+sea level)
+
+Recharge (feet per day)
+
+Stage of Lake
+Michigan
+(feet above
+sea level)
+
+Stage of GCR (feet above
+sea level)
+
+Number of conceptual drains
+
+Hydraulic conductivity of drains (feet per day)
+
+Location and
+altitude of drains
+(feet above sea
+level)
+
+Diameter of
+drains (feet)
+
+1 25 0.01 0.1 1 2 25 .01 .1 1 3 40 .01 .1 1 4 40 .01 .1 1 5 60 .01 .1 1
+
+1
+
+A 0.00342 582.6 583 0
+
+NA
+
+NA
+
+NA
+
+1
+
+A
+
+.00114 582.6 583
+
+0
+
+NA
+
+NA
+
+NA
+
+1
+
+A
+
+.00114 582.6 583
+
+0
+
+NA
+
+NA
+
+NA
+
+10
+
+A
+
+.00114 582.6 583
+
+0
+
+NA
+
+NA
+
+NA
+
+10
+
+A
+
+.00114 582.6 583
+
+0
+
+NA
+
+NA
+
+NA
+
+6 100 .01 .1 1 7 100 .01 .1 1 8 50 .01 .1 1 9 50 .01 .01 1 10 50 .01 .01 1
+
+10
+
+A
+
+.00114 582.6 583
+
+0
+
+NA
+
+NA
+
+NA
+
+10
+
+A
+
+.00114 580.6 583
+
+0
+
+NA
+
+NA
+
+NA
+
+10 A .00228 .580.6 583 8 200 B 2
+
+10 A .00228 580.6 583 8 200 B 2
+
+10
+
+A
+
+.00228 580.6 583
+
+0
+
+NA
+
+NA
+
+NA
+
+11 50 .01 .01 1 12 50 .01 .01 1 13 50 .01 .01 1
+
+10 575 .00228 580.6 583 0 NA NA NA 10 575 .00228 580.6 583 8 200 B 2 10 570 .00228 580.6 583 8 200 B 2
+
+In the first basic conceptual model, only two surface-discharge zones were simulated, the Grand Calumet River and Lake Michigan. This is essentially the flow system as it had been in pre-development times. The modelgenerated head distributions have almost horizontal flow paths between the ground-water divide and the two discharge points (fig. 15). Two vertical zones of flow, into the river and the lake, also are shown in figure 15. One zone consists of recharge from precipitation that flows downward and laterally, and the other consists of water from the bedrock that flows upward and laterally. This upward flow from the bedrock is the result of specifying heads in the bedrock (using the general-head boundary) that are several feet higher than the water table in the Calumet aquifer. The upward flow creates a small upward flux from the till at the base of the surficial aquifer and a stagnation point on the ground-water divide that defines the boundary of the two flow systems. Water below the stagnation point (fig. 15) flows to the Grand Calumet River and to Lake Michigan, as does the water above the stagnation point. Water from these two different flow paths may not substantially mix, which may be important in later studies of vertical changes in groundwater quality.
+Another important feature of the first conceptual model is that the simulated water level is about 5 to 10 feet higher than that indicated by measured values. Lowering the water level by increasing the hydraulic conductivity did not seem reasonable because the value of 100 feet per day is about the largest value of the range for the study area reported by Rosenshein and Hunn (1968, p. 29). Alternatively, decreasing the recharge rate further did not seem realistic for a sand aquifer in a temperate climate that receives more than 30 inches per year of precipitation. These results indicate that the first conceptual model probably is a reasonable representation of the predevelopment, natural flow-system when the water table was at or very near the land surface. The results also indicate that other discharges from the system, such as discharges to ditches and tile drains or downward leakage to the bedrock, are necessary to lower the simulated water level to the observed modern profile.
+Additional model experiments, using the first conceptual model, indicated that simulated decreases in the ratio of vertical to horizontal hydraulic conductivity do not substantially affect the position of the water table. Changing the ratio from 1:10 to 1:100 causes an increase in the water level of no more than 0.2 foot. The change in simulated anisotropy did not affect the flow pattern, particularly the location of the stagnation point (fig. 15) and the two associated zones of flow. Ratios smaller than 1:100 probably are not reasonable for the Calumet aquifer and, therefore, were not used. Because of the results of the first conceptual-model simulations and because ditches and tile drains are prevalent in the modeled area, a second conceptual model was developed.
+The second conceptual model contained a series of eight drains that were about 2,000 feet apart. The drains removed water from the flow system and lowered the water level. Also, because there were more discharge points in the modeled section, a reasonable fit of the simulated to observed water-table profiles could be obtained using values of hydraulic conductivity of 50 feet per day and values of recharge of 10 inches per year. These values probably are more representative of the Calumet aquifer (Rosenshein and Hunn, 1968).
+-37-
+
+SOUTH
+
+GRAND CALUMET RIVER
+
+GROUND-WATER DIVIDE
+
+550 DATUM IS SEA LEVEL
+OJ 00
+
+EXPLANATION
+
+1,800 METERS
+
+Silt, sand, and gravel (Calumet aquifer)
+
+Flow path
+
+Till Stagnation point
+
+NORTH FEET
+r600 METERS 1-180
+L-170 550
+
+Figure 15.-- Conceptual geologic section showing the first conceptual-model-simulated flow system with two surface drains.
+
+The resulting flow pattern, indicated by the second conceptual model (fig. 16), is more complex than that in the first conceptual model (fig. 15) because individual flow cells developed around most of the drains. The area around the Grand Calumet River continued to have the same flow pattern as before, but five of the drains, farther from the river, caused local water divides and flow patterns that fully penetrated the aquifer. Several more stagnation points also resulted; but, unlike the first conceptual model, the upward flow from the deep part of the aquifer mixed with water from the upper part of the aquifer in the regions under the drains.
+The second conceptual model was modified further by testing the effect of hydraulic heads in the underlying bedrock that were 1 to 20 feet lower than the water table. Many bedrock wells in northeastern Illinois have sections open to the carbonate rocks of Silurian age. Pumpage from these wells probably has caused drawdowns in water levels in the Silurian carbonates that extend into northwestern Indiana, although the extent of the drawdowns is uncertain and possibly is controlled by the distribution of fractures.
+Several simulations that had bedrock hydraulic heads below the water table were done; and, in each simulation, enough water was drawn out of the Calumet aquifer to lower the water table a few feet more. Flow patterns were not altered appreciably, although the location of the stagnation zones in the lower part of the aquifer were changed (fig. 17). These results indicate that the general lowering of the water table in the study area from pre-development times to the present (1985) may be caused by surface drainage and downward leakage to the bedrock.
+A few general sensitivity analyses were done for the second conceptual model. Changing the ratio of the vertical to horizontal conductivity from 1:10 to 1:100 in the second conceptual model increased water levels by no more than 0.3 foot. This slight increase did cause a shallow flow cell to develop around the first drain north of the Grand Calumet River. However, flow between the drains and flow near the Grand Calumet River and Lake Michigan essentially was horizontal.
+-39-
+
+SOUTH
+
+GRAND CALUMET RIVER
+
+550 DATUM IS SEA LEVEL
+
+2,000
+
+4.000
+
+6,000 FEET
+
+I _I __I I __I __I ___I _ 1 T
+
+0 200
+
+1,000
+
+1,800 METERS
+
+EXPLANATION
+
+Silt, sand, and gravel (Calumet aquifer)
+Till
+
+Flow path
+Stagnation point Location of drain
+
+METERS r-180
+550
+
+Figure 16.-- Conceptual geologic section showing the second conceptual-model-simulated flow system with eight drain nodes.
+
+SOUTH
+FEET 600-
+
+GRAND CALUMET RIVER 0
+
+LAKE MICHIGAN
+
+550 DATUM IS SEA LEVEL
+
+i 0 200
+
+r__I________I _ i r
+
+1,000
+
+1,800 METERS
+
+EXPLANATION Silt, sand, and gravel (Calumet aquifer) Till
+
+* Flow path
+Stagnation point 0 Location of drain
+
+NORTH FEET
+n600 METERS r-180
+L-170 550
+
+Figure 17.-- Conceptual geologic section showing simulated flow system with eight drain nodes and downward leakage to bedropk.
+
+SUMMARY AND CONCLUSIONS
+A preliminary analysis was done of the shallow ground-water system in the vicinity of the Grand Calumet River/Indiana Harbor Canal (GCR/IHC) in Lake County, northwestern Indiana. This analysis was done to develop a more detailed understanding of this ground-water system so water-quality monitoring sites could be selected to assess the potential for contaminants to migrate to Lake Michigan or to the GCR/IHC.
+The analysis was done using data from previous work, supplemented by new data collected from August 1985 to May 1986, during which 36 water-table wells were installed, access was obtained to measure water levels in 9 privatelyowned wells, 19 continuous sediment cores were obtained and described, and 7 test holes were drilled in which sediments from the surficial aquifer, known as the Calumet aquifer, were sampled. Measurements in the water-table wells and measurements on the GCR/IHC were used to compile the most detailed watertable map of this area as of 1986. The lithologic data were used to compile refined maps of the saturated thickness of the Calumet aquifer, maps of altitude of the bedrock surface and the surface of the till that forms the base of the aquifer. Several hydrogeologic sections perpendicular to the lakeshore were produced, and flow along one of these sections was simulated using a digital model.
+Based on analyses of these data and the simulations using the digital model, the following preliminary interpretations have been made:
+1. In the vicinity of the GCR/IHC, the Calumet aquifer consists mainly of fine- to medium-grained sand that is overlain locally by slag fill that, in this report, is considered part of the aquifer. Aquifer thickness ranges from 0 to 65 feet, and the maximum saturated thickness is 45 feet. No extensive lacustrine clay or paludal deposits, which could be local confining layers, occur in the aquifer. The aquifer is underlain by till except in an area near the IHC where the aquifer is underlain by a local accumulation of lacustrine clay over the till. The till and lacustrine clay form a confining layer between the Calumet aquifer and the underlying carbonate bedrock of Silurian age.
+2. Broad water-table mounds of low relief form major shallow ground-water flow divides between Lake Michigan and the GCR/IHC and between the GCR/IHC and the Little Calumet River to the south. However, in the northwestern corner of the study area, there is no broad water-table mound, but a narrow water-table ridge that extends along the Lake Michigan shoreline and connects to a somewhat circular, low mound northwest of the Indiana Harbor Canal. These patterns indicate that: 1) Shallow ground water discharges directly north to Lake Michigan from the water-table divide that is north of the Grand Calumet River between Gary Harbor and Indiana Harbor Canal; 2) the ground-water mound between the Grand Calumet and Little Calumet Rivers is the southern boundary of the GCR/IHC ground-water basin; and 3) greater than normal recharge and minimal evapotranspiration along railroad tracks have caused the linear ground-water mound northwest of the Indiana Harbor Canal.
+-42-
+
+3. Data collected from transects of closely spaced wells near the stream banks of the GCR/IHC indicate that water-table fluctuations near the streams are complex. Reversals in normal stream/aquifer interactions have been observed.
+4. Digital-model simulations indicate that the water table in the Calumet aquifer has been lowered by several feet from pre-development levels by drainage to sewer lines and small ditches and by downward leakage to the bedrock through the underlying till and lacustrine clay. Without such drains or leakage, and using recharge rates that are reasonable for this area, the water table is raised to land surface, reflecting the predevelopment wetland conditions of the study area. The model analysis further indicates that drainage to sewers and small ditches creates fully penetrating, local flow systems in the Calumet aquifer.
+-43-
+
+REFERENCES CITED
+Bretz, J.H., 1951, The stages of Lake Chicago, Their causes and correlations: American Journal of Science, v. 249, no. 6, p. 401-429.
+CH 2M Hill, Inc., and Ecology and Environment, 1985, Draft phase I remedial investigation report, Lake Sandy landfill, Gary, Indiana: U.S. Environmental Protection Agency, 280 p.
+Cook, S.G., and Jackson, R.S., 1978, The Bailly area of Porter County, Indiana: Evanston, 111., Robert Jackson and Associates, 110 p.
+Crawford, C.G., and Wangsness, D.J., 1987, Streamflow and water quality of the Grand Calumet River, Lake County, Indiana, and Cook County, Illinois, October 1984: U.S. Geological Survey Water-Resources Investigations Report 86-4208, 137 p.
+Finkelstein, Kenneth, and Prins, D.D., 1981, An inexpensive portable vibracoring system for shallow water and land application: U.S. Army Corps of Engineers Coastal Engineering Technical Aid 81-8, 15 p.
+Hansel, A.K., Mickelson, D.M., Schneider, A.F., and Larsen, C.E., 1985, Late Wisconsinan and Holocene history of the Lake Michigan Basin, in Karrow, P.F., and others, eds., Quaternary evolution of the Great Lakes: Geological Association of Canada Special Paper 30, p. 39-53.
+Hartke, E.J., Hill, J.R., and Reshkin, Mark, 1975, Environmental geology of Lake and Porter Counties, Indiana An aid to planning: Bloomington, Indiana Geological Survey Special Report 11, 57 p.
+HydroQual, Inc., 1984, Grand Calumet River wasteload allocation study: Mawah, N.J., 262 p.
+Leverett, Frank, and Taylor, F.B., 1915, The Pleistocene of Indiana and Michigan and the history of the Great Lakes: U.S. Geological Survey Monograph 53, 529 p.
+Lissey, Allan, 1968, Surficial mapping of groundwater flow systems with application to the Oak River Basin, Manitoba: Saskatoon, University of Saskatchewan, Ph.D. dissertation, 141 p.
+McDonald, M.G., and Harbaugh, A.W., 1984, A modular three-dimensional finitedifference ground-water flow model: U.S. Geological Survey Open-File Report 83-875, 528 p.
+Moore, P.A., and Trusty, Lance, 1977, The Calumet region, Indiana's last frontier: Indianapolis, Indiana Historical Bureau, 685 p.
+Rosenshein, J.S., and Hunn, J.D., 1968, Geohydrology and ground-water potential of Lake County, Indiana: Indianapolis, Indiana Denartment of Conservation, Division of Water Bulletin 31, 36 p.
+-44-
+
+REFERENCES CITED Continued
+Schneider, A.F., 1966, Physiography, in Lindsey, A.A., ed., Natural features of Indiana A symposium, 1966 (Indiana Sesquicentennial Volume, 1816-1966): Indianapolis, Indiana Academy of Science, p. 40-56.
+Schneider, A.F., and Keller, S.J., 1970, Geologic map of the 1° x 2° Chicago quadrangle, Indiana, Illinois, and Michigan, showing bedrock and unconsolidated deposits: Bloomington, Indiana Geological Survey Regional Geological Maps no. 4, 3 sheets, scale 1:250,000.
+Weiss, Ronald, 1982, Ground-water strategy study in Lake and Porter Counties, Indiana: Indiana State Board of Health, Report to the U.S. Environmental Protection Agency, 110 p.
+
+U.S. GOVERNMENT PRINTING OFFICE: 1989 644-546/82080
+
+-45-
+
+

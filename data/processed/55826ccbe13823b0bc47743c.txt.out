@@ -1,0 +1,914 @@
+simulation ground water flow saginaw aquifer clinton eaton ingham county michigan david holtschlag luukkonen nichols prepared cooperation tri county regional planning commission geological survey water supply paper 
+department the interior bruce babbitt secretary geological survey gordon eaton director any use trade product firm name publication descriptive purpose imply endorsement government 
+printed eastern region reston unite states government print office washington for sale geological survey branch information service box denver library congress catalog publication data holtschlag david simulation ground water flow saginaw aquifer clinton eaton ingham county michigan 
+luukkonen nicholas 
+geological survey water supply paper prepare cooperation tri county regional planning commmission 
+include bibliographical reference supt 
+groundwater flow michigan simulation method 
+saginaw aquifer mich luukkonen carol 
+nicholas iii 
+tri county regional planning commission mich 
+title series 
+gb1197 7h66 dc20 
+purpose scope 
+previous study 
+data availability management 
+description study area 
+geologic set 
+hydrologic set 
+aquifer confine unit 
+ground water level flow 
+history water resource development 
+simulation ground water flow 
+conceptual model 
+numerical model 
+model grid layer 
+boundary condition 
+spatial distribution input property 
+layer geometry 
+ground water recharge rate 
+hydraulic property aquifer 
+transmissivity saginaw aquifer 
+horizontal hydraulic conductivity glacial deposit 
+vertical hydraulic conductivity 
+model calibration 
+parameter estimation technique 
+initial parameter estimate 
+measurement weight 
+optimal parameter estimate 
+simulation result pump condition 
+ground water head 
+ground water flow 
+expect future pumping condition 
+delineation contribute area 
+use tritium data confirm particle tracking result 
+limitation model result 
+reference cite 
+content iii 
+map show location 
+the tri county region lower peninsula michigan 
+active public supply well tri county region michigan 
+diagram show stratigraphic nomenclature hydrogeologic unit tri county region michigan map show location 
+streamflow gaging station use analysis ground water flow tri county region michigan 
+well screen glacial deposit tri county region michigan water level measure 
+well complete saginaw aquifer tri county region michigan water level measure one time graph show ground water withdrawal population lansing michigan 
+chart show source water public supply tri county region michigan map show 
+ground water level glacial deposit model area tri county region michigan 
+ground water level saginaw aquifer model area tri county region michigan 
+diagram show grid upper layer boundary condition model area tri county region michigan map showi 
+estimate land surface altitude model area tri county region michigan 
+altitude bottom upper model layer tri county region michigan 
+altitude bottom low model layer tri county region michigan 
+spatial variation average ground water recharge model area tri county region michigan 
+box plot show distribution effective horizontal hydraulic conductivity glacial deposit model area tri county region michigan variogram effective horizontal hydraulic conductivity glacial deposit compute basis well log driller model area tri county region michigan 
+box plot show distribution effective vertical hydraulic conductivity glacial deposit model area tri county region michigan variogram effective vertical hydraulic conductivity glacial deposit compute basis well log driller model area tri county region michigan map show 
+distribution stream size class model area tri county region michigan 
+estimate transmissivity saginaw aquifer model area tri county region michigan 
+estimate horizontal hydraulic conductivity glacial deposit model area tri county region michigan 
+estimate vertical hydraulic conductivity saginaw aquifer glacial deposit model area tri county region michigan graph show 
+relation measure simulated head cell glacial deposit tri county region michigan 
+relation measure simulated head cell saginaw aquifer tri county region michigan map show 
+simulated head glacial deposit pump condition model area tri county region michigan 
+simulated head saginaw aquifer pump condition model area tri county region michigan graph show relation measure simulated streamflow tri county region michigan 
+diagram showing ground water model budget component pump condition tri county region michigan 
+map show 
+simulated change water level low layer condition model area tri county region michigan result implementation scenario 
+simulated change water level low layer condition model area tri county region michigan result implementation scenario 
+simulated change water level low layer condition model area tri county region michigan result implementation scenario 
+simulated contribute area public supply well nine township area tri county region michigan 
+simulated year time travel area public supply well nine township area tri county region michigan 
+tritium concentration particle track result sample well model area tri county region michigan 
+continuous record streamflow gag station tri county region michigan use analysis ground water flow 
+partial record streamflow gag station tri county region michigan use analysis ground water flow 
+estimate hydraulic conductivity associate stratum code statewide ground water data base michigan 
+parameter model sample variogram hydraulic conductivity tri county region michigan 
+parameter estimate coefficient multiply matrix describe spatial variation hydraulic property tri county region michigan 
+conversion factor and vertical datum conversion factor 
+cubic foot per second ft3 
+cubic meter per second 
+foot per day 
+meter per day 
+foot square per day ft2 
+meter square per day 
+inch per year 
+millimeter per year 
+million gallon per day mgal 
+cubic meter per day 
+square mile mi2 590square kilometer 
+vertical datum sea level report sea level refers national geodetic vertical datum geodetic datum derive general adjustment first order level net united state canada formerly call sea level datum 
+simulation ground water flow saginaw aquifer clinton eaton ingham county michigan 
+luukkonen anc 
+abstract numerical model develop simulate ground water flow tri county region consist clinton eaton ingham county michigan 
+this region include nine township area surround lansing michigan 
+the model simulate regional response saginaw aquifer major groundwater withdrawal associate public supply well 
+the saginaw aquifer grand river saginaw formation pennsylvanian age primary source ground water tricounty resident 
+the saginaw aquifer overlie glacial deposit also important ground water source location 
+flow saginaw aquifer glacial deposit simulate discretizing flow system model cell arrange two layer 
+each cell correspond land area square mile represent locally average property system 
+the spatial variation hydraulic property control ground water flow estimate geostatistical analysis well log 
+parameter estimation form nonlinear regression use calibrate flow model 
+result steady state ground water flow simulation show close agreement water flow model area pump condition standard error difference simulate measure head foot 
+simulation result three alternative pump scenario year show 
+glacial aquifer could dewatered place hypothetical increase pump distribute throughout tri county region 
+contribute area public supply well nine township area delineate particle track analysis 
+these area cover square mile 
+contribute area particle travel time year less cover square mile 
+result tritium sample support result model simulation delineate contribute area 
+introduction the tri county region consist clinton eaton ingham county cover mi2 south central part lower peninsula michigan fig 
+the people department commerce live region rely withdrawal mgal ground water source 
+the primary source ground water tri county region saginaw aquifer grand river saginaw formation pennsylvanian age 
+aquifer glacial deposit bedrock unit also important groundwater source place 
+tri county regional planning commission tcrpc begin series study assess regional water supply distribution system 
+part effort geological survey usgs enter cooperative agreement tcrpc coalition community support year study ground water flow contribute area public supply well tricounty region 
+participate community include alaiedon township bath township delhi township 
+mile kilometer 
+model area 
+eaton ingham 
+purpose scope this report describe simulation ground water flow saginaw aquifer tri county region 
+the conceptual model hydrologic system base interpretation new previously available hydrogeologic data 
+the numerical model develop conceptual model simulate regional steady state response saginaw aquifer major groundwater withdrawal public supply well 
+simulation result show model use evaluate alternative ground water pump scenario 
+particle track analysis use result flow simulation delineate contribute area publicsupply well 
+tritium concentration grind water sample correspond ground water age compare delineation year time travel contribute area 
+the limitation model assess ground water level flow delineate contribute area well describe 
+ohio mile kilometer 
+the tri county region lower peninsula michigan 
+delta township dewitt township city dewitt city dimondale city east lansing city grand ledge city lansing lansing township city mason michigan state university msu meridian township oneida township vevay township watertown township wheatfield township williamstown township city williamston windsor township village webberville fig 
+report area surround lansing mich refer nine township area consist alaiedon bath delhi delta dewitt lansing meridian watertown windsor township principal area ground water withdrawal tri county region 
+previous study previous study contribute knowledge ground water resource tri county region helpful author report 
+wheeler develop electric analog model ground water flow saginaw formation lansing mich area 
+wood describes hydrogeology geochemistry ground water saginaw formation 
+vanlier other describe watersupply development management alternative tri county region 
+and recently tri county regional planning commission complete regional feasibility study watersupply development 
+simulation ground water flow saginaw aquifer clinton eaton ingham county michigan 
+maple rapid 
+fow ler 
+ovidp fvjl john 
+clinton bounty 
+qzw sunfiel 
+watratown twp ewitttwp baihtwp 
+lai sfogtwp 
+oneida twp grand 
+iiliii imiijiimm 
+delta twp 
+twp cjt eastl usfsing 
+vermon tville 
+potter ville windsor twp 
+eaton unty 
+pri charlo 
+michigan state univrasi alaiedontwp wheatfield twp 
+5on vevay twp igham ounty 
+eaton rapid 
+leslie stock bridge 
+base map michigan resource information system michigan department environmental quality land water management division 
+east north coordinate reference michigan state plane system south zone 
+east thousand foot 
+mile kilometer 
+nine township area boundary tri county region public supply well 
+active public supply well tri county region michigan 
+five report document computer program use study grand river saginaw formation 
+report mcdonald harbaugh document usgs modular ground water flow model modflow 
+report geraghty miller document use modelcad program use aid preparation model grid input data 
+report hill document parameter estimation technique modflowp apply ground water flow model 
+report pollock document particle track postprocessing program call modpath computes pathlines base output modular model 
+finally report harbaugh document computer program zonedudget calculate subregional water budget base result modflow 
+data availability management model input output data archive office usgs lansing mich electronic copy report data input output file need use ground water flow model archive facilitate public access 
+acknowledgment the author gratefully acknowledge assistance jon coleman executive director tcrpc sue mccormick manager water technical support service lansing board water light provide data anticipate ground water withdrawal data use simulate future pump condition christine spitzley tcrpc hope croskey debbie spakoff michigan department environmental quality mdeq brant fisher michigan department public health assistance delineate contribute area public supply well shirley businski land water management division mdeq assistance provide logs water well 
+the author also wish thank many public supplier contribute water use information 
+firm name report identification purpose constitute endorsement geological survey 
+description study area the study area tri county region south central part lower peninsula michigan 
+the primary geologic hydrologic water use characteristic affect ground water flow saginaw aquifer describe following section 
+geologic set tri county region sedimentary rock devonian mississippian pennsylvanian age overlie precambrian crystalline rock 
+rock triassic low middle jurassic cretaceous age miss mandle westjohn 
+glacial deposit pleistocene age overlie pennsylvanian upper jurassic rock fig 
+pennsylvanian rock uppermost bedrock unit tri county region 
+here altitude surface pennsylvanian rock range south north 
+pennsylvanian rock thickest west central part clinton county generally thin south 
+they absent extreme eastern part ingham county 
+discontinuous lenses sandstone shale coal limestone pennsylvanian rock formally subdivide two formation 
+the uppermost massive coarse grain sandstone form grand river formation remain pennsylvanian rock include parma sandstone consider part underlie saginaw formation mandle westjohn 
+these assignment somewhat uncertain however lithologic difference stratigraphic horizon mark change one formation next westjohn weaver 
+jurassic red bed separate pennsylvanian rock glacial deposit area low peninsula either entirely absent marginally present tri county region westjohn other 
+therefore purpose study deposit top pennsylvanian rock land surface assume glacial deposit 
+glacial feature michigan result ice advance late wisconsin time year present 
+the thickness 
+simulation ground water flow saginaw aquifer clinton eaton ingham county michigan 
+stratigraphic nomenclature 
+cenozoic quaternary 
+glacial deposit 
+hydrogeologic unit general thickness range aquifer glacial deposit foot 
+grand river pensylvanian formation 
+saginaw aquifer foot 
+saginaw confine unit 
+parma bayport aquifer 
+misisipian michigan formation 
+michigan confine unit foot 
+marshall sandstone 
+marshall aquifer foot 
+stratigraphic nomenclature hydrogeologic unit tri county region michigan 
+glacial deposit tri county region range 
+glacial deposit absent small part grand ledge thick glacial deposit northwestern part study area 
+the deposit range texture lacustrine clay glacial till coarse alluvial outwash deposit 
+none deposit regionally continuous mandle westjohn 
+hydrologic set for purpose develop groundwater flow model hydrologic set characterized term precipitation streamflow characteristic aquifer confine unit ground water level flow 
+these element hydrologic set discuss section follow 
+description study area 
+precipitation tri county region precipitation ultimate source ground water surface water resource 
+region mean precipitation range maximum southwest elsewhere eichenlaub other 
+precipitation fairly evenly distribute throughout year june month high average precipitation 
+february month low average precipitation 
+the tricounty region average snowfall 
+about precipitation region eventually become streamflow remainder consume way evaporation transpiration seepage deep ground water reservoir process 
+streamflow most tri county region drain north west grand river major tributary include maple river look glass river red cedar river thornapple river fig 
+small area southeastern ingham county drain east small area southwestern part eaton county drain south 
+streamflow subdivide direct runoff base flow component 
+direct runoff associate precipitation exceed soil infiltration capacity flow overland directly stream 
+base flow associate precipitation infiltrate soil percolate plant root depth unsaturated zone ground 
+some percolating water join deep zone permanently saturate 
+this water flow stream sustains flow period precipitation 
+report water permanently saturate zone refer ground water 
+base flow characteristic stream use help determine amount precipitation recharge ground water tri county region 
+information base flow fix location along stream provide data obtain continuousrecord partial record gaging station 
+continuousrecord station provide daily mean streamflows year use develop streamflow hydrographs 
+hydrograph analysis technique 
+commonly used estimate ground water contribution streamflow rutledge daniel 
+study streamflow partitioning rutledge use estimate ground water component use data continuous record streamflow gag station table 
+data partial record streamflow gag station use supplement information continuous record station 
+instantaneous streamflow measurement statistically related daily mean streamflow nearby continuous record gaging station use maintenance variance estimator hirsch 
+the estimate base flow partial record station list table 
+aquifer confine unit glacial deposit uppermost aquifer tri county region 
+aquifer glacial deposit compose coarse alluvial outwash material 
+glacial deposit direct contact underlie saginaw aquifer 
+the saginaw aquifer water bearing sandstone grand river saginaw formation fig 
+water assume move slower shale tight material sandstone 
+the saginaw aquifer underlies tri county region range thickness 
+the saginaw confine unit separate saginaw aquifer underlie unit 
+tricounty region thickness saginaw confine unit generally range although lithologic log well indicate confine unit may either locally absent much thick westjohn weaver fig 
+for purpose study saginaw confine unit assume hydraulically isolate saginaw aquifer deep aquifer 
+ground water level flow the hydraulic head point aquifer estimate measure depth water well open point aquifer 
+groundwater level well screen across water surface indicate position water table well tap deeper part aquifer indicate composite hydraulic head screen open interval 
+simulation ground water flow saginaw aquifer clinton eaton ingham county michigan 
+base map michigan resource information system michigan department environmental quality land water management division 
+east north coordinate reference michigan state plane system south zone 
+east thousand foot 
+mile kilometer 
+boundary tri county region continuous record gag station partial record gaging station 
+streamflow gaging station use analysis ground water flow tri county region michigan 
+description study area 
+table continuous record streamflow gag station tri county region michigan use analysis ground water flow 
+map index cio 
+usgs gaging station 
+station name orchard creek munith red cedar river near williamston deer creek near dansville sloan creek near williamston red cedar river east lansing sycamore creek near holt grand river lansing carrier creek near lansing grand river portland look glass river near eagle 
+drainage area square mile 
+bkase low cubic foot per second 
+partial record streamflow gag station tri county region michigan use analysis ground water flow 
+map index m10 mil m12 m13 m14 m15 m16 m17 m18 m19 m20 m21 m22 m23 m24 m25 
+usgs gaging station 
+stream huntoon creek unnamed tributary grand river red cedar river doan creek willow creek sycamore creek mud creek sycamore creek grand river prayer creek look glass river bear creek maple river little maple river little maple river little maple river maple river baker creek stony creek muskrat creek libhart creek little libhart creek thornapple river thornapple river 
+tributary grand river perry creek lake michigan grand river red cedar river sycamore creek red cedar river sycamore creek red cedar river lake michigan grand river grand river maple river grand river maple river maple river maple river grand river maple river maple river stony creek grand river libhart creek grand river grand river 
+drainage sqarueaare mile 
+number mmeaesnutrse 
+base flow estimate cubic foot per second 
+simulation ground water flow saginaw aquifer clinton eaton ingham county michigan 
+unconfined aquifer estimate water table altitude obtain measure stage hydraulically connect lake perennial stream 
+tricounty region data well contain state ground water data base sgdb system businski michigan department environmental 
+quality write commun data watersurface altitude lakes contour crossing perennial stream channel post minute topographic map measurement observation well use make initial estimate grind water level figs 
+base map michigan resource information system michigan department environmental quality land water management division 
+east north coordinate reference michigan state plane system south zone 
+east thousand foot 
+mile kilometer 
+boundary model area tri county region ground water level observation location 
+well screen glacial deposit tri county region michigan water level measure 
+description study area 
+*»' stlipi 
+tsv »-..~. 
+base map michigan resource information system michigan department environmental quality land water management division 
+east north coordinate reference michigan state plane system south zone 
+east thousand foot 
+mile kilometer 
+explanation boundary model area tri county region observation well measure periodically measure daily 
+well complete saginaw aquifer tri county region michigan water level measure one time 
+simulation ground water flow saginaw aquifer clinton eaton ingham county michigan 
+contour map water table altitude hydraulic head provide indication flow aquifer 
+ground water flow area high low water table altitude hydraulic head 
+water flow aquifer equal ease horizontal direction hydraulic conductivity aquifer consider horizontally isotropic 
+horizontally isotropic aquifer ground water flow perpendicular contour line 
+history water resource development historically ground water principal source water supply tri county region 
+the city lansing mich obtain water well screen aquifer glacial deposit well drill saginaw aquifer add 
+the village webberville mich switch aquifer glacial deposit saginaw aquifer 
+other michigan municipality include eaton rapid mason williamston use combination well complete aquifer glacial deposit saginaw aquifer 
+baltusis other summarize source annual withdrawal ground water 
+change grind water withdrawal closely match change population lansing fig 
+ground water withdrawal increase steadily however withdrawal since nearly constant 
+tri county region data show public supply withdrawal occur saginaw aquifer percent aquifer glacial deposit percent 
+the remain publicsupply withdrawal percent marshall aquifer southwestern eaton county fig 
+total ground water withdrawal tricounty region municipality withdraw percent luukkonen 
+most water publicly supply eaton ingham county water selfsupplied clinton county 
+eluc jeto 
+uvno wat gilaliolnc 
+ground water withdrawal population 
+itu uuu 
+ground water withdrawal population lansing michigan 
+marshall aquifer percent glacial deposit percent saginaw aquifer percent figure 
+source water public supply tri county region michigan 
+simulation ground water flow conceptual model the conceptual model ground water flow synthesize available geologic hydrologic data form amenable analysis 
+principal element conceptual model ground water flow direction flow system boundary 
+simulation ground water flow 
+ground water flow glacial deposit generally south north fig 
+away topographic divide towards surface water body 
+thus drainage divide assume groundwater flow divide water glacial deposit 
+most ground water flow saginaw aquifer south north although small amount toward local pumping center fig 
+flow across east west model area sandstone saginaw formation thin absent minimal 
+the saginaw aquifer recharge principally leakage glacial deposit 
+generally ground water flow toward maple river form north hydrologic boundary model area locally ground water flow toward south hydrologic boundary 
+ground water also discharge locally bedrock glacial deposit beneath valley major stream 
+the bottom saginaw aquifer assume impermeable 
+another assumption conceptual model steady state ground water flow net gain loss ground water flow system 
+conceptual model recharge precipitation flow model area across model boundary equal discharge streams well flow model area across model boundary 
+implicit steadystate assumption measure head flow represent long term average condition true steady state condition occur 
+however relative constancy ground water withdrawal since fig 
+constancy average precipitation evaporation rate make steady state assumption tenable 
+numerical model ground water flow simulate use modflow mcdonald harbaugh numerical model simulates flow three dimension solve finite difference approximation partial differential equation describe groundwater flow porous medium 
+the numerical model use simulate steady state ground water flow 
+consequently ground water storage term temporal discretization require solution 
+model grid layer the model area rectangular area center tri county region fig 
+the model area long north south wide east west 
+this area horizontally discretized grid equally space cell row column 
+each cell 
+the model area vertically discretized two layer upper layer represent aquifer glacial deposit low layer represent saginaw aquifer 
+each grid cell represent average aquifer property volume aquifer represent cell thus variation property within volume represent grid cell cannot represent model 
+the model grid orient southern zone michigan state plane coordinate system display usgs minute topographic quadrangle map 
+the minimum east coordinate model area maximum east minimum north maximum north boundary condition report boundary condition refer hydraulic condition select cell flow enter exit model 
+boundary classify either external internal 
+external boundary form perimeter around define active model area 
+about percent cell tri county regional ground water flow model area active 
+boundary condition consistent conceptual model specify layer model 
+boundary condition upper layer represent external internal boundary 
+external boundary condition upper layer constant head flow fig 
+flow boundary locate drainage divide ground water divide constant head cell locate along grand river south maple grand river north 
+the upper boundary upper layer water table represent specify flow equal spatially distribute recharge rate 
+internal boundary upper layer head dependent flow river cell 
+simulation ground water flow saginaw aquifer clinton eaton ingham county michigan 
+base map michigan resource information system michigan department environmental quality land water management division 
+east north coordinate reference michigan state plane system south zone 
+east thousand foot 
+mile kilometer 
+explanation water level contour contour interval foot 
+datum sea level boundary model area tri county region ground water level observation location 
+ground water level glacial deposit model area tri county region michigan 
+simulation ground water flow 
+base map michigan resource information system michigan department environmental quality land water management division 
+east north coordinate reference michigan state plane system 
+south zone 
+east thousand foot 
+mile kilometer 
+water level contour dash approximately locate 
+contour interval foot 
+datum sea level boundary model area tri countv region ground water level observation location 
+ground water level saginaw aquifer model area tri county region michigan 
+simulation ground water flow saginaw aquifer clinton eaton ingham county michigan 
+base map michigan resource information system michigan department environmental quality land water management division 
+east north coordinate reference michigan state plane system south zone 
+east thousand foot 
+mile kilometer 
+flow cell constant head cell river and lake cell 
+grid upper layer boundary condition model area tri county region michigan 
+simulation ground water flow 
+boundary head value base contour data show usgs minute topographic quadrangle map linear interpolation use necessary estimate head value cell contour 
+flow river cell govern stream stage simulate head stream cell conductance streambed material mcdonald harbaugh 
+the low boundary upper layer bedrock surface 
+external boundary condition low layer constant head flow 
+flow boundary outside outermost active cell upper layer except constant head cell locate along grand river south 
+for part flow cell locate little sandstone present saginaw formation 
+north noflow cell require water discharge grand maple river consistent conceptual model 
+river cell locate low layer saginaw formation crop near grand ledge 
+the low boundary low layer bottom saginaw aquifer flow boundary 
+finally ground water withdrawal public supply well represent sink term upper low layer 
+spatial distribution input property spatial distribution input property include geologic hydrologic characteristic need ground water flow simulation 
+input property discretized model configuration field measurement source information 
+model input property include geometry model layer grind water recharge rate initial estimate spatial variation aquifer hydraulic property include transmissivity saginaw aquifer horizontal hydraulic conductivity glacial deposit vertical hydraulic conductivity saginaw aquifer glacial deposit streambed conductance 
+discussion method use determine input property follow 
+layer geometry layer geometry spatial variation altitude top bottom upper low layer 
+land surface altitude use top glacial deposit 
+land surface altitudes tricounty region fig 
+estimate basis point altitude data display usgs minute map study area 
+the point altitude data include vertical control station generally show altitude round near foot road intersection contour line cross centerline perennial stream 
+land surface approximate triangulation linear interpolation keckler data vertical control station contour crossing stream 
+land surface altitude use combination well log data estimate altitude water table 
+after well drill depth land surface water record well log 
+for well depth water measure altitude ater table could calculate subtract depth water interpolate land surface altitude 
+these water level data along data contour crossing stream define altitude water table 
+for model simulation top upper layer altitude water table defines top unconfined aquifer 
+the bottom upper layer fig 
+also top low layer upper surface pennsylvanian rock westjohn weaver 
+the bottom low layer determine basis surface configuration parmabayport aquifer westjohn weaver 
+the saginaw confine unit think separate pennsylvanian rock parma bayport aquifer 
+for purpose study thickness saginaw confine unit assumed average tri county region 
+thus altitude bottom low layer calculate surface parma bayport aquifer plus fig 
+simulation ground water flow saginaw aquifer clinton eaton ingham county michigan 
+base map michigan resource information system michigan department environmental quality land water management division 
+east north coordinate reference michigan state plane system south zone 
+east thousand foot 
+mile kilometer 
+land surface altitude contour interval foot 
+datum sea level boundary model area tri county region 
+estimate land surface altitude model area tri county region michigan 
+simulation ground water flow 
+base map michigan resource information system michigan department environmental quality land water management division 
+east north coordinate reference michigan state plane system south zone 
+east thousand foot 
+mile kilometer 
+explanation bedrock contour show altitude bedrock surface 
+contour interval foot 
+datum sea level boundary model area tri county region 
+altitude bottom upper model layer tri county region michigan 
+simulation ground water flow saginaw aquifer clinton eaton ingham county michigan 
+base map michigan resource information system michigan department environmental quality land water management division 
+east north coordinate reference michigan state plane system south zone 
+east thousand foot 
+mile kilometer 
+explanation bedrock contour show altitude bedrock surface 
+contour interval foot 
+datum sea level boundary model area tri county region 
+altitude bottom low model layer tri county region michigan 
+simulation ground water flow 
+ground water recharge rate the spatial variation average ground water recharge rate fig 
+determine analysis relate base flow characteristic streams land use basin characteristic low peninsula michigan holtschlag 
+basis study minimum average annual recharge tri county region maximum spatial average groundwater recharge rate 
+hydraulic property aquifer value assign hydraulic property aquifer control simulate ground water flow model layer 
+for study hydraulic property aquifer determine product matrix dimension equal model grid contain initial estimate hydraulic property constant determine model calibration 
+the physical evidence methodology use develop matrix initial estimate hydraulic property describe follow paragraph 
+transmissivity saginaw aquifer the horizontal flow water saginaw aquifer assume proportional composite sandstone thickness pennsylvanian rock 
+water assume move slower shale tight material sandstone 
+the sandstone whose composite thickness range thick northern part tricounty region 
+the hydraulic conductivity sandstone initially estimate basis local aquifer test result fisher michigan department public health write commun 
+the transmissivity saginaw aquifer equal estimate hydraulic conductivity sandstone time composite sandstone thickness 
+initial estimate transmissivity range ft2 
+transmissivity high central part model area low along west south east boundary model area 
+horizontal hydraulic conductivity glacial deposit the horizontal flow water glacial deposit control hydraulic conductivity varies texture unconsolidated material 
+because local variability non homogeneity glacial deposit statistical technique use provide initial estimate spatial variation hydraulic conductivity basis well log data hydraulic conductivity commonly associate lithologic material 
+well drillers routinely record thickness texture material well drill 
+tri county region driller log well computerized various governmental agency improve access analysis 
+well log produce experienced drillers drill well tri county region 
+during process computerize well log strata code assign michigan geological survey similar lithology 
+for analysis hydraulic conductivity associate strata code table take midpoint hydraulic conductivity range similar material report freeze cherry 
+effective hydraulic conductivity compute well use procedure describe mcdonald harbaugh 
+initial estimate spatial variation hydraulic conductivity glacial deposit also base analysis hydraulic conductivity compute individual well 
+identify possible difference interpretation similar geologic material among drillers distribution effective hydraulic conductivity compare among drillers drill well tri county region 
+for driller distribution hydraulic conductivity tend skew small proportion value much great average 
+comparison distribution among drillers aid use square root transformation tend make distribution nearly symmetrical 
+comparison indicate distribution compute hydraulic conductivity similar among drillers fig 
+data driller driller tend produce somewhat high average value deviation may reflect either difference interpretation similar geologic material local difference geologic property well drill 
+simulation ground water flow saginaw aquifer clinton eaton ingham county michigan 
+base map michigan resource information system michigan department environmental quality land water management division 
+east north coordinate reference michigan state plane system south zone 
+east thousand foot 
+data holtschlag 
+mile kilometer 
+annual recharge rate inch per year less great boundary model area tri county region 
+spatial variation average ground water recharge model area tri county region michigan 
+simulation ground water flow 
+estimate hydraulic conductivity associate stratum code statewide ground water data base michigan 
+hydraulic conductivity foot per day 
+stratum code 
+lithologic description hard clay clay clay fill soft clay fine sandy clay sandy clay sandy silty clay clay sand silty clay silt sandy silt muck marl clay gravel hardpan till top soil drift organic soil black dirt fill sand clay sand clay gravel clay peat sand sandy fill fine sand silty sand medium sand coarse sand sand gravel water sand sand gravel gravel gravel sand fine gravel medium gravel coarse gravel water gravel gravel cobble gravel boulder boulder 
+the spatial correlation characteristic compute effective hydraulic conductivity also investigate 
+spatial correlation quantifies similarity hydraulic conductivity individual well change function separation distance 
+spatial correlation commonly interpreted basis variogram analysis 
+study empirical variograms model sum white noise nugget component monotonically increase function separation distance describe gaussian component marsily 
+the general variogram model write value variogram separation distance parameter associate nugget component kronecker delta function take nonzero value 
+parameter associate gaussian component 
+effective horizontal hydraulic conductivity value transform square root function facilitate identification spatial correlation structure 
+record drillers reveal spatial correlation structure record include data well use subsequent kriging analysis 
+variogram model estimate adjust model parameter table model estimate match empirical variogram 
+the interpretation variogram driller show figure 
+ordinary kriging cressie use map smooth estimate spatial variation hydraulic conductivity 
+block average estimate associated variance compute cell model grid basis driller set well correspond variogram model 
+simulation ground water flow saginaw aquifer clinton eaton ingham county michigan 
+abcdefgh klmnopqr 
+driller code 
+outside value upper whisker 
+upper quartile median low quartile lower whisker 
+whisker show range value fall within time difference upper quartile lower quartile 
+distribution effective horizontal hydraulic conductivity glacial deposit model area tri county region michigan 
+simulation ground water flow 
+parameter model sample variogram hydraulic conductivity tri county region michigan 
+drillers record use define spatial correlation structure 
+driller code 
+number well 
+parameter variogram model horizontal hydraulic conductivity 
+parameter variogram model vertical hydraulic conductivity 
+data individual well drillers well split two group due memory limitation software 
+curve represent variogram model 
+minimum variance estimate hydraulic conductivity model cell compute weight estimate determine basis individual driller record inverse proportion corresponding variance 
+the initial estimate spatial variation effective horizontal hydraulic conductivity determine square weight average 
+initial estimate horizontal hydraulic conductivity range 
+horizontal hydraulic conductivity high west central part model area low north south part model area 
+separation distance foot 
+variogram effective horizontal hydraulic conductivity glacial deposit compute basis well log driller model area tri county region michigan 
+vertical hydraulic conductivity vfrtiml r1rjuilir rrmrhirti vitv hptw ppn hip slaoinavi aquifer glacial deposit assume controlled effective vertical hydraulic conductivity glacial deposit 
+effective vertical hydraulic conductivity mcdonald harbaugh compute logs drillers drill well tri county region base value hydraulic conductivity associate specific stratum code 
+simulation ground water flow saginaw aquifer clinton eaton ingham county michigan 
+the distribution effective vertical hydraulic conductivity skew distribution effective horizontal hydraulic conductivity 
+natural logarithm transformation use reduce distributional asymmetry facilitate comparison among drillers 
+after transformation distribution effective vertical 
+hydraulic conductivity several drillers show tri modal characteristic mode natural logarithm scale fig 
+this characteristic exaggerate apparent variability interquartile range difference logarithms hydraulic conductivity upper low quartile among drillers 
+bcdefghi driller code explanation outside value upper whisker upper quartile median low quartile lower whisker whisker show range value fall within time difference upper quartile lower quartile figure 
+distribution effective vertical hydraulic conductivity glacial deposit model area tri county region michigan 
+simulation ground water flow 
+the spatial correlation structure effective vertical hydraulic conductivity interpret basis variogram analysis 
+the empirical variograms model fig 
+sum nugget component gaussian component table similar analysis effective horizontal hydraulic conductivity 
+ordinary block kriging use develop estimate spatial variation effective vertical hydraulic conductivity associate variance record individual drillers 
+weighted average estimate compute weighted average exponentiated provide initial estimate spatial variation effective vertical hydraulic conductivity 
+initial estimate vertical hydraulic conductivity range 4xlo 2xlo 
+vertical hydraulic conductivity high southern part model area low northern part model area 
+modflow vertical leakance value compute divide vertical hydraulic conductivity local thickness glacial deposit use simulation 
+curve represent variogram model 
+streambed conductance the vertical flow ground water aquifer stream control streambed conductance 
+modflow streambed conductance compute product hydraulic conductivity streambed material stream length stream width divide streambed thickness mcdonald harbaugh 
+simplify estimation response interrelate property hydraulic conductivity streambed material stream length streambed thickness assume constant stream model area 
+stream width divide four size class correspond average width fig 
+hydraulic conductivity streambed material initially estimate 
+stream length specify equal length cell streambed thickness arbitrarily assign model calibration model calibration process adjust number value select model parameter reduce model error difference simulate measure hydraulic head flow 
+model error result simplification flow system conceptual model finite difference approximation 
+model error usually reduce increase number model parameter 
+however increase number parameter also increase estimation error result uncertainty true parameter value yeh 
+thus appropriate balance model error estimation error need 
+separation distance foot 
+variogram effective vertical hydraulic conductivity glacial deposit compute basis well log driller model area tri county region michigan 
+parameter estimation technique study ground water flow model calibrate use nonlinear regression method develop cooley naff modify hill use modflow 
+the nonlinear regression method modflowp automate method calculate optimal parameter value 
+simulation ground water flow saginaw aquifer clinton eaton ingham county michigan 
+base map michigan resource information system michigan department environmental quality land water management division 
+east north coordinate reference michigan state plane system south zone 
+east thousand foot 
+mile kilometer 
+assume stream width foot boundary model area tri county region 
+distribution stream size class model area tri county region michigan 
+simulation ground water flow 
+modflowp optimal parameter value minimize sum squared error sse 
+difference observe simulated value measurement 
+square root weight assign error observe value measurement 
+weight residual corresponding measurement 
+number measurement 
+because calculate parameter value optimal give set assumption aquifer 
+system remain error result assumption incorrect 
+scale parameter sensitivity compute parameter estimate modflowp 
+the set scale sensitivity associate model parameter compute 
+measurement hydraulic head flow estimate model parameter 
+scale sensitivity measure much simulate head flow vary change model parameter 
+parameter low sensitivity little effect simulate result cannot estimate accurately regression trial error 
+sensitivity low parameter regression converge solution 
+iterative analysis parameter sensitivity alternative model form result selection fourparameter model 
+the select model form contain parameter scale initial estimate spatial variation aquifer hydraulic property match head flow measurement 
+the four model parameter multiplicative constant matrix contain initial estimate transmissivity saginaw aquifer horizontal hydraulic conductivity glacial deposit vertical hydraulic conductivity saginaw aquifer glacial deposit streambed conductance 
+initial parameter estimate once form regression model identify optimal parameter estimate nonlinear regression vary initial parameter estimate minimize weighted sum square error 
+analysis parameter vary start value mass balance error compute modflow eliminate compute measure head flow reasonably consistent total flow constant head node within plausible range 
+measurement weight the error criterion use analysis weight sum square residual 
+the measurement weight account difference measurement accuracy difference unit measurement 
+general weight assign measurement whose measurement variance low 
+somewhat arbitrary weight factor apply data head measurement also flow measurement affect parameter estimate 
+the weighting strategy use model calibration describe 
+head data use calibration groundwater flow model obtain three source 
+first sgdb contain head measurement compile drillers log 
+upper layer lower layer 
+measurement upper layer restrict particular time period 
+however measurement low layer restrict period local trend historical ground water head data associate change pump condition 
+second ground water level upper layer inferred water surface altitude post lake contour crossing perennial stream minute topographic map 
+and third head measurement obtain nine monitoring well low layer 
+error head measurement assume normally distribute 
+measurement sgdb altitude surface water body estimate accurate within percent time 
+this level precision correspond standard deviation 
+this uncertainty associate estimate datum topographic map measure depth water recently develop well fluctuation level surface water body 
+measurement monitor well estimate accurate within percent time level precision correspond standard deviation 
+simulation ground water flow saginaw aquifer clinton eaton ingham county michigan 
+this great precision consider appropriate datum monitor well commonly establish field survey measurement obtain specially trained equip observer 
+the average head model cell upper layer model cell low layer compute basis measure head data 
+the minimum variance estimate average head model cell compute weight individual head measurement within cell inverse proportion respective variance standard deviation previous paragraph square 
+correspond estimate variance average head within cell also compute 
+streamflow data use calibrate groundwater flow model originate daily mean streamflow data continuous record gaging station streamflow measurement data partial record gaging station 
+daily mean streamflows gag station tri county region disaggregated surface runoff base flow component table use streamflow partitioning technique rutledge 
+the average base flow component assume represent average ground water discharge 
+although precise measure uncertainty estimate base flow available assumption analysis standard error base flow estimate percent 
+statistical model develop streamflow measurement partial record gaging station correspond daily mean streamflow continuous record gaging station fig 
+base flow partial record station table estimated statistical relation base flow determine continuous record gag station table 
+uncertainty base flow partial record station base standard error statistical relation 
+the incremental ground water discharge gag station compute difference base flow station 
+the variance increment compute sum variance base flow estimate upstream downstream reach limit 
+ground water discharge upstream upstream gag station stream take base flow station 
+initial estimate standard error average head model cell adjust preliminary modflowp run increase relative significance streamflow data measure cubic foot per second correspond closely error characteristic compute parameter estimation model 
+final estimate standard error average head within cell compute multiply initial estimate standard deviation add optimal parameter estimate the optimal value four parameter estimate use nonlinear regression give table 
+the optimization reduce weighted sum square residual percent initial value 50xl05 minimum value 05xl03 
+the estimate standard deviation optimal value indicate parameter likely significantly different zero however exact level significance could determine linear estimation 
+the model determine nonlinear basis modify beale measure hill could calculate optimal parameter set 
+parameter estimate coefficient multiply matrix describe spatial variation hydraulic property tri county region michigan 
+initial optimal 
+estimate value estimate value sensitivity standard deviation coefficient variation 
+transmissivity saginaw aquifer foot square per day 
+hydraulic conductivity within glacial deposit foot per day 
+vertical leakance saginaw aquifer glacial deposit per day 
+streambed conductance foot square per day 
+simulation ground water flow 
+correlation parameter complicate estimation interpretation parameter value however analysis large correlation parameter absolute value 
+this correlation far value might indicate estimation problem collinear 
+addition interpretation parameter simplify weighted residual normally distribute 
+although evidence weight residual quite normally distribute correlation order weighted residual correspond standard normal deviate high 
+the estimate transmissivity saginaw aquifer horizontal hydraulic conductivity glacial deposit model area compute product correspond parameter estimate matrix describe spatial variation 
+vertical hydraulic conductivity saginaw aquifer glacial deposit compute product parameter estimate matrix vertical leakance value multiply local thickness glacial deposit 
+the result range transmissivities horizontal hydraulic conductivity vertical hydraulic conductivity 7x10 0x10 fig 
+streambed hydraulic conductivity estimate 
+simulation result pump condition model simulation use compute ground water head flow tri county region 
+comparison simulate measured head mean assess model adequacy specific application 
+ground water head simulate ground water head upper low layer generally consistent measure head 
+upper layer fig 
+percent simulate head within measure head percent simulate head within measure head 
+the standard 
+error difference simulate measure head 
+upper layer great difference simulate measured head south central part model area 
+low layer fig 
+percent simulate head within measure head percent simulate head within measure head 
+the standard error difference simulate measure head 
+low layer great difference simulate measured head central part model area 
+the tendency simulate head overestimate compute head less sea level may associate local drawdown average head compute measurement adequately represent average cell head may indicate model limitation 
+the spatial variation simulate ground water head upper low layer show figure 
+ground water flow aid model calibration simulate discharge ground water stream flow cell upper layer designate river compare estimate groundwater flow develop basis streamflow measure continuous partial record streamflow gag station table 
+the result indicate estimate consistent line agreement fig 
+model area percent simulate streamflows within estimate base measure flow percent within ft3 
+four reach streams indicate discharge aquifer basis streamflow measurement simulate receive water aquifer model however magnitudes flow small relative overall budget model 
+area great discrepancy estimate generally near model boundary 
+simulation ground water flow saginaw aquifer clinton eaton ingham county michigan 
+base map michigan resource information system michigan department environmental quality land water management division 
+east north coordinate reference michigan state plane system south zone 
+east thousand foot 
+mile kilometer 
+transmissivity foot square per day 
+boundary model area tri county region figure 
+estimate transmissivity saginaw aquifer model area tri county region michigan 
+simulation ground water flow 
+base map michigan resource information system michigan department environmental quality land water management division 
+east north coordinate reference michigan state plane system south zone 
+east thousand foot 
+mile kilometer 
+horizontal hydraulic conductivity foot per day 
+boundary model area tri county region 
+estimate horizontal hydraulic conductivity glacial deposit model area tri county region michigan 
+simulation ground water flow saginaw aquifer clinton eaton ingham county michigan 
+base map michigan resource information system michigan department environmental quality land water management division 
+east north coordinate reference michigan state plane system south zone 
+east thousand foot 
+mile kilometer 
+vertical hydraulic conductivity foot per day 
+boundary model area tri county region 
+estimate vertical hydraulic conductivity saginaw aquifer glacial deposit model area tri county region michigan 
+simulation ground water flow 
+average ground water head compute from measurement foot above sea level figure 
+relation measure simulated head cell glacial deposit tri county region michigan 
+ground water flow simulation pump condition use develop steady state ground water flow budget fig 
+use computer program zonebudget harbaugh 
+the budget indicate glacial deposit receive recharge land surface recharge streams surface water body 
+recharge discharge stream either internally model externally 
+net discharge drain upper layer recharges low layer upper layer withdrawn well 
+low layer approximately amount water recharges saginaw aquifer glacial deposit withdraw well 
+small amount water discharge directly low layer stream 
+the error compute water balance less percent 
+average ground water head compute from measurement foot above sea level figure 
+relation measure simulated head cell saginaw aquifer tri county region michigan 
+expect future pump condition ground water saginaw aquifer primary source water tri county resident 
+percent ground water withdraw public system withdraw saginaw aquifer luukkonen 
+drought subsequent water ration tri county region prompt local community assess adequacy water resource future need 
+regional water feasibility study do evaluate development regional water supply system assess total sustainable yield aquifer system identify area future water supply tri county regional planning commission 
+simulation ground water flow saginaw aquifer clinton eaton ingham county michigan 
+base map michigan resource information system michigan department environmental quality land water management division 
+east north coordinate reference michigan state plane system south zone 
+east thousand foot 
+mile kilometer 
+explanation water level contour show altitude simulate ground water head 
+contour interval foot 
+datum sea level boundary model area tri county region 
+simulated head glacial deposit pump condition model area tri county region michigan 
+simulation ground water flow 
+base map michigan resource information system michigan department environmental quality land water management division 
+east north coordinate reference michigan state plane system south zone 
+east thousand foot 
+mile kilometer 
+explanation water level contour show altitude simulate ground water head 
+contour interval foot 
+datum sea level boundary model area tri county region 
+simulated head saginaw aquifer pump condition model area tri county region michigan 
+simulation ground water flow saginaw aquifer clinton eaton ingham county michigan 
+partial record gag station continuous record gaging station 
+ground water component streamflow determine from streamflow measurement cubic foot per second 
+relation measure simulated streamflow tri county region michigan see fig 
+gag station location 
+the ability ass effect alternative pump scenario prior implementation effective ground water management tool 
+water supply requirement project year use population forecast current per caput wateruse characteristic jon coleman tri county regional plan commission write commun 
+three pump scenario develop basis projection exist water supply network project area increase demand tricounty regional planning commission 
+scenario depict increase pump mgal mgal 
+hypothetical new well field delhi township bath township use supply additional water 
+simulation result fig 
+indicate lower water level saginaw aquifer pump condition near hypothetical new well field dewatering area mi2 delhi township glacial deposit 
+simulation ground water flow 
+upper layer 
+low layer 
+not scale 
+explanation unit inch per year recharge boundary outflow upper layer boundary outflow lower layer flow well upper layer flow well low layer infiltration stream discharge streams downward flow layer upward flow layer 
+ground water model budget component pump condition tri county region michigan 
+scenario depict total pumpage mgal hypothetical new well field delhi township delta township 
+simulation result fig 
+indicate increase withdrawal would lower ground water level saginaw aquifer pump condition near hypothetical new well field dewater area glacial deposit mi2 delhi township delta township 
+scenario depict total pumpage mgal new well field delhi township bath township well increased pumpage exist well tri county region 
+simulation result fig 
+indicate increase withdrawal would lower water level saginaw aquifer pump condition near hypothetical new well field dewater area glacial deposit mi2 delta township 
+delineation contribute area ground water resource naturally replenish infiltration precipitation subsequent percolation water geologic material contribute area 
+although process necessary sustain ground water resource also potential transport contaminant pump well 
+simulate ground water flow estimate effective porosity value use particletracking model pollock delineate contribute area public supply well 
+the particle track program modpath use semianalytical particle track scheme 
+the method base assumption directional velocity component water particle varies linearly within cell coordinate direction 
+simulation ground water flow saginaw aquifer clinton eaton ingham county michigan 
+base map michigan resource information system michigan department environmental quality land water management division 
+east north coordinate reference michigan state plane system south zone 
+east thousand foot 
+mile kilometer 
+location dry cell within the upper layer 
+line equal drawdown show simulate drawdown condition 
+interval foot 
+boundary model area tri county region 
+simulated change water level low layer condition model area tri county region michigan result implementation scenario 
+simulation ground water flow 
+base map michigan resource information system michigan department environmental quality land water management division 
+east north coordinate reference michigan state plane system south zone 
+east thousand foot 
+mile kilometer 
+location dry cell within the upper layer 
+line equal drawdown show simulate drawdown condition 
+interval foot 
+model area tri county region 
+simulated change water level low layer condition model area tri county region michigan result implementation scenario 
+simulation ground water flow saginaw aquifer clinton eaton ingham county michigan 
+base map michigan resource information system michigan department environmental quality land water management division 
+east north coordinate reference michigan state plane system south zone 
+east thousand foot 
+mile kilometer 
+location dry cell within the upper layer line equal drawdown show simulate drawdown condition 
+interval foot boundary model area tri county region 
+simulated change water level low layer condition model area tri county region michigan result implementation scenario 
+simulation ground water flow 
+this assumption allow analytical expression describe flow path within cell obtain 
+the particle track move cell cell steady state three dimensional flow system 
+effective porosity describe relative void non solid space volume geologic material estimate percent upper low layer value consistent range report marsily type material 
+the particle track program use specify location hypothetical water particle along face cell contain one well 
+particle distribute along cell face proportion total well pumpage simulate 
+well simulate cell low model layer nine township area fig 
+combine withdrawal well mgal 
+the particle track backward time ground water flow velocity field reach top cell face upper layer 
+thus position end simulation represent start position particle 
+this collection start location project land surface represent contribute area pump well 
+the particle track result base steady state ground water flow advection dispersion consider 
+qualitatively however effect dispersion would enlarge contribute area 
+pump condition simulate distribute particle along face cell contain one public supply well 
+the contribute area well encompass model cell total consists disconnect zones central south central part model area fig 
+addition year time travel area identify particle whose time travel year less delineated position particle fig 
+the 40year time travel area encompass model cell total mi2 consist disconnect zone central part model area 
+use tritium data confirm particletracking result tritium radioactive isotope hydrogen 
+tritiated water physical chemical property similar non tritiated water 
+tritium produce naturally low level reaction cosmic ray water upper atmosphere 
+payne estimate tritium concentration precipitation range tritium units2 
+basis estimate range natural concentration tritium ground water year old reference date would naturally decrease radioactive decay base half life year 
+late large quantity tritium introduce atmosphere begin atomic testing atmosphere 
+the result elevated concentration tritiated water provide marker use date ground water 
+thus ground water whose tritium concentration great would expect entered ground water system less year ago 
+tri county region water well sample tritium three investigation fig 
+slayton sample well southern half model area water well tritium concentration exceed 
+ritter sample well meridian township near center model area water well tritium concentration exceed 
+during investigation well sample throughout model area water well tritium concentration exceed 
+particle track analysis use estimate time travel well sample tritium 
+particle place face cell contain sample well 
+each select cell contain particle 
+during simulation particle track backward time select cell upper cell face upper layer thus position end simulation represent start position particle 
+particle take year less travel upper cell face upper layer cell contain sampled well represent water recharge aquifer since 
+tritium unit equal tritium atom atom hydrogen 
+simulation ground water flow saginaw aquifer clinton eaton ingham county michigan 
+base map michigan resource information system michigan department environmental quality land water management division 
+east north coordinate reference michigan state plane system south zone 
+east thousand foot 
+o20n mmmilepcs 
+explanation nine township area boundary model area tri county region model cell with particle have time travel less than equal year 
+simulated contribute area public supply well nine township area tri county region michigan 
+simulation ground water flow 
+base map michigan resource information system michigan department environmental quality land water management division 
+east north coordinate reference michigan state plane system south zone 
+east thousand foot 
+mile kilometer 
+nine township area boundary model area tri county region public supply well model cell with particle have time travel less than equal year 
+simulated year time travel area public supply well nine township area tri county region michigan 
+simulation ground water flow saglnaw aquifer clinton eaton ingham county michigan 
+base map michigan resource information system michigan department environmental quality land water management division 
+east north coordinate reference michigan state plane system south zone 
+east thousand foot 
+mile kilometer 
+tritium concentration tritium unit detection limit well sample ritter concentration adjust value well sample slayton concentration adjust value well sample geological survey glacial well particle whose travel time less year saginaw well particle whose travel time less year saginaw well particle whose travel time less year 
+tritium concentration particle track result sample well model area tri county region michigan 
+simulation ground water flow 
+time travel estimate obtain particle track analysis compare tritium concentration water sample well 
+particletracking result well throughout model area indicate well correctly classify 
+that water well either great particle reach well less year less equal particle reach well less year 
+those incorrectly classify either great particle reach well less year less equal particle reach well less year 
+for two well few particle particle reach land surface less year whereas rest particle reach land surface less year 
+contingency table analysis result indicate degree concordance could occur probability less base chi square statistic 
+nine township area well sample correctly classify misclassified 
+thus whole model area nine township area ground water withdrawn result tritium sample support effectiveness particle track analysis 
+finally well sample investigation throughout model area correctly classify misclassified 
+thus reliability sample protocol analytical technique could readily verify result tritium sample support result particle track analysis 
+some discrepancy result tritium sample particle track analysis likely associate sampling water well fully penetrate aquifer model conceptualization saginaw aquifer single continuous unit 
+because saginaw aquifer form composite sandstone unit tritium concentration may vary depth 
+moreover particle track analysis account dispersion likely affect tritium distribution 
+limitation model result the ground water flow model develop simulate regional steady state response saginaw aquifer tri county region groundwater withdrawal typical apply 
+flow saginaw aquifer model single layer whose property base composite thickness sandstone unit pennsylvanian rock 
+however various sandstone unit separate less permeable material likely affect local flow head characteristic 
+local flow distance small dimension grid cell cannot accurately represent 
+additional geologic hydraulic data well fine discretization model would need simulate local flow system 
+the accuracy model limit data available estimate transmissivity saginaw aquifer horizontal hydraulic conductivity glacial deposit vertical hydraulic conductivity saginaw aquifer glacial deposit streambed conductance 
+initial estimate hydraulic property interpolate analysis available data 
+however interpolation process produce estimate hydraulic property less variable correspond property nature 
+model simulation restrict steady state condition 
+all stress within input system include well pumpages recharge remain constant throughout simulation 
+net gain loss flow simulate system 
+recharge precipitation flow model area across external boundary equal flow stream lake well flow model area across external boundary 
+implicit steady state assumption measure head flow represent long term average condition true steadystate condition occur 
+change storage water aquifer account steadystate simulation 
+thus current configuration ground water flow model cannot use simulate transient flow condition 
+external boundary condition specify basis natural hydrologic condition pump stress however use model simulate ground water withdrawal near external boundary cell may change boundary condition produce inaccurate result 
+simulate well pumpages assume come center grid cell 
+small pumpages domestic well include owe difficulty obtain reliable data limitation accurately represent small scale flow system 
+simulation ground water flow saginaw aquifer clinton eaton ingham county michigan 
+the accuracy particle track result limited accuracy flow model estimate effective porosity flow system linear approximation cell flow velocity local ground water flow velocity assumption dispersion 
+the model explicitly describe flow fracture fissure rock implicitly combine primary secondary permeability component describe average flow condition 
+the presence fracture fissure could create large heterogeneity local hydraulic property could result large discrepancy simulate actual time travel various constituent 
+particle track do ninetownship area near center model area 
+attempt apply result additional particle track result well near boundary model area would inappropriate 
+likewise detailed analysis contribute area small localize area might produce reliable result inability model represent local flow system 
+summary ground water flow model develop simulate regional steady state response saginaw aquifer major ground water withdrawal tri county region surround lansing michigan 
+ground water saginaw aquifer primary source water tri county resident 
+percent ground water withdraw public system pump saginaw aquifer 
+aquifer glacial deposit bedrock unit also important ground water source location 
+the saginaw aquifer grand river saginaw formation pennsylvanian age 
+these formation primarily sandstone range thickness thick northern part tri county region 
+glacial deposit leave ice advance late wisconsin time year present overlie saginaw aquifer 
+these deposit range texture lacustrine clay glacial till coarse alluvial outwash deposit 
+the glacial deposit range thickness foot thick northwestern part tri county region 
+ground water flow glacial deposit generally south north 
+the spatial variation recharge glacial deposit average 
+estimate basis regional relation determine low peninsula michigan holtschlag 
+initial estimate spatial variation horizontal vertical hydraulic conductivity glacial deposit determine basis geostatistical analysis lithologic data well 
+flow glacial deposit saginaw aquifer assume related vertical hydraulic conductivity glacial deposit 
+ground water flow saginaw aquifer also primarily south north 
+recharge saginaw aquifer principally leakage glacial deposit discharge primarily regional river system maple river 
+the spatial variation transmissivity saginaw aquifer associate composite thickness sandstone unit pennsylvanian rock 
+the saginaw confine unit assume prevent flow ground water saginaw aquifer underlie unit 
+the ground water flow model develop tri county region consist two layer upper layer represent aquifer glacial deposit low layer represent saginaw aquifer 
+the model area horizontally discretized grid equally space cell row column 
+each cell constant head flow cell use external boundary model constanthead river cell public supply well primarily use internal boundary 
+the model calibrate estimate four parameter use nonlinear regression 
+three parameter adjust initial estimate spatial variation aquifer hydraulic property one parameter estimate streambed conductance 
+after application three parameter matrices initial estimate result transmissivities saginaw aquifer range horizontal hydraulic conductivity glacial deposit range vertical hydraulic conductivity glacial deposit range 7x10 0x10 
+streambed hydraulic conductivity estimate 
+significant correlation find among estimate parameter 
+however nonlinear detect beale measure reliable confidence interval parameter could compute 
+the regression analysis improve initial parameter estimate minimize weighted residual form difference head measurement ground water flow 
+estimate simulate value 
+measurement weight account difference unit measurement head foot flow cubic foot per second difference number head flow data difference accuracy among head flow data 
+analysis model simulation result pump condition indicate percent simulate head value within measure value upper layer within low layer percent within measure value upper layer within low layer 
+simulation result also indicate percent simulate streamflows within ft3 percent within ft3 estimate streamflow estimate 
+three scenario simulate alternative pumping condition project year 
+the scenario represent average increase percent pump withdrawal 
+the result show area grind water level expect lowered condition scenario implement 
+contribute area delineate public supply well saginaw aquifer ninetownship area near center tricounty region 
+contribute area delineate use particle track analysis 
+result flow simulation pump condition indicate area cover mi2 
+contribute area particle whose traveltimes year less cover mi2 
+estimate effective porosity percent saginaw aquifer glacial deposit use computation 
+tritium concentration water well tri county region use confirm delineation year contribute area 
+tritium data indicate whether sample ground water recharge system atmospheric atomic testing begin 
+result tritium sample support result model simulation well sample throughout model area nine township area study 
+some discrepancy result 
+tritium sample model simulation think associate sample well fully penetrate aquifer difference sample analytical procedure study study do year earlier 
+reference cite baltusis quigley mandle municipal ground water development withdrawal central low peninsula michigan geological survey open file report cooley naff regression model ground water flow geological survey technique water resource investigation book chap 
+cressie noel statistic spatial data new york john wiley eichenlaub harman nurnberg stolle the climatic atlas michigan notre dame indiana the university notre dame press freeze cherry groundwater englewood cliff new jersey prentice hall inc geraghty miller inc modelcad computer aid design software groundwater model reston virginia geraghty miller inc harbaugh computer program calculate subregional water budget use result geological survey modular three dimensional finite difference ground water flow model geological survey open file report hill computer program modflowp estimate parameter transient threedimensional ground water flow model use nonlinear regression geological survey open file report hill five computer program test weighted residual calculate linear confidence prediction interval result groundwater parameter estimation computer program modflowp geological survey open file report 
+simulation ground water flow saginaw aquifer clinton eaton ingham county michigan 
+hirsch comparison four streamflow record extension technique water resource research 
+holtschlag generalize estimate groundwater recharge rate low peninsula michigan geological survey water supply paper keckler doug surfer windows user guide golden colo golden software luukkonen ground water withdrawal clinton eaton ingham county michigan geological survey fact sheet 
+mandle westjohn geohydrologic framework ground water flow michigan basin swain johnson eds regional aquifer system united state aquifer midwestern area 24th annual conference american water resource assoc milwaukee wise awra monograph series 
+marsily ghislain quantitative hydrogeology new york academic press mcdonald harbaugh modular three dimensional finite difference ground water flow model geological survey technique water resource investigation book chap 
+payne isotope hydrology adv 
+pollock documentation computer program compute display pathlines use three dimensional finite difference ground water flow model geological survey open file report ritter the use tritium confirm area groundwater recharge meridian township michigan east lansing michigan state university 
+thesis rutledge computer program describe recession ground water discharge estimate mean ground water recharge discharge streamflow record geological survey water resource investigation report 
+rutledge daniel iii test automate method estimate ground water recharge streamflow record ground water 
+march april 
+slayton field evidence shale membrane filtration groundwater south central michigan east lansing michigan state university 
+thesis tri county regional planning commission tricounty regional water feasibility study burn mcdonnell snell environmental group dickinson wright moon van busen freeman report 
+department commerce census population housing summary population housing characteristic michigan bureau census economics statistic administration report cph 
+vanlier wood brunett water supply development management alternative clinton eaton ingham county michigan geological survey water supply paper westjohn weaver zacharias hydrogeology pleistocene glacial deposit jurassic red bed central low peninsula michigan geological survey waterresources investigation report westjohn weaver hydrogeologic framework pennsylvanian late mississippian rock central low peninsula michigan geological survey water resource investigation report wheeler electric analog model study hydrology saginaw formation lansing michigan area east lansing michigan state university 
+dissertation wood geochemistry ground water saginaw formation upper grand river basin michigan east lansing michigan state university dissertation yeh review parameter identification procedure groundwater hydrology inverse problem water resource research 
+reference cite 

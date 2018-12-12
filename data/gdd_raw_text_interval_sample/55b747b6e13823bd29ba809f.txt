@@ -1,0 +1,885 @@
+Spatial Analysis of Geochemical
+and Geologic Information from the
+Tonopah 1° x 2° Quadrangle, Nevada
+. U.S. GEOLOGICAL SURVEY BULLETIN 1878
+
+Spatial Analysis of Geochemical and Geologic Information from the
+Tonopah 1°X2° Quadrangle, Nevada
+By JOHN L. DWYER and J. THOMAS NASH
+Experimental application of a geographic information system to the analysis and mapping of information used in a typical mineral resource assessment
+U.S. GEOLOGICAL SURVEY BULLETIN 1878
+
+U.S. DEPARTMENT OF THE INTERIOR MANUEL LUJAN, JR., Secretary
+U.S. GEOLOGICAL SURVEY Dallas L. Peck, Director
+
+Any use of trade, product, or firm names in this publication is for descriptive purposes only and does not imply endorsement by the U.S. Government.
+
+UNITED STATES GOVERNMENT PRINTING OFFICE: 1991
+For sale by the Books and Open-File Reports Section U.S. Geological Survey Federal Center Box 25.425 Denver, CO 80225
+
+Library of Congress Cataloging-in-Publication Data
+
+Dwyer, john L.
+
+Spatial analysis of geochemical and geologic information from the
+
+Tonopah 1°X2° quadrangle, Nevada I by John L. Dwyer and
+
+J. Thomas Nash.
+
+p. cm.-(U.S. Geological Survey; 1878)
+
+Includes bibliographical references.
+
+1. Mines and mineral resources-Nevada-Data processing. 2. Geographic
+
+information systems. 3. EROS Data Center. I. Nash, j. Thomas (John
+
+Thomas), 1941- . II. Geological Survey (U.S.) Ill. Title.
+
+IV. Series.
+
+QE75.B9
+
+no. 1878
+
+[TN24.N3]
+
+557.3 s-dc20
+
+91-6650
+
+[557.3'.09793]
+
+CIP
+
+CONTENTS
+Abstract 1 Introduction 1 Geologic setting 3 Introduction to geographic information systems 3 Preprocessing of data prior to analysis 5 Geochemical backgrounds and anomaly thresholds 8 Spatial models useful for resource assessment 8 Geochemical map methods 10
+Interpolated surface (array) maps 11 Drainage basin maps 12 Spatial models of mineral deposits 12 Skarn deposit model 13 Epithermal deposit models 15 Quantification of spatial models 17 Discussion 18 Database requirements 18 Computing requirements 19 Output options 19 Cost effectiveness 19 Spatial maps for geochemistry 20 Suggestions for future research 20 References cited 20
+PLATES
+[Plates are in pocket]
+1. Representative geochemical and geologic maps of the Tonopah 1°><2° quadrangle, Nevada: Map A. Regional distribution of arsenic in stream-sediment samples represented by surface interpolation. Map B. Regional distribution of arsenic in stream-sediment samples represented by sampled drainage basins. Map C. Comparison of areal extent of arsenic-antimony-molybdenum-zinc anomalies depicted by surface interpolation and drainage-basin methods.
+2. Representative geochemical and geologic maps of the Tonopah 1°X2° quadrangle, Nevada: Map A. Distribution of total concentrations of bismuth, molybdenum, lead, and tungsten after individual element values have been adjusted according to dominant drainage-basin lithologies. Map B. Areas favorable for tungsten skarn-type mineralization, on the basis of geological and geochemical criteria. Map C. Comparison of areal extent of bismuth-molybdenum-lead-tungsten anomalies depicted by surface interpolation and drainage-basin methods.
+Contents Ill
+
+3. Representative geochemical and geologic maps of the Tonopah 1°X2° quadrangle, Nevada: Map A. Distribution of total concentrations of arsenic, antimony, molybdenum, and zinc after individual element values have been adjusted according to dominant drainage-basin lithologies. Map B. Distribution of total concentrations of arsenic, antimony, molybdenum, and zinc after individual element values have been adjusted according to dominant drainage-basin lithologies, excluding areas of exposed plutonic rocks. Map C. Areas favorable for Carlin-type gold deposits, on the basis of geological and geochemical criteria.
+FIGURES
+1. Map showing location of major mines and prospects in the Tonopah 1°X2° quadrangle 2
+2. Map showing generalized geology of the Tonopah 1°X2° quadrangle 4 3. Schematic diagram of GIS subsystems, interfaces, and example datasets 5 4. Diagrams showing spatial representation and encoding of point, line, and
+polygon features and attributes 6 5. Diagram showing hierarchical scheme for encoding sampled drainage areas 7 6. Outline of the methodology for spatial representation of geochemical
+results 10 7. Maps showing stream-sediment geochemical data in Tonopah 1°X2°
+quadrangle 11 8. Schematic diagram of spatial information that is useful for proximity
+analysis 11 9. Conceptual illustration showing the use of buffer generation to define
+Paleozoic carbonates that crop out within 2 km of an exposed granitic intrusive 14 10. Geologic map showing geologic units permissive for skarn deposits in Tonopah 1°X2° quadrangle 15
+TABLES
+1. Summary of analytical results for selected elements 9 2. Recalculated background concentrations for three major rock types in the
+Tonopah 1°X2° quadrangle 10 3. Descriptive model of copper-tungsten skarn deposits 13 4. Descriptive model of volcanic-associated epithermal deposits 16 5. Descriptive model of sediment-hosted epithermal deposits 17
+IV Contents
+
+Spatial Analysis of Geochemical and Geologic Information from the
+Tonopah 1°X2° Quadrangle, Nevada
+
+By John L. Dwyer and j. Thomas Nash
+
+Abstract
+Advanced computer techniques· in a geographic information system (GIS) at the EROS Data Center were used for the spatial analysis of geochemical and geologic information for the Tonopah 1°X2° quadrangle, Nevada. The GIS techniques permitted rapid mapping of geochemical trends and development of spatial models of mineralized environments for resource analysis. Information in the GIS included a simplified geologic map (38 map units), structure, chemistry of <0.25-millimeter stream sediments and of nonmagnetic heavy-mineral concentrates from stream sediments, remotely sensed limonitic alteration, and geologic and geochemical information on mines and prospects. Once the digital database was established, map analysis proceeded rapidly using an interactive graphics workstation. Real-time display and manipulation capabilities allowed geoscientists to retrieve information from the database, establish spatial relations among the datasets, and adjust parameters to generate optimum map products via color or black-and-white plotters. The GIS routines permitted recognition of trends previously determined by much slower computer and manual treatment of the same geochemical information, yet provided mechanisms for more rigorous (integrated) analysis of available data. In addition, cartographic products and illustrations for color slides could be readily prepared for publication.
+Digital encoding of drainages sampled in the geochemical survey permitted realistic representation of sampled areas. Portrayal of geochemistry by drainage polygons is visually effective and scientifically appropriate, whereas conventional portrayal of geochemical information at point sites is confusing because the upstream extent of the drainage generally cannot be estimated from regional maps. Digital data for drainage basins also permits automatic computation of the geology of each drainage from the digital geologic map. Once geology and geochemistry are merged for each basin, inquiry can be made by both geologic and geochemical criteria.
+Manuscript approved for publication November 2, 1988.
+
+Geochemical backgrounds and anomaly thresholds can be computed according to geologic units in the drainages; for the Tonopah quadrangle, which has small, structurally juxtaposed geologic units, map units had to be combined to obtain a representative basis for computing backgrounds and thresholds.
+The GIS expedites interactive spatial modeling of mineralized environments by using multiple data layers, which is analogous to overlaying map transparencies. Search rules can be qualitative (presence or absence), quantitative, or spatial for geochemical, geologic, structural, or geophysical data layers. Areas that meet the deposit model criteria are easily quantified with respect to the spatial distribution of known deposits and prospects. GIS methods permit recognition of unsuspected relations among multiple datasets and quantification of relationships for resource assessment. Although GIS techniques expedite many spatial analysis tasks, a substantial amount of effort is required to ensure that the database is structured appropriately and that inherent limitations of the· baseline datasets are acknowledged and documented. GIS methods are recommended for projects with large databases that incorporate datasets representing many disciplines and for projects in areas that will be investigated repeatedly and at different scales.
+INTRODUCTION
+Interpretation of geochemical and geologic information for resource assessment can be a slow, inefficient, and nonreproducible process. Application of computer technology expedites the process, but as is the case with manual methods, results from the analysis will be constrained by the integrity of the data and the assumptions upon which the analysis is based. The abundant geochemical and geologic information that was gathered for the Tonopah 1°X2° quadrangle during the Conterminous United States Mineral Assessment Program (CUSMAP) and that has been interpreted in various ways (Nash, 1988; Orris and Kleinhampl, 1986; John, 1987) is an excellent database for
+
+Introduction 1
+
+10
+I
+20
+
+20
+I 30 KILOMETERS
+
+EXPlANATION
+
+• Gold-silver deposit
+
+C Mercury deposit
+
+o Tungsten skarn deposit
+
+• Copper-molybdenum deposit
+
+• Silver-base metal deposit V Antimony
+
+30 MILES I
+
+QUADRANGLE LOCATION
+
+Figure 1. Map showing location of major mines and prospects in the Tonopah 1°X2° quadrangle. Symbols represent six major deposit types known in the area.
+
+experimental application of newly developed computer technology (Dwyer and others, 1987). In this report we discuss computer techniques available for spatial analysis of geologic information using integrated computer hardware and software called a geographic information system (GIS). The re~ults of GIS processing described here are but a few of the possible interpretations of the data and should not be considered final resource assessments because not all the data and expertise of the Tonopah CUSMAP geoscientists have been incorporated.
+The Tonopah quadrangle has been thoroughly prospected for about 130 yr; many mines and prospects have been discovered (fig. 1), but additional, undiscovered resources are presumed to remain. From 1981 to 1986
+
+the quadrangle was studied by a team of U.S. Geological Survey geologists, geochemists, and geophysicists. Geology of about 30 percent of the quadrangle was mapped at a scale of 1:62,500 or larger, and topical studies addressed the geology and mineral deposits in many areas of the quadrangle.
+Geochemical surveys were made of mineralized rocks, and stream sediments were collected and analyzed to characterize regional geochemistry. A folio of maps that present the geologic, geochemical, and geophysical information is being published as Miscellaneous Field Studies Map MF-1877-A-J. Part of the information from this multidisciplinary study was converted to a digital format to serve as the database for the present investigation.
+
+2 Spatial Analysis of Geochemical and Geologic Information from the Tonopah 10X2° Quadrangle, Nevada
+
+The major focus of this investigation has been spatial analysis of geochemical information. The geochemical data have been reported elsewhere by the team of chemists who worked on the Tonopah CUSMAP project (Fairfield and others, 1985; Siems and others, 1986; Hill and others, 1986). Geochemical maps at a scale of 1:500,000 were presented by Nash and Siems (1988). The data for stream sediments, definitions of element anomalies, and relations of geochemical trends with geology and mineral deposits have been discussed by Nash (1988) in a companion publication, which is based chiefly on manual methods of data inspection and map overlays. One objective of the present investigation i~ to compare the efficiency and accuracy of the manual and automated processing of information. A second objective is to identify factors that affect the extent to which GIS techniques can enhance the efforts of regional geochemical studies. A traditional limitation of stream-sediment geochemical surveys is the fact that individual sample analyses represent the displaced, modified, and homogenized chemical signatures of rocks and mineral deposits that are resident within a specific drainage basin. In a regional survey that involves more than a thousand sample sites, as in the Tonopah CUSMAP project, it is very time consuming by manual methods to relate repeatedly sample analyses to geology upstream for each sample site. The GIS-based capability to associate spatially drainage basins with corresponding streamsediment geochemical data provides an accurate and expedient means for representing, analyzing, and evaluating geochemical and associated data. In order to realize more completely the analytical capabilities afforded by a GIS, an initial investment in time and effort is required to encode properly the basic datasets.
+GEOLOGIC SETTING
+The Tonopah quadrangle comprises about 19,300 km2 and is within the Basin and Range physiographic province. The region is characterized by generally north trending, uplifted mountain ranges separated by broad alluviated valleys. The ranges, in which there is abundant rock exposure, constitute roughly 50 percent of the area (fig. 2). Rocks range in age from latest Precambrian to Quaternary (Albers and Stewart, 1972; Kleinhampl and Ziony, 1985; Whitebread, 1986). Pre-Tertiary sedimentary rocks are chiefly dark eugeoclinal facies in the west and miogeoclinal carbonate facies in the east. Triassic to Cretaceous plutonic rocks are exposed in the central and western ranges. Tertiary ash-flow tuffs, flows, intrusions, and volcaniclastic rocks are present in all the ranges and comprise most of the rocks exposed in the eastern part of the quadrangle. Quaternary basalt flows are present in the southeastern part of the area. Major orogenies in the late Paleozoic and Mesozoic produced thrusts and complex
+
+folds, whereas Cenozoic structures are chiefly normal and strike-slip faults. Low-angle detachment faults of late Tertiary age occur in the northwestern part of the quadrangle.
+Mineral deposits of many ages and types are present in the Tonopah quadrangle. The geology of mineral deposits is discussed by Kral (1951), Albers and Stewart (1972), and Kleinhampl and Ziony (1984), and the geochemistry of the deposits is described in a series of reports by Nash, Siems, and Budge (1985a-d), by Nash, Siems, and Hill (1985), and by Nash (1988). Significant amounts of silver, gold, iron, molybdenum, mercury, and tungsten have been mined, as well as minor amounts of copper, lead, zinc, antimony, and arsenic. Nonmetallic deposits that have been mined include barite, magnesite, and diatomite.
+INTRODUCTION TO GEOGRAPHIC INFORMATION SYSTEMS
+This study utilized the advanced computing techniques of a GIS, which is a new name for computer technology that has been applied in the earth sciences for more than a decade. The key to an effective GIS is efficient linkage among the many software systems and hardware devices that are required for input of data, data management, analysis, and output. The computer facilities of EROS Data Center (EDC) host a comprehensive network of computational resources, such as digitizing stations, graphic display terminals, and paper and film plotters connected to several minicomputers. An extensive library of software permits compilation, editing, and transfer of databases among several subsystems within the GIS. Only a few of the technical procedures and requirements of the GIS will be described here, but we will outline some of the computing concepts to provide a background for the examples discussed later. The structure of the database used in this study is complex, but its fundamental characteristics can be discussed in generic terms. Datasets for this study were manipulated in three formats: (1) tabular, (2) vector, and (3) raster (fig. 3).
+Tabular data are matrices within which rows correspond to individual sites and columns relate to attribute fields; records may be written in binary or character format. Information in the tabular datasets typically relates to site-specific observations or measurements (not areal phenomena). Specific examples from this study are the geochemical results for stream-sediment samples and information on mineral deposits (fig. 4A, B). The geochemical files were transfered from the local database resident in Denver and translated into a format compatible with systems at the EDC; the mineral deposit and prospect information was imported from the U.S. Geological Survey Mineral Resources Data System (MRDS) and likewise reformatted for compatibility. The tabular subsystem was
+
+Introduction to Geographic Information Systems 3
+
+118° 3~ ~~~~~-----~------~
+
+D Quaternary sediments Ill Quaternary-Tertiary basalt
+~ Tertiary intrusive, volcanic, and
+l2.J sedimentary rocks
+
+0 25 50 KILOMETERS
+LIST OF MAP UNITS
+I I Mesozoic granitic intrusive rocks
+I I Mesozoic intrusive, volcanic, and sedimentary rocks
+
+Paleozoic volcanic and
+I I sedimentary rocks
+Cambrian- Precambrian
+•metasedimentary rocks
+
+Figure 2. Map showing generalized geology ofthe Tonopah 1°X2° quadrangle (geology simplified from Stewart and Carlson, 1978). Geologic maps of any scale are easily made by the GIS and can be presented in color or in monochrome patterns depending upon choice of output device.
+
+an efficient repository for much of our data and was utilized extensively for editing, selective data retrieval and manipulation, statistical analysis, and report generation. Software
+used to process tabular datasets consisted of relational database management and statistical analysis tools.
+Vector processing systems provide capabilities that are advantageous for geographic analysis of point, line, or polygon (area) data. Information in vector form is characterized by locational, topological, and descriptive attributes. Vector processing involves management of spatial features in an arc-node data structure, with capabilities for digitizing, graphic editing, spatial (feature) overlay, and relational (attribute) manipulation (ESRI, 1987). Examples of datasets that can be efficiently stored
+
+and processed within a vector-based GIS include geologic maps and geophysical and remote sensing interpretations.
+The procedure for digitizing a geologic map illus-
+trates concepts of arc-node data structures and the implications of data encoding on subsequent analysis tasks. Consider the basic components of a geologic map. Polygons define the areal extent of geologic units, which in tum consist of unique line segments that define contacts (fig. 4D). The traces of geologic structures (faults, axial planes of folds) are represented as lines, yet faults may also define lithologic contacts (fig. 4C, D). Each geology polygon is encoded with a unique identifier and assigned a class number based on stratigraphic (ordinal) and compositional (nominal) attributes. Similarly, structural features are
+
+4 Spatial Analysis of Geochemical and Geologic Information from the Tonopah 1°X2° Quadrangle, Nevada
+
+GEOGRAPHIC INFORMATION SYSTEM
+
+IN PUT/OUTPUT I
+
+INPUT/OUTPUT I
+
+Relational database Tabular data processing subsystem
+Mineral occurrence data Geochemical data Radiometric age dates Drill-hole data
+
+f--------INTERFACE------1
+
+Vector database Arc-node data processing subsystem
+Digital line graph data Mining districts Geologic map (structure, lithology) Geophysical interpretations Remote sensing interpretations
+
+Raster database Gridded data processing subsystem
+Digital elevation models Remote sensing imagery Aeromagnetics Gravity Aeroradiometrics
+I
+INPUT/OUTPUT
+
+I
+INTERFACE
+I
+
+Figure 3. Schematic diagram of GIS subsystems, interfaces, and example datasets.
+
+categorical (nominal) but often carry a connotation for relative sense of movement along the feature, and whether movement is known or inferred.
+A geologic map may require some generalization before digitizing because the number and topology of polygons may exceed system capabilities for storage and manipulation or because the detail may exceed the analytical requirements of the project. The strategy for digital encoding must consider requirements for spatial accuracy and maintain the categorical distinctions necessary to support spatial and relational manipulation. Once the content for the digital geologic map has been defined, the digitizing process starts with structural features. Points that define each structural feature are encoded in a predetermined sequential order that can be used to reference the sense of movement to a particular side of the feature (for example, downthrown on left), and a specific code is used for each type of structure that may be required in later analysis. As with all types of digital encoding, it is best to encode the more specific structural information (for example, normal fault, thrust fault, strike-slip fault), rather than just a general feature, to permit maximum flexibility in analysis. Careful planning is required to define an appropriate digitizing scheme; although maps can be revised, extensive editing and digitizing of added features can take more time than the original digitizing. Geologic units are digitized next, and where appropriate, arc segments from previously encoded faults are used to define the geologic contacts. This eliminates redundant digitizing efforts and minimizes registration errors in subsequent overlay analysis.
+Raster datasets are inherently spatial representations of data which can be acquired in that form or rasterized from tabular or vector data by various interpolation or gridding techniques. Examples of raster datasets include remotely sensed images, digital elevation models, and
+
+interpolated arrays (surfaces) that represent geophysical anomalies based on gravity or magnetics. Raster datasets can be efficiently processed and displayed using conventional image processing systems. Digital merging and spatial overlays of datasets are easily computed using arithmetic or logical functions and subsequently displayed.
+Flexibility in the design and generation of output products is a major asset of the GIS. Changes in output scale can be accomodated on interactive display devices and "hardcopy" film recorders and plotters. Output to color monitors greatly aides visualization of results during spatial analysis, and photographic prints or slides can be made very quickly for permanent records or visual aids. More precise cartographic products can be generated using black-andwhite or color plotters or laser film recorders for photographic processing. Color separates can be generated to expedite the processing of maps for publication printing.
+PREPROCESSING OF DATA PRIOR TO ANALYSIS
+Dataset transfer, digitizing, and editing were major efforts in this study as in most GIS applications. A substantial amount of effort is required to build relevant datasets and ensure that they are geographically referenced and free .of errors. Maps were digitized by a skilled technician, but database design and editing had to be defined or performed by geoscientists familiar with the data.
+Geochemical results from the regional streamsediment sampling program (Fairfield and others, 1985; Siems and others, 1986) were transferred by tape from a minicomputer at the U.S. Geological Survey in Denver to the system at EDC. A FORTRAN program was written to reformat the data for compatibility with the relational
+
+Preprocessing of Data Prior to Analysis 5
+
+B Mineral occurrences
+
+X 18
+
+X 36
+
+X 21
+
+r_~ LABEL ~ Au(ppm) Mc(ppm) Fe(%)
+
+1 TSlOS 20 20 2 TS2011 30 &l 3 TS1'301 40 20
+
+2 .0 0 .0 2 .0
+
+4.0 10.0 2.0 8.0 4.0 12.0
+
+10 Sl1E X Y DEParrYP MAJPROD
+
+17 NW1 20 20 l8 NW2 ?5 ?5 21 SW1 55 l5
+
+LODE
+PLACER
+VEIN
+
+Au Au Ag
+
+C Structural features
+
+D Gedq;c units
+
+4 Anticline
+
+:15 5
+
+1
+
+2
+
+21
+
+17 1 3 4
+
+19 8 5 6 3 6
+
+l2 11 7 8 7 8
+
+10 Area Perimeter Oass Label
+
+(1) ?500
+(2l 3200
+(312000 (4 9(XX}
+
+l5 1
+19 2 115 3
+90 25
+
+Kg Pis Qat Dsh
+
+Figure 4. Diagrams showing spatial representation and encoding of point (A, B), line (C), and polygon (D) features and attributes.
+
+database ·management system used at EDC. The geochemical analyses, previously edited in Denver, were supplied with latitude and longitude coordinates that were
+
+converted to the Universal Transverse Mercator coordinates and projection used for the geographic base. Drainage basins represented by stream-sediment sample were
+
+6 Spatial Analysis of Geochemical and Geologic Information from the Tonopah 1°X2° Quadrangle, Nevada
+
+Level 3 Level 2
+Level 1
+
+2 Basin pdygon lD
+2 Sample ID X
+""-./ Drainage network
+" - - Drainage basin boundary
+
+POLY-ID
+1 2 3 4 5 6 7
+
+POLY-AREA
+40000 20000 20000
+rooo
+12000 15000 5000
+
+BA~1N-ID LEVEL DO\VN-LNK
+
+11
+22 32 43
+53 63 73
+
+0 1 1 2
+2 3 3
+
+NUMLNKS
+2 2 2 0 0 0 0
+
+-LNKl 2 4 6 0
+0 0 0
+
+LNK2
+3 5 7 0 0 0 0
+
+BASIN-AREA CliEM-ID
+
+120000
+40000
+40000
+rooo
+12000 15000 5000
+
+1 2 3
+4 5 6 7
+
+Figure 5. Diagram showing hierarchical scheme for encoding sampled drainage areas. The drainage-basin dataset is structured such that each polygon is coded with a unique identifier (POLY-ID), to which is linked all other file attributes. Secondary attributes (BASIN-ID, LEVEL, DOWN-LNK, NUMLNKS, LNKl, LNK2) facilitate aggregation and selective retrieval of composite basins. Drainage basin and geochemical data files can be merged using CHEM-10 as the common attribute for relating one file to another.
+
+delineated separately and digitized at EDC via the vector processing subsystem. There were difficulties automating the linkage of drainage basins to geochemical sample sites because the drainage basin maps provided for digitizing were not the same scale as the original maps used to measure longitude and latitude of sample sites; many sites had to be linked by manually updating relational constructs in the attribute files. High-density sampling in some areas posed additional problems because multiple sample sites were occasionally attributed to a single (digitized) basin, thereby preventing delineation of unique basin areas for each sample site. The chemical datasets and drainage basins were linked by matching sample sites and basin identifiers; in this process about 100 sites were eliminated because they
+
+were more closely spaced than the normal density of one site per 5 km2. Some large drainage basins were represented by more than one sample site. A coding scheme was devised to identify each larger basin and its constituent sub-basins and links to downstream sample sites. This scheme is illustrated in figure 5.
+The MRDS dataset contained information on mineral occurrences at 608 localities in the Tonopah quadrangle. The MRDS is a national database to which many geologists and technicians have contributed over the past 20 yr, and consequently, it suffers from inconsistent terminology and classifications. The data were checked and edited for inconsistencies prior to incorporation into the GIS. For this study we were not able to identify all errors of location and
+
+Preprocessing of Data Prior to Analysis 7
+
+classification, and we retrieved only parts of the information. Retrievals based on commodities present at a given location seemed more consistent and reliable for classifying deposits than selections based on the MRDS definition of deposit type. Host- and source-rock descriptions were used to refine classifications and resolve discrepancies. The information in MRDS is potentially very useful as a data layer for interpretation of geochemistry and geology but must be carefully edited by a knowledgeable economic geologist.
+GEOCHEMICAL BACKGROUNDS AND ANOMALY THRESHOLDS
+The spatial integration of geochemical and geologic data offered a means to refine estimates of local geochemical background and anomaly thresholds in the Tonopah quadrangle. Earlier interpretation of the geochemical analyses (Nash, 1988) disregarded geologic variability among basins and assumed one set of anomaly thresholds for all samples because there was no efficient way to define backgrounds or thresholds on the basis of geologic criteria. After the fractional proportion of geologic units present in each sampled drainage basin were computed, many new opportunities existed for the manipulation of geochemical results. We investigated correlations between geochemistry and geology using several statistical techniques, including multiple linear regression, but results were inconclusive due to the large number of geologic (independent) variables and because, in a large number of analyses, the elements of interest fell below the analytical detection limits (table 1). Results similar to those reported by Bonham-Carter and Goodfellow (1986) relating geochemical abundances to lithology could not be achieved, and only highly generalized statistical relationships could be obtained (table 2). The intuitive notion that stratigraphic units of different bulk composition should have different minor-element compositions is evident in table 2, but refined estimates of concentration were not possible because most of the digital geologic map units were heterogeneous lithologically, and also because compositionally distinct sedimentary units compose only a small fraction of individual drainage basins.
+Geochemical backgrounds were computed by retrieving a subset of the samples related to basins in which a stratigraphic unit comprised a large areal fraction. For each volcanic unit there was no problem obtaining a subset of 10-30 basins (and related samples) that contained more than 80-90 areal percent of the unit; the geometric mean concentrations for elements in that subset seem to be fair estimates of the backgrounds. However, few or no basins contain more than 50 percent of a single plutonic or sedimentary unit, and the only representative subset obtainable required the mixing of several units as shown in
+
+table 2. Although the background concentrations are somewhat different among the major rock types, there is insufficient statistical variance to conclude that anomaly thresholds are significantly different in basins defined by these major rock types. Thus we have no basis for changing the interim application (Nash, 1988) of one set of geochemical thresholds across the entire quadrangle regardless of the dominant rock type within sampled basins.
+Geochemical signatures in volcanic terranes of the Tonopah quadrangle are of lower contrast and involve fewer elements than in other terranes (Nash, 1988). We hoped that by using geologic information to supplement chemistry, a method of anomaly enhancement could be developed. Our best efforts were to develop and apply a normalizing factor to adjust element concentrations on the basis of the dominant rock types that characterize the sample drainage basin. The methodology used for normalizing element concentrations is outlined in figure 6. Samples (basins) were then ranked on the basis of adjusted concentration (ppm: parts per million) values. The ranking technique gives each element equal importance, regardless of absolute magnitude in parts per million, and minimizes the effect of extremely high analytical values (Goldfarb and others, 1983); lognormalization was found to yield comparable definition of anomalies. Normalized chemical concentrations for basins that contain a large areal fraction of volcanic rocks were higher than the original values, but there was still not much contrast relative to average background concentrations derived from the entire sample dataset.
+SPATIAL MODELS USEFUL FOR RESOURCE ASSESSMENT
+Resource assessment necessarily involves spatial analysis. Integration of spatial information with many scales poses a major problem for regional resource assessment, yet rarely is this problem discussed. If the final product (map) does not include an indication of how the original data was processed (interpolated, generalized) the user has little or no way to judge the reliability of the final representation of features or relationships of interest. Many descriptive ore deposit models are more suited for evaluation of individual prospects than of large areas. For the purposes of a regional assessment, useful information on characteristics of mineral deposits, such as mineralogy, alteration, structural controls, and geochemical signatures (Ekstrand, 1984; Cox and Singer, 1986) must be applied to many prospects and processed for use at a regional scale by knowledgeable geologists.
+The most straightforward example of spatial representation of data is the conventional geologic map. Normally, the limits of mapping will be shown, and the reliability of structures and contacts will be shown by
+
+8 Spatial Analysis of Geochemical and Geologic Information from the Tonopah 1°X2° Quadrangle, Nevada
+
+Table 1. Summary of analytical results for selected elements
+
+[B, not detennined; L, less than limit of detection; N, not detected; G, greater than upper limit of detennination. Geometric mean computed from dataset in which qualified data were replaced according to the following rules: values of L, 1 analytical step lower; N, three analytical steps lower; G, 1 analytical step above upper limit of detennination]
+
+Concentration, in parts per million
+
+Number of samples
+
+Element Minimum Maximum Geometric mean Valid B l
+Stream sediments
+
+NG
+
+Ag 0.5 150. 0.2 155 3 40 843 0
+
+As
+
+4. 800.
+
+7.1
+
+626 16 138 261
+
+0
+
+Ba
+
+200.
+
+5,000.
+
+1,033.
+
+1,039 0 0 0 2
+
+Bi 1. 15.
+
+.34 26 25 14 976 0
+
+Cd .1 15. .11 649 13 5 374 0
+
+Co 5. 70. 12. 1,034 1 5 1 0
+
+Cr 10. 1,500. 37. 1,018 0 22 1 0
+
+Cu 5. 150. 12. 958 3 76 4 0
+
+Mo 5. 30. 2. 183 4 11 843 0
+
+Ni
+
+5. 100. 14.
+
+938 4 954 4 0
+
+Pb
+
+10. 10,000.
+
+32. 1,040 0 1 0 0
+
+Sb 1. 70. 1.3 439 19 94 488 1
+
+Zn
+
+5. 1,500.
+
+56. 1,024 9 0 6 2
+
+Nonmagnetic heavy-mineral concentrates
+
+Ag
+
+2. 3,000.
+
+10.
+
+190 6 1 844 0
+
+Ba 70. 15,000. 3,510.
+
+723 7 1 0 310
+
+Be 2. 70. 3.2 854 1 97 89 0
+
+Bi 20. 2,000. 9.7 83 5 9 933 9
+
+Co 10. 100.
+
+5.2 341 9 33 657 0
+
+Cr 20. 1,000. Cu 10. 3,000. Mo 10. 1,000.
+Ni 10. 150.
+Pb 20. 50,000.
+
+31. 664 5 247 123 0 5.6 270 6 61 702 0 3.9 103 2 5 929 0 4.5 205 6 42 786 0
+35. 538 10 53 438 2
+
+wSb 200. 10,000. 100. 10,000.
+
+93. 45.
+
+Zn 500. 5,000. 179.
+
+126 4 36 873 144 4 34 858 100 1 16 924
+
+0 1 0
+
+different line types to denote "approximately located" or "covered." The ideal geologic map also shows areas of rock outcrop, although this is rarely done for U.S. Geological Survey publications except for detailed maps of small areas. Maps portraying image data (or derivative information) obtained by remote sensing devices show samples at such close and regular intervals that they may be considered spatially complete in their coverage of an area (except for cloud cover). Geophysical and geochemical data, however, are not spatially complete, as they are the results of sampling along widely spaced lines or at irregularly distributed discrete sites. Assumptions must be made when spatially incomplete data are processed to represent a two-dimensional map area. Many gridding and contouring algorithms are available to spatially extend data obtained at points or along lines (Davis, 1986), the choice and application of which can influence the appearance of the resultant map.
+
+In the case of scattered or partial data coverage that requires interpolation, the final product can be misleading if the limitations or assumptions underlying the techniques are not clearly explained.
+In this study we were chiefly concerned with the spatial representation and analysis of geochemical data. More than 5,000 samples of various media were collected during the Tonopah CUSMAP study. We made no attempt to treat the information on more than 3,000 rock samples in this investigation because most of them represent grab samples collected to determine compositions related to unusual features such as color, alteration, and mineralization. A bigger difficulty is that most of the rock samples were collected in clusters within mining districts, with few or none in the intervening tens of kilometers. Even where many rock samples were collected, such as about 100 samples in the Divide district alone (Nash and others, 1985b), there is so much variation among sites that the
+
+Spatial Models Useful for Resource Assessment 9
+
+Table 2. Recalculated background concentrations in three major rock types in the Tonopah 1°X2° quadrangle
+
+[Values in parts per million. Medium: S, stream sediment; C, nonmagnetic heavy-mineral concentrate. Computed as the geometric mean for basin subsets described in text composed chiefly of the stated lithologies; qualified analytical values replaced as described for table 1. Small differences in computed values, as for Ag in sediments, probably are not significant]
+
+Element
+Ag Ag As Bi Cu Cu
+
+Medium
+s c s c s c
+
+Volcanic
+rocks
+n=308
+0.18 .78 5.4 8.2 9.2
+4.3
+
+Plutonic
+rocks
+n=59
+0.29 1.9 9.8 73 20 8.6
+
+Sedimentary
+rocks
+n=107
+0.27 1.3 18 12 24
+11
+
+All
+rocks
+n=l041
+0.21 0.9 7.2 9.8 12 5.7
+
+Mo s 1.9 2.1 2.9 2.1
+
+Mo c 3.3 6.0 4.4 3.9
+
+Pb
+
+c 24 167
+
+83
+
+36
+
+Sb
+w
+
+c 83 89 115
+
+c 33 152
+
+61
+
+94 45
+
+Zn s 53 63 64 57
+
+Zn c 180 184 169 179
+
+(1) Compute the mean ppm (parts per million) value for each element (X;).
+(2) Determine the mean ppm value of each element for the geolog1c subgroups: Xtv basins with greater than 90 percent Tertiary volcanics (308), Xp basins with greater than 0.2 percent plutons (59). Xpt basins w1th greater than 0.5 percent pre·Tertiary sediments (107).
+(3) Compute normalization factors for each geolog1c subgroup:
+Ntv =X;I Xtv.
+Np =X;/Xp. Npt =X;!Xpt.
+(4) Compute basin adjustment factors to be applied to ppm values:
+Atv = Ntv • (percent baslntv). Ap = Np • (percent basmp).
+Apt= Npt• (percent basinpt)·
+(5) Apply adjustment factors to basin ppm values: Xa;=X; .. (Atv+Ap+Apt).
+(6) Rank basins according to adjusted ppm values (Xai) for each element.
+Figure 6. Outline of the methodology for spatial representation of geochemical results. The geochemical values for 1,041 stream-sediment samples linked to their respective drainage basins were adjusted according to dominant rock types in the basin.
+
+detection of meaningful trends (zoning) in even a few square kilometers is precluded.
+For the spatial analysis of the stream-sediment geochemical data (about 2,400 samples), we chose to represent areally the analyses at each site over the approximate extent of the upstream drainage basin. The outlines of drainage basins for stream-sediment sites were digitized from 1:250,000- and 1:100,000-scale topographic base maps. These polygons are a reliable estimate of the source area for the samples, although a slightly more accurate estimate could be obtained from available 1:24,000- and 1:62,500scale maps. Once the basins were digitized and coregistered with other datasets in the GIS, it was relatively easy to determine basin area and the areal proportion of individual geologic units underlying the basin.
+For initial spatial analysis of geochemical data we utilized an interpolation technique. This method was not considered to be as reliable as the basin method because there was no information on the direction of streamflow included in the computation that might allow for biasing interpolated values in the direction of sediment source. The interpolation method was based on a minimum-curvature algorithm (Briggs, 1984) and was used to generate gridded arrays consisting of equidimensional (200 mx200 m) ground equivalent cells with quantitative values expressed in parts per million. The resultant interpolated displays of geochemical information extended across the entire quadrangle, including the broad intermontaine basins that were beyond the limits of sampling. The geologic map was coregistered to this interpolated geochemistry, which made it possible to qualify the geochemical map according to geologic criteria. For example, we could digitally mask out parts of the interpolated geochemical map that coincided
+
+with unconsolidated Quaternary sediments and focus the spatial analysis on areas of bedrock. This was accomplished using overlay analysis techniques in the raster domain.
+GEOCHEMICAL MAP METHODS
+A fundamental difficulty in the analysis and interpretation of geochemical data is the confidence with which results for individual samples can be used to characterize areas. For the Tonopah study this was considered to be a particularly important problem for several reasons: (1) Using regional-scale (1 :250,000) topographic base maps it is generally not possible to determine the bearing of the . stream that was sampled, and adjacent sites commonly plot as one point when in fact they reflect different drainages; (2) the geology of adjacent drainage basins can be different because of the juxtaposition of diverse rock types by several types of faults; and (3) the geology is particularly different in the ranges and broad intermontaine valleys. For reasons of geology and logistics, geochemical sample sites were not uniformly distributed across the quadrangle. We used two methods (fig. 7) to spatially portray the geochemistry: (1) assignment of geochemical values to digitized drainage basins that accurately reflect the source areas contributing to the samples, and (2) generation of a geochemical "surface" in which interpolation is not constrained by known physiographic or geologic domains. Surface generation is an automated procedure that requires minimal analyst intervention, but the interpolation of values in unsampled areas may be of questionable validity. Drainage basins may be more spatially accurate, but substantial analyst time is required to prepare, digitize, and edit maps.
+
+10 Spatial Analysis of Geochemical and Geologic Information from the Tonopah 1°X2° Quadrangle, Nevada
+
+A
+~ 2
+B
+
+combinations (0-15) approach the maximum number of discernible categories for color or black-and-white display. The output categories can easily be aggregated (remapped) and displayed for final presentation.
+Interpolated Surface (Array) Maps
+Spatial analysis of geologic and geochemical data commonly is aided by computer manipulations that interpolate and contour data. Many methods are in use, including moving averages, trend surfaces, and kriging (Davis, 1986). Each computational method requires certain assumptions, and each has merits or problems that are not easily evaluated and commonly are not apparent to the end user. High or low values that might reflect local source aberrations or analytical error are smoothed. Interpolation of values between and extrapolation beyond sample points can be used to generate a geographically referenced, gridded dataset that allows cell-by-cell analysis along with any other coregistered gridded dataset. Some interpolation methods constrain the interpolated values to reflect the existence of discontinuities, but in most methods the interpolation proceeds without the benefit of predefined constraints. For example, in the Basin and Range province there are fundamental structural, stratigraphic, and compositional breaks at range fronts; the validity of interpolating geochemistry across broad intermontaine valleys is highly questionable. The interpolation algorithm used in this study was not sensitive to geologic boundaries-nevertheless the automated procedures provide an expedient means by which to view the regional distribution of element concentrations.
+
+RELATIVE ELEMENT CONCENTRATIONS
+
+II High
+
+~~Medium
+
+Ill Low 0
+
+Figure 7. Maps showing stream-sediment geochemical data in Tonopah 1°X2° quadrangle. Stream-sediment geochemical data can be displayed as points (A) labeled by site, as drainage basins (8) encoded to display element concentrations, or as interpolated surfaces (C) that can be contoured.
+
+A useful method for combining multiple datasets into a single display is referred to as "bit mapping." An example is shown (fig. 8) where several single-element geochemical anomaly displays are coded and spatially combined to form a single map of (anomalous) multielement associations. Bit mapping can be used for the generation of thematic point, line, polygon, or image displays. Although most systems will accommodate an 8-bit (0-255) dynamic range, 4-bit
+
+Example:
+Ag = 1
+Au= 2 Bi= 4 Cu = 8 Mo = 16
+Pb = 32
+Zn = 64 As= 128
+Total= 255
+Ag+Cu+Pb+Zn=1+8+32+64 =105
+Figure 8. Schematic diagram of spatial information that is useful for proximity analysis. Bit mapping is a coding technique by which multiple datasets can be combined (additively) into a single output with values that are indexed to the unique combination of inputs. In the case of geochemical data, background values are set to 0, and anomalous values are assigned codes of some value 2".
+Geochemical Map Methods 11
+
+Surfaces were interpolated for each element from the analytical results of 1,181 concentrate and 1,217 streamsediment samples. Each surface was then log10 transformed and normalized (divided) by the mean log10 value for the element in the sample dataset (not the mean log10 value of the transformed surface). Values less than 1.0 in each normalized surface were truncated (mapped to zero) to define the single-element anomalies. Single-element anomaly surfaces were then summed as spatial arrays to derive a composite anomaly surface of 0 values (background) and values greater than or equal to 1.0 (anomalous). The anomalous portions of the surface were stratified to identify areas corresponding to Quaternary alluvium (valley fill) or Tertiary and older units (bedrock). The result was a geologically qualified surface of composite geochemical anomalies coded as being surface background (0), anomalous in valley fill (1), or anomalous in bedrock (2).
+Drainage Basin Maps
+Drainage basins corresponding to respective streamsediment samples were digitized and referenced to appropriate samples and their chemical results. Because of factors such as duplicate samples, very closely spaced sample sites, incomplete analytical results, and locational errors introduced through manual data encoding, the final basin map described only 1,041 of the 1,217 sample sites.
+About 24.5 percent of the total quadrangle area was accounted for by the area of drainage basins linked to respective geochemical samples. The basins were assigned composite lognormalized concentration values for the corresponding samples, computed in the manner described previously, except that no interpolated values were involved. The composite anomaly map of drainage basins was assigned a secondary code defining basins as unsampled (0), anomalous (4), or sampled but below the threshold (8). The basin map was rasterized to a gridded array coregistered with the interpolated surfaces.
+The regional distribution of arsenic is shown as an interpolated surface (pl. 1, map A) and as drainage basins with appropriate values (pl. 1, map B). Although the maps are based on the same geochemical data, they are clearly different. The drainage-basin map (map B) shows the areal extent over which sample analyses have been assigned and also shows areas that are not represented by samples. The interpolated-surface map (map A) shows broad geochemical trends that extend across areas of Quaternary basin fill and unsampled areas. Comparison of areal extent of the anomalies depicted by the two methods is readily accomplished by the GIS, as shown on map C of plate 1.
+
+SPATIAL MODELS OF MINERAL DEPOSITS
+As a test of the spatial analysis capabilities of the GIS we developed simple models for three deposit types known to be important in the Tonopah quadrangle: (1) skarn deposits of tungsten and copper, (2) epithermal base- and precious-metal deposits in volcanic rocks, and (3) epithermal base- and precious-metal deposits in sedimentary rocks. The type locality for skarn deposits in the quadrangle is the Gunmetal tungsten skarn in the Pilot Mountains (Grabber, 1984; Nash, Siems, and Budge, 1985d), although analogous deposits of significance can be found at many other places in the world (Einaudi and others, 1981). Epithermal deposits with important amounts of silver and gold are abundant in the Tonopah quadrangle; volcanicassociated silver-gold deposits are well known at Tonopah, Divide, and Round Mountain (Berger and Eimon, 1983; Nash, Siems, and Budge, 1985b). Sediment-hosted gold deposits are known at Northumberland and at several other prospects (Kleinhampl and Ziony, 1984)-the best known example being Carlin, Nev. (Radtke and others, 1980).
+Our models are generalized to be consistent with available data, but the GIS can accommodate much more complex models if appropriate supporting information is resident in the database. It is important to consider assessment objectives and database design and contents when defining spatial models. The requirements for a regional resource assessment are much different than for evaluation of a prospect, and typically the available data are much different. Individual prospects (or mines or occurrences) are commonly evaluated using information such as ore mineralogy, alteration mineralogy, rock chemistry, fluid inclusions, and stable isotopes, as reflected in many deposit models (for example, Cox and Singer, 1986; Ekstrand, 1984). Some of the most complete deposit models were those assembled for the "Prospector" artificial intelligence system (Reboh, 1983), which had queries on from 50 to more than 100 attributes; however, those models are not sufficient for regional assessment. Much of the information requested in those models, such as mineralogic, fluidinclusion, and isotopic data, pertains chiefly to point localities, although some can be inferred to characterize a geologic unit such as a pluton. A regional resource model is not useful if it requires information that applies to only a small part of the study area.
+The consequent requirement that each dataset represents a type of information that applies to all or most of the region generally dictates what methods are used for data acquisition. Regional geochemical trends and anomaly patterns are described using stream sediments rather than rock samples, alteration is described using remotely sensed information rather than soil samples and field mapping, and magnetic anomalies are described using results from airborne magnetometry rather than from ground magneto-
+
+12 Spatial Analysis of Geochemical and Geologic Information from the Tonopah 1°X2° Quadrangle, Nevada
+
+Table 3. Descriptive model of copper-tungsten skarn deposits
+
+[Global model from Cox (p. 55, in Cox and Singer, 1986) and Einaudi and others (1981)]
+
+Element
+Tectonic setting Age Rock types Structural controls Alteration Geochemistry Remote sensing Geophysical signature
+
+Area
+
+Global
+
+Tonopah
+
+Back-arc belt, postorogenic plutonism.
+Chtefly Mesozoic, but can be any age.
+Tonalite, granodiorite, quartz monzonite, limestone.
+Contact aureole near intrusion Fe-Ca-silicate skarn minerals W, Mo, Zn, Cu, Sn, Bi, Be, As
+Alteration(?), structure2 Magnetic high, gravity low(?),
+variable.
+
+Same as global
+Chiefly Cretaceous
+Granodiorite, quartz monzonite, limestone, impure limestone.
+Same as global Same as global Same as global (especially Bi, Mo,
+Pb, W). Same as global Same as global(?)
+
+GIS application
+Pl Pl D D
+Dot
+P2 P2
+
+Use in this study
+No.
+No; F.
+Yes; F.
+Yes. No; F. Yes.
+FftNNoo;; F? 3•
+
+Explanation:
+D, Diagnostic: feature observed at most examples, considered to be important for recognition of deposit. P, Permissive: feature observed at many examples, considered to be an indirect guide to deposit:
+PI, permissive and not very useful at scale of 1°X2° quadrangle. P2, permissive because feature is not unique to this deposit type. E, Effective: information obtainable in most regional studies for use in a GIS. F, Future refinement possible: information not generally available in regional studies. N, Not pertinent to spatial analysis: information pertains to specific sites and is very costly.
+1Geochemical signature in stream sediments; agrees with suite found in mineralized rock samples. Rock geochemistry can provide a petrogenetic classification of intrusions but must be systematically applied throughout study area.
+2Characteristics detectable by remote-sensing Landsat Multispectral Scanner and Thematic Mapper data have not been established on known examples. Presence of iron oxides derived from sulfide minerals or bleaching of carbonate rocks may be useful but probably not unique to this deposit type.
+3Geophysical signature probably inconsistent because of variable amounts of magnetite in these ores.
+
+meter surveys. Usually these choices produce datasets that are less precise analytically and spatially, but which are amenable to more generalized interpretations than result from site-specific studies. Limited time and funds preclude the widespread application of many data collection methods that require high-density sampling, although it is desirable to use them to resolve ambiguities at selected sites.
+Another consideration in the formulation of models for resource assessment is that they be based on observable or measurable features. Although genetic models are very prevalent in much of the current research on ore deposits, for the most part they deal with processes that cannot be observed directly in the field, and inference of process on the basis of indirect evidence generally varies with the experience and preconceptions of the observer. Spatial models should rely on empirical associations--even if their significance is uncertain with regard to our current understanding of genetic processes, they may effectively direct attention to subtle spatial relationships and targets that require more detailed analysis. Also, genetic hypotheses are likely to change and possibly invalidate an assessment based on them, whereas an assessment based on spatially descriptive, empirical relations can be revised as long as the source data remains valid.
+
+Skarn Deposit Model
+Metasomatically altered sedimentary rocks in the contact metamorphic aureole of plutons are sites for important deposits of tungsten in the Tonopah quadrangle, most notably in the Pilot and Cedar Mountains and northern Toiyabe Range (fig. 1). Skarn is a miners' name for calc-silicate metamorphic rock, which is rich in garnet, amphibole, and pyroxene, that characteristically is the host rock for this type of deposit. These deposits contain variable and potentially valuable concentrations of W, Cu, Mo, Ag, and Au. The simple skarn model outlined in table 3 is highly generalized compared with the subdivisions and geologic details that are known for this class of deposits (Einaudi and others, 1981) but is commensurate with datasets in our GIS. The primary recognition criteria are derived from the geologic map (presence of plutons, pre-Tertiary sedimentary units in contact with plutons) and geochemical signature. We did not include criteria such as presence of faults or limonitic alteration because evaluation of the spatial relationship between these and other variables did not suggest diagnostic correlations; in particular, our judgment was that, although faults are important in the development of skarn deposits, the faults shown on the
+
+Spatial Models of Mineral Deposits 13
+
+generalized geologic map would not be as important as
+fracturing on a local scale.
+The geochemical signature of skarn deposits in the
+Tonopah quadrangle is distinctive. Previous studies of
+mineralized-rock samples from known deposits (Nash,
+Siems, and Budge, 1985d; Nash, Siems, and Hill, 1985) showed the presence of high concentrations of many base metals, many of which are at anomalous levels in heavymineral concentrates derived from stream sediments (Nash, 1988). Although many metals are enriched in the skarn environment, the suite Bi-Mo-Pb-W was found to be most diagnostic. Factor analysis and inspection of the data for the Tonopah quadrangle (Nash, 1988) revealed excellent spatial association of this suite with known skarns and also with other areas of similar geology that lack well-developed skarn-type alteration and ore minerals. The Bi-Mo-Pb-W signature was concluded to be an effective indicator of skarn, but by itself to be insufficient to determine conclusively the existence of significant deposits. In our model the analytical results for Bi, Mo, Pb, and W in concentrates were adjusted (normalized) by rock type and individually ranked from high to low based on the adjusted concentration levels for the samples; the ranked scores were summed for each site. For this model, we defined the geochemical anomaly threshold as the 75th percentile of the composite (Bi+Mo+Pb+W) rank score (pl. 2, map A). The composite rank score was assigned to the appropriate basin, or for simplicity, assigned a bit value for background (0) or anomalous (1, 2, 4, 8, and so forth). The map of anomalous skarn-type geochemistry is shown on map A of plate 2.
+The geologic criteria for the skarn model were highly generalized to conform with aggregated units digitized from the geologic map. Although specific wallrock or intrusive rock characteristics (Einaudi and others, 1981) could be accommodated by the GIS, our map lacked those details. In particular, the 38 units on our map emphasized stratigraphy rather than lithology and thus, it was not possible to specify "impure carbonate" or a similar "optimum" lithology. Likewise, although we could specify a Triassic sedimentary unit that included the Luning Formation (host for many deposits), other similarly encoded units would also be identified, many with less than optimum characteristics. Although detailed petrologic attributes of the plutonic rocks in the quadrangle are known (John, 1987) and would be useful in refining the model, these were not available for our purposes. Although the geologic map used a more generalized classification that combined lithofacies, it would have been possible to append supplemental attributes to specific polygons that were more representative of distinct lithologies.
+A 2-km-wide reaction zone or "buffer" around plutons (fig. 9) was considered to be a reasonable approximation of the known spatial association of skarns with the margins of plutons in the Tonopah quadrangle and elsewhere (Einaudi and others, 1981). The width of the zone
+
+also allows for possible unmapped dikes or apophyses and intrusive contacts with shallow dip. A map showing proximity to plutonic units can be generated easily using raster processing techniques; zones of different proximity can be selected from this map in a few minutes time to accommodate iterative processing of the model with narrower or wider versions of favorable contact metasomatic zones. An interior buffer could be defined within the pluton to allow for possible "endoskarn" deposits, such as the rare variety that occurs at the Victory tungsten mine near Gabbs.
+The GIS could easily accommodate many other search criteria that would make the skarn model more specific. Notably lacking in our model is a criterion for host-rock alteration, apart from the interpretation of supergene limonite from remotely sensed data available in our database. Topical mapping of plutons and their contact zones by David John (oral commun., 1986) included observations of metamorphic character (alteration, mineralogy), but time did not permit systematic study of these throughout the quadrangle.
+Three stages of spatial analysis using criteria of the skarn model are shown on maps A, B, and C of plate 2 and figure 10. The geochemically favorable areas (map A) are the same as identified previously by manual inspection of the geochemical results (Nash, 1988). The geologically favorable areas (fig. 10) are more widespread than can reasonably be expected, because these deposits require highly specialized wallrock and intrusive rock compositions; criteria could be more explicitly defined if such information was available in the source data for the digitized geologic map. The final identification of favorable areas (pl. 2, map B) is in agreement with observed field
+Silurian limestone
+Figure 9. Conceptual illustration showing the use of buffer generation to define Paleozoic carbonates (patterned) that crop out within 2 km of an exposed granitic intrusive.
+
+14 Spatial Analysis of Geochemical and Geologic Information from the Tonopah 1"x2° Quadrangle, Nevada
+
+118°
+p,. .,,3go
+
+, ~'~· ~
+
+,, 1160
+
+"'a
+
+~
+
+6; "ii'
+~
+
+.'.
+
+(
+
+~· ~
+
+ij..,.
+
+..
+'tl
+
+a.
+
+3SO
+
+0 25 50
+KILOMETERS
+LIST OF MAP UNITS
+
+• pre- Tertiary intrusive rocks
+
+~ pre-Tertiary sedimentary rocks ~ exposed within 2 kilometers of
+pre- Tertiary intrusive rocks
+
+Figure 10. Geologic map showing geologic units permissive for skarn deposits in Tonopah 1°X2° quadrangle.
+
+relationships in areas such as the Pilot and Cedar Mountains and Toiyabe Range but is too extensive in the Lone Mountain and Round Mountain areas-these misidentified areas could have been excluded by restrictions imposed by more explicitly defined host rock composition or alteration characteristics. The large geochemical anomaly in the Big Ten Peak area (Nash, 1988) is ruled out by this model because the geology is not favorable, although small skarn deposits could occur there in exotic megabreccia blocks rafted upward in the caldera margin (W.J. Keith, oral commun., 1986).
+Epithermal Deposit Models
+Many ore deposits and prospects in the Tonopah quadrangle can be grossly classified as epithermal because there is permissive evidence for mineral deposition from warm hydrothermal solutions at shallow depth. These deposits tend to contain economically important amounts of precious metals, and by our working definition, they lack
+
+abundant Cu-Mo-Pb. Specific types of deposits can be
+subdivided from this general group on the basis of host-rock geology, alteration, and ore mineralogy (for example, Cox
+and Singer, 1986). The most economically important
+deposits historically are silver-gold deposits associated with
+volcanic rocks as at Tonopah, Divide, and Round Mountain, and gold deposits in calcareous shale as at Northumberland. These types of deposits tend to be enriched in the so-called "volatile" elements As, Hg, and Sb, and have variable amounts of Cu, Mo, Pb, and Zn (Ewers and Keays, 1977; Berger and Eimon, 1983; and others). Mineralized-rock samples from epithermal deposits in the Tonopah quadrangle show this geochemical tendency, but the metals can be even more abundant in other types of ore environments such as those associated with plutons (Nash, Siems, and Budge, 1985d; Nash, Siems, and Hill, 1985). Rock geochemistry alone is not a reliable means for recognizing epithermal deposits that contain precious metals. This problem is compounded with stream-sediment geochemical surveys because they tend to have lower element concentrations than do the source deposits, and the
+
+Spatial Models of Mineral Deposits 15
+
+Table 4. Descriptive model of volcanic-associated epithermal deposits
+
+[Generalized from several silver-gold models by Berger (p. 143-161, in Cox and Singer, 1986) and Tooker (1985))
+
+Element
+
+Area
+
+GIS Use in
+
+Tectonic setting Age Rock types Structural controls Alteration Geochemistry Remote sensing Geophysical signature Mineralogy, fluid inclusions, isotopes
+
+Global
+Craton to continental margin, calderas, extensional faults Mainly Quarternary-Tertiary Andesitic-rhyolitic volcanics, volcaniclastic sediments, small intrusions High-angle faults, breccia zones, inside and outside calderas Adularia, clays, alunite
+Au, Ag, Sb, Hg, As ± Cu, Pb, Zn, Mo
+Alteration, structure1 Magnetic low, gravity low(?) See references
+
+Tonopah
+Same as global Same as global Same as global Same as global Same as global Same as global Same as global Same as global Same as global
+
+application
+Pl D D P2 P2 P2 P2 P2 N
+
+this study
+No. Yes; F. Yes; S, F. No; S, F. No; F1• Yes; F2• No; F1• No; F. No.
+
+Explanation:
+D, Diagnostic: feature observed at most examples, considered to be important for recognition of deposit. P, Permissive: feature observed at many examples, considered to be an indirect guide to deposit:
+Pl, permissive and not very useful at scale of 1°x2° quadrangle. P2, permissive because feature is not unique to this deposit type.
+E, Effective: information obtainable in most regional studies for use in a GIS. F, Future refinement possible: information not generally available in regional studies. N, Not pertinent to spatial analysis: information pertains to specific sites and is very costly.
+S, Scale may not permit necessary detail to document properly this feature. 1Alteration mapping by multichannel capabilities and scale of Landsat Thematic Mapper are well suited for the alteration assemblages in these
+deposits, provided that uniform data coverage and appropriate processing refinements are available and that interference from vegetation is not a problem. 2Geochemical signature of these deposits is highly variable in terms of base metals and grades into the element suite and abundances observed in other
+types of deposits; further research and application of special analytical methods could probably clarify this problem.
+
+contrast between background and anomalous concentrations is lower as well. Geologic information contained in the GIS offered additional criteria to aid in the recognition of epithermal deposits.
+An epithermal geochemical suite consisting of As, Sb, Mo, and Zn (pl. 3, map A) was defined from factor analysis of element concentrations in mineralized-rock samples as well as in stream sediments (Nash, 1988). Analyses for As, Sb, and Zn were determined by atomic absorption spectrometry on the <0.25-mm fraction of stream sediments, and values for Mo are emission spectrographic analyses of concentrates. This suite tends to be weakly developed in many areas of the quadrangle, especially in the mountain ranges with chiefly Tertiary ashflows such as the Toiyabe, Toquima, and Monitor Ranges (Nash, 1988). The concentrations of these elements commonly are slightly above selected anomaly thresholds, and at many sites only two or three of the elements are anomalous. This is in sharp contrast to other areas, generally near plutons, that have strong (anomalous) multielement signatures involving 5-10 elements. Several methods of enhancing the epithermal signatures were investigated. In the first method, all sites characterized by the skarn suite (especially Bi and W) were discarded because many have high levels of As, Sb, Mo, and Zn. Although this reduced the size of the dataset, it was considered to involve circular reasoning and could cancel sites with Bi and W from epithermal rather than skarn sources-such as is known for volcanic terrane of the Hot Creek Range. A second method used the geologic information to screen the chemical analyses whereby subsets were retrieved for basins with no plutonic rocks present and for basins underlain pre-
+
+dominantly by volcanic or sedimentary rocks. Areas underlain chiefly by plutonic rocks could be eliminated entirely, as shown on map B of plate 3. In the third method, geochemical analyses were normalized on the basis of backgrounds for the major contributing rock types (table 2), which has the effect of raising values for As, Mo, and Sb in drainage basins with chiefly volcanic sources and lowering values for these elements in drainage basins with chiefly plutonic or sedimentary sources. The normalized analytical results were ranked, as described earlier, and each drainage basin was given a score for the sum of the ranked values for As, Sb, Mo, and Zn (pl. 3, map A).
+A model for epithermal systems in volcanic terrane was developed (table 4) and computed in two ways. For one submodel the search rules were (1) basins with chiefly Tertiary volcanic rocks, and (2) basins with an anomalous epithermal-element suite. The distribution of basins that meet the simple volcanic-associated model is shown on map B of plate 3. A variant on this volcanic-epithermal submodel included a third search rule: (3) presence of Tertiary intrusions. Districts such as Divide and Tonopah have Tertiary intrusions that probably are important in the mineralizing processes (Bonham and Garside, 1979); however, these intrusions tend to be small and are not shown on the digitized regional map resident in our GIS. The inclusion of an alteration criterion might have enhanced these submodels, but the only related data was a limonite occurrence map derived from interpretation of Landsat multispectral scanner (MSS) data. The utility of this information is limited by the spectral and spatial resolution
+
+16 Spatial Analysis of Geochemical and Geologic Information from the Tonopah 1°X2° Quadrangle, Nevada
+
+Table 5. Descriptive model of sediment-hosted epithermal deposits
+
+[Essentially the "carbonate-hosted Au-Ag" model of Berger (p. 175, in Cox and Singer, 1986)]
+
+Element
+
+Area
+
+Tectonic setting, miogeocline Age Rock types Structural controls Alteration Geochemistry Remote sensing Geophysical signature Mineralogy, fluid inclusions, isotopes
+
+Global
+Normal faults, accreted Mainly Tertiary, but can be any age Impure carbonaceous shaley carbonate, near felsic intrusions(?) High-angle and thrust faults Jasperoid, argillic, alunite Au, As, Hg, Mo, Sb, Tl, W Alteration, structure2 Associated with magnetic highs; electrical conductors See references
+
+Tonopah
+Same as global Same as global Same as global Same as global Jasperoid, argillic Same as global(?) Same as global Unknown Same as global
+
+GIS
+application
+Pl PI D D
+Dot
+P2 P2 N
+
+Use in
+this study
+No. No. Yes; F, S. Yes; F, S. No; F. Yes; F. No; F. No; F. No.
+
+Explanation: D, Diagnostic: feature observed at most examples, considered to be important for recognition of deposit. P, Permissive: feature observed at many examples, considered to be an indirect guide to deposit: PI, permissive and not very useful at scale of 1°><2° quadrangle. P2, permissive because feature is not unique to this deposit type. E, Effective: information obtainable in most regional studies for use in a GIS. F, Future refinement possible: information not generally available in regional studies. N, Not pertinent to spatial analysis: information pertains to specific sites and is very costly. S, Scale may not permit necessary detail to document properly this feature. 1Expression in stream-sediment media not well established; trace elements such as Au, Tl, and W require special analytical methods not normally used
+in regional surveys. 2Alteration mapping by multichannel capabilities and scale of Landsat Thematic Mapper are well suited for this deposit type, provided that uniform
+data coverage and appropriate processing refinements are available and that interference from vegetation is not a problem.
+
+of the MSS sensor (Purdy and others, 1985; Bailey and others, 1985), and by substantial vegetation cover in upland areas which masks the spectral response of the underlying rocks or soils.
+A model for epithermal deposits in sedimentary rocks (table 5) resembles that for Carlin-type gold deposits (Radtke and others, 1980; Tooker, 1985). The search criteria utilized the geochemical, stratigraphic, and structural layers in the database. The distribution of areas that meet the sediment-hosted epithermal model is shown on map C of plate 3. For most general purposes the geologic criterion was basins with sedimentary rocks, but obviously this rule could be made more specific. The addition of a geologic map showing distinct lithofacies would have been especially useful for the Carlin model. The structural criterion, which is the presence of thrust faults, is debatable because the ore deposits are not demonstrably related to such structures-yet thrusts are near the major deposits and also near the Northumberland deposits (Kleinhampl and Ziony, 1984). This is a good example of the application of empirical spatial associations; a proximity criterion such as a 2- or 4-km-wide zone of influence along the structural trace could easily be added to this spatial model.
+QUANTIFICATION OF SPATIAL MODELS
+Spatial models such as those previously discussed can be evaluated using the GIS in at least two ways: (1) spatially computing and comparing areas of defined
+
+anomalies, and (2) spatially comparing defined anomalies
+with the distribution of known mineral occurrences in the
+MRDS file. Of particular interest is a comparison com-
+parison of the areas of geochemical anomalies defined by
+the interpolation and basin methods. Maps comparing the spatial expression of geo-
+chemical anomalies defined by interpolation and by drainage basins (pl. 1, map C) show where the methods agree and where they differ. In most cases the basin-defined anomalies typically agree with anomalous areas defined by interpolation, yet more extensive anomalies are shown by the latter method because geochemical information was not constrained to sampled basin areas.
+The skarn geochemical map (pl. 2, map C) shows areas of bedrock that are deemed anomalous by (1) the basin method, (2) interpolation method, and (3) both methods. Note that the sampled area is 28 percent of the total area of the quadrangle. Computed on the basis of the entire quadrangle, the percentage of area indicated as anomalous by the basin method alone is 0.3 percent, that indicated by the interpolation method is 16.1 percent, and 1.8 percent is overlap. The interpolation method, if not constrained by geology, extends anomalies across large areas of Quaternary basin fill. The unconstrained interpolation indicates that 12.8 percent of the quadrangle area underlain by Quaternary alluvium is anomalous-almost as large an area as is anomalous bedrock! We feel this is an unreasonable estimate.
+Map C of plate 1 shows the anomalous areas of the epithermal geochemical suite according to the interpolation and basin methods. The anomalous area defined by basins
+
+Quantification of Spatial Models 17
+
+amounts to 1.7 percent, the methods agree in 2.4 percent of the area, and the area defined by the interpolation method is 16.3 percent.
+Confidence levels could be assigned ,to the geochemical maps as can be implied in map C of plate 1. We would assign a high confidence level to anomalous areas within sampled basins (green or red) and a lower confidence to anomalous areas computed by interpolation to extend beyond sampled drainage basins (blue). Users of geochemical maps for resource assessment would benefit from indications on the maps of the confidence attached to various anomaly types.
+Another test of the two methods is how well they identify (by superposition) known deposits and prospects. The standard for this test is the MRDS information on 608 deposits of which we judged 50 sites to be skarn type and 355 to be epithermal type (chiefly silver-gold deposits). For the skarn deposits, the basin method exclusively identified 2 percent, the interpolation exclusively identified 30 percent, both methods inclusively identified 28 percent, and 40 percent of the deposits remain unidentified or were outside the sampled areas. For the epithermal deposits, the basin method exclusively identified 2.2 percent, the interpolation method exclusively identified 22.7 percent, both methods inclusively identified 7.8 percent, and 67.3 percent remain unidentified or were outside the sampled areas. The interpolation method, when unconstrained by geology, indicates that 12.1 percent of the quadrangle is anomalous in areas of Quaternary alluvium. The fact that many of the known deposits occur outside of the sampled basins partially accounts for the difference in the number of deposits identified by the two methods, but extension of anomalies into unsampled areas by the interpolation method compensates for some lack of coverage. Although there may be some instances where extension of anomalies across Quaternary alluvium of the intermontaine basins would be useful, such as a search for concealed or faulted-off deposits in the basins, for most geochemical and resource considerations those extensions are best eliminated as being geologically untenable by digitally masking out areas of Quaternary sedimentary cover.
+DISCUSSION
+Application of GIS technology to the Tonopah quadrangle has permitted improved spatial analysis of geological and geochemical information. In this section we will review the problems as well as the successes encountered in this study. As described in earlier sections, GIS techniques have allowed us to identify and associate the major geochemical trends, geology, and related resources in the Tonopah quadrangle and confirm features that had been previously identified by manual methods (Nash, 1988). The GIS is effective in this respect but cannot overcome
+
+deficiencies in the database nor, on its own, create scientific breakthroughs. This experiment encountered its share of problems and human errors-these can be circumvented in future applications to make the process more efficient.
+Database Requirements
+The effectiveness of a GIS is largely proportional to the quality of the datasets compiled for the investigation. In this study we rarely encountered software or hardware limitations, but the sophistication of modeling was limited by the basic datasets. The GIS is capable of handling many more datasets than we had available. Whether one wishes to use empirical relationships such as spatial correlation or application of associations demonstrated in known deposits for resource assessment, multiple data layers are desirable. Ideally, the scale and associated spatial accuracy of geology, geochemistry, and geophysics should be comparable; the GIS can compensate for discrepancies but will tend to round off differences with possible misrepresentation of information. Comprehensive planning obviously is important to the success of a project, and the timing of data input is crucial to meeting project and publication deadlines.
+Geologic maps that are to be used in the GIS should be compiled to meet the explicit goals of the project. In the present experiment, the available geologic map generally was not appropriate for the inquiries attempted. Most geochemical or resource inquiries require maps that emphasize lithology and alteration rather than stratigraphy. Also, these inquiries would benefit from more detailed information on local structures in addition to major regional features because the former are more likely to control the occurrence of geochemical anomalies and ore deposits. A dilemma for the Tonopah CUSMAP project is that limited time and funding permitted detailed mapping of only part of the region, yet a reliable assessment using a GIS requires consistent and uniform geologic coverage. Mapping of lithology, structure, and alteration from high-resolution Landsat Thematic Mapper or SPOT (Systeme Probatoire d'Observation de la Terre) satellite imagery may contribute to the compilation of more detailed geologic information. Indeed, we suggest that the utility of a GIS will be constrained if appropriate geologic maps are not available for the geochemical or resource survey.
+The geochemical data requirements generally are dictated by the needs of the program; the GIS can accommodate a wide variety of geochemical information. Specifications for sample media and sample density are determined by the geology and logistics within the study area. Although uniformly spaced sample sites are most amenable to mapping, we have shown that the GIS can compensate for nonideal patterns such as closely spaced, multiple samples that plot as one point at a given scale. An
+
+18 Spatial Analysis of Geochemical and Geologic Information from the Tonopah 1°X2° Quadrangle, Nevada
+
+unexpected observation in this study was the limitation imposed by qualified results from the analytical methods used to determine element concentrations. Although extensive statistical analysis of the geochemical data had been done prior to this project (Nash, 1988), we found that methods for quantitative modeling of integrated geology and geochemistry require chemical analysis methods with a wider range of detectable concentrations. A geochemical database with fewer qualified entries (such as "not detected" values) might have permitted a more quantitative interpretation of geochemical backgrounds or geochemical suites. As is known from statistical analysis in geochemistry, computer manipulation of geochemical data in a GIS can be made computationally precise but cannot compensate for inherent deficiencies in the data. Careful selection of geochemical methods to meet program objectives might avoid this type of problem.
+Computing Requirements
+The definition of technical requirements for hardware and software are beyond the scope of this discussion, but some general points need to be made. Based on experience with several multidisciplinary studies similar to the Tonopah project (Dwyer and others, 1987), it is clear that an operational GIS capability requires a well-equiped facility with a system capable of storing and handling large datasets [200-1900 kilobytes (KB) for a single dataset]. Despite many advances in desktop personal computers, the storage and computing capacity of these units is not yet sufficient to handle large spatial datasets. Some examples of file sizes are: (1) drainage basin outlines, 597 KB in vector format and 960 KB in raster format; (2) map of 38 geologic units, 1.4 megabytes (MB) as vector files and 480 KB as raster files; and (3) each geochemical map for multiple and single elements, 240 KB in vector format and 1.9 MB as an interpolated surface. Storage requirements expand rapidly as derivative vector or raster files are created and archived for future recall. Some tasks require the interactive capabilities of an analytical workstation, whereas other functions may be computationally intensive and are best executed as batch processes. Specialized hardware and software are required to digitize, manage, and manipulate information, and to generate statistical, graphic, and textual summaries. A dynamic, graphics display environment is a major functional requirement. Although many computeraided design or mapping (CAD/CAM: computer-aided design/computer-aided manufacturing) systems facilitate graphic editing, a GIS is distinct in its ability to capture, merge, and manipulate spatial features on the basis of locational, topologic, and descriptive attributes. The integration of tabular, vector, and raster processing techniques maximizes the utility of each dataset's unique characteristics. Even on this simple experiment we have used
+
+numerous output devices for the generation of tabular and cartographic products, in monochrome and color. We suspect projects that lack such facilities could encounter obstacles that would result in the investigation falling short of its goals and objectives.
+Output Options
+Perhaps the greatest single advantage of a GIS is the ability to iteratively implement and refine spatial models. Color graphics workstations facilitate real-time display and analysis of spatial relationships. Desired products can be generated using several types of color or black-and-white film recorders or plotters, and adjustments for scale and annotation are readily made. Film recorders can be used to generate color separates for publication printing, thereby saving much time and labor. The technical precision of linework varies with the type of output device and, in some cases, may not meet certain very strict engineering standards for graphics publication.
+As with other parts of the project, the publication requirements should be reviewed at the outset. The GIS approach can be advantageous for projects that need many types of visual aids for meetings and publications. The technical requirements of publishers must be considered at an early date-if the GIS is not capable of meeting those requirements, or if a compromise on requirements is not possible, manual redrafting of maps and figures could obviously nullify these particular advantages of the GIS.
+Cost Effectiveness
+This was a pilot project and the lessons learned here should minimize the amount of time for and enhance the efforts of similar projects in the future. Some of the major pitfalls encountered in this effort can be attributed to the following: (1) the GIS approach was adapted after the Tonopah CUSMAP project had already been started and with the reluctance of geologists to participate; (2) inappropriate base maps (basins, geology) were digitized; (3) limitations were imposed by the types of analytical methods used for geochemical analyses, and (4) human error, which might well be inevitable, occurred.
+Application of a GIS for spatial analysis in geochemical and resource surveys can be effective if the above potential problems are addressed. The preparation of geographically referenced spatial databases is expensive and therefore should only be undertaken for projects and programs that will use them extensively over time. Scale is easily changed in the GIS, thus the database can be used for quadrangle-, county-, or state-wide investigations. The database should be useful to many topical investigations relating to natural resources and environmental studies.
+
+Discussion 19
+
+Projects that involve many types of spatial data and that require a team of geoscientists benefit from the access to a common, geographically referenced database, particularly with respect to generation of interim cartographic products and visual aids. However, without an initial commitment to the design and development of an appropriate database, and regular interaction among the principal investigators, the GIS will not be utilized to its full potential.
+Spatial Maps for Geochemistry
+The choice of a mapping method for geochemical data is both complex and subjective. Foremost consideration should be given to the scale, purpose, and specific data used in the study. For studies of large areas with low sample density, the interpolation method probably has advantages--chiefly that results cover all areas, perhaps at the risk of unreliable extension of anomalies beyond sample-represented areas. Also, surface generation is an automated procedure that requires less analyst time than basin encoding, and surfaces can be qualified to some extent by geology. For smaller study areas with high sample densities, or for studies requiring conservative resource assessment or area-specific analysis, the basin method should be more reliable because it is based on the topographic definition of the sampled domain.
+Suggestions for Future Research
+
+appropriate coordination of geologic and geochemical datasets, a GIS can access the required information for extraction of the elemental background and threshold values that are most applicable to the project area. Significantly, these geochemical parameters would be computed according to geologic rather than statistical criteria. This is not a new method, but in practice it is rarely done, even though it could be done both rapidly and routinely.
+A challenge evident in our work with the GIS is the implementation of more efficient techniques for publication of maps. This cartographic research requires the insights of geologists, cartographers, editors, and publishers. A key issue is development of standards that are appropriate for the new era of digital cartography.
+Perhaps the most significant opportunity for research in the GIS environment is on the development of spatial models for resource assessment. The flexibility of inquiry through the GIS permits creation of search rules that are designed for local, regional, or global criteria. Lessons learned in the research on ore deposit models in regard to an artificial intelligence system (Reboh, 1983) can be applied here and elsewhere. Indeed, GIS can become a spatially oriented artificial intelligence system in the sense that rules developed by one group of experts can be reliably and reproducibly applied by another group. As found in other research on ore deposit models (for example, S.S. Adams, in Reboh, 1983; Cox and Singer, 1986) a useful benefit of this research will be the creation of uniform standards for datasets and systematic description of ore environments.
+
+The GIS capabilities available for use in this study were more than sufficient for the inquiries presented. There are many opportunities for new applications of this technology, a few of which can be outlined here.
+Digital files of sampled drainages are very useful, as we have shown, but need to be acquired in a more efficient process than we used. Automated techniques for analysis of digital elevation models have been developed to identify and extract drainage lines, flow direction, drainage-basin boundary and extent, depressions, and outflow points (Jenson, 1985; Jensen and Trautwein, 1987). Another semiautomated process involves scanning of maps. In most streamsediment geochemical surveys the sample basins are chosen by outlining desired sites and drainage basins and possibly are modified during sample collection; the original field sheets should provide a reliable map for scanning and should carry the fewest errors on sample locations and sample numbers. A routine process, such as one of these, would require minimal operator time and permit realistic representation of specific areas that contribute to streamsediment samples. This opens the door to more effective spatial analysis of geochemical results for many purposes.
+Research on geochemical backgrounds and anomaly thresholds is expedited by a GIS if geologic maps of lithology and alteration are included in the database. With
+
+REFERENCES CITED
+Albers, J.P., and Stewart, J.H., 1972, Geology and mineral deposits of Esmeralda County, Nevada: Nevada Bureau of Mines and Geology Bulletin 78, 80 p.
+Bailey, G.B., Dwyer, J.L., and Podwysocki, M.H., 1985, Evaluation of Landsat thematic mapper data for geologic mapping in semi-arid terrains-Proceedings, International Symposium on Remote Sensing of Environment, Fourth Thematic Conference, "Remote Sensing for Exploration Geology": San Francisco, Calif., Environmental Research Institute of Michigan, v. 1, p. 325-326.
+Berger, B.R., and Eimon, P.l., 1983, Conceptual models of epithermal precious-metal deposits, in Shanks, W.C., ed, Cameron volume on unconventional mineral deposits: American Institute of Mining and Metallurgical and Petroleum Engineers, p. 191-205.
+Bonham, H.F., Jr., and Garside, L.J., 1979, Geology of the Tonopah, Lone Mountain, Klondike, and Northern Mud Lake Quadrangles, Nevada: Nevada Bureau of Mines and Geology Bulletin 92, 142 p.
+Bonham-Carter, G.F., and Goodfellow, W.D., 1986, Background corrections to stream geochemical data using digitized drainage and geological maps-Application to the Selwyn Basin, Yukon and Northwest Territories: Journal of Geochemical Exploration, v. 25, p. 139-155.
+
+20 Spatial Analysis of Geochemical and Geologic Information from the Tonopah 1°X2° Quadrangle, Nevada
+
+Briggs, I.C., 1984, Machine contouring using minimum curvature:
+Geophysics, v. 39, no. 1., p. 39-48.
+Cox, D.P., and Singer, D.A., I986, Mineral deposit models: U.S.
+Geological Survey Bulletin 1693, 379 p.
+Davis, J.C., 1986, Statistics and data analysis in geology: New York, John Wiley, 646 p.
+Dwyer, J.L., Moll, S.H., Trautwein, C.M., Elliot, J.E., Pearson,
+R.C., Pratt, W.P., and Nash, J.T., I987, Geographic
+information system requirements in mineral-resource
+assessment-Lessons learned through cooperative research, in Sachs, J.S., ed., USGS research on mineral
+resources-1987: U.S. Geological Survey Circular 995, p. 17-18.
+Einaudi, M.T., Meinert, L.D., and Newberry, R.J., 1981, Skarn
+deposits, in B.J. Skinner, ed., Seventy-fifth anniversary
+volume: Economic Geology Publishing Co., p. 3I7-391.
+Ekstrand, O.R., ed., I984, Canadian mineral deposit types-A geologic synopsis: Geological Survey of Canada Economic Geology Report 36, 86 p.
+ESRI, 1987, ESRI geographic information software descriptions: Redlands, Calif., Environmental Systems Research Institute.
+Ewers, G.R., and Keays, R.R., 1977, Volatile and precious metal zoning in the Broadlands geothermal field, New Zealand: Economic Geology, v. 72, p. I337-1354.
+Fairfield, R.J., Jr., Siems, D.P., Zuker, J.S., Hill, R.H., Nash, J.T., and Budge, Suzanne, I985, Analytical results and sample locality map of stream-sediment samples from the Tonopah I 0 X2° quadrangle, Nevada: U.S. Geological Survey OpenFile Report 85-376, 85 p.
+Goldfarb, R.J., Leach, D.L., and Speckman, W.S., 1983, An application of rank-order statistics to exploration geochemistry [abs]: lOth IGES Symposium, Association of Exploration Geochemists, Helsinki, Finland, p. 30.
+Grabber, D.E., 1984, Union Carbide's Pilot Mountain Project-Geologic setting and field trip guide, in J.L. Johnson, ed., Exploration for ore deposits of the North American Cordillera, Field trip guide: Association of Exploration Geochemists, p. FT5-FT24.
+Hill, R.H., Siems, D.P., and Nash, J.T., 1986, Analytical results and sample locality map for minus-60-mesh (0.25-mm) stream-sediment samples from the eastern part of the Tonopah 1° by 2° Quadrangle, Nevada: U.S. Geological Survey Open-File Report 86-445, 24 p, 1 sheet, scale 1:100,000.
+Jenson, S.K., 1985, Automated derivation of hydrologic basin characteristics from digital elevation model data: Washington, D.C., Auto-Carto 7, March I1-14, p. 301-310.
+Jenson, S.K., and Trautwein, C.M., 1987, Methods and applications in surface depression analysis: Baltimore, Md, Auto-Carto 8, March 28-April 3, p. 137-144.
+John, D.A., 1987, Map showing the distribution and characteristics of plutonic rocks in the Tonopah 1o by 2° Quadrangle, central Nevada: U.S. Geological Survey Miscellaneous Field Studies Map MF-1877-J, scale 1:250,000.
+Kleinhampl, F.J., and Ziony, J.I., 1984, Mineral Resources of Northern Nye County, Nevada: Nevada Bureau of Mines and Geology Bulletin 99B, 243 p.
+
+___ 1985, Geology of Northern Nye County, Nevada: Nevada
+Bureau of Mines and Geology Bulletin 99A, I72 p.
+Kral, V.E., 195I, Mineral resources of Nye County, Nevada:
+University of Nevada Bulletin no. 50, v. 45, 223 p.
+Nash, J.T., 1988, Interpretation of the regional geochemistry of the
+Tonopah 1°X2° quadrangle, Nevada, based on analytical
+results from stream-sediment and nonmagnetic heavy-
+mineral-concentrate samples: U.S. Geological Survey
+Bulletin 1849, 28 p.
+Nash, J.T., and Siems, D.P., 1988, Regional geochemical maps of the Tonopah 1°X2° quadrangle, Nevada, based on samples
+of stream sediment and nonmagnetic heavy-mineral
+concentrate: U.S. Geological Survey Miscellaneous Field
+Studies Map MF-1877-B, scale I:500,000.
+Nash, J.T., Siems, D.P., and Budge, Suzanne, 1985a, Geochemical
+studies of the Belmont silver district, Nye County, Nevada:
+U.S. Geological Survey Open-File Report 85-263, 19 p. _ 1985b, Geochemical signature of the Divide silver-gold
+district, Esmeralda County, Nevada: U.S. Geological Survey Open-File Report 85-535, 28 p. ___ 1985c, Geochemical signatures of ores and altered rocks in the Gilbert district, Esmeralda County, Nevada: U.S. Geological Survey Open-File Report 85-259, 21 p. ___ 1985d, Geochemical signatures of ore deposits and mineralized rocks from the Pilot Mountains, Mineral County, Nevada: U.S. Geological Survey Open-File Report 85-388, 22 p. Nash, J.T., Siems, D.P., and Hill, R.H., 1985, Geochemical signatures of ore deposits and mineralized rocks from the Cedar Mountains, Mineral and Nye Counties, Nevada: U.S. Geological Survey Open-File Report 85-260, 22 p. Orris, G.J., and Kleinhampl, F.J., 1986, Preliminary mineral resource assessment of the Tonopah 1°X2° quadrangle, Nevada: U.S. Geological Survey Open-File Report 86-470, 79 p. Purdy, T.L., Bailey, G.B., and Dwyer, J.L., 1985, Use of thematic mapper data for alteration and geologic mapping in southcentral Nevada-Proceedings, International Symposium on Remote Sensing of Environment, Fourth Thematic Conference, "Remote Sensing for Exploration Geology": San Francisco, Calif., Environmental Research Institute of Michigan, v. 2, p. 631-632. Radtke, A.S., Rye, R.O., and Dickson, F.W., 1980, Geology and stable isotope studies of the Carlin gold deposit, Nevada: Economic Geology, v. 75, p. 641-672. Reboh, Rene, 1983, A knowledge-based system for regional mineral resource assessment: Menlo Park, Calif., SRI International, Final Report for SRI Project 4119, 267 p. Siems, D.P., Marchitti, M.L., and Nash, J.T., 1986, Analytical results for samples of nonmagnetic heavy-mineral concentrates from the Tonopah 1°X2° quadrangle, Nevada: U.S. Geological Survey Open-File Report 86-2I3, 94 p. Tooker, E.W., ed., 1985, Geologic characteristics of sediment- and volcanic-hosted disseminated gold deposits-Search for an occurrence model: U.S. Geological Survey Bulletin 1646, 150 p. Whitebread, D.H., compiler, 1986, Generalized geologic map of the Tonopah I0 X2° quadrangle, Nevada: U.S. Geological Survey Open-File Report 86-462, scale 1:250,000.
+
+References Cited 21
+
+*U.S. GOVERNMENT PRINTING OFFICE: 1991-573-049/26041
+
+

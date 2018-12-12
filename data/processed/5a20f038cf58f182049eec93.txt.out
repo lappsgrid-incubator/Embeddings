@@ -1,0 +1,424 @@
+journal hydrology regional study content list available sciencedirect journal hydrology regional study journal homepage www elsevier com locate ejrh 
+temporal variation baseﬂow little river experimental watershed south georgia usaଝ david bosch ,∗, jeff arnold peter allen kyoung jae lim youn shik park usda agricultural research service southeast watershed research lab rainwater road tifton usa usda agricultural research service grassland soil water research lab temple usa baylor university waco usa kangwon national university republic korea kongju national university republic korea 
+article info article history receive october receive revised form february accept february available online march keywords baseﬂow hydrograph groundwater coastal plain 
+abstract study region the little river experimental watershed lrew southern coastal plain major land resource area n31 w83 
+study focus separation streamﬂow hydrographs rapid stormﬂow baseﬂow vastly improve understand watershed process 
+the two parameter eckhardt digital ﬁlter method separation high low frequency signal use estimate portion streamﬂow emanate soil water groundwater 
+the method require estimation two ﬁtting parameter bfimax alpha (␣). 
+the baseﬂow index bfi ratio baseﬂow volume total streamﬂow volume 
+bfimax set 
+new hydrological insight region baseﬂow find produce annual streamﬂow 
+stormﬂow find produce annual streamﬂow 
+baseﬂow great month december may least month june november 
+annual bfi find decrease increase annual precipitation indicate high precipitation year saturation excess driven stormﬂow increase lrew 
+hydrograph analysis indicated average stormﬂow duration seven day typically extend interﬂow watershed 
+these observe seasonal pattern signiﬁcant impact regional agriculture well coastal estuary rely heavily upon streamﬂow 
+publish elsevier 
+this open access article license http creativecommons org license 
+introduction understand streamﬂow process important number purpose include water resource management aquatic ecosystem preservation hydropower generation contaminant transport low ﬂow forecasting beck 
+streamﬂow compose three part overland ﬂow surface runoff create water inﬁltrate soil 
+mention company trade name description imply endorsement usda 
+the usda equal opportunity provider employer 
+correspond author 
+mail address david bosch ar usda gov 
+bosch jeff arnold ar usda gov 
+arnold peter allen baylor edu 
+allen kyoungjaelim gmail com 
+lim parkyounshik gmail com 
+http doi org ejrh publish elsevier 
+this open access article license http creativecommons org license 
+journal hydrology regional study 
+travel quickly stream interﬂow consist water inﬁltrates soil travel laterally downslope upper soil layer groundwater ﬂow inﬁltrates travel aquifer 
+separation streamﬂow component subjective since method precisely identify 
+water follow pathway subsurface reach stream slower lead delayed signature streamﬂow hydrographs 
+subsurface ﬂow consist shallow interﬂow deeper aquifer ﬂow 
+interﬂow driven restrictive soil horizon occur within many soil 
+interﬂow move slowly surface runoff typically rapidly groundwater 
+hydrograph separation complicate interﬂow reemerge downgradient seepage land surface combine direct surface runoff 
+term streamﬂow hydrograph impossible distinguish three different component 
+because streamﬂow typically divide two component hydrograph separation stormﬂow baseﬂow 
+stormﬂow contain true surface runoff quickﬂow portion interﬂow baseﬂow contain groundwater ﬂow portion interﬂow move slowly subsoil 
+baseﬂow particularly important throughout southern coastal plain scp major land resource area usda nrc 
+favorable climate fertile soil ample rainfall make scp productive agricultural region 
+the scp rich surface subsurface water resource essential agriculture 
+many region surﬁcial aquifer contribute baseﬂow throughout scp miller 
+transmissivity surﬁcial aquifer throughout scp highly variable miller santhi result baseﬂow contribution streamﬂow highly variable 
+increase demand groundwater change land use change precipitation pattern due climate change expect impact baseﬂow condition streamﬂow volume 
+furthermore comprehensive planning water resource management development use beneﬁt clear understanding seasonal baseﬂow pattern well long term change baseﬂow behavior esralew lewis 
+separation streamﬂow hydrographs rapid stormﬂow baseﬂow vastly improve understand streamﬂow chemical transport 
+because surface runoff move rapidly stream baseﬂow move slowly soil separate understand two process fundamental understanding hydrologic water quality effect many watershed process 
+many landscape surface runoff intercept topographic depression store water prevent transport stream enhance inﬁltration 
+despite complication characterize two component streamﬂow greatly improve watershed hydrologic budget 
+for validation hydrology model simulation stormﬂow baseﬂow component streamﬂow hydrographs typically need separate 
+incorrect representation baseﬂow pattern lead erroneous model result ultimately erroneous policy decision arnold 
+for validation hydrology conservation effect assessment project ceap model simulation stormﬂow baseﬂow component streamﬂow hydrographs separate hundred gage across santhi 
+ceap model output calibrate stormﬂow baseﬂow illustrate importance hydrograph separation 
+baseﬂow typically estimate analysis streamﬂow time series hydrographs separate streamﬂow stormﬂow baseﬂow 
+various technique exist hydrograph separation 
+because physically possible completely differentiate stormﬂow baseﬂow method hydrograph separation vary widely 
+technique typically fall manual graphical automate ﬁltering tracer base method 
+the widely use graphical separation technique refer straight line method consist graphically extending recession component hydrograph storm solely compose baseﬂow point recession peak hydrograph fig 
+for method straight line draw start rise limb hydrograph select point recession hydrograph assume stormﬂow component line baseﬂow component line 
+illustration straight line baseﬂow separation technique begin end point dash line represent onset conclusion stormﬂow 
+journal hydrology regional study begin point easily identiﬁed base upon begin hydrograph response stormﬂow 
+selection ﬁnal point often much arbitrary linsley 
+the straight line method typically isolated single peak hydrograph result single storm event 
+complex multiple peak event difﬁcult interpret respect onset end time baseﬂow 
+graphical hydrograph separation technique work well isolated event 
+however streamﬂow record include numerous event give period 
+graphical analysis extend record impractical 
+because automate method develop hydrograph separation 
+for continuous hydrographs automate technique typically use process entire time series data derive baseﬂow 
+these method typically refer digital ﬁltering procedure use numeric algorithm separate ﬂow 
+general ﬁltering method hydrological basis aim generate objective repeatable easily automate method derive baseﬂow response catchment 
+digital ﬁltering method remove inconsistency inherent graphical method reduce time require hydrograph separation 
+many ﬁltering method exist discuss 
+excellent review ﬁltering method present brodie hostetler 
+one widely use baseﬂow separation application geological survey hysep program sloto crouse 
+hysep public domain computer program three separation method ﬁxed interval slide interval local minimum 
+additional numeric technique include single parameter nathan mcmahan two parameter eckhardt digital ﬁlters 
+the two parameter digital ﬁlter show provide comparable result widely use hysep method lim 
+also compare several method estimate baseﬂow report eckhardt two parameter digital ﬁlter method yield baseﬂow index bfi estimate comparable obtain use tracer test 
+the bfi ratio baseﬂow volume total ﬂow volume often express percentage determine hydrograph separation complete 
+tracer method make direct measurement stormﬂow baseﬂow component 
+however even tracer technique considerable uncertainty exist hydrograph separation gonzales rumsey 
+the bfi vary depend upon geology topography season 
+within give watershed vary vadose zone within watershed change water content 
+the analysis wolock conterminous united state indicate bfi range georgia section scp 
+estimate baseﬂow conterminous united state use single parameter digital ﬁlter method low non summer month find index value georgia scp 
+examine hydrographs use straight line method little river experimental watershed lrew south georgia usa period rainfall event exceed 
+the determination ﬁnal point recession hydrograph make base upon anticipated stormﬂow runoff duration event function watershed area 
+they report bfis range watershed range scale km2 estimate primary little river drainage 
+they report bfi km2 portion little river 
+express baseﬂow expect vary seasonally function vary level evapotranspiration aquifer storage 
+streamﬂow month december april watershed throughout scp typically much great month may november sheridan 
+great precipitation small evapotranspiration rate winter spring month create great soil moisture great aquifer recharge increase surface runoff response groundwater contribution streamﬂow 
+sheridan report precipitation receive january april become streamﬂow becomes streamﬂow throughout remainder year 
+report alluvial storage surround regional stream southeastern varies available late winter spring available late summer fall 
+the lack available storage winter spring subsequently lead high peak ﬂows high streamﬂow shirmohammadi 
+for region surﬁcial aquifer baseﬂow cease summer fall period surﬁcial aquifer tend dry 
+streamﬂow summer fall may dominate surface runoff generate high intensity precipitation event 
+the scp region consist mainly low elevation ﬂat roll terrain numerous stream abundant rainfall complex coastline many wetland 
+stream throughout ecoregion relatively low gradient sandy bottom 
+the region contain many area shallow aquifer system fee streamﬂow 
+the little river experimental watershed lrew establish long term study site scp department agriculture agricultural research service 
+the little river consider generally representative climate topography soil geology stream network agricultural production system within level iii southeastern plain ecoregion 
+additionally contribution surface water deep seepage believe relatively small simplify deﬁning experimental watershed water budget 
+the lrew headwater suwannee river basin 
+extensive body hydrologic data exists lrew bosch 2007a 
+while study examine baseﬂow lrew shrimohammadi shirmohammadi nejadhashemi study focus small sub watershed lrew short period record 
+consistent examination baseﬂow large lrew extensive analysis complete database analysis seasonal trend baseﬂow lack 
+the objective research quantify annual baseﬂow condition georgia lrew quantify seasonal characteristic baseﬂow georgia lrew 
+journal hydrology regional study 
+material method 
+site instrumentation 
+the lrew locate near tifton georgia scp n31 w83 select study fig 
+the lrew part gulf atlantic coastal plain ltar maddox 
+the hydrology water quality lrew monitor southeast watershed research laboratory sewrl since bosch 2007a 
+the climate humid subtropical long grow season 
+annual precipitation average 
+mean annual temperature around cold month year january average temperature warm july average temperature 
+the km2 lrew mixed land use watershed contains row crop agriculture pasture forage upland forest riparian forest 
+the agricultural ﬁelds typically less size nest among forested drainage bosch 
+location little river experimental watershed monitoring network 
+symbol letter denote location streamﬂow measurement station 
+journal hydrology regional study 
+the surface soil texture generally sand sandy loam high inﬁltration rate 
+many upland soil lrew contain argil horizon include accumulation silicate clay restrict vertical inﬁltration water cause shallow lateral subsurface interﬂow 
+the lrew landscape dominate dense dendritic network stream channel border riparian forest wetland asmussen drainage density vary sheridan 
+the drainage density less drainage density report coastal plain watershed south carolina ssegane similar report maryland carlston 
+precipitation pattern summer show less average depth shorter duration high intensity frequent occurrence event season year bosch 
+research within lrew indicates direct surface runoff vary annual precipitation shallow subsurface interﬂow ﬂow vary annual precipitation asmussen ritchie hubbard sheridan bosch 
+further research indicate within coastal plain landscape saturation within ﬂoodplain lead surface seepage shallow subsurface interﬂow low landscape position bosch inamdar 
+surface soil underlie upper part shallow relatively impermeable hawthorne formation restrict downward movement inﬁltrated precipitation lead groundwater ﬂow stream channel sheridan 
+within lrew formation vary land surface within meter land surface ﬂoodplain shirmohammadi bosch 
+baseﬂow within landscape drive ﬂow within surﬁcial aquifer hawthorne formation combination portion shallow interﬂow remain ground surface 
+within lrew baseﬂow consist slow contribution streamﬂow stormﬂow represent rapid contribution direct surface runoff case seepage component shallow subsurface ﬂow 
+historical watershed weighted precipitation streamﬂow data obtain sewrl database bosch sheridan bosch 2007b 
+the watershed weighted precipitation determine use inverse distance reciprocal distance weighting technique smith dean snyder 
+the period record examine 
+this analysis limited examination data large watershed watershed fig 
+km2 drainage area 
+daily watershed weighted precipitation streamﬂow data extrapolate subdaily data examine 
+all period observe streamﬂow use 
+data analysis the automate web base hydrograph analysis tool what utilize numerical technique separate rapid direct runoff baseﬂow select data processing lim 
+what allow selection three method local minimum method sloto crouse one parameter bflow digital ﬁlter lyne hollick nathan mcmahan arnold allen arnold two parameter eckhardt digital ﬁlter eckhardt 
+the digital ﬁlter method consider pre exist hydrological climatic condition watershed since origin come algorithm used digital ﬁlters use signal processing 
+parameter algorithms need determine base ﬂow characteristic seasonal variation storm event 
+the two parameter eckhardt digital ﬁlter method use separation high low frequency signal use lim 
+compare ﬁltering method two parameter eckhardt method tend reduce high bfi estimate increase low bfi estimate ekhardt 
+the local minimum method show consistently overestimate baseﬂow lim 
+the one parameter digital ﬁlter method show yield good result compare manual method value compare observe data arnold allen 
+find strong correlation single parameter two parameter digital ﬁlter method lim 
+however two parameter eckhardt digital ﬁlter method advantage incorporate reduction streamﬂow baseﬂow direct runoff cease 
+the eckhardt method require estimation two ﬁtting parameter bfimax ﬁlter parameter (␣). 
+bfi calculate estimate baseﬂow streamﬂow produce digital ﬁlter 
+while determine base upon analysis individual hydrograph recession curve selection bfimax measurable eckhardt 
+error analysis perform eckhardt indicated inﬂuences calculate baseﬂow bfimax 
+base upon publish recommendation perennial stream porous aquifer eckhardt ﬁxed bfimax value select lrew 
+describe ekhardt determine plot recession curve multiple hydrographs several year 
+the recession curve obtain plot streamﬂow day versus streamﬂow day 
+the parameter slope line form upper bound two ﬂows ekhardt 
+follow procedure value select 
+these bfimax value use several researcher similar watershed yield good result lim zhang zomlot 
+examination multiple hydrographs several year season lrew watershed use parameter indicate good observed hydrographs recession curve 
+data partition annual january december seasonal period hydrograph analysis 
+the seasonal selection base upon observed climatic hydrologic pattern use explain response hydrologic sediment water quality parameter precipitation coastal plain watershed asmussen sheridan hubbard sheridan bosch 
+the four select season december january february term winter march april may term spring june july august term summer september october november term fall 
+journal hydrology regional study 
+basic precipitation ﬂow pattern lrew calculate 
+long term trend examine linear correlation test trend use mann kendall trend test non parametric data 
+baseﬂow data year well four season individual year examine independently 
+bfi year season determine 
+average coefﬁcient variation maximum minimum determined annual data well four season 
+linear correlation residual examine use test 
+precipitation streamﬂow pattern long term watershed weighted precipitation streamﬂow pattern lrw examined period fig 
+the average annual watershed weighted precipitation period long term average annual streamﬂow annual precipitation 
+test variability precipitation time indicated signiﬁcant change 
+trend observe either streamﬂow precipitation data year period (␣= 
+examination precipitation streamﬂow season indicate signiﬁcant trend seasonal data either 
+observed average monthly precipitation watershed great month january march june august fig 
+average area weight monthly streamﬂow peak month march fig 
+average monthly streamﬂow june november small fig 
+baseﬂow examination year annual ﬂow data produce average bfi table 
+difference fraction stormﬂow 
+baseﬂow great month december may least month june november table 
+there seven year enough summer ﬂow obtain baseﬂow estimate eleven year enough fall ﬂow obtain estimate 
+variability annual data low fall bfi large 
+summer fall streamﬂow dramatically inﬂuenced tropical depression region lead great variability precipitation bosch streamﬂow period 
+long term trend bfi find either annual seasonal data (␣= fig 
+indicate precipitation streamﬂow baseﬂow remain stable time 
+annual watershed weighted precipitation area weight ﬂow depth lrew 
+table result annual seasonal baseﬂow analysis little river station 
+period bfi bfi coefﬁcient variation maximum bfi minimum bfi 
+journal hydrology regional study fig 
+average monthly watershed weighted precipitation area weight discharge top plot average monthly discharge precipitation ratio bottom plot lrew 
+error bar illustrate monthly standard error mean 
+relationship annual watershed weighted precipitation annual bfi examine fig 
+annual baseﬂow index find decrease function increase precipitation 
+this attribute saturated soil aquifer condition accompany high precipitation period 
+the lrew contain shallow surﬁcial aquifer ﬂow toward saturate ﬂoodplains asmussen bosch shallow water table condition lead saturation across large portion watershed 
+determine lrew contain lowlying saturated riparian buffer area 
+consequence high precipitation condition saturate ﬂoodplain surﬁcial aquifer 
+while groundwater ﬂow persists condition saturate condition lead high saturation excess surface runoff high proportion streamﬂow come surface runoff 
+examination seasonal data indicate winter spring season trend bfi precipitation annual data relationship signiﬁcant 
+the summer fall season discernable trend 
+both streamﬂow baseﬂow increase increase precipitation fig 
+the rate increase streamﬂow increase precipitation exceeds rate increase baseﬂow increase precipitation fig 
+this indication condition high precipitation lead increase saturation excess ﬂow watershed increase surface runoff component streamﬂow rapid rate baseﬂow component 
+discussion typically hydrologic simulation target single bfi make seasonal adjustment 
+the great difference observe annual bfi seasonal bfi summer data difference bfi observe 
+the next greatest difference fall data difference observe 
+however region summer fall ﬂows typically small fig 
+despite large difference bfi summer fall volume difference period remain small 
+seasonally annual precipitation annual streamﬂow occur ﬁrst four month calendar year 
+examine difference baseﬂow area weight ﬂow estimate use annual bfi versus seasonal bfi indicate term area weight baseﬂow great difference estimate ﬂow would march april 
+annual bfi use march april estimate baseﬂow whereas 
+journal hydrology regional study 
+calculate baseﬂow index annual seasonal data 
+journal hydrology regional study fig 
+baseﬂow index annual precipitation trend line indicate decrease trend baseﬂow function increase annual precipitation signiﬁcant 
+streamﬂow baseﬂow area weight ﬂow function annual rainfall lrew seasonal bfi use 
+even season high baseﬂow difference obtain use seasonal data warrant separate data seasonal analysis 
+eckhardt use two parameter digital ﬁlter examine north american catchment report value range perennial stream porous aquifer ephemeral stream porous aquifer 
+the lrew would classiﬁed perennial stream porous aquifer 
+estimate baseﬂow conterminous united state use single parameter digital ﬁlter method low evapotranspiration fall winter month report bfi range lrew region 
+our result indicate estimate may bias low due exclusion summer period 
+report bfis range little river watershed range scale km2 period estimate watershed report 
+they report bfi km2 portion little river 
+study four coastal plain subwatersheds find bfi range also utilize single parameter digital ﬁlter method arnold allen 
+these watershed similar characteristic lrew watershed 
+priest characterize bfi km2 neighbor alapaha river watershed use usgs hysep method sloto crouse 
+bfi alapaha river similar characteristic lrew reported period priest 
+these report value literature generally great annual average bfi find 
+case attribute study different climatic season application different method santhi shrimohammadi novak priest 
+report ekhardt two parameter digital ﬁlter reduce high bfi estimate 
+for lrew method may include great portion interﬂow stormﬂow less baseﬂow 
+esralew lewis examine seasonal trend bfi several watershed throughout state oklahoma 
+bfi calculate annual data consistently less observed winter spring period consistently great summer fall period consistent result find lrew 
+anticipate annual basis period drought would large fraction streamﬂow generate baseﬂow 
+the relationship illustrate fig 
+indicates year small annual precipitation high bfis 
+drought period observe average annual rainfall avg 
+journal hydrology regional study 
+observe streamﬂow calculate baseﬂow stormﬂow what annual analysis lrew january may 
+combine average bfi period slightly large long term average 
+the analysis provide provide less subjective repeatable estimate bfi utilize data speciﬁc watershed 
+however discuss method selection bfimax parameter quite subjective subject uncertainty 
+see considerable year year variability baseﬂow expect fig 
+other study quantiﬁed variability bfi rumsey 
+here annual bfi find vary 
+analysis elect select bfimax equal base upon recommendation provide eckhardt 
+fit use multiple recession curve yield value 
+eckhardt indicate percent error one could expect error bfi 
+similarly error bfi could expect percent error bfimax 
+for study believe error estimate bfi due estimate within 
+the estimate bfi obtain annual data provide annual average estimate baseﬂow long term average annual precipitation average annual streamﬂow 
+conversely average annual stormﬂow anticipate 
+these estimate baseﬂow stormﬂow provide reasonable target value hydrologic simulation lrew stormﬂow contain surface runoff rapid component interﬂow 
+estimate watershed indicate time peak day watershed sheridan 
+examination stormﬂow baseﬂow hydrographs use annual bfi estimate derive indicate stormﬂow average duration seven day fig 
+prior observation indicate reasonable expect rapid interﬂow could contribute stormﬂow period seven day follow rainfall event asmussen ritchie hubbard sheridan bosch 
+contrast shrimohammadi 
+assume storm runoff duration four day little river watershed 
+assume shorter storm runoff duration observe would lead proportion great portion streamﬂow baseﬂow previously report 
+conclusion annually baseﬂow find produce annual streamﬂow 
+baseﬂow great month december may least month june november 
+annual bfi find decrease increase annual precipitation 
+conversely baseﬂow great year low precipitation indicate estimation baseﬂow low precipitation drought year may critical 
+during high precipitation year streamﬂow dominate saturation excess driven surface runoff lead high proportional stormﬂow 
+the relationship bfi annual rainfall observe expect different watershed dominate surﬁcial aquifer process 
+long term trend find either precipitation ﬂow bfi data indicate statistically signiﬁcant hydrologic long term change within lrew 
+these new assessment bfi prove useful hydrologic simulation lrew 
+prior target use watershed would lead overestimation baseﬂow component 
+the bfi estimate present indicate prior estimate may incorporate large component interﬂow baseﬂow estimate 
+average stormﬂow duration seven day determine include surface runoff faster portion interﬂow 
+because interﬂow potential signiﬁcantly different chemical characteristic either direct surface runoff groundwater ﬂow future research well characterize separation interﬂow direct surface runoff groundwater ﬂow warrant 
+one possible method may utilize tracer method separate process 
+indicate previous research streamﬂow volume watershed great january april 
+during period groundwater contribution streamﬂow great 
+conversely streamﬂow month september november unreliable due diminish baseﬂow high evapotranspiration largely 
+journal hydrology regional study unsaturated condition 
+streamﬂow summer winter month contain high proportion surface runoff 
+surface runoff potential reduce water quality compare groundwater 
+these seasonal pattern signiﬁcant impact regional agriculture well coastal estuary rely heavily upon streamﬂow 
+the observation provide improve hydrologic representation regional watershed well water quality loading 
+acknowledgment fund research provide department agriculture agricultural research service 
+also gratefully acknowledge technical support provide many current past staff diligent collection process hydrology precipitation data little river experimental watershed 
+reference arnold allen 
+validation automate method estimate baseﬂow groundwater recharge stream ﬂow record 
+water resour 
+arnold muttiah srinivasan allen 
+regional estimation baseﬂow groundwater recharge upper mississippi river basin 
+arnold harmel johnson bingner strickland walbridge santhi luzio wang 
+impact ar assessment study ceap cropland national assessment 
+soil water conserv 
+137a 144a 
+asmussen ritchie 
+interﬂow shallow phreatic ﬂow coastal plain georgia 
+asmussen sheridan allison 
+water quality inventory southern coastal plain atlantic coast flatwoods georgia 
+department agriculture 
+agricultural re 
+southern region ars new orleans usda 
+asmussen sheridan booram 
+nutrient movement streamﬂow agricultural watershed georgia coastal plain 
+hydrologic effect quaternary sediment above marine terrace georgia coastal plain 
+southeastern geology vol 
+duke university durham 
+beck van dijk miralles jeu bruijnzeel mcvicar schellekens 
+global pattern base ﬂow index recession base streamﬂow observation catchment 
+water resour 
+bosch sheridan 
+stream discharge database little river experimental watershed georgia united state 
+water resour 
+w09473 http doi org 2006wr005833 
+bosch sheridan lowrance 
+hydraulic gradient ﬂow rate shallow coastal plain aquifer forest riparian buffer 
+bosch sheridan davis 
+rainfall characteristic spatial correlation georgia coastal plain 
+bosch lowrance sheridan williams 
+groundwater storage effect streamﬂow southeastern coastal plain watershed 
+ground water 
+bosch sheridan batten arnold 
+evaluation swat model coastal plain agricultural watershed 
+bosch sheridan sullivan 
+hydrologic impact land use change coastal plain watershed 
+bosch sheridan lowrance hubbard strickland feyereisen sullivan 2007a 
+little river experimental watershed database 
+water resour 
+w09470 http doi org 2006wr005844 
+bosch sheridan marshall 2007b 
+precipitation soil moisture climate database little river experimental watershed georgia united state 
+water resour 
+w09472 http doi org 2006wr005834 
+bosch truman potter west strickland hubbard 
+tillage slope position impact ﬁeld scale hydrologic process south atlantic coastal plain 
+water manage 
+brodie hostetler 
+review technique analyze base ﬂow stream hydrographs 
+proceeding nzhs iah nzsss conference november december auckland new zealand 
+drainage density streamﬂow physiographic hydraulic study river 
+geologic survey professional paper unite state department interior 
+geologic survey washington usa 
+dean snyder 
+temporally aerially distribute rainfall 
+how construct recursive digital ﬁlters baseﬂow separation 
+technical note analytical sensitivity analysis two parameter recursive digital baseﬂow separation ﬁlter 
+earth syst 
+http doi org hess 
+comparison baseﬂow index calculate seven different baseﬂow separation method 
+http doi org jhydrol 
+esralew lewis 
+trend base ﬂow total ﬂow base ﬂow index select stream near oklahoma 
+geological survey scientiﬁc investigation report 
+gonzales nonner heijkers uhlenbrook 
+comparison different base ﬂow separation method lowland catchment 
+earth syst 
+hubbard sheridan 
+water nitrate nitrogen loss small upland coastal plain watershed 
+inamdar sheridan williams bosch lowrance altier thomas 
+riparian ecosystem management model remm 
+test hydrologic component coastal plain riparian system 
+lim engel tang choi kim muthukrishnan tripathy 
+automate web gi base hydrograph analysis tool what 
+water resour 
+lim park kim shin kim kim jeon engel 
+development genetic algorithm base optimization module what system hydrograph analysis model application 
+http doi org cageo 
+linsley kohler paulhus 
+hydrology engineer 2nd 
+mcgraw hill new york new york usa 
+lyne hollick 
+stochastic time variable rainfall runoff model 
+hydrology water resource symposium 
+institution engineer australia perth australia 
+ltar critical research sustainable intensiﬁcation our agroecosystems 
+crop science society america news 
+ground water atlas united state alabama florida georgia south carolina 
+geological survey 
+nathan mcmahan 
+evaluation automate technique baseﬂow recession analysis 
+water resour 
+nejadhashemi shirmohammadi sheridan montas mankin 
+case study evaluation streamﬂow partition method 
+journal hydrology regional study 
+novak stone watt johnson 
+dissolve phosphorus transport storm base ﬂow condition agriculturally intensive southeastern coastal plain watershed 
+evaluation ground water contribution streamﬂow coastal georgia part florida south carolina 
+geological survey scientiﬁc investigation report 
+rumsey miller susong tillman an 
+regional scale estimate baseﬂow factor inﬂuencing baseﬂow upper colorado river basin 
+http doi org ejrh 
+santhi allen muttiah arnold tuppad 
+regional estimation base ﬂow conterminous united state hydrologic landscape region 
+sheridan booram asmussen 
+sediment deliver ratios small coastal plain agricultural watershed 
+hydrograph time parameter ﬂatland watershed 
+rainfall streamﬂow relation coastal plain watershed 
+shirmohammadi sheridan asmussen 
+hydrology alluvial stream channel southern coastal plain watershed 
+shirmohammadi knisel sheridan 
+approximate method partition daily streamﬂow data 
+sloto crouse 
+hysep computer program stream ﬂow hydrograph separation analysis 
+water resource investigation report 
+geological survey reston virginia 
+handbook hydrology 
+mcgraw hill new york 
+ssegane amatya tollner dai nettle 
+estimation daily streamﬂow southeastern coastal plain watershed combine estimate magnitude sequence 
+water resour 
+usda nrc 
+land resource region major land resource area united state caribbean paciﬁc basin 
+department agriculture handbook 
+base ﬂow index grid conterminous united state 
+open file report 
+geological survey http water usgs gov gi metadata usgswrd xml bﬁ48grd xml 
+access august 
+zhang ahiablame engel liu 
+regression model baseﬂow baseﬂow index michigan usa 
+water 2013z http doi org w5041797 
+zomlot verbeiren huysmans batelaan 
+spatial distribution groundwater recharge base ﬂow assessment control factor 
+http doi org ejrh 

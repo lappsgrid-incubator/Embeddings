@@ -1,0 +1,982 @@
+DEPARTMENT OF THE INTERIOR
+U.S. GEOLOGICAL SURVEY
+In-Situ Stress Measurements at Hi Vista, California: Continuation of a Deep Borehole Profile Near the San Andreas Fault
+by Stephen H. Hickman1, Mark D.2Zoback , and Jack H. Healy1
+
+Open-File Report 87-481
+
+This report is preliminary and has not been reviewed for conformity with U.S Geological Survey editorial standards.
+
+U.S. Geological Survey 345 Middlefield Rd., M.S. 977 Menlo Park, CA 94025
+
+"Department of Geophysics Stanford University Stanford, CA 94305
+
+CONTENTS
+
+Page Abstract................................................................. 1 Introduction............................................................. 1 Acknowledgements......................................................... 3 Measurement Site......................................................... 3 Method................................................................... 3 Determined Stresses...................................................... 8 Discussion - In Situ Stress Variations in Hi Vista Well.................. 14
+Comparison With Other Hydraulic Fracturing Tests in the Moj ave Desert............................................. 15
+Comparison With Other Regional Stress Field Indicators...... 19 Summary.................................................................. 21 Appendix................................................................. 22 References Cited......................................................... 25
+
+ILLUSTRATIONS
+
+Figure 1. 2. 3. 4.
+5. 6.
+7.
+Al.
+
+Map showing location of Hi Vista test well and other holes discussed in text..................................... Instantaneous shut-in pressure versus pumped volume for Hi Vista hydraulic fracturing tests......................... Initial pressurizations on all cycles from Hi Vista hydraulic fracturing tests.................................. Stress magnitudes and orientations versus depth in the Hi Vista well and comparison with in-situ natural fracture density and P-wave velocity................................. Tracings of impression packers obtained at Hi Vista......... Comparison of horizontal principal stresses and shear stress from the Hi Vista, Crystallaire, Moj 4, and Moj 5 wells....................................................... Azimuth of maximum horizontal principal stress as determined from hydraulic fracturing tests in the western Moj ave Desert............................................... Pressure and flow records from hydraulic fracturing tests at Hi Vista...........................................
+
+4 6 7
+11 12
+17
+18 24
+
+TABLES
+
+Table 1. Hi Vista hydraulic fracturing results....................... 9
+
+UNITED STATES DEPARTMENT OF THE INTERIOR
+GEOLOGICAL SURVEY
+IN-SITU STRESS MEASUREMENTS AT HI VISTA, CALIFORNIA: CONTINUATION OF A DEEP BOREHOLE PROFILE NEAR THE SAN ANDREAS FAULT
+By
+Stephen H. Hickman, Mark D. Zoback, and Jack H. Healy
+ABSTRACT
+Hydraulic fracturing stress measurements were made in an approximately 600-m-deep well at Hi Vista, California, 32 km from the San Andreas Fault in the western Mojave Desert. The stress regime at this site is transitional from thrust faulting at shallow depths to strike-slip faulting below about 400 m. Analysis of the measured stress magnitudes using Byerlee's Law indicates that the frictional failure on favorably oriented pre-existing faults at this site is unlikely below about 200 m, in accord with the low levels of seismicity observed in this region of the western Mojave Desert. The direction of the maximum horizontal principal stress at Hi Vista is approximately north-south to north-northwest, although the azimuths determined from individual tests exhibit considerable scatter (± 31°). The measured magnitudes of the horizontal principal stresses and the horizontal deviatoric stress in this well are less than or equal to those measured in a nearby well of comparable depth 4 km from the San Andreas fault. This result is counter to the increase in these stress components with distance from the San Andreas fault that was observed in a shallower borehole profile in the same area. Marked fluctuations in both stress magnitudes and orientations with depth in the Hi Vista Well, however, may result from a localized perturbation to the regional stress regime at this site. The nature of the presumed perturbation is unclear, as no correlation was found to exist in this well between stress magnitudes and either P-wave velocities or natural fracture densities, although the low stresses measured at a depth of about 540 m and the variability in stress orientations may reflect proximity to an intensely fractured and permeable zone at the bottom of the well.
+INTRODUCTION
+Resolution of the debate concerning the magnitude of shear stress acting on tectonically active faults such as the San Andreas [see Hanks and Rayleigh. 1980] is essential to an understanding of plate tectonic driving forces and the mechanics of faulting. The most convincing evidence for low shear stress (< 20 MPa) averaged over the upper 14 km of the San Andreas fault is the absence of an associated surface heat flow anomaly [Brune et al.. 1969; Lachenbruch and Sass. 1973, 1980]. These arguments are seemingly supported by in-situ stress field indicators suggesting northeast-directed horizontal compression near the
+
+San Andreas in central California [Mount and Suppe. 1987; Zoback et al.. 1987]. Alternatively, high average shear stress (« 100 MPa) on the San Andreas fault over this same depth interval is suggested by laboratory observations of the frictional strength of fractured rock FStesky and Brace. 1973; Hanks. 1977; Brace and Kohlstedt. 1980].
+Elastic models of the San Andreas fault system [Lacheribruch and Sass. 1973, 1980; Zoback and Roller. 1979; McGarr. 1980; McGarr et al.. 1982] have shown that variations in shear stress with distance from the San Andreas fault, and with depth in an individual well, have the potential for revealing the state of stress on the fault at seismogenic depths. Hydraulic fracturing stress measurements made in a profile of four shallow (« 230 m) wells near the San Andreas fault in the western Mojave Desert (see Figure 1) show several interesting characteristics FZoback and Roller. 1979; Zoback et al.. 1980]. First, in all wells the magnitudes of both horizontal principal stresses and the maximum horizontal shear stress increases with depth. Second, at any given depth, the horizontal principal stresses and the shear stress are greatest in the wells furthest from the fault. Third, the vertical gradients in these stresses are largest in the wells furthest from the fault.
+Unfortunately, the shallow profile measurements can be explained by models incorporating either high or low ambient shear stress on the San Andreas fault depending upon the choice of boundary conditions and the presumed effect of high near-surface natural fracture densities on the observed vertical and horizontal gradients in the horizontal principal stresses and shear stress FZoback and Roller. 1979; Zoback et al.. 1980; McGarr. 1980; Stierman and Zappe. 1981]. In order to better constrain the vertical and horizontal gradients in stress near the San Andreas fault the USGS drilled three 0.6 to 0.9-km-deep holes along a profile roughly perpendicular to the San Andreas fault in this area (Figure 1). Stress measurements from the first of these wells, the Crystallaire well (XTLR), are discussed in Zoback et al. [1980], Stress measurements were made in the second deep well, the Hi Vista well, in the summer of 1981 and a preliminary analysis of these data was presented by Hickman et al. [1981] and discussed by McGarr et al. [1982]. Using a simple elastic model, McGarr et al. [1982] (see also Leary [1985, 1987] and McGarr [1987]) extrapolated the XTLR, Hi Vista, and shallow profile stress data to seismogenic depths and concluded that the average shear stress acting on the upper 14 km of the San Andreas fault is about 56 MPa, a result that significantly exceeds the heat flow constraint FLachenbruch and Sass. 1980] but is compatible with laboratory measurements of the frictional strength of fault qouge FMorrow et al.. 1982]. The Hi Vista well was reoccupied in the summer of 1987 for the purpose of obtaining additional impressions of the hydraulic fractures using newly-designed impression packers (see below). In this paper, we will be presenting the results from a detailed analysis of all hydraulic fracturing data from the Hi Vista well and examine the implications of these data for the stress regime near the San Andreas Fault. Stress measurements from the most recent of the deep profile wells, the Black Butte well (tested in 1984, 1985, and 1987), are presented and discussed by Stock and Healy [1988].
+
+ACKNOWLEDGEMENTS
+We would like to thank Mark Ader, David Castillo, Thomas Denham, Jack Hennagan, Jim Huckaby, Laura Jones, Richard Ludlum, Leonard Niels, Brennon O'Neil, John Roller, Dennis Styles and Joseph Svitek for valuable field assistance. Colleen Barton wrote and ran the software used in travel-time processing of the televiewer data. Helpful reviews of this manuscript were provided by Art McGarr and Joann Stock. Stephen Hickman was partially supported during this work by the Amoco Foundation.
+MEASUREMENT SITE
+The Hi Vista well is located 32 km northeast of the San Andreas fault in the western Mojave Desert (Figure 1). This well was drilled using the airhammer technique to a total depth of 592 m [see Healy and Urban. 1985] and penetrates about 2-4 m of alluvium before entering the regionally-extensive late Mesozoic intrusive basement. Analysis of drill cuttings indicates that the rock at Hi Vista is granite of uniform fundamental mineralogical composition FStierman and Healy. 1985]. The diameter of the Hi Vista well decreases in a steplike manner from about 18 cm between 90 m and 274 m, to 17.2 cm between 274 m and 427 m, to 16.5 cm between 427 m and the bottom of the hole at 592 m. During drilling, an intensely fractured zone was encountered at 469 m which produced a large influx of water and rock debris and eventually had to be cemented off in order to stabilize the hole. An intensely fractured, rubbly, and highly permeable zone was also encountered at about 570 m and extends to an unknown depth below the bottom of the well [see Healy and Urban. 1985]. Topographic relief at the Hi Vista site is negligible (the nearest butte lies 7 km to the southwest) and the hole is everywhere within 3° of vertical, therefore topographic or drift corrections to the stress data were not necessary.
+METHOD
+The hydraulic fracturing technique and the interpretation methods and equipment used at Hi Vista are described in detail elsewhere [Zoback et al.. 1980; Hickman and Zoback. 1983; Hickman et al.. 1985] and will only be outlined here. Before conducting a hydraulic fracturing test, borehole televiewer [see Zemanek et al.. 1970] and caliper logs are used to select intervals of the borehole that are free from discernable natural fractures, borehole elongation, and other borehole irregularities. These intervals are then isolated with inflatable rubber straddle packers and the interval pressure raised until a fracture is induced. Repeated pressurization cycles are employed to extend this fracture away from the borehole (see pressure and flow records in Appendix). The seal lengths of the straddle packers used at Hi Vista (manufactured by Lynes, Inc.) were 1.3 m and the test interval lengths were 2.1 m and 2.5 m.
+When using the hydraulic fracturing technique in vertical boreholes one principal stress is assumed to be vertical and equal in magnitude to the overburden pressure, S . A vertical hydraulic fracture should then form at the
+
+50 km
+
+HI VISTA V MOJ5
+
+% Q Barstow \
+
+\
+
+BLACK BUTTE .
+
+XTLR/MOJ2
+
+Vlctorvllle
+
+\\\ \V'
+v \\ \ N »
+\ N \V
+
+Los Angeles
+D
+
+^ .^ Mountain
+
+Figure 1. Map of the western Mojave Desert showing the location of the Hi Vista, Crystallaire (XTLR), and Black Butte deep holes and the shallow stress measurement holes Moj 1, 2, 4, and 5; wells XTLR and Moj 2 are located within 20 m of each other. Mapped and inferred Quaternary faults are shown as solid and dashed lines, respectively [from Stock and Healy. 1988, after Jennings, 1975, and Dokka, 1983].
+
+borehole in a direction perpendicular to the minimum horizontal principal stress, S, , and, if the least principal stress is horizontal, continue to propagate in its original plane [e.g. Hubbert and Willis. 1957; Haimson and Fairhurst. 1970]. When the least principle stress is vertical, however, the hydraulic fracture should rotate into the horizontal plane as it propagates away from the borehole [see Warren and Smith. 1985], resulting in tests where the long-term shut-in pressure approaches S [Zoback et al.. 1977, 1980] or, if the horizontal segment of the hydraulic fracture "back propagates" into the borehole, a dramatic decrease occurs in both the pumping and instantaneous shut-in pressures FHaimson and Fairhurst. 1970; Haimson. 1982]. Alternatively, although the use of soft inflatable packers is thought to favor the formation of axial fractures [e.g. Haimson and Fairhurst. 1970], horizontal hydrofracs have been observed to initiate at the borehole when S < S, , apparently due to the pressurization of preexisting horizontal flaws [Evans et al.. 1987a] or bedding planes FHaimson. 1982].
+
+The magnitude of S, is determined from the stable instantaneous shut-in pressure (ISIP; see Figure Al in Appendix) attained in later pressurization cycles (Figure 2) and further constrained by variable flowrate pumping tests on those cycles. The final downhole pumping pressure at the end of a test should provide an upper bound on S, , provided that the fracture is vertical in the immediate vicinity of the borehole and no inflections are seen in the relationship between pumping pressure and flowrate defined during a stepwise decrease in flowrate at the end of a test. A sudden increase in the rate of change of pumping pressure with respect to flowrate indicates a decrease in apparent interval permeability due, presumably, to closure of the hydrofrac near the borehole as the pumping pressure drops below the magnitude of S, (see discussion in Hickman et al.. 1985). With the exception of the 178 m hydrofrac, for which the flowrate was constant throughout the test, no inflections were seen during variable flowrate pumping in any of the Hi Vista tests. The difference between the downhole pumping pressure and the ISIP at the end of each test at Hi Vista ranged from 0 to 0.2 MPa (see Appendix).
+
+The magnitude of S is determined utilizing the concentration of effective stresses around a circular borehole using the equation FBredehoeft et al., 1976; after Haimson and Fairhurst. 1967, and Hubbert and Willis. 1957]:
+
+Pfo - 3Sh - SH - Pp
+
+<D
+
+where P is the formation pore pressure and P_ is the fracture opening pressuri, or the pressure at which the already-formed hydraulic fracture reopens at the borehole wall to accept fluid. In deriving Equation (1), the rock in the vicinity of the borehole is assumed to be impermeable, linearly elastic and isotropic and the poro-elastic parameter in the effective stress law for elastic strain [see Nur and Byerlee. 1971; Evans et al.. 1987a] is assumed equal to 1. In determining fracture opening pressures for use in (1) we pump at the same flow rate in all cycles of a given test and pick as P the pressure at which the pressurization curve in the third cycle deviates from that established in the first cycle prior to breakdown (Figure 3; see discussion in Hickman and Zoback [1983]).
+
+In the tests at 271 m, 491 m, and 537 m, a pronounced curvature developed in the pressure records during initial pressurization on later cycles and
+
+537 m
+15
+aCO. 10
+CL CO
+
+22 l/min
+20 l/min x=<27 l/min 25 l/min 12 l/min 3 l/min
+18 l/min
+
+_544 m 537 m
+-491 m
+l/min
+-323m -271 m -225m -178m
+
+0
+0
+
+200
+
+400
+
+600
+
+PUMPED VOLUME, LITERS
+
+800
+
+1000
+
+Figure 2. Downhole instantaneous shut-in pressure (ISIP) versus total pumped volume for hydraulic fracturing tests at Hi Vista. The first ISIP shown for each test is from the second cycle because of rapid pressure decays after breakdown. Except for the stepwise decreases in flowrate at the end of these tests (see Figure Al in Appendix), flowrates were maintained at a constant value of 32 1/m to 35 1/m; ISIPs determined after low flowrate pumping are circled and the preceding flowrate is indicated. Also shown is the calculated overburden stress, S , at each depth.
+
+25-i
+
+-BREAKDOWN
+
+20-
+
+.15-
+
+178m
+
+10-
+
+3 50-
+
+0 30 sec
+TIME
+
+25-i 20-
+Ml
+1050-
+
+225m
+
+2015-
+
+TIME
+
+eo 5~ 0-
+
+271m TIME
+
+20323m
+15-
+5-
+0TIME
+
+491m
+
+537m
+
+15-
+
+544m
+
+a 10 10- 10-
+
+1 5-
+
+5-
+
+0TIME
+
+0TIME
+
+0TIME
+
+Figure 3. Initial pressurizations on all cycles for the Hi Vista tests. Fracture opening pressures (solid triangles) were not picked on later cycles at 271 m, 491 m, and 537 m because of nonlinearity in the initial pressurizations (see text); fracture opening pressures on the third cycles are used in the determination of S , with uncertainties shown by open triangles. The surface pressure records presented here are affected by a viscous pressure drop in the hose between the pressure transducer and the wellhead during pumping; the magnitude of this pressure drop ranges from 0.4 to 1.0 MPa at breakdown on the first cycle to 9.0 to 1.2 MPa during fracture opening on later cycles. After correcting for this pressure drop, the downhole pressure may be obtained by adding the hydrostatic pressure in the drill pipe (at a gradient of 9.81 X 10 MPa/m). No appreciable pressure drops due to flow occurred in the drill pipe at the flowrates used.
+
+obscured the corresponding fracture opening pressures (Figure 3). This curvature may result from propping open of the hydraulic fractures by asperities, rock debris, or the packers and the infiltration of fluid into the fracture at pressures less than P_ . Fracture infiltration prior to reopening, and the resulting reduction in the tangential stress concentration at the borehole wall [Cornet, 1983; Cornet and Valette. 1984], also explains the suppression of the peak pumping pressure immediately after fracture opening that was observed in the tests at 271 m and 491 m (Figure 3). No such increase in curvature was noted at the end of the test at 225 m but a dramatic decrease in P-. did occur after the fourth cycle. The cause of this decrease is unknown, but the impression packer obtained from this depth suggests that it may result from propagation of the hydrofrac beneath the lower packer and out into the open hole (packer bypass; see below and Appendix).
+Impression packers [see Anderson and Stahl. 1967] were used to determine the orientations of the hydraulic fractures at Hi Vista, as the resolution of the borehole televiewer proved insufficient for this purpose. Two impressions were taken in 1981, using impression packers manufactured by Lynes, Inc., which were 14.3 cm in diameter and 1.3 m long. In 1987 we ran four additional impression packers in the Hi Vista well using packers manufactured by TAM International which were 2.7-m-long and either 12.9 cm or 14.6 cm in diameter. Impression packers were inflated for about an hour; with the exception of the 178 m test, the corresponding external packer pressures, estimated using a seal efficiency (ratio of external packer pressure to internal fluid pressure) of 0.88 and 0.85 for the 1981 and 1987 tests, respectively [Evans, 1987], were maintained to be greater than P_ but less than or equal to P, . At 178 m, a leak in the drill pipe resulted in large fluctuations in fluid pressure and the external packer pressure ranged from about 0.26 P. to 1.19 P, .
+DD
+Impression packer orientations were determined using a downhole compass both before and after impressions were taken. Impression and straddle packer depths were checked against a mechanical depth counter on the logging cable winch and are given relative to ground level. From comparison of features on borehole televiewer logs run in both years and the repeatability of wireline depth checks during a test, we estimate the relocation accuracy for the impressions at Hi Vista (i.e. the accuracy with which a depth occupied in 1981 could be reoccupied in 1987) to be ± about 0.2 m. Impressions obtained of the 491 m test in both years yielded nearly identical fracture traces in the range of overlap (see Figure 5d) and agree to within 6° in azimuth and 8 cm in depth.
+The overburden stress (lithostat) was calculated for a density of 2.68 ± 0.02 gm/cm . This density was computed using X-ray modal analyses of 14 whole rock samples collected at regular intervals during drilling of the Hi Vista well FD. Stierman. written communication, 1983; see also Stierman and Healv. 1985], assuming a saturated porosity of 0.1%. This density is identical to that measured by Ross [1972, Table 26] on nine hand samples collected from surface outcrops near Hi Vista.
+DETERMINED STRESSES
+The hydraulic fracturing tests at Hi Vista are discussed at length in the Appendix and the results summarized in Table 1. The magnitudes of S,n, Sri , and
+
+Depth , Meters
+
+Breakdown Pressure,
+MPa
+
+Table 1: Hi Vista Hydraulic Fracturing Results
+
+Hydrofracturing Data
+
+In-Situ Stresses
+
+Fracture Opening Pressure ,
+MPa
+
+In-Situ Instantaneous Pore
+
+Minimum
+
+Tensile
+
+Shut-in Pressure, Horizontal
+
+Strength, Pressure ,
+
+MPa
+
+Principal
+
+MPa MPa
+
+Stress, MPa
+
+Maximum Horizontal Principal Stress, MPa
+
+Vertical Stress, MPa
+
+Azimuth of Max. Horiz.
+Stress (quality)
+
+Max. Horiz. Shear Stress ,
+MPa
+
+178 25.5 ± 0.2 8.6 ± 0.6 16.9 ± 0.8 7.4 ± 0.2 0.6 225 26.5 ± 0.2 11.6 ± 0.8 14.9 ± 1.0 7.1 ± 0.2 1.1
+
+7.4 ± 0.2 7.1 ± 0.2
+
+13.0 ± 1.2 8.6 ± 1.4
+
+4.7 N 7° E ± 15° 2.8 ± 0.7
+
+(good)
+
+5.9 see A
+
+0.8 ± 0.8
+
+271 25.4 ± 0.2 7.8 ± 0.8 17.6 ± 1.0 5.8 ± 0.3 1.5
+
+5.8 ± 0.3
+
+8.1 ± 1.7
+
+7.1 N 39° W ± 15°
+
+1.2 ± 1.0
+
+(good)
+
+323 24.6 ± 0.4 12.0 ± 0.8 12.6 ± 1.2 9.3 ± 0.4 2.0
+
+9.3 ± 0.4 13.9 ± 2.0
+
+8.5 N 40° W ± 20°
+
+2.3 ± 1.2
+
+(poor)
+
+491 21.5 ± 0.2 9.8 ± 1.0 11.7 ± 1.2 12.2 ± 0.2 3.7 12.2 ± 0.2 23.1 ± 1.6 12.9 N 23° E ± 20° 5.5 ± 0.9
+
+(fair)
+
+537 22.5 ± 0.2 14.2 ± 1.2 8.3 ± 1.4 11.7 ± 0.2 4.1 11.7 ± 0.2 16.8 ± 1.8 14.1
+
+2.6 ± 1.0
+
+544 22.6 ± 0.4 10.4 ± 0.8 12.2 ± 1.2 10.4 ± 0.2 4.2 10.4 ± 0.2 16.6 ± 1.4 14.3
+
+...
+
+3.1 ± 0.8
+
+.. Equal to the difference between the breakdown and fracture opening pressures Calculated assuming hydrostatic equilibrium with the water table at 117 m depth Calculated for a density of 2.68 gm/cm (see text) Equal to one-half the difference between the maximum and minimum horizontal principal stresses High quality impression obtained, but displays two vertical fracture segments differing in azimuth by only 110 C
+
+the maximum horizontally-directed shear stress acting on vertical planes (henceforth denoted "shear stress") are shown in Figure 4. The shear stress shown is simply equal to (SH -S, )/2. The number of stress measurements at Hi Vista is somewhat limited because of the difficulty in finding fracture-free intervals of sufficient length for the straddle packers, especially in the lower half of the well.
+
+The hydraulic fracturing measurements at Hi Vista indicate an overall increase in magnitude of the horizontal principal stresses with depth, but with considerable local variability (Figure 4). The magnitude of S, decreases from 7.4 MPa at 178 m to 5.8 MPa at 271 m, increases to 12.2 MPa at 491 m, and decreases again to 10.4 MPa at 544 m. The magnitude of SH decreases from 13.0 to 8.1 MPa, increases to 23.1 MPa, and then drops sharply to 16.6 MPa over the same depth intervals. The shear stress magnitude follows a similar pattern, although the amplitude of these oscillations is smaller, and decreases from 2.8 MPa at 178 m to 1.2 MPa at 271 m, increases to 5.5 MPa at 491 m, and decreases again to 2.6 MPa at 537 m. Except for the measurement at 271 m, the relative magnitudes of the two horizontal principal stresses and the calculated overburden stress indicate a stress regime that is transitional from thrust faulting in the upper part of the well to strike-slip faulting below a depth of about 400 m.
+
+It is of interest to analyze the measured magnitudes of S, and S at Hi Vista in terms of the potential for slip on favorably-oriented preexisting fault planes [e.g. Brace and Kohlstedt. 1980; Zoback and Healy. 1984]. In accordance with the Coulomb failure criterion, frictional sliding will occur on optimally oriented planes at a critical ratio of the maximum and minimum effective principal stresses. If these planes are assumed to have zero cohesion, the critical magnitude of the greatest principal stress, S_, at which sliding would be expected to occur is [Jaeger and Cook. 1976, pp. 97, 223]:
+
+S l* - [I(V/Az* 2 + 1)''" + /A*iJ]"(S 30 - Pp )/ + Pp
+
+(K 2)
+
+where S« is the least principal stress, P the formation pore pressure, and /z the coefficient of friction of preexisting fractures. We assume here that /z ranges from 0.6 to 1.0 [after Bverlee. 1978] and that P is in hydrostatic equilibrium with the water table at 117 m. The lines drawn on Figure 4 using Equation (2) indicate the range of S magnitudes at which thrust faulting would be expected given the calculated overburden stresses. With the possible exception of the 178 m measurement, comparison of the measured S magnitudes with this failure envelope indicates that frictional failure of the rock mass at Hi Vista is unlikely. Similar conclusions are reached through analysis of this data in terms of the potential for failure on strike-slip faults using Equation (2). At 544 m, for example, the critical magnitudes of SH for which strike-slip faulting would be expected given the measured magnitude of S, are 23.5 MPa and 40.3 MPa for /z - 0.6 and 1.0, respectively.
+
+In all, we were able to obtain impressions of five out of the seven hydraulic fracturing tests at Hi Vista. Impressions obtained of the hydraulic fractures at 178 m, 225 m, 271 m, and 491 m are shown in Figure 5. An impression was also obtained of the hydraulic fracture at 323 m in 1981 and revealed short segments of near-vertical hairline fractures extending for about 0.5 m on opposite sides of the borehole. Hydraulic fractures were identified
+
+10
+
+FRACTURE DENSITY, FRACTURES/METER 0246
+
+P-WAVE VELOCITY, KM/SEC 460
+
+STRESS, MPa 10 20
+
+SHEAR STRESS, MPa
+30 0 5
+
+S H AZIMUTH
+WN E i r^ i r
+
+600
+
+WW/*
+Figure 4. Magnitudes of the minimum horizontal principal stress, S. , the maximum horizontal principal stress, S , the maximum horizontal shear stress, and the azimuth of S.. (quality: G - good, F - fair, P - poor) in the Hi Vista well. The thrust faulting lines indicate the domain of SH magnitudes for which frictional failure might be expected on favorably oriented fault planes for coefficients of friction ranging from 0.6 to 1.0 (see text). Also shown are the P-wave velocity as determined using a downhole sonic logging tool [measured at dominant frequencies of 10 to 20 kHz; Moos and Zoback. 1983] and the natural fracture density determined from the borehole televiewer. Two zones of unusually intense fracturing are indicated, one at a depth of about 470 m and the other starting at 570 m and extending to an unknown depth below the bottom of the well. The overburden stress (lithostat) was calculated using a density of 2.68 gm/cm (see text).
+
+ZI
+
+M M rt S VO K Td oo p>
+
+rt a> w
+
+rt M
+
+3* fl> <D 3
+
+Kr?§o
+
+8rt
+
+« M O rt _cr crwt P) (D H H- K
+
+W !- 3
+
+00 ft O» (0 (D
+
+to B (W
+H'TJ
+
+rt rt H- CL
+
+O ! { I-1'
+s a *-8 B a3 (D (0
+
+(0 H M O (D O T3 H- K W M) O rt
+
+EC* H
+
+((-0
+
+rt
+
+H(0-
+
+H« O
+
+HI 3*
+
+CO M
+
+n
+
+o
+
+H (0
+
+3* rt PJ CD
+
+PJ H*
+
+H« M K C 3
+
+034* rt
+
+»cQ
+
+(MD
+
+(aD
+
+O 3
+
+M
+
+(30*
+
+Ha-
+
+MW H« W
+
+O
+
+H- PJ 00
+3 CL CD
+
+O
+
+O
+
+O Mi Mi Mi
+
+Hi
+
+r3t*
+
+a3 OT
+rt
+
+PJ
+
+& (0
+
+a CD
+
+H co
+
+3 CL
+
+rt
+
+fD
+
+(0 o rt
+
+3 oo
+
+PJ, K HM (to
+M ort
+
+M, CO
+M CD
+M <a>
+H« H
+
+3 rt
+
+n
+P>
+
+H-
+
+Ort co
+
+Ho- PKJ 3 co
+(0
+
+a> S*
+(0 Tn)
+
+r3t*
+
+H-
+
+M3*
+
+C CO
+
+fD (0
+
+P> <I> 3 Q K (0
+
+3 (to 3^ M M
+
+fv*o o- 0f0l> fD P> 3t a o
+
+O H. 3
+
+o fl> rt
+ro PJ
+
+o MI
+
+^3a*
+
+3a ^Ka
+
+PJ N
+
+(to rt CD
+
+(to M
+
+O-
+3 (to
+
+H rt (to H. (0 rt O
+
+(to 3* C S T) O
+
+S vo C fD M COM Mi fD
+
+CD oo M H« rt M H«
+
+H-
+a Ho-
+rt
+
+O
+o ww
+rt
+
+M
+CD 3a
+M
+
+H- rt OO
+T3
+Mni o
+PJ Mi O
+
+O
+MI
+MPJ
+O rt
+
+3* rt a
+H«
+O. O M (D 3 H"
+rt w 3
+nfD owfD
+
+faD
+rt 3Ko*
+
+u Ocr prHtj-
+
+<D
+rt
+
+3<D*
+
+VoOo -^l
+
+K
+
+3* fl> <T>
+
+a>
+
+ro
+
+3a>
+
+fpl>j
+
+C3
+Ht-, 030* (aD
+
+CD
+&Rrt
+
+&> (a
+
+O o
+
+(to
+
+O
+
+3* P* o3* f3l>
+
+rt ^ rt Ml (0 fD
+
+*> « n(D (D K H.
+
+o
+O
+
+w o
+C
+
+CD w
+W
+
+vO MT3
+
+^ PJ
+
+oS
+S TnJ
+
+w
+
+n
+CO
+
+«>J
+oo
+
+o rt 3 3* w
+
+CD CO JT" g,S
+PJ (0 fD
+
+rt fl> H- (to 3w
+
+C R <3
+
+H> fD 3H
+
+H>
+
+O 3*
+
+W H-
+
+O-
+
+o3co
+
+rroo
+
+C
+(D
+rt H« o
+
+ft » V^
+PJ w cr H /-N
+
+CT O
+r3t*
+
+(0 CD
+PMJ
+
+(T)
+3rt*
+
+rtS fwD rt rt 3*
+
+S" KCO a>
+
+o MI
+
+U)
+S
+
+3 (D u ^ fl>
+
+(0 (D
+
+O H« fl>
+
+M> O
+
+OO W H-
+
+rt 3 3- O
+
+rfl>t X
+
+M
+iu
+
+jtor
+
+rWpjt
+
+rt
+
+a>
+
+H«
+(0
+
+3
+
+rt
+v^>
+
+3O.
+
+^o
+
+3o
+
+rt 3 <D
+
+M> 3* PJ M
+
+(CDD
+
+(D
+
+3a
+
+VO 00
+
+M> O
+
+CT (0
+
+rt M
+
+C vo rt
+
+H oo 3* (D (D
+
+ci-jr
+
+rCDt
+
+fD
+Mi
+
+3
+{L
+
+CpD.
+
+rpt.
+
+H3
+
+-P>
+
+(aD O3 (aD Mvo
+
+0> fl>
+
+O
+
+mw-
+>' N
+2 mc
+I CO-
+3^
+§z
+> z-
+N
+|mq
+I CO-
+
+DEPTH, m
+HYDROFRAC INTERVAL-
+DEPTH, m
+DEPTH, m
+-HYDROFRAC INTERVALDEPTH, m
+-HYDROFRAC INTERVAL1981 IMPRESSION
+
+through the presence of narrow ridges of extruded rubber, which were about 0.2 to 1.0 mm in width and extended up to 1 to 2 mm away from the surface of the impression packer. Packer bypass is suggested by the impressions obtained at 225 m and 491 m, although coverage of the straddle packer seals is insufficient to demonstrate unequivocally that bypass has occurred. If bypass did occur, however, the slow pressure decays following shut-in (Figure Al) and, at 225 m, the uniform initial pressurization rates in later cycles (Figure 3) indicate that the resulting leak rates must be quite small at pressures < P~ . This agrees with the observation made by Evans et al. [1987b] during hyarofrac tests in shale that packer bypass did not appear to have had a significant effect upon the ISIP. Note that, in spite of the complexity of some of these impressions (e.g. Figures 5b and d), there is no evidence at Hi Vista for subhorizontal hydrofracs as has been reported by Evans et al. [1987a] in the Conway granite.
+The S azimuths inferred from these impressions are shown in Figure 4 and listed in Table 1. Only the southern hydrofrac trace was used in determining the azimuth of S at 178 m as most of the northern trace appears to have been abraded away. No azimuth was determined for the hydrofrac at 225 m because two equally-prominent vertical fracture segments were recorded which differed in azimuth by only 110°. The hydrofrac orientation at 271 m was downrated from "excellent" to "good" because the horizontal stress difference (SH - S, ) at this depth was relatively low. Although several sub-vertical hairline fractures were seen at 323 m, the azimuth quoted for this depth is of relatively low quality (Table 1) as the hydrofrac impression was intermingled with other high angle features of unknown origin. At 491 m, the hydrofrac trace was quite complex and the S azimuth was estimated as the average of (1) the strike of the steeply dipping (80°) nearly continuous fracture comprising the lowermost feature on the impression (N 10° E), and (2) two diametrically opposed vertical lines roughly bisecting all hydrofrac traces (N 36° E). Although clearly exhibiting considerable scatter, the hydrofrac orientations obtained from the Hi Vista well indicate an S direction that is approximately north-south to north-northwest.
+Using the borehole televiewer in travel-time mode [e.g. Zoback et al.. 1985], an elongated interval was discovered in the Hi Vista well between 463.7 m and 465.3 m with a morphology similar to that seen in cases where stressinduced borehole elongations (breakouts) have been documented [e.g. Zoback et al.. 1985; Hickman et al.. 1985]. Assuming this elongation to be stressinduced, yields an S azimuth at this depth of N 27° W ± 10°. However, we do not consider this to oe a reliable number because of the extremely short depth interval over which this elongation was observed.
+13
+
+DISCUSSION
+In Situ Stress Variations in Hi Vista Well
+Hydraulic fracturing stress measurements made in other wells near the San Andreas Fault have shown that the magnitudes of both horizontal principal stresses and the shear stress at any given site tend to increase with depth, although often in a steplike manner FZoback et al.. 1980; McGarr et al.. 1982; Stock and Healy. 1988]. In this context, the Hi Vista data are anomalous in that they indicate marked decreases in the magnitude of S , and to a lesser extent S, and shear stress, with depth over two discrete aepth intervals (Figure S). Since this clearly has implications for the significance of the stress measurements at Hi Vista, we will briefly examine several possible causes for these fluctuations before discussing the implications of the Hi Vista data for the stress regime near the San Andreas fault.
+Dramatic stress contrasts are frequently observed within sedimentary or volcanic rock sequences Fe.g. Barton. 1983: Haimson and Rummel. 1982; Evans et al. . 1987b] , or across major stratigraphic discontinuities I" Halms on and Lee. 1980] and active faults rAnderson et al.. 1983], in apparent response to changing mechanical properties or local geological structures. Other investigators using the hydraulic fracturing technique in apparently homogeneous granitic rocks have documented fluctuations in both stress magnitudes and orientations within a single well that are comparable to those seen at Hi Vista rDoe et al.. 1981; Rummel et al.. 1983; Haimson and Doe. 1983], although the reasons for these fluctuations are not well understood. Changes in S azimuth of about 46° over an interval of 364 m have also recently been documented using borehole breakouts in the granitic and gneissic rocks of the Cajon Pass Borehole, about 40 km to the southeast of the XTLR well (Figure 1) rshamir and Springer. 1987].
+One possible explanation for these departures from the expected trend of increasing stress magnitudes with depth at Hi Vista is variation in the bulk elastic properties of the surrounding rock mass. As natural fractures have been shown to increase the compliance of granitic rocks FPratt et al.. 1977], the low stresses observed between 220 and 280 m and below 530 m might correspond to zones of anomalously high natural fracture density or low P-wave velocity. This is especially likely if the majority of the natural fractures are steeply dipping (dips > 50°), as is the case in the Hi Vista well rSpringer and Ader. 1987], or if these fractures were sites for enhanced geochemical alteration or microcrack production [see Moos and Zoback. 1983]. A comparison between the in situ stresses, the natural fracture density, and the sonic Pwave velocity (Figure 4), however, shows no discernable increase in fracture density, or decrease in sonic P-wave velocity, coincident with the low stresses measured at 225 m, 271 m, 537 m, or 544 m. The pronounced decrease in stresses between 491 m and 537 m, however, might reflect proximity of the lowermost measurements to the intensely fractured and permeable zone at the bottom of the well. The presence of elastic inhomogeneities or active faults near the borehole, or large variations in the magnitude of elastic anisotropy with depth, might also result in a refraction of stress trajectories and account for the observed variations in S azimuth at Hi Vista. Incidentally, the lack of a clear correlation between stress and sonic velocity in the Hi Vista well
+14
+
+contrasts with previous suggestions [e.g. Stierman and Zappe. 1981; Leary. 1985, 1987] that there is a simple causal relationship between gradients in seismically-determined rigidity and the vertical and horizontal gradients in shear stress that have been observed in the upper few kilometers of the crust near the San Andreas fault.
+Another possible explanation for the two zones of anomalously low shear stress in the Hi Vista well is the operation of inelastic processes near the wellbore. Slip on a seismically-active fault has been used, for example, to explain inverted vertical stress gradients in a test well at Oroville, California FZoback and Wesson. 1983]. Although the intensely fractured and permeable zone below 570 m may represent such a throughgoing fault zone, the preceding analysis of the Hi Vista stress measurements using the Coulomb failure criterion for pre-fractured rock indicates that frictional failure of the rock mass throughout most of this well is unlikely, unless the frictional strength of preexisting fractures is very low due, perhaps, to the presence of clay-rich fault gouge [e.g. Morrow et al.. 1982]. The seismic stability implied by this analysis is consistent with the observation that the western Mojave Desert near Hi Vista has been nearly aseismic since at least 1932 [e.g. Hileman et al.. 1973].
+Although we believe that the changes in stress magnitudes with depth at Hi Vista (Figure 4) are real, non-systematic measurement errors are almost certainly contributing to the observed fluctuations. Heterogeneities in tensile strength (e.g. healed fractures or mineral veins) or tensile strength anisotropy are suggested, for example, by the complex fracture trace observed in the test at 491 m (Figure 5d) and may introduce some error into the determined stress magnitudes [e.g. Abou-Sayed et al.. 1978; Cornet and Valette. 1985]. Tensile strength anisotropy or heterogeneity, coupled with relatively low horizontal deviatoric stress magnitudes, might also explain the observed scatter in S azimuths at Hi Vista (Figure 4). The high apparent tensile strengths inaicated by these tests at Hi Vista, which are simply equal to the difference between the breakdown and fracture opening pressures (Figure 3), as well as the uniformity of in-situ tensile strengths throughout the well (Table 1) suggest that these strength heterogeneities are insufficient to account for the observed fluctuations in stress magnitudes. The stress decrease observed between 178 m and 271 m, for example, is documented by tests exhibiting nearly ideal hydrofrac geometries at the borehole wall (Figure 5a and c).
+Comparison With Other Hydraulic Fracturing Tests in the Mojave Desert
+The thrust faulting stress regime indicated at shallow depths in the Hi Vista well was also observed in all of the shallow profile Mojave wells (to depths of 230 m) and in the upper 300 m of the XTLR well fZoback et al.. 1980]. Furthermore, in situ stress measurements in the Black Butte well (Figure 1) indicate that thrust faulting conditions prevail to depths of at least 650 m [Stock and Healy. 1988]. These results are fairly typical of stress measurements made in crystalline rock [e.g. Brace and Kohlstedt. 1980; McGarr and Gay. 1978; Zoback and Healv. 1984] in that both horizontal principal stresses exceed the lithostat and the greatest principal stress is near the critical value for reverse faulting to a few hundred meters depth.
+At depths of 178 m, 323 m, and 491 m the magnitudes of Srl , S,n , and shear
+15
+
+stress in the Hi Vista well are similar to those measured at comparable depths in the XTLR well, while at depths of 271 m, 537 m, and 544 m the stress magnitudes in the Hi Vista well are lower that those at similar depths in the XTLR well (Figure 6). Because of these low stress zones the vertical gradient in shear stress at Hi Vista, for example, is lower than that at XTLR (4.3 MPa/km and 10.6 MPa/km, respectively) and also lower than that considered to be typical for "hard" rock (such as granite and quartzite) in compressional stress regimes (8.7 MPa/km [McGarr, 1980]). If these data are truly representative of the regional stress field, they imply that the magnitudes of S , S, , and shear stress remain constant or even decrease with distance from the San Andreas Fault. This is surprising because, based on the shallow Mojave stress profile discussed earlier, one would expect the magnitudes of the horizontal principal stresses and the shear stress to be greater in the Hi Vista well than in the XTLR well at comparable depths. Interestingly, the predicted increase in stress magnitudes with distance from the San Andreas fault is observed when the XTLR and Black Butte wells are compared, although the azimuth of S at these two sites differs by about 60° [see Figure 7 and Stock and Healv. T988].
+The magnitudes of the horizontal principal stresses and the shear stress, as well as the vertical gradients in these stresses, are considerably larger in the nearby shallow wells Moj 4 and 5 than at comparable depths in the Hi Vista well (Figure 6; see also statistical analysis of horizontal stress variations between wells in McGarr et al. [1982]). Possible causes for this discrepancy include decoupling of the Hi Vista site from the regional stress field, perhaps by the intensely fractured zone at the bottom of the well, or siting of the Hi Vista well in an unusually compliant volume of rock (i.e. a "soft inclusion" in an otherwise highly stressed regime). If the Hi Vista well penetrates a soft inclusion and thereby shows anomalously low stress magnitudes, then we might expect to see either a higher natural fracture density or a lower P-wave velocity in the Hi Vista well than in the XTLR well (both of which penetrate granitic rock of similar density FRoss. 1972]). However, the average natural fracture densities in the Hi Vista and XTLR wells are quite similar (0.80 and 0.73 fractures/m, respectively),. and the P-wave velocity in the Hi Vista well (see Figure 4) is substantially higher than the 3.5 to 5.2 km/s P-wave velocities measured in the XTLR well fMoos and Zoback. 1983]. In addition, the average fracture densities in wells Moj 4 and 5 [0.67 and 0.65 fractures/m, respectively; Seeburger and Zoback. 1982] are nearly identical to that in the Hi Vista well over a comparable depth range (0.68 fractures/m from 89 to 230 m), further contradicting the soft inclusion hypothesis.
+In Figure 7 the S azimuths from Hi Vista are compared with other hydraulic fracturing results in the Mojave Desert. In making this comparison, we have omitted poor quality azimuths reported by Zoback et al. [1980], as these may not truly represent hydrofracs in some cases, and have determined a mean SR direction for each well by weighting individual azimuths according to the quality of the impression or televiewer image obtained (fair - 1, good =2, excellent - 3). For the XTLR and Moj 2 wells, which are at the same location, the azimuth shown (N 22° W) is the weighted mean from tests at 230 m (N 14° W, excellent), 338 m (N 43° W, fair), and 787 m (N 24° W, excellent). The azimuth given for Moj 1 (N 12° W) is the mean of tests at 80 m (N 20° W, fair) and 218 m (N 4° W, fair). The weighted mean from the Hi Vista well (Table 1) is N 8° W, although it should be realized that there is considerable uncertainty in this number because the scatter in azimuths observed (± 31°) is quite large.
+16
+
+0 0
+100200-
+
+STRESS, MPa 10 20 30
+
+SHEAR STRESS,
+MPa 40 0 5 10
+
+Well
+
+XTLR+MOJ2 o
+
+HI VISTA n
+
+MOJ 4, 5
+
+\
+
+4,5 4,5
+
+300-
+CO
+oc 400-
+LU
+500-
+T.D. 600- HI VISTA
+
+700-
+
+800-
+T.D. 900- XTLR
+Figure 6. A comparison of the horizontal principal stresses and the shear stress from the XTLR fZoback et al. 1980] and Hi Vista deep holes, which are are at distances of 4 and 32 km, respectively, from the San Andreas Fault. The measurements at depths of 149, 167, and 230 m were made in well Moj. 2 which is at the same location as XTLR. Regression lines fit to the data from Moj 4 and 5 fZoback et al.. 1980] are shown for comparison with the deep hole results.
+17
+
+35°00'
+f
+ROSAMOND I LAKE \
+OO
+34°!5 Figure 7. Mean azimuths of the maximum horizontal principal stress as determined from hydraulic fracturing tests in the western Mojave Desert (shown as solid black lines). The length of each line is proportional to the quality of the impression or post-frac televiewer pictures obtained (see text). Data from Moj. 1, 2, and XTLR are from Zoback et al. [1980], data from Black Butte is from Stock and Healv [1988], and data from Cajon Pass is from Shamir. Zoback. and Barton [written comm., 1987].
+
+One orientation was obtained from the Black Butte well at a depth of 309 m [N 41° E, good, Stock and Healv. 1988], Further evidence pertaining to the orientation of the stress field in the western Mojave Desert comes from the analysis of about 80 distinct borehole breakouts and two hydraulic fracturing tests in the Cajon Pass Borehole, which is located about 40 km southeast of XTLR and 3.6 km from the San Andreas fault (Figure 7). These data indicate an approximately N 70° E S direction at depths of 1750 m to 2114 m \ Shamir. Zoback. and Barton, written comm., 1987; see also Shamir and Springer. 1987],
+In spite of the large scatter in hydraulic fracture azimuths at Hi Vista, the mean direction of S at this site agrees quite well with that determined at the XTLR and Moj 1 sites, which are closer to the San Andreas fault. This direction, which is rotated about 45° clockwise from the local strike of the San Andreas fault (Figure 7), is such as to maximize the right-lateral shear stress acting on planes parallel to the San Andreas fault. The mean SH azimuth at Hi Vista does not, however, agree favorably with the N 41° E direction of maximum horizontal compression observed in the Black Butte well, which is located approximately midway between the Hi Vista and XTLR sites. Furthermore, the approximately N 70° E direction of maximum horizontal compression at Cajon Pass is rotated by about 90° from that observed at XTLR, Hi Vista, and Moj 1, and is such as to result in left-lateral shear stress resolved onto the San Andreas fault (Figure 7). Unfortunately, the large scatter in SH azimuths observed at Hi Vista, together with the disparities between the mean S directions at the Hi Vista, XTLR, and Moj 1 sites and that at Black Butte and Cajon Pass, prohibits an accurate definition of the stress trajectories in the western Mojave Desert given the available data.
+Comparison With Other Regional Stress Field Indicators
+A comparison can be made between the mean S azimuth we obtained at Hi Vista with the S directions inferred from other stress field indicators in this region. Pressure (P) and tension (T) axes derived from earthquake focal mechanism solutions are often equated with the maximum and minimum principal stress axes, respectively. Although this neglects, among other things, the potential for slip on preexisting fault planes and can result in large errors in stress direction [e.g. McKenzie. 1969], the use of average P and T axes derived from a number of earthquakes on different faults within a given area appears to provide a valid indicator of the principal stress directions [see Zoback and Zoback. 1980].
+Average P axes derived from first-motion studies of the mainshock and aftershocks of the 1971 San Fernando earthquake sequence, approximately 35 km west-southwest of Palmdale FWhitcomb et al.. 1973], and of 22 small (2.2 < M^ < 4.6) earthquakes in the central Transverse Ranges (including the San Gabriel Mountains in Figure 7; [Pechmann, 1987]), indicate S directions of N 5° W and north-south, respectively [see Zoback and Zoback [19HO]. Although the determined compression axes cover a wide range of azimuths, an approximately north-south SH direction is also indicated by P-wave focal mechanism solutions for 26 small (2.0 < M^ < 3.9) earthquakes occurring along and adjacent to the San Andreas fault in a region extending about 50 km to either side of Palmdale fSauber et al.. 1983; McNallv et al.. 1978]. Thus the S direction inferred from earthquakes adjacent to and immediately to the southwest of the San Andreas fault in this area agrees fairly well with the approximately north-
+19
+
+northwest S directions determined from hydraulic fracturing tests at the Hi Vista, XTLR, and Moj 1 sites. Even though our stress measurements do not extend to seismogenic depths, it also is worth noting that the predominance of thrust faulting mechanisms, with some strike-slip events, for the central Transverse Range and Palmdale earthquakes [jPechmann, 1987; Sauber et al.. 1983] is compatible with the transitional thrust faulting to strike slip faulting regime indicated by the stress measurements at Hi Vista (Figure 4). Focal mechanisms determined for nine earthquakes (2.5 < M_ < 5.2) in the central Mojave Desert about 100 to 200 km east of Palmdale, nowever, are predominantly strike-slip, with some normal faulting events, and indicate a north-northeast maximum compression direction fSauber et al.. 1986].
+The SH azimuths we determined at Hi Vista can also be compared with nearby shallow stress measurements made using other methods. Using the U.S. Bureau of Mines strain relaxation technique, Sbar et al. [1984] made stress measurements in two approximately 30-m-deep boreholes in this region. Although data were taken throughout each well, only measurements below 6 m were used in their analysis to minimize the effects of near-surface thermal stresses. The directions of SH they obtained 12 km southwest of Hi Vista (near Moj 4) and 1.4 km northwest orMoj 1 were N 13° W ± 2° and N 22° W ± 9° , respectively, in good agreement with the mean SH azimuths determined from hydraulic fracturing tests at Hi Vista, XTLR, and Moj 1 (Figure 7). Shallow strain relaxation stress measurements were also made in this region by Sbar et al. [1979] and Tullis [1981] using the "doorstopper" and U.S. Bureau of Mines techniques, respectively, although Sbar et al. [1984] claim that these measurements, which were all made within 3 m of the surface, are dominated by near-surface thermal stresses and may therefore not be indicative of the tectonic stress field. Nevertheless, their results at six sites 10 to 20 km away from Hi Vista (to the east, south and southwest) yield an approximately northeast mean azimuth for SH (with a scatter of ± 46°) and are more in accord with the N 41° E hydraulic fracture azimuth at Black Butte [see Stock and Healy. 1988] than the N 8° W mean Surl direction at Hi Vista,
+Finally, it is interesting to compare the maximum horizontal stress directions determined from hydraulic fracturing tests in the Mojave Desert with results from two geodetic networks in the Palmdale area FKing and Savage. 1984; see also Savage. 1983]. Trilateration surveys conducted from 1973 to 1983 in a small (approximately 10 km by 20 km) network spanning the San Andreas fault near Palmdale and in the southeast Tehachapi subregion of the Tehachapi network, which spans the intersection of the Garlock and San Andreas faults and encompasses the Palmdale network, indicate maximum shortening directions of N 19° W ± 2° and N 17° W ± 2°, respectively. These directions are consistent with the north-northwest direction of maximum horizontal compressive stress indicated at Hi Vista, XTLR, and Moj 1, but are rotated by about 60° from the S direction at Black Butte fStock et al.. 1988]. In making this comparison, however, it should be realized that equating the maximum shortening direction determined from a geodetic network with the direction of SH requires that the crust is elastically isotropic and the strain accumulation uniform within the network and that the direction of maximum shortening does not rotate with time (i.e. so that the principal axes of incremental strain and total strain are parallel [see Sauber et al.. 1986, and Zoback and Zoback. 1980]).
+20
+
+SUMMARY
+Hydraulic fracturing stress measurements have been conducted in a 0.6-kmdeep well at Hi Vista, California, 32 km from the San Andreas fault in the western Mojave Desert. The relative magnitudes of the horizontal principal stresses and the calculated overburden stress indicate a faulting regime that is transitional from thrust faulting at shallow depths to strike-slip faulting below about 400 m. Analysis of these data using Byerlee's Law, however, indicates that frictional failure on optimally-oriented preexisting fault planes is unlikely at depths below about 200 m. Although the azimuths of hydraulic fractures determined in this well cover a range of approximately 60°, the Srul azimuth at Hi Vista is approximately north-south to north-northwest,
+Comparison of these results with stress measurements made in a 0.9-km-deep well at a distance of 4 km from the San Andreas fault in this region indicates that, at similar depths in both wells, the magnitudes of the minimum and maximum horizontal principal stresses and the horizontal deviatoric stress either remain constant or decrease with distance from the San Andreas fault. This is in marked contrast to the results from a nearby profile of shallower stress measurements indicating that these stress components increase with distance from the San Andreas fault. Two zones exhibiting unusually low levels of deviatoric stress in the Hi Vista well, however, may indicate a perturbation to the regional stress field at this site. This perturbation may result from factors such as inelastic material behavior or heterogeneities in elastic compliance near the borehole. The absence of a correlation between these low stress zones and intervals of either high fracture density or low P-wave velocity, however, argues against the latter explanation.
+Comparing stress data from all wells in the western Mojave Desert, we concur with McGarr et al. [1982] that the existing in-situ stress data in this region show considerable local variability (although the cause of this variability is unknown) and do not demonstrate a systematic variation in stress magnitudes with distance from the San Andreas fault. Complexity in the stress field in the western Mojave Desert is also indicated by the observed variations in the direction of the maximum horizontal principal stress between wells. Therefore, inversion of stress measurements made along a profile of relatively shallow holes (depth < 1 km) for the magnitude of shear stress at depth on the San Andreas fault is not feasible until the origins of the observed variations are understood.
+21
+
+APPENDIX
+The surface pressure and flow records are presented in Figure Al. Expanded versions of these records are presented in Figure 3 to show the fracture reopening behavior of each test as a function of cycle. Pressures recorded using an Amerada-type mechanical pressure recorder (manufactured by Kuster, Inc.) located in the test interval were also used in the data analysis, but these records are not amenable to reproduction. Notable features of these tests are as follows (estimated overall test quality: F == fair, G == good, or E
+excellent).
+178 m (E): This test exhibits a stable ISIP (Figure 2), modest decreases in P_ (Figure 3), and a clearly defined vertical fracture trace at the borehole wall (Figure 5a). Both the ISIP and the long term shut-in pressure are » S (Figures 2 and Al) indicating that if this hydraulic fracture rotated over into the horizontal plane it did so at sufficient distance from the borehole that the vertical (high stress) segment of the fracture dominated the shut-in behavior. The downhole pumping pressure at the end of the test (at 34 1/m) is 0.16 MPa above the final ISIP.
+225 m (F): The ISIP is stable at the end of the test and P_ is stable during cycles 2-4, but decreases rapidly starting with the fiftn cycle (Figure 3). The cause of this decrease is unknown, but it may be due to propagation of the hydrofrac beneath the lower packer (Figure 5b), resulting in premature fracture opening or packer bypass (see text). Fluid infiltration into the hydrofrac at pressures < P_ is not a likely explanation for the decrease in P_ because the initial pressurization rates are similar in early and late cycles. Although the long-term shut-in pressure at the end of the test ~ S (Figure Al), suggesting that the hydrofrac may have rotated into the horizontal plane away from the borehole, we do not think this seriously affected our estimate of S, because: (1) horizontal hydrofracs were not observed on the impression packer (the fracture between 225.65 m and 225.85 m has a dip of 58° to 78°, depending on whether or not it is assumed to be the down-dip extension of the SE trending vertical trace); (2) the pressure decays following shut-in on all cycles are quite similar, even before the sudden decrease in P (Figure Al); (3) the ISIP was stable at the end of the test and 20% in excess of S (Figure 2); (4) there were no inflections in the variable flowrate pumpingvtest and the downhole pumping pressure at the end of the test (at 13 1/min) was only 0.18 MPa above the final ISIP; and (5) the low horizontal deviatoric stress implied by our analysis of this test requires a circumferential stress at the borehole wall that is nearly invariant with azimuth, in qualitative agreement with the presence of two equally prominent vertical traces on the impression packer which are separated by only about 110° (Figure 5b).
+271 m (E): This test exhibits a clearly defined vertical fracture trace at the borehole wall (Figure 5c), a stable P_ in cycles 2-4 (Figure 3), and a nearly stabilized ISIP in later cycles that°is < S (Figure 2). P_ could not be determined in the last two cycles due to nonlinearity in the initial pressurization of these cycles, perhaps resulting from fluid infiltration into the hydrofrac at pressures < P_ (see text). The final downhole pumping pressure on this cycle (at 18 I^m) is 0.19 MPa above the ISIP.
+22
+
+323 m (G): Both Pf (Figure 3) and the ISIP (Figure 2) are stable. The rapid pressure decay during shut-in on cycles 1 and 2 (Figure Al) was due to a leak at the wellhead, which was repaired prior to cycle 3. The pressure step at the very beginning of cycle 1 is indicative of air in the system and illustrates the viscous pressure losses in the hose between the surface pressure transducer and the wellhead (see Figure Al). The pronounced curvature prior to breakdown on cycle 1 resulted from pump deceleration at high pressure (Figure Al). Although the final ISIP is only 8% greater than the calculated S at this depth (Figure 2), only high-angle fractures were seen on the impression packer obtained. Furthermore, the relative stability of the ISIP, together with the absence of inflections in the variable flowrate pumping test at the end of cycle 5 (between 11.4 MPa and 9.5 MPa) and the small (0.13 MPa) pressure differential between the final pumping pressure and the ISIP in this cycle, suggests that we are not inadvertently measuring the normal stress on a hydrofrac that has rotated into the horizontal plane at some distance from the borehole.
+491 m (G) : Pf is stable in cycles 2-4 (Figure 3) and the ISIP is stable at the beginning and end of the test and < S (Figure 2). Increased curvature of the pressure record during initial pressurization on cycles 5-8 and gradual buildup to flat pumping pressure on these cycles may be due to fluid infiltration into the hydrofrac or minor packer bypass (see top of Figure 5d) at pressures < P_ (see text). Incomplete flowbacks prior to cycles 6 and 8 were an attempt to see effect of high residual fluid pressures on P_ (the results were indeterminate owing to high curvatures on these cycles;. The final dowrihole pumping pressure (at 22 1/m) equals the ISIP on the last cycle.
+537 m (F): P_ is slowly decreasing on cycles 2-5 (Figure 3) and the ISIP is quite stable at the end of the test and « S (Figure 2). Increased curvature during initial pressurization in the last 3 cycles may be due to fluid infiltration into the hydrofrac at pressures < P_ (see text). The tensile strength implied by this test (8.3 ± 1.6 MPa) is somewhat lower than that for other tests in this well (about 12 to 18 MPa; Figure 3 and Table 1) and both the ISIP and the long-term shut-in pressures show an unusually large decrease in the first few cycles (Figures 2 and Al). The final downhole pumping pressure (at 18 1/m) is 0.13 MPa above the ISIP on the last cycle.
+544 m (E): P_ is slowly decreasing (Figure 3) and the ISIP is stable and « S (Figure 2). The variable flowrate pumping tests in cycles 5 and 6 are linear over the range 10.4 to 11.2 MPa. The final downhole pumping pressure (at 25 1/m) equals the ISIP on the last cycle.
+23
+
+Breakdown
+
+20 178 m
+
+-Frac Open 10 ISIP
+0
+
+Si s\
+
+80
+
+-Breakdown 20 -Frac Open 10
+0
+
+225 m
+
+50 0 -50
+50 0 -50
+
+Breakdown -Frac Open
+-Breakdown -Frac Open
+20 -Breakdown 10 Frac Open 0
+
+271 m
+:rsh
+323 m
+491 m
+
+Sv 80
+
+I11-1
+:D
+50
+-50 IICclc-O.l
+111
+J o50u o£ -50 >
+O
+
+20 -Breakdown
+Frac Open
+10 0
+20 -Breakdown 10 -Frac Open
+
+537 m
+544 m S.
+
+sh
+L50 0 50
+
+0 20 40 60 80 TIME, MINUTES
+
+Figure Al. Surface pressure and flow records from the hydraulic fracturing tests at Hi Vista. Positive flow corresponds to fluid injection and negative flow corresponds to fluid withdrawal from the well. Pressures indicated must be corrected for the viscous pressure drop and the appropriate hydrostatic head added, as in Figure 3. The breakdown and fracture opening pressures from each test are shown, together with the magnitudes of S, and S (surface pressure). The instantaneous shut-in pressure (ISIP) is illustrated for the 178 m test.
+24
+
+REFERENCES CITED
+Abou-Sayed, A. S., and C. E. Brechtel, In situ stress determination by hydrofractaring: A fracture mechanics approach, J. Geophvs. Res.. 83. 28512862, 1978.
+Anderson, R. N., M. D. Zoback, S. H. Hickman, and J. H. Healy, In-Situ stress and physical property measurements in the Cleveland Hills fault zone, Oroville, California, EOS. Trans. AGU. 64, 834, 1983.
+Anderson, T. 0., and E. J. Stahl, A study of induced fracturing using an instrumental approach, J. Pet. Technol.. 19, 261-267, 1967.
+Barton, N., Hydraulic fracturing to estimate minimum stress and rock mass stability at a pumped hydro project, in Hydraulic Fracturing Stress Measurements. ed. by M. D. Zoback and B. C. Haimson, pp. 61-67, National Academy Press, Washington, D. C., 1983.
+Bredehoeft, J. D., R. G. Wolff, W. S. Keys, and E. Shutter, Hydraulic Fracturing to determine the regional in situ stress field, Piceance Basin, Colorado, Geol. Soc. Am. Bull.. 81, 250-258, 1976.
+Brune, J. N., T. L. Henyey, and R. F. Roy, Heat flow, stress, and rate of slip along the San Andreas fault, California, J. Geophys. Res.. 74. 3821-3827, 1969.
+Brace, W. F., and D. L. Kohlstedt, Limits on lithospheric stress imposed by laboratory experiments, J. Geophys. Res.. 85. 6248-6252, 1980.
+Cornet, F. H., Interpretation of hydraulic injection tests for in-situ stress determination, in Hydraulic Fracturing Stress Measurements. ed. by M. D. Zoback and B. C. Haimson, pp. 149-158, National Academy Press, Washington, D. C., 1983.
+Cornet, F. H., and B. Valette, In situ stress determination from hydraulic injection test data, J. Geophvs. Res.. 89, 11,527-11,537, 1984.
+Doe, T., K. Ingevald, L. Strindell, B. Haimson, and H. Carlsson, Hydraulic fracturing and overcoring stress measurements in a deep borehole at the Stripa test mine, Sweden, in Proceedings of the 22nd U.S. Rock Mechanics Symposium. pp. 373-378, MIT Press, Cambridge, Mass., 1981.
+Dokka, R. K., Displacements on late Cenozoic strike-slip faults of the central Mojave Desert, Geology. 11, 305-308, 1983.
+Evans, K., A laboratory study of two straddle-packer systems under simulated hydrofrac stress-measurement conditions, submitted to J. Energy Resources Tech.. 1987.
+Evans, K. F., C. H. Scholz, and T. Engelder, An analysis of horizontal fracture initiation during hydrofrac stress measurements in granite at North Conway, New Hampshire, Geophys. J. R. Astr. Soc.. in press, 1987a.
+25
+
+Evans, K. F., T. Engelder, and R. A. Plumb, A detailed description of in-situ stress variations in Devonian shales of the Appalachian Plateau, submitted to J. Geophys. Res.. 1987b.
+Haimson, B. C., Deep stress measurements in three Ohio quarries and their comparison to near-surface tests, Proc. of the 23rd U.S. Symposium on Rock Mechanics. pp. 190-202, SME-AIME, 1982.
+Haimson, B. C., and T. W. Doe, State of stress, permeability, and fractures in the Precambrian granite of northern Illinois, J. Geophvs. Res.. 88. 7355-7371, 1983.
+Haimson, B. C., and C, Fairhurst, Initiation and extension of hydraulic fractures in rock, J. Soc. Pet. Eng. . 7_, 310-318, 1967.
+Haimson, B. C., and C. Fairhurst, In situ stress determinations at great depth by means of hydraulic fracturing, Proc. llth U.S. Svmp. Rock Mech.. pp. 559584, 1970.
+Haimson, B. C., and C. F. Lee, Hydrofracturing stress determination at Darlington, Ontario, in Underground Rock Engineering: Proceedings 13th Canadian Symposium on Rock Mechanics, pp. 42-50, Canadian Institute of Mining and Metallurgy, Ottawa, 1980.
+Haimson, B. C., and F. Rummel, Hydrofracturing stress measurements in the Iceland Research Drilling Project drill hole at Reydarfjordur, Iceland, J. Geophvs. Res.. 87, 6631-6649, 1982.
+Hanks, T. C., Earthquake stress drops, ambient tectonic stresses and stresses that drive plate motions, Pageoph.. 115. 441-458, 1977.
+Hanks, T. C., and C. B. Raleigh, The conference on magnitude of deviatoric stresses in the Earth's crust and uppermost mantle, J. Geophvs. Res.. 85. 60836085, 1980.
+Healy, J. H., and T. C. Urban, In-situ fluid pressure measurements for earthquake prediction: An example from a deep well at Hi Vista, California, PAGEOPH. 122. 255-279, 1985.
+Hickman, S. H., J. H. Healy, M. D. Zoback, and J. Svitek, Recent in-situ stress measurements at depth in the western Mojave desert, EOS. Trans. AGU. 62. 1048, 1981.
+Hickman, S. H., and M. D. Zoback, The interpretation of hydraulic fracturing pressure-time data for in-situ stress determination, in Hydraulic Fracturing Stress Measurements, ed. by M. D. Zoback and B. C. Haimson, pp. 44-54, National Academy Press, Washington, D. C., 1983.
+Hickman, S. H., J. H. Healy, and M. D. Zoback, In Situ stress, natural fracture distribution, and borehole elongation in the Auburn Geothermal well, Auburn, New York, J. Geophvs. Res.. 90, 5497-5512, 1985.
+26
+
+Hileman, J. A., C. R. Alien, and J. M. Nordquist, Seismicity of the Southern California Region. 1: January 1932 to December 1972. Seismological Laboratory, California Institute of Technology, Pasadena, 487 pp., 1973.
+Hubbert, M. K., and D. G. Willis, Mechanics of hydraulic fracturing, J. Pet. Technol.. 9, 153-168, 1957.
+Jennings, C. W., Fault map of California, with locations of volcanoes, thermal springs, and thermal wells, California Division of Mines and Geology. Geologic Data Map no. 1. 1975.
+Lachenbruch, A. H., and J. H. Sass, Thermo-mechanical aspects of the San Andreas fault system, in Proceedings of the Conference on Tectonic problems of the San Andreas Fault System, ed. by R. L Kovach and A. Nur, pp. 192-205, Stanford University Press, Palo Alto, Calif., 1973.
+Jaeger, J. C., and N. G. W. Cook, Fundamentals of Rock Mechanics. 2nd ed., 585 pp., Chapman and Hall, London, 1976.
+King, N. E., and J. C. Savage, Regional deformation near Palmdale, California, 1973-1983, J. Geophvs. Res.. 89, 2471-2477, 1984.
+Lachenbruch, A. H., and J. H. Sass, Heat flow and energetics of the San Andreas Fault Zone, J. Geophvs. Res.. 85, 6185-6222, 1980.
+Leary, P. C., Near-surface stress and displacement in a layered elastic crust, J. Geophvs. Res.. 90, 1901-1920, 1985.
+Leary, P. C., Reply, J. Geophvs. Res.. £2, 4965-4969, 1987.
+McGarr, A., Some constraints on levels of shear stress in the crust from observations and theory, J. Geophvs. Res.. 85. 6231-6238, 1980.
+McGarr, A., Comments on "Near-surface stress and displacement in a layered elastic crust" and "Stress in a stratified crust overlying a buried screw dislocation" by P. C. Leary, J. Geophvs. Res.. 92, 4959-4964, 1987.
+McGarr, A., and N. C. Gay, State of stress in the earth's crust, Ann. Rev. Earth Planet Sci.. 6, 405-436,1978.
+McGarr, A., M. D. Zoback, and T. C. Hanks, Implications of an elastic analysis of in situ stress measurements near the San Andreas Fault, J. Geophvs. Res.. 81, 7797-7806, 1982.
+McKenzie, D. P., The relation between fault plane solutions for earthquakes and the directions of the principal stresses, Bull. Seismol. Soc. Am.. 59. 591-601, 1969.
+McNally, K. C., H. Kanamori, and J. C. Pechmann, Earthquake swarm along the San Andreas fault near Palmdale, southern California, 1976 to 1977, Science. 201. 814-817, 1978.
+27
+
+Moos, D., and M. D. Zoback, In situ studies of velocity in fractured crystalline rocks, J. Geophvs. Res.. 88, 2345-2358, 1983.
+Morrow, C. A., L. Q. Shi, and J. D. Byerlee, Strain hardening and strength of clay-rich fault gouges, J. Geophvs. Res.. 8Z, 6771-6780, 1982.
+Mount, V. S., and J. Suppe, State of stress near the San Andreas fault: Implications for wrench tectonics, Geology. 15. 1143-1146, 1987.
+Nur, A., and J. D. Byerlee, An exact effective stress law for elastic deformation of rocks with fluids, J. Geophvs. Res.. 76. 6414-6419, 1971.
+Pechmann, J. C., Tectonic implications of small earthquakes in the central Transverse Ranges, California, U.S. Geol. Surv. Prof. Paper, in press, 1987.
+Pratt, H. R., H. S. Swolfs, W. F. Brace, A. D. Black, and J. W. Handin, Elastic and transport properties of an in situ jointed granite, Int. J. Rock. Mech. Min. Sci. & Geomech. Abstr.. 14, 35-45, 1977.
+Ross, D. C., Petrographic and chemical reconnaissance study of some granitic and gneissic rocks near the San Andreas fault from Bodega Head to Cajon Pass, Califonia, U.S. Geological Survey Prof. Paper 698. 92 pp., 1972.
+Rummel, F., J. Baumgartner, and H. J. Alheid, Hydraulic fracturing stress measurements along the eastern boundary of the SW-German block, in Hydraulic Fracturing Stress Measurements, ed. by M. D. Zoback and B. C. Haimson, pp. 317, National Academy Press, Washington, D. C., 1983.
+Sauber, J. , K. McNally, J. C. Pechmann, and H. Kanamori, Seismicity near Palmdale, California, and its relation to strain changes, J. Geophys. Res.. 88, 2213-2219, 1983.
+Sauber, J., W. Thatcher, and S. C. Solomon, Geodetic measurement of deformation in the central Mojave Desert, California, J. Geophvs. Res.. 91. 12,683-12,693, 1986.
+Savage, J. C., Strain accumulation in the western United States, Ann. Rev. Earth Planet. Sci.. 11, 11-43, 1983.
+Sbar, M. L., T. Engelder, R. Plumb, and S. Marshak, Stress pattern near the San Andreas fault, Palmdale, California, from near-surface in situ measurements, J. Geophys. Res.. 84,156-164, 1979.
+Sbar, M. L., R. M. Richardson, and C. Flaccus, Near-surface in situ stress 1. Strain relaxation measurements along the San Andreas fault in southern California, J. Geophvs. Res.. 89, 9323-9332, 1984.
+Seeburger, D. A., and M. D. Zoback, The distribution of natural fractures and joints at depth in crystalline rock, J. Geophvs. Res.. 87. 5517-5534, 1982.
+Shamir, G., and J. E. Springer, Analysis of stress-induced wellbore breakouts in the Cajon Pass borehole, EOS. Trans. AGU. 68, 1489, 1987.
+28
+
+Springer, J. E., and M. J. Ader, A survey of natural fractures at the Hi Vista site, Mojave Desert, California, U.S. Geological Survey Open-File Report 8724, 31 pp., 1987.
+Stesky, R. M., and W. F. Brace, Estimation of frictional stress on the San Andreas fault from laboratory measurements, in Proceedings of the Conference on Tectonic Problems of the San Andreas Fault System, ed. by R. L. Kovach and A. Nur, pp. 206-214, Stanford University Publications, Stanford, Calif., 1973.
+Stierman, D. J., and J. H. Healy, A study of the depth of weathering and its relationship to the mechanical properties of near-surface rocks in the Mojave Desert, Pageoph. 122. 425-439, 1985.
+Stierman, D. J., and S. 0. Zappe, Lateral P-velocity gradients near major strike-slip faults in California, Science. 213. 207-209, 1981.
+Stock, J. M., and J. Healy, Hydraulic fracturing stress measurements at Black Butte, Mojave Desert, CA, J. Geophvs. Res.. in press, 1988.
+Tullis, T. E., Stress measurements via shallow overcoring near the San Andreas fault, in Mechanical Behavior of Crustal Rocks: The Handin Volume. Am. Geohys. Union Geophysical Monograph 24, pp. 199-213, 1981.
+Warren, W. E., and C. W. Smith, In situ stress estimates from hydraulic fracturing and direct observation of crack orientation, J. Geophvs. Res.. 90. 6829-6839, 1985.
+Whitcomb, J. H., C. R. Alien, J. D. Garmany, and J. A. Hileman, San Fernando earthquake series, 1971: Focal mechanisms and tectonics, Rev. Geophvs. Space Phys.. 11, 693-730, 1973.
+Zemanek, J., E. Glenn, Jr., L. J. Norton, and R. L. Caldwell, Formation evaluation by inspection with the borehole televiewer, Geophysics. 35. 254-269, 1970.
+Zoback, M. D., and J. H. Healy, Friction, faulting, and in situ stress, Ann. Geophvs.. 2, 689-698, 1984.
+Zoback, M. D., J. Healy, and J. Roller, Preliminary stress measurements in central Claifornia using the hydraulic fracturing technique, Pageoph. 115. 135-152, 1977.
+Zoback, M. D., and J. C. Roller, Magnitude of shear stress on the San Andreas Fault: Implication from a stress measurement profile at shallow depth, Science. 206. 445-447, 1979.
+Zoback, M. D., H. Tsukahara, and S. Hickman, Stress measurements at depth in the vicinity of the San Andreas Fault: Implications for the magnitude of shear stress at depth, J. Geophvs. Res.. 85. 6157-6173, 1980.
+Zoback, M. D., D. Moos, L. Mastin, and R. N. Anderson, Well bore breakouts and in situ stress, J. Geophvs. Res.. 90, 5523-5530, 1985.
+29
+
+Zoback, M. D., and R. S. Wesson, Modelling of coseismic stress changes associated with the 1975 Oroville earthquake, EOS. Trans. AGU. 64. 834, 1983 Zoback, M. L., and M. D. Zoback, State of stress in the conterminous United States, J. Geophys. Res.. 85, 6113-6156, 1980. Zoback, M. D., M. Zoback, V. Mount, J. Suppe, J. Eaton, J. Healy, D. Oppenheimer, P. Reasonberg, L. Jones, C. Raleigh, I. Wong, 0. Scotti, C. Wentworth, New evidence on the state of stress of the San Andreas fault system, Science. 238. 1105-1111, 1987.
+30
+
+

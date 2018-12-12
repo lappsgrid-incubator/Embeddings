@@ -1,0 +1,600 @@
+hydrogeologic set hydraulic property and ground water flow the field area aberdeen prove ground maryland geological survey water resource investigation report prepare cooperation army aberdeen prove ground support activity environmental conservation and restoration division aberdeen prove ground maryland the text ofthis article approve public release unlimited distribution army distribution number 
+conversion factor abbreviation and vertical datum 
+foot mile 
+acre acre square foot square mile mi2 square mile mi2 
+inch per year foot per second foot per day cubic foot per second ft3 
+gallon per minute gal min gallon per day gal million gallon per day mgal million gallon per day per square mile mgal mi2 
+temperature degree fahrenheit 
+hydraulic conductivity 
+foot per day 
+cubic foot per day per square foot time 
+foot aquifer thickness ft3 ft2 
+centimeter meter kilometer square meter hectare square meter hectare square kilometer meter per year meter per second meter per day cubic meter per second liter per second cubic meter per day cubic meter per second cubic meter per day per square kilometer degree celsius meter per day cubic meter per day per square meter time meter aquifer thickness 
+sea level report sea level refers national geodetic vertical datum geodetic datum derive general adjustment ofthe first order level net united state canada formerly call sea level datum 
+content abstract introduction background purpose scope description study area method study previous study acknowledgment hydrogeologic set hydrogeologic unit water table aquifer upper confine unit upper confine aquifer low confining unit 
+water level change recharge water table aquifer upper confine unit upper confine aquifer hydraulic property water table aquifer upper confine unit upper confine aquifer low confine unit ground water flow ground water flow direction discharge area water table aquifer upper confine unit upper confine aquifer chlorofluorocarbon date factor influence concentration sample analysis application ground water flow ground water flow simulation model grid boundary condition calibration sensitivity analysis implication chlorofluorocarbon data flow path summary reference cite hydrogeologic set hydraulic property ground water flow field area apg 
+map show location 
+the field area aberdeen prove ground maryland 
+well line hydrogeologic section new field 
+idealized section show hydrogeologic unit generalize direction ground water flow new field 
+map show altitude 
+water table flow line field june 
+top upper confine unit field 
+map show thickness upper confine unit field 
+hydrograph show altitude water table well of16a potentiometric surface upper confine aquifer well of16b new field october september 
+map show potentiometric surface upper confine aquifer flow line field june 
+schematic cross section show major hydrogeologic unit boundary condition model new field 
+map show finite difference grid model boundary field 
+diagram show error measure simulated water level respect multiple leakance upper confine unit recharge water table aquifer 
+map show distribution 
+hydraulic conductivity water table aquifer new field 
+leakance upper confine unit new field 
+diagram show error measure simulated water level respect horizontal hydraulic conductivity water table aquifer select recharge value water table aquifer 
+map show measure simulated hydraulic head water table aquifer field june table 
+chlorofluorocarbon data well new field aberdeen prove ground maryland 
+traveltime ground water well new field base chlorofluorocarbon data hydraulic head measure june model hydraulic head hydrogeologic set hydraulic property ground water flow fleld area apg 
+hydrogeologic set hydraulic property and ground water flow the field area aberdeen prove ground maryland william bank barry smith colleen donnelly abstract the army dispose chemical agent laboratory material unexploded ordnance field edgewood area aberdeen prove ground maryland world war least 
+soil ground water surface water wetland sediment field area contaminate disposal activity 
+ground water flow model field area construct geological survey usgs simulate flow central southern part gunpowder neck 
+the usgs begin additional study contamination field area cooperation army define hydrogeologic framework field area characterize hydraulic property aquifer confine unit define ground water flow path field basis current data simulation ground water flow 
+water table aquifer upper confine unit upper confine aquifer comprise shallow ground water system field area 
+low confine unit ground water movement negligible consider low boundary shallow system 
+these unit part pleistocene talbot formation 
+the model develop previous study redesign use data collect study emphasize new field 
+the current steady state model calibrate water level june 
+the rate ground water flow calculate model approximately foot per day rate determine chlorofluorocarbon date approximately foot per day 
+hydrogeologic set hydraulic property ground water flow field area apc 
+introduction the edgewood area ofaberdeen prove ground apg primary chemical warfare research development center army since 
+apg include approximately mi2 split edgewood area aberdeen area two peninsula northern part chesapeake bay fig 
+during past year release hazardous material environment result disposal chemical agent contaminate material unexploded ordnance field edgewood area apg maryland fig 
+soil surface water ground water wetland sediment field contaminate disposal activity 
+field approximately mi2 area north southern tip gunpowder neck 
+field divide old field northernmost site new field south old field fig 
+background the geological survey usgs cooperation army begin study field part remedial investigation feasibility study require comprehensive environmental response compensation liability act cercla 
+the study direct directorate health safety environment dshe apg 
+dshe also instal well pump treat contaminate ground water old field 
+since usgs work army icf kaiser engineer study hydrogeologic framework groundwater flow field area 
+disposal activity may begin old field site early disposal activity occur world war 
+disposal accomplish burial burning unlined trench 
+explosion trench late eject ordnance contaminant old field site watson creek 
+effort decontaminate site barrel decontamination agent 
+noncorrosive danc disperse around site 
+effort clean site early involved open pit burn use fuel oil burn chemical ordnance debris yon other 
+fire old field probably ignition white phosphorous munition report late vroblesky other 
+disposal begin new field continue 
+common method disposal involve place ordnance dunnage fuel oil open pit ignite mixture 
+occasionally large fire outside designate pit result explosion round ammunition 
+chemical warfare agent unexploded ordnance contaminate laboratory equipment dead animal bury trench new field yon other 
+some contaminant include dead animal later remove 
+some disposal pit old new field remain late waste observe collapse erode trench old field icf kaiser engineer 
+army detect arsenic chlorinate organic solvent ground water old field nemeth other 
+arsenic cadmium iron volatile organic compound confirm ground water old field army toxic hazardous material agency usathama 
+army environmental hygiene agency find concentration organic inorganic contaminant watson creek 
+arsenic cadmium report environmental protection agency usepa maximum contaminant level mcl watertable aquifer old field vroblesky other 
+benzene carbon tetrachloride trichloroethylene vinyl chloride also present 
+concentration numerous inorganic organic contaminant mcl also report vroblesky other shallow aquifer old field well sediment surface water watson creek 
+hydrogeologlc set hydraulic property ground water flow fleld area apg 
+76f22 3sf22 
+3ff15 basefrom geological survey 
+haxfoxd covntt 
+mile kilometer 
+maryland figure 
+location field area aberdeen prove ground maryland 
+hydrogeologic set hydraulic property ground water flow field area apg 
+3sf20 3sf20 
+76f17 watson creek 
+basefrom usgs 
+ofs well and identification number 
+0of3 well sample for chlorofluorocarbon age data 
+ex extraction well and identification number 
+monitoring well and identification number 
+foot meter topographic contour show altitude land surface 
+contour interval foot 
+datum sea level 
+line section 
+location well line hydrogeologic section new field 
+hydrogeologlc set hydraulic property ground water flow fleld area apg 
+usepa issue resource conservation recovery act rcra corrective action permit army apg 
+entire edgewood area put national priority list come comprehensive environmental response compensation liability act cercla 
+purpose scope the purpose report define hydrogeologic framework field area characterize hydraulic property aquifer confine unit define ground water flow path field basis new data new simulation ground water flow 
+this report present result study shallow ground water flow system old new field site apg 
+the study refine exist model shallow flow system provide information ground water flow water table aquifer emphasis toward new field 
+description study area the field area locate gunpowder neck edgewood area apg harford county maryland fig 
+the study area bound north east watson creek west gunpowder river 
+field south 
+the gunpowder river watson creek subject tidal flux 
+the stage gunpowder river vary diurnal cycle stage watson creek varies depend wind direction 
+bank other indicate tidal cycle often miss watson creek possibly due adverse wind condition 
+during event water continue discharge watson creek gunpowder river culvert watson creek road 
+the field area within coastal plain physiographic province characterize flat topography low rolling hill 
+the land surface rise near sea level gunpowder 
+river watson creek sea level old field new field 
+intermittent stream follow channel old new field drain watson creek 
+south new field land surface rise 
+the study area underlain unconsolidated deposit pleistocene cretaceous age overlie paleozoic precambrian crystalline bedrock 
+the shallow aquifer subject report consist pleistocene holocene sediment 
+the pleistocene sediment primarily interbedded sand silt clay fluvial estuarine marginal marine origin owen 
+during sea level regressive sequence river channel cut underlie cretaceous sediment 
+the channel fill estuarine sediment pleistocene interglacial period sea level rise 
+these bury channel call paleochannels common feature chesapeake bay area 
+paleochannel probably form describe identified hughes south field atj field 
+method study data new boring well use modify already exist hydrogeologic framework old field vroblesky other new field area 
+data collect current study vroblesky other evaluate use groundwater flow model cross section hydrogeologic framework construct 
+map top thicknesses aquifer confine unit compile new field 
+hydraulic property aquifer confine unit compile basis data aquifer test slug test chlorofluorocarbon age dating 
+hydraulic head map water table upper confine aquifer compile basis water level measure june 
+recharge water table aquifer evaluate use data previous report interpretation new data 
+previous conceptual model ground water flow field revise basis interpretation 
+hydrogeologic set hydraulic property ground water flow field area apg 
+previous usgs ground water flow model field area include central southern part gunpowder neck vroblesky other modify incorporate new data 
+the old new field area within current model finely discretized reflect emphasis current study 
+the result simulation make use ground water flow model field area develop army icf kaiser engineer also evaluate regard hydrologic parameter use 
+the current steady state model calibrate use hydraulic head measure june use determine ground water flow path 
+previous study the history operation early clean activity field compile interview base record yon other 
+nemeth other report chlorinated organic solvent arsenic ground water field arsenic watson creek bottom sediment 
+the army environmental hygiene agency report organic inorganic contaminant include metal watson creek 
+vroblesky other define hydrogeologic framework shallow aquifer field characterize aquifer confiningunit property determine extent contamination field watson creek simulate ground water flow field area evaluate potential effect various mitigation strategy grind water flow field 
+hydraulic conductivity water table aquifer determine constant rate step drawdown test old field army corp ofengineers 
+interim remedial investigation report army icf kaiser engineer determine aquifer property aquifer test conduct several geophysical survey concert usgs construct geologic section new field construct model simulate ground water flow 
+icf kaiser engineer also define extent probable fate transport contamination new field watson creek 
+conduct benthic survey bioassay baseline risk assessment 
+usgs collect passive soil gas data new field 
+discharge ground water shoreline gunpowder neck investigate use thermal image fly national oceanic atmospheric administration noaa march bank other 
+acknowledgm ents the author wish thank people agency whose help make study possible 
+cynthia powels project officer dshe provide logistical support study 
+joseph beman usgs contour hydrogeologic map report make outstanding contribution field operation 
+some hydrologic data use report collect assistance icf kaiser engineer contract army 
+hydrogeologic set data previous study vroblesky other indicate three aquifer present field within depth investigation deep aquifer previously designate low confine aquifer beyond scope report 
+this report focus data new boring well drill icf kaiser engineer army corp engineer 
+chlorofluorocarbon data collect usgs six well use refine horizontal hydraulic conductivity value 
+aquifer test perform icf kaiser engineer use develop refine understanding hydrogeology 
+precipitation data collect field apg use determine recharge rate water table aquifer 
+hydrogeologic unit the hydrogeologic framework field describe previously vroblesky other 
+from land surface downward unit include water table aquifer upper confine unit upper confine aquifer 
+hydrogeologic set hydraulic property ground water flow field area apg 
+west of25 
+well of27 
+land surface 
+vertical exaggeration 
+generalize flow water area recharge area discharge marsh area 
+clay stringer well well number of31b depth completion 
+hydrogeologic unit generalize direction ground water flow new field 
+these unit either within pleistocene talbot formation recently rework alluvium holocene 
+the geology harford county include field area describe report owen 
+water table aquifer the water table aquifer consist sequence saturate sediment mostly quartz sand interbedded silt clay extend throughout gunpowder neck 
+this sequence range thickness field area these sediment deposit river wetland stream pleistocene epoch 
+during holocene sediment erode redeposit along bank beneath present tidal river wetlands estuary 
+the sand water table aquifer range size fine grain coarse 
+gravel mix 
+sand place indicate lithologic log boreholes 
+sieve analyse several sample aquifer indicated average percent sand percent silt percent gravel icf kaiser engineer 
+the water table upper surface saturate zone hydraulic pressure equal atmospheric pressure 
+definition unconfined fig 
+beneath old field lesser degree beneath new field bottom water table aquifer confine clay layer term upper confining unit 
+upper confine unit the upper confining unit sequence finegrained sediment beneath water table aquifer 
+compose primarily silt clay mixed fine sand 
+three sample upper confine unit new field average percent silt clay percent sand percent gravel 
+hydrogeologic set hydraulic property ground water flow fleld area apg 
+33f20 39f20 
+watson creek 
+basefrom geological survey 
+location wellused determine altitude potentiometric surface 
+number altitude foot sea level 
+potentiometric surface contour dash approximately locate 
+contour interval foot 
+datum sea level 
+sample for chlorofluorocarbon age data top number altitude water level foot sea level 
+bottom number year since recharge 
+dash indicate data unavailable 
+flow line arrows indicate general direction groundwater flow 
+foot meter 
+altitude water table flow line field june 
+hydrogeologlc set hydraulic property ground water flow field area apg 
+icf kaiser engineer 
+the sediment range color black gray greenish gray vroblesky other 
+the clay content upper confine unit great beneath old field beneath new field 
+place particularly new field upper confine unit contain large proportion sand upper confine unit difficult distinguish water table aquifer 
+the top upper confine unit sea level near watson creek road sea level beneath watson creek fig 
+the top unit slop east beneath old new field however surface undulates indicate partially erode place stream 
+thickness unit vary time deposition 
+accord vroblesky other undisturbed part upper confine unit probably thicker beneath old field beneath new field 
+furthermore trench may dig upper confine unit many place old new field 
+addition data boring new field show upper confine unit considerably thinner beneath new field 
+the upper confining unit range approximately thick old field ofnew field approximately thick less fig 
+the watertable aquifer could therefore hydraulically connect poorly separate upper confine aquifer place 
+watson creek 
+basefrom geological survey explanation 
+foot meter 
+well location number altitude top upper confine unit foot sea level 
+contour show altitude top upper confine unit 
+dash approximately locate 
+contour interval foot 
+datum sea level 
+altitude top ofthe upper confine unit field 
+hydrogeologlc set hydraulic property ground water flow fleld area apg 
+watson creek 
+basefrom geological survey explanation 
+foot meter 
+well location number thickness upper confine unit foot 
+contour show thickness upper confining unit 
+dash approximately locate 
+contour interval foot 
+thickness ofthe upper confine unit field 
+upper confine aquifer beneath upper confine unit sand gravel aquifer interbedded clay throughout field area 
+the sand dark gray brown range grain size coarse medium 
+ten sample upper confine aquifer old new field average percent gravel percent sand percent silt icf kaiser engineer 
+the gravel sand silt deposit pleistocene river stream 
+the upper confine aquifer bound less permeable silt clay layer thick clay layer 
+water confine aquifer underpressure hydraulic head aquifer depth typically high elevation top confine aquifer 
+the upper confine aquifer continuous beneath field area thin west may erode replace finergrained sediment beneath gunpowder river 
+the upper confine aquifer range thickness low confine unit the low confine unit dark gray black clay contain abundant leaf plant fossil vroblesky other 
+one sample unit collect new field compose percent silt clay percent sand icf kaiser engineer 
+the clay probably deposit marginal marine estuarine environment owen 
+the low confining unit continuous relatively thick unit average thick beneath old field 
+hydrogeologlc set hydraulic property ground water flow fleld area apg 
+water level change recharge continuous recorder use monitor water level select well investigation 
+analysis well hydrographs indicates daily seasonal recharge event effect tide aquifer 
+rate recharge water table aquifer calculate use data previous report interpretation new data 
+these recharge rate test current ground water flow model determine rate rate compare combination hydraulic conductivity transmissivity leakance provide accurate representation head water table upper confine aquifer 
+precipitation field range station establish averaged standard deviation wayne kaiser army test evaluation command oral commun 
+rasmussen andreasen harsh laczniak indicate ground water recharge range percent total precipitation 
+base percentage average precipitation field recharge water table aquifer estimate range 
+order consider wide range possible recharge value value one two standard deviation mean precipitation calculate yield five precipitation value 
+each value multiply high percent low percent recharge rate yield recharge value 
+the value range use ground water flow model describe 
+recharge value use previous flow model field area icf kaiser engineer 
+vroblesky other indicate recharge field area range depend clay content soil zone water table aquifer respond rainfall 
+water table aquifer the water table aquifer recharge primarily precipitation directly gunpowder neck 
+small amount ofrainfall snowmelt carry runoff gunpowder river watson creek 
+large part precipitation evaporate land surface take plant transpire 
+the remain precipitation infiltrates unsaturated zone recharge water table 
+water level well screen watertable aquifer tend rise winter early spring indicate seasonal recharge plant dormant recharge relatively high fig 
+water level tend decline late spring throughout grow season summer early autumn low negligible recharge 
+the water table thus fluctuate season fluctuation mean consistent year year 
+upper confine unit the upper confining unit inhibits water flow water table aquifer upper confine aquifer 
+the volume water leak upper confine unit small flow rate slow compare movement water table aquifer 
+the upper confining unit vary lithology thickness may continuous throughout field area 
+recharge upper confine aquifer could substantial upper confine unit sandy thin breach paleochannels trench 
+upper confine aquifer water level upper confine aquifer fig 
+underpressure respond change pressure imposed water table aquifer 
+beneath high land surface altitude confine aquifer responds load depend well confine impose major change seasonal increase decrease volume water store water table aquifer 
+daily rise subsequent decline water level cause major recharge event also cause sharp increase decline pressure head 
+hydrogeologlc set hydraulic property ground water flow field area apg 
+dec jaw 
+feb mar apr date 
+aug sep 
+altitude water table well 16a potentiometric surface ofthe upper confine aquifer well 16b new field october september 
+near shore tidal wetland water level upper confine aquifer respond change tidal load 
+tide watson creek however heavily influenced wind frequently show diurnal response 
+absence tidal stress watson creek head upper confine aquifer show response 
+the upper confine aquifer covered silt clay layer bound clay layer 
+although confine aquifer recharged water leak upper confine unit water table 
+because vertical hydraulic conductivity upper confine unit likely much low water table aquifer recharge rate upper confine unit probably much small recharge rate water table aquifer 
+where upper confining unit miss 
+permeable sand less silt clay recharge rate could approach watertable aquifer 
+hydraulic property the hydraulic conductivity aquifer confine unit control large degree movement ground water speed direction contaminant ground water travel 
+the vertical hydraulic conductivity upper confine unit thickness significant factor govern flow ground water contaminant water table aquifer upper confine aquifer watson creek gunpowder river 
+hydraulic conductivity unit field investigate various method previous study summarize 
+hydrogeologlc set hydraulic property ground water flow field area apg 
+water table aquifer step drawdown test do old field army corp engineer aquifer test new field icf kaiser engineer show average horizontal hydraulic conductivity water table aquifer 
+value horizontal hydraulic conductivity use ground water flow model do icf kaiser engineer 
+ground water flow model gunpowder neck develop usgs vroblesky other use range value field area 
+result slug test old field vroblesky other indicate even great range hydraulic conductivity ofthe water table aquifer less 
+the value less consider result presence fine particle remove well construction represent aquifer material vroblesky other 
+upper confine unit the vertical hydraulic conductivity upper confine unit thickness significant factor govern flow ground water contaminant water table aquifer upper confine aquifer watson creek gunpowder river 
+vertical hydraulic conductivity range upper confining unit flow model develop vroblesky other 
+icf kaiser engineer calculate vertical hydraulic conductivity new field basis simulation aquifer test estimate olft old field 
+upper confine aquifer the horizontal hydraulic conductivity upper confine aquifer range average basis drawdown recovery test two new field sit icf kaiser engineer 
+hydraulic conductivity value use icf kaiser engineer upper confine aquifer flow model field area 
+basis slug test analyze hvorslev method hvorslev six well purge 
+fine material near well screen hydraulic conductivity upper confine aquifer range median vroblesky other 
+flow model vroblesky other use range transmissivities different area represent lower confine aquifer 
+low confine unit laboratory analyse six core two site old field show vertical hydraulic conductivity range median vroblesky other 
+the low hydraulic conductivity thickness unit make relatively impermeable low boundary aquifer interest report 
+ground water flow water level monitor well water table aquifer well upper confine aquifer october september 
+the shallow aquifer system field area comprise water table aquifer upper confine unit upper confine aquifer fig 
+because ground water movement lower confine unit negligible consider low boundary shallow aquifer system 
+ground water flow direction discharge area water level water table aquifer tend high late winter early spring decline throughout summer reach yearly lows september october 
+average head value year would therefore found midsummer mid winter 
+for current groundwater flow model head measure june choose represent steady state condition 
+water level map aquifer draw hydraulic head measure june 
+direction ground water flow discharge area derive interpretation map water table aquifer the water table locate foot beneath land surface roughly follow topographic contour 
+the water table slop high altitude 
+hydrogeologlc set hydraulic property ground water flow field area apg 
+southern central part study area northward outward toward wetland old field new field watson creek gunpowder river fig 
+the ground water flow horizontal linear slightly curve path perpendicular equipotential line 
+the direction ground water flow high hydraulic head beneath land low head beneath wetland tidal river near shore 
+ground water move water table aquifer shore discharge 
+small amount ground water also leak downward upper confine unit provide recharge upper confine aquifer 
+upper confine unit because large difference hydraulic conductivity aquifer confine unit direction movement fine grain sediment predominantly vertical 
+recharge area beneath high land surface grind water move downward confine unit 
+discharge area near beneath tidal river wetlands ground water move upward confine unit for example water upper confine aquifer discharge upward leakage bottom sediment watson creek 
+upper confine aquifer the potentiometric surface upper confine aquifer similar ofthe water table aquifer high head south beneath center study area 
+ground water flow linear curve path higher potentiometric head beneath southern central part ofthe study area toward low head beneath shore gunpowder river watson creek 
+the hydraulic head gradient low upper confine aquifer water table aquifer fig 
+beneath tidal creek wetlands head upper confine aquifer probably higher sea level ground water upper confine aquifer discharge upward leakage confine unit sediment beneath surfacewater body 
+chlorofluorocarbon date the age water sample collect well determine use chlorofluorocarbon method use estimate ground waterflow rate busenberg plummer 
+chlorofluorocarbon cfc synthetic chemically stable compound manufacture since use refrigerant solvent propellant aerosols foam agent plastic 
+cfc persistent environment virtually manufacture eventually release atmosphere resistant microbial degradation aerobic ground water system thompson hayes 
+two cfc particular cfc cc12f2 cfc cc13f make percent kilogram produce annually global market worldwide annual production currently increase rate approximately percent busenberg plummer 
+the atmospheric concentration compound estimate production record 
+from present concentration determine semiannual average measure atmospheric concentration busenberg other 
+mid recognize detectable cfc concentration natural water hold potential environmental tracer water recharge 
+thompson thompson hayes conduct study new jersey texas arkansas show cfc model age date agree date base know hydrologic parameter tritium concentration 
+the qualitative implication cfc ground water sample water contains post water 
+because cfc concentration atmosphere continuously increase concentration cfc ground water continuously increase new precipitation recharges aquifer 
+order estimate water age cfc concentration assume recharged water maintains equilibrium air unsaturated zone prior incorporation water table 
+hydrogeologic set hydraulic property ground water flow field area apg 
+watson creek 
+basefrom uscs well used determine altitude potentiometric surface 
+number altitude foot sea level 
+foot meter 
+potentiometric surface contoursdashed approximately locate 
+contour interval foot 
+datum sea level 
+flow line arrows indicate general direction groundwater flow 
+potentiometric surface upper confine aquifer flow line field june 
+hydrologic setting similar field study area depth ground water shallow less assumed cfc concentration unsaturated zone differ significantly atmosphere week other 
+factor influence concentration henry law use calculate partition cfc cfc atmosphere unsaturated zone ground water 
+the henry law constant cfc cfc calculate solubility environmental condition 
+recharge temperature field ground water base dissolved concentration argon nitrogen incorporate equilibrium atmosphere time recharge heaton heaton vogel 
+the method use sample analyze dissolve gas describe pearson other busenberg other 
+the method involve bring water sample close container know volume contact evacuate container known volume 
+after equilibration head space sample container analyze co2 ch4 use gas chromatograph 
+the concentration dissolve gas aquifer determined summing amount present two phase divide volume water chamber 
+use method dissolve gas concentration measure field area indicate recharge temperature approximately 
+cfc concentration ground water may influence microbial degradation soil sorption modern air sample hydrologic process hydrodynamic dispersion mix well screen contamination 
+phenomena contamination atmospheric non 
+hydrogeologlc set hydraulic property ground water flow field area apg 
+atmospheric source represent large potential source error field site 
+contaminate cfc sample define sample concentration exceed range possible air water equilibrium determine recharge temperature 
+for water recharge equilibrium atmosphere concentration cfc would expect picograms per kilogram cfc would 
+because potential cfc contamination field site error associate cfc sample order magnitude great associate cfc analysis age show table old either cfc cfc age 
+sample contaminate nonatmospheric source actual water age older report basis cfc age modeling 
+sample take well contaminate cfc table 
+well cfc unquantifiable amount cfc well cfc cfc 
+well time amount cfc well times expect amount cfc cfc atmosphere respectively table 
+previous study cfc contamination attribute pvc well case teflon rubber pump part dunkle other 
+give disposal history area however probable cfc contamination field direct result disposal decontamination action perform area 
+although nemeth specifically describe activity would directly contribute cfc contamination field identify activity post process cool degrease particular probably use cfc 
+chlorofluorocarbon datafor well new field aberdeen prove ground maryland sample take well contaminate chlorofluorocarbon 
+picograms per kilogram data available age data available due sample contamination 
+well date 
+recharge temperature cfc cfc 
+collect collect 
+age year 
+age base cfc data unless otherwise note 
+base cfc data 
+physical process mix ground water well annulus also introduce uncertainty interpretation cfc data 
+mix ground water occur well locate area ground water discharge flow line different age converge 
+mix also occur well screen across multiple aquifer draw multiple age water well bore 
+once ground water source mixed cfc data cannot use distinguish water different recharge year 
+sample analysis busenberg plummer dunkle other describe cfc sampling procedure laboratory method analysis 
+the well field site sample october use submersible reciprocate piston bennett pump construct stainless steel 
+copper discharge line 
+pump rate purge sample typically range approximately gal min depend well yield 
+four six 
+the use brand firm trade name report identification purpose constitute endorsement geological survey 
+hydrogeologic set hydraulic property ground water flow field area apg 
+sample well collect milliliter borosilicate glass ampules preserve field seal ampule without allow sample contact atmosphere 
+the apparatus collect sample describe busenberg plummer 
+sample analysis involve use purge trap gas chromatograph electron capture detector bcd 
+independent model age derive cfc cfc ampule collect site compare sample concentration atmospheric growth curve busenberg other 
+independent model age derive cfc cfc sample vial associate give sample 
+for current study small concentration cfc cfc ampule use determine cfc model age 
+error cfc concentration introduce field procedure tend large error introduce laboratory analysis 
+environment sample condition less likely major contributor sample error however variance cfc model age range month eurybiades busenberg geological survey oral commun 
+well selection criterion base location site upgradient sufficiently distant know disposal area 
+this particularly important chlorinate organic solvent dispose many site around field area nemeth 
+these solvent potentially mask cfc signature analysis 
+six well near old new field sample cfc good refine estimate rate ground water movement fig 
+all well except screened water table aquifer 
+all well include think approximately locate along areal flow path line fig 
+all well construct polyvinyl chloride pvc 
+all well except drill use hollow stem augur technique screen water table aquifer use 
+diameter well 
+well construct use mud rotary drilling technique 
+diameter long 
+screen penetrates water table upper confine aquifer 
+application ground water flow cfc age date provide empirical method refining simulate physical property aquifer use calibrate groundwater flow model 
+this do comparing rate water movement calculate cfc data average velocity calculate use follow equation average rate movement water porous medium lohman 
+average velocity horizontal hydraulic conductivity change head distance well effective porosity unitless 
+average ground water velocity give set hydraulic condition determine three way head data measure field use velocity equation assume value effective porosity horizontal hydraulic conductivity use velocity equation use model derive head assume value effective porosity horizontal hydraulic conductivity distance two well along flow path divide difference cfcderived age attain average velocity base exclusively cfc data 
+the flow model could calibrate cfc data iteratively change one assume hydraulic parameter compare result velocity value calculate cfc model age data 
+the value use remain constant simulation 
+the value reflect either measure model head 
+effective porosity value range consider basis description 
+hydrogeologic set hydraulic property ground water flow field area apg 
+other compose medium grain sand interbedded silt clay 
+johnson indicate sediment porosity range 
+porosity vary increment 
+for velocity calculation use measure modeled head effective porosity value find provide close match cfc age data 
+horizontal hydraulic conductivity value water table aquifer find provide reasonable value velocity 
+this value determine calibrate flow model describe following section 
+ground water flow simulation previous usgs ground water flow model field area vroblesky other redesign use new aquifer test data rediscretized vicinity new field 
+the current model expand model domain vroblesky other model boundary extend well beyond area interest 
+the current model calibrate water level june 
+the current model design determine aquifer property direction ground water flow 
+model grid boundary condition the usgs modular finite difference groundwater flow model mcdonald harbaugh use previous current model field area 
+the current field model extend grid grid boundary would influence model result 
+the current model also increase discretized area cover old new field 
+like original model current model simulates flow water table aquifer upper confine unit upper confine aquifer part gunpowder neck 
+vertical leakage lower confine unit beneath upper confine aquifer assume negligible 
+previous model two layer aquifer system simulate vertical leakance calculate layer fig 
+the watertable aquifer simulate one distinct layer current model designate unconfined 
+the upper confine aquifer simulate 
+second layer designate confine simulation 
+vertical leakage water table aquifer upper confine aquifer simulate cell hydraulic conductance term include value vertical hydraulic conductivity thickness confine unit 
+configuration hydraulic head calculate model watertable upper confine aquifer upper confine unit two aquifer 
+see mcdonald harbaugh general description method 
+variable size grid fig 
+contain row columns construct merge various map coverage gunpowder neck watson creek gunpowder river use geographic information system gi 
+the small cell size block center node used simulate ground water flow old new field site side 
+the grid cell size expand outward old new field area less definition groundwater flow require 
+lateral boundary model fig 
+place far area interest would artificially affect simulated result 
+constant head value use cell represent chesapeake bay gunpowder river 
+tidal data collect tide gage locate culvert mouth watson creek 
+the median tidal value january december mean sea level 
+this value use represent constant head watson creek well adjoin wetland 
+model create vroblesky other line drain represent wetland old new field site include top layer water table aquifer 
+calibration the model calibrate water level measure june well screen water table aquifer well screen upper confine aquifer 
+for computer run calibration phase measure water level well compare simulated water 
+hydrogeologlc set hydraulic property ground water flow field area apg 
+layer water table aquifer 
+fix head 
+leakance upper confining unit 
+layer upper confine aquifer 
+solid shading indicate hydrogeologic unit 
+hatch shade indicates boundary condition 
+major hydrogeologic unit boundary condition model new field 
+level well difference square sum 
+large sum square error run indicate poor simulation measure water level 
+low sum error indicate good approximation 
+increment change model variable plot sum square error model run two dimensional matrix visual representation model accuracy display fig 
+horizontal hydraulic conductivity initially assign entire water table aquifer base median value aquifer test perform icf kaiser engineer army corp engineer vroblesky other 
+this value later refine include area low horizontal hydraulic conductivity around new field site fig 
+this assumption low hydraulic conductivity near watson creek 
+support bank other analysis thermal imagery area 
+thermal image data collect march show area watson creek northwest new field cooler thermal signature main body watson creek 
+this attribute decreased ground water discharge relative area watson creek possibly due buildup fine creek bottom surround marsh area 
+sieve analysis ofmaterial water table aquifer take drilling well show percent fine sand silt vertical hydraulic conductivity assign upper confine unit appropriate area gunpowder neck watson creek 
+for gunpowder river chesapeake bay upper confine unit present value 
+hydrogeologlc set hydraulic property ground water flow field area apg 
+3sp19 basefrom geological survey 
+foot meter 
+finite difference grid model boundary field 
+hydrogeologic set hydraulic property ground water flow fleld area apg 
+multiple leakance 
+through the upper 
+confine unit day 
+0en boy 
+assign ensure vertical movement ground water restrict 
+the vertical hydraulic conductivity upper confine unit divide thickness leakance change areal model fig 
+transmissivities upper confine aquifer use current model modify use previous model vroblesky other 
+transmissivity value ftvd use cell beneath gunpowder neck peninsula watson creek 
+value ftvd use cell beneath gunpowder river chesapeake bay sediment probably permeable 
+the model calibrate change value poorly know variable reasonable range hold measure 
+calculate variable constant 
+the transmissivity upper confine aquifer hydraulic conductivity water table aquifer well define previous flow model aquifer test 
+however measure data available recharge rate water table little data available vertical hydraulic conductivity upper confine unit 
+recharge rate vertical hydraulic conductivity upper confine unit change range reasonable value sum squared error change calculate 
+matrix plot compare result local minima error respect recharge rate vertical leakance value fig 
+recharge rate couple vertical hydraulic conductivity 
+explanation leakance day 0xloj 0x10 0x10 0x10 0x10 oxlo2 base geological survey 
+2floo foot meter 
+distribution leakance upper confine unit new field 
+hydrogeologic set hydraulic property ground water flow field area apg 
+time original peninsula watson creek bay river produce low sum square error layer 
+sensitivity analysis after calibrate current model establish local minimum respect two least known variable recharge watertable aquifer leakance upper confine unit hydraulic conductivity water table aquifer test indicate sensitivity model change parameter 
+because slug pump test perform various well around field hydraulic conductivity value change reflect reasonable maximum minimum value base data 
+hydraulic conductivity value current calibrate model change base exclusion censor less slug test data vroblesky other 
+vroblesky other indicate number well slug test perform respond introduction slug fine sediment clog well screen 
+exclude hydraulic conductivity data well median horizontal hydraulic conductivity current model increase 
+series model run execute value leakance horizontal hydraulic conductivity value use vary select recharge rate describe fig 
+vroblesky other state well hydraulic conductivity censor threshold less measured actual hydraulic conductivity probably 
+exclude censor slug test data assume median value horizontal hydraulic conductivity value less provide reasonable value minimum horizontal hydraulic conductivity 
+the current model run vary select recharge value leakance horizontal hydraulic conductivity 
+matrix sum square error layer sensitivity test three value horizontal hydraulic conductivity show local minimum respect recharge leakance establish fig 
+use horizontal hydraulic conductivity 
+this solution however represent unique combination model parameter 
+there indication periphery matrix change beyond test could possibly produce another local minimum 
+local minimum find matrix however low error establish previously 
+implication chlorofluorocarbon data six well sample cfc well contaminate cfc cfc 
+although well probably contaminate data well use several reason 
+the annular seal well appear faulty potentially provide contact sample aquifer material modern air 
+the screen length well make doubtful water sample well would exclusively water table aquifer 
+the location well flow system allow potential flow southeast away well near site downgradient well 
+the remain two uncontaminated well define line approximately parallel ground water flow 
+well fig 
+locate near topographic high study area contain ground water model age year table 
+well locate northwest downgradient well 
+water well cfc model age year imply water recharge near well take year travel well average velocity 
+equation solve cfc data could relate modeled parameter horizontal hydraulic conductivity 
+this result horizontal hydraulic conductivity estimate independent model aquifer test data 
+the data measure head june 
+hydrogeologlc set hydraulic property ground water flow field area apg 
+m14 2u5 
+recharge foot per day 
+error measure simulated water level respect horizontal hydraulic conductivity water table aquifer select recharge value water table aquifer 
+the value inside contour indicate range solution lowest error 
+target head use calibrate steady state model use compute slope well well table 
+use porosity horizontal hydraulic conductivity average velocity compute well well 
+this represent traveltime well year 
+initially model head substitute measured head average velocity increase equivalent traveltime well well year 
+the increase velocity use calculated head flow model result increase head well decrease head well model versus measure head 
+this increase slope water table two well percent 
+error could result inaccurate representation one several model parameter error cfc data collection analysis 
+model vroblesky other suggest upper confine unit become permeable thins south implying water could pass easily 
+water table upper confine aquifer 
+alter current calibrate model leakance upper confine unit cell immediately southeast ofnew field calculate head well effectively reduce within measure head head well raise less measure head 
+this change reduce slope within percent slope compute use measure head thereby decrease average velocity ground water two well equivalent traveltime well well year 
+when value cfc year model year traveltime compare velocity derive measure head year less percent difference 
+this comparison illustrate current model simulates slope ofthe water table area well well reasonable accuracy compare measure value june horizontal hydraulic conductivity value generate aquifer test corroborate cfc data measure head use conjunction assume porosity 
+hydrogeologk set hydraulic property ground water flow field area apg 
+traveltime ofground water well new field base chlorofluorocarbon data hydraulic head measure june model hydraulic head 
+foot foot per day 
+hydraulic bead well well 
+change hydraulic 
+head conductivity velocity 
+traveltime year 
+cfcdata measure model 
+a28 a28 
+value use model 
+the use shallow ground water age date technique demonstrate cfc data use effectively tool refine knowledge physical property govern ground water flow 
+the change calibrate flow model describe provided representative simulation water table aquifer 
+the cfc model age data conjunction knowledge geology area provide independent insight property govern hydrologic system 
+flow path ground water flow path head calibrate model closely follow interpret measure hydraulic head june fig 
+seasonal change water level could change direction ground water flow 
+change water level however center average annual water level calibrate model represent 
+because groundwater flow slow compare seasonal change water level temporary change velocity tend negligible long period time average flow rate valid 
+from chlorofluorocarbon model age date rate ground water flow estimate well well south new field 
+estimate velocity ground water base ground water flow model calculate path base hydraulic gradient flow model equation average linear velocity lohman 
+effective porosity percent assume water table aquifer calculation 
+the velocity estimate independent cfc data indicate rate grind water flow south field area estimate ground water flow model reasonable accuracy 
+hydrogeologic set hydraulic property ground water flow field area apg 
+watson creek 
+basefrom usgs well location top number measure hydraulic head bottom number simulate hydraulic head value 
+both value foot sea level 
+explanation hydraulic headcontours base simulated value foot 
+dash approximately locate 
+contour interval foot 
+datum sea level 
+foot meter flow line arrow indicate general direction groundwater flow 
+measure simulated hydraulic head water table aquifer field june 
+hydrogeologic set hydraulic property ground water flow field area apg 
+the army dispose chemical agent contaminate material unexploded ordnance field edgewood area aberdeen prove ground maryland 
+soil ground water surface water wetland sediment field area contaminate disposal activity 
+the usgs begin study cooperation army define hydrogeologic framework field area characterize hydraulic property aquifer confine unit define groundwater flow path field base new data new simulation ground water flow 
+the water table aquifer upper confine unit upper confine aquifer comprise shallow aquifer system field area 
+the low confining unit consider low boundary shallow aquifer system ground water movement negligible 
+these unit within talbot formation pleistocene age recently rework alluvium holocene 
+previous usgs ground water flow model field area redesign new data emphasis new field 
+the current model calibrate water level june 
+the model calibrate change value least known variable reasonable range hold measured variable constant 
+ground water flow path calibrate model follow closely interpret hydraulic head measure june 
+basis chlorofluorocarbon date rate ground water flow estimate two well south new field 
+these data use change calibrate ground water flow model model head water table aquifer closely reflected velocity imply cfc data 
+the refined model produce estimate ground water velocity flow path base hydraulic gradient flow model equation average linear velocity 
+hydrogeologlc set hydraulic property ground water flow field area apg 
+reference cite 
+bank paylor hughes use thermal infrared imagery delineate ground water discharge ground water 
+busenberg euryblades plummer use chlorofluorocarbon cc13f cc12f2 hydrologic tracer aged tool the alluvium terrace system central oklahoma water resource research 
+busenberg eurybiades week plummer bartholomay age date ground water use chlorofluorocarbon cc13f cc12f2 distribution chlorofluorocarbon unsaturated zone snake river plain aquifer idaho geological survey water resource investigation report 
+dunkle plummer busenberg phillips denver hamilton michel coplen chlorofluorocarbon cc13f cc12f2 dating tool hydrologic tracer shallow ground water delmarva peninsula atlantic coastal plain united state water resource research 
+harsh laczniak conceptualization analysis groundwater flow system coastal plain virginia adjacent part maryland north carolina geological survey professional paper heaton dissolve gas some application groundwater research transaction geological society south africa 
+heaton vogel excess air groundwater journal ofhydrology 
+hughes hydrogeology soil gas field aberdeen prove ground maryland geological survey waterresources investigation report hvorslev time lag soil permeability ground water observation army corp engineer waterway experimentation station bulletin icf kaiser engineer aberdeen prove ground remedial investigation report field area phase draft document daaa15 
+johnson specific yield compilation specific yield various material geological survey water supply paper lohman ground water hydraulics geological survey professional paper mcdonald harbaugh modular three dimensional finitedifference ground water flow model geological survey technique waterresources investigation book chap 
+nemeth gary murphy zarzycki environmental survey edgewood area aberdeen prove ground maryland aberdeen prove ground army toxic hazardous material agency report 
+drxth nemeth gary rcra facility assessment report edgewood area aberdeen prove ground maryland army toxic hazardous material agency report 
+owen coastal plain rock harford county the geology ofharford county maryland maryland geological survey 
+hydrogeologlc set hydraulic property ground water flow fleld area apg 
+pearson fisher plummer correction ground water chemistry carbon isotopic composition effect c02 degas geochimica cosmochimica acta 
+rasmussen andreasen hydrologic budget beaverdam creek basin maryland geological survey water supply paper 
+thompson trichloromethane new hydrologic tool trace date ground water bloomington indiana indiana university dissertation thompson hayes trichloromethane groundwater possible tracer indicator groundwater age water resource research 
+army corp engineer baltimore district phase technical report containment treatment contaminate groundwater old field aberdeen prove ground maryland dcn apg aamg8 
+army corp engineer baltimore district phase technical report containment treatment contaminate groundwater old field aberdeen prove ground maryland dcn apg aanz 
+vroblesky lorah oliveros grind water surface water bottom sediment contamination field area aberdeen prove ground maryland possible effect select remedial action grind water geological survey open file report week earp thompson use atmospheric fluorocarbon determine diffusion parameter unsaturated zone southern high plain texas water resource research 
+yon wenz brenner charles information relevant disposal hazardous material field aberdeen prove ground maryland aberdeen prove ground maryland chemical system laboratory record evaluation report 
+hydrogeologic set hydraulic property ground water flow field area apg 

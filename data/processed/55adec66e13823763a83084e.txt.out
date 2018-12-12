@@ -1,0 +1,112 @@
+department the interior geological survey geonames data base geologic name united state compile 
+murdock open file report this report preliminary review conformity geological survey editorial standard reston 
+geonames data base geologic name united state through 
+the geonames data base annotate index lexicon formal geologic nomenclature united state territory possession 
+the data base compile swanson hubert luttrell jussen publish geologic name united state geological survey bulletin this version geonames update base information publish contains approximately record relate name 
+data enter fixed field contain character information record 
+the field location unit geologic age name unit 
+usgs usage lithology geologic province thickness type section location type section lexicon reference unique identifier 
+definition field 
+the format code use field explain 
+field use unit information pertain type locality original reference 
+postal service letter abbreviation use identify state territory possession unit locate 
+district columbia 
+new hampshire new jersey new mexico new york north carolina north dakota ohio 1ahoma oregon pennsylvania rhode island south carolina south dakota tennessee texas utah vermont virginia washington west virginia wisconsin wyoming canal zone caroline islands guam mariana island puerto rico samoa virgin island 
+geologic age 
+the geologic age time last update represent minor modification digit code devise aapg committee standard stratigraphic coding 
+era cenozoic late middle early mesozoic late middle early paleozoic late middle early 
+period quaternary tertiary cretaceous jurassic triassic permian 
+epoch provincial series 
+holocene pleistocene pliocene miocene oligocene eocene paleocene 
+late gulfian comanchean early comanchean coahuilan late middle early late middle early 
+late ochoan guadalupian early leonardian wolfcampian 
+era time precambrian 
+epoch provincial series 
+pennsyivanian missi ssipp ian devonian silurian qrdovician cambrian 
+late virgi1ian missour ian middle de moinesian atokan early morrowan late chester ian meramecian early osagean kinderhookian late middle early late middle ear late middle early late middle early 
+eon era 
+proterozoic archean pre archean 
+late middle early late middle early 
+code 3eo 3ee 3e5 3e6 3eb 33e code 
+the geologic name consist geographic name combine rank descriptive term 
+comma separate two part name 
+unit part higher rank unit name unit follow parenthesis 
+slash precede name indicate violation north american stratigraphic code instance name may use previously area rank term may use improperly may omit field 
+usgs usage enter field line entry base usage usgs report 
+the principal lithology unit type section give 
+lithology indicate unit name lithology column may blank 
+agl alv amp and anh anr arc ark asp ba baux bnt brc cl cst dac db drt drf dtm evp gab glc 
+agglomerate alluvium amphibolite andesite anhydrite anorthosite argillite arkose asphalt basalt bauxite bentonite breccia chert clay claystone clastic rock dacite diabase diorite drift diatomite evaporite iron formation gabbro glauconite gneiss 
+gns grd grnl gvl gyk gyp hnf ignm intr 
+lat los mbl mbnt mck meet mgm mgyk mig mrl msed mst mvql 
+greenstone granite granodiorite granulite gravel graywacke gypsum hornfels igneous rock ignimbrite intrusive rock latite loess lava marble metabentonite muck mud metamorphic rock migmatite metagraywacke metaigneous rock marl mudstone metasedim 
+rock metasiitstone metavolcanic rock 
+nvc db oql pcl phl ph pmc pqr qzd qzm rdbd rhy sch sed srp syn trc ultm vol vsed 
+novaculi obsid ian pyroclastics phi phosphate pumice porphyry quartz quartz diorite quartz monzonite redbed rhyoli schist sand sedimentary rock slate serpent ini silt syeni tuff till trachyte ultramafic rock volcanic rock volcanic sed 
+geologic province 
+the digit geologic province code devise aapg committee statistic drill use 
+new england province adirondack uplift atlantic coast basin south georgia north florida sedimentary province south florida province piedmont blue ridge province appalachian basin warrior basin mid gulf coast basin gulf coast basin ark basin 
+desha basin upper mississippi embayment e60 east texas basin cincinnati arch michigan basin wisconsin arch illinois basin sioux uplift iowa shelf lincoln anticline forest city basin ozark uplift arkoma basin south oklahoma fold belt province chautauqua platform anadarko basin cherokee basin nemaha anticline sedgwick basin salina basin central kansa uplift chadron arch williston basin ouachita tectonic belt province kerr basin llano uplift strawn basin fort worth syncline bend arch permian basin palo duro basin amarillo arch sierra grand uplift la 
+animas arch la vega raton basin estancia basin orogrande basin pedregosa basin basin range province sweetgrass arch montana fold belt province central montana uplift powder river basin big horn basin yellowstone province wind river basin green river basin denver basin north park basin south park basin eagle basin san luis basin san juan mountain province uinta uplift 
+uinta basin san juan basin paradox basin black mesa basin 
+piceance basin northern cascade range okanagan province eastern columbia basin idaho mountains province snake river basin southern oregon basin great basin province wasatch uplift plateau sedimentary province mojave basin salton basin sierra nevada province bellingham basin puget sound province western columbia basin klamath mountain province eel river basin northern coast range province sacramento basin santa cruz basin coastal basins san joaquin basin santa maria basin ventura basin los angel basin capistrano basin heceta island area keku islands area gulf alaska basin copper river basin cook inlet basin kandik province kobuk province koyukuk province bristol bay basin aleutian islands bethel basin norton basin selawik basin yukon flat basin low tanana basin middle tanana basin upper tanana basin galena basin innoko basin minchumina basin holitna basin arctic foothill province arctic slope basin 
+thickness type section meter round second significant figure show 
+where information unavailable maximum thickness give know 
+type locality 
+one nine part state type section locality area unit locate 
+each state divide nine part designate uic sui divide maximum latitudinal longitudinal dimension three 
+canada mexico designate can and mex 
+the letter refer volume lexicon geologic name name first descr ibed 
+ulilmarth lexicon geologic name 
+united state geol 
+survey bull 
+wilson druid other geologic name north 
+america introduce geol 
+survey bull 
+keroher other lexicon geologic name 
+united state geol 
+keroher lexicon geologic name 
+united state geol 
+survey bull 
+luttrell hubert wright jussen 
+swanson lexicon geologic name 
+united state geol 
+luttrell hubert jussen 
+lexicon new formal geologic name united state 
+survey bull 
+luttrell hubert murdock press 
+lexicon new formal geologic name united state 
+survey bull 
+geologic name introduce 
+publication available 
+unique identifier 
+unique identifier consist four letter mnemonic plus two digit number assign record 
+use recalling record update sort 
+the mnemonic derive geographic part name use method devise aapg committee standard stratigraphic coding 
+english article preposition delete first foreign language retain 
+the first letter remain word retain 
+name begin van treat two word 
+letter delete right left follow order four remain one double 
+all record name mnemonic different number 
+data retrieval 
+geqnames available ibm compatible diskette open file service 
+the file first sort state download onto diskette one generally contain data two adjacent state 
+user may purchase one diskettes combine state use individually depend upon specific need computer equipment 
+these state file load manipulate almost database management software 
+record load dbase instance use command append file name sdf 
+set field use follow parameter 
+field name 
+cstate3 cageh slash cname3 cuse3 clith3 cprov3 cthick3 ctyploc3 crefh cid3 
+c13 c623 c53 c63 c103 c73 
+the slash place separate field order simplify sort 
+geonames also available track magnetic tape ntis 
+unit entire nation list alphabetically tape 
+this medium may suitable user interested geologic name united state whole 
+follow breakdown diskette 
+show state number record approximate size file 
+asterisk indicate state include one geographic grouping 
+each diskette also contain document geointro user guide geqnames 
+chapter disk 
+state record kbytes 
+chapter disk 
+state record kbytes 

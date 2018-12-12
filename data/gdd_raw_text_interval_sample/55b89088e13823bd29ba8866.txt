@@ -1,0 +1,219 @@
+A U.S. GEOLOGICAL SURVEY DATA STANDARD
+Codes for the Identification of Aquifer Names and Geologic Units in the United States and the Caribbean Outlying Areas
+U.S. GEOLOGICAL SURVEY CIRCULAR 878-C
+
+This report describes one of a series of data standards adopted and implemented by the U.S. Geological Survey for the standardization of data elements and representations used in automated Earth-science systems. Earth sciences are those scientific disciplines especially required to carry out the mission of the Geological Survey and are concerned with the material and morphology of the Earth and the physical forces relating to the Earth. These disciplines include geology, topography, geography, and hydrology.
+The Geological Survey has assumed the leadership in developing and maintaining Earth-science data element and representation standards for use in the Federal establishment under the terms of a Memorandum of Understanding signed in February 1980 by the National Bureau of Standards, Department of Commerce, and the Geological Survey, Department of Interior. As such, in addition to developing and maintaining standards, the Geological Survey reviews and processes all requests referred by the National Bureau of Standards for exceptions, deferments, and revision of standards applicable to Federal Earth-science information systems; assists the National Bureau of Standards in assessing the need, impact, benefits, and problems related to the implementation of standards being considered for development, or developed, for use in the Earth sciences; and works with other agencies in developing new data standards in the Earth sciences.
+The standard described in this report has been specifically approved for use within the U.S. Geological Survey. If the standard has been approved for use throughout the Federal establishment, it is also published by the National Bureau of Standards as a Federal Information Processing Standard.
+Name of Standard: Codes for the Identification of Aquifer Names and Geologic Units in the United States and the Caribbean Outlying Areas.
+Date of Approval: March 1985 Maintenance Organization: U.S. Geological Survey
+Water Resources Division Office of the Assistant Chief Hydrologist
+for Scientific Information Management 440 National Center Reston, VA 22092
+Implementation: All Geological Survey data standards are effective immediately upon the date of approval. Their use is mandatory for all new and developing systems within the Geological Survey that utilize data elements and representations described by the standards. All existing data systems will be modified in accordance with the standards at such time that future redesign and modifications to the systems take place.
+Additional information about Geological Survey data standards and copies of published standards may be obtained from:
+Chairman, USGS Data Standards Committee U.S. Geological Survey National Mapping Division 519 National Center Reston, VA 22092 Telephone: (703) 648-4637
+FTS 959-4637
+
+A U.S. GEOLOGICAL SURVEY DATA STANDARD
+Codes for the Identification of Aquifer Names and Geologic Units in the United States and the Caribbean Outlying Areas
+U.S. GEOLOGICAL SURVEY CIRCULAR 878-C
+1988
+
+DEPARTMENT OF THE INTERIOR DONALD PAUL MODEL, Secretary
+U.S. GEOLOGICAL SURVEY Dallas L. Peck, Director
+
+Printed 1985 Revised 1988
+
+Library of Congress Cataloging in Publication Data
+Geological Survey (U.S.) Codes for the identification of aquifer names and geologic units in the United States and the Caribbean outlying areas.
+(Geological Survey circular ; 878-C) At head of title: A U.S. Geological Survey data standard.
+
+Supt. of Docs, no.: I 19.4/2:878-C
+
+1. Aquifers United States Abbreviations. 2. Aquifers Caribbean Area Abbreviations. 3. Geology, Stratig-
+
+raphic Abbreviations. 4. Geology United States Abbreviations. 5. Geology Caribbean Area Ab-
+
+breviations. I. Title. II. Series.
+
+GB1199.2.G46 1985 551.49
+
+85-600132
+
+Free on application to the Books and Open-File Reports Section, U.S. Geological Survey, Federal Center, Box 25425, Denver, CO 80225
+
+CONTENTS Page
+Abstract......................................................... C1 Acknowledgments.................................................. C1 1. Purpose and Scope................................................ C2 2. Specifications for the codes..................................... C2 2.1 Purpose and source of the codes............................. C2 2.2 Description of the codes.................................... C2 2.3 Development of the codes.................................... C2 2.3-1 Development of the first part of the code................. C2 2.3.2 Development of the second part of the code................ C2 2.3.3 Development of the third part of the code................. C6 2.4 Examples of the codes....................................... C6 2.5 Qualifications of the codes................................. C6 3. Availability of the codes........................................ C8
+TABLES Table 1. Numeric codes for geologic time-stratigraphic
+identification............................................. C3 2. Order of letter elimination.................................. C5
+ILLUSTRATION Figure 1. Example of aquifer names and geologic unit codes............ C7
+III
+
+Abstract This standard provides codes to be used for the identification of aquifer names and geologic units in the United States, the Caribbean and other outlying areas. Outlying areas include Puerto Rico, the Virgin Islands, American Samoa, the Midway Islands, Trust Territories of the Pacific Islands, and miscellaneous Pacific Islands. Each code identifies an aquifer or rockstratigraphic unit and its age designation. The codes provide a standardized base for use by organizations in the storage, retrieval, and exchange of ground-water data; the indexing and inventory of ground-water data and information; the cataloging of ground-water data aquisition activities; and a variety of other applications.
+Acknowledgments Acknowledgment is given to the following personnel of the U.S. Geological Survey who served on a technical working group which had the responsibility for the technical review and validation of this standard:
+Claire B. Davidson, Water Resources Division Robert L. Laney, Water Resources Division Gwendolyn W. Luttrell, Geologic Division David V. Maddy, Water Resources Division Charles 0. Morgan, Water Resources Division Owen 0. Williams, Water Resources Division
+Cl
+
+1. Purpose and Scope
+This standard provides codes used for the identification of aquifer names and geologic units in the United States, the Caribbean and other outlying areas. Outlying areas include Puerto Rico, the Virgin Islands, American Samoa, the Midway Islands, Trust Territories of the Pacific Islands, and miscellaneous Pacific Islands. Each code identifies an aquifer or rock-stratigraphic unit and its age designation. The codes provide a standardized base for use by organizations in the storage, retrieval and exchange of ground-water data; the indexing and inventory of ground-water data and information; the cataloging of ground-water data acquisition activities; and a variety of other applications.
+The codes apply to all areas of the United States and the Caribbean outlying areas including Puerto Rico and the Virgin Islands. Codes have also been developed for use in American Samoa, the Midway Islands, Trust Territories of the Pacific Islands, and miscellaneous Pacific Islands.
+2. Specifications for the Codes
+2.1 Purpose and Source of the Codes. The codes were developed for use in the U.S. Geological Survey's National Water Data and Storage System (WATSTORE) that was established in 1971. The coding procedures are based on the rock-stratigraphic coding system proposed by the American Association of Petroleum Geologists and published in its October 1967 bulletin. The code identifies the aquifer or rock-stratigraphic unit and its age designation.
+2.2 Description of the Codes. The codes are alphanumeric, a maximum eight characters in length, and consist of three parts. The first part contains three numeric characters that identify the erathem, system, and series (time-stratigraphic units) of the rock unit. The second part contains up to four alphabetic characters for the name of the rock-stratigraphic unit. A mnemonic code is developed by the selection of letters from the name. Rules for this procedure are given below. The third part of the code is a single character in position eight and denotes a qualifying term for parts of the rock unit such as upper, middle, lower, or basal part. The third part may not always exist.
+2.3 Development of the Codes. The following sections describe the rules to be used in the development of the codes.
+2.3.1 Development of the First Part of the Code. Table 1 lists the numeric codes that may be used for the first part. If a rock unit extends across more than one time-stratigraphic unit, the numeric code for the youngest unit is selected.
+2.3*2 Development of the Second Part of the Code. The rules used for the second part of the code are:
+(1) The second part of the code is developed by eliminating letters from the orginal name until no more than four letters remain. Prior to eliminating letters, the following should be dropped from the rock-stratigraphic name.
+C2
+
+Table 1. Numeric Codes For Geologic Time-Stratigraphlc Identification
+
+Code Code
+
+Unknown Age....................000
+Cenozoic....................... 100 Quaternary................... 110 Holocene................... 111 Pleistocene................ 112
+Tertiary....................... 120 Pliocene.....................121 Miocene...................... 122 Oligocene.................... 123 Eocene....................... 124 Paleocene.................... 125
+Mesozoic.......................200 Cretaceous...................210 Upper......................211 Gulfian..................212 Lower......................217 Comanchean...............218 Coahuilan................219 Jurassic.....................220 Upper......................221 Middle.....................22*1 Lower...................... 227 Triassic.....................230 Upper......................231 Middle.....................234 Lower......................237
+Paleozoic...................... 300 Permian...................... 310 Upper......................311 Ochoan...................312 Guadalupian..............313 Lower......................317 Leonardian...............318 Wolfcampian..............319 Pennsylvanian................320 Upper......................321 Virgilian................322 Missourian...............323 Middle.....................324 Desmoinesian............. 325 Atokan...................326 Lower......................327 Morrowan.................328
+
+Mississippian....................330 Upper..........................331 Chesterian................... 332 Meramecian...................333 Lower.......................... 337 Osagean...................... 338 Kinderhookian................339
+Devonian......................... 340 Upper..........................341 Middle.........................344 Lower.......................... 347
+Silurian.........................350 Upper..........................351 Cayugan...................... 352 Middle.........................354 Niagaran.....................355 Lower.......................... 357 Alexandrian.................. 358
+Ordovician....................... 360 Upper.......................... 361 Cincinnatian.................362 Middle.........................364 Champlainian.................365 Lower..........................367 Canadian.....................368
+Cambrian.........................370 Upper..........................371 St. Croixan..................372 Middle.........................374 Lower..........................377
+Precambrian (informal time term).400 Proterozoic (formal time term)...401
+Late...........................410 Middle......................... 420 Early..........................430 Archean (formal time term).......404 Late...........................440 Middle.........................450 Early..........................460 Pre-Archean (informal time term).407
+
+C3
+
+A. The rank off the unit; such as group, formation, member. B. Any lithologic descriptors; such as, sandstone, shale, or
+limestone. C. Insignificant words; such as, the, on, a, an. D. Qualifying terms such as upper, middle, or lower. These
+terms are used in the development of the third part of the code (see below).
+
+(2) Rock names such as McGregor, St. Lawrence, Van Alien are to be considered as two words. Abbreviations, such as "St. 11 , are to be retained and not written out.
+
+(3) Replace all non-alphabetic characters with blanks, except in the infrequent case of aquifers or other rock units named by their depth of
+occurrence at some geographic locality, such as the "500-foot sand of the Memphis area."
+
+A. If no depth of occurrence is indicated, a mnemonic code of up to four alphabetic characters is generated from the name to form the second part of the data code.
+
+B. If depth of occurrence is included with the name, the first two characters of the second part are numeric and represent the depth, while a two-character mnemonic is generated from the alphabetic portion of the name to form the last two characters of the second part. To obtain the numeric representation, form the depth value into a four-digit numeric by adding leading zeros if necessary, and then select the two leftmost digits. For example:
+
+500-foot of the Memphis area 2000-foot sand of the Baton Rouge area
+
+05MP 20BR
+
+(4) Deletion of letters and double letter elimination proceed in the sequence of steps given in table 2. For double letter elimination (step 9 of table 2), one letter of each double letter is deleted. For elimination of each individual letter
+(other steps of table 2), deletion proceeds from right to left; each occurrence is deleted except for the first letter of a word.
+
+(5) Deletion is continued until the mnemonic is reduced to at least four characters, or two characters if the depth of occurrence is included.
+
+(6) In the rare instances where the mnemonic reduces to a first letter and two sets of double letters (as FTTRR) eliminate the first letter on the right without regard for the letter sequence shown in table 2.
+
+(7) If the original word is smaller than four characters and the depth of occurrence is not indicated, the word is entered in the data field left justified. Do not add any characters to fill up the data field. Leave unused spaces blank.
+
+C4
+
+Table 2. Order of Letter Elimination
+
+1. A
+
+10. T
+
+2. E
+
+11. N
+
+3. I
+
+12. S
+
+4. 0
+
+13. R
+
+5. U
+
+14. L
+
+6. W
+
+15. D
+
+7. H
+
+16. C
+
+8. Y
+
+17. M
+
+9. Double Letters (delete one)
+
+18. F
+
+19. G 20. P 21. K 22. B 23. V 24. X 25. J 26. Q 27. Z
+
+C5
+
+(8) If duplicate codes appear, some alteration of the code will be made by the U.S. Geological Survey. This must be done to insure system-wide uniqueness. The rule to be followed with formal names will be to retain the correct mnemonic code with the name which has priority in time. The second name will be coded retaining the first vowel. If more than two names reduce to the same mnemonic, it may be necessary to make some arbitrary code adjustment for the third and any subsequent names. These same rules will be used, where possible with informal names.
+2.3*3 Development of the Third Part of the Code. Position eight of the code may be used for modifiers and qualifying terms of the rock-stratigraphic unit. If the word to be coded in position eight is upper, middle, or lower, use the letters U, M, or L, respectively, for the code. If any other word is to be coded in position eight and the first letter is U. M, or L, use the last letter that remains after following the elimination procedure of table 2, other than U, M, or L.
+2.4 Examples of the Codes. Figure 1 contains a sample list from the assigned codes for aquifer names or rock stratigraphic units within one State.
+2.5 Qualifications of the Codes. Requests for changes or additions to this standard may be made by U.S. Geological Survey employees and must be forwarded to the Assistant Chief Hydrologist for Scientific Information Management, Water Resources Division, U.S. Geological Survey, 440 National Center, Reston, Virginia 22092, who will verify the acceptability of requests with the Water Resources Division's representative on the Geologic Names Committee. A copy of each request should also be forwarded to the Chairman, Data Standards Committee, U.S. Geological Survey, 115 National Center, Reston, Virginia 22092. When requesting new codes, the following information must be provided:
+1. States(s) in which the name of the unit is to be used.
+2. Name of the unit for which a code is being requested. If the unit is a member of a formation, include the formation name also.
+3. Geologic age of the unit; if more than one age is represented, provide a Isit of all ages involved.
+When requesting changes to existing codes, the following information must be provided:
+1. The listing of the code and aquifer name exactly as it appears in the standard's list of codes and names.
+2. The corrections) to be made.
+3. The reason for the change and verification that the requested change is acceptable to any other States that may be affected.
+C6
+
+INDIANA
+
+CENOZOIC
+
+CENOZOIC ERATHEM................................................. 100CNZC
+
+QUATERNARY
+
+DUNE DEPOSIT..................................................... QUATERNARY SYSTEM................................................ TERRACE DEPOSITS................................................. VALLEY TRAIN DEPOSITS............................................
+
+11ODUNE 110QRNR 110TRRC 110VLTR
+
+HOLOCENE
+
+ALLUVIUM......................................................... 111ALVM COLLUVIUM........................................................ 111CLVM HOLOCENE SERIES.................................................. 111HLCN
+
+PLEISTOCENE
+
+ICE CONTACT DEPOSITS............................................. LAKE DEPOSITS.................................................... LAFAYETTE GRAVEL................................................. LOESS............................................................ OUTWASH.......................................................... PLEISTOCENE SERIES............................................... TILL.............................................................
+
+112ICCC 112LAKE 112LFTT 112LOSS 1120TWS 112PLSC 112TILL
+
+TERTIARY
+
+OHIO RIVER FORMATION............................................. 1200RVR TERTIARY SYSTEM.................................................. 120TRTR
+
+PALEOZOIC
+
+PALEOZOIC ERATHEM................................................ 300PLZC
+
+PENNSYLVANIAN
+
+PENNSYLVANIAN SYSTEM............................................. 320PSLV
+
+UPPER PENNSYLVANIAN
+
+BOND FORMATION................................................... MCLEANSBORO GROUP................................................ MATTOON FORMATION................................................ UPPER PENNSYLVANIAN SERIES....................................... PATOKA FORMATION................................................. SHELBURN FORMATION...............................................
+
+321BOND 321MCLB 321MTTN 321PSLVU 321PTOK 321SLBR
+
+Figure 1. Example of aquifer names and geologic unit codes
+
+C7
+
+3. Availability of the Codes The list of codes for the identification of aquifer names and geologic units is dynamic in that codes are frequently added or changed as new information becomes available. A current list of codes assigned to the standard may be obtained by written request to the National Water Data Exchange, U.S. Geological Survey, M21 National Center, Reston, Virginia 22092.
+C3
+
+

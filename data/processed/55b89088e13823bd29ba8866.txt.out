@@ -1,0 +1,132 @@
+geological survey data standard code identification aquifer name geologic unit unite state caribbean outlying area geological survey circular 
+this report describe one series data standard adopt implemented geological survey standardization data element representation use automate earth science system 
+earth science scientific discipline especially required carry mission geological survey concern material morphology earth physical force relate earth 
+these discipline include geology topography geography hydrology 
+the geological survey assume leadership develop maintain earth science data element representation standard use federal establishment term memorandum understand sign february national bureau standard department commerce geological survey department interior 
+addition develop maintaining standard geological survey review process request refer national bureau standard exception deferment revision standard applicable federal earth science information system assist national bureau standard assess need impact benefit problem related implementation standard consider development develop use earth science work agency develop new data standard earth science 
+the standard described report specifically approve use within geological survey 
+standard approve use throughout federal establishment also publish national bureau standard federal information process standard 
+name standard code identification aquifer name geologic unit unite state caribbean outlying area 
+date approval march maintenance organization geological survey water resource division office assistant chief hydrologist scientific information management national center reston implementation all geological survey data standard effective immediately upon date approval 
+their use mandatory new develop system within geological survey utilize data element representation describe standard 
+all exist data system modify accordance standard time future redesign modification system take place 
+additional information geological survey data standard copy publish standard may obtain chairman usgs data standard committee geological survey national mapping division national center reston telephone ft 
+geological survey data standard code identification aquifer name geologic unit unite state caribbean outlying area geological survey circular 
+department the interior donald paul model secretary geological survey dallas peck director 
+print revise 
+library congress catalog publication data geological survey cod identification aquifer name geologic unit unite state caribbean outlying area 
+geological survey circular head title geological survey data standard 
+aquifer united state abbreviation 
+aquifer caribbean area abbreviation 
+geology stratig 
+raphic abbreviation 
+geology united state abbreviation 
+geology caribbean area 
+gb1199 g46 
+free application book open file report section geological survey federal center box denver 
+content page abstract acknowledgment 
+purpose scope 
+specification code purpose source code description code development code development first part code development second part code development third part code examples code qualification code 
+availability code table table 
+numeric code geologic time stratigraphic identification 
+order letter elimination illustration figure 
+example aquifer name geologic unit code iii 
+abstract this standard provide code use identification aquifer name geologic unit unite state caribbean outlying area 
+outlying area include puerto rico virgin island american samoa midway islands trust territory pacific islands miscellaneous pacific island 
+each code identifies aquifer rockstratigraphic unit age designation 
+the code provide standardized base use organization storage retrieval exchange ground water data index inventory ground water data information catalog ground water data aquisition activity variety application 
+acknowledgment acknowledgment give follow personnel geological survey serve technical work group responsibility technical review validation standard claire davidson water resource division robert laney water resource division gwendolyn luttrell geologic division david maddy water resource division charles 
+morgan water resource division owen 
+williams water resource division 
+purpose scope this standard provide code use identification aquifer name geologic unit unite state caribbean outlying area 
+outlying area include puerto rico virgin island american samoa midway islands trust territory pacific islands miscellaneous pacific island 
+each code identifies aquifer rock stratigraphic unit age designation 
+the code provide standardized base use organization storage retrieval exchange ground water data index inventory ground water data information catalog ground water data acquisition activity variety application 
+the code apply area united state caribbean outlying area include puerto rico virgin island 
+code also develop use american samoa midway islands trust territory pacific islands miscellaneous pacific island 
+specification code purpose source code 
+the code develop use geological survey national water data storage system watstore establish 
+the coding procedure base rock stratigraphic cod system propose american association petroleum geologist publish october bulletin 
+the code identifies aquifer rock stratigraphic unit age designation 
+description code 
+the code alphanumeric maximum eight character length consist three part 
+the first part contain three numeric character identify erathem system series time stratigraphic unit rock unit 
+the second part contain four alphabetic character name rock stratigraphic unit 
+mnemonic code develop selection letter name 
+rule procedure give 
+the third part code single character position eight denotes qualify term part rock unit upper middle lower basal part 
+the third part may always exist 
+development code 
+the following section describe rule use development code 
+development first part code 
+table list numeric code may use first part 
+rock unit extend across one time stratigraphic unit numeric code young unit select 
+development second part code 
+the rule use second part code the second part code develop eliminate letter orginal name four letter remain 
+prior eliminate letter follow drop rock stratigraphic name 
+numeric code for geologic time stratigraphlc identification 
+code code 
+unknown age cenozoic quaternary holocene pleistocene tertiary pliocene miocene oligocene eocene paleocene mesozoic cretaceous upper gulfian lower comanchean coahuilan jurassic upper middle lower triassic upper middle lower paleozoic permian upper ochoan guadalupian low leonardian wolfcampian pennsylvanian upper virgilian missourian middle desmoinesian atokan lower morrowan 
+mississippian upper chesterian meramecian lower osagean kinderhookian devonian upper middle lower silurian upper cayugan middle niagaran lower alexandrian ordovician upper cincinnatian middle champlainian low canadian cambrian upper croixan middle low precambrian informal time term proterozoic formal time term late middle early archean formal time term late middle early pre archean informal time term 
+the rank unit group formation member 
+any lithologic descriptor sandstone shale limestone 
+insignificant word 
+qualify term upper middle lower 
+these term use development third part code see 
+rock name mcgregor lawrence van alien consider two word 
+abbreviation retain write 
+replace non alphabetic character blank except infrequent case aquifer rock unit name depth occurrence geographic locality foot sand memphis area 
+depth occurrence indicate mnemonic code four alphabetic character generate name form second part data code 
+depth occurrence include name first two character second part numeric represent depth two character mnemonic generate alphabetic portion name form last two character second part 
+obtain numeric representation form depth value four digit numeric add lead zero necessary select two leftmost digit 
+for example 
+foot memphis area foot sand baton rouge area 
+05mp 20br 
+deletion letter double letter elimination proceed sequence step give table 
+for double letter elimination step table one letter double letter delete 
+for elimination individual letter step table deletion proceeds right leave occurrence delete except first letter word 
+deletion continue mnemonic reduce least four character two character depth occurrence include 
+rare instance mnemonic reduces first letter two set double letter fttrr eliminate first letter right without regard letter sequence show table 
+original word small four character depth occurrence indicate word enter data field leave justified 
+add character fill data field 
+leave unused space blank 
+order letter elimination 
+double letter delete one 
+duplicate code appear alteration code make geological survey 
+this must do insure system wide uniqueness 
+the rule follow formal name retain correct mnemonic code name priority time 
+the second name cod retain first vowel 
+two name reduce mnemonic may necessary make arbitrary code adjustment third subsequent name 
+these rule use possible informal name 
+development third part code 
+position eight code may use modifier qualify term rock stratigraphic unit 
+word cod position eight upper middle lower use letter respectively code 
+word cod position eight first letter use last letter remain follow elimination procedure table example code 
+figure contain sample list assign code aquifer name rock stratigraphic unit within one state 
+qualification code 
+request change addition standard may make geological survey employee must forward assistant chief hydrologist scientific information management water resource division geological survey national center reston virginia verify acceptability request water resource division representative geologic name committee 
+copy request also forward chairman data standard committee geological survey national center reston virginia 
+when request new code follow information must provide 
+state name unit use 
+name unit code request 
+unit member formation include formation name also 
+geologic age unit one age represent provide isit age involve 
+when request change exist code follow information must provide 
+the listing code aquifer name exactly appear standard list code name 
+the correction make 
+the reason change verification request change acceptable state may affect 
+cenozoic erathem 100cnzc 
+dune deposit quaternary system terrace deposit valley train deposit 
+11odune 110qrnr 110trrc 110vltr 
+alluvium 111alvm colluvium 111clvm holocene series 111hlcn 
+ice contact deposit lake deposit lafayette gravel loess outwash pleistocene series till 
+112iccc 112lake 112lftt 112loss 1120tws 112plsc 112till 
+ohio river formation 1200rvr tertiary system 120trtr 
+paleozoic erathem 300plzc 
+pennsylvanian system 320pslv 
+upper pennsylvanian 
+bond formation mcleansboro group mattoon formation upper pennsylvanian series patoka formation shelburn formation 
+321bond 321mclb 321mttn 321pslvu 321ptok 321slbr 
+example aquifer name geologic unit code 
+availability cod the list cod identification aquifer name geologic unit dynamic code frequently add change new information become available 
+current list code assign standard may obtain write request national water data exchange geological survey m21 national center reston virginia 

@@ -1,0 +1,1581 @@
+hydrology bedrock aquifers the north reat plain art ntjmi north dakota south dakota and wyoming geological survey professional paper 
+geohydrology bedrock aquifer northern great plain part montana north dakota south dakota wyoming joe downey regional aquifer system analysis geological survey professional paper government print office washington 
+department the interior donald paul hodel secretary geological survey dallas peck director library congress catalog publication data downey joe geohydrology bedrock aquifer northern great plain part montana north dakota south dakota wyoming 
+geological survey professional paper contribution regional aquifer system analysis program 
+bibliography supt 
+groundwater flow great plain data processing 
+groundwater flow great plain mathematical model 
+aquif er great plain 
+geology great plain 
+national aquifer system analysis program 
+gb1197 d69 for sale book open file report section geological survey federal center box denver 
+foreword the regional aquifer system analysis program the regional aquifer system analysis rasa program start congressional mandate develop quantitative appraisal major ground water system united state 
+the rasa program represent systematic effort study number nation important aquifer system aggregate underlie much country represent important component nation total water supply 
+general boundary study identify hydrologic extent system accordingly transcend political subdivision investigation often arbitrarily limit past 
+the broad objective study assemble geologic hydrologic geochemical information analyze develop understanding system develop predictive capability contribute effective management system 
+the use computer simulation important element rasa study develop understanding natural undisturbed hydrologic system change bring human activity provide mean predict regional effect future pumping stress 
+the final interpretive result rasa program present series geological survey professional paper describe geology hydrology geochemistry regional aquifer system 
+each study within rasa program assign single professional paper number volume interpretive material warrant separate topical chapter consider principal element investigation may publish 
+the series rasa interpretive report begin professional paper thereafter continue numerical sequence interpretive product subsequent study become available 
+dallas peck director iii 
+abstract digital simulation model e27 
+geographic setting 
+assumption limitation model analysis 
+previous work acknowledgment geologic set 
+model calibration boundary condition hydraulic head 
+precambrianrocks cambrian low ordovician rock ordovicianrocks silurian devonian rock mississippian rock pennsylvanian permian rock triassic rock jurassic rock 
+cambrian ordovician madison pennsylvanian aquifer low upper cretaceous aquifer transmissivity cambrian ordovician madison pennsylvanian aquifer low upper cretaceous aquifer vertical hydraulic conductivity storage coefficient 
+lower cretaceous rock discussion regional flow system basis model 
+upper cretaceous rock 
+tertiary rock summary 
+geologic structure glossary 
+hydrologic setting select reference 
+plate pocket 
+plate figure 
+generalize geologic correlation chart paleozoic rock northern great plain 
+generalize geologic correlation chart jurassic cretaceous mesozoic tertiary rock northern great plain 
+map show hydrologic flow system paleozoic mesozoic aquifer northern great plain 
+map show location study area fort union coal region geological survey test well 
+map show present day structural physiographic feature northern great plain 
+diagrammatic cross section ground water recharge area discharge area show relation aquifer confine layer northern great plain montana north dakota 
+map show 
+thickness extent cambrian low ordovician rock 
+thickness lithology deadwood emerson formation late cambrian early ordovician age 
+thickness extent ordovician rock 
+thickness lithology red river formation late ordovician age 
+thickness lithology interlake formation late ordovician silurian age 
+thickness devonian rock 
+location extent bakken formation late devonian early mississippian age 
+thickness lithology madison limestone mississippian age 
+photograph show solution feature marine limestone 
+regional aquifer system analysis 
+map show 
+thickness lithology big snowy group late mississippian age e15 
+thickness lithology pennsylvanian permian rock 
+thickness lithology triassic rock 
+thickness extent jurassic rock 
+thickness extent lower cretaceous rock 
+thickness cretaceous sedimentary deposit top newcastle sandstone top pierre shale 
+major paleozoic structural feature 
+linear trend sedimentary deposit madison aquifer 
+lineament pattern northern great plain landsat imagery 
+subsurface paleolineament zone jurassic cretaceous age 
+chart show pleistocene glaciation interglaciations 
+map show extent laurentide wisconsin ice northern great plain 
+finite difference grid digital simulation hydrologic system 
+map show 
+constant head node use model simulation cambrian ordovician aquifer 
+constant head node use model simulation madison aquifer 
+constant head node use model simulation pennsylvanian aquifer 
+constant head node use model simulation lower cretaceous aquifer 
+constant head node use model simulation upper cretaceous aquifer 
+potentiometric surface cambrian ordovician aquifer 
+potentiometric surface madison aquifer 
+potentiometric surface pennsylvanian aquifer 
+concentration dissolve solid water cambrian ordovician aquifer 
+concentration dissolve solid water silurian devonian formation 
+concentration dissolve solid water madison aquifer 
+concentration dissolve solid water pennsylvanian aquifer 
+concentration dissolve solid water triassic jurassic formation 
+concentration dissolve solid water lower cretaceous aquifer 
+potentiometric surface lower cretaceous aquifer 
+potentiometric surface upper cretaceous aquifer 
+simulate potentiometric surface cambrian ordovician aquifer 
+simulate potentiometric surface madison aquifer 
+simulate potentiometric surface pennsylvanian aquifer 
+simulate potentiometric surface lower cretaceous aquifer 
+transmissivity distribution use cambrian ordovician aquifer simulation 
+transmissivity distribution use madison aquifer simulation 
+transmissivity distribution use pennsylvanian aquifer simulation 
+graph show relation viscosity water temperature 
+map show 
+water temperature cambrian ordovician aquifer 
+water temperature madison aquifer 
+water temperature lower cretaceous aquifer 
+water temperature upper cretaceous aquifer 
+porosity distribution cambrian ordovician aquifer 
+porosity distribution madison aquifer 
+transmissivity distribution use lower cretaceous aquifer simulation 
+transmissivity distribution use upper cretaceous aquifer simulation 
+vertical hydraulic conductivity confine layer tk1 use aquifer simulation 
+vertical hydraulic conductivity confine layer tk2 use aquifer simulation 
+vertical hydraulic conductivity confine layer tk3 use aquifer simulation 
+vertical hydraulic conductivity confine layer tk4 use aquifer simulation 
+generalize hydrogeologic cross section show characteristic ground water recharge flow leakage discharge northern great plain 
+map show rate movement water cambrian ordovician aquifer 
+map show rate movement water madison aquifer 
+diagrammatic cross section show general location brine williston basin northern great plain 
+generalize hydrogeologic cross section across eastern walsh county 
+dak show discharge area cambrianordovician aquifer 
+generalize hydrogeologic cross section show ground water discharge paleozoic mesozoic rock 
+map show 
+area infer leakage paleozoic mesozoic aquifer 
+distribution chemical facies water cambrian ordovician aquifer 
+geohydrology bedrock aquifers the northern great plain 
+distribution chemical facies water madison aquifer e78 
+distribution chemical facies water pennsylvanian aquifer 
+distribution chemical facies water lower cretaceous aquifer 
+adjustment transmissivity base water temperature aquifer e56 
+transmissivity adjustment factor base thickness rock porosity great percent 
+metric conversion table 
+inch pound unit report may convert international system unit use follow conversion factor 
+multiply inch pound unit acre foot acre cubic foot per second ft3 cubic mile mi3 foot foot per second square foot per day ft2 square foot per second ft2 inch 
+mile pound per square inch in2 square mile mi2 degrees fahrenheit million gallon per year mgal 
+obtain unit cubic meter cubic meter per second cubic kilometer km3 meter centimeter meter per second square meter per day square meter per second centimeter millimeter kilometer kilograms per square centimeter cm2 square kilometer km2 degree celsius cubic meter per annum 
+regional aquifer system analysis geohydrology bedrock aquifers the northern great plain part montana north dakota south dakota and wyoming 
+joe downey 
+abstract development energy related resource northern great plain united state area include northeastern wyoming eastern montana north dakota south dakota require large quantity ground water 
+because montana north dakota south dakota wyoming semiarid primary local source nonappropriated water deep bedrock aquifer paleozoic mesozoic age 
+because need understand hydrologic system bedrock aquifer geological survey undertook year interdisciplinary study culminate digital simulation model regional flow system incorporate result geochemical hydrologic geologic study 
+rock paleozoic mesozoic age underlie entire northern great plain 
+these rock form least five artesian aquifer recharge mountainous area montana south dakota wyoming 
+the aquifer extend discharge area northeastern part north dakota canadian province manitoba 
+general direction flow aquifer east northeast flow deflect north south around williston basin 
+flow williston basin restrict brine halite bed geologic structure decrease permeability rock deep part basin 
+fracture system lineament transverse entire area act either conduits barrier grind water flow depend hydrogeologic geochemical history 
+vertical leakage aquifer restrict shale low permeability halite bed stratigraphic trap low permeability zone associate petroleum accumulation 
+however interaquifer leakage appear occur along major lineament fracture 
+interaquifer leakage may major consideration determine quality water produce well 
+introduction the northern great plain ngp physiographic province include area mi2 northcentral part unite state 
+the area bound west middle northern rocky mountain east central lowland province 
+the ngp physiographic province extend canada north general however study limited area south united state canadian border fig 
+this study also 
+cluded part central lowland province eastern north dakota south dakota 
+general study area characterize broad flat gently roll plain underlie sandstone shale dissect stream cross plain 
+site stream deeply cut soft rock relief may reach several hundred foot 
+the broad flat expanse plain interrupted black hill south dakota rocky mountain fig 
+these highland area site major recharge ngp aquifer 
+development energy related resource power generation industrial development increase irrigation increase water supply domestic municipal use ngp area dependent availability water resource 
+streamflow historically satisfied many water need however surface water appropriate fully much area also undepend able supply flow extremely variable 
+long term large scale water need require development productive bedrock aquifer little use past 
+without knowledge hydrologic characteristic ground water system response withdrawal large sustained yield ground water cannot produce efficiently sound management plan cannot formulate 
+proper development use conservation groundwater resource achieve understanding regional geologic framework pi 
+effect response hydrologic system climate water supply development 
+within limit time personnel available data objective northern great plain aquifer project follow define regional geologic framework control ground water flow define chemical characteristic water aquifer 
+regional aquifer system analysis 
+define ground water flow pattern determine area suitable development opti mum well yield 
+accomplish objective study stratigraphy mineralogy hydrology geophysics sedimentary structural control govern permeability distribution hydrologic property aquifer conduct regional basis 
+this report one several result study report cover geohydrologic aspect rock unit precambrian basement land surface 
+some interpretation report depend heavily information obtain study madison aquifer 
+brown other maccary gush brown downey 
+geographic set this study encompass part ngp central lowland physiographic province united state include northeastern wyoming eastern montana north dakota south dakota fig 
+major physiographic feature western part study area include bighorn mountain laramie mountain hartville uplift 
+kilometer explanation approximate boundary study area 
+fort union coal region 
+geological surveytest well penetrate the pierre shale geological survey test well penetrate the madison aquifer 
+location study area fort union coal region geological survey test well 
+geohydrology bedrock aquifers the northern great plain 
+big snowy mountains black hill uplift 
+east study area characterize nearly flat area contains broad flat lake plain form glacial lake agassiz northeastern part north dakota 
+glacial lake agassiz cover area mi2 late pleistocene canadian province ontario manitoba saskatchewan minnesota north dakota northeastern part south dakota elson 
+however phase lake agassiz surface area probably exceed mi2 
+the ngp regional aquifer study area locate interior north american continent location major effect prevail climate 
+the climate classify middle latitude steppe occupy transitional zone arid land west humid climate east 
+general winter study area cold snowy occasional blizzard 
+summer warm day cool night isolate thunderstorm occur late afternoon evening 
+the major weather system cross area however bring variety weather season 
+precipitation form rain snow occur throughout area least precipitation interior area great precipitation mountainous highland area west 
+the major river drain area include yellowstone missouri north platte red river north tributary 
+the red river north forms eastern boundary study area 
+swenson other hopkins miller strausz 1980a busby lee hanshaw 
+historically geologic environment project area stable shelf margin throughout paleozoic time 
+most author agree period transgression regression occur sea advance west east response mountain building activity antler orogeny west sandberg sandberg pool 
+the style structural deformation explain term horizontal compression sale stone vertical tectonics stern sacrison hanson wrench fault tectonics brown 
+although mechanic deformation little effect exist hydrologic system geologists generally agree present day structure control preexisting structural grain precambrian basement modify laramide orogeny 
+several author include sandberg maughan miller sando other rise slack suggested paleostructure various part study area pronounce effect thickness environment deposition sediment 
+knowledge sediment thickness important estimate various hydrologic parameter aquifer unit location test hole absent 
+previous work abundant mineral resource include petroleum natural gas uranium coal lie within project area 
+economic interest prompt many report geologic structure stratigraphy miner economic geology area 
+important publication regional geologic structure subsurface surface stratigraphy project area surround region include thorn nordquist agatston andrichuck sonnenberg peterson sandberg hammond sandberg irwin keefer van lieu maughan jennings roehl sale stone keefer thomas sando mackenzie dutro rise sando other sando 1976a sandberg pool brown warner head kilty knottek brown other 
+the number regional subregional study hydrology geochemistry project area surround region limit 
+some important darton swenson downey wyoming state engineer office konikow miller 
+the ngp regional aquifer study conduct personnel geological survey central regional district office state montana north dakota south dakota wyoming 
+the author wish express appreciation spend many week month assemble data report base 
+the author also thank member many state agency contribute support cooperation 
+geologic set during paleozoic time study area part cordilleran platform 
+this broad flat area border west cordilleran miogeosyncline orient approximately north south idaho western montana 
+most detrital sediment synclinal trough come antler orogenic belt probably island arc system west intermittent tectonism part paleozoic time 
+the transcontinental arch southeast study area low lie sporadically contribute minor amount sediment ocean current spread thinly across platform 
+general cordilleran platform shallow water deposit shelf predominantly carbonate 
+regional aquifer system analysis crazy mountain 
+green ariver 
+rock basin 
+bow mt 
+wntai washakie 
+present day structural physiographic feature northern great plain include line section 
+modify peterson 
+evaporite sediment deposit paleozoic time 
+the black hill uplift fig 
+regionally significant tectonic element late cretaceous time agnew tychsen little effect sedimentation paleozoic time 
+during mississippian study area generally cover shallow warm sea probably less deep however small area seem characterize deep water sediment 
+the warm sea conducive prolific biologic productivity accumulation preservation 
+shoal reef common generally shallow water condition prevail study area 
+these shallow water area continually change shifted effect geologic force 
+many shallow sea area small reef associate addition many oolite crinoid bank shoal lagoon 
+lagoon evaporate basin gypsum halite precipitate become incorporated lime rich bottom sediment 
+gypsum could precipitate 
+lagoon environment receive influx sea water whereas evaporation seldom would proceed point halite precipitation 
+accumulation bed halite occur williston basin central montana trough evidence area restrict circulation great evaporation rate 
+during cretaceous time study area cover north south trend sea extend gulf mexico arctic ocean 
+source area west provide clastic sediment deposit cretaceous sea 
+the precambrian shield area northeast study area positive feature cretaceous provide sediment deposited eastern part cretaceous sea 
+the sioux uplift eastern south dakota provide sediment two major delta system prograde southeastern montana 
+the present day structure fig 
+northern great plain directly relate geologic history cordilleran platform part stable interior 
+geohydrology bedrock aquifers the northern great plain glacial material tertiary upper cretaceous cretaceous 
+lower cretaceous jurassic triassic pennsylvanian permian mississippian devonian silurian cambrian ordovician pennsylvanian permian precambrian mississippian pennsylvanian permian mississippian 
+line section figure 
+explanation aquifer layer confine layer 
+diagrammatic cross section ground water recharge area discharge area 
+cross section show relation aquifer confine layer northern great plain montana north dakota 
+north american continent 
+during geologic time many structural feature develop affected deposition various sedimentary unit 
+most structural feature exist today important determine hydrologic regime aquifer underlie northern great plain weimer other 
+precambrian rock 
+rock contain small amount water joint fracture 
+except along major fracture rock consider water bearing 
+along major fracture precambrian rock may yield water available leakage overlie sedimentary sequence 
+precambrian rock study area represent low boundary regional aquifer system 
+eastern part study area precambrian rock crop rock assume flow boundary aquifer system 
+crystalline rock precambrian age form basement ngp region 
+depth precambrian basement land surface range outcrop eastern part study area great center williston basin 
+precambrian rock also find central core many mountain range locate western part study area 
+regional basis little known hydrologic property precambrian rock 
+available data indicate 
+cambrian and low ordovician rock rock cambrian early ordovician age fig 
+northern great plain consist marine sandstone shale limestone represent shoreward facies transgress sea occupied area cambrian early ordovician time peterson 
+several formation middle cambrian early ordovician age 
+regional aquifer system analysis 
+flathead sandstone deadwood formation emerson formation fig 
+aquifer however great depth prevent use source water little hydrologic data concern aquifer available regional scale 
+most data exist well test associate development oil gas 
+subsurface deadwood emerson formation consist fine coarse grain quartz sandstone dolomitic cement interbedded dolomitic limestone shale steece 
+where expose black hill south dakota deadwood formation lithology however 
+section present 
+black hill deadwood lie unconformably precambrian schist quartzite 
+show figure deadwood formation absent extreme eastern north dakota except small area eastern discharge area thickness quartzose sandstone present ballard 
+both deadwood emerson formation overlie middle ordovician age winnipeg formation 
+area deadwood emerson formation hydrologic connection overlie ordovician unit formation include part cambrianordovician aquifer 
+mile kilometer explanation igneous intrusive rock tertiary age uplift area cambrian age old rock expose land surface line equal thickness interval foot figure 
+thickness extent cambrian low ordovician rock 
+modify peterson 
+geohydrology bedrock aquifers the northern great plain 
+ordovician rock rock ordovician age fig 
+northern great plain divide several format unit upper part deadwood emerson formation winnipeg red river stony mountain formation bighorn dolomite 
+subsurface study ordovician rock williston basin adjoin area include full carlson anderson patterson porter fuller carlson anderson ballard foster armstrong peterson 
+ordovician rock major petroleum reservoirs williston basin many exploratory well drill rock 
+ordovician rock present western montana southeastern wyoming extreme southwestern eastern south dakota southeastern north dakota nondeposition removal erosion devonian early mississippian time 
+thickness increase eastward northward outcrop central montana northeastern wyoming central part williston basin fig 
+the winnipeg formation stratigraphically equivalent peter sandstone occur midwestern 
+approximate limit cambrian low ordovician equivalent rock 
+igneous intrusive rock tertiary age 
+sandstone facies 
+uplift area cambrian age old rock expose land surface line equal thickness interval foot 
+green shale facies shale sandstone and minor tmfchdnf fap ifc 
+thickness lithology deadwood emerson formation late cambrian early ordovician age 
+modify peterson 
+regional aquifer system analysis 
+approximate limit ofj ordovician rock 
+kilometer explanation igneous intrusive rock tertiary age uplift area ordovician age old rock expose land surface line equal thickness interval foot figure 
+thickness extent ordovician rock 
+modify peterson 
+united state 
+western part study area winnipeg consist clean well sorted medium grain sandstone deeply bury peterson 
+where deeply buried unit less porous permeable silica cement compaction 
+eastern discharge area line section fig 
+winnipeg formation consist sequence shale sandstone shaly limestone range thickness armstrong 
+the sandstone consist fine fine round quartz grain interbedded siltstone shale 
+armstrong report dickey lamoure county 
+dak near eastern discharge area cambrian ordovician aquifer sand winnipeg formation include black 
+island aquifer hydraulic conductivity range 
+the red river formation fig 
+carbonate sequence overlies winnipeg formation extend outward past border williston basin fig 
+the red river formation thick central part williston basin 
+devonian erosion truncate red river eastern part study area along line extend central black hill southern bighorn mountain peterson 
+accord porter fuller red river formation center williston basin consist low unit fragmental limestone dolomite upper unit three evaporites fragmental limestone anhydrite 
+geohydrology bedrock aquifers the northern great plain 
+approximate limit red river formation 
+igneous intrusive rock tertiary age 
+limestone facies 
+uplift area ordovician age old rock expose land surface 
+2qo line equal thickness interval 2qq foot 
+dolomite facies 
+thickness lithology red river formation late ordovician age 
+modify peterson 
+the stony mountain formation upper ordovician unit study area conformably overlies red river compose carbonate shaly carbonate anhydrite bed gradational upward upper ordovician silurian interlake formation fig 
+the stony mountain include low shaly limestone shale interval call stoughton member carlson eastwood 
+the stoughton general confine interior williston basin truncate east south gradational upper part bighorn dolomite west peterson 
+both red river stony mountain formation truncate devonian erosion around periphery williston basin 
+the stony mountain erosion edge 
+closer basin center edge underlie red river formation 
+silurian and devonian rock rock silurian devonian age fig 
+overlie formation late ordovician age study area 
+silurian devonian unit consist mainly shaly carbonate shale evaporite include halite devonian age near center williston basin silurian devonian section total thickness great 
+the devonian age halite extend northward canada underlies 
+e10 regional aquifer system analysis 
+province alberta saskatchewan manitoba part northwest territory 
+the prairie salt one principal halites devonian age prairie formation study area contain many structural low along margin halite locally within halite area 
+these structural low attribute postdepositional solution halite result collapse overlie formation void create salt removal demille other grossman 
+because fine grained lithology presence evaporites silurian devonian unit formation consider confine bed underlie cambrian ordovician aquifer 
+mississippian rock rock mississippian age 
+overlie devonian rock 
+the mississippian rock divide several formation one stratigraphic group 
+the lowermost mississippian rock unit bakken formation fig 
+overlies upper devonian three fork formation part study area 
+the bakken consist black organic shale siltstone appear excellent confine bed present 
+the bakken consider source bed much petroleum find overlie formation 
+south dakota pierri approximate jimit interlake formation 
+igneous intrusive rock tertiary age uplift area ordovician age old rock expose land surface 
+limestone facies 
+dolomite facies line equal thickness interval foot 
+thickness lithology interlake formation late ordovician silurian age 
+from peterson 
+geohydrology bedrock aquifers the northern great plain 
+lie bakken sequence mississippian rock primarily limestone dolomite term madison limestone madison group divide 
+the madison limestone study area fig 
+consists sequence marine carbonate evaporite deposit mainly warm shallow water environment similar exists today near coast southern florida yucatan peninsula 
+deposit environment grade laterally vertically shallow marine carbonate evaporite facies deep water facies 
+the madison group old youngest divide consist lodgepole limestone mission canyon limestone charles formation stratigraphic equivalent part study area 
+the lodgepole limestone predominantly cyclic carbonate sequence consist largely fossiliferous micritic dolomite limestone study area smith 
+the unit range thickness average 
+the lodgepole overlies bakken formation williston basin central montana trough north central montana 
+the mission canyon limestone consist coarsely crystalline limestone base grade upward finer crystalline limestone evaporite mineral near top peterson 
+the formation contain one evaporite cycle share second evaporite cycle lower part charles formation 
+bed evaporite absent wyoming south dakota evaporite deposit occur 
+igneous intrusive rock tertiary age uplift area devonian age old rock expose land surface 
+line equal thickness interval foot 
+limit prairie salt informal subsurface usage 
+thickness devonian rock 
+from peterson 
+regional aquifer system analysis approximate limit bakken formation 
+kilometer explanation igneous intrusive rock tertiary age uplift area mississippian age old rock expose land surface line equal thickness interval foot 
+location extent bakken formation late devonian early mississippian age 
+from peterson 
+southeastern montana northwestern north dakota gradually thicken central montana toward maximum thickness williston basin 
+the mission canyon limestone range thickness average 
+the charles formation uppermost unit madison group marine evaporite sequence consist anhydrite halite interbedded dolomite limestone argillaceous unit 
+the charles range thickness average thickness pre jurassic erosion remove charles western southern part study area 
+where present charles confine bed underlie aquifer 
+because carbonate rock madison limestone relatively soluble water development karst solution feature common 
+the complex interconnected solution feature develop expose limestone weather process subtropical condition show figure 
+sando describe ancient karst feature include enlarged joint sink hole cave solution breccia develop madison limestone north central wyoming 
+indicates open space fill sand residual product rework transgress sea late mississippian time 
+large extensive cave system outcrop area madison limestone bighorn mountains black hill evidence importance 
+geohydrology bedrock aquifers the northern great plain canada9 ate 
+approximate limit madison limestone 
+igneous intrusive rock tertiary age 
+line equal thickness interval foot 
+uplift area mississippian age old rock expose land surface 
+limit charles salt informal subsurface usage 
+dolomite facies 
+limit the middle part the madison limestone anhydrite 
+primarily limestone and shaly limestone facies 
+thickness lithology madison limestone mississippian age 
+from peterson 
+dissolution process development secondary permeability madison limestone unit 
+overlie charles formation part montana north dakota south dakota rock late mississippian age belong big snowy group fig 
+the big snowy group consist three formation kibbey otter heath compose mainly shale sandstone limestone 
+hydraulic analysis make study big snowy group combine charles confine layer 
+pennsylvanian and permian rock rock pennsylvanian age fig 
+overlie mississippian unit study area consist marine sandstone shale siltstone carbonate 
+the pennsylvanian rock divide many different formation however equivalent unit 
+the tyler formation 
+restrict generally central montana trough central williston basin tyler grade southward appear equivalent 
+e14 regional aquifer system analysis 
+solution feature marine limestone develop subtropical condition similar postulate exist late mississippian time northern great plain 
+open rock due removal limestone solution 
+photograph show north wall cenote well near chichen itza yucatan mexico photograph joe downey geological survey 
+low part amsden formation south central montana 
+the tyler also appear equivalent low part minnelusa formation northwestern south dakota wyoming western north dakota 
+middle pennsylvanian rock represent tensleep sandstone southern montana north central wyoming part minnelusa formation williston basin northeastern wyoming western south dakota 
+these rock truncate pre jurassic erosion progressively northward across central montana 
+they thin extinction near axis central montana trough 
+sandstone unit pennsylvanian age present tensleep sandstone central north central wyoming south central montana middle part minnelusa formation western south dakota along east side williston basin 
+the upper part minnelusa formation powder river williston basins western part south dakota consist sandstone shale carbonate 
+interbedded anhydrite early permian age 
+the sandstone facies extend northward include southeastern part williston basin 
+source sand upper part minnelusa interpret rework earlier deposit pennsylvanian sand paleostructures west 
+additional source area elastics sioux uplift canadian shield eastern northeastern border williston basin 
+study pennsylvanian formation incorporate hydrologic system call pennsylvanian aquifer 
+overlie minnelusa formation lower permian opeche goose egg equivalent formation 
+the opeche formation interbedded central part williston basin halites informally term opeche salt 
+the minnekahta limestone overlie opeche formation halite 
+above minnekahta limestone spearfish formation contains bed halite limit vertical flow water formation 
+the permian formation consider confine unit 
+geohydrology bedrock aquifers the northern great plain canada tvr united 
+hei ena 
+north dakota 
+3marck proximate limit big snowy group 
+igneous intrusive rock tertiary age 
+green gray and red shale with minor limestone 
+uplift area mississippian age old rock expose land surface 
+line equal thickness interval foot 
+sandy shale and sandstone facies 
+thickness lithology big snowy group late mississippian age 
+from peterson 
+triassic rock rock permian age study area overlie sequence redshale siltstone evaporites belongs upper part goose egg spearfish formation triassic age fig 
+these formation thick central williston basin thicken southwesterly powder river basin 
+although shale siltstone principal lithology triassic unit study area sandstone occurs 
+limited extent eastern part williston basin elongate northeast trend sandy belt probably deposit stream flow adjacent sioux uplift canadian shield source area east 
+triassic bed truncate pre middle jurassic erosion along southern eastern margin alberta shelf east side williston basin 
+rock triassic age along permian age consider confine bed restrict flow underlie aquifer overlie aquifer cretaceous age 
+regional aquifer system analysis 
+canada tuftfre 
+approximate limit pennsylvanian permian rock 
+igneous intrusive rock tertiary age uplift area permian age old rock expose land surface sandstone facies more than sandstone 
+primarily red shale and some silt with some carbonate rock gray shale and evaporite line equal thickness interval foot 
+limit opeche salt informal subsurface usage permian 
+thickness lithology pennsylvanian permian rock 
+from peterson 
+jurassic rock rock jurassic age fig 
+overlie formation triassic age pronounce disconformity 
+these rock consist nesson piper rierdon swift morrison formation equivalent predominately carbonate shale calcareous shale 
+the nesson formation divide three member low anhydrite include dunham salt informal usage occurs 
+part williston basin middle shale upper carbonate sequence 
+the piper formation jurassic age divide three member low shale sandstone unit middle limestone upper shale 
+north central montana piper formation thins appreciably consist chiefly sandstone 
+the rierdon formation consist mainly shale siltstone calcareous shale small amount sandstone along eastern fringe williston basin 
+geohydrology bedrock aquifers the northern great plain 
+the swift formation deposit marine condition western part study area consist sandstone deposit offshore bar shallow sea 
+eastern part swift consist mostly silty shale coarser sediment upper part formation 
+the swift thick along northern axis williston basin thin extinction western montana eastern north dakota south dakota 
+generally cement swift less adjacent formation possibly due less primary porosity less active diagenetic process 
+the swift less porous sandstone occur unit early cretaceous age although 
+several locality sand occurs great percent porosity 
+the morrison formation deposit continental deposit sand silt clay plain emerge regression sea exist time deposition swift formation 
+the morrison thick south central montana thin eastward extinction western north dakota south dakota 
+regional unconformity base lower cretaceous unit locally truncate morrison formation upper part swift formation 
+total thickness jurassic unit study area range less 
+approximate limit triassic rock 
+igneous intrusive rock tertiary age 
+primarily red shale and siltstone 
+uplift area triassic age old rock expose land surface 
+line equal thickness interval foot 
+safnadcsietsone and sandy shale 
+limit pine salt informal subsurface usage permian and triassic 
+thickness lithology triassic rock 
+from peterson 
+e18 regional aquifer system analysis 
+kilometer explanation jurassic and triassic age old rock expose land surface line equal thickness interval foot limit dunham salt informal subsurface usage figure 
+thickness extent jurassic rock 
+anna write commun 
+along periphery williston powder river basins north deep part williston basin 
+lower cretaceous rock rock early cretaceous age 
+consist marine nonmarine clastic sediment range thickness fig 
+nonexistent eastern north dakota south dakota west central montana anna 
+the lakota fuson formation early cretaceous age compose fluvial sandstone siltstone shale 
+the lakota formation consist mainly sandstone 
+occasional conglomerate overlies erosion surface cut morrison formation jurassic age 
+generally lakota formation channel valley fill deposit although subsurface distinguish valley fill lakota valley fill overlie fuson formation difficult 
+the fuson formation consist mainly valley fill channel margin deposit silty shale occasional sand stone unit 
+thickness fuson formation range approximately central montana less foot eastern north dakota south dakota fuson thin extinction eastern south dakota 
+the fall river sandstone early cretaceous age represent initial advance early cretaceous sea 
+geohydrology bedrock aquifers the northern great plain 
+kilometer explanation jurassic and triassic age old rock expose land surface line equal thickness interval foot figure 
+thickness extent lower cretaceous rock 
+anna write commun 
+deposit fine sand silt clay shallow marine tidal flat coastal swamp deltaic condition 
+silt shale deposit central montana wyoming indicate deep water environment study area 
+williston basin analysis data cement indicate lower cretaceous formation silica cement calcite cement 
+trend surface analysis cement indicate northwest linear trend near cedar creek anticline 
+the analysis also indicate area less cement tend overlie lineament fracture zone area cement overlie interlineament zone anna 
+porosity trend formation show area great porosity central eastern part study area although porosity decrease eastward overall 
+thickness formation decrease 
+powder river basin formation less percent porosity increase depth 
+the lakota fuson fall river formation thin eastward truncate pre newcastle erosion 
+thickness three formation range central montana extinction eastern north dakota south dakota 
+the skull creek shale early cretaceous age consist two marine facies lower glauconitic siltstone often term basal silt upper shale 
+the silt facies extend regionally increase sand content central south central montana 
+the upper shale facies deposit strong reduce condition consist mainly black organic shale associate pyrite 
+the formation 
+e20 regional aquifer system analysis 
+range thickness nonexistent eastern south dakota part montana wyoming western south dakota north dakota 
+withdrawal sea end skull creek time result unconformity base newcastle sandstone eastern wyoming southeastern montana 
+later sea transgress west east across area development extensive delta system eastern montana northeastern wyoming still later southeastern south dakota 
+sediment supply delta originate eastern south central south dakota delta supply sediment shelf area east central montana wyoming 
+thickness newcastle sandstone quite variable range zero large area north dakota ten foot central montana wyoming abrupt increase several hundred foot southeastern north dakota eastern south central south dakota 
+porosity newcastle sandstone appear great area sandstone thicker 
+calcite prevalent cement agent silica newcastle sandstone anna 
+sea encroach eastward upper newcastle time mowry shale 
+deposited central western part study area 
+the mowry consist dark siliceous shale contains fish scale bone fragment 
+study area bentonitic clay use regional time marker mark top mowry shale also divide low upper cretaceous rock 
+thickness mowry range south central montana extinction eastern southeastern south dakota eastern north dakota 
+all low cretaceous unit except mowry shale group low cretaceous aquifer 
+the mowry shale incorporate overlie confine unit fig 
+thick consist alternate bed deltaic sandstone shale 
+the niobrara formation range thickness nonexistent consist gray marine shale lenticular chalky bed characterize small white calcareous lens 
+lithologic variation range dominant chalk facies east mostly shale facies west 
+the pierre shale directly overlie niobrara formation study area 
+the pierre consist dark montmorillonitic shale interbedded sandstone deposit marine condition 
+many sandstone unit give format status western central montana powder river basin wyoming fig 
+the pierre shale contains number sandstone unit aquifer locally 
+the pierre shale confine unit underlie lower cretaceous aquifer study area 
+the final regression late cretaceous sea deposit fox hill sandstone hell creek lance formation equivalent 
+these formation areal extensive fox hill hell creek crop sizable area southern central north dakota 
+the fox hill sandstone equivalent unit consist deltaic interdeltaic sandstone siltstone shale 
+the hell creek lance formation range thick consist fluvial sandstone siltstone carbonaceous claystone thin lenticular coal bed place 
+the hell creek lance meander belt delta plain facies fox hill delta system 
+the fox hill hell creek lance exist consider part upper cretaceous aquifer 
+tertiary rock 
+upper cretaceous rock the sedimentary pattern upper cretaceous rock northern great plain associate four main transgression regression shallow sea 
+the belle fourche shale greenhorn formation 
+deposit continuation transgression sea early cretaceous time 
+the belle fourche shale consist grayto black marine shale numerous bentonite bed 
+the greenhorn formation consist thick sandstone sequence interbedded shale chalky shale 
+the carlile shale consist gray marine shale interbeds thin sandstone 
+the frontier formation westward equivalent belle fourche shale greenhorn formation 
+although frontier restrict areal formation 
+tertiary unit 
+northern great plain contain important aquifer development domestic agricultural water supply relatively shallow drilling depth well water quality 
+these unit generally deposit continental environment except cannonball member fort union formation western north dakota deposit marine environment upper part ludlow member fort union deposit part western north dakota marginal marine environment 
+most sediment comprise tertiary deposit derive highlands west northwest laramide orogeny 
+the fort union formation paleocene age consist total five member ludlow tullock lebo cannonball tongue river sentinel butte 
+all member consist alternate gray buff sandstone siltstone claystone thin thick lignite subbituminous coal 
+geohydrology bedrock aquifers the northern great plain 
+kilometer explanation confine bed tk4 miss highland recharge area line equal thickness interval foot 
+dash inferred figure 
+thickness cretaceous sedimentary deposit top newcastle sandstone top pierre shale 
+anna write commun 
+individual channel system trace subsurface considerable distance especially powder river basin even though texture distribution may considerable variability 
+contact underlie cretaceous hell creek lance formation base low persistent coal bed 
+local unconformities base ludlow tullock member occur basal channel scour ludlow tullock hell creek lance 
+thickness fort union formation range powder river basin less williston basin central north dakota 
+northeast montana 
+sandstone powder river basin generally coarser grain well sorted eastern montana north dakota south dakota generally great permeability 
+the wasatch formation eocene age present powder river basin consist alternate bed valley channel fill sandstone siltstone claystone similar tongue river member although mineralogical difference note 
+the contact wasatch underlie tongue river member unconformable place top roland anderson coal bed anna 
+this bed 
+e22 regional aquifer system analysis 
+thick areal extensive southern powder river basin 
+southernmost end basin roland coal bed split numerous thinner bed 
+the golden valley formation paleocene eocene age consist kaolinitic claystone mudstone lignite micaceous sandstone 
+the formation present western north dakota divide upper eocene lower paleocene unit 
+the white river formation group divide oligocene age unconformably overlie eocene formation thick 
+the formation expose erosion remnant cap butt several locality williston basin areal extensive deposit badlands south central south dakota 
+the white river group divide low chadron formation consist basal conglomerate overlie tuffaceous sandstone siltstone shale upper brule formation consist claystone siltstone sandstone 
+the arikaree formation miocene age study area expose remnant result pliocene pleistocene erosion high butte north dakota south dakota 
+the arikaree rest unconformably white river formation consist massive tuffaceous sandstone siltstone thin bed quartzite dolomite volcanic ash 
+the ogallala formation miocene age present eastern wyoming southwestern south dakota extensive veneer interbedded sandstone claystone throughout central great plain region 
+deposit quaternary age study area consist alluvium glacial material 
+alluvial deposit vary thickness fill major drainage area 
+glacial till outwash deposit locate eastern north dakota northeast south dakota northernmost montana 
+the outwash deposit may range thickness foot several hundred foot consist silt sand gravel 
+width generally range less mile several mile deposit commonly ten mile length 
+glacial outwash deposit major source ground water large part study area 
+geologic structure the structural history northern great plain reflect sediment geologic structure one important factor control porosity permeability carbonate sedimentary rock 
+movement along structural zone create porosity increase permeability fracture porosity permeability may modify late time chemical process occur aquifer water move fracture 
+much present day structure study area result laramide deformation occur late 
+cretaceous early tertiary time 
+zone weakness exist prior laramide deformation common avenue release stress laramide thus zone exist ancient time present 
+northwest east southeast northeasttrending structural feature precambrian paleozoic mesozoic age fig 
+occur throughout study area 
+many structural feature initiate precambrian age shear zone develop basement rock since act zone weakness 
+for example nashfork hartville fault trend wyoming south dakota component broad precambrian shear zone call colorado lineament warner 
+warner postulate shear zone extend arizona great lake divide precambrian basement province two different age one billion year old north one billion year old south 
+the large fault lineament system develop many bedrock unit northern great plain geologic time important feature analysis hydrologic system 
+both faults lineament appear provide path increase water movement horizontally aquifers vertically confine bed weimer other chilingar mannon rieke 
+these feature also may act barrier flow normal direction fault lineament 
+example barrier effect present konikow analysis flow system powder river basin 
+konikow study geologic structure along eastern edge bighorn mountain range fig 
+appear limit water movement recharge area bighorn mountain powder river basin 
+movement along major fault lineament may affect porosity permeability rock large area long span geologic time 
+structural adjustment large block geologic material may modify primary porosity permeability rock fracture modification flow system development secondary porosity 
+structural adjustment also may result decrease porosity permeability modify flow system mineral water precipitate rock pore 
+structural movement along large block major effect deposition clastic sediment low upper cretaceous bedrock unit slack 
+block movement may result shallowwater near shore environment coarse grained sediment deposit 
+later movement block may result lowered deep water environment finegrained calcareous sediment deposit 
+map develop study brown other show patterns linear structural trend may relate change sedimentation rate result adjustment structural block 
+geohydrology bedrock aquifers the northern great plain 
+fault probable fault lineament 
+anticline trend dome dash line show probable extension feature 
+structural trend arch uplift 
+monocline boundary central montana trough 
+major paleozoic structural feature 
+modify brown blankennagel mccary 
+peterson write commun 
+many structural feature northern great plain associated present day physiographic feature affect deep shallow ground water surface water flow system study area 
+structural feature fig 
+eastern north dakota may control stream channel lake location part devil lake basin north dakota 
+also deep bedrock trench fill glacial material downey armstrong appear lie along trend feature 
+this bedrock trench may zone weakness erode glacial action pleistocene 
+the northeast trend lineament fig 
+cross central part black hill appear associated structural feature channel groundwater flow cambrian ordovician madison aquifer along linear path across eastern south dakota 
+hydrologic set the confine ground water system northern great plain include numerous permeable horizon many 
+e24 regional aquifer system analysis 
+discontinuous vary considerably hydraulic property one location another 
+during study five major subdivision pis 
+regional aquifer make cambrian ordovician aq1 madison aq2 pennsylvanian aq3 lower cretaceous aq4 upper cretaceous aq5 aquifer 
+each aggregate permeable low permeable semiconfining material identify aquifer primarily vertical head difference within unit tend much small 
+adjacent unit 
+extent division arbitrary make assist analysis discussion aquifer system whole 
+these five major aquifer constitute one large confine aquifer system united state 
+the flow system extend mountainous recharge area montana wyoming south dakota discharge area eastern dakotas canadian province manitoba van everdingen 
+the total area involve mi2 
+the geologic unit consti 
+approximate limit madison limestone kilometer explanation mississippian age old orrovc ikfcs epvxop isccerdk aatt tlaamnpdi surface major linear trend sediment the madison group figure 
+linear trend sedimentary deposit madison aquifer 
+from blankennagel maccary write commun 
+geohydrology bedrock aquifers the northern great plain 
+kilometer explanation precambrian rock expose land surface lineament visible surface 
+lineament pattern northern great plain landsat imagery 
+possible control stream channel lake location part devil lake basin 
+possible geologic limit water movement recharge area bighorn mountain powder river basin 
+northeast trend lineament appear associated structural feature channel ground water flow cambrian ordovician madison aquifer along linear path across eastern south dakota 
+from cooley write commun 
+tut five major aquifer intervene 
+dovician age 
+this aquifer underlies 
+semiconfining zone summarize plate 
+mi2 western montana north dakota south dako 
+briefly discuss 
+northwestern wyoming extends 
+low boundary 
+consists crystalline rock pre 
+nada crop along precambrian 
+cambrian age underlie study area 
+regional basis rock normally water 
+confine layer tk1 
+consists shale shaly car 
+bonates evaporite halite bed silurian 
+cambrian ordovician aquifer aq1 
+devonian age 
+although evidence exists 
+sandstone late cambrian age limestone 
+solution halite bed along margin 
+middle late ordovician age 
+this aquifer com 
+indicates limit vertical flow water 
+pose principally red river formation 
+area halite bed consider imper 
+include deadwood formation cambrian 
+the black organic rich shale missis 
+early ordovician age winnipeg formation 
+sippian part bakken englewood forma 
+overlie stony mountain formation 
+tions component confine layer 
+e26 regional aquifer system analysis 
+madison aquifer aq2 
+consist siltstone sandstone limestone dolomite belong lodgepole mission canyon limestone madison group madison limestone equivalent unit 
+the limestone dolomite madison general fine textured massive formation permeability secondary fracture permeability 
+the madison aquifer underlies mi2 study area 
+confine layer tk2 
+consist halite evaporites limestone upper mississippian charles formation equivalent unit madison limestone shale limestone sandstone kibbey otter heath formation big snowy group 
+pennsylvanian aquifer aq3 
+consists sandstones limestone minnelusa formation tensleep sandstone amsden formation equivalent pennsylvanian age 
+confine layer tk3 
+consist siltstone shale limestone evaporite halite unit opeche formation minnekahta limestone permian age spearfish formation permian triassic age upper part goose egg chugwater formation triassic age 
+the piper gypsum spring formation jurassic age also include confine unit 
+basis information model simulation case iii write commun geochemical data busby write commun confine layer 
+mile kilometer explanation precambrian rock expose land surface lineament zone figure 
+subsurface paleolineament zone jurassic cretaceous age 
+anna write commun 
+geohydrology bedrock aquifers the northern great plain 
+appear principal hydrologic barrier vertical leakage water area underlie paleozoic aquifer overlie lower cretaceous aquifer 
+lower cretaceous aquifer aq4 
+this unit consist sandstone siltstone lakota formation fall river newcastle sandstone early cretaceous age 
+these formation equivalents underlie much northern great plain united state extend canada 
+this aquifer unit know dakota aquifer north dakota inyan kara aquifer south dakota 
+confine layer tk4 
+consists shale siltstone limestone unit lower cretaceous aquifer aq4 include mowry belle fourche shale greenhorn formation carlile shale niobrara formation pierre shale equivalent late cretaceous age 
+upper cretaceous tertiary aquifer aq5 
+consists upper cretaceous formation fox hill sandstone hell creek formation equivalent lie lower cretaceous shale siltstone confine unit tk4 
+the flow ground water constant density porous medium three dimension may express 
+txx kzz 
+refer coordinate parallel bed refers coordinate normal bed assume bed plane parallel maximum principal transmissivity tensor axis principal component transmissivity tensor l2t hydraulic head formation thickness vertical hydraulic conductivity storage coefficient dimensionless time source term include well dis charge recharge per unit surface area aquifer 
+during pleistocene epoch ngp aquifer system may subject change recharge discharge relation associate four glaciation three interglacial period show figure 
+time maximum glacial advance wisconsin glacial period discharge area aquifer system cover thick mass ice may block discharge cause flow aquifer toward southeast see fig 
+during interglacial period glacial ice absent aquifer discharge area infer flow direction toward northeast similar present day pattern 
+except local mountain glaciation highland area western part northern great plain affect continental glaciation continue serve recharge area bedrock aquifer 
+digital simulation model simulation versatile technique solve large complex ground water flow problem numerical simulation digital computer use study evaluate conceptual model hydrologic system 
+the following section briefly describe theory limitation data use simulation 
+equation may approximate finite difference equation apply taylor theorem pinder bredehoeft describe head node rectangular grid 
+the finite difference equation describe head node solve simultaneously computer program use numerical technique strongly implicit method trescott 
+for study finite difference flow equation solve use program code develop trescott modify additional subroutine calculate effect water variable density weiss 
+analysis complex nonhomogeneous aquifer system accomplish subdivide aquifer large number rectangular cell constitute finite difference grid 
+the horizontal grid fig 
+consists row column variable cell dimension 
+vertically four confine unit five aquifer layer simulate use quasi three dimensional approach describe trescott effect vertical flow confine bed incorporated vertical component hydraulic conductivity adjacent aquifer assume effect act simultaneously head change aquifer water store confine bed release 
+for cell value transmissivity hydraulic head recharge discharge supply 
+these value assume constant everywhere cell average value 
+regional aquifer system analysis 
+wisconsin glacial 
+million year age estimate boundary 
+sangamon interglacial 
+illinoian glacial 
+yarmouth interglacial kansan glacial aftonian interglacial nebraskan glacial 
+pre first glacial advance million year age estimate boundary figure 
+pleistocene glaciation interglaciations 
+geohydrology bedrock aquifers the northern great plain 
+explanation highland recharge area inferred direction ground water flow estimate thickness glacial ice foot 
+lake wmnipego 
+lake manitoba 
+canada unite state 
+north dakota 
+nebraska limit pre wisconsm ice mile kilometer figure 
+extent laurentide wisconsin ice northern great plain 
+accuracy solution finite difference equation depend number condition 
+one several possible error introduce continuous aquifer space head change time make discrete approximated finite difference equation 
+this error 
+minimize choose appropriate grid size finder bredehoeft beding reed griffin 
+water aquifer northern great plain varies significantly dissolve solid concentration temperature 
+this variation lead significant variation fluid 
+e30 regional aquifer system analysis 
+dvietnnosiiit acunmd vviios ojosii finrojimii ounnec uohinilt tiaoj acunioutuhuecri uunnudcer undisturbed natural condition change dissolve solid concentration temperature tend occur slowly time 
+for purpose study regional flow system density viscosity may assume vary position rremaaiinn onnnstt anntt 
+wwiti tvhi ttime 
+tthis aasssnummnpttiinonn npronbhabhlyv aalsno 
+could make study transient aquifer response ground water development provide movement water high dissolve mineral high temperatl uurice i1s3 n11oult gglrcedaut ecnllouuugghll tiaoj cdauuosce osilg nllillflivcdalnllt chlladnllggec i11n1 overall densityv viscosityv distribution 
+under assumption density viscosity water vary 
+explanation precambrian rock expose land surface figure 
+finite difference grid digital simulation hydrologic system 
+geohydrology bedrock aquifers the northern great plain 
+time distribution space know flow equation describe equation modify express wps pseudosource function term analogy source function wps calculate fluid density viscosity estimate observed temperature pressure dissolvedsolids concentration 
+weiss give complete discussion pseudosource term use simulate ground water movement variable density freshwater head use variable 
+wei show error contribute pseudosource function small less percent formation dip less degrees aquifer northern great plain 
+viscosity assumption change time negligible account adjustment transmissivity hydraulic conductivity value basis measure temperature 
+representative observe data 
+this process call model calibration 
+the data set available study area comparison model simulate result potentiometric surface construct basis waterlevel measurement general limit indicate water balance 
+although transient hydrologic effect due pleistocene glaciation still may present construct potentiometric surface assume steadystate flow condition 
+the model calibration minimize difference observe simulated potentiometric surface adjust aquifer property subject uncertainty specify boundary condition 
+although number interrelated factor affect ground water flow make subjective procedure allowable adjustment aquifer property generally proportional uncertainty observe value 
+study hydraulic head relatively well know therefore potentiometric surface construct basis observe head adjust little 
+the transmissivity vertical hydraulic conductivity relatively unknown result many adjustment make node range adjustment cover several order magnitude 
+assumption and limitation the model analysis use model analyze predevelopment flow pattern steady state condition assume total inflow aquifer equal total outflow 
+the term equation always set zero 
+the method data reduction input digital model base assumption within five layer represent five major aquifer northern great plain velocity component normal bedding small compare parallel bedding 
+time confine bed velocity component parallel bedding assume small compare normal bedding 
+the model also incorporate assumption impervious layer correspond precambrian basement material underlies lowermost aquifer layer aq1 
+the model also assume leakage confine bed occur simultaneously head aquifer changed water release storage confine bed 
+model calibration after model develop model simulate result compare observed data 
+the input variable use model may adjust within reasonable acceptable range make simulate result closely 
+the objective simulation study improve conceptual model undisturbed flow system exist large scale development ground water petroleum area 
+the conceptual model base understanding physical property nature aquifer confine bed source recharge discharge rate direction flow spatial variation aquifer property distribution head interaction among aquifer 
+digital simulation integrate factor 
+conceptual model sound accurately represent simulation compute result consistent field data 
+difference simulate result field measurement indicate element conceptual model need revise 
+fact map depict observe potentiometric surface reinterpret part study area basis insight gain model analysis 
+any adjustment model input constitute modification conceptual model 
+assign different value aquifer property head flux also help achieve another objective calibration determine sensitivity variable affect flow 
+this sensitivity analysis indicate variable critical flow system 
+evaluate importance variable help determine data need refine data already adequate require minimal definition 
+because head data basis calibration procedure accuracy calibrate model limited accuracy head data 
+e32 regional aquifer system analysis 
+boundary condition boundary condition use describe parametric status simulation model nod hydraulic condition know several different type boundary condition assign 
+they follow 
+flow boundary 
+specify transmissivity equal zero give node flow occur across boundary cell 
+constant head boundary 
+where head aquifer know change time head correspond node maintain specify value throughout simulation 
+specify flux 
+specify rate withdrawal recharge assign node 
+vertical leakage 
+vertical leakage aquifer represent node specify vertical hydraulic conductivity thickness confine layer head source layer 
+the rate leakage compute implicitly model 
+steady state simulation specify head node represent recharge area west discharge area east 
+vertical leakage upper layer aq5 many case represent land surface simulate specify head nodes simulate many lake river area 
+constant head boundary node use five aquifer layer show figure 
+vertical leakage aquifer layer simulate specify head aquifer layer assign vertical hydraulic conductivity value thickness value confine layer 
+the hydraulic conductivity confine layer subsequently adjust calibration 
+hydraulic head head data use model input base comparison calibration 
+model input use establish head constant head boundary node aquifer layer vertical leakage 
+for calibration provide information compare compute head 
+because head data calculate drill stem test dst accuracy dst record device important 
+accuracy bottom hole pressure recorder use dst generally one quarter one half percent total range gage depend type age service history gag earlougher 
+however compare drill stem pressure reading measure head test well data indicate accuracy drill stem record device percent fullscale reading lobmeyer write commun 
+for in2 gage error head could range 
+the geological survey use gage instal surface along subsurface gage several dst test well drill part study 
+calculate head 
+correct density difference within surface subsurface pressure reading 
+overall accuracy head data show potentiometric surface map cambrian ordovician madison aquifer estimate 
+accuracy head data pennsylvanian aquifer may less 
+cambrian ordovician madison and pennsylvanian aquifer 
+head data use cambrian ordovician madi 
+son aquifer figs 
+develop miller 
+strausz 1980a modify later data 
+madison aquifer peter write commun near 
+black hill south dakota 
+head data penn 
+sylvanian aquifer fig 
+unpublished data devel 
+oped miller dst miller write commun 
+potentiometric surface map develop miller 
+strausz show altitudes freshwater head 
+determine shut pressure dst miller 
+miller use follow equation modify mur 
+phi convert observe bottom hole pressure 
+freshwater head 
+fsip prd lsd 
+altitude water surface foot sea 
+fsip final bottom hole pressure pound per 
+square inch 
+factor convert fsip foot water 
+prd depth pressure recorder foot 
+land surface datum lsd 
+lsd land surface datum foot 
+sea level 
+the factor water per in2 
+the factor 
+also assume pure water temperature 
+density cm3 
+the result potentiometric map 
+indicate altitude water level would stand 
+tightly case well open aquifer water well 
+equivalent density cm3 
+equivalent freshwater head variable density flow system 
+may proportional magnitude flow indi 
+cate direction flow 
+however flow velocity 
+calculate equivalent freshwater head provide flu 
+density know 
+study calculation 
+make use pseudosource term use 
+density data derive map dissolve solid concentra 
+tion aquifer show figure 
+low and upper cretaceous aquifer head data low upper cretaceous aquifer figs 
+lobmeyer write commun 
+lobmeyer use data primarily dst convert pressure foot water similar use miller strausz 1980a paleozoic aquifer 
+geohydrology bedrock aquifers the northern great plain 
+explanation constant hydraulic head node precambrian rock expose land surface figure 
+constant head node use model simulation cambrian ordovician aquifer 
+ever point equivalent freshwater head map contain inaccuracy similar map paleozoic aquifer miller strausz 1980a 
+state accuracy equivalent freshwater head show figure within one half contour interval eastern north dakota eastern south dakota within one contour interval area contour widely space 
+those area around black hill south dakota wyoming border 
+around edge powder river basin central montana accurate one half major contour interval lower cretaceous head map fig 
+the upper cretaceous head map fig 
+believe accurate within one contour interval except contour inferred surface elevation take scale contour map 
+head four major aquifer simulate model calibration show figure 
+e34 regional aquifer system analysis explanation constant hydraulic head node mississippi age old rock expose land surface figure 
+constant head node use model simulation madison aquifer 
+geohydrology bedrock aquifers the northern great plain 
+explanation constant hydraulic head node pennsylvanian age old rock expose land surface figure 
+constant head node use model simulation pennsylvanian aquifer 
+e36 regional aquifer system analysis explanation constant hydraulic head node cretaceous age old rock expose land surface figure 
+constant head node use model simulation lower cretaceous aquifer 
+geohydrology bedrock aquifers the northern great plain 
+explanation constant hydraulic head node cretaceous age old rock expose land surface figure 
+constant head node use model simulation upper cretaceous aquifer 
+e38 regional aquifer system analysis 
+approximate limit cambrian ordovician rock 
+kilometer explanation precambrian rock expose land surface potentiometric contour show altitude potentiometric surface 
+dash data available 
+contour interval foot 
+national geodetic vertical datum 
+potentiometric surface cambrian ordovician aquifer 
+modify miller strausz 1980a 
+cambrian ordovician madison and pennsylvanian aquifer 
+transmissivity aquifer reflect rate ground water prevail kinematic viscosity flow unit width aquifer unit hydraulic gradient lohman other 
+very data available describe spatial transmissivity ngp aquifer 
+transmissivity value aquifer may obtain aquifer test analyse data dst analyse core take test drill permeability determine laboratory however data point information represent small part aquifer 
+the transmissivity derive dst also questionable konikow 
+transmissivity value cambrian ordovician madison pennsylvanian aquifer fig 
+many source 
+konikow obtain transmissivity value flow net analysis cone depression develop well field near midwest wyo presumably tap madison aquifer 
+flow net analysis assumes steady state flow condition exist leakage occur adjacent aquifer 
+konikow analysis indicate transmissivity ft2 however konikow state value may accurate within factor lack data average rate long term withdrawal exact configuration 
+geohydrology bedrock aquifers the northern great plain 7r14 iar108 
+approximate limit madison limestone 
+kilometer explanation mississippian age old rock expose land surface potentiometric contour show altitude potentiometric surface 
+dash data available 
+contour interval foot 
+national geodetic vertical datum figure 
+potentiometric surface madison aquifer 
+modify miller strausz 1980b 
+cone depression 
+addition busby lee hanshaw analysis geochemical data midwest area indicate leakage occur overlie pennsylvanian permian formation consider konikow calculation transmissivity madison aquifer midwest wyo area may less ft2 
+miller state data dst montana indicate transmissivity madison aquifer range 5xlo 6xlo ft2 
+however miller consider water viscosity change temperature calculation 
+the reliability transmissivity value 
+rive dst also questionable inherent error record device short shut time dst 
+basis analysis data step drawdown test perform select interval madison limestone madison test well fig 
+blankennagel howells miller report transmissivity range ft2 assume storage coefficient 2x10 
+the low value transmissivity appear associate upper part madison aquifer location 
+the range report transmissivity value may relate significant variability secondary porosity 
+e40 regional aquifer system analysis 
+approximate limit pennsylvanian permian 
+kilometer explanation permian age old rock expose land surface potentiometric contour show altitude potentiometric surface 
+dash data available 
+interval variable 
+national geodetic vertical datum figure 
+potentiometric surface pennsylvanian aquifer 
+from miller write commun 
+geohydrology bedrock aquifers the northern great plain 
+approximate limit cambrian ordovician rock kilometer explanation precambrian rock expose land surface line equal dissolve solid concentration interval milligram per liter variable line section figure figure 
+concentration dissolve solid water cambrian ordovician aquifer 
+from busby write commun 
+e42 regional aquifer system analysis approximate limit silurian devonian rock mile kilometer explanation devonian age old rock expose the surface line equal dissolve solid concentration interval milligram per liter variable figure 
+concentration dissolve solid water silurian devonian formation 
+from busby write commun 
+geohydrology bedrock aquifers the northern great plain 
+approximate limit madison limestone kilometer explanation mississippian age old rock expose land surface line equal dissolve solid concentration interval milligram per liter variable figure 
+concentration dissolve solid water madison aquifer 
+from busby write commun 
+e44 regional aquifer system analysis 
+roximate pennsylvanian permian rock kilometer explanation permian age old rock expose land surface line equal dissolve solid concentration interval milligram per liter variable figure 
+concentration dissolve solid water pennsylvanian aquifer 
+from busby write commun 
+geohydrology bedrock aquifers the northern great plain 
+approximate jriassic rock 
+canada 98j 
+approximate limit jjuuriaassic rock 
+kilometer explanation jurassic and triassic age old rock expose the surface line equal dissolve solid concentration interval milligram per liter variable figure 
+concentration dissolve solid water triassic jurassic formation 
+from busby write commun 
+e46 regional aquifer system analysis mile kilometer explanation jurassic age old rock expose land surface line equal dissolve solid concentration interval milligram per liter variable figure 
+concentration dissolve solid water lower cretaceous aquifer 
+modify peter write commun 
+geohydrology bedrock aquifers the northern great plain 
+kilometer explanation cretaceous age old rock expose land surface lower cretaceous rock absent beneath young sediment potentiometric contour show altitude potentiometric surface 
+interval foot 
+national geodetic vertical datum figure 
+potentiometric surface lower cretaceous aquifer 
+modify lobmeyer write commun 
+e48 regional aquifer system analysis 
+canada estate 
+kilometer explanation potentiometric contour show altitude potentiometric surface 
+dash data available 
+interval foot 
+national geodetic vertical datum limit fox hill sandstone late cretaceous age dash inferred figure 
+potentiometric surface upper cretaceous aquifer 
+from lobmeyer write commun 
+geohydrology bedrock aquifers the northern great plain 
+approximate lim cambrian ordoviciajp rock mile kilometer explanation precambrian rock expose land surface potentiometric contour show altitude potentiometric surface 
+dash data available 
+interval foot 
+national geodetic vertical datum figure 
+simulate potentiometric surface cambrian ordovician aquifer 
+modify downey 
+e50 regional aquifer system analysis 
+proximate limit 0nll wyoming 
+approximate limit madison limestone 
+explanation wtt mississippian age old rock expose land surface potentiometric contour show altitude potentiometric surface 
+dash data available 
+interval foot 
+national geodetic vertical datum 
+simulate potentiometric surface madison aquifer 
+modify downey 
+geohydrology bedrock aquifers the northern great plain 
+approximate rrv penn ylvan permian 
+»^"" state 
+mile kilometer explanation permian age old rock expose land surface potentiometric contour show altitude potentiometric surface 
+dash data available 
+interval foot variable 
+national geodetic vertical datum figure 
+simulate potentiometric surface pennsylvanian aquifer 
+regional aquifer system analysis 
+lower cretaceous rock miss the subsurface jurassic and triassic age old rock expose land surface 
+potentiometric contour show altitude potentiometric surface 
+dash data available 
+interval foot 
+national geodetic vertical datum 
+simulate potentiometric surface lower cretaceous aquifer 
+geohydrology bedrock aquifers the northern great plain 
+approximate cambrian ordovician rock nebraska 
+explanation precambrian rock expose land surface line equal transmissivity interval square foot per day variable 
+dash data available 
+transmissivity distribution use cambrian ordovician aquifer simulation 
+modify downey 
+e54 regional aquifer system analysis north dakota approximate limit madison limestone mile kilometer explanation mississippian age old rock expose land surface line equal transmissivity interval square foot per day variable 
+dash data available figure 
+transmissivity distribution use madison aquifer simulation 
+modify downey 
+geohydrology bedrock aquifers the northern great plain 
+kilometer explanation permian age old rock 4yw etxxkpousbetldj atl laa1nnld sburkfhaaccet 5kn0n0 iliinnfe ooff efoqruiaatl ttrraannqsmmti stswivjtitvy interval square foot per day 
+dash inferred figure 
+transmissivity distribution use pennsylvanian aquifer simulation 
+e56 regional aquifer system analysis 
+permeability develop fracture solution feature limestone may indicate point local test aquifer represent average transmissivity value regional scale 
+konikow assume average value horizontal transmissivity basis flow net analysis simulation madison aquifer 
+konikow value transmissivity convert hydraulic conductivity divide transmissivity value thickness madison aquifer 
+this convert value use study generate initial value transmissivity cambrianordovician madison pennsylvanian aquifer 
+the transmissivity value use simulation calculate multiply horizontal hydraulic conductivity obtain konikow analysis aquifer thickness node adjust change viscosity water occur temperature table 
+available data show temperature ground water cambrian ordovician madison aquifer varies near outcrop area deep part williston basin 
+the kinematic viscosity water decrease temperature increase fig 
+thus high temperature water transmit give aquifer small hydraulic gradient equal quantity cooler temperature water 
+temperature degree celsius 
+relation viscosity water temperature 
+modify konikow 
+adjustment transmissivity base water temperature aquifer table modify konikow degree fahrenheit cm2 square centimeter per second second ft2 square foot per second 
+temperature range 
+median kinematic viscosity centistokes cm2 
+viscosity ratio 
+adjust transmissivity ft2 
+standard reference2 
+this multiplication factor equal ratio kinematic viscosity temperature standard reference kinematic viscosity mean temperature zone 
+2a11 transmissivity adjustment reference standard reference transmissivity 
+because kinematic viscosity water dependent water temperature transmissivity inversely proportional kinematic viscosity effective transmissivity aquifer vary function water temperature 
+measured water temperature cambrian ordovician madison aquifer show figure 
+temperature data cambrian ordovician madison aquifer maccary busby write commun head kilty knottek 
+temperature data low upper cretaceous aquifer figs 
+lobmeyer write commun 
+line equal temperature delineate temperature zone use calculation transmissivity node model 
+the adjusted transmissivities transmissivities freshwater specific gravity temperature formation water point interest transmissivities use pseudosource approach 
+from field test madison limestone transmissivity value find apparently related porosity value determine borehole geophysical log blankennagel brown maccary write commun 
+this relation probably explain transmissivity modify degree fracture secondary porosity 
+because experimental observation initial temperature adjust transmissivities adjust account porosity variation 
+maccary present map fig 
+show total thickness rock cambrian ordovician madison aquifer porosity percent great 
+use maps average thickness aquifer porosity percent calculate block associate node 
+set transmissivity adjustment factor select arbitrarily show table 
+the temperature adjust transmissivity value 
+geohydrology bedrock aquifers the northern great plain 
+approximate limit cambrian ordovician 
+kilometer explanation precambrian rock expose land surface line equal temperature interval degree celsius 
+dash data available figure 
+water temperature cambrian ordovician aquifer 
+from busby write commun 
+node multiply appropriate factor table accord average thickness aquifer node 
+the finally adjust transmissivities use 
+transmissivity adjustmentfactors base thickness ofrock porosity great percent 
+thickness rock porosity great percent foot 
+transmissivity adjustment 
+initial value model variable input simulation cambrian ordovician madison pennsylvanian aquifer adjust model calibration 
+the final set transmissivity value calibration use model simulation cambrianordovician madison pennsylvanian aquifer show figure 
+low and upper cretaceous aquifer initial transmissivity lower upper cretaceous aquifer data supply case iii butler write commun 
+these data use calibration simulation model cretaceous sandstone aquifer north dakota south dakota 
+these transmissivity value also adjust model 
+regional aquifer system analysis 
+approximate limit madison limestone mile kilometer explanation mississippian age old rock expose land surface line equal temperature interval degree celsius figure 
+water temperature madison aquifer 
+modify maccary head kilty knottek 
+geohydrology bedrock aquifers the northern great plain 
+kilometer explanation outcrop rock early cretaceous age old lower cretaceous rock absent beneath young sediment line equal ground water temperature interval degree celsius 
+water temperature lower cretaceous aquifer 
+modify lobmeyer write commun 
+ego regional aquifer system analysis 
+mile kilometer explanation line equal ground water temperature interval degree celsius figure 
+water temperature upper cretaceous aquifer 
+modify lobmeyer write commun 
+geohydrology bedrock aquifers the northern great plain 
+approximate limit cambrian ordovician 
+kilometer explanation precambrian rock expose land surface line equal thickness rock have porosity great than percent interval foot 
+porosity distribution cambrian ordovician aquifer 
+modify maccary 
+e62 regional aquifer system analysis 
+approximate limit madison limestone 
+kilometer explanation mississippian age old rock expose land surface line equal thickness rock have porosity great than equal percent interval foot figure 
+porosity distribution madison aquifer 
+modify maccary 
+the final transmissivity cretaceous aquifer show figure 
+vertical hydraulic conductivity vertical hydraulic conductivity control factor leakage aquifer northern great plain least known hydrologic property use simulation 
+very core oil well drilling test vertical hydraulic conductivity 
+instance vertical permeability air determine 
+one test perform core lodgepole limestone madison group montana indicated vertical permeability range however analysis also report oil saturation range percent may affect result vertical flow water formation chapman 
+experience simulation model indicate point value vertical hydraulic conductivity determine core analysis rarely represent average regional value vertical hydraulic conductivity confine unit complexity hydrologic system 
+geohydrology bedrock aquifers the northern great plain 
+jurassic and triassic old rock expose the surface 
+woo line equal transmissivity interval square foot per day variable 
+dash infer 
+approximate area where low cretaceous rock be miss the subsurface 
+transmissivity distribution use lower cretaceous aquifer simulation 
+structure associate fracture major influence vertical hydraulic conductivity confining bed 
+data petroleum reservoir study indicate fracture approximately 
+wide account percent total flow dense rock limestone 
+the importance fracture flow shale illustrate neuzil work pierre shale south dakota 
+the pierre shale consider confine bed underlie lower cretaceous aquifer 
+neuzil indicate leakage pierre shale may occur along fracture space apart 
+location north dakota pierre shale act aquifer water production near surface fracture zone 
+downey develop probably load unload glacial material pleistocene 
+study preliminary value vertical hydraulic conductivity estimate node lithologic porosity map confine bed thickness map water temperature map map geologic structure fault lineament 
+for node estimate value vertical hydraulic conductivity use calculate leakage value hydraulic conductivity divide thickness use preliminary simulation 
+during model calibration initial value leakage node adjust within reasonable limit match simulate head 
+e64 regional aquifer system analysis 
+observe potentiometric map 
+value vertical hydraulic conductivity confine layer use simulation show figure 
+storage coefficient 
+madison limestone mostly within range wyoming state engineer office downey blankennagel other 
+for simulation ngp bedrock aquifer value use storage coefficient transient simulation 
+hydrologic property data exist value storage coefficient 
+the storage coefficient confine aquifer may calculate porosity rock compressibility aquifer thickness know 
+however value difficult determine field 
+for confine aquifer storage coefficient probably range oxlo oxlo lohman 
+estimate storage coefficient aquifer test 
+discussion the regional flow system the basis model simulation the five major aquifer northern great plain constitute one large confine aquifer system united state 
+this system extend mountainous recharge area montana wyoming 
+approximate limit upper cretaceous rock kilometer explanation jurassic and triassic old rock expose the surface line equal transmissivity interval square foot per day figure 
+transmissivity distribution use upper cretaceous aquifer simulation 
+geohydrology bedrock aquifers the northern great plain 
+south dakota discharge area eastern dakotas canadian province manitoba 
+the total area comprise flow system mi2 
+all five aquifer crop receive recharge highland area western part study area fig 
+recharge also occur aquifer outcrops black hill uplift area south dakota 
+the major recharge area madison aquifer black hill south dakota plateau west flank black hill uplift 
+this limestone show many solution feature cave sinkhole 
+the wyoming state engineer office state recharge area acre amount ft3 
+virtually east 
+ward flow stream drain area lose part flow swenson wyoming state engineer office cross aquifer outcrop area 
+although small quantity recharge also receive precipitation fall directly expose rock 
+streamflow measurement several stream drain east side black hill fig 
+indicate much ft3 lose stream cross outcrop madison aquifer swenson 
+prior stream channel seal project streamflow loss ft3 report powell 
+basis similar aquifer lithology degree weather stream drain western mountainous area 
+approximate limit cambrian ordovician rock kilometer explanation precambrian rock expose the surface confine layer thin absent line equal vertical hydraulic conductivity interval square foot per day xlo variable figure 
+vertical hydraulic conductivity confine layer tkl use aquifer simulation 
+modify downey 
+e66 regional aquifer system analysis 
+approximate limit whmtnni wag 
+madison limestone 
+mississippian age old rock expose land surface area salt layer vertical hydraulic conductivity near zero 
+confine layer thin absent line equal vertical hydraulic conductivity interval square foot per day xlo variable 
+vertical hydraulic conductivity confine layer tk2 use aquifer simulation 
+modify downey 
+geohydrology bedrock aquifers the northern great plain 
+approximate limit assic cks 
+approximate limit 
+approximate limit jurassic rock 
+triassic rock 
+kilometer explanation jurassic and triassic age old rock expose the surface area salt deposit vertical hydraulic conductivity near zero line equal vertical hydraulic conductivity interval foot per day xlo figure 
+vertical hydraulic conductivity confine layer tk3 use aquifer simulation 
+regional aquifer system analysis north dakota approximate limit triassic rock 
+approximate limit triassic rock 
+approximate limit jurassic rock 
+explanation jurassic and triassic age old rock expose the surface line equal vertical hydraulic conductivity interval foot per day xlo 
+vertical hydraulic conductivity confine layer tk4 use aquifer simulation 
+bighorn mountain assume lose nearly amount flow cross outcrop paleozoic aquifer 
+recharge lower cretaceous aquifer occur infiltration outcrop area leakage underlie unit 
+miller rahn calculate recharge outcrop lower cretaceous sandstone black hill 
+assume outcrop area lower cretaceous aquifer mi2 case iii write commun black hill area recharge approximately ft3 recharge would enter aquifer 
+brown gag many stream 
+along eastern flank black hill 
+contrast water loss paleozoic aquifer brown note measurable stream loss observe stream detect outcrop cretaceous rock 
+recharge cretaceous aquifer may occur paleozoic rock shallow depth recharge area black hill 
+schoon postulate recharge occur black hill area distinguish relative amount recharge unit 
+while surface water data indicate large quantity water enter aquifer along outcrop area western highland water recharges deep 
+geohydrology bedrock aquifers the northern great plain 
+regional flow system move eastern discharge area 
+large part water enter aquifer move shallow depth short distance discharge along flank mountainous area spring seeps rahn cry hodson swenson 
+the fraction total recharge remain aquifer enters regional flow system show diagrammatically cambrian ordovician madison aquifer plate 
+the predevelopment flow regime aquifer indicate result model simulation completion calibration summarize plate 
+the rate recharge show select recharge area infiltration enters aquifer area close land surface remain within regional flow system 
+discharge madison pennsylvanian aquifer adjacent overlie formation along 
+eastern subcrop unit 
+discharge cambrian ordovician aquifer adjacent shallow aquifer spring seeps lake agassiz basin north dakota canada cambrian ordovi cian formation crop 
+discharge lower cretaceous aquifer mainly upward overlie unit eastern south dakota fig 
+along subcrop lower cretaceous formation lake agassiz basin north dakota 
+considerable water discharge low cretaceous aquifer unused well along missouri james river valley south dakota 
+discharge estimate lower cretaceous aquifer show plate 
+ground water discharge spring locate along outcrop paleozoic rock canadian province manitoba van everdingen appear 
+note ground water leave area lower cretaceous aq4 aquifer rate ftvs 
+glacial material tertiary upper cretaceous cretaceous 
+vertical exaggeration x140 
+line section figure 
+lower cretaceous jurassic triassic pennsylvanian permian mississippian devonian silurian cambrian ordovician pennsylvanian permian precambrian mississippian pennsylvanian permian mississippian explanation aquifer layer tk1 confine layer direction ground water movement recharge inflow water the aquifer number indicate rate inflow cubic foot per second discharge outflow water from aquifer number indicate rate outflow cubic foot per second 
+generalize hydrogeologic cross section show characteristic ground water recharge flow leakage discharge northern great plain 
+e70 regional aquifer system analysis 
+effect composition water lake winnipegosis lake manitoba 
+water lakes contains much chloride spring along shoreline discharge ft3 water concentration dissolve solid range 
+the dominant ion present water sodium chloride 
+seven spring locate shore lake winnipegosis northern manitoba discharge ft3 devonian rock underlie lake cole 
+because slow movement ground water fig 
+short residence time since glacial ice cover area manitoba water discharge spring probably mixture brine deep part aquifer glacial melt water recharge aquifer aquifer cover glacial ice 
+the range concentration dissolve solid may indicate water mixture three flow component flow brine area see fig 
+water recharge pleistocene glacial ice fresher water flow south along flow path black hill 
+the madison aquifer crop eastern part study area 
+the formation compose aquifer terminate subsurface overlie young rock consist mostly shale 
+thus discharge madison aquifer area consist vertical leakage overlie unit horizontal leakage 
+cambrian ordovician aquifer 
+because canadian province saskatchewan manitoba stratigraphic unconformities paleozoic aquifer overlie confine unit result favorable condition accumulation oil gas stratigraphic trap mccabe ground water discharge concentrate along eastern rather northern limit madison aquifer 
+corollary condition area generally must unfavorable discharge ground water madison aquifer vertical leakage 
+area minimal ground water flow eastern flank williston basin coincides area water high concentration dissolve solid brine large fluid density fig 
+three hypothesis consider interpret flow near area water high density 
+the first hypothesis brine area static hydrologic situation similar describe hubbert freshwater flow synclinal structure come contact static dense brine along sharp interface 
+hubbert show body saline water condition lie uniformly deep part structure rather displace upward along base outflow flank inflow flank occupy entirely move freshwater outflow flank contain static brine lower part aquifer move freshwater brine area 
+the flow freshwater williston basin around dense 
+brine area well flow pattern reflect structure actually basin rather simple syncline analyze hubbert 
+the flow brine area apparently leak upward unit overlie madison rather contain upper part madison 
+simulation result however show small consistent flow velocity generally direct east northeast high density brine cambrianordovician madison aquifer 
+the simulation indicate small component regional flow actually move directly across williston basin west east high density brine area 
+the low flow velocity brine area demonstrate brine static hubbert theorize synclinal model 
+the second hypothesis assume slow movement flow exist brine 
+this hypothesis allow explanation origin brine brine may attribute solution salt halite bed water move basin describe grossman 
+the process solution enhance increase water temperature depth high salinity find region high temperature 
+reduction salinity updip area eastern flank basin presumably due least part precipitation halite associate cooler temperature although dilution fresher water also undoubtedly factor 
+extent precipitation halite occur result gradual reduction permeability geologic time interval area precipitation occurs 
+velocity flow slow relative elsewhere system flow fresher water appear deflect around brine north south leakage upward confine bed aquifer overlie madison aquifer 
+thus hydraulics density distribution resemble would observe system totally static brine 
+the third hypothesis assume brine motion seek adjust change recharge discharge associate end pleistocene glaciation 
+these change discuss 
+brine static condition pleistocene glaciation condition could equilibrium new condition impose retreat ice sheet 
+the brine would begin move end glaciation would seek new equilibrium new recharge discharge readjustment could still progress 
+such process could contribute extent apparent movement brine however velocity compute simulation appear indicate flow across basin rather adjustment glacial change 
+summary second hypothesis slow flow movement exist brine seem agree best simulation result observe data 
+origin brine appear solution halite 
+density brine increase density change increase 
+geohydrology bedrock aquifers the northern great plain 
+explanation highland area 
+rate movement water cambrian ordovician aquifer aql 
+modify downey 
+e72 regional aquifer system analysis 
+approximate limit madison limestone 
+explanation highland area 
+figure rate movement water madison aquifer aq2 
+modify downey 
+geohydrology bedrock aquifers the northern great plain glacial material tertiary cretaceous 
+jurassic pennsylvanian permian triassic pennsylvanian permian mississippian devonian silurian cambrian ordovician precambrian 
+vertical exaggeration x140 
+line section figure 
+explanation area brine that exceed concentration dissolve solid 
+diagrammatic cross section show general location brine williston basin northern great plain location cross section see fig 
+influence flow pattern 
+the increase density cause fresh water divert around brine north south brine leak upward formation overlie madison aquifer 
+although second hypothesis seem acceptable element two hypothesis also observe field 
+the present configuration brine outflow side basin generally low velocity approximate static brine situation describe hubbert even though brine totally static 
+addition distribution saline water may still shift response change recharge discharge end pleistocene glaciation 
+saline water also find part project area example deeper part powder river basin although concentration encounter 
+williston basin 
+similar process presumably apply explain distribution movement saline water 
+because highland recharge area cover major ice sheet glacial stage pleistocene recharge continue available bedrock aquifer glaciation 
+this condition would enable solution halite along western edge williston basin glacial period 
+because short residence time low flow velocity involve brine would move would tend remain general location see 
+the flow pattern cambrian ordovician aquifer 
+generally similar madison aquifer although cambrian ordovician aquifer extend far 
+e74 regional aquifer system analysis 
+east north madison crop canadian province manitoba 
+already note see recharge discharge pattern may significantly different glacial period pleistocene present 
+such variation would number implication term regional flow pattern 
+the existence water base continental ice sheet suggest many investigator robin gow veda garfield mcginnis 
+the water result melt base ice geothermal frictional heat 
+mcginnis estimate heat available temperate ice sheet source could produce ft3 meltwater per square foot surface area ice sheet per year 
+this water might least area high pressure weight overlie ice case widespread areal recharge ground water system occur area cover continental ice sheet 
+the configuration ice northern great plain vary continuously pleistocene flint result distribution recharge would vary continuously 
+high region west form present recharge area also presumably would recharge area prior glaciation glacial interglacial period pleistocene 
+however period strong glacial advance recharge would occur northern eastern part study area well 
+the regional flow ground water condition must south toward available discharge area nebraska 
+continental ice successively retreat advanced direction regional ground water flow would 
+varied accordingly generate complex history movement 
+however solution halite deep part williston basin must occur throughout history flow system velocity flow area brine accumulation must remain small regardless direction flow 
+result several hypothetical simulation condition indicate repeat change flow direction probably would result major displacement saline water rather relatively minor shift position 
+thus term deep brine glacial change probably represent transient disturbance major redistribution 
+summary flow pattern prior glaciation pre sumably similar present sustain recharge high area west 
+glaciation produce repeatedly vary pattern flow general alter pattern seem prevail long period cause major change distribution brine 
+generalize hydrogeologic cross section across eastern walsh county 
+dak show figure 
+the location cross section near eastern terminus cambrian ordovician aquifer see fig 
+the general relation cambrian ordovician aquifer shallower aquifer surface water body area illustrate figure 
+part discharge cambrianordovician aquifer apparently number saline lake eastern north dakota 
+the lake associate depression overlie deposit fine sand gravel 
+origin lake attribute artesian water discharge deep regional flow system laird 
+support hypothesis downey relate formation 
+lake deposit glacial till cretaceous low cretaceous jurassic cambrian ordovician 
+direction ground water 
+red river 
+sea level line section 
+generalize hydrogeologic cross section across eastern walsh county 
+dak show discharge area cambrian ordovician aquifer location cross section see fig 
+modify downey 
+geohydrology bedrock aquifers the northern great plain 
+lake alternation recharge discharge associate pleistocene glaciation 
+during glacial advance meltwater base ice sheet gow veda garfield mcginnis presumably force bedrock aquifer hydrostatic pressure 
+upon deglaciation hydrostatic pressure would release would allow large quantity water move rapidly bedrock system 
+this rapid movement water overlie material may result erosion lake sediment form depression lake exist today 
+that lakes function drain regional flow support geologic evidence water chemistry 
+test drilling indicate fairly thick deposit gla foot 
+cial sand gravel underlie lake depression hydraulically connect underlie bedrock downey 
+chemical analysis water sample take test hole lakes downey indicate chemical similarity water cambrian ordovician aquifer 
+these analysis indicate water able move upward bedrock aquifer glacial sand gravel deposit bottom lake 
+vertical leakage confine bed integral feature flow pattern bedrock aquifer system northern great plain fig 
+leakage aquifer may detect geochemical method although lack geochemical data many area limit application method 
+area significant leakage infer explanation direction ground water movement 
+sea level 
+wsf line section figure 
+triassic jurassic pennsylvanian permian mississippian cam brian devo nian precambrian mile 
+generalize hydrogeologic cross section show ground water discharge paleozoic mesozoic rock location cross section see fig 
+modify swenson 
+e76 regional aquifer system analysis 
+basis similarity water chemistry show figure busby lee hanshaw 
+leakage occur confine bed matrix along fracture confine bed associate lineament zone weimer other 
+confine bed present everywhere remove erosion area never deposit 
+area confine bed absent extensive hydraulic connection exist aquifer leakage tends high confine bed thick unfractured leakage low 
+leakage along fracture dependent degree fracturing 
+interconnection fracture 
+work do connection flow oil petroleum reservoir chilingar mannon rieke demonstrate fracture 
+wide could account percent flow dense rock limestone 
+study thick halites charles formation consider poorly permeable vertical flow 
+geochemical fade map show figure cambrian ordovician madison pennsylvanian lower cretaceous aquifer may use indicate area leakage occur aquifer 
+explanation mississippian age old rock expose land surface area infer leakage between cambrian ordovician and madison aquifer from geochemical data 
+area leakage between madison and low cretaceous aquifer infer swenson 
+area infer leakage paleozoic mesozoic aquifer interpret basis geochemical data 
+modify busby write commun 
+geohydrology bedrock aquifers the northern great plain 
+water type location adjoin aquifer indicate water able move two aquifer confine bed site 
+this type geochemical data use adjust vertical leakage model calibration 
+study thick halites charles formation consider poorly permeable vertical flow water 
+geochemical evidence busby write commun indicates extensive leakage occur among cambrian ordovician madison pennsylvanian aquifer northern great plain triassic jurassic formation provide low vertical permeability restrict leakage paleozoic aqui 
+fers mesozoic aquifer 
+this restrict leakage indicate extensive development paleozoic aquifer part area would severely affect mesozoic aquifer area period 
+the impact development bedrock aquifer water release storage associate confine bed must consider 
+water pump aquifer may derive part confine bed water confine bed may entirely different quality water pump aquifer 
+leakage madison aquifer low cretaceous aquifer eastern south dakota note several study include swenson 
+approximate limit cambrian ordovician rock nebraska 
+precambrian rock expose the surface 
+area principally chloride facies 
+area principally bicarbonate facies 
+combination these number indicate order dominant facies 
+area principally sulfate facies 
+distribution chemical facies water cambrian ordovician aquifer 
+from busby write commun 
+e78 regional aquifer system analysis 
+approximate limit madison limestone 
+mississippian age old rock expose land surface area principally bicarbonate facies 
+area principally chloride facies combination these number indicate order dominant facies 
+area principally sulfate facies 
+distribution chemical facies water madison aquifer 
+from busby write commun 
+geohydrology bedrock aquifers the northern great plain 
+approximate limit vanian permian 
+permian age old rock expose the surface 
+area principally chloride facies 
+area principally bicarbonate facies 
+combination these number indicate order dominant facies 
+area principally sulfate facies 
+distribution chemical facies water pennsylvanian aquifer 
+from busby write commun 
+regional aquifer system analysis 
+10o satnaatdeas98t 
+highland recharge area area principally bicarbonate facies area principally sulfate facies 
+area principally chloride facies combination these number indicate order dominant facies 
+distribution chemical facies water lower cretaceous aquifer 
+modify peter write commun 
+basis swenson theory recharge artesian basin dakota 
+swenson suggest water enters madison limestone black hill area move generally eastward approximately two third across state south dakota discharge vertical leakage lower cretaceous dakota aquifer 
+swenson area madison discharge lower cretaceous aquifer show figure 
+area significant leakage show plate discharge area confine bed thin absent madison aquifer overlie lower cretaceous aquifer 
+the pennsylvanian aquifer less thick 
+area swenson 
+geochemical facies map fig 
+indicate water pennsylvanian aquifer similar water underlie madison aquifer vertical leakage occur two aquifer area 
+swenson indicate water lower cretaceous dakota aquifer similar madison pennsylvanian aquifer area extensive leakage see 
+except flow volume result model simulation indicate swenson explanation water lower cretaceous aquifer south dakota partially due upward leakage madison aquifer basically cor 
+geohydrology bedrock aquifers the northern great plain 
+geochemical data peter write commun swenson also support conclusion water leak upward madison pennsylvanian aquifer lower cretaceous aquifer eastern south dakota north dakota fig 
+geologic structure appear important factor weimer other rate direction flow study area 
+for example casper mountain fault fig 
+appear prevent flow south powder river basin major fault system bound bighorn mountain northeast restricts recharge powder river basin 
+recharge bighorn mountains appear channeled geologic structure associate major lineament water flow northeastward 
+across northern part powder river basin south cedar creek anticline join flow black hill recharge area 
+this flow continue around southern part williston basin northeastward discharge area northeastern north dakota eastern manitoba 
+the weldon brockton fault zone fig 
+appear major channel water movement big snowy mountain associate highland area montana discharge area canada north williston basin 
+summary rock paleozoic mesozoic age form least five major aquifer underlie northern great plain 
+these aquifer crop recharge highland area eastern part montana wyoming black hill south dakota 
+from recharge area water generally flow northeastward discharge area lake agassiz basin northeastern north dakota canadian province manitoba southern saskatchewan 
+water also recharge discharged leakage aquifer adjoin unit throughout entire area however leakage increase location confine bed traverse major lineament fault confine bed thin absent 
+conceptually aquifer system consider study incorporate precambrian rock flow low boundary 
+rock cambrian ordovician age group lowermost major aquifer cambrianordovician aquifer compose principally limestone dolomite red river formation 
+rock silurian devonian age mississippian part bakken formation overlie cambrian ordovician aquifer consider confine layer 
+the second major aquifer madison aquifer consist madison limestone lodgepole mission canyon formation madison group mississippian age 
+these formation compose mainly limestone dolomite also contain minor anhydrite gypsum bed 
+the madison aquifer confine rock late mississippian age consist charles formation madison group formation big snowy group equivalent 
+this confine unit contains bed halite williston basin reduce vertical hydraulic conductivity significantly 
+this minimal vertical hydraulic conductivity prevents upward leakage madison aquifer overlie pennsylvanian aquifer williston basin 
+the third major aquifer pennsylvanian aquifer compose sandstone limestone minnelusa formation equivalent 
+this aquifer limit general western central part study area 
+the pennsylvanian aquifer confine rock permian triassic jurassic age 
+these rock compose shale siltstone minimal vertical permeability limit flow water three underlie paleozoic aquifer overlie low upper cretaceous aquifer 
+lie confine bed pennsylvanian aquifer sequence lower cretaceous sandstone siltstone term low cretaceous aquifer 
+part study area aquifer know dakota aquifer inyan kara aquifer 
+the low cretaceous aquifer develop aquifer northern great plain 
+over large part area lower cretaceous aquifer separate sandstone siltstone upper cretaceous aquifer shale limestone several upper cretaceous formation niobrara formation pierre shale 
+the upper boundary aquifer system consider study consist upper cretaceous tertiary aquifer part confine bed land surface 
+significant geologic structure important determine rate direction flow aquifer system northern great plain 
+for example casper fault wyoming appear prevent flow south powder river basin major fault system bound bighorn mountain east restricts flow recharge area mountain powder river basin 
+recharge bighorn mountains appear channeled geologic structure associate major lineament structural zone 
+recharge flow northeastward across northern part powder river basin south cedar creek anticline join flow black hill recharge area 
+this flow continue around southern part williston basin northeastward discharge area lake agassiz basin northeastern north dakota eastern manitoba 
+the weldon brockton fault zone northeastern montana appear major channel flow big snowy mountain associate highland area montana discharge area canada north williston basin 
+vertical leakage bedrock aquifer major factor discharge water system 
+e82 regional aquifer system analysis 
+leakage occur pore confine bed along fracture confine bed associate major structural zone 
+vertical leakage confine bed dependent thickness permeability confine unit 
+water quality temperature data use analyze flow paleozoic aquifer 
+dissolved solid concentration water paleozoic aquifer range less temperature 
+water temperature major effect viscosity water result large change transmissivity 
+the solution halite mineral water move recharge area toward discharge area result accumulation high density brine deep part powder river williston basin 
+because nature flow system brine force east limb williston basin toward eastern discharge area 
+the brine also cause fresh water deflect upward north south around brine 
+basis available data brine appear move slowly eastward northeastward toward discharge area northeastern north dakota manitoba may reestablish flow system exist last glacial advance 
+another effect apparent slow brine movement toward discharge area decrease formation permeability result precipitation various mineral principally halite water become cooler decrease depth 
+prior pleistocene glaciation flow system probably similar exists present recharge high area west discharge east northeast williston basin 
+glaciation cause repeat change recharge discharge pattern correspond alteration flow direction 
+however period change relative residence time water deeper part basin probably short major change distribution deep brine probably occur 
+gain stream 
+stream whose flow increase inflow ground water spring upward seeps along course 
+identical property everywhere space 
+hydraulic conductivity 
+the ease fluid pass porous material conductivity determine size shape degree interconnection pore space rock well viscosity fluid 
+this term replace field coefficient permeability express foot per day foot per second 
+hydraulic conductivity also may express cubic foot per day per square foot cubic meter per day per square meter 
+hydraulic conductivity measure prevailing water temperature 
+hydraulic static head 
+the height standard datum upper surface column water support static pressure give point term measure potential express simply head 
+lose stream 
+stream lose water ground along course 
+the ratio volume void rock total volume may express decimal fraction percentage 
+the term effective porosity refers amount interconnect pore space void rock soil express percentage total volume occupy interconnected pore 
+potentiometric surface 
+the surface represent hydraulic static head water table 
+define level water rise tightly case well 
+specific capacity 
+the rate discharge water well divide drawdown water level normally express gallon per minute per foot drawdown 
+storage coefficient 
+the volume water aquifer release take storage per unit surface area aquifer per unit change hydraulic head 
+artesian aquifer water derive storage decline hydraulic head come mainly compression aquifer less extent expansion water 
+unconfined water table aquifer water derive aquifer gravity drainage void 
+the rate water prevail temperature viscosity transmit unit width aquifer unit hydraulic gradient 
+transmissivity normally express unit square foot per day square foot per second express number cubic foot water move day hydraulic gradient vertical strip aquifer full saturate height aquifer wide 
+select reference 
+glossary aquifer 
+formation group formation part formation contain sufficient saturate permeable material yield appreciable quantity water well spring 
+artesian well 
+well static water level top confine aquifer flow artesian well well water level land surface see confine ground water 
+confine ground water 
+water aquifer bound confine bed pressure significantly great atmospheric 
+confine bed 
+body relatively impermeable material adjacent one aquifer nature hydraulic conductivity confine bed may range zero value distinctly less adjacent aquifer 
+agatston pennsylvanian lower permian northern eastern wyoming bulletin american association petroleum geologist 
+agnew tychsen guide stratigraphy south dakota south dakota state geological survey bulletin andrichuck mississippian madison group stratigraphy sedimentation wyoming southern montana bulletin america association petroleum geologist 
+anna geologic framework ground water flow system jurassic cretaceous rock northern great plain geological survey professional paper armstrong ground water resource dickey lamoure county north dakota 
+ill north dakota state water commission county ground water study 
+geohydrology bedrock aquifers the northern great plain 
+ballard structural stratigraphic relationship paleozoic rock eastern north dakota north dakota geological survey bulletin ballard red river northwest montana northwest north dakota montana geological society annual conference 20th eastern montana symposium billing mont proceeding 
+balster stratigraphic correlation montana adjacent area montana bureau mine geology special publication chart 
+barkley artesian condition area surround sioux quartzite ridge south dakota state geological survey report investigation beding reed griffin digital computer program analysis ground water flow geological survey open file report berry hanshaw 
+geologic field evidence suggest membrane property shales ab 
+international geological congress 21st copenhagen proceeding 
+blankennagel howells miller completion test madison limestone test well nw1 4se1 sec 
+yellowstone county montana geological survey open file report blankennagel howells miller hansen preliminary data madison limestone test well nw1 4se1 sec 
+yellowstone county montana geological survey open file report blankennagel miller brown gush report preliminary data madison limestone test well ne1 4se1 sec 
+crook county wyoming geological survey open file report boggs jenkins analysis aquifer test conduct proposed burdock uranium mine site burdock south dakota tennessee valley authority office natural resource division water resource water system development branch report 
+wr28 brown report investigation water loss stream flow east black hill south dakota department agriculture soil conservation service special report brown wrench style deformational pattern associate meridional stress axis recognize paleozoic rock part montana south dakota wyoming montana geological society annual conference 24th williston basin symposium billing mont guidebook 
+brown blankennagel busby lee preliminary data madison limestone test well se1 4se1 sec 
+custer county montana geological survey open file report brown blankennagel maccary peterson 
+correlation paleostructure sediment deposition madison limestone associate rock part montana north dakota south dakota wyoming nebraska geological survey open file report busby lee hanshaw 
+major geochemical process related hydrology madison aquifer system associate rock part montana south dakota wyoming geological survey water resource investigation report carlson anderson stratigraphy winnipeg deadwood formation north dakota north dakota geological survey bulletin sedimentary tectonic history north dakota part williston basin bulletin american association petroleum geologist 
+carlson bakken kume 
+subsurface geology development petroleum north dakota north dakota geological survey bulletin carlson eastwood upper ordovician silurian rock north dakota north dakota geological survey bulletin chapman effect oil gas accumulation water movement bulletin american association petroleum geologist 
+chilingar mannon rieke ill oil gas production carbonate rock new york american elsevier publishing cole the salt deposit canada salt industry canadian department energy mine resource mine branch report croft method calculate permeability electric log geological survey research geological survey professional paper b265 b269 
+darcy henri les fontaines publiques ville dijon the water supply dijon paris victor dalmont darton preliminary report artesian water portion dakota 
+geological survey 17th annual report 
+geology underground water south dakota geological survey water supply paper davis dyer powell progress report well penetrate artesian aquifer south dakota geological survey water supply paper degraw subsurface relation cretaceous tertiary nebraska geological survey open file report demille shouldice nelson collapse structure relate evaporite prairie formation saskatchewan geological society america bulletin 
+dewild grant groundwater investigation worth well south lincoln rural water system sioux fall 
+dak reckert associate dinwiddie other plan study northern great plain regional aquifer system analysis part montana north dakota south dakota wyoming geological survey waterresources investigation downey pederson reid ed geology northeastern north dakota north dakota geological survey miscellaneous series 
+ground water resource walsh county northeastern north dakota geological survey hydrologic investigation atlas scale 
+ground water resource nelson walsh county north dakota 
+ill north dakota geological survey bulletin 
+ill north dakota state water commission county ground water study geohydrology madison associate aquifer part montana north dakota south dakota wyoming geological survey open file report geohydrology madison associate aquifer part montana north dakota south dakota wyoming geological survey professional paper g47 
+downey armstrong ground water resource griggs steele county north dakota 
+ill north dakota geological survey bulletin 
+ill north dakota state water commission county ground water study downey paulson predictive modeling effect plan kindred lake ground water level discharge southeastern north dakota geological survey water resource investigation 
+e84 regional aquifer system analysis 
+downey weiss preliminary data set threedimensional digital model red river madison aquifer geological survey open file report dunham geology uranium chadron area nebraska south dakota geological survey open file report dyer goehring artesian water supply dakota formation southeastern south dakota geological survey openfile report earlougher advance well test analysis dallas tex society petroleum engineer american institute mining metallurgical petroleum engineer monograph elson 
+geology glacial lake agassiz mayer oak life land water conference environmental study glacial lake agassiz region winnipeg proceeding winnipeg manitoba canada university manitoba press 
+erickson artesian condition east central south dakota south dakota state geological survey report investigation artesian condition northeastern south dakota south dakota state geological survey report investigation feltis 1980a potentiometric surface map water madison group montana montana bureau mine geology hydrogeologic map scale 
+1980b dissolved solid ratio map water madison group montana montana bureau mine geology hydrologic map scale sheet 
+flint glacial quaternary geology new york john wiley foster ordovician system geologic atlas rocky mountain region denver rocky mountain association geologist 
+fuller mississippian rock oilfield southeastern saskatchewan province saskatchewan department mineral resource ordovician contiguous formation north dakota south dakota montana adjoin area canada united state bulletin american association petroleum geologist 
+gott wolcott bowles stratigraphy inyan kara group localization uranium deposit southern black hill south dakota wyoming geological survey professional paper gow veda garfield antarctic ice sheet preliminary result first core hole bedrock science 
+cry cretaceous rock williston basin bulletin american association petroleum geologist 
+cry rahn baker pump test dakota sandstone wall south dakota south dakota state geological survey circular grossman origin sodium sulfate deposit northern great plain canada united state geological survey research geological survey professional paper b104 b109 
+hamilton geology water resource mcpherson edmunds faulk county south dakota 
+water resource south dakota state geological survey bulletin hanshaw 
+brown gush konikow peterson 
+hydrogeologic study regional carbonate rock aquifer system congress international association hydrogeologists 13th birmingham england memoir series xiii 
+a24 a35 
+busby lee geochemical aspect madison aquifer system montana geological society annual conference 24th williston basin symposium billing mont guidebook 
+head kilty knottek map show formation temperature configuration top minnelusa formation madison limestone powder river basin wyoming montana adjacent area geological survey miscellaneous investigation map 
+head merkel hydrologic characteristic madison limestone minnelusa formation equivalent rock determine well log formation evaluation wyoming montana south dakota north dakota geological survey journal research 
+hilchie apply openhole log interpretation geologists engineer golden colo douglas hilchie inc 
+hitchon brian fluid flow western canada sedimentary basin effect geology water resource research 
+hoda badrul feasibility subsurface waste disposal newcastle formation lower dakota group cret minnelusa formation penn western north dakota detroit mien wayne state university unpublished 
+thesis hodson record water well spring oil gas test hole chemical analysis water madison limestone equivalent rock powder river basin adjacent area northeastern wyoming wyoming state engineer report hopkins deep aquifer eastern montana montana geological society annual conference 24th williston basin symposium billing mont guidebook 
+howells geohydrology crow creek low brule indian reservation south dakota geological survey hydrologic investigation atlas scale sheet 
+geohydrology cheyenne river indian reservation south dakota geological survey hydrologic investigation atlas scale sheet 
+geohydrology stand rock indian reservation north south dakota geological survey hydrologic investigation atlas scale sheet 
+howells stevens geology water resource beadle county south dakota 
+water resource south dakota state geological survey bulletin hubbert the theory ground water motion relate paper new york hafner publish imlay jurassic paleobiogeography conterminous united state continental set geological survey professional paper irwin general theory epeiric clear water sedimentation bulletin american association petroleum geologist 
+jennings structural analysis northern bighorn mountain wyoming iowa city iowa university iowa unpublished dissertation kanasewich precambrian rift genesis stratum bound ore deposit science 
+keefer structural geology wind river basin wyoming geological survey professional paper d35 
+keefer van lieu 
+paleozoic formation wind river basin wyoming geological survey professional paper b60 
+keen ground water resource western half fall river county south dakota south dakota state geological survey report investigation koch geology water resource campbell county south dakota 
+water resource south dakota state geological survey bulletin geology water resource marshall county south dakota 
+water resource south dakota state geological survey bulletin 
+geohydrology bedrock aquifers the northern great plain 
+geology water resource hand hyde county south dakota 
+water resource south dakota state geological survey bulletin koch bradford wendall geology water resource brown county south dakota 
+water resource south dakota state geological survey bulletin konikow preliminary digital model ground water flow madison group powder river basin adjacent area wyoming montana south dakota north dakota nebraska geological survey water resource investigation hydrogeologic consideration interstate ground water compact madison aquifer northern great plain geological survey open file report kososki 
+robbins situ bulk density porosity estimate borehole gravity data madison group test well 
+crook county wyoming geological survey open file report laird the geology ground water resource emerado quadrangle north dakota geological survey bulletin land petroleum geology united state new york john wiley lobmeyer preliminary potentiometric surface map show freshwater head lower cretaceous rock northern great plain montana north dakota south dakota wyoming geological survey open file report scale 
+lobmeyer anna busby preliminary data northern great plain test well nw1 4ne1 sec 
+sheridan county wyoming geological survey open file report lohman ground water hydraulics geological survey professional paper reprint 
+lohman other definition select ground water term revision conceptual refinement geological survey water supply paper lowry the relative importance regional local groundwater system powder river structural basin wyoming montana ab 
+annual rocky mountain groundwater conference 10th laramie wyo proceeding 
+maccary apparent water resistivity porosity groundwater temperature madison limestone underlie rock part montana nebraska north dakota south dakota wyoming geological survey open file report maccary gush brown potentially favorable area large yield well red river formation madison limestone part montana north dakota south dakota wyoming geological survey professional paper e13 
+mccabe mississippian oil field southwestern manitoba manitoba department mine natural resource mine branch publication mcginnis glaciation possible cause mineral deposition economic geology 
+maier ripley formation evaluation drill stem test ontario petroleum institute conference 6th london ontario proceeding maughan environment deposition permian salt williston alliance basin rau symposium salt geology geochemistry mining cleveland ohio proceeding cleveland ohio northern ohio geological society 
+eastern wyoming eastern montana dakota chap 
+mckee oriel other paleotectonic investigation permian system united state geological survey professional paper g125 g152 
+problem soft water supply dakota sandstone special reference condition canton south 
+dakota geological survey water supply paper c147 c170 
+meyboom peter groundwater study assiniboine river drainage basin geological survey canada bulletin meyer chart relate well diameter specific capacity coefficient transmissibility storage bentall ray compiler method determine permeability transmissibility drawdown geological survey water supply paper 
+miller diagenesis sedimentary rock wyoming geological association annual conference 12th symposium recently develop geologic principle sedimentation permo pennsylvanian rocky mountain casper wyo proceeding 
+miller rahn recharge dakota sandstone outcrop black hill south dakota bulletin association engineering geologist 
+miller water carbonate rock madison group southeastern montana preliminary evaluation geological survey water supply paper miller strausz 1980a preliminary map show freshwater head red river formation bighorn dolomite equivalent rock ordovician age northern great plain montana north dakota south dakota wyoming geological survey open file report scale 
+1980b preliminary map show freshwater head mission canyon lodgepole limestone equivalent rock mississippian age northern great plain montana north dakota south dakota wyoming geological survey open file report scale 
+milly mathematical model groundwater flow sulphate transport major aquifer south dakota princeton princeton university unpublished 
+thesis murphy the interpretation calculation formation characteristic formation test data duncan okla halliburton service division halliburton neuzil fracture leakage cretaceous pierre shale significance underground waste disposal baltimore john hopkins university unpublished dissertation nordquist mississippian stratigraphy northern montana billing geological society annual field conference 4th guidebook 
+olsen simultaneous flux liquid charge saturate kaolinite soil science society america proceeding 
+patterson ordovician stratigraphy correlation north america bulletin american association petroleum geologist 
+peter press hydrochemistry lower cretaceous sandstone aquifer northern great plain national water well association dakota symposium 1st lincoln nebr proceeding 
+marine jurassic northern rocky mountain williston basin bulletin american association petroleum geologist 
+sedimentary history sweetgrass arch billing geological society annual field conference 17th guidebook 
+jurassic system geologic atlas rocky mountain region denver rocky mountain association geologist 
+subsurface geology porosity distribution madison limestone underlying formation powder river basin northeastern wyoming southeastern montana adjacent area geological survey open file report stratigraphy sedimentary facies madison limestone associate rock part montana north dakota south dakota wyoming nebraska geological survey open file report 
+e86 regional aquifer system analysis 
+finder bredehoeft application digital computer aquifer evaluation water resource research 
+porter fuller ordovician silurian geological history western canada calgary alberta canada alberta society petroleum geologist 
+potter brown the volumetric property aqueous sodium chloride solution pressure bar base regression available data literature geological survey bulletin powell construction history technical detail sheridan dam black hill engineer 
+rahn cry large spring black hill south dakota wyoming south dakota state geological survey report investigation redden 
+norton precambrian geology black hill mineral water resource south dakota 94th congress 1st session senate committee interior insular affair report 
+rice correlation chart cretaceous paleocene rock northern great plain geological survey oil gas investigation chart 
+robin the movement temperature distribution glacier ice sheet journal glaciology 
+rocky mountain association geologists geological atlas rocky mountain region denver 
+hirschfeld press roehl stony mountain ordovician interlake silurian facies analogs recent low energy marine subaerial carbonate bahamas bulletin american association petroleum geologist 
+rise mississippian carbonate shelf margin western united state geological survey journal research 
+rothrock structure south black hill south dakota state geological survey report investigation rothrock robinson artesian condition westcentral south dakota south dakota state geological survey report investigation russell the origin artesian pressure economic geology 
+sale crustal mechanic cordilleran foreland deformation regional scale model approach bulletin american association petroleum geologist 
+sandberg distribution thickness devonian rock williston basin central montana north central wyoming geological survey bulletin 
+geology williston basin north dakota montana south dakota reference subsurface disposal radioactive waste geological survey open file report tei sandberg hammond devonian system williston basin central montana bulletin american association petroleum geologist 
+sandberg pool conodont biostratigraphy deposit complex upper devonian craton platform continental shelf rock western united state murphy berry sandberg ed western north america devonian university california riverside campus museum contribution 
+sando ancient solution phenomenon madison limestone mississippian north central wyoming geological survey journal research 
+1976a madison limestone east flank bighorn mountain wyoming wyoming geological association annual field conference 28th guidebook 
+1976b mississippian history northern rocky mountain region geological survey journal research 
+sando dutro sandberg mamet revision mississippian stratigraphy eastern idaho northeastern utah geological survey journal research 
+sando gordon mackenzie dutro stratigraphy geologic history amsden formation mississippian pennsylvanian wyoming geological survey professional paper a83 
+schoon geology hydrology dakota formation south dakota south dakota state geological survey report investigation shepard the artesian water south dakota south dakota agriculture college experiment station bulletin slack paleotectonics hydrocarbon accumulation powder river basin wyoming bulletin american association petroleum geologist 
+smith deposit cycle lodgepole formation mississippian central montana montana geological society annual field conference 21st guidebook 
+sonnenberg tectonic pattern central montana billing geological society annual field conference 7th guidebook 
+steece preliminary map precambrian surface south dakota south dakota state geological survey mineral resource investigation map scale inch mile 
+structural geology outside black hill mineral water resource south dakota 94th congress 1st session senate committee interior insular affair report 
+deadwood formation williston basin montana geological society annual conference 24th williston basin symposium billing mont guidebook 
+steece howells geology ground water supply sanborn county south dakota south dakota state geological society bulletin stenzel sheila bus rebecca busby map show dissolved solid concentration water red river formation mission canyon limestone north dakota south dakota part wyoming montana geological survey open file report scale sheet 
+stern sacrison hanson structural history southwestern wyoming evidence outcrop seismic rocky mountain association geologists symposium deep drilling frontier central rocky mountain steamboat spring colo proceeding 
+stone wrench fault rocky mountain tectonics wyoming geological association earth science bulletin 
+principal horizontal stress central rocky mountain versus california the mountain geologist 
+tectonic sketch map central rocky mountain wyoming geological association annual field conference 23d guidebook scale inch mile 
+stone iterative solution implicit approximation multidimensional partial differential equation society industrial applied mathematics journal numerical analysis 
+swenson new theory recharge artesian basin dakota geological society america bulletin 
+swenson miller hodson visher map show configuration thickness potentiometric surface water quality madison group powder river basin wyoming montana geological survey miscellaneous investigation series scale sheet 
+thorn the relation deep seat faults surface structural feature central montana bulletin american association petroleum geologist 
+geohydrology bedrock aquifers the northern great plain 
+thomas continental plate tectonics southwest wyoming renfro symposium wyoming tectonics economic significance casper wyo guidebook casper wyo wyoming geological association 
+lineament block tectonics williston blood creek basin bulletin american association petroleum geologist 
+todd hall geology water resource part lower james river valley south dakota geological survey water supply paper trescott documentation finite difference model simulation three dimensional ground water flow geological survey open file report trescott larson supplement geological survey open file report documentation finite difference model simulation three dimensional ground water flow geological survey open file report geological survey plan study hydrology madison limestone associate rock part montana nebraska north dakota south dakota wyoming geological survey openfile report 
+van everdingen study formation water western canada geochemistry hydrodynamics canadian journal earth science 
+waage stratigraphy inyan kara group black hill geological survey bulletin 
+warner the colorado lineament middle precambrian wrench fault system geological society america bulletin 
+weertman johannes general theory water flow base glacier ice sheet review geophysics space physic 
+weimer emme farmer anna davis kidney tectonic influence sedimentation early cretaceous east flank powder river basin wyoming south dakota colorado school mine quarterly 
+weiss emanuel model simulation flow variabledensity ground water three dimension steady state condition geological survey open file report wyoming state engineer office underground water supply madison limestone cheyenne wyo investigation recharge groundwater reservoir northeastern wyoming powder river basin washington old west regional commission 

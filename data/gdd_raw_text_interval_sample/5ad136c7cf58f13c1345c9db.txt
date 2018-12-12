@@ -1,0 +1,425 @@
+Ecological Economics 146 (2018) 312–324
+Contents lists available at ScienceDirect
+Ecological Economics
+journal homepage: www.elsevier.com/locate/ecolecon
+Analysis
+The Dynamics of Human–Environment Interactions in the Collapse of the Classic Maya
+Sabin Roman*,a,b, Erika Palmerc, Markus Bredea,b
+a Institute for Complex Systems Simulation, University of Southampton, UK b Agents, Interaction and Complexity Group, School of Electronics and Computer Science, University of Southampton, UK c Challenges to Advanced Democracies (CHAD) Research Group, Department of Comparative Politics, University of Bergen, Norway
+
+T
+
+ABSTRACT
+In this study we investigate the societal development of the Maya in the Southern Lowlands over a span of approximately 1400 years and explore whether societal dynamics linked to the depletion of natural resources can explain the rise and fall of the Classic Maya. We propose a dynamical systems model that accounts for the state of the land, population and workers employed in swidden and intensive agriculture and monument building. Optimisation of model output to ﬁt empirical data ﬁxes biometric parameters to values consistent with the literature and requires that a shift from swidden to more intensive agriculture took place at around 550 CE. The latter prediction is consistent with the dating of the beginning of the Late Classical period. Thus, our model oﬀers an explanation of the collapse of the society of the Maya and suggests that the role of droughts may have been overestimated. Consistent with previous work, the collapse can be modelled by a critical transition (supercritical Hopf bifurcation), where the critical parameter is the harvesting rate per capita of intensive agriculture. Furthermore, an extensive sensitivity analysis indicates that the model and its predictions are robust.
+
+1. Introduction
+The collapse of the Classic Maya has been the subject of considerable focus in the published literature, with many diﬀerent hypotheses having been proposed regarding the underlying causes and drivers for the collapse (Tainter, 1988; Aimers, 2007; Turner and Sabloﬀ, 2012). It is important to check to which degree these narratives are consistent with the historical record, which requires mathematical or computational modelling (Turchin, 2003b). Beyond this, Occam’s razor needs to be applied, which means checking if simple hypotheses are enough to explain collapse. If the simple hypotheses are enough, this then helps to put more complex explanations into perspective.
+The aim of this study is to explore whether a nonlinear dynamical system focused on socio-environmental feedbacks can account for the observed data about the Maya civilisation. In the present study, we identify and quantify some key feedback mechanisms of the socio-environmental system of the Lowland Classic Maya by building a model that captures the diﬀerent specialisations of the majority of the population, and links them to the resource abundance in the environment and the number of monuments built over time.
+We show that, if less intensive (e.g., swidden) agriculture would have remained the dominant method of food production, then the rapid
+
+increases in population levels that occurred around 700 CE and the concomitant extent of monument construction would not have taken place. We numerically determine that a match of the model’s outputs to the archaeological record requires assumptions about a change in farming practices from less to more intensive agriculture around the year 550 CE. This change eventually leads to a severe depletion of agricultural resources and largely accounts for a steep drop in population numbers around the year 900 CE.
+Hence, we ﬁnd that, from 550 CE onward, an increased spread of intensive agricultural practices can account for the observed archaeological record of the Maya society as reconstructed in the demographic data of Folan et al. (2000) and monument building rates reported in Erickson (1973). In similar fashion to the work of Anderies (2003), by carrying out extensive sensitivity testing, we ensure the robustness of our ﬁndings. In addition to this, by changing assumptions about precipitation levels, we can also analyse the impact of droughts and ﬁnd that the dynamical model can reproduce historical data with and without assuming reductions in precipitation.
+To the best of our knowledge, the present work provides the ﬁrst robust mathematical model of the Maya society that accurately reproduces the historical trends regarding population growth, as presented by Folan et al. (2000), and the building rate of monuments, as
+
+* Corresponding author at: Institute for Complex Systems Simulation, University of Southampton, UK. E-mail address: sr10g13@soton.ac.uk (S. Roman).
+https://doi.org/10.1016/j.ecolecon.2017.11.007 Received 18 April 2017; Received in revised form 15 September 2017; Accepted 11 November 2017 Available online 22 November 2017 0921-8009/ © 2017 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY license (http://creativecommons.org/licenses/BY/4.0/).
+
+S. Roman et al.
+
+Ecological Economics 146 (2018) 312–324
+
+found in the work by Erickson (1973), and also available in Tainter (1988, p. 165). The collapse can be understood as driven by a critical transition in the system (a supercritical Hopf bifurcation), where the critical parameter is the harvesting rate per capita of intensive agriculture. Importantly, this is consistent with previous ﬁndings regarding Easter Island (Roman et al., 2017) and generalises its conclusion that collapse can be modelled as a certain type of critical transition. The collapse is thus understood as an endogenous process in the socio-environmental system and questions the importance of contingent events, such as catastrophic droughts. Our modelling thus suggests that a sociocultural process might have led to the widespread, permanent adoption of intensive agriculture, which has been a key driver of the rapid growth and expansion of the Maya civilisation starting in the Late Classic Period, as well as the cause of their later decline.
+It is important to note that, given the vast array of potential aspects that can be studied regarding the Classic Maya, we do not aim for a model that gives an accurate representation of each potential factor. Furthermore, the deﬁnition of societal collapse and how it applies to the Maya has been an issue of ongoing debate (Aimers, 2007). Rather, we address an Occam’s razor-type question, and investigate if a small set of interlocking factors could potentially account for the available data about the Maya society, in particular the signiﬁcant decline in population and monument construction that occurred after 800 CE.
+The paper is organised as follows. In Section 2 we highlight some of the main theories regarding the collapse of the Classic Maya and provide a review of the quantitative (mathematical or computational) modelling regarding it. Following on, in Section 3 we present a parsimonious model of the Maya society and their human–environment interaction. The results of the model, which are analysed in Section 4, demonstrate an excellent match to empirical data for the evolution of the crude growth rates, population levels and building rates. Finally, we provide a summary of results in Section 5. The results are complemented by two appendices: Appendix A includes a simpliﬁed mathematical treatment of the critical transitions undergone by the model we propose, and in Appendix B we present a detailed sensitivity analysis.
+2. Literature Review
+Hypotheses for the collapse of the Maya can generally be separated into two categories: (i) socio-political, such as class conﬂict (Hamblin and Pitcher, 1980; Chase and Chase, 2005), inter-site warfare (Webster, 2000; Inomata, 2008), changes in trade routes (Demarest et al., 2014) or pathological ideological systems (Dornan, 2004; O’Mansky and Dunning, 2004); and (ii) environmentally related, which includes soil erosion (Beach and Dunning, 2006; Anselmetti et al., 2007), volcanic activity (Gill and Keating, 2002; Tankersley et al., 2011), deforestation (Oglesby et al., 2010; McNeil et al., 2010), diseases (Acuna-Soto et al., 2005) and climate change induced drought (Hodell et al., 2001; Haug et al., 2003; Hodell et al., 2005; Gill et al., 2007; Webster et al., 2007; Medina-Elizalde et al., 2010; Medina-Elizalde and Rohling, 2012; Kennett et al., 2012; Douglas et al., 2015).
+Concomitant with present day concerns with climate change, the drought hypothesis for the Maya collapse has received signiﬁcant attention in recent years. A strong case has been made for climate change and drought as the main contributing factors towards the collapse of the Lowland Classic Maya; however, single-factor explanations of the collapse can misrepresent the underlying complexities of the Maya socioenvironmental system, which shows a wide range of diverse features over space and time (Aimers, 2007; Dunning et al., 2012; Turner and Sabloﬀ, 2012).
+Some researchers have been more skeptical with regard to the signiﬁcance of drought episodes in the context of the Maya collapse; Robichaux (2002), Aimers and Hodell (2011) and Dunning et al. (2012) argue for the need of a more integrated understanding of the sociocultural processes along with environmental constraints. This view is
+
+supported by Robichaux (2002) who highlights that the initial signs of collapse are also present in water-advantaged areas.
+Rosenmeier et al. (2002) distinguish two possibilities for explaining observed isotope concentrations in Lake Salpetén, Guatemala: either greater aridity or decreased water intake by the lake due to forest recovery (which implies previous deforestation). Aimers and Hodell (2011) point out that some climate data has been highly localised, and this prohibits us from generalising across length scales of several thousand miles. Also, even though some experimental methods provide annual resolution in the data collection, this does not guarantee annual accuracy.
+Furthermore, the calibration between proxies and actual rainfall is not necessarily exact. Luzzadder-Beach et al. (2012) show that site abandonment occurred even in wetlands where eﬀects of drought are not as signiﬁcant. Carleton et al. (2014) reassess the conclusions of Hodell et al. (2005, 2001) and determine that they are methodological artefacts, which cast doubt on the drought cycle hypothesis. While drought and water scarcity certainly played a role in the dynamics of the Maya society, socio-cultural processes are at least equally important and should be quantiﬁed (Aimers and Hodell, 2011).
+2.1. Numerical Models of the Dynamics of the Maya Society
+Quantitative modelling of the dynamics of the Maya society has had a sparse history and began with an early model proposed by Hosler et al. (1977), developed within the framework of system dynamics (Forrester, 1961). The model attempts to capture in mathematical form the best of historical knowledge and understanding at the time about the Maya (Coyle, 2000). The model manages this using 40 variables but, despite it’s complexity, the model’s realism is debatable as it predicts an average life span of 13 years for the Maya, many of whom were building monuments despite the lack of available food. As noted by Sharer (1977), the timescales and dynamics in the model output are not consistent with the actual data.
+Hamblin and Pitcher (1980) incorporate diﬀerent hypotheses into one-equation models regarding monument building at Maya sites and ﬁnd that the class conﬂict hypothesis of collapse ﬁts the data best. Compared to Hosler et al. (1977), the models of Hamblin and Pitcher (1980) are much simpler and “the attempt to cast explanations of collapse into mathematical form points the way for the next generation of collapse models” (Lowe, 1982, p. 643). Despite a good ﬁt to data, the models lack a good ﬁt between their conceptual and mathematical elements because the same mathematical relationship can be used to support completely diﬀerent views of the collapse (Lowe, 1982). Furthermore, the models lack any feedback between their variables and are therefore too simple to capture enough systemic features of Maya society to provide an accurate description of it or at least allow for a univocal interpretation.
+Several system dynamics models, similar in spirit to Hosler et al. (1977), have recently been developed. The focus of these models is the demographical evolution of the Maya (Forest, 2007; Bueno, 2011; Forest, 2013). While all these models attempt to capture societal feedbacks and features of the Maya society, their validity is questionable. The models of Forest (2007, 2013) conclude that either involvement in warfare or climatic variations are suﬃcient to account for the collapse. However, the model of Forest (2007) shows that population is close to maximum before 600 CE and that the population levels undergo a boom–bust cycle of 800 years, while the results of Forest (2013) show a collapse before 800 CE and population cycle of 600 years. Both outcomes are inconsistent with reconstructed time series of the archaeological record (Folan et al., 2000, p. 12). In contrast, the model of Bueno (2011) shows qualitative agreement with the archaeological data on the overall trend of population levels. However, the model proposed by Bueno (2011) is highly sensitive to parameter changes. A critical parameter is the fraction of population engaged in warfare. Above a certain threshold, not enough people would be available to harvest and
+
+313
+
+S. Roman et al.
+
+Ecological Economics 146 (2018) 312–324
+
+produce food, leading to a collapse. Such high sensitivity of behaviour based on a single parameter is unrealistic, as it suggests that the society could have averted collapse by slightly reducing its army.
+More recently, Kuil et al. (2016) developed a dynamical socio-hydrological model to examine the impact of water scarcity on the Maya in the Classic Period (400–830 CE). A main result of the simulations is that a modest reduction in precipitation could have led to an 80% reduction in the population. Nevertheless, they point out that the population density and sensitivity of crops to variations in precipitation may have had an equally important role. The model has ﬁndings consistent with the archaeological record of population growth and decline. However, Kuil et al. (2016) recognise that the model outcomes show sensitivity to its parameters and inputs to an extent to which reliable predictions are diﬃcult to make.
+In addition to ODE-based models assuming large well-mixed populations, spatially resolved agent-based models (ABMs) are an alternative approach, which might be more suitable to account for the diversity in Maya society (Lucero, 1999). Heckbert (2013) makes an ambitious attempt at integrating and quantifying many features of the environment and Maya society. Settlements are represented as agents that develop in a spatial landscape, which itself evolves in response to climate and anthropogenic eﬀects. The richness of the model allows many elements of physical and social reality to be explored, but there is little empirical evidence to validate all the features of the model (Heckbert, 2013). The calibration, veriﬁcation and validation of ABMs are troublesome, and insights into the real system are not straightforward (Crooks et al., 2008). Ideally, the complexity of a model should rise in proportion to gains in explanatory power. It is not clear if ABMs oﬀer the best balance in this regard when considering the Maya society, and given the sparsity and uncertainty of empirical data, we prefer a more parsimonious modelling framework.
+None of the studies mentioned above perform an explicit comparison to historical data; hence, our discussion is based on our own independent comparison between the model output presented in the articles and the data from Folan et al. (2000). The model we propose is speciﬁed as a dynamical system. As we have seen, early models of this type (Hosler et al., 1977) did not match known demographic developments from the archaeological record. More recent models (Bueno, 2011; Kuil et al., 2016) agree to a good extent with data on overall population trends over time. However, they all show a sensitivity to changes in parameters that precludes robust prediction making. Furthermore, they do not address the issue of monument construction, which could prove important in constraining model dynamics. In contrast to previous approaches, we explicitly compare our model output with the archaeological record for population growth (Folan et al., 2000) and monument construction (Erickson, 1973) and ﬁnd a very good ﬁt to data. Furthermore, we show that the collapse can be understood to be driven by a supercritical Hopf bifurcation and we provide a comprehensive sensitivity analysis which shows that the modelling outcomes are robust under changes in parameters.
+3. Quantifying Maya Society and Environment
+We provide a concise model of Maya society and their human–environment interaction. We capture portions of the population engaged in mainly agricultural and monument building activities, undertaken within a representative site of 1000 km2 (≃ 32 × 32 km2) of agriculturally productive land.
+The model consists of the set of ordinary diﬀerential Eq. (1). Table 1 lists all the parameters of the model and their values. We divide the population into three occupations: workers in swidden agriculture xs, intensive agriculture xi and monument building xb. The environment is modelled simply as one stock, namely the food production capacity of the land, labelled y, and the number of monuments built in the region is z. At least 70% of the Maya population was involved in agriculture (Diamond, 2005). Given the scope of the model, this is the part of the
+
+Table 1 Parameters for the Maya model (1). The values of β and K set the scales in the model and are chosen to simplify presentation and analysis; r,α,s are set to match values from the literature (Turner, 1976), and similarly for wt,tP (Haug et al., 2003; Medina-Elizalde et al., 2010; Medina-Elizalde and Rohling, 2012). Other parameters are subject to constraints: literature on soil management suggests a lower bound for 1/rd of 7 (USDA Survey, 1962, pp. 20–21), the parameter c signals scarcity of food, so we expect it to be below 40%, the diﬀusion coeﬃcient σ has at most a value of 1 and monument building would not occur if food per capita would not be suﬃciently high, so we estimate n0 ≥ 2. The values of d,c,σ and nb were chosen to satisfy the constraints but also numerically optimised. The parameters δ,b,k are determined solely by numerical optimisation, see Appendix B. The parameters pi,tT are optimised but also consistent with values in the literature, see Section 4.
+
+Type
+
+Symbol Meaning
+
+Values
+
+Population parameters
+Resource parameters
+
+β δ ps
+pi
+tT τ r K c wt d α
+
+s
+
+Monument parameters
+
+tP b
+m σ k nb
+
+Natality scale factor Death rate exponent Prevalence (popularity) of swidden agriculture Prevalence (popularity) of intensive agriculture Year of transition Transition switch Land recovery rate (1/year) Maximum available land (ha) Threshold fraction of land Relative precipitation at time t Land depletion rate Relative productivity of intensive agriculture Swidden productivity (ha/pers/ year) Year when precipitation changes Builder productivity (monum/pers/ year) Monument decay rate (1/year) Diﬀusion coeﬃcient (1/year) Step function steepness Minimum food availability for monument building
+
+0.0014 0.08 1 or 0.27
+0 or 0.73
+550 0 or 1 0.045 100,000 0.2 1 ± 0.5 0.007 20
+0.5
+800 0.00006
+0.00015 0.1 1.5 2
+
+population of highest interest because the agricultural activity and related practices likely had the largest impact on the environment (Turner, 1974; Webster, 2002).
+Beyond agriculture, Becker (1973) identiﬁes six specialisations of the Classic Maya at Tikal, four of which are directly related to stone work (or likely so) and the other two are woodworking and pottery. Hence, by considering agricultural and monument related practices we cover most of the activities the Maya were involved in.
+We do not try to capture the administrative, military or artisan aspects of the society. Compared with the segments of the population we do include, these occupations made up a much smaller part of the demography. Assuming that the environmental impact of the people in these professions derived mainly from food requirements, the model can easily be extended to account for these parts of the population, though their roles would otherwise remain inert within the model’s scope. The above considerations can be taken as forming the model’s boundary, and while they do limit the internal dynamics of the model, the choice of boundary is informed by the data we have and the time series we aim to explain/reproduce.
+Concretely, the dynamical model we propose is given by
+
+xṡ = [(1 − τ) + τps ]βnx − βn−δxs + σ [(1 − θ (n))xb − θ (n)xs] xi̇ = τpi βnx − βn−δxi xḃ = − βn−δxb − σ [(1 − θ (n))xb − θ (n)xs] ẏ = wt ry (1 − y/(wt K )) − sdnx ż = bxb − mz
+
+(1)
+
+where x,n, and θ(n) are given by:
+
+314
+
+S. Roman et al.
+
+Ecological Economics 146 (2018) 312–324
+
+x = xs + xi + xb
+
+n
+
+=
+
+wt
+
+xs + αxi xs + xi + xb
+
+(1
+
+−
+
+e−y/(wt cK ) )
+
+θ (n)
+
+=
+
+1
+
++
+
+1 e−2k (n−nb)
+
+(2)
+
+Above, x represents the total size of the population, n is the food available per capita and θ(n) is a smooth approximation of the step function (k = 1.5,nb = 2), where nb parameterises the required minimum food availability for people to change their activity towards monument building and k controls the steepness of the step function θ(n).
+The model can be interpreted as follows: People are born into certain agricultural specialisations, determined by fractions given by ps and pi. They then harvest resources at a rate speciﬁc to their specialisation, i.e. proportional to s for swidden or αs for intensive agriculture. The harvested amount provides food which, if in surplus, positively aﬀects the population growth rate. If the harvest is insuﬃcient to meet basic requirements per capita, then the population will start to decrease. Left alone, the land’s productive capacity regenerates within a characteristic time of 1/r ≃ 22 years, but a given patch can only be harvested up to 7 consecutive years using intensive practices before crop failure.
+Thus, there exists a negative feedback loop between population and environment, reﬂecting a Malthusian mechanism. A higher availability of resources leads to higher population, which leads to a more rapid depletion of the resource base that later impacts the growth rate of the population. As we will see, due to land overuse, an increase in the number of workers in intensive agriculture leads to a loss of production capacity in the long term, and subsequently to a demographic decline.
+If the food available per capita is high, then a part of the swidden workers move into monument construction. Monuments are built in proportion to the number of builders available, but they also decay slowly in time. If the harvest has poor yield, builders go back to practicing agriculture to compensate. Thus, a higher agricultural yield leads to a higher population and to a higher rate of monument building. The building of monuments does not have a direct eﬀect on the population within the scope of our model.
+We next outline the features of the model more precisely. The ﬁrst three equations of model (1) dictate the population dynamics. The β parameter sets the scale for the ﬁrst two terms, which represent the natality (birth and death) rates. The ﬁrst term in each of these equations represents the crude birth rate, which we assume is proportional to: the total population x, the available food per capita n and the parameters ps,pi, which represent the proportion of each new generation that go into the respective occupations. Birth rates are often assumed in the literature to be proportional to the present population (Turchin, 2003a) and also to be monotonically increasing functions of the food per capita (Anderies, 1998; Motesharrei et al., 2014). The parameters ps and pi (which add up to 1) can be interpreted as the prevalence (or popularity) of swidden and intensive agricultural activities in the society.
+In addition to these more conventional aspects, the birth rates feature the binary τ parameter, which is either set to 0 (before the onset of intensive agriculture) or to 1 (after the onset) and thus models a rapid change in the ps,pi parameters; see Section 4 for more details.
+The next term in the equations for the population dynamics is the death rate, which is also assumed to be proportional to population size. A natural candidate for the death rate’s dependence on food availability is n−δ; this is because if there was no food, the population would quickly decline to zero, which means the death rate would grow very large (or even diverge) as n → 0. For example, a death rate proportional to n −1 has been previously used in the World2 model by Forrester (1971).
+The last term in the population equations is a diﬀusion term that models movement of people between two diﬀerent specialisations: swidden agriculture and monument building. We assume that
+
+monument building will only take place if surplus production exists to support it. Speciﬁcally, if the food availability is high (n > nb = 2) then enough surplus production exists to support non-agriculturally related activities and a shift of work from purely subsistence based agriculture to monument building is modelled via the diﬀusion terms in Eq. (1). Once n > nb, then θ(n) ≃ 1 and people move (diﬀuse) from practicing swidden agriculture to building monuments. If n < nb, then θ(n) ≃ 0 then the opposite eﬀect occurs. The σ parameter, which represents the diﬀusion coeﬃcient, has an upper bound of 1 as we cannot have a population ﬂow of over 100% within a year. We use a value of σ of 0.1 as determined by numerical optimisation (see Section 4), implying that 10% of the population in a given specialisation changes to a diﬀerent occupation within a year conditioned on the availability of food (as discussed above).
+The movement between specialisations typically takes place much more rapidly (or on a shorter timescale) than the demographic growth of each specialisation. This has led us to make two simplifying assumptions in the model. First, the equation for xb does not feature a birth rate term, and second, there is no movement (via diﬀusion) to intensive agriculture. Regarding the ﬁrst simpliﬁcation, it is possible to set the prevalence parameter of monument building activity to zero and not signiﬁcantly aﬀect the model dynamics. The birth rate term for the xb variable (number of builders) would be dominated by the diﬀusion dynamics. Because of this, we chose to eliminate one parameter (the prevalence of monument building) and set it to zero. The second simpliﬁcation is justiﬁed because the movement to intensive agriculture requires a large initial investment to be undertaken (allocation of land, building of terraces etc.). Therefore, it is unlikely that intensive practices can be picked up quickly. Due to sunk-costs eﬀects (Janssen et al., 2003), once such a large investment is made, it is unlikely that the activity will be immediately abandoned for alternatives. Hence, we decided not to implement a diﬀusion mechanism towards or away from intensive agriculture.
+The fourth equation of Eq. (1) models the resource dynamics. The ﬁrst term follows the usual logistic dynamics and describes how resources recover over time while the second term captures the harvesting activity of the population. The production capacity y is a renewable resource that regenerates with a characteristic timescale of 1/ r = 22 years, which is consistent with the typical time between harvests in swidden agriculture (Turner, 1976). Left unexploited, resources will return to their maximum values within a matter of decades. This is likely what also happened in reality after the collapse, with the Maya environment today in good condition (Turner and Sabloﬀ, 2012).
+The Maya employed a wide range of agricultural techniques (Turner, 1974) and we do not attempt to capture the full complexity of their endeavours. The work of Turner (1976) suggests that agricultural practices are polarised into two categories, with short (up to two years) and long (1–2 decades) cycles. Thus, for simplicity, we distinguish two categories: swidden agriculture with a full harvesting cycle of 20 years and intensive practices with a cycle of 1 year. Intensive practice is not equated to short-fallow swidden agriculture, but represents an aggregated activity of the diverse types of methods that were used. The average amount of land per year that a person requires to fulﬁl their caloric needs is 0.5 ha (Turner, 1976). Hence, we can measure the food production capacity of the land y in hectares and set its initial value to K = 100,000 ha, which is the size of the region we are modelling.
+In the presence of a human population, the production capacity y decreases in proportion to the number of agricultural workers and their productivity. We take the productivity per capita of swidden agriculture to be s = 0.5 ha/year/pers., which is the minimum value it can have to meet subsistence needs. For intensive agriculture, the harvest takes place annually, which is reﬂected in the model by assigning a productivity that is α = 20 times higher than that for swidden practice. The depletion parameter d is chosen such that the average number of consecutive times a piece of land can be re-harvested until it is completely depleted by intensive practices is 1/(αd) ≃ 7 times. Soils of high
+
+315
+
+S. Roman et al.
+
+Ecological Economics 146 (2018) 312–324
+
+productivity and less prone to erosion than the ones found in the Yucatan peninsula can be re-harvested for a maximum of 7 consecutive years, while still giving good yields (USDA Survey, 1962, pp. 20–21) . Our choice of d thus reﬂects an optimistic lower bound on depletion rates of the Maya environment. Wilk (1997, p. 84) highlights the fact that even with good soil quality, such as enjoyed by the Mopan community of San Antonio, serious problems start to emerge once fallow cycles are shortened to ﬁve years or less. Depletion in our case refers only to the amount of food that can be produced (e.g., crops that can be harvested) and does not strictly refer to the state of the soil. Soil depletion varies widely throughout the Lowlands (Beach and Dunning, 2006) and its variation is too complex of an issue to capture in such a simple model.
+When production capacity y is high, the resource extracted per worker is roughly constant (but depends on the type of agricultural activity). This assumption has been previously used in models of Easter Island (Basener and Ross, 2004; Basener et al., 2008) and warfare dynamics (Turchin, 2009). Nevertheless, once the production capacity of the land decreases below the threshold of c = 20% of the maximum K, productive land becomes increasingly sparse, which leads to a decrease in food production per capita. This dynamic is implemented through the exponential term in the deﬁnition of the food availability per capita n, see Eq. (2). When y → 0, the extraction term of natural resources becomes, to ﬁrst order, a predator–prey term as found in the LotkaVolterra model (i.e., type I functional response). Because the c parameter signals scarcity of food, we expect it to be below 40% and through numerical optimisation the value c = 20% was determined.
+A particular feature of the resource dynamics is the eﬀect of precipitation. The absolute levels of rainfall are not relevant to the model; what is important is only how the relative variation of the amount of water impacts the diﬀerent parameters in the model. There are three aspects directly related to rainfall: (i) the rate of resource regeneration r, (ii) the maximum amount of productive land K and (iii) the extraction term of natural/agricultural resources. Reductions in the amount of available water will reduce the rate of regeneration of the environment, only allowing for recovery to a smaller carrying capacity and also impede eﬀorts to exploit it. The proposed model accounts for all three eﬀects. For simplicity, we assumed the eﬀects to be linearly proportional to wt, which is the relative amount of precipitation at time t. Thus, normal precipitation conditions correspond to wt = 1. Deviations from this assumption are explored in Appendix B, Fig. B.1 (e). Diﬀerent areas of the Lowlands were subject to diﬀerent exogenous factors, which, besides precipitation, also include volcanic ash (Tankersley et al., 2011). The eﬀect of an exogenous contribution to environmental recovery, such as volcanic ash, can be incorporated in the model a similar way to precipitation. We can thus interpret the precipitation scaling factor wt as an aggregate of external eﬀects on resource recovery and use.
+For clarity, the variable y is interpreted as the agricultural production capacity of the land, but the logistic equation for the growth of y only represents the dynamics of a renewable resource, which could equally represent forest resources. Also, the terms of the model dictating resource exploitation are not univocal in regard to their interpretation. Strictly, we can only say that we distinguish between low intensity and high intensity resource extraction. For concreteness, we associated the low intensity activity with swidden agriculture and the high intensity activity with intensive agriculture. The factor of α = 20 between the intensities of the extraction activities is taken to match the relative diﬀerence between annual harvesting and swidden practice, but this might be seen as only one instance of a wider variety of low and high impact environmental activity. Thus, the variable y can more generally be interpreted as an aggregate of renewable resources, which can include output of agriculture, forestry and ﬁshing. Then, the extraction activity can be seen as the exploitation of a set of resources, which has a positive eﬀect on birth rates. As food security studies on modern agricultural Amazonian societies (Ivanova, 2010; Piperata
+
+et al., 2011) explain, the primary source of energy (caloric intake) is from agricultural products. Dietary diversity increases the nutritional content of an individual’s intake, but does not contribute greatly to the overall caloric quantity. Because of this, and the important role energy has in societal development, we emphasise this agricultural interpretation of the stocks and parameters.
+The last equation of Eq. (1) describes the dynamics underlying monument building. Monuments are constructed at a rate proportional to the number of builders. The productivity b of a builder is chosen such that 1000 people working for ∼ 17 years would build on average one medium-sized monument. The monuments decay at a rate m = 0.00015, which implies a half-life of approximately 5000 years. The half-life is estimated based on observed weathering rates of 0.2 mm per century for Maya buildings of the Uxmal site in Yucatan (Roussel and André, 2013) and the assumption that a cumulated weathering of ∼ 1 cm would compromise the structural integrity of a monument. In addition to our proposed equation for monument building, we have also considered another option that implements a minimum threshold of workers required to start construction, with increasing returns to scale. But, the output of the model does not change signiﬁcantly, see Appendix A.
+The model omits several features of the Maya society amenable to dynamical system modelling, e.g., war (Webster, 2000; Martin and Grube, 1995), water management (Lucero et al., 2011), and ﬁner details of agricultural intensiﬁcation (Johnston, 2003). The time period we model covers over 1000 years, so we strive to capture feedback mechanisms persisting over the longest timescales. Our assumptions prove suﬃcient for the model to reproduce historical patterns and so, the simpliﬁed treatment can be justiﬁed in the interest of parsimony.
+The above speciﬁcations outline the model’s main assumptions and dynamics. While they likely leave out some aspects of the real world’s complexity, it is important to start from the simplest formulation that remains faithful to reality, namely one that captures the elements at play in long-term feedback and that also proves suﬃcient at explaining the data.
+4. Methodology and Results
+We search for a calibration of the model proposed in Section 3 that can give a good match to empirical data. More speciﬁcally, we determine the parameters that minimise the deviation of the model output with respect to the empirical time series for the population levels, birth rates (Folan et al., 2000), and monument building rates (Erickson, 1973). Depending on the model structure, deviations will not necessarily be small, hence, even with an optimal choice of parameter values the actual ﬁt to the historical time series might be very poor. Also, even if the ﬁt to the time series is excellent, there is no certainty that the numerically optimised parameters are realistic or match archaeologically determined values. Thus, we can validate the model by comparing the optimal parameter values with archaeological estimates as well as performing sensitivity testing. Thus, if the model predictions ﬁt the empirical data well, with results largely insensitive to changes in parameters, and if parameter choices are consistent with archaeological estimates, then we can conclude that proposed model is partially validated and is a viable theory for the historical processes it aims to capture.
+More speciﬁcally, we aim to reproduce the historical evolution of: (i) the crude growth rates and population levels reconstructed by Folan et al. (2000) from Santley (1990), and (ii) the data on monument building rates from Erickson (1973). We refer to the time series in the data as reference modes. The scope of the model is dictated by the reference modes we wish to reproduce. Thus, the temporal limits are set between 0–1400 CE with regard to population dynamics, while for the monument building activity we focus on the time span between 400–900 CE (when most monuments are dated).
+We can see in the time series of Folan et al. (2000) that the
+
+316
+
+S. Roman et al.
+
+Ecological Economics 146 (2018) 312–324
+
+Fig. 1. Level sets corresponding to the deviation of: (a) simulated total population Eq. (1) and the reference data from Fig. 2 (b), (b) monument building predicted by model (1) and the reference data of Fig. 3 (a). For pi0 cf. Table 1.
+demographic evolution at many sites followed a similar pattern. Thus, instead of focusing on one speciﬁc region, we aimed at developing an abstract model that captures demographic commonalities of several regions. The dynamical system model (1) we propose is intended to capture this prototypical dynamics that occurred in diﬀerent regions. The reference mode for the population in Fig. 2 (b) was generated using the reference mode for the overall crude growth rate observed in the south-central Maya lowlands in Fig. 2 (a) (Folan et al., 2000, p. 13) and matches well to population development seen at Tikal and Calakmul (Folan et al., 2000, p. 12).
+When analysing the data for the crude growth rate, see Fig. 2 (a) (solid line), we can distinguish two regimes: an early regime where the birth rate was decreasing, indicating convergence towards an equilibrium (a sustainable outcome); and a later boom–bust regime, when the birth rate increased dramatically and subsequently crashed. We take the initial conditions such that the total population is 10,000, and the Maya had 90% of the population working in swidden agriculture and 10% in intensive agriculture. We assume that initially, because food requirements were met and intensive agriculture meant more eﬀort, no new people would go into intensive practices, which means pi = 0 and the extent of those activities was gradually declining. This leads to an initial decrease in the available food per capita and hence also of the birth rates, which corresponds to the ﬁrst regime in the reference mode of Fig. 2 (a), (b). If this pattern had continued we would see only a modest rise in the population levels of the Classic Maya, see Fig. 2 (b) (dotted line). Hence, we assume that the transition between the two regimes corresponds to a change in the occupations and agricultural practices of the society. Thus, from a certain time (tT) a fraction (pi) of each new generation starts practicing intensive agriculture.
+
+Fig. 2. Model predictions for (a) relative crude growth rates and (b) total population when precipitation is: normal (dashed line), enhanced by 50% (triangles) and reduced by 50% (inverted triangles). The standard output in (a) is ﬁtted to the historical reference (continuous line) for crude growth rates from Fig. 1.3 of Folan et al. (2000, p. 13), reconstructed from Santley (1990, p. 343). The population reference (continuous line) in (b) is generated from the crude growth rates in (a). Population levels are similar to those seen at Tikal and Calakmul from Fig. 1.2 of Folan et al. (2000, p. 12), reconstructed from Santley (1990, p. 342). For comparison we also show the (simulated) case under the assumption of no shift in agricultural activity and normal precipitation (dotted line).
+
+We can numerically determine the optimal values of tT and pi that minimises the deviation of the model output from the historical data. We measure the deviation of model output from historical data as follows. Let x = xs + xi + xb be the total population, and let xref be the total population of the reference mode of Fig. 2 (b). We deﬁne the following distance function to determine how far apart the total population from the model output is from the reference mode for the population (where T = 1340 years):
+
+T
+∫ |x (t) − xref (t)|dt
+D (x, xref ) = 0 T
+∫ xref (t)dt
+0
+
+(3)
+
+The distance (3) is the L1 metric divided by the area under the reference mode. The numerator of Eq. (3) measures the sum of all the areas where the curves of the model output and the reference mode diﬀer. So, if D(x,xref) = 0, we would see a perfect ﬁt between model predictions and historical data. A distance function similar to Eq. (3) can be deﬁned between the building rate of monuments and the reference mode in Fig. 3 (a).
+If we vary pi by a factor of two above and below the entry in Table 1 and similarly vary tT in the range of 350–750 CE, and then plot the
+
+317
+
+S. Roman et al.
+
+Ecological Economics 146 (2018) 312–324
+
+Fig. 3. Model predictions for (a) monument building rates and (b) monument density in the case of normal precipitation with agricultural transition (dashed line) and without (dotted line). From 900 CE onward no signiﬁcant building activity was undertaken and monuments only decay exponentially with constant rate (dash-dot line). The standard output in (a) is ﬁtted to building rate data (continuous line) from Erickson (1973, p. 151). A 2-katun period is equal to 39 years. The simulated monument density over time in (b) is compared to the presently observed density in areas such as Tikal, which has approximately 200 monuments (Webster, 2002) over an area of 570 km2, corresponding roughly to 35 monuments per 100 km2 (continuous line).
+distances from the reference modes for the population levels and monument building rates, we obtain the contour plots visualised in Fig. 1 (a), (b). We see that the parameter values in Table 1, namely tT = 550 and pi = 73%, achieve a global minimum for the distance of the model output from both the population levels at ≃ 10% and monument building rates at ≃ 15%. All other neighbouring values show an increased deviation from either the population or monument data.
+Hence, historical data cannot be reproduced, unless a change in agricultural preferences around the year tT = 550 CE is assumed (which we model by changing the parameter τ from 0 to 1).
+Thus, to explain the sudden rise in birth rates, assumptions about a dramatic change of the prevalence (or popularity) of intensive agricultural practices are required. This is reﬂected in the model by a shift of the initial prevalences (ps,pi) = (1,0) to (0.27,0.73) from the year 550 CE onwards; by attracting a larger share of new workers, intensive agriculture gradually became more widely used to the detriment of swidden practice. This leads to an increase in food production, which allows for an increase in the population.
+With the optimal values for tT and pi, the model reproduces the population levels and (relative) crude growth rates very well, as seen in Fig. 2 (a), (b). The maximum population density reached is around 100/km2, which is consistent with the estimates of Turner (1974). In addition to good agreement with the population reference modes, the
+
+Fig. 4. Simulated (best ﬁt) model output for (a) the population level and (b) the fraction of the total population for each specialisation: swidden agriculture (dash-dot line), intensive agriculture (dashed line), and monument building (continuous line).
+model is also in good agreement with the data on monument building rates from Erickson (1973), especially in the time range of 600–850 CE, shown in Fig. 3 (b). Moreover, the ﬁnal density of monuments obtained in the model is consistent with the observed density in areas such as Tikal, see Fig. 3 (b).
+Furthermore, the values we obtain for pi and tT are consistent with the literature on the Maya. We know that at least 70% of the Maya were involved in agricultural production (Diamond, 2005), which is consistent with our estimate of pi of 73%. The agreement between our result pi = 73% and Diamond’s (2005) estimate can be attributed to the fact that intensive agricultural techniques are more likely to have a lasting environmental impact (Turner, 1974), and hence any estimate of the farming population is more likely to be more representative of the fraction involved in intensive practices. The year tT = 550 corresponds to the start of the Late Classic period according to Lucero (1999, p. 212) and Estrada-Belli (2010, p. 3).
+The change in the prevalence of activities (ps,pi) during the transition leads to changes in the population stocks, as Fig. 4 (a) shows. A much larger fraction of the population becomes involved in intensive agriculture, reaching 63%, while the fraction practicing swidden falls to 37%, see Fig. 4 (b). The ﬁnal fractions shown in Fig. 4 (b) approach the prevalence parameters ps,pi.
+In the long term, the fraction of the population in intensive agriculture does equilibrate to the value of the popularity pi, as the following calculation shows:
+
+318
+
+S. Roman et al.
+
+Ecological Economics 146 (2018) 312–324
+
+d⎛ ⎜
+
+xi
+
+⎞
+⎟
+
+=
+
+0
+
+→
+
+xi
+
+=
+
+dt ⎝ xs + xi + xb ⎠
+
+xs + xi + xb
+
+xṡ
+
++
+
+xi̇ xi̇ + xḃ
+
+→
+
+xs
+
+xi + xi + xb
+
+=
+
+pi
+
+(4)
+
+The approximate values we obtain in Fig. 4 (b) are due to the transient nature of the dynamics. Hence, it is reasonable to compare pi with the fraction of the population involved in intensive practices.
+In Appendix A, we vary the prevalence parameter pi and relativity productivity of intensive agriculture α to see how the behaviour of the model changes. When α ≃ 1, all the stocks in the model equilibrate to stationary values, which is in line with what we would expect for a society with low, sustainable harvesting rates of swidden agriculture (Nigh and Diemont, 2013). If α exceeds a certain threshold, the system (1) undergoes a critical transition that leads to large oscillations in the population levels. Phrased more generally, when the harvesting rate increases beyond a certain point a (Hopf) bifurcation takes place that leads to large amplitude oscillations in the system. A similar conclusion has been reached for another model of a society that has collapsed, namely Easter Island (Roman et al., 2017). The ﬁndings here lend support to a more general thesis that societal collapse can be modelled as a certain type of critical transition (supercritical Hopf bifurcation).
+A detailed mathematical treatment of the critical transition for a simpliﬁed version (without specialisations or monument building) of model (1) is also presented in Appendix A and exhibits very similar behaviour to the complete model when varying the α parameter.
+In Appendix B, we use the distance function (3) for the population and a similarly deﬁned function for the monument building rates to perform a thorough sensitivity analysis for the key parameters in the model, namely all the parameters except β and K (which set the scales in the model). What we ﬁnd is that with respect to the deviation from the reference modes for the population levels and monument building rates, the model (with the parameters in Table 1) lies at a minimum in the subspace of population and resource related parameters (δ,r,c,d,α,wt) and close to a minimum in the subspace of monument related parameters (σ,b,k,nb). The sensitivity analysis also indicates that similar output is obtained for a range of parameters around the standard values in Table 1. For changes in the parameters δ,r,c,d,α and water availability wt, the deviation from the minimum is gradual and quasi-parabolic, while for σ,b,k,nb, the shallowness of the optima also indicates robustness of the ﬁndings to parameter changes.
+Furthermore, the optimal values of several important parameters in the model show good agreement of the values with the literature, as is the case with pi,tT,α,d. The fact that the model reproduces empirical time series well with optimal parameter values that are consistent with the real measurements indicates that the model structure and the choice of parameter values is viable. Therefore, model (1) is partially validated.
+Model (1) also allows us to study the impact of changes in precipitation. A reduction ( −50%) (Medina-Elizalde et al., 2010) or increase ( +50%) in the available amount of water starting from the year tP = 800 (Haug et al., 2003; Medina-Elizalde and Rohling, 2012) does not impact the population levels to a large extent. As detailed in Section 3, we have assumed that precipitation directly aﬀects the parameters r and K and the food available per capita n. If a smaller set of possible eﬀects that precipitation can have is considered, then the model output is largely unchanged compared to Fig. 2 (a), (b). Strictly speaking, a time lag should be included for the impact of precipitation, but we observe that lags (even up to a few years) have little eﬀect on the system trajectory, and we have left them out for simplicity’s sake.
+It is important to note that in the sensitivity analysis in Appendix B, Fig. B.1 (e), we vary the amount of precipitation wt throughout the entire time span of the model such that we take the year that precipitation changes to be tP = 0. If we consider any other starting time tP for the precipitation change, the deviation in the model output from the reference mode would be comparable or smaller than that shown in Fig.
+
+B.1 (e). Hence, irrespective of when the precipitation level changes (e.g., drought occurs), we expect to see either similar results to those discussed above or a larger deviation from the reference mode.
+In formulating the model we have not addressed the issue property rights. Wilk (1997, p. 87–88) states that when population density in low, common access is favoured while, when the density is high, private property emerges as the dominant institution. Thus, the population pressure determines the assignment of property rights. Our model then suggests that prior to 550 CE common access was likely used and after, once the population grew, that private land become widespread. As such, property rights emerge from the output of our model and do not have to be explicitly considered in its formulation, which is in contrast to previous literature on the topic that considers it a foundational issue (Anderies, 2000; Reuveny and Decker, 2000; Dalton and Coats, 2000).
+While we have assumed that, based on data of Folan et al. (2000), many Maya regions had similar population trajectories, there was, nevertheless, variation in demographic, geographic and cultural elements occurring both spatially and temporally throughout the many regions (Aimers, 2007; Iannone, 2013). This also leads to asynchronous development and decline of the societies in the diﬀerent areas (Wahl et al., 2007). For example, the Late Preclassic Maya in the Mirador Basin built some of the largest Maya structures (Dunning et al., 2012; Hansen et al., 2002). In addition to this, evidence of multiple intensive agricultural systems has been found in several Maya regions (Dunning and Beach, 2010). Hence, certain sites show deviations from our modelling assumptions, and hence, also from the model output. Note that our main goal was to reproduce aggregate patterns and that a more integrated multi-regional model would require veriﬁcation against substantially more ﬁne-grained temporal data of regional interactions (such as trade, warfare etc.).
+5. Discussion and Conclusion
+In this study, we present a low dimensional model with the aim of describing the evolution of population sizes, farming activities and monument building of the Classic Maya society. What insights do we gain? First, we show that a low dimensional models can indeed robustly reproduce demographic and monument building data. To the best of our knowledge, this is the ﬁrst model of its type that has been validated by direct comparison with historical data and it is worth emphasising that reproduction of the historical data is possible using a low dimensional model that only captures the most basic feedbacks between population, resources, and monument building activities. More generally, our modelling exercise suggests that, instead of building very detailed models that incorporate complex explanations of collapse, a better methodological practice is to attempt a simpler explanation or model as we have done here.
+Second, the model indicates that a change in the practice of intensive agriculture in the Maya society around the year 550 CE is an important contributing factor to the collapse. It is important to note that our model formulation allows for a change in agricultural practices. However, the precise location of this shift in time is a direct result of optimisation and shows that (within the scope of this class of low dimensional models) reproducing demographic and monument building dynamics is only possible if such a shift occurred at 550 CE. The year 550 CE is around the beginning of the Late Classic (Lucero, 1999; Estrada-Belli, 2010), a period which saw unprecedented expansion of the Maya, not only demographically, but also culturally. The model thus provides a mechanism by which this Golden Age and its later collapse can be explained.
+The shift to intensive agriculture does not mean that the Maya forfeited their knowledge of environmental management, as most areas continued to adapt to their local conditions by using diﬀerent techniques (Dunning and Beach, 2003), but a change large enough to forgo
+
+319
+
+S. Roman et al.
+
+Ecological Economics 146 (2018) 312–324
+
+the established equilibrium is likely to have taken place. Why would this occur? Most individuals would not typically pursue intensive forms of agriculture (Russell, 1988), despite being more productive, due to its taxing and time consuming nature (Boserup, 1965). Additional drivers are needed for the activity to become commonplace. We can only speculate on the likely reasons: (i) governing policy (e.g., in case of war), (ii) higher real or perceived degree of wealth in neighbouring regions, (iii) trading beneﬁts and (iv) ideological (religious, political etc.) determinants, of similar nature to those described by Demarest (1992).
+Third, the model brings into question the role drought played in the collapse. Drought is often named as the cause or a major contributing factor of the Maya collapse with recent estimates indicating up to a 40–50% reduction in annual precipitation (Medina-Elizalde et al., 2010; Medina-Elizalde and Rohling, 2012). Our results indicate that a 50% reduction in rainfall does not signiﬁcantly alter the outcome of the simulation with respect to the population levels, see Fig. 2 (b). What the model is showing is that the land’s production capacity might have already been severely exhausted and a reduction in crops might have been unavoidable even in the absence of drought. A fall in crop production is consistent with evidence from skeletal remains that show signs of progressive nutritional disease (Folan and Hyde, 1985; Sharer and Traxler, 2006), while at the same time, there are no mass graves discovered that might indicate large scale epidemics or warfare (Folan et al., 2000). Our research cannot be taken as proof, but it does suggest that drought, though important, played a smaller role than previously thought (Hodell et al., 2001; Haug et al., 2003; Gill et al., 2007; Webster et al., 2007; Kennett et al., 2012; Douglas et al., 2015).
+Lastly, from a mathematical perspective the shift to intensive agriculture can be seen as a type of critical transition (a supercritical Hopf bifurcation). Speciﬁcally, when the harvesting rate of natural resources exceeds this threshold, the dynamics of the system changes from a stationary state to a situation where large amplitude oscillations in the population are experienced, resulting in a collapse once the amplitude of the oscillations becomes too large and population numbers become too low. This echoes a similar ﬁnding for Easter Island (Roman et al., 2017).
+The model developed in this study reproduces the general demographic trend seen in many regions of the Lowlands (Folan et al., 2000) by making minimum assumptions regarding changes in agricultural practices. In addition, the model predicts monument building rates that ﬁt well with the time series of Erickson (1973). The model is initialised
+
+with the assumption that the society was in a sustainable regime but changes to a much more resource intensive regime to explain the rapid demographic rise. The nature of the transition that the society underwent is consistent with previous ﬁnding regarding the dynamics of societal collapse (Roman et al., 2017) and, thus, points to a more general mechanism by which collapse can be understood, namely, as a type of critical transition (supercritical Hopf bifurcation).
+In addition, the methodology we employed could be adopted elsewhere and provide similar insights for other historical cases. Our methodology in exploring the parameter space led to a careful alignment of the model parameters with empirical data that has not been achieved before and our sensitivity analysis is more comprehensive than previous literature in this context. The behaviour of the model under changes in parameters shows that it achieves a local minimum in parameter space while staying consistent with estimates provided in the literature.
+Prominent explanations of societal collapse throughout time often fall into the trap of preferring one cause, where that cause reﬂects the current dominant social problem or issue (Tainter, 2006), e.g., climate change or environmental degradation (Diamond, 2005). The case made for climatic variations leading to the collapse of the Classic Maya is in line with modern climate change concerns and highlights a common bias throughout time to single out current problems, project them into the past to function as cautionary tales (Tainter, 2008). On the other hand, if common lessons can be generalised from past cases of collapse, as we have done in this and previous work (Roman et al., 2017), this can provide a valuable insight into our present condition (Tainter, 1988).
+We have not tried to single out any one cause for the collapse of the Classic Maya but aimed at identifying a set of interlocking mechanisms that could spur a positive feedback in population growth and monument building. Also, we do not claim to have settled the long-standing problem of the Classic Maya collapse but rather hope to re-balance the discussion regarding the role of drought and socio-cultural factors.
+Acknowledgements
+This work was supported by an EPSRC Doctoral Training Centre Grant (EP/G03690X/1). The model was implemented and all results were obtained using the Python programming language. No new data was collected by this research.
+
+320
+
+S. Roman et al.
+Appendix A. Analysis of Critical Transitions
+
+Ecological Economics 146 (2018) 312–324
+
+Fig. A.1. Minimum and maximum values of the total population for the Maya model (1) when we vary (a) the relativity productivity α and (b) the fraction of people pi that work in intensive agriculture. Panel (c) is analogous to (a) but for the simpliﬁed system (A.1). Panel (d) shows the point where f(α) = 0 and the bifurcation in (c) occurs. When varying a parameter all other parameters are ﬁxed at their standard value from Table 1.
+
+Fig. A.1 shows the minimum and maximum population values that the Maya model (1) predicts in the long term. In Fig. A.1 (a) we see that above a certain productivity of the intensive agriculture the system (1) shows a Hopf bifurcation. In Fig. A.1 (b) a similar pattern is seen with respect to the fraction of people pi working in intensive agriculture. In both case only the higher values for α and pi are compatible with the archaeological record. To gain analytic insight into system (1) we ﬁrst simplify it by considering only one specialisation x for the population who extract resources y at a relativity productivity α:
+
+ẋ = β (n − n−δ)x ẏ = ry (1 − y/(wK )) − sdnx
+
+(A.1)
+
+where n is the normalised food per capita:
+
+n = wα (1 − e−y/(wcK) )
+
+(A.2)
+
+The system in Eq. (A.1) has two ﬁxed points. One ﬁxed point N is given by (0,wK) and the other ﬁxed point E is:
+
+xe = rye (1 − ye /(wK ))/(sd)
+
+ye
+
+= wcK log⎛1 −
+
+1
+
+−1
+⎞
+
+⎝ wα ⎠
+
+(A.3)
+
+We denote the Jacobian at the ﬁxed points by JN and JE. By applying the Routh-Hurwitz stability criterion to the characteristic polynomial of JE we ﬁnd that the ﬁxed E changes from a stable spiral to an unstable one when the relative productivity α exceeds the value given by:
+
+f (α) = 1 + log⎛1 − α ⎞⎛−1 + 2c + wα + c (wα − 1)log⎛1 − 1 ⎞⎞ = 0
+
+⎝ wα ⎠⎝
+
+⎝ wα ⎠⎠
+
+(A.4)
+
+In Fig. A.1 (c) we see the maximum and minimum population determined by Eq. (A.1). In Fig. A.1 (d) the plot of the function f(α) deﬁned in Eq. (A.4) is shown. In Fig. A.1 (c) the bifurcation of the simpliﬁed system (A.1) occurs when αc = 1.15, which is also when f(α) = 0, as Fig. A.1 (d) shows.
+In addition to the main model considered in the paper, we have also analysed how a diﬀerent formulation of monument construction. The following equation implements a minimum threshold of workers required for eﬃcient monument building and describes the simplest form of increasing returns to scale:
+
+z˙ = bxb θbuild (xb)−mz
+
+(A.5)
+
+where
+
+θbuild (xb)
+
+=
+
+1
+
++
+
+1 exp 2kbuild (xbuild−xb)
+
+(A.6)
+
+and xbuild is the workforce threshold for monument construction to become eﬃcient. We consider that a realistic range for xbuild is between 100 and 500 people. We ﬁnd that as long as kbuild is large enough (above 5), then the value of xbuild does not change the output signiﬁcantly and the consistency with the archaeological record is largely maintained, similar to Fig. 3 (a).
+
+321
+
+S. Roman et al.
+
+Ecological Economics 146 (2018) 312–324
+
+Appendix B. Parameter Sensitivity Analysis
+We refer to the model with the standard parameter values in Table 1 as the standard model and label quantities (parameters, population etc.) in this model with a 0 subscript. Let x0 be the total population in the standard model. In Figs. B.1 (a)–(f) and B.2(a)–(d) we vary all the key parameters in the model by a factor of 2 below and above the standard values from Table 1, and plot the two distance functions for the population level and building rate.
+In Fig. B.1 (a)–(f) the population and environmental parameters are varied. We see that the minimum value for the population distance is D (x0,xref) ≃ 10%, while for the building rate the distance is ≃ 15%. Both minima are achieved by the standard parameter values. When varying the parameters related to monument building in Fig. B.2 (a)–(d), we see that total population level is largely left unchanged. For the building rate, the minimum is achieved by the standard values. The deviation from the minimum is gradual in all cases, and so there is no sudden change in model behaviour under a change in parameter values.
+Figs. B.1 (a)–(f) and B.2(a)–(d) allows to conclude that standard model simultaneously minimises the distances from both reference modes with respect to all the key parameters. The standard values of parameters r,wt,d,α,s,m were chosen to be aligned as much as possible with the literature. Hence, the model achieves a local minimum with values consistent with the literature (where available). This increases our conﬁdence in the model’s validity. Why deﬁne the distance function (3) with respect to the population levels and not the birth rates? The reference mode for the crude growth rate is discontinuous and likely less accurate than the total population levels. In case of the monuments, the building rate is suﬃciently smooth and well known to deﬁne a distance function.
+
+Fig. B.1. Sensitivity analysis performed by varying the key population and environment parameters of the model with respect to the standard values (labelled with a 0 subscript) and measuring the distance by the formula (3) of the total population from the reference mode (dotted line). Also plotted is the distance of the building rate predicted by the model to the corresponding reference mode (solid line). The minimum distance from the reference mode (indicated by the red diamond for the population) is achieved by the standard value of the parameters from Table 1. The parameter axis is logarithmic in base 2. In analysing changes in water availability, see subﬁgure (e), we considered only constant functions wt = w throughout the entire time range.
+322
+
+S. Roman et al.
+
+Ecological Economics 146 (2018) 312–324
+
+Fig. B.2. Sensitivity analysis performed by varying the key monument related parameters of the model with respect to the standard values (labelled with a 0 subscript) and measuring the distance by the formula (3) of the total population from the reference mode. Also plotted is the distance of the building rate predicted by the model to the corresponding reference mode (solid line). The parameter axis is logarithmic in base 2.
+
+References
+Acuna-Soto, R., Stahle, D.W., Therrell, M.D., Chavez, S.G., Cleaveland, M.K., 2005. Drought, epidemic disease, and the fall of classic period cultures in Mesoamerica (ad 750950). Hemorrhagic fevers as a cause of massive population loss. Med. Hypotheses 65, 405–409.
+Aimers, J., Hodell, D., 2011. Societal collapse: drought and the Maya. Nature 479, 44–45. Aimers, J.J., 2007. What Maya collapse? Terminal classic variation in the Maya lowlands.
+J. Archaeol. Res. 15, 329–377. Anderies, J.M., 1998. Culture and human agro-ecosystem dynamics: the Tsembaga of
+New Guinea. J. Theor. Biol. 192, 515–530. Anderies, J.M., 2000. On modeling human behavior and institutions in simple ecological
+economic systems. Ecol. Econ. 35, 393–412. Anderies, J.M., 2003. Economic development, demographics, and renewable resources: a
+dynamical systems approach. Environ. Dev. Econ. 8, 219–246. Anselmetti, F., Hodell, D., Ariztegui, D., Brenner, M., Rosenmeier, M., 2007.
+Quantiﬁcation of soil erosion rates related to ancient Maya deforestation. Geology 35, 915–918. Basener, B., Ross, D.S., 2004. Booming and crashing populations and Easter Island. SIAM J. Appl. Math. 65, 684–701. Basener, W., Brooks, B., Radin, M., Wiandt, T., 2008. Rat instigated human population collapse on Easter Island. Nonlinear Dynamics Psychol. Life Sci. 12, 227–240. Beach, T., Dunning, N., 2006. Impacts of the ancient Maya on soils and soil erosion in the central Maya Lowlands. Catena 65, 166–178. Becker, M.J., 1973. Archaeological evidence for occupational specialization among the Classic period Maya at Tikal, Guatemala. Am. Antiq. 38, 396–406. Boserup, E., 1965. The Conditions of Agricultural Growth: The Economics of Agrarian Change Under Population Pressure. Allen and Unwin. Bueno, N.P., 2011. A simple system dynamics model for the collapse of complex societies. In: The 29th International Conference of the System Dynamics Society. The System Dynamics Society, Washington, DC. Carleton, W., Campbell, D., Collard, M., 2014. A reassessment of the impact of drought cycles on the Classic Maya. Quat. Sci. Rev. 105, 151–161. Chase, A.F., Chase, D.Z., 2005. Contextualizing the collapse: hegemony and terminal classic ceramics from Caracol Belize. In: López Varela, S.L., Foias, A.E. (Eds.), Geographies of Power: Understanding the Nature of Terminal Classic Pottery in the Maya Lowlands. British Archaeological Reports, Oxford, pp. 73–92. Coyle, G., 2000. Qualitative and quantitative modelling in system dynamics: some research questions. Syst. Dyn. Rev. 16, 225–244. Crooks, A., Castle, C., Batty, M., 2008. Key challenges in agent-based modelling for geospatial simulation. Comput. Environ. Urban. Syst. 32, 417–430. Dalton, T.R., Coats, R.M., 2000. Could institutional reform have saved Easter Island? J. Evol. Econ. 10, 489–505. Demarest, A., 1992. Ideology in ancient Maya cultural evolution: the dynamics of galactic polities. In: Demarest, A., Conrad, G. (Eds.), Ideology and pre-Columbian civilizations. School of American Research Press, Santa Fe, NM, pp. 135–157. Demarest, A., Andrieu, C., Torres, P., Forné, M., Barrientos, T., Wolf, M., 2014. Economy,
+
+exchange, and power: new evidence from the Late Classic Maya Port city of Cancuen. Anc. Mesoam. 25, 187. Diamond, J., 2005. Collapse: How Societies Choose to Fail or Succeed. Penguin. Dornan, J., 2004. Beyond belief: religious experience, ritual, and cultural neuro-phenomenology in the interpretation of past religious systems. Camb. Archaeol. J. 14, 25–36. Douglas, P.M., Pagani, M., Canuto, M.A., Brenner, M., Hodell, D.A., Eglinton, T.I., Curtis, J.H., 2015. Drought, agricultural adaptation, and sociopolitical collapse in the Maya Lowlands. Proc. Natl. Acad. Sci. 112, 5607–5612. Dunning, N.P., Beach, T., 2003. Noxious or nurturing nature? Maya civilization in environmental contexts. In: Golden, C., Borgstede, G. (Eds.), Continuity and change in Maya archaeology. Routledge Press, New York, pp. 125–141. Dunning, N.P., Beach, T., 2010. Farms and forests: spatial and temporal perspectives on ancient Maya landscapes. In: Landscapes and societies. Springer, Netherlands, pp. 369–389. Dunning, N.P., Beach, T.P., Luzzadder-Beach, S., 2012. Kax and kol: collapse and resilience in lowland Maya civilization. Proc. Natl. Acad. Sci. 109, 3652–3657. Erickson, E.E., 1973. The life cycle of life styles: projecting the course of local evolutionary sequences. Behav. Sci. Notes 8, 135–160. Estrada-Belli, F., 2010. The First Maya Civilization: Ritual and Power Before the Classic Period. Routledge. Folan, W., Hyde, B., 1985. Climatic forecasting and recording among the ancient and historic Maya: an ethnohistoric approach to epistemological and paleoclimatological patterning. In: Folan, W.J. (Ed.), Contributions to the Archaeology and Ethnohistory of Greater Mesoamerica. Southern Illinois University Press, Carbondale, IL, pp. 15–48. Folan, W.J., Faust, B., Lutz, W., Gunn, J.D., 2000. Social and environmental factors in the Classic Maya collapse. In: Lutz, W., Priesto, L., Sanderson, W. (Eds.), Population, Development and Environment on the Yucatan Peninsula: From Ancient Maya to 2030. International Institute for Applied Systems Analysis, Laxenburg, Austria, pp. 2–32. Forest, T., 2007. Maya apocalypse: warfare-punctuated equilibrium at the limit of growth. In: The 25th International Conference of the System Dynamics Society. The System Dynamics Society, Boston, MA. Forest, T., 2013. Maya apocalypse: varying productivity, consumption, impacts, and results. In: The 31th International Conference of the System Dynamics Society. The System Dynamics Society, Cambridge, MA. Forrester, J.W., 1961. Industrial Dynamics. Pegasus Communications. Forrester, J.W., 1971. World Dynamics. Wright-Allen Press. Gill, R., Keating, J., 2002. Volcanism and Mesoamerican archaeology. Anc. Mesoam. 13, 125–140. Gill, R., Mayewski, P., Nyberg, J., Haug, G., Peterson, L., 2007. Drought and the Maya collapse. Anc. Mesoam. 18, 283–302. Hamblin, R.L., Pitcher, B.L., 1980. The Classic Maya collapse: testing class conﬂict hypotheses. Am. Antiq. 246–267. Hansen, R.D., Bozarth, S., Jacob, J., Wahl, D., Schreiner, T., 2002. Climatic and environmental variability in the rise of Maya civilization: a preliminary perspective from northern Petén. Anc. Mesoam. 13, 273–295.
+
+323
+
+S. Roman et al.
+
+Ecological Economics 146 (2018) 312–324
+
+Haug, G.H., Günther, D., Peterson, L.C., Sigman, D.M., Hughen, K.A., Aeschlimann, B., 2003. Climate and the collapse of Maya civilization. Science 299, 1731–1735.
+Heckbert, S., 2013. MayaSim: an agent-based model of the ancient Maya social-ecological system. J. Artif. Soc. Soc. Simul. 16, 11.
+Hodell, D., Brenner, M., Curtis, J., 2005. Terminal classic drought in the northern Maya lowlands inferred from multiple sediment cores in Lake Chichancanab (Mexico). Quat. Sci. Rev. 24, 1413–1427.
+Hodell, D.A., Brenner, M., Curtis, J.H., Guilderson, T., 2001. Solar forcing of drought frequency in the Maya lowlands. Science 292, 1367–1370.
+Hosler, D., Sabloﬀ, J.A., Runge, D., 1977. Simulation model development: a case study of the Classic Maya collapse. In: Hammond, N. (Ed.), Social Process in Maya Pre-history. Academic Press, London, pp. 553–590.
+Iannone, G., 2013. The Great Maya Droughts in Cultural Context: Case Studies in Resilience and Vulnerability. University Press of Colorado.
+Inomata, T., 2008. Warfare and the Fall of a Fortiﬁed Center: Archaeological Investigations at Aguateca. Vanderbilt University Press, Nashville, TN.
+Ivanova, S.A., 2010. Dietary Change in Ribeirinha Women: Evidence of a Nutrition Transition in the Brazilian Amazon?.
+Janssen, M.A., Kohler, T.A., Scheﬀer, M., 2003. Sunk-Cost Eﬀects and Vulnerability to Collapse in Ancient Societies. Curr. Anthropol. 44, 722–728.
+Johnston, K.J., 2003. The intensiﬁcation of pre-industrial cereal agriculture in the tropics: Boserup, cultivation lengthening, and the Classic Maya. J. Anthropol. Archaeol. 22, 126–161.
+Kennett, D.J., Breitenbach, S.F., Aquino, V.V., Asmerom, Y., Awe, J., Baldini, J.U., Bartlein, P., Culleton, B., Ebert, C., Jazwa, C., Macri, M.J., 2012. Development and disintegration of Maya political systems in response to climate change. Science 338, 788–791.
+Kuil, L., Carr, G., Viglione, A., Prskawetz, A., Blöschl, G., 2016. Conceptualizing sociohydrological drought processes: the case of the Maya collapse. Water Resour. Res. 52, 6222–6242.
+Lowe, J.W., 1982. On mathematical models of the Classic Maya collapse: the class conﬂict hypothesis reexamined. Am. Antiq. 643–652.
+Lucero, L.J., 1999. Classic lowland Maya political organization: a review. J. World Prehist. 13, 211–263.
+Lucero, L.J., Gunn, J.D., Scarborough, V.L., 2011. Climate change and Classic Maya water management. Water 3, 479–494.
+Luzzadder-Beach, S., Beach, T., Dunning, N., 2012. Wetland ﬁelds as mirrors of drought and the Maya abandonment. Proc. Natl. Acad. Sci. 109, 3646–3651.
+Martin, S., Grube, N., 1995. Maya superstates. Archaeology 48, 41–46. McNeil, C., Burney, D., Burney, L., 2010. Evidence disputing deforestation as the cause for
+the collapse of the ancient Maya polity of Copan, Honduras. Proc. Natl. Acad. Sci. 107, 1017–1022. Medina-Elizalde, M., Burns, S., Lea, D., Asmerom, Y., von Gunten, L., Polyak, V., Vuille, M., Karmalkar, A., 2010. High resolution stalagmite climate record from the Yucatán Peninsula spanning the Maya terminal classic period. Earth Planet. Sci. Lett. 298, 255–262. Medina-Elizalde, M., Rohling, E.J., 2012. Collapse of Classic Maya civilization related to modest reduction in precipitation. Science 335 (6071), 956–959. Motesharrei, S., Rivas, J., Kalnay, E., 2014. Human and nature dynamics (HANDY): modeling inequality and use of resources in the collapse or sustainability of societies. Ecol. Econ. 101, 90–102. Nigh, R., Diemont, S., 2013. The Maya milpa: ﬁre and the legacy of living soil. Front. Ecol. Environ. 11, e45–e54. Oglesby, R., Sever, T., Saturno, W., Erickson, D., Srikishen, J., 2010. Collapse of the Maya: could deforestation have contributed? J. Geophys. Res. Atmos. 115. O’Mansky, M., Dunning, N., 2004. Settlement and Late Classic political disintegration in the Petexbatun region, Guatemala. In: Demarest, A., Rice, P.M., Rice, D.S. (Eds.), The Terminal Classic in the Maya lowlands: collapse, transition, and transformation. University Press of Colorado, Boulder, pp. 83–101. Piperata, B.A., Ivanova, S.A., Dagloria, P., Veiga, G., Polsky, A., Spence, J.E., Murrieta,
+
+R.S., 2011. Nutrition in transition: dietary patterns of rural Amazonian women during a period of economic change. Am. J. Hum. Biol. 23, 458–469. Reuveny, R., Decker, C.S., 2000. Easter Island: historical anecdote or warning for the future? Ecol. Econ. 35, 271–287. Robichaux, H., 2002. On the compatibility of epigraphic, geographic, and archaeological data, with a drought-based explanation for the Classic Maya collapse. Anc. Mesoam. 13, 341–345. Roman, S., Bullock, S., Brede, M., 2017. Coupled societies are more robust against collapse: a hypothetical look at Easter Island. Ecol. Econ. 132, 264–278. Rosenmeier, M., Hodell, D., Brenner, M., Curtis, J., Guilderson, T., 2002. A 4000-year lacustrine record of environmental change in the southern Maya lowlands, Petén, Guatemala. Quat. Res. 57, 183–190. Roussel, E., André, M., 2013. Quantitative assessment of pre-and post-restoration weathering rates of limestone Mayan temples (Uxmal, Yucatán). Geogr. Fis. Din. Quat. 36, 169–179. Russell, W.M.S., 1988. Population, swidden farming and the tropical environment. Popul. Environ. 10, 77–94. Santley, R.S., 1990. Demographic archaeology in the Maya lowlands. In: Culbert, T., Rice, D. (Eds.), Pre-Columbian population history in the Maya Lowlands. University of New Mexico Press, NM, pp. 325–343. Sharer, R., Traxler, L., 2006. The Ancient Maya. Stanford University Press. Sharer, R.J., 1977. The Maya collapse revisited. In: Hammond, N. (Ed.), Social Process in Maya Pre-history. Academic Press, London. Tainter, J.A., 1988. The Collapse of Complex Societies. Cambridge University Press. Tainter, J.A., 2006. Archaeology of overshoot and collapse. Annu. Rev. Anthropol. 35, 59–74. Tainter, J.A., 2008. Collapse, sustainability, and the environment: how authors choose to fail or succeed. Rev. Anthropol. 37, 342–371. Tankersley, K.B., Scarborough, V.L., Dunning, N., Huﬀ, W., Maynard, B., Gerke, T.L., 2011. Evidence for volcanic ash fall in the Maya lowlands from a reservoir at Tikal, Guatemala. J. Archaeol. Sci. 38, 2925–2938. Turchin, P., 2003a. Complex Population Dynamics: A Theoretical/Empirical Synthesis. Princeton University Press. Turchin, P., 2003b. Historical Dynamics: Why States Rise and Fall. Princeton University Press, Princeton. Turchin, P., 2009. Long-term population cycles in human societies. Ann. N. Y. Acad. Sci. 1162, 1–17. Turner, B.L., 1974. Prehistoric intensive agriculture in the Mayan Lowlands. Science 185, 118–124. Turner, B.L., 1976. Population density in the Classic Maya Lowlands: new evidence for old approaches. Geogr. Rev. 66, 73–82. Turner, B.L., Sabloﬀ, J.A., 2012. Classic Period collapse of the Central Maya Lowlands: insights about human–environment relationships for sustainability. Proc. Natl. Acad. Sci. 109, 13908–13914. Survey, U.S.D.A., 1962. Soil Survey, Kingﬁsher County, Oklahoma. US Department of Agriculture, Oklahoma Agricultural Experiment Station (June). Wahl, D., Byrne, R., Schreiner, T., Hansen, R., 2007. Palaeolimnological evidence of lateHolocene settlement and abandonment in the Mirador Basin, Petén, Guatemala. Holocene 17, 813–820. Webster, D.L., 2000. The not so peaceful civilization: a review of Maya war. J. World Prehist. 14, 65–119. Webster, D.L., 2002. The Fall of the Ancient Maya: Solving the Mystery of the Maya Collapse. Thames & Hudson. Webster, J.W., Brook, G.A., Railsback, L.B., Cheng, H., Edwards, R.L., Alexander, C., Reeder, P.P., 2007. Stalagmite evidence from Belize indicating signiﬁcant droughts at the time of preclassic abandonment, the Maya hiatus, and the Classic Maya collapse. Palaeogeogr. Palaeoclimatol. Palaeoecol. 250, 1–17. Wilk, R., 1997. Household Ecology: Economic Change and Domestic Life Among the Kekchi Maya in Belize. Northern Illinois University Press.
+
+324
+
+

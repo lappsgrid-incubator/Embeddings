@@ -1,0 +1,659 @@
+UNITED STATES DEPARTMENT OF THE INTERIOR GEOLOGICAL SURVEY
+Spectral analysis of the 1976 aeromagnetic survey of Harrat Rahat, Kingdom of Saudi Arabia by
+H. Richard Blank I/ and Hamdy S. Sadek
+Open-File Report 83-
+Prepared for Ministry of Petroleum and Mineral Resources, Deputy Ministry for Mineral Resources Jiddah, Kingdom of Saudi Arabia
+This report is preliminary and has not been reviewed for conformity with U.S. Geological Survey editorial standards and stratigraphic nomenclature
+U.S. Geological Survey, Saudi Arabian Mission 1983
+
+CONTENTS
+
+ABSTRACT................................................
+INTRODUCTION............................................
+1976 AEROMAGNETIC SURVEY................................
+SPECTRAL ANALYSIS....................................... Background of the spectral method................... Outline of principles............................... Procedures employed.................................
+RESULTS................................................. Validity of depth estimates......................... Interpretation of isopach map....................... Basement anomalies..................................
+CONCLUSIONS.............................................
+DATA STORAGE............................................
+REFERENCES CITED........................................
+
+1
+2
+4
+6 6 7 10
+13 13 17 19
+22
+23
+24
+
+ILLUSTRATIONS [Plates are in pocket]
+Plate 1 Total-intensity aeromagnetic map of Harrat Rahat area after upward continuation to 1300 m above terrain
+Isopach map of Cenozoic section, Harrat Rahat area
+
+Figure 1. Index map of western Saudi Arabia showing location of principal harrats and 1976 aeromagnetic survey of Harrat Rahat....
+2. Aeromagnetic total-field intensity and spectral energy for typical 8-record profile and 2-record profile segments
+3. Aeromagnetic total-field intensity and spectral energy for typical 4-record profile segment showing estimated depth to source or source ensemble...........
+4. Spectral energy plots and depth determinations for aeromagnetic profile segments centered over holes drilled to basement..
+
+11 14 16
+
+Figure 5. Generalized topographic map of Harrat Rabat area showing areas where estimated thickness of Cenozoic volcanic section exceeds 200 m................... * ................
+Aeromagnetic total-field intensity and spectral energy for 4- record profile segment centered over anomaly A-l of ARGAS showing estimated depths to source or source ensembles
+
+18 21
+
+ii
+
+SPECTRAL ANALYSIS OF
+THE 1976 AEROMAGNETIC SURVEY OF HARRAT RAHAT,
+KINGDOM OF SAUDI ARABIA
+by J/ -</ H. Richard Blank and Hamdy S. Sadek
+ABSTRACT
+Harrat Rabat, an extensive plateau of Cenozoic mafic lava on the Precambrian shield of western Saudi Arabia, has been studied for its water resource and geothermal potential. In support of these investigations, the thickness of the lava sequence at more than 300 points was estimated by spectral analysis of low-level aeromagnetic profiles utilizing the integral Fourier transform of field intensity along overlapping profile segments. The optimum length of segment for analysis was determined to be about 40 km or 600 field samples. Contributions from two discrete magnetic source ensembles could be resolved on almost all spectra computed. The depths to these ensembles correspond closely to the flight height (300 m), and, presumably, to the mean depth to basement near the center of each profile segment. The latter association was confirmed in all three cases where spectral estimates could be directly compared with basement depths measured in drill holes.
+The maximum thickness estimated for the lava section is 380 m and the mean about 150 m. Data from an isopach map prepared from these results suggest that thickness variations are strongly influenced by pre-harrat, north-northwesttrending topography probably consequent on Cenozoic faulting. The thickest zones show a rough correlation with three axially-disposed volcanic shields.
+I/ U.S. Geological Survey, Saudi Arabian Mission
+
+INTRODUCTION i
+Harrat Rahat is one of several lapge fields of basalt and related rock extruded during middle to late Cenozoic time onto the surface of the Precambrian shield of western Saudi Arabia (fig. 1). The geographic term "harrat" used to designate these lava plateaus implies an association with heat, and probably derives from the fact that harrat terrain typically exhibits numerous features tes :ifying to a recent volcanic origin, such as cinder cones, explosion craters, and lava flow surfaces little modified by erosion. In 1256 AD, a basaltic lava flow erupted from the northern extremity of Harrat Rahat and reached the outskirts of the Holy City of Al Madinah. Not surprisingly, the harrats include a number of sites considered favorable for the development of geothermal energy (Berthier and others, 1981, 1982).
+Perhaps of more immediate concern is the potential of the harrats as ground-water reservoirs^ Harrat Rahat is of particular importance because of its proximity to Al Madinah and to the ore deposits at Jabal Sayid a:ad Mahd adh Dhahab (fig. 1). Hydrogeologic investigations ha 17e established that the lava series in the northern third of the harrat and east of its axial divide is 300 to 400 m thick and locally overlies sabkha clays, which form a seal for containment of water above the surface of the underlying Precambrian basement (Durozoy, 1968, 1970; Campi, 1969; Daessle and Durozoy, 1972; Daessle, 1973; Torrent, 1976). These studies were supported by seismic shallow-refraction surveys and direct-current electrical resistivity soundings (Arabian Geophysical and Surveying Company, 1968a,b; Munck, 1968), as well as by drilling.
+Much of Harrat Rahat is included on 1:100,000-scale geologic quadrangle maps (Lefevre, 1969 Aguttes and Duhamel, 1971; Dottin, 1975-; Brosset, 1977; Letalenet, 1976; Gilboy and Skiba, 1978a.,b; Smith, 1980, 1 282), and on several of these maps the harrat rocks are subdivided on the basis of morphology and lithology. In addi tion, a reconnaissance petrological study of the major harrats has recently been carried out (R. G. Coleman and others , unpublished data), However, knowledge of the thickness f the Harrat Rahat lava series and sediments is limited to a few areas where geophysical surveys and drilling have provided depths to basement.
+The total area of Harrat Rahat exceeds 15,000 km2 , and the aeromagnetic method is often ideal for subsurface investigations of such large areas, Unfortunately aeromagnetic data over young volcanic terrain commonly pose special problems of interpretation, and, becau; e of this, most harrat areas were excluded from the 1965-6' aeromagnetic/scintillometric survey of the Arabian Shield, Aeromagnetic coverage of the southern part of Harrat Rahat became available as a
+
+36° 39° 42°
+,j|j^..**'...... O Turayf
+'\11r
+*
+r /30° arrat al Harrah
+
+\ OTabuk 28 C
+
+Harrat Uwayrid
+
+/^_ / \^
+
+26'
+
+>|ill:
+^^:
+':«S*«
+V
+
+N_ ___
+
+ifel
+/Sip*
+iH::*;:5:S»S:.
+^ftW*^
+
+®^^ <^
+^ \"^5>,
+''
+\
+
+Harrat al Kur^||||j|||l||Harrat al Hutaymeh
+
+24' . Jabal Sayid
+AR£A OF
+
+1976 SURVEY
+
+Mahdadh Dhahab
+
+llfi-Harrat al Kishb
+
+22e
+
+20°
+
+48°
+
+18° 200 KM
+
+Figure 1. Index map of western Saudi Arabia showing location of principal harrats and 1976 areomagnetic survey of Harrat Rabat.
+3
+
+result of a separate survey carried out in 1976 in conjunction with a program of geophysical investigations of the Red Sea and its margins. Subsequently all of the remaining harrats have been flown (Dubreuil, 1982).
+In the present report the rationale for the 1976 aeromagnetic survey is reviewed and geologic interpretations concerned with the Precambrian basement are discussed. The focus of this report is the application of the techniques of spectral analysis of the aeromagnetic profile data to determination of the thickness of the supraj acent Cenozoic volcanic section.
+The work on which this report is based was performed in accordance with a work agreement between the U.S. Geological Survey (USGS) and the Saudi Arabian Ministry of Petroleum and Mineral Resources. The assistance of the Compagnie General de Geophysique (CGG) of Massy, France, in reading the digital data records is gratefully acknowledged. We are indebted to James A. Pitkin of USGS for a careful review of the original manuscript.
+1976 AEROMAGNETIC SURVEY
+The 1976 aeromagnetic survey of Harrat Rabat was flown in cooperation with the Bureau de Recherches Geologiques et Minieres (BRGM) as an adjunct to an aeromagnetic survey of the Saudi Arabian-Sudanese common sector of the Red Sea and coastal plains, a project implemented by the Saudi-Sudanese Joint Commission for Exploitation of Red Sea Mineral Resources. The flight contractor was the Arabian Geophysical and Surveying Company (ARGAS). Cov erage was restricted to that portion of the harrat lying south of lat 24° N. (fig. 1), which coincides almost exactly with a blank area on the total-intensity aeromagnetic map of "he Southern Hijaz quadrangle (Andreasen and Petty, 1974).
+The chief purpose of the Harrat Rahat survey was to investigate the structural fabric of the concealed Precambrian basement, with particular emphasis on delineation of northeast trends. Faults striking northeast are mapped in Precambrian terrain on either side of the harrat (Brown and others, 1963), and faults with this trend displace Tertiary beds overlying Precambrian rocks at: Wadi Fatimah, east -of Jiddah (Al Shanti, 1966). Moreover, the northeast-trending system is approximately co-linear with a zone of geophysical anomalies in the central Red Sea that have been interpreted as the expression of "leaky" transform faults (Searle and Ross, 1977; Hall, 19g0). This suggests that transform-related fault movement may have occurred well inland from the shield margin, possibly through rejuvenation of Precambrian structures. Thus it was considered important to establish the extent and continuity of the northeast-trending fault zone.
+
+Flight specifications for the Harrat Rabat survey were determined both by geological objectives and fiscal constraints. A relatively wide traverse spacing of 2.5 km was selected to maximize the area that could be covered. The same spacing had been used earlier for a survey of the coastal plains, where the target also was concealed basement. Traverse headings of 150°/330° true north were chosen to ensure that the target trends would be intersected at right angles, even though the delineation of structures parallel to the Red Sea axis (and also the harrat axis) would be correspondingly degraded. Finally, a flight elevation of 300 m above terrain was specified to conform to the nominal terrain clearance for Block 2 of the shield aeromagnetic survey, which abutts the Harrat Rahat block on the west (BRGM, 1966). The choice of a relatively low flight elevation offered the following advantages: (1) the survey was compatible with the shield survey on the western side; (2) the sensor was relatively close to the Precambrian targets; and (3) much information was obtained on the magnetic characteristics of the Cenozoic lavas for future application to volcanological investigations. The sensor employed in the survey was a nuclear precession magnetometer, and all data were digitally recorded.
+A well-known disadvantage of recording the magnetic field intensity at a low flight elevation over a Cenozoic lava field is that the short wavelength signals tend to dominate the data, obscuring the contribution of deeper sources. This problem can be overcome by appropriate filtering or smoothing. Smoothing of the Harrat Rahat data was accomplished by upward continuation of each profile, after removal of a linear regional gradient, to a level 1000 m above the level of observation. This process was carried out by the contractor and resulted in effective suppression of "noise" (short wavelength anomalies) from sources within the lava series.
+Aeromagnetic residual anomaly maps of the smoothed (upward-continued) and nonsmoothed total-intensity field were delivered by the contractor at scales of 1:50,000, 1:100,000, and 1:500,000 (ARGAS, 1976). These maps were accompanied by a description of the survey and data-processing methods and by brief qualitative and quantitative interpretations. The smoothed map at 1:500,000-scale is included in the present report as plate 1. A contour interval of 100 nanoteslas (nT), rather than 10 nT as in the contractor's report, has been used to facilitate comparison with the aeromagnetic map of the Southern Hijaz quadrangle (Andreasen and Petty, 1974)^ The northeast-trending long-wavelength anomaly pattern seen on plate 1 agrees with anomaly patterns over Precambrian terrain on either side of the harrat and is considered evidence of continuity of the mapped basement structures.
+
+This relationship was previously po Lnted out in qualitative interpretations by Irvine (1980) and Irvine and Bin Abri (1982) of the smoothed (upward-cont nued) maps at 1:100,000 scale for the southern part of Harra Rahat.
+Anomalies A-l and A-2 (fig. 2) w re quantitatively interpreted by the contractor, and the results will be discussed with our spectral depth estimates in a later section.
+SPECTRAL ANALY IS
+As indicated by ARGAS (1976), estimates of depth to basement in the Harrat Rahat regi On, which are based on analysis of data continued upward to 1300 m above terrain, have uncertainties of several hundred meters, an amount that may exceed the thickness of the Ceno oic section. Conversely, estimates based on the low-level data should have significantly smaller absolute errors prc>vided the signals from harrat and basement sources can be satisfactorily resolved, The method of spectral analysis is o e way to accomplish this resolution. Wherever the contrast n depths to two or more ensembles of sources contributing to the measured totalfield intensity along a profile is s ufficient, provided that the variance in depths to sources io each ensemble does not exceed about 25 percent, the contribution of each ensemble can be resolved in a plot of the power spectrum (commonly called the spectral energy plot or energy density decay curve) for that profile. Such a conti ast is to be expected in the case of a low-level aeromagnetic survey over Cenozoic basalt (an ensemble of shallow sour zes) that covers Precambrian basement (an ensemble of deep r sources). In general, the depths obtained from the power s pectra are depths to the tops of the sources, which, in th case of Harrat Rahat, should nearly correspond to the ground surface and the surface of the basement.
+Background of the spec ral method
+With the advent of the high speed digital computer, analysis of potential field data in the frequency domain has become increasingly popular due to the computational efficiency of this method compared with analysis in the space domain. For many purposes it also has the advantages of superior data enhancement and greater resolution. Routine operations, such as upward and downward continuation, reduction to the pole, separation of regional and residual anomalies or other types of filtering, and trend analysis, are all readily performed using Fourier pectra. Anomalies may be modeled using expressions developed for a variety of idealized source bodies, such as dikes, steps, prisms, and the like, in terms of the Fourier ntegral. Much original theoretical work and excellent reviews of the method are
+
+given by Bhattacharyya (1967, 1978), Cassano and Rocca (1975), and Spector and Parker (1979). Spector (1968) provides a valuable general guide to spectral analysis in aeromagnetic map interpretation, with emphasis on statistical
+treatment of the radial spectra of source ensembles. His theoretical development is amply illustrated by application to real data, chiefly from the Canadian Shield. Other examples of application of the method to aeromagnetic map interpretation include reports by Bhattacharyya (1969), Naidu (1969), Spector (1971), Sarma (1974), Sadek (1978), and
+Meshref and others (1980). Use of spectral analysis for depth estimation is the subject of papers by Lehmann (1970), Treital and others (1971), Mishra and Naidu (1974), Cassano and Rocca (1975), Curtis and Jain (1975), and Hahn and others (1976). The statistical approach of Spector (1968) as it applies to single profile analysis is described by Green
+(1972). In a case analogous to the present work, Curtis and Jain (1975) used spectral techniques to determine the thickness of a volcanic cover from aeromagnetic profile data in
+southern Algeria.
+
+Outline of principles
+
+Representation of the magnetic field intensity AT(x) in the frequency domain for purposes of spectral analysis is
+accomplished by computing the Fourier transform of the product of the field intensity and a weighting function every-
+where along a profile or profile segment, Lx » to be ana ~ lyzed. The weighting function must smooth the field intensity to zero at the extremities of the finite data segment, while not seriously affecting the validity of the transforma-
+tion. A Hanning window function satisfies these criteria and is the weighting function most commonly used.
+
+Thus: Af(f) =
+
+CO
+/ AT(x)e~ iu)Xdx
+CO
+
+(1)
+
+is closely approximated by
+
+) " / AT(x)-H( X )e- iux dx,
+
+where
+
+X
+
+AT(f) = Fourier transform of AT(x),
+
+AT(x) = anomalous field intensity along length of profile Lx ,
+
+f = spatial frequency in cycles per unit distance in x, H(x) = Manning function
+
+=1/2 (1 + cos 27TX
+
+Note that the Manning function has the value unity at the center of the line segment (x=0) and the value 1/2 midway from the center to the extremities.
+
+The Fourier integral representat on of the field is then used to obtain the power spectrum ( energy density"), E(f), through multiplication by the complex conjugate AT*(f):
+
+E(f) = AT(f) AT*(f).
+
+(3)
+
+Spector and Bhattacharyya (1966) and Spector (1968) evaluate this function for a number of simpl e source configurations and show that in limiting cases it can be written as the product of four factors: (1) a magnetization intensity factor;
+(2) a field orientation factor dependent only on the directions of the Earth's field and the body magnetization vector;
+(3) a depth factor; and (4) a finite size or form factor, which depends on the dimensions and orientation of the magnetized source. Consequently, as long as the body magnetization and Earth's field are close to the same direction and the dimensions of the source are small compared with the depth, the shape of the spectral decay cur re is controlled chiefly by the depth factor. For an anomaly source represented by an ensemble of point poles (map analysis), lines of poles (profile analysis), or infinite vertical prisms, at a mean depth h below the sensor, the depth ± actor H(f) is simply:
+
+H(f ) = e~4TT hf .
+
+(4)
+
+Therefore, if the size factor is neg Lected and the contributions of the first two factors are issumed to not seriously affect the shape of the energy spect rum for a given profile, one may use the logarithmic decay curve of the energy density to determine the depth:
+
+Ln [E(f)] = -47Thf + a constant;
+
+therefore,
+h * - slope.
+4 IT
+
+(5)
+
+Under these conditions, if ensembles exist at two or more characteristic depths, each produces a discrete linear segment of the logarithmic energy decay curve.
+
+8
+
+For sources that more closely approximate point dipoles, lines of dipoles, or horizontal laminae, the expression for H(f) is more complicated. It has a maximum at a frequency determined by the value of h rather than at f^O. The decay curve computed from observed field data is commonly somewhat bowed .upward as a result of source configurations intermediate between the two extreme cases, and accordingly, the slope method of depth estimation may be inappropriate. Departures from the ideal, linear spectral decay of a bottomless source become more drastic with increasing depth to the dipole or lamina.
+The general characteristics of spectral energy and amplitude decay curves due to single- and multiple-source configurations at various depths have been examined in detail by Spector (1971) and Sadek (1978). The low-frequency end of the spectrum may be completely dominated by the effects of a regional gradient or a single, intensely magnetized, deepseated source, thereby masking the decay due to sources at shallower depths. These effects can be minimized by removing a linear regional gradient from the total-field data before transformation to the frequency domain. At the high end of the spectrum, several undesired effects can arise from the process of digitization. For example, the energy does not decay to zero but remains at a constant "white noise" level due to round-off error and the finite sample interval. The effect of aliasing is normally avoided by selecting a sufficiently small sample interval, Ax, so that the Nyquist fre-
+quency, ffl = (2Ax)-l, is beyond the highest frequency of interest.
+Much more serious than the above considerations is the finite-size factor in the energy density equation. This factor is frequency-dependent and approaches unity only when the source dimensions are very small compared with the depth. Spector (1968) and Spector and Grant (1970) have produced a set of correction curves that can be used to "refine" the spectrum prior to depth analysis. Each curve corresponds to a particular average half-width of causative bodies in a vertical-prism source ensemble. It is possible to obtain a satisfactory average half-width simply by measuring halfwidths of the associated .total-field anomalies. The corrections are of negative sign, increase in magnitude with increasing source size and increasing frequency, and must be subtracted from the logarithmic energy density. Without size corrections, the measured slopes of linear segments of the decay curve would be too steep and the calculated depths would be too large. This error could amount to more than 50 percent in extreme cases. However, in a spectrum dominated by the effects of relatively shallow sources, the size factor is of much less consequence. The same is true for ensembles of sources composed of vertical cylinders or dikes (Pedersen, 1978).
+
+Procedures employed
+Analysis of the Harrat Rabat data required four main tasks:
+(1) Reading of the digital dat£: from a magnetic tape supplied by the contractor into a POP 11/45 computer. The delivered data consisted of strings of records of total-field intensity and position values sampled at one-second intervals along 60 profiles and tie-lines, Prior to delivery, the contractor removed a linear regional gradient from each profile in accordance with parameters of the International Geomagnetic Reference Field for tae Harrat Rahat area: -3.803 nT/km south to north, and -1. 810 nT/km west to east, An unspecified constant was also subtracted from all field values in order to reduce the datum to the minimum level such that all values remained positive. E ch record contained 656 data points, except at the ends of p ofiles, and represented between 10 and 14 km of traverse.
+(2) Preparation of software. The computational procedures of Spector (1968) had been programmed by Sadek (1978) for an aeromagnetic interpretation of basement structure in the Southeastern Desert province of Egypt. These programs dealt exclusively with map data, however, and it was necessary to modify them for analysis ol the Harrat Rahat profiles, as well as for input to the PDP 11/45 computer. Software developed for the present work has been documented by Sadek and others (unpublished data). It should be noted that the complete Fourier integral transform is used here rather than the discrete, or "fast", Fourier transform favored by other authors (for example, Curtis and Jain, 1975). The latter is computationally more effi :ient but yields significant distortions of the energy spectrum at high frequencies (Cordell and Grauch, 1982).
+(3) Computation of the energ spectrum. The first requirement of this task was select! on of a suitable length of profile, Lx , for analysis. I LX were too great, significant variations in depth to the surface of the Precambrian would be averaged out and could not be delineated, Also, deeper sources within the Precambrian might contribute excessively to the spectrum and ma e any meaningful depth estimates at the low frequency end difficult to obtain. Decreasing Lx improves the appar nt resolution of the method but ultimately results in poor depth determinations due to insufficient data points on the decay curve.
+Trial spectra were computed using various profile lengths, with the base unit of length taken as one discrete record. Figure 2 illustrates spec ra and total-intensity
+10
+
+(2a)
+Fo.o
+I20 )
+16
+10!
+
+20.000
+
+40.000
+
+59.999
+
+ENERGY
+/
+
+§j FIELD INTENSITY
+
+DISTANCE(KM)
+
+79:999
+
+99.999
+
+119.999
+
+139.999
+
+159.999
+
+HARRAT RAHAT AREA
+LINE 36 SEG 7
+
+3800
+
+®*" 72 '2 m
+DH: 299m
+
+'
+
+NX: 1040 points ,
+
+3400
+
+O
+3000 O _l
+. til
+' LL O
+
+-10
+
+-15
+LENGTH: 74.960 KM
+
+-201 0.0
+(2b)
+
+1.0
+
+2.0 5.00
+
+2200
+
+FREQUENCY (CYCLES/KM)
+
+J_________I
+
+.I
+
+3.0 4.0 5.0 6.0
+
+7.0
+
+10.00
+
+DISTANCE (KM) 15.00
+
+20.00
+
+8.0 25.00
+
+HARRAT RAHAT AREA LINE 29 SEG8
+
+DX: 71.0m pD. Hu :. O2Q9-7, m,
+NX: 328 points
+
+9.0 3800 3400
+
+FREQUENCY (CYCLES/KM)
+
+0.0
+
+i.o
+
+2.0 3.0
+
+4.0
+
+5.0 6.0 7.0
+
+8.0
+
+Figure 2. Aeromagnetic total-field intensity and spectral energy plots of typical 8-record profile (2a) and 2-record profile (2b) segments. DX is the mean distance between field-intensity sample points; DH, the mean terrane clearance recorded by the flight altimeter; and NX, the number of points sampled along the profile segment.
+11
+
+profiles of inappropriate length. In this and the following spectral plots (figures 3, 4, and 6), the ordinate is the natural logarithm of spectral energy in "decibels" (1/8.686 of decibel unit used with logarithms^ to base 10), and the abscissa is spatial frequency in cycles per km; DX is the mean distance between field-intensity sample points, DH is the mean terrain clearance recorded by the flight altimeter, and NX is the total number of points sampled along the profile segment. The ordinate for field-intensity profiles is residual field intensity in nanoteslas (gammas).
+Profile 2a is composed of eight concatentated records and is too long, whereas profile 2b is composed of only two records and is too short. Spectra were; computed for concatenated two-record profile segments ove-r the entire data set before the deficiencies of this segment length were fully appreciated, but most depth determinations were made from spectra of longer profiles.
+The optimum profile length was judged to be four records (about 40 km). Accordingly, energy spectra were computed for four-record segments along all profiles of sufficient length. Successive segments were displaced only one record from adjacent segments. Altogether more than 300 spectra were computed using this scheme. In each ins tance the mean distance between field sample points was computed for the entire profile segment; the spacing was then assumed to be uniform and equal to the mean value. As the final record for each profile was generally an incomplete time block, the final four-record segment of most profiles was abnormally short, and its midpoint (the plot position) did not coincide with a record break.
+(4) Estimation of depths from ixamination of spectra, This task was carried out manually and by inspection. The quality of a depth determination pends not only on the judgment of the interpreter as to hat constitutes a mean slope but also on the real linearity of selected increments of the decay curve. Scatter of points on the plot of the spectrum is due to the effects of finite size and shape and to the finite length of profile: nonlinearity results from excessive depth dispersal of sources or from the presence of a thin source layer. In all cases the contribution of an ensemble of shallow sources could be recognized as a linear interval of the decay curve at intermediate to high 'frequencies, and occasionally this was the only depth that could be resolved. Most commonly each spectrum yielded either two or three depth estimates. When two an alysts examined the same spectrum, their depth estimates generally agreed within about ten percent.
+Typical logarithmic plots of energy spectra and the total-intensity profile segments from which they were derived
+12
+
+are given in figure 3. Plots a, b, and c illustrate the one-, two-, and three-depth cases, respectively. Each plot shows the estimates of slope and depth. Note that energy values have not been normalized, that is, divided by the energy at zero frequency (an alternative method of presentation favored by some authors to facilitate comparisons). The complete suite of plots is on file at the Jiddah office of the U.S. Geological Survey under data file number USGS-DF-03-8.
+RESULTS
+The final product of spectral analysis of the Harrat Rabat aeromagnetic data is the isopach map (plate 2). This map combines the above analytical results with results from drilling. Plot points are indicated by solid squares (for four-record analyses) or triangles (for two-record analyses), and are the midpoints of analyzed profile segments. Depth estimates are noted beside the plot point. The limits of each discrete data record are indicated by crosses on the flight traverse lines. Diamond drill holes and depth to basement of each hole are from the data of Torrent (1976). Volcanic cones, necks, and craters sketched on the map were located from the map of Aguttes and Duhamel (1971) and from a cursory interpretation of 1:100,000-scale photomosaics.
+Isopach contours have been drawn for the magnetic source layer that overlies Precambrian basement. This layer consists chiefly of mafic rocks of the Cenozoic harrat lava series, but locally it may include basal sabkha deposits and perhaps thin sedimentary strata intercalated with the flows, as indicated by Daessle (1973) and Torrent (1976).
+Thickness estimates are shown on the map in parentheses and are merely the difference between the two smallest depth estimates at each plot point. Evidently the uppermost depth corresponds very closely to the flight height, and the thickness of the harrat section could also have been determined by subtracting the mean terrain clearance for a profile segment (280 to 320 m) from the depth to the second source ensemble. The thickness estimates range from 26 to 380 m t and the mean thickness in the region covered by the analyses is about 150 m. Areas of estimated thickness less than 100 m and greater than 200 m are indicated on the map by tonal patterns.
+Validity of depth estimates
+Clearly the thickness estimates are valid only if the second source ensemble represents the surface of the basement. Strong support for the existence of a basement-surface source ensemble was derived from spectral analyses of profiles over exposed Precambrian terrain, where again, the uppermost depth estimate almost always corresponded to the terrain clearance. Nevertheless, because the contribution of
+13
+
+(3a)
+0.0
+20
+15 10 -
+
+10.0 1\
+
+_ I
+
+DX: 62.5 DH: 310m NX: 656 points
+
+20.0
+
+30.0
+
+DISTANCE (KM)
+
+4.0.0
+
+50.0
+
+HARRAT RAHAT AREA LINE 33 SEG9
+
+3800 3400
+
+53000
+0-
+-5 I- 2600 r-
+
+-10 -
+
+SLOPE = -3.74 DB/CYCLES/KM
+
+-15 -
+
+DEPTH = 298m
+
+1.0 2.0 3.0 4.0 5.0 6.0 -20 _
+
+LENGTH: 40.867 KM
+
+FREQUENCY (CYCLES/KM)
+
+(3b)
+
+7.0
+
+-ENERGY 2200
+8.0 9.0 1800
+
+20 DX: 70.7m DH: 296m
+15 NX: 656 points
+
+DISTANCE (KM)
+
+HARRAT RAHAT AREA LINE 29 SEG 9
+
+3800
+
+-SLOPE = -5.46 DB/CYCLES/K M
+
+3400
+
+10
+
+FIELDJNTENSITY
+
+5 3000 O
+_l
+HI 0
+
+-5 H 2600 r-
+
+-10
+SLOPE = -1.11 DB/CYCLES/KM -15 DEPTH = 291 m
+
+-20
+LENGTH: 46.237 KM
+(3c)
+
+FREQUENCY (CYCLES/KM)
+
+DISTANCE (KM)
+
+DX: 82.6m
+DH: 297m : 656 points SLOPE = 1.51 DB/CYCLES/KM DEPTH = 394 m
+
+RRAT RAHAT AREA LINE 30 SEG 12
+FIELD INTENSITY
+
+H 2200 1800
+i 3800 -1 3400 -I 3000
+
+DEPTH = 1,018m
+
+0.0 1.0
+
+2.0
+
+LENGTH: 54.163 KM
+
+SLOPE = -12.8 DB/CYCLES/KM
+3.0 4.0 5.0 6.0
+
+1.14SLDOBP/ECY=CLES/KM.- 2600 = DEPTH = 298m
+- 2200
+1800 7.0 8.0 9.0
+
+FREQUENCY (CYCLES/
+
+Figure 3. Aeromagnetic total-field intensity and spectral energy plots for typical 4-record profile segment showing estimated depth to source or source emsemble for one-depth case (a), two-depth case (b), and three-depth case (c). DX, DH, and NX are as defined in figure 2.
+14
+
+a basement-surface ensemble on a few spectra may have been obscured by intensely magnetized intrabasement sources, the second source layer may have been misidentified.
+That misidentification was not the general case is indicated by comparison of basement depths estimated from four-record power spectra with depths determined from drill holes. Such a comparison was possible in two instances where a flight line passed almost directly over a drill hole spudded on the harrat surface. The center of the profile segment in each instance was chosen to coincide with the position of the drill hole. Spectral energy plots and depth determinations for these profiles are shown on figure 4. Profile 4a yielded a thickness for the harrat section of 380 m (673 m minus 293 m) , compared with the basement depth of 362 m determined from hole SAH-25 (Torrent, 1976). Profile 4b yielded 240 m, in almost exact agreement with 341 m determined from hole SAH-27.
+Five two-record profiles in the extreme northeastern part of the map area were also analyzed .for comparison with drilling results. The depth estimates are less reliable than those from four-record profiles, and four of the five center points are several kilometers from the nearest drill hole. The remaining center point is within 1 km of drill hole SAH-13. This profile yielded depth estimates corresponding to a thickness of 79 m, which compares favorably with the depth of 92 m to basement in the drill hole.
+The excellent agreement of spectral estimates with drilling results in the three cases where the center of the analyzed profile segment is near or at the drill hole must be considered to some extent fortuitous. Depths determined from the power spectra are ensemble averages based on contributions to the field intensity from all sources affecting the segment; even though these effects are center-weighted, an estimated depth does not correspond precisely to the real depth to a source beneath the center point unless the depth to all sources in the ensemble is uniform. Moreover, profile analysis assumes that the sources are two-dimensional (2-D), with infinite strike length normal to the profile. It has been still further assumed that the sources are equivalent to horizontal lines of magnetic poles or polarized vertical sheets, as we have made no size corrections and have relied on identification of linear intervals of the energy decay curves for depth estimates.
+Fortunately, in the work at Harrat Rahat these assumptions do not appear to be too restrictive. Most sources of short-wavelength anomalies on Harrat Rahat profiles probably have little lateral continuity and no great depth extent. Thus, it should be appropriate to represent them as point dipoles or polarized horizontal laminae. Large errors are
+15
+
+ENERGY SPECTRUM OF AEROMAGNETIC DATA LINE 37, HARRAT RAHAT LINE CENTER AT 32.5 KM
+DX: 78.0m NX: 501 points
+
+.30 .40 FREQUENCY (CYCLES/KM)
+
+.50
+
+.60
+
+ENERGY SPECTRUM OF AEROMAGNETIC DATA LINE 41, HARRAT RAHAT NE CENTER AT 18.25 KM
+DX: 78.3m NX: 489 points
+
+o .10 SAH-27 (4b)
+
+.20 .30
+
+.40 .50
+
+FREQUENCY (CYCLES/KM)
+
+.60
+
+Figure 4. Spectral energy plots and depth determinations for aeromagnetic profile segments centered over holes drilled to basemen t: SAH-25 (a); SAH-27 (b). DX and NX are as defined in figure 2.
+
+16
+
+introduced by the assumption of ideal two-dimensionality only for linear sources systematically traversed at an angle highly acute to their elongation, or for dipoles (or laminae) systematically traversed off-center. In such cases the spectrum will be enriched in long-wavelength components to such an extent that a serious overestimation of depth will be made from the decay rate. For an ensemble of randomly distributed dipoles, however, the energy spectrum is sufficiently similar to that of an ensemble of ideally oriented line sources at the same depth that a 2-D analysis is applicable. The most satisfactory results are achieved by map analysis and the use of radial rather than linear spectra.
+A further consideration is nonlinearity of the spectral energy decay curve. As noted previously, nonlinearity arises from limited depth extent (vertical thickness) of the sources and increases with increasing depth to the tops of sources of a given thickness. Depth estimates for the upper source ensemble do not seem to have been adversely affected by the depth-thickness ratio because linear energy decay intervals corresponding to the flight elevation were observed in all cases. The same is not necessarily true at the low end of the frequency range, where estimates of depth to basement in some cases might have been improved by more detailed analysis of the decay curve, taking nonlinearity into consideration. However, in our experience, the low-frequency intervals, too, were typically linear or nearly so, and thus for low-level flight data at Harrat Rabat the ensemble of basement sources can be adequately represented by a suite of infinite vertical prisms or sheets.
+Except for the occasional difficulty in determining slopes of decay curves, the chief factors adversely affecting the depth estimates are the finite size of sources and the real depth dispersal of sources. Their combined effect is believed to result generally in overestimation of depth to the surface of the Precambrian basement. Other factors that would result in overestimation of depth to basement are saprolitic weathering and hydrothermal alteration of Precambrian rocks beneath the lavas. Neither^is considered likely to be a significant source of error in the Harrat Rahat analyses.
+Interpretation of isopach map
+The isopach map of the project area (plate 2) indicates a general thickening of basement cover rock inward from the margins of Harrat Rahat and toward its topographic axis. Figure 5 shows the relationship of zones of estimated thickness exceeding 200 m to elevations taken from an aeronautical navigation chart at an original scale of 1:1,000,000. Three broad topographic bulges of relatively low relief occur on the harrat south of lat 24° N. The three bulges are disposed
+17
+
+>n1our values * 4 OO (fceV)
+Figure 5. Generalized topographic map of Harrat Rahat area showing areas where estimated thickness of Cenozoic volcanic sec ion exceeds 200 m (stippled). 18
+
+slightly en echelon but together form a nearly north-south alignment. These highs are loci of cones and craters and apparently represent volcanic shields. On the northernmost shield a distinct concentration of thickness maxima occurs, although the maxima do not coincide in general with the shield crest. The correlation of thickness and elevation becomes progressively more tenuous to the south in the older part of the harrat. However, thickness distributions in the southernmost shield are poorly resolved.
+Thickness maxima and minima in the northern two-thirds of the project area tend to be elongated somewhat to the northnorthwest, and the same is true of the shields. This orientation is closer to trends of the Red Sea axis and major Tertiary dikes of the region (Brown, 1972; Blank, 1977) than to mapped trends in adjacent Precambrian terrain (Brown, 1972). We surmise that the earliest flows were erupted onto a surface whose morphology was, to a significant extent, determined by Cenozoic faulting. A deep feeder system for the volcanic field as a whole may have been controlled by a northsouth oriented basement fracture of perhaps Precambrian age, but localization of vents appears to have been influenced by the younger west-northwest system. It seems likely that the large, local variations in thickness seen on the isopach map are primarily due to infilling of topographic relief on the surface of the Precambrian.
+A ' subordinate trend of thickness extrema is northeasterly. This trend may reflect pre-volcanic erosional relief on the putative transform structures.
+Basement anomalies
+Up to this point we have made use of only two depth estimates for each analyzed profile segment: the depth to the surface of the harrat and the depth to the surface of the basement. For many profile segments, particularly those near the eastern margin of the project area where the harrat lava section is relatively thin, it was possible to make a third depth estimate. This estimate represents the maximum depth to the top of an intrabasement source or source ensemble. The estimates of depth below the surface of the basement range from about 200 m to nearly 2,800 m. In most cases the source anomalies are clearly recognizable on the corresponding total-intensity profiles.
+The present work focused on determination of the thickness of the basement cover section rather than on the basement itself, and no attempt was made to systematically interpret the intrabasement depth estimates. However, the location of total-intensity anomalies A-l and A-2 from figure 2 and the contractor's report (ARGAS, 1976) are shown on the isopach map so that a comparison can be made between the
+19
+
+contractor's depth estimates and those obtained by spectral analysis of profile segments in th^ vicinity of anomalies previously analyzed.
+Anomaly A-l is centered about 25 km west of the town of Sufaynah, midway on the eastern margin of the project area. It has a peak-to-trough amplitude of more than 2,000 nT at a level of 1,300 m above terrain and is one of the most prominent "circular" or dipolar anomalies delineated anywhere on the Arabian Shield. Its source is postulated to be associated with a kipuka of Precambrian rock projecting from the lava field. Because of the characteristics of the anomaly, including its very large amplitude, we infer that the source rock is a syenite-gabbro complex of dimensions similar to those of the Lakathah intrusion in the southern shield (Gettings and Andreasen,^ Oiu**). The contractor used a vertical infinite prism of cross-section 3 x 6 km to model the anomaly and obtained a depth of 700 m to the top of the prism (400 m below ground surface). Figure 6 shows aeromagnetic totalfield intensity and spectral energy for a profile segment that apparently does not traverse the; kipuka but is centered nearly over the center of the anomaly. The depths estimated from this energy decay curve are 301 m, 473 m, and 1,577 m. Thus, the basement in this vicinity is considered to contribute spectral energy from two sources, one at the concealed basement surface and the other at an 1,100 m below the basement surface. Tie spatial wavelength of the total-field intensity anomaly is large enough to require amending the spectral depth estimate; by a size correction. Theory and application of size corrections are fully explained by Spector (1968), Spector and Grant (1970), and Sadek and others (unpublished data) Using the dimensions of the contractor's model, 3x6 km, and the size correction plots of Spector and Grant (1970), we obtained a new depth of about 900 m below ground surface to tiie top of the intrabasement source. This figure is still mo:re than twice the depth calculated by the contractor. The discrepancy is at least partly explained by the fact that the model employed was a simple prism, whereas spectral analysis implies that the source is in fact composite.
+Linear anomaly A-2 was not modeled by the contractor, but several depth calculations were made using unspecified methods applied to profiles drawn on the upward-continued map (ARGAS, 1976), which yielded depths of 400 to 500 m below ground surface. This anomaly, although well delineated, is less intense than anomaly A-l and doeiis not dominate the spectrum of profile segments to the same extent. Field intensity and spectral energy for the segment most nearly centered on the anomaly were illustrated as an example of a three-depth segment (fig. 3c). The corresponding flight line is approximately normal to the anomaly trend , so an assumption of two-dimensionality is reasonable. The two basement-depth
+20
+
+o.o
+20 15 -
+
+5.0
+
+10.0
+
+15.0
+
+20.0
+
+25.0
+
+DISTANCE (KM) 50.0
+HARRAT RAHAT AREA LINE 32 SEG 10
+DX: 76.5m DH: 298m NX: 656 points LENGTH: 50.031 KM
+
+ro
+
+DEPTH = 1,577m
+
+DEPTH = 301 m DEPTH = 473m
+
+1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 FREQUENCY (CYCLES/KM)
+Figure 6. Aeromagnetic total-field intensity and spectral energy plots for 4-record profile segment centered over anomaly A-l of ARGAS (1976) showing estimated depths to source or source ensembles. DX, DH, and NX are as defined in figure 2.
+
+estimates for this particular spectrum are relatively uncertain due to weak development of linear decay intervals, Nevertheless, from examination of the isopach map it is apparent that the anomaly is associated with a sharp change in depth to basement because the lava section is thicker on the northwestern side (see plate 2). We can speculate that the source of the anomaly gradient is an east-northeasttrending basement fault that has jux' ;aposed rocks of strongly contrasting magnetization: the more magnetic rock developed as a topographic low on the bas ?ment surface prior to emplacement of the harrat section.
+Before proceeding further with ir terpretation of basement anomalies, one should apply a match< d digital filter to the field-intensity data based on mean characteristics of the energy spectra. This application would result in optimum separation of the effects of cover re ck and basement sources. It is, however, beyond the scope )f the present investigation.
+CONCLUSIONS
+The study of Harrat Rahat has s srved to demonstrate the effectiveness of spectral analysis of low-level aeromagnetic profile data to estimate the thickness of a relatively thin layer of magnetic rock (the Cenozoi volcanic section) that overlies magnetic basement. The sharp field perturbations detected at a low flight elevation ov7er intensely magnetized basalt flows in effect have been separated from longer wavelength anomalies of basement sourc ?s by their contrasting contributions to the profile energy spectra. The shapes of these spectra indicate that in generj 1 the upper source layer can be represented by an ensemble o f sources at the ground surface, and the lower by an ensemble of infinite vertical prisms whose tops are at the surfa e of the basement. The depth to each ensemble for any given profile has been determined by measuring the slopes of inear intervals of its logarithmic energy spectrum. Resolut ion of the two slopes on the energy spectrum was facilitated by the great differences in characteristic magnetization and j patial dimensions of the two discrete sets of sources. It wa ; inhibited, however, by nonlinearity of the spectral decay for basement sources of inadequate depth extent, and by the effects of dispersal of sources in the basement.. Overestimat Ion of depth to basement may have occurred in some instanc ;s due to dominance of intrabasement sources and to disre ;ard of the finite-size effect.
+Confidence in the general validi ty of the spectral depth estimates has been reinforced by the close agreement of depth to the upper source ensemble to the flight height, and, in the few cases where it could be tested of depth to the lower
+22
+
+source ensemble to basement depths determined directly from drilling. The isopach map of basement cover derived from these estimates shows many sharp thickness variations throughout the harrat. Statistical in nature and not accurate in detail, it probably does give a reasonable regional representation of concealed basement topography. The cost of obtaining a similar representation by other methods would appear to be many times greater.
+Conventional aeromagnetic basement-depth analysis in the space domain for regions covered by mafic volcanic strata requires high-level flight data or upward continuation of low-level data in order to attenuate the disturbing influence of the volcanic strata. Analysis in the frequency domain circumvents this requirement and permits the use of low-level data without smoothing. Provided the spectral contributions of basement sources can be clearly distinguished from those of the covering volcanic sources, as was generally the case in the Harrat Rahat study, it would appear advantageous to specify a relatively low ground clearance for initial data acquisition and thus minimize the magnitude of uncertainties in the depth determinations. However, at some level the difficulties in resolving basement contributions to a compound spectrum may well offset the advantages of increasing proximity to basement sources.
+In conclusion, we feel that spectral analysis can be successfully applied to aeromagnetic surveys of other harrats, and that this possibility should be considered in designing survey parameters in similar geologic environments elsewhere. Additionally, we hope that the thickness estimates resulting from this work will be of some utility in the evaluation of Harrat Rahat as a ground-water reservoir, and that the lowlevel aeromagnetic profiles will contribute to detailed volcanological studies of the region.
+DATA STORAGE
+Data file number USGS-DF-03-8 has been established as a repository for spectral data generated for the Harrat Rahat project. The file consists of computer plots of aeromagnetic total-field intensity and spectral energy density for 312 4-record profile segments, 450 2-record segments, and 15 complete profiles. An index map is provided for profile arid segment location. The file is stored at the Jiddah office of the Geophysics section of the U.S. Geological Survey. Inquiries regarding this data file may be made through the Office of the Technical Advisor, Saudi Arabian Deputy Ministry for Mineral Resources, Jiddah.
+23
+
+REFERENCES CITED
+Aguttes, J. , and Duhamel, M. 1971, Geology and mineral exploration of the Al Hijriyah quadrangle, photomosaic 111 West: Bureau de Recherches Geologiques et Minieres (Saudi Arabian Mission) Report 71 -JED-5, 24 p.
+Al-Shanti, A. M. S., 1966, Oolitic i ?on ore deposits in Wadi Fatima between Jeddah and Mecca Saudi Arabia: Saudi Arabian Directorate General of Mineral Resources Bulletin 2, 51 p.
+Andreasen, G. E. , and Petty, A. J. 1974, Total intensity aeromagnetic map of the Southern Hijaz quadrangle, Kingdom of Saudi Arabia: Saudi Arabian Directorate General of Mineral Resources Geologic Map GM-12, 4 p., scale 1:500,000.
+Arabian Geophysical and Surveying Company 1968a, Hydrological survey using geophysical me thods near Jabal Sayid: Arabian Geophysical and Surveyin Company (ARGAS) Report 5920-Hydro-l, 14 p.
+1968b, Re-interpretation of electrical soundings near "Jabal Sayid: Arabian Geophysical and Surveying Company (ARGAS) Report 5920-Hydro -2, 8 p.
+_______ 1976, USGS-BRGM airborne magnetometer survey, Harrat Rabat: Arabian Geophysical and Surveying Company Report, 22 p.
+Berthier, F., DeMange, J., lundt, F. and Verzier, P., 1981, Geothermal resources of the Kingdom of Saudi Arabia: Saudi Arabian Deputy Ministry for Mineral Resources Open-File Report BRGM-OF-01-24, Ul6 P-
+Berthier, F., DeMange, J., and lundt, F., 1982, Highenthalpy geothermal resources of Harrat Khaybar and Harrat Rabat, Progress report 1400-1401: Saudi Arabian Deputy Ministry for Mineral Resources Open-File Report BRGM-OF-02-44, 25 p.
+Bhattacharyya, B. K., 1967, Some general properties of potential fields in space and frequency domains a review: Geoexploration, v. 5, p. 127-143.
+1969, Bicubic spline interpolation as a method for treatment of potential field data : Geophysics, v. 34, no. 3, p. 402-423.
+_______ 1978, Computer modeling in gravity and magnetic interpretion: Geophysics, v. 43, no. 5, p. 912-929.
+24
+
+Blank, H. R. , Jr., 1977, Aeromagnetic and geologic study of Tertiary dikes and related structures on the Arabian margin of the Red Sea, in Red Sea Research 1970-1975: Saudi Arabian Directorate General of Mineral Resources Bulletin 22, p. G1-G18.
+Brosset, R., 1977, Geology and mineral exploration of the Al Madinah quadrangle, 24/39 D: Bureau de Recherches Geologiques et Minieres (Saudi Arabian Mission) Technical Record 77-JED-4, 18 p.
+Brown, G. F., 1972, Tectonic map of the Arabian Peninsula: Saudi Arabian Directorate General of Mineral Resources Arabian Peninsula Map AP-2, scale 1:4,000,000.
+Brown, G. F. , Jackson, R. 0., Bogue, R. G. , and MacLean, W. H., 1963, Geologic map of the Southern Hijaz quadrangle, Kingdom of Saudi Arabia: U. S. Geological Survey Miscellaneous Geological Investigations Map 1-210 A, scale 1:500,000; reprinted 1979, Saudi Arabian Directorate General of Mineral Resources Geologic Map GM-210 A, scale 1:500,000.
+Bureau de Recherches Geologiques et Minieres, Geophysical Section, 1966, Aeromagnetic and scintillometric survey flight operations, final report: Bureau de Recherches Geologiques et Minieres (Saudi Arabian Mission) Report SG-JED-66-B-1, 11 p.
+Campi, R. , 1969, Ground water test holes in the Jabal Sayid area: Bureau de Recherches Geologiques et Minieres (Saudi Arabian Mission) Report 69-JED-29, 42 p.
+Cassano, E., and Rocca, F., 1975, Interpretation of magnetic anomalies using spectral estimation techniques: Geophysical Prospecting, v. 23, no. 4, p. 663-681.
+Cordell, Lindrith, and Grauch, V. J. S., 1982, Reconcilation of the discrete and integral Fourier transforms: Geophysics, v. 47, no. 2, p. 237-243. ~
+Curtis, C. E., and Jain, S., 1975, Determination of volcanic thickness and underlying structures from aeromagnetic maps in the Silet area of Algeria: Geophysics, v. 40, no. 1, p. 79-90.
+Daessle, M., 1973, Jabal Sayid water-supply, Hydrogeological study of the Harrat Rahat basalt (Adh Dhumariyah district): Bureau de Recherches Geologiques et Minieres (Saudi Arabian Mission) Report 73-JED-9, 48 p.
+25
+
+Daessle, M. , and Durozoy, G. f 1972, Jabal Sayid water supply, The Harrat Rahat basalt: Bureau de Recherches Geologiques et Minieres (Saudi Arabian Mission) Report 72-JED-2, 21 p.
+Dottin, 0., 1975, Revised geology of the Sufaynah quadrangle, 23/40 D: Bureau de Recherches Geologiques et Minieres (Saudi Arabian Mission) Report 75 -JED-29, 30 p.
+Dubreuil, G. , 1982, Quality of the airborne magnetic survey of harrat areas in Saudi Arabia Saudi Arabian Deputy Ministry for Mineral Resources Open-File Report BRGM-OF-02-29, 34 p.
+Durozoy, G., 1968, Water for future mining operations in the Jabal Sayid area, A preliminary groundwater survey: Bureau de Recherches Geologiques et Minieres (Saudi Arabian Mission) Report 68-JED-4^, 44 p.
+1970, Ground water geology of the basalt on the Harrat Rahat plateau: Bureau de R echerches Geologiques et Minieres (Saudi Arabian Mission) Report 70-JED-24, 31 p.
+Gettings, M. E. , and Andreasen, G. E.,in press, An interpretation of the aeromagnetic field anomaly of the Lakathah layered intrusive complex, Kingdom of Saudi Arabia: Saudi Arabian Deputy Ministry for Min ral Resources Bulletin,
+
+Gilboy, C. F. , and Skiba, W. J. , 1 978a, Geology of the As Sulaym quadrangle, sheet 22/3S B, Kingdom of Saudi Arabia: Saudi Arabian Directorate General of Mineral Resources Open-File Report no 740 , scale 1:100,000.
+
+_____ 1978b, Geology of the Al Kahmil quadrangle, sheet
+
+22/39 D, Kingdom of Saudi A rabia:
+
+Saudi Arabian
+
+Directorate General of Mineral Resources Open-File Report
+
+no. 742, scale 1:100,000.
+
+Green, A. G. , 1972, Magnetic profil analysis: Geophysical Journal Royal Astronomical Society , v. 30, p. 393-403.
+
+Hahn, A., Kind, E. G. , and Mishrja. D. C. , 1976, Depth estimation for magnetic source by Fourier amplitude spectra: Geophysical Prospecting v. 24, no.
+287-308.
+
+Hall, S. A., 1980 , A total intensity magnetic anomaly map of the Red Sea and its interpre nation: U.S. Geological
+Survey Open-File Report 80-131, (IR)SA -275, 260 p.
+
+26
+
+Irvine, J. L. , 1980, Qualitiative aeromagnetic interpretation, in Smith, J. W., Reconnaissance geologic map of the Wadi Mahani quadrangle, sheet 22/40 A, Kingdom of Saudi Arabia: Saudi Arabian Directorate General of Mineral Resources Geologic Map GM-35, 18 p., scale 1:100,000.
+Irvine, J. L. , and Bin Abri, F., 1982, Qualitative airborne geophysical interpretation, in Smith, J. W. , Reconnaissance geologic map of the Wadi Hammah quadrangle, sheet 22/40 C, Kingdom of Saudi Arabia: Saudi Arabian Directorate General of Mineral Resources Geologic Map GM-65, 18 p., scale 1:100,000.
+Lefevre, J. C. , 1969, Mineral resources and geology of the Sufaynah quadrangle (sheet 122): Bureau de Recherches Geologiques et Minieres (Saudi Arabian Mission) Report 69-JED-8, 51 p.
+Lehmann, H. J., 1970, Examples for the separation of fields of magnetic sources in different depths by the harmonic analysis method: Bollettino di Geofisica Teorica ed Applicata, v. 12, p. 97-117.
+Letalenet, J. , 1976, Geology and mineral exploration of the Wadi ash Shaqrah quadrangle, 20/40 C: Bureau de Recherches Geologiques et Minieres (Saudi Arabian Mission) Report 77-JED-3, 20 p.
+Meshref, W. M., Refai, E. M. , Sadek, H. S., Abdel-Baki, S. H., El-Sirafi, A. M. H., El-Kattan, E. M. I., El-Meligy, M. A. M. , and El-Sheikh, M. M., 1980, Structural geophysical interpretation of basement rocks, the North Western Desert of Egypt: Geological Survey of Egypt, Annals, v. 10, p. 923-937.
+Mishra, D. C. , and Naidu, P. S., 1974, Two-dimensional power spectral analysis of aeromagnetic fields: Geophysical prospecting, v. 22, no. 2, p. 345-353.
+Munck, F. , 1968, Reinterpretation of ARGAS report "5920 Hydro-1": Bureau de Recherches Geologiques et Minieres (Saudi Arabian Mission) Report 68-JED-53, 12 p.
+Naidu, P. S., 1969, Estimation of spectrum and crossspectrum of aeromagnetic fields using fast digital Fourier transform (FDFT) techniques: Geophysical Prospecting, v. 17, no. 3, p. 344-361.
+Pedersen, L. B. , 1978, A statistical analysis of potential fields using a vertical circular cylinder and a dike: Geophysics, v. 43, no. 5, p. 943-953.
+27
+
+Sadek, H. S. , 1978, Relation between geology and aerial radioraetry of the Abu Awayel area, Eastern Desert of Egypt, corroborated by aeronagnetic survey: Cairo University, Ph.D. thesis, 284 p.
+
+Sarma, D. D. , 1974, An example of the application of autocorrelation and spectral analysi s in mining exploration
+Geophysical Prospecting, v. 22, no. 4, p. 747-760.
+
+Searle, R. S., and Ross, D. A., 1977 A geophysical study of the Red Sea axial trough between latitude 20.5 deg. N. and 22 deg. N. , in Red Sea Research 1970-1975: Saudi Arabian Directorate General of M neral Resources Bulletin 22, p. J1-J13.
+
+Smith, J. W., 1980, Reconnaissance geologic map of the Wadi Mahani quadrangle, sheet 22/40 A, Kingdom of Saudi Arabia: Saudi Arabian Directorate General of Mineral Resources Geologic Map GM-35, 18 p., scale 1:100,000.
+
+______ 1982, Reconnaissance geologic map of the Wadi
+
+Hammah quadrangle, sheet 22 /40 C, Kingdom of Saudi
+
+Arabia, with JL section on Qualitative airborne
+
+geophysical interpretation, by
+
+S. Irvine and F. Bin
+
+Abri: Saudi Arabian Deputy Minis :ry for Mineral Resources
+
+Geologic Map GM-65, 19 p., scale 1:100,000.
+
+Spector, Allan, 1968, Spectral analysis of aeromagnetic data University of Toronto, Ph.D. thesis 239 p.
+
+____ 1971, Aeromagnetic interpretation with the aid of a digital computer: Canadian Institute of Mining Bulletin, v. 64, p. 27-33.
+
+Spector, Allan, and Bhattacharyya
+
+1966, Energy
+
+density spectrum and autocorrelation function of
+
+anomalies due to some simple magnetic models: Geophysical
+
+Prospecting, v. 14, no. 3, p. 242-272.
+
+Spector, Allan, and Grant, F. S., 1970, Statistical models for interpretating aeromagnetic data: Geophysics, v. 35, no. 2, p. 293-302.
+
+Spector, Allan, and Parker, Wilf, 1979 , Computer compilation and interpretation of geophysical data, in Hood, P. J. , ed., Geophysics and geochemis try in the search for metallic ores: Geological Survey of Canada, Economic
+Geology Report 31, p. 527-544
+
+Torrent, H. , 1976, Jabal Sayid wate supply, part I, Hydrogeology of the Harrat Rabat bass.lt Bureau de Recherches Geologiques et Minieres (Saudi Arabian Mission) Report
+76-JED-8, 60 p.
+
+28
+
+Treitel, S. , Clement, W. G. , and Kaul, R. K. , 1971, The spectral determination of depths to buried magnetic basement rocks: Geophysical Journal of the Royal Astronomical Society, v. 24, p. 415-428.
+29
+
+

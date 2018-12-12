@@ -1,0 +1,266 @@
+UNITED STATES DEPARTMENT OF THE INTERIOR GEOLOGICAL SURVEY
+USE OF IMAGING IN THE 0.46-2.36 ym SPECTRAL REGION FOR ALTERATION MAPPING IN THE
+CUPRITE MINING DISTRICT, NEVADA
+By
+Michael J. Abrams Jet Propulsion Laboratory, California Institute of Technology,
+Pasadena, California 91103 Roger P. Ashley
+U.S. Geological Survey, Menlo Park, California 94025 Lawrence C. Rowan
+U.S. Geological Survey, Reston, Virginia 22092 Alexander F. H. Goetz and Anne B. Kahle
+Jet Propulsion Laboratory, California Institute of Technology, Pasadena, California 91103
+U.S. Geological Survey Open-file Report 77-585
+1977
+This report is preliminary and has not been edited or reviewed for conformity with Geological Survey standards and nomenclature.
+
+Abstract
+
+Table of Contents
+
+Page 1
+
+General Geology -
+
+-3
+
+^
+
+. _____ ___- ._,.....».- -...un .. » .. ^ M
+
+jjj».»imj»».-«. . . » . .»M.JM»J»
+
+^
+
+Structure
+
+9
+
+Alteration
+
+9
+
+Field spectral measurements
+
+- 11
+
+Unaltered rocks
+
+11
+
+Altered rocks
+
+11
+
+Image processing
+
+13
+
+Image interpretation
+
+14
+
+Color-ratio composite derived from MSDS data Comparison with other imagery -«
+
+-
+
+14 16
+
+Summary and conclusions
+
+16
+
+Acknowledgments
+
+17
+
+References cited
+
+18
+
+List of Illustrations
+Figure 1. Cuprite mining district, Nevada. A, Geologic map. £, Color ratio composite using MSDS data. Ct Color air photo. D, Color ratio composite using Landsat data
+2. Graph showing representative spectral reflectance curves of altered and unaltered rocks at Cuprite mining district
+
+Page 4 12
+
+Table
+Table 1. Bandwidths of channels between 0.4 and 2.5 ym, MSDS Scanner
+
+..«
+
+ii
+
+USE OF IMAGING IN THE 0.46-2.36 ym SPECTRAL REGION
+FOR ALTERATION MAPPING IN THE
+CUPRITE MINING DISTRICT, NEVADA
+By Michael J. Abrams, 1 Roger P. Ashley, 2 Lawrence C. Rowan, 3 Alexander F. H. Goetz, 1 and Anne B. Kahle 1
+ABSTRACT
+Color composites of Landsat MSS ratio Images that display variations in the Intensity of ferric-iron absorption bands are highly effective for mapping limonitic altered rocks, but ineffective for mapping nonlimonitic altered rocks. Analysis of 0.45-2.5 ym field and laboratory spectra shows that iron-deficient opalites in the Cuprite mining district, Nevada, have an Intense OH-absorption band near 2.2 ym owing to their clay mineral and alunite contents and that this spectral feature is absent or weak in adjacent unaltered tuff and basalt. To evaluate the usefulness of this spectral feature for discriminating between altered and unaltered rocks, we generated color-ratio composite images from multispectral (0.46-2.36 ym) aircraft data. The altered rocks in the district can be discriminated from unaltered rocks with few ambiguities; in addition, some effects of mineralogical zoning can be discriminated within the altered area. Only variations in amounts of limonite can be discerned in shorter wavelength aircraft data, Landsat MSS bands, and color aerial photographs.
+LJet Propulsion Laboratory, California Inst. of Technology, Pasadena, Calif. 91103
+2U.S. Geol. Survey, Menlo Park, Calif. 94025 3U.S. Geol. Survey, Reston, Va. 22092
+
+INTRODUCTION
+Exposed limonitic altered rocks can be discriminated from most unaltered rocks in computer-processed Landsat Multispectral Scanner (MSS) images (Rowan and others, 1974; Schmidt, 1976; Vincent, 1975; OffieId, 1976; Raines, 1977). Mapping altered rocks by this technique is based on the fact that limonite is commonly an important constituent of oxidized originally sulfide-bearing altered rocks, and limonite has a diagnostic spectral reflectance curve in the MSS response range (0.5-1.1 ym) owing to intense ferric-iron absorption bands. Although this technique has considerable potential for augmenting conventional exploration methods in arid and semiarid regions, two important limitations have been recognized in south-central Nevada (Rowan and others, 1977): (1) nonlimonitic altered rocks, such as intensely leached silicified rocks, are not distinguishable from white glassy silicic tuffs and flows, and (2) nonhydrothermally altered yet limonitic rocks, such as limonitic tuffs and flows, are commonly not distinguishable from limonitic altered rocks.
+Analysis of 0.45-2.5 ym field and laboratory spectra of altered and unaltered rocks in south-central Nevada (Jet Propulsion Laboratory and U.S. Geological Survey, unpub. data) indicates that these limitations might be largely overcome by recording multispectral images at longer wavelengths than is possible with the Landsat MSS. Of particular interest is the 2.15-2.25 ym region where nearly all altered rock spectra obtained in south-central Nevada exhibit an intense absorption band (referred to here as the 2.2 ym band), which results from electronic processes associated with 0-H bond stretching and Al-O-H bond bending vibrations in clay minerals, pyrophyllite, dioctahedral micas, and alunite (Hunt and Salisbury, 1970; Hunt and others, 1971, 1973). The presence of this spectral feature is independent of limonite content, except in a few places where limonite coatings obscure the underlying altered rock. The 2.2 ym absorption band is absent or weak in most unaltered rock spectra. The point of maximum reflectance for most altered rocks is at about 1.7 ym; consequently, the reflectance level at 2.2 ym is low relative to the reflectance level at 1.6 ym for altered rocks, whereas reflectances at these two wavelengths are similar for most unaltered rocks. This spectral difference can be exploited for discriminating nonlimonitic altered rocks from unaltered rocks in computer-processed multispectral images. Where the areal distribution of limonite is also of interest, color-ratio composite (CRC) images (Rowan and others, 1974) can be used to display variations in abundance of iron, as well as variations in abundance of minerals with hydroxyl and Al-O-H absorption bands.
+In order to determine the usefulness of these spectral differences for discriminating nonlimonitic altered rocks and unaltered rocks, multispectral images were obtained for several mining districts using
+
+the Bendix 24-channel scanner aboard the NASA C-130 aircraft. The site selected for initial evaluation is the Cuprite mining district, a sparsely vegetated area consisting of intensely silicified and argillized rocks that are not consistently distinguishable from unaltered rocks in Landsat CRC images (Rowan and others, 1974, 1977).
+
+GENERAL GEOLOGY
+
+The Cuprite mining district is located in southwestern Nevada, 17 km south of the town of Goldfield. The district includes exposures of hydrothermally altered rocks totaling about 12 km2 . The altered rocks occur in two areas of approximately equal size, both elongate north-south, located 2 km apart and separated by U.S. Highway 95. Minor sulfur, silica, and possibly precious metal production is attributed to the hydrothermally altered parts of the Cuprite district (Albers and Stewart, 1972; Lincoln, 1923; Ball, 1907). The first geologic description of the district is that of Ball (1907). Albers and Stewart (1972) mapped the area in reconnaissance.
+
+This discussion deals with the rocks exposed in the eastern of the two altered areas (fig. 1). Here alteration affects volcanic and sedimentary rocks of Tertiary age.
+
+Stratigraphy
+
+,
+
+The oldest Tertiary unit (Tw, fig. L4 1 ) is a welded ash-flow tuff of rhyolite or quartz latite composition. Quartz, sanidine, plagioclase, and biotite crystals are relatively abundant. Similar tuffs of Lower Miocene and Oligocene age are extensively exposed 30 km to the northeast in the Cactus Range and 20 km to the north in the Goldfield mining district (Ekren and others, 1971; Ashley, 1974).
+
+The next Tertiary unit (Ts, fig. 14) includes air-fall tuff, volcanic sandstone, and conglomerate that overlie unit Tw unconformably. The most abundant single rock type is pumice lapilli tuff. Lithologies and stratigraphic relations with younger units are identical to parts of the Siebert Tuff of Middle to Upper Miocene age at Goldfield and Tonopah (Ashley, 1974), so this unit is tentatively correlated with the Siebert Tuff.
+
+Unit Ts is overlain conformably by a porphyritic plagioclase-olivine basalt flow (Tb, fig. L4). Similar basalts in the Goldfield mining district yield potassium-argon ages of 10-15 m.y. (Ashley, 1974; Ashley and Silberman, 1976). The flow ranges from a few meters to about 10 m in thickness and is absent at the southern end of the area.
+
+1 Colored slides of figures 14-10 are available through the U.S. Geological Survey libraries in Reston, Va., Denver, Colo., and Menlo Park, Calif., at requestor's expense.
+
+Figure 1. Cuprite mining district, Nevada. All images cover the same area at the same scale.
+Ay Geologic map. By Color ratio composite using aircraft scanner data:
+ratios 1.6 jjn/0.48 ym, 1.6 ym/2.2 ym, 0.6 jjm/1.0 ym displayed as green, red, and blue, respectively. C, Color air photo. £>, Color ratio composite using Landsat data: band ratios 4/5, 5/6, and 6/7 displayed as blue, green, and red respectively.
+
+y Roltton
+
+G^otogy by R. P. Athlty, 19/t
+
+EXPLANATION
+Thlrtiy Canyon Tuff UNCONFORMITY
+Tuff,«tdlNitntary rock UNCONFORMITY
+RnyeUU o»h flow luff Fault, all an downthrow** Contact ktt«*tn oltarod and unaltered rack
+Striht and dip «f ktddlna Fitld tptctra and roc* tampla ill*
+
+=*
+«
+CO
+
+01 * y
+
+The uppermost Tertiary unit is the Thirsty Canyon Tuff (Tt, fig. 14) whose source is the Black Mountain caldera (Noble and others, 1964) located 50 km to the southeast. Two members, not shown separately on figure 14, are represented: The Spearhead Member (lower) and Trail Ridge Member (upper), both rhyolite ash-flow tuffs, and each comprising here a single simple cooling unit. The Spearhead is usually 30-50 m thick but locally is markedly thicker where it filled canyons cut in the underlying rocks. The Trail Ridge Member has a uniform thin basal nonwelded zone overlain by a thin, densely welded zone that is resistant" to erosion owing to devitrification. Most of the soft overlying tuff has been eroded away, so the Trail Ridge Member now present is typically only 3-5 m thick.
+The Spearhead Member has been well dated in the Goldfield mining district, where four potassium-argon age determinations yield an average age of 7.0 m.y. (Ashley and Silberman, 1976). The Trail Ridge Member would yield almost the same age (Noble and Christiansen, 1974). Because all the Tertiary units including the Trail Ridge are hydrothermally altered at least locally in the Cuprite district, the alteration must have taken place more recently than 6-7 m.y. but prior to Holocene and probably Pleistocene time.
+Structure
+Bedding generally dips at low angles but locally dips at moderate 4 angles. Faults in the unaltered rocks in the area of figure 14 vary in strike from northeast to north-northwest; a few strike west-northwest to east-northeast. Displacements are probably mainly dip slip and -are no larger than about 100 m. Faulting predates the hydrothermal alteration; no significant postaIteration faults have yet been recognized within the altered area.
+Alteration
+The altered rocks are divided into three groups that form mappable zones (fig. 14): Silicified rocks, bpalized rocks (opalite), and argillized rocks. Silicified rocks are the most intensely altered rocks and argillized rocks are the least intensely altered. Relict textures are more or less well preserved everywhere.
+Silicified rocks occur as scattered patches in the opalite and also form a large irregular patch extending from the middle to the south end of the area (fig. 14). Only five samples of Silicified rock have been examined petrographically so far, but all contain abundant hydrothermal quartz and some calcite. The calcite may be a late hydrothermal or posthydrothermal product, having replaced former opal. These rocks have low bulk density, owing to extreme acid leaching during hydrothermal
+
+alteration. In the field, contacts between silicified and surrounding opalized rocks appear to be gradational, and presumably the gradation results from a decrease in quartz accompanied by the appearance of opal, alunite, and kaolinite.
+Opalized rocks form the most widespread alteration zone. All samples examined petrographically (23 from 10 localities) contain abundant opal, and X-ray diffractometry shows that moderately well ordered cristobalite is always present. Variable amounts of alunite and kaolinite, as much as 30-40 percent total, are also present in this alter. ation zone. Hydrothermal quartz is scarce but in rocks containing quartz phenocrysts this primary quartz remains as relicts. Unaltered sanidine phenocrysts also remain in some alunite-free opalized rocks. Calcite is common but seldom is a major component; again, it probably replaced opal. Opalite is recognized in the field by waxy luster of freshly broken surfaces and low porosity.
+At many localities on the edge of the altered area, the opalite zone grades abruptly into unaltered rock, but locally an interval of soft, poorly exposed material mapped as argillized rock separates fresh rock from opalite. Five argillized samples have been examined petrographically. Primary quartz and sanidine phenocrysts are unaltered, whereas biotite is partly bleached to a pale brown, plagioclase is altered to kaolinite, and glass is altered to opal and varying amounts of montmorillonite and kaolinite. All five samples contain larger amounts of clay (more than 10 percent) than most opalite samples. The argillized rocks contain either kaolinite or montmorillonite or both, whereas in opalite the only clay mineral is kaolinite. Argillized rocks containing kaolinite as the only clay mineral thus differ from opalized rocks with relict sanidine only in having less opal and more clay.
+Limonite content of most of the altered rocks is less than 5 percent, and large volumes of altered rock are nearly limonite free. The variations in limonite content reflect pyrite content prior to oxidation. Limonite is relatively abundant in argillized rocks. Occurrences of relatively limonite-rich opalite (some rocks exceed 20 percent limonite) are spotty, but most are in the western part of the area, near the argillized rocks. In opalite and argillized rocks, hematite is the dominant limonite mineral. Silicified rocks commonly have at most only a few percent limonite; maximum limonite content is about 10 percent. In these rocks goethite is the dominant limonite mineral.
+The altered rocks are free of significant desert varnish except for silicified rocks that have developed a very vuggy and pockety weathered surface.
+10
+
+FIELD SPECTRAL MEASUREMENTS
+Field spectral reflectance measurements were made to guide the analysis of the multispectral scanner data. Field spectra and samples for petrographic analysis were obtained at 22 numbered sites shown on figure LA, B.
+The field spectra were acquired with JPL's Portable Field Reflectance Spectrometer (PFRS)(Goetz and others, 1975). This instrument measures the surface spectral reflectance in the wavelength region from 0.45 to 2.5 ym with moderate resolution (AA/A * 0.04 from 0.45 to 0.7 ym and 0.015 from 0.7 to 2.5 ym) using the sun as the light source. Data are taken by first measuring the reflectance spectrum of the natural surface, then immediately measuring the spectrum of a standard surface. Each scan takes thirty seconds. The ratio of the spectrum of the surface to the spectrum of the standard is the bidirectional reflectance spectrum which is independent of source, atmospheric conditions, and in most cases, surface orientation. The data are recorded digitally on a cassette tape. Reflectance spectra are then calculated and plotted by use of a minicomputer. Representative field-acquired spectra of unaltered and altered material from the Cuprite district are presented in figure 2 .
+Unaltered rocks
+The Thirsty Canyon Tuff spectrum (typical devitrified Spearhead Member, site 9, fig. 1A, B) is generally flat and lacks strong absorption features. This is consistent with its mineralogy: it contains mainly alkali feldspar and cristobalite, with some tridymite and minor fine-grained hematite. The spectrum for glassy basal nonwelded ashflow tuff of the Spearhead (sites 20 and 21) shows a rise in reflectance from 0.45 ym to 1.7 ym and a weak absorption feature at about 0.9 ym; the 2.2 ym region is relatively featureless. This part of the unit lacks hydroxyl-bearing minerals but contains minor hematite.
+Altered rocks
+The spectrum of silicified material (site 7) shows a maximum at 1.7 ym and a weak absorption feature at 2.2 ym, which is manifested as a broad depression of the curve from 2.15 to 2.3 ym. This spectrum is consistent with the preponderance of quartz and small amounts of hydroxyl-bearing minerals. The presence of desert varnish on some of the samples analyzed results in depression of the entire spectral reflectance curve.
+Two spectra typical of opalites are presented in figure 2; both show a moderate rise in the visible region, a steep dropoff beyond 1.7 ym, and a deep 2.2 ym absorption band. The exact position of the 2.2 ym band is determined by the dominant OH-bearlng mineral. One spectrum shows an absorption at 2.17 ym consistent with greater
+11
+
+40
+20 SPEARHEAD MEMBER,
+THIRSTY CANYON TUFF,
+0 DEVITRIFIEO
+40 SPEARHEAD MEMBER,
+GLASSY BASAL
+20 NONWaDED ZONE
+0 40
+20 SILICIFIED
+OPALITE (WITH KAOLINITE)
+20
+40
+OPALITE (WITH ALUNITE)
+20
+40 ARGILLIZED
+20
+0.4 0.6 0.8 1.0 1.2 1.4 1.6 1.8 2.0 2.2 2.4 WAVELENGTH, microns
+Figure 2. Representative spectral reflectance curves of altered and unaltered rocks at Cuprite mining district, 12
+
+abundance of alunite than kaoUnite, and the other at 2.20 ym consistent with greater abundance of kaolinite than alunite (Hunt and others, 1971, 1973). The lack of an absorption band at 0.85 urn and the general flatness of the curve at this wavelength reflects the absence of ferric minerals at these particular sites. Other opalite samples display a wide variation in ferric mineral content but generally have notable amounts of hydroxyl-bearing minerals.
+
+The argillized rock spectrum shows a strong absorption at 0.85 ym, a very steep rise from the visible to the infrared, and a moderately strong 2.2 ym absorption band. This reflects the presence of abundant red-orange hematite and moderate amounts of kaolinite.
+
+IMAGE PROCESSING
+
+The multispectral images were acquired from an altitude of 5,600 m above the ground, resulting in a maximum spatial resolution of approximately 10 m. All data were recorded in digital form.
+
+The Bendix scanner (MSDS) has 24 channels between 0.34 and 13.0 ym. The wavelength regions of the operational channels in the 0.4 to 2.5 ym region are given in table 1.
+
+TABLE 1
+
+Bandwidths of channels between 0.4 and 2.5 ym, MSDS Scanner
+
+Channel____Bandwidth (ym) ___ Channel
+
+Bandwidth (ym)
+
+3 0.46-0.50 4 .53- .57 5 .57- .63 6 .64- .68 7 .71- .75 8 .76- .80
+
+9 0.82-0.87 10 .97-1.05 11 1.18-1.30 12 1.52-1.73 13 2.10-2.36
+
+Computer processing of the MSDS data involved: (1) a logging procedure that generated a separate data set for each channel from the original interleaved spectral data, (2) characterization and removal of noise, (3) removal of major geometric distortions, (4) ratioing and contrast stretching, and (5) film recording. No attempt was made to correct the data for atmospheric effects, and the lack of calibration data precluded conversion of the data to absolute radiances. Ratioing enhances differences in the shapes of spectral reflectance curves and
+suppresses brightness variations due to surface slope and albedo. Ratio values were contrast-stretched by applying a mathematical transformation to the values so that the dynamic range of the output image for each ratio matched the range of the film-recording medium. Any two
+
+13
+
+or three film ratio images can be used to create a color-ratio composite image (CRC). It is beyond the scope of this paper to deal at length with image-processing techniques; for greater detail, the reader is referred to Geotz and others (1975) and Soha and others (1976).
+IMAGE INTERPRETATION
+Color-ratio composite derived from MSDS data
+The field spectra of the rock units exposed in the Cuprite district show which spectral bands and ratios are likely to be-iftost effective for detecting ferric- and hydroxyl-bearing minerals. For this preliminary investigation we chose five bands, and incorporated them in three ratios as follows: 1.6 ym/2.2 ym, 1.6 van/0.48 van, and 0.6 ym/1.0 \m (the bands are designated by the approximate centers of the various scanner channels; see table 1). The first ratio was chosen to delineate altered rocks having high reflectance near 1.6 ym relative to 2.2 ym owing to the presence of hydroxyl-bearing minerals. The second ratio was selected to display variations in surflcial ferric iron content, with high ratio values indicating high concentrations and low values indicating low concentrations. The third ratio was chosen to distinguish rocks with only moderately sloping spectra, including playa, tuff, basalt, and bleached iron-deficient altered rocks (fig. 2). Black-and-white film transparencies generated from these three ratios were combined into a color-ratUo composite image (CRC)(fig. 15) in a color-additive viewer. The red component depicts the value of the ratio 1.6 ym/2.2 ym, the green component represents the value of 1.6 ym/0.48 ym, and the blue represents the value of 0.6 ym/1.0 ym. The higher the value of each ratio, the higher the intensity of.the corresponding color component.
+A comparison of the geologic map (fig. 14) and the CRC image derived from 24-channel scanner data (fig. 15) indicates that properly interpreted, the CRC image reveals the major altered and unaltered rock units. With field information to identify the different units, it is possible to produce an alteration map quickly and accurately.
+The silicified rocks (sites 7 and 18) appear dark red to brown and locally bluish purple to blue on the image indicating that all three ratios are similar, with slight dominance of the 1.6 ym/2.2 ym ratio over the other ratios. This is consistent with the mineralogy and the field spectra (fig. 2); 1.6 ym/0.48 ym. (green) is low to moderate, whereas 0.6 ym/1.0 ym and 1.6 ym/2.2 ym are generally moderate but variable.
+Opalites range in color from mag.enta to red and yellow. All have large amounts of hydroxyl-bearing minerals resulting in a very strong red component in the image. The variations in color are due to varying ferric mineral content. Where ferric iron is lacking, such as in the highly leached opalites (sites 1, 4, 16), the 0.6 ym/1.0 ym ratio is
+14
+
+moderately high, but 1.6 ym/0.48 ym is very low, resulting in a significant blue contribution, which, when added to red, produces the magenta color seen in these areas (fig. IB)* As the limonite content increases, the slope of the spectral curve increases, resulting in higher values of 1.6 ym/0.48 ym, and lower values of 0.6 ym/1.0 ym. In the image this produces first red (sites 3, 19, 5), then yellow (sites 2, 23, 6, 17) as the green component (1.6 ym/0.48 ym) increases and the blue component (0.6 ym/1.0 ym) decreases.
+The argillized rocks (sites 11 and 8) on the west edge of the area are predominantly yellow green, reflecting concentrations of both hydroxyl-bearing and ferric minerals. Where the argillized rocks appear green, they are partially covered by unaltered rock debris. This causes a reduction in the 1.6 ym/2.2 ym ratio, and hence less red contribution in the image.
+Unaltered volcanic rocks and surficial materials are dominantly dark green and blue to almost black in the CRC Image and therefore readily distinguishable from the altered rocks. Much of the unaltered Thirsty Canyon Tuff appears nearly black on the Image because all three ratios are relatively low, producing dark-gray tones in the black-andwhite film transparency for each ratio, and thus black or very dark cblprs on the CRC image. Subtle variations in the small amount of hematite present must determine whether the 1.6 ym/0.48 ym ratio or 0.6 ym/1.0 ym ratio is relatively greater, producing dark green or dark blue, respectively. Presumably the dark blue areas have less hematite. The lack of hydroxyl-bearing minerals accounts for the absence of red component. Much alluvium in the scene and the playa have very little limonite (<1 percent) and are blue.
+An exception to the above is unaltered glassy basal nonwelded tuff of the Spearhead Member at sites 20 and 21. It is green on the CRC and looks similar to argillized rocks. The spectrum (fig. 2) is, in fact, similar to that for argillized rock in that reflectance increases from 0.45 ym to a strong maximum at about 1.7 ym. The ferric-iron band at about 0.85-0.9 ym is weaker than it is in argillized rocks and is due to small amounts of very fine grained hematite and possibly some goethite. The rock is mainly pumice fragments, glass shards, and interstitial glass dust with a few sanidine crystals. The glass is very fresh; no devitrification or clay mineral alteration products are visible in thin section or detectable by X-ray diffraction. The lack of clay alteration results in a smaller 1.6 ym/2.2 ym ratio and thus less red component in the CRC than is the case for argillized rocks, which are locally yellow in the CRC owing to their greater red component. Indeed, the argillized rocks might appear entirely yellow were it not for the unaltered-rock debris partly covering this zone, as mentioned above. Hunt, Salisbury, and Lenhoff (1973) made laboratory measurements on some silicic tuffs; none that they believed to be truly unaltered had such high reflectance at 1.7 ym. The origin of this spectral feature is unknown.
+15
+
+Comparison with other imagery
+The color aerial photograph (fig. 1C1) taken simultaneously with the scanner image (fig. IB) shows the outline of the altered area well because strongly bleached and (or) hematitic altered rocks appear near the contact with unaltered rocks. The silicified rocks and parts of the opalite, however, are gray and have albedos well within the range of albedos shown by the unaltered Thirsty Canyon Tuff, demonstrating that albedo is of limited value here, as in other areas (Rowan and others, 1974, 1977), for separating altered and unaltered rocks. The opalites are distinguished easily from unaltered rocks and from most of the silicified rocks on the CRC. Silicified rocks and unaltered rocks are somewhat similar in both the photograph and the CRC but are more readily distinguishable in the CRC. Most limonitic areas in the scene are composed of hematite-bearing altered rocks that are partly surrounded by or adjacent to bleached areas. Thus it is easy to infer from the color photograph that these hematitic areas are probably altered. Unaltered hematitic silicic tuffs and flows, and hematitic sandstone, however, often look exactly the same as hematitic-altered rocks in color photographs, seriously limiting the value of photography where such rocks occur. This is demonstrated by comparison between sites 22 and 23, which are indistinguishable on the photograph but easily classified as probably unaltered (site 22) and definitely altered (site 23) on the CRC. Site 22 is in the middle of a small triangular patch of unaltered rhyolite ash-flow tuff; site 23 is the same tuff altered to hematitic opalite.
+As mentioned at the onset, the iron-poor rocks such as most of those at Cuprite are not consistently detectable in Landsat CRC images because the rocks lack diagnostic spectral features in the 0.5-1.1 ym wavelength region. Comparison of an enlarged Landsat color-additive CRC made using band ratios 4/5, 5/6, and 6/7 displayed as blue, green, and red, respectively (fig. IP) with the geologic map (fig. 14) shows that, in most places, both Thirsty Canyon tuff and opalite and silicified rocks are represented by blue picture elements (pixels). Red pixels indicate limonitic rocks, including alluvium as well as as altered bedrock. Green pixels in the Landsat CRC do not appear to be consistently correlated with any particular rock unit.
+SUMMARY AND CONCLUSIONS
+Limonitic altered rocks having high albedo can be successfully detected and mapped using color aerial photographs and enhanced Landsat imagery, but limonite-poor altered rocks with variable albedo cannot. This study shows that additional spectral information between 1.1 and 2.5 vm provides a practical means for largely removing this limitation, because this region includes an absorption feature at 2.2 ym produced by any one of several important alteration minerals,
+16
+
+Including clays, dioctahedral micas, pyrophyllite, and alunite. Multispectral data obtained by aircraft for the entire 0.4-2.5 ym spectral region provide many possibilities for creating useful enhanced images. Although the image presented here can probably be improved upon, it contains enough information to discriminate among zones within the altered area at Cuprite, as well as discriminate between altered and unaltered rocks. The only rock types that remain problematical are dark-colored, dense, quartz-rich, silicified altered rocks and unaltered limonitic shales. The former can be confused with chert and orthoquartzite, and the latter can be confused with limonitic, argillized altered rocks. Since both these ambiguous situations arise because the rocks in question are identical mineralogically, their recognition depends in large part on field observation of textural features, and recognition by remote techniques is in inherently limited.
+ACKNOWLEDGMENTS We would like to thank Daryl Madura of JPL's Image Processing Laboratory for his assistance with computer processing of the imagery. This paper is the result of research carried out at the Jet Propulsion Laboratory, California Institute of Technology, under Contract NAS 7-100 sponsored by the National Aeronautics and Space Administration.
+17
+
+REFERENCES CITED
+Albers, J. P., and Stewart, J. H., 1972, Geology and mineral deposits of Esmeralda County, Nevada: Nevada Bur. Mines and Geology Bull., v. 78, 80 p.
+Ashley, R. P., 1974, Goldfield mining district, in Guidebook to the geology of four Tertiary volcanic centers in central Nevada: Nevada Bur. Mines and Geology Kept., v. 19, p. 49-66.
+Ashley, R. P., and Silberman, M. L., 1976, Direct dating of mineralization at Goldfield, Nevada, by potassium-argon and fission-track methods: Econ. Geology, v. 71, p. 904-924.
+Ball, S. H., 1907, A geologic reconnaissance in southwestern Nevada and eastern California: U.S. Geol. Survey Bull., v. 308, 218 p.
+Ekren, E. B., Anderson, R. E., Rogers, C. L., and Noble, D. C., 1971, Geology of northern Nellis Air Force Base Bombing and Gunnery Range, Nye County, Nevada: U.S. Geol. Survey Prof. Paper 651, 91 p.
+Goetz, A. F. H., Billingsley, F. C., Gillespie, A. R., Abrams, M. J., Squires, R. L., Shoemaker, E. M., Lucchitta, I., Elston, D. P., 1975, Application of ERTS images and image processing to regional geologic problems and geologic mapping in northern Arizona: JPL Tech. Rept. 32-1597, NASA Jet Propulsion Lab., California Inst. of Technology, Pasadena, California, 188 p.
+Hunt, G. R., and Salisbury, J. W., 1970, Visible and near-infrared spectra of minerals and rocks I. Silicate minerals: Modern Geology, v. 1, p. 283-300.
+Hunt, G. R., Salisbury, J. W., and Lenhoff, C. J., 1971, Visible and near-infrared spectra of minerals and rocks IV. Sulphides and sulphates: Modern Geology, v. 3, p. 1-14.
+___1973, Visible and near infrared spectra of minerals and rocks VI. Additional silicates: Modern Geology, v. 4, p. 85-106.
+Lincoln, F. C., 1923, Mining districts and mineral resources of Nevada: Reno, Nev., Nevada Newsletter Publishing Co., 295 p.
+Noble, D. C., Anderson, R. E., Ekren, E. B*., and 0'Connor, J. T., 1964, Thirsty Canyon Tuff of Nye and Esmeralda Counties, Nevada, in Geological Survey research, 1964: U.S. Geol. Survey Prof. Paper 475-D, p. D24-D27.
+18
+
+Noble, D. C., and Christiansen, R. L., 1974, Black Mountain volcanic center, in Guidebook to the geology of four Tertiary volcanic centers in central Nevada: Nevada Bur. Mines and Geology Rapt. 19, p. 27-34.
+Offield, T. W., 1976, Remote sensing in uranium exploration: Internat. Atomic Energy Agency Symposium, Exploration for uranium ore deposits, Vienna, 1976, p. 731-743.
+Raines, G. L., 1977, A porphyry copper exploration model for northern Sonora, Mexico: U.S. Geol. Survey Jour. Research [in press].
+Rowan, L. C., Goetz, A. F. H., and Ashley, R. P., 1977, Discrimination of hydrothermally altered and unaltered rocks in visible and near infrared multispectral images: Geophysics, v. 42, p. 522-535.
+Rowan, L. C., Wetlaufer, P. H., Goetz, A. F. H., Billingsley, F. C., and Stewart, J., 1974, Discrimination of rock types and detection of hydrothermally altered areas in south-central Nevada by the use of computer-enhanced ERTS images: U.S. Geol. Survey Prof. Paper 883, 35 p.
+Schmidt, R. G., 1976, Exploration for porphyry copper deposits in Pakistan using digital processing of LANDSAT-1 data: U.S. Geol. Survey Jour. Research, v. 4, no. 1, p. 27-34.
+Soha, J. M., Gillespie, A. R., Abrams, M. J., and Madura, D. P., 1976, Computer techniques for geological applications, in Proceedings of Caltech/JPL Conference on Image Processing Technology, Data Sources, and Software for Commercial and Science Applications: JPL SP 43-30, NASA-Jet Propulsion Lab.-Calif. Inst. of Technology, Pasadena, Calif., p. 4-1 4-21.
+Vincent, R. K., 1975, Commercial applications of geological remote sensing: IEEE Conf. on Decision and Control, Preprint TA1-5, p. 258-263.
+19
+
+

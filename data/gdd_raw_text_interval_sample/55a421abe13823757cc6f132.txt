@@ -1,0 +1,4256 @@
+U.S. DEPARTMENT OF THE INTERIOR U.S. GEOLOGICAL SURVEY
+Fault-Slip Data, Paleomagnetic Data, and Paleostress Analyses Bearing on the Neogene Tectonic Evolution of Northern Crater Flat Basin, Nevada
+By
+Scott A. Minor, Mark R. Hudson, and Chris J. Fridrich
+Open-File Report 97-285
+This report is preliminary and has not been reviewed for conformity with U.S. Geological Survey editorial standards or with the North American Stratigraphic Code. Any use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government.
+1997
+
+CONTENTS
+
+Page Abstract.................................................................................. 2 Introduction.............................................................................. 3 Geologic setting........................................................................ 5 Fault-slip data........................................................................... 8 Paleomagnetic results.................................................................. 15 Paleostress analysis..................................................................... 20 Paleostress and fault-kinematic history.............................................. 28
+Older fault/stress regimes - major extensional faulting influenced by caldera magmatism?........................................................... 28 Younger fault/stress regimes - oblique slip and inclined-axis fault block rotations.................................................................. 31 Continued caldera-magmatic influence?.................................... 32 Broadly distributed dextral shear and oblique extension.................. 33 Miocene regional paleostress trajectories................................... 35 Evidence for late fault reactivation.......................................... 37 Conclusions.............................................................................. 37 Acknowledgments....................................................................... 38 References Cited........................................................................ 38 Appendix A: Fault-slip data........................................................... A-l Appendix B: Site data plots........................................................... B-l Appendix C: Fault-slip measurement locations.................................... C-l Appendix D: Fault-slip data and paleostress tensor plots......................... D-1
+
+FIGURES
+
+Figure
+
+Page
+
+1. Regional geologic map showing location of Crater Flat study area....... 4
+
+2. Generalized tectonic map of the Crater Flat basin structural domain..... 6
+
+3. Geologic map of northern Crater Flat study area............................ 7
+
+4. Map showing locations of fault-slip measurement sites and domains.... 10
+
+5. Rose plots of all measured fault-slip data.................................... 11
+
+6. Stereographic and rose plots of fault-slip data measured in Crater Flat
+
+Group and Calico Hills Formation rocks..................................... 12
+
+7. Stereographic and rose plots of fault-slip data measured in Paintbrush
+
+Group rocks...................................................................... 13
+
+8. Stereographic and rose plots of fault-slip data measured in rhyolite of
+
+Fluorspar Canyon and Rainier Mesa Tuff rocks............................ 14
+
+9. Map of Crater Flat basin showing locations of paleomagnetic sites and
+
+the associated declination discordances of the site mean directions...... 18
+
+10. Map showing estimated declination discordances in northern Crater
+
+Flat study area.................................................................... 19
+
+FIGURES (continued)
+
+Figure
+
+Page
+
+11. Map showing computed paleostress orientations and associated (|>
+
+values correlated with event 1 normal-slip fault/stress episode.......... 23
+
+12. Stereographic and rose plots of fault-slip data correlated with event 1
+
+fault/stress episode............................................................. 24
+
+13. Map showing computed paleostress orientations and associated §
+
+values correlated with event 2 oblique-slip fault/stress episode......... 26
+
+14. Composite Stereographic and rose plots of fault-slip data correlated
+
+with event 2 fault/stress episode............................................. 27
+
+15. Map showing computed paleostress orientations and associated §
+
+values correlated with event 3 normal fault/stress episode............... 29
+
+16. Stereographic and rose plots of fault-slip data correlated with event 3
+
+fault/stress episode............................................................. 30
+
+17. Regional geologic map showing Miocene paleostress (c3) orientations
+
+determined in this and other studies......................................... 34
+
+18. Cartoons showing two-stage middle Miocene fault-kinematic
+
+evolution of Crater Flat structural basin as inferred from study......... 36
+
+Al. Sample of formatted data extracted from northern Crater Flat fault-
+
+slip data set..................................................................... A-2
+
+TABLES
+
+Table
+
+Page
+
+1. Paleomagnetic data from the Crater Flat basin.............................. 16
+
+2. Paleostress analytical results................................................... 22
+
+Al. Data index and slip-sense code definitions................................... A-l
+
+PfrGE «2 FALLOWS
+
+Abstract
+The Neogene Crater Flat basin, an extensional structural domain straddling the margin of the southeastern Walker Lane belt, is characterized by closely spaced NNEstriking normal faults that bound moderately ESE-tilted fault blocks including Yucca Mountain, a potential site for the nation's high-level waste repository. Detailed knowledge of the kinematic history of extensional faults in the basin is needed to help constrain regional Neogene tectonic models of the Yucca Mountain region, which, in turn, provide a long-term context for Quaternary seismic and volcanic hazards evaluations. The present investigation focuses on the northern flank of Crater Flat basin where nearly continuous Miocene bedrock exposures of fault blocks exist along a NWtrending belt continuing from northern Yucca Mountain to the northwest corner of the Crater Flat domain, permitting evaluation of space-time patterns of fault kinematics along a cross-basinal transect.
+A total of 321 fault-slip measurements were made at 65 sites in 13.5-11.6-Ma volcanic rocks exposed along the northern flank of Crater Flat. Additional constraints were provided by paleomagnetic data from 23 new sites and 40 previously reported sites in 13.25-11.45-Ma rocks exposed throughout the basin. All of these fault-slip and paleomagnetic data are presented in this report. Most measured faults strike N to NE and dip W to NW. Most N-striking faults crosscut NE-striking faults. Normal to normaloblique fault slip is dominant; rake angles are rarely less than 45° and most exceed 70°. To help delineate space-time changes of fault kinematics and to investigate paleostress patterns, the study area was spatially partitioned into 10 subdomains and fault-slip data from each were inverted to find one or more best-fit reduced stress tensors. Consistent crosscutting relations of overprinted fault striae guided determinations of slip data subsets for subdomain multiple inversions, and helped to identify the relative timing of paleostress tensors.
+Results indicate that during major extensional development of Crater Flat basin between 12.7 and 11.6 Ma a normal-slip fault/stress regime prevailed across the northern flank where the least principal stress direction (a3) was uniformly oriented about 300°. A localized radial shift of a3 about the nearby Claim Canyon caldera occurred during the caldera's development early in this episode. Stress tensor configurations and an angular unconformity beneath the 11.6-Ma Rainier Mesa Tuff indicate that normal faults were tilted along with adjacent strata during the major extensional episode. The style of faulting changed between 11.6 and 11.45 Ma from dominantly normal slip to normaloblique slip in the northern basin even though the overall stress configuration did not change significantly (i.e., cjj vertical, a3 azimuth -300°). The oblique faulting was characterized by sinistral slip components on NE-striking faults and dextral slip components on N-striking faults, regardless of fault dip direction. Paleomagnetic data mostly indicate southwest-increasing and -younging clockwise vertical-axis rotations of fault blocks across the Crater Flat basin beginning between about 11.6 and 11.45 Ma, thus defining a north-northwest-trending rotational strain gradient that spans the length of the basin. These data and other structural constraints indicate that oblique faulting accommodated as much as -25° of clockwise inclined-axis rotations of fault blocks in northern Crater Flat basin. In contrast to the overall basin, the fault-block rotation
+
+episode in the north was somewhat diachronous and not uniformly westward younging. The most likely cause for the change to oblique extension was an abrupt pulse of broadly distributed, heterogeneous dextral shear across this part of the Walker Lane belt. Thus, Crater Flat basin appears to be an extensional graben that was overprinted by a dextral shear couple as much as 1 m.y. after the majority of the basin had formed. Southwest a3 orientations compatible with younger(?) normal fault slip in some subdomains may reflect the late influence of a radial stress envelope associated with the 11.6-11.45-Ma Timber Mountain caldera. This and other studies in the region suggest that pre-9-Ma regional c3 trajectories curved sharply across the Crater Flat structural basin from westsouthwest Basin-and-Range orientations in the east to west-northwest orientations in the west along the margin of the Walker Lane belt. The calderas along the north boundary of the Crater Flat basin may have acted as a stress guide that confined the margin of the Walker Lane belt in the Miocene and influenced the curving of stress trajectories across the basin.
+Introduction
+Crater Flat basin is located in southern Nevada within the southwestern Great Basin. It is situated along the diffuse boundary between the Basin and Range and Walker Lane belt tectonic provinces and lies within the southern part of the Miocene southwest Nevada volcanic field (Fig. 1). The present study was undertaken primarily to provide fault-kinematic constraints for Neogene tectonic models of the Crater Flat basin structural domain, which includes Yucca Mountain, the potential site of the high-level radioactive waste repository. Fault-slip and paleomagnetic data provided in this report, and the resulting tectonic interpretations, in turn, provide geologic input for seismic and volcanic hazards assessments of Yucca Mountain and its environs. Fault-slip investigations in this study focus on the northern flank of Crater Flat basin where: (1) the local geology has been mapped in detail at 1:12,000 scale (Fridrich and others, 1994; C.J. Fridrich, unpub. data), (2) excellent bedrock exposures of concentrated meso- and map-scale faults exist across the entire basin flank, (3) widespread, well-dated, late Miocene regional ash-flow tuffs of the southwest Nevada volcanic field provide temporal control and permit paleomagnetic assessments of vertical-axis fault-block rotations; and (4) an adjacent late Miocene caldera complex allows for evaluation of possible caldera-magmatic effects on faulting (Fig. 1). The current study includes a paleostress analysis of the fault-slip data, the results of which are used, together with the paleomagnetic results, to aid faultkinematic interpretations of Crater Flat basin. These results are also used to: (1) derive the Miocene paleostress history of the basin, (2) determine possible volcano-tectonic controls on the fault pattern in the northern part of the basin, and (3) assess the influence of Walker Lane dextral shear on the evolution of the basin.
+This study largely builds upon recent geologic studies of the Crater Flat basin conducted principally by C.J. Fridrich through the U.S. Geological Survey's Yucca Mountain Project. These definitive studies include detailed (1:12,000-scale) geologic mapping of the northern part of the basin (Fridrich and others, 1994; C.J. Fridrich, unpub. data) and tectonic syntheses of the Crater Flat basin structural domain (Fridrich, in press; Fridrich and others, in press). Earlier important Neogene structural and tectonic
+
+EXPLANATION
+OUATOMMV-PUOCfNC
+Moctxt-otMococ
+MUOZMC-MOTCMZmC WUtnt UHC KLT MMOt
+
+HOMML FAULT
+snwMur FAULT
+OrUCMUCMT FAULT
+
+Figure 1. Generalized regional geologic map showing location of Crater Flat study area near caldera complexes of southwest Nevada volcanic field (labels?) and along northeast margin of Walker Lane belt. Area of Fig. 2 is indicated.
+
+investigations in the Crater Flat domain mostly focused on Yucca Mountain. Of these investigations, those most relevant to the present study consist of the fault-slip study of Scott and Hofland (1987), the lineament and kinematic analysis of O'Neill and others (1991), the paleomagnetic studies of Rosenbaum and others (1991) and Hudson and others (1994), the joint study of Throckmorton and Verbeek (1995), the tectonic analysis of Scott (1990), and the tectonic modelling of King and Janssen (1994).
+Geologic Setting
+The Crater Flat basin, viewed as a structural domain, is a north-trending graben that is bounded on the east by the concealed down-to-the-west Gravity fault, on the west by the opposing Bare Mountain range-front fault, and on the north by the transverse Yucca Wash fault and the Timber Mountain/Claim Canyon caldera complex (Fig. 2; Fridrich, in press); the southern end of the graben is poorly constrained due to burial by younger deposits of the Amargosa basin. The eastern part of the domain is dominated by the multiple-fault-block ridge of Yucca Mountain whereas most of the western part is dominated by the alluvial flat physiographic basin known as Crater Flat. The northnortheast-trending fault blocks characterizing the interior of the Crater Flat graben mostly consist of 13.5-11.45-Ma tuffs and lavas that are gently tilted to the east-southeast and are bounded by west-northwest-dipping normal faults (Fig. 2). The main extensional development of the graben occurred between emplacement of two regional ash-flow tuff sheets in the area at 12.7 Ma and 11.6 Ma, resulting in a laterally persistent angular unconformity within the volcanic section (Fridrich and others, in press). Paleomagnetic data spanning the length of Yucca Mountain indicate that the mountain's arcuate southern "tail" (Fig. 2) resulted from a southward increase in clockwise vertical-axis rotation of fault blocks during extension (Rosenbaum and others, 1991; Hudson and others, 1994). This clockwise rotation was likely due to southwestward-increasing extension and dextral shear associated with the southeastern Walker Lane belt (Scott, 1990; Rosenbaum and others, 1991; Hudson and others, 1994; Fridrich, in press). Crater Flat basin has been characterized by a strong southwestward increase in magnitude of extension throughout its tectonic development, which has continued up to the present. As such, the overall basin has formed by oblique extension (Fridrich and others, in press).
+The stratigraphy of the northern Crater Flat study area is characterized by a sequence of Miocene ash-flow tuffs and related lavas and pyroclastic rocks of the southwest Nevada volcanic field that unconformably overlie Paleozoic sedimentary rocks exposed at the northeast end of Bare Mountain (Fig. 3; Fridrich and others, 1994; C.J. Fridich, unpub. data). The oldest significant Miocene volcanic rocks in the study area are rocks of the 13.5-13.1-Ma Crater Flat Group (map unit Tc, Fig. 3), which consist of (in ascending order) the Tram Tuff, the rhyolite lavas and tuffs of Prospector Pass, the Bullfrog Tuff, and the Prow Pass Tuff. These rocks are overlain by 12.9-Ma tuffs of the Calico Hills Formation, which, in turn, are overlain by 12.8-12.7-Ma ash-flow tuffs of the Paintbrush Group (unit Tp). Eruption of the Paintbrush rocks, which consist of (in ascending order) the Topopah Spring, Pah Canyon, Yucca Mountain, and Tiva Canyon Tuffs, formed the Claim Canyon caldera along the northern boundary of the Crater Flat basin (Fig. 3). Paintbrush rocks are resurgently domed in the central part of the caldera
+
+11645'00" Figure3 3700i't0n0n
+
+11615'00"
+
+CRATER FL DOMAIN
+
+363T30'
+
+Caldera margin
+
+10 KM
+
+West dipping normal faults
+
+Structural domain boundary
+
+East dipping normal faults
+
+Figure 2. Generalized tectonic map of the Crater Flat basin structural domain. Domain boundary, caldera margins, intrabasin faults, and the outlines of significant alluvial basins are shown. Area of Fig. 3 is indicated.
+
+116 3730"
+
+116 30'
+
+EXPLANATION
+Surficial and basin-fill deposits
+Volcanic and sedimentary rocks filling Timber Mountain caldera Ammonia Tanks Tuff (11.45 Ma)
+Tmr landslide deposits
+Rainier Mesa Tuff and rhyolite of Fluorspar Canyon (11.7-11.6 Ma)
+Windy Wash tuffs and lavas filling Claim Canyon caldera (12.5 Ma)
+Paintbrush Group tuffs (12.8-12.7 Ma)
+Crater Flat Group and Calico Hills Fm. tuffs and lavas (13.5-12.9 Ma)
+Late Proterozoic and Paleozoic sedimentary rocks
+«" Claim Canyon caldera wall
+« « Timber Mountain caldera complex wall
+36 52'30"
+
+Figure 3. Geologic map of the northern Crater Flat study area modified from Sawyer and others (1995), Fridrich and others (1994), and C.J. Fridrich (unpub. data). Balls and bars on faults (medium-weight lines) towards down-thrown blocks; general stratal tilt directions indicated by bedding attitude symbols. Thick dark grey dashed lines represent caldera topographic walls: CCC = Claim Canyon caldera wall; TMC = Timber Mountain caldera complex wall. Unit Tc locally includes older Tertiary rocks near northeast corner of Bare Mountain.
+
+and are onlapped by 12.5-Ma tuffs and lavas of Windy Wash (unit Tmn) within the caldera moat. An angular unconformity exists between the Paintbrush rocks and the overlying 11.7-Ma rhyolite of Fluorspar Canyon and 11.6-Ma Rainier Mesa Tuff (unit Tm) on the north flank of Crater Flat; the angular discordance ranges from about 10° at Yucca Mountain to 40° at the west end of Tram Ridge (Fridrich, in press). This unconformity is a consequence of the major extensional fault-block tilting that occurred throughout the basin between 12.7 and 11.7 Ma. Emplacement of the voluminous Rainier Mesa Tuff resulted in initial collapse of the Timber Mountain caldera complex along the north edge of the study area and partial obliteration of the older Claim Canyon caldera (Fig. 2 and 3). Megabreccia deposits of Rainier Mesa Tuff (unit Tmx) in northwestern Crater Flat represent rock avalanches shed off of the east-facing Bare Mountain fault scarp during post-11.6-Ma extension. Eruption of the 11.45-Ma Ammonia Tanks Tuff (unit Tma) resulted in further collapse of the Timber Mountain caldera complex. This tuff and younger volcanic and sedimentary deposits (unit Tgc) are ponded in the caldera complex (Fig. 3). Late Miocene and younger deposits underlie the Crater Flat alluvial basin to the south (unit QTs).
+The structural geology of the northern Crater Flat study area differs from that of other exposed parts of the overall basin most noticeably in terms of its fault geometry (Fig. 2). The density of faults is greater at the north end of the basin, and the faults there gradually change in strike from north at the north end of Yucca Mountain to northeast in the Tram Ridge area northwest of Crater Flat, thus defining a crude radial geometry with respect to the Claim Canyon caldera (Fig. 3; Fridrich and others, 1994). Also across this part of the basin stratal tilts also vary from east- to southeast-directed, and in the Tram Ridge area strata locally tilt towards the northwest. Many of the north-striking faults that cut intracaldera rocks of the Claim Canyon caldera continue far southward into the northern Yucca Mountain area whereas many other localized intracaldera faults with arcuate or concentric geometries are probably comagmatic caldera structures (Fig. 3). Three northeast-striking splays of the Bare Mountain fault present along the northwestern margin of Crater Flat basin are interpreted by Fridrich (in press) to each have an unique age range, with the youngest, southeasternmost splay extending discontinuously into young basin-fill deposits in Crater Flat (Fig. 3). The northern Crater Flat extracaldera faults and related structures briefly described above are the main focus of the present study.
+Fault-Slip Data
+Faults were examined in Miocene volcanic rocks in uplands bordering northern Crater Flat. Fault plane and striae orientations and, where possible, fault separation were measured for exposed map-scale and mesoscale (generally 100 to 0.01 m offset) faults at selected sites. Additionally, slip-sense determinations were made at each fault. Except where faults offset beds or other datums, slip sense mostly was evaluated using secondary-fracture criteria of Petit (1987). Other features revealing slip sense were accretion steps formed by syn-slip mineral deposition and tool marks (Angelier and others, 1985; Petit, 1987). Each determination was assigned a definite, probable, or inferred certainty. For faults with inferred certainty, the slip sense typically was assumed
+
+to be the same as that of nearby, similarly oriented faults having definitive slip sense. The measurement sites (Fig. 4; see also Appendix C) were selected as much as possible to achieve a spatially, temporally, and structurally representative sampling of the faults. Each site consists of one or more outcrops, each of which contains one or more measurable faults. Bedding and foliation attitudes of faulted rocks were measured at most sites mainly to assess the possibility of fault tilt.
+Relative and absolute timing of fault movement was determined in the field from cross-cutting relations of faults, slickenside striae, and stratigraphic units. Relative ages of some of the larger measured faults were deduced from fault relations shown on published geologic maps of Fridrich and others (1994; in press). Numerous radiometric ages reported for the faulted rock units (see Sawyer and others, 1994, and references cited within), in combination with observed fault-stratigraphic age relations, served to define the absolute age ranges of fault sets.
+The estimated instrumental error for orientation measurements was ±2 , whereas
+fault attitude and striae orientation determinations were judged to be within ±8° of the mean local orientations of these features. Thus, the overall measurement accuracy was
+about ±10° (cf. Zoback, 1989, p. 7109). A total of 321 fault-slip measurements were made of faults at 65 sites in late
+Miocene (13.5-11.6-Ma) tuffs and lavas exposed along the northern margin of the basin (Fig. 4); 103 measurements were made in Crater Flat Group and overlying Calico Hills rocks (map unit Tc), 149 in Paintbrush Group rocks (unit Tp), and 69 in Rainier Mesa Tuff and underlying rhyolite of Flourspar Canyon (unit Tm). Appendices A, B, and C, respectively, contain a detailed listing of the complete fault-slip data set, data plots from each site, and maps showing the location of each site and the associated measurements. As in the mapped fault pattern in northern Crater Flat (Fridrich and others, 1994; in press), most measured faults strike north to northeast with a majority of the faults dipping west to northwest (compare Figs. 3 and 5). Northeast-striking faults tend to terminate against throughgoing north-striking faults (Fig. 3). Normal and normal-oblique modes of slip greatly outnumber all other modes (Fig. 5); strike-slip faults are uncommon, and rake
+angles are rarely less than 45° (most exceed 70°). There is no clear spatial pattern in striae plunge direction within the study area. A few contrasts in fault-slip data are apparent by comparing data from rocks of different stratigraphic age ranges. Faults measured in Crater Flat Group rocks and overlying Calico Hills rocks are generally similar to those in younger Paintbrush Group rocks although faults in the older rocks tend to strike more easterly and include a greater variety of fault plane orientations (Figs. 6 and 7). A majority of faults in unconformably overlying Timber Mountain Group rocks (rhyolite of
+Fluorspar Canyon and Rainier Mesa Tuff) strike more northerly (less than 20 east of north), dip to the west, and exhibit dextral-oblique slip (Fig. 8). Most lower-rake striae overprint high-rake striae on faults in the Crater Flat and Paintbrush rocks whereas the opposite is true on faults in the Timber Mountain rocks.
+
+Fault-slip measurement sites and domains 116° 37'30"
+
+116° 30'
+
+EXPLANATION
+Surficial and basin-fill deposits
+Volcanic and sedimentary rocks filling Timber Mountain caldera Ammonia Tanks Tuff (11.45 Ma)
+Tmr landslide deposits
+Rainier Mesa Tuff and rhyolite of Fluorspar Canyon (11.7-11.6 Ma)
+Windy Wash tuffs and lavas filling Claim Canyon caldera (12.5 Ma)
+Paintbrush Group tuffs (12.8-12.7 Ma)
+Crater Flat Group and Calico Hills Fm. tuffs and lavas (13.5-12.9 Ma)
+Late Proterozoic and Paleozoic sedimentary rocks
+» Claim Canyon caldera wall
+mmm mm Timber Mountain caldera complex wall
+36° 52'30"
+
+Figure 4. Geologic map of study area (see Fig. 3 for explanation of map units and symbols) showing locations of fault-slip measurement sites (small circles) and fault-slip domain boundaries (irregular large grey circles). Domains consecutively numbered 1 to 10 from northwest to southeast.
+
+All northern Crater Flat fault-slip data
+n=321
+Slip Sense Figure 5. Rose plots of all measured fault-slip data (321 measurements) showing various parameters as indicated. Percentage value by each plot indicates maximum plot radius in terms of number of data relative to total number of data used in plot. Plot perimeters are divided into 5° intervals. R = reverse slip; S = sinistral slip; N = normal slip; D = dextral slip.
+11
+
+Tc + Tac fault-slip data
+
+NM
+
+270-
+17% ' Slip Sense
+Figure 6. Equal-area stereographic plot (top diagram) and rose plots of all fault-slip data measured in rocks of the Crater Flat Group and overlying Calico Hills Formation. See Appendix B and Fig. 5 for explanations of equal-area and rose plots, respectively.
+12
+
+Tp fault-slip data
+Slip Sense
+Figure 7. Equal-area stereographic plot (top diagram) and rose plots of all fault-slip data measured in rocks of the Paintbrush Group. See Appendix B and Fig. 5 for explanations of equal-area and rose plots, respectively.
+13
+
+Tmr + Tmrf fault-slip data
+
+NM
+
+270-
+
+-90
+
+90 22%
+
+Slip Sense
+
+Figure 8. Equal-area stereographic plot (top diagram) and rose plots of all fault-slip data measured in rocks of the rhyolite of Fluorspar Canyon and overlying Rainier Mesa Tuff. See Appendix B and Fig. 5 for explanations of equal-area and rose plots, respectively.
+14
+
+Paleomagnetic Results
+Rosenbaum and others (1991) and Hudson and others (1994) have previously published paleomagnetic data that indicate that tuffs of the Crater Flat and Paintbrush Groups have been rotated clockwise approximately 25° about near-vertical axes in the area of southern Yucca Mountain. These data also suggest that rotation here began before emplacement of the 11.45-Ma Ammonia Tanks Tuff. For this study, new paleomagnetic data were acquired from 23 sites from the western and northern parts of the Crater Flat basin from the Bullfrog, Tiva Canyon, Rainier Mesa, and Ammonia Tanks Tuffs to refine the spatial distribution and timing of clockwise rotation. Table 1 lists the data from these 23 sites along with previously published data from 40 sites from this area.
+Paleomagnetic samples for this study were collected with a portable rock drill and were oriented with a clinometer and both magnetic and solar compassed. At each site, eight to ten samples were collected from outcrops spread over several tens of square meters. Stratal attitudes were averaged from numerous measurements of compaction foliation, under the presumption that compaction foliation was horizontal when the tuffs acquired magnetization. In the laboratory, eight to ten samples from each site were subjected to progressive alternating-field demagnetization consisting of eight steps per sample to peak inductions of 80 mT. Demagnetization results were plotted on orthogonal vector diagrams and directions of magnetic components were determined for visually determined linear segments by principal-component analysis (Kirschvink, 1980). Site means and their dispersion parameters were calculated using statistical methods of Fisher (1953). As in previous studies, samples collected for this study typically responded in an uncomplicated manner to progressive demagnetization. Tuffs at most sites carry one dominant, well-grouped component of magnetization that is interpreted to have been acquired during initial cooling of the unit. Lightning-induced isothermal remanent magnetizations overprinted the characteristic magnetization at some topographically exposed sites. Data from samples for which lightning-induced overprints could not be clearly removed were omitted from statistical calculations.
+To detect possible vertical-axis rotation, declinations of tilt-corrected site mean directions were compared to reference directions for each unit (Table 1), as presented by Hudson and others (1994). These reference directions were obtained from sites from the central, least deformed part of the southwestern Nevada volcanic field that is little rotated with respect to the North American craton (Hudson and others, 1994). The declination discordances calculated in this manner for Crater Flat basin and northern Crater Flat basin are illustrated in Figs. 9 and 10, respectively. Tilt-corrected mean directions for those sites that have statistically significant declination discordances (Table 1) generally lie clockwise of their reference directions, implying that they were affected by a clockwise vertical-axis rotation. We must further qualify this conclusion, however, for a few sites that also have inclinations that are strongly discordant from their reference direction, as indicated by flattening (F) values in Table 1. Vertical-axis rotation alone does not affect site mean inclinations and thus other factors must also have influenced the magnetization direction for sites having strong inclination anomalies. In Fig. 9, declination discordances for five sites with inclination discordances exceeding 10° are queried. Two factors probably caused these inclination discordances.
+15
+
+Table 1. Paleomagnetic data from the Crater Flat basin.
+
+Site Lat. Long. N/No k cc95 Dg Ig St/Dip Ds Is R F
+
+Ammonia Tanks Tuff Reference JR87-12 36.6908 8MH-7 36.7100 8MH-10 36.7148 91MH-1 36.6951 91MH-2 36.7140 92MH-2 36.7151 92MH-3 36.7143 94BH-32 36.7355 94BH-33 36.7324
+
+116.4888 116.5791 116.5528 116.4943 116.5115 116.5490 116.5825 116.6460 116.6002
+
+7/7 510 8/8 308 9/9 889 9/9 103 8/8 458 9/9 678 8/8 589 10/10 582 7/8 588 8/8 257
+
+2.7 3.2 308.9 64.3 1.5 346.8 65.2 5.1 16.2 57.9 2.6 326.8 59.3 2.0 354.3 64.8 2.3 353.9 67.3 2.0 355.2 67.1 2.5 359.0 45.4 3.5 335.4 56.6
+
+0/12 330/8 275/2 350/6 272/2 17/14 302/6 64/14 352/45
+
+350.5 332.3 1.5 15.6 336.8 354.8 3.3 2.1 7.7 34.2
+
+62.1 72.1 61.9 55.9 61.2 62.8 68.6 62.1 57.7 44.5
+
+-18.2 ±9.6 11.0 ±5.3 25.1 ±8.6 -13.7 ±6.3 4.3 ± 5.8 12.8 ±6.8 11.6 ±5.8 17.2 ±5.9 43.7 ±6.1
+
+-10.0 ±3.3 0.2 ± 2.5 6.2 ± 4.6 0.9 ±3.0 -0.7 ± 2.7 -6.5 ± 2.8 0.0 ±2.7 4.4 ± 2.9 17.6 ±3.5
+
+Rainier Mesa Tuff Reference JR87-15 36.8143 8MH-6 36.7096 90BH-234 36.953 94BH-34 36.7323 94BH-37 36.9420 94BH-40 36.9313 95BH-15 36.9024 95BH-17 36.9157 95BH-18 36.9314
+
+116.4887 116.5806 116.658 116.6010 116.6435 116.6546 116.5224 116.5494 116.5719
+
+9/9 874 8/8 880 7/7 252 23/23 390 9/9 285 7/8 485 8/8 699 9/9 886 8/8 884 8/8 541
+
+1.7 1.9 164.3 -40.9 3.8 189.7 -58.1 1.5 188.9 -52.2 3.0 143.7 -56.1 2.7 184.6 -36.3 2.1 195.9 -56.5 1.7 176.1 -45.2 1.9 170.3 -47.5 2.4 172.5 -36.7
+
+5/18 330/8 178/9 345/54 53/16 204/19 205/5 57/2 67/17
+
+170.8 180.8 197.5 177.1 211.8 195.1 171.7 172.0 171.2 177.8
+
+-50.6 -44.9 -52.6 -53.0 -40.7 -47.3 -49.7 -42.6 -49.3 -52.9
+
+10.0 ±3.0 26.7 ± 5.5 6.3 ± 2.9 44.0 ± 3.9 24.3 ± 3.9 0.9 ± 3.4 1.2 ±2.8 0.4 ±3.3 7.0 ±3.8
+
+5.7 ±20 -2.0 ± 3.3 -2.4 ±1.8 9.9 ±2.8 3.3 ±2.6 0.9 ± 2.2 8.0 ± 1.9 1.3 ±2.0 -2.3 ± 2.4
+
+Tiva Canyon Tuff
+
+Reference
+
+JR87-4 36.9018
+
+JR81-2 36.882
+
+M79-25 36.874
+
+M79-26 M79-28 JR84-16
+
+36.871 36.870 36.8646
+
+JR80-2 M79-7 JR80-1 JR84-15
+
+36.861 36.851 36.844 36.8424
+
+JR81-8 36.824
+
+JR84-13 36.8106
+
+JR84-1
+
+36.7967
+
+JR84-5 JR84-6
+
+36.7879 36.7854
+
+JR84-3 JR84-7
+
+36.7758 36.7633
+
+JR87-6 36.7526
+
+8MH-1 JR84-8 JR87-8
+
+36.7423 36.7398 36.7295
+
+8MH-8 8MH-2
+
+36.7241 36.7221
+
+8MH-11 36.7182
+
+JR87-9 36.7184
+
+8MH-12 36.7088
+
+8MH-9 36.7144
+
+JR87-10 36.7051
+
+JR87-11 36.6926
+
+8MH-5C 36.6917
+
+JR84-10 36.6801
+
+94BH-35 36.8108
+
+94BH-39 36.9528
+
+95BH-14 36.9015
+
+95BH-16 36.9142
+
+95BH-19 36.9351
+
+95BH-20 36.9508
+
+116.4868 116.461 116.464 116.463 116.459 116.4044 116.443 116.447 116.452 116.4084 1 16.459 116.4154 116.4615 116.4808 1 16.4830 116.4605 116.4883 116.4590 116.4408 116.4558 116.4595 116.5181 116.4408 116.5517 116.4673 116.5631 116.5290 116.4674 1 16.4803
+1 16.5308 116.4911 116.5330 116.5997 116.5263 116.5533 116.5799 116.6386
+
+9/9 477 2.4 11/11 829 1.6 9/9 420 2.5 6/6 474 3.1 5/7 302 4.4 6/6 625 2.7 7/8 512 2.7 7/7 1124 1.8 5/6 323 4.3 7/7 365 3.2 6/6 1028 2.1 6/6 1863 1.6 8/10 599 2.3 5/7 213 5.3 5/8 120 7.0 6/6 717 2.7 7/8 578 2.5 6/7 620 2.7 7/8 208 4.2 6/8 637 2.7 6/7 200 4.8 8/9 207 3.9 8/8 203 3.9 7/9 322 3.4 8/10 438 2.7 7/8 525 2.6 6/8 682 2.6 8/8 611 2.2 7/8 1953 1.4 8/8 403 2.8
+6/6 8.5 7/7 337 3.3 8/8 561 2.3 8/8 1690 1.4 8/8 536 2.4 8/8 886 1.9 8/8 259 3.5 8/8 381 2.8
+
+163.9 166.3 173.1 164.2 165.0 177.8 164.3 169.7 167.9 175.5 173.1 164.5 173.7 178.0 173.7 169.9 175.2 168.1 161.0 170.5 156.1 193.2 161.9 179.3 171.7 184.1 180.8 182.1 183.2
+177.1 184.3 199.0 176.5 166.0 168.0 163.8 183.9
+
+-42.0 -39.7 -39.6 -37.8 -41.6 -38.3 -41.2 -43.1 -44.6 -40.5 -41.7 -36.4 -37.9 -32.0 -36.5 -39.5 -38.8 -35.4 -30.2 -31.0 -18.3 -33.3 -40.8 -43.7 -30.2 -45.7 -38.5 -35.0 -44.1
+-47.0 -35.3 -30.5 -7.8
+-33.0 -12.4 -13.1 -37.3
+
+0/0 22/3 76/5 73/5 73/5 69/8 42/4 15/5 357/6 11/9 4/10 13/7 17/3 10/11 350/14 27/8 33/9 12/17 40/15 27/25 24/33 25/12 7/8 340/24 35/12 5/15 35/12 38/11 7/13
+350/15 21/14 158/17 77/45 126/10 78/19 71/20 332/18
+
+167.8 163.9 168.4 173.7 164.4 168.0 180.3 166.3 174.2 173.9 184.5 182.2 169.4 175.9 185.0 183.6 175.8 181.7 180.9 167.2 188.4 183.5 201.3 168.4 196.2 186.0 199.0 190.1 189.4 195.7
+191.8 194.6 189.1 182.4 160.2 168.0 164.3 193.0
+
+-42.1 -42.0 -41.4 -44.6 -42.7 -46.6 -45.8 -44.5 -45.1 -45.2 -42.3 -42.8 -39.5 -39.0 -33.6 -34.4 -44.0 -43.9 -40.6 -42.7 -43.3 -47.2 -34.9 -43.8 -32.3 -44.0 -44.0 -44.5 -40.9 -43.5
+-43.2 -35.3 -40.6 -51.9 -39.0 -31.4 -33.1 -26.5
+
+-3.9 ±3.1 0.6 ±3.7 5.9 ±4.3 -3.4 ± 5.4 0.2 ±4.1 12.5 ±4.0 -1.5 ±3.3 6.4 ±5.5 6.1 ±4.5 16.7 ±3.4 14.4 ±3.1 1.6±3.5 8.1 ±6.0 17.2 ±7.2 15.8 ±3.7 8.0 ±3.8 13.9 ±4.0 13.1 ±5.1 -0.6 ± 3.9 20.6 ± 5.9 15.7 ±5.3 33.5 ±4.6 0.6 ±4.6 28.4 ± 3.6 18.2 ±3.9 31.2 ±3.6 22.3 ± 3.6 21.6±3.0 27.9 ±4.0
+23.8 ±9.7 26.8 ±4.1 21.3 ±3.6 14.6±3.1 -7.6 ±3.6 0.2 ±3.1 -3.5 ± 4.2 25.2 ±3.6
+
+0.1 ±2.3 0.7 ±2.8 -2.5 ±3.1 -0.6 ±4.0 -4.5 ± 2.9 -3.7 ± 2.9 1.5 ±3.3 -3.0 ±3.9 -3.1 ±3.2 -0.2 ± 2.6 -0.7 ± 2.3 2.6 ±2.7 3.1 ±4.7 8.5 ± 5.9 7.7 ±2.5 -1.9 ±2.8 -1.8 ±2.9 1.5 ±3.9 -0.6 ± 2.9 -1.2 ±4.3 -5.1 ±3.7 7.2 ± 3.7 -1.7 ±3.3 9.8 ±2.9 -1.9 ±2.8 -1.9 ±2.8 -2.4 ± 2.6 1.2 ±2.2 -1.4 ±3.0
+-1.1±7.1 6.8 ±3.3 1.5 ±2.7 -9.8 ± 2.2 3.1 ±2.7 10.7 ±2.4 9.0 ±3.4 15.6 ±3.0
+
+16
+
+Table 1 (continued)
+
+Bullfrog Tuff
+
+Reference
+
+JR87-2 36.9081
+
+JR87-14 36.7433
+
+8MH-3
+
+36.6863
+
+92MH-1 36.7023
+
+94BH-38 36.9695
+
+95BH-21 36.9586
+
+116.4979 116.4478 116.5354 116.5420 116.5909 116.6319
+
+3/3 1047 3.8 8/8 389 2.8 10/10 1136 1.4 8/8 218 3.8 22/23 747 1.1 8/8 155 4.5 7/7 233 4.0
+
+358.0 4.8 14.8 15.5 23.7 38.3
+
+30.9 48.0 460 50.3 5.0 56.1
+
+25/18 5/19 350/15 342/24 80/31 222/23
+
+11.0 11.4 24.7 26.6 32.0 29.7 9.3
+
+42.2 41.3 44.7 38.3 34.1 30.1 48.6
+
+0.4 ±5.1 13.7 ±4.4 15.6 ±5.6 21.0 ±4.2 18.7 ±5 .9 -1.7 ±6.4
+
+0.9 ±3.8 -2.5 ±3.2 3.9 ±4.3 8.1 ±3.2 12.3 ±4.7 -6.4 ± 4.4
+
+Site is site name; Lat. and Long, are latitude (°N) and longitude (°W) of site; N/No is number of samples accepted/number of samples demagnetized; k is concentration parameter (Fisher, 1953); 095 is ninety five percent
+confidence cone about mean; Dg and Ig are declination and inclination of site mean direction in geographic coordinates; St/Dip is strike and dip of site (dip direction 90° clockwise from strike); Ds and Is are declination and inclination of site mean direction in stratigraphic coordinates; R and F are rotation and flattening parameters that indicate differences of tilt-corrected site mean declinations and inclinations, respectively, relative to reference directions, with ninety five percent confidence limits calculated in the manner of Demarest (1983). Reference directions for ash-flow tuffs are from Hudson and others (1994).
+
+Four of the five queried site directions have inclinations that are shallower than the reference directions. Inclination shallowing in tuffs can be produced if vertical compaction during welding continued after the remanent magnetization was blocked by the magnetic carrier grains (Rosenbaum, 1986). Inclination flattening due to vertical compaction does not affect site declinations, however, and thus vertical-axis rotation estimates for sites affected by this process may still be valid. Where such inclination shallowing has been observed in vertical profiles elsewhere in the tuff units studied here (Rosenbaum, 1986; Hudson, 1992, Hudson and others, 1994; Hudson, unpublished data), it is typically less than 10°. However, Rosenbaum (1986) has suggested that inclination shallowing may vary in a non-uniform manner as a function of factors such as unit thickness, volatile content, and tuff emplacement temperature. Several of the new Tiva Canyon Tuff sites in northern Crater Flat basin that have shallow inclinations (94BH-16, 94BH-19, 95BH-20) were sampled in its upper, more mafic, crystal-rich part. We suspect that compaction-related flattening may have affected the inclinations of these sites because of an enhanced emplacement temperature due to the mafic magma composition and the close proximity to the source caldera. Moreover, the declination discordances for these sites are similar to those from nearby sites in older Bullfrog and younger Rainier Mesa Tuffs. A second likely cause for inclination discordance arises from inaccurate tilt correction caused by some primary dip of compaction foliation. Primary dip of compaction foliation might reflect pre-eruption topography generated by extensional faulting or, in the northern part of Crater Flat, by caldera-related deformation. Depending on the geometry of the primary stratal dip, inaccurate tilt corrections can affect the declinations of site mean directions and thus introduce errors into vertical-axis rotation estimates. If, for example, sites inherit eastward primary dips from tilts of preexisting fault blocks, the resultant tilt corrections of the generally north or south trending magnetizations carried by these units will result in declinations that lie clockwise of their proper directions. In this scenario estimates of clockwise rotation will be exaggerated. The resultant declination errors are potentially greatest for magnetizations with steep inclinations, such as the Ammonia Tanks Tuff whose reference inclination is 62.1° (Table 1). For these reasons, we think that a 43.7° clockwise declination discordance from
+
+17
+
+I Alluvium FFTI Quaternary- late L J Miocene basalt m£2 tMufidfsdle Miocene H Paleozoic
+/" - Fault, dashed where covered
+Rotation Markers ! Ammonia Tanks A Tuff (11.45 Ma)
+I Rainier Mesa Tuff (11.6 Ma) I Tiva Canyon J> Tuff (12.7 Ma) f Bullfrog Tuff 1 (13.25 Ma) »
+\ Declination fj> discordance ^o contour
+Figure 9. Geologic map of Crater Flat basin with locations of paleomagnetic sites and the associated declination discordances of their tilt-corrected site mean directions. Discordance values indicated by amount of deviation of discordance indicators from true north. Declination discordances are queried if the sites have inclination discordances of greater than 10°. Also shown are contours of equal clockwise declination discordance (dotted lines).
+18
+
+Vertical-axis rotation estimates 116 37'30"
+
+EXPLANATION
+
+QT
+
+Surficial and basin-fill deposits
+
+|£0° <j Volcanic and sedimentary rocks ^-s°? filling Timber Mountain caldera
+Ammonia Tanks Tuff (11.45 Ma)
+
+li
+
+Tmr landslide deposits
+
+Rainier Mesa Tuff and rhyolite of Fluorspar Canyon (11.7-11.6 Ma)
+
+Windy Wash tuffs and lavas filling Claim Canyon caldera (12.5 Ma)
+Paintbrush Group tuffs (12.8-12.7 Ma)
+
+Crater Flat Group and Calico Hills Fm. tuffs and lavas (13.5-12.9 Ma)
+
+Late Proterozoic and Paleozoic sedimentary rocks
+
+« Claim Canyon caldera wall
+m mm mmm Timber Mountain caldera complex wall
+
+ROTATION MARKERS
+1 Rainier Mesa Tuff (11.6 Ma)
+
+136 52'30"
+
+Tiva Canyon Tuff (12.7 Ma)
+
+Bullfrog Tuff (13.25 Ma)
+
+Figure 10. Declination discordance, or vertical-axis rotation, estimates in northern Crater Flat study area. See Fig. 9 for explanation of rotation indicators and Fig. 3 for description of geologic map units and symbols.
+
+Ammonia Tanks Tuff at site 94BH-33 (Table 1) from the southwest flank of Crater Flat (Fig. 9, queried) that also has a 17.6° inclination discordance may overestimate its true vertical-axis rotation component.
+Despite these qualifications, the combined data set of new and old paleomagnetic results refine the distribution and timing of clockwise rotation within the Crater Flat domain. We come to the following conclusions about the clockwise rotation.
+(1) Contours of 10° and 20° clockwise rotation can be extended north-northwest across the Crater Flat basin. These contours trend about 330° and provide the best estimate of the area and orientation of a zone of diffuse dextral shear that we infer is responsible for the clockwise rotations. This zone within the Crater Flat domain is part of a larger belt of clockwise rotation and the inferred dextral shear that extends at least 60 km farther to the north-northwest (Hudson and others, 1996).
+(2) The variation of fault strikes from north to northeast as one moves south towards the southern part of Yucca Mountain and Crater Flat (Fig. 9) is well explained by clockwise rotation of these faults. On the north flank of northern Crater Flat, however, the amount of clockwise rotation is insufficient to fully explain the northeast strikes of faults there (Fig. 10).
+(3) Rotation estimates for the Rainier Mesa Tuff mirror those from nearby sites in the Tiva Canyon Tuff throughout the Crater Flat basin, despite the common presence of an angular unconformity between these units (Fig. 3) (Carr, 1984; Scott, 1990). In contrast, sites from the Ammonia Tanks Tuff from the southern flank of Crater Flat are consistently less rotated than those of the older tuffs, as previously noted by Hudson and others (1994). These relations tightly constrain the onset of clockwise rotation in the basin between 11.6 Ma and 11.45 Ma.
+(4) Flat-lying Rainier Mesa Tuff from two sites just north of the northeastern part of Bare Mountain are unrelated even though tilted Tiva Canyon Tuff from a site 1 km to the east appears to be rotated 25° clockwise (Fig. 10). These observations suggest that clockwise rotation occurred before 11.6 Ma in the northwest corner of the Crater Flat structural domain and that similar pre-11.6-Ma rotated fault blocks are buried under onlapping Rainier Mesa Tuff west of the domain boundary.
+Paleostress Analysis
+The fault-slip data measured in northern Crater Flat basin were grouped into 10 fault-slip domains in order to further delineate spatial and temporal changes of fault kinematics and to investigate paleostress patterns (Fig. 4). These data subdivisions were guided by the spatial distribution of measurement sites and by significant changes in mapped fault geometries, fault-slip characteristics, and (or) stratal tilt directions. Faultslip data from each domain were inverted to find best-fit reduced paleostress tensors consisting of the orientations and relative magnitudes of the principal stresses c1? c2, and cr3, where c^ c2> c3 (compressive stress positive). The relative stress magnitudes are
+20
+
+expressed by the ratio fy = (cj2- cr3)/( crj- cj3). The revised direct-inversion, or INVD, computational method of Angelier (1990) was used for determining the paleostress tensors. Details of specific analytical techniques employed in the present study and estimates of the associated analytical uncertainties were discussed by Minor (1995). Rough approximations of the error limits for stress tensor axis orientations and § values
+computed by Minor (1995), which also apply to the present study, are ±15° and ±0.15, respectively. Although approximate fault offsets were determined for many of the measured faults (see Appendix A), no attempt was made in the present study to weight the fault-slip data on this basis inasmuch as previous studies (e.g., Angelier and others, 1985) have not obtained significant changes in stress tensor results by weighting based on fault size. Basic assumptions of fault-slip inversion methods and their implications have been previously addressed (e.g., Angelier, 1984; Zoback, 1989; Pollard and others, 1993).
+Initially a single, overall best-fit tensor was computed for each domain. Domain data sets that did not yield reasonable single stress solutions were assumed to represent fault slip under the influence of evolving ambient stress states. To help decipher the paleostress history in such domains, the incompatible, polyphase data sets were subdivided into two or, in a few cases, three subsets as guided by: (1) cross-cutting and abutting relations of slickenside striae and fault planes, (2) contrasting fault-slip patterns revealed in data plots (see Appendix B), (3) the results of the initial data inversions, and (4) iterative statistical clustering analyses (Angelier, 1984; see Minor, 1995, for details of methodology used). Each data subset was then inverted to find the most compatible stress tensor. Relative-age information obtained for the fault-slip data were used to determine the most likely stress tensor sequence in each domain, which in turn guided paleostress correlations across the study area.
+A total of 19 reasonable, reduced stress tensor solutions were obtained by inversion of fault-slip data from the 10 domains. Each domain yielded from one to three solutions depending on the size, complexity, and age range of the domainal data sets. Although as few as 7 measurements were used in computing stress tensors, most solutions were based on from about 15 to 25 measurements. About 16 % (53 measurements) of the total data set (321) was incompatible with the 19 stress solutions, and attempts to compute additional solutions with such data were unsuccessful. Such misfit data were assumed to reflect: (1) observational errors, (2) less-than-optimal data segregation prior to analysis, and (3) very localized stress perturbations due to secondary mechanical effects. These misfit data were not used in subsequent analyses. Details of the tensor results are presented in Table 2, and plots of the fault-slip data and stress tensor solutions and associated data subsets from each domain are located in Appendix D. All but one of the domains (domain 7) yield normal-slip stress solutions (maximum principal stress [crj subvertical) that are characterized by uniform northwest-oriented least principal stress (cr3) axes and § values generally ranging from about 0.3 to 0.6 (Fig. 11 and Table 2; see also no. 1 solutions in Appendix D). In Fig. 11 note that the
+stress axis orientations have been back rotated as much as 20° counterclockwise to account for clockwise vertical-axis rotations that, by inference from the paleomagnetic determinations, affected measured faults after the early stress regime. (For rationale behind such rotation corrections see discussion below). Most of the faults compatible with these tensors are northeast-striking and exhibit normal dip slip (Fig. 12).
+21
+
+Table 2. Paleostress analytical results
+[S/Sj, number of sites used in inversion/total numbers of sites; N/N-p, number of fault-slip data used in inversion/total number of data; a,,a2, a3, principal stress axes; <|>, (c^^y^-c^); RUP, average RUP value; ANG, average ANG value; n,, number of data from domain incompatible with stress tensor solution(s) (RUP values > 0.75); n2, number of compatible data with RUP values of 0.50-0.75; all azimuth and plunge values in degrees]
+
+CT 1 °2 a3
+
+Event S/ST N/NT
+
+*
+
+RUP ANG
+
+a nl
+
+n2a
+
+no.
+
+a;zimuth plunge azimuth plunge azimuth plunge
+
+(%) (deg)
+
+Domain 1 1 2 3?
+Domain 2 1 2 3?
+Domain 3 1
+Domain 4 1 2
+Domain 5 1
+Domain 6 1 2
+Domain 7 3
+Domain 8 pre-1? 2?
+Domain 9 1? 2?
+Domain 10 1? 2?
+
+6/7 4/7 5/7
+9/10 7/10 4/10
+4/4
+10/12 6/12
+5/5
+5/8 7/8
+1/4
+5/8 7/8
+3/3 3/3
+3/4 2/4
+
+24/59 16/59 12/59
+23/67 22/67 10/67
+12/14
+20/41 13/41
+15/16
+13/43 25/43
+6/10
+9/25 13/25
+6/18 10/18
+12/28 7/28
+
+162 214 194
+314 185 300
+53
+43 11
+317
+100 243
+335
+333 177
+147 137
+163 110
+
+73 8
+83
+83 65 72
+83
+77 65
+77
+85 81
+77
+67 83
+78 77
+82 69
+
+33 11 344 78 318 4
+223 0 32 22 125 18
+214 7
+231 13 197 25
+214 3
+222 3 19 6
+92 6
+125 21 40 5
+26 6 347 12
+38 5 350 11
+
+301 13 0.37 38 12 7(12) 4(17)
+
+123 9 0.40 47 21
+
+8(50)
+
+49 6 0.22 36 13
+
+3(25)
+
+133 7 0.53 32 11 12(18) 4(17)
+
+298 10 0.23 44 15
+
+9(41)
+
+34 1 0.43 50 19
+
+6(60)
+
+304 2 0.40 34 12 2(14) 2(17)
+
+140 2 0.45 32 12 8(20) 2(10)
+
+106 2 0.29 46 20
+
+5(38)
+
+123 13 0.46 37 16 1(6) 4(27)
+
+312 4 0.51 45 21 5(12) 5(38)
+
+110 6 0.73 33 13
+
+4(16)
+
+184 12 0.46 20
+
+6 4(40) 0(0)
+
+219 10 0.19 39 15 3(12) 2(22)
+
+309 5 0.64 44 15
+
+3(23)
+
+295 10 0.43 40
+
+8 2(11) 3(50)
+
+256 7 0.85 50 26
+
+5(50)
+
+307 6 0.31 27 7 9(32) 1(8)
+
+257 18 0.42 46 22
+
+3(43)
+
+a Numbers in parentheses indicate values expressed as percentage of total data set (n,) and percentage of total compatible data (n2).
+
+22
+
+Event 1: 12.7-11.6-Ma paleostress (a3) orientations Normal-slip faulting
+
+116 3730"
+
+116 30'
+
+K) U>
+
+EXPLANATION
+Surficial and basin-fill deposits
+Volcanic and sedimentary rocks filling Timber Mountain caldera Ammonia Tanks Tuff (11.45 Ma)
+Tmr landslide deposits
+Rainier Mesa Tuff and rhyolite of Fluorspar Canyon (11.7-11.6 Ma)
+"TrnV I Windy Wash tuffs and lavas filling "' Claim Canyon caldera (12.5 Ma)
+Paintbrush Group tuffs (12.8-12.7 Ma)
+Crater Flat Group and Calico Hills Fm. tuffs and lavas (13.5-12.9 Ma)
+Late Proterozoic and Paleozoic sedimentary rocks
+Claim Canyon caldera wall
+Timber Mountain caldera complex wall
+
+Figure 11. Computed paleostress orientations and associated fy values correlated with event 1 normal-slip fault/stress episode. All event 1 paleostress tensors have normal-slip configurations. Solid bars and single diagonal-ruled bar represent o> 3 axes associated with main event and early caldera-related (?) stress perturbation, respectively (see text for details). The § values are indicated by adjacent decimal values. Numbers in italics and parentheses indicate amount, in degrees, that a3 bars have been back-rotated counterclockwise to correct for vertical-axis rotations of event 1 faults (see text for details). See Fig. 3 for description of geologic map units and symbols.
+
+'Event 1" fault-slip data
+
+NM
+
+n=125
+270
+
+-S
+22%
+N Slip Sense
+Figure 12. Equal-area stereographic plot (top diagram) and rose plots of fault-slip data correlated with "event 1" fault/stress episode. See Appendix B and Fig. 5 for explanations of equal-area and rose plots, respectively.
+24
+
+Computational statistics indicate that the solutions are good quality fits to the data. Based on consistent cross-cutting relations observed in the field and mapped fault relations these normal-slip stress tensors are inferred to represent an early stress-fault regime that is referred to as "event 1" (Figs. 11 and 12 and Table 2). Only in domain 8 in the eastern part of the study area is there evidence of an even earlier stress state ~ one that is marked by a distinct southwest-oriented cj3 axis (Fig. 11; see also "pre-1" event in Table 2). There, sinistral strike-slip striae on north-striking faults predate dextral obliqueslip striae on similarly oriented faults (see Appendix D, domain 8). Significantly, early northwest normal-slip stress directions were obtained in two of the three domains located within Timber Mountain (11.7-11.6-Ma) rocks (domains 6 and 10) even though northeast-striking normal faults are less numerous than the more northerly striking oblique-slip faults in those rocks (Fig. 8). In four of the early normal-slip stress solutions from domains in pre-Timber Mountain rocks the cij axes deviate slightly from vertical (as
+much as 25° departure) in roughly the same direction as do the poles to tilted bedding observed in the domains (Appendix D), which suggest that associated normal-slip faults were tilted (i.e., rotated about horizontal axes) together with the adjacent strata. A second, younger, "event 2" stress tensor was computed in 7 of the domains (domains 1, 2, 4, 6, 8, 9, and 10) (Fig. 13; event 2 solutions in Table 2 and Appendix D). Five of these 7 stress solutions have normal-slip configurations and are characterized by relatively low (<0.3) or high (>0.7) § values. Domain 8 also yielded a younger normalslip stress solution, but having a <|> value of 0.64, the stress tensor may have a closer affinity with the older, event 1 tensors (see Appendix D, domain 8, event "2?"). The younger stress tensor from domain 1 in the Tram Ridge area is the only stress solution computed in the study that has a strike-slip configuration (a2 vertical). Computational statistics indicate that all of these solutions are of reasonable quality despite their generally poorer fit to the data as compared to the older stress solutions (Table 2). In comparison to faults associated with the early set of stress tensors, fault-slip geometries compatible with the later tensors are more variable even within individual domains (Fig. 14 and Appendix D). The strike directions of compatible faults typically range from northeast to north (Fig. 14). Normal-oblique slip is the norm, with rake angles commonly
+less than 70° and ranging as low as 0° (Appendix D). Lower-rake faults were also measured in domains 5 and 7, though in too small a number to compute compatible stress solutions (Appendix D). Throughout the study area northeast-striking oblique-slip faults, which commonly represent reactivated normal-slip faults from the earlier stress regime, display sinistral slip components, whereas north-striking faults have dextral slip components, regardless of fault dip direction (Fig. 14). A predominance of low-rake sinistral and lesser dextral strike-slip faults over oblique-slip faults accounts for the anomalous strike-slip stress a3 solution in the western Tram Ridge area (domain 1). The a3 axes associated with the younger stress solutions (Fig. 13) are oriented west-northwest in the western domains and are essentially parallel to the preceding restored (i.e., backrotated) normal-slip stress directions (Fig. 11). In the two easternmost domains (domains 9 and 10), however, the computed a3 axes are oriented west-southwest and are thus quite distinct from the older stress directions there. In contrast to the event 1 stress directions shown in Fig. 11, the younger event 2 stress axis orientations in Fig. 13 are not back rotated due to the inferred small, variable, indeterminate nature of vertical-axis rotations
+25
+
+Event 2: 11.7- ~11.45-Ma paleostress (a3) orientations -- Oblique-slip faulting
+
+116 3730
+
+116 30'
+
+oto\
+
+EXPLANATION
+Surficial and basin-fill deposits
+Volcanic an^ sedimentary rocks filling Timber Mountain caldera Ammonia Tanks Tuff (11.45 Ma)
+Tmr landslide deposits
+f., i j Rainier Mesa Tuff and rhyolite of i-" ^ 5i Fluorspar Canyon (11.7-11.6 Ma)
+Claim Canyon caldera (12.5 Ma) Paintbrush Group tuffs (12.8-12.7 Ma)
+Crater Flat Group and Calico Hills Fm. tuffs and lavas (13.5-12.9 Ma)
+_TX- ~j Late Proterozoic and | f -j Paleozoic sedimentary rocks
+Claim Canyon caldera wall
+Timber Mountain caldera complex wall
+
+Figure 13. Computed paleostress orientations and associated fy values correlated with event 2 oblique-slip fault/stress episode. All paleostress tensors have normal-fault configurations except one indicated by (ss), which has a strike-slip configuration. See Fig. 3 for description of geologic map units and symbols and Fig. 11 for explanation of other features.
+
+"Event 2" fault-slip data
+
+NM
+n = 48 Dextral
+
+29% (27 %)
+
+19% (19 %)
+
+Slip Sense
+
+Figure 14. Composite equal-area stereographic plots (top diagrams) and rose plots of fault-slip data correlated with "event 2" fault/stress episode. Two sets of data plots are shown representing faults with sinistral slip components and faults with dextral components. In rose plots, solid petals represent sinistral slip data and dashed petals indicate dextral slip data. See Appendix B and Fig. 5 for further explanations of equalarea and rose plots, respectively.
+
+27
+
+of compatible faults as suggested by paleomagnetic results and fault-stratigraphic relations (see discussion below for details). Some of the stress configurations of the younger set include at axes that deviate somewhat from vertical in a manner like those of the older stress solutions, suggesting that locally faults continued to be tilted along with the strata during and (or) following fault movement.
+A third distinct normal-slip stress tensor was determined from fault-slip data from each of the two westernmost domains in the Tram Ridge area (domains 1 and 2, Fig. 15). Relative age relations observed in these domains suggest that the stress tensors, which are characterized by southwest a3 directions, represent an even younger stress regime, here referred to as "event 3". Also, domain 7 in the central study area, entirely within the younger Timber Mountain rocks, yielded a single, south-southwest-oriented (a3) normalslip stress tensor that is probably temporally correlative to the youngest Tram Ridge tensors (Fig. 15). Faults associated with this youngest stress regime in all three domains consist mostly of northwest- to west-striking normal faults (Fig. 16). A few such faults were also measured in some of the other domains but in too small a number to compute meaningful stress solutions.
+Paleostress and Fault-Kinematic History
+Older fault/stress regimes - major extensional faulting influenced by caldera magmatism?
+The older, event 1 stress/fault regime determined in this study along the northern margin of Crater Flat was active after emplacement of the 12.7-Ma Tiva Canyon Tuff, the youngest major ash-flow sheet of the Paintbrush magmatic episode (Sawyer and others, 1994). Clear fault-slip evidence of the occurrence of extensional faulting between eruption of the 13.4-Ma Tram Tuff, the oldest unit exposed in the study area, and the Tiva Canyon Tuff is lacking. A comparison of fault-slip data collected in 13.4-12.9-Ma Crater Flat and Calico Hills rocks with those collected in Paintbrush rocks (compare Figs. 6 and 7) does not reveal any major differences in fault-slip patterns even though there are a greater proportion of east-northeast-striking faults in the older rocks.
+Evidence of an earlier distinct, localized, perhaps perturbed, stress state exists in domain 8 located immediately adjacent to the southwest margin of the Paintbrush-related Claim Canyon caldera (Fig. 11). The radial a3 direction of the stress tensor with respect to the caldera, and evidence of tilting of fault blocks in this domain away from the caldera, suggest that the stress state and related faults formed during caldera collapse or resurgence and reflect perturbed stresses localized around the caldera between about 12.7 and 12.5 Ma (Minor, 1995; Fridrich, in press). The timing of the subsequent, more widespread normal-slip stress/fault regime (with west-northwest a3 directions; Fig. 11) is partly constrained by the laterally persistent angular unconformity present at the base of Timber Mountain rocks in northern Crater Flat basin. Significantly greater southeast-to-south tilts in pre-Timber Mountain rocks in central and eastern parts of the study area indicate that much of the northeast-striking normal faulting and coeval stratal tilting that characterize the regime occurred prior to 11.7 Ma. The 1 m.y. period between 12.7 and 11.7 Ma has been identified as a
+28
+
+Event 3: ~11.45(?)-Ma paleostress (a3) orientations ~ Normal faulting 116 37'30"
+
+EXPLANATION
+^QTTs ~~| Sd,euprfoisciitasl and basin-fill
+Yoo>°°l Volcanic and sedimentary rocks 0 ° ^ filling Timber Mountain caldera
+Ammonia Tanks Tuff (11.45 Ma)
+Tmr landslide deposits
+T " ~1| Rainier Mesa Tuff and rhyolite of fl Fluorspar Canyon (11.7-11.6 Ma)
+rfmrv > Windy Wash tuffs and lavas filling r -^ -. r Claim Canyon caldera (12.5 Ma)
+Paintbrush Group tuffs (12.8-12.7 Ma)
+' + '' ' ' ' Crater Flat Group and Calico Hills - ' Fm. tuffs and lavas (13.5-12.9 Ma)
+Late Proterozoic and Paleozoic sedimentary rocks
+
+m mm Claim Canyon caldera wall
+
+MM
+36 52'30"
+
+M Timber Mountain caldera complex wall
+
+Figure 15. Computed paleostress orientations and associated fy values correlated with event 3 normal fault/stress episode. All paleostress tensors have normal-fault configurations. See Fig. 3 for description of geologic map units and symbols and Fig. 11 for explanation of other features.
+
+'Event 3" fault-slip data
+
+NM
+
+270-
+
+-90
+
+-s
+Slip Sense
+Figure 16. Equal-area stereographic plot (top diagram) and rose plots of fault-slip data correlated with "event 3" fault/stress episode. See Appendix B and Fig. 5 for explanations of equal-area and rose plots, respectively.
+30
+
+time of major extensional block faulting and subsidence in Crater Flat basin (Fridrich, in press; Fridrich and others, in press). Nonetheless the faulting regime must have persisted until sometime after 11.6 Ma as evidenced by the presence of older northeast-striking normal faults (see earlier discussion) and gentle southeast tilts in Rainier Mesa Tuff that yield similar west-northwest-oriented stress configurations (domains 6, 9, and 10, Fig. 11 and Appendix D). West-northwest c3 directions are maintained even after adjusting the stress axis orientations for younger (see discussion below) vertical-axis fault rotations (Fig. 12). Regional paleostress c3 orientations determined elsewhere in the southern Great Basin were typically southwest directed in the Miocene until about 9 Ma, at which time they gradually or rapidly rotated to a northwest orientation (Zoback and others, 1981; Minor, 1995). The difference between the early paleostress directions in the study area and other coeval directions in the region may have been due to (1) local stress perturbations due to the effects of caldera magmatism and development, and (or) (2) distinct Miocene stress trajectories and extension directions in the fundamentally strikeslip Walker Lane belt. The early c3 orientations are roughly tangential, or circumferential, with respect to the Claim Canyon caldera (Fig. 11). Circumferential c3 trajectories may have characterized a stress envelope that surrounded the Claim Canyon caldera during its central magmatic resurgence at about 12.5 Ma. Mapped northeaststriking faults that are compatible with the early northwest stress orientations appear to be radial about the caldera, and throw along these faults commonly diminishes towards the caldera margin (Fridrich and others, 1994), corroborating possible caldera stress influence. There is weak indication of a small clockwise shift in the computed c3
+orientations (about 25° change in azimuth) to the east toward the caldera (Fig. 11), which is consistent with increased perturbation of far-field stresses towards the caldera similar to inferred coeval paleostress perturbations northeast of the caldera in the Yucca Flat region (Minor, 1995). North-northwest <73 trajectories persisted for some period of time following the 11.6-Ma initial collapse of the Timber Mountain caldera complex just to the north (see discussion below), so it is plausible that circumferential stresses associated with Timber Mountain magmatism also influenced the stress field (Fig. 11). Cummings (1968) similarly suggested that circumferential c3 trajectories related to the Timber Mountain caldera complex perturbed far-field stresses particularly near the north and south margins of the complex, though his finding was based on a two-dimensional theoretical model.
+The possibility that the anomalous Miocene early stress directions in northern Crater Flat are also associated with the Walker Lane belt is discussed below in the context of the younger fault/stress regimes.
+Younger fault/stress regimes - oblique slip and inclined-axis fault block rotations
+The subsequent normal stress regime was characterized by a markedly different style of fault kinematics even though associated c3 axes in the western domains were nearly parallel to earlier stress orientations there (compare Figs. 11 and 13). The change from predominantly normal-slip faulting to mainly oblique-slip faulting that marked the new regime (compare Figs. 12 and 14) is consistent with initiation of fault block rotations about vertical axes at that time (Scotti and Nur, 1990). Some of the stress tensors
+31
+
+compatible with the oblique-slip faults have relatively low § values which indicate that the orientations of the two horizontal stress axes (i.e., o2 and G3) are not well constrained (Table 2 and Appendix D). Such poorly defined stress orientations could be due to varying amounts of vertical-axis rotation of faults during slip such that the faults collectively do not tightly define the horizontal stress-axis orientations. A few other stress tensors are characterized by high § values (i.e., G} and o2 magnitudes similar) or, in one case, a vertical c2 axis, suggesting that local stress states approached or obtained a strike-slip configuration. This is corroborated by an overall decrease in rake angles on faults compatible with these tensors (Fig. 14). The earlier-mentioned evidence that stratal tilting continued during the oblique-slip faulting suggests that vertical-axis rotations accompanied tilting or, viewed another way, that rotations occurred about inclined axes (eg., Scotti andNur, 1990).
+The paleomagnetic data suggests that as much as 25° of clockwise vertical-axis rotation occurred in the study area following emplacement of the Rainier Mesa Tuff at 11.6 Ma, although negligible rotations detected in this tuffjust west of Tram Ridge imply that any vertical-axis rotation in the westernmost domain(s) happened somewhat earlier (Fig. 10). Paleomagnetic data from the southern part of the basin indicates instead a consistent westward younging of clockwise vertical-axis rotation, with significant rotation occurring after 11.6 Ma but before emplacement of the 11.45-Ma Ammonia Tanks (Fig. 9). Collectively these paleomagnetic constraints suggest that in northern Crater Flat basin oblique-slip faulting, which presumably accommodated the vertical- (or inclined-) axis rotations, peaked around 11.6 Ma, although this episode was somewhat diachronous and not uniformly westward younging. The best-fit o3 directions obtained by inversions of the oblique-slip fault data are probably slightly (<10°) clockwise of their actual paleo-orientations as a consequence of synkinematic clockwise inclined-axis rotations of some of the faults. Nevertheless, there is no accurate way to correct for (i.e., back rotate) such rotations because the faults were likely rotated to different degrees ranging anywhere from 0° to -25° (see also Scott, 1990, p. 265). Stress directions shown in Fig. 13 are not changed appreciably relative to the earlier stress directions in rotated areas (Fig. 11) even if the younger directions are back rotated 10° counterclockwise. Normal-slip faults compatible with the preceeding stress regime presumably predate the vertical-axis rotations such that they were fully rotated with the surrounding rocks during the oblique-slip faulting.
+Continued caldera-magmatic influence?
+Stress trajectories apparently did not change significantly in northwestern Crater Flat basin despite the marked changes in faulting style and, perhaps, relative stress magnitudes (i.e., § values) that characterized the younger oblique-slip stress/fault regime. Similar to the early normal-slip stress regime, the stress trajectories and configurations of the oblique-slip regime may partly reflect a stress envelope that surrounded the Timber Mountain caldera complex around the time of its initial collapse at 11.6 Ma; conceivably by this time any localized stresses related to the 12.7 Ma Claim Canyon caldera had a diminished effect on the ambient stress field. The five western o3 directions are roughly circumferential with respect to the southern margin of this caldera, whereas the directions
+32
+
+of the two easternmost domains are distinctly west-southwest (Fig. 13). The latter two stress orientations may represent, together with the three inferred youngest southwest a3 directions (Fig. 15), greater influence of regional, far-field stresses as caldera magnetism waned. Alternatively, the southwest stress directions and associated faulting could reflect radial cj3 trajectories resulting from collapse of the caldera complex due to eruption of the Rainier Mesa Tuff at 11.6 Ma and (or) Ammonia Tanks Tuff at 11.45 Ma (cf. Minor, 1995). Joint-orientation and fault-slip data from northern Yucca Mountain (~15 km southeast of the easternmost domain; see Fig. 17) indicate that the local normal-slip(?) stress field there rotated about 30° counterclockwise from a west cj3 orientation to a westsouthwest orientation sometime after 12.7 Ma (Throckmorton and Verbeek, 1995; E.R. Verbeek, written commun., 1995). It is possible that this stress change was due to the same mechanism that caused the southwest directional shift of cj3 axes in northern Crater Flat. However, the Yucca Mountain site is roughly twice as distant from the margin of the Timber Mountain caldera complex, so any caldera stress influence there would likely be smaller (Fig. 17).
+Broadly distributed dextral shear and oblique extension
+Caldera-magmatic stress influences do not readily explain the change to dominantly normal-oblique-slip faulting, inclined-axis rotations, and local quasi-strikeslip stress configurations at about 11.6 Ma across much of the Crater Flat basin. The most likely cause for such changes was a pulse or significant increase of broadly distributed dextral shear across the southern Walker Lane belt (Fig. 1), resulting in oblique extension, or transtension, in the Crater Flat basin. Under favorable mechanical and stress conditions broad, regional, deep-seated zones of dextral (or sinistral) shear can be accommodated in the brittle upper crust by distributed block faulting without requiring the development of discrete, through-going strike-slip faults (McKenzie and Jackson, 1983). Typical surface expressions of this style of deformation, as documented in numerous recent field studies in the region, include vertical- or inclined-axis rotations, domains of subparallel oblique-slip "domino" faults with strike slip components opposite that of the overall shear sense, numerous sets of cross-cutting slickenside striae, and broad oroclinal flexures (e.g., Rosenbaum and others, 1991; Hudson and others, in press). Such features characterize the younger fault deformation in the northern part of the basin. The geometry and kinematics of this faulting are also consistent with the oblique rift model of Withjack and Jamison (1986). That this part of the basin was subjected to a regional north-northwest-trending dextral shear couple is indicated by: (1) clockwiserotated fault blocks, (2) sinistral slip components distributed on subparallel northeaststriking faults, (3) localized north-trending zones of dextral oblique slip, (4) fanning strike geometry of fault blocks, and (5) the northwest-trending rotational strain gradient recognized across the entire Crater Flat basin (Figs. 2, 3, 9, 10, and 14; Appendix D) (Withjack and Jamison, 1986; Rosenbaum and others, 1991; Fridrich, in press). Geologic evidence presented by Fridrich (in press) indicates that a majority of the extension occurring in Crater Flat basin took place between 12.7 and 11.6 Ma during the older widespread stress/fault regime detected in this study. The fault-slip and paleomagnetic data presented here provide evidence that significant dextral-oblique extension of the
+33
+
+EXPLANATION
+
+| | QUATtMAtV-KIOeCMi {v-ff:';o| MOCOC-OUOOCM
+
+NOMAL FAULT
+
+(260)
+
+UKXXMC(f) SXMA-3 OMENTATWN (AZIMUTH W PAMMTHOCS)
+
+\'/ '/ \ P«LCOMC-fP01 UOZOC
+
+CiTtCiaCMT FAULT
+
+WMJCd UMC KLT MMCII X*
+
+Figure 17. Regional geologic map (same as Fig. 1) showing regional Miocene (pre9-Ma?) paleostress (a3) orientations determined in this and other studies. Timing constraints for some of the plotted paleostress determinations are poor, and their Miocene age assignment is speculative. Note how G3 axes change abruptly across Walker Lane belt boundary from southwest to northwest orientations. Paleostress orientations are keyed numerically to the following sources: (1) Wright (1977); (2) Scott and Hofland (1987); (3) Anderson and Ekren (1977) and Zoback and others (1981); (4) Frizzell and Zoback (1987); (5) Wernicke and others (1988); (6) Throckmorton and Verbeek (1995); (7) Minor (1995); (8) this study; (9) Hudson (1997); (10) S.A. Minor (unpub. data).
+
+34
+
+basin lagged this major early phase of faulting by as much as 1 m.y. (Fig. 18). Accordingly, Crater Flat basin might best be viewed as a slightly oblique extensional graben that had an increased component of dextral shear imposed on it after much of the basin had formed. Structural evidence indicates that oblique extension accompanied by oblique-slip faulting and, presumably, clockwise rotations has continued within the basin up to the present, although at a greatly reduced rate relative to the Miocene (e.g., O'Neill and others, 1991; Fridrich and others, in press).
+Miocene regional paleostress trajectories
+In contrast to the present study that indicates a prevailing west-northwest a3 direction in the northwestern part of the basin throughout most, if not all, of the basin's history, previous paleostress studies in the northern Yucca Mountain area inferred a west to west-southwest post-12.7 Ma a3 direction (Fig. 17) (Scott and Holland, 1987; Throckmorton and Verbeek, 1995; E.R. Verbeek, written commun., 1995). Studies further east in the Yucca Flat area and in surrounding areas of the Basin and Range province indicate that the Miocene regional a3 direction was west-southwest directed until about 9 Ma (Fig. 17) (Anderson and Ekren, 1977; Zoback and others, 1981; Minor, 1995). In contrast, fault-slip data northwest (S.A. Minor, unpub. data) and southeast (Frizzell and Zoback, 1987; Hudson, 1997) of northern Crater Flat, although preliminary or poorly constrained temporally, are consistent with a west-northwest Miocene (-14-9 Ma ?) a3 direction (Fig. 17). Wernicke and others (1988) determined, based mainly on structural constraints, that since about 15 Ma the average extension direction along the southeasternmost Walker Lane belt (between the Spring Mountains and the Death Valley region) was west-northwest (-295°) (Fig. 17). Similarly, Wright (1977) argued that structural geologic relations in southern Death Valley are compatible with a west-northwest a3 direction there during the Miocene. Together these studies suggest that pre-9-Ma Miocene <J3 trajectories curved from more typical west-southwest Miocene Basin and Range orientations east of Yucca Mountain through roughly west directions at Yucca Mountain to west-northwest orientations west of Yucca Mountain (Figs. 17 and 18). Such a stress pattern is consistent with the view that the Yucca Mountain/Crater Flat area spans a northwest-trending transition zone between the kinematically distinct Basin and Range and Walker Lane tectonic provinces (Fridrich, in press). The caldera complexes and underlying magma reservoirs north of Yucca Mountain likely had some mechanical influence on the positioning, dynamics, and kinematics of this transition zone. Thus, the curving pre-9-Ma stress trajectories spanning Crater Flat basin are best viewed as a composite effect of caldera magmatism, Basin and Range extension, and Walker Lane dextral shear.
+An areally extensive fault-slip inversion study conducted in the Walker Lane by Bellier and Zoback (1995) indicates that in Plio-Quaternary time a3 directions in the belt have remained approximately west-northwest even though they infer that the overall stress configuration has recently changed from normal to strike slip. Thus, the southern part of the fundamentally strike-slip Walker Lane belt likely had a stress history independent from that of the Basin and Range province that was characterized by an irrotational stress field (i.e., constant west-northwest a3 direction) throughout the
+35
+
+12.7 -11.7 Ma: Major normal-slip faulting/extension; caldera formation/stress envelope
+
+11.7 - -11.4 Ma: Oblique-slip faulting/extension; inclined-axis fault-block rotation; caldera formation/stress
+
+Figure 18. Cartoons showing two-stage middle Miocene (12.7-to l 1.4-Ma) fault-kinematic evolution of Crater Flat structural basin as inferred from results of this study. Thick dashed grey lines show a3 trajectories resulting from concurrent caldera formation and from boundary of Walker Lane belt tectonic province. Small round arrows indicate sense of vertical-axis rotations of fault blocks, small straight arrows show strike components of fault slip, and large grey arrows indicate broad dextral shear associated with the Walker Lane belt. Thin dashed lines represent edge of Crater Flat physiographic basin. TMCC = Timber Mountain caldera complex; CCC = Claim Canyon caldera; BM = Bare Mountain; CF = Crater Flat; TR = Tram Ridge; YM = Yucca Mountain.
+
+Neogene and Quaternary. One implication is that the younger northern Crater Flat stress tensors with southwest a3 directions likely represent late caldera-induced stress perturbations rather than far-field tectonic stress. Another implication is that the change in fault kinematics at about 11.6 Ma in Crater Flat basin was probably not due to a change in orientation of regional principal stress axes, although changes in the relative magnitudes of the regional principal stress axes (i.e., changes in § value) are not precluded (e.g., Scotti andNur, 1990).
+Evidence for late fault reactivation
+There is evidence in northern Crater Flat basin that some of the northeast-striking faults were reactivated with dip-slip normal movement sometime after significant oblique-slip faulting and, presumably, inclined-axis block rotations had occurred. A few observations were made along such faults of dip-slip slickenside striae that overprint lowor moderate-rake striae. Given the present state of stress in the Yucca Mountain area (c^ vertical, 295° cr3 azimuth, Stock and others, 1985) and evidence for recent normal faulting in the area along trends perpendicular to this azimuth (Fig. 3; Simonds and others, 1995), it is conceivable that some of this late fault movement occurred as late as the Quaternary.
+Conclusions
+Fault-slip measurements were made in northern Crater Flat basin and paleomagnetic data were acquired from throughout the basin to provide fault kinematic and timing contraints and to determine paleostress conditions bearing on the Neogene tectonic evolution of the Crater Flat structural domain. The following conclusions are drawn from this study: 4 Three principal Miocene faulting episodes are recognized in the northern part of the
+basin (timing indicated in parentheses): (1) formation of closely spaced, normal-slip, northeast-striking faults accompanied by mostly southeastward stratal tilting, contributing to major extensional development of Crater Flat basin (12.7-11.6 Ma); (2) sinistral-normal oblique-slip reactivation of northeast-striking faults and concurrent formation of cross-cutting, dextral-normal oblique-slip, north-striking, down-to-the-west faults accompanied by clockwise, inclined-axis fault-block rotations of as much as 25° (11.7 11.45 Ma); (3) normal and oblique slip along mostly newer northwest-striking faults (~11.45 Ma?).
+4 Paleostress analysis of the fault-slip data indicate that during most of the Miocene fault deformation a normal-fault stress field (i.e., al vertical) marked by fixed, westnorthwest oriented a3 stress trajectories prevailed in the northern part of the basin. Only the relative magnitudes of the principal stresses (i.e., (|) values) changed during the oblique-slip fault episode, which partly reflected local domains of increased strike-slip faulting. The a3 trajectories locally and intermittently shifted into radial, circumferential, or intermediate orientations with respect to the adjacent Claim Canyon and Timber Mountain caldera complexes, most likely due to the transient effects of stress envelopes surrounding the calderas during their development.
+37
+
++ Paleomagnetic data generally indicate southwest-increasing and -younging clockwise vertical-axis rotations of fault blocks across the Crater Flat basin domain beginning between about 11.6 and 11.45 Ma. These rotations define a north-northwest-trending rotational strain gradient that spans the length of the basin and that presumably defines the trend of a causative dextral shear couple.
++ Pronounced dextral oblique extension of the Crater Flat domain commenced after as much as 1 m.y. of major extension of the basin had already occurred. This superposition of strong dextral shear across the extensional basin was probably related to an abrupt increase in dextral shear strain along the southeastern Walker Lane belt.
++ Paleostress and structural analyses from the present study and from other studies in the region suggest that pre-9-Ma regional G3 trajectories curved sharply from westsouthwest orientations to west-northwest orientations along the transition zone between the Basin and Range and Walker Lane tectonic provinces. The Miocene calderas along the north boundary of the Crater Flat structural domain may have acted as a stress guide that confined the margin of the Walker Lane belt in the Miocene and influenced the curving of stress trajectories across the Crater Flat domain.
+Acknowledgments
+This study benefited from discussions with D. O'Leary, P.P. Orkild, and S. Schilling. The excellent logistical support of J. Magner and R. Martin at the USGS Core Library in Mercury, Nevada is greatly appreciated. D. O'Leary deserves special acknowledgment for his efforts in arranging and managing this research within the USGS Yucca Mountain project and for his unwavering support and encouragement for this study. This work was funded by the U.S. Department of Energy Yucca Mountain Project under Interagency Agreement DE-AI08-92NV10874.
+References Cited
+Anderson, R.E., and Ekren, E.B., 1977, Late Cenozoic fault patterns and stress fields in the Great Basin and westward displacement of the Sierra Nevada block: Comment and reply: Geology, v. 5, p. 388-392.
+Angelier, Jacques, 1984, Tectonic analysis of fault slip data sets: Journal of Geophysical Research, v. 89, no. B7, p. 5835-5848.
+___1990, Inversion of field data in fault tectonics to obtain the regional stress~III. A new rapid direct inversion method by analytical means: Geophysical Journal International, v. 103, no. 2, p. 363-376.
+Angelier, Jacques, Colletta, B., and Anderson, R.E., 1985, Neogene paleostress changes in the Basin and Range: A case study at Hoover Dam, Nevada-Arizona: Geological Society of America Bulletin, v. 96, p. 347-361.
+38
+
+Bellier, O., and Zoback, M.L., 1995, Recent state of stress change in the Walker Lane zone, western Basin and Range province, United States: Tectonics, v. 14, n. 3, p. 564-593.
+Carr, W. J., 1984, Regional structural setting of Yucca Mountain, southwestern Nevada, and late Cenozoic rates of tectonic activity in part of the southwestern Great Basin, Nevada and California: U.S. Geological Survey Open-File Report 84-854, 109pp.
+Cummings, D., 1968, Mechanical analysis of the effect of the Timber Mountain caldera on Basin and Range faults: Journal of Geophysical Research, v. 73, p. 27872794.
+Demarest, H.H., 1983, Error analysis for the determination of tectonic rotation from paleomagnetic data: Journal of Geophysical Research, v. 88, p. 4321-4328.
+Fisher, R.A., 1953, Dispersion on a sphere: Royal Society of London Proceedings, v. A217. p. 295-305.
+Fridrich, C.J., in press, Tectonic evolution of the Crater Flat basin, Yucca Mountain region, Nevada: in Wright, L., and Troxell, B., eds., Cenozoic basins of the Death Valley region, Geological Society of America Special Paper.
+Fridrich, C.J., Orkild, P.P., Murray, M., and Scott, R.B., 1994, Preliminary geologic map of the East of Beatty Mountain quadrangle, Nye county, Nevada: U.S. Geological Survey Open-File Report 94-530, 1:12,000 scale, 5 sheets.
+Fridrich, C.J., Whitney, J.W., Hudson, M.R., and Crowe, B.M., in press, Late Cenozoic extension, vertical-axis rotation, and volcanism in the Crater Flat basin, southwest Nevada: in Wright, L., and Troxell, B., eds., Cenozoic basins of the Death Valley region, Geological Society of America Special Paper.
+Frizzell, V.A., and Zoback, M.L., 1987, Stress orientation determined from fault-slip data in Hampel Wash area, Nevada, and its relation to contemporary regional stress field: Tectonics, v. 6, n. 2, p. 89-98.
+Hudson, M.R., 1992, Paleomagnetic data bearing on the origin of arcuate structures in the French Peak-Massachusetts Mountain area of southern Nevada: Geological Society of America Bulletin, v. 104, p. 581-594.
+Hudson, M.R., 1997, Structural geology of the French Peak accommodation zone, Nevada Test Site, southwestern Nevada: U.S. Geological Survey Open-File Report 97-56, 28 p., 1 plate.
+Hudson, M.R., Minor, S.A., and Fridrich, C.J., 1996, The distribution, timing, and character of steep-axis rotations in a broad zone of dextral shear in southwestern Nevada [abs.]: Geological Society of America Abstracts with Programs, v. 28, no. 7, p. 451.
+Hudson, M.R., Rosenbaum, J.G., Gromme, C. S., Scott, R.B., and Rowley, P., in press, Paleomagnetic evidence for counterclockwise rotation in a broad sinistral shear zone, Basin and Range province, southeast Nevada and southwest Utah: Geological Society of America Special Paper
+Hudson, M.R., Sawyer, D.A., and Warren, R.G., 1994, Paleomagnetism and rotation constraints for the middle Miocene southwestern Nevada volcanic field: Tectonics, v. 13, p. 258-277.
+39
+
+King, G., and Janssen, B., 1994, Tectonic modeling of Yucca Mountain: U.S. Geological Survey Technical Report, 24 p.
+Kirschvink, J.L., 1980, The least-squares line and plane and analysis of paleomagnetic data: Geophysical Journal of the Royal Astronomical Society, v. 62, p. 699-718.
+McKenzie, D.P., and Jackson, J.A., 1983, The relationship between strain rates, crustal thickening, paleomagnetism, finite strain, and fault movements in a deforming zone: Earth and Planetary Science Letters, v. 65, p. 185-202.
+Minor, S.A., 1995, Superposed local and regional paleostresses: fault-slip analysis of Neogene extensional faulting near coeval caldera complexes, Yucca Flat, Nevada: Journal of Geophysical Research, v. 100, n. B6, p. 10,507-10,528.
+O'Neill, J.M., Whitney, J.W., and Hudson, M.R., 1991, Photogeologic and kinematic analysis of lineaments at Yucca Mountain, Nevada: Implications for strike-slip faulting and oroclinal bending: U.S. Geological Survey Open-File Report 91-623, 24 p.
+Petit, J.P., 1987, Criteria for the sense of movement on fault surfaces in brittle rocks: Journal of Structural Geology, v. 9, nos. 5/6, p. 597-608.
+Pollard, D.D., Saltzer, S.D., and Rubin, A.M., 1993, Stress inversion methods: Are they based on faulty assumptions?: Journal of Structural Geology, v. 15, no. 8, p. 1045-1054.
+Rosenbaum, J.G., 1986, Paleomagnetic directional dispersion produced by plastic deformation in a thick Miocene welded tuff, southern Nevada: Journal of Geophysical Research, v. 91, p. 12817-12834.
+Rosenbaum, J.G., Hudson, M.R., and Scott, R.B., 1991, Paleomagnetic constraints on the geometry and timing of deformation at Yucca Mountain, Nevada: Journal of Geophysical Research, v. 96, p. 1963-1979.
+Sawyer, D.A., Fleck, R.J., Lanphere, M.A., Warren, R.G., Broxton, D.E., and Hudson, M.R., 1994, Episodic caldera volcanism in the Miocene southwest Nevada volcanic field: revised stratigraphic framework, 40Ar/39Ar geochronology, and the relationship of magmatism and extension: Geological Society of America Bulletin, v. 106, p. 1304-1318.
+Sawyer, D.A., Wahl, R.R., Cole, J.C., Minor, S.A., Laczniak, R.J., Warren, R.G., Engle, C.M., and Vega, R.G., 1995, Preliminary digital geologic map of the Nevada Test Site area, Nevada: U.S. Geological Survey Open-File Report 95-0567, scale 1:100,000.
+Scott, R.B., 1990, Tectonic setting of Yucca Mountain, southwest Nevada, in Basin and Range Extensional Tectonics Near the Latitude of Las Vegas, Nevada, edited by B. P. Wernicke, Geological Society of America Memoir 176, p. 251-282.
+Scott, R.B., and Hofland, G.S., 1987, Fault-slip analysis of Yucca Mountain, Nevada [abs]: EOS, v. 68, n. 44, p. 1461.
+Scotti, O., and Nur, A., 1990, 3D block rotation applied to the Western Transverse Ranges, California: Annales Tectonicae, v. IV, n. 2, p. 7-23.
+Simonds, F.W., Whitney, J.W., Fox, K.F., Ramelli, A.R., Yount, J.C., Carr, M.D., Menges, C.M., Dickerson, R.P., and Scott, R.B., 1995, Map showing fault activity in the Yucca Mountain area, Nye County, Nevada: U.S. Geological Survey Map I2520, scale 1:24,000.
+40
+
+Stock, J.M., Healy, J.H., Hickman, S.H., and Zoback, M.D., 1985, Hydraulic fracturing stress measurements at Yucca Mountain, Nevada, and relationship to the regional stress field: Journal of Geophysical Research, v. 90, n. BIO, p. 8691-8706.
+Throckmorton, C.K., and Verbeek, E.R., 1995, Joint networks in the Tiva Canyon and Topopah Spring Tuffs of the Paintbrush Group, southwestern Nevada: U.S. Geological Survey Open-File Report 95-002, 182 p.
+Wernicke, B., Axen, G.J., and Snow, J.K., 1988, Basin and Range extensional tectonics at the latitude of Las Vegas, Nevada: Geological Society of America Bulletin, v. 100,p.l738-1757.
+Withjack, M.O., and Jamison, W.R., 1986, Deformation produced by oblique rifting: Tectonophysics, v. 126, p. 99-124.
+Wright, L., 1977, Late Cenozoic fault patterns and stress fields in the Great Basin and westward displacement of the Sierra Nevada block: Comment and reply: Geology, v. 5, p. 390-392
+Zoback, M.L., 1989, State of stress and modern deformation of the northern Basin and Range Province: Journal of Geophysical Research, v. 94, no. B6, p. 7105-7128.
+Zoback, M.L., Anderson, R.E., and Thompson, G.A., 1981, Cainozoic evolution of the state of stress and style of tectonism of the Basin and Range province of the western United States: Philosophical Transactions of the Royal Society of London A., v. 300, p. 407-434.
+41
+
+Appendix A
+
+Fault-Slip Data
+
+The composite list of northern Crater Flat fault-slip data presented in this section was generated using the data entry program MEASURE created by Angelier (1984). This program puts the data in a format that can be read by Angelier's (1984, 1990) fault-slip inversion programs for determining best-fit stress tensors. The data are listed in stratigraphic order based on the youngest faulted stratigraphic rock unit within each measurement site. Data from sites in the stratigraphically youngest rock unit in the study area (Tmr) are listed first, followed by data from progressively older units. Each site is designated by three letters, the first two of which correspond to the second and third letters of the youngest rock unit's map symbol as shown on the geologic maps of Fridrich and others (1994, in prep.). The third letter of each site designation, which increases alphabetically with recency of establishment, serves to distinguish individual sites having the same first two letter designations. For example, in both site "MRA" and site "MRB" rock unit Tmr is the youngest faulted stratigraphic unit, but faults in site MRA were measured before those in site MRB. Details of the data format are illustrated in Fig. Al using as an example a representative interval of data excerpted from the composite data listing. The data index and slip-sense codes used in the listing are defined in Table Al.
+
+Table Al. Data index and slip-sense code definitions
+
+Data Slip-sense
+
+index
+
+code
+
+Definition
+
+code rake>45 <45
+
+11 CN CS definitely normal-sinistral slip
+
+21 PN PS probably normal-sinistral slip
+
+31 SN SS possibly normal-sinistral slip
+
+12 CN CD definitely normal-dextral slip
+
+22 PN PD probably normal-dextral slip
+
+32 SN SD possibly normal-dextral slip
+
+13 CI CD definitely reverse-dextral slip
+
+23 PI PD probably reverse-dextral slip
+
+33 SI SD possibly reverse-dextral slip
+
+14 CI CS definitely reverse-sinistral slip
+
+24 PI PS probably reverse-sinistral slip
+
+34 SI SS possibly reverse-sinistral slip
+
+67 JN
+
+bedding measurement
+
+Numbers corresponding to relative slip ages increase with youthfulness, with 1 representing the oldest measured slip event. The relative age determinations are rated in terms of their relative degree of certainty, with a rating of 1 corresponding to the highest certainty. Multiple slip measurements taken on the same fault plane are assigned the same measurement number for ease of identification in the data listing. Each of these measurements are treated as independant datums, however, for the purposes of fault-slip analysis.
+
+A-l H2-
+
+All comments in ITALICS .
+
+f f
+
+Site header line \ I
+
+IXf
+
+Daattaaccoolllleeccttoorr^_ °o2lsc2O0T5T95A 1M2 INOR 0
+
+I Y r?
+0 14 2 8
+
+' CRD
+
+Site location oiNE/4 EAST OF BEATTY MTN. 7.5' QUAD. (SOUTHWEST CORNER)
+
+Faulted rock unitfs)- 01Tct (FW) / Tcrt (HW)
+
+c^,^»,,^» *~fH,,r,^£lMAPPED NX-STRIKING FAULT JUST SOUTHWEST OF CLAIM CYN. CALDERA MARGIN
+
+Structural setting^} 132 371 10110101012
+
+0 OOFINE, PROM. OLD SLK7PS 58 77N 10WCRD
+
+Site data lines 2132877 78110101022
+
+0 OOYOUNG LOC.XC SLKS7VN 58 77N 78WCRD
+
+End of site line -^ Q Q ********************************** * * ** i- ********************** PR rj
+
+New site
+I
+
+02260795 16
+
+0
+
+0 14 2 8
+
+CRE
+
+01 SCOTT A. MINOR
+
+01NW/4 EAST OF BEATTY MTN. 7.5' QUAD. (CENTRAL PART)
+
+OlTcrt/Tcrl
+
+10-11-A-R8-E0-A6-0-O-7F-5N-1U1-0M-1-E0R-1O-4U-0S1
+
+MAPPED 0
+
+COROSMSACPUPTETDIN;SGLKNV- EARNYDWEKC-SNTR~I~5K~0IN6"G0~EFA-7U-5-NLCTRSE
+
+3111570 50110101001
+
+0 QQMERGES W/(HW) 1 SN 25 70E 50NCRE
+
+21 8563 54110101001
+
+0 OOMERGES WY(FW) 1 PN 355 63E 54NCRE
+
+1133068 65110101012 11034 OOPROM.GRV/SLK; RIB CN 60 68N 65WCRE
+
+OOffOUNGER?LOC.XC SLKiPN 60i 68N| 85W|CRE|
+
+Comments.
+
+Reforma tted data
+
+Initial data entry
+
+Figure Al. Sample of formatted data extracted from northern Crater Flat fault-slip data set. Annotations in bold italics explain various aspects of data format used in listing that follows. Note that all site header lines, site information lines (i.e., lines beginning with 01), and comments within the site data lines are in regular italics.
+
+Northern Crater Flat composite data set:
+
+02110395 5
+
+0
+
+0 14 2 8
+
+MRA
+
+01 SCOTT A. MINOR
+
+01NW/4 EAST OF BEATTY MTN. 7.5' QUAD (SOUTHERN PART) ; AT "SPICER" QUARRY
+
+OlTmr
+
+01NE-STRIKING FAULT CUTTING Tmr
+
+2111878 66110101001
+
+0 OOANTITHET.TO MAPFLTPN 28 78E 66NMRA
+
+1
+
+1130272 80110101001
+
+0 OOMftPPED FAULT
+
+CN 32 72W 80SMRA
+
+2
+
+02300455 9
+
+0 14 2 8
+
+MRB
+
+01 SCOTT A. MINOR
+
+01NW/4 EAST OF BEATTY MTN. 7.5' QUAD (SOUTHCENTRAL PART)
+
+OlTpc(FW) / Tmrf(HW)
+
+01MAPPED NE-STRIKING FAULT
+
+1132654 76110101401
+
+0 OOWK SLK;FW SCARP CN 56 54N 76WMRB
+
+6715055 011414 001
+
+0 OOAV.Tpc FOL. (MAP) JN 60 55S 0 MRB
+
+A-2 ¥3
+
+02300495 9
+
+0
+
+0 14 2 8
+
+MRC
+
+01SCOTT A. MINOR
+
+01NW/4 EAST OF BEATTY MTN. 7.5' QUAD. (EAST-CENTRAL PART)
+
+OlTmrf(HW) / Tpt(FW)
+
+01MAPPED NORTH-STRIKING FAULT ZONE (DOWN-TO-W)
+
+12 8974117110101001
+
+0 OOBX FW BLK.5M FROM2CN 359 74E 63SMRC
+
+1
+
+22 8880135110101011
+
+0 OOMAP FLT;FEOX;OLDERPD 358 80E 45SMRC
+
+2
+
+22 8880105110101021
+
+10 OOYOUNGER XC SLKS PN 358 80E 75SMRC
+
+2
+
+01-5-M-WIDE BX ZONE IN FOOTWALL BLOCK; FAULT 3 TRUNCATES 2 BUT IS TRUN-
+
+01CATED BY 1, WHICH BECOMES MAIN FAULT TO S. THUS FAULTS 1,2,3 SYNKINEMA
+
+1134280 55110101001
+
+0 00 FEOX
+
+CN 72 SON 55WMRC
+
+2134884 40110101011
+
+0 00 OLD;FW,MERGES W/2?PS 78 84N 40WMRC
+
+3134884 66110101021
+
+0 OOYOUNGER XCSLK;FEOXSN 78 84N 66WMRC
+
+32 7978121110101001
+
+0 OOHANGING-WALL FAULTS^ 349 78E 59SMRC
+
+2310084203110101001
+
+0 OOMAINZNE;SYNSIO2/FEPD 10 84E 23NMRC
+
+3228440100110101412
+
+0 00 EN ECH SEG?;BXTRNSSN 14 40W 80NMRC
+
+3328440214110101022
+
+0 OOYOUNGER LOC.XCSLKSSD 14 40W 34SMRC
+
+6717316 011010 001
+
+0 QQFW (Tpt) FOLIATIONJN 83 16S 0 MRC
+
+6714025 011414 001
+
+0 OOEST.HW(Tmr)BED(MAPJN 50 25S 0 MRC
+
+02300495 10
+
+0
+
+01 SCOTT A. MINOR
+
+0 14 2 8
+
+MRD
+
+01NW/4 EAST OF BEATTY MTN. 7. 5' QUAD. (SOUTHEASTERN PART)
+
+OlTmr(HW) / Tpy(FW) (N-STRIKING FAULT ZONE ONLY) DIN-STRIKING "MRC" FAULT ZONE AND NE-STRIKING, INTRA-Tmr MAPPED FAULT
+
+1227151130110101401
+
+0 OOMAIN ZNE (FW) WK SLKCN
+
+51W 50NMRD
+
+1227250110110101401
+
+0 OOVERY WK SLK-MULLONCN
+
+01FAULTS 1 AND 2 FORM BX FOOTWALL SCARPS
+
+SOW 70NMRD
+
+1414580295110101001
+
+0 00 INTRA-Tmr;WK SLKS CI 55 SOS 65WMRD
+
+6714025 011414 001
+
+0 OOEST(MAP)TmrSITEFOLJN 50 25S 0 MRD
+
+00********************************************************** *MRD
+
+02 10595 11
+
+0
+
+01 SCOTT A. MINOR
+
+0 14 2 8
+
+MRE
+
+01NW/4 EAST OF BEATTY MTN 7.5' QUAD (SE CORNER/EXTENDS INTO SW/4 OF QUAD OlTmr(HW) / Tpy(FW) 01MAPPED ZONE OF N-STRIKING (EN ECHELON?) FAULTS DROPPING Tmr DOWN-TO-W
+
+1229248 96110101001
+
+0 OOSYNTHET(FW)SIO2FEOCN 22 48W 84NMRE
+
+1227338153110101011
+
+0 OOMAPFLT/OLD GROOVESCD 3 38W 27NMRE
+
+2227338105110101021
+
+0 00 YOUNG XCSLK;SIO2FEPN 3 38W 75NMRE
+
+1224933138110101022
+
+0 OOTRUNCATES FLT 5 CD 339 33W 302MRE
+
+3226959142110101022 21 3069 46110101011
+
+0 OOMERGES W/,RM-SHR?3SD 359 59W 38NMRE
+
+0 OOCUT BY FLT 3
+
+PN 300 69N 46NMRE
+
+2226925 98110101401 1010 00SLKS VERY WEAK PN 359 25W 278MRE 01FAULTS 7-10 IN HANGING WALL OF MAIN MAPPED FAULT (SYNTHET./ANTITHETIC?
+
+1111676 78110101001 1022 00
+
+CN 26 76E 78NMRE
+
+1110870 78110101001 307 00
+
+CN 18 70E 78NMRE
+
+0IN-STRIKING FAULTS (SIMILAR TO FLTS. 9, 10) APPEAR TO CUT NE-STRIKING
+
+01FAULTS (SIMILAR TO FLTS. 7 AND 8) .
+
+1126982 86110101001 1227560111110101001 3228960121110101001 1128946 70110101401 6716525 011010 001 6714465 011010 001 6720020 011010 001
+
+1002 0 0 0 0 0 0
+
+00SLKS WEAK
+
+CN 359 82W 86SMRE
+
+00 CN 5 60W 69NMRE
+
+00LEFT-STEP EN-ECHLNSN 19 60W 59NMRE
+
+OOVERY WKSLK;FW SCRPCN 19 46W 70SMRE
+
+00FOLIATION FLTS 1,2JN 75 25S 0 MRE
+
+OOBED FLTS 3-6(ANOM?JN 54 65S 0 MRE
+
+OOBEDDING FLTS. 7-10JN 290 2OS 0 MRE
+
+9 10 11 12 13 14 15
+
+A-3
+
+6728031 011010 001
+
+0 OOBED? FLTS 11,12 JN 10 31W 0 MRE
+
+16
+
+02 20595 12
+
+0
+
+0 14 2 8
+
+MRF
+
+01 SCOTT A. MINOR
+
+01NW/4 EAST OF BEATTY MTN. 7.5' QUAD. (SE CORNER)
+
+OlTpc(FW) / Tmrf(HW)
+
+01MAPPED N- STRIKING, DOWN-TO-WEST FAULT
+
+1228370136110101001
+
+0 OOFOOTWALL SCARP
+
+CD 13 70W 44NMRF
+
+6722425 011010 001
+
+0 OOTmrf BEDDING
+
+JN 314 25S 0 MRF
+
+02 30595 13
+
+0
+
+0 14 2 8
+
+MRG
+
+01 SCOTT A. MINOR
+
+01SW/4 EAST OF BEATTY MTN. 7.5' QUAD. (NE CORNER)
+
+OlTmr(HW) / Tpy/Tpt(FW)
+
+01MAPPED N-STRIKING FAULT (SAME FAULT AS ACA-2 AND PYF-1)
+
+1226986120110101011
+
+0 OOWK. LOG. SLK;FW SCRPCN 359 86W 60NMRG
+
+2226986105110101021
+
+0 OOYOUNGER WK XC SLKSPN 359 86W 75NMRG
+
+01FAULT 1 HAS FEOX STAINS AND POST-SLIP CALICHE
+
+6714015 011414 001
+
+0 OOTmr EST. BED (MAP)JN 50 15S 0 MRG
+
+02 40595 14
+
+0
+
+0 14 2 8
+
+MRH
+
+01SCOTT A. MINOR
+
+01SW/4 EAST OF BEATTY MTN. 7.5' QUAD. (NORTHERN MARGIN)
+
+OlTmr/Tmrf
+
+01ISOLATED UNMAPPED MESOSCALE FAULT NEAR MAPPED NE-STRIKING FLTS IN Tmr
+
+1132065 73110101001 732 00
+
+CN 50 65N 73WMRH
+
+1
+
+67 50 9 011010 001
+
+0 OOSITE BEDDING
+
+JN 320 9E 0 MRH
+
+2
+
+02 40595 14
+
+0
+
+0 14 2 8
+
+MRI
+
+01SCOTT A. MINOR
+
+01SW/4 EAST OF BEATTY MTN. 7.5' QUAD. (NORTHEASTERN PART)
+
+OlTmrf
+
+01UNMAPPED, 5-M-WIDE, NE-STRIKING FAULT ZONE
+
+3216680116110101401
+
+0 OOSLKS WK;FEOX
+
+SN 76 803 64WMRI
+
+2215565 99110101401
+
+0 OOSLKS WEAK; FEOX PN 65 65S 81WMRI
+
+2216234101110101001
+
+OOFEOX
+
+PN 72 343 355MRI
+
+3120859 75110101011
+
+OOOLDER
+
+SN 298 59S 75EMRI
+
+3120859 89110101021
+
+OOYOUNGER XC SLKS SN 298 59S 90*MRI
+
+3216867108110101001
+
+OOFEOX
+
+SN 78 673 72WMRI
+
+67130 5 011414 001
+
+OOSITE BED EST. (MAP)JN 40 5E 0 MRI
+
+02 40595 14
+
+0
+
+0 14 2 8
+
+MRJ
+
+01 SCOTT A. MINOR
+
+01SE/4 EAST OF BEATTY MTN. 7.5' QUAD. (NORTHWESTERN PART)
+
+OlTmr (HW) /Tpy (FW)
+
+01MAPPED N-STRIKING FAULT
+
+1226680136110101401
+
+0 OOSLKS WK;BX FW SCRPCD 356 SOW 44NMRJ
+
+02250795 15
+
+0
+
+0 14 2 8
+
+MRK
+
+01 SCOTT A. MINOR
+
+01SE/4 EAST OF BEATTY MTN. 7.5' QUAD. (CENTRAL PART)
+
+OlTmrf
+
+01UNMAPPED MESOSCALE FAULTS
+
+2210557115110101001
+
+0 00
+
+PN 15 57E 65SMRK
+
+22 7275105114141011
+
+0 OOOFFSET BY4IREGSURFPN 342 75E 75SMRK
+
+A-4
+
+2213760100110101411 1216767103110101021 67 89 1 011010 001
+
+0 OOTRUNC.BY4;SLKSWKCcPN 47 60S 80WMRK 44 OOYOUNGERTHAN(XC)2,3CN 77 67S 77WMRK
+0 00 HORIZONTAL SITEBEDJN 359 IE 0 MRK
+
+02250795 15
+
+0
+
+0 14 2 8
+
+MRL
+
+01 SCOTT A. MINOR
+
+01SE/4 EAST OF BEATTY MTN. 7.5' QUAD. (AT LARGE HORSESHOE BEND-"HANK CYN
+
+OlTmr (f)
+
+01MAPPED LARGE N-STRIKING FAULT JUXTAPOSING Tmr/Tpc (MOST MEASURED
+
+01FAULTS ARE MESOSCALE FAULTS IN HANGING-WALL BLOCK
+
+01 FAULTS 1 TO 7 SPAN -50-M-WIDE ZONE OF FAULTING IN HANGING-WALL BLK OF8
+
+1110089 69110101001 3213 00
+
+CN 10 89E 69NMRL
+
+1110078 75110101011 518 OOOLDER
+
+CN 10 78E 75NMRL
+
+2310078193110101021
+
+0 00 YOUNGER,LOC.XC SLKPD 10 78E 13NMRL
+
+13 5032261114101001
+
+0 OOADJAC./SYNKIN7WRT2CI 320 32E 39MRL
+
+1227970101110101001 1324 00
+
+CN 9 70W 79NMRL
+
+1419774282110101001 409 00
+
+CI 287 74S 78WMRL
+
+1227172112110101001 4314 00
+
+CN 1 72W 68NMRL
+
+1228274107110101001 314 00
+
+CN 12 74W 73NMRL
+
+12 8954 95110101001
+
+0 OOMAPPEDFLT;BXGRVSLKCN 359 54E 85SMRL
+
+01BRECCIATED FOOTWALL (Tpc) -10 M WIDE
+
+67220 8 011010 001
+
+0 OOSITE (HW) BEDDING JN 310 8S 0 MRL
+
+02250795 15
+
+0
+
+0 14 2 8
+
+MRM
+
+01 SCOTT A. MINOR
+
+01SE/4 EAST OF BEATTY MTN 7.5' QUAD. (NORTHEASTERN PART)
+
+OlTmr (HW) /Tmwl (FW)
+
+01MAPPED N-STRIKING FAULT ABOUT 0.5 KM INBOARD OF CLAIM CYN CALD. MARGIN
+
+1411075303114141401 1073 0 0 SLKS WK;IRREG.SURFC I 20 75E 57SMRM
+
+1
+
+1129383 54110101001 1236 OOSLKS WK,GOODNEARBYCN 23 83W 54SMRM
+
+2
+
+1128888 57110101001 238 00
+
+CN 18 88W 57SMRM
+
+3
+
+1412383280110101401 5077 OOSLKS WK.
+
+CI 33 83E 80SMRM
+
+4
+
+1413274299110101001 1143 OOMERGES W/ FAULT 4 CI 42 74E 61SMRM
+
+5
+
+6730519 011010 001
+
+0 OOTmrf SITE BEDDING JN 35 19W 0 MRM
+
+6
+
+01ALL MEASURED MRM FAULTS IN HANGING-WALL BLOCK OF MMAAPPPED FAULT.
+
+02280995 20
+
+0
+
+0 14 2 8
+
+MRN
+
+01 SCOTT A MINOR
+
+01SE/4 EAST OF BEATTY MTN. 7.5' QUAD.; EAST-CENTRAL PART
+
+OlTmr (HW) / Tp TUFFS (FW)
+
+01LARGE NE-STRIKING "GROWTH" FAULT (MAPPED) ORIGINAL CCC MARGIN-FRIDRICH
+
+2131062 84110101001
+
+0 OOBX ZNE;LITH.TRNS PN 40 62W 84SMRN
+
+1
+
+01FAULT 1 FORMS LARGE MULLIONS; IN FOOTWALL OF MAIN MAP FAULT
+
+1130555 89110101011
+
+0 OOOLDER PROM.SLKS CN 35 55W 90*MRN
+
+2
+
+1130555 57110101021
+
+0 00YOUNGER,FINE XCSLKCN 35 55W 57SMRN
+
+2
+
+01FAULT 2 FOOTWALL SCARP OF MAIN FLT;FAULTS 3-6 IN HANGWALL BLOCK (Tmrf)
+
+13 8067257110101001 205 00
+
+CI 350 67E 77NMRN
+
+3
+
+1126571 88110101001 2001 00
+
+CN 355 71W 88SMRN
+
+4
+
+1226562102110101001 3067 00
+
+CN 355 62W 78NMRN
+
+5
+
+13 6569269110101001 100 00
+
+CI 335 69E 89NMRN
+
+6
+
+1130562 87110101013
+
+0 OOFIV MAPFLT;1M BX ZNCN 35 62W 87SMRN
+
+7
+
+2129068 3110101423
+
+0 OOHW BLK OF 7;WK SLKPS 20 68W 3SMRN
+
+8
+
+1132065 79110101001
+
+0 OOFW SCARP OF MAPFLTCN 50 65N 79WMRN
+
+9
+
+6730030 011010 001
+
+0 OOMR FOL./FLT 2
+
+JN 30 30W 0 MRN
+
+10
+
+6726518 011010 001
+
+0 OOTmrf BED/FLTS 3-6 JN 355 18W 0 MRN
+
+11
+
+A-5
+
+67 8527 011010 001
+
+0 OOTpy FOL.FLT 7 FW JN 355 27E 0 MRN
+
+12
+
+02290495 8
+
+0
+
+0 14 2 8
+
+MWA
+
+01 SCOTT A. MINOR
+
+01ADJACENT TO SITE PYC
+
+OlTpy (FW) / Tmwt (HW)
+
+01MAPPED ENE-STRIKING FAULT
+
+1232046100110101001
+
+0 OOTRUNCS.PCK2 f PYC2 CN 50 46N 80EMWA
+
+01FAULT 1 CONTAINS POST-SLIP SIO2.
+
+1
+
+02 10595 11
+
+0
+
+0 14 2 8
+
+MWB
+
+01 SCOTT A. MINOR
+
+01NW/4 EAST OF BEATTY MTN. 7.5' QUAD. (SOUTHEASTERN PART)
+
+OlTp(SLIDE SHEET) / Tmwt(UNDERLYING TUFF)
+
+01SLIDE SURFACE AT BASE OF ROCK AVALANCHE BRECCIA SHEET (POST-Tmr AGE?)
+
+2133215 80110101001
+
+0 OOLOC. WELL POLISHED PN 62 15N 322MWB
+
+1
+
+01LOCAL SILICIFICATION AND SUBPARALLEL SLIP SURFACES W/IN 2 M BELOWSLIDE
+
+02 80395 2
+
+0
+
+0 14 2 8
+
+PCA
+
+01 SCOTT A. MINOR
+
+01NE/4 BEATTY MTN. 7.5' QUAD; EASTERN EDGE OF MAP SHEET
+
+OlTpc/Tpy
+
+01FAULT ZONE OF NNE-STRIKING TRAM RIDGE FAULT
+
+22 9830127110101001
+
+0 OOFLTS1-3 IN TpyFEOXPN 8 30E 319PCA
+
+1211445102110101001
+
+0 OQFEOX
+
+CN 24 45E 311PCA
+
+2211315109110101011
+
+0 00OLDER XC SLKS;FEOXPN 23 15E 313PCA
+
+2111315 71110101021
+
+0 00YOUNGER XC SLKS PN 23 15E 273PCA
+
+1210965107110101401
+
+0 OOMAIN E FLT;WK SLKSCN 19 65E 73SPCA
+
+01FAULT 4 MEASURED ON HEADWALL, WHICH CONSISTS OF BRECCIATED Tpcr
+
+1 2 3 3 4
+
+02 80395 3
+
+0
+
+0 14 2 8
+
+PCB
+
+01 SCOTT A. MINOR
+
+01NW/4 EAST OF BEATTY MTN. 7.5' QUAD (WESTERN EDGE)
+
+OlTct
+
+01FOOTWALL OF TRAM RIDGE FAULT (Tpc FORMS HANGING WALL)
+
+1211759110110101011
+
+0 OOOLDER XC SLKS;FEOXCN 27 59E 70SPCB
+
+2111759 89110101421
+
+0 OOYOUNGER WK SLKS;FEPN 27 59E 90*PCB
+
+3210851174110101412
+
+0 OOOLDER? WK SLKSFEOXSD 18 51E 6SPCB
+
+1210851108110101022
+
+0 00 YOUNGER? XC SLKS CN 18 51E 72SPCB
+
+01***NOTE: AGE RELATIONS OF FAULT 3 SUGGESTS THAT 2a(STRIKE-SLIP)
+
+01YOUNGER THAN 2b (DIP-SLIP) MOVEMENT ON FAULT 2 ABOVE.***
+
+1210970104110101011
+
+0 OOOLDER XC SLKS;FEOXCN 19 70E 76SPCB
+
+1210970174110101021
+
+0 00 YOUNGER; FEOX
+
+CD 19 70E 6SPCB
+
+1134856 48110101001
+
+0 OOFEOX
+
+CN 78 56N 48WPCB
+
+IS
+
+1 1 2 2
+3 3 4
+
+02 90395 4
+
+0
+
+0 14 2 8
+
+PCC
+
+01 SCOTT A. MINOR
+
+01NW/4 EAST OF BEATTY MTN. 7.5' QUAD (EAST EDGE)
+
+OlTpcp (HANGING WALL) / Tpy (FOOTWALL)
+
+01MAPPED NE-STRIKING; -1-M-THICK BX ZONE IN HANGING-WALL BLOCK
+
+1231746105110101401
+
+0 OOSLKS WK, LOCAL
+
+CN 47 46N 75EPCC
+
+67 8235 011010 001
+
+0 OOFOL.JN GULLY TO E JN 352 35E 0 PCC
+
+1 2
+
+02 90395 4
+
+0
+
+01SCOTT A. MINOR
+
+0 14 2 8
+A-6 V7
+
+PCD
+
+01NW/4 EAST OF BEATTY MTN. 7.5' QUAD (NEAR EASTERN EDGE)
+
+OlTcpr (HANGING WALL) / Tpy? (FOOTWALL)
+
+01UNMAPPED FAULT ZONE
+
+1112771 59110101001
+
+0 OOSAME FLT AS 2 ? CN 37 71E 59NPCD
+
+2114387 65110101001
+
+0 00
+
+PN 53 87S 65EPCD
+
+67 8235 011010 001
+
+0 OOFOL IN GULLY TO W JN 352 35E 0 PCD
+
+02110395 5
+
+0
+
+0 14 2 8
+
+PCE
+
+01SCOTT A. MINOR
+
+01NW/4 EAST OF BEATTY MTN. 7.5' QUAD (SOUTH-CENTRAL PART)
+
+OlTpcr / ONLAPPING Tmrf
+
+01NE-STRIKING FAULTS (BROAD AREA), WITH Tmrf CUT BY FAULTS AND (OR) ON-
+
+01LAPPING FAULT SCARPS
+
+1130056 85110101401
+
+0 QQWK SLKS; SMALL EXPOSURE NEAR RD PCE
+
+1
+
+3117060 78110101001
+
+0 OOFLT PARALLEL FOLIA. ;SYNPOST SIO2PCE
+
+2
+
+2114951 83110101001
+
+0 OOMAY CUT Tmrf;SYN-POST SIO2
+
+PCE
+
+3
+
+6717060 011010 001
+
+0 OOCOMPACT. FOLIA.
+
+PCE 4
+
+02130395 6
+
+0
+
+0 14 2 8
+
+PCF
+
+01SCOTT A. MINOR
+
+01NW/4 EAST OF BEATTY MTN. 7.5' QUAD (NEAR WESTERN EDGE)
+
+OlTpcr (HANGING WALL) / Tpy (FOOTWALL)
+
+01NE-STRIKING FAULT
+
+1233460 98110101001
+
+0 OOGROOVES IN BX ZONECN 64 60N 82EPCF
+
+6715256 011010 001
+
+0 OOSITE HW FOLIATION JN 62 56S 0 PCF
+
+02130395 6
+
+0
+
+0 14 2 8
+
+PCG
+
+01SCOTT A. MINOR
+
+01NW/4 EAST OF BEATTY MTN. 7.5' QUAD (WEST-CENTRAL PART)
+
+OlTpcp (FOOTWALL) / Tmrf (HANGING WALL)
+
+01POSSIBLY SAME NE FAULT MEASURED AT SITE PCF; Tmrf PARTLY ONLAPS-PARTLY
+
+01SHEARED ALONG FAULT, WHICH FORMS PROMINENT, CORREGATED, 10M-HIGH
+
+01FOOTWALL SCARP
+
+1132853 82110101011
+
+0 00 OLDER;POSTSIO2/GYPCN 58 53N 82WPCG
+
+2432853330110101021
+
+0 00YOUNG XCSLK;SYNGYPPS 58 53N 30EPCG
+
+1133549 54110101011
+
+0 00 OLDER f PROMINAT SLKCN 65 49N 54WPCG
+
+2133549 89110101021
+
+0 00 YOUNGER FINE XCSLKPN 65 49N 90*PCG
+
+6716055 011414 001
+
+0 OOEST.SITE FOL. (MAP)JN 70 55S 0 PCG
+
+67 91 1 011010 001
+
+0 OOTmrf BEDDING
+
+JN 1 IE 0 PCG
+
+02140395 7
+
+0
+
+0 14 2 8
+
+PCH
+
+01SCOTT A. MINOR
+
+01NW/4 EAST OF BEATTY MTN. 7.5' QUAD (WEST-CENTRAL PART)
+
+OlTpc / Tmnx BRECCIA
+
+01NE-STRIKING FAULT ZONE (MAPPED) W/IN "Tmnx" BRECCIA
+
+1231261 94110101401
+
+0 OOPOST-SIO2; = FLT2PCN 42 61W 86NPCH
+
+1
+
+1135842 76110101011
+
+0 OOOLDER SLKS/BXGROOVCN 88 42N 76WPCH
+
+2
+
+3135842 15110101021
+
+0 OOYOUNG LOC.XC SLKS SS 88 42N 15WPCH
+
+2
+
+01FAULT 2 FORMS LARGE FOOTWALL SCARP;ZONES OF FLT BX IN FOOTWALL BOUNDED
+
+01BY 055, 3 ON FRACTURES; FAULT 3 APPEARS TO CURVE INTO FLT 2 ~10M TO N.
+
+1229563109110101001
+
+0 OOPOST-SIO2;JUXT. TpyCN 25 63W 71NPCH
+
+3
+
+2114571 78110101001
+
+0 OOSYNSIO2;ANTHET. TO5PN 55 71S 78EPCH
+
+4
+
+1135551 62110101011
+
+0 OOSAME AS1,27WELLPOLCN 85 51N 62WPCH
+
+5
+
+2135551 23110101021
+
+0 OOYOUNGER XC SLKS PS 85 51N 23WPCH
+
+5
+
+A-7
+
+02140395 7
+
+0
+
+0 14 2 8
+
+PCI
+
+01 SCOTT A. MINOR
+
+01NW/4 EAST OF BEATTY MTN. 7,5' QUAD. (CENTRAL PART)
+
+OlTpc (HANGING WALL BLOCK) / Tcr (FOOTWALL BLOCK)
+
+01WNW-STRIKING MAPPED FAULT
+
+21 1262 89110101001
+
+0 OOANTITHET?,HW WRT 2PN 282 62N 90*PCI
+
+13 1379247110101011
+
+0 OOMAP FLT;FEOX;WKSLKCI 283 79N 67WPCI
+
+22 1379172110101021
+
+0 00YOUNGER FINE XCSLKPD 283 79N 8EPCI
+
+2133265 86110101001
+
+0 OOMESO HW-BLK FAULT PN 62 65N 86WPCI
+
+1232162 91110101001
+
+0 OOMESO. HW-BLK FAt/LTCN 51 62N 89EPCI
+
+6719060 011010 001
+
+0 00SITE Tpcr FOLIA. JN 280 60S 0 PCI
+
+:*****:(
+
+'PCI
+
+02140395 7
+
+0
+
+0 14 2 8
+
+PCJ
+
+01 SCOTT A. MINOR
+
+01NW/4 EAST OF BEATTY MTN. 7.5' QUAD. (CENTER)
+
+OlTpc (HANGING WALL) / Tpy (FOOTWALL)
+
+01MAPPED NE- STRIKING FAULT EXPOSED IN PROSPECT CUT [OPPOSITE SENSE OF
+
+0 IDISPLACEMENT SHOWN ON FRIDRICH AND OTHERS (1994) MAP]
+
+1214580102110101001
+
+0 00
+
+CN 55 SOS 78WPCJ
+
+1
+
+02290495 8
+
+0
+
+0 14 2 8
+
+PCK
+
+01 SCOTT A. MINOR
+
+01NW/4 EAST OF BEATTY MTN. 7.5' QUAD. (CENTER)
+
+OlTpc (HW) / Tpy (FW)
+
+01MAPPED NE-STRIKING FAULT
+
+1113267 47110101001
+
+0 OOMAPPED FLT; RIB CN 42 67E 47NPCK
+
+1132055 71110101001
+
+0 0 0 SYNTHET(ZNE)MAPFLTCN 50 55N 71WPCK
+
+6719031 011010 001
+
+0 00 FOLIATION
+
+JN 280 31S 0 PCK
+
+02 20595 12
+
+0
+
+0 14 2 8
+
+PCL
+
+01 SCOTT A. MINOR
+
+01NW/4 EAST OF BEATTY MTN. 7.5' QUAD. (SOUTHEAST CORNER)
+
+OlTpc (FLT. 2 JUXTAPOSES Tpy)
+
+01CONTINUATION OF MRF FAULT ZONE TO NORTH; SPLAYS OF FAULT ALSO MEASURED
+
+1228073130110101001
+
+0 OOMRF1 SPLAY75M HWBXCU 10 73W 50NPCL
+
+1
+
+1229769111110101001
+
+0 00 UNMAPPED;JUXTA. TpyCN 2769W69NPCL
+
+2
+
+2228574104110101001 4134 00 SYNTHET. HWFLT IVRT2PN 15 74W 76NPCL
+
+3
+
+1130976 86110101001
+
+0 00SMALL ISOLATED EXPCN 39 76W 86SPCL
+
+4
+
+6720225 011010 001
+
+0 00BASAL Tpc BEDDING JN29225S 0 PCL
+
+5
+
+02 30595 13
+
+0
+
+0 14 2 8
+
+PCM
+
+01 SCOTT A. MINOR
+
+01FOUR-CORNERS AREA (NE/4, SE/4, AND SW/4) , EAST OF BEATTY MTN. 7.5'QUAD
+
+OlTpt, Tpy, AND Tpc
+
+01MAPPED AND MESOSCOPIC N- AND NE-STRIKING FAULTS ~1 KM SW OF CC CALDERA
+
+1126959 63110101011 11223 OOWK OLD GROOV;FWSCPCN 359 59W 63SPCM
+
+1126959 48110101021 13456 00 YOUNG XCSLK;POLISHCN 359 59W 48SPCM
+
+1127980 70110101001 5321 0 0 UNMAP. JUXTA. TpyTpcCU 9 SOW 70SPCM
+
+1127872 84110101032
+
+0 00CUTS FLT.4(SEEMAP) CN 8 72W 84SPCM
+
+2134071 87110101011
+
+0 OOOLDEST;CUT BY 3, 5PN 70 7IN 87WPCM
+
+2134071 62110101022
+
+0 0 0 YOUNGER??WK.LOCSLKPN 70 7IN 62WPCM
+
+11 8174 78110101032
+
+0 0 0 UNMAPPED(TpcTpyCTCCN 351 74E 78NPCM
+
+1113468 52110101401
+
+0 OOMAPPED;SLKS:HW SHRCN 44 68E 52NPCM
+
+1432783306110101412
+
+0 0 0 =FLT6;OLDER?WK SLKCI 57 83W 54NPCM
+
+2432783340110101422
+
+0 OOYOUNG?XCSLKS;FEOX PS 57 83W 20NPCM
+
+A-8
+
+6715025 011414 001
+
+0 OOEST.SITE FOL. (MAP)JN 60 25S 0 PCM
+
+02 40595 14
+
+0
+
+0 14 2 8
+
+PCN
+
+01 SCOTT A. MINOR
+
+01SE/4 (NORTHWESTERN CORNER) AND NE/4 (SW CORNER) E. OF BEATTY MTN. 7. 5
+
+OlTpc/Tpy
+
+01VARIOUSLY STRIKING MAPPED AND RELATED FAULTS
+
+22 9670112110101001
+
+0 OOSYNTHET7WRT MAPFLTPN 6 70E 68SPCN
+
+01FAULTS 1 AND 2 FORM BRECCIA ZONES 2-3 M THICK.
+
+1127775 76110101421
+
+0 OOTRUNCS.3SLK.WK;MAPCN 7 75W 76SPCN
+
+1130066 82110101011 10098 OOTRUNC.BY 2;MAP FLTCN 30 66W 82SPCN
+
+2132984 60110101012
+
+0 OOSYNKIN7WRT3(FW) FEOPN 59 84N 60WPCN
+
+1130557 12114141012 481 0 0 SYNKIN7WRT3IREGSURCS 35 57W 12SPCN
+
+2124870 54114141022
+
+0 OOSYNKIN7WRT2IREGSURPN 338 70W 54SPCN
+
+01NOTE: POSSIBLE R-SHEARS ALONG FAULT 6 SUGGEST REVERSE SLIP,NOT NORMAL
+
+6715025 011414 001
+
+0 OOEST. (MAP) SITE FOL.JN 60 25S 0 PCN
+
+7
+
+02 40595 14
+
+0
+
+0 14 2 8
+
+01 SCOTT A. MINOR
+
+01JUST EAST OF MRJ
+
+OlTpy
+
+01MAPPED NNE-STRIKING FAULT
+
+1129085 40110101011
+
+0 OOFW SCARP;LITH.TRNSCS
+
+3129085 89110101421
+
+0 00 YOUNGER, WK XC SLKSSN
+
+PCO
+20 85W 40SPCO 20 85W 90*PCO
+
+02260795 16
+
+0
+
+0 14 2 8
+
+PCP
+
+01 SCOTT A. MINOR
+
+01ADJACENT TO SITE CRE ALONG IT'S NORTHERN MARGIN
+
+OlTpc (HW) /Tcr (FW)
+
+01MAPPED NE- AND N-STRIKING FAULTS
+
+2115575 80110101001
+
+0 QQANTITHET7WRT2BXGRVPN 65 75S 80EPCP
+
+1133364 83110101001
+
+0 OOMAPPED;WELL-POL; FECN 63 64N 83WPCP
+
+11 7563 89110101001
+
+0 OOMAPPED; POST-SIO2 CN 345 63E 90*PCP
+
+02280795 19
+
+0
+
+0 14 2 8
+
+PCQ
+
+01SCOTT A. MINOR
+
+01STRADDLES SE/4 AND NE/4 BEATTY MTN. 7.5' QUAD. AT SW END OF TRAM RIDGE
+
+OlTcb (l-6)/Tpt-Tpy-Tpc (7-13)
+
+01MAPPED AND MESOSCALE NE-STRIKING AND CROSSCUTTING NW-STRIKING FAULTS
+
+1431055349110101001
+
+0 OOFEOX
+
+CS 40 55W 11NPCQ
+
+1
+
+1432046328110101011
+
+0 OOSLKS XC BY 3 SLKS CS 50 46N 32EPCQ
+
+2
+
+2231483101110101021
+
+0 OOSLKS XC 2 SLKS PN 44 83W 79NPCQ
+
+3
+
+1210887167110101001
+
+0 OOFEOX
+
+CD 18 87E 13SPCQ
+
+4
+
+2323574250110101001
+
+0 OOADJAC. TO 4; FEOX PI 325 74W 70SPCQ
+
+5
+
+2311088269114141011
+
+0 OOOLD;=4?;SYN-SIO2 PI 20 88E 90*PCQ
+
+6
+
+1211088152114141021
+
+0 0 0 INTERMED.XCSLKFEOXCD 20 88E 28SPCQ
+
+6
+
+1311088187114141031
+
+0 00 YOUNGER XCSLK;FEOXCD 20 88E 7NPCQ
+
+6
+
+01FAULTS 1 TO 6 EXPOSED IN QUARRY FACE CUT IN Tcb.
+
+1114353 89110101001
+
+0 0 OMAPPED(PROS.PIT)FECN 53 53S 90*PCQ
+
+7
+
+1132559 49110101001
+
+0 0 OMAP; 7MSCRP;SYNSIO2CN 55 59N 49WPCQ
+
+8
+
+1432375354110101001
+
+0 OOMERGES W/(SYNKIN78CS 53 75N 6EPCQ
+
+9
+
+1130585 60110101012
+
+0 OOMAPPED(JUXT. TpcTpyCN 35 85W 60SPCQ
+
+10
+
+1131845 75110101011
+
+0 00 OLDER GRVS/MULLIONCN 48 45N 75WPCQ
+
+11
+
+3131845 57110101022
+
+0 00 YOUNGER LOG. XCSLKSN 48 45N 57WPCQ
+
+11
+
+01FAULTS 10 AND 11 ARE TRUNCATED BY FAULT 12. FAULT 11 HAS SYN-SLIP SIO2
+
+A-9
+
+1123069 85110101032
+
+0 OOOLDER GRVS/MUL/SLKCN 320 69W 85SPCQ
+
+2123069 58110101041
+
+0 00YOUNG LOG.XCSLKFEOPN 320 69W 58SPCQ
+
+01FAULTS 7 TO 13 ARE ALL MAPPED.
+
+2119275 88110101001
+
+0 OOMERGES W/ 12?;FEOXPN 282 75S 88EPCQ
+
+67 9020 011414 001
+
+0 OOESTIM. (MAP) 1-6 BEDJN 0 20E 0 PCQ
+
+67 9725 011010 001
+
+0 QQFOLIA.FOR FLTS7-13JN 7 25E 0 PCQ
+
+12 12
+13 14 15
+
+02 90395 4
+
+0
+
+0 14 2 8
+
+PYA
+
+01SCOTT A. MINOR
+
+01NW/4 EAST OF BEATTY MTN. 7.5' (WESTERN EDGE) ; AREA OF MANY PROSPECTS
+
+OlTpy (MOSTLY)
+
+01NUMEROUS SMALL MAPPED NE-STRIKING FAULTS IN AREA OF FEOX ALTERATION
+
+01FAULTS AT SITE FORM RESISTANT RIB-LIKE SCARPS MADE OF BX WELDED TUFF
+
+2114462 76110101401
+
+0 OOSLKS WK; FW+W BX PN 54 62S 76EPYA
+
+12 8578105110101022
+
+0 00 OLDER;JUXTA.TpyTcbCN 355 78E 75SPYA
+
+21 8578 78110101031
+
+0 00YOUNGER XC SLKS PN 355 78E 78NPYA
+
+21 8972 71110101001
+
+0 OOFLTS 2-4 IN FLTZNEPN 359 72E 71NPYA
+
+22 8980105110101001
+
+0 00
+
+PN 359 80E 75SPYA
+
+2117653 65110101412
+
+0 OOSLKS WK;TRUNC BY 2PN 86 53S 65EPYA
+
+1230449 93110101001
+
+0 OOANTITHET TO MAPFLTCN 34 49W 87NPYA
+
+12 7953111110101001
+
+0 OOJUXTA. Tpy/Tp VIT CN 349 53E 69SPYA
+
+12 7360100114141012
+
+0 OOJRREG. SURFACE CN 343 60E 80SPYA
+
+2216182137110101022
+
+0 00 OLDER;TRUNCS. 8 PD 71 82S 43WPYA
+
+3116182 60110101031
+
+0 00YOUNGER XC SLKS SN 71 82S 60EPYA
+
+02 90395 4
+
+0
+
+0 14 2 8
+
+PYB
+
+01 SCOTT A. MINOR
+
+01NW/4 EAST OF BEATTY MTN. 7.5' QUAD (NEAR EAST EDGE)
+
+OlTpy
+
+01MAPPED SMALL NE-STRIKING AND LESSER N-STRIKING FAULTS
+
+01FAULTS 6-8 MEASURED 13 MARCH, 1995 (PAGE 0006 OF NOTEBOOK)
+
+1229467 97110101001
+
+0 00AT MJNE SHAFT=PCD?CN 24 67W 83NPYB
+
+3130771 84110101401
+
+0 OOWK,LOCAL SLKS; BX SN 37 71W 84SPYB
+
+1132853 84110101012
+
+0 OOOLDER? MULLIONS CN 58 53N 84WPYB
+
+3132853 58110101422
+
+0 00YOUNGER? WK XC SLKSN 58 53N 58WPYB
+
+2129880 74110101001
+
+0 OOSYN,POST SIO2;@PITPN 28 80W 74SPYB
+
+3132860 78110101401
+
+0 OOBX SURF;WIDE GROOVSN 58 6ON 78WPYB
+
+6715052 011010 001
+
+0 OOFOLJA. FOR FLTS1-5JN 60 52S 0 PYB
+
+1134046 74110101001
+
+0 00FEOX
+
+CN 70 46N 74WPYB
+
+1134273 58110101001
+
+0 00FEOX;SAME AS FLT3 ?CN 72 73N 58WPYB
+
+1213665129114141011
+
+0 00OLDER;SMALL IRREG CN 46 65S 51WPYB
+
+2113665 67114141421
+
+0 00YOUNGER SLKS45RNGEPN 46 65S 67EPYB
+
+6710524 011010 001
+
+0 00FOLIA. FOR FLTS6-8JN 15 24E 0 PYB
+
+02290495 8
+
+0
+
+0 14 2 8
+
+PYC
+
+01 SCOTT A. MINOR
+
+01NW/4 EAST OF BEATTY MTN . 7.5' QUAD. (CENTER)
+
+OlTpc (HW) / Tpt OR Tcrt (FW)
+
+01MAPPED INTERSECTING NW- AND NE-STRIKING FAULTS
+
+1228578134110101011
+
+0 OOOLDER CRS. GROOVESCN 15 78W 46NPYC
+
+2228578179110101021
+
+0 00YOUNGER LOC.XC SLKPD 15 78W 1NPYC
+
+1118862 54110101011
+
+0 00OLDEST LOC.WK SLKSCN 278 62S 54EPYC
+
+2118862 10110101021
+
+0 OOINTERMED. XC SLKS PS 278 62S 10EPYC
+
+2418862340110101031
+
+0 00YOUNGEST XC SLKS PS 278 62S 20WPYC
+
+A-10
+
+02290495 8
+
+0
+
+0 14 2 8
+
+01 SCOTT A. MINOR
+
+01NW/4 EAST OF BEATTY MTN. 7.5' QUAD. (CENTER)
+
+OlTpt (FW) / Tpy (HW)
+
+01MAPPED NE-STRIKING FAULT
+
+1232345100110101401
+
+0 00 VERY WEAK SLKS
+
+CN
+
+1232355106110101001
+
+0 OOSLKS WK;SAME AS 1 CN
+
+3233676110110101001 532 00 SYNTHET'/MERGES W/2SN
+
+PYD
+53 45N 80EPYD 53 55N 74EPYD 66 76N 70EPYD
+
+02300495 9
+
+0
+
+0 14 2 8
+
+PYE
+
+01 SCOTT A. MINOR
+
+01NW/4 EAST OF BEATTY MTN. 7. 5 QUAD. (EAST-CENTRAL PART)
+
+01BEDDED TUFFS AT BASE OF Tpy
+
+01UNMAPPED FAULTS ADJACENT TO MAPPED N-STRIKING FAULTS IN MRC FLTZONE FW
+
+1226555143110101001 3323 00
+
+CD 355 55W 3 7NPYE
+
+1229538125110101001 1221 00
+
+CN 25 38W 337PYE
+
+1227446116110101001 1669 OOFEOX
+
+CN 4 46W 64NPYE
+
+2134468 80110101001
+
+0 OOFEOX
+
+PN 74 68N 80WPYE
+
+1112389 51110101001 2574 OOFEOX
+
+CN 33 89E 51NPYE
+
+1226540128110101401 1269 00WEAK SLKS; FEOX CN 355 40W 52NPYE
+
+2112084 76110101011 103 00 OFFSET BY FLTS.6,8PN 30 84E 76NPYE
+
+1227269142110101021 4873 00 OFFSETS FLT.7
+
+CN 2 69W 38NPYE
+
+01FAULTS MEASURED EAST TO WEST; ALL N-STRIKING FAULTS CUT NE-STRIKINGFLT
+
+6713834 011010 001
+
+0 OOTpy BEDDING-SITE JN 48 34S 0 PYE
+
+9
+
+02 20595 12
+
+0
+
+0 14 2 8
+
+PYF
+
+01 SCOTT A. MINOR
+
+01NW/4 EAST OF BEATTY MTN. 7.5' QUAD. (SOUTHEASTERN CORNER)
+
+OlTpy(HW) / Tcrt(FW)
+
+01MAPPED N-STRIKING FAULT (SAME AS ACA-2 FAULT)
+
+1228775122110101011
+
+0 00OLDER; HW SCARP CN 17 75W 58NPYF
+
+3128775 89110101421
+
+0 00 YOUNG XCS;RAKE+-20SN 17 75W 90*PYF
+
+6719020 011414 001
+
+0 OOBEDDING EST. (MAP)JJ3 280 20S 0 PYF
+
+02270795 17
+
+0
+
+0 14 2 8
+
+PYG
+
+01 SCOTT A. MINOR
+
+01NE/4 BEATTY MTN. 7.5' QUAD. (SE PART)
+
+OlTpy AND Tpt (EXCEPT FAULT 1, WHICH JUXTAPOSES Tpc/Tcb)
+
+01MAPPED AND UNMAPPED NE-STRIKING FAULTS AND CROSSCUTTING MAPPED NW FLT
+
+1124655 78110101001
+
+OOMAPPED;RAKES 67-90CN 336 55W 78SPYG
+
+2131384 54110101001
+
+00HW OF 1; FEOX
+
+PN 43 84W 54SPYG
+
+1126161 78110101001
+
+OOHW OF 1; FEOX
+
+CN 351 61W 78SPYG
+
+1210754108110101001
+
+OOMAPPED(JUXT.TpyTptCN 17 54E 72SPYG
+
+2115536 70110101001
+
+0 0 UNMAP(JUXT. Tpt/TpyPN 65 36S 311PYG
+
+1211370102110101011
+
+OOMAPPED(JUXT. TpyTptCN 23 70E 78SPYG
+
+2211370162110101021
+
+00 YOUNGER,LOC.XC SLKPD 23 70E 18SPYG
+
+13 8288185110101022
+
+0 OMAP ? WELL-POLISHFEOCD 352 88E 5NPYG
+
+01NOTE: FAULT 6 APPEARS TO BE DRAGGED AGAINST 7--SUGGESTS 7 YOUNGER.
+
+6731515 011414 001
+
+0 OOESTI. (MAP)SITE FOLJN 45 15W 0 PYG
+
+02290995 21
+
+0
+
+01 SCOTT A MINOR
+
+01NE/4 BEATTY MTN. 7.5'
+
+01 Tpy
+
+01SAME AS SITE PTF
+
+0 14 2 8 QUAD. JUST EAST OF SITE PTF
+
+A-ll
+
+PYH
+
+1211056102110101012 1111056 87110101022 1129484 79110101001 1129473 67110101001 1132978 77110101001 6713025 011414 001
+
+0 00EN-ECH,LOCAL SHRS CN 20 56E 78SPYH 0 QOXCPROM.SLK;FeOxSiOCN 20 56E 87NPYH 0 00 IN PROS.PIT HW OF1CN 24 84W 79SPYH 0 OOADJAC.2;FeOx/SiO2 CN 24 73W 67SPYH 0 OOMAP FLT.(JUXTA. TpcCN 59 78N 77WPYH 0 QOEST. (MAP) SITE FOL.JN 40 25E 0 PYH
+
+02260795 16
+
+0
+
+0 14 2 8
+
+PPA
+
+01 SCOTT A. MINOR
+
+01NW/4 EAST OF BEATTY MTN. 7.5' QUAD. (CENTRAL PART)
+
+OlTpp? (HW) /Tcrt (FW)
+
+01MAPPED NE-STRIKING FAULT
+
+1113479 64110101011
+
+0 OOPROM.SLKS;GULLYEXPCN 44 79E 64NPPA
+
+1113479 89110101021
+
+0 00YOUNGER,FINE XCSLKCN 44 79E 90*PPA
+
+6718539 011010 001
+
+0 OOTcrt(FW)SITE BEDNGJN 275 39S 0 PPA
+
+02290495 8
+
+0
+
+0 14 2 8
+
+01SCOTT A. MINOR
+
+01NW/4 EAST OF BEATTY MTN. 7.5' QUAD.
+
+OlTpt?
+
+01UNMAPPED MESOSCALE FAULT
+
+1135074 10110101001
+
+0 00
+
+(CENTER) CS
+
+PTA 80 74N 10WPTA
+
+02300495 9
+
+0
+
+0 14 2 8
+
+PTB
+
+01SCOTT A. MINOR
+
+01NW/4 EAST OF BEATTY MTN. 7.5' QUAD. (ADJACENT TO SITE MRC)
+
+OlTpt
+
+01UNMAPPED NE-STRIKING FAULTS IN FOOTWALL BLOCK OF MRC FAULT ZONE
+
+1134062 84110101001
+
+0 OOPOST-SLIP SIO2 CN 70 62N 84WPTB
+
+2130777 72110101001
+
+0 OOFW BLK OF1;SYNSJO2PN 37 77W 72SPTB
+
+2229462121110101011
+
+0 OORIB;SYNSIO2(POL) FEPN 24 62W 59NPTB
+
+2129462 78110101021
+
+0 OOYOUNGER XC SLKS PN 24 62W 78SPTB
+
+01FAULTS 1 AND 3 DO NOT APPEAR TO OFFSET MRC N-STRIKING FAULT ZONE
+
+2128972 70110101001 877 OOMERGES W/OR CUTS 3PN 19 72W 70SPTB
+
+6717316 011010 001
+
+0 OOSITE Tpt FOLIATION3N 83 16S 0 PTB
+
+02260795 16
+
+0
+
+0 14 2 8
+
+PTC
+
+01 SCOTT A. MINOR
+
+01NW/4 EAST OF BEATTY MTN. 7.5' QUAD. (CENTRAL PART)
+
+01UPPER/LOWER Tpt
+
+01MAPPED NE-STRIKING FAULT (SAME AS PCP-2 ?)
+
+1131460 83110101401
+
+0 OOSLKS WEAK;POSTSJO2CN 44 60W 83SPTC
+
+6719025 011414 001
+
+0 OOESTIMATED SITE FOLJN 280 25S 0 PTC
+
+02270795 17
+
+0
+
+0 14 2 8
+
+PTD
+
+01 SCOTT A. MINOR
+
+01NE/4 BEATTY MTN. 7.5' QUAD. (SOUTHEAST PART)
+
+OlTpt (HW) /Tct (FW)
+
+01MAPPED MAJOR NE-STRIKING, DOWN-TO-SE FAULT ALONG TRAM RIDGE
+
+1115048 78110101001
+
+0 OOPROM. FW SCARP;FEOXCN 60 48S 78EPTD
+
+6733520 011414 001
+
+0 OOESTIM. (MAP) SITEFOLJN 65 2ON 0 PTD
+
+02290995 21
+
+0
+
+0 14 2 8
+
+01 SCOTT A MINOR
+
+01NE/4 BEATTY MTN. 7.5' QUAD.; ~1 KM EAST OF BEATTY WASH
+
+A-12
+
+PTE
+
+1 1 2 3 4 5
+1 1 2
+1
+1 2 3 3 4 5
+1 2
+1 2
+
+OlTpt JUST UNDERLYING BEDDED PALEOTALUS DRAPPING "BREAKAWAY ESCARPMENT"
+
+01LOW-ANGLE MESOFLTS IN FOOTWALL BLOCK OF "TRAM RIDGE BREAKAWAY"
+
+1129022 57110101001
+
+0 OOFeOx; SMOOTH SURFCECN 20 22W 75PTE
+
+1
+
+1221634139110101011
+
+0 OOOLDER SLKS; FeOx CN 306 34S 90PTE
+
+2
+
+1221634102110101021
+
+0 00 YOUNGER XC SLKS. CN 306 34S 50PTE
+
+2
+
+02290995 21
+
+0
+
+0 14 2 8
+
+PTF
+
+01 SCOTT A MINOR
+
+01NE/4 BEATTY MTN. 7.5' QUAD.; SW CREST OF TRAM RIDGE
+
+OlTpt
+
+01MAPPED AND MESOSCALE FAULTS OF VARIOUS STRIKES
+
+1112257 89110101011
+
+0 00 PROM.GROOVS, MULLNSCN 32 57E 90*PTF
+
+1112257 51110101021
+
+0 OOYOUNGXCSLK;MAP FLTCN 32 57E 51NPTF
+
+2127161 71110101001
+
+0 OOMESOFLT;SMOOTHSURFPN 1 61W 71SPTF
+
+1416078336110101001
+
+0 OOMESOFLT; FeOx
+
+CS 70 78S 24WPTF
+
+02 20595 12
+
+0
+
+0 14 2 8
+
+ACA
+
+01 SCOTT A. MINOR
+
+01NW/4 EAST OF BEATTY MTN. 7.5' QUAD. (NEAR SOUTHEAST CORNER)
+
+01BEDDED Tac
+
+01MAPPED AND UNMAPPED N-STRIKING FAULTS JUST SOUTH OF CC CALDERA MARGIN
+
+1229163150110101001 8000 OOFORMS PROMIN. CHASMCD 21 63W 30NACA
+
+1
+
+1228078143110101001
+
+0 OOMAPPED;FE;POSTSIO2CD 10 78W 37NACA
+
+2
+
+22 1349 94110101001 100 OOADJAC,FW BLK WRT 2PN 283 49N 86EACA
+
+3
+
+2312181237110101001
+
+0 OOFW BLK OF 2;FESIO2PI 31 81E 57NACA
+
+4
+
+6719527 011010 001
+
+0 OOTac BEDDING
+
+JN 285 27S 0 ACA
+
+5
+
+02 30595 13
+
+0
+
+0 14 2 8
+
+ACS
+
+01 SCOTT A. MINOR
+
+01NW/4 EAST OF BEATTY MTN. 7.5' QUAD. (SOUTHEAST CORNER)
+
+01 Tac
+
+01UNMAPPED MESOSCOPIC FAULTS ~1 KM SW OF CCC MARGIN
+
+1226665104110101001 618 OOSYN-SLIP SIO2
+
+CN 356 65W 76NACB
+
+11 8480 88110101001
+
+0 OOMERGES W/l;SYNSJO2CN 354 80E 88NACB
+
+6719018 011010 001
+
+0 OOTac BEDDING
+
+JN 280 18S 0 ACB
+
+02 30595 13
+
+0
+
+0 14 2 8
+
+ACC
+
+01SCOTT A. MINOR
+
+01NE/4 EAST OF BEATTY MTN. 7.5' QUAD. (SOUTHWEST CORNER)
+
+01 Tac
+
+01UNMAPPED MESOSCALE FAULTS IN FOOTWALL BLOCK OF MAPPED "PCM-6,7" FAULT
+
+1112171 66110101001 274 00
+
+CN 31 71E 66NACC
+
+1
+
+1429486294110101001
+
+55 OOANTITHETIC W.R.T.1CI 24 86W 66NACC
+
+2
+
+1111671 61110101001
+
+57 00
+
+CN 26 71E 61NACC
+
+3
+
+6719421 011010 001
+
+0 OOTac BEDDING
+
+JN 284 21S 0 ACC
+
+4
+
+02 80395 2
+
+0
+
+0 14 2 8
+
+CBA
+
+01SCOTT A. MINOR
+
+01NE/4 BEATTY MTN. 7.5' QUAD. ; SE FLANK OF TRAM RIDGE
+
+OlTcb
+
+01FAULTS WITHIN FOOTWALL BLOCK OF TRAM RIDGE FAULT
+
+22 6684122110101001
+
+0 00
+
+PN 336 84E 58SCBA
+
+01ALL MEASURED FAULTS IN STREAM GULLY;MEASURED FROM SE TO NW; FEOX
+
+01INCREASES TO NW (IN HIGHER NUMBERED FAULTS)
+
+2131480 75110101001
+
+0 OOSHORT, IRREG.TRACEPN 44 SOW 75SCBA
+
+A-13
+
+1128968 76110101001 12 7966148110101001 1132874 66110101001 22 9780145110101001 1129467 55110101011 14 4485312110101021 2210265104110101001 1125960 80110101011 2125960 36110101021 2214265120110101031 67 2716 011010 001
+
+0 0 0 0 0 27 0 5077 8507 60 0
+
+00SHORT,IRREG.TRACE CN 19 68W 76SCBA OOFLTS.4-6 QUASICONG?CCDD 349 66E 32SCBA 00 CN 58 74N 66WCBA 00 PD 7 80E 35SCBA 00 OFFSET BY FLT. 8 CN 24 67W 55SCBA 00 CI 314 85N 48ECBA 00 PN 12 65E 76SCBA 0 0 JUXTA.Tcb/BASALTp t:CCNN 349 60W 80SCBA 00 YOUNGER XC SLKS PS 349 60W 36SCBA 0 0 OFFSETS10;POSTSIO2fPPNN 52 65E 60WCBA 00 SITE FOLIATION JN 297 16N 0 CBA
+
+3 4 5 6 7 8 9 10 10 11 12
+
+02 80395 2
+
+0
+
+0 14 2 8
+
+CBB
+
+01 SCOTT A. MINOR
+
+01NE/4 BEATTY MTN. 7.5'QUAD (EASTERN EDGE) ; SE FLANK OF TRAM RIDGE
+
+01 UPPER Tab AND Tpt
+
+01WEST EDGE OF NNE-STRIKING TRAM RIDGE FAULT ZONE (FOOTWALL BLOCK)
+
+2119354 47110101001
+
+0 OOFEOX;QUASICONG W/2PN 283 54S 47ECBB
+
+2316488205110101001
+
+0 OOFEOX
+
+PD 74 88S 25ECBB
+
+1211275107110101001
+
+0 0 0 POSTSIO2;WELLPOLSHCN 22 75E 73SCBB
+
+2133373 64110101001
+
+0 0 DWELL POLISHED SURFPN 63 73N 64WCBB
+
+1211473121110101001
+
+0 0 0 FEOX;JUXTA.Tcb/Tp tCN 24 73E 59SCBB
+
+1210968121110101001
+
+0 OOFEOX;FLT ZONE W/ 5CN 19 68E 59SCBB
+
+2425480310110101001
+
+0 00LOCAL BLOCKADJ FLTPI 344 SOW 50NCBB
+
+6734018 011414 001
+
+0 OOEST. SITE BED (MAP) JN 70 18N 0 CBB
+
+02130395 6
+
+0
+
+0 14 2 8
+
+CBC
+
+01 SCOTT A. MINOR
+
+01NE/4 BEATTY MTN. 7.5' QUAD (EAST EDGE) ALONG TRACK ROAD NEAR PROSPECTS
+
+OlTcrt
+
+01SMALL FAULT JUST WEST OF TRAM RIDGE FAULT
+
+1115278 78110101001
+
+0 00
+
+CN 62 78S 78ECBC
+
+1
+
+02 20595 12
+
+0
+
+0 14 2 8
+
+CBD
+
+01 SCOTT A. MINOR
+
+01 STRADDLES NW/4 AND NE/4 OF EAST OF BEATTY MTN. 7.5' QUAD. (SOUTHERN)
+
+01Tcr(FW OF MAP FAULT) / Tab (HW)
+
+01MAPPED AND MESOSCOPIC NW-STRIKING FAULTS (SOME CURVILINEAR?)
+
+11 6954 33110101011
+
+0 OOMAPPED FLT; OLDER CS 339 54E 33NCBD
+
+11 6954 84110101021
+
+0 00YOUNG XCSLK;SIO2FECN 339 54E 84NCBD
+
+3220680102110101011 1022 OOCC7T BY 3;SIO2/FEOXSN 296 SOS 78WCBD
+
+1227885165110101021 773 00 OFFSETS 2;SIO2/FEOCD 8 85W 15NCBD
+
+11 3546 75110101001
+
+0 OOMAP?:CURVES INTO 1CN 305 46N 75WCBD
+
+6719022 011010 001
+
+0 OOTcrt BEDDING
+
+JN 280 22S 0 CBD
+
+02 20595 12
+
+0
+
+0 14 2 8
+
+CBE
+
+01SCOTT A. MINOR
+
+01NE/4 EAST OF BEATTY MTN. 7.5' QUAD. (NEAR SW CORNER)
+
+OlTcb(HW) / Tct(FW)
+
+01MAPPED CURVILINEAR N-STRIKING FAULT JUST SOUTH OF CC CALDERA MARGIN
+
+01MEASURED FAULT FORMS AN IMPRESSIVE 4-M-HIGH HANGING-WALL SCARP!
+
+11 7677 30110101011
+
+0 00 OLDEST;LGE.GROOVESCS 346 77E 30NCBE
+
+32 7677 98110101022
+
+0 00-XU' S"a"GROOVS;SIO2SN 346 77E 82SCBE
+
+22 7677168110101032
+
+0 OOSLKS XC "b"?SYNSIOPD 346 77E 12SCBE
+
+6718025 011414 001
+
+0 OOTcrt BED EST. (MAP)JN 90 25S 0 CBE
+
+A-14
+
+02270795 17
+
+0
+
+0 14 2 8
+
+CBF
+
+01 SCOTT A. MINOR
+
+01NE/4 BEATTY MTN. 7.5' QUAD. (SE PART); ALONG STREAM CANYON
+
+OlTcb
+
+01NUMEROUS MESOSCALE CROSSCUTTING FAULTS S. OF TRAM RIDGE
+
+3115680 28110101011
+
+0 OOOFFSET BY 2
+
+SS 66 SOS 28ECBF
+
+1
+
+12 3577 92110101022 1433 OOOFFSETS1,OFSET BY3CN 305 77N 88ECBF
+
+2
+
+2115589 10110101032
+
+30 OOOFFSETS/SYNKIN7W/2PS 65 90* 10ECBF
+
+3
+
+3132185 70110101011
+
+0 00 OLDER WK,LOC. SLKSSN 51 85N 70WCBF
+
+4
+
+2132185 7114141022
+
+0 00 YOUNGER XCSLK; IREGPS 51 85N 7WCBF
+
+4
+
+21 1588 89110101032 1719 OOOFFSETS 4
+
+PN 285 88N 90*CBF
+
+5
+
+21 4060 89110101001
+
+0 00
+
+PN 310 60N 90*CBF
+
+6
+
+2414083355110101001
+
+0 00
+
+PS 50 83S 5WCBF
+
+7
+
+2132372 89110101011
+
+0 00 OLDER, LOCAL SLKS PN 53 72N 90*CBF
+
+8
+
+2132372 45110101021
+
+0 00 YOUNGER XC SLKS PS 53 72N 45WCBF
+
+8
+
+1211268103110101001
+
+0 00 SHARP,WELLPOL SURFCN 22 68E 77SCBF
+
+9
+
+31 3760 89110101011
+
+0 00<=3-M-THK SIO2
+
+SN 307 60N 90*CBF
+
+10
+
+1131583 67110101021 1024 OOOFFSETS 10
+
+CN 45 83N 67WCBF
+
+11
+
+2115286 25110101001
+
+0 00
+
+PS 62 86S 25ECBF
+
+12
+
+2231970 95110101021 459 OOOFFSETS 14
+
+PN 49 7ON 85ECBF
+
+13
+
+31 4271 89110101411
+
+0 OOOFFSET BY13;SLK WKSN 312 7IN 90*CBF
+
+14
+
+1134067 51110101001
+
+0 00
+
+CN 70 67N 51WCBF
+
+15
+
+11 272 58110101011
+
+0 00 OLDER
+
+CN 272 72N 58WCBF
+
+16
+
+21 272 88110101021
+
+0 00 YOUNGER XC SLKS PN 272 72N 88WCBF
+
+16
+
+1130878 71110101001
+
+0 00
+
+CN 38 78W 71SCBF
+
+17
+
+32 8083111110101001
+
+0 00
+
+SN 350 83E 69SCBF
+
+18
+
+01FAULTS 1 TO 4 STAINED W/ FEOX; FAULTS 5 TO 18 ALSO HAVE PRE/SYN SIO2.
+
+6732025 011414 001
+
+0 OOESTIM. (MAP)SITEFOLJN 50 25N 0 CBF
+
+19
+
+02140395 7
+
+0
+
+0 14 2 8
+
+CRA
+
+01 SCOTT A. MINOR
+
+01NW/4 EAST OF BEATTY MTN. 7.5' QUAD. (CENTRAL PART)
+
+OlTcr
+
+01UNMAPPED MESOSCALE FAULTS NEAR MAPPED CROSS-CUTTING FAULTS IN TcrUNITS
+
+1232946100110101011
+
+0 00 OLDER, WELL-POL;FEOCN 59 46N 80ECRA
+
+1
+
+2132946 62110101021
+
+0 OOYOUNGER XC GROOVESPN 59 46N 62WCRA
+
+1
+
+2434582272110101001
+
+0 OQWELL-POLISHED;FEOXPI 75 82N 88ECRA
+
+2
+
+6719836 011010 001
+
+0 OOTcrl FOLIATION? JN 288 36S 0 CRA
+
+3
+
+01****SITES "CRB AND n CRC" DO NOT EXIST***** ***************************
+
+02 20595 12
+
+0
+
+0 14 2 8
+
+CRD
+
+01 SCOTT A. MINOR
+
+01NE/4 EAST OF BEATTY MTN. 7.5' QUAD. (SOUTHWEST CORNER)
+
+OlTct(FW) / Tcrt(HW)
+
+01MAPPED NE-STRIKING FAULT JUST SOUTHWEST OF CLAIM CYN. CALDERA MARGIN
+
+2132877 10110101012
+
+0 00FINE,PROM. OLD SLK7PS 58 77N 10WCRD
+
+1
+
+2132877 78110101022
+
+0 OOYOUNG LOC.XC SLKS7PN 58 77N 78WCRD
+
+1
+
+6719520 011414 001
+
+0 OOBEDDING EST. (MAP)JN 285 20S 0 CRD
+
+2
+
+02260795 16
+
+0
+
+0 14 2 8
+
+CRE
+
+01 SCOTT A. MINOR
+
+01NW/4 EAST OF BEATTY MTN. 7.5' QUAD. (CENTRAL PART)
+
+01 Tcrt/Tcrl
+
+01AREA OF NUMEROUS MAPPED CROSSCUTTING N- AND E-STRIKING FAULTS
+
+A-15
+
+11 8060 75110101401
+
+OOMAPPED;SLK VERY WKCN 350 60E 75NCRE
+
+1
+
+3111570 50110101001
+
+OOMERGES W/(HW) 1 SN 25 70E 50NCRE
+
+2
+
+21 8563 54110101001
+
+OOMERGES W/(FW) 1 PN35563E 54NCRE
+
+3
+
+1133068 65110101012 11034 OOPROM.GRV/SLK; RIB CN 60 68N 65WCRE
+
+4
+
+2133068 85110101022
+
+00 YOUNGER?LOC.XC SLKPN 60 68N 85WCRE
+
+4
+
+3235571103110101401
+
+00 FORMS SILIC. RIB SN 85 7IN 77ECRE
+
+5
+
+3232050115110101001
+
+OOFEOX
+
+SN 50 SON 65ECRE
+
+6
+
+2114975 73114141001
+
+00 IRREGULAR SURFACE PN 59 75S 73ECRE
+
+7
+
+3115070 89110101011
+
+00 OLDER
+
+SN 60 70S 90*CRE
+
+8
+
+2115070 53110101021
+
+0 0 YOUNGERLOC.FINESLKPN 60 70S 53ECRE
+
+8
+
+01FAULTS 6-8 IN HANGING-WALL BLOCK OF MAPPED FAULT. MESOFAULTS 9-11 IN
+
+01FOOTWALL BLOCK OF SAME FAULT.
+
+2117875 73110101011
+
+0 OOTRUNCATED BY 11 PN 88 75S 73ECRE
+
+9
+
+22 2083110110101001 2128 00
+
+PN 290 83N 70ECRE
+
+10
+
+3229385115110101021
+
+0 OOTRUNCATES 9
+
+SN 23 85W 65NCRE
+
+11
+
+32 9563 95110101001
+
+0 00FORMS RIB; WELL POLSN 5 63E 85SCRE
+
+12
+
+01ALL CRE FAULTS HAVE PRE- SYN-, AND (OR) POST-SIO2 AND LOCALLY FEOX.
+
+6718539 011010 001
+
+0 OOBEDDING (FLTS.1-5) JN 275 39S 0 CRE
+
+13
+
+6718445 011010 001
+
+0 OOBEDDING (FLTS.6-11) JN 274 45S 0 CRE
+
+14
+
+02 70395 1
+
+0
+
+0 14 2 8
+
+CTA
+
+01 SCOTT A. MINOR
+
+01BEATTY MT. 7.5' QUAD.--0.3 KM NE OF THOMPSON MINE NEAR E. EDGE OF QUAD
+
+OlTcrt
+
+01NE-STRIKING MAP FAULTS IN FOOTWALL BLOCK OF TRAM RIDGE FAULT
+
+12 6480 97110101011
+
+0 OOOLDER/SYNSIO2/FEOXCN 334 80E 83SCTA
+
+22 6480120110101021
+
+0 OOYOUNGER XCSLK''/' 'PN 334 80E 60SCTA
+
+1228180 97110101011
+
+0 OOTRUNC. BY 4;FEOX CN 11 BOW 83NCTA
+
+2227777 92110101001
+
+0 OOSIO2/FEOX
+
+PN 7 77W 88NCTA
+
+2223874143110101021
+
+0 OOTRUNCATES2FEOXSIO2PD 328 74W 37NCTA
+
+2226972 94110101001
+
+0 QQSYN-SIO2
+
+PN 359 72W 86NCTA
+
+6725023 011010 001
+
+0 OOSITE BEDDING
+
+JN 340 23W 0 CTA BD
+
+02 70395 1
+
+0
+
+0 14 2 8
+
+CTB
+
+01SCOTT A. MINOR
+
+010.5 KM NW OF THOMPSON MINE ON NE/4 BEATTY MTN. 7.5 QUAD.
+
+OlTcrt
+
+01 SAME TECONIC SETTING AS SITE CTA
+
+2130474 87110101001
+
+0 0 0 JUXTA.WELD/ZEONWLDPN 3 4 74W 87SCTB
+
+1128987 58114101001
+
+0 00 FOOTBALL OF1/CC7RVDCN 19 87W 58SCTB
+
+2122475 86110101011
+
+0 00
+
+PN 314 75S 86ECTB
+
+1122475 50110101021
+
+0 OOYOUNGER XC SLKS CN 314 75S 50ECTB
+
+1311985269110101031 2865 OOOFFSETS FLT. 3 CI 29 85E 90*CTB
+
+3221685102110101011
+
+0 00FORMS LARGE SCARP SN 306 85S 78WCTB
+
+3133988 68110101021
+
+0 OOTRUNCATES FLT 5 SN 69 88N 68WCTB
+
+21 5780 85110101001
+
+0 00
+
+PN 327 80E 85NCTB
+
+21 2180 80110101011
+
+0 OOWK SIO2;OLDERXCSLKPN 291 SON 8 OWCTB
+
+22 2180110110101021
+
+0 00 YOUNGER;WK SIO2 PN 291 SON 70ECTB
+
+6730412 011010 001
+
+0 OOSITE BEDDING
+
+JN 34 12W 0 CTB
+
+02 70395 1
+
+0
+
+0 14 2 8
+
+01SCOTT A. MINOR
+
+01NE/4 BEATTY MTN. 7.5' QUAD; 0.5 KM NE OF THOMPSON MINE
+
+OlTcrt
+
+01SAME STRUCTURAL SETTING AS CTA, CTB
+
+CTC
+
+A-16
+
+2212277 97110101001 3330985264110101001 22 7477102110101001 1217970106110101001 2213489 96110101001 2330185268110101001 67 3021 011414 001
+
+0 00
+
+PN 32 77E 83SCTC
+
+0 00
+
+SI 39 85W 84SCTC
+
+0 00
+
+PN 344 77E 78SCTC
+
+0 OOSYN SIO2
+
+CN 89 70S 74WCTC
+
+0 OOSIO2/FEOX
+
+PN 44 89E 84SCTC
+
+0 OOSIO2/FEOX
+
+PI 31 85W 88SCTC
+
+0 OOEST. (MAP)SITE BEDGJN 300 21N 0 CTC
+
+1 2 3 4 5 6 7
+
+02 80395 3
+
+0
+
+0 14 2 8
+
+CTD
+
+01 SCOTT A. MINOR
+
+01NE/4 BEATTY MTN. 7.5'QUAD (EASTERN EDGE) ; NE END OF TRAM RIDGE
+
+OlTct (SILICIFIED BRECCIA IN HANGING-WALL BLOCK PROBABLY CONSIST OF Tpt)
+
+01ENE-STRIKING FAULT CHARACTERISTIC (?) OF TRAM RIDGE AREA
+
+2115675 64110101001
+
+0 OOLAM. SIO2 IN FLTZNPN 66 75S 64ECTD
+
+1
+
+2115965 80110101001
+
+0 OOLAM SIO2; FEOX PN 69 65S 80ECTD
+
+2
+
+02290495 8
+
+0
+
+0 14 2 8
+
+CTE
+
+01SCOTT A. MINOR
+
+01NW/4 EAST OF BEATTY MTN. 7.5' QUAD. (CENTER)
+
+OlTct-WELDED (HW) / Tct-NONWELDED (FW)
+
+01MAPPED ARCUATE FAULT NEAR CLAIM CYN. CALDERA MARGIN
+
+1115558 65110101401
+
+0 OOSLKS WEAK
+
+CN 65 58S 65ECTE
+
+1
+
+A-17
+
+Appendix B
+Site Data Plots Fault-slip data from each of the measurement sites are plotted on the following pages as lower-hemisphere, equal-area stereographic projections. Each plot shows measured fault planes (solid great circles) and associated slickenside striae (solid dots) and slip-sense determinations (full-headed arrows indicate hanging-wall movement of dip-slip faults; half-headed arrows show relative movement of strike-slip faults; complete, partial, and missing arrow heads denote certain, probable, and inferred slip sense determinations, respectively). Bedding attitudes measured at each site are shown by dashed great circles. Total number of fault-slip measurements at each site is indicated at lower right of each plot.
+B-l
+
+OT
+
+WN
+
+NN
+
+oaw
+
+WN
+
+N
+
+MRE NM
+
+MRF NM
+
+13
+MRG NM
+
+MRH NM
+
+B-3
+
+PQ
+
+MRM MRN NM
+
+MWA NM
+
+MWB NM
+
+B-5
+
+s
+o
+B
+
+/,-a
+
+WN HOd
+
+N
+90d
+
+N JOd
+
+WN
+aod
+
+PCI NM
+
+PCJ NM
+
+PCK NM
+
+PCL NM
+
+B-8 (0(0
+
+PCM NM
+
+PCN NM
+
+10
+PCO NM
+
+PCP
+NM
+
+B-9
+
+PYD NM
+
+PYE NM
+
+PYF NM
+
+PYG NM
+
+B-ll
+
+K>
+
+PTC NM
+
+PTD NM
+
+PTE NM
+
+PTF NM
+
+B-13 7/
+
+ACA NM
+
+ACS NM
+
+ACC NM
+
+CBA NM
+
+12
+B-14
+
+CBB NM
+
+CBC NM
+
+CBD NM
+
+CBE NM
+
+B-15 73
+
+CBF NM
+
+CRA NM
+
+21
+CRD
+
+CRE
+NM
+
+14
+B-16 7V
+
+z,i-a
+
+Ul N
+010
+
+NN
+010
+
+NN
+910
+
+WN
+ViO
+
+CTE NM
+B-18 76
+
+Appendix C
+Fault-Slip Measurement Locations The locations of the individual fault-slip measurements are shown on the following copies of portions of the l:12,000-scale EAST OF BEATTY MOUNTAIN NW, NE, SW, and SE and BEATTY MOUNTAIN NE and SE topographic maps. These base maps were produced for the U.S. Department of Energy's Yucca Mountain Project. All locations belonging to a particular measurement site are enclosed by an irregular circle and the corresponding three-letter site designation is indicated.
+C-l 7?
+
+cBc
+
+E510000
+
+36*56'15' 116*37 1 30"
+
+YUCCA MOUNTAIN PROJECT
+C-2
+
+(BEATTYMTN. SE)
+fCALE: 1:12,000
+
+PCQ E505000
+C-3 77
+
+PCQ E505000
+
+YUCCA MOUNTAIN PROJECT BEATTY MTN. SE
+
+E510000
+
+116*37'30" 36*56'1
+
+36*56'15' 16*33'45 '
+
+Produced for the U.S. Department of Energy by EG&G Energy Measurements. Inc
+
+Orthophotograph prepared from 1 40.0..0»0 scale aerial photographs taken July. 1990 by
+
+EG&G Energy Measurements. Inc.
+
+C-5 Sf
+
+E535000
+
+9-0
+
+C-7
+
+-too
+
+N805000
+
+(BEATTY MTN. NE)
+
+'37'30"
+
+E515000
+
+Produced for the U.S. Department of Energy by EG&G Energy Measurements Inc
+
+E520000
+
+(EAST OF E
+
+SCALE:
+mno
+
+E530000 1 16*33'45
+YUCCA MOUNTAIN PROJECT
+SHEET 7
+NW/4 EAST OF BEATTY MTN. 7.5" QUADRANGLE
+1990
+C-10
+
+_ Jj
+C 2Q
+^ -u ^O
+
+LV
+IIO
+N795000
+
+Appendix D
+Fault-Slip Data and Paleostress Tensor Plots Plotted below are lower-hemisphere equal-area stereographic projections of fault-slip data and paleostress tensor solutions from each of the 10 fault-slip domains designated in the study area. The larger, uppermost plot in each case represents all fault-slip data measured in the indicated domain. Below are one or more pairs of smaller plots of computed principal stress axes (right side) and associated fault-slip data (left side). Features of the fault-slip data plots are explained in Appendix B. In the stress plots, the 5-, 4-, and 3pointed symbols represent the a^ a2, and a3 axes, respectively, with the relative size of the symbols proportional to the computed (j) value; the (j) values are shown at lower right; large bold arrows highlight azimuths of subhorizontal 03 (diverging arrows) and a^ (converging arrows) axes. Numbers above solution pairs indicate inferred relative ages of fault/stress regimes in the domain, with 1 the oldest (queried where unknown or uncertain) (also see Table 2).
+D-l $8
+
+Domain 1
+
+NM
+
+0.22 D-2
+
+Domain 2
+
+NM
+67
+
+0.53
+
+0.43 D-3
+
+Domain 3
+
+14
+
+D-4
+
+Domain 4
+
+41
+
+0.45
+0.29
+D-5 9*.
+
+Domain 5
+
+N
+16
+
+D-6
+
+Domain 6
+
+43
+
+0.51
+
+0.73 D-7
+
+Domain 7
+
+NM
+10
+
+0.46
+
+D-8
+
+Domain 8
+
+NM
+25
+
+0.19
+
+D-9
+
+Domain 9
+
+18
+
+0.85 D-10
+
+Domain 10
+
+28
+
+0.42 D-ll
+
+35
+34 -
+
+Alabama" "^
+
+UDIF"" >
+
+'
+
+/
+
+Base from 1:10OOOOand 1:25OOOO USCS Digital Line Graph
+Location of subareas in the Apalachicola-Chattahoochee-Flint and Alabama Coosa-Tallapoosa River basins. Subarea described in this report is shaded.
+
+

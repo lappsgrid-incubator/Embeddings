@@ -1,0 +1,1727 @@
+seismic intensity earthquakes conterminous united state their prediction interpretation 
+seismic intensity earthquakes conterminous united state their prediction interpretation evernden kohler clow geological survey professional paper description modelfor compute intensity patternsfor earthquake 
+demonstration explanation systematic variation attenuation earthquake parameter throughout conterminous united state united states government print office wash ington 
+united state department the interior james watt secretary geological survey doyle frederick act director library congress catalog card 
+for sale superintendent document government print office washington 
+page abstract introduction rossi forel intensity versus modify mercalli intensity presently available model predict seismic intensity california conterminous united state example observe versus predict intensity santa barbara earthquake june monterey bay earthquake october san jose earthquake july fort tejon earthquake january long beach earthquake march bryson earthquake november kern county earthquake july 
+page example observe predicted intensity con 
+seattle earthquake april lompoc earthquake november earthquake eastern united state fault length versus moment magnitude energy release versus region crustal calibration function region length break versus moment versus value throughout united state suggest interpretation map predict intensity pattern estimate dollar loss individual potential earthquake mathematical detail model predict intensity detail rossi forel modify mercalli intensity scale reference cite 
+plate pocket 
+map show ground condition unit digitize vfc minute vfe minute grid predict rossi forel intensity fort tejon earthquake southern california 
+map conterminous united state show 
+ground condition unit attenuation factor digitize grid 
+predict rossi forel intensity saturate alluvium digitize ground condition unit san francisco california cape ann massachusetts potential wasatch fault utah earthquake 
+predict rossi forel intensity saturate alluvium digitize ground condition unit charleston south carolina owen valley california earthquake 
+predict rossi forel intensity saturate alluvium digitize ground condition unit new madrid missouri seattle washington fort tejon california earthquake 
+map show area california geology digitize vfc minute vfe minute grid 
+graph show intensity data oroville earthquake 
+map show 
+report predicted intensity value santa barbara calif earthquake 
+predict intensity value saturate alluvium ground condition unit digitize minute 
+minute grid santa barbara earthquake 
+predict intensity value grind condition unit digitize minute vi minute grid santa barbara 
+location main shock aftershock isoseismals monterey bay earthquake 
+predict intensity saturate alluvium ground condition unit digitize minute minute grid 
+monterey bay earthquake 
+predicted intensity long beach calif earthquake 
+predict intensity saturate alluvium minute minute ground condition unit bryson 
+calif earthquake 
+observe predicted intensity kern county earthquake california 
+comparison observe predicted intensity region lv2 kern county calif earthquake 
+predict intensity kern county earthquake range ground condition focal depth 
+predict intensity kern county earthquake 
+predict intensity seattle wash earthquake saturate alluvium condition different 
+fault length 
+predict intensity seattle earthquake ground condition grid 
+predict observed intensity lompoc calif earthquake two hypothetical fault break 
+epicenter locate byerly 
+predict observed intensity lompoc earthquake two hypothetical fault break 
+epicenter locate hank 
+predict observed intensity lompoc earthquake hypothetical fault orientation 
+length suggest hank 
+predict observed intensity lompoc earthquake base hypothetical fault place 
+yield isoseismals agreement observe intensity 
+predict observed intensity lompoc earthquake various length hosgri fault various 
+ground condition 
+fault model use calculation site intensity value lompoc earthquake 
+graph show 
+length fault break function seismic moment area within intensity contour 
+length fault break function seismic moment region conterminous united state 
+area within intensity contour function seismic moment region conterminous united state 
+map california show fault break use model estimate replacement value damage wood frame 
+correlation geologic ground condition unit california 
+correlation ground condition unit california assign relative intensity value 
+correlation geologic ground condition unit conterminous united state 
+correlation ground condition unit assign relative intensity value conterminous united state 
+observe predicted intensity santa barbara earthquake 
+observe predicted intensity value monterey bay earthquake 
+observe predicted intensity san jose earthquake 
+observe predicted intensity fort tejon earthquake 
+observe predicted intensity long beach earthquake 
+calculated parameter long beach earthquake 
+observe predicted intensity bryson earthquake 
+calculated parameter bryson earthquake 
+calculated parameter bryson earthquake 
+observe predicted intensity seattle earthquake 
+predict observed intensity value specific site lompoc earthquake november 
+average predict intensity saturate alluvium minute minute ground condition unit lompoc 
+calculated parameter lompoc earthquake use midpoint byerly observe intensity band 
+calculated parameter lompoc earthquake use modify observed intensity 
+calculated parameter lompoc earthquake use midpoint byerly observe intensity band 
+calculated parameter lompoc earthquake use modify observed intensity 
+observe estimated parameter select earthquakes eastern united state 
+value select earthquake united state 
+observe calculated parameter earthquakes region california idaho 
+observe calculated value select earthquake 
+predict replacement value wood frame construction construction damage potential earthquake 
+magnitude relative length break energy density 
+influence variation predict intensity value 
+influence variation predict intensity value 
+effect length time window predict intensity 
+observe predicted intensity value san francisco earthquake 
+seismic intensity earthquakes conterminous united state their prediction and interpretation evernden kohler clow 
+abstract elaborate expand description procedure give previous paper calculate intensity earthquakes conterminous united state 
+discus contrast modify mercalli intensity rossi forel intensity stress necessity take account contrast interpret intensity data 
+two new technique one graphical one statistical base usual mathematical model describe use analyze several earthquake 
+further example interpret observe intensity value term location fault fault length orientation value depth focus present 
+addition present scheme estimate expect replacement value damage wood frame construction result hypothesize california earthquake 
+this scheme show agree publish value loss san fernando earthquake 
+apply numerous potential earthquake california provide mean estimate approximate relative impact several earthquake 
+reevaluation earlier analysis statewide intensity value kern county earthquake accurately predict prediction paper take account variation attenuation within california different definition intensity unit 
+available intensity data fort tejon earthquake almost perfectly predict model 
+location lompoc earthquake hosgri fault intensity data allow conclusion 
+use publish intensity data seismic moment establish relation length break moment attenuation region conterminous united state determine nearly thousandfold increase moment give length break earthquake region relative earthquake occur regaions 
+also show energy frequency pas band relative intensity measurement approximately function length break value 
+these two observation illustrate drastic heterogeneity stress storage vicinity essentially earthquakes show consistent model earthquake base follow assumption fault zone similar comparatively weak high frequency energy derives breakage asperity fault break give similar asperity strength distribution low frequency energy derives large volume relaxation basic difference fault zone function weak fault zone surround rigid crust value decrease 
+the theory weak inclusion develop eshelby serf basis quantitative explanation 
+estimate replacement value wood frame construction total construction scale san fernando earthquake indicate potential california earthquake would cause 
+great loss due shake repeats san francisco hayward 
+these earthquake would cause loss nearly three two time great respectively expect loss repeat fort tejon 
+the total loss replacement value damage building repeat fort tejon earthquake calculate mean simple model billion dollar price 
+only half loss replacement value relate wood frame construction 
+earthquake cause loss one half great repeat fort tejon repeat long beach break whittier fault 
+the hypothetical break malibu coast fault break santa monica fault calculate cause loss amount percent percent respectively loss cause repeat fort tejon 
+introduction two recent paper evernden other evernden present procedure estimate rossi forel intensity pattern earthquake throughout conterminous united state 
+evernden show major factor control intensity pattern regional attenuation factor measure crust mantle attenuation property somewhat surprisingly factor correlate maximum length permissible fault break 
+depth focus secondary importance play role determine peak intensity epicentral region 
+this report describe illustrate computer program predicting intensity hypothetical earthquake hypothetical location conterminous united state 
+the program take account change value calculation intensity earthquakes region equal ivfe less 
+two new technique one graphical one statistical base usual mathematical model describe use analysis several earthquake 
+addition example interpretive power program conjunction observe isoseismal pattern present 
+several example prediction give include detailed prediction repeat fort tejon long beach earthquake 
+finally scheme calculate expected dollar loss 
+seismic intensity earthquakes conterminous united state 
+earthquake describe along application numerous potential earthquake california 
+rossi forel intensity versus modify mercalli intensity coast geodetic survey uscgs change rossi forel intensity modify mercalli intensity annual report intensity data united state earthquake see section entitle detail rossi forel modify mercalli intensity scale 
+from point view change unfortunate one two reason 
+first confused literature 
+the two scale distinctly different tendency ignore significant difference treat intensity map scale 
+second intensity unit scale well physical measurement agree nearly scales stepwise structure unit neither 
+evernden hibbard schneider point intensity prediction base model suppose double peak acceleration unit increase intensity ignore high frequency value short epicentral distance correlate good intensity intensity 
+addition medvedev show intensity value define twofold step peak response pendulum instrument design accentuate period near range period relevance normal intensity observation achieve excellent agreement intensity well numerous intensity scale clearly disagree value 
+believe return scale would desirable 
+intensity convert shake intensity follow intensity value xii represent ground failure 
+what certainly need new intensity scale step would create additional confusion literature read literature other 
+continual introduction restrictive building code wood frame structure california require redefinition intensity zone 
+when home could throw foundation intensity could report wood frame home bolt strapped foundation intensity may disappear 
+recent year see introduction building style though meeting code poor earthquake risk 
+further proliferation style may create sufficient number seismic vulnerable area high intensity continue report california 
+figure long beach earthquake figure kern county earthquake table page 
+seattle earthquake illustrate impact intensity map cause change intensity 
+because scale equal shake intensity nearly one intensity unit different viii neumann later volumes united state earthquakes nearly intensity include within unit virtually eliminate observed quantity seldom reach 
+the absence intensity value long beach kern county seattle earthquake note report earthquake recognition reason change report unit something earthquake 
+give study one must convert value vice versa literature allow two three scheme follow medvedev assume identical 
+since length fault break value generally set size vii boundary scheme would predict value 
+however trouble predict high intensity might well appear medvedev place vii viii equivalent vii viii 
+also medvedev presentation comparison scale differs significantly result read scale give neumann 
+medvedev use relation quite similar suggest 
+interpret symbolism neumann meaning 
+then vii viii equivalent vii viii respectively 
+with scheme set vii boundary value great radius vii vii 
+the kern county earthquake analyze manner 
+treatment publish isoseismal value earthquake lead predict whereas proper use value lead predict 
+see discussion kern county earthquake 
+assume scale law value continuous function use follow table relative value scheme linear interpolation this scheme lead nearly answer assume smooth rather stepwise relation value value 
+implement scheme option program example use give long beach bryson seattle earthquake 
+presently available model for predict seismic intensity 
+presently available model for predict seismic intensity california the program describe evernden predicting intensity california earthquake extend add capability predict intensity 
+see section entitle mathematical detail model predict intensity 
+for earthquake near boundary region special yet unprogrammed type calculation must make 
+see reanalysis give kern county earthquake july example study 
+analysis fort tejon earthquake january problem avoid use intensity data obtain region equal 
+major addition calculational capability result digitization minute minute grid geologic map california western nearly central california fig 
+the data 
+use sheet geologic map california olaf jenkins edition publish scale 
+all geologic rock unit indicate map group seismic response unit table 
+for purpose predict expected intensity value group assign relative intensity value table basis experience san francisco bay area use procedure originally develop borcherdt 
+correlation geologic ground condition data unit california vii minute minute grid 
+source state geologic map scale 
+geologic map unit 
+ground condition unit 
+granitic metamorphic rock kjfv jtrv ppv pmv psv pcc pcgr epc paleozoic sedimentary rock pss early mesozoic sedimentary rock jme kjf cretaceous eocene sedimentary rock epc undivided tertiary sedimentary rock qtc oligocene middle pliocene sedimentary rock pmec pme muc mmc plio pleistocene sedimentary rock puc tertiary volcanic rock olv qtv quaternary volcanic rock 
+qrv qpv quaternary sedimentary deposit qae qsc qst 
+area california geology digitize minute minute grid 
+correlation ground condition unit california assign relative intensity value 
+minute minute grid 
+ground condition unit 
+relative intensity 
+minute minute grid 
+ground condition unit 
+relative grid 
+coast range coastal marine sedimentary rock alluvium 
+seismic intensity earthquakes conterminous united state 
+the critical point note relative prediction give later alluvial terrain table treated prediction thick saturated water zero depth 
+this assumption certainly untrue many case particularly today 
+for old earthquake condition full saturation probably true nearly alluviated valley area los angel basin comparison observation prediction event make basis full saturation 
+where water table lower drop least one intensity unit relative occurring water table surface medvedev 
+therefore use map report prediction expect intensity damage estimation allow factor 
+one ascertain actual depth water table site concern low intensity value alluvium show figure one unit water table depth ivz unit water table depth 
+also correction type thickness alluvium make 
+work progress important aspect predict intensity 
+for study concerned prediction statewide regional basis minute minute grid describe evernden use table 
+conterminous united state since rate decrease intensity low many area united state evernden capability predict intensity across change value necessary aspect generally applicable program 
+this capability introduce program capability predict across multiple boundary 
+the logic use depend upon fault break appear essentially point source adequate distance boundary center break condition fulfil four time fault length great 
+because potential fault lengths region 1v6 region less region distance requirement easily meet nearly situations interest region 
+region earthquake near boundary treat point source yet unprogrammed technique follow see discussion kern county earthquake july 
+plate indicate pattern value incorporate program figure actually give value 
+stepwise change value almost certainly erroneous sophisticated model seem warranted time 
+additional comment plate appropriate 
+milne davenport study attenuation rate intensity acceleration eastern canada northeast united state use data lawrence grand bank timiskaming lawrence cornwallmassena earthquake 
+they find value nearly appropriate general region value agreement use 
+the map show region intrude along lawrence river great area include eastern united state 
+this region establish basis analysis several earthquake evernden 
+peter basham dominion observatory ottawa canada indicate oral commun analysis conduct group dominion observatory confirm existence zone 
+they analyze data small event along lawrence river establish boundary zone north lawrence zone along lawrence 
+thus nearly major seismic activity eastern part continent related region 
+all activity along lawrence cape ann charleston earthquake certainly region possibility exist new madrid earthquake also region evernden 
+the detailed placement boundary figure degree uncertainty 
+along east mississippi embayment boundary place along inland limit tertiary subsidence 
+westward location zone zone pure conjecture extent northward canada even less certain 
+the geological map united state publish national atlas united state america use complementary geologic base 
+digitization grid 
+table indicates seismic unit correspond geologic unit geologic map plate show unite state map term seismic unit table give tentative relative intensity value unit 
+study earthquake three map print routinely 
+the first map present groundcondition data term seismic response unit 
+the second map indicate predicted intensity saturate alluvium 
+for earthquake california use minute vfc minute grid either contour digitized version map present 
+the third map present predict intensity accordance ground condition data first map 
+the third map always print 
+presently available model for predict seismic intensity 
+digitize form 
+variety map format produce several illustrated following figure 
+important remember depth sensitivity intensity value control factor evernden unknown function depth therefore value equal depth 
+for earthquake normal depth western california value yield intensity value best agreement observation 
+general appear equal depth focus plus 
+through basically new mode calculate event parameter intensity data design develop two new technique make calculation 
+the first technique stimulate hank use avi area within intensity contour publish intensity map value hank other 
+when try use avi value estimate event parameter find commonly yield invalid estimate value disagreement estimate base use intensity data 
+the error great small value avi less cm2 
+therefore design technique try avoid problem small avi value use intensity contour useful publish intensity map 
+use intensity area map 
+rather use maximum distance contour epicenter long faults use maximum distance perpendicular parallel fault 
+the logic behind procedure recognition ground condition seriously perturb contour value particularly small area contour 
+assume maximum dimension intensity contour best estimate make contour table 
+correlation geologic ground condition unit conterminous united state source national atlas united state 
+maximum distance give intensity felt saturate ground 
+estimate also use report local magnitude maximum record intensity correct ground condition necessary 
+interpret limit detection 
+contour intensity intensity contour intensity intensity contour 
+this usage 
+contour derives analysis numerous intensity map 
+these several value earthquake value plot figure appropriate value 
+see figure example analysis 
+make somewhat subjective interpretation data ignore highintensity radius disagree badly data select value seem give best fit data 
+the estimate obtain simple manner always within factor two obtain detailed station station analysis 
+when value yield consistent estimate agreement detail analysis improve 
+because satisfactory agreement detailed calculation technique describe analysis earthquake eastern united state latter technique 
+the second new technique analysis develop satisfy request generate statistical approach analysis intensity data 
+the approach follow use observed station value intensity input data correct ground condition calculate fault center fault length fault orientation minimize several fit criterion calculation intensity regular calculation 
+the observational data treat singly criterion group bandwidth observe intensity value criterion 
+when data consider criterion either point treat separately bandwidth value weight accord inverse bandwidth 
+thus lompoc 
+unit geologic map sedimentary rock quaternary upper tertiary lower tertiary cretaceous jurassic arid triassic upper paleozoic middle paleozoic lower paleozoic young precambrian old precambrian volcanic rock quaternary tertiary volcanic rock 
+intrusive rock all age 
+ground condition unit 
+correlation ground condition unit assign relative intensity value conterminous united state 
+ground condition unit 
+relative intensity 
+seismic intensity earthquakes conterminous united state 
+earthquake byerly report intensity value viii vii bandwidth 
+the several criterion investigate call table call table obs calcx call table obs calc call table obs calc call 
+table plot ob calc versus obsj calculate absolute value area line ob calc regression line ob calc ob line obs ob 
+the actual parameter use width rectangle equivalent area length ob axis 
+this parameter call table 
+this criterion seek minimum residual prescribe reasonable pattern residual rather merely seek conventional minimum 
+also allow estimate probability nonminimum value 
+criterion yield nearly estimate event parameter 
+propriate vary value depth parameter value orientation model fault rotate angle counter clockwise assume center fault slip translation 
+with observe data well distributed quadrant distance around epicenter accurate correction ground condition several criterion yield minima nearly event parameter 
+data limit short range criterion fail use fourquadrant data 
+when observation well distribute distance limited quadrant include axis fault perpendicular criterion yield excellent minimum especially combined independent geologic data sensitive best value 
+reserve discussion mode analysis discuss several quake analyze technique 
+oroville earthquake parameter from data value parameter find 5km avi 3x10 cm2 
+formulae number station calculate intensity great band observe value number station calculate intensity less band observe value band value observe intensity station ob value central value band calculate intensity station number observe station 
+these quantity calculate network potentially possible set source parameter 
+the calculation begin den fault line straight curve either observed hosgri fault lompoc earthquake newport inglewood fault long beach earthquake assume extension hosgri fault south point sal 
+the coordinate slip translation measure parallel perpendicular great circle best fitting fault trace 
+select reference center break basis initial analysis intensity data 
+select pattern value test solution 
+length fault break kilometer 
+analysis intensity data oroville calif earthquake august 
+example observe versus predict intensity 
+example observe versus predict intensity santa barbara earthquake june rossi forel intensity byerly 
+know parameter epicenter western california normal depth california earth quake location faulting den observed tensity unknown parameter location fault break length constrain observed intensity 
+region intensity value great extend comparatively kilometer laterally fault break particularly fault break range 
+therefore pattern publish isoseismals fig 
+require break length location break near onshore 
+fault length investigate figure illustrate predicted intensity 
+the observed report intensity value good agreement report value assume relevant saturate alluvium nearly report locality alluvium 
+santa barbara earthquake june 
+detailed shape intensity viii contour byerly quite certainly result try include within one contour line viii observation even though distribute side santa ynez mountain 
+the solid predict intensity line figure base saturated alluvium indicate geologic factor 
+take account predict shape intensity contour presence santa ynez mountain ignore report byerly fig 
+figure indicate detailed pattern predict intensity use minute minute geologic grid 
+byerly acquire intensity data along near present route highway along near road extend ventura santa barbara santa maria san luis obispo 
+thus observation collect entire northeast quadrant 
+the absence value area indicate low intensity lack data 
+note figure predict area intensity reach far northwest observe 
+shorten fault factor would yield predicted intensity low station north mountain 
+comparison predict versus observed intensity versus length give table 
+even predict value may slightly low 
+attempt estimate size report area complicate fact may report full range actual level shaking 
+the report length area predict length predicts length 
+these value would suggest less would markedly disagree data table 
+the seemingly reasonable conclusion length region saturate alluvium express byerly contour individual station report great distance provide best basis estimate fault length 
+thus conclude near agreement observation estimate favor 
+monterey bay earthquake october rossi forel intensity mitchell 
+report predicted intensity value santa barbara earthquake june 
+report value roman numeral 
+know parameter western california normal depth location fault break aftershock main epicenter 
+seismic intensity earthquakes conterminous united state 
+maximum length aftershocks the parameter earthquake set quite well without recourse intensity data 
+however apparent discrepancy value base aftershock intensity value show 
+the epicenter main shock well control offshore monterey 
+aftershock location base time berkeley place far north coastline west santa cruz mitchell 
+observe predicted intensity santa barbara earthquake 
+predict intensity1 
+san luis obispo 
+arroyo grand nipomo santa maria orcutt los alamo 
+los olivos gaviota goleta ventura santa barbara 
+vii vii vii 
+vii viii viii viii vii 
+first number incorporates grind condition minute minute grid 
+second number saturate alluvium 
+ifthe aftershock zone deem measure length faulting time main earthquake result 
+for comparison calculate predicted intensity value value fault break extend northward epicenter main event see table fig 
+table present observe predicted intensity value various site 
+the station arrange increase latitude two model fault break indicate proper latitudi nal relation station 
+both model show excellent agreement pre dicted observed intensity station south break 
+for station latitude northerly latitudes intensity predict clearly high 
+average observed intensity station average predicted intensity average predict intensity 
+our conclusion fault break appropriate length use model high frequency source main event source southern portion aftershock zone 
+one might course suggest use energy density reduce normal value evernden 
+intensity north would still predict high 
+santa barbara earthquake 
+kilometer figure 
+predict intensity value minute minute grid santa barbara earthquake june saturate alluvium 
+minute minute ground condition unit table 
+example observe versus predict intensity 
+point possible significance prediction high intensity san jose morgan hill palo alto 
+presently use codification geologic map quaternary deposit treat equiva 
+lent physical property appreciable depth water table surface 
+this gross simplification lead prediction excessively high intensity region thin unsaturated 
+santa barbara earthquake 
+66666666666666666p 553555j752 55j 66666666666666667i77777777777774455555 
+77555557567575555566666616666666666667666666777777766666666t 7776755757555555555566666666666666667666666666666667767638886666666665s 
+7656666666e667676666666666666666668666666668666688877777783778777778775556 7755666e6o667676666666666 66666666s6666666866666677877788878777777877755 
+666666666666666677777776688886666667667787777877877787777788p888see s89999 566566fct6666666666666666688686686666666676778877878888777768888898599999999 
+5666566o66654444466666o666666666668868868888 7787788883888778889999999997999a 
+577556446566565566666666666668666t66666677777666767777777777777777777977777971 55566445556666566666666s6668866666666667777776666777777777777777777777777777 
+predict intensity value minute minute ground condition unit santa barbara earthquake june 
+computer plot south half santa maria sheet geologic map california 
+seismic intensity earthquakes conterminous united state 
+physically different material 
+thus sandcovered area much western san francisco use formulation assigns quaternary material ground condition lead predicted intensity san francisco earthquake much high predict observe 
+case thin unsaturated sand bedrock franciscan formation react essentially bedrock 
+without detail local geology choose paper predict bad case advise everyone fact suggest refine work local area improve estimate expect intensity value area quaternary deposit make 
+palo alto circa nearly entirely ground characterize old bay mud 
+strong young bay mud 
+evernden hibbard schneider young bay mud assign relative intensity old bay mud assign value 
+monterey bay earthquake october 
+morgan hill san jose locate santa clara valley thick valley alluvium 
+ground saturate area would expect reach nearly intensity value predict standardized quaternary table 
+however time earthquake water table san jose area lower several ten meter 
+may relevant point predicted intensity san jose result san francisco earthquake correct high 
+the prediction san jose morgan hill monterey bay earthquake probably high present model fail incorporate depth water table prediction 
+thus prediction come earthquake base present model quaternary deposit lower least one intensity unit part santa clara valley water table lower 
+one effective way protect community high intensity viii might lower water table several ten meter 
+shake intensity great vii viii 
+san jose earthquake july rossi forel intensity templeton know parameter western california normal depth location wood aftershock 
+location main shock aftershock isoseismals monterey bay earthquake october 
+observe predicted intensity value monterey bay earthquake 
+site santa maria 
+observe intensity iii 
+king city 
+santa cruz 
+morgan hill palo alto san leandro berkeley 
+san francisco downtown 
+predict intensity 
+example observe versus predict intensity 
+this earthquake interest one earthquakes approximately magnitude occurred central california since 
+the location earthquake suggest wood 
+quote examination map explanatory table show clearly circle origin distance majority shock also main reliably determine 
+hamilton center intersect project course hayward fault frequent interval 
+way point due south 
+hamilton point due north gilroy distance along course fault 
+though recent geologic mapping lead interpretation region consider wood contain extension hayward fault actually contain extension calaveras fault basic mode estimate fault length still valid calaveras fault part course lie exactly wood consider hayward fault 
+model earthquake 
+monterey bay earthquake 
+kilometer figure 
+predict intensity monterey bay earthquake october 
+saturate alluvium 
+minute minute ground condition 
+seismic intensity earthquakes conterminous united state 
+use two different value value agree aftershock zone value half zone chose use south half aftershock zone 
+table give comparison observe predicted intensity value value 5v6 
+the major unexplainable discrepancy report predicted value area san fran cisco templeton give value vii model predicts saturate alluvium 
+the report san francisco intensity inconsistent entire pattern observe value 
+order intensity vii predict san francisco earthquake would require totally inadmissable value view absence surface breakage inconsistency length intensity data 
+addition mcadie report there damage consequence san francisco 
+few object overturn 
+the vii value assign templeton must error 
+gilroy watsonville santa cruz predict experience high intensity report predicted intensity table derived assumption community situate saturated alluvium 
+the explanation high prediction may appropriate ground condition sit less sensitive saturated alluvium 
+both san jose morgan hill experienced intensity predict saturated alluvium contrast table 
+observe predict rif intensity san jose earthquake 
+prediction monterey bay earthquake thus support conjecture make earlier effect lower water table santa clara valley 
+the observed data appear agree good one average observe predicted value would suggest nearer 5v2 
+fort tejon earthquake january modify mercalli intensity agnew and sieh know parameter region concern south west san andreas fault normal depth location fault san andreas fault surface breakage cholame cajon pas this earthquake reanalyzed evernden other use model evernden use value 
+the interesting aspect study thanks labor agnew sieh available compilation numerous intensity observation earthquake 
+intensity value experience numerous site california compare predict value 
+table indicate rossi forel intensity value estimate use data agnew sieh chose use intensity intensity value predict saturated alluvium fault break 
+predict intensity 
+modesto sacramento santa rosa monterey berkeley hayward stockton watsonville santa cruz belmont pleasanton livermore oakland redwood city palo alto calaveras valley san martin gilroy boulder creek pescadero san francisco morgan hill los gatos saratoga santa clara san jose coyote 
+signifies predict intensity value enter table base saturate alluvium 
+discussion discrepancy observation prediction station include text 
+observe predict rif intensity fort tejon earth 
+san diego san bernardino vii vin san gabriel valleyvin los angel downtown vii san fernando valley viii34 
+viiiventura vffl santa barbara vii san andreas fault fort tejon viii 
+vii visalia vii viii 
+vii monterey santa cruz iii san francisco stockton sacramento 
+all path 
+part ofpathk 
+example observe versus predict intensity 
+tend along san andreas fault lat long lat long agreement prediction observation excellent virtually sit observed predicted intensity differ much one intensity unit 
+the data earthquake substantiate prediction peak intensity expect los angel area great earthquake san andreas fault vii viii san fernando valley eastern los angel experience possibly vii 
+these intensity presume zero depth water table 
+the marked lowering water table much area intervene year result peak intensity vii alluviated area san fernando valley los angel 
+model earthquake detail use minute minute grid 
+plate indicate geology area also indicate predicted intensity ground condition correction table applied assume zero depth water table alluviated area region plate 
+this plate publish blume other use prediction construct 
+point algermissen substantiate blume other study repeat great fort tejon earthquake disaster magnitude sometimes imagine 
+san fernando valley suffer less repeat san fernando earthquake 
+the remoteness san andreas fault heavily urbanized area southern california high rate attenuation region result repeat earthquake surprisingly small impact area whole 
+this conclusion support result give late section prediction oflosses numerous potential california earthquake give 
+fact worth mention basic disagreement general near fault pattern predict intensity show plate previously present san francisco earthquake evernden other report pattern show lawson map san francisco earthquake 
+lawson show narrow zone intensity fault approached irrespective ground condition idea attenuation link depth focus 
+model incorporate legitimate value attenuation depth focus predict pattern show lawson 
+addition total absence data within lawson support near fault intensity contour map 
+fact data study specifically refute contour 
+apparently lawson worked assumption intensity must occur even though intensity largely define shake criterion whereas define ground rupture 
+perfectly possible severfeet displacement associate shake intensity vii viii 
+belief lawson near fault contour almost totally derivative misconception quite erroneous 
+model expect intensity repeat earthquake incorporate near fault pattern intensity show lawson 
+long beach earthquake march modify mercalli intensity neumann know parameter western california normal depth location fault aftershock travel time aftershock this interesting earthquake variety reason principal one first major earthquake report 
+modify mercalli unit intensity 
+thus first significant earthquake without report intensity epicentral region 
+certain earthquake report unit rossi forel intensity clearly defined region intensity would define earthquake would accord great status hierarchy historical california earthquake 
+two possible model earthquake seem appropriate 
+the first make equal aftershock zone report hileman alien nordquist 
+the second follow benioff use estimate base comparison arrival southern california station solution restrain lie along newport inglewood fault indicate aftershock 
+initial study use value south end model epicenter 
+table give observe predict modified mercalli intensity value 
+assume site alluvial plain beach behave saturated alluvium value indicate appropriate 
+minute minute ground condition use value square bracket predict san clement toro san diego value well agreement observe value 
+appropriateness assumption saturate ground near long beach wood point correlation bad natural ground deep water soak 
+seismic intensity earthquakes conterminous united state 
+the general prediction intensity vii zone use would seem imply great site alluvium 
+however pump lowered water table depth would better value 
+conclude basis information hand likely 
+estimate loss expect repeat earthquake depend strongly knowledge depth water table today 
+wood comment absence intensity value indication small size earthquake 
+however figure make clear change definition intensity unit real reason absence report intensity value long beach earthquake 
+observe predict modified mercalli intensity long beach earthquake all value saturate alluvium 
+site observe 
+costa mesa 
+garden grove 
+huntington beach 
+newport beach 
+santa ana 
+seal beach 
+signal hill 
+south gate 
+redondo beach 
+manhattan beach 
+east los angel 
+laguna beach 
+huntington beach 
+beverly hill 
+culver city 
+santa monica 
+san clement 
+cardiff sea 
+santa maria 
+san diego 
+minute minute ground condition 
+predict intensity 
+example refinement estimation event parameter apparently possible use statistical model describe earlier analyze data reporting station via several criterion mention earlier 
+consider earthquake newport ingle wood fault parameter evaluate length break position fault line appropriate value possibility actual value give area western california slightly different value routinely used region 
+table present result calculation 
+table 10a present value indicate zero value 
+include within dashed line likely value 
+table 10b present obs calc value minimum value 
+0bscaio great range value permissible percent confidence area within dash line 
+table 10c give obs calc value minimum value large range value permissible percent confidence 
+table 10d present value minimum well acceptable percent confidence 
+the area overlap criterion percent confidence 
+the solution south north terminus latitude respectively 
+these compare report latitude long beach earthquake aftershock extend srom with best solution slight tendency mean value intensity band function value thus distance imply slightly incorrect value therefore redid analysis use value table 10e show result 
+the best solution via table 10e 
+table 10f base value give best solution 
+give calculate 
+value coordinate 
+solution base reject percent probability 
+solution within percent confidence area 
+table 10g give abbreviate listing value indicate essential agreement best event parameter 
+the follow table compare predict location fault break solution average solution observational data 
+example observe versus predict intensity 
+solution solution main shock epicenter aftershock 
+latitude south end latitude north end 
+the marked decrease value well fit aftershock zone elimination dependency residual upon distance suggest solution base superior base 
+bryson earthquake november modify mercalli intensity murphy and cloud 
+know parameter western california normal depth unknown parameter location epicenter this earthquake interest two reason 
+first historical earthquake significant magnitude occur lompoc monterey bay earthquake though locate different fault either 
+port intensity apparently anomalous first glance intensity vii report significant distance intensity viii report 
+even though report value modify mercalli rather rossi forel report intensity pattern appear anomalous 
+however logical explanation 
+table present observe predicted intensity two different model earthquake 
+the fault break distribute equally either side calculate epicenter 
+the noaa epicenter murphy cloud lat long recently loca tion event recalculate savage oral commun result lat long bolt miller give location lat long assign quality 
+these location agree noaa epicenter uncertainty northeast southwest direction 
+all predict intensity value table ground condition accord minute minute california grid 
+some entry show estimate alluvium value include square bracket 
+entry designate indicate either assume ground condition saturate alluvium minute minute grid although assumption may inappropriate predict great observed san simeon example peak value pre 
+long beach earthquake 
+intensity saturate alluvium 
+intensity saturate alluvium kilometer 
+predicted intensity long beach calif earthquake march 
+seismic intensity earthquakes conterminous united state 
+calculated parameter long beach earthquake 
+reference fault newport inglewood reference coords band use viii vii iii upper value low value 
+reference fault newport inglewood reference coords band use viii vii iii upper value low value 
+calculated parameter long beach earth quake continue reference fault newport inglewood reference coords band use viii vii iii upper value low value 
+reference fault newport inglewood reference coords band use viii vii iii upper value low value 
+reference fault newport inglewood 
+reference coords 
+band use viii vii iii 
+upper value low value 
+reference fault newport inglewood 
+reference center 
+band use viii vii iii 
+upper value low value 
+example observe versus predict intensity 
+calculated parameter long beach earthquake continue 
+reference fault newport inglewood 
+reference coords 
+band use viii vii iii 
+observe predicted intensity bryson earth quake value minute minute ground condition 
+site observe intensity bradley mile bradley bryson arroyo grande6 atascadero cambria carmel valley cayucos6 chualar6 guadalupe harmony king city lockwood morro bay6 oceano parkfield paso roble pismo beach6 salinas san ardo san luis obispo san simeon santa margarita templeton6 avenal benlomond5 big sur buellton5 buttonwillow casmalia cholame coalinga corcoran do palos hollister kettleman city lompoc foot hill maricopa monterey nipomo orcutt san miguel santa cruz santa maria 
+predict intensity 
+diet model report value predict less observed maricopa example 
+appear table value bracket best estimate suggestion somewhat long site intensity predict actually report 
+average predict value indicate nearly correct 
+addition study investigate bryson intensity data use statistical program 
+though great number reporting station nonuniform distribution create problem use 
+the virtual absence station quadrant center northwestward bryson distance intensity result poor control solve value 
+table indicate mark disagreement 
+estimate event parameter criterion actually 
+calculated parameers bryson earthquake reference fault nacimiento reference center band use viii vii iii upper value low value rms 
+value box parameter value cpt minimum 
+see table text 
+reference fault nacimiento reference center band use viii vii iii upper value low value rms 
+value box parameter value cpt minimum 
+see table text 
+seismic intensity earthquakes conterminous united state 
+calculated paramaters bryson earthquake continue 
+reference fault nacimiento 
+reference center 
+band use viii vii iii 
+upper value 
+low value rms 
+value box parameter value cpt minimum 
+see table text 
+minimum table unacceptable location seismological data place constraint kilometer northwestsoutheast position epicenter 
+the problem estimate data north effectively cover short range intensity give noise level data minimum find artifically low mean ob calc value function move calculate fault south correct location 
+technique suppress effect multiply calculate obs calc value cosine angle northward direction fault radial center fault station calculate type number 
+the quantity derive operation call cps use find best value function the effect yield poor value may also yield poor estimate therefore calculate cpt value cps value cpt differ ob calc value station west fault multiply prior calculation type number 
+use sine function procedure suppress influence near station intensity value estimate thus table give cpt 
+value pair small cps value 
+value course table use cps cpt effectively suppress effect poor station distribution intensity data give small value value small 
+range event parameter value also give best estimate near suggest 
+interpret great range equally acceptable set indication smear analysis use incorrect parameter value 
+conclude event location probably near nacimiento fault give publish location cannot certainly rule location southwest zone active fault cross san simeon point southeast northwest 
+therefore intensity data indicate earthquake large large santa barbara long beach earthquake significant area experience modify mercalli intensity viii 
+the explanation course lie fact 
+calculated parameter bryson earthquake 
+reference fault nacimiento reference center 
+band use viii vii iii 
+cps cpt 
+cps cpt 
+minimum cpt 
+there result great range value give cpt value less 
+table low rms value 
+cps cpt 
+wide range equally acceptable parameter interpret mean incorrect value consequent smear analysis 
+example observe versus predict intensity 
+the epicentral region bryson earthquake remote nearly unpopulated region small stream valley occasional ranch 
+although area km2 predict experience viii saturate alluvium nearly total absence material epicentral region lead peak report intensity vii 
+the contrasting intensity bryson earthquake predict saturate alluvium predict incorporate minute minute ground condition show figure 
+accord table evernden western california lead predict magnitude value compare report value earthquake coffman van hake 
+kern county earthquake modify mercalli intensity murphy and cloud know parameter location main shock aftershock observe fracture aftershock 
+bryson earthquake november 40km 
+kilometer figure 
+predict intensity bryson calif earthquake 
+saturate alluvium 
+minute minute ground condition 
+seismic intensity earthquakes conterminous united state 
+unknown parameter this earthquake study first paper series evernden other unsatisfactory result 
+particular model use fail predict northward extent intensity along east side sierra nevada 
+when paper write existence gross regional difference attenuation yet appreciate 
+the location earthquake near boundary region 1v2 lead pronounce perturbation observation prediction base uniform model 
+order construct predict intensity map earthquake follow step take define line california separate region value 1v2 
+through central valley boundary show heavy solid line figure assume along contact granite franciscan assemblage bury tertiary sedimentary rock middle valley 
+try several model conclude white wolf fault focus kern county earthquake region 1v2 boundary west fault see fig 
+the boundary assume swing sharply eastward essentially parallel garlock fault 
+assume value ivfc apply way needle calif nearly path san diego value position boundary uncertain along intermediate southeast azimuth 
+calculate expect intensity different fault length value 1v2 
+compare observation region value 1v2 
+select appropriate value 
+from boundary 1v2 propagate intensity predict 1v2 region accord prediction attenuation 
+this actually do note predicted value along boundary near epicenter average intensity unit low ivfc assume uniform model 1v2 thus increase value predict uniform model 1v2 unit region adjust misjoin predict intensity two region assume value region 1v2 correct intensity value region correct ray direction make large angle boundary value region obtain interpolation 
+figure indicate result several step resultant predict intensity saturate 
+the figure also indicate high intensity value report region predict intensity assume report high intensity correlative presence saturate alluvium equivalent ground condition 
+there excellent agreement prediction observation region 
+the much northward extent intensity value east sierra nevada along coast california clearly predict model 
+the predicted extent intensity vii viii region ivz confirm observation 
+point model use figure assume length fault break 
+fault break predict small areal extent intensity value viii 
+figure indicate difference intensity publish contour murphy cloud predict adjust minute minute ground condition 
+the difference small central valley 
+however large difference throughout sierra nevada 
+the publish isoseismals murphy cloud ignore granite base solely scattered sedimentary site east mountain 
+hand predict value base minute minute grid give great region low intensity throughout mountain 
+thus figure predict intensity site saturate alluvial ground north west lake tahoe observe figure show intensity minute minute grid see volcanic rock granite 
+though model parametrs 1v2 satisfactorily explain intensity value viii less seem predict high intensity epicentral region 
+thus show figure 12a value cause prediction large area intensity shake intensity saturate ground condition 
+figure 12b indicate value result total elimination predict halve area value figure 12c show near elimination value incorporate minute minute ground condition 
+conclude earthquake occur significantly great depth typical western california earthquake 
+the absence intensity value observe intensity earthquake even though foot displacement measure southern pacific railroad tunnel simply quirk observation combine odd definition intensity viii modify mercalli scale 
+value convert value nearly viii value become intensity numerous value vii become vii viii result give clearly 
+example observe versus predict intensity 116c 
+observe spot value predict contour intensity kern county calif earthquake july 
+seismic intensity earthquakes conterminous united state 
+kern county earthquake 60km kilometer 
+explanation difference observe predicted intensity not contour figure 
+comparison predict observed intensity kern county earthquake july iva 
+contour observe value murphy cloud 
+pattern area indicate difference observe predicted intensity value 
+example observe versus predict intensity 
+define area intensity earthquake 
+figure indicate contrast intensity map result use rossi forel modify mercalli unit 
+note earlier sound reason abandon modify mercalli scale revert rossi forel scale 
+our conclusion model base juxtaposition zone equal ivz satisfactorily explain observation intensity kern county earthquake 
+fact unable explain observation way 
+the data earthquake constitute beautiful confirmation existence region vary value vary attenuation 
+another point emphasize time data explain model assume regional value combine local ground condition respond energy deliver basement rock 
+model use blume associate blume other cannot accurately predict publish intensity value 
+their model must fail incorporates local ground condition ground condition 
+control attenuation along entire propagation path 
+finally note marked discrepancy magnitude value associate western california magnitude value observe earthquake richter 
+this discrepancy observe magnitude predict earthquake western california serf confirmation regional change attenuation location earthquake region value ivz 
+this matter interregional discrepancy magnitude value energy release discuss detail evernden discuss follow section 
+seattle earthquake april modify mercalli intensity murphy and ulrich know parameter evernden unknown parameter value location epicenter 
+kern county earthquake july 60km 
+kilometer figure 
+predict intensity kern county earthquake july 
+saturate alluvium saturate alluvium 
+minute minute ground condition 
+seismic intensity earthquakes conterminous united state 
+value this earthquake large historical earthquake seattle area 
+important try decide whether maximum potential earthquake area 
+estimate large maximum earthquake may 
+long beach kern county earthquake use modify mercalli scale preclude report intensity seattle earthquake 
+many community report intensity earthquake table limited community population great census national atlas 
+show value value give similar prediction nearly indistin 
+guishable basis available data 
+recent study milne use observed acceleration georgia strait juan fuca strait area earthquake region find appropriate attenuation factor value paper essential agreement analysis data seattle earthquake 
+all calculation table base value 
+all predict intensity value parenthesis predict saturated alluvium 
+intensity value parenthesis predict use ground condition grid united state map 
+figure present map predict intensity northwestern united state saturate alluvium 
+kern county earthquake july 60km 
+kilometer figure 
+predict rossi forel modify mercalli intensity kern county earthquake july minute minute ground condition 
+modify mercalli 
+rossi forel 
+example observe versus predict intensity 
+observe predicted intensity seattle earthquake 
+observe intensity 
+predict intensity 
+richmond beach 
+de moines 
+astoria oreg 
+hillsboro oreg 
+north portland oreg 
+oregon city oreg 
+portland oreg 
+seaside oreg 
+bryn mawr 
+mercer island 
+port townsend 
+baker oreg 
+beaverton oreg 
+corvallis oreg 
+dallas oreg 
+forest grove oreg 
+gresham oreg 
+lebanon oreg 
+mcminnville oreg 
+monmouth oreg 
+newberg oreg 
+newport oreg 
+prineville oreg 
+redmond oreg 
+salem oreg 
+silverton oreg 
+tillamook oreg 
+toledo oreg 
+woodburn oreg 
+port angel 
+sedro woolley 
+walla walla 
+albany oreg 
+observe predicted intensity seattle earthquake continned 
+observe intensity 
+predict intensity 
+hood river oreg 
+grand oreg 
+milwaukie oreg 
+north bend oreg 
+the dalles oreg 
+eugene oreg 
+saint mary idaho 
+ground condition apply parenthesis 
+first value correct square 
+ground condition 
+see plate correlation latitude longitude unit grid 
+note first value predict intensity numerous site observe indicate certainly short 
+for suggestion high value predict 
+though intensity value give parenthesis invariably low low observe imply ground condition may explanation observe value low intensity value predict saturated alluvium still seem many prediction high 
+conclude value appropriate earthquake use value 
+obtain intensity value table require use value large value use earthquake 
+link depth focus become large depth increase requirement value mean intensity data sensitive depth focus range 
+nuttli report depth focus earthquake 
+the data paper allow evaluaton accuracy depth estimate short range data establishment time origin thus depth 
+there seem doubt however depth range unusual value earthquake agreement unusual depth earthquake 
+report intensity value explainable one baker oreg report even though predicts 
+addition paucity report intensity surprising 
+where report predict 
+however vast area predict extend well montana northern sacramento valley california report murphy ulrich 
+may distance epicenter great people canvass fail 
+seismic intensity earthquakes conterminous united state 
+associate shake intensity level seattle earthquake 
+the found use ivfc consider light discussion evernden implies earthquake essentially large occur seattle area 
+the possibility severe shake comparable earthquake occur shallower depth 
+for illustration present predict intensity earthquake various depth value shallowest event value equal find appropriate earthquake western california 
+intensity predict saturated alluvium distance parallel fault center fault distance line fault 
+the column head indicates predict 
+intensity center break 
+the column head indicate perpendicular distance kilometer center break intensity scale 
+clear occurrence event like one april depth would drastically different experience puget sound area actual event 
+the item serious research seattle area determination 
+seattle earthquake april saturate alluvium 
+seattle earthquake april ground condition 
+40km kilometer 
+predict intensity seattle wash earth figure 
+predict intensity seattle earthquake 
+quake april saturate alluvium 
+april ground condition 
+example observe versus predict intensity 
+whether earthquake comparable occur shallow depth 
+lompoc earthquake november rossi forel intensity byerly assume parameter western california normal depth unknown parameter location the location earthquake publish byerly far offshore 
+the purpose initial investigation earthquake ascertain whether observed isoseismals consistent epicenter 
+figure 16a give observed intensity along intensity predict fault pass byerly epicenter fault break orient parallel coast along structural trend part california 
+figure 16b show result fault pass byerly epicenter fault break orient eastwest reach within point arguello onshore fault observe 
+figure 16a show certainly excessively long break 
+use illustrate impossibility reach observed intensity location orientation fault matter length break 
+figure illustrate one way attain high predict onshore intensity end long fault near point arguello 
+however specific model credibility consider term tectonics region 
+the predict observed intensity model many similarity model achieve good agreement isoseismals tectonic style 
+hank calculate epicenter basis data station southern california fig 
+three different fault model put epicenter 
+the first fig 
+17a parallel shoreline illustrate inability fault epicenter parallel san andreas fault explain observed isoseismals 
+this model predict onshore value 
+give viii value much region viii observe predicts viii vii value far north observed 
+the second model base hank epicenter fig 
+hypothesizes orient east west fault break reach within shore 
+though fault predict value observe 
+lompoc earthquake 
+600km byerly epicenter strike fault parallel regional structure 
+600km byerly epicenter strike fault east west east end break near shore 
+predict arable numeral observe roman numeral intensity lompoc calif earthquake november 
+base hypothetical fault byerly epicenter byerly parallel shoreline 
+base hypothetical fault byerly epicenter orient east west 
+seismic intensity earthquakes conterminous united state 
+badly fail predict viii vii value 
+the third model base hank epicenter fig 
+orientation show suggest hank 
+even observe value treat site saturate alluvium predict area less half observe 
+there onshore value predict predict viii area less half observe 
+the basic failing model placement fault far offshore 
+any technically credible orientation location fail generate sufficiently high intensity onshore 
+even tectonically incredible east west fault fail detail predict observation 
+the actual fault break must near shore must nearly parallel shoreline onshore fracture size isoseismals require break length several ten kilometer 
+figure present first effort place fault break satisfy isoseismals 
+major point model other attempt explain observation placement south end break near point arguello order explain observed value area 
+the main difference model one describe northwesterly strike 
+the result great sep 
+aration fault shoreline northward resultant need great fault length explain onshore intensity 
+though figure indicate satisfactory agreement observe predict value predict area viii may small 
+predict area show great disagreement port observation 
+next model fault break suggest gawthrop along hosgri fault 
+the length arrive try several length 
+figure 2qa show intensity predict saturated alluvium figure 20b show intensity predict use minute minute ground condition unit 
+figure 2qa show excellent agreement observation predic tion intensity viii 
+figure 20b indicate mark shrinkage area predict intensity viii probably area saturate alluvium ignore minute minute grid 
+all intensity value disappear similar reason 
+when vfc minute minute grid use predict intensity value extend point arguello northward along coast far figure 20a 
+apparent fail last two model predict large area intensity 
+lompoc earthquake 
+hank epicenter strike fault parallel coast 
+hank epicenter strike fault east west 
+predict observed intensity lompoc earthquake november 
+base hypothetical fault hank epicenter parallel shoreline 
+base hypothetical fault hank epicenter orient east west 300f 
+example observe versus predict intensity 
+value predict along beach sand dune area probably people time earthquake use category alluvium error 
+the area predict distance shore along stream river 
+flow water seldom see river may surface runoff year time 
+building site develop river course however enough rain produce surface runoff flood common 
+the absence dwelling suggest likelihood basis observation exist 
+also low water saturation physical characteristic alluvial material cobble sand would imply intensity expect saturate alluvium 
+therefore believe difference observe predicted value basis reject either last two model 
+this conclusion require station betteravia viii casmalia viii lompoc viii oceano viii byerly report intensity viii show alluvium minute minute grid thus treat saturated alluvium 
+calculation predict value high ground sit somewhat less sensitive saturated alluvium 
+the major remain task relative program predicting intensity identify properly characterize various type alluvium 
+hank basis seismological argument interval consequent restraint potential epicenter suggest shorten fault show figure 20c 
+the resultant prediction serious disagreement observation predict area half observe predicted area viii third less observe 
+several earthquake investigate lompoc earthquake use site intensity value 
+table list sit byerly report rossi forel intensity great 
+the fault model show figure describe follow hosgri fault break lompoc earthquake november 
+lompoc earthquake november 12r 
+predict observed intensity lompoc earthquake november base hypothetical fault hank epicenter length orientation suggest hank 
+explanation observe predict 125km epicenter select intensity could predict strike fault parallel coast figure 
+predict observed intensity lompoc earthquake november base hypothetical fault place yield isoseismals agreement observation 
+intensity predict saturated alluvium 
+seismic intensity earthquakes conterminous united state 
+hosgri fault break end hosgri fault break center third location suggest hank break the observed predicted intensity several model give table 
+two mode analysis seem justified one chosen depend upon one point view the first select model average predict intensity station within give intensity bandwidth equal central intensity value bandwidth 
+under ideal condition model achieve agreement near agreement bandwidth the second select small earthquake possible nearly observed intensity great predicted intensity saturate alluvium 
+model observe intensity great predict saturate alluvium inadmissible perturbation ground condition permissible within model could explain station 
+for analysis mode consider table 16a 
+the heading last three column indicate observe intensity center intensity bandwidth 
+indicate whether calculation intensity base saturated alluvium ground condition minute minute groundcondition data 
+use latter value table 16a indicate fault systematically predict 
+predict observed intensity value specific site lompoc earthquake november 
+site surf 
+arlight arroyo grand cambria casmalia guadalupe harriston huasna los alamos los olivos porno pismo beach san luis obispo santa maria bakersfield buellton button willow carpinteria creston goleta harmony king city naples reward santa margarita solvang taft ventura wasioja 
+population fault fault 
+intensity viii 
+intensity vii 
+lompoc earthquake november 
+predict observed intensity lompoc earthquake november 
+base location hosgri fault placement length break choose predict isoseismals agreement observation 
+intensity predict saturated alluvium 
+same intensity predict use ground condition minute minute grid 
+base location hosgri fault northward extent break control argument hank 
+example observe versus predict intensity 
+average predict intensity saturate alluvium minute minute ground condition unit lompoc earthquake use two set intensity data 
+fault model use calculation site intensity value table lompoc earthquake november erage intensity low 
+any short fault break along line would show great disagreement 
+previous analysis intensity data appear reject location lompoc earthquake far sea suggest hank 
+fault give best agreement average predict central intensity value bandwidth yield value low 
+from data break almost along hosgri fault suggest 
+for analysis mode consider table 16b 
+the number follow intensity value heading number reporting station bandwidth 
+high prediction deem permissible low prediction permissible 
+prediction bandwidth prediction bandwidth 
+12l 10l 
+might expect nearly equal number low high prediction 
+with less certainty fault reject station predict low even assume condition 
+mode analysis fault satisfies mode interpretation best 
+there value viii vii condition similar value con ditions 
+finally analyze intensity data lompoc earthquake via previously describe statistical model present calculation 
+table present calculation base value value 
+for observed intensity value calculation table use midpoint band define byerly viii vii 
+matter fact nearly every point band certainly within area intensity therefore redid calculation use observed value band rather obtain result table 
+because possibility value might slightly error uncertain impact error predict fault parameter redo calculation use value 
+the result procedure show table 
+table mark zone geologically acceptable solution definition acceptability fault break intersect land fault line extend santa barbara channel 
+consider offshore position fault acceptable 
+the reference fault line use show figure follow change northward fault extend accord publish map southward extend arbitrarily along general strike santa barbara channel 
+this do simply provide basis calculation 
+the reference coordinate 
+seismic intensity earthquakes conterminous united state 
+lat long center hosgri fault show figure 
+table indicate broad range solution yield low value 
+find use 
+all value find yield value around combination minimum table geologically unacceptable 
+the minimum acceptable site 
+partial search true minimum 
+thus even strongly reject location offshore clearly impossible 
+the acceptable coordinate low value 
+table band treat band term modified table show great reduction value imply change make treatment band appropriate 
+low value find long band low value find value nearly geologically inadmissible 
+geologically admissible low value find 
+the actual approximate minimum 
+value high reject 
+table give calculation band treat 
+the significant result essentially value high similar calculation use 
+value low find value find table 
+expect minima move westward length fault minimum get short 
+however coordinate minimum value still near 
+thus small value 
+the small slightly low value geologically unacceptable location 
+again location kilometer west minimum reject 
+table show calculation band treat band 
+interest phenomenon disappearance long line similar minimum characterize nearly value use 
+low minimum find small region minimum point geologically acceptable 
+low minimum find geologically unacceptable coordinate 
+this phenomenon line minimum versus 
+calculated parameter lompoc earthquake use midpoint ofbyerly observe intensity band reference fault hosgri reference center band use viii vii upper value low value 
+reference fault hosgri reference center band use viii vii upper value low value 
+reference fault hosgri reference center band use viii vii upper value low value lcp 
+example observe versus predict intensity 
+calculated parameter lompoc earthquake use midpoint byerly observe intensity band continue reference fault hosgri reference center band use viii vii upper value low value 
+calculated parameter lompoc earthquake use modify observed intensity reference fault hosgri reference center band use viii vii modify upper value low value 
+reference fault hosgri reference center band use viii vii upper value low value 
+reference fault hosgri reference center band use viii vii modify upper value low value 
+reference fault hosgri reference center band use viii vii upper value low value 
+all 041ji jl0091j 
+reference fault hosgri reference center band use viii vii modify upper value low value 
+seismic intensity earthquakes conterminous united state 
+calculated parameter lompoc earthquake use modify observed intensity continue reference fault hosgri reference center band use viii vii modify upper value low value 
+calculated parameter lompoc earthquake use midpoint ofbyerly observe intensity band reference fault hosgri reference center band use viii vii upper value low value 
+reference fault hosgri reference center band use viii vii modify upper value low value 
+reference fault hosgri reference center band use viii vii upper value low value 
+reference fault hosgri reference center 
+band use viii vii 
+upper value low value 
+reference fault hosgri reference center band use viii vii modify upper value low value 
+example observe versus predict intensity 
+calculated parameter lompoc earthquake use midpoint byerly observe intensity band continue 
+reference fault hosgri reference center band use viii vii upper value low value 
+calculated parameter lompoc earthquake use modify observed intensity continue reference fault hosgri reference center band use viii vii modify upper value low value 
+calculated parameter lompoc earthquake use modify observed intensity 
+reference fault hosgri reference center band use viii vii modify upper value low value 
+reference fault hosgri reference center band use viii vii modify upper value low value 
+reference fault hosgri reference center band use viii vii modify upper value low value 
+plot equivalent minima several value result limit azimuth observation intensity value quake 
+little subtended station center fault 
+thus give somewhat noisy observation several statistically equivalent solution possible particularly model parameter incorrectly set 
+this identical phenomenon observe try locate earthquake epicenter data limited range azimuth slightly incorrect traveltime curve 
+for parameter use table 12b low determine 
+value follow rms 
+seismic intensity earthquakes conterminous united state 
+northward end break 
+such earthquake comparable would give essentially predict intensity site predict earthquake 
+thus minimum rms value associate nearly parameter value 
+point rms value low give found value 
+however rms value associate high value table 12c 
+since consider critical estimator proper event parameter regard solution base superior base 
+the conclusion seem clear accept general applicability model intensity data lompoc earthquake require location near hosgri fault 
+any location even kilometers farther west reject high confidence 
+the tendency analysis base achieve sharp minimum interpreted mean correct estimate value 
+thus conclude probable parameter earthquake center bit south lat long solution long cannot reject 
+however lengths correct appropriate 
+whatever value model require fault break near hosgri fault 
+seem little doubt intensity geologic data together require location hosgri fault 
+issue engender much heat debate recent year seismic risk associate diablo canyon reactor approximate coordinate lat long 
+the site within mile trace hosgri fault opposite part fault probably break fig 
+true site experience maximum intensity endure evidence major fault nearer site 
+predict site would experience intensity thick saturate alluvium 
+however site actually miocene shale monterey formation formation predict intensity would unit less saturated alluvium 
+therefore predict site would experience maximum intensity repeat lompoc earthquake 
+even longer break would cause small increase predict intensity reactor site 
+accord seismicgap theory next earthquake hosgri fault would include break would break 
+earthquake eastern united state eus and iy4 several earthquake eastern north america study via publish intensity contour graphic technique describe page 
+particular interest timiskaming earthquake november important large earthquake felt much eastern canada data several near station 
+these data allow determine earthquake origin time unambiguously thus obtain close estimation depth focus 
+average estimate 
+use data station 
+analysis teleseismic data isc restrain 
+give depth 
+the recalculated epicenter coordinate lat long 
+therefore doubt wide spacing isoseismals attenuation phenomenon 
+the estimate avi value eastern united state earthquake give table 
+interest point radii intensity zone cornwall massena quake measure along lawrence river solution require value essential agreement data obtain 
+this another example reality 
+zone show along lawrence river plate 
+the value publish herrmann cheng nuttli eastern united state earthquake include table 
+the seemingly unusual pairing calculate value discuss follow section entitle length break versus moment versus value throughout united state suggest interpretation 
+fault length versus moment magnitude and energy release versus region point previously evernden direct correlation size intensity contour energy release earthquake distribute throughout 
+the impact differ rate attenuation severe totally erroneous conclusion draw factor unappreciated ignore 
+illustrate fact two way 
+fault length versus moment magnitude and energy release versus region 
+table observe estimated parameter select earthquakes eastern united state 
+earthquake grand banks2 east missouri2 cornwall massens illinois2 new hampshire4 
+timiskaming2 missouri2 
+herrmann cheng nuttli 
+2earthquakes used figure 
+permit data 
+result agreement evernden plate 
+solution agreement local magnitude earthquake region plate 
+uncertain interpretation 
+101a4 ucm2 
+first frequently assume energy release earthquakes eastern united state eus comparable california conclusion base occurrence three great historical earthquake eus cape ann mass charleston 
+car new madrid three california fort tejon san francisco owens valley last sometimes describe large san francisco quake 
+table list calculate implied approximate value total energy release numerous earth quake study one paper series energy everden 
+the earthquake often consider large great earthquake december new madrid fact small earthquake study energy release intensity relative frequency primary measure size 
+the earthquake class wood simply large local earthquake march long beach release approximately times much elastic energy frequency new madrid earthquake 
+cape ann earthquake large charleston earthquake total energy release great eus earthquake order ergs three great california earthquake release ergs owen valley earthquake march provide less energy 
+therefore intraplate region eu release one thousandth energy release three cite california earthquake 
+accord historical record great california earthquake since cape ann event contrast energy release eus california even great calculate 
+number convert ergs km2 year result east long erg km2 california ergs km2 contrast energy release rate 
+there simply comparison release rate elastic energy frequency relative intensity data earthquake intraplate area california 
+the second point wish emphasize clear 
+value select earthquake united state 
+san francisco 
+fort tejon 
+long beach 
+owen valley 
+kern county 
+charleston new madrid 
+log evernden 
+formula page 
+correlation observe seismic moment regional factor relation indicate either correlation stress drop attenuation factor influence regional characteristic subsume factor observe seismic moment 
+begin illustrate correlation calculate observed value observe calculated seismic moment region 
+hank hileman thatcher illustrate general correlation observe seismic moment area include within intensity contour avi either intensity either region 
+they find use mix data type still yield avi data point show general correlation large range value 
+because avi value strongly influence value intensity scale reanalyzed data use hank hileman thatcher add additional event intent normalize intensity data scale separate data different region 
+addition compare observe calculated value plot observed calculated observe value rather avi value 
+all observe calculated quantity give table 
+the observed value actually observe calculated basis high frequency spectral data short period seismogram 
+all calculate value obtain use observed intensity data formulas previous report evernden 
+seismic intensity earthquakes conterminous united state 
+comment data table calculate value use subsequent discussion require 
+addition use avi value estimate event analyze use full set intensity contour graphic technique 
+graphic technique use always chose accept value obtain applied estimate differ markedly obtain avi data 
+such discrepancy find event avi value cm2 range small avi area 
+aspect total intensity data include table maximum shaking intensity 
+note agreement observe maximum shaking 
+tensity calculate much well graphic estimate several avi value support use value calculate total intensity data 
+the value table use figure subsequent discussion follow asterisk 
+table illustrates mode analysis follow originally present evernden lead estimate essential agreement observe breakage value estimate use short period seismogram strong motion record 
+this agreement independent whether earthquake region calculation earthquakes assume energy density equivalent earthquake equal 
+additional test whether value determine ims earthquake meaningful analyze publish intensity data event region documentary evidence length surficial crack displacement data provide 
+bonilla geological survey 
+the graphic technique describe earlier used make analysis 
+table show report calculated value earthquake study 
+the additional comment require the value calculate manix earthquake seem serious disagreement observe value excellent agreement value report hank thatcher 
+see figure note implies dynecm 
+perhaps low value explain low water table low value fact measure pasadena although earthquake occur region lv6 path pasadena station mostly region 
+the intensity dimension 
+lytle creek 
+coyote mountain 
+desert hot spring 
+long beach santa rosa 
+san fernando borrego 
+imperial valley 
+san francisco santa barbara lompoc fort tejon wheeler ridge 
+truckee bakersfield fairview peak kern county oroville pocatello valley 
+oroville earthquake use small see discussion 
+the ground condition oroville area probably account small area map intensity 
+the intensity data hebgen lake earthquake indicate attenuation region surround epicenter uniform 
+they imply via model attenuation factor lv2 area south toward region know basis several earthquake tween north east 
+value use north east obtain value similar data area south 
+the fort sage mountains galway lake intensity data grossly inconsistent report lengths fracture 
+all fort sage mountains data agree versus report galway lake data imply well versus report surficial breakage 
+because value calculate equivalent earthquake provide energy require develop observed intensity pattern short calculate value suggest one three condition stress drop abnormally low high frequency energy release short piece break parkfield observe surficial fracturing influence factor rupture length depth 
+whatever condition short calculate value imply anything anomalous less energy 
+fault length versus moment magnitude and energy release versus region 
+calculated parameter earthquakes region ofk california idaho 
+ohsnrvnh valups 
+kmx mom 
+alvi calculation 
+vii vii vii vii 
+intensity calculation 
+viii vii 
+intensity type publish data 
+modify mercalli 
+rossi forel 
+seismic moment dyne 
+moment region ivfc earthquake normalized region 
+ayi area cm2 include intensity contour 
+observed value intensity regional unit columns 
+local magnitude 
+observe magnitude value region calculate richter formula southern california reg 
+calculate maximum predict shake intensity unit observation 
+calculation base full pattern intensity observation 
+value follow asterisk use figure 
+for event 
+entry calculation 
+area within intensity contour square centimeter 
+log 1v4m1 
+earthquake observe earthquake ivz observed earthquake ivz observed normalized see text 
+seismic moment dyne centimeter 
+length fault break function seismic moment right area within intensity contour avi leave 
+seismic intensity earthquakes conterminous united state 
+lease ivz quake earthquake equivalent 
+thus available data seem indicate value fork 1v2 earthquake calculate mean model quite accurate estimate actual break lengths thus energy release intensity pas band earthquake essentially identical earthquake 
+for discussion seismic moment first consider event occur region 
+the left side figure indicate theoretical relation avi 
+the equivalent area determinable show increase factor ten av1 avi 
+order relate avi empirical relation must establish do hank hileman thatcher 
+separate data different region intensity scale find different scaling law avi find 
+the relation find appropriate data normalize avt value avi value figure log log avi this curve drawn right side figure express relation via avi curve leave side figure 
+the non underlined number plot along curve calculate observe observed value earthquake 
+case excellent agreement empirical curve entire range value 
+this agreement imply earthquake short long period energy derive fault length accord single spectral scaling law 
+two event show marked disagreement curve 
+parkfield particular interest describe extensively literature 
+numerous investigation long period data earthquake find value observe 
+surface breakage 
+however strong motion data indicate high frequency energy come length fault lindh boor 
+addition intensity vii contour long value totally anomalous normal california earthquake 
+show table intensity data imply 
+the parkfield quake clearly abnormal california high frequency energy derive dominantly short piece fault normal california stress level longperiod energy derive failure much longer slowly break fault segment 
+basis analyse discordance parkfield datum point empirical curve figure expect 
+inadequate analysis do event 
+coyote mountain ascertain whether similar explanation applies datum point 
+regard event 
+desert hot spring agreement curve show figure would result use avi value report hank hileman thatcher 
+the report intensity data quake show remarkable inconsistency distribution value 
+these report far away los angel intersperse many much low value 
+the value derive avi area use hank coworkers predict epicentral intensity high felt area much large 
+the limit detection 
+boundary drawn earthquake usually near intensity 
+value desert hot spring earthquake place boundary inside outer lobe 
+addition less required predict intensity vii desert hot spring death valley needle 
+without ignore anomalous value report earthquake purpose make estimate consistent intensity observation use 
+observe calculated value select earthquake 
+cedar mountain nev 
+excelsior mountain nev 
+hansel valley utah 
+manix calif 
+fort sage mountains calif 
+kern county calif 
+rainbow mountain nev 
+rainbow mountain nev 
+fairview peak nev 
+hebgen lake mont 
+galway lake calif 
+pocatello valley idaho 
+oroville calif 
+kilometer fracture bedrock 
+however epicenter kilometer away quaternary deposit 
+see text 
+2by use data south epicenter 
+see text 
+32l value determine short period seismogram 
+see text 
+fault length versus moment magnitude and energy release versus region 
+value yield calculate dyne 
+note formula relate serf well predict observation fig 
+the point great relevance one mention passing 
+observed value earthquakes region normalize ratio moment predict via avi avi ivk value calculate value find observation analysis intensities one obtain normalize value agree predict value earthquake underlined number fig 
+this correlation strongly suggest observed value earthquake directly comparable observed value earthquakes insofar imply relative level long period energy release probably correlate detail relevant relaxation radiation phenomenon 
+the explanation high value earthquakes certainly simple regional difference attenuation 
+the absence regional difference demonstrate fact nuclear explosion thus point source versus yield curve independent region evernden filson 
+now note report calculated value table wherein calculate value equivalent earthquake region 
+evernden relation log 2667v0 empirically developed basis data earthquake 
+the validity relation regard earthquake study show fact average observe value earthquake table equal average calculate via formula either observe obtain analysis intensity data 
+the next point note mark disagreement report value earthquake earthquake equivalent 
+the average report studied earthquake average calculated equivalent earthquake difference 
+this difference average measure inconsistencies routinely occur estimate earthquake 
+magnitude estimate use originally intend richter scheme order earthquake region accord generalize size parameter error present calculation would incorrect attenuation formula earthquake 
+however since estimate consider many measure energy release moment parameter major inconsistency present practice apply formula devel 
+oped region earthquakes region 
+use set formula follow type 
+formula log log log log log log log log 
+the formula inconsistent richter predict value lower would predict data richter table 
+interesting note university california berkeley often report value great california institute technology pasadena southern california earthquake mcevilly oral commun 
+possible explanation differ value data use establish richter curve may contaminate multiprovince path 
+use formulae evernden normalizing set equation earthquake high frequency energy thus fault length give follow 
+universal use formula estimate lead error station iy4 region respectively 
+there possible scheme scale reason scale use evernden may directly convertible maximum amplitude versus distance 
+the disagreement suggest additional factor may influence maximum amplitude 
+the important point high value presently assign earthquake fault small area indicate invalid formula use calculate stress drop high quake earthquake equivalent 
+suggest follow formula use detailed work do 
+formula log log log log log log log log 
+amplitude micrometer epicentral distance kilometer amplitude measure standard wood anderson seismometers 
+suggest pattern value unite state find plate correction multiregional path must make 
+seismic intensity earthquakes conterminous united state 
+crustal calibration function region elaborate theme last paragraph one major continue error estimate seismological parameter use invalid calibration formula 
+the routine value presently publish usgs use term distance range demonstrate invalid year ago evernden 
+the term log use universally one empirically determine richter appropriate southern california 
+certainly invalid yield consistent estimate region different attenuation 
+recent example use method calculate see data earthquake march pocatello valley idaho utah border 
+the publish parameter quake arabasz other avi cm2 viii analysis short period seismogram dyne 
+the value calculate publish usgs 
+one anomaly data value list range incorrect calibration curve still use distance range 
+evernden incorrect shape curve routinely use western united state extensively discuss resultant error estimation illustrate 
+the value report station distance range earthquake ignore 
+secondly mean value report station range mean value report station range 
+point evernden clark gutenberg curve wave inconsistent modern observational data curve yield value high range value range 
+calibration make nearer station report earthquake becomes report value within range fall finally magnitude compare expect event occur western california record low amplitude station evernden clark evernden 
+source calibration assess neighborhood unit evernden 
+nearly station range shieldlike area eustype crustal structure condition lead expect difference unit relative lowamplitude station evernden clark 
+therefore compare magnitude use report author value event would occur western california record low amplitude station 
+next consider report value 
+the curve use usgs arabasz richins langer convert wood anderson data estimate curve establish richter southern california 
+word calibration curve appropriate region use region ivfc procedure almost certain lead gross error value ivfc independent distance correlative way value event region 
+ignore usgs value great distance station use consider two value report arabasz richins langer 
+assume value indicate average value range 
+value assume actually magnitude range may overestimate unit 
+therefore calibrated value event would 
+the report avi value cm2 lead predict value predict dyne graphic technique predicts dyne 
+both value compare report value dyne would predict earthquake region 1v2 
+all value probably indistinguishable calculated basis shortperiod seismogram 
+implies earthquake region 
+thus intensity data data data imply event much small usually consider 
+data agree estimate base high frequency data 
+addition value ivfe earthquake predict associate imax 
+this value consistent observe value viii small area 
+all observation appear establish earthquake small dimension energy output pas band typical intensity value value approximately equivalent earthquake equivalent western california 
+length break versus moment versus value 
+length break versus moment versus value throughout the united state and suggest interpretation point probably require reemphasis meaningful physical sense value calculate intensity data 
+the procedure calculate value must reiterate 
+give appropriate value region intensity data use calculate energy require focus create observe quantitative pattern intensity 
+then determine value require region region calibration versus energy supply calculate energy requirement 
+evaluate whether calculated value region meaningful compare data establish actual length break earthquake estimate 
+where get nearly correct value region calibration 
+the data table prove procedure describe serf successfully estimate value earthquake region 
+all ivfe event know presumably know value include table show agreement observe calculated value extend least range 
+estimate region east stress do evernden agreement calculate charleston earthquake size high intensity isoseismal quake 
+addition point location presently occur small earthquake charleston area cluster along zone exactly place fit within high intensity contour earthquake arthur tarr write commun 
+finally master event location james dewey oral commun historical instrument locatable earthquake charleston area along zone 
+several earthquake originally place offshore proven occur zone 
+thus seismic activity charleston area past several decade consist aftershock earthquake 
+word one seismic locus region seem certain locus earthquake 
+there earthquakes eastern united state unequivocal demonstration length break exist 
+basis geologic seismologic evidence frank mckeown write commun conclude fault segment longer new madrid area 
+quote letter address point 
+believe source dimension call new madrid earthquake small length 
+the basis opinion fault postulate new madrid fault zone heyl brock map illinois kentucky fluorspar district dimension see heyl mckeown 
+also time start think apparent relationship mafic instrusives earthquake source zone eastern 
+this result speculative paper mckeown would different write today short fault length postulate base upon circuitous reason 
+still think idea paper wrong emphasis make evidence intraplate rift associate rock 
+know evidence rift associate structure intrusives accumulate 
+hildenbrand kane stauder show pretty clearly rift like structure appear terminate northwest trend structure kind near new madrid 
+prior aeromagnetic gravity data presence alkalic mafic intrusives subsurface embayment surface around embayment indicative rift 
+evidence short fault new madrid area infer seismic pattern focal mechanism reflection profile data 
+the subsurface structure near new madrid must complex apparent go long fault indicate diverse epicenter trend differ focal mechanism 
+south caruthersville seismic trend appear center riftlike structure 
+one infer relate fault fault zone long 
+however typical east african type intraplate rift present subsurface cannot believe seismic along single long fault 
+rift fault accord map literature examine 
+rift contain numerous parallel subparallel normal fault apparently result tensional stress across broad arch precede formation rift 
+perhaps seismic confine one side rift long fault zone could postulate even bound fault rift commonly echelon 
+our estimate 2vfe value earthquake evernden may may consistent field observation 
+because know correct value anything permissible basis available data cannot deny possibility fault much long 
+there positive evidence technique estimate value yield accurate result several region reason technique fail region available data new madrid area indicate indeed fail yield accurate estimate 
+the conclusion one must draw result fault zones region united state similar 
+asperity must essentially equal strength equal mean distribution fault surface region 
+whatever effective stress condition one region duplicate other 
+the inhomogeneity stress fault surface region san andreas fault express asperity stress drops several hundred bar average stress drop ten bar common knowledge 
+what new pattern probably similar region unite 
+seismic intensity earthquakes conterminous united state 
+the mean stress rise somewhat without affect high frequency energy cannot rise order magnitude 
+give validity estimate associated implication next point note strong dependence relation value 
+all data table plot figure 
+obvious relation moment fix across united state 
+moment actually increase factor thousand 
+because estimate high frequency measure basis long period second infinity figure consider plot shortperiod energy versus long period energy plot implies thousandfold increase long period energy relative short period energy 
+point interest correlative avt versus data earthquake figure plot fig 
+show similarity versus avi relation region 1v2 relation 
+versus two region markedly different 
+this insensitivity avi versus change ivz hank hileman thatcher able get common curve avi versus mixed data earthquake region 
+the question explain versus relation figure 
+specific possible value dyne associate value pair value curve figure 
+permissible association uniform half space could possibly explain value 
+there must another operative inhomogeneity 
+suggest earthquake eastern united state along fault zone constitute soft inclusion otherwise highly rigid strong crust 
+follow eshelby consider follow situation uniform elastic medium shear modulus jlo soft inclusion sphere shear modulus 
+explanation earthquake 
+seismic moment dyne centimeter figure 
+length fault break function seismic moment region conterminous united state 
+length break versus moment versus value 
+bed otherwise uniform elastic medium shear modulus ju0 
+presume shear stress apply distance large compare dimension soft inclusion investigate shear stress 
+center space center sphere term remotely apply shear stress 
+case case ju0 tti j80 5v0 poisson ratio outside inclusion 
+for then find following relation 
+sion necessary apply great distant shear stress 
+yui one tenth ju0 externally applied stress must time stress require fault surface 
+ijl one twentieth jii0 externally applied stress must ten time require fault surface 
+thus mean shear stress require failure bar regional stress outside inclusion must bar lowstress drop quake highly stress regional environment 
+now consider comparative change strain energy associate fault zone failure shear stress 
+since strain energy change measure moment analysis relevant figure 
+consider follow situation assume total stress drop fault uniform space 
+thus stress within soft inclusion less distantly apply stress 
+order achieve give level shear stress fault within inclu 
+8rv radius circular fault patch 
+explanation earthquake earthquake earthquake 
+seismic moment dyne centimeter figure 
+area within intensity contour function seismic moment fault lengths region conterminous united state 
+seismic intensity earthquakes conterminous united state 
+21b figure 
+fault break use model estimate replacement value damage wood frame construction 
+map predict intensity pattern 
+exists soft region radius shear modulus fjii 
+condition except total stress drop presume take place within entire volume soft inclusion 
+obtain follow value 
+apparent nearly desire ratio possible concept 
+the asperity fault surface provide nearly high frequency energy inhomogeneous relaxation much low average stress level provide long period energy 
+the question arise why one hypothesize total volume relaxation what reasonable value give satisfactory answer 
+the basis total volume relaxation hypothesis found 
+the conclusion base intensity data fault zone similar thus strongly condition weaken 
+the suggestion observation dilatancy may occur eastern united state dilatancy imply extensive fracture weakening volume surround fault 
+the fact high value measure ambient stress many eastern united state rock along fact pervasive fracturing rock epicentral region new madrid earthquake frank mckeown oral commun 
+this highly fractured mass may relax partially entirely release fault surface may keep relax decade charleston 
+suggest difference environment earthquakes western united state eastern united state mostly differences away fault zone everything soft region inclusion soft 
+must hypothesize relevant associate propagation shear 
+wave inclusion ijl related stress storage pseudo relate nonlinear deformation highly fracture mass 
+increase probably factor require overcome limitation standard model estimation 
+thus give fjiq ratio limit volume total relaxation require partial relaxation large volume need 
+the required dimension seem deny available data 
+point address qualitatively corner frequency effect note investigator eastern united state earthquakes implication effect regard value within conventional model 
+suggest rapid fault breakage follow slow rate relaxation appreciable volume soft inclusion lead spectral shape uninterpretable homogeneous model 
+some interesting relation suggest 
+major implication one seek sit potentially damaging eastern united state earthquakes seek zone low ambient stress 
+high stress implies high rigidity little chance fault failure 
+low ambient stress extensive fracturing possibly associate evidence fluid movement depth typify seismic zone eastern united state 
+another interesting possibility high deformation associate relaxation finite volume radius several kilometer would provide environment detectable small strain could see many kilometer epicenter 
+inclusion deform premonitorily earthquake small concomitantly detectable deformation strong region surround weak inclusion 
+thus may mechanism effect measureable strain distance inconceivable model base upon homogeneous elastic model 
+map predict intensity pattern illustration use program predict expected intensity pattern earthquake anywhere conterminous include several plate pocket rear cover 
+plate consist two map digitized geology united state see table correlation geologic ground condition unit table designated relative intensity groundcondition unit plate pattern value presently program 
+seismic intensity earthquakes conterminous united state 
+plate consist two map composite predict intensity saturate alluvium san francisco wasatch fault 1v6 cape ann composite predict intensity correct ground condition san francisco wasatch fault cape ann plate consist two map composite predict intensity saturate alluvium charleston owens valley 1v2 composite predict intensity correct ground condition charleston iy4 owens valley plate consist map composite predict intensity saturate alluvium new madrid iy4 seattle fort tejon composite predict intensity correct ground condition new madrid iy4 seattle fort tejon estimate earthquake model use produce map represent almost maximum credible earthquake area 
+remember grid size map 
+therefore nearly river bed site saturate poor ground constitute dominant ground condition hardly grid element thus sense map correct ground condition 
+those map useful therefore indicate intensity expect bedrock 
+the new madrid earthquake model region rather one 
+point evernden earthquake model either way epicentral region 
+the southwestward projection intensity plate cape ann earthquake result calculational problem concern grid size proximity irregular boundary ivi hypothetical epicenter 
+the implied pattern probably erroneous 
+for region except program take account boundary change attenuation rate accordance plate 
+adequate documentation justify detail plate exist 
+the regional contrast length break energy release size felt area apparent map 
+estimate dollar loss for individual potential earthquake 
+guide relative risk associate different 
+fault potential earthquake fault 
+developed simple program estimate expect 
+replacement value wood frame construction 
+know inherent danger esti 
+mate believe important 
+capability make rapid estimate relative potential 
+damage different potential earthquake even 
+estimate large small factor 
+the procedure follow closely parallel use 
+blume other 
+because make 
+change procedure report 
+hand many potential reader 
+report briefly outline technique 
+implement city california could 
+implement region 
+data set require 
+list california city unincorporated 
+area population great 
+include county population 
+latitude longitude ground condi 
+list latitude longitude 
+point california 
+estimate dollar value wood frame con 
+struction city california 
+billion population 
+blume other 
+table percentage damage expect 
+wood frame construction versus rossi forel 
+intensity rfi base value give 
+freeman association bay area 
+government blume other 
+rfi rfi 
+iii rfi rfi 
+rfi rfi 801x50 
+rfi rfi 
+rfi rfi 
+vii rfi rfi 
+viii rfi rfi 
+rfi rfi 
+rfi rfi 
+estimate dollar loss for individual potential earthquake 
+parameter hypothesize earthquake coordinate point fault value value 
+virtually ignore character fault motion see 
+for time assume ground condition sit one intensity unit less appropriate saturate alluvium 
+most community alluviated valley valley water table least deep today 
+the program use three specify ground condition value 
+calculate list loss estimate saturate alluvium granite site 
+for paper tabulate relative loss base 
+the procedure calculation follow give earthquake parameter for community calculate expect rfi normal formulas calculate expect percentage damage wood frame construction table iii calculate expect replacement value wood frame construction population answer billion dollar 
+for county sum expect replacement value community county 
+for state sum expect replacement value county 
+for grid point center end fault calculate expect rfi expect percentage damage 
+the result calculation step several potential earthquake give table 
+figure table show fault break model estimate replacement value damage woodframe construction 
+the number figure refer equivalently number earthquake table 
+because san fernando earthquake one relevant damage data comment model use earthquake order 
+most california earthquake model would occur vertical strike slip fault 
+for place line source along surface trace use value value appropriate earthquake study san francisco quake evernden other 
+within simple model radiation pattern well depth focus subsume best fit value 
+for san fernando earthquake use appropriate place epilocus hypothetical line source downdip direc 
+tion surface trace fault halfway surface trace epicenter apply value 
+value predict intensity low near fault maximum predict value saturate alluvium value give satisfactory near field intensity affect far field value 
+calculation damage wood frame construction southern california change million million increase course san fernando nearby part los angel 
+follow blume other use data san fernando earthquake basis double figure obtain estimate total replacement value obtain value million million 
+these value compare report value million steinbrugge schader 
+thus peak intensity dollar damage suggest value appropriate one thrust generate earthquake 
+therefore several thrust fault model placed epilocus line source downdip direction surface trace fault give dollar loss estimate relative value 
+all strike slip earthquake model epilocus along surface trace value 
+the first earthquake estimate give table repeat san francisco earthquake san andreas fault 
+evernden other show necessity extend break cape mendocino order explain observed isoseismals northern california 
+the second earthquake table fault break richmond san jose hayward fault 
+the ground condition community east side san francisco bay treat several include area water table near surface 
+dollar loss rise factor three case ground condition use 
+however ground condition part east bay may intensities area east highway san francisco peninsula probably appropriate ground condition 
+loss would higher assumed calculation 
+thus consider probably true loss wood frame construction great repeat earthquake hayward fault 
+the short hypothesize break show hayward fault represent central part big break break opposite san jose 
+loss former predict twice high san fernando earthquake damage latter predict 
+seismic intensity earthquakes conterminous united state 
+equal half cause san fernando damage southern california 
+see table 
+estimate replacement value damage struc 
+disagree estimate wesson other tures billion value essential 
+potential earthquake might occur agreement billion estimate blume 
+zayante fault character other 
+the high attenuation rate south 
+mapped surface trace fault fortuitous coalesc ern california distance fault 
+ing short apparently separate failure zone seem heavily urbanized area lead far low 
+deny possibility simultaneous break along loss normally assume intensity pre 
+feature assume part 
+dicted city los angel range 
+the santa barbara break intend simu 
+late recent earthquake east end table clearly illustrate existence potential 
+break place epicenter main shock threat southern california nearly great 
+length constrain predict great great pose san andreas fault 
+all loss predict break 13b table immediately 
+santa barbara county almost damage north part newport inglewood fault 
+would santa barbara 
+the aftershock zone break cause loss comparable 
+long lee other repeat long break 
+whether main earthquake 13d table along fault predict 
+appropriate unknown 
+cause shake damage time great 
+the break central san andreas fault peat 
+break whittier fault 
+repeat fort tejon 
+the predicted loss cause great loss san fernando 
+well two large earthquake half loss expect 
+san francisco bay area yet earthquake repeat 
+even break malibu 
+commonly consider pose great threat coast fault cause loss amount half much 
+predict replacement value wood frame construction construction damage potential earthquake california 
+san andreas 
+palo colorado 
+san gregorio 
+santa barbara 
+santa barbara 
+santa barbara 
+san andreas 
+laguna beach new clement 
+13b newport inglewood 
+13c newport inglewood 
+raymond hill 
+16a elsinore south 
+16b elsinore north 
+san fernando 
+isa san jacinto 
+18b san jacinto 
+malibu coast 
+santa monica 
+21b rise canyon 
+coordinate one end break 
+2coordinates end break 
+predict replacement value 
+wood frame construction 
+mathematical detail model for predict intensity 
+damage associate repeat 
+the great apparent threat southern california however santa monica fault predict total replacement value billion result earthquake 
+however calculation illustrate danger calculate dollar loss without consider recurrence time 
+evidence hand marine terrace along southern california coast geodetic measurement general region indicate significant displacement santa monica fault extremely rare recent millenia major active thrust today much far north 
+therefore return time earthquake model may well many hundred thousand year 
+combine long expect return time estimate potential damage high calculate lead predict annual loss low 
+though san jacinto fault active fault southern california today location apparently limited size earthquake occur render minimal regional threat although certainly great significance san bernardino environs isa 18b 
+because earthquake hypothesize san jacinto fault assume related breakage along northern fault even double length extension southward would greatly increase predicted loss 
+the two model break elsinore fault probably large expectable 
+the break elsinore fault hypothesize great earthquake impact san diego 
+predict replacement value wood frame construction earthquake million 
+know appropriate dimension attach potential earthquake rise canyon fault 
+break tens kilometer develop fault damage san diego would greatly exceed million 
+because san diego build largely bedrock marine terrace report intensity frequently two unit less saturated alluvium include replacement value earthquakes rise canyon fault 21a 
+table clearly indicate california earthquake comparatively short return time cause great damage maximum expectable earthquake hayward fault northern section san andreas fault 
+repeat san francisco predict cause damage replacement value would nearly three time repeat fort tejon 
+even break 
+central hayward fault predict cause loss comparable fort tejon repeat 
+although fault break could model example cite illustrate numerous possibility exist extensive damage earthquake southern california 
+our calculation indicate however loss wood frame construction amount time damage cause san fernando earthquake likely 
+important point keep mind damage estimate give base damage due shaking 
+potential loss dam failure consequent inundation rupture dike extensive fire hazard include indirect cost result disruption variety service industry 
+mathematical detail model for predict intensity 
+long curve fault assume series uniform point source closely space desired 
+the formula use 
+effectively equation evernden hibbard schneider coefficient rather 
+acceleration intensity rossi forel local magnitude number equally space subevents use model achieve nearly uniform release energy along fault break energy erg release earthquake magnitude richter 
+distance kilometer point point fault point observation pseudo depth term choose give proper near range die intensity 
+intensity value beyond nearly insensitive variation expect value earthquake united state 
+term control rate die thus effectively log energy arrive point energy arrive point 
+arbitrary lead coefficient select 
+seismic intensity earthquakes conterminous united state 
+give correct intensity value uniform ground condition particular earthquake 
+once set normalize earthquake cannot change 
+the value give set give identical short range value give equation evernden hibbard schneider 
+the point fault distribute length appropriate value value use appropriate length break 
+when shorter fault region consider equation slightly alter order simplify analysis manipulation escape multipoint aspect energy release 
+replace rj2 convert equation integral expression uniform energy concentration along break use energy concentration along break semantic device recognize source energy fault strain volume rock 
+definition sketch 
+point observation 
+plus effect integral influ 
+ence term dependent upon position 
+matter fact appear empirical 
+california data general correlation 
+tween follow eliminate 
+equation assume relation 
+form design agree approximately california 
+711m log 
+erg per kilom eter break 
+obtain result show table 
+table magnitude relative length break energy density iog «[> logei logei 
+law relate give text 
+local magnitude california earthquake 
+coordinate point observation relative center break axis orient along line break 
+fjq11 xx22 cos4k 
+now discuss role various parameter control prediction 
+equation stand enter separate quantity 
+one unit change change result unit change tenfold change change cause unit change 
+the parameter the parameter play role depth calculation 
+although must definite relation depth focus exact value agree depth expect travel time analysis 
+influence uncertainty estimation value largely eliminate consider value observe distance epicenter 
+observation indicate value less seem appropriate large earthquake value great seem irrelevant 
+failure achieve agreement value probable depth focus may well arise fact dominant energy influence intensity trap mode whereas amplitude mode show complicate relation depth focus 
+calculate intensity value equation value reduce reason describe give table 
+appear uncertainty whether cause confusion estimation less use data 
+earthquake use large enough give valid estimate intensity distance estimate base intensity data thus eliminate confusion estimate arise uncertainty appropriate value sug 
+mathematical detail model for predict intensity 
+table influence variation predict intensity value 
+gested data confusion eliminate 
+also peak intensity estimate field observation place severe limit permissible value 
+therefore uncertainty serious impact estimate moderate large earthquake 
+table show behavior intensity value short range lead clear prediction appropriate value subsequent set value 
+equation would suggest value might strongly correlate 
+for fix value however value influence primarily factor factor function minimal effect variation probable range require consideration addition change value integral small change 
+table illustrate point 
+the value ivz normalize give value 
+the ivfc value ivz imj yield rate decay distance similar ivz 
+the actual predict value fall rapidly decrease 
+study intensity data report evernden show appropriateness use value 
+leading coefficient 
+this coefficient completely arbitrary set give ground condition 
+the coefficient use consider appropriate predict value saturate alluvium ground condition zero correction factor evernden hibbard schneider choose give correct value san francisco earthquake 
+problem energy sum long fault break 
+for long fault break one produce san francisco earthquake question arise whether integration equation include energy entire length break energy arise time window around time arrival near part 
+table influence variation predict intensity value 
+since intent one formula applicable scale long break short one factor consider 
+the mode analysis set time window calculate part fault would produce arrival point observation within time window assume velocity break velocity wave propagation 
+the next problem select appropriate time window 
+one second certainly short seem certainly long 
+the window consider around time arrival peak increment near point break 
+throughout study assume phase arrival critical general prevalence earth inhomogeneity adequate confuse phasings 
+because intensity value report san francisco earthquake show evernden hibbard schneider explainable basis short period data assumption seem appropriate 
+table 29a give predict value total energy independent window length i10 energy time window around peak arrival san francisco event 
+see i10 norm i10 norm also indistinguishable 
+value respectively 
+the superscript norm signifies value normalize give epicentral distance zero 
+essentially rate decay 
+the formula exact one use san francisco event evernden hibbard schneider 
+the versus data earthquake table 
+thus observe norm nearly indistinguishable 
+therefore rule use window either side peak arrival follow 
+this mean factor west coast instead use evernden hibbard schneider 
+data small california earthquake time window correction require support change value 
+since fundamental set equation parameter 
+seismic intensity earthquakes conterminous united state 
+effect length time window predict intensity 
+fault break from center sec 
+san francisco 
+bll ival 
+ceise iii 
+key vfb velocity fault break velocity shear wave 
+base energy arrive sec peak arrival 
+base energy arrive see peak arrival 
+base energy arrive see peak arrival 
+base total calculate energy 
+normalized give equal 
+norm iui normalize give equal 
+observe predicted intensity value san francisco earthquake 
+seismographs different kind felt small number person rest 
+very feeble shock 
+felt several person rest strong enough direction duration appreciable 
+feeble shock 
+felt person motion dis turbance movable object door windows crack ceiling 
+shock moderate intensity 
+felt generally everyone disturbance furniture bed etc ring ing bell 
+fairly strong shock 
+general awaken asleep general ringing bell oscillation chandelier stop clock visible agitation tree shrubs startled person leave dwelling 
+vii strong shock 
+overthrow movable object fall plaster ring church bell general panic without damage building 
+very strong shock 
+fall chimney crack wall building 
+extremely strong shock 
+partial total struction building 
+shock extreme intensity 
+great disaster ruin disturbance stratum fissure ground rock fall mountain 
+accomplish use san francisco earthquake lead coefficient equation change predict value reduce average difference i5norm iionorm final operative equation 
+set take value dictate pattern isoseismals 
+show fault length less consider equivalent 
+note lead coefficient equation change evernden 
+the value earlier paper incorrect 
+detail rossi forel and modify mercalli intensity scale rossi forel microseism shock 
+record single seismograph seismograph model several seismographs different kind shock felt experienced observer 
+extremely feeble shock 
+record several 
+modify mercalli abridge 
+not felt except especially favorable circumstance 
+rossi forel scale 
+felt person rest especially upper floor building 
+delicately suspend object may swing 
+rossi forel scale 
+felt quite noticeably indoors especially upper floor building many people recognize earthquake 
+stand motor car may rock slightly 
+vibration like pass truck 
+duration estimate 
+ill rossi forel scale 
+during day felt indoors many outdoors 
+night awaken 
+dish windows door disturb wall make crack sound 
+sensation like heavy truck strike building 
+stand motor car rock noticeably 
+rossi forel scale 
+felt nearly everyone many awaken 
+some dish window etc broken instance crack plaster unstable object overturn 
+disturbance tree pole tall object sometimes notice 
+pendulum clock may stop 
+rossi forel scale 
+felt many frighten run outdoors 
+some heavy furniture move instance fall plaster damage chimney 
+damage slight 
+vii rossi forel scale 
+reference cite 
+everybody run outdoors 
+damage negligible building good design construction slight moderate well build ordinary structure considerable poorly build badly design structure chimney break 
+noticed person drive motor car 
+viii rossi forel scale 
+damage slight specially design structure considerable ordinary substantial building partial collapse great poorly build structure 
+panel wall thrown frame structure 
+fall chimney factory stack columns monument wall 
+heavy furniture overturn 
+disturbs person drive motor car 
+viii rossi forel scale 
+damage considerable specially design structure well design frame structure thrown plumb great substantial building partial collapse 
+building shift foundation 
+ground crack conspicuously 
+underground pipe break 
+rossi forel scale 
+some well build wooden structure destroy masonry frame structure destroyed foundation ground badly crack 
+rail bent 
+landslide considerable river bank steep slope 
+shift sand mud 
+water splash slopped bank 
+rossi forel scale 
+few masonry structure remain stand 
+bridge destroy 
+broad fissure ground 
+underground pipe line completely service 
+earth slump land slip soft ground 
+rail bent greatly 
+damage total 
+wave see ground surface 
+line sight level distort 
+object throw upward air 
+reference cite abag earthquake intensity expect cost san francisco bay area association bay area government hotel claremont berkeley calif agnew sieh documentary study felt effect great california earthquake seismological society america bulletin 
+algermissen study earthquake loss los angel california area department commerce washington arabasz richins langer 
+the idaho utah border pocatello valley earthquake sequence march april press 
+benioff the determination extent fault application long beach earthquake seismological society america bulletin 
+scholl somerville honda damage prediction earthquake southern california final technical report contract 
+geological survey 
+miller catalogue earthquake northern california adjacent area january december seismograph station university california berkeley california borcherdt effect local geology ground motion near san francisco bay seismological society america bulletin 
+byerly note intensity santa barbara earthquake santa barbara san luis obispo seismological society america bulletin 
+the california earthquake november seismological society america bulletin 
+coffman von hake earthquake history united state publication revise edition noaa washington eshelby the determination elastic field ellipsoidal inclusion relate problem proceeding royal society london ser 
+evernden magnitude estimate regional nearregional distance united state seismological society america bulletin 
+seismic intensity size earthquake relate phenomena seismological society america bulletin 
+reply seismological society america bulletin 
+adequacy routinely available data identify earthquake seismological society america bulletin 
+evernden clark study teleseismic part physic earth planetary interior 
+evernden filson regional dependence surface wave versus body wave magnitude journal geophysical research 
+evernden hibbard schneider interpretation seismic intensity data seismological society america bulletin 
+freeman earthquake damage earthquake insurance new york mcgraw hill gawthrop the lompoc california earthquake seismological society america bulletin 
+hank the lompoc california earthquake november aftershock seismological society america bulletin 
+hank hileman 
+thatcher seismic moment large earthquake southern california region geological society america bulletin 
+hank thatcher graphical representation seismic source parameter journal geophysical research 
+herrmann cheng nuttli archeoseismology apply new madrid earthquake seismological society america bulletin 
+heyl mckeown preliminary seismotectonic map central mississippi valley environs geological survey miscellaneous field study map scale 
+hildenbrand kane stauder magnetic gravity anomaly northern mississippi embayment spacial relation seismic geological survey miscellaneous field map study map scale 
+alien nordquist seismic southern california region california institute seismol 
+seismic intensity earthquakes conterminous united state 
+ogy pasadena california 
+jackson public response earthquake hazard california geology 
+lawson report state earthquake investigation commission upon california earthquake april carnegie institute washington 
+lee johnson henyey yerkes preliminary study santa barbara earthquake august major aftershock geological survey circular 
+lindh boor parkfield revisit seismological society america bulletin 
+mcadie san francisco note california earthquake july seismological society america bulletin 
+mckeown hypothesis many earthquake central southeastern united state causally relate mafic intrusive body journal research geological survey 
+jan feb 
+medvedev determination earthquake intensity chap 
+earthquake moscow academia nauk press russian 
+engineering seismology moscow academia nauk press translate english israel program scientific translation jerusalem the international scale seismic intensity chapt 
+seismic zone moscow academy science available translation department commerce national technical information service springfield 
+milne seismic risk map canada proceeding world conference earthquake engineering new delhi milne davenport distribution earthquake risk canada seismological society america bulletin 
+mitchell the santa cruz earthquake october 
+seismological society america bulletin 
+murphy cloud united state earth quake washington coast geodetic sur vey ser 
+murphy ulrich united state earth quake washington coast geodetic survey ser 
+neumann united state earthquakes washington coast geodetic survey ser 
+united state earthquakes washington coast geodetic survey ser 
+nuttli the western washington earthquake april seismological society america bulletin 
+richter foreshock aftershocks bulletin earthquake kern county california part division mine state california 
+steinbrugge schader earthquake damage relate statistic san fernando california earthquake february washington department commerce part 
+templeton the central california earthquake july seismological society america bulletin 
+department commerce united state earthquakes government print office washington variously page 
+wesson helley lajoie wentworth fault future earthquake borcherdt study seismic zonation san francisco bay region geological survey professional paper a30 
+wood region origin central california earthquake july august september seismological society america bulletin 
+preliminary report long beach earthquake california seismological society america bulletin 

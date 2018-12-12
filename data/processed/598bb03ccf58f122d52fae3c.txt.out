@@ -1,0 +1,263 @@
+geodesy geodynamics 147e154 content list available sciencedirect geodesy geodynamics journal homepage www keaipublishing com journal geog http www jgg09 com jwebddclen volumn home shtml 
+lithosphere density structure beneath eastern margin tibetan plateau surround area derive goce gradient data honglei jian fang carla braitenberg state key laboratory geodesy earth dynamic institute geodesy geophysics chinese academy science wuhan china university chinese academy science 
+19a yuquan road beijing china department mathematics geosciences university trieste trieste italy 
+article info article history receive april accept february available online march keywords eastern tibet plateau gravity gradient inversion least square density construction 
+abstract three dimensional density model crust uppermost mantle determine inversion set goce gravity gradient residual anomaly beneath eastern margin tibetan plateau surround area 
+work choose ﬁve independent gravity gradient txx tzz txy txz tyz perform density inversion 
+objective function give base tikhonov regularization theory 
+seismic wave velocity play role initial constraint inversion base relationship density wave velocity 
+damp least square method use inversion 
+the ﬁnal density result offer insight understand underlying geodynamic process low density margin tibet along low wave velocity resistivity result yield conversion soft weak tibet hard rigid craton 
+the low density find boundary plateau instead whole tibet indicate effect extrusion stress environment margin affect change substance 
+the substance environment condition earthquake preparation strong deformation transitional zone 
+evident low anomaly upper middle crust lasha terrane songpan ganzi terrane illustrate eastward sub duct southeastern tibet could account frequent volcano earthquake 
+institute seismology china earthquake administration etc 
+production host elsevier behalf keai communication ltd 
+this open access article license http creativecommons org license 
+introduction tibetan plateau product northward convergence indian plate eurasian plate begin million year ago continue today 
+the eastern margin plateau one active tectonic transitional zone 
+recent global navigation satellite system gnss measurement crustal motion indicate signiﬁcant crustal shorten correspond author 
+mail address hlli whigg jfang whigg fang 
+peer review responsibility institute seismology china earthquake administration 
+production host elsevier behalf keai 
+central tibetan plateau adjacent area although topography uplift within less horizontal distance 
+large number research conduct region since 1980s 
+several study regard crust upper mantle signature velocity structure electrical resistivity distribution develop crustal upper mental signature density structure constrain gravity inversion forward model exploration 5e8 
+however mechanism large scale uplift pattern deformation remain unresolved 
+the solution problem rely knowledge deep geophysical structure 
+detect reveal internal structure inevitable way understand evolution mechanism plateau 
+paper focus three dimensional crust uppermost mantle density structure eastern margin tibetan plateau provide important information understand underlying geodynamic process plateau 
+http doi org geog institute seismology china earthquake administration etc 
+production host elsevier behalf keai communication ltd 
+this open access article license http creativecommons org license 
+geodesy geodynamics 147e154 
+gravitational potential ﬁeld direct reﬂection earth interior density 
+the absence underground gravity observation region inhibit density research progress 
+however development gravity satellite high sensitivity high precision global coverage gravity measurement provide effective mean study earth interior density structure 
+the gravity ﬁeld steady state ocean circulation explorer goce launch march resolution precision well mgal sea level 
+gravity gradient second derivative geopotential enhances high frequency well resolve capability gravity 
+our research conﬁrms goce mission gradient product high precision spatial resolution use constrain crust mantle density distribution 
+the full tensor compose nine component 
+work choose ﬁve independent one txx tzz txy txz tyz perform density inversion 
+the study region interest ee112 ne41 
+method gravitational modeling base relationship density wave velocity propose 
+work seismic velocity provide important initial constraint inversion 
+objective function give base tikhonov regularization theory damp least square method use inversion 
+finally three dimensional density model crust uppermost mantle beneath qinghai tibet plateau surround area determine inversion set goce gradient residual anomaly 
+moreover relate geodynamics analysis give 
+fundamental equation 
+accord law gravitation point outside one 
+underground rectangular induce gravity anomaly 
+after derivation numerical integrating 
+could get approximate expression gravity gradient 
+calculate article 
+x0þr y0þðz 
+z0þ  xx21  yy21  zz21r 
+y0þr x0þðz 
+ xx21  yy21  zz21r 
+z0þr x0þðy 
+ xx21  yy21  zz21r 
+txy  lnðz  xx21  yy21  zz21r 
+txz  lnðy  xx21  yy21  zz21r 
+tyz  lnðx  xx21  yy21  zz21r 
+gravitational constant vector estimate den sity contrast vector joint gravity gradient matrix sensitive function density gravity gradient 
+density inversion 
+aim get density contrast derive gravitational 
+observation establish objective function 
+tikhonov regularization theory 
+this theory consider 
+misﬁt error observation ridge regression error 
+parameter order solve ill pose inversion 
+the objec 
+tive function follow fðrþ gpr mkrk 
+regularization parameter 
+vfðrþ could obtain show 
+some initial guess induced density give model derive seismic ambient noise data 
+density result kth iteration 
+reﬁned damp least square method deﬁned follow 
+ktàpt1tpþþdmrik à1àtp 
+then process search solution ﬁts observe data best 
+the ﬁtting error function gprk subject acceptance criterion 
+acceptance criterion use root mean square rms error small equal constant value 
+another criterion convergence consider drk ratio small certain empirical value great zero threshold previously determine 
+the inversion may also terminate pre speciﬁed number iteration 
+synthetic test 
+carry synthetic model proposal 
+gravity gradient forward design density model close reality 
+added random noise forward data 
+implement three test consider three different kind initial guess add random noise true density model respectively inversion parameter 10à4 10à2 
+the ﬁnal iteration model error ﬁtting error list table 
+table condition result three different synthetic inversion model 
+observation ggþ5 noise ggþ5 noise noise 
+initial ðr0þ tmþ5 noise tmþ25 noise tmþ50 noise 
+corner ðmþ 
+iteration ðkþ 
+txx tzz txy txz tyz txx tzz txy txz tyz txx tzz txy txz tyz 
+gravity gradient ðtxx tzz txy txz tyzþ true model ðrtureþ model error ðrk rtureþ ﬁtting error ðrkþ 
+geodesy geodynamics 147e154 
+the difference synthetic model fig 
+invert model fig 
+cause noise estimate initial guess 
+however three case could always get acceptable result regardless noise include start model already great 
+the synthetic test prove validity correctness inversion method 
+synthetic model curve invert model noise 
+the eastern qinghai tibetan plateau 
+data preparation the propose study region deﬁned coordinate fig 
+the study area include eastern tibet plateau northwestern yangtze craton southwestern sono korean craton northeastern indian plate 
+the eastern tibet plateau south north comprise himalayan terrane lhasa block terrane qiangtang songpan ganzi block 
+the ordos basin locate southwest sono korean craton sichuan basin situate western yangtze craton 
+longmenshan mountain eastern boundary tibetan plateau songpanganzi terrane west yangtze craton east 
+northwest study area locate qaidam basin qinling orogen qilian orogen main fault like suture east kunlun fault haiyuan fault 
+data processing 
+the gravity gradient calculate spherical harmonic expansion degree order global earth model con gcf tim derive goce satellite solution 
+provide uniform global ﬁeld enable interpretation regional global scale 
+get gravity gradient anomaly altitude near earth surface 
+however anomaly integrate response interface undulation subsurface density homogeneity 
+with aim delineate crustal upper mantle density variation signal topographic mass sea level effect density interface inﬂuence density change uppermost mantle reduce inversion 
+vector density change uppermost mantle gravity 
+vector residual gravity gradient effect 
+crustal upper mantle density variation 
+obtain gravity gradient anomaly altitude 
+goce product 
+they integrate response 
+signal density change uppermost mantle topo 
+graphic mass sea level density change sed 
+imentaryecrustal interface reduce 
+the inﬂuence density change uppermost mantle 
+give order degree 2e44 goce base point mess 
+source theory develop bowin depth source radius earth order degree spherical harmonic coefﬁcient 
+the topo 
+graphic effect estimate though global digital 
+terrain model etopo1 vertical prism discretization use 
+the observed height 
+the density contrast land sea 
+the calculated effect 
+ﬁlter gaussian ﬁlter tool ﬁlter radius 
+order match resolution observe gradient 
+the operation collect sedimentary 
+undulation average sediment depth density contrast sediment crust 
+ment density contrast decrease depth curve silva 
+drsedðzþ dr30 ðdr0 lzþ2 dr0 500kgm 
+the residual anomaly show fig 
+motioned effect see fig 
+geodesy geodynamics 147e154 fig 
+scheme main tectonic unit region study 
+ﬁgure iys indus yarlung suture bns bangongnujiang suture jr jinsha river suture ekm east kunlun mountain akms ayimaqin kunlun muztagh suture lms longmenshan fault atf altumn fault haiyuan fault 
+residual gravity gradient tensor anomaly second derivative potential txx txy txz tyy tyz along tzz tzz etxx etyy laplace equation 
+geodesy geodynamics 147e154 
+observe gravity gradient tzz moho depth topography eastern low oder effect tzz tzz effect topographic mass tzz effect variation sedimentary interface 
+correction gravity gradient component take component tzz example etovs 10à9 
+for crust use empirical wave velocityedensity relation susan typical composition crust mantle 049vs0 seismic wave velocity derive yang 
+give initial constraint inversion 
+the reference model crust find christensen mooney 
+upper mantle reference model publish artemieva 
+they use convert density contrast absolute density 
+the inversion parameter show follow 10à4 10à2 maximum iterative number 
+show fig 
+ﬁtting error decrease number iteration approximately iteration inversion almost stable 
+the ﬁtting error decrease number iteration 
+result the inverted density model result reveals structure crust uppermost mantle variation depth illustrate fig 
+across ﬁrst layer density average depth refer upper crust 
+show fig 
+eastern low density low less cm3 find qaidam basin middle sichuan basin himalaya foreland basin 
+could reason sediment thicker 
+low also find qilian fold belt 
+line result high precision underground gravity anomaly 
+besides low amplitude cm3 beneath north qiangtang terrane 
+high density high also find southeastern extend downward 
+from analysis recent earthquake region earthquake occur transition zone high low density anomaly crust 
+second layer density characteristic average depth belong transition zone upper crust middle crust 
+the density main part tibet plateau around cm3 
+low density cm3 margin around tibet 
+while high density cm3 find large basin except qaidam basin cm3 
+those strong basement basin 
+depth third layer belong middle crust density margin tibet still low cm3 
+the density cm3 inside tibet little bit high margin 
+density increase crustal density cm3 tibet density upper mantle cm3 northwest southeast 
+the study velocity resistivity already show corresponding result 
+geodesy geodynamics 147e154 
+map horizontal density distribution different depth slice respectively 
+density feature fourth layer average depth belong lower crust analogous result show prominent low anomaly site periphery except refers amplitude high density outside become much slighter depth 
+highd anomaly sichuan basin ordos basin stretch deep 
+ﬁfth layer density feature depth belong transition zone uppermost mantel low still whole 
+however high almost disappear beneath sichuan basin ordos basin 
+last layer density structure depth belong uppermost mantle 
+high density reside part tibet 
+density variation exhibit apparent undulated density pattern across tibet strike central tibet rotate approximately nwese direction towards eastern tibet 
+consistent pattern gnss derive velocity orient central tibet rotate towards eastern tibet orthogonal moho undulation derive satellite gravity anomaly 
+accord fig 
+evident low anomaly upper middle crust lasha terrane songpan ganzi 
+geodesy geodynamics 147e154 
+vertical density section latitude longitude black solid line elevation across proﬁle 
+moreover crustal thickness decrease tibetan plateau yangtze craton 
+note presence low density beneath songpan ganzi block may illustrate eastward sub duct tibet could account frequent volcano earthquake 
+discussion south indian plate underthrusts tibet 
+central northern tibet separate thin tibet plate exist underthrust asian plate north 
+the hot thermal anomaly exist 
+seismic wave tomography low velocity present mid low crust inside whole 
+consist low resistivity magnetotelluric 
+density model strong low density middle low crust within tibetan plateau combine high density beneath yangtze craton north china craton 
+veriﬁes current eastward subduction indian plate southeastern 
+great difference physical property exhibit whole plateau adjacent region 
+thus give rise inward thrust cold hard external hot weak internal 
+the northern characterize sharp moho offset beneath altuntagh fault atf crustal low velocity zone lvz beneath 
+moreover eastern study deep seismic sounding show eastern edge longmenshan fault 
+high gradient topography change within small distance 
+strong crustal deformation fault accompany frequent seismic activity continue since late cenozoic 
+from density result even densities tibet crust low low density find boundary plateau instead whole tibet 
+could make consequence conversion soft weak tibet hard rigid craton provide condition large compress tectonic environment 
+the effect extrusion stress environment margin affect change substance 
+the substance environment condition earthquake preparation strong deformation transit belt 
+high density reside part tibet 
+density variation exhibit apparent undulated density pattern across tibet strike central tibet rotate approximately nwese direction towards eastern tibet 
+consistent pattern gnss derive velocity orient central tibet rotate towards eastern tibet evident low anomaly upper middle crust lasha terrane songpan ganzi terrane 
+evident low anomaly upper middle crust lasha terrane songpan ganzi terrane illustrate 
+eastward sub duct southeastern tibet could account frequent volcano earthquake 
+conclusion paper accomplish present inversion full gradient tensor component simulation real case 
+gradient could provide detail underground structure 
+obtain three dimensional lithosphere structure beneath eastern margin tibet plateau 
+the result give insight understand underlying geodynamic process 
+low density margin tibet along low wave velocity resistivity result yield conversion soft weak tibet hard rigid craton 
+the low density find boundary plateau instead whole tibet indicate effect extrusion stress environment margin affect change substance 
+the substance environment condition earthquake preparation strong deformation transit belt 
+evident low anomaly upper middle crust lasha terrane songpan ganzi terrane illustrate eastward sub duct southeastern tibet could account frequent volcano earthquake 
+author contribution jian fang provide initial idea study honglei conceive design inversion synthetic experiment application eastern qinghai tibetan plateau honglei jian fang analyze experiment result honglei write paper 
+acknowledgment great acknowledge major state basic research development program china program 2013cb733301 national natural science fund support work 
+appreciate share wave velocity tibet 
+the european space agency esa thank use goce data 
+also acknowledge use generic mapping tool gmt 
+geodesy geodynamics 147e154 
+zhang shen wang gan bürgmann molnar continuous deformation tibetan plateau global positioning system data geology 809e812 
+nowack northward thin tibetan crust reveal virtual seismic proﬁles geophys re lett 
+ritzwoller zheng shen 
+levshin xie synoptic view distribution connectivity mid crustal low velocity zone beneath tibet geophys res solid earth 
+bai unsworth 
+meju teng kong crustal deformation eastern tibetan plateau reveal magnetotelluric image nat geosci 358e362 
+bai zhang braitenberg crustal density structure gravity model beneath himalaya lhasa block tibet asian earth sci 301e317 
+braitenberg zadro fang wang hsu gravity inversion qinghai tibet plateau phi chem earth part solid earth geod 381e386 
+braitenberg zadro fang wang hsu the gravity isostatic moho undulation qinghaietibet plateau geodyn 489e505 
+jian hou three dimensional lithospheric density structure beneath qinghai tibet adjacent area chin geophys 
+rummel gruber koop high level processing facility goce product process strategy proceeding 2nd international goce user workshop esa sp569 
+rummel stummer goce gravitational gradiometry geod 777e790 
+beiki analytic signal gravity gradient tensor application estimate source location geophysics i59ei74 
+arsenin solution ill pose problem 
+nagi papp benedek the gravitational potential derivative prism geod 7e8 552e560 
+ritzwoller kang kim 
+lin ning seismic reference model crust uppermost mantle beneath china surface wave dispersion geophys int 954e979 
+bowin depth principal mass anomaly contribute earth geoidal undulation gravity anomaly mar geod 1e4 61e100 
+amante eakins etopo1 arc minute global relief model procedure data source analysis 
+noaa technical memorandum nesdis ngdc national geophysical data center 
+biblioteca digital ilce 
+miller stewart the relationship elastic wave velocity density sedimentary rock proposal crew research report 
+artemieva global 1â1 thermal model tc1 continental lithosphere implication lithosphere secular evolution tectonophysics 245e277 
+mooney seismic velocity structure composition continental crust global view geophys res solid earth 9761e9788 
+artemieva the continental lithosphere reconcile thermal seismic petrologic data lithos 23e46 
+wang huang ambient noise rayleigh wave tomography western sichuan eastern tibet earth planet sci lett 201e211 
+shin shum braitenberg 
+choi moho topography range fold tibet analysis global gravity model goce data sci rep 
+han lou chan crustal structure beneath eastern margin tibetan plateau tectonic implication geophys re solid earth 
+zhang yuan chen tian kind seismic signature collision east tibetan escape ﬂow sichuan basin earth planet sci lett 254e264 
+wei unsworth jones booker tan nelson detection widespread ﬂuids tibetan crust magnetotelluric study science 716e719 
+honglei currently pursue phd degree institute geodesy geophysics chinese academy science 
+she mainly engage research inversion gravity ﬁeld crustal upper mantle structure 
+mail hlli whigg 

@@ -1,0 +1,1086 @@
+INDEX TO SELECTED MACHINE-READABLE GEOHYDROLOGIC DATA FOR PRECAMBRIAN THROUGH CRETACEOUS ROCKS IN KANSAS By J. M. Spinazola, C. V. Hansen, E. J. Underwood, J. F. Kenny, and R. J. Wolf U.S. GEOLOGICAL SURVEY Open-File Report 87-396
+Lawrence, Kansas 1987
+
+DEPARTMENT OF THE INTERIOR DONALD PAUL HODEL, Secretary
+U.S. GEOLOGICAL SURVEY Dallas L. Peck, Director
+
+For additional information write to:
+District Chief U.S. Geological Survey Water Resources Division 1950 Constant Avenue - Campus West Lawrence, Kansas 66046
+ii
+
+Copies of this report can be purchased from:
+U.S. Geological Survey Books and Open-File Reports Federal Center, Bldg. 810 Box 25425 Denver, Colorado 80225
+
+CONTENTS
+
+Page
+
+Abstract- -----------------------------In troduc tion
+Purpose and scope- ----------------------Well-numbering system- --------------------Acknowledgments- -----------------------Types of data files ------------------------Log data ---------------------------Wa ter qual i t y data Water-level data -----------------------Hydraulics data- ------------------------
+
+l i 2 2 2 3 3 Q 8 15
+
+Data repositories --------------------------
+Water Data Storage and Retrieval System (WATSTORE) ------Ground Water Site Inventory (GWSI)- -----------Water-quality file- --------------------
+Central Midwest Regional Aquifer System Analysis water-quality file (CMRASA QWFILE)- --------------------
+Central Midwest Regional Aquifer System Analysis reservoir parameter data base (CMRASA RPDB) --------------
+Magnetic tape- -------------------------
+S iLrMmUmIlldnLvtyr _____________________ _ _________ Selected references -------------------------
+
+23 26 26 27
+27
+27 27
+£O.Q7
+31
+
+FIGURES
+1. Diagram showing well-numbering system ------------- 3
+2-5. Pie diagrams showing:
+2. Type, source, and file membership of log data ________ 4
+3. Type, source, and file membership of waterquality data- ------------------------- 10
+
+4. Type, source, and file membership of water-level data ----- 14
+
+5. Type, source, and file membership of hydraulics data- ----- 21
+
+TABLES
+
+1. Correlation of geologic units to geohydrologic units identi-
+fied by the Central Midwest Regional Aquifer System Analysis in Kansas
+
+3
+
+2. Description and format of log data stored on magnetic tape- - - 9
+
+iii
+
+CONTENTS Continued
+TABLES
+3. Description and format of water-quality data stored on magnetic tape- -----------
+4. Description and format of measured wator-level data stored on magnetic tape ---------
+5. Description and format of equivalent freshwater-head data stored on magnetic tape- ------
+6. Description and format of specific-cap, city and aquifer-test data stored on magnetic tape -----
+7. Description and format of core-sample analysis and drillstem-test data stored on magnetic tape
+Description and format of water-use dalia stored on magnetic tape- -----------
+9. Components of Ground Water Site Inventci ry (GWSI) that identify data-base files of Central Mic west Regional Aquifer System Analysis (CMRASA) -----
+10. Characteristics of files stored on magnetic tape
+
+Page - 11 - 16 - 18
+22 24 28
+30 30
+
+CONVERSION FACTORS
+
+For those readers who prefer to use metric (International System, SI) units rather than inch-pound units, the conversion factors for the terms used in this report are listed below:
+
+Multiply inch-pound units
+
+By
+
+To obtain SI units
+
+acre
+
+4,047
+
+square meter
+
+foot
+
+0.3048
+
+meter
+
+foot per day
+
+0.3048
+
+meter per day
+
+foot squared per day
+
+0.09290
+
+meter squared per day
+
+pound per square inch
+
+0.07030
+
+kilogram per square centimeter
+
+million gallons per day
+
+0.04381
+
+cubic meter per second
+
+degree Fahrenheit per 100 feet
+
+18.2268L/
+
+degree Celsius per 100 kilometers
+
+To convert degree Fahrenheit ( T) to degre e Celsius (°C) use: °C = 5/9 x ( F-32).
+iv
+
+INDEX TO SELECTED MACHINE-READABLE GEOHYDROLOGIC DATA
+FOR PRECAMBRIAN THROUGH CRETACEOUS ROCKS IN KANSAS
+By J.M. Spinazola, C.V. Hansen, E.J. Underwood, J.F. Kenny, and
+R.J. Wolf
+ABSTRACT
+Machine-readable geohydrologic data for Precambrian through Cretaceous rocks in Kansas were compiled as part of the U.S. Geological Survey's Central Midwest Regional Aquifer System Analysis. The geohydrologic data include log, water-quality, water-level, hydraulics, and water-use information. The log data consist of depths to the top of selected geologic formations determined from about 275 sites with geophysical logs and formation lithologies from about 190 sites with lithologic logs. The waterquality data consist of about 10,800 analyses, of which about 1,200 are proprietary. The water-level data consist of about 4,480 measured water levels and about 4,175 equivalent freshwater hydraulic heads, of which about 3,745 are proprietary. The hydraulics data consist of results from about 30 specific-capacity tests and about 20 aquifer tests, and interpretations of about 285 drill-stem tests (of which about 60 are proprietary) and about 75 core-sample analyses. The water-use data consist of estimates of freshwater withdrawals from Precambrian through Cretaceous geohydrologic units for each of the 105 counties in Kansas. Average yearly withdrawals were estimated for each decade from 1940 to 1980.
+All the log and water-use data and the nonproprietary parts of the water-quality, water-level, and hydraulics data are available on magnetic tape from the U.S. Geological Survey office in Lawrence, Kans.
+INTRODUCTION
+Geohydrologic data have been compiled in machine-readable format for rocks from Precambrian through Cretaceous age in Kansas. The data were compiled as part of the Kansas contribution to the U.S. Geological Survey's Central Midwest Regional Aquifer System Analysis (CMRASA) (Jorgensen and Signer, 1981). Data were collated statewide and include depths to the top of selected geologic formations and lithologies coded from geophysical and lithologic logs; chemical analyses of water from wells; water levels in wells; specific-capacity and aquifer-test results; drill-stem-test and core-sample-analysis interpretations; and historical water-use data. To be consistent with the regional scope of the investigation, only limited, representative data were selected for all types of available data except for the chemical analyses.
+
+Purpose and Scope
+This report: (1) Presents the types of m chine-readable data compiled for the Central Midwest Regional Aquifer System Analysis (CMRASA) in Kansas, and (2) describes how to retrieve these data from storage.
+Data were compiled from records obtainec from: (1) State and Federal agencies, (2) published reports, and (3) the oil and gas industry. The data are available from the U.S. Geologica Survey in Lawrence, Kans. In addition, most of the data are available in large multistate computer data-base systems, such as the U.S. Geological Survey's water-quality file and GWSI (Ground Water Site Inventory) in WATSTORE (Water Data Storage and Retrieval System) and the CMRASA's partially proprietary QWFILE (water-quality file) and RPDB (reservoir parameter data base).
+Well-Numbering Syst em
+Wells in this report are numbered accc rding to a modification of the U.S. Bureau of Land Management's syste n of land subdivision. In this system, the first set of digits of a well number indicates the township south (S) of the Kansas-Nebraska State line; the second set, the range east (E) or west (W) of the sixth principal meridian; the third set, the section in which the well is situated. The first letter following the third set of digits denotes the quarter section or 160-acre tract within the section; the second, the quarter-quarter section or 40-acre tract; and the third, the quarter quarter-quarter section or 10-acre tract. The sections are designated ., B, C, and D in a counterclockwise direction beginning in the northeast quadrant. The last two digits of the well number are the sequential order, beginning with "01," in which the wells in the same 10-acre tract were inventoried. For example, in figure 1, well number 28S 21W 1.5DDB 01 in Ford County is in the NW1/4 SE1/4 SE1/4 sec. 15, T. 28 S., R. 21 W. For convenience, when there is only one well inventoried in the same 10-acre tract, the trailing two-digit designation may be dropped.
+Acknowledgments
+Appreciation is expressed to the Kansas Geological Survey (Lawrence), especially to Shirley Paul and others in the well-log library for their valuable assistance and to P. Alien McFarlane for the contribution of data from southeastern Kansas. Other State agen< :ies offering assistance and access to their records included the Kansas State Board of Agriculture, Division of Water Resources; the Kansas Department of Health and Environment; and the Kansas Corporation Commission (Topeka).
+
+Figure 1. Well-numbering system,
+TYPES OF DATA FILES
+Log Data
+The purpose of the log file is to store a set of geophysical and lithologic logs that describe the interval from the land surface to the Precambrian surface at one site for each county in Kansas. A set of logs included, when available, lithologic, spontaneous potential, resistivity, gamma-ray, neutron, density, and acoustic-velocity logs. Many times there was no single set of logs that described the entire stratigraphic interval at one site. For this reason, in many counties, logs from several sites were selected to comprise a set. Geophysical logs from about 275 sites and lithologic logs from about 190 sites were selected from files of the Kansas Geological Survey in Lawrence. All sites selected were included in the investigation's data-base file. The percentages of the types of log data are shown in figure 2.
+
+IOG DATA 1 YPb OF LOG
+LITHOLOCIC (40.6 percent)
+SOURCE OF DATA
+KANSAS GEOLOGICAL SURVEY
+( 100 percent)
+FILE MEMBERSHIP
+DATA BASE (100 percent)
+Figure 2. Type, source, and file membership of log data Lithologies were described for the lithologic logs. Depths to the top of selected geologic formations were determined from the geophysical and lithologic logs for the units described in table 1. When necessary, depths to formation tops were determined on log s by correlating from nearby published logs on which the tops of the formations are indicated. In the western two-thirds of the State, "type logs and geophysical-log cross sections describing depths to the top of various formations were available from the Kansas Geological Society in Wichita (see "Selected References"), Published reports also contain logs showing depths to various formation tops. Tops on logs from these two "established " sources provided control for correlation.
+
+Table 1. Correlation of geologic units to geohydrologic units identified by the Central Midwest Regional Aquifer System Analysis in Kansas
+
+Code number
+
+Geohydrologic
+
+Geologic units!/
+
+unit
+
+Geologic name, U.S. Geological Survey's geologic unit code
+
+and lithologic description
+
+Aquifers and confining units (*denotes major units;
+**denotes subunits)
+
+1-44 Undesignated
+
+45-49
+
+Cenozoic (110CNCZ) unconsolidated alluvial and glacial deposits; includes:
+
+0Q Quaternary System (110QRNR)
+
+0T Ogallala Formation (1210GLL)
+
+*Alluvial and glacial aquifer and confining units
+*High Plains aquifer system
+
+50-99
+
+Upper Cretaceous (211CRCSU) shale, chalk, and limestone; includes :
+
+*Great Plains confining system
+
+Al Pierre Shale (211PIRR)
+
+A2 Colorado Group (211CLRD); includes:
+
+Niobrara Chalk (211NBBR), Fort Hays Limestone Member (211FRHS), Carlile Shale (211CRLL), Greenhorn Limestone (211GRNR), and Graneros Shale (211GRRS)
+
+100-249
+
+Lower Cretaceous sandstone and shale; includes:
+
+*Great Plains aquifer system
+
+100-149 B0 Lower Cretaceous sandstone and shale;
+
+**Upper aquifer unit of
+
+includes:
+
+/ If cannot
+
+Great Plains aquifer
+
+/ differentiate,
+
+system
+
+Dakota Formation (210DKOT or 2170MDI) / use undifferen-
+
+/ tiated Lower
+
+150-199
+
+Lower Cretaceous shale and sandstone; includes:
+
+/ Cretaceous / (217CRCSL) and
+
+**Confining unit of Great Plains aquifer system
+
+/ code numbers 1-44
+
+Kiowa Shale (217KIOW)
+
+200-249
+
+Lower Cretaceous sandstone and shale; includes:
+Cheyenne Sandstone (217CYNN)-
+
+**Lower aquifer unit of Great Plains aquifer s ys tern
+
+250-299 Undesignated
+
+300-549
+
+Jurassic through Upper Mississippian shale, limestone, evaporite rocks, sandstone, and dolomite; includes:
+
+*Western Interior Plains confining system
+
+300-349 E0 Jurassic (220JCTC) shale and sandstone; includes: Morrison Formation (221MRSN)
+
+**Upper unit of Western Interior Plains confining system
+
+350-549
+
+Permian through Upper Mississippian shale, limestone, evaporite rocks, sandstone, and dolomite; includes:
+
+**Lower unit of Western Interior Plains confining system
+
+Table 1. Correlation of geologic units to geoh; rdrologic units identified by the Central Midwest Regional Aquifer System Analysis in Kansas Continued
+
+Code number
+
+Geohydrologic
+
+Geologic units!/
+
+unit
+
+Geologic name, U.S. Geological Survey's geologic unit code
+
+and lithologic description
+
+Aquifers and confining units (*denotes major units;
+**denotes subunits)
+
+350-399
+
+Permian shale, evaporite rocks, sandstone, and dolomite; includes:
+
+Fl Upper Permian (311PRMNU) redbeds; includes
+
+Big Basin Formation (311BGBS), Day Creek Dolomite (311DCRK), and Whitehorse Formation (310WTRS)
+
+F2 Cimarronian Stage (317CMRN); includes:
+
+Nippewalla Group (317NPPL); includes
+
+Dog Creek Shale (313DGCK), Blaine Gypsum (318BLIN), Flowerpot Shale (313FLRP), Cedar Hill Sandstone (318CDHL), Salt Plains Formation (318SLPL), and Harper Sandstone (317HRPR)
+
+Sumner Group; includes:
+
+Stone Corral Formation (317SCRL) Ninnescah Shale (310NNSC), Wellington Formation (310WLNG), and Hutchinson Salt Member (317HCNS)
+
+400-449
+
+Lower Permian and Upper Pennsylvanian limestone and shale; includes:
+
+Gl Wolfcampian Series (319WFMP); includes:
+
+Chase Group (319CHSE), Council Grove Group (319CCGV), and Admire Group (319ADMR)
+
+G2 Virgilian Series (322VRGL); includes:
+
+Wabaunsee Group (322WBNS), Shawnee Group (322SHWN), and Douglas Group (322DGLS)
+
+G3 Missourian Series (321MSRN); includes:
+
+Lansing Group (323LNSG), Kansas City Group (323KSSC), and Pleasanton Group (323PLSN)
+
+450-499 Undesignated
+
+500-549
+
+Middle and Lower Pennsylvanian and Upper Missisjippian shale, limestone, and sandstone; includes:
+
+HI Desmoinesian Series (324DSMS); includes:
+
+Marmaton Group (325MRMN) and Cherokee Group (325CHRK)
+
+H2 Atokan Series (324AKBD),
+
+H3 Morrowan Series (327MRRN) and Chesterian Series (332CRSN)
+
+Table 1. Correlation of geologic units to geohydrologic units identified by the Central Midwest Regional Aquifer System Analysis in Kansas Continued
+
+Code number
+
+Geohydrologic
+
+Geologic unitsl/
+
+unit
+
+Geologic name, U.S. Geological Survey's geologic unit code
+
+and lithologic description
+
+Aquifers and confining units (*denotes major units;
+**denotes subunits)
+
+550-949
+
+Upper Mississippian to Upper Cambrian limestone, dolomite, shale, and sandstone
+
+550-599 10 Mississippian (330MSSP) limestone and dolomite between Chesterian Series and Northview Shale; includes:
+
+Sedalia Dolomite (337SLDI)
+
+600-649 Undesignated
+
+650-699 J0 Lower Mississippian and Devonian (337MPDV) shale and shaly limestone; includes:
+
+Northview Shale (339NRTV), Compton Limestone (337CMPN), Chouteau Limestone (337CHUT), Boice Shale (337BOIC), and Chattanooga Shale (330CTNG)
+
+700-949
+
+Devonian to Upper Cambrian dolomite, limestone, shale, and sandstone; includes:
+
+700-749
+
+Devonian, Silurian, and Upper Ordovician dolomite and shale; includes:
+
+Kl Hunton Group (340HNTN) and K2 Maquoketa Shale (361MQKT)
+
+750-799 Undesignated
+
+800-849
+
+Middle and Lower Ordovician and Upper Cambrian dolomite, limestone, and sandstone; includes:
+
+LI Viola Limestone (361VKMK), L2 Simpson Group (364SMPS), and L3 Arbuckle Group (367ABCK) may include
+other Upper Cambrian rocks
+
+850-899
+
+Upper Cambrian dolomite; includes:
+
+Bonneterre Dolomite (371BNTR)
+
+900-949
+
+Upper Cambrian sandstone; includes:
+
+Lamotte and Reagan Sandstone (371LMRG) and Granite wash (320GRWS) if basal Pennsylvanian, otherwise the age of immediately overlying strata
+
+950-999
+
+Precambrian (400PCMB) metamorphic and igneous rocks
+
+*Western Interior Plain aquifer system
+**Upper aquifer unit of Western Interior Plains aquifer system
+**Confining unit of Western Interior Plains aquifer system
+**Lower aquifer unit of Western Interior Plains aquifer system
+*Basement confining unit
+
+The stratigraphic nomenclature used in this report was determined from several sources and may not follow usage of the U.S. Geological Survey.
+
+The log file is available from two sour :es the U.S. Geological Survey's GWSI computer file and magnetic tape, GWSI is the repository of all of the information that is available f om the logs interpreted for the Kansas CMRASA study. Selected items fr m the log file are available on magnetic tape at the U.S. Geological irvey in Lawrence, Kans. A description of the kind and format of log c ata stored on magnetic tape is presented in table 2.
+Water-Quality D ita
+The purpose of the water-quality file Ls to store all ground-water analyses from wells completed in geohydrologi c units studied by the CMRASA (rocks older than Late Cretaceous age) in Kansas. The file includes about 10,800 analyses. Data include all istorical records available through January 1, 1983, from the WATSTORE w ter-quality file, the Kansas Water-Quality File (U.S. Geological Survey, Lawrence, Kans.), the Kansas Brine File (Kansas Geological Survey, Lawrence), records of the National Uranium Resource Evaluation (U.S. Department of Energy, Grand Junction, Colo.), records of the Petroleum Data Syst em (University of Oklahoma, Norman), and the Kansas Geological Survey (f g. 3).
+All the analyses are in the investigati n's working file. The analyses are densely spaced in some parts of Kansas and can be extremely variable over short distances. To facili ate mapping, representative analyses were chosen from the working file a id were designated as belonging to a project file or a data-base file The project file contains analyses selected from the working file; the data-base file contains data selected from the project file. The purpose of the project file is to store one representative analysis per 10- by 20-minute quadrangle for each aquifer. The purpose of the date -base file is to store one representative analysis per county for each aquifer. The goals of the project and data-base files were not alwa s achieved due to lack of chemical-quality data for the aquifers in some parts of the State, There are about 1,900 analyses in the projec file and about 185 analyses in the data-base file (fig. 3).
+Water-quality data are stored in the CMRASA's QWFILE, the U.S. Geological Survey's WATSTORE water-quality file and on magnetic tape. The CMRASA's QWFILE is the repository of all the water-quality analyses compiled for this study. The WATSTORE water-cjuality file is the National repository for water-quality data collecte and analyzed by the U.S. Geological Survey. All nonproprietary an£ lyses for Kansas also are available on magnetic tape from the U.S. Geological Survey in Lawrence, Kans. Analyses from the Petroleum Data S fstem (about 1,200) are not available in machine-readable form due to their proprietary nature. A description of the kind and format of the water-quality data stored on magnetic tape is presented in table 3.
+Water-Level Data
+The purpose of the water-level file is to store recorded water levels from measured wells and equivalent freshwate hydraulic heads (as derived
+
+Table 2. Description and format of log data stored on magnetic tape
+
+Record position
+
+Description
+
+1-3 4-9
+10-16
+17 18-31
+32-33
+34 35-42 43 44-46 47 48-55
+56 57-64
+65 66-73
+74 75-78
+
+Blank
+Latitude in degrees, minutes, and seconds (ddmmss). All latitudes are north.
+Longitude in degrees, minutes, and seconds (dddmmss). All longitudes are west.
+Blank
+Landline location (township, range, section, and quarter sections, as described in figure 1).
+Sequence number (01 for the first well at any location; subsequent wells at same location are assigned larger numbers).
+Blank
+Altitude of land surface, in feet.
+Blank
+Code number (see table 1).
+Blank
+U.S. Geological Survey geologic unit code (see table 1 or Hutchinson, 1975, appendix F).
+Blank
+Depth to top of formation or lithology, in feet (blank if log begins below top of formation or lithology).
+Blank
+Depth to bottom of formation or lithology, in feet (blank if log ends before bottom of formation or lithology).
+Blank
+U.S. Geological Survey lithologic code (see Baker and Foulk, 1975, p. B62-B66).
+
+WATER SAMPLE (88.9 percent)
+
+WATER-QUALITY DATA
+TYPE OF DATA
+
+WATER SAMPLE (PROPRIETARY) (11.1 percent)
+
+KANSAS BRINE FILE (26.0 percent) KANSAS GEOLOGICAL SURVEY (0.5 percent)
+NONPROPRIETARY WORKING FILE ONLY (72.6 percent)
+
+SOURCE OF DATA
+
+NATIONAL URANIUM RESOURCE EVALUATION
+(5.5 percent)
+PETROLEUM DATA SYSTEM (PROPRIETARY)
+(11.1 percent)
+KANSAS AND WATER DATA STORAGE AND
+RETRIEVAL SYSTEM WATER-QUALITY FILES
+(56.9 percent)
+NONPROPRIETARY PROJECT FILE
+(15.3 percent)
+NONPROPRIETARY DATA BASE
+(1.0 percent)
+PROPRIETARY WORKING FILE ONLY
+(8.2 percent)
+PROPRIETARY PROJECT FILE (2.2 percent)
+PROPRIETARY DATA BASE
+(0.7 percent)
+
+Figure 3. Type, source, and file membership of water-quality data.
+
+from drill-stem-test analysis) for the geohydrologic units studied by the
+
+CMRASA in Kansas. The file includes about 4, 480 measured water levels and
+
+about 4,175 equivalent freshwater heads ment data came from the U.S. Geological
+
+MSousrtveoyf'
+
+the water-level-measures GWSI file, the Kansas
+
+Geological Survey, and published reports; oUher incidental sources were
+
+the Kansas Department of Health and Environment (Topeka); the Kansas
+
+10
+
+Table 3. Description and format of water-quality data stored on magnetic tape
+
+Record position
+
+Description
+
+1
+2-16
+17-22 23-29 30-31 32-35 36-38 39-40 41-80 17-30 31-44
+
+H, N, and type-2 cards. Card type:
+H = header card (identifies site uniquely),
+N = name card (name of well and formation tested),
+2 = sample-analysis information,
+Site identification; unique number for each site, which usually corresponds to latitude and longitude. Appears on each H, N, and 2 card.
+H cards only.
+Latitude in degrees, minutes, and seconds (ddmmss). All latitudes are north.
+Longitude in degrees, minutes, and seconds (dddmmss). All longitudes are west.
+Sequence number (01 for the first well at any location; subsequent wells at the same location are assigned larger numbers).
+State and district code (see U.S. Department of Commerce, 1979).
+County code (see U.S. Department of Commerce, 1979).
+Site type; GW = ground water.
+Blank
+N cards only.
+Landline location (township, range, section, and quarter sections, as described in figure 1).
+Blank
+
+11
+
+Table 3. Description and format of water-quality data stored on magnetic tape Continued
+
+Record position
+
+Description
+
+45-50
+51
+52-53 65-72
+73-80
+17-22 23-26 27-32 33-37 38-43 44
+
+N cards only Continued
+Sample number; uniquely identifies each sample. First digit of sample number (record position 45) iidentifies source of data:
+0 or 1 = WATSTORE Water-quality file
+3 = Natural Uranium Resource Evaluation; 4 = Kansas Brine File;
+5 = Kansas Geological Survey.
+File membership:
+Blank or 0 = working file only;
+2 = project file and working file;
+3 = data base, project file , and working file. Geohydrologic unit sampled (see table 1).
+U.S. Geological Survey geologic unit code (see table 1 or Hutchinson, 1975, appendix F).
+Blank Type-2 cards only. Date of sample in order of year, month , and day (YYMMDD). Time of sample in 24-hour-time notation Blank Parameter code of analyzed constituent (see Hutchinson, 1975,
+appendix D). Value of analyzed constituent; reported as a decimal fraction
+(record positions 38-41) multiplied 7 a power of 10 (exponent in record positions 42-43).
+Remarks code (see U.S. Geological Survey, 1983, p. A14-A15).
+
+12
+
+Table 3. Description and format of water-quality data stored on magnetic tape Continued
+
+Record position
+
+Description
+
+45-49 50-55
+56 57-61 62-67
+68 69-73 74-79
+80
+
+Type 2 cards only Continued
+Parameter code of analyzed constituent (see Hutchinson, 1975, appendix D).
+Value of analyzed constituent; reported as a decimal fraction (record positions 50-53) multiplied by a power of 10 (exponent in record positions 54-55).
+Remarks code (see U.S. Geological Survey 1983, p. A14-A15).
+Parameter code of analyzed constituent (see Hutchinson, 1975, appendix D).
+Value of analyzed constituent; reported as a decimal fraction (record positions 62-65) multiplied by a power of 10 (exponent in record positions 66-67).
+Remarks code (see U.S. Geological Survey, 1983, p. A14-A15).
+Parameter code of analyzed constituent (see Hutchinson, 1975, appendix D).
+Value of analyzed constituent; reported as a decimal fraction (record positions 74-77) multiplied by a power of 10 (exponent in record positions 78-79).
+Remarks code (see U.S. Geological Survey, 1983, p. A14-A15).
+
+State Board of Agriculture, Division of Water Resources (Topeka); and the Missouri Division of Geology and Land Survey (Rolla) (fig. 4). The equivalent freshwater heads are based on data from several sources: U.S. Geological Survey files (Lawrence, Kans.); the Kansas Geological Survey; Roger Hoeger, consultant (Denver, Colo.); the Kansas Corporation Commission, (Topeka); the Kansas Geological Society; Petroleum Information, Inc. (Denver, Colo.); and individual drilling or testing companies (fig. 4).
+All the data are in the investigation's water-level working file. The data are dense in some parts of Kansas and can be variable over short distances. To facilitate mapping, representative data were chosen
+
+13
+
+MEASURED WATER EEVEE
+(51.8 percent)
+
+WATER-LEVEL DATA TYPE OF DATA
+
+DRILL-STEM TEST (4.9 percent)
+DRILL-STEM TEST (PROPRIETARY) (43.3 percent)
+
+GROUND WATER SITE INVENTORY (48.8 percent)
+PUBLISHED REPORTS AND INCIDENTAL SOURCES (2.9 percent)
+ROGER HOEGER, CONSULTANT (PROPRIETARY) (1.6 percent)
+PETROLEUM INFORMATION, INC. (PROPRIETARY) (41.7 percent)
+NONPROPRIETARY WORKING FILE ONLY (36.1 percent)
+PROPRIETARY DATA BASE (1.2 percent)
+PROPRIETARY PRO)ECT FILE (41.8 percent)
+
+FILE MEMBERSHIP
+
+KANSAS GEOLOGICAl SURVEY
+(0.2 percent)
+U.S. GEOLOGICAL SURVEY
+(3.3 percent)
+KANSAS GEOLOGICAL SOCIETY
+(0.3 percent)
+KANSAS CORPORATION
+COMMISSION (0.9 percent)
+DRILLING OR TESTING COMPANY
+(0.3 percent)
+NONPROPRIETARY PROJECT FILE
+(17.4 percent)
+NONPROPRIETARY DATA BASE
+(3.2 percent)
+PROPRIETARY WORKING FILF
+ONLY (0.3 percent)
+
+Figure 4. Type, source, and file memb ership of water-level data.
+from the working file and were designated as belonging to a project file or a data-base file. The project file contains data selected from the working file; the data-base file contains da a selected from the project file. The purpose of the project file is to s tore one water-level measurement or equivalent freshwater head for each decade for each geohydrologic unit in each township in the State. Where there were more than one measurement or equivalent freshwater head in the township for a particular geohydrologic unit, the median value was selected, The purpose of the data-base file is to store one site for each county or each geohydrologic unit.
+14
+
+Sites with more than one measurement or equivalent freshwater head were preferred. The goals of the project and data-base files were not always achieved due to lack of data for the geohydrologic units in some parts of the State. There are about 1,225 water-level measurements and 3,890 equivalent freshwater heads in the project file and about 160 water-levelmeasurement sites and 220 equivalent freshwater heads in the data-base file (fig. 4).
+Water-level data are stored in the U.S. Geological Survey's GWSI file, the CMRASA's RPDB file, and on magnetic tape. All the water-level measurements, except some of those from the literature, are available from GWSI. The CMRASA's RPDB file is the repository of most of the equivalent freshwater-head information. All the measured water levels and nonproprietary equivalent freshwater heads are available on magnetic tape from the U.S. Geological Survey in Lawrence, Kans. Those equivalent freshwater heads derived from information obtained from Roger Hoeger, consultant (Denver, Colo.), and Petroleum Information, Inc. (Denver) are not available in machine-readable form due to their proprietary nature (about 3,745). A description of the kind and format of data stored on magnetic tape is presented in table 4 for the measured water-level data and in table 5 for the equivalent freshwater-head data.
+Hydraulics Data
+The purpose of the hydraulics file is to store data related to transmission and storage properties of the geohydrologic units studied by the CMRASA in Kansas. The file includes results from about 30 specific-capacity tests and 20 aquifer tests, and interpretations from about 285 drill-stem tests and about 75 core-sample analyses (fig. 5). Hydraulics data were derived from information from U.S. Geological Survey files (Lawrence, Kans.) and publications, Kansas Geological Survey files and publications, Kansas Corporation Commission files, Kansas Department of Health and Environment files, Roger Hoeger, consultant, and individual drilling or testing companies (fig. 5).
+All the data belong to the investigation's hydraulics working file. The data are dense in some parts of Kansas. To facilitate mapping, representative data were chosen from working files and designated as belonging to a project file. The purpose of the project file is to store one result from a specific-capacity or aquifer test or an interpretation from a drillstem test for each geohydrologic unit in each township in the State. The goal of the project file was not always achieved due to lack of data for the geohydrologic units in some parts of the State. There are about 20 specific-capacity and 10 aquifer-test results and about 215 drill-stemtest interpretations in the project file (fig. 5).
+Hydraulics data are stored in the U.S. Geological Survey's GWSI, the CMRASA's RPDB file, and on magnetic tape. GWSI is the repository for all specific-capacity and aquifer-test results. Hydraulics data from drill-stem tests and core-sample analyses are stored in the CMRASA's RPDB file. All specific-capacity and aquifer tests, core-sample analyses, and nonproprietary drill-stem-test data are available on magnetic tape from the U.S.
+15
+
+Table 4. Description and format of measured water-level data stored on magnetic tape
+
+Record position
+
+Description
+
+3-8
+9-15
+16-17
+18 19-32
+33-34 35 36-38 39 40-43 44 45-52
+53
+
+File membership: blank = working file only;
+2 = project file and working file;
+3 = data base, project file, and working file
+* = water level on same line was selected for project mapping (important where there are several water levels for one well).
+Latitude in degrees, minutes, and seconds (ddmmss). All latitudes are north.
+Longitude in degrees, minutes, and s econds (dddmmss). All longitudes are west.
+Sequence number (01 for the first well at any location; subsequent wells at same location are assigned larger numbers).
+Blank
+Landline location (township, range, section, and quarter sections, as described in figure 1).
+Sequence number (see record positions 16-17 above). Blank County code (see U.S. Department of Commerce, 1979). Blank
+Geohydrologic unit supplying water to the well (see table 1). Blank
+U.S. Geological Survey geologic unit code (see table 1 or Hutchinson, 1975, appendix F).
+Importance of formation as a source of water to the well:
+P = primary; S = secondary;
+N = noncontributing;
+U = unknown. 16
+
+Table 4. Description and format of measured water-level data stored on magnetic tape Continued
+
+Record position
+
+Description
+
+54 Blank 55-61 Depth to top of formation, in feet. 62 Blank 63-69 Altitude of land surface, in feet. 70 Blank 71-77 Depth to bottom of well, in feet. 78 Blank 79-85 Depth to top of screened interval, in feet. 86 Blank 87-93 Depth to bottom of screened interval, in feet. 94 Blank 95-101 Depth to bottom of casing, in feet. 102 Blank 103-109 Depth to water, in feet. 110 Blank 111-117 Altitude of water level, in feet. 118 Blank 119-128 Date of water-level measurement in order of month, day, and year
+(MM/DD/YYYY). 129-132 Source of data:
+A = Static water level from aquifer test; P = Static water level from production test; G, L, or R = post-1929 measured water level; 0 = pre-1930 measured water level (location of well
+generally uncertain).
+
+17
+
+Table 5. Description and format of equi /alent freshwater-head data stored on magnetic tape
+
+Record position
+
+Description
+
+3 4-9
+10-16
+17-18
+19 20-21 22 23-25 26 27-37
+38
+
+File membership:
+blank = working file only; 2 = project file and working file; 3 = data base, project fi e, and working file.
+Quality of data:
+1 or 3 = good-quality pressure data; blank or 9 = medium- to poor-quality pressure data. Blank Latitude in degrees, minutes, and seconds (ddmmss). All latitudes are north. Longitude in degrees, minutes, and seconds (dddmmss). All longitudes are west. Sequence number (01 for first well at any location; subsequent wells at same location are assigned larger numbers). Blank State code (see U.S. Department of Commerce, 1979).
+Blank
+County code (see U.S. Department oi: Commerce, 1979). Blank
+Landline location (township, range section, and quarter sections, as described in figure 1).
+Blank
+
+18
+
+Table 5. Description and format of equivalent freshwater-head data stored on magnetic tape Continued
+
+Record position
+
+Description
+
+39-40
+41 42-46 47 48-51 52-59 60 61-64 65 66-70 71 72-76 77 78-81
+82
+
+Source of data: 10 = U.S. Geological Survey file or publication; 11 = Kansas Geological Survey file or publication; 22 = Kansas Corporation Commission; 23 = Kansas Geological Society; 24 = drilling or testing company.
+Blank Date of drill-stem test in order of month and year (MM/YY). Blank Geohydrologic units open to tested interval (see table 1). U.S. Geological Survey geologic unit code open to tested interval
+(see table 1 or Hutchinson, 1975, appendix F). Blank Altitude of land surface, in feet. Blank Depth of top to tested interval, in feet. Blank Depth of bottom to tested interval, in feet. Blank Pressure, in pounds per square inch (graphically extrapolated
+according to conventional drill-stem-test analysis methods or the larger of the initial and final shut-in pressures). Blank
+
+19
+
+Table 5. Description and format of equivalent freshwater-head data stored on magnetic tape- -Continued
+
+Record position
+
+Description
+
+83-87
+
+Altitude of pressure-recording gage , in feet, or the top of tested interval if gage location unknown.
+
+88 Blank
+
+89-93
+
+Altitude of equivalent freshwater bead, in feet, uncorrected for temperature and density of formation water and to the top of the aquifer.
+
+94 Data-file source:
+
+E = CMRASA reservoir parameter data base file;
+
+blank = uncorrected equivalent freshwater head (not used for project mapping).
+
+95-99
+
+Altitude of top of aquifer, in feet , used as datum for corrected equivalent freshwater head
+
+100-102 Mean annual temperature at land surface, in degrees Fahrenheit.
+
+103-106 Geothermal gradient, in degrees Fahrenheit per 100 feet,
+
+107-110 Temperature of water in formation tested, in degrees Fahrenheit
+
+111-117 Estimated dissolved-solids concentration of water in formation tested, in milligrams p er liter.
+
+118-123 Altitude of equivalent freshwater head, in feet, corrected for temperature and density of formation water and to the top of the aquifer.
+
+124 Data-file source (E = CMRASA reservoir parameter data base file).
+
+Geological Survey in Lawrence, Kans. Those drill-stem-test interpretations (about 60) derived from data from Roger Hoe er, consultant, are not availlable in machine-readable form due to their proprietary nature. A description of the kind and format of the specific -capacity and aquifer-test data on magnetic tape is presented in table 6. A description of the kind and format of core-sample analyses and drill-s em-test data on magnetic tape is presented in table 7.
+
+20
+
+CORF-SAMPLE ANALYSIS (18.8 percent)
+DRILL-STEM TEST (53.9 percent)
+
+HYDRAUIICS DATA
+
+AQUIFER TEST (4.6 percent)
+SPECIFIC-CAPACITY TEST
+(7.3 percent)
+DRILL-STEM TEST (PROPRIETARY) (15.4 percent)
+
+U.S. GEOLOGICAL SURVEY (34.5 percent)
+KANSAS GEOLOGICAL SURVEY (21.7 percent)
+NONPROPRIETARY WORKING FILE ONLY (33.5 percent)
+NONPROPRIETARY PROJECT FILE (50.4 percent)
+
+SOURCE OF DATA FILE MEMBERSHIP
+
+ROGER HOEGER, CONSULTANT
+(PROPRIETARY) (15.5 percent)
+KANSAS DEPARTMENT OF HEALTH AND ENVIRONMENT (2.7 percent)
+DRILLING OR TESTING COMPANY
+(7.1 percent)
+KANSAS CORPORATION
+COMMISSION (18.5 percent)
+PROPRIETARY PROIECT FILE (12.2 percent)
+PROPRIETARY WORKING FILE ONLY
+(3.9 percent)
+
+Figure 5. Type, source, and file membership of hydraulics data,
+Water-Use Data
+Water-use data include estimates of freshwater withdrawals from each aquifer for several major uses for each county in Kansas, tabulated by decade. Unlike the other types of data, the water-use data are not time or site specific but rather are temporal and areal aggregates. Estimates of freshwater withdrawn in each county and of the percentages represented by each major use are based on appropriated and reported withdrawals from the Division of Water Resources of the Kansas State Board of Agriculture
+21
+
+and population information from the U.S. Census Bureau. Estimates of percentage withdrawals from each aquifer are based on information provided by Division of Water Resources representat Lves and U.S. Geological Survey personnel. Average yearly withdrawals we e estimated at the midpoint of each decade from 1940 to 1980 and assumesd to be representative of the decade.
+Water-use data for the CMRASA in Kansas are available only on magnetic tape from the U.S. Geological Survey in Lawrence, Kans. A description of the format and kind of water-use data stored on magnetic tape is presented in table 8.
+
+Table 6. Description and format of speci ic-capacity and aquifer-test data stored on magnetic tape
+
+Record position
+
+Description
+
+4-9
+10-16 17-18 20-22 23 24-35 36
+
+File membership:
+blank = working file only;
+2 = project file and wor cing file;
+3 = data base, project f Lie, and working file.
+Type of test data:
+S = specific capacity;
+A = aquifer.
+Latitude in degrees, minutes, and seconds (ddmmss). All latitudes are north.
+Longitude in degrees, minutes, and seconds (dddmmss). All longitudes are west.
+Sequence number (01 for first wel at any location; subsequent wells at the same location are assigned larger numbers)
+County code (see U.S. Department >f Commerce, 1979).
+Blank
+Landline location (township, rang j, section, and quarter sections, as described in figure 1).
+Blank
+
+22
+
+Table 6. Description and format of specific-capacity and aquifer-test data stored on magnetic tape Continued
+
+Record position
+
+Description
+
+37-38 Source of data:
+
+10 = U.S. Geological Survey file or publication;
+
+11 = Kansas Geological Survey file or publication;
+
+13 = Kansas Department of Health and Environment file;
+
+24 = drilling or testing company.
+
+39 Blank
+
+41-42 Geohydrologic unit tested (see table 1).
+
+45-52
+
+U.S. Geological Survey geologic unit code (see table 1 or Hutchinson, 1975, appendix F).
+
+53-62 Depth to top of interval tested, in feet.
+
+63-72 Depth to bottom of interval tested, in feet.
+
+73-82 Transmissivity, in feet squared per day.
+
+83-92 Storage coefficient, dimensionless.
+
+93-102 Hydraulic conductivity (horizontal), in feet per day.
+
+103-112 Permeability factor = ratio of intrinsic permeability to viscosity, in millidarcies per centipoise.
+
+DATA REPOSITORIES
+Most of the data compiled for Kansas as part of the CMRASA are available from several sources the original source, a large multistate computer file, and magnetic tape. The original agency or company file usually is the least-accessible source. Large multistate computer files usually are more accessible but may require extensive knowledge of the system to retrieve data. The magnetic tape available from the U.S. Geological Survey's office in Lawrence, Kans., is the most accessible, concise, and complete source of the data compiled for the Kansas part of this investigation.
+
+23
+
+Table 7. Description and format of core-sample analysis and drill-stemtest data stored on magnetic tape
+
+Record position
+
+Description
+
+3 4-9
+10-16
+17-18
+19 20-21 22 23-25 26 27-37
+38 39-40
+
+File membership: blank = working file only; 2 = project file and worlcing file; 3 = data base, project f le, and working file.
+Quality of data: 2 or 3 = good-quality pe meability data;
+blank, 1, or 9 = medium- to poor quality permeability data. Blank Latitude in degrees, minutes, and seconds (ddmmss). All
+latitudes are north. Longitude in degrees, minutes, and seconds (dddmmss). All
+longitudes are west. Sequence number (01 for first well at any location; subsequent
+wells at the same location are assigned larger numbers). Blank State code (see U.S. Department of Commerce, 1979). Blank County code (see U.S. Department of Commerce, 1979) Blank Landline location (township, range section, and quarter sections,
+as described in figure 1). Blank Source of data:
+10 = U.S. Geological Survey file or publication; 11 = Kansas Geological Survey fi e or publication;
+
+24
+
+Table 7. Description and format of core-sample analysis and drill-sterntest data stored on magnetic tape Continued
+
+Record position
+
+Description
+
+39-40
+41 42-46 47 48-49 51 52-59
+60 61-64 65-66 67-70 71-72 73-76 77 78-85
+86 87-93 94 95-97
+
+Source of data Continued: 22 = Kansas Corporation Commission; 24 = drilling or testing company.
+Blank Date of test in order of month and year (MM/YY) . Blank Geohydrologic unit tested (see table 1). Blank U.S. Geological Survey geologic unit code (see table 1 or Hutchin-
+son, 1975, appendix F). Blank Altitude of land surface, in feet. Blank Depth to top of interval tested, in feet. Blank Depth to bottom of interval tested, in feet. Blank Permeability factor = ratio of intrinsic permeability to
+viscosity, in millidarcies per centipoise. Blank Viscosity of fluid, in centipoise. Blank Reservoir temperature, in degrees Celsius.
+
+25
+
+Table 7. Description and format of core-s. mple analysis and drill-stemtest data stored on magnetic tape Con t inued
+
+Record position
+
+Description
+
+98-99 Blank 100-106 Intrinsic permeability, in millidarcies 107 Blank 108-114 Hydraulic conductivity (horizontal) , in feet per day. 115 Blank 116-120 Median porosity (from core-sample nalyses), in percent 121 Blank 122-127 Ratio of horizontal to vertical permeability (from core-
+sample analyses).
+
+Water Data Storage and Retrieval System (WATSTORE)
+The U.S. Geological Survey acquires many types of data during its investigations of the occurrence, quantity , quality, distribution, and movement of the surface- and underground-wa ter resources of the Nation, WATSTORE is a large-scale computerized syst em used to store and retrieve this data. WATSTORE consists of several files, one for each type of data; the water-quality and station-header files and GWSI are three of these files. All the data in the different WATSTORE files can be related by the location information in the station-tuiader file (Hutchinson, 1975).
+Ground Water Site Inventory (GWSI)
+The U.S. Geological Survey's GWSI contaj ns all the log data and parts of the water-level and hydraulics data that were compiled for the Kansas CMRASA study. Water-quality data-base file nembers also are identified in GWSI. Members of data-base files are flagg ed in GWSI by the use of the "other identifiers" and "other assigners" components (C190 and C191, respectively) under "other site-identification numbers" (R = 189). These components can be used to limit data retrieved from GWSI to only the members of the data-base file desired. How these components were used to identify a specific data base is presented in table 9.
+All log interpretations, water-level measurements, and hydraulics data identified in GWSI as part of the CMRASA study are associated with a standard U.S. Geological Survey eight- character geologic unit code
+26
+
+(see table 1 or Hutchinson, 1975, appendix F). This code is stored in the "unit identifier" component (C93 for the log interpretations and waterlevel-measurement data or C100 for the hydraulics data). In addition, all log interpretations and hydraulics data are identified with a three-digit code number (table 1) in the "entry number" component (C256 for log interpretations or C99 for hydraulics data). Thus, all log-interpretation, water-level, and hydraulics data are identified with a geologic unit through at least one component.
+Instructions for retrieving data from GWSI are detailed in Baker and Foulk (1975).
+Water-Quality File
+The WATSTORE water-quality file contains the results of chemical analyses of water samples collected by the U.S. Geological Survey. Instructions for using and retrieving data in the WATSTORE water-quality file are given in Hutchinson (1975) and U.S. Geological Survey (1983), respectively.
+Central Midwest Regional Aquifer System Analysis Water-Quality File (CMRASA QWFILE)
+The CMRASA's QWFILE file contains all the water-quality data compiled for Kansas, Nebraska, and the parts of the eight adjacent States included in the CMRASA study (see cover). The conventions used in QWFILE are similar to those of the WATSTORE water-quality file. Access to QWFILE is through a program called QWJOB. QWJOB is a series of programs developed to retrieve, process, and display records from QWFILE. Descriptions of QWFILE and QWJOB are not available at the time of this publication.
+Central Midwest Regional Aquifer System Analysis Reservoir Parameter Data Base (CMRASA RPDB)
+The CMRASA's RPDB file stores most of the drill-stem-test and coresample-analyses data compiled for the Kansas, Nebraska, and parts of the eight adjacent States included in the CMRASA study. A description of RPDB is not available at the time of this publication.
+Magnetic Tape
+All nonproprietary data compiled for the Kansas part of the CMRASA study are stored on magnetic tape and are available on request from the U.S. Geological Survey in Lawrence, Kans. The characteristics of each file stored on magnetic tape are described in table 10. These files can be copied onto magnetic tape in various densities and formats depending on the needs of the requestor. At this time (1987) the densities available are 800, 1,600, and 6,250 bytes per inch on nine-track tape. The formats available are MAGSAV, ASCII, EBCDIC, BCD, or eight-bit BINARY. The maximum physical block size must be less than or equal to 10,000 characters. To obtain a copy of any of the files on magnetic tape, contact the U.S. Geological Survey office at 1950 Constant Avenue - Campus West, Lawrence, KS 66046 [telephone: (913) 864-4321] and request the particular files to be
+27
+
+copied onto a magnetic tape. The requesto r will be charged the cost of the tape and the labor involved in making tie tape (about $25.00 in 1987).
+
+Table 8. Description and format of water-us e data stored on magnetic tape
+
+Record position
+
+Description
+
+I-3 4-5 6-9
+10 II-19
+20-21 22-24
+25-26 27-29
+30-31 32-34
+35-36 37-39
+40-41 42-44
+45-46 47-49
+50-51
+
+County code (see U.S. Department of Commerce, 1979).
+Blank
+Middle year of decade; values estimated for this year assumed to be representative of the entir decade.
+Blank
+Estimated total ground water used by county for the year, in millions of gallons per day.
+Blank
+Percentage of ground water derived from Upper Cretaceous through Cenozoic rocks (geohydrologic uni t A1-A2; see table 1).
+Blank
+Percentage of ground water derived from Dakota Sandstone (geohydrologic unit B0; see table 1).
+Blank
+Percentage of ground water derived from Cheyenne Sandstone (geohydrologic unit C0; see table 1).
+Blank
+Percentage of ground water derived from Permian through Upper Mississippian rocks (geohydrologi c units F1-H3; see table 1).
+Blank
+Percentage of ground water derived from Mississippian rocks (geohydrologic unit 10; see table 1).
+Blank
+Percentage of ground water derived ::rom Devonian to Upper Cambrian rocks (geohydrologic uni l:s K1-L3; see table 1).
+Blank
+
+28
+
+Table 8. Description and format of water-use data stored on magnetic tape Continued
+
+Record position
+
+Description
+
+52-54
+55-56 57-59
+60-61 62-64 65-66 67-69 70-71 72-74
+
+Percentage of ground water derived from Upper Cambrian rocks (geohydrologic unit N0; see table 1).
+Blank Percentage of ground water used by livestock and rural
+households.
+Blank Percentage of ground water used for industrial purposes.
+Blank
+Percentage of ground water used for irrigation. Blank Percentage of ground water used by municipalities.
+
+SUMMARY
+Machine-readable log, water-quality, water-level, hydraulics, and wateruse data for Kansas were compiled as part of the U.S. Geological Survey's Central Midwest Regional Aquifer System Analysis (CMRASA). The log data consist of depths to the top of selected geologic formations determined from about 275 sites with geophysical logs and formation lithologies from about 190 sites with lithologic logs. The water-quality data consist of about 10,800 analyses, of which about 1,200 are proprietary. The waterlevel data consist of about 4,480 measured water levels and about 4,175 equivalent freshwater heads, of which about 3,745 are proprietary. The hydraulics data consist of results from about 30 specific-capacity tests and about 20 aquifer tests and interpretations of about 285 drill-stem tests (of which about 60 are proprietary) and about 75 core-sample analyses. The water-use data consist of estimates of freshwater withdrawals from geohydrologic units for several major uses for each of the 105 counties in Kansas. Average yearly withdrawals were estimated for each decade from 1940 to 1980.
+Some of these data are stored in large multistate computer data bases, such as the U.S. Geological Survey's WATSTORE water-quality file and GWSI and the CMRASA's QWFILE and RPDB files. All the log and water-use data and the nonproprietary parts of the water-quality, water-level, and hydraulics data are available on magnetic tape from the U.S. Geological Survey office in Lawrence, Kans.
+29
+
+Table 9. Components of Ground Water Site I iventory (GWSI) that identify data-base files of Central Midwest Region il Aquifer System Analysis (CMRASA)
+
+Type of data
+
+Other site-identif .cation numbers (components i i R=189)
+
+Other identifier (C190)
+
+Other assigner (C191)
+
+Lithologic Geophysical Water quality
+Water level
+
+LITH-DB
+GEOPHYS-DB
+[Sample number and geohydrologic unit]L/
+WL-DB [geohydrologic unit]L/
+
+KSCMRASA KSCMRASA KSCMRASA-QWDB
+KSCMRASA
+
+1 Components shown in brackets indicate addii:ional information that was coded for water-level and water-quality da :a. This information varies for each site entered in GWSI.
+Table 10. Characteristics of fileis stored on magnetic tape
+
+File name
+
+Type of file
+
+Record length
+
+] jines Lines Lines o: : data of in file
+introduct ion
+
+Bytes in
+file
+
+LOG.GEOPHYS Geophysical-log data
+
+73 '*!,936 48 2,984 217,832
+
+LOG.LITH
+
+Lithologic-log data
+
+78 : 1,191 53 3,244 253,032
+
+WATER. QUAL Water-quality data
+
+80 6~, ',726 117 67,843 5,427,440
+
+WL.MEAS
+
+Measured water-level 132 f i,342 107 5,449 719,268 data
+
+HEAD.EQFW
+
+Equivalent freshwater- 124 head data
+
+427 128
+
+555 68,820
+
+HYD.SCAQ
+
+Specific-capacity test 112 and aquifer-test data
+
+49 72
+
+121 13,552
+
+HYD.DSTCORE Drill-stem-test and
+
+127
+
+core-sample-analyses
+
+data
+
+297 116
+
+413 52,451
+
+WATER. USE Water-use data
+
+74 420 73 493 36,482
+
+30
+
+SELECTED REFERENCES
+Adkison, W.L., ed., 1966, Stratigraphic cross section of Paleozoic rocks Colorado to New York: American Association of Petroleum Geologists Cross Section Publication 4, 58 p.
+Baker, C.H., Jr., and Foulk, D.G., 1975, National Water Data Storage and Retrieval System Instructions for preparation and submission of ground-water data: U.S. Geological Survey Open-File Report 75-589, 159 p.
+Hutchinson, N.E., compiler, 1975, National Water Data Storage and Retrieval System of the U.S. Geological Survey User's guide: U.S. Geological Survey Open-File Report 75-426, 791 p.
+Jorgensen, D.G., and Signer, D.C., 1981, Plan of study for the Central Midwest Regional Aquifer System Analysis in parts of Arkansas, Colorado, Kansas, Missouri, Nebraska, New Mexico, Oklahoma, South Dakota, and Texas: U.S. Geological Survey Water-Resources Investigations, Open-File Report 81-206, 28 p.
+Kansas Geological Society, 1966, Type logs of Kansas: Wichita, v. 1 and 2.
+Kansas Geological Society Names and Correlation Committee, 1956a, Northsouth electrical log cross section, eastern Kansas: Wichita, 1 sheet.
+____1956b, West-east electrical log cross section, southeastern Kansas: Wichita, 1 sheet.
+Kansas Geological Society Study Group Committee, 1949, North-south electric log cross section from Nebraska to Oklahoma along sixth principal meridian: Wichita, 1 sheet.
+____1950, West-east cross section, southern Kansas: Wichita, 1 sheet.
+____1951, West-east cross section, northern Kansas: Wichita, 1 sheet.
+Kansas Geological Survey, 1964, Geologic map of Kansas: Kansas Geological Survey Map Series M-l, scale 1:500,000, 1 sheet.
+Merriam, D.F., 1963, The geologic history of Kansas: Kansas Geological Survey Bulletin 162, 317 p.
+U.S. Department of Commerce, National Bureau of Standards, 1979, Counties and county equivalents of the State of the United States and the District of Columbia: Federal Information Processing Standards (FIPS) Publication 6-3, 35 p.
+U.S. Geological Survey, 1983, National Water Data Storage and Retrieval System user's guide, volume 3 Water quality file: Reston, Virginia, unpublished U.S. Geological Survey report, unnumbered pages.
+Zeller, D.E., ed., 1968, The Stratigraphic succession in Kansas: Kansas Geological Survey Bulletin 189, 81 p.
+31
+
+

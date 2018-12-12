@@ -1,0 +1,1442 @@
+prepared cooperation illinois center transportation illinois department transportation federal highway administration estimation peak discharge quantiles select annual exceedance probability northeastern illinois scientific investigation report department interior geological survey 
+photograph show illinois cross south branch kishwaukee river mchenry county illinois perry masouridis illinois department transportation august leave 
+photograph show flooding osage drive illinois along east branch dupage river dupage county illinois scott czaplicki illinois department transportation april right 
+estimation peak discharge quantiles select annual exceedance probability northeastern illinois thomas over riki saito andrea veilleux jennifer sharp david soong audrey ishii prepared cooperation illinois center transportation illinois department transportation federal highway administration scientific investigation report department interior geological survey 
+department interior sally jewel secretary geological survey suzette kimball director geological survey reston virginia for information usgs federal source science earth natural living resource natural hazard environment visit http www usgs gov call ask usgs 
+for overview usgs information product include map imagery publication visit http store usgs gov 
+any use trade firm product names descriptive purpose imply endorsement government 
+although information product part public domain also may contain copyrighted material note text 
+permission reproduce copyright item must secure copyright owner 
+suggest citation over saito veilleux sharp soong ishii estimation peak discharge quantiles select annual exceedance probability northeastern illinois geological survey scientific investigation report appendix http doi org sir20165050 
+also publish over saito veilleux sharp soong ishii estimation peak discharge quantiles select annual exceedance probability northeastern illinois illinois center transportation report fhwa ict appendix 
+issn online 
+acknowledgment the guidance technical review panel project chair matt connor illinois department transportation idot include member steve ferguson idot dan ghere federal highway administration rick gosch illinois department natural resource perry masouridis idot tzuoh ying army corp engineer neil vanbebber idot rick wojcik idot critical success project 
+marvin harris john latour geological survey usgs illinois water science center john walker robert waschbusch usgs wisconsin water science center donald arvin usgs indiana water science center provide key input quality streamgage record use study 
+allan curtis midwestern regional climate center assist download understanding national weather service cooperative daily precipitation data use study 
+this publication base result ict r27 development implementation update urban regional flood frequency equation illinois 
+ict r27 conduct cooperation illinois center transportation illinois department transportation division highways department transportation federal highway administration 
+content acknowledgment iii abstract introduction purpose scope description study area previous study data development peak discharge quantiles streamgages streamgage selection redundancy analysis regional skew analysis frequency analysis basin characteristic basin delineation spatially average basin characteristic regional temporal regression analysis adjustment data use analysis temporal analysis urbanization effect adjustment annual maximum peak discharge current urban fraction regional spatial regression analyse selection basin characteristic development final spatial regression equation accuracy final spatial regression equation application regression equation application spatial regression equation ungaged location far streamgage streamgage ungaged location near streamgage application temporal urbanization coefficient example computation example ungaged location study region far streamgage example ungaged location study region near streamgage example streamgage study region example location outside study region example adjustment effect future urbanization summary reference cite appendix 
+northeastern illinois regional skew analysis application wls gls method northeastern illinois result regional skew analysis northeastern illinois reference cite 
+map show study area streamgages use study 
+graph show population growth northeastern illinois 
+map show housing density decade northeastern illinois 
+graph show empirical distribution function urbanized fraction gag basin illinois flood frequency region 
+graph show property geological survey streamgage record use study northeastern illinois 
+graph show property basins geological survey streamgages use study northeastern illinois 
+map show location precipitation station use study thiessen polygon 
+graph show segment intercept function drainage area streamgages use study northeastern illinois 
+graph show urban fraction coefficient temporal regression analysis streamgages northeastern illinois adjacent state function exceedance probability 
+graph show segment intercept subtract log transform annual maximum peak discharge streamgages northeastern illinois adjacent state function urban fraction least square quantile regression least square regression line fit 
+graph show change mean standard deviation skewness log transform annual maximum peak discharge record streamgages use study northeastern illinois result adjustment urban fraction value 
+graph show annual exceedance probability adjust function regression coefficient ratio value basin characteristic category consider study northeastern illinois 
+graph show comparison square root fraction national land cover dataset basin use study northeastern illinois 
+graph show ratio peak discharge quantiles function urban fraction select annual exceedance probability imply two set urbanization coefficient obtain study northeastern illinois 
+fit cross correlation model log annual maximum peak discharge study northeastern illinois 
+relation unbiased site skew urbanization measure streamgages northeastern illinois regional skew study area 
+geological survey streamgages use study northeastern illinois adjacent state online 
+estimate peak discharge quantiles streamgages northeastern illinois adjacent state select annual exceedance probability online 
+spatially average basin characteristic consider develop spatial regression equation study northeastern illinois online 
+segment information geological survey streamgages use study northeastern illinois adjacent state online 
+number segment per streamgage record use regression analysis peak discharge streamgages northeastern illinois adjacent state 
+observed urban adjust annual maximum peak discharge associate urbanization precipitation value streamgages northeastern illinois adjacent state online 
+result ordinary least square linear regression streamgages northeastern illinois adjacent state diagnose temporal effect urbanization precipitation annual maximum peak discharge quantile regression coefficient temporal analysis streamgages northeastern illinois adjacent state function annual exceedance probability online 
+quantile regression coefficient urban fraction temporal analysis streamgages northeastern illinois adjacent state select annual exceedance probability 
+correlation matrix variance inflation factor value basin characteristic select use spatial regression analysis streamgages northeastern illinois adjacent state 
+coefficient select spatial regression equation study northeastern illinois 
+measure average accuracy select spatial regression equation study northeastern illinois 
+component variance prediction select spatial regression equation study northeastern illinois online 
+range basin characteristic value use fit select spatial regression equation study northeastern illinois 
+example peak discharge quantile computation study northeastern illinois 
+skew statistic geological survey streamgages use development regional skew model study northeastern illinois online 
+regional skewness model correspond metric study northeastern illinois 
+average regional skew variance prediction equivalent record length urban regional skew model various value nlcd222324 study northeastern illinois 
+pseudo analysis variance statistic northeastern illinois urban regional skew model 
+conversion factor 
+customary unit international system unit 
+multiply inch 
+foot mile acre acre acre acre square mile mi2 square mile mi2 cubic foot ft3 cubic foot ft3 acre foot acre acre foot acre cubic foot per second ft3 
+length area volume flow rate 
+obtain centimeter millimeter meter kilometer square meter hectare square hectometer hm2 square kilometer km2 hectare square kilometer km2 cubic decimeter dm3 cubic meter cubic meter cubic hectometer hm3 cubic meter per second 
+temperature degree celsius may convert degree fahrenheit follow 
+temperature degree fahrenheit may convert degree celsius follow 
+datum vertical coordinate information reference north american vertical datum navd 
+horizontal coordinate information reference north american datum nad except otherwise note 
+elevation use report refers distance vertical datum 
+aep annual exceedance probability 
+annual flood probability discharge 
+annual maximum series 
+gls bayesian generalize least square 
+wls bayesian weight least square 
+bdf basin development factor 
+cook county precipitation network 
+cooperative network 
+csg crest stage gage 
+digital elevation model 
+expect moment algorithm 
+esri environmental system research institute inc 
+gi geographic information system 
+gls generalize least square 
+hand drawn boundary 
+ict illinois center transportation 
+illinois department transportation 
+mac mrcc apply climate system 
+mrcc midwestern regional climate center 
+mean square error 
+mwrdgc metropolitan water reclamation district great chicago 
+national elevation dataset 
+national hydrography dataset 
+national land cover dataset 
+national wetland inventory 
+national water information system 
+national weather service 
+ols ordinary least square 
+omit variable bias 
+pd partial duration series 
+peakfq peak flow frequency program 
+pilf potentially influential low flood 
+prism parameter elevation relationship independent slope model 
+ssurgo usgs vif wls wreg 
+standard error state soil survey geographic database geological survey variance inflation factor weight least square weight multiple linear regression program water year 
+estimation peak discharge quantiles select annual exceedance probability northeastern illinois 
+thomas over riki saito andrea veilleux jennifer sharp david soong audrey ishii 
+abstract this report provide two set equation estimate peak discharge quantiles annual exceedance probability aeps recurrence interval year respectively watersheds illinois base annual maximum peak discharge data watershed near northeastern illinois 
+one set equation develop temporal analysis two step least squaresquantile regression technique measure average effect change urbanization watershed use study 
+the resulting equation use adjust rural peak discharge quantiles effect urbanization study equation also use adjust annual maximum peak discharge study watershed urbanization condition 
+the set equation develop spatial analysis 
+this analysis use generalize least square regression fit peak discharge quantiles compute urbanization adjust annual maximum peak discharge study watershed drainage basin characteristic 
+the peak discharge quantiles compute use expect moment algorithm follow removal potentially influential low flood define multiple grubbs beck test 
+improve quantile estimate generalize skew coefficient obtain newly develop regional skew model skew increase urbanized land use fraction 
+the drainage basin characteristic use explanatory variable spatial analysis include drainage area fraction develop land fraction land poorly drain soil likely water basin slope estimate ratio basin relief basin perimeter 
+this report also provide follow example illustrate use spatial urbanization adjustment equation estimate peak discharge quantiles ungaged site improve flood quantile estimate near gag site urbanization adjust annual maximum peak discharge peak discharge quantile estimate streamgages watersheds include study watershed additional watershed study region 
+originally consider use study later deem redundant 
+the urbanization adjustment equation spatial regression equation peak discharge quantile estimate develop study make available web application streamstats provide automated regression equation solution user select stream location 
+figure table compare observed urbanization adjust annual maximum peak discharge record streamgage provide http doi org sir20165050 download 
+introduction estimate magnitude frequency flood particularly urban area increase density live property risk critical ingredient floodplain management emergency response planning infrastructure design task size bridge culvert 
+time urbanization particularly construction impervious surface change response watersheds precipitation reduce infiltration increase flow velocity increase flood volume magnitudes peak konrad 
+prediction effect urbanization ungaged basin basins future urbanization expect plan usually obtain follow one two general approach simulation rainfall runoff model driven historical precipitation either design storm continuous simulation long term record usually calibrate observed streamflow data regression peak discharge quantiles obtain observe streamflow data collection streamgages near region interest relevant basin characteristic drainage area fraction urbanized area 
+the two approach different advantage disadvantage rosbjerg other generally simulation model approach prefer predict response basin change basin property climate characteristic whereas ungaged basin historical period regional regression approach may accurate hodgkin other 
+indeed regional regression equation approach well develop 
+estimation peak discharge quantiles select annual exceedance probability northeastern illinois 
+form regional calibration watershed model whereas simulation model regional calibration difficult unsolved problem vogel 
+regional regression equation urbanization affect area northeast illinois first publish allen bejcek use data begin around end 
+since many year additional streamflow data extensive growth urbanized area northeast illinois several historic flood juhl 
+result geological survey usgs illinois water science center cooperation illinois department transportation idot federal highway administration fhwa illinois center transportation ict develop project update spatial regression equation allen bejcek urbanization affect streams northeastern illinois adjust rural peak discharge quantile estimate effect urbanization 
+purpose scope this report present method result study applied regional spatial regression approach develop equation estimate peak discharge quantiles annual exceedance probability aeps often refer year flood respectively illinois flood frequency region previously define soong other 
+flood frequency region consist northeastern part north central illinois include great chicago region 
+this report update exist spatial regression equation soong other allen bejcek northeastern illinois follow way use streamflow data water year compare soong other allen bejcek test implement wetland open water slope variable replace soong other us update flood frequency estimation method software particularly estimation site peak discharge quantiles use multiple grubbs beck potentially influential low flood pilf detection expect moment algorithm ema handle censor historical flood regional skew estimation bayesian generalize least square 
+the study describe report also implement temporal regression approach over other analysis adjustment annual maximum peak discharge record exceedance probability dependent effect urbanization 
+approach observe peak discharge record adjust current urbanization condition use spatial regression analysis set temporal urbanization coefficient obtain applicable wherever hydrologic effect urbanization similar northeastern illinois 
+because historical urbanization data use temporal regression approach 
+available begin early streamflow data use study 
+there three primary product study described report report publish ict usgs version content present method result include two set regression equation estimate peak discharge quantiles implementation spatial temporal regression equation streamstats http streamstats usgs gov collection figure table compare observe urbanization adjust peak discharge http doi org sir20165050 
+description study area the study area cover northeastern illinois part north central illinois northwest indiana southeast wisconsin fig 
+the physiography region determine recent glacial episode 
+the last glacial episode wisconsinan end year ago except western lobe study area valley green river cover ice hansel mckay 
+the entire study region cover ice previous glacial episode illinoian end year ago 
+the glacier wisconsinan episode leave behind various glacial feature prevalent series moraine arnold other 
+the physiographic region northeastern illinois follow glacial feature chicago lake plain wheaton morainal country make great lakes section west south till plain section leighton other correspond region indiana schneider 
+result surficial geology study region consist unconsolidated glacial drift vary thickness foot piskin bergstrom 
+the character drift range end moraine till plain outwash fan lacustrine deposit hansel mckay 
+subsequent warmer drier period add loess surface thinner toward lake michigan soil parent material combine loess underlying drift fehrenbacher other 
+soil order region vary original vegetation type primarily alfisols form forest nearer lake michigan mollisols form grasslands rest region fehrenbacher other 
+the permeability soil varies parent material low clayey deposit high sandy outwash arnold other 
+the climate study region classify dfa köppen geiger system mean humid continental warm summer peel other belda other 
+this classification mean winter cold summer warm precipitation common whole year 
+base data average temperature chicago fahrenheit average winter 
+map area 
+wisconsin illinois 
+region soong other 
+wbd hydrologic unit 
+lake michigan 
+watershed boundary dataset wbd digit hydrologic unit wbd digit hydrologic unit geological survey streamgage number nonredundant redundant 
+southern lake cook dupage county streamgage label show figure 
+green river 
+illinois river 
+fox river illinois indiana 
+base geological survey digital data albers equal area conic projection standard parallel central meridian 
+watershed boundary dataset natural resource conservation service 
+mile kilometer 
+study area streamgages use study entire area detail show southern lake cook dupage county detail 
+estimation peak discharge quantiles select annual exceedance probability northeastern illinois 
+lake cook 
+inset area figure 
+river north 
+de plaines 
+creek salt 
+west branch 
+lake michigan 
+watershed boundary dataset digit hydrologic unit 
+geological survey streamgage number nonredundant redundant 
+illinois indiana 
+base geological survey digital data albers equal area conic projection standard parallel central meridian 
+watershed boundary dataset natural resource conservation service 
+mile kilometer 
+study area streamgages use study entire area detail show southern lake cook dupage county detail continue 
+december february daily high low average summer june august daily high low changnon other 
+base parameter elevation relationship independent slope model prism data http www prism oregonstate 
+edu normal access april precipitation chicago inch per year minimum monthly amount inch january february increase inch per month may august decrease fall toward winter minimum 
+about half total precipitation result thunderstorm inch fall snow base data changnon other 
+flood climate classification hayden study area lie border tsucpss **” region north tsucpse region south tsu indicate barotropic nonfrontal convect unorganized without tropical cyclone summer indicate frontal storm possible throughout year **” indicate winter snow cover seasonal exceeds centimeter may substantial spring snowmelt flood whereas indicate seasonal ephemeral snow cover day per year may contribute flood winter rain fall exist snow 
+the season precipitation study region flood classification explain wide distribution time annual maximum peak discharge use study 
+large monthly fraction march april june also substantial fraction february may small fraction july september 
+nonurbanized land cover study area include substantial fraction row crop agriculture also forest grassland open water wetland surround region primarily agricultural illinois department natural resource 
+urbanized land use study area drive population growth metropolitan chicago dominate city chicago population level population growth shift suburb fig 
+this suburban population growth accompany even large growth develop land use example population grow percent developed land use grow percent time square mile mi2 farmland previously drain agricultural use juhl develop mariner 
+this growth develop land use show geographically figure 
+the hydrologic effect expansion develop land northeastern illinois inferred series historic flood begin 1950s extended present juhl changnon changnon westcott 2002a angel changnon changnon changnon fazio sharp villarini other though increase precipitation also identify rougé cai winter other 
+population million 
+explanation metropolitan county city chicago 
+population growth northeastern illinois karstensen other 
+estimation peak discharge quantiles select annual exceedance probability northeastern illinois 
+housing density class number 
+description theobald undeveloped 
+great acre per unit 
+acre per unit 
+acre per unit 
+acre per unit 
+acre per unit 
+acre per unit 
+acre per unit 
+acre per unit 
+less acre per unit 
+commercial industrial transportation 
+chicago metropolitan county 
+mile kilometer figure 
+housing density decade northeastern illinois modify karstensen other 
+data development 
+these flood lead several policy engineering response juhl 
+one policy response introduction ordinance require stormwater detention new development first promulgate metropolitan water reclamation district great chicago mwrdgc 
+another policy response passage legislation state illinois allow five suburban county plan fund countywide stormwater management program resource coordination policy committee 
+third policy response plan construction channel improvement flood control reservoir resource coordination policy committee 
+previous study allen bejcek develop regional spatial regression equation peak discharge quantiles urbanized area northeastern illinois use data function impervious percentage drainage area slope log transform 
+they use streamgage record include crest stage gage csgs many developed stage discharge rating part study 
+drainage area basin range mi2 impervious fraction percent 
+decrease effect urbanization measure estimate fraction impervious area determine increase flood magnitude decrease aep generally expect konrad 
+the author also suggest urbanization effect factor equation would appropriate use outside study area elsewhere illinois surround region adjust exist rural equation use urban area result would appropriate basin completely serve underground drainage system flood detention retention reservoirs substantially affect flood peak sauer other complete nationwide spatial regression study effect urbanization flood frequency use result allen bejcek 
+sauer other use streamgage record include illinois exclude streamgages substantial manmade detention effect exclude developed fraction increase percent period record 
+they develop three set spatial regression equation 
+two set include seven explanatory variable remain set three 
+the two seven variable equation set variables except one use basin lag time estimate observe rainfall runoff data available place measure channel efficiency determine follow method espey winslow 
+all three set equation include explanatory variable drainage area rural peak discharge quantile basin development factor bdf numerical index presence channel improvement curb gutter storm sewer easily computable standard gi database 
+these three common explanatory variable 
+constitute variable three variable equation set 
+impervious area fraction include two seven variable set equation significant bdf 
+the coefficient equation also indicate decrease effect urbanization large flood 
+more recently moglen shiver develop iterative method adjust rural flood frequency equation effect time vary urbanization measure one two gi computable quantity estimate impervious fraction population density 
+among study streamgages illinois one boneyard creek urbana usgs streamgage outside northeastern illinois 
+one conclusion study list model weakness apparent effect urbanization relatively mild 
+use gi computable quantity urbanization variable directly incorporate time vary urbanization moglen shiver study similar study 
+their method however produce adjusted time series annual maximum peak discharge streamgage rather produce set urbanization adjust peak discharge quantiles 
+other study characterize effect urbanization flood northeastern illinois include changnon demissie changnon other hejazi markus villarini other rougé cai 
+soong other divide state illinois seven hydrologic region develop regional regression equation annual maximum series ams partial duration series pd peak discharge rural basin region use data 
+the basin characteristic use regression equation drainage area main channel slope basin length soil permeability percent open water herbaceous wetland 
+for region focus area study use drainage area main channel slope percent open water herbaceous wetland 
+the ams regression equation study later implement streamstats ishii other 
+data development data development study consist computation two set data value observe peak discharge quantiles statistical relation flood magnitude frequency base observed flood select streamgages basin characteristic quantitative descriptor characteristic basin drain location streamgages 
+regression equation estimate peak discharge quantiles ungaged location develop use basin characteristic 
+estimation peak discharge quantiles select annual exceedance probability northeastern illinois 
+peak discharge quantiles streamgages develop equation estimate peak discharge quantiles ungaged stream location quantiles first compute select streamgages least year annual maximum peak discharge 
+this computation include four step streamgage selection removal redundant streamgages one streamgage streamgage pair whose basin nest substantial overlap remove set streamgages regression analyse do regional skew analysis regional regression streamgage skewness value do provide regional estimate weight streamgage skewness value frequency analysis frequency analysis peak discharge quantiles select aeps compute select streamgage fit log pearson type iii generalize method moment method 
+streamgage selection the streamgages choose urbanized area northeastern illinois nearby urbanized area 
+northwestern indiana southeastern wisconsin within hydrologic unit along region soong other figs 
+indiana nearby urbanized area select lake porter county wisconsin consist digit hydrologic unit pikeroot fig 
+the decision update region soong other part study part make assumption region include substantial number streamgages identify rural drainage basin contain substantial fraction urbanized land use 
+this assumption verify figure show example percent gag basin region use soong other urbanized fraction great percent last year record use soong other whereas percent gag basin outside region use soong other urbanized fraction 
+minimum record length criterion year record wy apply selecting station 
+water year choose start point study period early year available housing density data theobald use estimate historical urbanization study 
+water year choose end point study period consistency analysis over other 
+empirical distribution function fraction theobald class end streamgage record 
+explanation basins region soong other basin region 
+fraction basins figure 
+empirical distribution function urbanized fraction gag basin illinois flood frequency region soong other 
+data development 
+the list streamgages least year record study area screen eliminate potential measurement accuracy issue use several criterion 
+one refer list streamgages use recent publish rural flood frequency study soong other illinois rao indiana walker krug wisconsin 
+john walker usgs write commun also provide list streamgages use go flood frequency study wisconsin 
+streamgage use one study retain study unless specific problem identify data section staff illinois indiana wisconsin usgs water science center 
+the select streamgages property record drainage basin list table available http doi org sir20165050 
+histogram annual maximum peak discharge record property select streamgages show figure 
+these histogram show maximum streamgage record begin around end around primarily csgs small less mi2 drainage basin table 
+histogram urban fraction streamgage drainage basin figure show substantial urban fraction increase throughout streamgage period record urban fraction increase end streamgage record 
+these increase urbanization underscore nonstationary nature land use study basin need adjustment current condition 
+overall drainage area range less mi2 mi2 mi2 fig 
+annual maximum peak discharge data select station retrieve national water information system nwis geological survey 
+redundancy analysis the generalize least square analysis use fit regression model peak discharge quantiles form basis final result study allow cross correlation among observed quantiles induced temporal factor storm hit two nearby basin cause annual maximum peak discharge 
+generalize least square regression however account correlation model error arise two nested basin appreciable overlap drainage area veilleux 
+when overlap large enough one basin consider redundant purpose regional regression model veilleux 
+address issue redundancy analysis carry determine optimal nonredundant subset original station 
+because one gag basin may nest within multiple gag basin multiple gag basin nest within way decide order basin remove need 
+for study decision make assign score gag basin base record length drainage basin property amount overlap 
+gag basin remove basin bad high score follow computation score remove remain basin worst recomputed score proceed way basin remain overlap fraction large overlap fraction darij two nested basin define 
+dai daj 
+daj dai 
+dai daj drainage area basins respectively 
+originally maximum overlap fraction suggest veilleux chosen determine basin could retain increase value slightly 
+script write core team implement algorithm 
+the detail computation score follow the score basin iteration step compute sum sij remain basin basin overlap wijth basin sij subscore basin overlap basin step compute 
+sij darij rli max ) 
+darij overlap fraction basin equation 
+rli record length streamgage basin year 
+max maximum record length dataset 
+probability density value drainage area station step scale lie 
+base definition darij lie rli max 
+the effect factor make subscore sij value follow overlap basin area 
+darij large sij shorter record length rli rli max large sij drainage area basin large density value 
+many basin similar drainage area large sij consequently large basin overlap shorter record large drainage area overlap raise subscore therefore 
+score making associate streamgage likely 
+the result apply algorithm remove 
+original leave nonredundant streamgages 
+csgs throughout peak discharge record 
+csgs part peak discharge record 
+continuous record throughout peak discharge 
+these streamgages use subsequent 
+streamgages use streamgages 
+estimation peak discharge quantiles select annual exceedance probability northeastern illinois 
+annual maximum peak discharge water year 
+annual maximum peak discharge record begin water year 
+number streamgages 
+number streamgages 
+water year annual maximum peak discharge record end water year 
+water year annual maximum peak discharge month 
+number annual peak 
+number streamgages 
+water year 
+jan feb mar apr may jun jul aug sep oct nov dec month 
+explanation all streamgages nonredundant streamgages 
+property geological survey streamgage record use study northeastern illinois 
+number streamgages annual maximum peak discharge water year number streamgages annual maximum peak discharge record begin water year number streamgages peak discharge record end water year number annual maximum peak discharge month year 
+drainage area 
+data development 
+urban fraction first year record 
+number streamgages 
+drainage area square mile 
+urban fraction 
+urban fraction last year record 
+urban fraction 
+number streamgages 
+urban fraction 
+urban fraction 
+explanation all streamgages nonredundant streamgages 
+property basins geological survey streamgages use study northeastern illinois 
+basin drainage area urbanized basin fraction first year streamgage record urbanized basin fraction last year streamgage record urbanize basin fraction urbanized define theobald housing density great acre per house plus commercial industrial transportation land use 
+estimation peak discharge quantiles select annual exceedance probability northeastern illinois 
+consider redundant indicate study area map figure histogram describe basic property streamgage record basins figure figure table listing basic property streamgage record basins table 
+regional skew analysis although expect moment algorithm ema cohn other use study obtain estimate peak discharge quantiles generalize method moment method bulletin 17b interagency advisory committee water data still rely estimate mean variance skewness logarithms annual maximum peak discharge data streamgage 
+moment skewness involves raise data value third power sensitive extreme value thus large uncertainty estimate data single site 
+therefore weight site regional skew estimate inverse proportion uncertainty obtain weighted skew estimate recommend bulletin 17b continue recommend 
+because map bulletin 17b show grid regional skew value become outdated newer refine map create one soong other illinois 
+these map however address effect urbanization 
+furthermore new approach estimation regional skew bayesian generalize least square gls analysis develop real other gruber other gruber stedinger veilleux show ability reduce uncertainty regional skew estimate allow regional skew estimate take account basin characteristic applicable 
+detail new approach application study give appendix 
+the data analyze annual maximum peak discharge nonredundant streamgages adjust urbanization condition 
+the select regional skew model dependent urban fraction measure nlcd222324 variable sum fraction national land cover database nlcd class develop low intensity develop medium intensity develop high intensity accord linear relation γˆr 97nlcd γˆr regional skewness 
+skewness increase substantially urbanization value basin urbanization nlcd222324 basin nlcd222324 fraction percent 
+the skewness estimate relation combine site skew accord associated uncertainty obtain weighted skew estimate use obtain site peak 
+discharge quantile estimation describe frequency analysis section 
+frequency analysis the peak discharge quantiles aeps redundant nonredundant streamgages table available http doi 
+org sir20165050 compute apply ema approach cohn other along multiple grubbs beck test cohn other detect remove pilfs annual maximum peak discharge adjust urbanization condition describe temporal analysis adjustment section 
+the ema methodology generally follow guideline provide bulletin 17b interagency advisory committee water data use log pearson type iii distribution fit method moment estimate discharge frequency however ema methodology provide updated procedure incorporate historical censor peak discharge 
+use ema approach multiple grubbsbeck test recommend hydrologic frequency analysis work group http acwi gov hydrology frequency hfawg b71b recommend rev soh 12june2013revised final pdf 
+software develop usgs analyze peak discharge data peakfq version use computation veilleux other 
+part frequency analysis skewness value streamgage compute weighted average γˆw station regional skew value follow method suggest bulletin 17b interagency advisory committee water data 
+avp γˆr γˆs mse γˆs γˆr avp γˆr mse γˆs 
+avp γˆr 
+mse γˆs 
+weighted skewness regional skewness compute described regional skew analysis section appendix station skewness compute use ema approach implement peakfq streamgage average variance prediction regional skewness compute described appendix mean square error site skewness also compute use ema approach implement peakfq 
+regional temporal regression analysis adjustment 
+basin characteristic 
+spatially average basin characteristic 
+the start point define basin characteristic regional statistical analysis delineate basin boundary 
+follow delineation basin characteristic study compute follow two main approach 
+the first traditional approach project type use spatially average basin wide property drainage area fraction various land us soil type average soil property physiographic property basin slope 
+the second approach develop analyze spatially distribute basin characteristic base property estimate instantaneous unit hydrographs example grimaldi other 
+the spatially distribute approach propose way see effect basin shape location amount different type hydrologically relevant characteristic urbanized area open water wetland flood frequency characteristic significant could improve flood frequency prediction 
+preliminary result spatially distribute approach promise result drop consideration 
+approach use final result discuss report 
+basin delineation most basin delineate use online illinois streamstats application http streamstats usgs gov base environmental system research institute esri arc hydro tool software maidment 
+illinois streamstats use scale national hydrography dataset nhd hydrography meter national elevation dataset ned resampled meter resolution elevation information illinois wisconsin indiana 
+seven indiana basin delineate use indiana streamstats application similar application illinois streamstats result slightly well delineate kankakee river illinois streamstats result 
+eight wisconsin basin hydrologic unit lake michigan provide wisconsin water science center illinois streamstats cover area wisconsin streamstats exist time analysis 
+result drainage area illinois streamstats application compare drainage area hand drawn boundary hdb basin delineation consider accurate delineation type 
+for basin discrepancy large percent decide hdb delineation preferable 
+these basin usually small urban basin record end around difficult determine basin boundary urban development relate potential late modification hydrography topography 
+common challenge project type select among many basin characteristic available gi database 
+project part update regional regression equation region rural flood frequency study soong other use spatially averaged basin characteristic decide simplify process selection basin characteristic consider category characteristic use soong other region drainage area slope wetland open water fraction plus measure urbanized area table available http doi org sir20165050 
+the slope variable use soong other main channel slope 
+the determination main channel require sometimes lengthy computation streamstats case ambiguous alternative slope variable consider study 
+these alternative include basin average digital elevation model dem slop basin average state soil survey geographic database ssurgo soil slope basin slope compute maximum minimum basin elevation divide basin perimeter table 
+the wetland open water variable use soong other percent water herbaceous wetland nlcd soong other 
+additional open water wetland variable derive nlcd national wetland inventory nwi ssurgo consider study table 
+the urbanized area variable use temporal analysis adjustment annual maximum peak discharge record over other derive year census housing density database develop david theobald theobald 
+for spatial modeling peak discharge quantiles prefer urbanization variable something regularly update therefore developed area fraction impervious percentage nlcd choose theobald housing density urbanization estimate retain comparison table3 
+regional temporal regression analysis adjustment the purpose temporal analysis annual maximum peak discharge provide mean adjust peak discharge record streamgages use study level urbanization common year 
+this adjustment need provide approximately stationary contemporary streamgage record 
+the method analysis use regression determine value coefficient characterize regional average effect urbanization peak discharge quantiles function exceedance probability illinois flood frequency region 
+the coefficient 
+estimation peak discharge quantiles select annual exceedance probability northeastern illinois 
+also use develop factor adjust estimate peak discharge quantiles region illinois effect urbanization 
+the adjusted annual maximum discharge associate peak discharge quantiles also make available herein general use see table quantiles table discharge 
+the effect change urbanization streamgage record potentially problematic regression analysis peak discharge quantiles basin characteristic least two reason 
+one peak discharge record basins substantial change fraction urbanization streamgage period record difficult use single value urbanization fraction characterize entire record 
+the second historical urbanization information need characterize urban fraction record end time ago urbanization basin continue record end 
+because situation fairly common study region fig 
+method adjustment peak discharge record level urbanization common year need station go include study 
+the method use temporal analysis adjustment describe over other summary application method study follow 
+over other use two step regression method apply annual maximum peak discharge record function contemporaneous urbanization precipitation 
+first step break peak discharge record segment time major abrupt change basin ordinary leastsquares ols regression use estimate intercept segment 
+second step subtract segment intercept homogenize data across segment homogenize data analyze quantile regression provide regional urbanization precipitation coefficient sequence aeps mean assign aeps flood discharge observation 
+the urbanization coefficient aep assign peak discharge observation use adjust observation estimate urbanization level basin observe 
+adjustment change precipitation implement unlike change urbanization change precipitation highly uncertain may reverse future 
+data use analysis addition annual maximum peak discharge data nonredundant streamgages three type data use temporal analysis adjustment method apply study historical urbanization precipitation associate peak discharge information reservoirs structural flood control measure channelization 
+the historical urbanization data use over other theobald decadal housing density data base 
+census category housing density include undeveloped plus nonhousing urbanization commercial industrial transportation fig 
+theobald nonhousing urbanization estimate constant year value adjust proportion change housing density basin accord technique present over other obtain decadal estimate 
+follow over other decadal value housing density class fig 
+encompass area housing density acres per unit plus adjusted nonhousing urbanization linearly interpolate annual value use urbanization measure temporal analysis adjustment study 
+account effect trend precipitation alongside effect urbanization peak discharge precipitation value estimate observed peak discharge use study 
+because density daily precipitation gage much high hourly gage daily data use 
+three set daily precipitation data use estimate national weather service nws cooperative network coop station study area cook county precipitation network ccpn westcott precipitation data collect argonne national laboratory http www atmos anl gov anlmet access march 
+data coop download midwestern regional climate center mrcc apply climate system macs http mrcc isws illinois edu mac 
+miss data study period wy fill use weighted average value neighbor gage weight determine inverse distance weighting technique over other 
+precipitation data distribute spatially use thiessen polygon thiessen fig 
+daily value basin upstream streamgage study compute area weighted average value thiessen polygon overlie basin 
+estimate precipitation associate annual maximum peak discharge obtain select maximum daily precipitation period three day one day date peak discharge 
+precipitation data date peak discharge use nws cooperative precipitation measurement typically make early morning date assign data therefore include precipitation previous day 
+information reservoirs structural flood control measure obtain access national inventory dam nid review relevant report inquire various federal state county local agency involve flood control northeastern illinois search historical imagery google earth 
+review information reservoir structural flood control measure example channelization within basin streamgages use study determine 
+for identify reservoir three particular quantity obtain year construction volumetric capacity basin area upstream reservoir flood control measure 
+wisconsin illinois 
+river rock green 
+river illinois river 
+base geological survey digital data albers equal area conic projection standard parallel central meridian 
+mile kilometer 
+location precipitation station use study thiessen polygon 
+fox illinois indiana 
+explanation thiessen polygon area study rain gage region soong other rain gage lake michigan 
+regional temporal regression analysis adjustment 
+estimation peak discharge quantiles select annual exceedance probability northeastern illinois 
+the volumetric capacity upstream area use estimate magnitude hydrologic effect reservoir 
+when reservoir control least percent streamgage drainage area volumetric storage capacity divide streamgage drainage area inch substantial change effect basin structural flood control measure deem changed period record streamgage use study year change drop temporal analysis remain record broken segment year 
+after segment intercept value obtain preliminary run first ordinary least square ols step temporal analysis procedure intrastreamgage intercept value anomalous example show significant increase follow construction floodcontrol reservoir research complete basin history 
+reason explain anomaly find segment break anomaly occur dissolved record connect 
+the final set segment use present table available http doi org sir20165050 
+accord table nonredundant streamgages one segment three streamgage record split two segment 
+peak discharge associate segment short year historic peak discharge censor peak discharge peak discharge date know also drop temporal analysis 
+temporal analysis urbanization effect 
+the annual maximum peak discharge nonredundant streamgages study period separate segment necessary base construction structural flood control measure certain year data drop describe data use analysis section along associate precipitation urban fraction value constitute database temporal analysis effect urbanization table available http doi org sir20165050 
+the result analysis use adjust annual maximum peak discharge urban faction common year base analysis determine regional effect change urban fraction peak discharge magnitude 
+number segment per streamgage record use regression analysis peak discharge streamgages northeastern illinois adjacent state 
+number segment per streamgage record 
+number record 
+addition peak discharge value drop temporal analysis segment break certain cod peak discharge value also drop 
+peak code appear peak discharge data download nwis give table column title nwis peak code whether particular peak discharge value use temporal regression analysis perform urbanization adjustment indicate table column title discharge value use adjustment regression 
+document two column table peak discharge value code drop temporal regression analysis 
+these code indicate publish value subject censor code historic peak code date peak discharge event know code 
+these peak discharge value nevertheless adjust adjust value appear table 
+these value also use spatial regression analysis spatial analysis require know date event ema methodology design handle censor historic value discuss frequency analysis section 
+the temporal analysis carry method describe over other follow twostep linear regression technique suggest canay first step use ols regression estimate intercept segment peak discharge data second step applies quantile regression koenker peak discharge data segment intercept value subtract 
+the segment intercept subtract peak discharge observation obtain segment independent observation approximately homogeneous segment independent quantile regression apply 
+quantile regression use second step provide estimate coefficient regression model different quantiles exceedance probability 
+because property disparate effect urbanization different exceedance probability espey winslow reference therein allen bejcek konrad reference therein over other reference therein estimate adjustment peak discharge urban fraction common year take disparate effect account 
+the independent variable two step regression analysis urban fraction precipitation 
+precipitation use regression analysis peak discharge adjust present precipitation regime beyond scope study establish one include precipitation trend happen exist precipitation cause observe peak discharge would falsely interpreted effect change urban fraction 
+the following linear regression model use least squares regression analysis first step method 
+regional temporal regression analysis adjustment 
+yˆi b1pi b2ui ,…, 
+log10 base logarithm annual maximum peak discharge ith segment year 
+yˆi fit value accord regression relation 
+intercept ith segment precipitation urban fraction respectively ith segment year 
+regression coefficient precipitation urban fraction respectively regression error ith segment year 
+notice one intercept segment whereas one value coefficient therefore 
+estimate effect precipitation urbanization segment combine equivalent value 
+uncertainty weight mean coefficient segment segment least square regression analysis free 
+therefore segment intercept contain information distinguishes one segment another effect urbanization precipitation capture coefficient equation assume segment 
+the computa 
+tion regression model do core team use plm function plm package croissant millo 
+the coefficient obtain fit regression relation equation give table value inter 
+cepts segment give segment information table plot figure 
+linear relation limit scatter figure segment intercept value mostly completely explain drainage area 
+accord coefficient table small positive effect precipitation highly sig 
+nificant magnitude coefficient much large standard error 
+the urban fraction coefficient 
+also positive large also highly significant 
+because regression relation form log10 b2u ratio 
+peak discharge two different value urban fraction site give 10b2 
+vqa2lueq1of t1h0eb2u b10a f1ra0c0t 5i0o79n 1o0 ff1ic 1ie2n4t bo2rinabdoicuatteas1t2h aptefrocrenat1i0n cpreeracseen 
+urban fraction ratio peak discharge urbanization coefficient step 
+analysis method use adjustment peak discharge median value result next step quite 
+similar coefficient give approximation average result 
+second quantile regression base step method distinction segment remove subtract applicable segment intercept value dependent variable value segment 
+number observation ith segment weight mean segment intercept obtain least square regression 
+the independent variable urban fraction precipitation value associate peak discharge 
+result ordinary least square linear regression streamgages northeastern illinois adjacent state diagnose temporal effect urbanization precipitation annual maximum peak discharge 
+standard error 
+precipitation coefficient precipitation coefficient urban fraction coefficient 
+asee equation computation weight mean segment intercept value 
+urban fraction coefficient 
+weight mean segment intercept log unit 388a 
+estimation peak discharge quantiles select annual exceedance probability northeastern illinois 
+segment intercept 
+segment intercept function drainage area streamgages use study northeastern illinois 
+drainage area square mile 
+the quantile regression model follow yˆk 
+element sequence aeps 
+yˆk fit value quantile aep kth log transform peak discharge value intercept fit linear 
+relation yˆk independent variable 
+precipitation urban fraction respectively quantile regression coefficient function aep 
+precipitation urban fraction 
+yˆk regression error kth observation aep 
+this model solve function quantreg 
+package koenker language 
+two post processing step apply obtain final 
+quantile regression coefficient standard error s 
+first bootstrap resampling approach suggest canay 
+apply obtain s unbiased mean coefficient value 
+second continuous monotonic version bootstrap mean urban fraction coefficient function exceedance probability obtain fit seventh order polynomial 
+the original bootstrap mean value quantile regression coefficient along fitted urban fraction coefficient give table available http doi org sir20165050 three set urban fraction coefficient plot figure 
+subset urbanization coefficient aeps standard floodfrequency quantiles give table 
+the result table indicate median urban fraction precipitation coefficient quite similar value compute ols regression carry first step analysis value 
+result table indicate precipitation coefficient varies slightly exceedance probability whereas urban fraction coefficient strong mostly monotonic trend exceedance probability maximum value exceedance probability exceedance probability 
+the dependence urban fraction coefficient exceedance probability give direct empirical evidence urbanization study area affect magnitude common large exceedance probability peak discharge rarer small exceedance probability peak discharge 
+urban fraction coefficient 
+regional temporal regression analysis adjustment 
+quantile regression coefficient 
+mean bootstrap coefficient seventh order polynomial fit mean coefficient 
+standard error mean coefficient 
+exceedance probability 
+urban fraction coefficient temporal regression analysis streamgages northeastern illinois adjacent state function exceedance probability 
+quantile regression coefficient urban fraction temporal analysis streamgages northeastern illinois adjacent state select annual exceedance probability 
+aep annual exceedance probability 
+aep coefficient standard error 
+estimation peak discharge quantiles select annual exceedance probability northeastern illinois 
+adjustment annual maximum peak discharge current urban fraction follow application two step method obtain exceedance probability dependent urbanization precipitation coefficient peak discharge assign exceedance probability procedure describe over other 
+this procedure develop adjust urbanization therefore reduces three dimensional log10 space least square quantile regression carry two dimensional log10 space quantile regression result set line space fig 
+diminish effect urbanization large rare flood see graphically 
+use exceedance probability assign peak discharge observation continuous urban fraction coef ficient function ′′( annual maximum peak discharge 
+adjust urban fraction obtain theobald data use follow equation apply streamgage record segment 
+′′( ′′( ) 
+base logarithm adjust unadjusted respectively peak discharge value year segment segment intercept value recent current segment respectively streamgage record containing segment 
+log transform adjusted peak discharge segment intercept subtract 
+explanation quantile regression fit least square regression fit log transform adjusted peak discharge value annual exceedance probability quantile regression fit 
+urban fraction 
+segment intercept subtract log transform annual maximum peak discharge streamgages northeastern illinois adjacent state function urban fraction least square quantile regression least square regression line fit 
+regional temporal regression analysis adjustment 
+′′( urban fraction coefficient value correspond exceedance probability assign peak discharge value urban fraction value basin correspond segment year peak discharge adjust year observation peak discharge respectively 
+notice streamgage record one segment quantity drop 
+for peak discharge censor level drop temporal analysis correct segment could determine adjustment method allow value also adjust data use site frequency analysis 
+for peak discharge value two segment adjustment interpolate 
+result peak discharge value associate segment 
+short year adjust thus drop site frequency analysis 
+the set adjust value ′′( 10yi ′′( assign exceedance probability value adjustment depend give table 
+the effect adjustment mean standard deviation skewness log transform peak discharge streamgage study show figure 
+the change mean result adjust upward peak urban fraction less value almost always positive change standard deviation result removal urban fractioninduced trend peak discharge observe data adjustment process adjustment small peak discharge large one almost always negative 
+the skewness increase often decrease also show effect adjust small peak large one 
+the overall increase skewness peak adjust urbanized condition also consistent increase skewness urban fraction determine spatial analysis discuss regional skew analysis section appendix 
+station deviation 
+standard deviation log transform annual maximum peak discharge adjust urbanization 
+mean log transform annual maximum peak discharge adjust urbanization 
+skewness log transform annual maximum peak discharge adjust urbanization 
+mean log transform observed annual maximum peak discharge 
+skewness log transform observed annual maximum peak discharge 
+standard deviation log transform observed annual maximum peak discharge explanation line figure 
+change mean standard deviation skewness log transform annual maximum peak discharge record streamgages use study northeastern illinois result adjustment urban fraction value 
+estimation peak discharge quantiles select annual exceedance probability northeastern illinois 
+regional spatial regression analysis 
+after annual maximum peak discharge adjust level urbanization common year describe regional temporal regression analysis adjustment section peak discharge quantiles select aeps compute described flood frequency section include weight regional skew model develop study 
+the computed quantiles constitute dependent variable spatial regression analysis spatially average basin characteristic develop describe spatially averaged basin characteristic section constitute independent variable 
+selection basin characteristic 
+the predictive capability basin characteristic category table investigate fitting weighted leastsquares wls linear regression model regression weight proportion record length aep possible combination basin characteristic one variable select category log10 transform drainage area always include 
+script core team write regression computation 
+the general form regression model fit investigation follow equation 
+estimate peak discharge quantile weight skew cubic foot per second annual exceedance probability coefficient estimate wls procedure drainage area square mile urbanization measure basin water wetness measure basin slope measure exponent use transform distribution urbanization water wetness slope measure respectively approximately gaussian shape implies transformation square root transformation log10 transformation test constant added urbanization water wetness slope measure log10 transformation use basin characteristic zero value 
+the select transformation list table 
+various plot regression result make facilitate examination result useful plot determine adjusted helsel hirsch function ratio coefficient variables urbanization slope wetness category fig 
+ratio coefficient value divide standard error helsel hirsch 
+such plot show model provide best fit high adjust significant coefficient value large magnitude statistic retain sign coefficient value plot show sign coefficient physically reasonable 
+the variable whose correspond regression model fit large magnitude ratio value high adjust along sign coefficient physically reasonable select candidate variable development final spatial regression equation 
+plot type category urbanization slope water wetland show figure 
+the urbanization variable large ratio value high adjust value usually square root nlcd222324 except aeps theobaldurban similar quality show figure 12a 
+both nlcd222324 theobaldurban positive coefficient physically expect 
+because nlcd base urbanization variable expect updated future theobaldurban eliminate consideration spatial regression equation nlcd222324 choose aeps candidate urbanization variable final equation 
+because many water wetland variable distinguish single plot result plot two set plots figure 12b 12c 
+the variable high adjust value large magnitude ratio value varies small large 
+regional spatial regression analysis 
+urbanization variable 
+lin nlcd21222324 log10 nlcd24 
+sqrt nlcd222324 
+sqrt nlcdimperv 
+sqrt nlcd2324 
+lin theobaldurban 
+lin nlcd21222324 log10 nlcd24 
+sqrt nlcd222324 
+sqrt nlcdimperv 
+sqrt nlcd2324 
+lin theobaldurban 
+aep aep 
+lin nlcd21222324 log10 nlcd24 
+sqrt nlcd222324 
+sqrt nlcdimperv 
+sqrt nlcd2324 
+lin theobaldurban 
+lin nlcd21222324 log10 nlcd24 
+sqrt nlcd222324 
+sqrt nlcdimperv 
+sqrt nlcd2324 
+lin theobaldurban 
+lin nlcd21222324 log10 nlcd24 
+sqrt nlcd222324 
+sqrt nlcdimperv 
+sqrt nlcd2324 
+lin theobaldurban 
+lin nlcd21222324 log10 nlcd24 
+sqrt nlcd222324 
+sqrt nlcdimperv 
+sqrt nlcd2324 
+lin theobaldurban 
+lin nlcd21222324 log10 nlcd24 
+sqrt nlcd222324 
+sqrt nlcdimperv 
+sqrt nlcd2324 
+lin theobaldurban 
+lin nlcd21222324 log10 nlcd24 
+sqrt nlcd222324 
+sqrt nlcdimperv 
+sqrt nlcd2324 
+lin theobaldurban 
+coefficient ratio 
+annual exceedance probability aep adjust function regression coefficient ratio value basin characteristic category consider study northeastern illinois urbanization variable water wetland variable slope variable 
+when absolute value ratio great coefficient significantly different zero significance level helsel hirsch 
+the variable name figure explanation define table string precede variable name figure explanation indicate transformation apply variable lin mean linear transformation sqrt mean square root transformation log10 mean log10 transformation 
+estimation peak discharge quantiles select annual exceedance probability northeastern illinois 
+water wetland variable 
+sqrt nlcd1190 
+lin drainageclass3a 
+sqrt nlcd9095 
+lin hydricclass1a 
+log10 drainageclass0 sqrt drainageclass2 
+lin hydricclass2a sqrt ponding1 
+sqrt drainageclass1a 
+lin ponding3 
+sqrt floodfreq1a 
+sqrt floodfreq2a sqrt nwi emergent 
+sqrt nwi emergentforested 
+sqrt nlcd1190 
+lin drainageclass3a 
+sqrt nlcd9095 
+lin hydricclass1a 
+log10 drainageclass0 
+lin hydricclass2a 
+sqrt drainageclass2 sqrt drainageclass1a 
+sqrt ponding1 lin ponding3 
+sqrt floodfreq1a 
+sqrt floodfreq2a sqrt nwi emergent 
+sqrt nwi emergentforested 
+sqrt nlcd1190 
+lin drainageclass3a 
+sqrt nlcd9095 
+lin hydricclass1a 
+log10 drainageclass0 
+lin hydricclass2a 
+sqrt drainageclass2 
+sqrt ponding1 
+sqrt drainageclass1a 
+lin ponding3 
+sqrt floodfreq1a 
+sqrt floodfreq2a 
+sqrt nwi emergent sqrt nwi emergentforested 
+sqrt nlcd1190 
+lin drainageclass3a 
+sqrt nlcd9095 
+lin hydricclass1a 
+log10 drainageclass0 
+lin hydricclass2a 
+sqrt drainageclass2 
+sqrt ponding1 
+sqrt drainageclass1a 
+lin ponding3 
+sqrt floodfreq1a 
+sqrt floodfreq2a 
+sqrt nwi emergent 
+sqrt nwi emergentforested 
+sqrt nlcd1190 
+lin drainageclass3a 
+sqrt nlcd9095 log10 drainageclass0 
+lin hydricclass1a lin hydricclass2a 
+sqrt drainageclass2 
+sqrt ponding1 
+sqrt drainageclass1a 
+lin ponding3 sqrt floodfreq1a 
+sqrt floodfreq2a 
+sqrt nwi emergent 
+sqrt nwi emergentforested 
+sqrt nlcd1190 
+lin drainageclass3a 
+sqrt nlcd9095 
+lin hydricclass1a 
+log10 drainageclass0 sqrt drainageclass2 
+lin hydricclass2a sqrt ponding1 
+sqrt drainageclass1a 
+lin ponding3 
+sqrt floodfreq1a 
+sqrt floodfreq2a 
+sqrt nwi emergent sqrt nwi emergentforested 
+sqrt nlcd1190 
+lin drainageclass3a 
+sqrt nlcd9095 log10 drainageclass0 
+lin hydricclass1a lin hydricclass2a 
+sqrt drainageclass2 
+sqrt ponding1 
+sqrt drainageclass1a 
+lin ponding3 
+sqrt floodfreq1a sqrt floodfreq2a 
+sqrt nwi emergent 
+sqrt nwi emergentforested 
+aep sqrt nlcd1190 
+explanation lin drainageclass3a 
+sqrt nlcd9095 
+lin hydricclass1a 
+log10 drainageclass0 
+lin hydricclass2a 
+sqrt drainageclass2 
+sqrt ponding1 
+sqrt drainageclass1a 
+lin ponding3 
+sqrt floodfreq1a 
+sqrt floodfreq2a 
+sqrt nwi emergent 
+sqrt nwi emergentforested 
+coefficient ratio 
+annual exceedance probability aep adjust function regression coefficient ratio value basin characteristic category consider study northeastern illinois urbanization variable water wetland variable slope variable 
+when absolute value ratio great coefficient significantly different zero significance level helsel hirsch 
+the variable name figure explanation define table string precede variable name figure explanation indicate transformation apply variable lin mean linear transformation sqrt mean square root transformation log10 mean log10 transformation continue 
+regional spatial regression analysis 
+water wetland variable 
+sqrt nlcd119095 
+lin drainageclass2a 
+log10 nlcd1195 log10 nlcd11 
+sqrt hydricclass1 lin hydricclass2 
+sqrt drainageclass1 
+sqrt watertabledepth 
+lin drainageclass3 
+sqrt ponding2 
+sqrt floodfreq1 sqrt floodfreq2 
+sqrt nwi total 
+log10 nwi forest 
+sqrt nlcd119095 
+lin drainageclass2a 
+log10 nlcd1195 
+sqrt hydricclass1 
+log10 nlcd11 sqrt drainageclass1 
+lin hydricclass2 sqrt watertabledepth 
+lin drainageclass3 
+sqrt ponding2 
+sqrt floodfreq1 
+sqrt floodfreq2 
+sqrt nwi total 
+log10 nwi forest 
+sqrt nlcd119095 log10 nlcd1195 
+lin drainageclass2a sqrt hydricclass1 
+log10 nlcd11 
+lin hydricclass2 
+sqrt drainageclass1 lin drainageclass3 
+sqrt watertabledepth sqrt ponding2 
+sqrt floodfreq1 
+sqrt floodfreq2 sqrt nwi total 
+log10 nwi forest 
+sqrt nlcd119095 
+lin drainageclass2a 
+log10 nlcd1195 
+sqrt hydricclass1 
+log10 nlcd11 
+lin hydricclass2 
+sqrt drainageclass1 lin drainageclass3 
+sqrt watertabledepth sqrt ponding2 
+sqrt floodfreq1 
+sqrt floodfreq2 
+sqrt nwi total 
+log10 nwi forest 
+sqrt nlcd119095 
+lin drainageclass2a 
+log10 nlcd1195 log10 nlcd11 
+sqrt hydricclass1 lin hydricclass2 
+sqrt drainageclass1 lin drainageclass3 
+sqrt watertabledepth sqrt ponding2 
+sqrt floodfreq1 
+sqrt floodfreq2 sqrt nwi total 
+log10 nwi forest 
+sqrt nlcd119095 
+lin drainageclass2a 
+log10 nlcd1195 log10 nlcd11 
+sqrt hydricclass1 lin hydricclass2 
+sqrt drainageclass1 
+sqrt watertabledepth 
+lin drainageclass3 
+sqrt ponding2 
+sqrt floodfreq1 
+sqrt floodfreq2 sqrt nwi total 
+log10 nwi forest 
+sqrt nlcd119095 log10 nlcd1195 
+lin drainageclass2a sqrt hydricclass1 
+log10 nlcd11 
+lin hydricclass2 
+sqrt drainageclass1 
+sqrt watertabledepth 
+lin drainageclass3 
+sqrt ponding2 
+sqrt floodfreq1 
+sqrt floodfreq2 
+sqrt nwi total 
+log10 nwi forest 
+sqrt nlcd119095 
+lin drainageclass2a 
+log10 nlcd1195 
+sqrt hydricclass1 
+log10 nlcd11 sqrt drainageclass1 
+lin hydricclass2 sqrt watertabledepth 
+lin drainageclass3 
+sqrt ponding2 
+sqrt floodfreq1 
+sqrt floodfreq2 
+sqrt nwi total log10 nwi forest 
+coefficient ratio 
+annual exceedance probability aep adjust function regression coefficient ratio value basin characteristic category consider study northeastern illinois urbanization variable water wetland variable slope variable 
+when absolute value ratio great coefficient significantly different zero significance level helsel hirsch 
+the variable name figure explanation define table string precede variable name figure explanation indicate transformation apply variable lin mean linear transformation sqrt mean square root transformation log10 mean log10 transformation continue 
+estimation peak discharge quantiles select annual exceedance probability northeastern illinois 
+slope variable 
+lin demslope log10 ssurgoslope 
+log10 dem10 
+log10 dem10p 
+lin demslope 
+log10 ssurgoslope log10 dem10 
+log10 dem10p 
+lin demslope 
+log10 ssurgoslope 
+log10 dem10 log10 dem10p 
+aep explanation lin demslope log10 ssurgoslope log10 dem10 log10 dem10p 
+lin demslope 
+log10 ssurgoslope 
+log10 dem10 log10 dem10p 
+explanation lin demslope 
+log10 ssurgoslope 
+log10 dem10 log10 dem10p 
+lin demslope 
+log10 ssurgoslope 
+log10 dem10 log10 dem10p 
+explanation lin demslope 
+log10 ssurgoslope 
+log10 dem10 
+log10 dem10p 
+coefficient ratio 
+annual exceedance probability aep adjust function regression coefficient ratio value basin characteristic category consider study northeastern illinois urbanization variable water wetland variable slope variable 
+when absolute value ratio great coefficient significantly different zero significance level helsel hirsch 
+the variable name figure explanation define table string precede variable name figure explanation indicate transformation apply variable lin mean linear transformation sqrt mean square root transformation log10 mean log10 transformation continue 
+regional spatial regression analysis 
+peak discharge quantiles nwi emergent annual exceedance probability aep flood nwi total aep flood drainageclass1a large flood aep physically expect negative coefficient value 
+because nwi total almost good nwi emergent aep flood select candidate variable small flood aeps drainageclass1a select large flood aeps 
+see figure 12d slope variable high adjust value large magnitude statistic value aeps physically expect positive coefficient log10 dem10p log10 dem10p choose aeps candidate urbanization variable final equation 
+development final spatial regression equation follow selection promise basin characteristic category wls regression investigation final equation compute generalized leastsquares gls regression generalizes wls regression take account cross correlation arise among nearby streamgages concurrent record 
+stedinger tasker show gls regression regional spatial flood frequency analysis provide accurate coefficient error estimate ordinary least square modest improvement compare wls regression depend amount cross correlation among streamgage record 
+the gls regression model fit computer program wreg eng other version download http water usgs gov software wreg 
+wreg implement gls approach estimation peak discharge quantiles fit log pearson type iii distribution use technique develop stedinger tasker tasker stedinger griffis stedinger griffis stedinger 
+the cross correlation ρˆij among streamgage record estimate selecting streamgage record pair minimum number concurrent year fit function form ρˆij dij αdij dij distance streamgages dimensionless parameter fit graphical method 
+for study minimum number concurrent year take take respectively 
+when select water wetland variable use gls regression analysis determine use drainageclass1a give good fit nwi total aep aep small difference aep final equation drainageclass1a use aeps final spatial regression equation 
+value select variable streamgage give table cross correlation variance inflation factor vifs table 
+correlation matrix variance inflation factor vif value basin characteristic select use spatial regression analysis streamgages northeastern illinois adjacent state 
+drainage area square mile nlcd222324 sum fraction national land cover database nlcd class drainageclass1a sum fraction soil survey geographic ssurgo fraction poorly drain unknown likely water )”; dem10p basin elevation range divide basin perimeter foot per mile redundant value 
+log10 nlcd2223241 drainageclass1a1 log10 dem10p variance inflation factor 
+log10 dem10p 
+estimation peak discharge quantiles select annual exceedance probability northeastern illinois 
+the general form select equation follow equation 
+peak discharge quantile cubic foot per second annual exceedance probability 
+drainage area square mile 
+select urbanization measure spatial equation nlcd222324 
+decimal fraction 
+basin soil wetness measure drainageclass1a decimal fraction 
+basin slope measure dem10p basin elevation range divide basin 
+perimeter foot per mile 
+coefficient estimate use wreg table 
+after invert logarithmic transformation prediction equation result 
+coefficient select spatial regression equation study northeastern illinois 
+intercept coefficient log10 drainage area square mile coefficient square root urbanization measure nlcd222324 decimal fraction coefficient square root basin wetness measure drainageclass1a decimal fraction coefficient log10 slope measure dem10p foot per mile standard error 
+annual exceedance probability 
+regional spatial regression analysis 
+accuracy final spatial regression equation 
+several measure average accuracy final gls spatial regression equation present table along comparative value standard model error percent correspond wls equation previous study allen bejcek soong other 
+all measure average streamgages analysis 
+the pseudo measure fraction variability dependent variable explain regression model remove effect time sample error eng other analogous standard coefficient determination 
+the average variance prediction include model error time sample error component indicate expect accuracy prediction ungaged location basin characteristic near centroid basin characteristic use gls analysis 
+the standard model error indicate accuracy model fit without component average variance prediction indicate additional error make prediction ungaged location result always somewhat small average variance prediction 
+all accuracy measure decrease aep decrease expect few data available less frequent event 
+technique compute accuracy estimate individual location streamgages ungaged location also available include variance standard error prediction confidence interval value 
+accord hodge tasker variance prediction individual location base gls regression analysis xit 
+model error variance table 
+row vector specify basin characteristic individual location augment matrix whose row transform basin characteristic 
+streamgage use gls model augment number 
+streamgages number basin characteristic plus matrix inverse covariance matrix use gls regression 
+matrix transpose xit matrix transpose 
+matrix select aeps give table available http doi org sir20165050 
+measure average accuracy select spatial regression equation study northeastern illinois 
+wls weight least square data 
+annual exceedance probability 
+pseudo percent 
+average variance prediction log unit 
+average standard error prediction percent 
+model error variance log unit 
+standard model error percent 
+standard model error percent wls fit 
+standard error estimate percent allen bejcek table 
+standard model error soong other table applicable region 
+estimation peak discharge quantiles select annual exceedance probability northeastern illinois 
+the variance prediction convert standard error prediction log unit take square root vi1 percent unit use follow formula 
+( ln10 
+eng other 
+the confidence interval predict discharge quantile compute log10 
+critical value distribution alpha level example percent confidence interval degrees freedom number streamgages use spatial regression number basin characteristic plus 
+after invert logarithmic transformation interval 
+qi10t psi 
+qi10 psi upper low confidence 
+limit respectively 
+for example therefore 
+percent confidence limit accord data method 
+use study probability true value dis 
+likewise probability true value discharge 
+quantile less low limit 
+probability true value lie limit 
+application regression equation there two set regression equation present report temporal equation table spatial equation table 
+set value urbanization coefficient positive expect urbanization coefficient temporal analysis decrease substantially peak discharge quantiles increase decrease aep 
+the change urbanization coefficient spatial regression equation function aep modest minimum aep increase toward small large aep value fact large urbanization coefficient occur aep 
+the increase urbanization coefficient spatial analysis decrease aeps beyond aep agree expectation effect urbanization decrease decrease aep therefore consider anomalous 
+reason anomaly implication application spatial equation discuss 
+because urbanization measure coefficients apply different approximately commensurate fig 
+direct comparison implication regard effect urbanization consider meaningful 
+plot ratio peak discharge quantiles different aeps consider show figure 
+these plot show except small amount urbanization begin completely rural basin large coefficient temporal analysis imply large effect urbanization especially large aeps small flood 
+they also show effect minimum value spatial coefficient occur aep example large effect urbanization spatial curve see aep 
+the urbanization coefficients temporal equation estimate temporal analysis directly change annual peak discharge basins urbanize 
+spatial equation urbanization coefficient compute observed change gag basin indirectly difference flood discharge quantiles among basin different level urbanization 
+when apply flood discharge regression equation one typically interested behavior ungaged location spatial transfer information entirely appropriate 
+when come urbanization however primary interest temporal question flood discharge quantiles change basin urbanized 
+because base direct analysis result process temporal urbanization coefficient likely reflect effect urbanization give basin 
+two general statistical issue least affect value regression coefficient multiple regression framework also need consider value coefficient interest study respect urbanization coefficient 
+these issue omit variable bias ovb measurement error explanatory variable 
+the issue ovb arises omit variable correlate variable interest dependent variable greene 
+case omit variable cause negative positive bias coefficient variable interest though bias prediction equation 
+context present analysis variable important predict flooddischarge property leave spatial temporal analysis correlate urbanization urbanization coefficient correct value 
+measurement error explanatory variable cause attenuation reduction absolute value variable without bias prediction equation fuller 
+possible ovb affect either set coefficient urbanization coefficient spatial analysis significantly small temporal analysis measurement error always cause reduction positive coefficient whereas ovb may cause error either direction first hypothesis result 
+explanation line 
+application regression equation 
+square root fraction national land cover dataset class 
+theobald urban fraction 
+comparison square root fraction national land cover dataset nlcd jin other class nlcd2223241 theobald urban fraction theobald basin use study northeastern illinois 
+suggest spatial urbanization coefficient subject measurement error 
+particular relation urbanization effect peak discharge varies among basin different development practice relate stormwater flood control variation would induce measurement error relative hydrologically effective urbanization value 
+such error would addition affect spatial analysis temporal one temporal analysis depend change time peak discharge interbasin difference capture segment intercept whereas spatial analysis depend directly value peak discharge 
+give concern regard accuracy urbanization coefficient spatial model nevertheless bias prediction previous assertion basic question come effect urbanization temporal one seem clearly preferable use temporal equation predict effect urbanization possible 
+possible use temporal equation adjustment rural estimate ungaged basin region enough truly rural basin develop rural equation unaffected urbanization fig 
+therefore obtain flood quantile estimate ungaged basin region spatial regression equation use 
+but situation peak discharge quantile estimate adjust effect urbanization temporal equation use 
+such situation include ungaged basin outside region assume urbanization proceed similarly gag basin analyze study 
+such situation may also include prediction future effect urbanization basin region assume urbanization proceed basin analyze study 
+these situation discuss detail application temporal urbanization coefficient section 
+application spatial regression equation the detail application update illinois region spatial regression equation depend nearness location interest streamgage 
+location interest far streamgage spatial regression equation 
+estimation peak discharge quantiles select annual exceedance probability northeastern illinois 
+peak discharge quantile ratio 
+peak discharge quantile ratio 
+explanation temporal regression temporal regression temporal regression temporal regression temporal regression temporal regression temporal regression temporal regression spatial regression spatial regression spatial regression spatial regression spatial regression spatial regression spatial regression spatial regression 
+urban fraction figure 
+ratio peak discharge quantiles function urban fraction select annual exceedance probability aeps implied two set urbanization coefficient obtain study northeastern illinois basin initially urbanization basin initially percent urbanized 
+application regression equation 
+location streamgage weight average quantiles regional equation quantiles streamgage record use 
+location near streamgage weight average quantiles regional equation adjust version quantiles streamgage record use 
+the detail different application describe section 
+ungaged location far streamgage for general ungaged location illinois flood frequency region final real space regression equation use 
+the usgs streamstats application http streamstats 
+usgs gov could use select location interest delineate basin compute basin characteristic peak discharge quantiles 
+important realize regression equation represent equation apply within range basin characteristic use fit equation 
+these range give table 
+streamstats enforce limitation though provide warning 
+streamgage because finite length streamgage record regional equation improve accuracy peak discharge quantile estimate streamgages incorporate regional information 
+the procedure recommend cohn other see also tasker compute peak discharge quantile weight average regression equation estimate result frequency analysis streamgage record weight inverses variance discharge estimate 
+the weighted discharge compute follow equation 
+weighted peak discharge quantile streamgage aep peak discharge quantile aep compute streamgage record 
+use ema weight skew 
+described frequency analysis 
+peak discharge quantile select aep obtain regression equation 
+apply streamgage 
+variance prediction 
+aep compute use equation 
+variance prediction select aep compute peakfq part 
+frequency analysis 
+the value 
+redundant nonredundant station study tabu 
+late table row label ema weight skew ”), 
+regional regression weight ema weight skew 
+regional regression respectively 
+the variance prediction weight discharge 
+atnfadpsrtkehederin c1tei9qo7un5a isowpnsigth 1w4tch ai1sn6vbcaealunceobmoefpuusvteedpdtgao swc ostmhp epgus twtean thdeavrspdta1egn r2wdro arrd error prediction percent unit confidence interval 
+range basin characteristic value use fit select spatial regression equation study northeastern illinois 
+nlcd222324 fraction national land cover database nlcd class low medium high intensity develop theobaldurban fraction theobald class housing acre per unit plus commercial industrial transportation land use drainageclass1a soil survey geographic ssurgo database fraction poorly drain unknown likely water )”; dem10p basin elevation range divide basin perimeter 
+basin characteristic name drainage area nlcd222324 theobaldurban drainageclass1a dem10p 
+streamstats name drnarea flc11dvlmh urbthe2010 fssurgdc78 relrelf 
+unit square mile decimal fraction decimal fraction decimal fraction foot per mile 
+estimation peak discharge quantiles select annual exceedance probability northeastern illinois 
+ungaged location near streamgage ungaged location interest near stream streamgage accuracy flooddischarge quantile estimate ungaged location improve estimate regional equation combine estimate streamgage ries 
+there different method literature adjustment method use follow soong other correct august method present idot drainage manual drainage manual committee 
+accord method near gage adjustment effect ratio drainage area ungaged basin interest gag basin see equation constraint effect adjustment method defines near streamgage 
+first define adjustment weight factor give 
+drainage area ungaged location interest drainage area streamgage 
+the near gage adjustment equation write follow 
+gage adjust flood discharge quantile estimate aep 
+ungaged location interest flood discharge quantile estimate aep ungaged location 
+interest spatial regression 
+equation equation flood discharge quantile estimate aep gage weight 
+spatial regression equation 
+equation table 
+define equation 
+accord equation near gage adjustment 
+equation therefore equation near gage 
+adjust value 
+identical value 
+regional regression equation 
+near gage adjust value reduces weight 
+flood discharge gage 
+accord value weight 
+application temporal urbanization coefficient 
+discuss two situation temporal urbanization coefficient may appropriate estimate effect urbanization judgment analyst hydrologic effect urbanization similar basin analyze study adjust prediction rural regression equation outside illinois flood frequency region urbanization predict future effect urbanization basin illinois 
+for either situation urbanization adjust flood discharge quantile give 
+log transform form 
+log10 log10 
+peak discharge quantile location interest aep adjust 
+correspond theobald 
+urbanization fraction 
+peak discharge quantile aep initial urbanization fraction temporal urbanization coefficient aep table 
+the urbanization adjustment factor equation ratio plot solid line figure 14a 14b particular value respectively 
+because functional form 
+urbanization effect indicate relation depends 
+coefficient urban fraction increase effect estimate equivalent increase regardless value initial urban fraction 
+for application outside region use streamstats 
+initial urbanization fraction would zero unad just flood discharge quantile would come rural regional flood frequency equation basin 
+interest find 
+for application inside region use 
+streamstats initial urbanization fraction might positive unadjusted flood discharge quantile would come spatial regression equation region 
+method describe section application 
+update illinois region spatial regression equation 
+whether inside outside region unadjusted flood discharge quantile also could quantile estimate 
+application regression equation 
+near gage 
+the theobald data adjust installed streamstats fraction urban ization appropriate use equation compute within streamstats 
+the variance prediction urbanization adjust flood discharge quantile log unit log10 derived equation compute variance side 
+vu0 vbu 
+variance prediction unadjusted flood discharge log unit log10 
+variance urbanization coefficient square standard 
+error give table 
+the standard error prediction log10 compute vu1 use 
+equation obtain standard error percent 
+confidence interval 
+near gage adjustment peak discharge quantiles 
+side region would applicable peak discharge 
+quantiles streamgage arose urbanization 
+condition basin upstream site interest 
+example computation 
+nlcd222324 value percent use urbanization measure 
+notice value enter equation decimal fraction whereas enters foot per mile 
+the uncertainty estimate compute use equation 
+the variance estimate compute equation 
+model error variance table 
+log10 log10 
+provide clarification use result present report five example computation provide section 
+basic information example give table 
+example ungaged location study region far streamgage consider hypothetical ungaged basin drainage area mi2 urbanized land use fraction nlcd222324 percent theobaldurban percent water wetland fraction drainageclass1a percent slope dem10p foot per mile 
+these value usually obtain streamstats delineation basin 
+first see basin characteristic value well within correspond range table 
+basin within region peak discharge quantiles compute use spatial regression equation define equation coefficient value give table 
+take peak discharge quantile aep example use equation quantile compute follow 
+example peak discharge quantile computation study northeastern illinois 
+equation use compute discharge value 
+ungaged location study region far streamgage 
+ungaged location study region near streamgage1 
+streamgage study region 
+location outside study region 
+adjust future effect urbanization 
+1in study ungaged location consider near streamgage ratio drainage area ungaged location drainage area gage stream 
+2values computed equation tabulate table 
+estimation peak discharge quantiles select annual exceedance probability northeastern illinois 
+matrix data table 
+with value second term 
+xit compute 
+− − − 
+give value standard error prediction log unit equation standard error prediction percent 
+( ln10 
+spi exp ( ln10 
+the confidence interval log10 equation critical value distribution alpha level degree freedom number streamgages use spatial regression number basin characteristic plus 
+here percent confidence interval confidence interval log unit 
+log10 log10 
+after invert logarithmic transformation percent confidence interval qi10 psi qi10t psi 
+application regression equation 
+appropriate aep gage flood discharge quantile ft3 
+sum estimate percent aep peak discharge quantile hypothetical ungaged basin stream region far streamgage ft3 standard error prediction percent percent confidence interval ft3 
+example ungaged location study region near streamgage 
+next assume hypothetical ungaged basin locate still region upstream usgs streamgage mill creek old mill creek illinois drainage area mi2 table 
+case value ratio adjustment weight factor take value equation near gage adjustment equation applicable see discussion immediately follow equation 
+from table weighted aep gage flood discharge quantile streamgage ft3 previously compute regional regression estimate ungaged site interest ft3 
+therefore weighted estimate ungaged site interest 
+example location outside study region instead hypothetical ungaged basin outside region adjustment rural estimate urbanization describe application temporal urbanization coefficient section would applicable equation 
+for example aep quantile estimate rural regional regression equation soong other ft3 urbanization adjust aep quantile value location interest 
+urban fraction interest assumption 
+percent discharge 
+current urban fraction quantile value adjust 
+estimate use rural regression equation 
+take table 
+the variance prediction estimate log unit 
+compute equation follow 
+sum estimate percent aep peak discharge quantile hypothetical ungaged basin stream region near streamgage ft3 compare ft3 without near gage adjustment 
+vu0 vbu 
+example streamgage study region obtain estimate applicable streamgage study region computation need 
+although method computation present streamgage section equation result computation tabulate table 
+the particular value table use weighted gage flood discharge quantile use previous near gage adjust ment computation 
+follow example usgs streamgage mill creek old mill creek illinois 
+vu0 discharge 
+variance prediction unadjusted flood log unit log10 assume 
+example value compute 
+previously region actual computation would 
+necessary compute value relevant method 
+method give soong other 
+currently implement streamstats vbu 
+estimation peak discharge quantiles select annual exceedance probability northeastern illinois 
+square standard error value give table 
+give value 
+standard error standard error percent 
+( ln10 
+( ln10 
+confidence interval estimate compute use equation already show result percent confidence interval log10 unit cubic foot per second 
+sum estimate percent aep peak discharge quantile hypothetical ungaged basin stream outside region increase ft3 result adjust effect urbanization increase percent 
+the estimate adjust quantile standard error prediction percent percent confidence interval ft3 
+ft3 take first example calculation equation take table 
+the uncertainty estimate obtain equation previous example result uncertainty percent percent confidence interval log10 unit cubic foot per second 
+sum estimate percent aep peak discharge quantile hypothetical ungaged basin increase ft3 ft3 result adjust effect urbanization increase percent 
+the estimate adjust quantile standard error prediction percent percent confidence interval ft3 
+future increase urbanization need take urban fraction complete build 
+any value great current urban fraction example could use estimate effect future increase urbanization 
+example adjustment effect future urbanization finally assume hypothetical basin originally assume basin characteristic estimate peak discharge quantile build percent urbanization desire 
+future urbanization expect similar hydrologic effect basin use study temporal urbanization coefficient would applicable estimate aep peak discharge quantile would obtain equation follow 
+future urban fraction interest take percent current urban fraction percent accord original assumption hypothetical basin 
+this report provide two set equation estimate peak discharge quantiles annual exceedance probability aeps recurrence interval year respectively urbanized urbanizing watershed illinois base analysis streamgage record near illinois flood frequency region 
+one set equation develop temporal analysis use twostep least square quantile regression technique measure average effect change urbanization gag watershed use study use adjust annual maximum peak discharge record urbanization condition 
+the set equation develop spatial analysis use generalize least square gls regression apply quantiles estimate urbanization adjust record 
+the effect urbanization indicate two set equation substantially different temporal analysis indicate large effect especially large aeps small recurrence interval 
+this difference urbanization effect attribute coefficient bias spatial analysis result urbanization coefficient spatial equation recommend use ungaged location study region 
+other application discuss report estimate effect urbanization region illinois outside flood frequency region combination rural regression equation estimate effect future 
+reference cite 
+urbanization anywhere illinois use result temporal analysis 
+the peak discharge quantiles spatial analysis compute use expect moment algorithm follow removal potentially influential low flood define multiple grubbs beck test 
+improve skew estimate use peak discharge quantile estimation weight skew coefficient compute variance weighted average site generalize skew coefficient 
+the generalized skew coefficient obtain new regional skew model estimate skewness increase linear function urbanized land use fraction value range 
+several urbanization water wetland slope variable addition drainage area consider use basin characteristic spatial equation preliminary weight least square analysis 
+the combination variables give best result drainage area fraction develop land fraction land poorly drain soil likely water basin slope estimate ratio basin relief basin perimeter use gls analysis develop final spatial regression equation 
+addition report detail development two set equation provide guidance application include numerical example product study include urbanization adjust annual maximum peak discharge record peak discharge quantile estimate streamgages streamgages use develop spatial regression equation additional streamgages region originally consider use study later deem redundant 
+the equation quantile estimate available web application streamstats urbanization adjust peak discharge record provide table part report collection table plot streamgage http doi org sir20165050 
+belda holtanová halenka kalvová climate classification revisit köppen trewartha climate research 
+canay simple approach quantile regression panel data the econometrics journal 
+changnon record flood produce rainstorm july chicago metropolitan area part iii impact responses flash flood journal apply meteorology 
+changnon stormwater management record rainstorm chicago journal contemporary water research education 
+changnon major damage northern illinois record set rainstorm transaction illinois state academy science 
+changnon angel kunkel lehman climate atlas illinois champaign ill illinois state water survey changnon demissie detection change streamflow flood result climate fluctuation land use drainage change climatic change 
+changnon fox bork difference warm season rainstorm generate stormflows northeastern illinois urbanized basin water resource bulletin 
+changnon westcott 2002a heavy rainstorm chicago increase frequency alter impact future implication journal american water resource association 
+reference cite 
+changnon westcott 2002b record number heavy rainstorm chicago transaction illinois state academy science 
+allen bejcek effect urbanization magnitude frequency flood northeastern illinois geological survey water resource investigation report angel changnon record heavy rain august cause magnitude impact transaction illinois state academy science 
+arnold sullivan harris fitzpatrick scudder ruhl hanchar stewart environmental set upper illinois river basin implication water quality geological survey water resource investigation report 
+cohn berenbrock kiang mason calculate weighted estimate peak streamflow statistic geological survey fact sheet also available http pub usgs gov 
+cohn england berenbrock mason stedinger lamontagne generalize grubbs beck test statistic detecting multiple potentially influential low outlier flood series water resource research 
+also available http doi org wrcr 
+cohn lane baier algorithm compute moment base flood quantile estimate historical flood information available water resource research 
+estimation peak discharge quantiles select annual exceedance probability northeastern illinois 
+cohn lane stedinger confidence interval expect moment algorithm flood quantile estimate water resource research 
+cowardin carter golet laroe classification wetland deepwater habitat unite state washington department interior fish wildlife service fws ob also available http www fws gov wetlands document classification wetlands deepwaterhabitats united state pdf 
+croissant millo panel data econometrics the plm package journal statistical software 
+accessed december http www 
+jstatsoft org v27 i02 
+drainage manual committee idot division highway idot drainage manual springfield ill illinois department transportation variously page 
+eng ken chen yin kiang user guide weight multiple linear regression program wreg version geological survey technique method book chap 
+espey winslow urban flood frequency characteristic journal hydraulics division proceeding american society civil engineer 
+fazio sharp flood september northeastern illinois geological survey data series also available http pub 
+usgs gov 
+fehrenbacher alexander jansen darmody pope flock voss scott andrews bushue soil illinois university illinois college agriculture agricultural experiment station department agriculture soil conservation service free longitudinal panel data analysis application social science cambridge cambridge university press fuller measurement error model new york john wiley son gesch oimoen greenlee nelson steuck tyler the national elevation dataset photogrammetric engineering remote sense 
+also available http www 
+asprs org publication pers 2002journal january 
+greene econometric analysis 3rd 
+upper saddle river prentice hall 
+grimaldi petroselli alonso nardi flow time estimation spatially variable hillslope velocity ungauged basin advance water resource 
+griffis stedinger the use gls regression regional hydrologic analyse journal hydrology 
+griffis stedinger log pearson type distribution application flood frequency analysis 
+iii sample skew weight skew estimator journal hydrologic engineering 
+gruber real stedinger model regional skew base bayesian gls regression paper kabbes restore natural habitat proceeding world environmental water resource congress may tampa florida reston american society civil engineer variously page 
+gruber stedinger model lp3 regional skew data selection bayesian gls regression paper babcock walton raymond eds world environmental water resource congress ahupua proceeding congress may honolulu hawaii reston american society civil engineer variously page 
+hansel mckay iii quaternary period kolata nimz ed geology illinois champaign ill illinois state geological survey 
+hayden flood climate baker kochel patton ed flood geomorphology new york john wiley son 
+helsel hirsch statistical method water resource geological survey technique water resource investigation book chapter hejazi markus impact urbanization climate variability flood northeastern illinois journal hydrologic engineering 
+also available http doi org asce 
+hodge tasker magnitude frequency flood arkansas geological survey water resource investigation report variously page see 
+hodgkin hebson charles lombard mann alexander comparison peak flow estimation method small drainage basin maine geological survey scientific investigation report 
+reference cite 
+illinois department natural resource illinois land cover atlas springfield ill illinois department natural resource ishii soong sharp implementation evaluation streamflow statistic streamstats web application compute basin characteristic flood peak illinois geological survey scientific investigation report jin yang danielson homer fry xian comprehensive change detection method update national land cover database circa remote sense environment 
+juhl flood control drainage reiff keating grossman the electronic encyclopedia chicago chicago chicago historical society access august http www encyclopedia chicagohistory org page html 
+karstensen shaver alexander over soong land change central corn belt plain ecoregion hydrologic consequence develop area geological survey open file report also available http pub usgs 
+koenker quantile regression cambridge england cambridge university press 
+over saito soong adjust annual maximum peak discharge select station northeastern illinois change land use condition geological survey scientific investigation report also available http doi 
+org sir20165049 
+peel finlayson mcmahon update world map köppen geiger climate classification hydrology earth system science 
+piskin bergstrom glacial drift illinois thickness character illinois state geological survey circular plate 
+core team language environment statistical compute vienna austria foundation statistical compute accessed november http www project org 
+rao flood frequency relationship indiana west lafayette ind joint transportation research program purdue university final report fhwa jtrp2005 real stedinger martins bayesian generalize least square regression application log pearson type regional skew estimation water resource research 
+also available http doi org 2004wr003445 
+koenker quantreg quantile regression package version access november http cran project org package quantreg 
+konrad effect urban development flood geological survey fact sheet leighton ekblaw horberg physiographic division illinois the journal geology 
+maidment arc hydro gi water resource redlands calif esri mariner land use reiff keating grossman the electronic encyclopedia chicago chicago chicago historical society access august http www encyclopedia chicagohistory org page html 
+moglen shiver method adjust usgs rural regression peak discharge urban set geological survey scientific investigation report 
+resource coordination policy committee our community flood report status floodwater management chicago metropolitan area access august http www dnr illinois gov waterresources document ourcommunityandfloodingoct1998 pdf 
+ries iii the national streamflow statistic program computer program estimate streamflow statistic ungaged site geological survey technique method book chap 
+rosbjerg other prediction flood ungauged basin chap 
+günter blöschl other eds runoff prediction ungauged basin cambridge cambridge university press access august http doi org cbo9781139235761 
+rougé cai cross scale hydrological impact urbanization climate variability great chicago area journal hydrology 
+also available http doi org jhydrol 
+estimation peak discharge quantiles select annual exceedance probability northeastern illinois 
+sauer thomas stricker wilson flood characteristic urban watershed united state geological survey water supply paper schneider physiography lindsey natural feature indiana indianapolis indiana academy science 
+soil survey staff natural resource conservation service united state department agriculture web soil survey web site accessed october http websoilsurvey nrcs usda gov 
+soong ishii sharp avery estimate flood peak discharge magnitude frequencies rural stream illinois geological survey scientific investigation report stedinger tasker regional hydrologic analysis ordinary weight generalized least square compare water resource research 
+tasker combine estimate low flow characteristic stream massachusetts rhode island journal research geological survey 
+tasker stedinger operational gls model hydrologic regression journal hydrology 
+theobald landscape pattern exurban growth usa ecology society 
+article also available http www ecologyandsociety org vol10 iss1 art32 
+thiessen precipitation average large area monthly weather review 
+geological survey peak streamflow nation national water information system web interface access december http nwis waterdata 
+usgs gov usa nwis peak 
+interagency advisory committee water data guideline determine flood flow frequency bulletin 17b hydrology subcommittee revise correct geological survey office water data coordination plus appendix 
+veilleux bayesian gls regression leverage influence region hydrologic statistic ithaca cornell university unpublished dissertation 
+veilleux cohn flynn mason hummel estimate magnitude frequency flood use peakfq program geological survey fact sheet also available http doi org fs20133108 
+villarini smith baeck smith sturdevant rees hydrologic analysis july flood chicago role urbanization journal hydrologic engineering 
+also available http doi org asce 
+vogel regional calibration watershed model chap 
+singh frevert watershed model boca raton fla crc press 
+walker krug flood frequency characteristic wisconsin stream geological survey water resource investigation report westcott continue operation raingage network collection reduction analysis precipitation data lake michigan diversion accounting water year contract report champaign illinois illinois state water survey prairie research institute university illinois urbana champaign winter angel ballerine byard flegel gambill jenkins mcconkey markus bender tool report urban flood awareness act illinois department natural resource access august http www dnr illinois gov waterresources page urbanfloodawareness aspx 
+wisconsin department natural resource wisconsin wetland inventory classification guide publication publwz wz023 also available http dnr gov topic wetlands document wwiclassification pdf 
+xian homer dewitz fry hossain wickham the change impervious surface area conterminous united state photogrammetric engineering remote sense 
+veilleux bayesian gls regression region hydrologic statistic flood bulletin skew ithaca cornell university unpublished 
+estimation peak discharge quantiles select annual exceedance probability northeastern illinois 
+northeastern illinois regional skew analysis 
+for log transformation annual peak discharge bulletin 17b interagency advisory committee water data recommend use weighted average station skew coefficient regional skew coefficient improve estimate annual flood probability discharge afpds 
+bulletin 17b supply national map also encourage hydrologist develop specific local relation 
+from publication national map base data end study year additional information accumulate improved spatial estimation procedure develop stedinger griffis 
+furthermore prior national illinois analyse regional skew soong other consider urbanization 
+for reason study northeastern illinois regression analysis do develop regional skew model 
+real other gruber other gruber stedinger developed bayesian generalize least square gls regression model regional skewness analysis 
+the method provide reasonable description model error variance either generalize least square method moment maximum likelihood point estimate veilleux 
+however complication introduce use expect moment algorithm ema multiple grubbs beck censor potentially influential low flood cohn other large cross correlation annual peak discharge pair streamgages alternate regression procedure develop provide stable defensible result regional skew regression veilleux other veilleux lamontagne other 
+this alternate procedure refer bayesian weight least square bayesian generalize least square wls gls regression framework veilleux other veilleux veilleux other 
+the wls gls regression analysis use ordinary least square ols analysis fit initial regional skewness model ols model use generate regional skew coefficient estimate streamgage 
+this regional estimate basis compute variance station skew coefficient estimator use weight least square wls analysis 
+then wls use generate estimator regional skew coefficient model parameter 
+finally gls use estimate precision wls parameter estimator estimate model error variance precision variance estimator compute various diagnostic statistic 
+the methodology regional skewness model describe detail eash other 
+application wls gls method northeastern illinois 
+this regional skew study base temporally 
+adjust annual peak discharge data nonredun 
+dant streamgages northeastern illinois surround 
+state include regional regression analysis 
+describe main report table 
+state bulletin 
+17b skew coefficient station sensitive extreme 
+event accurate estimate obtain 
+longer record 
+thus regional skew study prefer 
+streamgage minimum year 
+however nature data available 
+northeastern illinois particular urban station 
+minimum reduce year ensure entire 
+study area represent 
+apply minimum reduce 
+number streamgages use regional skew study 
+table available http doi org 
+because dataset include censor data historic 
+information effective record length use compute 
+precision skewness estimator longer simply 
+number annual peak discharge streamgage 
+complex calculation use take account 
+availability historic information censor value 
+although historic information censor peak provide 
+valuable information often provide less information 
+equal number year systematically record peak 
+stedinger cohn 
+the calculation make com 
+pute pseudo record length prl describe eash 
+prl equal systematic record length 
+complete record available site 
+the station logarithmic skew mean square error mse γˆs 
+owefefirceiecnotm γpˆsu tetadbbley1u s1in 
+expect moment analysis ema cohn other 
+griffis other 
+the streamgage skewness estimate 
+ensure unbiased use correction factor 
+develop tasker stedinger use real 
+addition skew data select basin 
+characteristic streamgages available 
+explanatory variable regional skew study 
+model cross correlation logarithm 
+annual maximum peak discharge streamgage pair 
+need analysis sample cross correlation 
+commonly unavailable subject large uncertainty 
+usually include unphysical negative value 
+such model 
+northeastern illinois study area develop use 
+streamgages least year concurrent system 
+atic peak 
+logit model term fisher transformation 
+kendall stuart ( ) use transform sample correlation rij range (−∞, range appropriate least square fit 
+various model relate transform cross correlation various basin characteristic con sider 
+the adopt model relate cross correlation distance dij streamgage basin centroid accord fitted equation zij exp − 042dij fig 
+the fitted relation distance basin centroid together sample data streamgage pair data show figure 
+the equivalent function relation cross correlation basin centroid distance obtain back transform ing exp exp show figure 
+result regional skew analysis northeastern illinois 
+the promising basin characteristic pre 
+liminary analysis regional spatial regression 
+select test explanatory variable regres 
+sion analysis regional skew 
+these select basin 
+characteristic include drainage area urbanization 
+measure nlcd222324 dem base slope variable 
+demslope several water wetness variable nwi 
+total nwi emergent drainageclass1 drainageclass1a 
+nlcd1195 see table definition 
+nlcd222324 statistically significant explain 
+site site variability skewness square root trans 
+formation provide well result compare untrans 
+form value 
+thus best model classify 
+model use nlcd2223241 denote urban 
+result urban model well constant 
+regional model denote constant comparison 
+provide table 
+pseudo include table describes estimate fraction variability true skewness site site 
+explain model gruber other parrett 
+constant model explain 
+variability pseudo constant model equal percent 
+the urban model pseudo percent indicate inclusion nlcd222324 
+basin characteristic model explain percent 
+variability true skews 
+although urban model 
+account relatively small portion total variation 
+skews important note focus study 
+effect urbanization 
+statistically significant depen 
+dence skewness nlcd222324 characteristic 
+measure urbanization suggest include 
+skewness model could negatively affect final spatial 
+regression equation 
+also posterior mean model 
+thus urban model choose final regional 
+skew model northeastern illinois study area 
+the average variance prediction new site avpnew describes precision regional skew 
+urban model lower avpnew equal 
+this avpnew average value compute average variance prediction new site vpnew streamgages analysis 
+just regional skew varies 
+streamgage streamgage depend nlcd222324 
+value vpnew 
+value variance prediction regional skew vpnew effective record length erl urban model value nlcd222324 
+give table 
+thus urban 
+skew model northeastern illinois vpnew value range effective record length range 
+year depend nlcd222324 
+note purpose study avpnew use weight site skew regional skew 
+the urban model provide reasonable fit 
+northeastern illinois regional skew data fig 
+par constant model urban model provide 
+small value regional skew basins less develop 
+ment small ncld222324 value large value 
+regional skew basin development large 
+ncld222324 value 
+the urban model indicates 
+skewness increase substantially urbanization 
+value basin nlcd222324 equal 
+basin nlcd222324 fraction equal 
+pseudo analysis variance pseudo anova statis 
+tic northeastern illinois regional skew analysis 
+determine additional diagnostics select model 
+explanation statistic compute 
+find eash other 
+estimation peak discharge quantiles select annual exceedance probability northeastern illinois 
+fisher cross correlation concurrent annual maximum peak discharge great year concurrent record 
+cross correlation concurrent annual maximum peak discharge great year concurrent record 
+explanation exp 42d streamgage pair 
+explanation exp exp streamgage pair 
+distance streamgage centroid mile 
+fit cross correlation model log annual maximum peak discharge study northeastern illinois relation fisher transform cross correlation distance relation cross correlation distance 
+regional skewness model correspond metric study northeastern illinois 
+skew model intercept variance prediction 
+standard error skew model new site pseudo fraction 
+error variance asev average sample error variance avpnew true skews explain model gruber other 
+average γˆr estimate 
+regional skewness applicable nlcd222324 fraction basin national land cover database land cover class 
+low medium high intensity development respectively 
+skew model 
+intercept intercept 
+bayesian plausibility percent 
+constant model 
+error error 
+variance variance 
+pseudo percent 
+urban model 
+( nlcd 
+average regional skew variance prediction equivalent record length urban regional skew model various value nlcd222324 study northeastern illinois 
+vpnew variance prediction erl equivalent record length nlcd222324 fraction basin national land cover database land cover class low medium high intensity development respectively 
+nlcd222324 fraction 
+average regional skew 
+erl year 
+estimation peak discharge quantiles select annual exceedance probability northeastern illinois 
+explanation constant model urban model site data 
+unbiased site skew 
+square root fraction national land cover dataset class 
+relation unbiased site skew urbanization measure streamgages northeastern illinois regional skew study area 
+the line represent model base constant skew constant model linear relation skew square root fraction national land cover dataset class nlcd2223241 urbanization measure urban 
+the model develop wls gls analysis 
+pseudo analysis variance anova statistic northeastern illinois urban regional skew model 
+estimate sample skew site evr error variance ratio mbv misrepresentation beta variance pseudo fraction variability 
+true skews explain model gruber other applicable 
+source model 
+degree freedom 
+urban model 
+sum square 
+urban model 
+model error 
+sample error 1var γˆi 
+total evr mbv 
+pseudo percent 
+reference cite 
+reference cite cohn lane baier algorithm compute moment base flood quantile estimate historical flood information available water resource research 
+cohn england berenbrock mason stedinger lamontagne generalize grubbs beck test statistic detecting multiple potentially influential low outlier flood series water resource research 
+also available http doi org wrcr 
+eash barn veilleux method estimate annual exceedance probability discharge stream iowa base data water year geological survey scientific investigation report also available http pub usgs gov sir 
+griffis flood frequency analysis bulletin regional information climate change ithaca cornell university unpublished dissertation 
+griffis stedinger cohn lp3 quantile estimator regional skew information low outlier adjustment water resource research 
+also available http doi 
+org 2003wr002697 
+gruber real stedinger model regional skew base bayesian gls regression paper kabbes restore natural habitat proceeding world environmental water resource congress may tampa florida reston american society civil engineer variously page 
+gruber stedinger model lp3 regional skew data selection bayesian gls regression paper babcock walton raymond eds world environmental water resource congress ahupua proceeding congress may honolulu hawaii reston american society civil engineer variously page 
+kendall stuart the advanced theory statistic new york hafner publish company lamontagne stedinger berenbrock charles veilleux ferris knifong development regional skews select flood duration central valley region california base data water year geological survey scientific investigation report 
+parrett charles veilleux stedinger barth knifong ferris regional skew california flood frequency select site sacramento san joaquin river basin base data water year geological survey scientific investigation report reis stedinger martin bayesian generalize least square regression application log pearson type regional skew estimation water resource research 
+also available http doi org 2004wr003445 
+soong ishii sharp avery estimate flood peak discharge magnitude frequencies rural stream illinois geological survey scientific investigation report stedinger cohn flood frequency analysis historical paleoflood information water resource research 
+stedinger griffis flood frequency analysis united state time update editorial journal hydrologic engineering 
+tasker stedinger regional skew weight regression journal water resource plan management 
+interagency advisory committee water data guideline determine flood flow frequency bulletin 17b hydrology subcommittee revise correct geological survey office water data coordination plus appendix 
+veilleux bayesian gls regression leverage influence region hydrologic statistic ithaca cornell university unpublished dissertation 
+veilleux cohn flynn mason hummel estimate magnitude frequency flood use peakfq program geological survey fact sheet also available http doi org fs20133108 
+veilleux stedinger eash bayesian wls gls regression regional skewness analysis region large crest stage gage network paper loucks world environmental water resource congress cross boundary proceeding congress may albuquerque reston american society civil engineer 
+estimation peak discharge quantiles select annual exceedance probability northeastern illinois veilleux stedinger lamontagne bayesian wls gls regression regional skewness analysis region large cross correlation among flood flow beighley kilgore eds world environmental water resource congress bear knowledge sustainability proceeding world environmental water resource congress may palm spring calif reston american society civil engineer 
+publish support provide rolla publishing service center for additional information concern publication contact director usgs illinois water science center north goodwin avenue urbana visit illinois water science center web site http water usgs gov 
+over other estimation peak discharge quantiles select annual exceedance probability northeastern illinois sir 
+issn online http doi org sir20165050 

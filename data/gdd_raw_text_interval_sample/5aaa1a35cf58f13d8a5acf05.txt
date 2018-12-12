@@ -1,0 +1,892 @@
+Available online at www.sciencedirect.com
+ScienceDirect
+Advances in Mathematics 249 (2013) 250–288
+
+www.elsevier.com/locate/aim
+
+A dividing line within simple unstable theories ✩
+M. Malliaris a,b,∗, S. Shelah b,c
+a Department of Mathematics, University of Chicago, 5734 S. University Avenue, Chicago, IL 60637, USA b Einstein Institute of Mathematics, Edmond J. Safra Campus, Givat Ram, The Hebrew University of Jerusalem,
+Jerusalem, 91904, Israel c Department of Mathematics, Hill Center, Busch Campus, Rutgers, The State University of New Jersey,
+110 Frelinghuysen Road, Piscataway, NJ 08854-8019, USA
+Received 11 April 2012; accepted 23 August 2013
+Available online 5 October 2013
+Communicated by H. Jerome Keisler
+Abstract
+We give the ﬁrst (ZFC) dividing line in Keisler’s order among the unstable theories, speciﬁcally among the simple unstable theories. That is, for any inﬁnite cardinal λ for which there is μ < λ 2μ, we construct a regular ultraﬁlter D on λ so that (i) for any model M of a stable theory or of the random graph, Mλ/D is λ+-saturated but (ii) if Th(N ) is not simple or not low then N λ/D is not λ+-saturated. The non-saturation result relies on the notion of ﬂexible ultraﬁlters. To prove the saturation result we develop a property of a class of simple theories, called Qr1, generalizing the fact that whenever B is a set of parameters in some sufﬁciently saturated model of the random graph, |B| = λ and μ < λ 2μ, then there is a set A with |A| = μ so that any nonalgebraic p ∈ S(B) is ﬁnitely realized in A. In addition to giving information about simple unstable theories, our proof reframes the problem of saturation of ultrapowers in several key ways. We give a new characterization of good ﬁlters in terms of “excellence”, a measure of the accuracy of the quotient Boolean algebra. We introduce and develop the notion of moral ultraﬁlters on Boolean algebras. We prove a so-called “separation of variables” result which shows how the problem of constructing ultraﬁlters to have a precise degree of saturation may be proﬁtably separated into a more set-theoretic stage, building an excellent ﬁlter, followed by a more model-theoretic stage: building so-called moral ultraﬁlters
+✩ Malliaris was partially supported by NSF grant DMS-1001666, by a Gödel fellowship and by Shelah’s NSF grants DMS-0600940 and DMS-1101597 (Rutgers). Shelah was partially supported by Israel Science Foundation grant 710/07. This is paper 999 in Shelah’s list of publications.
+* Corresponding author. E-mail addresses: mem@math.uchicago.edu (M. Malliaris), shelah@math.huji.ac.il (S. Shelah). URL: http://shelah.logic.at (S. Shelah).
+0001-8708/$ – see front matter © 2013 Elsevier Inc. All rights reserved. http://dx.doi.org/10.1016/j.aim.2013.08.027
+
+M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+
+251
+
+on the quotient Boolean algebra, a process which highlights the complexity of certain patterns, arising from ﬁrst-order formulas, in certain Boolean algebras. © 2013 Elsevier Inc. All rights reserved.
+Keywords: Saturation of regular ultrapowers; Unstable theories; Good ﬁlters; Keisler’s order
+
+Contents
+1. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 251 2. Summary of results . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 252 3. Basic deﬁnitions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 257 4. Excellent ﬁlters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 259 5. Excellence and goodness . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 262 6. Separation of variables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 264 7. Lemmas for existence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 269 8. Existence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 277 9. On ﬂexibility . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 279 10. Lemmas for morality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 281 11. The moral ultraﬁlter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 285 12. The dividing line . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 287 Acknowledgments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 287 References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 288
+
+1. Introduction
+In 1967 Keisler introduced a framework for comparing the complexity of (countable) ﬁrstorder theories in terms of the relative difﬁculty of producing saturated regular ultrapowers. Morley, reviewing the paper [8], wrote that “the exciting fact is that P gives a rough measure of the ‘complexity’ of a theory. For example, ﬁrst-order number theory is maximal while theories categorical in uncountable powers are minimal”.
+The only known classes in Keisler’s order appear in Theorem A below.
+Summary Theorem A (Results on classes in Keisler’s order). It is known that: T1 < T2 < T3 · · · ?? · · · Tmax
+where T1 ∪ T2 is precisely the class of countable stable theories, and:
+• T1, the minimum class, is the set of all T without the ﬁnite cover property (so stable), e.g. algebraically closed ﬁelds.
+• T2, the next largest class, is the set of all stable T with the ﬁnite cover property.
+Among the unstable theories,
+• There is a minimum class T3, which contains the theory of the random graph. • Among the theories with TP2, there is a minimum class T∗, which contains Tfeq. • There is a maximum class Tmax, containing all theories with SOP3, thus all linear orders.
+However, no model-theoretic identities of unstable classes are known.
+
+252 M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+Keisler in the fundamental 1967 paper [8] deﬁned the order and showed the existence of minimum and maximum classes, and deﬁned the ﬁnite cover property. In 1978, Shelah [18] established the identity of T1 and T2, showing that Keisler’s order independently detects certain key dividing lines from classiﬁcation theory. Shelah also proved that the theory of linear order, and more generally SOP, belongs to Tmax, and in 1996 extended this to SOP3, see Shelah [21] and Shelah and Usvyatsov [22]. In 2010, Malliaris [13] proved the existence of a minimum class among the TP2 theories, which contains the theory of a parametrized family of independent equivalence relations. For further details on these results, see the introduction to the authors’ paper [15]. The only prior non-ZFC result on Keisler’s order was Shelah’s result [18, VI.3.10], which implies that if MA and not CH then the random graph is not ℵ1-maximal in Keisler’s order. Under GCH, results on nonmaximality in a related ordering P∗ were proved in Džamonja and Shelah [4] and Shelah and Usvyatsov [22], results which are particularly interesting in light of our recent work on Keisler’s order and SOP2 [17].
+Recently, there has been substantial progress in understanding the interaction of ultraﬁlters and theories (Malliaris [10–14], Malliaris and Shelah [15–17]). These results set the stage for our current work.
+In this paper we give the ﬁrst ZFC dividing line among the unstable theories, speciﬁcally among the simple unstable theories. Our proof reframes the problem of saturation of ultrapowers in terms of so-called excellence of an intermediate ﬁlter and so-called morality of an ultraﬁlter on the resulting quotient Boolean algebra. We also introduce a property Qr1 which captures relevant structure of a class of simple theories including the random graph.
+Main Theorem. (Theorem 12.1 below.) Suppose λ, μ are given with μ < λ 2μ. Then there is a regular ultraﬁlter D on λ which saturates ultrapowers of all countable stable theories and of the random graph, but fails to saturate ultrapowers of any non-low or non-simple theory.
+The organization of the paper is as follows. Section 2 is an extended overview of our methods and results. Section 3 deﬁnes Keisler’s order, as well as regular, good, ﬂexible (said of ﬁlters) and simple and low (said of theories). Section 4 motivates and deﬁnes the notion of excellence for a ﬁlter. Section 5 deals with the relation of goodness and excellence. Section 6 deﬁnes moral ultraﬁlters and proves the theorem on separation of variables. Section 7 contains the ingredients needed for proving the existence of excellent ﬁlters admitting speciﬁed homomorphisms. It begins with review of constructions via independent families, introduces some notation needed for the current setting and concludes by proving the two key inductive steps for the existence proof. Section 8 contains the existence proof. Section 9 contains the proof of non-saturation via nonﬂexibility described above. Section 10 motivates and deﬁnes Qr1 = Qr1(T , λ, μ), and proves that this holds for the theory of the random graph. Section 11 proves that when μ < λ 2μ there is an ultraﬁlter on B2λ,μ which is moral for any theory for which Qr1(T , λ, μ). Section 12 contains the statement and proof of the main theorem.
+2. Summary of results
+To explain our methods, we give here an overview of the main theorems and objects of the paper. This discussion is informal, and many deﬁnitions are deferred to later sections.
+Convention 2.1. For transparency, all ﬁlters are regular (Deﬁnition 3.3), and all theories are countable. “Monotonic” means antimonotonic, i.e. u ⊆ v ⇒ f (v) ⊆ f (u).
+
+M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+
+253
+
+2.1. Excellent ﬁlters
+A key point of leverage in our argument is the development of so-called excellent ﬁlters, a notion which gives a new characterization of goodness, Theorem 5.2.
+To frame our approach, we brieﬂy discuss good ﬁlters and their central role in questions of saturation. Let N = Mλ/D be a regular ultrapower and p ∈ S(A), A ⊆ N , |A| = λ. Fix in advance some canonical lifting from elements of Mλ/D to Mλ. We may consider p as being represented by some f : Pℵ0 (λ) → D, as follows. Write p = {ϕi(x, ai): i < λ} and let f (u) = {t < λ: M | ∃x i∈u ϕi(x, ai[t])} (the “Łos´ map”). Then u ∈ Pℵ0 (λ) ⇒ f (u) ∈ D by Łos´’s theorem, f is naturally monotonic, and moreover as D is regular, we can choose f so that f reﬁnes the Łos´ map and each t < λ belongs to only ﬁnitely many of the sets f (u), as spelled out in Deﬁnition 6.8, Convention 6.9, Observations 6.10, 6.11 below. Thus whether or not the type p is realized in N depends on whether some such distribution f is “multiplicative”: informally, does t ∈ f (u), t ∈ (v) imply that t ∈ f (u ∪ v), which entails asking whether the various ﬁnite fragments of the type which are witnessed in a given index model have a common realization there.
+Meanwhile, a ﬁlter D on λ is said to be λ+-good if every monotonic f : Pℵ0 (λ) → D has a multiplicative reﬁnement, that is, a function f so that for all u, f (u) ⊆ f (u) and for all u, v f (u ∪ v) = f (u) ∩ f (v). From the point of view of saturation, good ultraﬁlters are maximally powerful in the sense that if D is a regular good (i.e. λ+-good) ultraﬁlter on λ and M any model in a countable signature, then Mλ/D is λ+-saturated. It follows from the above discussion that the maximum class in Keisler’s order has a set-theoretic characterization: it is precisely the set of countable theories T so that M | T and D regular implies Mλ/D is λ+-saturated iff D is good. [For an account of this correspondence and of other recent work on Keisler’s order, see [15, Sections 1, 4].] The existence of λ+-good ultraﬁlters on λ is a result of Keisler assuming GCH [7] and of Kunen in ZFC [9], see for instance [20, pp. 345–347].
+Now let us motivate a deﬁnition of the present paper. To make ﬁner distinctions in ultraﬁlter construction, we would like a greater degree of precision than is a priori available from the deﬁnition of goodness. The issue comes into focus when working with ﬁlters rather than ultraﬁlters:
+Remark 1. Let D be a regular good ﬁlter on I and let A = Au: u ∈ [λ]<ℵ0 be a monotonic sequence of nonzero elements (mod D) of P(I ), not necessarily a sequence of elements of D. A priori, goodness of D will only guarantee multiplicative reﬁnements for monotonic sequences of elements of D, so is not enough to guarantee a multiplicative reﬁnement for A.
+Remark 2. Continuing in the context of Remark 1, suppose the image of Au: u ∈ [λ]<ℵ0 ⊆ P(I ) in the quotient Boolean algebra B = P(I )/D is a = au: u ∈ [λ]<ℵ0 , and a has a multiplicative reﬁnement bu: u ∈ [λ]<ℵ0 in B. Then A will have a reﬁnement B which is multiplicative mod D. That is, u, v ∈ [λ]<ℵ0 ⇒ Bu ∩ Bv = Bu∪v mod D, which a priori does not imply that an actual multiplicative reﬁnement of A exists.
+Remark 3. From this and other considerations, one sees that a useful intensiﬁcation of goodness will be making the quotient Boolean algebra more precise. What does this mean? Roughly speaking, that properties of sequences in the quotient Boolean algebra accurately reﬂect those in P(I ): if a sequence in the quotient Boolean algebra appears to have certain properties, e.g. multiplicativity, then we can indeed pull it back to a multiplicative sequence in P(I ).
+
+254 M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+Our process of gaining precision will ﬁrst require Deﬁnitions 4.2, 4.3 and 4.5, which are not quoted in this introduction, but allow us to describe a relevant set of Boolean terms Λ. Informally, the idea is that we would like to replace some sequence of elements of P(I ) by a D-equivalent sequence in such a way that certain sets in the Boolean algebra of elements in the original sequence, which are ∅ mod D, now correspond to sets which are really empty. (We sometimes refer to this as solving equations mod D.) However, asking to do this for all small sets would be too strong, as explained in Example 4.8. The set of terms Λ captures the right set of “rough edges” which we can trim off without removing too much. And it is indeed rich enough to solve the issues just sketched: see Claim 4.9.
+Deﬁnition 4.6 (Excellent ﬁlters). Let D be a ﬁlter on the index set I . We say that D is λ+-excellent when: if A = Au: u ∈ [λ]<ℵ0 with u ∈ [λ]<ℵ0 ⇒ Au ⊆ I , then we can ﬁnd B = Bu: u ∈ [λ]<ℵ0 so that:
+(1) for each u ∈ [λ]<ℵ0 , Bu ⊆ Au, (2) for each u ∈ [λ]<ℵ0 , Bu = Au mod D, (3) if u ∈ [λ]<ℵ0 and σ ∈ Λ = ΛD,A|u , so σ (A|P(u)) = ∅ mod D, then σ (B|P(u)) = ∅.
+We say that D is ξ -excellent when it is λ+-excellent for every λ < ξ .
+Note: the deﬁnition of this set of terms Λ arises naturally from the inductive construction of excellence, see Claim 7.22, and also Example 4.8.
+Remark 4. The analysis and deﬁnition of excellence will have the following consequences for ultraﬁlter construction. Once we have a notion of excellent ﬁlter, there is a potentially two-stage construction of a given ultraﬁlter in which we ﬁrst ensure excellence of some intermediate ﬁlter D, and then move to work directly on the quotient Boolean algebra for the remainder of the construction, leveraging the guarantee that the work on the Boolean algebra will be sufﬁciently accurate.
+This “paradigm shift” is accomplished in Section 6 with Theorem 6.13, also quoted later in this introduction. We have called Theorem 6.13 a separation of variables result. In some sense it allows us to separate the more set-theoretic considerations involved in building an excellent ﬁlter from the more model-theoretic considerations involving the complexity of patterns coming from a given formula in certain Boolean algebras B2λ,μ.
+2.2. Morality and separation of variables
+The phenomenon of excellence naturally gives rise to a complementary property we call “morality”, Deﬁnition 6.3. Say that an ultraﬁlter D∗ on a Boolean algebra B is moral for a theory T if, roughly speaking, any incidence pattern for T represented in B can be resolved (multiplicatively reﬁned) in D∗. The deﬁnition does not rely on the setting of reduced products. Excellence and morality then combine to give saturation in the following way:
+Theorem 6.13 (Separation of variables). Suppose that we have the following data:
+(1) D is a regular, λ+-excellent ﬁlter on I , (2) D1 is an ultraﬁlter on I extending D, and is |T |+-good,
+
+M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+
+255
+
+(3) B is a Boolean algebra, (4) j : P(I ) → B is a surjective homomorphism with D = j−1({1B}), (5) D∗ = {b ∈ B: if j(A) = b then A ∈ D1}.
+Then the following are equivalent:
+(A) D∗ is (λ, B, T )-moral, i.e. moral for each formula ϕ of T . (B) For any λ+-saturated model M | T , Mλ/D1 is λ+-saturated.
+Discussion 2.2. What does Theorem 6.13 accomplish? At ﬁrst glance, it may appear that we have traded one construction problem (building an ultraﬁlter on λ) for another (building an ultraﬁlter on B). The gain is revealing a point of leverage which will allow us to separate theories by realizing some types while omitting others. The leverage is provided by the size of a maximal antichain in the quotient Boolean algebra B(D) = P(I )/D. By Theorem 8.1, when building excellent ﬁlters we are relatively free to modify this quotient Boolean algebra.
+Then the strategy is as follows. For non-saturation, we will show that if CC(B(D)) = μ+ < λ+, no subsequent ultraﬁlter can be ﬂexible, and then apply our prior work. For saturation, we will show that when μ < λ 2μ this need not prevent saturation of the random graph.
+Sections 7–8 contain a proof of the existence of excellent ﬁlters meeting the requirements of Theorem 6.13. Theorem 8.1, which we now quote, is more general than what is needed for the application to Theorem 12.1. In that speciﬁc case, one could use Theorem 5.2 showing the equivalence of excellent and good, and then build D to be a good regular ﬁlter on λ so that (I, D, G) is a (λ, μ)-good triple. The more general result reﬂects the fact that the framework of Theorem 6.13 is a main contribution of the paper; we make signiﬁcant further use of this framework, for a wider range of Boolean algebras, in work in preparation. Moreover, note that the inductive Claim 7.22 of Theorem 8.1 clearly shows the naturalness of the deﬁnition of Λ from Deﬁnition 4.5, and thus in some sense, its optimality.
+Theorem 8.1 (Existence theorem). Let μ λ, |I | = λ and let B be a μ+-c.c. complete Boolean algebra of cardinality 2λ. Then there exists a regular excellent ﬁlter D on I and a surjective homomorphism j : P(I ) → B so that j−1(1) = D.
+Theorem 8.1 requires several lemmas and some notation, but otherwise proceeds smoothly. Brieﬂy, we need to accomplish two things: ﬁrst, to “solve” all instances of excellence, and second to ensure the existence of the homomorphism j. We begin with a regular ﬁlter D0 and two disjoint independent families, F ⊆ I λ of cardinality 2λ, and G ⊆ I 2 of cardinality |B|. We extend to a second ﬁlter D1 in which {bγ : γ < |B|} and {gγ−1(1): γ < |G|} “look alike” in the sense of Deﬁnition 7.14. We then build the ﬁlter D by induction on α < 2λ while respecting this background correspondence, consuming the functions F while giving no further constraints on G. At odd successor stages, we ensure that a given subset of I will have an appropriate homomorphic image via Lemma 7.21. At even stages, we solve instances of excellence using Claim 7.22.
+2.3. Non-saturation
+The non-saturation results arise via the notion of ﬂexible ﬁlter, introduced in Malliaris [10]. By Malliaris [10], ﬂexibility is a necessary condition for an ultraﬁlter to saturate some non-low
+
+256 M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+theory. By Malliaris [13] for the case of TP2, and Malliaris and Shelah [17] for the case of SOP2, ﬂexibility is a necessary condition for an ultraﬁlter D to saturate some non-simple theory. We then adapt a proof of Shelah [20] originally stated for goodness to show that when the c.c. of the quotient Boolean algebra falls at or below the size of the index set, no subsequent ultraﬁlter will be ﬂexible, and thus every subsequent ultraﬁlter will fail to saturate any non-simple or non-low theory:
+Corollary 9.9 (Non-ﬂexibility, thus non-saturation). Let μ < λ and let D be a regular λ+-excellent ﬁlter on λ given by Theorem 8.1 in the case where j(P(I )) = B2λ,μ (so has the μ+-c.c.). Then no ultraﬁlter extending D, built by the methods of independent functions, is λ-ﬂexible.
+Note that the class of simple non-low theories is nonempty, as discussed in 3.9 below.
+2.4. Saturation
+The saturation results arise from a property of the random graph used by Shelah in [20, Theorem VI.3.10]. This key property, which follows from Engelking and Karłowicz [5], is that if μ < λ 2μ, A ⊆ CTrg , |A| λ then for some B CTrg , |B| = μ we have that every nonalgebraic p ∈ S(A) is ﬁnitely realized in B. That is, the nonalgebraic types over a given set of size λ can be ﬁnitely realized in a set of strictly smaller size; see Section 10 below for a proof. Note that by [19], every simple theory T has a related, though weaker, property.
+We develop a generalization of this property appropriate for our context, called Qr1. Informally, Qr1(T , λ, μ) says of T that any monotonic sequence from Pℵ0 (λ) into the given Boolean algebra B = B2λ,μ, which accurately “represents” a pattern from the background theory T , can be approximated by μ multiplicative sequences. This property may be thought of as describing genericity, in the sense of the independence property; it is naturally orthogonal, in a non-technical sense, to the phenomenon of dividing, in which the many instances of the formula ϕ are “spread out” and do not admit common realizations. In Section 11 we show that Qr1 holds of the random graph:
+Lemma 10.9 (Qr1 for the random graph). Let T be the theory of the random graph. Then Qr1(T , λ, μ).
+Brieﬂy, to prove Lemma 10.9 begin with a “possibility pattern”, the avatar of a type. Choose a complete subalgebra of B on which this sequence is supported, and which itself is covered by few ultraﬁlters. Roughly speaking, we look at what happens to the type under each such ultraﬁlter (we deﬁne a function which records how the parameters collide) and choose a small dense subset of types over this “collapsed” parameter set. Since types over the “collapsed” sets have parameters which are everywhere distinct, they will always be realized. Now to ﬁnd a “cover” of a given ﬁnite fragment of the original type, we can ﬁrst choose an ultraﬁlter in which its ﬁnitely many parameters remain distinct, then choose an appropriate member of the dense set of realized types.
+In Section 11 we apply Lemma 10.9 to prove the existence of an ultraﬁlter D∗ on B2λ,μ which is moral for a class of theories including the theory of the random graph:
+Theorem 11.1 (The moral ultraﬁlter). Suppose μ < λ 2μ and let B = B2λ,μ. Then there is an ultraﬁlter D∗ on B which is moral for all countable theories T so that Qr1(T , λ, μ). In particular, D∗ is moral for all countable stable theories and for the theory of the random graph.
+
+M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+
+257
+
+Finally, we combine these results to prove the main theorem:
+Theorem 12.1 (The dividing line). Let μ < λ 2μ. Then there is a regular ultraﬁlter D on λ so that:
+(1) for any countable theory T so that Qr1(λ, μ, T ) and M | T , Mλ/D is λ+-saturated, (2) in particular, when T is stable or T is the theory of the random graph, Mλ/D is
+λ+-saturated, (3) for any non-low or non-simple theory T and M | T , Mλ/D is not λ+-saturated.
+Thus there is a dividing line in Keisler’s order among the simple unstable theories.
+Discussion 2.3. Following our work here, to separate theories T , T in Keisler’s order it is therefore sufﬁcient to ﬁnd a pair (B, D∗) s.t. B is a λ+-c.c. complete Boolean algebra of cardinality
+2λ and D∗ an ultraﬁlter on B which is (λ, T )-moral but not (λ, T )-moral. Note that this gives natural new “outside” deﬁnitions of classes of ﬁrst-order theories in terms of whether e.g. every ultraﬁlter on a given Boolean algebra is moral for T . Do such classes have nice inside deﬁnitions?
+3. Basic deﬁnitions
+Here we deﬁne Keisler’s order, the properties (of ﬁlters) regular and good, and the properties (of theories) simple and low. A fairly extensive discussion of Keisler’s order, including an overview of relevant recent work [10–16], can be found in Malliaris and Shelah [15]. For an accessible survey of simplicity, including results on Boolean algebras of nonforking formulas in simple theories from [19], see Grossberg, Iovino and Lessmann [6]. For further background on ultraﬁlters and ultrapowers, see [20, Chapter VI], [8,10].
+We concentrate on regular ultraﬁlters which, by Theorem B below, focus attention on the theory rather than the choice of index models.
+Convention 3.1. All ultraﬁlters in this paper, unless otherwise stated, are regular, Deﬁnition 3.3 below. T ranges over complete countable ﬁrst-order theories, though we indicate some extensions to uncountable languages.1 We use λ to denote an inﬁnite cardinal. I is an index set of cardinality λ, though this is usually stated.
+By “D saturates T ” we will always mean: D is a regular ultraﬁlter on I , T is a countable complete ﬁrst-order theory and for any M | T , we have that MI /D is λ+-saturated, where λ = |I |.
+Remark 3.2. We make no global assumptions on λ other than λ ℵ0, and we do not require λ to be regular. In the ultraﬁlter constructions we carry out, this is always enough to guarantee existence of an independent family of functions f : λ → λ, of size 2λ, see [5]. If we had wanted the family to be independent in a stronger way, e.g. asking that any < κ functions simultaneously achieve their assigned values on a nonempty set (which we do not use in the present argument), then we would need λ<κ = λ. See [20, Appendix, Theorem 1.5].
+
+1 Namely, the statements of several key theorems include the condition “D is |T |+-good”. This will be automatically satisﬁed in our main case of interest, T countable (see [20, Claim 2.1, p. 334]). Otherwise, this extra condition puts no real burden on the proofs and will allow for easier quotation later on.
+
+258 M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+
+Deﬁnition 3.3. A ﬁlter D on an index set I of cardinality λ is said to be λ-regular, or simply regular, if there exists a λ-regularizing family Xi: i < λ , which means that:
+
+• for each i < λ, Xi ∈ D, and • for any inﬁnite σ ⊂ λ, we have i∈σ Xi = ∅.
+
+Equivalently, for any element t ∈ I , t belongs to only ﬁnitely many of the sets Xi .
+
+To Then
+
+see that {{s ∈ λ:
+
+regular ultraﬁlters η ∈ f −1(s)}: η <
+
+on inﬁnite cardinals always exist, λ} can be extended to a ﬁlter on λ
+
+ﬁx some f which will
+
+: Pℵ0 (λ) → λ. be regular, see
+
+e.g. [3].
+
+By the next theorem, in our context, saturation of the ultrapower does not depend on the
+
+choice of index model within its elementary class. Thus the restriction to regular ﬁlters justiﬁes
+
+the quantiﬁcation over all models in Keisler’s order, Deﬁnition 3.10 below.
+
+Theorem B. (Keisler [8, Corollary 2.1, p. 30]; see also Shelah [20, VI.1].) Suppose that M0 ≡ M1, the ambient language is countable, and D is a regular ultraﬁlter on λ. Then M0λ/D is λ+-saturated iff M1λ/D is λ+-saturated.
+Fact 3.4. Any nonprincipal ultrapower in a countable language is ℵ1-saturated.
+
+The connection of the following deﬁnition to saturation was sketched in the introduction.
+
+Deﬁnition 3.5. A function with domain Pℵ0 (κ) is called monotonic if u ⊆ v ∈ Pℵ0 (κ) implies f (v) ⊆ f (u), and multiplicative if f (u) ∩ f (v) = f (u ∪ v). We say that g is a reﬁnement of f
+if g(u) ⊆ f (u) for all u ∈ Pℵ0 (κ).
+
+Consider Deﬁnition 3.5 through the lens of the following example: u = {ϕ(x, a)}, v = {ψ(x, b)}, f (u) ⊆ {t < λ: M | ∃x ϕ(x, a[t])}, f (v) ⊆ {t < λ: M | ∃x ϕ(x, b[t])}, and f (u ∪ v) ⊆ {t < λ: M | ∃x (ϕ(x, a[t]) ∧ ϕ(x, b[t]))}. Then monotonicity is the natural requirement that f (u ∪ v) ⊆ f (v) ∩ f (u), and multiplicativity asks that equality holds, meaning that on the indices we’ve chosen, whenever ϕ and ψ each have a realization, then they have a common realization.
+From the point of view of saturation, the most powerful ultraﬁlters are the good ultraﬁlters, introduced by Keisler [7]. These saturate any [countable] theory, and thus witness the existence of a maximum class in Keisler’s order.
+
+Deﬁnition 3.6. A ﬁlter D on λ ℵ0 is called κ+-good D has a multiplicative reﬁnement. D is called good if
+
+if it
+
+every monotonic function is λ+-good.
+
+f
+
+:
+
+Pℵ0 (κ)
+
+→
+
+Keisler proved the existence of λ+-good countably incomplete ultraﬁlters on λ assuming 2λ = λ+. Kunen [9] gave a proof in ZFC, using independent families of functions (also called families of large oscillation). Kunen’s construction technique and its subsequent development by the second author in Chapter VI of [20] is a key ingredient of our approach in this paper.
+We now give some important model-theoretic properties. The reader interested primarily in ultraﬁlters rather than model theory may take these properties as black boxes which give the non-saturation side of the argument in Section 9.
+
+M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+
+259
+
+Deﬁnition 3.7 (Simple, low). Given a background theory T ,
+(1) A formula ϕ = ϕ(x, y) has the k-tree property, for k < ω, when there exist parameters {aη: η ∈ ω>ω}, (aη) = (y), so that: (a) for each η ∈ ω>ω, the set {ϕ(x, aη i): i < ω} is k-inconsistent, and (b) for each η ∈ ωω, the set {ϕ(x, aη|n): n < ω} is a consistent partial type.
+(2) A formula ϕ is simple if it does not have the tree property, i.e. it does not have the k-tree property for any k.
+(3) A formula ϕ = ϕ(x, y) is low if there is k = kϕ so that for any indiscernible sequence of parameters ai: i < ω , (ai) = (y), if {ϕ(x; ai): i < ω} is 1-consistent, i.e. each 1-element subset is consistent, then either it is consistent or it is uniformly k-inconsistent, i.e. each k-element subset is inconsistent.
+(4) T is said to be simple, respectively low, if every formula of T is. (5) A theory which is not low is often called non-low.
+Remark 3.8. Deﬁnition 3.7 may also be formulated in terms of Shelah’s D-rank: a formula is simple if for every k < ω, D(x = x, {ϕ}, k) < ω and is low if there exists k = kϕ < ω so that D(x = x, {ϕ}, ∞) = D(x = x, {ϕ}, k). For simple theories, this second is equivalent to Buechler’s original deﬁnition [1] which asked that for every ϕ, D(x = x, {ϕ}, ℵ0) < ω.
+Discussion 3.9 (On simple, non-low theories). On one hand, there are many theories which are simple and low: for instance, all stable theories, the random graph, and the model companion ACFA of the theory of difference ﬁelds. On the other, there are also theories which are simple and non-low. The basic example is the model completion of the following. Consider a two-sorted structure with an inﬁnite set on one side, an equivalence relation with inﬁnitely many inﬁnite classes on the other, and an edge relation R connecting the two, with axioms saying that an element on the left is connected to precisely n elements of the nth equivalence class on the right. See Casanovas and Kim [2] for an example of a supersimple non-low theory.
+Finally, we deﬁne Keisler’s order, proposed in Keisler 1967 [8]. This preorder P on theories is often thought of as a partial order on the P-equivalence classes. The hypothesis regular, Deﬁnition 3.3, justiﬁes the quantiﬁcation over all models.
+Deﬁnition 3.10. (See Keisler [8].) Given countable theories T1, T2, say that:
+(1) T1 Pλ T2 if for any M1 | T1, M2 | T2, and D a regular ultraﬁlter on λ, if M2λ/D is λ+-saturated then M1λ/D must be λ+-saturated.
+(2) (Keisler’s order) T1 P T2 if for all inﬁnite λ, T1 Pλ T2.
+Informally, for all regular D, D saturates T2 implies that D saturates T1.
+Project 3.11. Determine the structure of Keisler’s order.
+4. Excellent ﬁlters
+In this section we deﬁne “λ+-excellent ﬁlter”, Deﬁnition 4.6 below and develop some consequences of this deﬁnition.
+
+260 M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+Convention 4.1 (Conventions).
+• We consider Boolean algebras in the language {∩, ∪, , −, 0, 1} and will informally use symmetric difference and setminus \. (Note that negation of a will be denoted 1 − a; overline, e.g. a, always denotes a sequence, not the complement of a set.)
+• B denotes a Boolean algebra, and all elements of Boolean algebras are written in boldface: a, b . . . .
+• CC(B) (“chain condition”) is the minimum regular cardinal μ so that any partition (maximal disjoint subset) of B has cardinality less than μ.
+• For D a ﬁlter on the index set I , B(D) is the Boolean algebra P(I )/D. • When D is a ﬁlter on an index set I (or a Boolean algebra B), D+ denotes the sets which
+are positive modulo D, i.e. not equal to ∅ mod D. • If X is a formula then we use the shorthand X1, X0 to denote X, ¬X respectively. • is used both for symmetric difference and for sets of formulas, but this is always clear
+from the context. • D, E denote ﬁlters.
+Deﬁnition 4.2 (Boolean terms).
+(1) Let u be a ﬁnite set. We write xP(u) = xv: v ⊆ u for a sequence of variables indexed by subsets of u.
+(2) By a Boolean term we mean a term in the language of Boolean algebras, see Convention 4.1. (3) For a Boolean term σ , we write σ = σ (xP(u)) to indicate that the free variables are indexed
+this way. For σ = σ (xP(u)) a Boolean term and Au: u ∈ [λ]<ℵ0 a sequence of elements of some given Boolean algebra, we write σ (A|P(u)) or equivalently, σ ( Av: v ⊆ u ) for the term evaluated on the relevant part of the sequence.
+We will consider certain distinguished sets of Boolean terms. For further motivation, see Example 4.8 and Claim 4.9 below.
+Deﬁnition 4.3. Let B be a Boolean algebra and a = au: u ∈ [λ]<ℵ0 be a sequence of elements of B. Deﬁne the set “below a” as
+N (a P(u)) = av: v ⊆ u : for some w ⊆ u we have av = av if v ⊆ w and av = 0B otherwise .
+Remark 4.4. For the purposes of this paper, we are interested in so-called possibility patterns, Deﬁnition 6.1 and thus it will be sufﬁcient to restrict to monotonic, [λ]<ℵ0 -indexed sequences, i.e. v ⊆ u ⇒ au ⊆ av, allowing some elements of the sequence to be 0.
+Deﬁnition 4.5. For B a Boolean algebra, u ﬁnite, a = av: v ⊆ u a sequence of members of B,
+(1) Deﬁne ΛB,a to be the set
+σ (xP(u)): σ (xP(u)) is a Boolean term so that B | “σ a = 0” whenever a ∈ N (a) .
+
+M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+
+261
+
+(2) If D is a ﬁlter on B then ΛB,D,a = ΛB1,a1 where B1 = B/D and a1 = av/D: v ⊆ u . (3) If D is a ﬁlter on a set I , then D determines I , so we write ΛD,a for ΛP(I),D,a.
+We now give one of the central deﬁnitions of the paper:
+
+Deﬁnition 4.6 (Excellent ﬁlters). Let D be a ﬁlter on the index set I . We say that D is λ+-excellent when: if A = Au: u ∈ [λ]<ℵ0 with u ∈ [λ]<ℵ0 ⇒ Au ⊆ I , then we can ﬁnd B = Bu: u ∈ [λ]<ℵ0 so that:
+(1) for each u ∈ [λ]<ℵ0 , Bu ⊆ Au, (2) for each u ∈ [λ]<ℵ0 , Bu = Au mod D, (3) if u ∈ [λ]<ℵ0 and σ ∈ ΛD,A|u , so σ (A|P(u)) = ∅ mod D, then σ (B|P(u)) = ∅.
+We say that D is ξ -excellent when it is λ+-excellent for every λ < ξ .
+
+In this paper we focus on regular excellent ﬁlters. Since we will often refer to sequences of the kind just described, we give them a name:
+
+Deﬁnition 4.7. Given I , D, A as in Deﬁnition 4.6, we will call any B satisfying (1)–(3) of Deﬁnition 4.6 a D-excellent reﬁnement of A. When D is clear from the context, we may simply say “excellent reﬁnement”.
+
+Example 4.8. Essentially, the distinguished terms capture equations we can solve by isolating zero-sets which we can safely eliminate. As an example of why respecting all Boolean terms would be too strong (that is, why it would be too strong to ask that all terms which evaluate to 0 mod D on A would evaluate to 0 on B), consider a monotonic sequence A = Au: u ∈ [λ]<ℵ0 of elements of D. Then for each u, v ∈ [λ]<ℵ0 , Au = Av mod D, i.e. Au Av = ∅ mod D. Asking for a D-equivalent reﬁnement B in which u, v ∈ [λ]<ℵ0 implies Bu = Bv would require an instance of completeness, i.e. {Au: u ∈ [λ]<ℵ0 } ∈ D.
+We now verify that the cases of main interest are captured by the deﬁnition of excellent.
+
+Claim 4.9. Let D be a ﬁlter on I , i.e. on P(I ).
+(1) If D is λ+-excellent and Au ⊆ I for u ∈ [λ]<ℵ0 , then we can ﬁnd B so that: (a) B = Bu: u ∈ [λ]<ℵ0 , (b) Bu ⊆ Au, (c) Bu = Au mod D, (d) for all u0, u1 ∈ [λ]<ℵ0 , if Au0 ∩ Au1 = Au0∪u1 mod D then Bu0 ∩ Bu1 = Bu0∪u1 .
+(2) If D is λ+-excellent and Aα ⊆ I for α < λ, then we can ﬁnd B so that: (a) B = Bα: α < λ , (b) Bα ⊆ Aα, (c) Bα = Aα mod D, (d) if n ∈ N, α0, . . . , αn−1 < λ and {Aα : < n} = ∅ mod D, then {Bα : < n} = ∅.
+(3) If D is λ+-excellent then D is λ+-good.
+
+262 M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+Proof. Note that (3) follows from (1) in the case where the sequence Au: u ∈ [λ]<ℵ0 is assumed to be a monotonic sequence of elements of D.
+(1) Let A = Au: u ∈ [λ]<ℵ0 be given, with Au ∈ D+ (otherwise replace Au by ∅). We are assuming D is λ+-excellent, so let B = Bu: u ∈ [λ]<ℵ0 be an excellent reﬁnement. Then conditions (a), (b), (c) hold by deﬁnition. For condition (d), it will sufﬁce to show that if for all u0, u1 ∈ [λ]<ℵ0 , (∗) Au0 ∩ Au1 = Au0∪u1 mod D, then (∗∗), where (∗∗) is the condition that, writing u = u0 ∪ u1, the Boolean term
+σ (xP(u)) = (xu0 ∩ xu1 ) xu belongs to ΛD,A|P(u) .
+Why would this sufﬁce? Because we would then have, as an immediate consequence of “excellent reﬁnement”, that u0, u1 ∈ [λ]<ℵ0 implies Bu0 ∩ Bu1 = Bu since (∗∗) implies Au0 ∩ Au1 = Au mod D.
+So let us prove that (∗) implies (∗∗). That is, we verify that (∗) implies σ evaluates to ∅ mod D on any term “below” A|P(u) in the sense of Deﬁnition 4.3. For any w ⊆ u := u0 ∪ u1,
+• if w = u, then σ = ∅ mod D as Au0 ∩ Au1 = Au mod D by (∗); • if w ⊆ u1 ∧ w u0 then we have either ∅ ∩ ∅ = ∅ mod D or else Au0 ∩ ∅ = ∅ mod D, both
+of which are clearly true; • the case w u1 ∧ w ⊆ u0 is the same as the previous case by symmetry.
+In other words, since a sufﬁcient condition for being multiplicative is expressible by one of our distinguished terms, any sequence A which is multiplicative mod D, even if it does not itself consist of elements of D, will have a true multiplicative reﬁnement B as desired.
+This completes the proof. (2) We may naturally extend A to a monotonic sequence of elements of P(I ) indexed by u ∈ [λ]<ℵ0 , where |u| 2 ⇒ Au = ∅. Let Au: u ∈ [λ]<ℵ0 be such a sequence, writing Aα = A{α}. Apply Deﬁnition 4.6 to obtain an excellent reﬁnement Bu: u ∈ [λ]<ℵ0 . Let Bα = B{α}. Conditions (a)–(c) clearly hold. For condition (d), let n ∈ N, a0, . . . , an−1 < λ, u = {a0, . . . , an−1}; it sufﬁces to check that the Boolean term
+σ (x{α0}, . . . , x{αn−1}) = x{α0} ∩ · · · ∩ x{αn−1} ∈ ΛD,u.
+If w = u, the demand is that A{α0} ∩ · · · ∩ A{αn−1} = ∅ mod D, which holds by hypothesis. If w u then in the intersection we replace at least one A{α } by ∅, so the intersection is empty as desired. 2
+Remark 4.10. Claim 4.9 remains true in the case where we replace P(I ) by an arbitrary Boolean algebra B, with the same proof.
+5. Excellence and goodness
+In this section we investigate the relationship between excellence and goodness and prove a characterization in the base case (this remark is explained by Discussion 5.3). The characterization is Theorem 5.2.
+Claim 5.1. Assume D is a ﬁlter on the Boolean algebra B. If D is λ+-good then D is λ+-excellent.
+
+M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+
+263
+
+Proof. Let a = au: u ∈ [λ]<ℵ0 be a sequence of elements of B, and we look for an excellent reﬁnement. That is, let Λ = ΛB,D,a as in Deﬁnition 4.5 above, and B1 = B/D. Then we would like to ﬁnd bu: u ∈ [λ]<ℵ0 so that whenever σ = σ (xP(u)) ∈ Λ, i.e. σ (a ) = 0B1 for any a below a in the sense of Deﬁnition 4.3 (for the Boolean algebra B1), we have that σ (b) = 0B.
+Step 1: Safe sets. First, for each u ∈ [λ]<ℵ0 deﬁne
+a1u = 1B − σ (a P(ς)): ς ⊆ u, σ (xP(ς)) ∈ Λ .
+By construction, a1 = a1u: u ∈ [λ]<ℵ0 is a monotonic sequence of elements of D.
+Step 2: A multiplicative reﬁnement. Apply the hypothesis of goodness to obtain a multiplicative reﬁnement b1 = b1u: u ∈ [λ]<ℵ0 of a1. Each b1u is an element of B, in fact of D.
+Step 3: The sequence b. Deﬁne b = bu: u ∈ [λ]<ℵ0 where bu = au ∩ b1u for each u ∈ [λ]<ℵ0 . In the remainder of the proof, we show that b is the desired excellent reﬁnement of a. We have immediately from the deﬁnition that for each u ∈ [λ]<ℵ0 ,
+(a) bu ∈ B, (b) B | bu au, (c) bu = au mod D.
+It remains to show that excellence holds.
+Step 4: Excellence of b. For this step, we consider u ∈ [λ]<ℵ0 and σ = σ (xP(u)) ∈ Λ = ΛB,D,a.
+4a: Remarks. First, by deﬁnition of Λ and the fact that 0 is a constant of the language of Boolean algebras, whenever σ = σ (xP(u)) ∈ Λ = ΛB,D,a and a is below a P(u) with respect to B [note: this means substituting in 0B, not 0B1 , for some elements of a ] we have that a1u ⊆ 1 − σ (a ).
+Second, if ς ⊆ u and a is below a P(u) in the sense that aw = aw if w ⊆ ς and aw = 0B otherwise, then a1ς ⊆ 1 − σ (a ), just by applying the previous remark twice.
+4b: A partition. For each u ∈ [λ]<ℵ0 and ς ⊆ u, deﬁne
+cς,u = b1ς \ b1ς∪{t}: t ∈ u \ ς = b1t : t ∈ ς \ b1{t}: t ∈ u \ ς
+where the second equality uses multiplicativity of b1. Thus {cς,u: ς ⊆ u} gives a partition of b1∅, thus also of bu b1u. It will sufﬁce to show that if ς ⊆ u and c = cu,ς > 0 or c = 1 − b1∅, then B cς,u | σ (. . . , bw ∩ c, . . .)w⊆u = 0.
+4c: Cases. First, we may justify restricting to b1∅ as σ (. . . , 0, . . .) = 0. Then letting ς vary, we use {cς,u: ς ⊆ u} to partition b1∅. It sufﬁces to show that for each cς,u,
+B cς,u | “σ (b P(u)) = 0”. Let u ∈ [λ]<ℵ0 and ς ⊆ u be given. If w ⊆ ς , then cς,u b1u b1w by deﬁnition and by monotonicity. Hence bw ∩ b1w ∩ cς,u =
+bw ∩ cς,u = aw ∩ b1w ∩ cς,u = aw ∩ cς,u, i.e. on cς,u we have that bw = aw. If w ⊆ u ∧ w ς then b1w ∩ cς,u = 0B by deﬁnition of cς,u, and bw b1w, thus bw ∩ cς,u = 0.
+
+264 M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+
+In other words, writing
+
+• b∗w = bw if ς ⊆ w and 0B otherwise, and • bcw = bw ∩ cς,u if ς ⊆ w and 0B otherwise,
+
+we have shown that
+
+B cς,u | σ . . . bcw . . . w⊆u = 0 ⇐
+
+B | σ . . . b∗w . . . w⊆u ∩ cς,u = 0 .
+
+Now by deﬁnition of cς,u, the monotonicity of b1, and Step 4a, we have that
+
+cς,u ⊆ b1{i}: i ∈ ς ⊆ b1ς ⊆ a1ς ⊆ 1 − σ . . . b∗w . . . w⊆u which completes the proof. 2
+
+Theorem 5.2 (A new characterization of goodness). Let D be a ﬁlter on the Boolean algebra B. Then the following are equivalent.
+(1) D is λ+-good. (2) D is λ+-excellent.
+
+Proof. (1) → (2) Claim 4.9, via Remark 4.10. (2) → (1) Claim 5.1. 2
+
+Discussion 5.3. One can naturally localize excellence and goodness to formulas (so that the conﬁgurations we try to reﬁne are those arising from distributions or weak distributions of ϕ-types) or to theories. From this point of view, Theorem 5.2 shows that equivalence holds in the base case: D is good for all formulas in all theories iff D is excellent for all formulas in all theories. Otherwise, for strictly smaller classes, the situation appears to be different. For instance, in work in progress, the authors are investigating the connection of goodness to atomic saturation versus the connection of excellence to quantiﬁer-free saturation, and we have shown that locally, excellence and goodness can be distinguished. We believe it will be very interesting to ﬁnd the future points of contact and divergence of these two major properties as one varies the formulas or theories under consideration.
+
+6. Separation of variables
+
+The main result of the section is “separation of variables”, Theorem 6.13. The reader may ﬁnd it useful to refer to the discussion in Section 2 above, which frames this result.
+
+Deﬁnition 6.1 (Possibility patterns). Let B be a Boolean algebra. Say that a is a (λ, B, T , ϕ)-possibility when:
+
+(1) a = au: u ∈ [λ]<ℵ0 , (2) u ∈ [λ]<ℵ0 implies au ∈ B+, (3) if v ⊆ u ∈ [λ]<ℵ0 then au ⊆ av (monotonicity), (4) if u∗ ∈ [λ]<ℵ0 and b ∈ B+ satisﬁes
+u ⊆ u∗ ⇒ (b au) ∨ (b 1 − au) ∧ (α ∈ u∗ ⇒ b
+
+a{α})
+
+M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+
+265
+
+then we can ﬁnd a model M | T and aα ∈ M for α ∈ u∗ so that for every u ⊆ u∗,
+M | (∃x) ϕ(x; aα) iff b au.
+α∈u
+Discussion 6.2. As regards Deﬁnition 6.1:
+(1) The requirement that b a{α} reﬂects the fact that, informally speaking, we are interested in looking at a sequence of sets representing instances of a formula ϕ (for instance, sets contained in the j-image of the Łos´ map of ϕ(x, bα)) and we would like them to be accurate in the sense that any ultraﬁlter induced on these sets by a nonzero element b reﬂects a pattern of consistency and inconsistency which is possible to achieve using this given formula, in some model, with some sequence of parameters – thus the name “possibility pattern”.
+(2) In order to build ultraﬁlters on Boolean algebras which saturate a given theory, we will need a way to capture those sequences whose multiplicative reﬁnements are truly necessary for, or visible to, the theory in question. A slogan for Deﬁnition 6.1 might be that “any nonzero element of B inducing an ultraﬁlter on a reveals a consistent ϕ-conﬁguration”, e.g. in the sense of the characteristic sequences of [12].
+Deﬁnition 6.3 (Moral ultraﬁlters on Boolean algebras). We say that an ultraﬁlter D on the Boolean algebra B is (λ, B, T , ϕ)-moral when for every (λ, B, T , ϕ)-possibility a = au: u ∈ [λ]<ℵ0 satisfying
+• u ∈ [λ]<ℵ0 ⇒ au ∈ D, • (by deﬁnition of possibility) v ⊆ u ∈ [λ]<ℵ0 ⇒ au ⊆ av
+there is a multiplicative D-reﬁnement b = bu: u ∈ [λ]<ℵ0 , i.e.
+(1) u1, u2 ∈ [λ]<ℵ0 ⇒ bu1 ∩ bu2 = bu1∪u2 , (2) u ∈ [λ]<ℵ0 ⇒ bu ⊆ au, (3) u ∈ [λ]<ℵ0 ⇒ bu ∈ D.
+We write (λ, B, T , )-moral to mean (λ, B, T , ϕ)-moral for all ϕ ∈ , and (λ, B, T )-moral to mean for all formulas ϕ in the language of T , see Remark 6.4.
+Remark 6.4. Note that “(λ, B, T )-moral” in Deﬁnition 6.3 indeed means that morality holds locally, for each ϕ. The global and local cases are not different in our context thanks to Fact 6.6, or, in the case of a larger language, Corollary 6.7.
+Deﬁnition 6.5. Let ϕ be a formula in the language of T . A “ϕ-type” over a given parameter set is a consistent set of positive and negative instances of ϕ with parameters from that set.
+Fact 6.6 (Local saturation implies saturation, [11, Theorem 12]). Suppose D is a regular ultraﬁlter on I and T a countable complete ﬁrst-order theory. Then for any MI /D, the following are equivalent:
+(1) MI /D is λ+-saturated. (2) MI /D realizes all ϕ-types over sets of size λ, for all formulas ϕ in the language of T .
+
+266 M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+
+In this paper, we focus on countable theories for transparency, but many of the results we use and prove, including Fact 6.6, may be extended to a more general context.2
+
+Deﬁnition 6.8 (Distributions). Let T be a countable complete ﬁrst-order theory, M | T , D a regular ultraﬁlter on I , |I | = λ, N = Mλ/D. Let p(x) = {ϕα(x; aα): α < λ} be a consistent partial
+type in N . Then a distribution of p is a map d : Pℵ0 (λ) → P(I ) which satisﬁes:
+
+(1) Range(d) ⊆ D, (2) for each u ∈ [λ]<ℵ0 , d(u) ⊆ {t ∈ I : M | ∃x
+d reﬁnes the Łos´ map,
+
+{ϕα(x; aα[t]): α ∈ u}}. Informally speaking,
+
+(3) d is monotonic,
+
+(4) for each t ∈ I , |{u ∈ P(I ): t ∈ d(u)}| < ℵ0. Note that in the presence of (1), this implies the
+
+range of d is a regularizing family.
+
+A map satisfying (2), (3), (4) is called a weak distribution. A distribution satisfying the additional conditions of Observation 6.11 is called accurate.
+
+Convention 6.9. We will often identify a distribution or weak distribution d with the image of [λ]<ℵ0 under d, i.e. with a sequence of the form Au: u ∈ [λ]<ℵ0 ⊆ P(I ).
+Observation 6.10. (See e.g. [15, Observation 1.8].) Let T be a countable complete ﬁrst-order theory, M | T , D a regular ultraﬁlter on λ, N = Mλ/D. Then the following are equivalent:
+(1) For every consistent partial type p in N of size λ, some distribution d of p has a multiplicative reﬁnement.
+(2) N is λ+-saturated.
+Observation 6.11. Let M, N , T , I , p be as in Deﬁnition 6.8. If p has a (weak) distribution, we may choose a (weak) distribution d of p which is accurate, where this means that in addition: for each t ∈ I and u ⊆ {α < λ: t ∈ d({α})},
+M | ∃x ϕα x; aα[t] : α ∈ u ⇐⇒ t ∈ d(u).
+
+Proof. Let p = {ϕα(x, aα): α < λ}. Let d0 : λ → D be given by the Łos´ map, that is, α → t < λ: M | ∃x ϕα x, aα[t] .
+
+2 The argument of [11, §3] extends to larger languages; the only change is the limit stages, which follow from the stronger hypothesis that lcf(|T |, D) λ+. The full statement is:
+Corollary 6.7. Let T be a complete ﬁrst-order theory. Suppose D is a regular ultraﬁlter on I which is |T |+-good, or just so that lcf(|T |, D) λ+. Then for any MI /D, the following are equivalent:
+(1) MI /D is λ+-saturated. (2) MI /D realizes all ϕ-types over sets of size λ, for all formulas ϕ in the language of T .
+
+M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+
+267
+
+Let {Xα: α < λ} be a regularizing family for D. Let d1 : [λ]1 → D be given by: {α} → d0(α) ∩ Xα. Now for each t < λ, the set {α < λ: t ∈ d1({α})} is ﬁnite. Finally, deﬁne d : [λ]<ℵ0 → D as follows. On sets of size 1, d = d0. For each n > 1 and u ∈ [λ]n, deﬁne
+d(u) = t < λ: (∀α ∈ u) t ∈ d {α} ∧ M | ∃x ϕα(x, aα) .
+α∈u
+Then d is as desired. 2
+
+Lemma 6.12 (Transfer lemma). Suppose that we have the following data:
+(1) D is a regular, λ+-excellent ﬁlter on I , (2) D1 is an ultraﬁlter on I extending D, and is |T |+-good, (3) B is a Boolean algebra, (4) j : P(I ) → B is a surjective homomorphism with D = j−1({1B}), (5) D∗ = {b ∈ B: if j(A) = b then A ∈ D1}, (6) M | T is λ+-saturated.
+
+Then the following two statements are true.
+
+(A) Let Au: u ∈ [λ]<ℵ0 ⊆ P(I ) be the image of an accurate weak distribution of some ϕ-type from MI /D1. Then j(Au): u ∈ [λ]<ℵ0 ⊆ B is a (λ, B, T , ϕ)-possibility pattern.
+(B) Let au: u ∈ [λ]<ℵ0 be a (λ, B, T , ϕ)-possibility pattern. Then there exists a sequence B = Bu: u ∈ [λ]<ℵ0 ⊆ P(I ) so that j(Bu) = au for each u ∈ [λ]<ℵ0 and so that B is an accurate weak distribution of some ϕ-type in MI /D1.
+
+Proof. (A) Let A = Au: u ∈ [λ]<ℵ0 be an accurate weak distribution of a given ϕ-type p. Let a = au: u ∈ [λ]<ℵ0 be a sequence of elements of B+ given by au = j(Au).
+We check that au: u ∈ [λ]<ℵ0 is a (λ, B, T , ϕ)-possibility pattern. Conditions (1)–(3) of Deﬁnition 6.1 follow from the deﬁnitions of A and j. Recall that for condition (4) we need to check that:
+
+if u∗ ∈ [λ]<ℵ0 and b ∈ B+ satisﬁes
+u ⊆ u∗ ⇒ (b au) ∨ (b 1 − au) ∧ (α ∈ u∗ ⇒ b a{α}) then we can ﬁnd a model M0 | T and ci ∈ M for i ∈ u∗ so that for every u ⊆ u∗,
+M0 | (∃x) ϕ(x; ci) iff b au.
+i∈u
+
+Let such u∗ and b be given. Choose B ∈ P(I ) so that j(B) = b. Then B = ∅ mod D since j is a homomorphism. Moreover, if σ , τ partition P(u∗) so that
+
+B | b au ∧ b
+u∈σ v∈τ
+then we likewise have that
+
+1 − av
+
+B ∩ Au \ Av = ∅ mod D.
+u∈σ v∈τ
+
+268 M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+
+Choose any t belonging to this nonempty set. Then by the accuracy of A, let ci = ai[t] and then {ci: i ∈ u∗} provide the desired witnesses to the inset equation above. So au: u ∈ [λ]<ℵ0 is a (λ, B, T , ϕ)-possibility pattern, as desired.
+(B) Let a = au: u ∈ [λ]<ℵ0 be a (λ, B, T , ϕ)-possibility pattern. First, by surjectivity of j, for each u ∈ [λ]<ℵ0 we may choose Au ⊆ I so that j(Au) = au. Apply Deﬁnition 4.6 to A = Au: u ∈ [λ]<ℵ0 to obtain an excellent reﬁnement B = Bu: u ∈ [λ]<ℵ0 . As Au = Bu mod D, j(Au) = j(Bu). To prove our claim, we now look for elements c : < λ in MI /D so that B is an accurate weak distribution of the type p(x) = {ϕ(x, c ): < λ}. We deﬁne c by ﬁrst choosing ct, for each t ∈ I as follows. For each t ∈ I , let Ut = { < λ: t ∈ B{ }}. We will want to ﬁnd c [t], for ∈ Ut , such that for every ﬁnite u ⊆ Ut ,
+M | ∃x ϕ(x; ct, ): ∈ u ⇐⇒ t ∈ Bu.
+As the model M is λ+-saturated, by compactness, it sufﬁces to show that we can choose such c [t] for an arbitrary but ﬁxed t and ﬁnite u∗ = { 0, . . . , n−1} ⊆ Ut . Let w0, . . . , wk list the subsets u of u∗ so that t ∈ Bu, and let v0, . . . , vm list the subsets u of u∗ so that t ∈/ Bu. In this notation, we are looking for elements a0, . . . , an−1 of M so that:
+
+M|
+
+∃x ϕ(x; a ) ∧
+
+¬∃x ϕ(x; aj ) .
+
+i k ∈wi
+
+jm
+
+∈vj
+
+First observe that we can always ﬁnd b ∈ B\{0} so that b i k bwi while b∩( j m bvj) = 0. Why? Suppose for a contradiction that there is no such b. Consider the corresponding Boolean
+term σ (xP(u∗)) = i xui ∩ j 1 − xvj . Let us check whether σ ∈ ΛD,b. If u = u∗, the term is 0B by our assumption for a contradiction. If u ⊆ u∗ misses some wi , then the expression is clearly 0B. But recall that the list of wi includes all singleton sets, by Deﬁnition 6.1. So if u u∗ we obtain 0B as well. This shows that σ ∈ ΛD,b. As B is excellent, σ (B|P(u∗)) = 0. This contradicts the choice of t and completes the observation.
+Since we can always ﬁnd such b ∈ B, apply the deﬁnition of “possibility pattern” 6.1 to
+choose the desired parameters.
+Thus for each t ∈ I we are able to choose {ct, : ∈ Ut } as described. For ∈/ Ut , let ct, be arbitrary. Then for each < λ let c = t∈I ct, /D1. The type p(x) = {ϕ(x, c ): < λ} has accurate weak distribution Bu: u ∈ [λ]<ℵ0 , which completes the proof. 2
+
+Theorem 6.13 (Separation of variables). Suppose that we have the following data:
+
+(1) D is a regular, λ+-excellent ﬁlter on I , (2) D1 is an ultraﬁlter on I extending D, and is |T |+-good,
+(3) B is a Boolean algebra, (4) j : P(I ) → B is a surjective homomorphism with D = j−1({1B}),
+(5) D∗ = {b ∈ B: if j(A) = b then A ∈ D1}.
+
+Then the following are equivalent:
+
+(A) D∗ is (λ, B, T )-moral, i.e. moral for each formula ϕ of T . (B) For any λ+-saturated model M | T , MI /D1 is λ+-saturated.
+
+M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+
+269
+
+Proof. First we note that it sufﬁces to replace the conclusion of (B) with “Mλ/D1 is λ+-saturated for ϕ-types, for all formulas ϕ of T ”, by Fact 6.6 (in the main case of interest for Keisler’s order) or Corollary 6.7 (in general). Thus in what follows, we concentrate on ϕ-types. Note also that any regular ultraﬁlter is ℵ1-good, thus (2) is always satisﬁed in the main case of interest, countable theories.
+(A) ⇒ (B) Suppose that D∗ is (λ, B, T )-moral, and we would like to show that Mλ/D1 is λ+-saturated. Let p = {ϕ(x, ai): i < λ} be the type in question, and let A = Au: u ∈ [λ]<ℵ0 be an accurate distribution of p, thus a sequence of elements of D1. It will sufﬁce to show that A has a multiplicative reﬁnement.
+By (A) of the Transfer Lemma 6.12, writing au for j(Au), we have that au: u ∈ [λ]<ℵ0 ⊆ B is a (λ, B, T , ϕ)-possibility pattern. By hypothesis (5) each au ∈ D∗.
+We had assumed that D∗ is (λ, B, T )-moral, thus it contains a multiplicative reﬁnement b = bu: u ∈ [λ]<ℵ0 of a. Choose B = Bu: u ∈ [λ]<ℵ0 so that Bu ⊆ Au and j(Bu) = bu, for u ∈ [λ]<ℵ0 . Then B is a sequence of elements of D1 and is multiplicative modulo D. Applying excellence of D, we may replace the sequence B with a [λ]<ℵ0 -indexed sequence C which reﬁnes B, whose elements belong to D1, and which is truly multiplicative (by conditions (1), (2), (3) of Deﬁnition 4.6, respectively). A fortiori, C is a multiplicative reﬁnement of A, which completes the proof.
+(B) ⇒ (A) Suppose that MI /D is λ+-saturated and ϕ = ϕ(x; y) is a formula in the language of T , recalling that (y) need not be 1. We will show that D∗ is (λ, B, T , ϕ)-moral. Let a = au: u ∈ [λ]<ℵ0 be a (λ, B, T , ϕ)-possibility and we look for a multiplicative reﬁnement.
+By (B) of the Transfer Lemma 6.12 there exists A = Au: u ∈ [λ]<ℵ0 ⊆ P(I ) so that j(Au) = au for each u ∈ [λ]<ℵ0 and so that A is an accurate weak distribution of some ϕ-type p. By deﬁnition of D1, assumption (5) of the theorem, A is in fact an accurate distribution. Thus p is a consistent type in MI /D, therefore by our assumption (B) it is realized. Let α be such a realization. Then the sequence b deﬁned by bu = j({t ∈ I : M | ϕ(α[t], ct, )}) for u ∈ [λ]<ℵ0 is the image of a multiplicative reﬁnement of A, so will be a sequence of elements of D∗ (thus of B+) as well as a multiplicative reﬁnement of a. This completes the proof. 2
+Often we do not need to keep track of all formulas or patterns; some much smaller “critical set” will sufﬁce for morality or saturation.
+Deﬁnition 6.14 (Critical sets). Say that CT = {ϕi: i < i∗ |L(T )|} is a critical set of formulas for T if whenever λ ℵ0, D is a regular ultraﬁlter on λ which is |T |+-good and M | T , we have that Mλ/D is λ+-saturated if and only if it is λ+-saturated for ϕ-types for all ϕ ∈ CT .
+7. Lemmas for existence
+In this section we develop some machinery which will streamline the existence proof for excellent ﬁlters, Theorem 8.1. See Discussion 7.9 below for an organizational discussion of the aims of this section, which we postpone until after several deﬁnitions.
+We begin by recalling independent families of functions, a useful tool for keeping track of the remaining decisions in ﬁlter construction.
+Deﬁnition 7.1. Given a ﬁlter D on λ, we say that a family F of functions from λ into λ is independent mod D if for every n < ω, distinct f0, . . . , fn−1 from F and choice of j ∈ Range(f ),
+η < λ: for every i < n, fi(η) = ji = ∅ mod D.
+
+270 M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+
+Theorem C. (See Engelking and Karłowicz [5, Theorem 3], see also Shelah [20, Theorem A1.5, p. 656].) For every λ ℵ0 there exists a family F of size 2λ with each f ∈ F from λ onto λ so that F is independent modulo the empty ﬁlter (alternately, by the ﬁlter generated by {λ}).
+Corollary 7.2. For every λ ℵ0 there exists a regular ﬁlter D on λ and a family F of size 2λ which is independent modulo D.
+
+Deﬁnition 7.3. Let B be a Boolean algebra. CC(B) is the smallest regular cardinal λ so that any maximal antichain of B has cardinality less than λ. If D is a ﬁlter on I , by CC(B(D)) we will mean CC(B) for B = P(I )/D.
+
+Fact 7.4. (See [20, p. 359].) Suppose D is a maximal ﬁlter on I modulo which F is independent.
+Then CC(B(D)) = ℵ0 iff for only ﬁnitely many f ∈ F is |Range(f )| > 1, and for no f ∈ F is |Range(f )| = ℵ0. Otherwise CC(B(D)) is the ﬁrst regular cardinal λ > ℵ0 so that f ∈ F implies |Range(f )| < λ.
+
+The following deﬁnition, “good triple”, is in current use, so we keep the name here and note that it does not imply that the ﬁlter is good in the sense of Deﬁnition 3.6 (though this should not cause confusion). As usual, omitting “pre-” means being maximal for the given property.
+
+Deﬁnition 7.5 (Good triples). (Cf. [20, Chapter VI].) The triple (I, D, G) is (λ, κ)-pre-good when:
+
+(1) I is an inﬁnite set of cardinality λ,
+(2) D is a ﬁlter on I , (3) G is a family of functions from I to κ, (4) for each function h from some ﬁnite Gh ⊆ G to κ so that g ∈ Gh
+have that Ah = ∅ mod D, where
+
+⇒ h(g) ∈ Range(g), we
+
+Ah = t ∈ I : g ∈ Gh ⇒ g(t) = h(g) ,
+
+(5) Fin(G) = {h: h as just deﬁned with dom(h) ﬁnite}, (6) Fins(G) = {Ah: h ∈ Fin(G)}.
+
+We omit “pre-” when D is maximal subject to these conditions.
+
+Observation 7.6. If (I, D, G) is a good triple, then Fins(G) is dense in P(I ) mod D. Proof. We prove this in a more general case, Observation 7.20 below. 2
+
+The next fact summarizes how such families allow us to construct ultraﬁlters; for more details, see [20, Chapter VI, Section 3].
+
+Fact 7.7. (See [20, Lemma 3.18, p. 360].) Suppose that D is a maximal ﬁlter modulo which F ∪ G is independent, F and G are disjoint, the range of each f ∈ F ∪ G is of cardinality less than cof(α), cof(α) > ℵ0, F = η<α Fη, the sequence Fη: η < α is increasing, and let F η = F \ Fη. Suppose, moreover, that Dη (η < α) is an increasing sequence of ﬁlters which satisfy:
+
+M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+
+271
+
+(i) Each Dη is generated by D and sets supported mod D by Fins(Fη ∪ G). (ii) F η ∪ G is independent modulo Dη. (iii) Dη is maximal with respect to (i), (ii).
+Then:
+(1) D∗ := η<α Dη is a maximal ﬁlter modulo which G is independent. (2) If G is empty, then D∗ is an ultraﬁlter, and for each η < α, (ii) is satisﬁed whenever Dη is
+nontrivial and satisﬁes (i). (3) If η < α and we are given Dη satisfying (i), (ii) we can extend it to a ﬁlter satisfying (i),
+(ii), (iii). (4) If f ∈ F η then f −1(t)/Dη: t ∈ Range(f ) is a partition in B(Dη).
+Deﬁnition 7.8. Denote by Bχ,μ the completion of the Boolean algebra generated by {xα, : α < χ , < μ} freely except for the conditions α < χ ∧ < ζ < μ ⇒ xα, ∩ xα,ζ = 0.
+Discussion 7.9. In our main construction, we ﬁrst build an excellent ﬁlter whose quotient Boolean algebra admits a surjective homomorphism onto B, and then construct an ultraﬁlter on this B using the method of independent functions.
+For the ﬁrst stage, the set of tools developed beginning with Deﬁnition 7.14 will allow us to upgrade the notion of “G is independent mod D” to take into account a background Boolean algebra B which retains a speciﬁed amount of freedom. This will be used in the construction of Theorem 8.1, where the intention will be that (by the end of the construction) we will have the desired map to B.
+For the second stage, Deﬁnition 7.10 through Observation 7.13, which we now discuss, are direct translations of the facts about families of independent functions, for the purposes of constructing ultraﬁlters on B = B2λ,μ.
+Thus, in the case where B from the ﬁrst stage is taken to be B2λ,μ, the Boolean algebra B occurring throughout this section is essentially the same object, but its different uses correspond to the different stages in the proof.
+Deﬁnition 7.10 (Good Boolean triples). The “Boolean” triple (B, D, G) is (2λ, κ)-pre-good when:
+(1) B = B2λ,κ , so in particular B has the κ+-c.c., (2) D is a ﬁlter on B, (3) G = {{bi, : < μ}: i < κ} is a set of partitions of B, (4) for each function h from some ﬁnite σ ⊆ κ to κ we have that Ah = ∅ mod D, where
+Ah = bi, : i ∈ dom(h), h(i) = ,
+(5) Fin(G) = {h: h as just deﬁned with dom(h) ﬁnite}, (6) Fins(G) = {Ah: h ∈ Fin(G)}.
+We omit “pre-” when D is maximal subject to these conditions.
+Remark 7.11. Notice that according to our notation, “Boolean” triples are (2λ, . . . , . . .)-good where ordinary triples (I, D, G) would have been (λ, . . . , . . .)-good. This should not cause con-
+
+272 M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+fusion. Throughout the paper we consider independent families of size 2λ and index sets of size λ.
+Deﬁnition 7.12. Say that G is a set of independent partitions of B mod D when (B, D, G) is a pre-good Boolean triple as in Deﬁnition 7.10.
+Observation 7.13. Let (B, D, G) be a (2λ, μ)-good Boolean triple. Let bj : j < λ be a sequence of elements of B which are each nonzero modulo D. Then there exists a set G ⊆ G of independent partitions, |G | λ so that for each j < λ the element bj is supported in Fins(G ).
+In particular, in the notation of Deﬁnition 7.8 this is true when G is {{xα, : α < μ}: i < 2λ} and D = {1B}.
+Proof. For each j < λ, choose a partition Pj = {Ahj : < μ} of Fins(G) supporting bj . [How? We try to do this by induction on < μ+ using the translation of Observation 7.6. At odd steps choose new elements for the partition in the “remainder” inside b, at even steps choose new elements in the “remainder” inside 1B \ b, and at limits take unions. By the μ+-c.c. any such partition will stop at some bounded stage below μ+ as the remainders become empty, and then we may renumber so the partition is indexed by < μ.]
+Let Xj = {i < 2λ: (∃ < μ) (i ∈ dom(hj ))} be the set of indices for “rows” in G used in the partition for bj . Let G = {bi, : < μ, (∃j < λ) (i ∈ Xj )} collect all such “rows”. Then |G | λ, and each bj is supported by Fins(G ) by construction, which completes the proof. 2
+This completes the introduction of notation for building ultraﬁlters on a speciﬁed Boolean algebra (the step corresponding to “morality”). We now introduce notation for the complementary step, corresponding to “excellence”.
+Deﬁnition 7.14 (Boolean algebra constraints on an independent family of functions). Fix λ ℵ0 and an index set I , |I | = λ, D0 a ﬁlter on I . Let B be a complete Boolean algebra of cardinality
+2λ with CC(B) λ+, G ⊆ λ2 a family of functions independent modulo D0, and D ⊇ D0 a ﬁlter. Fix in advance a choice of enumeration of bγ : γ < γ∗ of B \ {0B} and an enumeration gγ : γ < γ∗ of G.
+Given this enumeration, which will remain ﬁxed for the remainder of the argument, set Bγ = gγ−1{1} for γ < γ∗.
+Let [G|B] = {X: X ⊆ I, I \ X ∈ Cond}, where
+Cond = σ (Bγ0 , . . . , Bγn−1 ): σ (x0, . . . , xn−1) is a Boolean term and γ0, . . . , γn−1 < γ∗ = |B| are so that B | “σ (bγ0 , . . . , bγn−1 ) = 0” .
+Say that G is constrained by B modulo D when, for some choice of enumeration of B and of G inducing a deﬁnition of {Bγ : γ < γ∗}, we have that D contains the ﬁlter generated by [G|B].
+Remark 7.15. Remarks on Deﬁnition 7.14: First, we could have taken G to be any family of functions with range of size 2, e.g. μ. Second, this deﬁnition looks towards Observation 7.19 and Observation 7.17 below.
+In the main case of interest, the constraints on G given by the Boolean algebra B are the only barriers to independence:
+
+M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+
+273
+
+Deﬁnition 7.16. In the notation of Deﬁnition 7.14, let D be a ﬁlter on I , |I | = λ.
+(1) Suppose that G is constrained by B modulo D. Fix enumerations of G, B witnessing this. (2) Let Fin(G) = {h: dom(h) ⊆ G, |dom(h)| < ℵ0, g ∈ dom(h) ⇒ h(g) ∈ Range(g)}. (3) Say that h ∈ Fin(G) is prevented by B when h = {(gγ , iγ ): γ ∈ σ ∈ [γ∗]<ℵ0 , iγ ∈ {0, 1} =
+Range(gγ )} and we have that
+B | “ (bγ )iγ = 0”
+γ ∈σ
+recalling Convention 4.1 on exponentiation. (4) Now deﬁne
+(a) Fin(G|B) = {h: h ∈ Fin(G) and h is not prevented by B}, (b) Fins(G|B) = {Ah: h ∈ Fin(G|B)}. (5) Say that (I, D, G|B) is a (λ, μ)-pre-good triple when for some enumeration of G and B: (a) I is an inﬁnite set of cardinality λ, (b) D is a regular ﬁlter on I , (c) G is a family of functions from I to 2, (d) B is a μ+-c.c. complete Boolean algebra, |B| 2λ, (e) G is constrained by B modulo D, (f) for each Ah ∈ Fins(G|B), Ah = ∅ mod D, (g) we omit “pre-” when D is maximal subject to these conditions. (6) Say that (I, D, (G|B) ∪ F) is a (λ, κ, μ)-pre-good triple when: (a) F ⊆ I κ, G ⊆ I 2, F ∩ G = ∅, (b) (I, D, G|B) is a (λ, μ)-pre-good triple, so in particular B is a μ+-c.c. Boolean algebra, (c) for each Ah ∈ Fins(G|B) and each Aj ∈ Fins(F ), Ah ∩ Aj = ∅ mod D. (N.b. (λ, κ, μ) means λ = |I |, κ is the range of f ∈ F , and B has the μ+-c.c.)
+In the current paper, we focus on the case where μ < λ 2μ, B has the μ+-c.c., and F ⊆ I λ. To simplify notation, we will write “(λ, μ)-pre-good triple” or “(λ, μ)-good triple” for this case, or simply “pre-good” and “good” when the cardinal constraints are clear from the context.
+The next observation veriﬁes that constraint by a Boolean algebra still yields a ﬁlter.
+Observation 7.17. Let λ, I , D, G, B be as in Deﬁnition 7.16. Suppose F is a family of functions from λ onto μ, μ λ, so that F ∩ G = ∅ and (I, D, G ∪ F) is a pre-good triple, so in particular G ∪ F is independent mod D.
+Then letting D1 be the ﬁlter generated by D ∪ [G|B], in the notation of Deﬁnition 7.14, we have that:
+(I) D1 is a ﬁlter on I , and (II) for every h ∈ Fin(F ) and γ < γ∗, Ah ∩ Bγ = ∅ mod D1.
+Proof. Since Cond is closed under ﬁnite disjunction it sufﬁces to show that any one of its elements σ (B) has D0-nontrivial complement. To see this, put the negation of the corresponding Boolean term, ¬σ (x), in disjunctive normal form. Since B | “¬σ (bγ0 , . . . , bγn−1 ) = 1B”, we can choose a disjunct τ which is nonzero in B. Then τ (B) will be a conjunction of literals, from which we can inductively construct Ah ∈ Fin(G) so that Ah ⊆ τ (B) mod D0, simply by replacing
+
+274 M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+each literal of the form “Bγi ” by the condition gγi = 1 and each literal of the form “¬Bγj ” by the condition gγj = 0. Recall that the range of each g ∈ G is {0, 1}. By choice of τ , this h is indeed consistent so Ah = ∅ mod D0 since the family G is independent. Moreover Ah is contained in λ \ σ (B) by construction. This shows that the complement of any set in Cond contained some element of Fins(G) modulo D0, which completes the proof of (I)–(II). 2
+For completeness we spell out that such objects exist.
+Corollary 7.18. Let κ λ and let B be a κ+-c.c. complete Boolean algebra. Then there exist D, F , G so that:
+(1) D is a regular ﬁlter on I , |I | = λ, (2) F is a family of functions from λ into κ, |F| = 2λ, (3) G is a family of functions from λ into 2, |G| = |B|, (4) F ∩ G = ∅
+and (I, D, (G|B) ∪ F) is a (λ, κ)-good triple.
+Proof. Let F0 be the independent family given by Corollary 7.2 above. Without loss of generality we can write F0 as the disjoint union of F and G satisfying (2)–(3). As each Ah ∈ Fins(F ∪ G) has cardinality λ, (I, D0, F ∪ G) remains pre-good for D0 = {A ⊆ λ: |λ \ A| < λ}.
+Let γ∗ = |B|. Let fα: α < 2λ , gγ : γ < γ∗ , bγ : γ < γ∗ list F , G, and B \ {0B} respectively. Let Bγ = gγ−1{1} for γ < γ∗, and as usual deﬁne the set of conditions:
+Cond = σ (Bγ0 , . . . , Bγn−1 ): σ (x0, . . . , xn−1) is a Boolean term and γ0, . . . , γn−1 < γ∗ = |B| are so that B | “σ (bγ0 , . . . , bγn−1 ) = 0” .
+Let D1 be the ﬁlter generated by A = {X: X ⊆ λ, λ \ X ∈ Cond} ∪ D0. Then by Observation 7.17 D1 is a ﬁlter on λ and (I, D, (G|B) ∪ F) is (λ, κ)-pre-good. To ﬁnish, let D ⊇ D1 be maximal subject to the constraint that (I, D, (G|B) ∪ F) is (λ, κ)-pre-good. 2
+Observation 7.19. If (I, D, G|B) is a good triple, then there is a surjective homomorphism j : P(I ) → B = B2λ,μ so that D = j−1({1B}).
+Observation 7.20. If (I, D, (G|B) ∪ F) is a good triple, then Fins((G|B) ∪ F) is dense in P(I ) mod D.
+Proof. (Just as in the usual proof [20, VI.3].) Recall that the deﬁnition of “good triple” assumes that D is maximal so that (G|B) ∪ F is independent mod D. Suppose for a contradiction the statement of the claim fails, i.e. that there is some X ⊆ I , X = ∅ mod D but for every Ah ∈ Fins((G|B) ∪ F ), Ah X mod D. Thus for each such Ah, Ah ∩ (I \ X) = ∅ mod D. Let D be the ﬁlter generated by D ∪ {I \ X}. Then (I, D , (G|B) ∪ F) is also a good triple, contradicting the assumption about the maximality of D. 2
+With this notation in place, we now give two proofs. Recall that in proving existence of excellent ﬁlters, we will want on the one hand to ensure the quotient of P(I ) modulo the ﬁnal ﬁlter is isomorphic to a given complete Boolean algebra B, and on the other to ensure existence of excellent reﬁnements. The ﬁnal two results of the section will form the corresponding inductive steps.
+
+M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+
+275
+
+Roughly speaking, the following lemma says that if we have a ﬁlter D on I , a family F with range λ, a family G constrained by B and a subset X of the index set, we may extend D to a ﬁlter D so that X is equivalent modulo D to some element of B (by condition (d) and completeness) at the cost of λ elements of F .
+
+Lemma 7.21. Suppose (I, D, (G|B) ∪ F) is a (λ, λ, μ)-good triple. Let X ⊆ I . Then there are D ⊇ D and F ⊆ F so that
+
+(a) D is a ﬁlter extending D, (b) |F | = 2λ, |F \ F | λ,
+(c) (I, D , (G|B) ∪ F ) is a (λ, λ, μ)-good triple,
+(d) X is supported by Fins(G|B) modulo D .
+
+Proof. Our strategy is as follows. By inductively consuming functions from F , we build a par-
+tition of I using elements from Fins(G|B) which are either entirely inside or entirely outside the ﬁxed set X. The internal approximation at stage α we call Jα1, and the external approximation we call Jα0. Since X need not be supported by Fins(G|B) mod D, we must continually consume functions from F in order to “clarify the picture” at stage α in a larger ﬁlter Dα, where we can continue to construct the partition. We consume ﬁnitely many functions from F at each successor stage, and at limits take unions. We apply Fact 7.4 to show the construction will stop before λ+.
+When the induction stops, we have our desired partition (d), and this will complete the proof. More formally, we try to choose by induction on α < λ+ objects J0α, J1α, F α, Dα to satisfy:
+
+(1) (2)
+
+J1α A,
+
+⊆ A
+
+Fins(G|B), and ∈ J1α ⇒ A ∩ A
+
+J1α ⊆ X mod Dα, = ∅ mod Dα,
+
+(3) β < α ⇒ J1β ⊆ J1α,
+
+(4) (5)
+
+J0α A,
+
+⊆ A
+
+Fins(G|B), and ∈ J1α ⇒ A ∩ A
+
+J1α ⊆ I \ X mod Dα, = ∅ mod Dα,
+
+(6) β < α ⇒ J0β ⊆ J0α,
+
+(7) Dα is a ﬁlter extending D, with (I, Dα, (G|B) ∪ F α) a good triple,
+
+(8) β < α ⇒ Dβ ⊆ Dα,
+
+(9) for α limit, Dα = {Dβ : β < α},
+
+(10) F α ⊆ F , with β < α ⇒ F α ⊆ F β ,
+
+(11) for α limit, F α = {F β : β < α},
+
+(12) for α = β + 1, |F β \ F α| < ℵ0.
+
+For α = 0, let D0 = D, F0 = F . Choose J10, J00 maximal subject to the constraints (1)–(4). For α limit, deﬁne Dα in accordance with (9), F α in accordance with (11). Likewise, let J1α = {J1β : β < α} and let J0α = {J0β : β < α}. For successor stages, we distinguish between even (increase J0β ) and odd (increase J1β ). First consider α = β + 1. If both X \ J1β = ∅ mod Dβ and (I \ X) \ J0β = ∅ mod Dβ , then we satisfy (d) and ﬁnish. If X \ J1β = ∅ mod Dβ , we have ﬁnished the construction of J1 = J1β . So suppose X \ J1β = ∅ mod Dβ . Apply Observation 7.20 to ﬁnd sets Ah ∈ Fins(G|B) and Ah ∈ Fins(F ) so that
+(Ah ∩ Ai ) ⊆ X \ J1β mod D.
+
+276 M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+Keeping in mind the asymmetry between the roles of F and G in this proof, let F α = Fβ \ {dom h }, which satisﬁes (12) by deﬁnition of Fins(F). Now let Dα be the ﬁlter generated by Dβ ∪ {Ah }. Clearly this is a ﬁlter by condition (7)β , and by construction, (I, Dα, (G|B) ∪ F α) will satisfy (7)α. Finally, let J1α = J1β ∪ {Ah} and let J0α = J0β .
+The case α = β + 2 is parallel to the odd case but with J0β+1, J0α replacing J1β , J1α, and I \ X replacing X.
+Without loss of generality, let each Dα be maximal subject to the fact that (I, Dα, (G|B)∪F α) is a pre-good triple.
+Note that for each α λ+, CC(B(Dα)) λ+ by condition (7) and Fact 7.4, and moreover J0α ∪ J1α is a set of pairwise disjoint elements of B(Dα) with |J0α ∪ J1α| |α|. Thus the length of this construction is bounded below λ+. In other words, at some point α < λ+ both X \ J1β = ∅ mod Dα and (I \ X) \ J0β = ∅ mod Dα, and here we take D = Dα to ﬁnish the proof. 2
+To conclude this section, we show how to construct an excellent reﬁnement.
+Claim 7.22. Suppose (I, D, (G|B) ∪ F) is (λ, λ, μ)-good. Let f ∈ F , F = F \ {f }, and let A = Au: u ∈ [λ]<ℵ0 be a sequence of elements of P(I ) so that for each Au ∈ A and each Ah ∈ Fins (F ), Ah ∩ Au = ∅ mod D.
+Then there is a ﬁlter D ⊇ D and a sequence Bu: u ∈ [λ]<ℵ0 of elements of P(I ) satisfying Deﬁnition 4.6, namely:
+(1) for each u ∈ [λ]<ℵ0 , Bu ⊆ Au, (2) for each u ∈ [λ]<ℵ0 , Bu = Au mod D, (3) if u ∈ [λ]<ℵ0 and σ ∈ Λ = ΛD,A|u , so σ (A|P(u)) = ∅ mod D, then σ (B|P(u)) = ∅
+so that, moreover, (I, D , (G|B) ∪ F ) is (λ, λ, μ)-good.
+Proof. We proceed in stages.
+Step 1: The exceptional sets Y . Let u : < λ enumerate the ﬁnite subsets of λ. For each let
+Y = σ (A|P(u )): σ a Boolean term and σ (A|P(u )) = ∅ mod D . Then Y is a ﬁnite union of subsets of λ which are = ∅ mod D, hence Y = ∅ mod D.
+Step 2: The role of “below”. Suppose that σ (xP(u )) ∈ ΛD,A and v ⊆ u . Let A be the sequence given by Aw = Aw if w ⊆ v and Av = 0B otherwise. Then also σ (A |P(u )) ⊆ Y , by deﬁnition of Λ (as 0 is a constant of the language of Boolean algebras).
+Step 3: Deﬁning the ﬁlter. Now for u ∈ [λ]<ℵ0 deﬁne Bu = Au ∩ f −1( ) \ Y : < λ and u ⊆ u .
+Then Bu: u ∈ [λ]<ℵ0 is the proposed reﬁnement. Let D be the ﬁlter generated by D ∪ {Xu: u ∈ [λ]<ℵ0 } where
+Xu = I \ (Bu Au).
+
+M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+
+277
+
+Step 4: The ﬁlter is nontrivial and the triple is pre-good. Fix u = u . Then f −1( ) = f −1( ) \ Y mod D, so
+Bu ⊇ Au ∩ f −1( ) \ Y = ∅ mod D
+where “= ∅” holds by the hypothesis of independence, since f ∈ F . Likewise we assumed that any Ah ∈ Fins(F ), Au ∩ Ah = ∅ mod D. Recall F = F \ {f }. Since f ∈/ F , we therefore have
+Bu ⊇ Au ∩ Ah ∩ f −1( ) \ Y = ∅ mod D.
+Thus D is a ﬁlter. Now consider Ah ∈ Fins(G|B). There are two cases. If Au ∩ Ah ∩ Ah = ∅ mod D, then this intersection is contained in Bu mod D. Otherwise, Ah ∩Ah ⊆ (I \Au) mod D. In either case, Ah ∩ Ah does not nontrivially intersect (I \ (Au Bu)) mod D, and so remains nonempty mod D . This shows that (I, D , (G|B) ∪ F ) is pre-good triple.
+Step 5: The sequence B is excellent. Write B = Bu: u ∈ [λ]<ℵ0 . We have shown (1)–(2) from the statement of the claim. For condition (3), let u ∈ [λ]<ℵ0 and σ (xP(u)) ∈ Λ be given. Suppose for a contradiction that there were t ∈ σ (B|P(u)). Let t = f −1(t). Then Step 2 in the case v = u ∩ u t gives a contradiction.
+Step 6: A good triple. To ﬁnish, without loss of generality we may take D maximal subject to the condition that (I, D , (G|B) ∪ F ) is a pre-good triple. 2
+
+8. Existence
+In this section we prove that for any complete λ+-c.c. Boolean algebra B of cardinality 2λ there is a regular λ+-excellent ﬁlter D on λ so that B is isomorphic to P(λ)/D.
+Theorem 8.1 (Existence). Let μ λ and let B be a μ+-c.c. complete Boolean algebra of cardinality 2λ. Then there exists a regular excellent ﬁlter D on λ and a surjective homomorphism j : P(I ) → B = B2λ,μ so that D = j−1({1B}).
+Proof. We give the proof in several stages. Recall that we have identiﬁed the index set with λ.
+Stage 0: Preliminaries. We begin by choosing G, F , D1 so that |G| = |B|, |F| = 2λ, G is a family of functions from I onto 2, F is a family of functions from λ onto λ, and (I, D1, (G|B) ∪ F) is a (λ, λ, μ)-good Boolean triple, in the notation of Deﬁnition 7.16. Such triples exist by Corollary 7.18.
+
+Stage 1: Setting up the inductive construction. We now set up the construction of D, which we build by induction on α < 2λ. Recall that we will want to ensure that on the one hand, the ﬁnal
+ﬁlter D is excellent, and on the other that the quotient P(I )/D is exactly B. We address the issue of the quotient by enumerating P(λ) as Cα: α < 2λ and ensuring, at
+odd inductive steps, that the set Cβ under consideration has an appropriate image. This sufﬁces by Observation 7.19.
+In order to address all possible barriers to excellence, at even inductive steps, we will need
+an enumeration of all sequences B as in Deﬁnition 4.6. Say that x : Pℵ0 (λ) → Pℵ0 (γ∗) is an indexing sequence whenever
+
+u ∈ [λ]<ℵ0 ⇒
+
+x(i): i ∈ u = x(u).
+
+278 M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+Let xα: α < 2λ list all indexing sequences, each appearing 2λ times. Below, given u ∈ [λ]<ℵ0 , we will write e.g. “ax(P(u))” to indicate that the ﬁnite sequence of elements of B indexed by the image of the ﬁnite subsets of u under x.
+Now we choose D2,α, F α by induction on α 2λ so that:
+(1) D2,α is a ﬁlter on λ. (2) β < α < 2λ ⇒ D2,β ⊆ D2,α, and α limit implies D2,α = β<α D2,β . (3) F α ⊆ F , |F α| = 2λ, and β < α ⇒ F β ⊇ F α. (4) If h ∈ Fin(F α) and γ < γ∗ then Ah ∩ Bγ = ∅ mod D2,α. (5) (I, Dα, (G|B) ∪ F α) is (λ, λ, μ)-good. (6) If α = 2β + 1, then for some γ < γ∗, Cβ = Bγ mod D2,α. (7) If α = 2β + 2, if for each u ∈ [λ]<ℵ0 and Boolean term σ = σ (xP(u)) we have that
+B | “σ (bx(P(u))) = 0” ⇒ σ (Bx(P(u))) = ∅ mod D2,2β+1, then we can ﬁnd Bα = Buα: u ∈ [λ]<ℵ0 satisfying Deﬁnition 4.6.
+For α = 0 this is trivial: let D2,α = D1, F α = F . For α limit let D2,α = {D2,β : β < α}, F α = {F β : β < α}. For α successor, we distinguish between even and odd.
+Stage 2: Odd successor steps. For α = 2β + 1 we address (5) for the given Cβ . If Cβ = ∅ mod D2,2β , let D2,α = D2,2β and ﬁnish. Otherwise, apply Lemma 7.21 above in the case where D = D2,2β , F = F 2β , X = Cβ . Then let D2,2β+1 be the ﬁlter D and let F 2β+1 be the family F returned by that lemma. Without loss of generality, let D2,2β+1 be maximal subject to the condition that (G|B) ∪ F remain independent. Note that conditions (3), (4), (5) are guaranteed by the statement of Lemma 7.21.
+Stage 3: Even successor steps. For α = 2β + 2 we address condition (6). Suppose then that we are given an indexing function x = xα and a corresponding sequence Bx(u): u ∈ [λ]<ℵ0 of elements of P(I ). If the “if ” clause in condition (4) fails, let D2,α = D2,2β+1, and see the bookkeeping remark in the next step. Otherwise, ﬁx f∗ ∈ F 2β+1 and apply Claim 7.22 above in the case D = D2,2β+1, F = F 2β+1, F 2β+1 \ {f∗} and Au: u ∈ [λ]<ℵ0 = Bx(u): u ∈ [λ]<ℵ0 . To complete Stage 3, let Dα be the ﬁlter D returned by Claim 7.22, and let F α = F 2β+1 \ {f∗}. As in Stage 2, the inductive conditions are guaranteed by the statement of that claim.
+Stage X: A remark on bookkeeping. Note that once all the elements of the sequence Bx(u): u ∈ [λ]<ℵ0 have appeared as elements Cβ in the enumeration at odd successor steps, condition (4) will be satisﬁed by deﬁnition of (I, D, (G|B) ∪ F)-good triple. Likewise, since each indexing function (and therefore each potential sequence B) occurs coﬁnally often in our master enumeration, and the coﬁnality of the construction is greater than λ, we are justiﬁed in Claim 7.22 in only adjusting for those instances of Boolean terms which the ﬁlter already considers to be small.
+Stage 4: Finishing the proof. Since there is no trouble in carrying out the induction, we ﬁnish by letting D = D2,2λ = {D2,α: α < 2λ}. This completes the proof. 2
+Discussion 8.2. What is the effect of Section 5 on Theorem 8.1? For the purposes of the main Theorem 12.1 of the present paper, Theorem 5.2 means we could substitute “regular good ﬁlter”
+
+M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+
+279
+
+for “regular excellent ﬁlter” in Theorem 8.1 above. Then the even steps of the proof could be replaced by the adding of multiplicative reﬁnements as in Kunen’s proof of the existence of good ultraﬁlters [9]. However, it is essential that we also be able to specify the quotient Boolean algebra, as guaranteed by the odd steps. Beyond the results of the current paper, we believe that excellence is sufﬁciently interesting in its own right to justify carrying out the proof of Theorem 8.1 in this language.
+9. On ﬂexibility
+In this section we give the necessary background for the non-saturation claim in our main theorem. That is, we leverage our prior work to show that once we have built a ﬁlter D on λ so that P(I )/D has the μ+-c.c. for μ < λ, no ultraﬁlter extending D will saturate any non-simple or non-low theory. (That is, provided it is built by the method of independent families of functions – if an appeal to complete ultraﬁlters is made, the situation changes, see e.g. Malliaris and Shelah [16, Remark 4.2].)
+The main deﬁnition in this section is ﬂexible ﬁlter, due to Malliaris [10]. Roughly speaking, the deﬁnition assigns a natural size to any given regularizing family and asks that a ﬂexible ﬁlter have regularizing families of arbitrarily small nonstandard size.
+Deﬁnition 9.1 (Flexible ﬁlters). (See [10].) Let D be a regular ﬁlter on I , |I | = λ ℵ0, and let X = Xi: i < μ be a μ-regularizing family for D. Say that an element n∗ ∈ I N is D-nonstandard if for each n ∈ N, {t ∈ I : (N, <) | n∗[t] > n} ∈ D.
+Deﬁne the size of X, σX to be the element of I N deﬁned by
+σX[t] = {i < μ: t ∈ Xi} for each t ∈ I. Say that D is μ-ﬂexible if for every D-nonstandard element n∗ there is a μ-regularizing family X ⊆ D so that σX n∗ mod D. Otherwise, say that D is μ-inﬂexible (or simply: not μ-ﬂexible). When μ = λ, we will often omit it.
+For more on ﬂexibility, see Malliaris [13] and recent work of Malliaris and Shelah [15,16], where it is shown that ﬂexible is consistently weaker than good.
+Malliaris [10] had shown that ﬂexibility is detected by non-low theories, that is:
+Fact 9.2. (See Malliaris [10, Lemma 1.21].) Let T be non-low, let M | T and suppose that D is a λ-regular ultraﬁlter on I , |I | = λ which is not ﬂexible. Then MI /D is not λ+-saturated.
+By a dichotomy theorem of Shelah, any non-simple theory will have either the tree property of the ﬁrst kind (TP1, or equivalently SOP2) or else of the second kind (TP2). A consequence of Malliaris’ proof of the existence of a Keisler-minimum TP2 theory in [13] is that:
+Fact 9.3. (See Malliaris [13, Lemma 8.8].) Let D be a regular ultraﬁlter on λ. If D saturates some theory with TP2 then D must be ﬂexible.
+A consequence of recent work of Malliaris and Shelah on ultrapowers realizing SOP2-types is a complementary result.
+Fact 9.4. (Rewording of Malliaris and Shelah [17, Claim 3.11] for the level of theories.) Let D be a regular ultraﬁlter on λ. If D saturates some theory with SOP2 then D must be ﬂexible.
+
+280 M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+Combining these three facts we obtain:
+Conclusion 9.5. Let D be a regular ultraﬁlter on λ and suppose D is not ﬂexible. Let T be a theory which is either non-low or non-simple, or both. Then Mλ/D is not λ+-saturated.
+Remark 9.6. (See [15, Observation 10.9].) D is λ-ﬂexible if and only if whenever f : Pℵ0 (λ) → D is so that (u, v ∈ Pℵ0 (λ)) ∧ (|u| = |v|) ⇒ f (v) = f (u) then f has a multiplicative reﬁnement.
+The remaining ingredient is a theorem of Shelah which was stated as a constraint on goodness. However, the proof proceeds by deﬁning countably many elements An: n < ω of D∗, and showing that the function g : Pℵ0 (μ) → D∗ given by g(s) = A|s| does not have a multiplicative reﬁnement. Since this function is uniform in the cardinality of s, the proof shows, albeit anachronistically, a failure of ﬂexibility.
+Fact 9.7. (See Shelah [20, Claim VI.3.23, p. 364].) Let D be a maximal ﬁlter modulo which G is independent, κ = CC(B(D)), for inﬁnitely many g ∈ G |Range(g)| > 1 and D∗ ⊇ D an ultraﬁlter built by the method of independent families of functions. Then D∗ is not κ+-good. [More precisely, D∗ is not κ-ﬂexible.]
+Observation 9.8. Let μ < λ and let D be a regular λ+-excellent ﬁlter on λ given by Theorem 8.1 in the case where j(P(I )) = B = B2λ,μ. Then B(D) has the μ+-c.c.
+Proof. Clearly B2λ,μ has the μ+-c.c. By deﬁnition of j, whenever Ai: i < κ is a maximal disjoint set of nonzero elements of B(D) := P(I )/D, we have j(Ai) = 0B, j(Ai ) ∩ j(Aj ) = 0B for each i < j < κ and thus j(Ai): i < κ is a pairwise disjoint set of nonzero elements in B. 2
+Corollary 9.9. Let μ < λ and let D be a regular λ+-excellent ﬁlter on λ given by Theorem 8.1 in the case where j(P(I )) = B2λ,μ. Then no ultraﬁlter extending D built by the method of independent functions is λ-ﬂexible.
+Proof. The translation is direct using Observation 9.8. For completeness, we justify compliance with the word “maximal” in Fact 9.7. In the language of Theorem 8.1, the ﬁlter D is built as the union of an increasing sequence of ﬁlters Dα, α < 2λ. For each α, (I, Dα, (G|B) ∪ F α) is a good triple, and F 2λ = ∅. Thus, by Fact 7.7, D is maximal modulo which G|B remains independent. But by construction, G|B is isomorphic to B and thus to an independent family G of 2λ functions each with domain λ (or I ) and range μ. Letting G stand for G in the statement of Fact 9.7 sufﬁces. 2
+Conclusion 9.10. Let μ < λ and let D be the regular λ+-excellent ﬁlter on λ given by Theorem 8.1 in the case where j(P(I )) = B2λ,μ. Let D∗ ⊇ D be any ultraﬁlter constructed by the method of independent families of functions. Then Mλ/D∗ is not λ+-saturated whenever Th(M) is non-simple or non-low.
+Proof. By Corollary 9.9 and Conclusion 9.5. 2
+
+M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+
+281
+
+10. Lemmas for morality
+Section 9 gave non-saturation by a cardinality argument (small c.c.). By Theorem 6.13, this shifts the burden of saturation onto “morality” of an ultraﬁlter on B. Thus, in the next few sections of the paper, our aim is to show that there is an ultraﬁlter on B = B2λ,μ, Deﬁnition 7.8, which is moral for Trg, the theory of the random graph. However, we build a somewhat more general theory.
+The key inductive step in constructing that ultraﬁlter will be to ﬁnd a multiplicative reﬁnement for each possibility pattern. We do this essentially in two stages. First, in this section and the next we show that each such possibility pattern can be covered by μ approximations each of which has a multiplicative reﬁnement. Second, we leverage these μ approximations to produce a multiplicative reﬁnement for the original pattern.
+We ﬁrst state several results which indicate in what sense the random graph can be seen as “easier to saturate” than theories with more dividing.
+Theorem D. (See Engelking and Karłowicz [5, Theorem 8, p. 284].) Let μ ℵ0. The Cartesian product of not more than 2μ topological spaces each of which contains a dense subset of power
+μ contains a dense subset of power μ.
+Proof (Sketch). Reduce to the case of identifying the dense subsets of the factors with discrete spaces on (at most) μ elements. Theorem C above guarantees the existence of an independent family F ⊆ μμ with |F| = 2μ. Index the Cartesian product X by (a subset of ) elements of this family, so X = f ∈F Xf and let the function ρ : μ → X be given by η → f ∈F f (η). Then the condition that F is independent says precisely that the image of ρ is dense in the product topology. 2
+Note that the importance of “μ ℵ0” in Theorem D is for Theorem C and for the conclusion; in particular, there is no problem if the dense subsets of the factors are ﬁnite. Recall that Trg is the theory of the random graph in the language {=, R}.
+Fact 10.1. If μ < λ 2μ, A ⊆ CTrg , |A| λ, then for some B CTrg , |B| = μ we have that every nonalgebraic p ∈ S(A) is ﬁnitely realized in B.
+Proof. By quantiﬁer elimination, it sufﬁces to consider = {xRy, ¬xRy}. Write the Stone space S (A) of nonalgebraic types as the product of λ-many discrete 2-element Stone spaces S ({a}) and apply the previous theorem. The dense family of size μ given by the theorem is, in our context, a family of types, and since the monster model is λ+-saturated, we can realize each of them. Call the resulting set of realizations B. The hypothesis of density means precisely that each nonalgebraic type in S(A) is ﬁnitely realized in B. 2
+The next few facts simply restate these proofs in a different language.
+Fact 10.2. If μ < λ 2μ, we can ﬁnd a set A ⊂ B = {β: β ∈ λ2} so that |A| μ and A is dense in B in the Tychonoff topology.
+Fact 10.3. Let μ < λ 2μ, B = B2λ,μ. Let B0 ⊆ B = B2λ,μ be a Boolean subalgebra generated by λ independent partitions of B, see Deﬁnition 7.12 above, and let B1 be its completion in B. Then B1 can be written as the union of μ ultraﬁlters.
+
+282 M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+Observation 10.4. Let μ < λ 2μ. Let B = B2λ,μ or B = P(I )/D where (I, D, G) is (λ, μ)-good. Let au: u ∈ [λ]<ℵ0 ⊆ B \ {0B} be a sequence of elements of B \ {0B}. Then there are a complete subalgebra B1 of B and a sequence {E : < μ} of ultraﬁlters of B1 so that
+• for each u ∈ [λ]<ℵ0 , au is supported by B1, i.e. it is based on some partition of B1, • B1 \ {0B} can be written as the union of these μ ultraﬁlters.
+In particular, for each u ∈ [λ]<ℵ0 there is < μ so that au ∈ E .
+Proof. By Observation 7.13 and Fact 10.3. 2
+Deﬁnition 10.5 (The key approximation property).
+(Qr0) Let Qr0(T , ϕ, λ, μ) mean: T is a complete countable ﬁrst-order theory, ϕ is a formula in the language of T , and λ > μ + |T |.
+(Qr1) Let Qr1(T , ϕ, λ, μ) mean: Qr0(T , ϕ, λ, μ) and in addition if (A) then (B), where: (A) Given (i) B = B2λ,μ as in Deﬁnition 7.8, (ii) D∗ is an ultraﬁlter on B, (iii) a = au: u ∈ [λ]<ℵ0 is a (λ, B, T , ϕ)-possibility with u ∈ [λ]<ℵ0 ⇒ au ∈ D∗. (B) We can ﬁnd U : < μ and bu, : u ∈ [U ]<ℵ0 , < μ so that: (i) < μ ⇒ U ⊆ λ, and {U : < μ} = λ, (ii) bu, : u ∈ [U ]<ℵ0 is a multiplicative reﬁnement of a|[U ]<ℵ0 , with each bu, ∈ B \ {0B}, (iii) if b ∈ D∗ and u ∈ [λ]<ℵ0 then for some < μ we have bu, ∧ b > 0. We write Qr1(T , λ, μ) to mean that Qr1(T , ϕ, λ, μ) for all ϕ in some critical set CT of formulas for T , or alternately for some critical set of possibility patterns, Deﬁnition 6.14.
+Observation 10.6. Suppose that:
+(1) D is a regular, λ+-excellent ﬁlter on I , (2) D1 is an ultraﬁlter on I extending D, (3) B = B2λ,μ is a Boolean algebra, (4) j : P(I ) → B is a surjective homomorphism with D = j−1({1B}), (5) ϕ = ϕ(x, y) is a formula of T , (6) D∗ = {b ∈ B: if j(A) = b then A ∈ D1}.
+If (A) then (B) where:
+(A) Qr1(T , ϕ, λ, μ) holds in the case where B in Deﬁnition 10.5 is replaced by the quotient Boolean algebra P(I )/D,
+(B) Qr1(T , ϕ, λ, μ).
+Proof. By the Transfer Lemma 6.12. 2
+Observation 10.7. The set {ϕ(x; y, z, w) = (z = w ⇒ xRy) ∧ (z = w ⇒ ¬xRy)} is a critical set of formulas for the theory of the random graph. Moreover, consistency of any set S of instances of ϕ follows from consistency of all 2-element subsets of S.
+
+M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+
+283
+
+Proof. By quantiﬁer elimination, since all algebraic types will be automatically realized in regular ultrapowers. 2
+Convention 10.8. We will informally write instances of the formula from Observation 10.7 as ϕ(x; a, t) where t ∈ {0, 1} is the truth value of z = w.
+Lemma 10.9. Let T be the theory of the random graph and ϕ the formula from Observation 10.7. Then Qr1(T , ϕ, λ, μ), thus Qr1(T , λ, μ).
+Proof. Let D∗ be an ultraﬁlter on B and let a = au: u ∈ [λ]<ℵ0 be a (λ, B, T , ϕ)-possibility satisfying (A) of Deﬁnition 10.5.
+It will sufﬁce to prove Observation 10.6(A), thus we work in that setting, i.e. a reduced product where D is an excellent ﬁlter on I and P(I ) admits a homomorphism j to B with j−1({1B}) = D. Let M be a ﬁxed model of the random graph. By the Transfer Theorem, we may associate to a the (weak) distribution of a nonalgebraic type
+p = ϕ(x; ai, ti): i < λ
+so that the elements ai belong to I M and ti ∈ {0, 1}. We will give a series of deﬁnitions and assertions.
+Step 0: A supporting subalgebra. Apply Observation 10.4 to choose a complete subalgebra B1 of B and E : < μ a covering sequence of ultraﬁlters. In what follows, we denote by X(B1) the set {xα, : α < λ, < μ} of generators of B1. Note that each element of a is supported on a partition whose elements are ﬁnite intersections of elements of X(B1).
+Denote by Y (B1) the set of nonempty ﬁnite intersections of elements of X(B1), where “y is nonempty” means B | “y = 0”. This set is the direct analogue of Fins(G) in the case where functions gα ∈ G correspond to {xα, : < μ}.
+Step 1: The collision function F . For each < μ, deﬁne a partial function F from λ to λ as follows. Let F (i) = j if there is some ch ∈ Y (B1) which witnesses this, which means:
+(α) ch ∈ E , (β) B | “{s ∈ I : ai[s] = aj [s]} ch”, (γ ) if j1 < j then B | “{s ∈ I : ai[s] = aj1 [s]} ∧ ch = 0”.
+Note that in condition (β) we may ask that “a{i} ∧a{j} ∧{s ∈ I : ai[s] = aj [s]} ch”. However this is redundant here as a is a possibility pattern for the random graph, i.e. by choice of ϕ, B | “au = 1” whenever |u| = 1.
+Note also that for any and i there is at most one such j . (If not, let j1, ch1 and j2, ch2 be two distinct values given with their associated witness sets, and notice that ch1 ∧ ch2 witnesses both as E is a ﬁlter, contradicting (γ ) by the linear ordering of λ.) Furthermore, F (i) i.
+For the remainder of the argument, let ch ,i witness F (i) = j .
+Step 2: ‘Injectivity’ of F . If i1 = i2 are from dom(F ) and j1 = F (i1), j2 = F (i2) then
+B | s ∈ I : ai1 [s] = ai2 [s] ∧ (ch ,i1 ∧ ch ,i2 ) = 0.
+
+284 M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+
+of
+
+If not, let i. (If j1 =
+
+j = min{j1, j2}; then j j2, then ch ,i1 ∧ ch ,i2 ∈
+
+,Echc,oi1nt∧racdhic,it2s
+
+contradicts Step i1 = i2 mod E .)
+
+1
+
+for
+
+one
+
+of
+
+the
+
+two
+
+values
+
+Step 3: The family of approximations, before re-indexing. Let
+
+U ,ζ = i < λ: i ∈ dom(F ) and ti = fζ F (i) .
+Roughly speaking, we choose only the formulas ϕ(x; ai)ti in the type whose parameter ai collides modulo E (as recorded by F ) with an element whose instance in the type has the same exponent (when ﬁltered through fζ , an element of the dense family of functions).
+In Step 6 we will re-index the double subscript ( , ζ ) but for now it is a little more transparent to leave it as a pair. Note that neither E nor any of the sets ch ,i depend on ζ .
+
+Step 4: The multiplicative reﬁnements. For each U ,ζ from Step 3, and u ∈ [U ,ζ ]<ℵ0 , let b ,u = i∈u ch ,i . Let us verify that
+b ,u: u ∈ [U ,ζ ]<ℵ0
+is indeed a multiplicative reﬁnement of a|[U ,ζ ]<ℵ0 . Since all of the h ,i are from Y (B1) and h ,i ∈ E , none of these intersections is empty mod D
+(in fact, they belong to E ) and the assignment is multiplicative. Let us verify that it reﬁnes the original sequence. By Observation 10.7, it sufﬁces to check |u| 2. The case |u| = 1 follows by Step 1. Suppose then that u = {i, j }. By Step 2 and the choice of U ,ζ , whenever u ∈ [U ,ζ ]<ℵ0 we have that
+
+B | “bu, ∧ s ∈ I : ai[s] = aj [s], ti = tj = 0”.
+By choice of ϕ and the fact that a is a possibility pattern, it must be that B | “bu, desired. (That is, inconsistency in the random graph can only arise from equality.)
+
+au” as
+
+Step 5: Covering the type. In this step we show that the sequence of approximations covers the type, i.e.
+
+[λ]<ℵ0 = [U ,ζ ]<ℵ0 : < μ, ζ < μ .
+
+Let u ∈ [λ]<ℵ0 be given, and let {i : 0 < n} list u.
+
+Informally, we ﬁnd a set on which the given n-tuple is distinct and on which the collision
+
+function is well deﬁned. This set will belong to some E by Observation 10.4, and by construction
+
+its image under F is as desired. We then need to choose ζ corresponding to the correct pattern
+
+of positive and negative instances, which we can do by Fact 10.2.
+
+More formally, let xu = {s : 0< <k<n ai [s] = aik [s]} be the set on which all parameters are distinct, and note that xu ∈ D∗, so in particular is not 0B. Choose yh ∈ Y (B1), j ∈ λ by
+
+induction on , 1
+
+n as follows:
+
+• Choose h0 so that yh0 ⊆ xu mod D. • For = m + 1 n, choose yh , j so that yh yhm and
+s: aim [s] = ajm [s] xh and for no j < j is s: aim [s] = aj [s] ∧ xh = 0B.
+Let < μ be so that yhn ∈ E (which we can do by the choice of E : < μ ). Note that yhn witnesses F (i ) = j for 0 < n. Also, by choice of yh0 , we have that on yhn , j : 0 < n
+
+M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+
+285
+
+has no repetitions. So as we chose the sequence of functions fζ : ζ < μ to be dense, there is ζ < μ so that
+fζ (j ) = ti .
+0< n
+Now U ,ζ is as required.
+Step 6: Re-indexing. For notational alignment with Deﬁnition 10.5, re-index this family of triples by < μ.
+Step 7: Largeness. Finally, we verify that if b∗ ∈ D∗ and u ∈ [λ]<ℵ0 then for some < μ we have bu, ∧ b∗ > 0.
+Note that au and b∗ both belong to D∗. As B1 supports a and D∗ is an ultraﬁlter on B1, we may ﬁnd x so that B1 | “0 < x (au ∧ b∗)”. Since the sequence E : < μ was chosen to cover B1 \ 0B, choose ∗ < μ so that x ∈ E ∗ . Note that we may choose ∗ so that in addition, u ⊆ U (since the re-indexing in Step 6 amounted to absorbing the additional parameter ζ ). Then bu, is nonzero and intersects x, as they are both members of E . This completes the proof. 2
+Discussion 10.10. Two properties of the random graph which make this proof more transparent are ﬁrst, that the question of whether a given distribution is consistent relies only on the pattern of incidence in the parameters, and second, this pattern does not admit too many inconsistencies (dividing, or long chains in the Boolean algebra) as described in Fact 10.1 and its translation 10.2.
+The class of theories in which consistency of distribution relies only on incidence is quite rich. They were studied and classiﬁed in Malliaris [14], where it was shown that any such theory is dominated in the sense of Keisler’s order either by the empty theory, by the random graph or by the minimum TP2 theory, i.e. the model completion Tf∗eq of a parametrized family of crosscutting equivalence relations. (Such theories have intrinsic interest, corresponding naturally to independence properties, and to assertions about second-order structure on ultrapowers; in fact, the classiﬁcation applied the second author’s proof that there are only four second-order quantiﬁers.) It is clear from this result why “consistency of distribution relies only on incidence” is not enough to guarantee that the proof of Lemma 10.9 goes through. In particular, the minimum TP2 theory would allow us to carry out the part of the proof of Lemma 10.9 which had to do with distributing elements so their collisions are controlled by the functions F , but Fact 10.1 would no longer apply due to the amount of dividing, and the corresponding functions of Fact 10.2 would thus need a larger domain (larger than μ) to properly code all possible types. Since any ultraﬁlter which saturates the minimum TP2 theory Tf∗eq is ﬂexible, as discussed in Section 2, the main theorem of this paper shows that the distinction between the random graph-dominated theories and the Tfeq-dominated theories is indeed sharp.
+11. The moral ultraﬁlter
+In this section we construct an ultraﬁlter D∗ on B2λ,μ which is moral for any Qr1 theory, and in particular for the theory of the random graph. Note that the random graph is minimum in Keisler’s order among the unstable theories, see [15, §4].
+Theorem 11.1. Suppose μ < λ 2μ and let B = B2λ,μ. Then there is an ultraﬁlter D∗ on B which is moral for all countable theories T so that Qr1(T , λ, μ). In particular, D∗ is moral for all countable stable theories and for the theory of the random graph.
+
+286 M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+Proof. We ﬁrst prove the “in particular” clause. Any such ultraﬁlter D∗ will be moral for the random graph by Lemma 10.9 above. Moreover, any unstable theory (so in particular the random graph) is strictly above the stable theories in Keisler’s order, see [20, Theorem VI.0.3, p. 323]. Thus by Theorem 6.13, any D∗ moral for the random graph must be moral for countable stable theories as well.
+In the remainder of the proof, we construct the ultraﬁlter D∗.
+Step 1: Setup for inductive construction of D∗. We now build the ultraﬁlter D∗. Enumerate the generators of B as xα, : α < 2λ, < μ in the notation of Deﬁnition 7.8. Let aα: α < 2λ be an enumeration of all relevant (λ, B, T )-possibilities, with each possibility occurring 2λ-many times. [On counting: Note that there are, up to renaming of symbols, at most continuum many complete countable theories, so at most continuum many theories so that Qr1(T , λ, μ). Moreover, since we may identify the possibility patterns with sequences from Pℵ0 (λ) into B, |B| = 2λ there are no more than 2λ patterns for each theory.]
+We build by induction on α < 2λ a continuous increasing sequence of ﬁlters Dα of B and a continuous decreasing sequence of independent partitions Gα satisfying the following conditions.
+(1) β < α < 2λ implies Dβ ⊆ Dα are ﬁlters on B, (2) α limit implies Dα = {Dβ : β < α}, (3) β < α < 2λ implies Gα ⊆ Gβ ⊆ G, (4) α < 2λ implies |Gα| = 2λ, (5) α limit implies Gα = {Gβ : β < α}, (6) α = β + 1 implies that if aβ is a sequence of elements of Dβ then there is a multiplicative
+reﬁnement b of aβ consisting of elements of Dα, (7) α < 2λ implies that (B, Dα, Gα) is a (2λ, μ)-good Boolean triple, (8) D∗ = D2λ = {Dα: α < 2λ}.
+For the case α = 0, let D0 = {1B}, G = {{xα, : < μ}: α < 2λ} be the set of generators of B from Deﬁnition 7.8.
+The limit cases are uniquely determined by the inductive hypotheses (2), (8), and consistent by (the direct translation of ) Fact 7.7 above.
+Step 2: The successor stage. Thus the only nontrivial point is the case α = β + 1. Let aβ be given, and suppose that u ∈ [λ]<ℵ0 ⇒ au ∈ Dβ ; if not, choose Dα to satisfy condition (4) and continue to the next step.
+Noting that we have assumed u ∈ [λ]<ℵ0 ⇒ au ∈ Dβ , let D∗ ⊇ Dβ be any ultraﬁlter on B (thus on Bβ ). Then we may apply Deﬁnition 10.5(A) with a, D∗, and Bβ in place of B.
+Let U : < μ and bu, : u ∈ [U ]<ℵ0 , < μ be the objects returned by Deﬁnition 10.5(B). By Deﬁnition 10.5(B)(ii), for each < μ and u ∈ [U ]<ℵ0 , we have that bu, ∈ D+, i.e. = ∅ mod D.
+Let Wβ = {au: u ∈ [λ]<ℵ0 } ∪ {bu, : u ∈ [U ]<ℵ0 , < μ}. Since these are all D-nonempty sets, apply Observation 7.13 to obtain G ⊆ Gβ so that |G | λ and each element of Wβ is supported in Fins(G ).
+Let gγ = {xγ, : < μ} be any element of Gβ \ G . Let Gα = Gβ \ (G ∪ {g}). Now we deﬁne the proposed multiplicative reﬁnement. For each u ∈ [λ]<ℵ0 , deﬁne
+bu = {xγ, ∩ bu, : < μ}.
+
+M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+
+287
+
+Let b = bu: u ∈ [λ]<ℵ0 . We verify that it is multiplicative:
+bu ∩ bv = {xγ, ∩ bu, : < μ} ∩ {xγ, ∩ bv, : < μ}
+= xγ, ∩ (bu, ∩ bv, ): < μ as each approximation is multiplicative
+= xγ, ∩ (bu∪v, ) = bu∪v. We now show these sets generate a ﬁlter which retains enough independence to satisfy (7). Let u ∈ [λ]<ℵ0 be given. Since bu: u ∈ [λ]<ℵ0 is monotonic, and since, as remarked above, each bu = ∅ mod Dβ , the set Dβ ∪ {bu: u ∈ [λ]<ℵ0 } generates a ﬁlter which we call Dα. Let Ah ∈ Fins(Gα). By choice of G , there is a nonzero Ah ∈ Fins(G ) so that B | “Ah bu, ”. By the inductive hypothesis of independence (7), since G , {gγ }, Gα have pairwise empty intersection,
+B | “bu, ⊇ Ah ∩ Ah ∩ xγ, = 0”. We have shown that (B, Dα, Gα) is a pre-good Boolean triple. Without loss of generality, extend Dα to a ﬁlter Dα so that (B, Dα, Gα) is a good Boolean triple. This completes the successor stage.
+Step 3: Finish. Note that D∗ will be an ultraﬁlter, and likewise G2λ will be empty by Fact 7.7, as explained at the beginning of this section. This completes the proof. 2
+12. The dividing line
+Theorem 12.1. Let μ < λ 2μ. Then there is a regular ultraﬁlter D on λ so that:
+(1) for any countable theory T so that Qr1(λ, μ, T ) and M | T , Mλ/D is λ+-saturated, (2) in particular, when T is stable or T is the theory of the random graph, Mλ/D is
+λ+-saturated, (3) for any non-low or non-simple theory T and M | T , Mλ/D is not λ+-saturated.
+Thus there is a dividing line in Keisler’s order among the simple unstable theories.
+Proof. By Theorem 6.13, the construction problem separates into a problem of excellence and a problem of morality.
+By Theorem 8.1 there is a λ-regular, λ+-excellent ﬁlter D0 on λ which admits a surjective homomorphism j : P(I ) → B = B2λ,μ so that D0 = j−1({1B}).
+By Theorem 11.1 there is an ultraﬁlter D∗ on B2λ,μ which is moral for any countable theory T so that Qr1(T , λ, μ).
+Now let D be {j−1(b): b ∈ D∗}. Then D is an ultraﬁlter and is regular as it extends D0. D satisﬁes conditions (1) and (2) by Theorems 11.1 and 6.13, and D satisﬁes condition (3) by Conclusion 9.10. This completes the proof. 2
+Acknowledgments
+We are grateful to the anonymous referees for a thorough and thoughtful reading of the paper, and many comments which improved the presentation of results.
+
+288 M. Malliaris, S. Shelah / Advances in Mathematics 249 (2013) 250–288
+References
+[1] S. Buechler, Lascar strong types in some simple theories, J. Symbolic Logic 64 (2) (1999) 817–824. [2] E. Casanovas, B. Kim, A supersimple nonlow theory, Notre Dame J. Form. Log. 39 (4) (1998) 507–518. [3] C.C. Chang, H.J. Keisler, Model Theory, North-Holland, 1973. [4] M. Džamonja, S. Shelah, On ∗-maximality, Ann. Pure Appl. Logic 125 (2004) 119–158. [5] R. Engelking, M. Karłowicz, Some theorems of set theory and their topological consequences, Fund. Math. 57
+(1965) 275–285. [6] R. Grossberg, J. Iovino, O. Lessmann, A primer of simple theories, Arch. Math. Logic 41 (6) (2002) 541–580. [7] H.J. Keisler, Good ideals in ﬁelds of sets, Ann. of Math. (2) 79 (1964) 338–359. [8] H.J. Keisler, Ultraproducts which are not saturated, J. Symbolic Logic 32 (1967) 23–46. [9] K. Kunen, Ultraﬁlters and independent sets, Trans. Amer. Math. Soc. 172 (1972) 299–306. [10] M. Malliaris, PhD thesis, University of California, Berkeley, 2009. [11] M. Malliaris, Realization of ϕ-types and Keisler’s order, Ann. Pure Appl. Logic 157 (2–3) (2009) 220–224. [12] M. Malliaris, The characteristic sequence of a ﬁrst-order formula, J. Symbolic Logic 75 (4) (2010) 1415–1440. [13] M. Malliaris, Hypergraph sequences as a tool for saturation of ultrapowers, J. Symbolic Logic 77 (1) (2012)
+195–223. [14] M. Malliaris, Independence, order and the interaction of ultraﬁlters and theories, Ann. Pure Appl. Logic 163 (11)
+(2012) 1580–1595. [15] M. Malliaris, S. Shelah, Constructing regular ultraﬁlters from a model-theoretic point of view, arXiv:1204.1481. [16] M. Malliaris, S. Shelah, Model-theoretic properties of ultraﬁlters built by independent families of functions, arXiv:
+1208.2579. [17] M. Malliaris, S. Shelah, Coﬁnality spectrum problems in model theory, set theory and general topology, arXiv:
+1208.5424. [18] S. Shelah, Classiﬁcation Theory, North-Holland, 1978. [19] S. Shelah, Simple unstable theories, Ann. Math. Logic 19 (1980) 177–203. [20] S. Shelah, Classiﬁcation Theory and the Number of Non-Isomorphic Models, revised ed., North-Holland, 1990. [21] S. Shelah, Toward classifying unstable theories, Ann. Pure Appl. Logic 80 (1996) 229–255. [22] S. Shelah, A. Usvyatsov, More on SOP1 and SOP2, Ann. Pure Appl. Logic 155 (1) (2008) 16–31.
+
+

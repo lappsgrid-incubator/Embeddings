@@ -1,0 +1,540 @@
+Geodesy and Geodynamics 8 (2017) 147e154
+Contents lists available at ScienceDirect
+Geodesy and Geodynamics
+journal homepages: www.keaipublishing.com/en/journals/geog; http://www.jgg09.com/jweb_ddcl_en/EN/volumn/home.shtml
+
+Lithosphere density structure beneath the eastern margin of the Tibetan Plateau and its surrounding areas derived from GOCE gradients data
+Honglei Li a, b, Jian Fang a, *, Carla Braitenberg c
+a State Key Laboratory of Geodesy and Earth's Dynamics, Institute of Geodesy and Geophysics, Chinese Academy of Sciences, Wuhan 430077, China b University of Chinese Academy of Sciences, No. 19A Yuquan Road, Beijing 100049, China c Department of Mathematics and Geosciences, University of Trieste, Trieste, Italy
+
+article info
+Article history: Received 30 April 2016 Accepted 24 February 2017 Available online 8 March 2017
+Keywords: Eastern Tibet Plateau Gravity gradient inversion Least square Density construction
+
+abstract
+A three-dimensional density model of the crust and uppermost mantle is determined by the inversion of a set of GOCE gravity and gradients residual anomalies beneath the eastern margin of the Tibetan Plateau and its surrounding areas. In our work, we choose ﬁve independent gravity gradients (Txx, Tzz, Txy, Txz, Tyz) to perform density inversion. Objective function is given based on Tikhonov regularization theory. Seismic S-wave velocities play the role of initial constraint for the inversion based on a relationship between density and S-wave velocity. Damped Least Square method is used during the inversion. The ﬁnal density results offer some insights into understanding the underlying geodynamic processes: (1) Low densities in the margin of the Tibet, along with low wave velocity and resistivity results, yield conversions from soft and weak Tibet to the hard and rigid cratons. (2)The lowest densities are found in the boundary of the plateau, instead of the whole Tibet indicates that the effects of extrusion stress environment in the margin affect the changes of the substance there. The substances and environments conditioning for the earthquake preparations and strong deformation in this transitional zone. (3) Evident low-D anomaly in the upper and middle crust in the Lasha terrane and Songpan-Ganzi terrane illustrated the eastward sub-ducted of southeastern Tibet, which could be accounts for the frequent volcano and earthquakes there. © 2017 Institute of Seismology, China Earthquake Administration, etc. Production and hosting by Elsevier B.V. on behalf of KeAi Communications Co., Ltd. This is an open access article under the CC BY-NC-ND
+license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+1. Introduction
+Tibetan Plateau (TP) is the product of northward convergence between the Indian Plate and Eurasian Plate which began 50 million years ago and continues today. The eastern margin of the plateau is one of the most active tectonic transitional zones. Recent Global Navigation Satellite System (GNSS) measurements of crustal motion indicate no signiﬁcant crustal shortening (<3 mm/yr)
+* Corresponding author. E-mail addresses: hlli@whigg.ac.cn (H. Li), jfang@whigg.ac.cn (J. Fang). Peer review under responsibility of Institute of Seismology, China Earthquake
+Administration.
+Production and Hosting by Elsevier on behalf of KeAi
+
+between central Tibetan Plateau and adjacent area, although topography uplifts by 6 km within less than 100 km horizontal distance [1].
+A large number of researches have been conducted in this region since the 1980s. Several studies, regarding the crust and upper mantle signature and the velocity structure [2,3], electrical resistivity distributions developed [4], crustal and upper mental signature and density structure constrained from gravity inversion and forward modeling explorations [5e8]. However, the mechanism of the large-scale uplift and the pattern of deformation below them remain unresolved. The solutions of these problems rely on the knowledge of deep geophysical structure. Detecting and revealing its internal structure is an inevitable way to understand the evolution mechanism of the plateau.
+In this paper, we focus on the three-dimensional crust and uppermost mantle density structure of the eastern margin of the Tibetan Plateau, as it provides important information for understanding the underlying geodynamic processes under the plateau.
+
+http://dx.doi.org/10.1016/j.geog.2017.02.007 1674-9847/© 2017 Institute of Seismology, China Earthquake Administration, etc. Production and hosting by Elsevier B.V. on behalf of KeAi Communications Co., Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+148 H. Li et al. / Geodesy and Geodynamics 8 (2017) 147e154
+
+Gravitational potential ﬁeld is the most direct reﬂection of the earth's interior density. The absence of underground gravity observation in this region inhibits the density research progresses. However, with the development of gravity satellite, high sensitivity, high precision and global coverage gravity measurements provides an effective means for the study of the earth's interior density structure. The Gravity ﬁeld and steady-state Ocean Circulation Explorer (GOCE), launched on March 2009, has the resolution of 80 km and a precision better than 1 mGal at sea level [9,10].
+Gravity gradient (GG), being the second derivatives of the geopotential, enhances high-frequencies more and has better resolving capabilities than gravity [11]. Our research conﬁrms that GOCE mission gradient products with high precision and spatial resolution can be used to constrain the crust-mantle density distribution. The full GG tensor is composed of nine components. In our work, we choose ﬁve independent ones of them (Txx,Tzz,Txy,Txz,Tyz) to perform the density inversion.
+The study region of interest is 91Ee112E, 23Ne41N. A method of gravitational modeling based on a relationship between density and S-wave velocity was proposed. In our work, seismic velocities provided an important initial constraint for the inversion. Objective function gives based on the Tikhonov regularization theory [12] and the Damped Least Square method is used during the inversion. Finally, a three-dimensional density model of the crust and uppermost mantle beneath Qinghai-Tibet Plateau and its surrounding areas is determined by the inversion of a set of GOCE gradients residual anomalies. Moreover, some related geodynamics analysis is given.
+
+2. Methodology
+
+2.1. Fundamental equations
+
+According to the law of gravitation, for any point outside one
+
+underground rectangular, the induced gravity anomaly should be
+
+described in Eq. (1). After derivation and numerical integrating from
+
+Eq. (1), we could get an approximate expression of gravity gradients,
+
+which are described in Eq. (2) which is calculated in article [13].
+
+gz
+
+ðx0
+
+;
+
+y0
+
+;
+
+z0
+
+Þ
+
+¼
+
+Gr
+
+Zx2
+x1
+
+Zy2
+y1
+
+Zz2
+z1
+
+fðx
+
+À
+
+x0
+
+Þ
+
+þ
+
+ðy
+
+z Àz0 À y0 Þ þ
+
+ðz
+
+À
+
+z0
+
+Þg
+
+3
+
+=
+
+dxdydz
+2
+
+T xx
+
+¼
+
+G
+
+arctan
+
+ðy
+
+ðx À x0Þr À y0Þðz À
+
+z0Þ xx21yy21zz21r
+
+T yy
+
+¼
+
+G
+
+arctan ðx
+
+ðy À y0Þr À x0Þðz À
+
+z0Þ
+
+xx21yy21zz21r
+
+T zz
+
+¼
+
+G
+
+arctan ðx
+
+ðz À z0Þr À x0Þðy À
+
+y0Þ
+
+xx21yy21zz21r
+
+Txy ¼ G lnðz À z0 þ rÞxx21yy21zz21r
+
+Txz ¼ G lnðy À y0 þ rÞxx21yy21zz21r
+
+Tyz ¼ G lnðx À x0 þ rÞxx21yy21zz21r
+
+(1) (2)
+
+Tp ¼ Gpr
+ÂÃ T p ¼ T xx; T zz; T xy; T xz; T yz
+
+where, G is gravitational constant; r is the vector of estimated den-
+sity contrast; Tp the vector of joint gravity gradients; Gp is the matrix of the sensitive function between density and gravity gradients.
+
+2.2. Density inversion
+
+Aiming to get the density contrast derived from the gravitational
+
+observations, we established the objective function in Eq. (4) based
+
+on the Tikhonov regularization theory. This theory considered both
+
+the misﬁt error of the observation and the ridge regression error of
+
+the parameter in order to solve the ill-posed inversion. The objec-
+
+tive function is as follows:
+FðrÞ ¼ tp À Gpr þ mkrk
+
+(3)
+
+where m is the regularization parameter. If vFðrÞ=vr ¼ 0, we could
+obtain as shown in Eq. (5):
+
+r
+
+¼
+
+ tptTp
+
+þ
+
+À1
+mI tp
+
+(4)
+
+Some initial guesses r0 is the induced density given by a 3-D Vs model derived from seismic ambient noise data [14]. rk is the
+density result after the kth iteration. We reﬁned them by the
+damped least square method deﬁned as follows:
+
+rk Drk
+
+¼ ¼
+
+rktÀpt1TpþþDmrIkÀ1Àtp
+
+À
+
+GprkÀ1Á
+
+(5)
+
+for k ¼ 1; 2; /n. Then, the process is searching for a solution that ﬁts the observed data best. The ﬁtting errors function
+31 ¼ tp À Gprk subject to the acceptance criterion. As an acceptance
+criterion, we use the root-mean-square (RMS) error so that it is
+smaller or equal a constant value. Another criterion for convergence
+is to consider 32 ¼ Drk=rk as the ratio is smaller than a certain
+empirical value greater than zero and a threshold previously
+determined. The inversion may also be terminated after a pre-
+speciﬁed number of iterations.
+
+3. Synthetic tests
+
+We carried out some synthetic models for our above proposal. Gravity and gradients forwarded from the designed density model which was close to the reality. We added 5% random noises to the forward data. We implemented three tests which consider three different kinds of initial guesses with adding 5%, 25%, 50% random noise to the true density model respectively, in which the inversion
+parameter m ¼ 101; 31 ¼ 10À4; 32 ¼ 10À2. The ﬁnal iterations,
+modeling errors and ﬁtting errors are listed in Table 1.
+
+Table 1 Conditions and results for three different synthetic inversion models.
+
+Observations ðt p Þ GGþ5%noise
+GGþ5%noise
+GG þ5%noise
+
+Initial ðr0Þ TMþ5%noise
+TMþ25%noise
+TMþ50%noise
+
+L-corner ðmÞ 103
+104
+105
+
+Iterations ðkÞ 5
+7
+20
+
+ME 0.01329
+0.01340
+0.02426
+
+FE
+txx 0.0895 tzz 0.1593 txy 0.0583 txz 0.1204 tyz 0.1050 txx 0.0902 tzz 0.1641 txy 0.0584 txz 0.1227 tyz 0.1069 txx 0.0956 tzz 0.1728 txy 0.0558 txz 0.1270 tyz 0.1113
+
+where GG is the gravity gradient ðtxx; tzz; txy; txz; tyzÞ; TM is the true model ðrtureÞ; ME is the modelling errors ðrk À rtureÞ; FE is the ﬁtting errors ðrkÞ.
+
+H. Li et al. / Geodesy and Geodynamics 8 (2017) 147e154
+
+149
+
+z/m z/m
+
+The difference between synthetic model (Fig. 1a) and inverted model (Fig. 1c) is caused by the noise estimated in the initial guess. However, in these three cases, we could always get the acceptable results regardless of the noise which included in the starting model has already greater than 50%. The synthetic tests proved the validity and correctness of our inversion method.
+
+(a)
+0 -20 -40 -60 -80 -100 -120 500
+0
+x/m
+
+-500 -500
+
+0 y/m
+
+0.2 0.18 0.16 0.14 0.12
+0.1 0.08 0.06 0.04 500 0.02
+0
+
+(b)
+0.048 0.047 0.046 0.045 0.044 0.043 0.042 0.041
+0.04 0.039
+
+5.4 5.6 5.8
+
+6 6.2 6.4 6.6 6.8
+
+x 10-3
+
+(c)
+
+0 0.2
+
+-20 0.15
+-40
+
+-60 0.1
+-80
+
+-100 -120 500
+0
+
+0.05
+500 0 0
+
+x/m -500 -500
+
+y/m
+
+Fig. 1. (a): Synthetic model; (b):L-curve; (c): inverted model with 50% noise.
+
+4. The eastern Qinghai-Tibetan Plateau
+4.1. Data preparation
+The proposed study region is deﬁned by coordinates 91 and 112E, 23 and 41N and all of them should be in Fig. 2.
+The study area includes the eastern Tibet Plateau, the northwestern Yangtze craton, the southwestern Sono-Korean craton and the northeastern Indian Plate. The eastern Tibet Plateau from south to north, comprise the Himalayan terrane, the Lhasa Block terrane, the Qiangtang and Songpan-Ganzi Block. The Ordos Basin is located in the southwest of the Sono-Korean craton and the Sichuan Basin is situated in the western Yangtze craton. Longmenshan Mountain is the eastern boundary of the Tibetan Plateau, with the SongpanGanzi terrane to the west and the Yangtze craton to the east. In the northwest of the study area locate the Qaidam Basin, Qinling Orogen and Qilian Orogen and some main faults like suture, east Kunlun Fault, Haiyuan Fault and so on.
+
+4.2. Data processing
+
+The gravity gradients are calculated with the spherical harmonic expansion up to degree and order N ¼ 280 from the global Earth model GO CONS GCF 2 TIM R5 derived from GOCE-only satellite solution. It provides a uniform and global ﬁeld which enables the interpretation at both regional and global scales. We got the gravity gradient anomalies at the 10 km altitude near the Earth surface.
+However, the anomalies are the integrated response to the interface undulations and subsurface density in-homogeneities. With the aim of delineating the crustal and upper mantle density variation, the signal of topographic masses above the sea level, the effects of density interface, the inﬂuence of density changes below the uppermost mantle should be reduced before the inversion.
+
+tp
+
+¼
+
+Tp
+
+À
+
+T
+
+1 p
+
+À
+
+T
+
+2 p
+
+À
+
+T
+
+3 p
+
+(6)
+
+where
+
+Tp
+
+is
+
+the
+
+vector
+
+of
+
+observed
+
+gravity
+
+gradients;
+
+T
+
+1 p
+
+is
+
+the
+
+vector of density changes below the uppermost mantle gravity
+
+gradients
+
+effects;
+
+T
+
+2 p
+
+is
+
+the
+
+vector
+
+of
+
+topographic
+
+gravity
+
+gradients
+
+effects;
+
+T
+
+3 p
+
+is
+
+the
+
+vector
+
+of
+
+sedimentary
+
+gravity
+
+gradients
+
+effects;
+
+tp
+
+is the vector of residual gravity gradients, which is the effect of
+
+crustal and upper mantle density variation.
+
+We obtain the gravity gradient anomalies at the altitude 10 km
+
+from the GOCE products [10]. They are the integrated response. The
+
+signal of density changes below the uppermost mantle, topo-
+
+graphic masses above the sea level and density changes in sed-
+
+imentaryecrustal interface should be reduced.
+
+The inﬂuence of density changes below the uppermost mantle is
+
+given by Order and Degree 2e44 of GOCE based on the point mess
+
+source theory developed by Bowin dn ¼ R=n À 1 n ¼ 2; 3; …, where dn is the depth of the source; R is the radius of the Earth; n is the order and degree of the spherical harmonic coefﬁcient [15]. The topo-
+
+graphic effects are estimated though the 30 s Â 30 s global digital
+
+terrain model ETOPO1 [16] with a vertical prism discretization using
+
+Eq. (1). The observed height is 10 km. The density contrast is 2670 kg/ m3 for the land and 1640 kg/m3 for the sea. The calculated effect
+
+should be ﬁlter by the Gaussian ﬁlter tools with the ﬁlter radius of
+
+480 km in order to match the resolution of the observed gradients. The same operation did to the collected 0.5Â 0.5 sedimentary
+
+undulations, where the average sediment depth is 4 km and the density contrast between sediment and crust is 200 kg/m3. Sedi-
+
+ment density contrast decreased with the depth curve after Silva.
+DrsedðzÞ ¼ Dr30=ðDr0 À lzÞ2, Dr0 ¼ 500kgm=m3, l ¼ 0:1711. The
+residual anomalies are shown in Fig. 3 after reducing all the above
+
+motioned effects (see Fig. 4).
+
+150 H. Li et al. / Geodesy and Geodynamics 8 (2017) 147e154
+Fig. 2. Scheme of the main tectonic units in the region under study. In the ﬁgure, IYS: Indus-Yarlung Suture, BNS: Bangongnujiang Suture, JRS: Jinsha River Suture, EKM: east Kunlun Mountain, AKMS: Ayimaqin-Kunlun-Muztagh Suture, LMS: Longmenshan Fault, ATF: Altumn Fault, HF: Haiyuan Fault.
+Fig. 3. Residual gravity gradient tensor anomalies (second derivatives of the potential P): (a)-Txx; (b)-Txy; (c)Txz; (d)-Tyy; and (e)-Tyz along with (f)-Tzz (Tzz ¼ eTxx eTyy by Laplace's equation).
+
+H. Li et al. / Geodesy and Geodynamics 8 (2017) 147e154
+
+151
+
+Fig. 4. (a)-Observed gravity gradient Tzz; (b)- Moho depth of the TP; (c)- Topography of the eastern TP; (d)-low oder effect of Tzz; (e)-Tzz effect of topographic masses; (f)-Tzz effect of variations in the sedimentary interface. (corrections for the gravity gradient components, take component Tzz as the example),1 Etovs ¼ 10À9 m/s2.
+
+For the crust we use the empirical S wave velocityedensity relations from Susan L. M. [17]and the typical composition of crust
+and mantle [18], where r ¼ 0:049Vs0:5; Seismic S-wave velocities
+derived from Yang et al. [3] give the initial constraint for the inversion. The reference model for crust is found by Christensen and Mooney in 1995 [19]. As for the upper mantle the reference model is published by Artemieva in 2009 [20]. They are used to convert the density contrast to the absolute density. The inversion
+parameters are shown as follows m ¼ 105; 31 ¼ 10À4; 32 ¼ 10À2
+with the maximum iterative number of 100. As shown in the Fig. 5 the ﬁtting error decreases with the number of iterations, and after approximately 30 iterations, the inversion is almost stable.
+Fig. 5. The ﬁtting error decreasing with the number of iterations.
+
+4.3. Results
+The inverted density model results reveals the structure of crust and uppermost mantle variations at depth as illustrated in Fig. 6. Across the ﬁrst layer, densities that are at the average depth of 10 km, referring to the upper crust. As is shown in Fig. 5 of 10 km, in the eastern TP, lower densities (low-D) (less than 2.6 g/cm3) are found in the Qaidam Basin, in the middle of the Sichuan Basin and in the Himalaya foreland basin. It could be the reason of sediment are thicker than 10 km there. Low-D are also found in the Qilian fold belt. It is in line with the result by the high precision underground gravity anomalies. Besides, low-D with the amplitude of 2.65 g/cm3 beneath north Qiangtang terrane. High densities (high-D) can also be found in the southeastern TP extending downward. From the analysis of recent earthquakes in this region, all of earthquakes occurred in the transition zones between high-D and low-D density anomalies in the crust.
+In the second layer, the density characteristics at average depth of 25 km, which belong to the transition zone from the upper crust to the middle crust. The densities in the main part of Tibet Plateau are around 2.7 g/cm3. Lower densities (~2.7 g/cm3) are in the margin around the Tibet. While higher densities (~3.0 g/cm3) are found below all the large basins except the Qaidam Basin (~2.9 g/cm3). Those are the strong basement of the basin.
+At the depth of 40 km, the third layer which belong to the middle crust, the densities in the margin of the Tibet are still low (~2.9 g/cm3). The densities (~3.0 g/cm3) inside the Tibet are a little bit higher than the margin's. Density increases from crustal density 2.9 g/cm3 in Tibet to the density of the upper mantle 3.3 g/cm3 from the northwest to the southeast. The studies of velocity, resistivity have already shown the corresponding results [21].
+
+152 H. Li et al. / Geodesy and Geodynamics 8 (2017) 147e154
+
+Fig. 6. Maps of horizontal density distribution at different depth slices of 10 km, 25 km, 40 km, 60 km, 80 km, 100 km, respectively.
+
+Density features in the fourth layer, with average depth of 60 km, which belong to the lower crust, are analogous to the results shown an 40 km, prominent low-D anomalies site in the periphery of the TP, except that it refers to amplitude of high densities outside the TP which became much slighter than that at 40 km depth. HighD anomalies below the Sichuan Basin and Ordos Basin with stretching to deeper than 80 km.
+In the ﬁfth layer, density features at the depth of 80 km, which belong to the transition zone from uppermost mantel, low-D are still in the whole TP. However, high-D are almost disappeared beneath the Sichuan Basin and Ordos Basin.
+
+In the last layer, density structures at the depth of 100 km, which belong to the uppermost mantle. High densities reside in some parts of Tibet. Density variations exhibit an apparent undulated density pattern across Tibet, with EW strike in central Tibet, rotating to approximately NWeSE direction towards eastern Tibet. It is consistent with the patterns of the GNSS derived velocities which are oriented NS in central Tibet and rotate towards NE in eastern Tibet [1], orthogonal to the Moho undulations derived by satellite gravity anomaly [22].
+According to Fig. 7, there is an evident low-D anomaly in the upper and middle crust in the Lasha terrane and Songpan-Ganzi
+
+H. Li et al. / Geodesy and Geodynamics 8 (2017) 147e154
+
+153
+
+Fig. 7. Vertical density sections at latitude 30N from longitude 94E to 106E; the black solid line is the elevation across the proﬁle.
+
+terrane. Moreover, crustal thickness decrease from the Tibetan Plateau to the Yangtze Craton. Note that the presence of low densities beneath Songpan-Ganzi block may illustrated the eastward sub-ducted Tibet, which could be accounts for the frequent volcano and earthquakes here.
+4.4. Discussion
+In the south, the Indian Plate underthrusts Tibet. In central and northern Tibet, a separate, thin Tibet Plate exists, underthrust by the Asian Plate from the north [22,23]. The hot thermal anomalies exist [11]. Seismic wave tomography low velocities [23,24] present in the mid-lower crust inside the whole TP. Consist with the low resistivity [25] from the magnetotelluric. In our 3-D density model, strong low densities in the middle and lower crust within the Tibetan Plateau combined with the high densities beneath Yangtze craton and north China craton. It veriﬁes the current eastward subduction of Indian Plate in the southeastern TP. Great differences of physical properties exhibit between the whole plateau and the adjacent regions. Thus, giving rise to the inward-thrusting from the cold hard external TP to the hot weak internal TP.
+The northern TP can be characterized with a sharp Moho offset beneath the AltunTagh Fault (ATF), the crustal Lower Velocity Zones (LVZ) beneath there. Moreover, in the eastern TP, studies of deep seismic soundings showed that the eastern edge of the TP is the Longmenshan Fault. It has a high-gradient topography change within a small distance. Strong crustal deformation and faulting is accompanied with frequent seismic activities continue since late Cenozoic. From our density results, even all the densities in the Tibet crust are low but the lowest densities are found in the boundary of the plateau, instead of the whole Tibet. We could make an consequence that conversions from soft and weak Tibet to the hard and rigid cratons provide conditions for large compressed tectonic environment. The effects of extrusion stress environment in the margin affect the changes of the substance there. The substances and environments conditioning for the earthquake preparations and strong deformation in the transit belt.
+High densities reside in some parts of Tibet. Density variations exhibit an apparent undulated density pattern across Tibet, with EW strike in central Tibet, rotating to approximately NWeSE direction towards eastern Tibet. It is consistent with the patterns of the GNSS derived velocities which are oriented NS in central Tibet and rotate towards NE in eastern Tibet evident low-D anomaly in the upper and middle crust in the Lasha terrane and Songpan-Ganzi terrane. Evident low-D anomaly in the upper and middle crust in the Lasha terrane and Songpan-Ganzi terrane illustrated the
+
+eastward sub-ducted of southeastern Tibet, which could be accounts for the frequent volcano and earthquakes there.
+5. Conclusions
+In this paper, we accomplish and present the inversion of the full gradient tensor component in both the simulation and the real cases. Gradient could provide more details in the underground structures. We obtained a three-dimensional lithosphere structure beneath the eastern margin of Tibet Plateau.
+The results give some insights to understanding of the underlying geodynamic processes.
+1) Low densities in the margin of the Tibet, along with low wave velocity and resistivity results, yield conversions from soft and weak Tibet to the hard and rigid cratons.
+2) The lowest densities are found in the boundary of the plateau, instead of the whole Tibet indicates that the effects of extrusion stress environment in the margin affect the changes of the substance there. The substances and environments conditioning for the earthquake preparations and strong deformation in the transit belt.
+3) Evident low-D anomaly in the upper and middle crust in the Lasha terrane and Songpan-Ganzi terrane illustrated the eastward sub-ducted of southeastern Tibet, which could be accounts for the frequent volcano and earthquakes there.
+Author contributions
+Jian Fang provided the initial idea for this study; Honglei Li conceived and designed all the inversion synthetic experiments and the application in the eastern Qinghai-Tibetan Plateau; Honglei Li and Jian Fang analyzed the experiment results; Honglei Li wrote the paper.
+Acknowledgments
+We great acknowledge the Major State Basic Research Development Program of China 973 Program (2013CB733301) and the National Natural Science Fund (41274025) for supporting the work. We appreciate the sharing of S-wave velocity of Tibet. The European Space Agency (ESA) is thanked for the use of the GOCE data. We also acknowledge the use of Generic Mapping Tool (GMT).
+
+154 H. Li et al. / Geodesy and Geodynamics 8 (2017) 147e154
+
+References
+[1] P.Z. Zhang, Z. Shen, M. Wang, W. Gan, R. Bürgmann, P. Molnar, et al., Continuous deformation of the Tibetan Plateau from global positioning system data, Geology 32 (9) (2004) 809e812.
+[2] T.L. Tseng, W.P. Chen, R.L. Nowack, Northward thinning of Tibetan crust revealed by virtual seismic proﬁles, Geophys Res Lett 36 (2009) 24.
+[3] Y. Yang, M.H. Ritzwoller, Y. Zheng, W. Shen, A.L. Levshin, Z. Xie, A synoptic view of the distribution and connectivity of the mid-crustal low velocity zone beneath Tibet, J Geophys Res Solid Earth 117 (2012) B4.
+[4] D. Bai, M.J. Unsworth, M.A. Meju, X. Ma, J. Teng, X. Kong, et al., Crustal deformation of the eastern Tibetan plateau revealed by magnetotelluric imaging, Nat Geosci 3 (5) (2010) 358e362.
+[5] Z. Bai, S. Zhang, C. Braitenberg, Crustal density structure from 3D gravity modeling beneath Himalaya and Lhasa blocks, Tibet, J Asian Earth Sci 78 (2013) 301e317.
+[6] C. Braitenberg, M. Zadro, J. Fang, Y. Wang, H. Hsu, Gravity inversion in Qinghai-Tibet plateau, Phys Chem Earth Part A Solid Earth Geod 25 (4) (2000) 381e386.
+[7] C. Braitenberg, M. Zadro, J. Fang, Y. Wang, H. Hsu, The gravity and isostatic Moho undulations in QinghaieTibet plateau, J Geodyn 30 (5) (2000) 489e505.
+[8] F. Jian, X. Hou-Ze, Three-dimensional lithospheric density structure beneath Qinghai-Tibet and its adjacent area, Chin J Geophys 5 (1997) 007.
+[9] R. Rummel, T. Gruber, R. Koop, High level processing facility for GOCE: products and processing strategy, in: Proceedings of the 2nd international GOCE user workshop, ESA-SP569, 2004, pp. 8e10.
+[10] R. Rummel, W. Yi, C. Stummer, GOCE gravitational gradiometry, J Geod 85 (11) (2011) 777e790.
+[11] M. Beiki, Analytic signals of gravity gradient tensor and their application to estimate source location, Geophysics 75 (6) (2010) I59eI74.
+[12] A.N. Tikhonov, V.Y. Arsenin, Solutions of ill-posed problems, 1977. [13] D. Nagy, G. Papp, J. Benedek, The gravitational potential and its derivatives for
+the prism, J Geod 74 (7e8) (2000) 552e560. [14] W. Shen, M.H. Ritzwoller, D. Kang, Y. Kim, F.C. Lin, J. Ning, et al., A seismic
+reference model for the crust and uppermost mantle beneath China from surface wave dispersion, Geophys J Int 206 (2) (2016) 954e979. [15] C. Bowin, Depth of principal mass anomalies contributing to the earth's geoidal undulations and gravity anomalies*, Mar Geod 7 (1e4) (1983) 61e100.
+
+[16] C. Amante, B. Eakins, ETOPO1 1 arc-minute global relief model: procedures, data sources and analysis. NOAA technical memorandum NESDIS NGDC-24, National Geophysical Data Center. Biblioteca Digital ILCE, 2009, p. 1.
+[17] S.L. Miller, R. Stewart, The relationship between elastic-wave velocities and density in sedimentary rocks: a proposal; CREWES Research report, 1991.
+[18] I.M. Artemieva, Global 1Â1 thermal model TC1 for the continental lithosphere: implications for lithosphere secular evolution, Tectonophysics 416 (1) (2006) 245e277.
+[19] N.I. Christensen, W.D. Mooney, Seismic velocity structure and composition of the continental crust: a global view, J Geophys Res Solid Earth 100 (B6) (1995) 9761e9788.
+[20] I.M. Artemieva, The continental lithosphere: reconciling thermal, seismic, and petrologic data, Lithos 109 (1) (2009) 23e46.
+[21] H. Li, W. Su, C.Y. Wang, Z. Huang, Ambient noise Rayleigh wave tomography in western Sichuan and eastern Tibet, Earth Planet Sci Lett 282 (1) (2009) 201e211.
+[22] Y.H. Shin, C. Shum, C. Braitenberg, S.M. Lee, S.H. Na, K.S. Choi, et al., Moho topography, ranges and folds of Tibet by analysis of global gravity models and GOCE data, Sci Rep (2015) 5.
+[23] C.Y. Wang, W.B. Han, J.P. Wu, H. Lou, W.W. Chan, Crustal structure beneath the eastern margin of the Tibetan Plateau and its tectonic implications, J Geophys Res Solid Earth 112 (2007) B7.
+[24] Z. Zhang, X. Yuan, Y. Chen, X. Tian, R. Kind, X. Li, et al., Seismic signature of the collision between the east Tibetan escape ﬂow and the Sichuan Basin, Earth Planet Sci Lett 292 (3) (2010) 254e264.
+[25] W. Wei, M. Unsworth, A. Jones, J. Booker, H. Tan, D. Nelson, et al., Detection of widespread ﬂuids in the Tibetan crust by magnetotelluric studies, Science 292 (5517) (2001) 716e719.
+Honglei Li, is currently pursuing her PhD degree in the Institute of Geodesy and Geophysics at the Chinese Academy of Sciences. She is mainly engaged in the researches on the inversion of the gravity ﬁeld and the crustal and upper mantle structure. E-mail: hlli@whigg.ac.cn.
+
+

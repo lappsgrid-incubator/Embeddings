@@ -1,0 +1,2561 @@
+DEPARTMENT OF THE INTERIOR U.S. GEOLOGICAL SURVEY
+LEAPing Into CUSP: Local Jt/arthquake /\nalysis Xirograms
+for CUSP Data by
+Lisa A. Wald 1 Lucile M. Jones 1
+Open-FUe Report 89-479
+This report is preliminary and has not been reviewed for conformity with U. S. Geological Survey editorial standards (or with the North American Stratigraphic Code). Any use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government.
+1 U.S. Geological Survey Office of Earthquakes, Volcanoes, & Engr. 525 S. Wilson Avenue Pasadena, California 91106
+1989
+
+ACKNOWLEDGEMENTS
+We would like to thank Kate Hutton for contributing all the information for the Error Tracking System, and Jim Mori for contributing the information on the DINST program. We would also like to thank Doug Given for helping with the installation of the directory structures on the GSVAX and CITVAX computers and for his infinite patience in helping with TEX commands. In addition, we would like to thank the Caltech Seismo. Lab. students who provided constructive criticism to make this documentation as complete and correct as possible.
+
+TABLE OF CONTENTS
+page I. Introduction to CUSP ................................................4
+II. Getting Started ...................................................... 6
+III. Summary of Procedures .............................................. 7
+IV. Helpful Tips ......................................................... 9
+V. Programs & Command Procedures
+1. ABC ...............................................13 2. CATDCK ..........................................14 3. CATREAD .........................................16 4. CDREV ............................................ 18 5. DINST .............................................20 6. EXPORT .......................................... 23 7. FBA ............................................... 25 8. FOCPLAY .........................................26 9. FPFIT .............................................29 10. FPPAGE ...........................................31 11. FPPLOT ...........................................33 12. GETREC ..........................................35 13. GETRTP ...........................................37 14. GRMCHOP ........................................38 15. HYPOINVERSE ................................... 41 16. MAGADD(C) ...................................... 44 17. MAKEPHAS .......................................45 18. NSKIP ............................................. 47 19. POST/STATUS/RESULT/RECYCLE .............. 48 20. QED ............................................... 50 21. QPLOT ............................................51 22. RDFRZ ............................................54 23. RECSEL ........................................... 56 24. SEISMIC ...........................................61 25. SIFT ...............................................63 26. SNARK ............................................ 65 27. STRECK ...........................................67 28. STRECKPLOT .................................... 70 29. STRECKWA ....................................... 73
+
+30. TAPECOPY ....................................... 75 31. TELECAT ......................................... 77 32. VERSAREC ....................................... 79 33. (ENV)WAVE .......................................82
+VI. Step-wise procedures for specific tasks: .............................. 86
+1. Getting the cusp id # for a specific event 2. Getting phase data for an event 3. Making a seismicity map 4. Plotting records or record sections 5. Plotting strong motion records only 6. Re-picking phases for an event 7. Relocating events 8. Making a focal mechanism 9. Obtaining digital data for use with programs other than those written specifically for CUSP data, ie. individual ASCII files
+VII. Error tracking system ............................................... 90
+
+PREFACE
+This manual is intended for those wanting to use Caltech- USGS Southern California Network data. It includes a detailed description of the usage of each program or procedure available, an example run of each program, and step-by-step instructions for specific tasks that are most often of interest to users. There is also a short section on the error tracking system used in those procedures that require a special CUSP directory structure.
+The manual does not attempt to explain the fine details and workings of each program, only how to use them.
+
+I. INTRODUCTION TO CUSP
+
+CUSP stands for Caltech-USGS Seismic Processing system. CUSP (proper) is a group of programs written by Carl Johnson and modified by Bob Dollar, Peter Johnson, Kate Hutton, and Doug Given. Many auxiliary programs to access and manipulate the processed data have also been written by various authors and are available to interested users. The CUSP system and auxiliary programs are located on the VAX750 computer at the Seismological Laboratory at Caltech and on the VAX750 at the Pasadena USGS office on Wilson Avenue. The CIT VAX will usually be the research access computer see Kate Hutton about setting up an account on that machine. If you are working on the USGS VAX the person to see is Doug Given. CUSP (proper) requires a particular directory structure and group of system logicals to operate. The auxiliary programs do not require a specific directory structure, but some logicals (abbreviations) have been defined for some of these programs only as a convenience in [LEAPJGETDATA.COM.
+Each event that is processed is given what is called a CUSP ID number in the form of X###### (5-7 digits depending on which computer the data originated). There are three main types of data which contain earthquake information:
+
+1) catalog data
+
+2) phase data
+
+3) digital seismograms
+
+CATALOG DATA for each month is kept on-line in a file called a CAT.KIN. Since this file is readable only with CUSP programs in a special CUSP directory structure, for convenience a CAT.BIN (a binary file) and a CAT.LIS (an ASCII file) are made from the CAT.KIN. All of the catalog and phase data (see below) are kept in the subdirectory of CITVAX::DISK1:[CIT], Each month's catalogue is kept in a different subdirectory under the CIT directory, for example [CIT.88JANJ contains the catalogue file for January 1988. The catalogue files are called CAT.KIN, CAT.BIN, and CAT.LIS in every subdirectory. A catalogue of the entire collection of CAT.BINs is kept current in [CIT.CAT). This directory contains .BIN files by year instead of by month. It is the source CATREAD uses when searching for events. It holds data for 1932 - present.
+PHASE DATA for each event is kept on-line for only a few months in a non-ASCII database-structured file called X######.MEM. The .MEM files for each monthte events are kept in the CIT subdirectory for that month (same place as the CAT.KIN for that month). After all events for a month have been located and finalized (all the routine processing has been completed), the .MEM files are put onto a magnetic tape called a FREEZE tape and can then be accessed by a procedure called RDFRZ. The .MEM file can be translated into an ASCII file with MEMDCK or MAKEPHAS. MEMDCK produces a file with a .DCK suffix that contains information other than just phase data. MAKEPHAS produces a file with a .P suffix that contains only phase data, and an optional file with a .Dl suffix that contains information about the digital record for each station. Also, for
+
+1960 - 1980 (before CUSP came into existence) ASCII data is available from magnetic tape. If phase data for many events during a specific time period is needed, ASCII tapes are made each month for all finalized months that contain 1 file per month with all phase data in HYPOINVERSE format. These tapes are kept in the USGS computer room.
+DIGITAL SEISMOGRAMS for each event are kept on-line for only a few hours in a binary file called X######.GRM. After each event is located, its .GRM file is put onto a magnetic tape called an ARCHIVE tape. (However, these tapes are labeled CUSP BACKUP tapes.) The data can then be accessed by a procedure called SNARK or TAPECOPY. The original .GRM file has a block size of 512. When it is put on the ARCHIVE tape it resides there with a block size of 7200. The seismograms can then be copied from the tape into a file with a .GRM suffix and a block size of 512 again using SNARK. Alternatively, they can be copied into a file with a .D2 suffix and a block size of 7200 using TAPECOPY. Either format is accomodated by the auxiliary programs written to use the digital seismogram data. If you want to use the seismogram data outside of CUSP, you will also need a .Dl file which contains the information about where each station record begins and ends in the sequential .D2 or .GRM file. The .Dl file is obtained from the .MEM file using MAKEPHAS. The U.S.G.S. Office at Menlo Park uses the shadowcard format rather than the .Dl and .P formats. The shadowcard format will be accomodated in most of these programs in the future. ARCHIVE tapes are available from April 1981 - present. For 1977 - 1980, the seismograms are stored in CEDAR format tapes see discussion under CD REV.
+TROUTS are not considered one of the three main types of data, yet this is often where one begins when looking for data. A TROUT for an event is the plot of the waveforms plus some other information about that event. It is created during the routine processing of the event, and the paper copy of the plot for each event is kept in the file cabinets in the Measuring Room in the Caltech Seismo. Lab. It is filed in chronological order by date and time. Before late August of 1988 the TROUT plot contained a plot of all the waveforms from each station triggered by the event. After that date, the TROUT contains the waveforms only for the closest 20 stations triggered by the event. In addition to the waveforms, the plot contains the location of the event in latitude and longitude, the residual error for that location, the coda amplitude magnitude, the arrival time of each phase picked, and the quality of the pick. In addition, there is a histogram of coda amplitude magnitudes. The TROUTs are useful for getting arrival times for events instead of reading a magnetic tape (if you are only interested in a small number of events), and previewing the waveforms for an event. In general, they are useful for obtaining small bits of information about an event without having to involve a magnetic tape. NOTE: The clipping of waveforms on the TROUT plot is sometimes an artifact of the plotting program and does not reflect what was really recorded.
+
+II. GETTING STARTED
+
+To use the programs in this manual, login to your account on the CITVAX or GSVAX. Then type the following:
+
+<DUSER$DISK: [LEAP] GETDATA (GSVAX)
+
+<QDUAO:[LEAP]GETDATA
+
+(CITVAX)
+
+to set up abbreviations
+
+GET DATA.COM is a command file which sets up all the symbols and logicals needed to use any of the programs or procedures in this manual with the exception of QED, SNARK, POST, STATUS, RECYCLE, and RESULT. If you need to use one of these three applications, you will need to consult with Kate Button, Lucy Jones, or Doug Given in order to get a more specific directory structure.
+
+Symbols are defined in GETDATA.COM so that all programs and procedures can be run by typing in only the name of the procedure.
+
+A note on DECNET and "nodes". Here is an example of a full path name for a directory:
+
+CITVAX:: DISKl: [CIT.88MAY]
+
+node, disk, directory tree
+
+Use defaults whenever possible for nodes. If you type CITVAX when you are on the CITVAX, you unnecessarily use the DECNET and make your procedure take longer. In this handbook, we write out the full path name, but you should only type as much as you need.
+
+6
+
+HI. SUMMARY OF PROCEDURES
+
+Reading catalogs: Getting .MEM (event &: archive info.) files: Getting .GRM (seismogram) files:
+Getting .P (phase) files: Plotting seismograms: Manipulating seismograms:
+Locating events:
+
+CATREAD CATDCK TELECAT SEISMIC GETRTP
+RDFRZ EXPORT
+SNARK TAPECOPY POST STATUS RECYCLE RESULT CDREV
+MAKEPHAS
+WAVE QED RECSEL VERSAREC STRECKPLOT
+GETREC GRMCHOP FBA NSKIP STRECK STRECKWA DINST
+ABC HYPOINVERSE MAGADD(C)
+
+Focal mechanisms: Plotting maps, etc.:
+
+FPFIT
+FPPAGE FPPLOT FOCPLAY
+QPLOT SEISMIC SIFT
+
+IV. HELPFUL TIPS
+
+1. To plot a batch.plt file on the CITVAX:
+
+$R DISKO:[BGMF]VIEWERR
+
+>HELP
+
+(to see options)
+
+>PLOT BATCH.PLT
+
+>EXIT
+
+$RASM
+
+on the GSVAX:
+
+$VIEWERP > same as above $LW/POST POSTSCRIPT.PLT
+
+2. Archive tapes (CUSP backup tapes) Freeze tapes CEDAR tapes
+
+6250 bpi 1600 bpi 800 bpi
+
+3. Difference between .GRM and .D2 files:
+.GRM files record format = 512 bytes, fixed length original file or created by SNARK from ARCHIVE tape
+.D2 files record format = 7200 bytes, variable length file on ARCHIVE tape or read by TAPECOPY
+
+4. For SNARK, QED, RDFRZ, GROPE, STATUS, RESULT, RECYCLE, and POST the following files are needed in your directory:
+CUSP.KIN CAT.KIN
+and can be created by typing CUSPKIN for a CUSP.KIN and CATKIN for a CAT.KIN.
+
+5. Notice when X###### is needed versus ###### without the X.
+
+6. If you create a .Dl file from some old .MEM files, the top several lines may be messed up. If it contains a negative number and looks something like this:
+
+015100.000 88 3 23 17 38 45.21 6465691 TIME 0 36789552 3200 8765432 ADL 1 36789552 3200-8765431
+
+change it like this:
+
+8765432 - 8765431 = 1
+
+015100.000 88 3 23 17 38 45.21 6465691
+
+TIME 0 36789552 3200
+
+0
+
+ADL 1 36789552 3200
+
+1
+
+7. Example of files derived from CUSP data: (CAT.LIS, .Dl, .P, .DCK)
+
+CAT.LIS
+
+an ASCII file which is found in each monthly subdirectory (ex.
+
+CITVAX::DISK1:[CIT.880CT] with a summary line for each event that occurred during
+
+that month.
+
+CUSP-ID FRZ-ID NET DEV YEAR MON DA HRMN SEC LATITUDE LONGITUDE
+
+DEPTH FIX NPH RMS L Q MT MAG WHO TYP REMARK
+
+647305
+
+0 CIT S34 1988 OCT 1 6 15.93 36 2.83 -117 51.43
+
+-2.94
+
+18 0.05 F A MC 1.5 ASB
+
+647307
+
+0 CIT S34 1988 OCT 1 24 59.29 36 54.89 -116 36.83
+
+-6.00 Z 13 0.34 P D MC 2.6 ASB
+
+647308
+
+0 CIT S34 1988 OCT 1 111 30.52 33 15.62 -116 23.69
+
+-4.72
+
+11 0.02 F A MC 1.4 ASB
+
+647309
+
+0 CIT S34 1988 OCT 1 123 16.78 32 41.09 -115 53.53
+
+-6.20
+
+15 0.04 F A MC 2.0 ASB
+
+647310
+
+0 CIT S34 1988 OCT 1 245 50.25 33 14.74 -116 18.05
+
+-12.23
+
+8 0.02 F A MC 1.3 ASB
+
+647312
+
+0 CIT S34 1988 OCT 1 325 8.54 35 16.39 -118 33.86
+
+-5.56
+
+34 0.11 F C MC 2.2 ASB
+
+etc.
+
+.Dl an ASCII file which "points" to the beginning and end of the record for each station, derived from the .MEM file.
+
+11100.000 88 1 TIME 1 2866651 MWC 6 2866651 PAS 7 2866651 TCC 8 2866651 VPD 10 2866651 TCC 14 2866651 WWVB 30 2866651
+
+1 5 27 14.52
+
+5986
+
+0
+
+5986 6302
+
+5986
+
+158
+
+5986
+
+158
+
+5986
+
+158
+
+5986 6302
+
+5986 12446
+
+2866651
+
+10
+
+COY 32 2866651 5986
+
+158
+
+JUL 45 2866651 5986
+
+158
+
+SMO 52 2866651 5986
+
+158
+
+HOT 56 2866651 5986
+
+158
+
+ARRIVE TAPE # = 2215 FILE # =
+
+43
+
+First line: number of stations (1-3), samples/second, year, month, day, hour, minute, second, index time
+Subsequent lines: station code, pin number, index time, record length, points skipped between this record and the previous one.
+Last line: archive tape number, file number on tape
+
+.P an ASCII file which contains the phase information in HYPOINVERSE format, derived from the .MEM file.
+
+WWVBOP 88 101 527 60.01
+
+COY EP 2 88 101 527 35.24
+
+CRR IPUO 88 101 527 27.64
+
+YUH IPUO 88 101 527 30.59
+
+BRG EP 2 88 101 527 31.82
+
+3761ES 2
+
+YAQ EP 2 88 101 527 34.08
+
+MIR EP 2 88 101 527 34.41
+
+CBK EP 2 88 101 527 32.09
+
+88 101 52724.032 57.0115 46.3 2.3
+
+1.6
+
+Each line: station name, phase pick, year, month/day, hour/minute, second (arrival time) Last line: year, month/day, hour/minute/second (to one place after the decimal) (event
+origin time), latitude, longitude, depth, magnitude
+
+.DCK an ASCII file that contains much useful information from the binary .MEM file (blank lines & labels have been inserted)
+
+CAT 740066 LPA 1JAN88 527 24.04 32.9508 -115.7724 -2.34 0.05 8 *** MC 1.6
+
+HYP 7 24.04 527 1 JAN 1988 32.9508 -115.7724 -2.34
+
+FIT 8
+
+0.00 0.1546 0.5392 0.27 0.05
+
+FIX 7
+
+ARK 94581 2215 43 1848
+
+MC
+
+SET 1
+
+2866651
+
+4 14.52 527 1 JAN 1988 0.010000
+
+SYN 1 * 2866651
+
+1 15.13 527 1 JAN 1988
+
+SYN 1 1
+
+2866651
+
+4 14.52 527 1 JAN 1988
+
+SRC 1 CIT KLG 74 66 31DEC87:2129
+
+PIN 1 1 TIME *
+
+0
+
+11
+
+GRM 1 1
+
+2866651
+
+0 5986 518 658
+
+PIN 1 6 MWC V
+
+0
+
+GRM 1 6
+
+2866651 12288 5986
+
+133
+
+4
+
+PIN 1 7 PAS V
+
+0
+
+GRM 1 7
+
+2866651 18432 5986
+
+29
+
+4
+
+PIN 1 8 TCC V
+
+0
+
+GRM 1 8
+
+2866651 24576 5986
+
+16
+
+4
+
+MCD 1 8
+
+1 84.00 4.95 1.80 1.39 -0.58
+
+PIN 1 10 VPD V
+
+0
+
+GRM 1 10
+
+2866651 30720 5986
+
+19
+
+3
+
+MCD 1 10
+
+1 136.00 5.17 1.80 2.24 -0.18
+
+PIN 1 14 TCC Z
+
+0
+
+GRM 1 14
+
+2866651 43008 5986 -148
+
+9
+
+PIN 1 30 WWVB *
+
+0
+
+GRM 1 30 2866651 61440 5986 725 591
+
+PIX 1 30
+
+2871200 PO
+
+0 .01 528 1 JAN 1988
+
+PIN 1 32 COY V
+
+0
+
+GRM 1 32
+
+2866651 67584 5986 -113
+
+10
+
+PIX 1 32
+
+2868723 PE2 35 .24 527 1 JAN 1988
+
+PIN 1 45 JUL V
+
+0
+
+GRM 1 45 2866651 73728 5986
+
+-85
+
+18
+
+MCD 1 45
+
+1 307.00 5.59 1.80
+
+PIN 1 52 SMO V
+
+0
+
+GRM 1 52
+
+2866651 79872 5986 -122
+
+3
+
+PIN 1 56 HOT V
+
+0
+
+GRM 1 56
+
+2866651 86016 5986
+
+104
+
+8
+
+The above lines contain the following: CAT CUSP ID #, ?, date, hour/minute/second, latitude, longitude, depth, rms, # of
+picked phases, initials of timer, coda magnitude HYP mask, second, hour/minute, date, latitude, longitude, depth FIT # of constraints, ?, ?, ?, ?, rms ( all concern quality of location) FIX binary representation of what is fixed: time, depth, epicenter ARK sequential archive #, archive tape # , file #, ?
+MC coda amplitude magnitude SET set #, index time, source of time, second, hour/minute, date, dt SYN set #, clock pin #, index time, clock source #, second, hour/minute, date SRC set #, network, device, series index, series, tape, event PIN set #, pin #, station code, component, mask GRM set #, pin #, index time, disk key of first sample, length of record, bias (in
+digitizer counts), r-bar-bar (in digitizer counts), ? PIX set #, pin #, pick index, phase pick, arrival time (second, hour/minute), date MCD set #, pin #, # of constraints, amplitude, AFDC, QFDC, AFREE, QFREE (from
+Carl Johnson's thesis, 1979)
+
+12
+
+V. PROGRAMS & COMMAND PROCEDURES
+
+program by Lucy Jones_________________________________ABC
+
+Purpose To put the stations in the phase file (.P file) in alphabetical order.
+
+Source Code [LEAP.PHASE]
+
+Description ABC is a command procedure that simply puts the stations in the phase file in alphabetical order. CUSP data often includes multiple readings from the same station site. For instance^ CUSP records a vertical and eastwest short period and three Streckeisen components all from the PAS site. Using multiple readings in HYPO INVERSE overweights that station in the location procedures. After using ABC to put the stations in alphabetical order, the file can be edited to remove all but one P and one S reading for each station.
+
+Input Files X######.P
+
+(or filename.?)
+
+Output Files X######.P
+
+Common Errors Do not put the .P suffix on the event name when running the program.
+
+Example run:
+$ABC XI102747 FORTRAN STOP $
+
+13
+
+program by Steve Bryant____________________________CATDCK
+
+Purpose To further filter the output file from CATREAD including a depth filter, with the option also to make a DIR.DAT file for use with MAKEPHAS.
+
+Source Code [LEAP.GET]
+
+Description CATDCK is a procedure which takes the output file from CATREAD and allows events to be filtered out by all the same parameters used in CATREAD plus by depth. It also includes an option to create a file called DIR.DAT for use with MAkEPHAS.
+
+Input Files QUAKE.DCK
+
+or output file from CATREAD
+
+Output Files user's choice
+
+Common Errors If you do not choose the R option between filters or options, the output information will be appended together in one file.
+
+Example run:
+$CATDCK INPUT FILE NAME: 20 CHARACTER MAXIMUM VENTURA.DCK OUTPUT FILE NAME: 20 CHARACTER MAXIMUM QUAKE.DCK
+Options: Y Search by year, month, and day M -- Search by magnitude Q Search by quality - A,B.C... D Search by depth R -- Re-define input & output files C -- Create makephas cuspid file S Stop program
+Select option: D DEPTH OPTION Minimum depth 15.0 Maximum depth 20.0
+Options:
+
+14
+
+Y Search by year, month, and day M Search by magnitude Q -- Search by quality - A.B.C... D Search by depth R Re-define input & output files C Create makephas cuspid file S Stop program
+
+Select option: R INPUT FILE NAME: 20 CHARACTER MAXIMUM QUAKE.DCK OUTPUT FILE NAME: 20 CHARACTER MAXIMUM DIR.DAT
+
+Options: Y Search by year, month, and day M Search by magnitude Q -- Search by quality - A,B.C... D Search by depth R -- Re-define input & output files C Create makephas cuspid file S Stop program
+
+Select option: C CREATE MAKEPHAS FILE OPTION Makephas file DIR.DAT
+
+created
+
+Options: Y Search by year, month, and day M Search by magnitude Q Search by quality - A,B.C... D Search by depth R Re-define input & output files C Create makephas cuspid file S Stop program
+
+Select option: S FORTRAN STOP $
+
+15
+
+program by Lucy Jones_____________________________CATREAD
+
+Purpose To get catalog data which fit specific requirements.
+
+Source Code [LEAP.GET]
+
+Description CATREAD will select events from the CIT database which satisfy requirements chosen interactively by the user in the following categories and output one or two files, depending on the choice for the first category:
+Caltech or HYPOINVERSE plotting format. Caltech format includes the cusp id #, the plotting format does not and is intended for plotting with QPLOT. Time interval Spatial limits - by latitude and longitude bounds or vertices of a polygon. Default area will encompass Southern California. Minimum and maximum magnitude Qualities (of location) desired No quarries, only quarries, or all events.
+The time searched is up to but not including the ending day. Pick the pinked catalog if you want accurate magnitudes or gap data. Pick the qtape catalog if you want to pull from a larger database of events which includes more smaller events. The pinked and qtape catalogs are different only for 4/81 2/83.
+
+Input Files none
+
+Output Files QUAKE.PLT (default) QUAKE.DCK (default)
+
+plotting format Caltech format
+
+Common Errors none
+
+Example run:
+$CATREAD THIS PROGRAM WILL SELECT EVENTS FROM THE CIT DATABASE BY TIME, LOCATION, MAGNITUDE AND QUALITY. THE EVENTS CAN BE WRITTEN IN 2 FORMS - CIT AND/OR HYPOINVERSE PLOTTING FORMAT IN FILES YOU NAME. THE PROGRAM WILL ASK YOU FOR ALL THE NECESSARY PARAMETERS.
+WHICH CATALOG DO YOU WANT TO SEARCH - PINKED
+
+16
+
+CATALOG (P) WITH CORRECT MAGNITUDES FOR THE LARGE EARTHQUAKES, OR THE QTAPE CATALOG (Q) WITH MORE SMALL EARTHQUAKES. [CR=P]?
+Q
+DO YOU WANT CALTECH ("C") , PLOTTING ("P") OR BOTH ("B") FORMATS? [CR=C]? C CALTECH FILE [CR=QUAKE.DCK]?
+BEGINNING YEAR [CR=1981]? 1986 MONTH [CR=1]? DAY [CR=1]? ENDING YEAR [CR=1986]? 1987 MONTH [CR=1]? DAY [CR=1]? HOW WILL YOU DEFINE THE SPATIAL LIMITS - BY LATITUDE AND LONGINTUDE BOUNDS (B) OR BY THE VERTICES OF A POLYGON (P)? [CR=B]? SOUTH LATITUDE LIMIT [CR=32.000]? NORTH LATITUDE LIMIT [CR=36.500]? EAST LONGITUDE LIMIT [CR=114.00]? WEST LONGITUDE LIMIT [CR=122.00]?
+MINIMUM MAGNITUDE [CR=O.OOOOOE-K)0]? 4.0 MAXIMUM MAGNITUDE [CR=10.000]? 6.0 ENTER QUALITIES WANTED ENTER ALL FOR ALL EVENTS ABC FOR SOME SUBSET [CR=ALL]? ENTER N FOR NO QUARRIES Q FOR ONLY QUARRIES B FOR ALL EVENTS [CR=N]?
+READING CATALOGUE FOR 86 READING CATALOGUE FOR 87 FORTRAN STOP $
+17
+
+program by Egill Hauksson_______________________________CPREV
+Purpose To extract the digital seismograms for one earthquake from the multievent seismogram files created by the CEDAR system (the Caltech system from 1977 to 1980).
+Source Code [LEAP.GET]
+Description CDREV creates single event digital seismogram files for CEDAR system earthquakes (Caltech 1977-1980) to be read by (EIW)WAVE or other plotting routines. The CEDAR events were recorded in very large files (upto 25,000 blocks long) containing 10 to 15 earthquakes per file. This files are stored on "PEST" tapes that are kept in Room 055. To get a CEDAR event file:
+1. Find the name of the file which has the earthquake. Look up the event in the log books kept in the timing room on the second floor of the South Mudd building. The earthquakes are in chronological order and are grouped by the name of the file in which they are recorded. These names will be of the form J-14, N-23, etc.
+2. Find the tape with the event. The back three rows of magnetic tapes in Room 055 hold CEDAR tapes by year (1977, 1978, 1979, and Jan-May 1980). Written by hand on the side of each tape are the names of the files recorded on that tape. There are 2 to 8 files per tape. Look at the labels on the tapes to find the file name that you found in the log book. This is not as tedious as it sounds since the files are in order on the tapes so usually only a few tapes bracketing the one you want need to be looked at to find it.
+3. Read the file off the tape with TAPECOPY. Use a block size of 7174 bytes, with no stripping trailing zeroes and no translation. The file will be long (10,000-25,000 blocks) and will contain many earthquakes.
+4. Run CDREV to extract from the large file, the one earthquake that you want. CDREV will read the date and time of each earthquake in the file and ask you if you want to save it. If you answer 'y'» it will create a new file containing only that earthquake. If you answer 'n', it will skip that earthquake and read the next one. If you answer 'q', it will quit reading the file and stop.
+18
+
+Input Files filename.DAT
+
+read from a CEDAR tape by TAPECOPY
+
+Output Files /#########.DAT
+
+records for one event
+
+Common Errors none
+
+Example run:
+
+$CDREV Enter : binary filename e.g. event01.dat EVENT01.DAT
+
+EVENT01.DAT
+
+fileS:
+
+7806041202.dat
+
+Do you want to keep this file ?
+
+Y
+
+[y/n] or q
+
+####
+
+fileS:
+
+7806041356.dat
+
+Do you want to keep this file ? Cy/n] or q
+
+Q
+
+$
+
+19
+
+program by Jim Mori
+
+DINST
+
+Purpose To remove instrument response from CUSP seismograms.
+
+Source Code [LEAP.SEIS]
+
+Description DINST reads seismograms from .D2 or .GRM and .Dl files. Time series are filtered and the instrument response removed in the frequency domain with a subroutine which calculates the poles and zeroes for the various VCO's and discriminators used in the Southern California Network. The low-pass and and high-pass filters are set by the user. The filters can be either zero or non-zero phase. Zero phase filters insure no phase shift in the result, but tend to put non-causal precursors on the signals.
+Instrument constants for each station are read from the file RESPONSE.IN. This file can be created by reformatting (using GSVAX1:: USERSDISK: [MORI.CALPULSEJPC2RESPONSE) files created by DBASE on the USGS PC. If just a few stations are to be processed, the program can be speeded up considerably by using abbreviated .Dl files, which can be made with GSVAX1:: USERSDISK: [MORI.PROGJD1MOD.
+COMMON.INC is a file which has been included and compiled with the source file. It includes a limit on the number of stations and the number of points per record. The buffer for the printers will not take anything greater than about the product of maxs and maxd equals 3200000. If the number of stations and length of the records exceeds this number, you can use NSKIP to divide the plotting process into two parts which are small enough to handle. If you need to change the limit on the # of stations or points per record, then you will have to copy this file and the source file from [LEAP.SEIS] into your directory, edit COMMON.INC, and then recompile it using FORDINST.COM in [LEAP.SEISJ by typing <8[LEAP.SEIS]FORDINST. Otherwise do not worry about this input file. The default is set to 160 stations and 20,000 points.
+
+Input Files X######.D1
+X######.D2 or X######.GRM RESPONSE.IN
+
+Output Files X######.DEC
+
+the deconvolved record the new .Dl file
+
+Common Errors See common errors under RECSEL.
+
+20
+
+Example run:
+
+$ DINST
+
+Enter data type: CIT, or CSP(cusp format)
+
+CIT
+
+enter event name
+
+X134849
+
+X134849
+
+3 62.50300
+
+87 11 24
+
+45.10000
+
+86097257
+
+read dmux data
+
+Enter station name (CAPITALS) ALL - all stations END » end of list *** - start list over ALL
+
+ENTER TIME OFFSET 15.
+
+ENTER TIME LENGTH 60.
+
+Enter station name (CAPITALS) ALL = all stations END » end of list *** = start list over END
+
+WRITE TO .GRM (G) OR MY (M) FORMAT? G
+
+ENTER FREQ. FOR HIGH-PASS FILTER ENTER 0 FOR DEFAULT, WHICH IS A 2ND ORDER FILTER AT 0.3 HZ 0
+
+ZERO-PHASE FILTER? Y OR N Y
+
+ENTER FREQ. FOR LOW-PASS FILTER ENTER 0 FOR DEFAULT, WHICH IS A 2ND ORDER FILTER AT 15 HZ 0
+
+ENTER PERCENT TO TAPER, USUALLY 10 '/, 10.
+
+EWCZ NFFT IS: 62162.23
+
+4096
+
+21
+
+1
+
+52
+
+NO. OF FREQUENCY PTS IN RESPONSE:
+
+COYZ
+
+NFFT IS:
+
+4096
+
+85232.75
+
+NO. OF FREQUENCY PTS IN RESPONSE:
+
+FORTRAN STOP
+
+$
+
+2049 2049
+
+22
+
+program by Bob Dollar________________________________EXPORT
+
+Purpose To obtain useful information from the .MEM file and put it in an ASCII file.
+
+Source Code [LEAP.GET]
+
+Description EXPORT is a simple program to convert much of the binary information in the .MEM file into an ASCII file. See example of .DCK file. EXPORT is exactly the same as MEMDCK for those of you who are more familiar with that.
+
+Input Files X######.MEM
+
+Output files X######.DCK
+
+Common Errors An X in front of the CUSP id # will cause the procedure to crash.
+If the bug still exists, you will get an error involving the WHO tuple. This is not a fatal error, and the .MEM file will still be made. Also, you will get an additional error when you attempt to do this with a MicroVAX file (one with 7 digits in the CUSP id #). This is due to the extra digit in the CUSP id # and is not fatal. The .DCK file will be created correctly but with ****** in the place of the CUSP id # within the file. See below.
+
+Example run:
+
+$EXPORT 1009282 EXPORT: X1009282.MEM
+
+7.FOR-E-OUTCONERR, output conversion error
+
+unit -5 file
+
+user PC 0001B3A3
+
+7,TRACE-E-TRACEBACK, symbolic stack dump follows
+
+module name routine name
+
+line
+
+rel PC
+
+000242D6 000242D6
+
+000241D3 000241D3
+
+00020378 00020378
+
+WHO WHO
+
+21 00000107
+
+CAT CAT
+
+144 00000368
+
+EXPORT$MAIN EXPORTSMAIN
+
+119 000001D4
+
+abs PC
+0001B3A3 000172fO 00016BD4
+
+7.FOR-E-OUTCONERR, output conversion error unit -5 file user PC 000174CA
+
+23
+
+7.TRACE-E-TRACEBACK, symbolic stack dump follows
+
+module name routine name
+
+line
+
+rel PC
+
+000242D6 000242D6
+
+00020378 00020378
+
+CAT CAT
+
+163 00000542
+
+$
+
+abs PC 000174CA
+
+$EXPORT 740066 EXPORT: X740066.MEM
+
+7.FOR-E-OUTCONERR, output conversion error unit -5 file user PC 0001B3A3
+
+7oTRACE-E-TRACEBACK, symbolic stack dump follows
+
+module name routine name
+
+line
+
+rel PC
+
+000242D6 000242D6
+
+000241D3 000241D3
+
+00020378 00020378
+
+WHO WHO
+
+21 00000107
+
+CAT CAT
+
+144 00000368
+
+EXPORT$MAI EXPORT$MAIN
+
+119 000001D4
+
+$
+
+abs PC
+0001B3A3 000172FO 00016BD4
+
+24
+
+program by Lisa Wald____________________________________FBA
+Purpose To enable a plot to be made of records from the Force Balance Accelerometer (strong ground motion) stations only.
+Source Code [LEAP.SEIS] Description FBA is a program that reads a .Dl file and creates a new file with only the information to plot the FBA stations. In order to then plot the FBA records, FBA.OUT must be renamed X######.D1 again. Be careful not to delete the original .Dl file if you think you may need it. Input Files X######.D1
+Output Files FBA.OUT Common Errors If the .Dl file is created from the .MEM file using MEMDCK and HYPARK
+(an old procedure which is not discussed in this manual), the station names will not contain the component as the 4th letter, and FBA will not be able to distinguish FBA stations from other types of stations. Example run: $FBA ENTER CUSP ID FOR EVENT (with the X) X743060 FORTRAN STOP $
+25
+
+program by Lucy Jones_______________________________FOCPLAY
+Purpose To plot first motion data on a focal sphere and interactively choose two perpendicular fault planes.
+Source Code [LEAP.PHASE]
+Description FOCPLAY is an interactive graphics programs for plotting first motion data and fault plane solutions. It is derived from several programs by many people including Whitcomb, Garrimony, Pechmann, Hauksson, Kanamori and Heaton. This program will plot first motions for local recordings of earthquakes on a lower hemisphere stereo projection on the screen of an graphics terminal and allow the user to interactively pick nodal planes for a focal mechanism. The user can choose whether to plot station names, and whether to enter the focal mechanism with the strike of both planes, or with strike, dip and rake. The nodal planes are picked either with cursors or by entering numeric values. Any number of focal mechanisms from one or more files may be plotted in one run of this program a fresh sphere and first motions will be brought up for each mechanism. The input data file is a polarity file (.POL) from FPFIT.
+The program begins with a series of set-up questions. After these questions, the first motions will be plotted and then the cursors will appear on the screen. At this point, the user inputs a test focal mechanism and the program will plot it on the focal sphere with the data. If you chose rake (0) in the setup, you enter strike, dip and rake of one plane and the program will solve for the orientation of the second plane. The strikes and dips of both planes and the rake will be plotted below the mechanism. The conventions are 0 = north, 270= west, etc.; the strike should be 90 degrees COUNTERCLOCKWISE from the dip direction. Thus for a plane striking east-west and dipping 70 degrees to the north enter 270 70. The convention for the rake is 0=left-lateral, 180=right-lateral, 90=thrust, 270=normal. If you chose 2 planes (1) in the setup, you enter the strike and dip of one plane and the strike of the second plane. The program will solve for the rake on the first plane and the dip on the second plane. The strikes and dips of both planes and the rake will be plotted below the mechanism. The conventions are as described above. There is an inherent 180 degree uncertainty in the rake since given only strike, dip and strike the program cannot discriminate right-lateral from left-lateral. If you get a message that the two planes are not perpendicular, enter a strike 180 degrees away - i.e., switch 60 to 240, 0 to 180, etc.
+When the cursors appear, there are three ways of entering focal mechanisms. If you type:
+26
+
+I - you then type in numerical values. No prompt will appear so that the screen will not get cluttered. If you chose rake (0) above, enter the strike dip and rake of one plane. If you chose 2 planes (1), enter the strike and dip of one plane and the strike of the second plane.
+O - will plot the old mechanism. This is a default value for the first time or the mechanism from the last plot for later plots.
+Anything else - The angle defined by the location of the cursors with respect to the center of the focal sphere when you type any other key defines the strike of the first plane. You then type in the dip of that plane and it will be drawn. The cursors will then reappear to enter the strike of the second plane (if you chose 2 planes) or the rake (if you chose rake). The second plane is entered like the first. The cursors don't work really well with rake - but what you mark with the cursors is the position on the first plane where the two planes should intersect.
+After the focal mechanism is plotted, you can choose to replot the earthquake, plot a new earthquake from the same file, open a new file, or stop. See FOCPLAY.DOC in [LEAP.DOC] for more information.
+
+Input Files X######.POL
+
+from FPF1T
+
+Output Files BATCH.PIT
+
+(or choice, if making hard paper copy)
+
+Common Errors After picking the first plane with the cursors the program will wait without prompting for the dip of that plane to be typed in (as numbers, not with the cursor.
+
+Example run:
+$FOCPLAY
+Plot options available:
+1 = Terminal only 2 = Batch only 3 = Preview and prompt (1 & 2) 4 = No plots
+Option? [I20;CR=3j? 1
+Terminals available:
+
+27
+
+1 = Tektronix 4010 (1024 points) 2 = Tektronix 4014 (4096 points) 3 = Retrographics VT640 (VT100) 4 = Megatek 3355 5 = Megatek 7255 6 = Envision 220 7 = Wyse WY-99GT 8 = Jupiter 7 9 = DEC VT240 (in 4014 mode) Device? [I20;CR=3]? 6 Enter seconds to pause after each plot(-l=wait for CR) [CR=-1]? Enter simulated screen height (in.) [F20.0;CR=8.0000]? IOPT=1, THEN FIRST-MOTIONS AND STATION NAMES IOPT=2, THEN FIRST-MOTIONS AND NODAL LINES IOPT=3, THEN FIRST-MOTIONS, STATION NAMES, AND NODAL LINES IOPT=4, NODAL LINES ONLY -- P&T AXES LABELED IOPT [CR=2]? ENTER RAKE(O) OR 2 PLANES(1) [CR=0]? SYMBOLS(0) OR CIRCLES(1) [CR=0]? file name [CR=HQUAKE.POL]? WHIT.POL $
+28
+
+program by P. Reasenberg and D. Oppenheimer________________FPFIT
+
+Purpose To determine focal mechanisms from the first motions at local stations.
+
+Source Code [LEAP.PHASE]
+
+Description FPFIT finds the double-couple fault-plane solution that best fits a given set of observed first motion polarities for an earthquake. The program uses an inversion that finds the source model that minimizes the normalized, weighted sum of first-motion polarity discrepancies. The program also finds alternative solutions which have relatively small misfits. For each of these acceptable solutions, the uncertainty in the model parameters (strike, dip, and rake) is estimated, and this set is used in FPPLOT to display the range of P- and T-axis orientations consistent with the data. Note that non-double-couple solutions are not considered in the program. Also, data errors, unmodeled refractions, and oversimplified layer boundaries may result in incorrect solutions.
+The program may be run interactively or from a command file. If the command file is named FPFIT.INP and it is in the current directory, it will be read automatically when the program is run. It is best to copy the example command file from [LEAP.!NPUT]FPFIT.INP and edit it as you wish for the input and output file names. The reason for this is that it contains commands that correct polarity reversals and that delete horizontal component records. These command lines are the ones that start with REV and KIL. Whenever information about polarity reversals is obtained, the FPFIT.INP file in [LEAP.INPUT] will be updated. It might be wise to recopy this file each time FPFIT is run to be sure of having the most current information.
+All commands are three letters long and are usually followed by one or more parameters or file names. Type HEL for useful information. All parameters will automatically be set to default values except file names. Note: FOR 2 means HYPOINVERSE format. To create the focal mechanism and the associated output files, type FPS at the prompt. To exit the program type STO. See USGS Open-File Report No. 85-739 for more detailed documentation about the program.
+
+Input Files FPFIT.INP (default) X######.C (or filename.C)
+
+optional command file from HYPOINVERSE
+contains azimuths and angles of incidence
+
+29
+
+Output Files X######.OUT X######.FPS X######.POL
+
+residuals file solution file graphic plot file
+
+Common Errors Name of input file in directory is different than that in the command file.
+
+Example run:
+
+$FPFIT FPFIT USES 3-LETTER COMMANDS, WHICH CAN BE FOLLOWED BY PARAMETERS IN FREE-FORMAT, OR WHICH DISPLAY CURRENT VALUES & GENERATE PROMPTS.
+
+TYPE "HEL" FOR INFORMATION ON AVAILABLE COMMANDS. YES?
+
+FPS # ORIGIN TIME DDR DIP RAKE CNVRG
+
+LOCATION
+
+DEPTH MAG
+
+1 860708 2236 25.10 34- 2.02 116-40.45 12.15 165 30 70 NO
+YES? STO FORTRAN STOP $
+
+0.00
+
+30
+
+program by P. Reasenberg and D. Qppenheimer
+
+__________FPPAGE
+
+Purpose To plot up to 42 fault plane solutions calculated by FPFIT on a single page.
+
+Source Code [LEAP.PHASE]
+
+Description FPPAGE is an interactive plotting program for plotting up to 42 focal mechanisms as determined by FPFIT on one page. Each fault plane solution is represented by a lower-hemisphere equal-area projection. Compressional rays are depicted as solid circles, and dilatational rays as open circles. Plotting of the first motion symbols may be suppressed. P- and T-axes of the solution are plotted. If first motion plotting is suppressed, only the T-axis is plotted. See USGS Open-File Report No. 85-739 for more detailed documentation.
+
+Input Files x######.POL
+
+from FPFIT
+
+Output Files BATCH.PIT
+
+(or choice, if making hard paper copy)
+
+Common Errors none
+
+Example run:
+
+$FPPAGE FILE FOR HYPOCENTER INPUT: [CR=NONE]? HQUAKE.POL
+
+PLOT EVENT HEADERS AS NUMBERS (N) OR DATES (D)? [CR=D]? N
+
+ENTER NUMBER OF MECHANISMS TO SKIP (INCLUDING MULTIPLE SOLUTIONS): [CR=0]? ENTER NUMBER OF MECHANISMS TO PLOT (0=ALL): PLOT MULTIPLE SOLUTIONS (Y OR N)? [CR=Y]? PLOT FIRST MOTION DATA (Y OR N)? [CR=Y]?
+
+[CR=0]?
+
+PLOT COMPRESSION SYMBOL AS "+" (=0)
+
+OR SOLID CIRCLE (=1)?
+
+[CR=0]?
+
+1
+
+Plot options available:
+
+31
+
+1 = Terminal only 2 = Batch only 3 = Preview and prompt (1 & 2) 4 = No plots
+
+Option? [I20;CR=3]? 2
+
+Batch devices available:
+
+1 = Disk file
+
+Device? [I20;CR=l]?
+
+Enter name for plot file [CR=Batch.plt
+
+]
+
+MAXIMUM PLOT SIZE = FORTRAN STOP $
+
+2.000000
+
+X 10.50000
+
+32
+
+program by P. Reasenberg and D. CDDenheimer __________FPPLOT
+
+Purpose To plot all acceptable fault plane solutions calculated by FPFIT, one per page.
+
+Source Code [LEAP.PHASE]
+
+Description FPPLOT is an interactive plotting program for displaying the fault plane solutions determined by FPFIT. Each solution is plotted on a separate page. Each 5.75" diameter circle is a lower-hemisphere equal-area projection of the fault plane solution and first-motion data. Compressional rays are represented by plus symbols, dilatational rays by open circles. Upgoing rays are indicated by boldface symbols, downgoing rays with light-lined symbols. The size of the symbol can be proportional to the observation weight associated with the ray. Discrepant observations are listed in a table to the right of the focal mechanism. A 2.5" diameter circle in the bottom right is a lower-hemisphere equal-area projection showing the P- and T-axes for all the acceptable solutions with the best solution in boldface. See USGS Open-File Report No. 85-739 for more detailed documentation.
+
+Input Files X######.POL
+
+from FPFIT
+
+Output Files BATCH.PIT
+
+(or choice, if making hard paper copy)
+
+Common Errors none
+
+Example run:
+$FPPLOT FILE FOR HYPOCENTER INPUT: [CR=NONE]? X746395.POL
+PLOT STATION NAMES (Y OR N)? [CR=Y]? PLOT SYMBOL SIZE PROPORTIONAL TO WEIGHTS (Y OR N)? [CR=Y]?
+MENU OF PLOT OPTIONS A = PLOT ALL MECHANISMS D = REQUEST MECHANISMS BY DATE & ORIGIN TIME N = REQUEST MECHANISMS BY SEQUENCE NUMBER
+(INCLUDING MULTIPLES)
+
+ENTER PLOT SEQUENCE OPTION: [CR=A]? ENTER NUMBER OF MECHANISMS TO SKIP (INCLUDING MULTIPLE SOLUTIONS): [CR=0]? Plot options available: 1 = Terminal only 2 = Batch only 3 = Preview and prompt (1 & 2) 4 = No plots Option? [I20;CR=3]? 2 Batch devices available: 1 = Disk file Device? [I20;CR=1] Enter name for plot file [CR=Batch.plt $
+34
+
+program by Jim Mori_______________________________GETREC
+
+Purpose To select station records and time windows from the seismograms of an event for plotting.
+Source Code [LEAP.SEIS]
+Description GETREC is a program that allows users to select individual station records and time windows for each record of a particular event for plotting. The selection information for all stations is then put into a sequential ASCII file for further processing. You must have already looked at each record you are interested in with some plotting program such as VERSAREC, (EIW)WAVE, or RECSEL in order to select an appropriate time window. Time is in seconds.
+COMMON. INC is a file which has been included and compiled with the source file. It includes a limit on the number of stations and the number of points per record. The buffer for the printers will not take anything greater than about maxs x maxd = 3200000. If the number of stations and length of the records exceeds this number, you can use NSKIP to divide the plotting process into two parts which are small enough to handle. If you need to change the limit on the number of stations or points per record, then you will have to copy this file and the source file from [LEAP.SEIS] into your directory, edit COMMON. INC, and then recompile it using FORGETREC.COM in [LEAP.SEIS] by typing <a[LEAP.SEIS]FORGETREC. Otherwise do not worry about this input file. The default is set to 160 stations and 20,000 points.
+A .GRM file is CSP format, and a .D2 file is CIT format.
+Input Files X######.D2 or X######.GRM
+
+Output Files user's choice
+
+Common Errors See errors under RECSEL.
+
+Example run:
+
+$GETREC Enter data type: CSP enter event name X746395
+
+CIT, or CSP (cusp format)
+
+35
+
+X746395 15 100.0000 45.21000
+
+88 6465691
+
+3 23
+
+read dmux data
+
+Enter station name (CAPITALS) END - end of list *** = start list over WHS
+
+ENTER TIME OFFSET 10. ENTER TIME LENGTH 30.
+
+Enter station name (CAPITALS) END - end of list *** = start list over END
+
+ENTER NAME OF OUTPUT FILE TEST.OUT FORTRAN STOP $
+
+17
+
+38
+
+36
+
+program by Lucy Jones______________________________GETRTP
+Purpose To extract an ASCII format catalog from the binary catalog files created by the Southern California RTF.
+Source Code [LEAP.GET] Description GETRTP reads the binary files created by CUSP using data from the Southern California RTF (real-time processor i.e., automatic locations of recent earthquakes) and creates an ASCII file with that information. All earthquakes catalogued by the RTF (those that passed the criteria for being "real") in the last 15 days are included in the output file if you just type GETRTP. If you type GETRTP #, # being a number of days from the present, the output file will include all events in the last number of days that were specified. Input Files none
+Output Files RTP.DAT Common Errors none
+Example run: $GETRTP FORTRAN STOP $
+37
+
+program by Lisa Wald_____________________________GRMCHOP
+Purpose To select records of interest for plotting from the larger set of all triggered stations and create a new, smaller binary digital data file (.GRM), and a new associated "pointer file" (.Dl). Also, to create an individual ASCII file of digital seismogram data for each station of interest.
+Source Code [LEAP.SEIS]
+Description GRMCHOP allows a choice of two options:
+allows users to generate a new .Dl and .GRM file (sequential, binary) with all station records filtered and decimated to sampling interval of choice. This is useful when the event is very large and the sampling interval is unnecessarily fine, creating an awkwardly large .D2 or .GRM file.
+allows users to select station records of interest and create an individual ASCII file of the digital data for each station. Records may be filtered and decimated to sampling interval of choice. Useful for converting data for use with other types of digital records.
+Either a .GRM file or a .D2 file may be used for the input, but the format for the output file is the .GRM type only. A .GRM file is CSP format, and a .D2 is CIT format. The new .Dl and .GRM files are called X######.D and X######.DEC, respectively. If you want to run auxiliary CUSP programs with them, they must be renamed with the .Dl and .GRM suffixes.
+CHOP.INC is a file which has been included and compiled with the source file. It includes a limit on the number of stations and the number of points per record. The buffer for the printers will not take anything greater than about the product of maxs and maxd equals 3200000. If the number of stations and length of the records exceeds this number, you can use NSKIP to divide the plotting process into two parts which are small enough to handle. If you need to change the limit on the number of stations or points per record, then you will have to copy this file and the source file into your directory, edit CHOP.INC, and then recompile it using FORGRMCHOP.COM in [LEAP.SEIS] by typing <Q [LEAP. SEIS] FORGRMCHOP. Otherwise do not worry about this input file. The default is set to 160 stations and 20,000 points.
+See also description under RECSEL for details on filtering and decimation.
+38
+
+Input Files X######.D2 or X######.GRM
+
+Output Files X######.DEC X######.D station name.DIND
+
+the new decimated .GRM file the new .Dl file
+individual ASCII station file
+
+Common Errors The old .P file is not compatible with the decimated .GRM file, so phase picks will not be in the correct place in the record if you try to use it. See common errors under RECSEL.
+
+Example run:
+
+$GRMCHOP
+
+Enter data type: CIT, or CSP(cusp format)
+
+CSP
+
+ENTER EVENT NAME
+
+X746395
+
+X746395
+
+15 100.0000
+
+88 3 23
+
+45.21000
+
+6465691
+
+17
+
+READING DMUX DATA ENTER CORN. FREQU. OF HIGHPASS BUTTERWORTH. ENTER ZERO IF YOU WANT FILTERING SKIPPED .01
+
+ENTER CORN. FREQU. OF LOWPASS BUTTERWORTH. ENTER 1000. IF YOU WANT FILTERING SKIPPED 1.0
+
+ENTER THE DECIMATION FACTOR (2 will take every other point, 3 will take every third point, etc.) ENTER 1 TO SKIP DECIMATION 5
+
+SELECTED STATIONS OR ALL (SEL or ALL)? ALL FORTRAN STOP $
+
+38
+
+$GRMCHOP Enter data type: CSP ENTER EVENT NAME X746395
+
+CIT, or CSP(cusp format)
+
+39
+
+X746395 15 100.0000 45.21000
+
+88 6465691
+
+3 23
+
+17
+
+READING DMUX DATA ENTER CORN. FREQU. OF HIGHPASS BUTTERWORTH. ENTER ZERO IF YOU WANT FILTERING SKIPPED 0.
+
+ENTER CORN. FREQU. OF LOWPASS BUTTERWORTH. ENTER 1000. IF YOU WANT FILTERING SKIPPED 1000.
+
+ENTER THE DECIMATION FACTOR (2 will take every other point, 3 will take every third point, etc.) ENTER 1 TO SKIP DECIMATION 5
+
+SELECTED STATIONS OR ALL (SEL or ALL)? SEL
+
+Enter station name (CAPITALS) END - end of list *** = start list over ISA Enter station name (CAPITALS) END - end of list *** = start list over WOF Enter station name (CAPITALS) END = end of list *** = start list over WJP Enter station name (CAPITALS) END * end of list *** = start list over END FORTRAN STOP $
+
+38
+
+40
+
+program by Fred Klein___________________________HYPQINVERSE
+Purpose To locate earthquake hypocenters from arrival time information.
+Source Code [LEAP.PHASE.HYPOINVERSE]
+Description HYPOINVERSE is a general purpose, file oriented earthquake location program written for mini/micro-computer use. Complete descriptions of the program, its algorithms, usage, files, etc. are in U.S.G.S. Open-file Reports 78-694, 85-515 and 89-xxx, all by Fred Klein. In summary, the input data are arrival times of P and S waves (and optionally coda durations) at some set of stations, locations of those stations with optional station delays and 1-24 crustal model(s) while the output results are hypocenters, duration magnitudes (if duration data included), and azimuth and takeoff angles for all phases.
+One of the newest features of HYPOINVERSE includes multiple overlapping velocity models for different areas with smooth transitions, all defined by the user. Also, HYPOINVERSE now offers the option to read .MEM files directly or the shadowcard format currently used in Menlo Park.
+The version of HYPOINVERSE on the USGS VAX and Caltech VAX in Pasadena is driven by user commands. The various commands define input and output files, set adjustable parameters, and locate a file of earthquake data using the parameters and files currently set. It is both interactive and "batch" in that commands can be entered from either the keyboard or a file.
+All commands are 3 letters long and are usually followed by one or more parameters or file names. Character strings such as file names must be enclosed in apostrophes, and may be up to 40 characters long. HYPOINVERSE commands do not generate prompts and must be followed by the required parameters in the required order (see the USGS Open-file Report 85-51 for more information or use the sample comrriands in the HYPINST. file see below). The HYPINST. file contains the 3-letter commands which run the program and instructs which crustal model file, station file etc. to use in the location. When you start HYPOINVERSE, default values are in effect for all parameters except file names. A DCL command file has been set up to run HYPOINVERSE called HYPOINVERSE.COM which will read in filename.? and write out filename.C, .HI, and .0. If you are running the program interactively, the executable version is called HYP.EXE. After typing in the input and output- file names, type LOG to locate the event and STO to exit the program. See the second example run below.
+41
+
+If a file called HYPINST. resides in your current directory, it is read as a startup file by HYPOINVERSE. It can be used to set your own default values, read station or crust model files that you always use, etc. A sample HYPINST. file and HYPOIIWERSE.COM filename can be found in [LEAP.INPUT]. HYPOINVERSE.COM is a command procedure to run the executable (HYP) without editing HYPINST. for different cusp id numbers each time a new earthquake is located. The input and output filenames in HYPINST. are HQUAKE.P, HQUAKE.O, etc. The command file copies X######.P to HQUAKE.P, runs HYPOINVERSE, and then renames HQUAKE.O, etc. to X######.0, etc. See first example run below.
+Current station files called PASALL.STA, PASNOW.STA, and MENLO.STA and a crustal model file called HADLEY.CRU will also be kept in this same directory. PASALL.STA contains all the USGS-CIT stations that have ever existed, PASNOW.STA contains all those stations that are currently in operation, and MENLO.STA contains all the Menlo Park stations that ever existed. The current USGS-CIT station file will be updated as needed. These input files can have any name and can be entirely different than the two examples. Other example input and output files are in [LEAP.INPUT] with the prefix HYPOIN. The full path name to these files should be specified when running the program except HYPINST. which should be put into your default directory.
+
+Input Files HYPINST.
+
+optional instruction file (HYP)
+
+[LEAP.INPUT]PASNOW.STA (for example,see above) station file (STA)
+
+[LEAP.INPUTJHADLEY.CRU
+
+crustal model (CRH)
+
+filename.?
+
+from MAKEPHAS (PHS)
+
+Output Files filename,HI filename.0 filename.C
+
+summary file (SUM) printed extended output (PRT) Archive (phase, travel path info.) (ARC)
+
+If a name for one of these files is not defined with the appropriate command either interactively or in HYPINST., that file will not be created. It is thus possible to run HYPOINVERSE and get no output at all. Any names can be used, but many find it convenient to have the same name with different endings for the input phase and all output files.
+
+Common Errors Forgot, quotes around filenames in input
+
+42
+
+Example run:
+
+$HYPOINVERSE FILENAME this assumes a HYPINST. file
+
+HYPOINVERSE STARTING
+
+is in the directory
+
+EVENT LOCATED: REMARK -LAT-
+
+NUM RMS ERH ERZ
+
+86/ II 8 22:36
+
+34 2
+
+16 0.08 0.24 0.33
+
+$
+
+--LON116 40
+
+DEPTH 12.15
+
+XMAG 0.0
+
+FMAG 0.0
+
+$HYP
+
+directly running the program interactively
+
+SUM 'filename.HI * PHS 'filename.?' ARC 'filename.C* STA 'filename.DCK' CRH 1 'velocity model.DCK 1 LOG
+
+HYPOINVERSE STARTING
+
+EVENT LOCATED: REMARK -LAT-
+
+NUM RMS ERH ERZ
+
+86/ II 8 22:36
+
+34 2
+
+16 0.08 0.24 0.33
+
+STO
+
+$
+
+--LON116 40
+
+DEPTH 12.15
+
+XMAG 0.0
+
+FMAG 0.0
+
+43
+
+program by Lucy Jones____________________________MAGADD(C)
+
+Purpose To add the magnitude of an event to the summary line in the HYPOINVERSE output files (.HI, .C).
+
+Source Code [LEAP.PHASE]
+
+Description MAG ADD is a program that copies the Caltech magnitude from the .P file of an event and puts the magnitude in the .HI file for that event. HYPOINVERSE locates events but cannot calculate Caltech magnitudes. Caltech magnitudes are local magnitudes for larger events or coda amplitude for smaller events. To have magnitude in the output files for plotting with QPLOT, magnitudes must be added. This procedure can be used if you want to make a seismicity plot (with QPLOT) and represent different size earthquakes with different size symbols. Normally the .HI file contains a 0 in the place of the magnitude. The magnitude appears in columns 69 & 70 of the summary line.
+
+MAG AD DC is a program that copies the magnitude from the .P file of an event and puts the magnitude in the .C file for that event. This procedure should be used if you want to use FPFIT and have the magnitude of the events appear on the focal mechanism plot. As above, the magnitude columns of the .P header normally contain a 0. The output file will have a .CM suffix which should be changed to .C to use in FPFIT.
+
+Input Files X######.P X######.HI X######.C
+
+(or filename.?) (for MAGADD only) (for MAGADDC only)
+
+Output Files X######.LO X######.CM
+
+(for MAGADD only) (for MAGADDC only)
+
+Common Errors none
+
+Example run: same for MAGADDC
+$MAGADD FILE NAME? [CR=PALMS]? HQUAKE
+REACHED END OF .HI FILE $
+
+44
+
+program by Susanna Gross__________________________MAKEPHAS
+Purpose To extract phase information from a .MEM file for relocating with HYPOINVERSE or using in other programs. Also, to obtain an ASCII "pointer file" in order to use one of the several plotting programs such as WAVE or RECSEL
+Source Code [LEAP.GET]
+Description MAKEPHAS pulls information from a .MEM file or a list of .MEM files and creates:
+o a .P file, a phase file with the P picks for each station in HYPOINVERSE format a .Dl file, a "pointer file" needed for using plotting the seismograms, optional
+This program does not require any special CUSP structures or files other than the input files.
+The CUSP id #'s for which the user wants a .P or .Dl file are read from a file which can be created by:
+DIRECTORY/SIZE X*.MEM /OUT=DIR.DAT
+This will produce a file called DIR.DAT with a list of all the CUSP events for which you have .MEM files in your directory. DIR.DAT is the default in the program, although the file can be named anything. If you want only selected events, you can create a file with a list of the CUSP id #'s like this:
+X643295 X643297
+To run MAKEPHAS, you must define the input directory CUSPIN. This is the directory the program will search for the .MEM files listed in the CUSP id file. If the .MEM files are in your local directory (e.g. you copied them over or ran RDFRZ), type:
+DEFINE CUSPIN []
+If you want .MEM files from a processing directory, for instance the working directory for May 1988, you would type:
+DEFINE CUSPIN CITVAX::DISK1:[CIT.88MAY]
+The last qiiestion the program will ask determines the format of the summary lines in the phase file. If you answer "y", the phase file will be
+45
+
+in HypoTl format, with extra data for coda duration, network, CUSP remarks, etc. Otherwise, it will be standard HYPOINVERSE format. Input Files X######.MEM DIR.DAT Output Files X######.P
+Common Errors The CUSP ID file (DIR.DAT) has not been created X left off of beginning of CUSP id #'s X not in upper case
+Example run: $DEFINE CUSPIN [] $MAKEPHAS Output phase file name: [CR=FILE.P]? Cusp ID list file name: [CR=DIR.DAT]? Do you want . Dl files generated? [CR=Y] ? Do you want HypoTl summary lines? [CR=Y] ? N ===> 1 : 746395 Writing seismogram information. X 746395. Dl $
+46
+
+program by Lisa Wald ________ ______
+
+_________NSKIP
+
+Purpose To determine the number of data points to skip when plotting only part of the seismograms in a .D2 file; for example, the second half of the network that triggered on a large event.
+Source Code [LEAP.SEIS]
+Description NSKIP is a simple little program that adds all the data points in the .Dl file that should be skipped when you want to start plotting the records at a station other than the first one. You do not have to specify which station you want to start with, the number to be skipped is determined for each station. Note that the first record (which is usually TIME) must always be plotted or all the other ones will be offset for some, as of yet, unknown reason. The length of the first station is taken into account in the determination of points to skip.
+Input Files X######.D1
+Output Files NSKIP.OUT
+Common Errors X must be in front of CUSP id #
+Example run:
+$NSKIP ENTER EVENT NAME X740066 FORTRAN STOP $
+
+47
+
+programs by Carl Johnson________PQST/STATUS/RESULT/RECYCLE
+
+Purpose
+
+POST To put an event in a particular processing state. For our purposes, this processing state will be SNARK.
+
+STATUS To list the status of events being processed.
+
+RESULT To change a single event from one status number to another. This is useful for deleting an event from a SNARK state in order to get it off a magnetic tape after already doing it once before.
+
+RECYCLE To change all events from one state to another.
+
+CUSP is a state driven system. A file called a CUSP.KIN in each working directory keeps track of the state of each earthquake. When any CUSP process is run, it looks in the CUSP.KIN for all earthquakes in the appropriate state, and then runs the process on all those events. Thus to run any process on the right earthquakes, one must be able to move events from one state to another.
+
+Source Code CUSP$DISK:[CUSP.SRC] - GSVAX DIR$CUSP:[EXECUTABLES] - CITVAX
+
+Description POST labels an event for some stage of processing. The state number tells the priority of the processing for that state.
+STATUS prints on the screen the status of all events being processed in the current directory. It is ordered alphabetically by the states in which events appear. Within each state events are ordered by CUSP id # in ascending order.
+RESULT changes an event that is in some state from one priority number to another. If the new number is 0, then the event is removed from the status list.
+RECYCLE moves all events from one processing state to another.
+You must have a special CUSP directory structure to do these procedures.
+
+Input Files CUSP.KIN
+
+Output Files none
+
+Common Errors One of the input files is not present.
+
+48
+
+Example run:
+
+$STATUS
+
+$POST 746395 SHARK $POST 743594 SHARK $POST 746333 SHARK $POST 746222 SNARK
+
+$STATUS
+
+743594 : 746222 : 746333 : 746395 :
+
+SNARK.0 SNARK.0 SNARK.0 SNARK.0
+
+$RESULT 743594 SNARK 0
+
+$STATUS
+
+746222 : SNARK.0 746333 : SNARK.0 746395 : SNARK.0
+
+$RECYCLE SNARK 0 REVIEW 80
+
+746222 : SNARK 746333 : SNARK 746395 : SNARK
+
+0 => REVIEW 0 => REVIEW 0 => REVIEW
+
+$STATUS
+
+746222 : 746333 : 746395 : $
+
+REVIEW.80 REVIEW.80 REVIEW.80
+
+80 80 80
+
+49
+
+program by Carl Johnson_________________________________QED
+
+Purpose To time events, enter hand-picked data from paper records, and check location interactively.
+
+Source Code CUSP$DISK:[CUSP.CLONE] - GSVAX CITVAX$DUAO:[SOCALCOMBAT] - CITVAX
+
+Description QED is the quake editor. It is used to originally time and locate events recorded on the Southern California (and Central California) Network and to enter hand-picked data from paper records both interactively. You must use a Tektronics terminal or equivalent to see the seismograms and make phase picks from them. Any terminal can be used for editing. QED requires a special CUSP directory structure although in the future this will not be a requirement (at which time a new updated version of this manual will be printed). Documentation on QED is currently being written but is not yet completed. See Kate Hutton for more detailed information about using this program.
+
+Input Files X######.GRM X######.MEM CUSP.KIN CAT.KIN CLONE.KIN
+
+only if cloning an event
+
+Output Files X######.MEM
+
+with new information
+
+Common Errors none
+
+Example run: See detailed documentation in [LEAP.DOCJ.
+
+50
+
+program by Fred Klein________________________________QPLOT
+
+Purpose To make maps and plots of seismicity, stations, spatial plots, etc.
+
+Source Code USER$DISK:[PROGS.QPLOT]- GSVAX
+
+Description QPLOT is a general plotting program with a large variety of options. It is driven by 4-Ietter commands which may either be typed in at a terminal or read and executed from a command file by typing JUMP and entering the command file name. A sample command file called QPLOT.JMP can be found in [LEAP.IMPUT]. Digitized lines for various California features are found in [LEAP.MAP]. To use them in QPLOT you must first dump this information into ASCII files using SIFT. See SIFT for further information. Very detailed documentation about QPLOT may be found in [LEAP.DOCJ or by typing HELP at the prompt while in QPLOT.
+
+Input Files filename.JMP
+
+if using a file with commands
+
+other input files vary with type of plot, but may include: list, of stations digitized lines (state boundaries, faults, etc.) list of earthquakes
+
+Output Files BATCH.PLT
+
+(or choice, if making hard paper copy)
+
+Common Errors none
+
+Example run: $QPLOT
+Plot options available:
+1 = Terminal only 2 = Batch only 3 = Preview and prompt (1 & 2) 4 = No plots
+Option? [I20;CR=3]? 2
+Batch devices available:
+1 = Disk file
+Device? [I20;CR=i]? Enter name for plot file [CR=Batch.plt
+
+]
+
+51
+
+Welcome to the new QPLOT. COMMAND? MTIT MAIN TITLE CHAR. SIZE, INCHES .3 MAIN TITLE? [CR=]? L.A. BASIN
+
+(0 FOR NONE)
+
+[CR=0.OOOOOE+00]?
+
+COMMAND?
+
+LINE
+
+NUMBER OF LINE FILES (0-8) [CR=0]?
+
+2
+
+FILE NUMBER
+
+1
+
+LINEAR DATA FILENAME?
+
+[CR=]?
+
+CALBOUND.DCK
+
+PEN NUMBER [CR=1]?
+
+DASH PATTERN NUMBER (0=SOLID OR 1-10) [CR=0]?
+
+FILE NUMBER
+
+2
+
+LINEAR DATA FILENAME?
+
+[CR=]?
+
+FAULTS.DCK
+
+PEN NUMBER [CR=1]?
+
+DASH PATTERN NUMBER (0=SOLID OR 1-10)
+
+[CR=0]?
+
+COMMAND? STAS STATION FORMAT: 0=NO STAS 1=H71 2=HYPOE,HYPOI [CR=2]? STATION FILENAME? [CR=NONE.]? CALNET.DCK LABEL THE STATION WITH A 4-LETTER NAME [T OR F, CR=T]? F STATION SYMBOL TYPE [CR=10]? STATION SYMBOL SIZE [CR=10]? 3
+
+COMMAND? FILE DATA INPUT FILENAME? [CR=NONE.]? QUAKE.DCK
+
+COMMAND? SCAL
+
+52
+
+MAP, DISTANCE & DEPTH SCALE [CR=0.45000E+06]? 5000000
+
+COMMAND?
+
+AMAP
+
+USING SCALE OF 5000000., SET UP MAP FROM NEW LIMITS:
+
+LEFT DEC [CR=156.00]?
+
+120.
+
+LEFT MIH [CR=23.385]?
+
+0.
+
+RIGHT DEC [CR=78.000]?
+
+114.
+
+RIGHT MIN [CR=36.615]?
+
+0.
+
+TOP DEC [CR=50.000]?
+
+35.
+
+TOP MIN [CR=10.022]?
+
+0.
+
+BOT DEC [CR=16.000]?
+
+32.
+
+BOT MIN [CR=49.978]?
+
+0.
+
+NEW LON AXIS= 4.380403
+
+IN., NEW LAT AXIS= 2.626500
+
+COMMAND? SAVE SAVE PARAMETERS ON FILE: [CR=]? TEST.JMP
+
+COMMAND? PLOT
+
+COMMAND? QUIT
+
+53
+
+program by Bob Dollar_________________________________RDFRZ
+Purpose To copy .MEM files from a magnetic tape to the disk.
+Source Code CUSP$DISK:[CUSP.BIN] - GSVAX
+Description RDFRZ is a command procedure that will search for selected .MEM files on a magnetic tape called a FREEZE tape and copy each one onto the disk. It can read commands in a file (which must be named RDFRZ.DCK) or will prompt the user for commands at the terminal. It will automatically look for a RDFRZ.DCK file in your directory, and if it is not found, it will prompt the terminal. You must have a CAT.KIN file in your directory. Type CATKIN to create this file if you have not already done so after you logged in. Command options: a) BOX -sort on a rectangular geographic box where the corners are defined in deciamal degrees (north and east are positive). Input order: north lat.,south lat.,east long.,west long. b) MAG -sort on a specified magnitude range. Input order: low mag., high mag. c) DEPTH -sort on a depth range. Input order: shallow, deep
+d) CID -search for CUSP id #. Input: CID ###### e) TEL -search for teleseismic events, keeping only those that
+were digitally recorded. f) MTSKIP -skip V number of events on tape before reading. Default
+is 0.
+g) MTREAD -read V number of events for further processing. Default is all events.
+h) MTFIND -find only V number of events, then quit. Defualt is all. i) READMT -read the magnetic tape drive immediately. Currently the
+device name is MT: j) END -end of input, now read tape. Same as READMT. k) STOP -exit the program, do not read the tape. This is useful
+for debugging and for practicing instruction input prior to actually reading the tape.
+54
+
+One cat tuple for each event will be put into the existing CAT.KIN, and a summary line will be put in a CAT.BIN file that is created by the program if it does not already exist. FREEZE tapes are recorded at 1600 bpi.
+
+Input Files RDFRZ.DCK CAT.KIN
+
+if you want to use a command file
+
+Output Files CAT.BIN
+
+X######.MEM
+
+for each selected event
+
+RDFRZ.LST contains 1 summary (catalogue) line for each extracted event
+
+and sort instructions
+
+Common Errors No CAT.KIN file. Create by typing CATKIN.
+If you have already gotten an event off a FREEZE tape and attempt to do it again, you will have to create a new CAT.KIN by typing CATKIN. Once the tuple for an event is in the CAT.KIN, it will not allow you to get that event again.
+The tape was not mounted. If you exit the program, your tape will be dismounted.
+You will always get some fatal error messages when the tape is read, however, you will notice that the procedure will continue and produce the output that you desire. These messages can be ignored. See below.
+
+Example run:
+
+$MOUNT/FOR MTAO: '/.MOUNT-1-MOUNTED, mounted on _MTAO:
+
+$CATKIN
+
+$RDFRZ
+
+IRES=
+
+0, IER= 97, PROBLEMS WITH RDFRZ.DAT:
+
+ENTER INSTRUCTION:
+
+CID 1102787
+
+CID 1102787 READMT
+
+CHANNEL
+
+176 ASSIGNED TO MTAO: LDSW =
+
+** PUTAT -- FATAL ERROR: 20
+
+** CATKIN -- FATAL ERROR: 830
+
+** GETAT -- FATAL ERROR: 20
+
+** CATBIN -- FATAL ERROR: 254
+
+RDFRZ: STOP.
+
+7 FREEZE.
+
+1 SELECTED EVENTS.
+
+$
+
+program by Lisa Wald_______________________________RECSEL
+Purpose To plot seismograms.
+Source Code [LEAP.SEIS]
+Description RECSEL is a plotting program specifically for CUSP seismogram data with a variety of plotting options:
+plot records in computer channel # (pin #) order
+plot records in order of increasing epicentral distance
+Both of the above include the following options:
+high-pass filter low-pass filter decimation factor time scale amplitude scale plotting device
+GAIN.DAT must be changed for each event. This information can be obtained from the USGS network database. Each record will have the amplitude in microns (bias removed, labeled absamp), in digital counts (bias not removed, labeled amp), and bias (labeled bias). If digital count amplitude exceeds the limit ( a glitch) or gain information is not available for a station, the absolute amplitude in microns will be shown as the saine as amplitude in counts. The absolute amplitude is only a rough estimate and is not to be used for anything but getting a rough estimate. When certain settings on the seismometer instruments are changed, as planned in the future, the equations used for calculating the absolute amplitude will no longer be correct. At that time, the program will be updated.
+COMMON.INC is a file which has been included and compiled with the source file. It includes a limit on the number of stations and the number of points per record. The buffer for the printers will not take anything greater than about the product of maxs and maxd equals 3200000. If the number of stations and length of the records exceeds this number, you can use NSKIP to divide the plotting process into two parts which are small enough to handle. If you need to change the limit on the # of stations or points per record, then you will have to copy this file and the source file from [LEAP.SEIS] into your directory, edit COMMON.INC, and then recompile it using FORRECSEL.COM in [LEAP.SEIS] by typing <0[LEAP.SEIS]FORRECSEL. Otherwise do not worry about this input file. The default is set to 160 stations and 20,000 points.
+56
+
+Latitude and longitude convention is North and East are positive. Distance is in kilometers. A .GRM file is CSP format, and a .D2 file is CIT format.
+When plotting in order of increasing epicentral distance, if the station is not in PASALL.STA, the plot will not include that station. The list contains all stations that have been active at some time in the Southern California Network. If you need to use another station list, you will have to copy the program into your directory along with COMMON. INC, change the station list OPEN statement in the program, and recompile it using FORRECSEL.COM as above.
+A little explanation is needed concerning the choices of normalization (see the example run below). S will take each individual record and make the largest amplitude one unit and scale all the other points in that record by that unit. RG will scale every record with the one single scale, using 2048, the largest amplitude count that can be recorded on the digitizer, as one unit. The scaling for the plots is done before the gain information is removed from the records. R is the same as RG except that the scaling for the plots is done after the gain information has been removed from the records.
+
+Input Files X######.D2 or X######.GRM
+
+PASALL.STA
+
+needed
+
+only for increasing epicentral distance plots. GAIN. DAT must be edited for
+
+attenuation and discriminator velocity values for date of event (use USGS
+
+database if absolute amplitudes are important).
+
+Output Files BATCH. PLT DISTAZ.OUT
+
+(or choice, if making hard paper copy) only if increasing epicentral distance
+
+Common Errors If the number of stations exceeds the parameter the MAXS dimension in COMMON. INC, or the number of points exceeds the MAXD dimension in COMMON. INC, you will get an error. To correct this, you must either edit COMMON. INC and increase the dimension of one or both of these parameters (being careful not to exceed the MAXD * MAXS = 3200000 limit), or plot the records in two passes (ie. for example, the first 130 the first time and the remaining 125 the second time) using NSKIP.FOR to determine how may sequential data points to skip before plotting the first record in the second pass. See description on MS KIP.
+
+Example run:
+$RECSEL ENTER ALL RESPONSES IN UPPER CASE
+
+Enter data type: GIT, or CSP(cusp format) CSP
+
+enter event name
+
+X746395
+
+X746395
+
+15 100.0000
+
+88
+
+45.21000
+
+6465691
+
+read dmux data
+
+3 23
+
+17 38
+
+Plot options available:
+
+1 = Terminal only 2 = Batch only 3 = Preview and prompt (1 & 2) 4 = No plots
+
+Option? [I20;CR=3]? 2
+
+Batch devices available:
+
+1 = Disk file
+
+Device? [I20;CR=1]?
+
+Enter name for plot file [CR=Batch.plt
+
+]
+
+ENTER THE TITLE OF THE PLOT (a80) TEST.PLT
+
+ENTER TIME SCALE (SECONDS/INCH) AND PLOT HEIGHT IN INCHES MEASURED FROM ZERO LINE NOTE: if choosing ordinary plots or plots in increasing epicentral dist., default will be .3in for height. 15. .3
+
+ENTER CORN. FREQU. OF HIGHPASS BUTTERWORTH. ENTER ZERO IF YOU WANT FILTERING SKIPPED 0.
+
+ENTER CORN. FREQU. OF LOWPASS BUTTERWORTH. ENTER 1000. IF YOU WANT FILTERING SKIPPED 1000.
+
+ENTER DECIMATION FACTOR. A DECIMATION FACTOR OF TWO CUTS NUMBER OF POINTS IN HALF. ENTER ZERO TO SKIP DECIMATION. 4.
+
+ENTER TYPE OF NORMALIZATION (in upper case):
+
+58
+
+S self-normalization RG relative normalization with gain R relative normalization without gain SG
+SELECTED STATIONS OR ALL (SEL or ALL)? ALL
+ORDINARY PLOTS OR INCREASING EPICENTRAL DISTANCE? (1 OR 2) 2
+ENTER EPICENTER LAT. AND LON. IN DECIMAL DEGREES (N and E are positive) 45. -118.
+ENTER MINIMUM AZIMUTH, MAXIMUM AZIMUTH 0. 360.. ENTER MINUMUM DISTANCE, MAXIMUM DISTANCE 50. 1000. FORTRAN STOP $
+
+$RECSEL ENTER ALL RESPONSES IN UPPER CASE Enter data type: CIT, or CSPCcusp format) CSP
+
+enter event name
+
+X746395
+
+X746395
+
+15 100.0000
+
+88
+
+45.21000
+
+6465691
+
+read dmux data
+
+3 23
+
+Plot options available:
+
+1 Terminal only 2 - Batch only 3 = Preview and prompt (1 & 2) 4 No plots
+
+Option? [I20;CR=3]? 2
+
+Batch devices available:
+
+1 * Disk file
+
+Device? [I20;CR=1]?
+
+59
+
+17
+
+38
+
+Enter name for plot file [CR=Batch.plt
+
+]
+
+ENTER THE TITLE OF THE PLOT (a80) TEST.PLT
+
+ENTER TIME SCALE (SECONDS/INCH) AND PLOT HEIGHT IN INCHES MEASURED FROM ZERO LINE NOTE: if choosing ordinary plots or plots in increasing epicentral dist., default will be .3in for height. 15. .3
+
+ENTER CORN. FREQU. OF HIGHPASS BUTTERWORTH. ENTER ZERO IF YOU WANT FILTERING SKIPPED 0.
+
+ENTER CORN. FREQU. OF LOWPASS BUTTERWORTH. ENTER 1000. IF YOU WANT FILTERING SKIPPED 1000.
+
+ENTER DECIMATION FACTOR. A DECIMATION FACTOR OF TWO CUTS NUMBER OF POINTS IN HALF. ENTER ZERO TO SKIP DECIMATION. 4.
+
+ENTER TYPE OF NORMALIZATION (in upper case):
+
+S self-normalization RG relative normalization with gain R relative normalization without gain S
+
+SELECTED STATIONS OR ALL (SEL or ALL)? SEL Enter station name (CAPITALS) END - end of list *** = start list over ISA Enter station name (CAPITALS) END « end of list *** - start list over WOF Enter station name (CAPITALS) END « end of list *** - start list over END FORTRAN STOP
+$
+
+60
+
+program by Carl Johnson, mod, by Pong Given______________SEISMIC
+Purpose To select catalog data and make maps and plots of the seismic data.
+Source Code USER$DISK:[CUSP.SEISM!C] - GSVAX [LEAP.GET] - CITVAX
+Description SEISMIC performs three major functions:
+1) selects earthquakes from the catalog based on the following parameters: o region time » magnitude » quality «> blast or quake « depth
+2) makes maps and plots of this data in formats you determine. 3) makes color plots of various quantities in each element of a map grid (ENVISION required) SEISMIC can be run interactively or from a command file. Example command files, SEISMIC1.COM, SE1SMIC.2.COM, and SEISMIC3.COM can be found in [LEAP.INPUT]. They show how to do a sort only, how to do a map, and how to do a cross-section, respectively. By default, no output files are created. To create one or more output files, the commands are: PLOT filename PRINT filename HYPO filename BINARY filename
+These filenames can all be different, but it is best to keep them all the same because each one will have a different suffix. See below for a description of the output files. See SE1SMIC.DOC in [LEAP.DOC] for a more detailed description of this program. Before running the program either interactively or from the command file, you must type the following logical assignments: ASSIGN SYS$OUTPUT FOR005 ASSIGN SYS$INPUT FOR010
+Input Files none
+61
+
+Output Files filename.GML filename. US filename.HYP fiiename.BIN
+
+graphic plot file (PLOT) list of selected events (PRINT) HYPO71 format list of events (HYPO) binary list of events in CUSP format (BINARY)
+
+Common Errors none
+
+Example run: See documentation in [LEAP.DOC]
+
+62
+
+program by David Oppenheimer___________________________SIFT
+
+Purpose To change binary files of California map features into ASCII files which can be read and plotted with QPLOT.
+
+Source Code [LEAP.MAP]
+
+Description SIFT will access a databank of boundary lines, faults, etc. in binary files and create ASCII output files which can then be used in QPLOT or other plotting programs. The program allows a choice of the following features:
+APCRP.BIN- Alquist-Prioloa sites of active creep APFLTS.BIN - Alquist-Priola faults in San Fransisco Bay area BANNING.BIN - Banning fault & region (Jon Matti, 1985) CAFAULTS.BIN - California faults CALAKES.BIN - California lakes CAOUTLINE - California outline CARESRVOR.BIN - California reservoirs COALINGA - Coalinga area HAWAII - Hawaii MHFLTS.BIN - Herd's fault map of Morgan Hill MLFLTS.BIN - Mammoth Lakes faults MLGEOG.BIN - Mammoth Lakes & Mono Lake geography MLRDS.BIN - Mammoth Lakes roads PKF.BIN - Parkfield (John Sims) SCITEX.BIN - California quaternary faults (scan of Jennings, 1975) SFBAYRDS.BIN - San Fransisco Bay roads SOCALFOLD.BIN - Cenozoic anticlinal fold axes in southern California region SPECIAL.BIN - Special features: calderas, domes, detailed fault maps SROUTLINE.BIN - Snake River Plain outline STATES.BIN - U.S. state outlines WORLD.BIN - World map YELLOWSTN.BIN - Yellowstone faults, boundaries, lakes, calderas
+The .BIN files are located in [LEAP.MAP] but may be left there when running the program.
+
+Input Files filenam.BIN
+
+see above
+
+63
+
+Output Files user's choice
+
+Common Errors None
+
+Example run:
+
+$SIFT
+
+ENTER LATITUDE RANGE (+ = NORTH) (DEC MIN. DEC MIN):
+
+32. 0. 42. 0.
+
+ENTER LONGITUDE RANGE (- = WEST) (DEC MIN, DEC MIN):
+
+-114. 0. -124. 0.
+
+ENTER SCALING OPTION:S=MAP SCALE,OR D=APPROX MAP DIMENSIONS
+
+D
+
+ENTER APPROXIMATE WIDTH, HEIGHT (INCHES):
+
+8.5,11
+
+MAP WILL HAVE A SCALE OF 1:
+
+4521028
+
+OK (Y OR N) ?
+
+Y
+
+ENTER OUTPUT FILENAME:
+
+SIFT.OUT
+
+DATA SETS AVAILABLE ARE....
+
+CO = CALIFORNIA STATE OUTLINE
+
+CF = CALIFORNIA MAJOR QUAT. FAULTS FROM
+
+JENNINGS (1975)- SEE ALSO "SI"
+
+.. . .
+
+CL = CALIFORNIA MAJOR LAKES AND RESERVOIRS
+
+CR = CALIFORNIA MINOR LAKES AND RESERVOIRS
+
+YL = YELLOWSTONE FAULTS, BOUNDARIES. LAKES,
+
+CALDERAS
+
+SO = SNAKE RIVER PLAIN OUTLINE
+
+HW = HAWAII
+
+US = U.S. STATE BOUNDARIES
+
+WD = WORLD MAP
+
+PT = WORLD TECTONIC PLATE BOUNDARIES
+
+SP = SPECIAL FEATURES (TYPE "SP» FOR MENU)
+
+? = THIS MENU
+
+X = EXIT
+
+ENTER CODE:
+
+WD
+
+ENTER CODE:
+
+X
+
+FORTRAN STOP
+
+$
+
+64
+
+program by Carl Johnson_____________________________SNARK
+Purpose To copy .GRM files from an archive tape onto the disk.
+Source Code CUSP$DISK:[CUSP.CLONE] - GSVAX DIR$CUSP:[COMBAT] - CITVAX
+Description SNARK is a command procedure that copies selected .GRM files from an archive tape and puts them onto the disk. This procedure requires a special CUSP directory structure. The event of interest must be posted to a "SNARK state" before SNARK can be run, and the .MEM file for that event must be in the directory from which you are running SNARK. See POST. All events hi the SNARK state will be searched for on the magnetic tape. To determine which tape the event is on, you may POST the event to a SNARK state, and then type ARKLIST. This program, written by Steve Bryant, will print to the screen the tape number and file number on the tape of all events in a SNARK state.
+Input Files CUSP.KIN CAT.KIN
+Output Files X######.GRM
+Common errors Event not posted to a SNARK state CAT.KIN or CLONE.KIN file not in the directory .MEM file not in the directory CUSP setup not run
+Example run: $STATUS 746222 : REVIEW. 80 $POST 742440 SNARK $CATKIN $SNARK $STATUS 746222 : REVIEW. 80 742440 : SNARK. 0 $ARKLIST
+65
+
+EVENT
+
+742440 IS NUMBER 110 ON TAPE
+
+$->SNARK TAPEO
+
+CITVAX$DUAO:[LISA] LOG FILE IS SNARK.LOG %DCL-I-ALLOC, _CITVAX$MUAO: allocated y.MOUNT-I-MOUNTED, mounted on _CITVAX$MUAO: $
+
+2224
+
+NOTE: When a cloned event (Xl######) is SNARKed, the .GRM file that will appear in your directory from the tape will have the CUSP id # of the original event before it was cloned.
+
+66
+
+program by Lisa Wald
+
+__ _____________________STRECK
+
+Purpose To deconvolve the Streckeisen instrument response to produce a ground displacement record and then convolve the resulting ground displacement record with the instrument of your choice, if so desired.
+
+Source Code [LEAP.STRECK]
+
+Description STRECK deconvolves the Streckeisen instrument response and then convolves the ground displacement record with the instrument of your choice. There is also an option to omit the convolution so that you have the ground displacement record. Use this program if you want to convolve the record with any instrument other than the Wood-Anderson. The synthetic Wood-Anderson record should be produced with STRECKWA. The input file may have 1-3 records corresponding to different components.
+
+The data from the Streckeisen should look like this (however, the entire header should appear on the first line; formatting prevented that in this documentation.):
+
+PAS 3 Z N E PAS 1988/04/26 00:44:00 +0.470 UNFILTERED 80
+
+SEC Z LP 1.00 SPS
+
+0 -8815 -8865 -8276 -7495 -6899 -7121 -8475 -9478 -65424 1 -9275 -8744 -7554 -6777 -7560 -8302 -9119 -9466 -66797 2 -8929 -8723 -8286 -7572 -7343 -8251 -9493 -9809 -68406 3 -8988 -7433 -7048 -7621 -8316 -9000 -8293 -7701 -64400 4 -8074 -8212 -8283 -7538 -7681 -9043 -8808 -8858 -66497 5 -9024 -7844 -7605 -7881 -8129 -9040 -9422 -8291 -67236 6 -6863 -7028 -8074 -8943 -9396 -8946 -8682 -8500 -66432 7 -7870 -8258 -8873 -8799 -9010 -8701 -7596 -7190 -66297 8 etc.
+
+The first line above must be added and indicates the station, # of components, and components. The next line is the header which will already be at the top of each Z,N, and E record. The next line, which is the first line of data, must follow directly below the header with no blank lines above it in order for the programs to work properly. The first line of each following component record must be after the last line of the proceeding record with no space in between. This editing can all be done automatically by running CLEANUP found in [LEAP.STRECK]. The abbreviation for running this progam has also been setup in [LEAPJGETDATA.COM so it can
+
+67
+
+be run by typing CLEANUP. For more information, see the documentation on STRECK in [LEAP.DOCL
+
+Input Files 8810201.VBB (for example)
+
+event filename
+
+Output Files user's choice
+
+Common Errors The format of the input file is not correct. The position of the blank lines is very important.
+
+Example run:
+
+$STRECK WHAT INSTRUMENT TYPE IS TO BE DECONVOLVED/CONVOLVED?
+
+1 - Pasadena Streckeisen VBB
+
+2- "
+
+LP
+
+3- "
+
+VLP
+
+4 - WWSSN 30-90 Press-Ewing (gain 2300)
+
+5 - WWSSN 15-100
+
+(gain 1500)
+
+6 - WWSSN 100-300
+
+(gain 1500)
+
+7 - WWSSN SP
+
+(gain 1000)
+
+8 - WWSSN SP
+
+(gain 100000)
+
+9 - WWSSN 1-90 Benioff
+
+(gain 2300)
+
+10 - Torsion 6. sec
+
+(gain 2800)
+
+11 - Torsion .8 sec
+
+(gain 2800)
+
+12 - GDSN stat. SMAJO
+
+13 - " SRO
+
+14 - " NNAO
+
+1,2,3,4,5,6,9,10, and 11 are the only choices at present (6/88) 1 1
+
+Enter LOW and HIGH cutoff frequency
+
+Enter 0,0 for default
+
+efault is now
+
+0.1000 10.0000
+
+00
+
+i ipasvbb
+
+input file name INTEST.DAT
+
+HOW MANY COMPONENTS IN THIS FILE? 3
+
+output file name
+
+68
+
+TEST.OUT
+
+DO YOU WANT TO CONVOLVE THE RECORD WITH AN INSTRUMENT RESPONSE NOW? (Y or N) Y
+
+WHAT INSTRUMENT TYPE IS TO BE DECONVOLVED/CONVOLVED?
+
+1 - Pasadena Streckeisen VBB
+
+2- "
+
+LP
+
+3- "
+
+VLP
+
+4 - WWSSN 30-90 Press-Ewing (gain 2300)
+
+5 - WWSSN 15-100
+
+(gain 1500)
+
+6 - WWSSN 100-300
+
+(gain 1500)
+
+7 - WWSSN SP
+
+(gain 1000)
+
+8 - WWSSN SP
+
+(gain 100000)
+
+9 - WWSSN 1-90 Benioff
+
+(gain 2300)
+
+10 - Torsion 6. sec
+
+(gain 2800)
+
+11 - Torsion .8 sec
+
+(gain 2800)
+
+12 - GDSN stat. SMAJO
+
+13 - " SRO
+
+14 - " NNAO
+
+1.2,3.4,5,6,9,10, and 11 are the only choices at present (6/88) 4 4 FORTRAN STOP $
+
+69
+
+program by Lisa Wald
+
+STRECKPLOT
+
+Purpose To create a plot of 1-3 records from the output files of STRECKWA or STRECK or from raw Streckeisen data with the option to rotate the records to radial and tangential components.
+
+Source [LEAP.STRECK]
+
+Description STRECKPLOT creates a plot of the seismograms from the output data files of STRECKWA or STRECK. Raw, unprocessed Streckeisen data may also be plotted. There is an option to rotate the records to the radial and tangential components. The amplitude scale and time scale are set interactively. The record will be 8 inches long, and the time scale can be set accordingly. The largest amplitude of each record and the length of the records will be displayed in order to correctly set the scales.
+
+Input Files filename.dat
+
+output filename from STRECK(WA)
+
+Output Files BATCH.PIT
+
+(or choice, if making hard paper copy)
+
+Common Errors none
+
+Example run:
+
+$STRECKPLOT HOW MANY COMPONENTS IN THE FILE? 3
+
+TYPE THE NAME OF THE EVENT (AND MAGNITUDE)FOR THE TITLE TEST PLOT
+
+TYPE NAME OF INPUT FILE TEST.OUT
+
+IS THIS RAW STRECKEISEN DATA? (Y or N) N
+
+THE MAX. AMPLITUDE OF THE RECORD (in cm.) THE MAX. AMPLITUDE OF THE RECORD (in cm.) THE MAX. AMPLITUDE OF THE RECORD (in cm.) THE LENGTH OF THE RECORD (in sec.) IS =
+
+IS IS IS
+
+0.44358E-01 0.11452E+00 0.83287E-01 10
+
+WHAT IS THE TIME SCALE (sec/in)? 2.
+
+70
+
+WHAT IS THE AMPLITUDE SCALE (cm/in)? .12
+
+ROTATE RECORDS TO RADIAL AND TANGENTIAL? (Y or N) N
+
+Plot options available:
+
+1 = Terminal only 2 = Batch only 3 = Preview and prompt (1 & 2) 4 = No plots
+
+Option? [I20;CR=3]? 2
+
+Batch devices available:
+
+1 = Disk file
+
+Device? [I20;CR=1]? Enter name for plot file [CR=Batch.plt FORTRAN STOP $
+
+]
+
+$STRECKPLOT HOW MANY COMPONENTS IN THE FILE? 3
+
+TYPE THE NAME OF THE EVENT (AND MAGNITUDE)FOR THE TITLE TEST PLOT
+
+TYPE NAME OF INPUT FILE INTEST.DAT
+
+IS THIS RAW STRECKEISEN DATA? (Y or N) Y
+
+WHICH TYPE OF DATA: VBB. LP, VLP. or LG (upper case) VBB
+
+THE MAX. AMPLITUDE OF THE RECORD (in cm.) THE MAX. AMPLITUDE OF THE RECORD (in cm.) THE MAX. AMPLITUDE OF THE RECORD (in cm.) THE LENGTH OF THE RECORD (in sec.) IS =
+
+IS = IS = IS =
+
+33655 163918 121165 10
+
+WHAT IS THE TIME SCALE (sec/in)? 2.
+
+WHAT IS THE AMPLITUDE SCALE (cm/in)? 164000
+
+71
+
+ROTATE RECORDS TO RADIAL AND TANGENTIAL? (Y or N) Y
+
+Enter EPICENTER latitude & longitude in decimal. North and East are positive. 38. -120.
+
+Enter STATION latitude & longitude in decimal. Enter 0,0 if station is PAS: 34.149 -118.172. 00
+
+DISTANCE(km) BETWEEN SOURCE AND RECEIVER IS AZIMUTH IS 158.386 BACK AZIMUTH IS -20.542
+
+457.910
+
+Plot options available:
+
+1 = Terminal only 2 = Batch only 3 = Preview and prompt (1 & 2) 4 = No plots
+
+Option? [I20;CR=3]? 2
+
+Batch devices available:
+
+1 = Disk file
+
+Device? [I20;CR=1]? Enter name for plot file [CR=Batch.plt FORTRAN STOP $
+
+]
+
+72
+
+program by Lisa Wald______________________________STRECKWA
+
+Purpose To deconvolve the Streckeisen instrument response for a seismogram from the Streckeisen and then convolve the resulting ground displacement data with a Wood-Anderson instrument response to produce a synthetic WoodAnderson record.
+
+Source Code [LEAP.STRECK]
+
+Description STRECKWA is a program that deconvolves the instrument response from a Streckeisen seismogram and then convolves a Wood-Anderson instrument response to produce a synthetic Wood-Anderson record. The input file may have 1-3 records corresponding to different components.
+
+The data from the Streckeisen should look like this (however, the entire header should appear on the first line; formatting prevented that in this documentation.):
+
+IPAS 3 Z N E IPAS 1988/04/26 00:44:00 +0.470 UNFILTERED 80
+
+SEC Z LP 1.00 SPS
+
+0 -8815 -8865 -8276 -7495 -6899 -7121 -8475 -9478 -65424 1 -9275 -8744 -7554 -6777 -7560 -8302 -9119 -9466 -66797 2 -8929 -8723 -8286 -7572 -7343 -8251 -9493 -9809 -68406 3 -8988 -7433 -7048 -7621 -8316 -9000 -8293 -7701 -64400 4 -8074 -8212 -8283 -7538 -7681 -9043 -8808 -8858 -66497 5 -9024 -7844 -7605 -7881 -8129 -9040 -9422 -8291 -67236 6 -6863 -7028 -8074 -8943 -9396 -8946 -8682 -8500 -66432 7 -7870 -8258 -8873 -8799 -9010 -8701 -7596 -7190 -66297 8 etc.
+
+The first line above must be added and indicates the station, # of components, and components. The next line is the header which will already be at the top of each Z,N, and E record. The next line, which is the first line of data, must follow directly below the header with no blank lines above it in order for the programs to work properly. The first line of each following component record must be after the last line of the preceeding record with no spare in between. This editing can all be done automatically by running CLEANUP found in [LEAP.STRECK]. The abbreviation for running this progam has also been setup in [LEAPJGETDATA.COM so it can be run by typing CLEANUP. For more information, see the documentation on STRECK in [LEAP.DOC].
+
+73
+
+Input Files 8810201.VBB (for example)
+
+event filename
+
+Output Files user's choice
+
+Common Errors Format of input file is not correct. The location of blank lines is very important.
+
+Example run:
+$STRECKWA WHICH TYPE OF DATA: VBB, LP, VLP, or LG (upper case) VBB VBB
+enter seismogram filename (a25): INTEST.DAT
+HOW MANY COMPONENTS IN THIS FILE? 3
+enter output file name TEST.OUT FORTRAN STOP $
+
+74
+
+program by Larry Baker_____________________________TAPECOPY
+Purpose To copy files from a magnetic tape. For the purposes of this manual, to copy binary seismogram files from an archive tape onto the disk.
+Source Code USER$DISK:[BGMF.TAPECOPY] - GSVAX SYS$SYSROOT:[SYSEXE] - CITVAX
+Description TAPECOPY is a command procedure that copies files from a magnetic tape onto the disk. For our purposes, it copies seismograms files off an archive tape and creates a binary file of that data on the disk for use with the several plotting programs. Unlike SNARK, it does not require any special CUSP files or abbreviations. However, the files will be .D2 type files with a block size of 7200 rather than the .GRM type files with a 512 block size. The .D2 files cannot be used in CUSP (proper) programs such as QED. It can be used in all the auxiliary programs. Before you run TAPECOPY, you need to determine which archive tape (archive #) the event is on and which file (#) the event is on the tape. There are two ways to do this: X######.DCK contains this information on one of the top lines. See example of .DCK file. X######.Dl contains this information clearly spelled out on the last line. Tapecopy can also be used to read CEDAR tapes (1977 - 1980 data). See CDREV.
+Input Files none
+Output Files X######.D2 (or user's choice. This is the best choice for further CUSP processing.)
+Common Errors Wrong block size or record length chosen
+Example run: $TAPECOPY Which drive is the tape on? [<cr>=MTAO:]: <cr> 7.DCL-I-ALLOC, J4TAO: allocated What is the recordsize? [<cr>=80]: <cr> What is the blocksize? [<cr>=4800]: 7200 7.MOUNT-I-WRITELOCK, volume is write locked
+75
+
+'/.MOUNT-1-MOUNTED, mounted on _MTAO:
+
+Enter "filename.typ", "STOP" or "SKIP": SKIP How many files do you want to skip? 124
+
+Enter "filename.typ", "STOP" or "SKIP": X743060.D2
+
+***** ENTER TAPE-COPY PROCESSING PARAMETERS ***** Are the files 80 char card images (Y/N)? N Enter record size or 0 if undefined: 0 Translate input to ASCII (Y/N) ? N
+
+RECORD :
+
+100
+
+RECORD :
+
+200
+
+RECORD :
+
+300
+
+RECORD :
+
+400
+
+RECORD:
+
+500
+
+RECORD:
+
+600
+
+RECORD :
+
+700
+
+RECORD :
+
+800
+
+RECORD :
+
+900
+
+RECORD :
+
+1000
+
+RECORD:
+
+1100
+
+END OF FILE #
+
+125:
+
+1175 RECORDS WRITTEN
+
+Enter "filename.typ". "STOP" or "SKIP": USER REQUESTED EXIT $DISM MTAO: $DEALL MTAO: $
+
+STOP
+
+76
+
+program by Lucy Jones______________________________TELECAT
+
+Purpose To get catalog data for teleseismlc events.
+
+Source Code [LEAP.GET]
+
+Description TELECAT is a procedure that searches through the catalog data for teleseismic events. Teleseismic events are marked by a flag which is attached to the event if it has been posted to a WORLD or REGION state. An ASCII file is created with those event listings only. The time interval, minimum magnitude, and maximum magnitude may be specified. The location is not included in the catalog information.
+NOTE: This program is not working properly right now because of a change in the data format. It is not a commonly used program, so it is questionable whether or not it will be fixed in the future.
+
+Input Files none
+
+Output Files QUAKE.DCK
+
+(or user's choice)
+
+Common Errors none
+
+Example run:
+$TELECAT THIS PROGRAM WILL SELECT TELESEISMS FROM THE CIT DATABASE BY TIME AND MAGNITUDE. THE PROGRAM WILL ASK YOU FOR ALL THE NECESSARY PARAMETERS.
+CALTECH FILE [CR=QUAKE.DCK]?
+BEGINNING YEAR [CR=1981]? 1985 MONTH [CR=1]? DAY [CR=1]?
+ENDING YEAR [CR=1986]? 1987 MONTH [CR=1]? 12 DAY [CR=1]?
+MINIMUM MAGNITUDE [CR=O.OOOOOE+00]?
+
+77
+
+5.0 MAXIMUM MAGNITUDE [CR=10.000]? READING CATALOGUE FOR 85 READING CATALOGUE FOR 86 READING CATALOGUE FOR 87 FORTRAN STOP $
+78
+
+program by Lisa Wald_____________________________VERSAREC
+Purpose To plot seismograms on the Versatec printer.
+Source Code [LEAP.SEIS]
+Description VERSAREC is a version of RECSEL which produces a plot file compatible with a Versatec printer only. See RECSEL description for options and details. The only difference is that you will have to respond to a Versaplot prompt. When this prompt appears, you should type:
+XMAX=260. YMAX=14. /E
+An xmax of 260. will allow all stations in the network to be plotted, and a ymax of 14. will allow most records to be plotted without getting cut off at the end if a 15. sec/inch time scale is chosen. The output plot file is plotted with RASM rather than with VIEWERR.
+COMMON.INC is a file which has been included and compiled with the source file. It includes a limit on the number of stations and the number of points per record. The buffer for the printers will not take anything greater than about the product of maxs and maxd equals 3200000. If the number of stations and length of the records exceeds this number, you can use NSKIP to divide the plotting process into two parts which are small enough to handle. If you need to change the limit on the # of stations or points per record, then you will have to copy this file and the source file from [LEAP.SEIS] into your directory, edit COMMON.INC, and then recompile it using VERSALINK.COM in [LEAP.SEIS] by typing <0[LEAP.SEIS]VERSALINK VERSAREC. Otherwise do not worry about this input file. The default is set to 160 stations and 20,000 points.
+Latitude and longitude convention is North and East are positive. Distance is in kilometers. A .GRM file is CSP format, and a .D2 file is CIT format.
+When plotting in order of increasing epicentral distance or plotting a record section, if the station is not in PASALL.STA, the plot will not include that station. The list contains all stations that have been active at some time in the Southern California Network. If you need to use another station list, you will have to copy the program into your directory along with COMMON.INC, change the station list OPEN statement in the program, and recompile it using VERSALINK.COM as above.
+79
+
+Input Files X######.D2 or X######.GRM
+
+PASALLSTA.PASNOW.STA.MENLO.STA only if plotting in inc. epi. dist.
+
+or record sect.
+
+GAIN. DAT
+
+must
+
+be edited for discriminator voltage and attenuation values for each event.
+
+(use USGS database if absolute amplitudes are important) The absolute
+
+amplitude is only a rough estimate and is not to be used for anything
+
+but getting a rough estimate. When certain settings on the seismometer
+
+instruments are changed, as planned in the future, the equations used for
+
+calculating the absolute amplitude will no longer be correct. At that time,
+
+the program will be updated.
+
+Output Files VECTR1.PLV PARM.PLV DISTAZ.OUT
+
+only if increasing epicentral distance or record section
+
+Common Errors See this section under RECSEL.
+
+Example run:
+
+$VERSAREC Enter data type: CIT, or CSP(cusp format) CSP
+
+enter event name
+
+X746395
+
+X746395
+
+15 100.0000
+
+88
+
+45.21000
+
+6465691
+
+read dmux data
+
+3 23
+
+17 38
+
+* Mapped- vector algorithm *
+
+VPL> XMAX=15. VPL> YMAX=260. VPL> /E
+
+*****PLOT OPTIONS IN EFFECT*****
+
+MODEL = YMIN XSTART = XFACT = STRIP =
+
+1200 0.00 0.00 1.00 10.56
+
+,XMIN ,YMAX .YSTART = .YFACT = .STRIPO =
+
+0.00 260.00
+0.00 1.00 0.00
+
+,XMAX .MSGLVL = .SCALE = .UNITS = .SPACE =
+
+15.00 1
+1.00 1.00 15.00
+
+80
+
+I2FLG = NSCAN = MODELP =
+
+2 ,OUT 661 .NIBS
+6
+
+= =
+
+-1.00 .LYNES = 2112 2112 .DEN = 200.00
+
+ENTER TIME SCALE (SECONDS/INCH) AND PLOT HEIGHT IN INCHES MEASURED FROM ZERO LINE. 10. .2
+
+ENTER CORN. FREQU. OF HIGHPASS BUTTERWORTH. ENTER ZERO IF YOU WANT FILTERING SKIPPED 0.
+
+ENTER CORN. FREQU. OF LOWPASS BUTTERWORTH. ENTER 1000. IF YOU WANT FILTERING SKIPPED 1000.
+
+ENTER DECIMATION FACTOR. A DECIMATION FACTOR OF TWO CUTS NUMBER OF POINTS IN HALF. ENTER ZERO TO SKIP DECIMATION. 3.
+
+SELF-NORMALIZED (1) or RELATIVE NORMALIZATION (2)?' 2
+
+ORDINARY PLOTS OR INC. EPICENTRAL DIST? (1 OR 2) 1
+
+* PLOT 1 summary: 25951. plottable vectors 0 clipped vectors 0 unplottable vectors
+
+FORTRAN STOP $
+
+81
+
+program by Egill Hauksspn and Lucy Jones______________(ENV) WAVE
+Purpose To pick phases on network station records, plot seismograms, and plot record sections.
+Source Code [LEAP.SEIS.WAVEJPPING2 [LEAP.SEIS.ENVWAVE]ENVWAVE
+Description WAVE is a waveform plotting, picking, and manipulation program for use on a Tektronics terminal equipped with a high-speed graphics board from Menlo Park. With this program, users can look at seismograms on the screen in a variety of different ways and can create or amend a HYPOINVERSE .P file. Input formats can be CIT (.D2), CSP (.GRM), ANZA network, CDR (for CEDAR tapes from Caltech 1977-1980), and SAC. ENVWAVE is the same program but can be run (more slowly) on any Tektronics compatible graphics terminal. This option allows creation of a hard copy. Available command options are: allst - plot all stations, 6 per page in pin # order selst - select one station at a time to look at. ordst - plot all stations, 6 per page in order of increasing epicentral distance. (To use this, there must be a .P file with a location line at the end of the file. It will not work on teleseisms. sortst - plot picked records in order of increasing arrival time, 6 per page. Only stations with a P-arrival time in the .P file will be plotted. rnanst - plot stations as entered manually resev - reduced vertical record section reseh - reduced horizontal record section nexte - do next earthquake « spawn - spawn another process « help - list of commands and what each does stop - exit from program. All commands must be given in lower case letters (except station names.)
+82
+
+Once one of the first five plotting options is chosen, seismograms will begin to appear, and the only way to communicate with the program is to enter one character when the cursors appear. When a page of 6 records is displayed (using allst, ordst, or sortst), one or more records can be chosen for full page display and/or arrival time picking. To do so, place the cross-hair on a trace; the vertical cross-hair selects the beginning of the window to be "blown up". Then type 'x'. None or all traces can be selected in any order. Then type 'q' to see each one individually.
+When a single setsmogram is displayed (with 'selst', or with an 'x' as described above, arrival times can be picked interactively and stored in a HYPOINVERSE .P file. Picks from an existing .P file will be plotted. If a .C file from HYPOINVERSE is in the directory, residuals from the .C file can also be plotted.
+
+To move onward from the traces you have, type:
+q to get the next seismograms (either a single seismogra.m picked with 'x' or if none of those, the next page of 6) $ to get back to command mode ! to quietly depart the program through the back door.
+
+Once you have a single seismogram on the page (either chosen with 'x' from a page of 6 or with 'selst'), you can change the plotting parameters, replot the trace, pick arrival times, durations, or go on to the next trace.
+
+To change plotting parameters (this will not replot, just change the parameters for the next plot):
+
++ or
+
+expand horizontal scale by a factor of 2 so that
+
+the location of the vertical cursor moves to the center of
+
+the screen.
+
+- or_ reduce horizontal scale by a factor of 2 so that the previous location of the vertical cursor moves to the center of the screen.
+
+space bar (i.e. hit the space bar) move/scroll the seismogram to the left or to the right so that the previous location of the vertical cursor moves to the center of the screen.
+
+* or 8 expand vertical scale by a factor of 2 / or ? reduce vertical scale by a factor of 2
+
+83
+
+d decimate (i.e. plot less data points) by a factor of 2 u undecimate (i.e. plot more data points) by a factor of 2
+
+To replot the trace:
+i initialize again (i.e. you lost the seismogram) with reduced time scale and increased decimation (you might want to get back to a dt of 0.01 after doing this) r replot (incorporating any parameter changes) f filtering (you'll be asked for fmin and fmax) if (min f - max f) you get the original trace back
+
+To save information in the EVEIMTIM.P file:
+p pick p - arrival time (i.e. peuO)
+e emergent i impulsive u up d down 0-4 weight
+
+s pick s - arrival time (i.e. se3)
+
+e pick coda duration z pick period a pick min max amplitude in counts
+To leave the page:
+q go on to the next station or next page of seismograms k label a bad channel for irreversible removal $ go back to the command level ! exit throuh the back door
+
+Input Files X######.D2 or
+
+X######.P X######.C
+
+optional
+
+Output Files X######.P BATCH. PIT
+
+(or choice, if making hard paper copy) in ENVWAVE
+
+Common Errors See this section under RECSEL Command was not entered in lower case.
+
+84
+
+When picking an arrival, always enter the 'p' or V first, otherwise the other characters (i,d,etc.) will be taken to mean the above commands. WAVE expects three more characters after a 'p' or V, so if you don't want to enter a first motion, enter a blank. If you select the hard copies option in ENVWAVE, you must answer 'Y' or 'N' to the question 'DO YOU WANT TO SAVE THIS PLOT?' every time you clear the screen. You may not be able to see the question if it is written over preexisting graphics, but you still must remember to answer it to continue. If the high-speed graphics board in the Tektronics terminal is malfunctioning, the high-speed graphics calls will produce alphanumeric characters instead of plots. The problem can sometimes be cleared up by merely removing the board and cleaning the contents and reinserting the board. Sometimes it needs to be repaired. See Chuck Koesterer at the USGS for help with these boards.
+85
+
+VI. STEP-WISE PROCEDURES FOR SPECIFIC TASKS
+1. Getting the CUSP id # for a specific event.
+Three different ways:
+a) Use CATREAD and input spatial, time, and magnitude limits such that the output file will contain your event. Be sure to select Caltech format to get the CUSP id #'s in the listing. Then select your event in the output file QUAKE.DCK.
+or
+b) SET DEF to the appropriate CIT directory (ex: CITVAX::DISK1:[CIT.88FEBJ) and ED/READONLY the CAT.LIS file. Search for your event by date and time.
+or
+c) Look it up in the TROUTS.
+2. Getting phase data for an event. a) Follow step a, b, or c for getting the CUSP id for an event (!)
+b) Get the .MEM file(s) for your event(s). For recent events (within a few months) the data will still be on-line in CITVAX::DISKl:[CIT.yr/monthJ where "yr/month" is the year and abbreviated month (three letters) in which the earthquake occurred. If not, then ...If you have only one or two events, you can do this either of the following ways. If you have many events, it is best to choose the second method.
+Use a regular COPY command to copy the .MEM file into your directory. For example, if the event occurred on February 12, 1988, you would type:
+COPY CITVAX: :DISK1: [CIT.88FEB]X######.MEM *.*
+or
+Create a DIR.DAT file with a list of the selected events' CUSP id #s. Then define CUSPIN to be the monthly directory in which your events reside. For example, if your events occurred in May of 1988, type:
+86
+
+DEFINE CUSPIN CITVAX::DISK1:[CIT.88MAY]
+When you run MAKER HAS the default input source directory will be what is defined to be CUSPIN, if it has been defined. If not, the default will be the current directory.
+If the event is not recent, the file will not be found and you will have to get the .MEM file off the FREEZE tape. FREEZE tapes are labeled by date, so you can find the appropriate tape in this way. FREEZE tapes are kept in the Computer room in the Caltech Seismo. Lab. on the the second floor at the south- west corner of South Mudd. Sign the tape out as you get it. Run RDFRZ to get the .MEM file off the FREEZE tape.
+c) Use MAKEPHAS to create a .P file which contains phase data.
+Note: Another alternative for getting phase data are the HYPO tapes which contain one file per month of all local events. These tapes are located in the USGS computer room.
+3. Making a seismicity map.
+a) Use CATREAD and choose the appropriate spatial, time, and magnitude limits for the map of interest. Choose the plotting format for the output file.
+b) Use QPLOT to create the map with QUAKE.PLT as the input file of the earthquake locations.
+4. Plotting records or record sections for an event.
+a) Follow steps a-b for getting phase data for an event (2).
+b) Create the .Dl file for your event. Use MAKEPHAS to create the .Dl and .P files. Remember to create a DIR.DAT file with the CUSP id # of your event. If you want additional information about the event, run MEMDCK to create a .DCK file.
+c) Determine the ARCHIVE tape number and file number of your event. Both the .Dl file and the .DCK file have this information. In the .DCK file it is found on the line labeled ARK. The second number on the line is the ARCHIVE tape number, and the third number is the file number. In the .Dl file these two numbers are found on the last line of the file. If the event has been posted to a SNARK state, running ARKLIST will give you the tape number and file number.
+87
+
+d) Get the .GRM or ,D2 file for your event. Obtain the appropriate ARCHIVE tape from the Seismo. Lab. Computer room. Hang the tape and use TAPECOPY or SNARK to obtain a .D2 or a .GRM file, respectively.
+e) (OPTIONAL) Prepare the .Dl file to run the plotting programs. You must do this step only if the event triggered a large number of stations (greater than about 100) and only if you are not using WAVE. Run NSKIP to determine the number of data points to skip when you plot the second half of the triggered stations. Then split the number of triggered stations in half, changing the first number in the .Dl file from the total number to half of that number. For the first group of stations, you can just run whatever plotting program you wish with no further changes. To plot the second half of the stations, you must substitute the number in NSKIP.OUT that is associated with the first station in the second half for the last number on the line with that station name in the .Dl file. Then delete all the lines between the first station line (the second line of the file) and that station line you just edited. Then change the first number on the first line to the remaining number of stations to plot plus 1 for the time code. Now you can run the plotting program again.
+f) Plot the records with VERSAREC,RECSEL, or (ENV)WAVE
+5. Plotting strong motion records only.
+a) Follow steps a-d for plotting records or record sections (4)-
+b) Use FBA to create a new .Dl-type file that "points" to only the FBA stations.
+c) Use any of the available plotting programs to plot the FBA stations such as VERSAREC or RECSEL
+6. Re-picking phases for an event.
+a) Follow steps a-c for getting phase data (2), and steps b-d for plotting records (4).
+b) Edit the .P file: Take out the decimal point in the seconds value, (ex. 52.21 becomes 5221) (WAVE assumes that all phases have the same starting minute. If you want to look
+88
+
+at the records in order of increasing epicentral distance determined by the existing location, make sure there is a location line at the end of the file. This is accomplished by not choosing the HYPO71 format in MAKEPHASE). c) Use (ENV)WAVE to look at and change the existing picks. note: If you prefer to work entirely within the CUSP environment, you can use LOCAL which contains a locating program GROPE as part of its .COM procedure. See Kate Hutton or Doug Given for more information.
+7. Relocating an event. a) Follow steps a-c for getting phase data (2). b) (OPTIONAL) Follow steps b-d of plotting records (4) and b-c of re-picking phases (6). c) Use ABC to put stations in alphabetical order in the .P file and delete repetitive stations. d) Use HYPOINVERSE to locate the event from the .P file and create the other input files you need for FPFIT.
+8. Making a focal mechanism. a) Follow steps a-d of relocating an event (7). b) (OPTIONAL) Use MAGADDC to add the magnitude to the .C file if you want the magnitude to appear on the plot. c) Use FPFIT to determine the focal mechanism from first motions. d) Use FPPAGE or FPPLOT to plot the focal mechanisms.
+8. Obtaining digital data for use with programs other than those written specifically for CUSP data, ie. individual ASCII files. a) Follow steps a-d for plotting records or record sections. b) Use GRMCHOP or GETREC to extract station records of interest and create a digital ASCII file.
+89
+
+VII. ERROR TRACKING SYSTEM
+
+When a problem is encountered during a CUSP procedure (this applies to those procedures which require a special CUSP directory structure), you will see errors such as the examples below either in the screen or in a .LOG file associated with the procedure.
+
+** DROP -- FATAL ERROR: 53
+
+** RESULT
+
+FATAL ERROR:
+
+870
+
+** MEMRES -- FATAL ERROR: 30
+
+** MEMRES -- FATAL ERROR: 45
+
+** DELGRM -- FATAL ERROR:
+
+140
+
+This tells you, first of all, that there is a problem, but it also tells you the
+
+location of the problem.
+
+There is a subroutine called FATAL, resident in [CUSP.LIBJKOM.FOR. Every well-written CUSP program and subroutine calls it under conditions which could be interpreted as an error. It's purpose is to print error lines into SYSSOUTPUT and return a parameter IRES which indicates where in the program the error occurred.
+
+If you look at the code for, say, FORGET.FOR, you will find subroutine calls accompanied by other statements like:
+
+CALL GETCKLONE, 0, IRES) IER = 140 IFCIRES .LT. 1) GOTO 910
+
+GET, which is a CUSP subroutine also residing in [CUSP.LIB], does whatever it does (in this case look for a tuple that in the KLONE.KIN that matches the partially completed one in the array KIN(80)) and returns a value of IRES depending on its success. A positive IRES generally means success, zero means there was no such tuple, and a negative value means an error condition. The IER 140 marks the location in the program (or subroutine). If IRES is less than one, ie. GET had less than complete success, we go to statement 910, which passed the message that an error occurred up to the next level of subroutine.
+
+C ++ WOODSHED 910 CALL FATAL('FORGET', IER) IRES = -IER RETURN
+
+Each level of subroutine has its own "WOODSHED", so that in many cases the error can be traced downward to its source through a string of FATAL messages like the first example above. If you are running a
+
+90
+
+batch job, the messages will appear in your .LOG file. If you are running in interactive mode, they will appear on the screen. They can be very helpful in debugging a program or troubleshooting a situation. In addition to writing the messages to SYSSOUTPUT, FATAL also sets a symbol called EXSTAT (exit status) equal to IRES. So the DCL has an equivalent system of keeping track of where errors occurred. BASE = 1000 RUN CLONE:FORGET SHO SYM EXSTAT RES = BASE - 'EXSTAT' IF 'EXSTAT' .NE. 1 THEN GOTO RESULT Here if the FORGET fortran code returns a negative EXSTAT (or IRES) that fact (and value) is recorded in RES, as well as the location within the .BAT file (BASE). A well-written .BAT file will have sections, each with a different BASE, just as a well-written CUSP fortran routine will use IER in any place that a failure is possible. Later in the .BAT file ("RESULT:"), we have
+CALL MEMRES SEC.MEM LOCAL 'RES' which sets the event being processed with a nonzero result. The events that experienced failures in FORGET will then be posted FORGET.2140 (instead of FORGET.O before FORGET was run - the 0 is silent). The 1 indicates 1000, the location in the .BAT file, and the 140 indicates the IRES from the CUSP program called there. The .LOG file will contain the rest of the comments from FATAL.
+91
+
+

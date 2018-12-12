@@ -1,0 +1,1204 @@
+Ore Geology Reviews 94 (2018) 118–135
+Contents lists available at ScienceDirect
+Ore Geology Reviews
+journal homepage: www.elsevier.com/locate/oregeorev
+
+3D subduction dynamics: A ﬁrst-order parameter of the transition from
+copper- to gold-rich deposits in the eastern Mediterranean region
+Armel Menanta,⁎, Laurent Jolivetb, Johann Tuduric,d, Christelle Loiseletc, Guillaume Bertrandc, Laurent Guillou-Frottierc,d
+a Institut de Physique du Globe de Paris, Paris Sorbonne Cité, Univ. Diderot, UMR 7154, CNRS, F-75005 Paris, France b Sorbonne Université, CNRS-INSU, Institut des Sciences de la Terre Paris, ISTeP, UMR 7193, F-75005 Paris, France c BRGM, F-45060 Orléans, France d ISTO, UMR 7327, Université d’Orléans, CNRS, BRGM, F-45071 Orléans, France
+
+T
+
+ARTICLE INFO
+Keywords: 3D subduction dynamics Dynamic metallogenic models Eastern Mediterranean region Kinematic reconstructions Cu- to Au-rich ore deposits Slab roll-back/tearing
+
+ABSTRACT
+The natural variability of geometry and dynamics of subduction zones leads to a variety of mantle and crustal processes that may inﬂuence the genesis of ore deposits in the overriding plate. These complex interactions cannot be fully represented by two-dimensional (2D) models but require that the spatial and temporal evolution of ore deposits be examined in a detailed 3D tectonic framework. We compare and discuss the geodynamic and metallogenic evolution of the eastern Mediterranean subduction zone since the late Cretaceous by integrating a newly compiled metallogenic database with a recent kinematic reconstruction model. The resulting paleotectonic maps identify (1) a late Cretaceous Cu-rich metallogenic period with large deposits formed above a linear and stable subduction zone that produced large amounts of potentially fertile magmas in a narrow magmatic arc and (2) a late Eocene-Miocene Pb-Zn- followed by Au-rich metallogenic period with generally smaller deposits spread over a wide back-arc basin that was opened due to subduction retreat and lateral slab tearing. Supported by high-resolution numerical modeling, the proposed dynamic arc and back-arc metallogenic models emphasize (1) the inﬂuence of 3D slab dynamics and associated asthenospheric ﬂow on ore distribution in space and time and (2) the importance of exhuming metamorphic domes in extensional back-arc setting to focus metal-bearing ﬂuid circulations. These models diﬀer from collision and post-collision models and may be valid on the western and eastern terminations of the whole Tethyan orogenic belt (i.e. Mediterranean and southeast Asia) where fast 3D subduction dynamics has inﬂuenced the geodynamic and metallogenic evolution of the overriding plate.
+
+1. Introduction
+Subduction zones are the world’s principal tectonic setting for exploration and exploitation of copper and molybdenum as well as an important target for gold, silver, lead and zinc (e.g. Sillitoe, 1972; Sillitoe and Hedenquist, 2003; Kesler and Wilkinson, 2008; Richards, 2011). Due to their major economic interest, various conceptual models were proposed that emphasize the interactions between subduction dynamics and ore genesis (e.g. Tosdal and Richards, 2001; Richards, 2009; Bertrand et al., 2014). However, most of these models are described in two dimensions (2D), thus underestimating the importance of along-strike changes of slab dynamics such as slab break-oﬀ or tearing that strongly aﬀect the upper plate deformation regime as well as the distribution and composition of magmatic products in the overriding plate (Capitanio, 2014; Sternai et al., 2014; Menant et al., 2016a). In order to provide new regional guidelines for mineral exploration,
+
+metallogenic models have to consider these geodynamic processes, requiring studies of the space and time evolution of ore deposits within a 3D tectonic framework; such frameworks being rarely available.
+The eastern Mediterranean subduction zone belonging to the Tethyan orogenic belt (Fig. 1) is well suited for this purpose with (1) a variety of ore deposits formed from late Cretaceous to Neogene times (Janković, 1997; Heinrich and Neubauer, 2002; Yigit, 2009; Richards, 2014) and (2) a complex tectonic evolution that includes oceanic and continental subduction, orogenic building, back-arc opening, slab rollback and tearing, and asthenospheric upwelling (Le Pichon and Angelier, 1979; Şengör and Yilmaz, 1981; Jolivet and Faccenna, 2000; van Hinsbergen et al., 2005b; Jolivet et al., 2013). In addition, this region includes signiﬁcant mining areas, comprising large porphyry Cu (-Au-Mo) deposits in the Balkans such as Borska Reka and Veliki Krivelj (Bor metallogenic zone, Serbia, total mineral resources measured and indicated estimated ∼2,109 Mt @ ∼0.4% Cu (Jelenković et al., 2016)),
+
+⁎ Corresponding author at: Institut de Physique du Globe de Paris, Paris Sorbonne Cité, Univ. Diderot 1, rue Jussieu, 75005 Paris, France. E-mail address: menant@ipgp.fr (A. Menant).
+https://doi.org/10.1016/j.oregeorev.2018.01.023 Received 18 May 2017; Received in revised form 12 January 2018; Accepted 22 January 2018 0169-1368/ © 2018 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/BY-NC-ND/4.0/).
+
+A. Menant et al.
+
+Ore Geology Reviews 94 (2018) 118–135
+
+Fig. 1. Synthetic tectonic map of the eastern Mediterranean region where are represented all metal occurrences considered in the kinematic reconstruction model. Detailed map of the Cyclades archipelago is shown as inset. Map modiﬁed from Jolivet et al. (2013). Metallogenic data compiled from diﬀerent databases and from the literature (see details in text). CACC: Central Anatolian Crystalline Complex.
+
+and Elatsite and Assarel (Bulgaria, resources estimated ∼350 Mt @ 0.4% Cu and ∼254 Mt @ 0.4% Cu, respectively). Other major ore deposits include porphyry Au deposits (e.g. Kışladağ, Turkey, resources estimated ∼489 Mt @ 0.6 g/t Au), epithermal Au-Ag deposits (e.g. Perama Hill, Greece, resources estimated ∼12.4 Mt @ 3.5 g/t Au) and carbonate replacement Pb-Zn deposits (e.g. Olympias, Greece, resources estimated ∼15.1 Mt @ 4.9% Pb and 6.5% Zn; www.eldoradogold.com). Promising mineral prospects have also been recently discovered in this area with the Halilağa porphyry Cu-Au prospect (Turkey, resources estimated ∼183 Mt @ 0.3% Cu; www.pilotgold.com) and the Ada Tepe low-sulﬁdation epithermal Au-Ag prospect (Bulgaria, resources estimated ∼6.9 Mt @ 3.5 g/t Au; www.dundeeprecious.com), making the eastern Mediterranean region an important target for mineral exploration.
+To study the inﬂuence of evolving subduction dynamics on oreforming mechanisms along the eastern Mediterranean subduction zone, we examined the space/time evolution of metal occurrences by integrating a compilation of metallogenic data to a recently developed kinematic reconstruction model of this region (Menant et al., 2016b). Resulting paleotectonic maps indicate a late Cretaceous Cu-rich period followed by a late Eocene-Miocene Pb-Zn- then Au-rich period. In light of additional geochemical and physical constraints on the 3D tectonic and magmatic evolution in this region (Pe-Piper and Piper, 2006; Zhu
+
+et al., 2013; Ersoy and Palmer, 2013; Menant et al., 2016a), we discuss in this paper the role of subduction-related processes, such as arc magmatism, slab retreat and tearing, back-arc extension and asthenospheric upwelling on the mobilization, transport and deposition of metals in arc and back-arc environments. We thus reevaluate existing metallogenic models in subduction and post-subduction contexts and compare them with those proposed in other sections of the Tethyan orogenic belt.
+2. Subduction and post-subduction settings
+While subduction zones consist of an oceanic (or continental) lithosphere that sinks below an overriding continental or oceanic plate, the characterization of post-subduction environments is less clear. Regions where subduction has ceased or migrated can be deﬁned as post-subduction zones. Their tectonic, magmatic and metallogenic evolution is then partly driven by earlier subduction-related features including reactivation of tectonic structures (Ranalli, 2000), partial melting of subduction-modiﬁed overriding lithospheric mantle (Johnson et al., 1978) and remobilization of metals from previously enriched sulﬁde-bearing residues (Richards, 2009). Two mechanisms may lead to an evolution from subduction to post-subduction environment. One possibility is that continental collision associated with slab
+
+119
+
+A. Menant et al.
+continental crust oceanic crust lithospheric mantle tectonic contact active subduction interface dominant tectonic regime
+a Continental collision
+
+Oceanic subduction
+(alternating with
+
+)
+
+Ore Geology Reviews 94 (2018) 118–135
+Magmatic system volcanism intrusion MASH zone hydrated mantle partial melting
+slab dehydration asthenospheric flow
+
+b Continental subduction - accretion
+decoupling
+
+slab break-off
+Post-collision setting (orogenic collapse)
+
+Back-arc setting (subduction retreat and back-arc opening)
+accreted crustal nappe
+
+slab roll-back
+
+Fig. 2. Sketches showing two possible evolutions of a typical subduction zone along a continental margin. (a) Subduction zone evolving to collision then post-collision setting after a slab break-oﬀ event. (b) Subduction zone evolving to back-arc setting as a result of slab roll-back. Continental accretion may occur by decoupling crustal nappes from the downgoing continental lithosphere with no cessation of the subduction process. MASH zone: Melting, assimilation, storage and homogenization zone.
+
+break-oﬀ follows subduction. This results in collapse of the crustal orogenic wedge in a post-collision context, depending on the dynamic balance between plate-tectonic, gravitational and buoyancy forces (e.g. Iran, Tibet; Fig. 2a) (Bird, 1978; Agard et al., 2011). Alternatively, the subduction zone retreats, leading to back-arc opening and possible seaﬂoor spreading (e.g. southeast Asia and the Mediterranean region; Fig. 2b) (Chase, 1978; Jolivet et al., 1999; Faccenna et al., 2014). In this latter case, the word post-subduction is somewhat misleading as the migrating subduction zone and related asthenospheric ﬂow may still aﬀect the back-arc evolution by modifying the thermal and stress regimes. In the eastern Mediterranean region, both back-arc and postcollision environments have been recognized, evolving from a long-lived northward subduction zone below the Eurasian margin.
+3. Geodynamic and metallogenic overview of the eastern Mediterranean region
+3.1. Tectonic and magmatic evolution since the late Cretaceous
+The eastern Mediterranean region consists of an assemblage of accreted tectonic units resulting from successive oceanic and continental subduction, collision and obduction events driven by the convergence between Eurasia and Africa since Mesozoic times (e.g. Şengör and Yilmaz, 1981; Barrier and Vrielynck, 2008). In the late Cretaceous, northward subduction of a branch of the Neo-Tethys ocean was active below the Eurasian margin and formed a W-E-trending linear orogenic belt, extending from the Balkans-Rhodopes to the eastern Pontides. A magmatic arc developed above this long-lived subduction zone, with
+
+magmas displaying a dominant medium- to high-K calc-alkaline composition (Yilmaz et al., 1997; Berza et al., 1998; von Quadt et al., 2005; Özdamar, 2016). Shoshonitic (i.e. high-K alkaline) magmatic rocks are only restricted to the edges of the Black Sea basin that opened during the Cretaceous (Boccaletti et al., 1978; Eyüboğlu, 2010; Nikishin et al., 2015). In the latest Cretaceous-Eocene, several continental blocks were successively accreted to the Eurasian margin, including the Central Anatolian Crystalline Complex (CACC), the Pelagonian and Tauride platforms, and aﬀected the overriding plate tectonic evolution with signiﬁcant variations from west to east.
+From the Balkans-Rhodopes to the western Pontides, continental accretion occurred by decoupling crustal nappes from the subducting lithosphere (Fig. 2b) that resulted in the building of orogenic belts (i.e. the Hellenides and the Anatolides-Taurides, Fig. 1) (Jolivet et al., 2003; van Hinsbergen et al., 2005a). As a consequence, subduction did not cease but progressively migrated southward as attested by the continuous slab imaged by seismic tomography (Wortel and Spakman, 2000; Biryol et al., 2011). New oceanic and continental domains were then subducted, including the partly oceanic Pindos domain and the Gavrovo-Tripolitza carbonate platform (van Hinsbergen et al., 2005a). Southward propagating compressional front and recording of highpressure-low temperature (HP-LT) metamorphism (typical of buried rocks in the subduction channel) reinforce the uninterrupted character of this subduction zone (Bonneau and Kienast, 1982; Okay, 1986; Jolivet et al., 2003). Behind this migrating subduction zone, low- and high-angle normal faulting resulted in the partial collapse of the Hellenides and Anatolides-Taurides belts and the opening of a wide backarc basin (i.e. the Aegean basin) where metamorphic core complexes
+
+120
+
+A. Menant et al.
+
+Ore Geology Reviews 94 (2018) 118–135
+
+(MCCs) were exhumed in medium- to high-temperature conditions (e.g. the Rhodope and Menderes massifs and the Cyclades archipelago; Fig. 1) (Lister et al., 1984; Gautier et al., 1993; Bozkurt and Oberhänsli, 2001; Jolivet et al., 2013). Progressive exhumation of these MCCs toward the south associated with a similar migration of arc and back-arcrelated magmatism led many authors to propose that this extensional tectonic setting would result from an increasing rate of southward slab roll-back in the Oligocene-Miocene (Le Pichon and Angelier, 1979; Lister et al., 1984; Jolivet et al., 1994, 2013; Ring et al., 1999, 2010; Jolivet and Faccenna, 2000; Sternai et al., 2014; Govers and Fichtner, 2016; Brun and Faccenna, 2008). Supported by seismic tomographic models (de Boorder et al., 1998; Wortel and Spakman, 2000; Biryol et al., 2011), a slab tear is evidenced below western Anatolia. Occurring in the middle-late Miocene, this tearing event resulted in large-scale block rotations and trench curvature that further accelerated the extensional kinematics (van Hinsbergen et al., 2005b; Jolivet et al., 2015; Menant et al., 2016b). Coeval with back-arc basin opening, a huge highK calc-alkaline to shoshonitic magmatic province formed from north to south (Pe-Piper and Piper, 2006; Ersoy and Palmer, 2013). The magmatic sources evolved from a dominant crustal source to a mantle source component, especially above the slab tear (Dilek and Altunkaynak, 2009; Seghedi et al., 2013). Nowadays, the south-Aegean volcanic arc displays a medium-K calc-alkaline composition supporting the existence of an underlying downgoing oceanic lithosphere (Pe-Piper and Piper, 2005). In this paper, we consider that the main cause of the Aegean extension is slab retreat modulated by slab tearing events. However, alternative models have been proposed to explain this extension. Flerit et al. (2004) consider extension results from the dextral displacement along the North Anatolian Fault, whereas Doglioni et al., 2002 suggest that extension results from diﬀerential convergence rates between the subduction of Africa relative to the disrupted overlying Eurasian lithosphere.
+Further east, the eastern Anatolian geodynamic evolution was different, characterized by a subduction jump in the latest Cretaceous from the Eurasian margin to the southern Tauride margin rather than a single retreating subduction zone (Rolland et al., 2012). Successive collisional events involving several continental blocks (i.e. the CACC and the Anatolide-Tauride block) thus occurred until the ﬁnal collision stage of Arabia along the Bitlis-Zagros belt in the middle Eocene-Oligocene (Fig. 1) (Jolivet and Faccenna, 2000; Agard et al., 2005; Rolland et al., 2012). As suggested by tomographic models (Hafkenscheid et al., 2006), no slab is any longer present below the diﬀerent suture zones, suggesting that slab break-oﬀ events occurred successively in the Cenozoic, following these collisions.
+3.2. Main metallogenic provinces
+3.2.1. The Balkans Arc-related calc-alkaline plutonic and volcanic rocks in the Balkans
+are genetically related to porphyry Cu(-Au-Mo), skarn Fe, Cu(-Mo) or Pb-Zn and high-sulﬁdation epithermal Cu-Au deposits (e.g. Janković, 1997; Berza et al., 1998; Ciobanu et al., 2002; Heinrich and Neubauer, 2002; Moritz et al., 2004). They include the major Moldova Noua deposit in Romania, the Borska Reska, Veliki Krivelj and Majdanpek deposits in Serbia and the Elatsite, Assarel and Chelopech deposits in Bulgaria (Table 1). A few intermediate-sulﬁdation epithermal deposits with base metal content have also been described (Ciobanu et al., 2002). This magmatic and metallogenic province extends from Romania to Bulgaria, forming a “L”-shape belt called the Apuseni-BanatTimok-Srednogorie (ABTS) belt (Fig. 1) (von Quadt et al., 2005). Geochronological constraints on metal deposits (Re-Os dating on molybdenite) and associated magmatic bodies (U-Pb dating on zircon) indicate a ∼20 M.y. period of magmatic-hydrothermal activity along this belt during the late Cretaceous, displaying both trench-parallel (from southeast to northwest) and trenchward (southwestward) decreasing ages (Ciobanu et al., 2002; von Quadt et al., 2005; Zimmerman
+
+et al., 2008; Gallhofer et al., 2015). Coevally, transtensional tectonics with NW-SE-trending dextral fault zones occurred in the Timok and western Srednogorie segments while arc-perpendicular extension dominated in the eastern Srednogorie segment, leading to the opening of numerous sedimentary basins (Willingshofer et al., 1999; Bergerat et al., 2010; Naydenov et al., 2013).
+3.2.2. The Rhodopes and Chalkidiki peninsula Metal deposits in the Rhodope massif and the northeastern part of
+the Chalkidiki peninsula are part of the Serbomacedonian-Rhodope metallogenic belt (Fig. 1) (Janković, 1997; Heinrich and Neubauer, 2002). They are spatially associated with MCCs exhumed below lowangle normal faults (i.e. the detachments) (Bonev et al., 2006; Brun and Sokoutis, 2007) and mainly consist of three deposit types. (1) Porphyry Au-Cu(-Mo) and high-sulﬁdation epithermal Cu-Au(-Ag) deposits are spatially and genetically related to high-K calc-alkaline to shoshonitic magmatism (e.g. Perama Hill, Skouries and Maronia, Greece) (Kroll et al., 2002; Voudouris et al., 2011, 2013). (2) Intermediate-sulﬁdation epithermal Pb-Zn(-Ag) veins and stockworks and associated manto-type carbonate replacements are located close to the detachments, locally crosscutting these structures (Kalogeropoulos et al., 1989; Marchev and Singer, 2002; Kaiser-Rohrmeier et al., 2004, 2013; Marchev et al., 2005). They form several ore ﬁelds hosted within either metamorphic rocks (e.g. the Madan and Laki districts in Bulgaria and the Olympias deposit in Greece) or volcanic rocks (e.g. the Zvezdel and Madjarovo districts in Bulgaria). (3) Sedimentary-rock hosted low-sulﬁdation epithermal Au(-Ag) deposits are located within detachment-controlled basins in the eastern Rhodopes. Recent prospects include Ada Tepe and Stremtsi in Bulgaria (Marchev et al., 2004; Márton et al., 2010; Moritz et al., 2014). Coupled ﬂuid inclusions and isotopic studies on all these deposits suggest a magmatic source for the metal-bearing ﬂuid that becomes diluted by meteoric water, then triggering metal deposition at shallow depth (Kalogeropoulos et al., 1996; Kilias et al., 1996; Rice et al., 2007; Moritz et al., 2014). Absolute dating of hydrothermal alterations (Ar-Ar dating on adularia and sericite, Re-Os dating on arsenopyrite) indicates late Eocene-early Miocene mineralizing events, coeval with the ﬁnal exhumation of the Rhodope MCC and the onset of a signiﬁcant calc-alkaline magmatic event (Marchev and Singer, 2002; Kaiser-Rohrmeier et al., 2004, 2013; Márton et al., 2010; Moritz et al., 2010; Hahn et al., 2012).
+3.2.3. The Cyclades The Cyclades MCC hosts a large number of metal occurrences albeit
+with minor metallogenic signiﬁcance and the fragmentary exposure of outcrops on scattered islands, suggesting favorable conditions for metal deposition (Fig. 1). Most of mineralization consists of (1) porphyry Mo (-Cu) and Fe-rich skarn deposits observed in the Lavrion peninsula and Serifos island (Salemink, 1985; Voudouris et al., 2008, 2010; Ducoux et al., 2017), (2) Pb-Zn(-Ag-Cu) veins and manto-type carbonate replacements, including the Lavrion ore ﬁeld (Bonsall et al., 2011; Berger et al., 2013) and (3) Au(-Ag) quartz veins and breccias located close to crustal-scale detachments or within the detachment plane itself (i.e. on Tinos, Mykonos and Sifnos islands) (Skarpelis, 2002; Neubauer, 2005; Tombros et al., 2007; Menant et al., 2013). Magmatic ﬂuids are generally evoked to transport metals while surface-derived meteoric ﬂuids and/or seawater seem to contribute to metal deposition at shallow depth (i.e. ≤1 km) (Tombros et al., 2007, 2015; Bonsall et al., 2011; Berger et al., 2013). No absolute dating has been performed on alteration minerals in the Cyclades. However, structural relationships (Skarpelis, 2002; Menant et al., 2013) and geochronological constraints on related intrusions (U-Pb dating on zircon) (Iglseder et al., 2009; Liati et al., 2009; Bolhar et al., 2010) indicate a late Miocene age for hydrothermal activity, during the late exhumation stage of the Cyclades MCC (Jolivet et al., 2013 and references therein). More recently, intermediate-sulﬁdation epithermal Au-Ag(-Mn-Pb) deposits formed along the Pliocene-Quaternary Aegean volcanic arc (e.g. Milos island; Fig. 1)
+
+121
+
+A. Menant et al.
+
+Table 1 Main ore deposits in the eastern Mediterranean region since the late Cretaceous. Information on their style, metal content, reserve and/or resources and geochronological constrains are indicated, as well as the reliability of the dating (with 2: robust dating, 1: uncertain dating).
+
+Deposit name
+
+Country Deposit style
+
+Commodities
+
+Reserves
+
+Age constraint
+
+References
+
+Major Minor
+
+Resources
+
+Mineralizing event or associated magmatism
+
+Dating method
+
+Reliability
+
+122
+
+Moldova Noua
+Veliki Krivelj
+Borska Reka
+Majdanpek
+Dumitru Potok
+Elatsite Medet Assarel Derekoy
+
+Romania Porphyry
+
+Serbia Porphyry
+
+Serbia Porphyry
+
+Serbia Porphyry
+
+Serbia Porphyry
+
+Bulgaria Bulgaria Bulgaria Turkey
+
+Porphyry Porphyry Porphyry Porphyry
+
+Cu Au, Mo, 500 Mt @ 0.4% Cu
+
+72.5 ± 0.4 Ma
+
+Pb, Zn
+
+Cu Mo
+
+153 Mt @ 0.3% Cu 506 87.9 ± 0.5 Ma
+
+Mt @ 0.4% Cu
+
+Cu Au, Mo 130 Mt @ 0.6% Cu 557 86.2 ± 0.5 Ma
+
+Mt @ 0.6% Cu
+
+Cu Au, Mo 144 Mt @ 0.4% Cu 637 83.4 ± 0.5 Ma
+
+Mt @ 0.3% Cu
+
+Cu Au, Mo, 290 Mt @ 0,2% Cu
+
+81–79 Ma
+
+Ag
+
+Cu Au
+
+350 Mt @ 0.4% Cu
+
+93–91 Ma
+
+Cu Mo, Au 244 Mt @ 0.4% Cu
+
+92–90 Ma
+
+Cu
+
+254 Mt @ 0.4% Cu
+
+91.6 ± 0.3 Ma
+
+Cu Mo, Au 270 Mt @ 0.3% Cu
+
+76.7 ± 3.8 Ma
+
+Güzelyayla Halilağa
+
+Turkey Turkey
+
+Porphyry Porphyry
+
+Cu Mo
+
+186.2 Mt @ 0.3% Cu
+
+Cu Au, Mo 183 Mt @ 0.3% Cu
+
+50.7 ± 0.2 Ma 39.56 ± 0.21 Ma
+
+Cevizlidere
+
+Turkey Porphyry
+
+Cu Mo, Au 445 Mt @ 0.4% Cu
+
+26.0 ± 0.2 Ma
+
+Skouries
+
+Greece Porphyry
+
+Au Cu
+
+Kışladağ
+
+Turkey Porphyry
+
+Au Mo
+
+Trepča Stan Terg Serbia Skarn
+
+Pb, Zn Ag
+
+Akdağmadeni
+
+Turkey Skarn
+
+Pb, Zn Ag
+
+Balya Chelopech
+
+Turkey Skarn
+Bulgaria High-sulﬁdation epithermal
+
+Pb, Zn Cu, Ag, Au
+Au Cu
+
+Perama Hill Tac Ağı Dağı Altıntepe Çöpler Efemçukuru
+Olympias
+
+Greece Turkey Turkey Turkey Turkey Turkey
+Greece
+
+High-sulﬁdation epithermal High-sulﬁdation epithermal High-sulﬁdation epithermal Intermediatesulﬁdation epithermal Intermediatesulﬁdation epithermal Intermediatesulﬁdation epithermal (probable) Carbonate replacement
+
+Au Ag Au Cu Au Ag, Mo Au Pb, Zn Au Ag, Cu Au Ag
+Pb, Zn Au, Ag
+
+153 Mt @ 0.8 g/t Au 284 Mt @ 0.6 g/t Au 331 Mt @ 0.7 g/t Au 489 Mt @ 0.6 g/t Au 31.5 Mt @ 3.5% Pb, 2.9% Zn 25 Mt @ 5.5% Pb, 6.5% Zn 2.3 Mt @ 8% Pb, 8% Zn
+
+19.9 ± 0.9 Ma 14.49 ± 0.06 Ma 16.6 ± 0.5 Ma Late Cretaceous 28–23 Ma
+
+42.5 Mt @ 3.4 g/t Au (including past production) 9.7 Mt @ 3.1 g/t Au 12.4 Mt @ 3.5 g/t Au 20.4 Mt @ 1.6 g/t Au
+
+93–91 Ma
+34–24 Ma Late Cretaceous
+
+90.1 Mt @ 0.6 g/t Au
+
+26.4 ± 0.9 Ma
+
+9.5 Mt @ 0.9 g/t Au
+
+Late Cretaceous
+
+52.3 Mt @ 1.7 g/t Au 122.8 Mt @ 1.7 g/t Au 4.2 Mt @ 7.1 g/t Au 4.9 Mt @ 8.3 g/t Au
+
+47–44 Ma Miocene < 13.17 ± 0.25 Ma
+
+16.1 Mt @ 4.3% Pb, 5.7% 26.1 ± 5.3 Ma Zn 16.3 Mt @ 4.9% Pb, 6.5% Zn
+
+Re-Os dating on molybdenite
+
+2
+
+Re-Os dating on molybdenite
+
+2
+
+Re-Os dating on molybdenite
+
+2
+
+Re-Os dating on molybdenite
+
+2
+
+Re-Os dating on molybdenite
+
+2
+
+Re-Os dating on molybdenite Re-Os dating on molybdenite Re-Os dating on molybdenite K-Ar dating on whole rock (hydrothermal facies) Re-Os dating on molybdenite Re-Os dating on molybdenite
+
+2 2 2 2
+2 2
+
+Re-Os dating on molybdenite
+
+2
+
+Ar-Ar dating on biotite (alteration mineral) Re-Os dating on molybdenite
+
+2 2
+
+K-Ar dating on hydrothermal facies 2
+
+Geologic inference
+
+1
+
+K-Ar dating on whole rock (alteration facies) U-Pb dating on zircon and rutile of volcanics
+
+2 2
+
+K-Ar dating on whole rock (volcanics) + structural evidences Age of volcanics
+
+2 2
+
+Ar-Ar dating on alunite (alteration mineral) Geologic inference
+
+2 1
+
+Re-Os dating on molybdenite
+
+2
+
+Relative age U-Pb dating on rhyolitic 1 dykes
+
+Re-Os dating on molybdenite
+
+2
+
+Zimmerman et al., 2008
+Zimmerman et al., 2008; Jelenković et al., 2016 Zimmerman et al., 2008; Jelenković et al., 2016 Zimmerman et al., 2008; Jelenković et al., 2016 Zimmerman et al., 2008; Knaak et al., 2016 Zimmerman et al., 2008 Zimmerman et al., 2008 Zimmerman et al., 2008 Moore et al., 1980; Yigit, 2009
+Yigit, 2009; Delibaş et al., 2016b Yigit, 2012; Brunetti et al., 2016; www.pilotgold.com Marinov et al., 2011; Zürcher et al., 2015 Kroll et al., 2002; Siron et al., 2016; www.eldoradogold.com Yigit, 2009; Baker et al., 2016.; www. eldoradogold.com Cassard et al., 2012
+Yigit, 2009
+Agdemir et al., 1994; Yigit, 2012
+Moritz et al., 2003; von Quadt et al., 2005
+Innocenti et al., 1984; Voudouris et al., 2011 Yigit, 2006
+Yigit, 2009, 2012; www.alamosgold. com Yigit, 2009
+Yigit, 2009; Kuşcu et al., 2013; İmer et al., 2016 Oyman, 2003; Boucher, 2016; www. eldoradogold.com
+Kilias et al., 1996; Hahn et al., 2012; www.eldoradogold.com
+(continued on next page)
+
+Ore Geology Reviews 94 (2018) 118–135
+
+Table 1 (continued)
+
+A. Menant et al.
+
+Deposit name
+
+Country Deposit style
+
+Commodities Major Minor
+
+Reserves Resources
+
+Age constraint Mineralizing event or associated magmatism 36–35 Ma
+
+References Reliability
+
+Dating method
+
+Ada Tepe Ovacik Kısacık Murgul Madenkoy
+
+Bulgaria Low-sulﬁdation epithermal
+
+Au Ag
+
+6.9 Mt @ 3.5 g/t Au
+
+Turkey Turkey Turkey
+
+Low-sulﬁdation epithermal Low-sulﬁdation epithermal VMS
+
+Au Au Cu Cu
+
+Ag Ag Zn, Au, Ag
+
+1.2 Mt @ 13.1 g/t Au 4.2 18.2 ± 0.2 Ma
+
+Mt @ 7.6 g/t Au
+
+Ar-Ar dating on adularia (alteration 2 mineral) Ar-Ar dating on adularia (alteration 2 mineral) Age of volcanics 1 K-Ar dating on illite (alteration 1 mineral) Geologic inference 1
+
+Marchev et al., 2004; Márton et al., 2010; Moritz et al., 2010; www. dundeeprecious.com Yigit, 2006, 2009; et al., 2007 Yigit, 2012 Çagatay and Eastoe, 1995; Abdioğlu et al., 2015 Yigit, 2009; www.parkelektrik.com.tr
+
+56.5 Mt @ 0.6 g/t Au
+
+Late Miocene
+
+71.8 Mt @ 1.1% Cu
+
+75–60 Ma
+
+Turkey VMS
+
+36.3 Mt @ 2% Cu
+
+Eocene
+
+Ore Geology Reviews 94 (2018) 118–135
+(Kilias et al., 2001; Naden et al., 2003).
+3.2.4. Western Anatolia The western Anatolian metallogenic province includes several ac-
+tive mines and numerous recent discoveries of precious- and base-metal prospects located from the Biga peninsula in the north to the Menderes massif in the south (Fig. 1) (e.g. Yigit, 2009, 2012; Sánchez et al., 2016; Smith et al., 2016). Many of these metal deposits formed in an extensional back-arc context, associated with medium- to high-K calc-alkaline and shoshonitic volcanic and plutonic bodies. Mineralization mainly consists of (1) porphyry Au-Cu-Mo systems, including the Aurich Kışladağ and the Cu-Au Halilağa deposits (Yigit, 2006, 2009), (2) skarn Fe(-Cu) and Pb-Zn(Au-Cu) deposits (e.g. Balya) (Agdemir et al., 1994) and (3) epithermal Au(-Ag-Cu-Pb-Zn) deposits that are variably high-, intermediate- or low-sulﬁdation styles (e.g. Ağı Dağı, Efemçukuru, Kısacık and Ovacik, Table 1) (Oyman, 2003; Yılmaz et al., 2007; Yigit, 2012). In some cases, epithermal and porphyry connections have been observed (e.g. Halilağa and Kuscayiri) (Yılmaz, 2003; Yigit, 2012). Absolute dating of metal deposits or associated volcanic and plutonic rocks gives two main mineralization events in the Biga peninsula (i.e. late Eocene and late Oligocene-early Miocene) (e.g. Murakami et al., 2005; Yılmaz et al., 2007; Yigit, 2012; Smith et al., 2016), whereas a middle Miocene mineralized stage is highlighted in the Menderes massif (Baker et al., 2016; Boucher, 2016). This progressive north-south shift of the magmatic and hydrothermal activity was coeval with the southward migration of back-arc extension and associated Kazdağ and Menderes MCC exhumation (Bozkurt and Oberhänsli, 2001; Bonev and Beccaletto, 2007).
+Additional fault-related Au-Ag-Sb-Hg deposits hosted by chalcedony veins and highly siliciﬁed breccias have been also described in the Kazdağ and Menderes massifs (e.g. the Tuztazi prospect) (Yigit, 2012). As no clear relationship with magmatic bodies is evidenced here, the mineralization has been alternatively interpreted as epithermal or orogenic styles related to the MCC exhumation stage (Larson and Erler, 1993; Akçay et al., 2006; Yigit, 2006).
+3.2.5. The eastern Pontides and southeastern Anatolia The eastern Pontides formed an E-W-trending orogenic belt where
+numerous deposits have been recognized along the southern margin of the Black Sea basin (Fig. 1), coevally with widespread calc-alkaline to shoshonitic magmatic activity (Yilmaz et al., 1997; Yigit, 2009; Eyüboğlu, 2010). Copper dominates in these mineralized systems that consist of (1) porphyry Cu-Mo deposits (e.g. Güzelyayla) (Delibaş et al., 2016a,b), (2) epithermal-type precious and base metal-rich veins with mainly high- or intermediate-sulﬁdation styles, (e.g. Altıntepe and Tac) (Yigit, 2006, 2009) and (3) dominant Kuroko-type volcanogenic massive sulﬁde (VMS) Cu(-Pb-Zn-Au-Ag) deposits (e.g. Murgul and Çayeli; Fig. 1, Table 1) (Yigit, 2009; Abdioğlu et al., 2015). Geochronological constraints on ore-related alteration minerals (K-Ar and Ar-Ar dating) and intrusions (U-Pb dating on zircon) highlighted a long-lived mineralizing event lasting from the Cretaceous to the early Eocene (e.g. Abdioğlu et al., 2015; Delibaş et al., 2016b).
+Further south, several metal deposits have also been described in southeast Anatolia, although this region remains largely underexplored (Fig. 1) (Yigit, 2009; Kuşcu et al., 2013). Recent Ar-Ar and U-Pb dating on magmatic rocks and alteration zones led to the identiﬁcation of two metallogenic events. (1) In the late Cretaceous, subduction to postsubduction porphyry Cu(-Au-Mo) and Iron Oxide Copper-Gold (IOCG) systems formed, related to calc-alkaline to alkaline magmatism (e.g. Divriği and Hasançelebi) (Kuşcu et al., 2011) and (2) in the Eocene, porphyry and epithermal Cu-Au and skarn Fe(-Cu) deposits developed, related to calc-alkaline intrusions (e.g. the Çöpler porphyry-epithermal deposit) (İmer et al., 2016).
+123
+
+A. Menant et al.
+
+Ore Geology Reviews 94 (2018) 118–135
+
+4. Kinematic reconstruction modeling
+Discussing the inﬂuence of subduction and post-subduction processes on ore genesis in the eastern Mediterranean region requires consideration of the geological, magmatic and metallogenic data described above. In this study, we integrate all these constraints, using a recently proposed kinematic reconstruction model for this region (Menant et al., 2016b) and a detailed compilation of metallogenic data.
+4.1. Methodology for kinematic reconstruction modeling
+Based on the principle of plate motion, we performed detailed kinematic reconstructions of the eastern Mediterranean region since the late Cretaceous, using the interactive plate-tectonic reconstruction and visualization software GPlates (www.gplates.org) (Boyden et al., 2011). We thus deﬁned 56 domains consisting of rigid lines and deforming areas that move independently in a global plate kinematic model constituted by 30 rigid polygons (Barrier and Vrielynck, 2008). Motions of the deforming domains were constrained using paleomagnetic, tectonic and metamorphic data (for details on geological constraints and reconstruction process, see Menant et al., 2016b). All motions were deﬁned with respect to the Moesian platform (Fig. 1) that is considered as belonging to stable Eurasia since the late Cretaceous (van Hinsbergen et al., 2008).
+4.2. GIS database compilation of metallogenic data
+We compiled 303 metal deposits from available databases (Singer et al., 2008; Cassard et al., 2012; Zürcher et al., 2015) and additional published data described above (Table 1; for the complete GIS database,
+
+subduction-related mantle and crustal processes and ore-forming mechanisms, the timing of metal deposition has to be constrained as accurately as possible. When available, we consider the absolute age of mineralization (Re-Os dating method on molybdenite, arsenopyrite and pyrite) (e.g. Ciobanu et al., 2002; Zimmerman et al., 2008) or hydrothermal alteration (K-Ar and Ar-Ar dating methods on alteration minerals) (e.g. Kaiser-Rohrmeier et al., 2004; Moritz et al., 2010; Yigit, 2012). In addition, as many deposits are associated with magmatic processes, the absolute age of genetically related magmatic bodies is also compiled (e.g. von Quadt et al., 2005; Kuşcu et al., 2013). Where no absolute ages for hydrothermal and magmatic processes are available, ﬁeld evidence is used to provide a relative age of mineralization (e.g. Neubauer, 2005; Voudouris et al., 2011; Menant et al., 2013). The metallogenic database is then integrated to the kinematic reconstruction model by attaching each deposit to the deforming domain to which it belongs, thus moving with it in the process of reconstruction.
+5. Geodynamic and metallogenic evolution of the eastern Mediterranean region
+By combining our kinematic reconstruction model with our new metallogenic database, we obtain 23 detailed paleotectonic maps illustrating the geodynamic and metallogenic evolution of the eastern Mediterranean region since the late Cretaceous (see Fig. 3 for the most critical time periods). The full set of paleotectonic maps as well as a movie of these kinematic reconstructions are also available (see Supplementary Material, Fig. S1 and Movie S1). In this section, we focus on the description of the metallogenic evolution and associated main tectonic events (see Menant et al. (2016b) for a detailed description of the geodynamic and magmatic evolution).
+
+Movie S1. Tectonic and metallogenic evolution of the eastern Mediterranean region since the late Cretaceous deduced from the kinematic reconstruction model. Each time step corresponds to 5 Myrs between 100 and 15 Ma and 2 Myrs after 15 Ma. Tectonic and metallogenic evolution of the eastern Mediterranean region since the late Cretaceous deduced from the kinematic reconstruction model. Each time step corresponds to 5 Myrs between 100 and 15 Ma and 2 Myrs after 15 Ma can be found on http://dx.doi.org/10.1016/j.oregeorev.2018. 01.023
+
+see Supplementary Material, Table S1). In the database, the deposits are characterized by their size (i.e. measured and indicated reserves and resources when available), their metal content (i.e. Cu, Au, Pb, Zn, Mo, Fe) and their style (i.e. from magmatic proximal, with porphyry, skarn, IOCG, high-sulﬁdation epithermal and VMS; to magmatic distal, with intermediate- and low-sulﬁdation epithermal, and carbonate replacement; unspeciﬁed styles such as sediment-hosted and fault-related are also included). To ensure the link between temporally constrained
+
+5.1. Late Cretaceous
+During the late Cretaceous, the eastern Mediterranean subduction zone was located ∼1,000 km northward from its present-day position. The Eurasian margin formed an NW-SE- to W-E-trending linear orogenic belt over 2000 km in length from the Balkans to the eastern Pontides. During this time period, > 750 km of the Neo-Tethys oceanic lithosphere was consumed by subduction, leading to the formation of a
+
+124
+
+A. Menant et al.
+
+Gav Tr
+
+Petrological affinity continental crust partly oceanic crust oceanic crust obducted oceanic crust
+
+Buried/exhumed metamorphic rocks HP metamorphics retrograded HP metamorphics MT metamorphics HT metamorphics
+
+Major tectonic structures
+
+active subduction/collision front
+
+active strike-slip fault
+
+active thrust fault
+
+inactive fault
+
+active high-angle normal fault
+
+major oceanic suture
+
+active detachment
+
+Ore deposits
+
+deposit style
+
+magmatic proximal
+
+porphyry, skarn, IOCG high-sulfidation epithermal
+VMS
+
+magmatic IS epithermal, carbonate replacement
+
+distal
+
+low-sulfidation epithermal
+
+unspecified (fault-related, sediment-hosted)
+
+dominant metal content Cu Au Pb-Zn Mo Fe
+
+b?
+
+A
+?
+
+B
+?
+
+T
+
+S
+
+Dumitru Potok
+
+belt
+
+Black
+
+Sea Altıntepe
+
+Tac
+
+Derekoy
+
+Pontides
+
+P
+
+e P
+
+l
+
+a
+
+g
+
+o
+
+n
+
+i
+
+a
+
+n
+
+indos
+
+i
+
+r p
+
+o o
+
+v l
+
+o it
+
+z
+
+a
+
+Neo-Tethys
+
+Taurid e s
+
+Akdağmadeni CACC
+80-76 Ma
+
+d Balkans
+
+H e l l e n i d e s Rhodopes
+
+Ada Tepe Biga
+
+G
+
+Cyclades
+
+a T
+
+rvirpoovl
+
+oitz
+
+a
+
+Halilağa
+
+Black
+
+Tau r ide s
+
+Sea Pontides
+CAC C
+
+Mesogean
+
+f
+Trepča Stan Terg B a l k a n s He Rhodopes
+
+Black
+
+s Skouries Ovacik
+Cyclades
+
+Biga Menderes
+
+Madenkoy
+40-36 Ma
+Sea Pontides
+CAC C
+
+a?
+
+Panagyurishte
+
+? district
+
+Elatsite
+
+Chelopech
+
+Assarel
+
+Medet
+
+Altıntepe Pontides
+
+Tac
+
+Neo-Tethys
+
+N
+
+500 km
+c
+Balkans Rhodopes
+
+Pin
+
+a T
+
+rvirpoovl
+
+oitz
+
+a
+
+d
+
+o
+
+s
+
+Akdağmadeni
+
+CACC
+
+100-96 Ma
+
+Black
+
+Sea
+
+Pontides
+
+CACC
+
+Tauride s
+
+enide G
+
+e
+Hell
+
+Balkans
+
+Black
+
+Rhodopes
+
+s Olympias
+
+Perama Hill Ağı Dağı Balya Menderes
+
+Cyclades
+
+60-56 Ma
+Sea Pontides
+CAC C
+
+Mesogean
+
+Taurid e s
+
+Bitlis
+
+25-21 Ma
+
+g
+
+Balkans
+
+Black
+
+Rhodopes Biga
+d e s Cyclades
+
+Menderes Kışladağ
+
+Sea Pontides
+CAC C
+
+Ta Helleni
+Ta llenide
+
+Ta H e ll e ni des
+Ta H ellenides
+
+N
+500 km
+
+Mesogean
+
+urides
+
+Bitlis
+ARABIA
+20-16 Ma
+
+h
+Balkans
+
+Black
+
+Sea
+
+Rhodopes
+
+Kısacık
+
+Biga
+
+Cyclades
+
+Menderes
+
+Pontides CAC C
+
+Efemçukuru
+
+urides
+
+Bitlis
+
+M esog e a n
+
+ARABIA
+9-8 Ma
+
+location of slab tearing Mesogean
+
+urides
+
+Bitlis ARABIA
+
+15-14 Ma
+
+i
+
+Balkans
+
+Black
+
+Sea
+
+Rhodopes
+
+Biga
+
+Menderes
+
+Cyclades
+
+Pontide s
+
+CAC C
+
+Bitlis
+
+urides
+
+ARABIA
+
+AFRICA
+
+M esogean
+
+1-0 Ma
+
+Ore Geology Reviews 94 (2018) 118–135
+Fig. 3. (a–i) Paleotectonic maps extracted from the kinematic reconstruction model evidencing the spatial and temporal evolution of metal deposits in the eastern Mediterranean region since the late Cretaceous. Main ore deposits listed in Table 1 are evidenced by their name. HP: metamorphics: high-pressure metamorphics. MT: metamorphics: medium-temperature metamorphics. HT: metamorphics: high-temperature metamorphics. IS epithermal: intermediate-sulﬁdation epithermal. ABTS belt: ApuseniBanat-Timok-Srednogorie belt. CACC: Central Anatolian Crystalline Complex.
+
+125
+
+A. Menant et al.
+
+Ore Geology Reviews 94 (2018) 118–135
+
+Fig. 4. Bar charts evidencing the distribution of metal occurrences as function of their metal content (upper panel) and deposit typology (lower panel) for late Cretaceous, PaleoceneEocene, Oligocene and Neogene periods. Distinction is made between the Balkans-Rhodope-Aegean-western Anatolian region (a) and the central and eastern Pontides-Anatolian region (b). HS: high-sulﬁdation. IS: intermediate-sulﬁdation. LS: low-sulﬁdation.
+
+magmatic arc and associated metal deposits 110–200 km away from the trench. Dominant Cu-rich mineralization thus formed (64 known occurrences, Fig. 4), mainly as porphyry deposit type in the Balkans and the eastern Pontides (Fig. 3a, b). Epithermal and skarn deposits have also been recognized with precious and/or base metal content (15 Aurich, 20 Pb-Zn-rich and 17 Fe-rich known occurrences). In addition, some porphyry Mo(-Cu) and VMS Cu(-Pb-Zn-Au) deposits formed in the eastern Pontides (5 and 9 known occurrences, respectively). In the ABTS metallogenic belt, these mineralized systems are exposed as NNESSW-oriented clusters, probably located along dextral strike-slip fault zones, such as for the Panagyurishte district (Fig. 3a). Conversely, E-Wtrending extensional basins controlled the emplacement of the deposits on the southern margin of the Black Sea basin.
+5.2. Latest Cretaceous-Eocene
+In the latest Cretaceous-early Eocene, the Pelagonian platform and the Anatolide-Tauride block, two Africa-derived continental domains, were successively accreted on to the Eurasian margin (Fig. 3c). As described above, subduction progressively migrated in the Aegean-western Anatolian region, consuming the partly oceanic Pindos domain and the Tauride platform (Fig. 3d). During this period, the overriding continental plate was characterized by dominant compressional tectonics and a decrease in the number of known deposits. Only 22 known occurrences are then evidenced in the Rhodope massif and the Biga peninsula (Fig. 4a), mainly consisting of late Eocene porphyry and lowsulﬁdation epithermal Au-rich systems formed 180–250 km away from the trench (Fig. 3d).
+Further east, the geodynamic and metallogenic evolution of eastern Anatolia is diﬀerent. Subduction zones were successively blocked, replaced by “true” collisional events involving the Eurasian margin, the
+
+CACC, the Anatolide-Tauride block and the Arabian plate. In this region, a signiﬁcant magmatic-hydrothermal activity has been recognized, resulting in the formation of dominant porphyry Cu-Au and skarn Fe deposits (15 and 4 known occurrences, respectively) (Fig. 4b).
+5.3. Oligocene
+In the Oligocene, an acceleration of the southward subduction retreat led to back-arc opening and progressive exhumation of several MCCs, including the Rhodope (whose exhumation started earlier, in the Eocene), the Kazdağ and the Menderes massifs and the Cyclades archipelago. Coeval with this extensional tectonic setting, numerous mineralized bodies formed (67 known occurrences), mainly in the central Rhodope massif with intermediate-sulﬁdation epithermal and carbonate-replacement Pb-Zn-rich deposits and in the Biga peninsula with high-sulﬁdation epithermal Au and porphyry Cu(-Mo-Au) deposits (Figs. 3e and 4a). All these occurrences formed 230–330 km away from the trench.
+The ﬁnal late Eocene-Oligocene collisional stage between the southern Tauride margin (belonging now to Eurasia) and the Arabian plate in eastern Anatolia was coeval with a relative quiescence in the hydrothermal activity with only one known deposit of Oligocene age (i.e. the Cevizlidere porphyry Cu(-Mo-Au) deposit; Fig. 4b).
+5.4. Neogene
+In the Miocene, and especially since ∼15 Ma, the southward retreat of the subduction zone further accelerated and the Aegean back-arc basin was intensively stretched as a result of slab tearing below western Anatolia. MCCs were rapidly exhumed up to the surface while magmatic and mineralized systems were progressively emplaced southward
+
+126
+
+A. Menant et al.
+
+belt
+
+ABTS
+
+Rhodope MCCs
+
+increasing rate of slab roll-back
+
+Ore Geology Reviews 94 (2018) 118–135 46 44 42
+
+Present-day latitude (°N)
+
+Dominant stress regime compression extension (or transtension)
+
+Magmatism medium- to high-K calc-alkaline high-K calc-alkaline to shoshonitic alkaline
+
+Metamorphic Core Complex (MCC) medium- to high-temperature MCC
+
+Ore deposits (see Fig. 3 for detailed legend)
+
+late Cretaceous
+
+100 90
+
+80
+
+Aegean-western Anatolian domain (Cyclades and Menderes MCCs)
+
+accretion of the Pelagonian and the Tauride carbonate platforms
+
+Paleocene
+
+Eocene
+
+70 60 50 40 Age (Ma)
+
+Oligocene 30
+
+slab tearing and trench curvature
+Miocene 20 10
+
+40
+38
+36
+34 Plio. - Q.
+0
+
+Fig. 5. Latitude-age diagram evidencing the spatial and temporal distribution of the main tectonic, metamorphic, magmatic and metallogenic events in the Balkans-Rhodope-Aegeanwestern Anatolian region since the late Cretaceous. Only metal occurrences whose timing of emplacement is constrained by absolute dating methods are represented (colored symbols with the 2σ error bar of dating). ABTS belt: Apuseni-Banat-Timok-Srednogorie belt.
+
+(Fig. 3f–h). Mainly low-sulﬁdation epithermal Au-rich and intermediate-sulﬁdation epithermal Pb-Zn-rich deposits thus formed 200–400 km away from the trench (16 and 13 known occurrences, respectively; Fig. 4a). We note also the occurrence of magmatic proximal deposits, such as Au-rich porphyries, skarns and high-sulﬁdation epithermals (9 known occurrences). Young intermediate-sulﬁdation epithermal systems of Pliocene-Pleistocene age are only distributed along the present-day Aegean volcanic arc (e.g. on Milos island; Fig. 3i). However, this does not preclude other mineralized complexes at depth in this region.
+The ongoing collision between Eurasia and Arabia in eastern Anatolia is associated with only four mineralized occurrences formed in the overriding plate during the Miocene-Pliocene (Fig. 4b).
+6. Discussion
+In this study, our kinematic reconstructions provide details on the link between the long and complex tectonic history of the eastern Mediterranean region and its metallogenic evolution. Despite the large amount of geological constraints considered in our reconstruction model, uncertainties remain about the scenario presented above. The spatial and temporal distribution of metal deposits depends on the degree of exposure of outcrops and on the advances of mineral exploration projects. However, considering the tectonic and metallogenic framework at a regional scale, we are able to discuss (1) the ﬁrst-order inﬂuence of 3D subduction dynamics on the change of metal content in mineralized systems, (2) the role of stress regime and crustal-scale structures on the spatial distribution of metal deposits and (3) the metallogenic variability between back-arc and post-collision settings along the Tethyan orogenic belt.
+6.1. From Cu- to Au-rich mineralization
+Continuous southward retreat of the subduction zone from the Balkans to the Aegean-western Anatolian region since the late Cretaceous was associated with a similar migration of magmatic-hydrothermal activity (Fig. 3) (Pe-Piper and Piper, 2006; Dilek and Altunkaynak, 2009; Menant et al., 2016b). Associated with this arc
+
+retreat and associated back-arc opening, we note the metallogenic evolution from Cu-rich deposits in the late Cretaceous to Pb-Zn- and ﬁnally Au-rich deposits in the Oligocene-Miocene (Fig. 5). In this section, we discuss for each metallogenic period the inﬂuence of 3D subduction dynamics on magmatic and hydrothermal processes responsible for this variable metal enrichment. Results from 3D thermo-mechanical numerical modeling of subduction and associated magmatic processes are also integrated into this discussion, providing physical constraints on the geodynamic and magmatic evolution (Fig. 6; for details on the modeling procedure and initial setup, see Menant et al. (2016a)). The numerical model presented here is characterized by (1) the subduction of oceanic lithosphere, resulting in hydrous partial melting in the mantle wedge (Fig. 6a), (2) the coeval subduction of oceanic and continental lithosphere, resulting in trench curvature and the progressive opening of a back-arc basin (Fig. 6b) and (3) a major slab tearing event at the transition between the continental and oceanic downgoing lithosphere, resulting in continental collision above the tear on one side of the model and fast retreat of oceanic subduction on the other side (Fig. 6c).
+6.1.1. Steady-state subduction associated with Cu-rich deposits In our kinematic reconstructions, the late Cretaceous period is
+characterized by a long and linear subduction zone along the Eurasian margin where dominant porphyry Cu(-Mo-Au), Fe and Cu(-Mo) skarns and high-sulﬁdation Au-Cu deposits formed (Figs. 3a, b and 7a), associated with typical medium- to high-K calc-alkaline arc magmatism. They are located ∼150 km away from the trench, implying an overall slab dip of 28–36° if we consider an 80–110 km minimal depth for the subducting lithosphere, below which hydrous partial melting of peridotite occurs (Fig. 6a) (Grove et al., 2006; Menant et al., 2016a). An important feature evidenced in this study is that the Eurasian active margin remained relatively stable during a long period (> 35 Myr) with a limited southward trench migration, probably because of the large slab width (> 2000 km) that increased viscous resistance of mantle on the slab (Faccenna et al., 2003; Loiselet et al., 2009). In agreement with Bertrand et al. (2014), we argue that this long-lived steady-state subduction dynamics associated with a relatively high convergence rate (2–4 cm/yr) promoted continuous and/or multistage partial melting in
+
+127
+
+A. Menant et al.
+
+a Oceanic subduction and steady-state magmatic arc
+
+12.1 Myrs
+overridcionngtinental plate cross-section
+
+continenbtalol ck
+
+1.9 cm/yr
+
+oceanic plate
+
+b Oceanic-continental subduction and accelerating slab roll-back
+14.5 Myrs back-arc
+basin opening cross-section
+
+Ore Geology Reviews 94 (2018) 118–135
+
+c Fast slab roll-back and tearing and back-arc-related crustal thinning
+
+21.0 Myrs
+
+slab tearing (below)
+
+collision
+
+cross-section
+
+680 km
+
+656 km
+
+1200 km
+
+partial melting of hydrated mantle
+Vertical cross-section magmatic arc
+
+favorable location for Au-rich melt
+genesis (in white)
+
+steady-state slab
+
+continental subduction
+
+poloidal asthenospheric flow (blue arrows)
+0 km
+
+Vertical cross-section partially molten crustal dome
+
+favorable 100 location for
+Au-rich melt genesis
+200 (in white)
+
+accelerating slab roll-back
+
+slab tearing
+
+toroidal asthenospheric flow
+
+Vertical cross-section
+
+(blue arrows)
+
+stretched partially molten crustal dome
+
+0 km
+
+0 km
+
+favorable 100 location for
+Au-rich melt genesis
+200 (in white)
+
+fast slab roll-back
+
+100 200
+
+Fig. 6. Results from 3D thermo-mechanical modeling of complex subduction zone characterized by oceanic and continental subduction, slab roll-back and tearing (for details on the modeling procedure and evolution of the model, the reader is referred to Menant et al. (2016a)). (a) Initial stage of oceanic subduction. (b) Second stage of coeval oceanic and continental subduction. (c) Third stage of slab tearing, continental collision and continuing fast retreating oceanic subduction. The two upper panels show 3D views of the overall evolution of the model and the lower panel shows 2D cross-sections of the arc and back-arc regions where are evidenced favorable zones in the lithospheric mantle to form Au-rich magmas, according to Li and Audétat (2013) (white patches).
+
+a restricted part of the mantle wedge, resulting in large volumes of potentially fertile magmas (Fig. 7a). This is a reasonable explanation for the large size of these arc-related deposits formed in a transtensional to extensional tectonic setting (Table 1), as such a stress regime is usually not expected to favor large mid- to upper-crustal magmatic chambers required to form giant porphyry deposits (von Quadt et al., 2005; Sillitoe, 2010). These late Cretaceous magmatic proximal deposits share many characteristics with those formed above active subduction zones, such as along the Andean Cordillera, suggesting similar physico-chemical processes responsible for metal transport and deposition (see review of Sillitoe (2010)). Ascending, metal-bearing magmas formed in the mantle wedge were thus characterized by a high Cu/Au ratio due to the better partitioning of Cu relative to Au into silica melts in this subarc environment (Richards, 2009; Li and Audétat, 2012), which can explain the high Cu content of porphyry deposits in the Balkans (Fig. 5).
+In the eastern Pontides, late Cretaceous porphyry deposits display a signiﬁcant enrichment in Mo and are associated with high-K calc-alkaline to shoshonitic magmatism (Delibaş et al., 2016a). Such a composition of late Cretaceous magmas is observed all along the southern margin of the Black Sea basin that was coevally opening (Nikishin et al., 2015). This led us to suggest that the formation of this oceanic basin is (at least partly) responsible for this magmatic signature and for the Mo enrichment in porphyry deposits. In addition, spatially and temporally associated Kuroko-type VMS Cu(-Pb-Zn-Au-Ag) deposits imply a heated sea water ﬂow and therefore a sub-marine environment (Abdioğlu et al., 2015), also consistent with the formation of the Black Sea.
+The late Cretaceous evolution of the eastern Mediterranean region agrees with the initial stage of our 3D numerical model where subduction of homogeneous oceanic lithosphere results in hydrous partial melting of the mantle wedge and magmatic arc formation in the overriding plate (Fig. 6a). Related asthenospheric ﬂow with a dominant poloidal ﬂow component (i.e. in vertical plane) initiated at the slab tip
+
+then supported intense partial melting by providing additional heat to the mantle wedge.
+6.1.2. From accretion to retreating subduction and MCC exhumation, implications for Pb-Zn-rich deposits
+In the latest Cretaceous-Eocene, subduction and accretion of several continental blocks occurred along the Eurasian margin, leading to compressional tectonics in the overriding plate and a sudden decrease of magmatic-hydrothermal activity (Fig. 5). In this study, no mineralization of Paleocene age is evidenced in the Balkans (Fig. 3c). A reasonable assumption to explain this barren period is the change of subducting material (from oceanic to continental lithosphere) that avoided hydrous partial melting of the mantle wedge and mobilization of metals. This contrasts with eastern Anatolia where magmatic proximal and distal deposits, and especially porphyry Cu-Au-Mo deposits, formed in a post-collision setting (Kuşcu et al., 2013; Delibaş et al., 2016b).
+The collision then post-collision scenario cannot be applied to the Rhodope-Aegean-western Anatolian region as subduction did not cease but progressively migrated southward (Fig. 3d). This resulted in a new fertile period in the central Rhodope massif and Chalkidiki peninsula where intermediate-sulﬁdation epithermal and carbonate replacement Pb-Zn(-Ag) deposits formed in the latest Eocene-Oligocene (Fig. 4a). In our reconstructions, these deposits are spatially associated with metamorphic domes (i.e. the MCCs) and high-K calc-alkaline to shoshonitic magmatism (Figs. 3d, e and 7b; see also Menant et al., 2016b for the distribution of magmatism), emphasizing the extensional back-arc tectonic setting for this metallogenic province. Available Pb isotopic analyses of ore sulﬁdes indicate a crustal inheritance for this metal (and probably for Zn and Ag) (Kalogeropoulos et al., 1989; Marchev et al., 2005). This is consistent with the dominant magmatic ﬂuids involved in ore forming processes that display a high crustal source component
+
+128
+
+A. Menant et al.
+
+Ore Geology Reviews 94 (2018) 118–135
+
+Fig. 7. 3D schematic views of the eastern Mediterranean subduction zone and associated mantle and crustal processes controlling the emplacement of (a) the Cu-rich metallogenic province in the late Cretaceous, (b) the Pb-Zn-rich metallogenic province in the latest Eocene-Oligocene and (3) the Au-rich metallogenic province in the Miocene.
+
+(e.g. Rice et al., 2007). Following Kaiser-Rohrmeier et al. (2013), we then propose the following scenario to link subduction dynamics with ore forming processes in this region (Fig. 7b). Continental accretion along the Eurasian margin in the early Cenozoic ﬁrst resulted in crustal
+
+thickening, leading to partial melting of the lower crust and development of migmatitic domes. In the late Eocene, crustal thinning arose from the increasing rate of southward subduction retreat (i.e. 0.5–1 cm/ yr in our reconstructions), promoting crustal heating and exhumation of
+
+129
+
+A. Menant et al.
+
+Ore Geology Reviews 94 (2018) 118–135
+
+MCCs in the upper crust supported by the underlying asthenospheric ﬂow. This is in line with the second stage our 3D numerical model of subduction zone that is characterized by accelerating slab roll-back and associated opening of a back-arc basin where partially molten crustal rocks are exhumed as a dome-like structure (Fig. 6b). Favourable conditions are thus gathered to mobilize Pb, Zn and Ag in magmatic ﬂuids ascending up to the upper crust (Fig. 7b).
+In addition, high-sulﬁdation epithermal Au and porphyry Cu(-MoAu) deposits formed during the late Eocene-early Oligocene, especially in the Biga peninsula (Fig. 3e). The typical subduction-related character of these deposits and related magmatism leads us to suggest that the coeval subduction of the partly oceanic Pindos domain may have triggered the formation of a short-lived magmatic arc and associated mineralization in this region. An alternative interpretation could be a short episode of slab tearing in the Eocene as suggested by Govers and Fichtner (2016), although there is no clear evidence in the magmatic record.
+6.1.3. Fast retreating subduction and slab tearing, implications for Au-rich deposits
+In the late Oligocene-Miocene, numerous Au(-Ag-Cu-Pb-Zn) deposits formed in the Aegean-western Anatolian region while subduction migrated fast toward the south, especially since the middle Miocene as slab was torn below western Turkey (Figs. 3f, g, 5 and 7c; see also Jolivet et al. (2015) and references therein). Their location, far from the trench (i.e. 200–400 km in our reconstructions), and the lack of typical magmatic arc conﬁrm the back-arc setting for this mineralization that mainly consists of extension-related low-sulﬁdation epithermal Au deposits (Fig. 4a). According to Sillitoe and Hedenquist (2003), S-rich reduced mantle-derived maﬁc melts would play a fundamental role to form these deposits due to their ability to transport Au, which is consistent with the increase of metasomatized mantle (or maﬁc amphibolite) source component of magmas related to the intense crustal thinning (Marchev et al., 2005; Dilek and Altunkaynak, 2009).
+Coevally, skarn- and porphyry-type deposits displaying a high Au content formed, related to high-K calc-alkaline to shoshonitic magmatic intrusions (e.g. Skouries, Kışladağ, Turkey, Table 1) (Baker et al., 2016; Siron et al., 2016). Deposition at shallow depth for the mineralization (e.g. < 1 km? for Kışladağ) can partly explain this Au enrichment (Baker et al., 2016), as it was pointed out for porphyry Au deposits of the Refugio district (Chile) (Muntean and Einaudi, 2000). This assumption is supported by signiﬁcant crustal thinning of the back-arc crust in this region due to the accelerating southward migration of the subduction zone (up to 3.5 cm/yr in our reconstructions in the middle Miocene, Fig. 3f–h). Associated extensional stress regime may thus have promoted the fast ascent of potentially fertile magmas and their cooling at shallow depth, favoring porphyry Au-rich deposits (Fig. 7c). Deeper processes have been alternatively proposed to justify this high Au content, involving Au enrichment in the parental magmas. Richards (2009) argued for the presence of lithospheric mantle or lower crustal amphibole-rich cumulates containing Au-rich residual sulﬁde phase originated from a ﬁrst-stage sub-arc metasomatism. Subsequent partial melting in a back-arc context then destabilizes these sulﬁde residues, notably in oxidized conditions (Jugo, 2009), thereby enabling Au remobilization in the melt. Another recent study proposed that pressuretemperature (P-T) conditions in the sub-back-arc metasomatized mantle imply that sulﬁdes are essentially expressed as a solid phase (i.e. monosulﬁde solid solution) that has a lower ability to sequester Au than sulﬁde liquid if partial melting occurs (Li and Audétat, 2013). Both assumptions then imply primary magmas displaying a relatively low Cu/Au ratio formed in a typical back-arc-related P-T range of 1.0–2.5 GPa and 1050–1150 °C (Conceição and Green, 2004). According to these P-T conditions, our 3D numerical model of subduction predicts a zone in the upper part of the lithospheric mantle, below exhuming metamorphic domes, where sulﬁdes are stable as a solid phase (see white patches in Fig. 6). The increasing size of this zone
+
+while subduction retreats faster after slab tearing (Fig. 6c) suggests a more eﬃcient partitioning of Au in magmas formed in this sub-back-arc environment that may be partly responsible for the emplacement of this Au-rich deposits in the eastern Mediterranean region.
+Fast retreat of the subduction evidenced in our kinematic reconstructions implies partial melting spreading over a wide area (i.e. the back-arc basin), thus explaining the commonly smaller size of these back-arc-related deposits by comparison with the late Cretaceous deposits formed in a restricted area above a stagnant slab (Takada, 1994; Richards, 2003). The giant Kışladağ porphyry Au deposit (Table 1) in the Menderes massif is an exception in this region. Recent geochronological constraints suggest an emplacement ∼14.5 Ma ago (Baker et al., 2016), corresponding to the inferred timing for slab tearing below western Turkey (i.e. ∼16–15 Ma) (Jolivet et al., 2015). Given that this deposit is located just above this tear (Fig. 3g) and that this tear strongly inﬂuenced the tectonic and magmatic evolution in this region (e.g. Dilek and Altunkaynak, 2009; Jolivet et al., 2015; Menant et al., 2016a), we suggest that the slab tearing focused asthenospheric ﬂow, thus promoting intense partial melting of the overlying metasomatized lithospheric mantle and Au mobilization.
+To summarize, our reconstructions indicate that the evolution of the 3D geometry and dynamics of the eastern Mediterranean subduction zone since the late Cretaceous have inﬂuenced the magmatic and hydrothermal processes responsible for the successive emplacement of Cuthen Pb-Zn- and ﬁnally Au-rich deposits (Figs. 5 and 7). Three diﬀerent arc and back-arc settings are identiﬁed for each of these metallogenic provinces. (1) A long-lived linear oceanic subduction led to the formation of large amounts of Cu-bearing primary magmas in the mantle wedge that subsequently ascended to the upper crust where porphyry and epithermal deposits formed along a narrow magmatic arc (Fig. 7a). (2) Subduction retreated southward, associated with the progressive opening of a back-arc basin where MCCs were exhumed, mobilizing Pb and Zn via crustal magmas (Fig. 7b). (3) A fast retreat of subduction, enhanced by slab tearing, favored the mobilization of Au from the metasomatized lithospheric mantle and the rapid ascent of metalbearing magmatic-then-hydrothermal ﬂuids through the stretched crust (Fig. 7c). The steady-state or, instead, fast-retreating kinematics of subduction also had a major impact on the amount of potentially fertile magmas produced either in a restricted sub-arc area or below a wide back-arc basin, thus inﬂuencing the size and the economic potential of these deposits.
+6.2. Structural control of mineralization
+In addition to inﬂuence metal mobilization through magmatic and/ or hydrothermal ﬂuids, subduction dynamics also determines the dominant stress regime in the overriding plate that, in turn, inﬂuences the ascent of metal-bearing ﬂuids through the crust and the spatial distribution of resulting metal occurrences (e.g. Tosdal and Richards, 2001; Richards, 2003).
+6.2.1. Late Cretaceous transtensional to extensional stress regime During the late Cretaceous, a transtensional to extensional crustal
+stress regime was recorded in the Balkans-Pontides belt, resulting from slab steepening and/or subduction retreat at very slow rate (i.e. ∼ 0.1 cm/yr) (Gallhofer et al., 2015; Menant et al., 2016b). In the major part of the Balkans, strike-slip and pull-apart structures thus developed, such as in the Panagyurishte district, focusing the ascent of fertile magmas into the upper crust (Fig. 7a; see also Gallhofer et al. (2015)). Such regularly-spaced structures can then explain the deposit clustering along this active margin (Fig. 3b), as proposed for the Andean Cordillera where deposit clusters are located at the intersection between trench-parallel faults and crosswise structural corridors (Richards et al., 2001) (see also Fig. 2 in Sillitoe (2010)). Alternatively, recent numerical models suggested that the ascent of partially molten rocks in the mantle wedge (considered as the main source for primary
+
+130
+
+A. Menant et al.
+
+Ore Geology Reviews 94 (2018) 118–135
+
+60°N Main tectonic structures
+
+Eurasia
+
+Erdenet
+
+subduction zone / large thrust normal fault
+
+strike-slip fault
+
+Hankavan Tekhut
+
+Kadjaran
+
+Agarak
+
+40°N
+
+Kışladağ
+
+Çöpler
+
+Songun
+
+Yulong
+
+Mesozoic/Cenozoic porphyry ore deposits
+/ porphyry Cu deposit / porphyry Cu-Au deposit / porphyry Cu-Mo deposit
+
+Africa
+
+Recsk
+
+Carpathians Balkans region
+
+Meiduk Darrehaz
+Arabia
+
+Saindak
+
+India
+
+Jiama
+
+Fengshandong
+Chengmenshan Zijinshan
+
+Dexing
+
+Geodynamic settings in Cenozoic arc / back-arc subduction (arc) / collision / post-collision
+
+Far Southeast
+
+Batang Buhay
+
+Valei Morii Moldova
+Nouӑ
+
+Rosia Poieni Bucium Tarnita
+Bolcana
+
+Dizon
+Atlas Sipalay
+
+Marcopper Amacan
+
+Pacific
+
+Majdanpek
+
+Veliki Krivelj
+
+Bor Medet
+
+Elatsite
+
+Assarel
+
+Tsar Asen
+
+Bučim
+
+Grasberg
+
+I n d o-
+
+Batu Hijau
+
+Ok Tedi
+
+Australia
+
+Panguna
+
+40°E
+
+60°E
+
+80°E
+
+100°E
+
+120°E
+
+140°E
+
+160°E
+
+Fig. 8. Simpliﬁed tectonic map of the Tethyan orogenic belt showing the main porphyry deposits formed in Mesozoic and Cenozoic times (see square and circle symbols, respectively). Arc/back-arc and arc/collision/post-collision settings occurring along this belt are also evidenced. Detailed map of the Carpathians-Balkans region is shown as inset. Locations and ages of ore deposit are derived from Singer et al. (2008), Cassard et al. (2012), Richards (2014), Delibaş et al., 2016a; Moritz et al. (2016).
+
+arc magmas) may occur as trench-parallel regularly-spaced plumes, thus controlling volcano clustering observed along magmatic arcs (Zhu et al., 2013). These plumes develop where subduction is stable, favoring the development of Rayleigh-Taylor instabilities in the hydrated/partially molten mantle at the top of the slab, then triggering plume ascent (Menant et al., 2016a). Accordingly, we propose that the steady-state dynamics of the eastern Mediterranean subduction zone during the late Cretaceous favored the development of these partially molten plumes in the mantle wedge, thus inﬂuencing the clustering of mineralization in this region (Fig. 7a).
+6.2.2. Late Eocene-Miocene extension and metamorphic core complex exhumation
+Numerous metal deposits formed in an extensional back-arc setting from the late Eocene are located within or in the vicinity of metamorphic domes (i.e. the Rhodope, Kazdağ, Menderes and Cyclades MCCs; Fig. 1). A closer look at the morphology and timing of the mineralization indicates that metal deposition occurred from ductilebrittle to brittle conditions, during the ﬁnal emplacement of the MCCs in the upper crust (e.g. the Madan and Lavrion Pb-Zn(-Ag) districts, the Efemçukuru epithermal Au(-Ag) deposit and the Sifnos and Mykonos Au (-Ag) quartz veins and breccias; Fig. 1). These spatial and temporal relationships suggest that extensional metamorphic domes inﬂuence metal transfer and deposition in the upper crust by providing (1) a high geothermal gradient in the entire crust that led to sustain hydrothermal ﬂuid circulations and (2) eﬃcient pathways to channel these ﬂuids, with numerous high-angle normal faults rooting and crosscutting crustal-scale low-angle detachment faults (Fig. 7b and c) (see also Sánchez et al. (2016) and Melfos and Voudouris (2017)). In addition, the constant record of a meteoric or seawater ﬂuid component in these mineralized systems (e.g. Kilias et al., 1996; Rice et al., 2007; Tombros et al., 2015) leads us to suggest that brittle faulting related to the ﬁnal exhumation of the MCCs may have triggered metal deposition by favoring the connection between metal-bearing deep ﬂuids and surfacederived water (Fig. 7b).
+6.3. Metallogeny in back-arc and post-collision environments along the Tethyan orogenic belt
+Considering the metallogenic evolution of the eastern
+
+Mediterranean region discussed above, some comparisons can be done with the whole Tethyan orogenic belt that extends from the Mediterranean region in the west to southeastern Asia (i.e. Papua New Guinea) in the east (Fig. 8). Mesozoic subduction-related deposits and notably porphyry Cu(-Mo-Au) deposits can be tracked all along the belt (Richards, 2014). This suggests a relatively similar subduction setting along the whole Eurasian margin during this period, although some complexities had to occur in order to explain contrasting tectonic and metallogenic evolutions in some regions, such as between the Lesser Caucasus and Iran (Moritz et al., 2016). During the Cenozoic, postcollision-related deposits, and notably porphyry Cu-Mo deposits, formed in the central part of the Tethyan belt where major collision events occurred (including the Arabia-Eurasia and India-Eurasia collision zones; Fig. 8). According to Richards (2014), these deposits are similar to Mesozoic subduction-related deposits. Nonetheless, in order to explain the Mo enrichment observed in post-collisional porphyry deposits (e.g. Moritz et al., 2016), we propose that crustal thickening resulting from these collisional events favored a high degree of diﬀerentiation of magmas subsequently generated, thus promoting Mo enrichment of the melt (Audétat, 2010). Coevally, back-arc-related Aurich deposits, including porphyry Au-Cu deposits, formed during the Cenozoic on the western and eastern terminations of the Tethyan belt (i.e. in the Carpathians and Aegean-western Anatolian region and in southeast Asia, respectively; Fig. 8) (e.g. Sillitoe, 1997; Heinrich and Neubauer, 2002; Garwin et al., 2005). In both regions, active subduction zones display a complex 3D architecture and dynamics involving both slab roll-back and tearing processes (e.g. Neubauer et al., 2005; Hall, 2011) responsible for the opening of back-arc basins where Au mobilization is favored (see discussion above). This dichotomy observed along this orogenic belt, built over several tens of million years, emphasizes the ﬁrst-order inﬂuence of 3D plate tectonics on the development of such metallogenic provinces, with central and extremities of the same belt evidencing a signiﬁcantly diﬀerent geodynamic and metallogenic evolution.
+7. Conclusion
+Kinematic reconstruction model and compiled metallogenic database presented in this study provide a detailed view on the 3D tectonic and metallogenic evolution of the eastern Mediterranean region since
+
+131
+
+A. Menant et al.
+
+Ore Geology Reviews 94 (2018) 118–135
+
+the late Cretaceous. Three main metallogenic periods are thus evidenced, emphasizing the ﬁrst-order inﬂuence of 3D subduction dynamics (including slab roll-back and tearing) on ore forming processes.
+(1) In the late Cretaceous, subduction-related porphyry Cu(-Mo-Au) deposits and associated epithermal, skarn and/or VMS deposits were emplaced in the Balkans and Pontides that formed a long and linear Andean-like active margin. Associated steady-state kinematics of the subduction led to the formation of magmas in the mantle wedge, mobilizing metals up to the upper crust and forming large ore deposits within a narrow belt.
+(2) In the latest Eocene-Oligocene, Pb-Zn(-Ag) deposits formed in a back-arc extensional setting (e.g. the Rhodope massif) while the rate of southward slab roll-back increased. Magmatic-hydrothermal systems responsible for metal deposition were limited to the crust, indicating a crustal inheritance for these metal.
+(3) In the Miocene, Au-rich deposits were deposited within a thinned and heated back-arc basin resulting from fast slab retreat, tearing and associated asthenospheric ﬂow. Favorable conditions are then gathered to mobilize, concentrate and precipitate Au in the shallowest part of the crust from magmas formed in the sub-back-arc metasomatized lithospheric mantle. These back-arc-related deposits are generally smaller and widespread over a wide area (i.e. the Aegean-western Anatolian region), although exceptions exist such as the giant Kışladağ porphyry Au deposit located just above a slab tear.
+All these deposits systematically formed while the stress regime in the overriding plate was transtensional or extensional. The fast ascent of metal-bearing ﬂuids was promoted either by strike-slip fault zones along the late Cretaceous magmatic arc or crustal-scale detachments and associated high-angle normal faults that bound MCCs exhumed in a back-arc setting during the late Eocene-Miocene.
+At the scale of the whole Tethyan orogenic belt, the dynamic backarc metallogenic model proposed for the eastern Mediterranean region seems also relevant for the Carpathians and for southeast Asia that constitute the two extremities of the belt where fast slab roll-back and slab tearing are involved. Conversely, collision then post-collision metallogenic models are proposed for the central part of the belt where large deposits display a subduction-like geochemical signature although no slab is longer present. Along-strike changes of geodynamic evolution of the long-lived Tethyan orogenic system have therefore a ﬁrst-order inﬂuence on the development of these metallogenic provinces.
+Acknowledgments
+This work was funded by the French Geological Survey (BRGM), the Région Centre, the ERC RHEOLITH project (ERC Advanced Grant no 290864), the Labex VOLTAIRE (ANR-10-LABX-100-01) and the Institut Universitaire de France. The Université de Pau et des Pays de l’Adour and the Institut de Physique du Globe de Paris (IPGP) are also acknowledged for their ﬁnancial support. Discussions with Jeremy P. Richards are greatly appreciated. We also thank Jeﬀrey W. Hendenquist and one anonymous reviewer for their constructive comments.
+Appendix A. Supplementary data
+Supplementary data associated with this article can be found, in the online version, at http://dx.doi.org/10.1016/j.oregeorev.2018.01.023.
+References
+Abdioğlu, E., Arslan, M., Kadir, S., Temizel, İ., 2015. Alteration mineralogy, lithochemistry and stable isotope geochemistry of the Murgul (Artvin, NE Turkey) volcanic hosted massive sulﬁde deposit: implications for the alteration age and ore forming ﬂuids. Ore Geol. Rev. 66, 219–242. http://dx.doi.org/10.1016/j.oregeorev.2014.10.
+
+017. Agard, P., Omrani, J., Jolivet, L., Mouthereau, F., 2005. Convergence history across
+Zagros (Iran): constraints from collisional and earlier deformation. Int. J. Earth Sci. 94 (3), 401–419. http://dx.doi.org/10.1007/s00531-005-0481-4. Agard, P., Omrani, J., Jolivet, L., Whitechurch, H., Vrielynck, B., Spakman, W., Monié, P., Meyer, B., Wortel, R., 2011. Zagros orogeny: a subduction-dominated process. Geol. Mag. 148 (5–6), 692–725. http://dx.doi.org/10.1017/S001675681100046X. Agdemir, N., Kirikoglu, M.S., Lehmann, B., Tietze, J., 1994. Petrology and alteration geochemistry of the epithermal Balya Pb-Zn-Ag deposit, NW Turkey: a reconnaissance study. Min. Deposita 29 (4). http://dx.doi.org/10.1007/BF00191043. Akçay, M., Özkan, H.M., Moon, C.J., Spiro, B., 2006. Geology, mineralogy and geochemistry of the gold-bearing stibnite and cinnabar deposits in the Emirli and Halıköy areas (Ödemiş, İzmir, West Turkey). Ore Geol. Rev. 29 (1), 19–51. http://dx. doi.org/10.1016/j.oregeorev.2004.12.006. Audétat, A., 2010. Source and evolution of molybdenum in the porphyry Mo(-Nb) deposit at cave peak, Texas. J. Pet. 51 (8), 1739–1760. http://dx.doi.org/10.1093/petrology/ egq037. Baker, T., et al., 2016. The geology of the Kışladağ porphyry gold deposit, Turkey. Spec. Publ. Soc. Econ. Geol. 19 (3), 57–83. Barrier, E., Vrielynck, B., 2008. MEBE atlas of paleotectonic maps of the middle east. Commun. Geol. Map World. Berger, A., Schneider, D.A., Grasemann, B., Stockli, D., 2013. Footwall mineralization during late miocene extension along the west cycladic detachment system, Lavrion, Greece. Terra Nova 25 (3), 181–191. http://dx.doi.org/10.1111/ter.12016. Bergerat, F., Vangelov, D., Dimov, D., 2010. Brittle deformation, palaeostress ﬁeld reconstruction and tectonic evolution of the Eastern Balkanides (Bulgaria) during Mesozoic and Cenozoic times. Spec. Publ. Geol. Soc. Lond. 340 (1), 77–111. http:// dx.doi.org/10.1144/SP340.6. Bertrand, G., Guillou-Frottier, L., Loiselet, C., 2014. Distribution of porphyry copper deposits along the western Tethyan and Andean subduction zones: insights from a paleotectonic approach. Ore Geol. Rev. 60, 174–190. http://dx.doi.org/10.1016/j. oregeorev.2013.12.015. Berza, T., Constantinescu, E., Vlad, Ş.-N., 1998. Upper cretaceous magmatic series and associated mineralisation in the carpathian – Balkan orogen. Resour. Geol. 48 (4), 291–306. http://dx.doi.org/10.1111/j.1751-3928.1998.tb00026.x. Bird, P., 1978. Initiation of intracontinental subduction in the Himalaya. J. Geophys. Res. Solid Earth 83 (B10), 4975–4987. http://dx.doi.org/10.1029/JB083iB10p04975. Biryol, C.B., Beck, S.L., Zandt, G., Özacar, A.A., 2011. Segmented African lithosphere beneath the Anatolian region inferred from teleseismic P-wave tomography. Geophys. J. Int. 184 (3), 1037–1057. http://dx.doi.org/10.1111/j.1365-246X.2010. 04910.x. Boccaletti, M., Manetti, P., Peccerillo, A., Stanisheva-Vassileva, G., 1978. Late cretaceous high-potassium volcanism in eastern srednogorie, Bulgaria. Geol. Soc. Am. Bull. 89 (3), 439. http://dx.doi.org/10.1130/0016-7606(1978) 89∗439:LCHVIE∗2.0.CO;2. Bolhar, R., Ring, U., Allen, C.M., 2010. An integrated zircon geochronological and geochemical investigation into the Miocene plutonic evolution of the Cyclades, Aegean Sea, Greece: Part 1: geochronology. Contrib. Mineral. Petrol. 160 (5), 719–742. http://dx.doi.org/10.1007/s00410-010-0504-4. Bonev, N., Beccaletto, L., 2007. From syn- to post-orogenic Tertiary extension in the north Aegean region: constraints on the kinematics in the eastern Rhodope Thrace, Bulgaria Greece and the Biga Peninsula, NW Turkey. Spec. Publ. Geol. Soc. Lond. 291 (1), 113–142. http://dx.doi.org/10.1144/SP291.6. Bonev, N., Burg, J.-P., Ivanov, Z., 2006. Mesozoic-Tertiary structural evolution of an extensional gneiss dome—the Kesebir-Kardamos dome, eastern Rhodope (Bulgaria–Greece). Int. J. Earth Sci. 95 (2), 318–340. http://dx.doi.org/10.1007/ s00531-005-0025-y. Bonneau, M., Kienast, J.R., 1982. Subduction, collision et schistes bleus; l’exemple de l’Egée (Grèce). Bull. Soc. Geol. Fr. 4, 785–791. Bonsall, T.A., Spry, P.G., Voudouris, P.C., Tombros, S., Seymour, K.S., Melfos, V., 2011. The geochemistry of carbonate-replacement Pb-Zn-Ag mineralization in the Lavrion district, Attica, Greece: ﬂuid Inclusion, stable isotope, and rare earth element studies. Econ. Geol. 106 (4), 619–651. http://dx.doi.org/10.2113/econgeo.106.4.619. Boucher, K.S., 2016. The structural and ﬂuid evolution of the efemçukuru epithermal gold deposit, western Turkey. M.S. Thesis. Univ, British Columbia, Vancouver, Canada. Boyden, J.A., Muller, R.D., Gurnis, M., Torsvik, T.H., Clark, J.A., Turner, M., Ivey-Law, H., Watson, R.J., Cannon, J.S., 2011. Next-generation plate-tectonic reconstructions using GPlates. In: Keller, G.R., Baru, C., Keller, G.R., Baru, C. (Eds.), Geoinformatics. Cambridge University Press, Cambridge, pp. 95–114. Bozkurt, E., Oberhänsli, R., 2001. Menderes Massif (Western Turkey): structural, metamorphic and magmatic evolution - a synthesis. Int. J. Earth Sci. 89 (4), 679–708. http://dx.doi.org/10.1007/s005310000173. Brun, J.-P., Sokoutis, D., 2007. Kinematics of the southern rhodope core complex (North Greece). Int. J. Earth Sci. 96 (6), 1079–1099. http://dx.doi.org/10.1007/s00531007-0174-2. Brun, J.-P., Faccenna, C., 2008. Exhumation of high-pressure rocks driven by slab rollback. Earth Planet. Sci. Lett. 272, 1–7. http://dx.doi.org/10.1016/j.epsl.2008.02. 038. Brunetti, P., Miskovic, A., Hart, C.J.R., Davies, A., Creaser, R., Geology of the Halilağa Porphyry Cu-Au Deposit and Emergence of an Eocene Porphyry Belt in NW Turkey, SEG-MJD 2016 Conference, Çeşme, Turkey. Çagatay, M.N., Eastoe, C.J., 1995. A sulfur isotope study of volcanogenic massive sulﬁde deposits of the Eastern Black Sea province, Turkey. Min. Deposita 30 (1). http://dx. doi.org/10.1007/BF00208877. Capitanio, F.A., 2014. The dynamics of extrusion tectonics: insights from numerical modeling. Tectonics 33 (12), 2361–2381. http://dx.doi.org/10.1002/ 2014TC003688.
+
+132
+
+A. Menant et al.
+
+Ore Geology Reviews 94 (2018) 118–135
+
+Cassard, D., et al., 2012. ProMine Pan-European Mineral Deposit Database: A New Dataset for Assessing Primary Mineral Resources in Europe. Nancy, France.
+Chase, C.G., 1978. Extension behind island arcs and motions relative to hot spots. J. Geophys. Res. 83 (B11), 5385. http://dx.doi.org/10.1029/JB083iB11p05385.
+Ciobanu, C., Cook, N., Stein, H., 2002. Regional setting and geochronology of the Late Cretaceous Banatitic Magmatic and Metallogenetic Belt. Miner. Deposita 37 (6–7), 541–567. http://dx.doi.org/10.1007/s00126-002-0272-9.
+Conceição, R., Green, D.H., 2004. Derivation of potassic (shoshonitic) magmas by decompression melting of phlogopite + pargasite lherzolite. Lithos 72 (3–4), 209–229. http://dx.doi.org/10.1016/j.lithos.2003.09.003.
+de Boorder, H., Spakman, W., White, S.H., Wortel, M.J.R., 1998. Late cenozoic mineralization, orogenic collapse and slab detachment in the European Alpine Belt. Earth Planet. Sci. Lett. 164 (3–4), 569–575. http://dx.doi.org/10.1016/S0012-821X(98) 00247-7.
+Delibaş, O., Moritz, R., Ulianov, A., Chiaradia, M., Saraç, C., Revan, K.M., Göç, D., 2016a. Cretaceous subduction-related magmatism and associated porphyry-type Cu–Mo prospects in the Eastern Pontides, Turkey: new constraints from geochronology and geochemistry. Lithos 248–251, 119–137. http://dx.doi.org/10.1016/j.lithos.2016. 01.020.
+Delibaş, O., Moritz, R., Selby, D., 2016b, New Re-Os molybdenite ages for porphyry-type prospects from the eastern Pontides paleo-magmatic arc, Turkey, SEG-MJD 2016 Conference, Çeşme, Turkey.
+Dilek, Y., Altunkaynak, S., 2009. Geochemical and temporal evolution of Cenozoic magmatism in western Turkey: mantle response to collision, slab break-oﬀ, and lithospheric tearing in an orogenic belt. Spec. Publ. Geol. Soc. Lond. 311 (1), 213–233. http://dx.doi.org/10.1144/SP311.8.
+Doglioni, C., Agostini, S., Crespi, M., Innocenti, F., Manetti, P., Riguzzi, F., Savasçin, Y., 2002. On the extension in western Anatolia and the Aegean sea, In: G. Rosenbaum, and G. S. Lister, reconstruction of the evolution of the alpine-himalayan orogen. J. Virtual Explor. 7, 167–181.
+Ducoux, M., Branquet, Y., Jolivet, L., Arbaret, L., Grasemann, B., Rabillard, A., Gumiaux, C., Druﬁn, S., 2017. Synkinematic skarns and ﬂuid drainage along detachments: the West Cycladic Detachment System on Serifos Island (Cyclades, Greece) and its related mineralization. Tectonophysics 695, 1–26. http://dx.doi.org/10.1016/j.tecto.2016. 12.008.
+Ersoy, E.Y., Palmer, M.R., 2013. Eocene-quaternary magmatic activity in the Aegean: implications for mantle metasomatism and magma genesis in an evolving orogeny. Lithos. http://dx.doi.org/10.1016/j.lithos.2013.06.007.
+Eyüboğlu, Y., 2010. Late cretaceous high-K volcanism in the eastern pontide orogenic belt: implications for the geodynamic evolution of NE Turkey. Int. Geol. Rev. 52 (2–3), 142–186. http://dx.doi.org/10.1080/00206810902757164.
+Faccenna, C., Jolivet, L., Piromallo, C., Morelli, A., 2003. Subduction and the depth of convection in the Mediterranean mantle. J. Geophys. Res. 108 (B2), 2099. http://dx. doi.org/10.1029/2001JB001690.
+Faccenna, C., et al., 2014. Mantle dynamics in the Mediterranean. Rev. Geophys. 52 (3), 283–332. http://dx.doi.org/10.1002/2013RG000444.
+Flerit, F., Armijo, R., King, G., Meyer, B., 2004. The mechanical interaction between the propagating North Anatolian Fault and the back-arc extension in the Aegean. Earth Planet Sci. Lett. 224, 347–362. http://dx.doi.org/10.1016/j.epsl.2004.05.028.
+Gallhofer, D., von Quadt, A., Peytcheva, I., Schmid, S.M., Heinrich, C.A., 2015. Tectonic, magmatic, and metallogenic evolution of the Late Cretaceous arc in the CarpathianBalkan orogen: evolution of the ABTS Belt. Tectonics 34 (9), 1813–1836. http://dx. doi.org/10.1002/2015TC003834.
+Garwin, S., Hall, R., Watanabe, Y., 2005. Tectonic setting, geology, and gold and copper mineralization in Cenozoic magmatic arcs of Southeast Asia and the West Paciﬁc. Econ. Geol. 100th Anniv. Vol. 891–930.
+Gautier, P., Brun, J.-P., Jolivet, L., 1993. Structure and kinematics of upper cenozoic extensional detachment on naxos and paros (cyclades Islands, Greece). Tectonics 12 (5), 1180–1194. http://dx.doi.org/10.1029/93TC01131.
+Govers, R., Fichtner, A., 2016. Signature of slab fragmentation beneath Anatolia from fullwaveform tomography. Earth Planet Sci. Lett. 450, 10–19. http://dx.doi.org/10. 1016/j.epsl;2016.06.014.
+Grove, T., Chatterjee, N., Parman, S., Medard, E., 2006. The inﬂuence of H2O on mantle wedge melting. Earth Planet. Sci. Lett. 249 (1–2), 74–89. http://dx.doi.org/10.1016/ j.epsl.2006.06.043.
+Hafkenscheid, E., Wortel, M.J.R., Spakman, W., 2006. Subduction history of the Tethyan region derived from seismic tomography and tectonic reconstructions. J. Geophys. Res. 111 (B8). http://dx.doi.org/10.1029/2005JB003791.
+Hahn, A., Naden, J., Treloar, P.J., Kilias, S.P., Rankin, A.H., Forward, P., 2012. A New Time Framefor the Mineralisation in the Kassandra Mine District, N Greece: Deposit Formation During Metamorphic Core Complex Exhumation, vol. 1 Frankfurt, Germany.
+Hall, R., 2011. Late Jurassic-Cenozoic reconstructions of the indonesian region and the indian ocean. Tectonophysics 570–571, 1–41. http://dx.doi.org/10.1016/j.tecto. 2012.04.021.
+Heinrich, C.A., Neubauer, F., 2002. Cu – Au – Pb – Zn – Ag metallogeny of the Alpine – Balkan – Carpathian – Dinaride geodynamic province. Miner. Deposita 37 (6–7), 533–540. http://dx.doi.org/10.1007/s00126-002-0271-x.
+Iglseder, C., Grasemann, B., Schneider, D.A., Petrakakis, K., Miller, C., Klötzli, U.S., Thöni, M., Zámolyi, A., Rambousek, C., 2009. I and S-type plutonism on serifos (W-Cyclades, Greece). Tectonophysics 473 (1–2), 69–83. http://dx.doi.org/10.1016/j.tecto.2008. 09.021.
+İmer, A., Richards, J.P., Muehlenbachs, K., 2016. Hydrothermal evolution of the Çöpler porphyry-epithermal Au deposit, Erzincan province, central eastern Turkey. Econ. Geol. 111 (7), 1619–1658. http://dx.doi.org/10.2113/econgeo.111.7.1619.
+Innocenti, F., Kolios, N., Manetti, P., Mazzuoli, R., Peccerillo, G., Rita, F., Villari, L., 1984.
+
+Evolution and geodynamic signiﬁcance of the tertiary orogenic volcanism in Northeastern Greece. Bull. Volcanol. 47 (1), 25–37. http://dx.doi.org/10.1007/ BF01960538. Janković, S., 1997. The Carpatho-Balkanides and adjacent area: a sector of the Tethyan Eurasian metallogenic belt. Miner. Deposita 32 (5), 426–433. http://dx.doi.org/10. 1007/s001260050110. Jelenković, R., Milovanović, D., Koželj, D., Banješević, M., 2016. The mineral resources of the bor metallogenic zone: a review. Geol. Croat. 69 (1), 143–155. http://dx.doi.org/ 10.4154/GC.2016.11. Johnson, R.W., Mackenzie, D.E., Smith, I.E.M., 1978. Delayed partial melting of subduction-modiﬁed mantle in papua new guinea. Tectonophysics 46 (1–2), 197–216. http://dx.doi.org/10.1016/0040-1951(78)90114-2. Jolivet, L., Daniel, J.M., Truﬀert, C., Goﬀé, B., 1994. Exhumation of deep crustal metamorphic rocks and crustal extension in arc and back-arc regions. Lithos 33 (1–3), 3–30. http://dx.doi.org/10.1016/0024-4937(94)90051-5. Jolivet, L., Faccenna, C., 2000. Mediterranean extension and the Africa-Eurasia collision. Tectonics 19 (6), 1095–1106. http://dx.doi.org/10.1029/2000TC900018. Jolivet, L., Faccenna, C., D’Agostino, N., Fournier, M., Worrall, D., 1999. The kinematics of back-arc basins, examples from the Tyrrhenian, Aegean and Japan Seas. Spec. Publ. Geol. Soc. Lond. 164 (1), 21–53. http://dx.doi.org/10.1144/GSL.SP.1999.164. 01.04. Jolivet, L., Faccenna, C., Goﬀé, B., Burov, E., Agard, P., 2003. Subduction tectonics and exhumation of high-pressure metamorphic rocks in the Mediterranean orogens. Am. J. Sci. 303 (5), 353–409. http://dx.doi.org/10.2475/ajs.303.5.353. Jolivet, L., et al., 2013. Aegean tectonics: strain localisation, slab tearing and trench retreat. Tectonophysics 597–598, 1–33. http://dx.doi.org/10.1016/j.tecto.2012.06. 011. Jolivet, L., et al., 2015. The geological signature of a slab tear below the Aegean. Tectonophysics 659, 166–182. http://dx.doi.org/10.1016/j.tecto.2015.08.004. Jugo, P.J., 2009. Sulfur content at sulﬁde saturation in oxidized magmas. Geology 37 (5), 415–418. http://dx.doi.org/10.1130/G25527A.1. Kaiser-Rohrmeier, M., Handler, R., Von Quadt, A., Heinrich, C.A., 2004. Hydrothermal Pb–Zn ore formation in the central rhodopian dome, south Bulgaria: review and new time constraints from Ar–Ar geochronology. Schweiz Minerl. Petrogr. Mitt. 84 (1), 37–58. Kaiser-Rohrmeier, M., von Quadt, A., Driesner, T., Heinrich, C.A., Handler, R., Ovtcharova, M., Ivanov, Z., Petrov, P., Sarov, S., Peytcheva, I., 2013. Post-orogenic extension and hydrothermal ore formation: high-precision geochronology of the central rhodopian metamorphic core complex (Bulgaria-Greece). Econ. Geol. 108 (4), 691–718. http://dx.doi.org/10.2113/econgeo.108.4.691. Kalogeropoulos, S.I., Kilias, S.P., Bitzios, D.C., Nicolaou, M., Both, R.A., 1989. Genesis of the olympias carbonate-hosted Pb-Zn (Au, Ag) sulﬁde ore deposit, eastern chalkidiki peninsula, northern Greece. Econ. Geol. 84 (5), 1210–1234. http://dx.doi.org/10. 2113/gsecongeo.84.5.1210. Kalogeropoulos, S.I., Kilias, S.P., Arvanitidis, N.D., 1996. Physicochemical conditions of deposition and origin of carbonate-hosted base metal sulﬁde mineralization, Thermes ore-ﬁeld, Rhodope Massif, northeastern Greece. Miner. Deposita 31 (5), 407–418. http://dx.doi.org/10.1007/BF00189188. Kesler, S.E., Wilkinson, B.H., 2008. Earth’s copper resource estimated from tectonic diffusion of porphyry copper deposits. Geology 36 (3), 255–258. http://dx.doi.org/10. 1130/G24317A.1. Kilias, S.P., Kalogeropoulos, S.I., Konnerup-Madsen, J., 1996. Fluid inclusion evidence for the physicochemical conditions of sulﬁde deposition in the Olympias carbonatehosted Pb-Zn(Au, Ag) sulﬁde ore deposit, E. Chalkidiki peninsula, N. Greece. Miner. Deposita 31 (5), 394–406. http://dx.doi.org/10.1007/BF00189187. Kilias, S.P., Naden, J., Cheliotis, I., Shepherd, T.J., Constandinidou, H., Crossing, J., Simos, I., 2001. Epithermal gold mineralisation in the active Aegean Volcanic Arc: the Proﬁtis Ilias deposit, Milos Island, Greece. Miner. Deposita 36 (1), 32–44. http:// dx.doi.org/10.1007/s001260050284. Knaak, M., Márton, I., Tosdal, R.M., van der Toorn, J., Daviddovic, D., Strmbanovic, I., Zivanovic, J., Hasson, S., 2016. Geologic setting and tectonic evolution of porphyry Cu-Au, polymetallic replacement, and sedimentary rock-hosted au deposits in the northwestern area of the timok magmatic complex, Serbia. Spec. Publ. Soc. Econ. Geol. 19 (1), 1–28. Kroll, T., Müller, D., Seifert, T., Herzig, P., Schneider, A., 2002. Petrology and geochemistry of the shoshonite-hosted Skouries porphyry Cu-Au deposit, Chalkidiki, Greece. Miner. Deposita 37 (1), 137–144. http://dx.doi.org/10.1007/s00126-0010235-6. Kuşcu, İ., Yilmazer, E., Güleç, N., Bayir, S., Demirela, G., Kuşcu, G.G., Kuru, G.S., Kaymakçi, N., 2011. U-Pb and 40Ar-39Ar geochronology and isotopic constraints on the genesis of copper-gold-bearing iron oxide deposits in the Hasançelebi district, Eastern Turkey. Econ. Geol. 106 (2), 261–288. http://dx.doi.org/10.2113/econgeo. 106.2.261. Kuşcu, İ., Tosdal, R.M., Gencalioglu-Kuscu, G., Friedman, R., Ullrich, T.D., 2013. Late cretaceous to middle eocene magmatism and metallogeny of a portion of the southeastern anatolian orogenic belt, East-Central Turkey. Econ. Geol. 108 (4), 641–666. http://dx.doi.org/10.2113/econgeo.108.4.641. Larson, L.T., Erler, Y.A., 1993. The epithermal lithogeochemical signature — a persistent characterization of precious metal mineralization at Kursunlu and Örencik, two prospects of very diﬀerent geology in western Turkey. J. Geochem. Explor. 47 (1–3), 321–331. http://dx.doi.org/10.1016/0375-6742(93)90074-V. Le Pichon, X., Angelier, J., 1979. The hellenic arc and trench system: a key to the neotectonic evolution of the eastern mediterranean area. Tectonophysics 60 (1–2), 1–42. http://dx.doi.org/10.1016/0040-1951(79)90131-8. Li, Y., Audétat, A., 2012. Partitioning of V, Mn, Co, Ni, Cu, Zn, As, Mo, Ag, Sn, Sb, W, Au, Pb, and Bi between sulﬁde phases and hydrous basanite melt at upper mantle
+
+133
+
+A. Menant et al.
+
+Ore Geology Reviews 94 (2018) 118–135
+
+conditions. Earth Planet Sci. Lett. 355–356, 327–340. http://dx.doi.org/10.1016/j. epsl.2012.08.008. Li, Y., Audétat, A., 2013. Gold solubility and partitioning between sulﬁde liquid, monosulﬁde solid solution and hydrous mantle melts: implications for the formation of Aurich magmas and crust–mantle diﬀerentiation. Geochim. Cosmochim. Acta 118, 247–262. http://dx.doi.org/10.1016/j.gca.2013.05.014. Liati, A., Skarpelis, N., Pe-Piper, G., 2009. Late miocene magmatic activity in the atticcycladic belt of the Aegean (Lavrion, SE Attica, Greece): implications for the geodynamic evolution and timing of ore deposition. Geol. Mag. 146 (5), 732. http://dx. doi.org/10.1017/S0016756809006438. Lister, G.S., Banga, G., Feenstra, A., 1984. Metamorphic core complexes of cordilleran type in the cyclades, Aegean Sea, Greece. Geology 12 (4), 221–225. http://dx.doi. org/10.1130/0091-7613(1984) 12∗221:MCCOCT∗2.0.CO;2. Loiselet, C., Husson, L., Braun, J., 2009. From longitudinal slab curvature to slab rheology. Geology 37 (8), 747–750. http://dx.doi.org/10.1130/G30052A.1. Marchev, P., Singer, B., 2002. 40Ar/39Ar geochronology of magmatism and hydrothermal activity of the Madjarovo base-precious metal ore district, eastern Rhodopes, Bulgaria. Spec. Publ. Geol. Soc. Lond. 204 (1), 137–150. http://dx.doi.org/10.1144/ GSL.SP.2002.204.01.09. Marchev, P., Singer, B., Jelev, D., Hasson, S., Moritz, R., Bonev, N., 2004. The Ada Tepe deposit: a sediment-hosted, detachment fault-controlled, low-sulﬁdation gold deposit in the Eastern Rhodopes, SE Bulgaria. Schweiz Miner. Petrogr. Mitt. 84, 59–78. Marchev, P., Kaiser-Rohrmeier, M., Heinrich, C., Ovtcharova, M., von Quadt, A., Raicheva, R., 2005. 2: hydrothermal ore deposits related to post-orogenic extensional magmatism and core complex formation: the Rhodope Massif of Bulgaria and Greece. Ore Geol. Rev. 27 (1–4), 53–89. http://dx.doi.org/10.1016/j.oregeorev.2005.07.027. Marinov, D., Barra, F., Alizade, F., 2011. Re-Os dating of molybdenite mineralization from Turkish porphyry copper prospects, In: Biennial SGA Meeting, 11th, 26–29 september 2011, Proceedings. Antofagasta, Chile. Márton, I., Moritz, R., Spikings, R., 2010. Application of low-temperature thermochronology to hydrothermal ore deposits: formation, preservation and exhumation of epithermal gold systems from the Eastern Rhodopes, Bulgaria. Tectonophysics 483 (3–4), 240–254. http://dx.doi.org/10.1016/j.tecto.2009.10.020. Melfos, V., Voudouris, P., 2017. Cenozoic metallogeny of Greece and potential for precious, critical and rare metals exploration. Ore Geol. Rev. 89, 1030–1057. http://dx. doi.org/10.1016/j.oregeorev.2017.05.029. Menant, A., Jolivet, L., Augier, R., Skarpelis, N., 2013. The North cycladic detachment system and associated mineralization, Mykonos, Greece: insights on the evolution of the Aegean domain. Tectonics 32 (3), 433–452. http://dx.doi.org/10.1002/tect. 20037. Menant, A., Sternai, P., Jolivet, L., Guillou-Frottier, L., Gerya, T., 2016a. 3D numerical modeling of mantle ﬂow, crustal dynamics and magma genesis associated with slab roll-back and tearing: the eastern Mediterranean case. Earth Planet. Sci. Lett. 442, 93–107. http://dx.doi.org/10.1016/j.epsl.2016.03.002. Menant, A., Jolivet, L., Vrielynck, B., 2016b. Kinematic reconstructions and magmatic evolution illuminating crustal and mantle dynamics of the eastern Mediterranean region since the late Cretaceous. Tectonophysics 675, 103–140. http://dx.doi.org/10. 1016/j.tecto.2016.03.007. Moore, W.J., McKee, E.H., Akinci, Ö., 1980. Chemistry and chronology of plutonic rocks in the Pontid mountains, northern Turkey. In: Jankovic, S., Sillitoe, R.H. (Eds.), European Copper Deposits. UNESCO-IGCP, Belgrade, pp. 209–216. Moritz, R., Jacquat, S., Chambefort, I., Fontignie, D., Petrunov, R., Georgieva, S., Von Quadt, A., 2003. Controls of ore formation at the high-sulphidation Au–Cu Chelopech deposit, Bulgaria: evidence from infrared ﬂuid inclusion microthermometry of enargite and isotope systematics of barite. Miner. Explor. Sustain. Dev. Millpress Rotterdam 1209–1212. Moritz, R., Kouzmanov, K., Petrunov, R., 2004. Late Cretaceous Cu–Au epithermal deposits of the panagyurishte district, srednogorie zone, Bulgaria. Swiss Bull. Min. Pet. 84 (1), 79–99. Moritz, R., Márton, I., Ortelli, M., Marchev, P., Voudouris, P., Bonev, N., Spikings, R., Cosca, M.,(2010, A review of age constraints of epithermal precious and base metal deposits of the tertiary eastern Rhodopes : coincidence with late eocene-early oligocene tectonic plate reorganization along the tethys, Proceed 14th Congr. Carpathian Balk. Geol. Assoc. Thessalon. Greece, 100(0), pp. 351–358. Moritz, R., Noverraz, C., Márton, I., Marchev, P., Spikings, R., Fontignie, D., Spangenberg, J.E., Vennemann, T., Kolev, K., Hasson, S., 2014. Sedimentary-rock-hosted epithermal systems of the Tertiary Eastern Rhodopes, Bulgaria: new constraints from the Stremtsi gold prospect. Spec. Publ. – Geol. Soc. Lond. 402 (1), 207–230. http://dx. doi.org/10.1144/SP402.7. Moritz, R., et al., 2016. Long-lived, stationary magmatism and pulsed porphyry systems during Tethyan subduction to post-collision evolution in the southernmost Lesser Caucasus, Armenia and Nakhitchevan. Gondwana Res. 37, 465–503. http://dx.doi. org/10.1016/j.gr.2015.10.009. Muntean, J.L., Einaudi, M.T., 2000. Porphyry Gold Deposits of the Refugio District, MaricungaBelt, Northern Chile. Econ. Geol. 95 (7), 1445–1472. http://dx.doi.org/10. 2113/gsecongeo.95.7.1445. Murakami, H., Watanabe, Y., Stein, H., 2005. Re-Os ages for molybdenite from the Tepeoba breccia-centered Cu-Mo-Au deposit, western Turkey: brecciation-triggered mineralization. In: Mao, J., Bierlein, F.P. (Eds.), Mineral Deposit Research: Meeting the Global Challenge. Springer, Berlin Heidelberg, Berlin, Heidelberg, pp. 805–808. Naden, J., Kilias, S.P., Leng, M.J., Cheliotis, I., Shepherd, T.J., 2003. Do ﬂuid inclusion preserve δ18O values of hyrothermazl ﬂuids in epithermal systems over geological time? Evidence from paleo- and modern geothermal systems, Milos island, Aegean Sea. Chem. Geol. 197 (143), 159. http://dx.doi.org/10.1016/S0009-2541(02) 00289-9. Naydenov, K., Peytcheva, I., von Quadt, A., Sarov, S., Kolcheva, K., Dimov, D., 2013. The
+
+maritsa strike-slip shear zone between kostenets and krichim towns, south bulgaria — Structural, petrographic and isotope geochronology study. Tectonophysics 595–596, 69–89. http://dx.doi.org/10.1016/j.tecto.2012.08.005. Neubauer, F., 2005. Structural control of mineralization in metamorphic core complexes. In: Mao, J., Bierlein, F.P. (Eds.), Mineral Deposit Research: Meeting the Global Challenge. Springer, Berlin Heidelberg, Berlin, Heidelberg, pp. 561–564. Neubauer, F., Lips, A., Kouzmanov, K., Lexa, J., Ivӑşcanu, P., 2005. 1: subduction, slab detachment and mineralization: the neogene in the apuseni mountains and carpathians. Ore Geol. Rev. 27 (1–4), 13–44. http://dx.doi.org/10.1016/j.oregeorev. 2005.07.002. Nikishin, A.M., Okay, A., Tüysüz, O., Demirer, A., Wannier, M., Amelin, N., Petrov, E., 2015. The Black Sea basins structure and history: new model based on new deep penetration regional seismic data. Part 2: tectonic history and paleogeography. Mar. Pet. Geol. 59, 656–670. http://dx.doi.org/10.1016/j.marpetgeo.2014.08.018. Okay, A.I., 1986. High-pressure/low-temperature metamorphic rocks of Turkey. Geol. Soc. Lond. Mem. 164, 333–347. Oyman, T., 2003. Efemçukuru B-rich epithermal gold deposit (Izmir, Turkey). Ore Geol. Rev. 23 (1–2), 35–53. http://dx.doi.org/10.1016/S0169-1368(03)00013-1. Özdamar, Ş., 2016. Geochemistry and geochronology of late Mesozoic volcanic rocks in the northern part of the Eastern Pontide Orogenic Belt (NE Turkey): implications for the closure of the Neo-Tethys Ocean. Lithos 248–251, 240–256. http://dx.doi.org/10. 1016/j.lithos.2016.01.007. Pe-Piper, G., Piper, D.J.W., 2005. The South Aegean active volcanic arc: relationships between magmatism and tectonics. Dev. Volcanol. 7, 113–133. Pe-Piper, G., Piper, D.J.W., 2006. Unique features of the cenozoic igneous rocks of Greece. Spec. Pap. – Geol. Soc. Am. 409, 259–282. Ranalli, G., 2000. Rheology of the crust and its role in tectonic reactivation. J. Geodyn. 30 (1–2), 3–15. http://dx.doi.org/10.1016/S0264-3707(99)00024-1. Rice, C.M., McCoyd, R.J., Boyce, A.J., Marchev, P., 2007. Stable isotope study of the mineralization and alteration in the Madjarovo Pb–Zn district, south-east Bulgaria. Miner. Deposita 42 (7), 691–713. http://dx.doi.org/10.1007/s00126-007-0130-x. Richards, J.P., 2003. Tectono-magmatic precursors for Porphyry Cu-(Mo-Au) deposit formation. Econ. Geol. 98 (8), 1515–1533. http://dx.doi.org/10.2113/gsecongeo.98. 8.1515. Richards, J.P., 2009. Postsubduction porphyry Cu-Au and epithermal Au deposits: products of remelting of subduction-modiﬁed lithosphere. Geology 37 (3), 247–250. http://dx.doi.org/10.1130/G25451A.1. Richards, J.P., 2011. Magmatic to hydrothermal metal ﬂuxes in convergent and collided margins. Ore Geol. Rev. 40 (1), 1–26. http://dx.doi.org/10.1016/j.oregeorev.2011. 05.006. Richards, J.P., 2014. Tectonic, magmatic, and metallogenic evolution of the Tethyan orogen: from subduction to collision. Ore Geol. Rev. http://dx.doi.org/10.1016/j. oregeorev.2014.11.009. Richards, J.P., Boyce, A.J., Pringle, M.S., 2001. Geologic evolution of the escondida area, Northern Chile: a model for spatial and temporal localization of porphyry Cu mineralization. Econ. Geol. 96 (2), 271–305. http://dx.doi.org/10.2113/gsecongeo.96. 2.271. Ring, U., Laws, S., Matthias, M., 1999. Structural analysis of a complex nappe sequence and late-orogenic basins from the Aegean Island of Samos, Greece. J. Struct. Geol. 21 (11), 1575–1601. http://dx.doi.org/10.1016/S0191-8141(99)00108-X. Ring, U., Glodny, J., Will, T., Thomson, S., 2010. The hellenic subduction system: highpressure metamorphism, exhumation, normal faulting, and large-scale extension. Annu. Rev. Earth Planet Sci. 38 (1), 45–76. http://dx.doi.org/10.1146/annurev. earth.050708.170910. Rolland, Y., Perincek, D., Kaymakci, N., Sosson, M., Barrier, E., Avagyan, A., 2012. Evidence for ∼80–75 Ma subduction jump during Anatolide–Tauride–armenian block accretion and ∼48 Ma Arabia-Eurasia collision in lesser caucasus-east anatolia. J. Geodyn. 56–57, 76–85. http://dx.doi.org/10.1016/j.jog.2011.08.006. Salemink, J., 1985. Skarn and Ore Formation at Serifos. Utrecht University, Utrecht, Netherlands, Greece as a consequence of granodiorite intrusion. Sánchez, M.G., McClay, K.R., King, A.R., Wijbrams, J.R., 2016. Cenozoic crustal extension and its relationship to Porphyry Cu-Au-(Mo) and epithermal Au-(Ag) Mineralization in the biga peninsula. Spec. Publ. – Soc. Econ. Geol. 19 (5), 113–156. Seghedi, I., Ersoy, Y.E., Helvacı, C., 2013. Miocene-quaternary volcanism and geodynamic evolution in the pannonian basin and the menderes massif: a comparative study. Lithos 180–181, 25–42. http://dx.doi.org/10.1016/j.lithos.2013.08.017. Şengör, A.M.C., Yilmaz, Y., 1981. Tethyan evolution of Turkey: a plate tectonic approach. Tectonophysics 75 (3–4), 181–241. http://dx.doi.org/10.1016/0040-1951(81) 90275-4. Sillitoe, R.H., 1972. A plate tectonic model for the origin of porphyry copper deposits. Econ. Geol. 67 (2), 184–197. http://dx.doi.org/10.2113/gsecongeo.67.2.184. Sillitoe, R.H., 1997. Characteristics and controls of the largest porphyry copper-gold and epithermal gold deposits in the circum-Paciﬁc region. Aust. J. Earth Sci. 44 (3), 373–388. http://dx.doi.org/10.1080/08120099708728318. Sillitoe, R.H., 2010. Porphyry copper systems. Econ. Geol. 105 (1), 3–41. http://dx.doi. org/10.2113/gsecongeo.105.1.3. Sillitoe, R.H., Hedenquist, J.W., 2003. Linkages between volcanotectonic settings, oreﬂuid compositions, and epithermal precious metal deposits. Spec. Publ. – Soc. Econ. Geol. 10. Singer, D.A., Berger, V.J., Moring, C., 2008. Porphyry Copper Deposits of the World: Database and Grade and Tonnage. U.S Geological Survey Open-File Report. Siron, C.R., Thompson, J.F.H., Baker, T., Friedman, R., Tsitsanis, P., Russell, S., Randall, S., Mortensen, J., 2016. Magmatic and metallogenic framework of au-cu porphyry and polymetallic carbonate-hosted replacement deposits of the Kassandra mining district, Northern Greece. Spec. Publ. – Soc. Econ. Geol. 19 (2), 29–55. Skarpelis, N., 2002. Geodynamics and evolution of the miocene mineralization in the
+
+134
+
+A. Menant et al.
+
+Ore Geology Reviews 94 (2018) 118–135
+
+cycladic-pelagonian belt, Hellenides. Bull. Geol. Soc. Greece 34 (6), 2191–2206. Smith, M.T., Lepore, W.A., Incekaraoğlu, T., Boran, H., Barrios, A., Leroux, G., Ross, K.,
+Büyüksolak, A., Sevimli, A., Raabe, K., 2016. High-sulﬁdation epithermal Au ad Porphyry Cu-Au mineralization at the Karaayi target, Biga peninsula, northwestern Turkey. Spec. Publ. – Soc. Econ. Geol. 19 (4), 85–112. Sternai, P., Jolivet, L., Menant, A., Gerya, T., 2014. Driving the upper plate surface deformation by slab rollback and mantle ﬂow. Earth Planet. Sci. Lett. 405, 110–118. http://dx.doi.org/10.1016/j.epsl.2014.08.023. Takada, A., 1994. The inﬂuence of regional stress and magmatic input on styles of monogenetic and polygenetic volcanism. J. Geophys. Res. Solid Earth 99 (B7), 13563–13576. http://dx.doi.org/10.1029/94JB00494. Tombros, S., St, K., Seymour, A.E., Williams-Jones, Spry, P.G., 2007. The genesis of epithermal Au-Ag-Te mineralization, panormos bay, tinos Island, cyclades, Greece. Econ. Geol. 102 (7), 1269–1294. http://dx.doi.org/10.2113/gsecongeo.102.7.1269. Tombros, S.F., Seymour, K.S., Williams-Jones, A.E., Zhai, D., Liu, J., 2015. Origin of a barite-sulﬁde ore deposit in the Mykonos intrusion, cyclades: trace element, isotopic, ﬂuid inclusion and raman spectroscopy evidence. Ore Geol. Rev. 67, 139–157. http:// dx.doi.org/10.1016/j.oregeorev.2014.11.016. Tosdal, R.M., Richards, J.P., 2001. Magmatic and structural controls on the development of porphyry Cu ± Mo ± Au deposits. Rev. Econ. Geol. 14, 157–181. van Hinsbergen, D.J.J., Hafkenscheid, E., Spakman, W., Meulenkamp, J.E., Wortel, R., 2005a. Nappe stacking resulting from subduction of oceanic and continental lithosphere below Greece. Geology 33 (4), 325. http://dx.doi.org/10.1130/G20878.1. van Hinsbergen, D.J.J., Langereis, C.G., Meulenkamp, J.E., 2005b. Revision of the timing, magnitude and distribution of Neogene rotations in the western Aegean region. Tectonophysics 396 (1–2), 1–34. http://dx.doi.org/10.1016/j.tecto.2004.10.001. van Hinsbergen, D.J.J., Dupont-Nivet, G., Nakov, R., Oud, K., Panaiotu, C., 2008. No signiﬁcant post-eocene rotation of the moesian platform and rhodope (Bulgaria): implications for the kinematic evolution of the carpathian and aegean arcs. Earth Planet. Sci. Lett. 273 (3–4), 345–358. http://dx.doi.org/10.1016/j.epsl.2008.06.051. von Quadt, A., Moritz, R., Peytcheva, I., Heinrich, C.A., 2005. 3: geochronology and geodynamics of late cretaceous magmatism and Cu–Au mineralization in the Panagyurishte region of the Apuseni–Banat–Timok–Srednogorie belt, Bulgaria. Ore Geol. Rev. 27 (1–4), 95–126. http://dx.doi.org/10.1016/j.oregeorev.2005.07.024. Voudouris, P., Melfos, V., Spry, P.G., Bonsall, T., Tarkian, M., Economou-Eliopoulos, M., 2008. Mineralogical and ﬂuid inclusion constraints on the evolution of the Plaka intrusion-related ore system, Lavrion, Greece. Mineral. Petrol. 93 (1–2), 79–110. http://dx.doi.org/10.1007/s00710-007-0218-0. Voudouris, P., Melfos, V., Moritz, R., Spry, P G., Ortelli, M., Kartal, T. 2010, Molybdenite occurrences in Greece: mineralogy, geochemistry and depositional environment, in XIX CBGA Congress, vol. 100, pp. 369–378, Thessaloniki, Greece. Voudouris, P., Melfos, V., Spry, P., Bindi, L., Moritz, R., Ortelli, M., Kartal, T., 2013. Extremely re-rich Molybdenite from porphyry Cu-Mo-Au prospects in northeastern
+
+Greece: mode of occurrence, Causes of Enrichment, and Implications for Gold Exploration. Minerals 3 (2), 165–191. http://dx.doi.org/10.3390/min3020165. Voudouris, P.C., Melfos, V., Spry, P.G., Moritz, R., Papavassiliou, C., Falalakis, G., 2011. Mineralogy and geochemical environment of formation of the Perama Hill highsulﬁdation epithermal Au-Ag-Te-Se deposit, Petrota Graben, NE Greece. Mineral. Petrol. 103 (1–4), 79–100. http://dx.doi.org/10.1007/s00710-011-0160-z. Willingshofer, E., Neubauer, F., Cloetingh, S., 1999. The signiﬁcance of Gosau-type basins for the late cretaceous tectonic history of the Alpine-carpathian belt. Phys. Chem. Earth A 24 (8), 687–695. http://dx.doi.org/10.1016/S1464-1895(99)00100-3. Wortel, M.J.R., Spakman, W., 2000. Subduction and slab detachment in the mediterranean-carpathian region. Science 290 (5498), 1910–1917. http://dx.doi.org/10.1126/ science.290.5498.1910. Yigit, O., 2006. Gold in Turkey—A missing link in Tethyan metallogeny. Ore Geol. Rev. 28 (2), 147–179. http://dx.doi.org/10.1016/j.oregeorev.2005.04.003. Yigit, O., 2009. Mineral deposits of turkey in relation to tethyan metallogeny: implications for future mineral exploration. Econ. Geol. 104 (1), 19–51. http://dx.doi.org/ 10.2113/gsecongeo.104.1.19. Yigit, O., 2012. A prospective sector in the Tethyan Metallogenic Belt: geology and geochronology of mineral deposits in the Biga Peninsula, NW Turkey. Ore Geol. Rev. 46, 118–148. http://dx.doi.org/10.1016/j.oregeorev.2011.09.015. Yılmaz, H., 2003. Exploration at the Kuscayiri Au (Cu) prospect and its implications for porphyry-related mineralization in western Turkey. J. Geochem. Explor. 77 (2–3), 133–150. http://dx.doi.org/10.1016/S0375-6742(02)00274-1. Yılmaz, H., Oyman, T., Arehart, G.B., Colakoglu, A.R., Billor, Z., 2007. Low-sulﬁdation type Au–Ag mineralization at bergama, Izmir, Turkey. Ore Geol. Rev. 32 (1–2), 81–124. http://dx.doi.org/10.1016/j.oregeorev.2006.10.007. Yılmaz, Y., Tüysüz, O., Yiğibaş, E., Can Genç, Ş., Şengör, A.M.C., 1997, Geology and Tectonic Evolution of the Pontides, in Regional and petroleum geology of the Black Sea and surrounding region, vol. AAPG Memoir 68, pp. 183–226, A.G. Robinson. Zhu, G., Gerya, T.V., Tackley, P.J., Kissling, E., 2013. Four-dimensional numerical modeling of crustal growth at active continental margins. J. Geophys. Res. Solid Earth 118 (9), 4682–4698. http://dx.doi.org/10.1002/jgrb.50357. Zimmerman, A., Stein, H.J., Hannah, J.L., Koželj, D., Bogdanov, K., Berza, T., 2008. Tectonic conﬁguration of the Apuseni–Banat—Timok–Srednogorie belt, balkansSouth Carpathians, constrained by high precision Re–Os molybdenite ages. Miner. Deposita 43 (1), 1–21. http://dx.doi.org/10.1007/s00126-007-0149-z. Zürcher, L., Bookstrom, A.A., Hammarstrom, J.M., Mars, J.C., Ludington, S., Zientek, M. L., Dunlap, P., Wallis, J.C., with contributions from Drew, L.J., Sutphin, D.M., Berger, B.R., Herrington, R.J., Billa, M., Kuşcu, I., Moon, C.J., Richards, J.P., 2015, Porphyry copper assessment of the Tethys region of western and southern Asia, U.S. Geological Survey Scientiﬁc Investigations Report 2010–5090–V, pp. 232, and spatial data, doi: 10.3133/sir20105090V.
+
+135
+
+

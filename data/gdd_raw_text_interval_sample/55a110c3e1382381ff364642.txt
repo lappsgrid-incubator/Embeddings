@@ -1,0 +1,1628 @@
+WATER-RESOURCES INVESTIGATIONS IN PUERTO RICO AND THE U.S. VIRGIN ISLANDS, 1986-1988
+By Thalia D. Veve and Joseph W. Troester, Editors U.S. GEOLOGICAL SURVEY OPEN-FILE REPORT 90-122
+San Juan, Puerto Rico 1990
+
+UNITED STATES DEPARTMENT 0F THE INTERIOR MANUEL LUJAN, Secretary GEOLOGICAL SUR[vEY Dallas L. Peck, Director
+
+For additional information write to:
+District Chief U.S. Geological Survey G.P.O. Box 4424 San Juan, Puerto Rico 00936
+
+Copies of this report can be purchased from:
+U.S. Geological Survey Books and Open-File Reports Federal Center, Bldg. 41 Box 35425, Denver, CO 80225
+
+Ill
+CONTENTS
+PAGE U.S. Geological Survey mission...................................................................................................................................vi Water-Resources Division mission and program..................................................................................................... vii
+Abstract.................................................................................................................................................................. 1 Introduction ...................................................... Hydrologic Records Section................................................................................................................................2
+Surface-water streamflow network............................................................................................................ 3 Suspended-sediment data collection......................................................................................................... 4 Low flow network.........................................................................................................................................5 Ground-water levels network..................................................................................................................... 6 Surface-water quality network.................................................................................................................... 7 Ground-water quality monitoring.............................................................................................................. 8 Data collection platforms network.............................................................................................................9 Flood studies for selected areas affected by the May 17-18, and October 6-7,1985 floods............. 10 Stage-discharge relations at culverts........................................................................................................ 10
+Hydrologic Investigations Section.....................................................................................................................11 Suspended-sediment transport in the upper Rio Grande de Loiza basin, Puerto Rico................... 11 Hydrology of Laguna Joyuda at Cabo Rojo, Puerto Rico.................................................................... 12 Laguna San Jose bathymetric and water quality survey........................................................................ 12 Suspended-sediment transport in the Rio Puerto Nuevo basin, Puerto Rico.................................... 13 Ground-water recharge in the lower Rio Grande de Arecibo Valley, Puerto Rico.......................... 13 Water resources of the Humacao-Naguabo area, eastern Puerto Rico..............................................14 Inventory of wells in Puerto Rico and the U.S. Virgin Islands............................................................. 14 Ground-water resources in Lajas Valley, Puerto Rico.......................................................................... 15 Atlas of selected aquifers in Puerto Rico and the U.S. Virgin Islands................................................ 15 The Caribbean Islands Aquifer Regional Aquifer System Analysis.................................................... 16 Hydrology and effect of changes from furrow to drip irrigation in the Santa Isabel to Juana Diaz area, south central Puerto Rico.................................................................................. 17 Hydrogeologic framework of the north coast limestone regional aquifer system of Puerto Rico... 18 Ground-water flow model in the Jobos area.......................................................................................... 18 Ground-water resources of the Caguas-Juncos alluvial valley, Puerto Rico...................................... 19 Ground Water Site Inventory...................................................................................................................20 Geohydrology of potential hazardous-waste sites in Puerto Rico .......................................................21 Potentiometric surface of the Turpentine Run Basin Aquifer in the Tutu Area, eastern St. Thomas, September 11,1987............................................................................................ 21 AQMAN3D: A ground-water simulation/management model........................................................... 22 Ground water/surface water relations..................................................................................................... 23 Inter-aquifer water movement within the limestone aquifer, north coast of Puerto Rico ................24
+
+IV
+Manganese and iron chemistry in the Valle de Yabucoa alluvial aquifer, southeastern Puerto Rico.....................................................................................................................24
+Vertical continuum of aquifer compressibility and its relation to specific storage............................ 25 Water resources of the Rio Majada and Rio Lapa alluvial valleys, south coast, Puerto Rico .........25 Puerto Rico water-use information program.......................................................................................... 26 Quantitative assessment of landslide hazards in the Rio Blanco, Rio Cibuco
+and Rio Coamo basins, Puerto Rico............................H......................................................................27
+Computer Section...............................................................................................................................................28 Geographic information system program............................................................................................... 28
+Appendix A: Publications released by the Caribbean District from 1985 to 1988.....................................29 Appendix B: Surface-water sites...............................................+.....................................................................33 Appendix C: Water-quality sites................................................L....................................................................35 Appendix D: Ground-water sites...............................................t.....................................................................37
+ILLUSTRATIONS PAGE
+Figures 1-8. Maps showing: 1. Locations of Puerto Rico and the U.S. Virgin Islands................................................................................! 2. Location of continuous streamflow and crest-stage gage stations in Puerto Rico...................................3 3. Location of daily suspended-sediment stations....................*....................................................................... 4 4. Location of low-flow partial-record stations in eastern Puejrto Rico ........................................................5 5. Location of ground-water stations in Puerto Rico and U.St Virgin Islands ............................................6 6. Location of water-quality stations in Puerto Rico ...............j....................................................................... 7 7. Areas in Puerto Rico where wells contaminated with volitiU organic compounds are bemgmom^ored............................................................t.........................._^ 8. Location of Data Collection Platform stations in Puerto Rico ..................................................................9
+
+CONVERSION FACTORS
+For use of readers who prefer to use metric units, conversion factors for inch-pound units used in this report are listed below:
+
+Multiply
+
+By. To obtain metric unit
+
+inch (in.) foot (ft) mile (mi)
+
+Length 25.4 0.3048 1.609
+
+millimeter (mm) meter (m) kilometer (km)
+
+square foot per day (ft2/d) square mile (mi )
+
+Area 0.09294 2.590
+
+gallon (gal) gallon (gal) million gallons (Mgal)
+
+Volume 3.785 0.003785
+3,785
+
+foot per day (ft/d) cubic feet per second (ft3/s) gallon per minute (gal/min) gallon per minute per foot (gal/min/ft)
+
+Flow 0.3048 0.02832 0.06308 0.2070
+
+pound per square foot (Ib/ft )
+
+Pressure 4.88
+
+pound per cubic foot (Ib/ft )
+
+Density 16.02
+
+degree Fahrenheit (°F)
+
+Temperature 5/9 (°F-32)
+
+square meter per day (m^/d) square kilometer (km )
+liter (L) cubic meter (m3) cubic meter (m )
+meter per day (m/d) cubic meter per second (m /s) liter per second (L/s) liter per second per meter (L/s/m)
+kilogram per square meter (Kg/m )
+kilogram per cubic meter (Kg/m )
+degree Celsius (°C)
+
+VI
+
+U.S. GEOLOGICAL SURVEY MISSION
+
+The mission of the U.S. Geological Survey is to provide geologic, topographic, and hydrologic information that contributes to the wise management of the Nation's natural resources and that promotes the health, safety, and well-being of the people. This information consists of maps, data bases, and descriptions and analyses of the water, energy, and mineral resources, land surface, underlying geologic structure, and dynamic processes of the Earth.
+To accomplish its mission, the Survey:
+Conducts and sponsors research in geology, hydrology, mapping and related sciences.
+Produces and updates geographic, cartographic, and remotely sensed information in graphic and digital forms.
+Describes the onshore and offshore geologic framework and develops an understanding of its formation and evolution.
+Assesses energy and mineral resources, determines their origin and manner of occurrence, and develops techniques for their discovery.
+Collects and analyzes data on the quantity and quality of surface water and ground water, on water use, and on quality of precipitation.
+Assesses water resources and develops an understanding of the impact of human activities and natural phenomena on hydrologic systems.
+
+Evaluates hazards associated with earthquakes, volcanoes, floods, droughts, toxic materials, landslides, subsidence, and other ground failures, and develops methods for hazards prediction.
+Participates in the exploration of space and prepares geologic and other maps of the planets and their satellites.
+Publi$hes reports and maps, establishes and maintains earth-science data bases, and disseminates earthj-science data and information.
+Provides scientific and technical assistance for the effective use of earth-science techniques, products, and information.
+Coordinates topographic, geologic, and land-use mapping, digital cartography, and water-data activities.
+Develops new technologies for the collection, coordination, and interpretation of earth-science data.
+Provijdes scientific support and technical advice for legislative, regulatory, and management decisions.
+Cooperates with other Federal, State, and local agencies, and with academia and industry.
+These missions and activities of the survey are described in more detail in U.S. Geological Survey Circular 1010 (U.S. Geological Survey, 1986).
+
+WATER RESOURCES DIVISION MISSION AND PROGRAM
+
+The mission of the Water Resources Division, which supports the overall mission of the U.S. Department of the Interior and the Geological Survey, is to provide the hydrologic information and understanding needed for the best use and management of the Nation's water resources for the benefit of the people of the United States.
+To accomplish its mission, the Water Resources Division in cooperation with State and local governments and other Federal agencies:
+Systematically collects data needed for the continuing determination and evaluation of the quantity, quality, and use of the Nation's water resources.
+Conducts analytical and interpretive water-resources appraisals to describe the occurrence, availability, and physical, chemical, and biological characteristics of surface and ground water and their inter-relationship.
+Conducts supportive basic and problem-oriented research in hydraulics, hydrology, and related fields of science and engineering to improve the basis for field investigations and measurement techniques and to understand hydrologic systems sufficiently well to predict quantitatively their response to stress, either natural or manmade.
+Disseminates water data and the results of investigations and research through reports, maps, com-
+
+puterized information services, and other forms of public releases.
+Coordinates the activities of all Federal agencies in the acquisition of certain water data.
+Provides scientific and technical assistance in hydrologic fields to State, local, and other Federal agencies, to licensees of the Federal Energy Regulatory Commission, and, on behalf of the U.S. Department of State, to international agencies.
+Acquires, develops, and disseminates information on water-related natural hazards such as droughts, floods, landslides, land subsidence, mudflows, and volcanoes.
+Administers the provisions of the Water Resources Research Act of 1987 which include the State Water Resources Research Institutes and the Research Grants and Contracts programs.
+Supports the provisions of the National Environmental Policy Act of 1969 and manages Geological Survey conduct of natural-resources surveys in response to the Comprehensive Environmental Response, Compensation, and Liability Act (Superfund Act) of 1980.
+More information on the activities of the Water Resources Division of the U.S. Geological Survey, is available in Water Resources Division Information Guide: U.S. Geological Survey published in 1988.
+
+THIS PAGE WAS LEFT BLANK INTENTIONALLY
+
+WATER-RESOURCES INVESTIGATIONS IN PUERTO RICO AND THE U.S. VIRGIN ISLANDS
+by Thalia D. Veve and Joseph W. Troester, editors
+
+ABSTRACT
+This report reviews the activities of the Caribbean District ofthe U.S. Geological Survey, Water Resources Division, from 1986 to 1988. Each project in the District conducted during this period is described and the publications released in each project are listed. The report includes also a complete list of publications released during this period, and tables and maps showing all the surface-water, ground-water, and waterquality stations in the data-collection program in the District.
+INTRODUCTION
+The Caribbean District was established in 1958 to carry out the mission of the Water Resources Division of the U.S. Geological Survey in Puerto Rico and the U.S. Virgin Islands (fig. 1). District activities include research and the dissemination of information in the field of hydrology. Ninety-five scientists, technicians, and support staff are employed at the Caribbean District Office in the San Juan metropolitan area and the U.S. Virgin Islands Field Headquarters on St. Croix.
+Hydrologic stations are maintained at selected locations throughout Puerto Rico and the U.S. Virgin Islands to obtain records on stream flow and stage,
+
+reservoir and lake elevations and storage, groundwater levels, spring discharge, sediment loads, and quality of surface and ground water. From 1986 to 1988, the Survey, in cooperation with government agencies in Puerto Rico and the U.S. Virgin Islands, increased its network to 52 continuous surface-water sites, 5 continuous reservoir sites, 65 ground-water observation wells, and 71 water-quality sites. Waterresources data are stored in the Survey's National Water Data Storage and Retrieval System. These data are integrated with other hydrogeologic observations and water-resources investigations and used by water planners and others involved in making decisions that affect water resources in Puerto Rico and the U.S. Virgin Islands.
+About 125 hydrologic investigations have been conducted in Puerto Rico and the U.S. Virgin Islands since the Caribbean District office opened. These investigations have resulted in the publication of more than 250 abstracts, articles, books, and maps. During fiscal years 1986 to 1988, the Survey entered into agreement with 17 Federal and local agencies involving 29 hydrologic investigations in Puerto Rico and the U.S. Virgin Islands. These investigations will provide information needed to answer hydrologic questions that are specific to the water-resource issues in the region. Additionally, some of the investigations will provide information on nationwide hydrologic
+
+67°15' 67°00' 66°45' 66°30' 66°15' 66°00' 65°45' 65°30' 65°15' 65°00' 65°45' 64° 30'
+
+18° 30'
+
+ATLANTIC OCEAN
+CULEBRA
+
+18° 15'
+
+ST. THOMAS
+
+18° 00' 17° 45'
+
+ISLA MONA
+
+10 20 30 KILOMETERS
+
+VIEQUES CARIBBEAN SEA
+
+Figure 1. Location map of Puerto Rico and the U.S. Virgin Islands.
+
+problems. A list of publications released from 1985 to 1988 by the Caribbean District office is given in Appendix A.
+During 1986 to 1988 the following Federal and local agencies entered into interagency or cooperative cost-sharing agreements with the U.S. Geological Survey to conduct water-resource investigations in Puerto Rico and the U.S. Virgin Islands:
+Center for Energy and Environmental Research, University of Puerto Rico (CEER)
+Center for Sport Health and Exercise Science University of Puerto Rico Medical Science Campus (CSHES)
+Puerto Rico Environmental Quality Board (PREQB)
+Puerto Rico Aqueduct and Sewer Authority (PRASA)
+Puerto Rico Department of Agriculture (PRDOA)
+Puerto Rico Industrial Development Company (PRIDCO)
+
+Puerto Rico Highway Authority (PRHA)
+Puerto Rico Industrial Association (PRIA) Puerto Rico Department of Natural Resources
+(PR^DNR)
+Puerto Rico Planning Board (PRPB)
+United States Corps of Engineers (USCOE)
+United States Department of Agriculture (USDA) United States Environmental Protection Agency
+(US;EPA) United ^tates Soil Conservation Service (USSCS)
+Water Resources Research Institute, University of Puerto Rico (WRRI-UPR)
+Water Resources Research Institute, College of the Virgin Islands (WRRI-CVI)
+Department of Public Works of the U.S. Virgin Islands (DPW-USVI)
+
+HYDROLOGIC RECORDS SECTION
+
+The Hydrologic Records Section of the U.S. Geological Survey, Caribbean District, operates several networks of data collection stations. The information gathered at these stations is used extensively by those responsible for the management and planning of the water resources of Puerto Rico and the U.S. Virgin Islands. The availability of these data is also important for the support of ongoing and future projects within the Survey.
+The data collected at stations in these networks by the Hydrologic Records Section include stream stage and discharge, suspended sediment, ground-water levels, and water quality. As of September 1988, the data included (1) stage and discharge records for 52 continuous streamflow gaging stations (48 in Puerto Rico and 4 in the U.S. Virgin Islands); (2) continuous stage records for 5 lakes; (3) water-quality records for 16 streamflow-gaging stations, 45 ungaged streamsites, 11 lake sites, 1 lagoon, and 1 bay; and (4) water-level records for 65 observation wells. The Hydrologic Records Section also collects data at
+
+many sitps not in specific networks in support of ongoing prjojects. Most of the data are published in the annual report series entitled "Water Resources Data for Puerto Rico and the U.S. Virgin Islands." Prior to publication the data are available in a provisional form from a computerized data storage and retrieval system which can be accessed by the Survey and several cooperating agencies.
+The Hydrologic Records Section began compiling and publishing data in the report entitled "Water Resourcfcs Data for Puerto Rico and the U.S. Virgin Islands," in 1970. The data report for Water Year 1988 wa£ the latest release in this series. The data report f0r Water Year 1989 is in preparation.
+Since 1958, many agencies of the Commonwealth of Puerto Rico and the territorial government of the U.S. Virgin Islands have cooperated with the Survey in the data collection. Data collection activities of the Hydrologic Records Section are carried out by a staff of 30 employees under the supervision of Russell Curtis.
+
+SURFACE-WATER STREAMFLOW NETWORK
+
+Date Project Began: Principal Investigator: Cooperating Agencies:
+
+1958
+Zaida Aquino
+Almost all the agencies in the cooperator list
+
+The Caribbean District operates a network of streamflow stations throughout Puerto Rico and the U.S. Virgin Islands (fig. 2). In Puerto Rico the network is operated under the general waterresources investigations programs coordinated by the Environmental Quality Board in cooperation with many commonwealth and federal agencies. During Water Year 1987, the network was composed of
+
+41 stations. This number increased to 52 in 1988. Four additional stations are financed by the U.S. Geological Survey (USGS) as part of the federally-funded National Stream Quality Accounting Network (NASQAN). In the U.S. Virgin Islands the network consists of four recording streamflow stations.
+
+67°15'
+
+67°00'
+
+18°30'
+Rio Culebrin Rio Guayabo RJo Gronde/ !«
+
+66°45'
+
+_____66°30'_________66°15'_________56°00'
+
+ATLANTIC OCEAN
+
+^
+
+$>° *** J> .. ./ /
+
+65°45'
+
+65°30'
+
+V-^3fr Rio Oaguao 7-J Quebrada Palmo Rib Santiago
+b Blonco
+'Rid Humacao
+Rfo CuayanSs
+
+17°45'
+
+10 20 KILOMETERS 10 20 MILES
+
+CARIBBEAN SEA
+
+A 1125 A 1159
+
+EXPLANATION
+CONTINUOUS STREAMFLOW STATION
+CREST-STAGE GAGE
+
+Figure 2. Location of continuous streamflow and crest-stage gage stations in Puerto Rico.
+
+Date Project Began: Principal Investigator: Cooperating Agencies:
+
+SUSPENDED-SEDIMENT DATA COLLECTION
+1964 Pedro Diaz USCOE, PREQB, and PRASA
+
+Suspended-sediment data collection activities continued during water years 1986-1988. In 1986-87, suspended-sediment samples were collected daily at Rio Fajardo near Fajardo, Rio Tanam£ near Utuado and Rio Rosario near Hormigueros (fig. 4). The Rio Fajardo and Rio Rosario stations were operated in cooperation with the USCOE while the Rio Tanama station was operated in cooperation with the PREQB. Automatic sediment samplers were used at Rio Fajardo and Rio Rosario.
+
+Significant changes occurred in the data collection network during Water Year 1988. The sediment station at Rio Fajardo was discontinued. However, three automatic sediment samplers were installed and operate4 in the Rio Grande de Loiza basin in an effort to! determine the sedimentation rate at Lago Carraizd. These stations are operated in cooperation with PRASA.
+
+67°15' 18°30'
+
+67°00'
+
+66°45' I
+
+66°30' I
+ATLANTIC OCEAN
+
+66°00' I
+
+65°45'
+
+65°30'
+
+18° 15'
+
+Rio Fajardo
+
+18°00'
+
+17°45'
+
+0 10 20 KILOMETERS
+
+I ' i'
+
+i
+
+0 10 20 MILES
+
+CARIBBEAN SEA
+
+EXPLANATION
+T° 710 ACTIVE STATION V PROPOSED STATION
+
+Figure 3. Location of daily suspended-sediment stations.
+
+LOW FLOW NETWORK
+
+Date Project Began: Principal Investigator:
+
+1983 Luis Santiago-Rivera
+
+A knowledge of the frequency and magnitude of low flows is needed by managers of waste-allocation programs for the design of water-supply facilities and for water resource assessments. In 1983, the Caribbean District initiated, as part of the data collection program, a project to define the magnitude and frequency of low flows in Puerto Rico. A network of approximately 100 streamflow sites was selected on the eastern part of the island (fig. 3). Discharge measurements during drought and low flow conditions at these sites were made in 1983,1984 and 1985. In 1986, 1987, and 1988, attempts to make low-flow measurements were unsuccessful because of heavy rains during the measurement periods. The project
+
+will continue over the next few years and will extend to other areas in Puerto Rico.
+Publications released:
+Colon-Dieppa, Eloy, and Quinones-Aponte, Viccnte, 1985, Estimates of 7-Day, 10-year low flows at ungaged streams in Puerto Rico: U.S. Geological Survey, Water-Resources Investigation Report 84-4089.
+Colon-Dieppa, Eloy, Quinones, Ferdinand, and Juarbe, Max, 1984, Flow duration at streamflow gaging stations in Puerto Rico: U.S. Geological Survey, Open-File Report 84-127.
+
+18°30' -
+
+66°00'
+
+65°45'
+Rio Herrera Ri'o Esp/'ritu Santo
+-~/C,,''\" Rfo Mam eyes
+
+65°30'
+A TLANTIC OCEAN
+
+18° 15' 18° 00'
+
+R/'o Fajardo
+07?6
+
+'ib Daguao Ouebrada Palm a 0757^ \ 'Rib Santiago
+
+At\
+
+RTo Blanco Rio Ant6n Ruiz
+
+EXPLANATION
+
+A D825 LOW-FLOW PARTIALRECORD STATIONS
+
+1D KILOMETERS
+
+CARIBBEAN SEA
+Figure 4. Location of low-flow partial-record stations in eastern Puerto Rico.
+
+GROUND-WATER LEVEIS NETWORK
+
+Date Project Began:
+
+1956
+
+Principal Investigator:
+
+Pedro Dfaz
+
+Cooperating Agencies:
+
+PRASA and many
+
+other agencies in the cooperator list
+
+The determination of long-term changes in ground-water levels is an important aspect of the ground-water data-collection program in the District. Ground-water levels provide insight into the withdrawal and recharge rates of aquifers and are essential to the design, construction, and updating of ground-water flow models.
+The ground-water levels network in Puerto Rico increased from 7 to 31 recorder-equipped wells during Water Year 1986. The twenty-four additional wells were installed as part of the North Coast Limestone Regional Aquifer System project discussed later in this report. During Water Year 1987, four additional wells equipped with recorders were added to the network in the south coast alluvial
+
+aquiferk and two wells were discontinued, leaving a balance of 38 wells by the end of the year.
+In the U.S. Virgin Islands, the ground-water levels network consisted of 7 wells equipped with recorders and 211 wells in which water levels were measured periodically during water years 1985-87. During Water Year 1988, the number of wells measured periodically was reduced to 18 but the number of recorder-equipped wells remained unchanged.
+As of September 1988, the ground-water levels networ : in Puerto Rico and the U.S. Virgin Islands consisted of a total of 45 wells equipped with recorders and 18 wells measured periodically. Locations of these wells are shown in figure 5.
+
+67° 15'
+
+67° 00'
+
+66°45'
+
+66°30' I
+
+66° 15' T
+
+ATLANTIC OCEAN
+
+66°00'
+
+65°45'
+
+65°30'
+
+18° 30'
+
+18° 15' 18° 00'
+
+Rio fojordo
+Oaguao Raima Rib Santiago Rio Blonco 'Rio. Ani6n Ruiz Rib Humacoo Ftt'o Guoyanfs
+
+17° 45'
+
+EXPLANATION GROUND-WATER STATION
+I__________I 65*45'
+
+17°45' -
+
+CARIBBEAN SEA
+64° 30'
+18°20' -
+
+20 KILOMETERS
+65°45'
+
+17°40' -
+
+18° 15'
+
+Figure 5. Location of ground-water stations in Puerto Rico and the U.S. Virgin Islands.
+
+Date Project Began: Principal Investigator: Cooperating Agencies:
+
+SURFACE-WATER QUALITY NETWORK
+1968 Pedro Diaz PREQB, USCOE, and PRDOA
+
+The District operated a network of 71 long-term water-quality stations in Puerto Rico in Water Year 1988 (fig. 6). Samples were collected bi-monthly from 56 streamflow stations and lagoons, and quarterly from six of the principal lakes in Puerto Rico. The surface-water quality network also included four stations supported by the Geological Survey as part of the National Stream Quality Accounting Network (NASQAN). Samples were collected bi-monthly at
+
+two of those stations and quarterly at the other two stations.
+Samples collected as part of the surface-water quality network are analyzed for a variety of constituents, including copper, manganese, cyanide, sulfide, phenols, iron and methyl blue active substance (MBAS). Analytical field and laboratory results indicate that some streams commonly have high concentrations of fecal coliform, fecal streptococcus bacteria, and suspended sediment.
+
+67°15'
+
+67°00'
+
+66 °45'
+
+66°30'
+
+ATLANTIC OCEAN
+
+66°00'
+
+65°45'
+
+Rib Culebrina. Rio Rio Grande
+18°00'
+17°45'
+
+ib Fajardo
+Ri'o Doguoo Ouebrada Raima Rib Santiago Rio Blonco Ri'o An tin Ruiz '"° Humacoo Rib Guayon is
+
+20 MILES
+
+CARIBBEAN SEA
+
+EXPLANATION
+T BIOLOGICAL T CHEMICAL T SEDIMENT (DAILY)
+T" SEDIMENT (BI-MONTHLY) n25 STATION NUMBER
+
+Figure 6. Location of water-quality stations in Puerto Rico
+
+Date Project Began: Principal Investigator: Cooperating Agency:
+
+GROUND-WATER QUALITY MONITORING
+October 1982 Senen Guzman-Rios
+PRASA
+
+The ground-water quality monitoring program is a continuing program. In 1982, ground-water samples were collected from various wells around the island. From this preliminary reconnaissance it was determined that the water quality at some sites warranted frequent monitoring. In 1983, a water sampling program was established in Vega Alta (fig. 7) where some wells had been abandoned because of the presence of organic chemicals. Samples have been collected monthly from five wells and from three sites in the water distribution system at this site since 1983. Ad-
+
+ditional sites were added to the sampling program in 1984. Since that time, water samples have been collected q uarterly from 5 wells in Ponce, and one each in Santa Isabel, Guayama and Arecibo. The samples from all five sites have been analyzed for volatile synthetic organic chemicals (VOCs).
+Recent laboratory results showed concentrations of trichloroethylene (TCE) in some ground-water samples as high as 40 micrograms per liter (ttg/L). The mzcjcimum allowable level established by the U.S. Environmental Protection Agency is
+
+67|°15'
+
+67°|OCT
+
+66|°45'
+
+66°|30'
+
+66°|15'
+
+ATLANTIC OCEAN
+
+66°,00'
+
+65°|45'
+
+65°30'
+
+18°00'
+
+_0 1
+0
+
+10 20 KILOMETERS
+
+' i'
+
+i
+
+10 20 MIL
+
+CARIBBEAN SEA
+
+Figure 7. Towns in Puerto Rico where wells are being monitored for organic compounds.
+
+Date Project Began: Principal Investigator: Cooperating Agencies:
+
+DATA COLLECTION PLATFORMS NETWORK
+
+1985 Pedro Diaz
+PRDNR
+
+io
+
+The Data Collection Platform (DCP) program began in Puerto Rico as a method to obtain real-time data of various types from stations throughout the island. The DCP is part of a satellite telemetry system which allows the Survey to monitor the behavior of selected streams with data updates every five minutes.
+The system transmits the information from a field station to a geostationary satellite, and then from the satellite to the computer system. The first station equipped with a DCP in Puerto Rico is located at the Rio Grande de Loiza at Caguas. Data transmitted from this site was used as part of a demonstration at the 1984 World's Fair in New Orleans. By the end of Water Year 1986, the District had installed 12 DCPs throughout the island.
+The DCP program increased during Water Year 1987 with the establishment of a flood alert-system
+
+operated in cooperation with the PRDNR. This system consists of a network of rainfall and river-stage sensors that provide real-time data during heavy rains (fig. 8). This information is used by Commonwealth agencies responsible for issuing flood alerts. By the end of Water Year 1987, 18 DCP stations had been installed.
+During 1988, the DCP program was expanded with the installation of three stations at reservoirs operated by PREPA (Garzas, Matrullas, and Guineo) and two stations at reservoirs operated by PRASA (Carraizo and Cidra) to provide real-time elevation and rainfall data. In addition, six new river-stage/rainfall stations were installed and equipped with DCPs in support of the flood-alert system operated in cooperation with commonwealth and federal agencies.
+
+67°15'
+
+67°00'
+
+66 °45'
+
+66°30'
+
+66°15'
+
+66°00'
+
+65°30'
+
+ATLANTIC OCEAN
+
+18°30'
+
+Rio Fajardo
+
+18°00'
+
+7^^^^W^ j
+
+"° *"''° ^
+
+<£°
+
+^ <£?
+
+"
+
+_0
+
+10 20 KILOMETERS 20 MILES
+
+CARIBBEAN SEA
+
+,0810,
+
+Doguao .-^-{^Quebrpda Polma
+Rio Santiago
+Rib Blonco
+Rib An tin Ruiz
+Ri'o Humacao
+
+Rla Guoyanfs
+
+EXPLANATION
+^ STREAMFLOW DCP A PROPOSED DCP Q STREAMFLOW-RAINFALL DCP 1125 STATION NUMBER
+
+Figure 8. Location of Data Collection Platform (DCP) stations in Puerto Rico.
+
+10
+FLOOD STUDIES FOR SELECTED AREAS AFFECTED BY THE MAY 17-18, AND OCTOBER 6-7,1985 FLOODS.
+
+Date project began: Principal Investigators:
+Cooperating Agencies:
+
+1985
+Heriberto Torres and Karl Johnson
+PRHA, PRDNR, and PREQB
+
+Considerable flooding along the north coast of Puerto Rico occurred during May 17-18, 1985. Particularly affected were the lower reaches of the Rio Grande de Manati and the Rio Grande de Arecibo. Significant flooding also occurred at Utuado and Jayuya. The floods of October 6-7, 1985 affected mostly rural areas in southern Puerto Rico. The most severe flooding was between Ponce and Santa Isabel. Flooding was also severe in Barceloneta on the north coast. Reports doumenting the extent and severity of these floods in some areas have been published. Flood maps describing the inundated areas in the lower Rio Grande de Manati valley and in the south coast are in preparation.
+
+Publications released:
+Quinones, Ferdinand, and Johnson, Karl G., 1987, Th^ floods of May 17-18, 1985 and October 6-7, 198J5 in Puerto Rico: U.S. Geological Survey, Open-File Report 87-123.
+Johnson, Karl G., Quinones, Ferdinand, and Gojizalez, Ralph, 1987, Hydraulic analyses of water-surface profiles in the vicinity of the Coamo Dam and Highway 52 bridge, southern Puerto Rico: Flood analyses as related to the flood of October 7,1985: U.S. Geological Survey, Water-Resources Investigation Report 874039.
+
+STAGE-DISCHARGE RELATIONS AT CULVERTS
+
+Date Project Began: Principal Investigators:
+Cooperating Agencies:
+
+June 1987
+Heriberto Torres and Karl Johnson
+USDA
+
+The U.S. Forest Service requested the assistance of the U.S. Geological Survey to determine the stagedischarge relation in three creeks crossed by the Bisley Road in the El Yunque rain forest. The stage-discharge relation was determined using the indirect method of discharge measurement at culverts. This method uses measured stage upstream and
+
+downstrleam of the culvert and the culvert geometry to compute discharge based on hydraulic formulae.
+The stage-discharge relations developed during this study were completed in 1988 and provided to the U.S. Forest Service. The project is completed.
+
+11
+
+HYDROLOGIC INVESTICATIONS SECTION
+
+The Hydrologic Investigations Section of the Caribbean District is composed of a staff of 21 employees under the supervision of Arturo Torres, Assistant District Chief. The Section worked on a total of 27 water-resources investigations during 1986-88. The subjects of these investigations ranged
+
+from the general hydrology of Puerto Rico and the U.S. Virgin Islands to more site-specific waterresources problems. Of these investigations, 5 percent dealt with surface water, 85 percent with ground water, and 10 percent with water quality.
+
+SUSPENDED-SEDIMENT TRANSPORT IN THE UPPER RIO GRANDE DE LOIZA BASIN, PUERTO RICO
+
+Date Project Began:
+
+October 1983
+
+Principal Investigator:
+
+Senen Guzman-Rios
+
+Cooperating Agencies:
+
+PREQB, PRASA,
+
+PRDNR, USCOE, and USSCS
+
+The Rio Grande de Loiza basin is the largest drainage basin in Puerto Rico. The river was dammed in 1953 to build a water-supply reservoir. Lago Loiza (also known locally as Lago Carrafzo) supplies about 50 percent of the water for the San Juan metropolitan area (about 110 million gallons per day (Mgal/d)).
+Fluvial sediment carried into reservoirs by tributary streams is reducing the efficiency and useful life of almost all reservoirs in Puerto Rico. Lago Loiza had an original capacity of 21,763 acre-feet in 1953, but in July 1985 a bathymetric survey conducted at Lago Loiza indicated that the capacity of the reservoir had been reduced to 10,100 acre-feet. At that time the storage capacity of the reservoir was being reduced at a rate of 1.8 percent per year. At this rate, the useful life of Lago Loiza is estimated at 23 more years. Other bathymetric surveys were conducted in 1963,1971, and 1979.
+Plans are being developed for three additional dams in the basin: Rio Grande de Loiza at Quebrada Arenas, Rio Cayaguas at Cerro Gordo, and Rio Valenciano near Juncos. The useful life of Lago Loiza and the design and construction of the new reservoirs will be greatly influenced by the amount of sediment transported along the system.
+
+The purpose of this investigation is to collect and analyze sediment data in conjunction with land-use data. Results of the investigation may be used by Commonwealth agencies to design and implement soil-conservation practices in the basin and other measures to reduce erosion and sedimentation rates.
+The first phase of an investigation on the subject was completed in 1988. Information was obtained on fluvial sediment transported from ten small- to medium-size drainage areas within the east-central part of Puerto Rico, ranging from less than 1 to about 90 -m" in size. The study covered an area of 208 m" from the headwaters of Rio Grande de Loiza to the Lago Loiza. It included the main stream and selected tributaries.
+The first phase of the investigation included three years of data collection from a network of two dailyrecord stations and eight partial-record stations. Data collected during this phase indicates that most of the sediment transported by the streams is in suspension. Concentrations of suspended sediment exceeded 56,000 milligrams per liter in some samples. Suspended sediment in the streams is composed mostly of silt and clay. Sand content during high flows ranged from 6 to 80 percent.
+
+12 HYDROLOGY OF LACUNA JOYUDA AT CABO ROJO, PUERTO RICO
+
+Date Project Began: Principal Investigator: Cooperating Agencies:
+
+October 1985 Luis Santiago-Rivera
+CEER-UPR
+
+In 1985 the District initiated a comprehensive study of the hydrology of Laguna Joyuda, a State Natural Reserve in western Puerto Rico. This shallow water lagoon is the habitat of many plants and animal species protected by local and federal agencies. The lagoon is relatively undisturbed by urban and industrial development that affects most coastal ecosystems. Human activities in the drainage basin include a few family dwellings on the southern and western edges of the lagoon and some cattle production. About 50 percent of the basin is used for pasture.
+During the first two years of the study the emphasis
+
+was on the collection of surface water, ground water, precipitation, and tidal-flow data necessary to determine the overall hydrologic budget for the lagoon. Surface >^ater inflow, ground water levels, precipitation and tidal-flow in the lagoon were measured. The one-dimensional Branch-Network flow model is being used to estimate tidal-flow through the lagoon's discharge channel. Much of 1988 was spent analyzing the data collected and calibrating the tidalflow model. The results will assist CEER and other agencies to better understand the hydrology of tropical coastal ecosystems so these areas can be protected from degradation.
+
+LAGUNA SAN JOSE BATHYMETRIC AND WATER QUALITY SURVEY
+
+Date Project Began: Principal Investigator: Cooperating Agency:
+
+July 1986 Carlos Conde-Costas
+PRHA
+
+A bathymetric and water quality survey of Laguna San Jose, located between the municipios of San Juan and Carolina, was conducted in cooperation with the P.R. Highway Authority (PRHA). This agency is planning to relocate Highway PR-26. One segment of the proposed relocation of the highway would run along the northern shore of the lagoon. The elimination of some mangroves will be necessary to construct this segment of the highway. The PRHA has been requested to develop a series of islets where new mangroves could be grown.
+The objective of the study was to assist PRHA in defining the best areas in the lagoon from which materials could be dredged and where the islets could be located. The investigation included a bathymetric survey of the entire lagoon, a more detailed survey in
+
+selected areas, and a sampling program to determine selected chemical and physical characteristics of the water arid bottom sediments. The variation in velocity with depth was also studied at several stations.
+Results of the study indicate that concentrations of selected water quality constituents vary only slightly throughout the lagoon. Organic pesticide concentrations in bottom sediments were relatively low throughout the lagoon but were somewhat higher at the northeastern section of the lagoon than in other areas. The organic chemicals detected most frequently were PCB, DDT, and Lindane. This study was completed and results were given to PRHA in 1986.
+
+13
+SUSPENDED SEDIMENT TRANSPORT DATA IN THE RIO PUERTO NUEVO BASIN, PUERTO RICO
+
+Date Project Began: Principal Investigator: Cooperating Agency:
+
+December 1987 Carlos Figueroa-Alamo
+USCOE
+
+The Rio Puerto Nuevo basin is a small, highly developed urban basin in the metropolitan San Juan area, located in north-central Puerto Rico. The river runs from south to north through the town of Guaynabo, draining into San Juan Bay.
+The objectives of this 2-year project are to determine the amount and particle size distribution of suspended-sediment moving past sediment stations along the Rio Puerto Nuevo and entering San Juan Bay. In addition, the particle size distribution of the bed material in the river is under study.
+
+During 1988, four surface water and suspendedsediment stations were installed and operated. Each sediment station has a depth-integrated sampler as well as an automatic sampler. Collection of surfacewater data, suspended-sediment samples, and bed material also began in 1988. Laboratory analyses were performed on both suspended-sediment and bed material samples.
+The data obtained in this study will be used by the USCOE in the design of a debris basin. The purpose of the debris basin is to trap sediment before it can accumulate in the concrete channel that is part of the Rio Puerto Nuevo Flood Control project.
+
+GROUND-WATER RECHARGE IN THE LOWER RIO GRANDE DE ARECIBO VALLEY, PUERTO RICO
+
+Date Project Began:
+
+1981
+
+Principal Investigator: Vicente Quinones-Aponte
+
+Cooperating Agencies:
+
+PRDOA
+
+The feasibility of injecting, storing, and recovering excess streamflow in an aquifer by artificial recharge through an injection well was investigated for a well site in the lower Rio Grande de Arecibo Valley, in Arecibo, Puerto Rico. Results of these tests indicated that although a reasonable percent of the injected freshwater can be recovered, further studies are necessary to test the effect of large-scale freshwater injection. Prevention of the inland migration of saline water may be an additional benefit of injection wells. This study was completed in 1988. Two additional reports have been approved for publication.
+
+Publications released:
+Whitesides, D.V., Quinones-Aponte, Vicente, and Zack, A.L., 1985, Estimating the capacity of a salty limestone aquifer in Puerto Rico to receive, store, and release injected freshwater using chloride mass balance: International Symposium on Tropical Hydrology and 2nd Caribbean Islands Water-Resources Congress, San Juan, Puerto Rico, May 5-8, 1985, American Water Resources Association Technical Publication Series TPS-85-1, p. 50-55.
+
+14
+WATER RESOURCES OF THE HUMACAO-NAGUABO AREA, EASTERN PUERTO RICO
+
+Date Project Began: Principal Investigator Cooperating Agency:
+
+October 1982 Robert P. Graves
+PRIDCO
+
+=^cT3*
+
+The objective of the water-resources investigation of the Humacao-Naguabo area was to define the occurrence, availability, and quality of surface and ground water in the Humacao-Naguabo area. Surface water is the principal water-supply source in the study area. Rio Humacao and Rio Blanco are the major drainage networks and have the potential of supplying 13.7 Mgal/d. The quality of the surface water, however, is generally poor. Bacteria counts as high as 10,300,000 colonies per 100 milliliters for coliform and 1,900,000 colonies per 100 milliliters for streptococci have been observed in samples from Rio Humacao.
+Ground-water use in the Humacao-Naguabo area in 1984 was 0.93 Mgal/d. The principal aquifer in the study area occurs within alluvial sediments, under
+
+water-table conditions. Values of aquifer transmissivity r^nge from 600 to 2,000 square feet per day (ft/d);'storage coefficient of the aquifer is approxim&tely 0.02. Water-quality analyses of the ground water revealed that at several sites the USEPA Drinking Water Standards for iron, manganese, land total dissolved solids were exceeded.
+A tWo-dimensional, mathematical ground water flow model of the Rio Humacao basin was developed to simulate the ground-water flow system and to determine the effects of additional ground-water withdrawals on the aquifer. Model results indicate that in the lower Rio Humacao basin if current ground^water use is increased by more than 0.72 Mgjal/d, saltwater intrusion into the aquifer could occur.
+
+INVENTORY OF WELLS IN PUERTO RICO A|ND THE U.S. VIRGIN ISLANDS
+
+Date Project Began: Principal Investigator: Cooperating Agencies:
+
+October 1983 Hector M. Colon-Ramos
+PRDNR, and PRASA
+
+An inventory of ground-water wells in Puerto Rico and the U.S. Virgin Islands was conducted from October 1983 to September 1986. Information was gathered on approximately 4,215 ground-water wells. Although this number may include some abandoned or destroyed wells, the inventory indicated that the
+
+number of wells in Puerto Rico had almost doubled since 1964. The number of wells increased from 2,282 in 1964 to 4,215 in 1986. In the north-coast province aquifers the number of wells increased from 761 in 1964 to 1,556 in 1986 and in the south-coast alluvial aquifers from 1,277 to 2,156 during this period.
+
+GROUND-WATER RESOURCES IN LAJAS VALLEY, PUERTO RICO
+
+Date Project Began: Principal Investigator: Cooperating Agencies:
+
+October 1983 Robert P. Graves PRDOA and PRIDCO
+
+15
+
+The objectives of the study were to define the occurrence, availability, and quality of ground-water in the Lajas Valley. Field work for the water-resources investigation of the Lajas Valley was completed in September 1987.
+The principal aquifer in the Lajas Valley is a nonhomogeneous, anisotropic confined aquifer consisting of alluvial deposits of Quaternary age. The potentiometric head in monitor wells can range from more than 3 feet (ft) above land surface to 30 ft below land surface. Values of aquifer transmissivity range from 700 to 8,000 ft2/d; the storage coefficient of the aquifer is approximately 9.3 x 10 .
+
+Ground-water use in the Lajas Valley for 1986 was estimated to be 2.95 Mgal/d. Depending on the location of a well in the valley, pumpage rates can range from 5 to 300 gallons per minute (gal/min).
+Ground-water quality varies greatly in the Lajas valley. Ground water in several wells exceeded the Environmental Protection Agency's limit for iron, manganese, and total dissolved solids. Chloride concentrations in excess of 5,000 milligrams per liter were measured in water samples from several wells. In general, high quality, ground-water supplies are limited in the Lajas Valley.
+
+ATLAS OF SELECTED AQUIFERS IN PUERTO RICO AND THE U.S. VIRGIN ISLANDS
+
+Date Project Began: Principal Investigator: Cooperating Agency:
+
+1984 Thalia Veve
+USEPA
+
+The U.S. Environmental Protection Agency has the responsibility for overseeing the implementation of the Underground Injection Control Program in Puerto Rico and the U.S. Virgin Islands. To implement this program, a knowledge of the hydrogeologic characteristics of the aquifers is needed to prevent contamination of water supplies. The objectives of this project are:
+1. to describe the hydrogeologic framework, areal extent, and regional flow system of selected aquifers that are major sources of drinking water supplies;
+2. to quantify ground-water use and describe land use and population distribution; and
+
+3. to assess the effects of present and potential problems of ground-water contamination from underground wastes.
+These objectives will be accomplished by preparing hydrogeologic and geographic maps describing the aquifers and identifying potential problem areas. The atlas which is in preparation covers Puerto Rico and its offshore islands of Vieques, Culebra, and Mona; and the U.S. Virgin Islands of St. Croix, St. Thomas, and St. John.
+The information in the atlas is organized by ground-water provinces: North-Coast Province, South-Coast Province, West-Coast Province, EastCoast Province, Puerto Rico Offshore Islands, and U.S. Virgin Islands. Some of these are divided into smaller areas that are described separately.
+
+16 THE CARIBBEAN ISLANDS AQUIFER REGIONAL AQUIFER SYSTEM ANALYSIS
+
+Date Project Began:
+
+October 1984
+
+Principal Investigator: Fernando Gomez-Gomez
+
+The Regional Aquifer System Analysis (RASA) program represents a systematic effort by the Survey to study the Nation's major aquifer systems. The Caribbean Islands RASA project includes an area of more than 3,600 m2 within Puerto Rico and the U.S. Virgin Islands. The principal aquifers are the carbonate rocks of northern Puerto Rico, the carbonate rocks of central St. Croix, (Kingshill aquifer) and the alluvial deposits of the southern coastal plain in Puerto Rico.
+In October 1984, the Survey began this 5-year study to: 1) describe the hydrogeology of the principal aquifers, (2) define the hydraulics of the principal ground-water flow systems, (3) define the geochemistry of each principal aquifer system and its relation to the mineral components within the geologic framework, (4) describe the original aquifer systems as they existed prior to development and analyze the changes which have led to their present conditions, (5) combine, in a regional analysis, the results of this and previous studies, and (6) provide the capabilities through which the effects of future changes on the ground-water-flow systems can be estimated.
+Six reports have been released and several others have been approved for publication or are in preparation.
+Publications released:
+Gomez-Gomez, Fernando, 1987, Planning Report for the Caribbean Islands Regional Aquifer-System Analysis Project: U.S. Geological Survey WaterResources Investigation Report 86-4074,50 p.
+
+Quinon^s-Aponte, Vicente, and Gomez-Gomez, Fernando, 1987, Potentiometric surface of the alluvial aquifer and hydrologic conditions in the Salirias Quadrangle, Puerto Rico, March 1986: U.S. Geological Survey, Water-Resources Investigation Report 87-4161,1 plate.
+Torres-Cjionzalez, Sigfredo, and Gomez-Gomez, Fernando, 1987, Potentiometric surface of the alluvial aquifer and hydrologic conditions in the Central Aguirre Quadrangle, Puerto Rico, March 1986: U.S. Geological Survey, WaterResources Investigation Report 87-4160,1 plate.
+Dacosta, Rafael, and Gomez-Gomez, Fernando, 1987, Potentiometric surface of the alluvial aquifer and hydrologic conditions in the Guayama Quadrangle, Puerto Rico, March 1986: U.S. Geological Survey, Water-Resources Investigation Report 87-4162,1 plate.
+Roman-|vlas, Angel, and Lee, Roger W., 1987, Geoohemical evolution of waters within the north coasl limestone aquifers of Puerto Rico: A conceptualization based on a flow path in the Barceloneta area: U.S. Geological Survey, Water-Resources Investigation Report 86-4080, 28 p.
+Roman-Mas, Angel, and Ramos-Gines, Orlando, 1988^ Compilation of water-quality data for the north coast limestone aquifers, Puerto Rico, 1951 to 1987: U.S. Geological Survey Open-File Data Report 87-533,133 p.
+
+17
+HYDROLOGY AND EFFECT OF CHANGES FROM FURROW TO DRIP IRRIGATION IN THE SANTA ISABEL TO JUANA DIAZ AREA, SOUTH CENTRAL PUERTO RICO
+
+Date Project Began: Principal Investigator: Cooperating Agency:
+
+October 1984 Orlando Ramos-Gines
+PRDOA
+
+<^>d>
+
+In the 1980's, the PRDOA initiated an intensive agricultural development plan along the south central coastal plain of Puerto Rico. Sugar cane was formerly the most important crop in this area; today, however, about 90 percent of the former sugar cane area is cultivated with other crops, mainly vegetables. In addition, irrigation techniques have been changed from furrow to more efficient drip methods.
+
+was constructed to help assess the effects caused by changes from furrow to drip irrigation in terms of aquifer water levels. In 1988, efforts were directed toward locating the saline-freshwater mixing zone and in determining the interaction between streams and the aquifer in the study area. Preparation of the report summarizing the results of this study is underway.
+
+An investigation of the present hydrologic conditions in the Santa Isabel-Juana Diaz area was conducted from 1984 to 1988. The study area extends from Rio Jueyes to Rio Jacaguas covering about 50 m . The PRDOA was concerned that inadequate management of the water resources in this area could diminish the ground-water supplies, cause subsequent shortages during droughts, and induce seawater-intrusion problems. A two-dimensional, finite-difference ground-water flow simulation model
+
+Publications released:
+Roman-Mas, Angel, and Ramos-Gines, Orlando, 1987, Elevation of the water-table surface for the alluvial aquifer and hydrologic conditions in the Santa Isabel-Juana Diaz area, Puerto Rico, March 1986: U.S. Geological Survey WaterResources Investigation Report 87-4123.
+
+18
+HYDROGEOLOGIC FRAMEWORK OF THE NORTH COAST LIMESTONE REGIONAL AQUIFER SYSTEM OF PUERTO RICO
+
+Date Project Began: Principal Investigator:
+Cooperating Agencies:
+
+1985
+Arturo Torres-Gonzalez, Ingrid Padilla and Jesus Rodriguez
+PRDNR
+
+The North Coast Limestone Regional Aquifer System is the most important ground-water reservoir in Puerto Rico. It is composed of hydrogeologic units of Middle Tertiary age, and extends from Aguadilla in western Puerto Rico to Loiza in the east. A welldeveloped karst topography characterizes the outcrop areas of this predominantly carbonate aquifer system.
+A study of the hydrogeology of the North Coast Limestone Regional Aquifer System was initiated in 1985. It was divided into two phases: (1) an exploratory drilling phase, which has been completed, and (2) the development of a series of digital groundwater flow models, currently in progress. Fifteen deep test holes that penetrated both the water table and deep artesian aquifers were drilled using a dual tube drilling method that allowed retrieval of continuous lithologic cores, measurement of head and hydraulic properties, collection of water samples, and collection of borehole geophysical logs. Studies of the age and environments of deposition of the rocks are being conducted by the Department of Geology at
+
+the University of New Orleans using the lithologic cores obtained while drilling the deep test holes.
+A preliminary hydrogeologic framework of this regional aquifer system has been outlined. The system is composed of three hydrogeologic units of regional extent: an uppermost water-table aquifer, a middle confining unit, and a deep artesian aquifer. These Units were delineated based on their confining and water yielding properties, as well as their considerable lateral continuity.
+Important tasks that remain, besides the groundwater flow modeling effort, are the mineralogical analysis and estimates of the amount and distribution of porosity and permeability in the different hydrogeologic units, the characterization of the different lithologic units using geophysical data, and the demonstration of time equivalency between outcrop and downdip fades described from the test holes cores. This work is being conducted in a cooperative effort by the Survey and the University of New Orleans.
+
+GROUND-WATER FLOW MODEL IN THE JOBOS AREA
+
+Date Project Began: Principal Investigator: Cooperating Agency:
+
+1985 Sigfredo Torres
+PRIDCO
+
+|o
+
+A two-dimensional ground-water flow model for the alluvial aquifer between Rio Seco and Rio Guamani, along the south coast of Puerto Rico, was calibrated using predevelopment (approximately 1910) water levels. The model was then used to simulate flow in the aquifer in 1986 and to assess the
+
+effects of increased ground-water withdrawals of 3.6 ft3/s (2.2 Mgal/d). The model was also used to estimate the effects of dredging of the former Laguna Las Mareas during 1970. The investigation was completed in February 1987.
+
+19
+GROUND-WATER RESOURCES OF THE CAGUAS-JUNCOS ALLUVIAL VALLEY, PUERTO RICO
+
+Date Project Began: Principal Investigator: Cooperating Agencies:
+
+October 1985 Juan C. Puig PRASA and PRDNR
+
+The objective of this three-year study was to define the occurrence, availability, and quality of ground water resources of the Caguas-Juncos alluvial valley. Field activities for the study, including the acquisition of basic hydrogeologic data, have been completed. A comprehensive well and water-use inventory in the area was conducted and ground-water levels are being monitored at four continuous recording stations and by monthly measurements at selected wells.
+The Caguas-Juncos alluvial aquifer is an unconfined system with a strong stream-aquifer hydraulic connection. The transmissivity of the aquifer is relatively low, with estimate values ranging between 50 and 3,000 ft /d. Higher transmissivity values occur along river channels. The aquifer's physical dimensions were estimated from well logs and geophysical
+
+surveys. Transmissivity was estimated from specific capacity data and slug tests. Seepage studies, in conjunction with saturation runs and ground-water level measurements, were helpful in defining the streamaquifer hydraulic connection. Finally, a network of surface and ground-water sites were monitored for physical, chemical, and biological water-quality characteristics.
+A ground-water flow model of the western part of the alluvial aquifer system was developed and calibrated. Preliminary results of the ground-water flow model indicate that the amount of ground-water available from this alluvial aquifer may be substantially greater than the 3 Mgal/d withdrawn for public supply. A report documenting the results of this investigation is in preparation.
+
+20
+Date Project Began: Principal Investigator: Cooperating Agencies:
+
+GROUND WATER SITE INVENTORY
+April 1986 Philip Gonzalez
+EQB
+
+Hydrologic data collected during investigations conducted by the Survey provide valuable information that can be used for the management of water resources. Easy access to hydrologic data facilitates that management process.
+The Ground-Water Site Inventory (GWSI) is part of the National Water Information System (NWIS) which is a data storage and retrieval system for hydrologic data collected by the Survey and its cooperators. The Ground-Water Site Inventory is an interactive system on the Survey's minicomputer. The GWSI provides a vehicle to update existing sites and enter new sites into the local data base and, at the same time, to update the national data storage and retrieval system. The GWSI also provides a vehicle to selectively retrieve and display, in several formats, ground- and surface-water data stored in the local data base.
+
+The GWSI contains approximately 300 descriptive data elements containing information about sites where ground water data is collected. These data elements are stored in one general data file called the Site Fjle and eight GWSI data files. The Site File contains identification parameters, physical and political descriptions, and data-collection methods at the sit^s. The information in the Site File is available to all members of the NWIS. The eight GWSI data files contain information related to well-construction, ground-water levels, ground-water discharge, hydrogeology, observation wells, hydraulics, and water Use.
+In tjie Caribbean District, GWSI has been functional fbr only a few years. During that period, more than 75 percent of the historic ground water data in the District (data for an estimated 4,000 to 4,500 wells and springs) has been entered into GWSI.
+
+21 GEOHYDROLOGY OF POTENTIAL HAZARDOUS-WASTE SITES IN PUERTO RICO
+
+Date Project Began: Principal Investigator Cooperating Agency:
+
+October 1986 Robert P. Graves
+PRIDCO
+
+A geohydrologic investigation of potential sites for a hazardous-waste treatment, stabilization, and storage facility was conducted for the Commonwealth of Puerto Rico. The project is a three-year study. The principal sites under investigation are the Aguirre and Pozo Hondo areas located on the south coast of Puerto Rico. The objectives of the program are to define the geology and hydraulic characteristics of the aquifer underlying each site.
+Accomplishments during the latter part of 1986 through 1987 included the completion of 33 test wells at 15 sites. These wells were shallow, generally less than 95 feet. Data collected from these wells were used to prepare preliminary potentiometric and subsurface geologic maps. To help define aquifer hydraulic characteristics, single well aquifer tests
+
+were performed in each well. Also, during 1987, 12 continuous-recording ground-water stations and 2 continuous-recording surface-water stations were installed.
+Work completed during 1988 included the drilling of 30 test wells at 19 sites. Using a dual-tube coring rig, continuous cores were collected from each well. Depth of drilling for these wells ranged between 28 to 210 feet. Water-quality data was collected from 19 of the test wells drilled. Single-well aquifer tests were completed at 19 of the test wells drilled.
+Further plans for the project include multi-well aquifer tests to accurately define aquifer characteristics. For further definition of the subsurface geology, surface geophysical surveys will be completed.
+
+POTENTIOMETRIC SURFACE OF THE TURPENTINE RUN BASIN AQUIFER IN THE TUTU AREA, EASTERN ST. THOMAS, SEPTEMBER 11,1987
+
+Date Project Began: Principal Investigators:
+Cooperating Agency:
+
+August 1987
+Robert P. Graves and Ralph Gonzalez
+USEPA
+
+Following the detection of volatile organic compounds in water withdrawn from wells tapping the Turpentine Run aquifer in St. Thomas, U.S. Virgin Islands, the Survey was requested by the U.S. Environmental Protection Agency to prepare a potentiometric map of the aquifer to define the direction of ground-water flow. The aquifer is comprised of fractured-volcanic rock overlain by alluvial deposits. The alluvial deposits can reach a thickness of 40 feet. Wells have been drilled into the fractured volcanics to depths of 325 feet. Ground water in the aquifer occurs under water-table conditions. To prepare the potentiometric map, ground-water levels were
+
+measured in 32 wells on September 11, 1987. The altitude of water levels in these wells was referenced to known land surface altitude benchmarks. The potentiometric map was completed and published in 1988.
+Publications released:
+Graves, Robert, and Gonzalez, Ralph, 1988, Potentiomentric Surface of the Turpentine Run Basin Aquifer in the Tutu area, Eastern St. Thomas, September 1987: U.S. Geological Survey, WaterResources Investigation Report 88-4131.
+
+22 AQMAN3D: A GROUND-WATER SIMULATION/MANAGEMENT MODEL
+
+Date Project Began: Principal Investigators:
+Cooperating Agencies:
+
+October 1987
+Juan C. Puig and Lourdes Rolon
+PRASA
+
+Ground-water management can be defined as the process by which efficient ground-water development is achieved by optimizing well locations and withdrawals within the constraints of cost, water quality, water law, and the physical laws governing the ground-water system. A ground-water management model can be designed to interact with a groundwater flow model in order to incorporate the dynamics of the aquifer as system constraints.
+The AQMAN3D aquifer management model is a modified version of the original AQMAN model proposed by Lefkoff and Gorelick (1987), which utilizes as its ground-water flow simulation subroutine the "Finite-Difference Model for Aquifer Simulation in Two Dimensions" by Trescott, Pinder, and Larson (1976). The modification consists in making the AQMAN model fully compatible with the MODULAR Three Dimensional Ground-Water Flow Model by McDonald and Harbaugh (1984).
+
+Thej idea of coupling the AQMAN model with the MODULAR model arose because many groundwater systems need to be simulated in three-dimensions, and MODULAR is the model most commonly used by the Survey for this purpose. Additionally, many of the aquifer systems on the island have already been simulated using the MODULAR model.
+The AQMAN3D model is being applied in the previously described ground-water resources investigation in the Caguas-Juncos valley. The model will be developed, tested, and verified and a report will be published.
+The I use of aquifer management models is a relatively riew methodology in the science of hydrology. A reliable and accurate method for decision making is essential for water managers in areas where groundwater availability may be limited by water allocation conflicts or poor water quality.
+
+GROUND WATER/SURFACE WATER RELATIONS
+
+Date Project Began:
+
+October 1987
+
+Principal Investigator: Vicente Quinones-Aponte
+
+Cooperating Agency:
+
+PRASA
+
+23
+
+Aquifer recharge and stream base-flow conditions depend on the interaction between streams and adjacent, shallow aquifers. Base-flow conditions are sustained by an elevated water table in comparison to stream stage; aquifer recharge is sustained by elevated stream stage in comparison to the water table. This information is important in formulating water-supply management criteria for the aquifer or the stream.
+Field work is being conducted in an effort to determine the ground-water/surface-water relations at two representative sites in the north- and south-coast aquifer systems. Part of the lower Rio Grande de Manati Valley is being studied as representative of the north coast stream-aquifer systems. The upper reach of the Rio Jacaguas alluvial valley in Juana Diaz is considered representative of the south coast stream-aquifer systems. The study in the Rio Grande
+
+de Manati Valley is being conducted in conjunction with the Survey's Caribbean Islands Regional Aquifer-System Analysis project.
+In the Juana Diaz area, continuous information on water levels in streams and wells was collected. Channel flow information was also obtained concurrently with streamflow data in Rio Jacaguas. A mass balance approach is being used to analyze the streamflow infiltration rates to the aquifer. In the Manati area, a network of nested observation wells was installed at three different locations within the valley. Analyses of water level fluctuations in wells is being compared with water level fluctuations in the river. A ground-water hydraulic approach is being used to analyze the surface/ground water interrelation and its significance to further ground-water development within the area. The data collection has been completed and a report is preparation.
+
+24
+
+INTER-AQUIFER WATER MOVEMENT WltHIN THE LIMESTONE AQUIFER, NORTH COAST OF PUERTO RICO
+
+Date Project Began:
+
+October 1987
+
+Principal Investigators:
+
+Angel Roman-Mas
+
+and Carlos Conde-Costas
+
+Cooperative Agencies:
+
+PRIDCO, PRDNR, and PRASA
+
+The objective of this investigation is to quantitatively demonstrate that the extraordinary decline in the potentiometric surface of the North Coast Artesian Aquifer is not the result of ground-water withdrawals through wells, but rather from interaquifer water movement through poorly grouted wells, corroded or ruptured casing, or improperly abandoned water wells. Artesian-well records and water-level information were compiled as part of the project. Pilot tests were conducted at artesian wells in two areas. Results of this investigation indicate that the principal cause of the water-level decline is leakage from the artesian aquifer into the water-table aquifer through damaged wells. Although the total amount of water being transferred is presently unknown, it is probably in excess of 10 Mgal/d. In addi-
+
+tion, it is believed that each artesian well may represent a point of water transfer.
+As part of this project all existing wells (operating and abandoned) that are screened in the artesian aquifer will be evaluated with respect to inter-aquifer transfer of water. The information gathered will define the areal extent of the inter-aquifer water movement and quantify the amount of water being transferred. This information can help well owners and water managers to reduce or minimize the water lost through leaky wells. Leaky wells can be sealed with clement grout and new production wells drilled. The information collected during this study can also guide decisions regarding drilling and screening of new production wells.
+
+MANGANESE AND IRON CHEMISTRY IN THE VALLE DE YABUCOA ALLUVIAL AQUIFER, SOUTHEASTERN PUHRTO RICO
+
+Date Project Began: Principal Investigators: Cooperating Agency:
+
+October 1987 Joseph W. Troester
+PRASA
+
+Elevated concentrations of manganese and iron which produce an objectionable taste have been observed in the water of the Valle de Yabucoa alluvial aquifer in southeastern Puerto Rico. The alluvium in the valley is composed of rocks derived from the mineralized San Lorenzo batholith, which appears to be the source of the iron and manganese. Furthermore, the alluvium contains organic swamp deposits which may control the oxidation state of iron and manganese as well as other multivalent species.
+The objectives of this study are (1) to determine the source of the iron and manganese as well as other multivalent ionic species in the Valle de Yabucoa alluvial aquifer, (2) to describe the chemical and
+
+physical processes that control the behavior of iron and minganese, and (3) to determine the location of any sources of fresh ground water in the Valle de Yabucoa alluvial aquifer that are low in iron and manganese,
+A complete well inventory in the Valle de Yabucoa was conducted. A comprehensive water-quality sampling program to document the extent of the problem is underway. Drill sites have been selected to test various chemical hypotheses for the origin of the iron and manganese concentrations and the controls upon their distribution in the ground water through space and time.
+
+VERTICAL CONTINUUM OF AQUIFER COMPRESSIBILITY AND ITS RELATION TO SPECIFIC STORAGE
+
+25
+
+Date Project Began: Principal Investigator:
+Cooperating Agency:
+
+June 1988
+Nicasio Sepulveda Alien Zack
+PRASA
+
+The purpose of this investigation is to study the range of specific storage values that can occur in an aquifer. Values of specific storage are usually assigned according to the degree of confinement of the aquifer. Artesian aquifers usually have values around 10 /ft while water table aquifers have values that usually range from 0.01 to 0.3/ft.
+A laboratory model was constructed to measure the specific storage directly from a simulated aquifer. In this model a saturated aquifer material sample is maintained at a given hydrostatic pressure while subjected to a particular effective stress provided by a dead load which simulates the weight of overburden. By reducing the hydrostatic head in the pressure cylinder, a certain quantity of water is released by compression of the aquifer matrix and some "subsidence" of the aquifer can be measured. This quantity of wa^er represents the amount of compressional storage of the sample at the prevailing effective stress and hydrostatic pressure. By varying the effective
+
+stress, measured values of specific storage for different simulated depths of burial can be obtained.
+The knowledge of the pore volume compressibility of the aquifer material, the thickness of the aquifer, and the value of the specific storage at the bottom of the aquifer uniquely determine the specific storage profile used in the model. The effects of this depthdependent specific storage profile will be studied from the type-curves obtained from the model. A turning point in the type curves would support the hypothesis of the existence of vertical differences in specific storage since the hydraulic conductivity will be kept constant throughout the model runs.
+A cross-sectional Galerkin finite element algorithm allowing a depth- dependent specific storage profile has been coded and tested for an artesian aquifer. The code was tested for the particular case of constant specific storage and the model results were compared with Theis' dimensionless analytical solutions.
+
+WATER RESOURCES OF THE RIO MAJADA AND RIO LAPA ALLUVIAL VALLEYS, SOUTH COAST, PUERTO RICO
+
+Date Project Began: Principal Investigator: Cooperating Agencies:
+
+June 1988 Orlando Ramos-Gines PREQB, and CSHES
+
+In 1986 the Puerto Rico Olympic Committee inaugurated the Albergue Olimpico, a training facility for athletes. Although water supply needs of the Albergue Olimpico are presently met from shallow aquifers in the Rio Majada alluvial valley, the development of new facilities will require additional water supplies. The purpose of this study is to determine if the alluvial aquifer in the water resources in the Rio Lapa valley can provide the additional water needed to satisfy future demands.
+
+Efforts during the first year have been directed towards (1) updating the well inventory in the area, (2) construction of two real-time surface-water stations at Rio Majada and Rio Lapa, (3) establishment of four continuous ground-water stations, (4) definition of the areal distribution in thickness of the alluvial deposits in both valleys through seismic refraction surveys and test hole drilling, and (5) sampling of the major production wells in the Albergue Olimpico.
+
+26 PUERTO RICO WATER-USE INFORMATION PROGRAM
+
+Date Project Began: Principal Investigator: Cooperating Agencies:
+
+June 1977
+Hector Colon-Ramos
+PRASA, PREQB, and PRDNR
+
+The Puerto Rico Water-Use information program was started in 1977 to place all available water-use information into a single usable format to meet the needs of Commonwealth and federal agencies. Reliable water-use information is needed by the Commonwealth agencies for the effective planning and management of the island's water resources. The objectives of the water-use program are to collect, analyze, and store water-use data and to disseminate water-use data for about 12 different water-use categories. Comprehensive reports documenting water use in Puerto Rico are available for 1980,198082, and 1984. Two additional reports, covering years 1984-85 and 1986-90 separately, are in preparation.
+
+Publications released:
+GomeZ-Gomez, Fernando, Dacosta, R., and Orona, Mj., 1983, Estimated Water Use in Puerto Rico, 19^80 U.S. Geological Survey water-use informathjrn program: U.S. Geological Survey Water Resources Division Miscellaneous Map Series.
+Torres-Sierra, H., and Aviles, A., 1986, Estimated Water Use in Puerto Rico, 1980-82: U.S. Geological Survey, Open-File Data Report 85557 (1 plate).
+G6mez-G6mez, F., Quinones, F., and Lopez, M., 1984, Public Water Supply in Puerto Rico 1983: U*S. Geological Survey, Open-File Report 84126,101 p.
+
+QUANTITATIVE ASSESSMENT OF LANDSLIDE HAZARDS IN THE RIO BLANCO, RIO CIBUCO AND RIO COAMO BASINS, PUERTO RICO
+
+Date Project Began:
+
+October 1987
+
+Principal Investigators:
+
+Matthew Larsen,
+
+Andrew Simon, and Cliff Hupp
+
+Cooperating Agency:
+
+PRPB
+
+27
+
+A three-year study of landslide potential in the Rio Blanco, Rio Cibuco and Rio Coamo basins is being conducted with the dual purpose of advising the Commonwealth of Puerto Rico on landslide potential in relation to existing and future development and creating maps showing a quantitative estimate of landslide hazard on the island. The multidisciplinary study will utilize techniques from the fields of geomorphology, soil mechanics, geophysics, ground-water hydraulics, botany, plant ecology, and climatology. The knowledge gained will be applicable to similar basins in Puerto Rico and will be the most extensive quantitative analysis to date, of landslide hazard on the island. Previous studies have been either broad and qualitative in nature or locally focused.
+A key element of the project will be the measurement of shear strength of soil on slopes with the Iowa Borehole Shear Tester. This portable tool measures resistance to shear at depths of up to 30 ft, and generates data which will give both the angle of internal friction and soil cohesion. Seismic refraction methods are being utilized to assess the thickness of soil over bedrock.
+In addition to written reports, one of the products of the investigation will be composite maps, using the Geographic Information System, showing slope stability, depth to and type of bedrock, slope angle and aspect, precipitation amount and intensity, and vegetation, as well as previous areas of slope failure.
+
+Through this computer assisted overlay of various data types, relative risk ratings can be estimated for various areas within the study basins. The maps and a final written report will be produced in 1990, the last year of the project.
+Publications released:
+Guariguata, M.R., and Larsen, M.C., 1989, Preliminary map showing locations of landslides in El Yunque quadrangle, Puerto Rico: U.S. Geological Survey Open-File Report 89-257, scale 1:20,000,1 plate.
+Larsen, M.C., 1989, Use of seismic refraction tecniques for investigating the morphology of recent landslides in a tropical rain forest in Puerto Rico: Geological Society of America, Abstracts with Programs, v. 21, no. 3, p. 46.
+Simon, Andrew, and Larsen, Matthew C., 1988, Shear strength determination and slope stability at sites in the Caribbean National Forest and Coamo area, Puerto Rico (abs.): Geological Society of America Abstracts with Programs, v. 20, no. 7, p. A144.
+
+28
+
+COMPUTER SECTION
+
+The District's minicomputer was enhanced with the upgrade from a one million instructions per second (MIPS) unit to a five MIPS unit in 1988 allowing faster processing of hydrologic data. The upgrade included an interchange of the old 630 megabytes (MB) and 300MB disk drives for three new 773MB disks which are much smaller and about three times more efficient in access time. This equipment, combined with new computer graphics devices, including a digitizer, two graphic terminals, twenty interactive
+
+terminals, and a workstation, support hydrologic investigations and the development of a new analytical tool called a Geographic Information System (GIS).
+Data communication lines have been installed to provide three cooperating agencies, the PRDNR, PRASA, and the PREQB, access to the District's minicomputer. Other agencies including agencies from the U.S. Virgin Islands, have expressed interest in tying into the District's minicomputer and may be provided access in the future.
+
+GEOGRAPHIC INFORMATION SYSTEM PROGRAM
+
+Date Project Began: Principal Investigator: Cooperating Agencies:
+
+January 1988
+Agustfn Sepulveda
+Almost all the agencies in the cooperator list
+
+The development of a Geographic Information System (GIS) in the Caribbean District has been made possible by a combined effort between several Commonwealth agencies. An analytical tool such as GIS will help in hydrologic analysis and information processing for a wide variety of water-resources investigations. GIS will store attribute information tied to geographic locations or areas having different digitized layers or categories such as land use, topography, hydrography, transportation and other types of
+
+spatially distributed data. It will also support complex hydrologic studies through its sophisticated capacity to overlay various information grids.
+Much of the data requirements for GIS consist of geographic information which can be digitized from topographic maps. The maps for Puerto Rico are currently being digitized. When this task is completec}, the digitized data will be available to cooperating agencies.
+
+29
+
+APPENDIX A
+
+PUBLICATIONS RELEASED BY THE CARIBBEAN DISTRICT FROM 1985 TO 1988
+
+Colon-Dieppa, Eloy, 1986, National water summary 1985 Hydrologic events and surface-water resources: U.S. Geological Survey Water-Supply Paper 2300, p. 399-406.
+Colon-Dieppa, Eloy, and Quinones-Marquez, Ferdinand, 1985, A reconnaissance of the water resources of the central Rio Guanajibo Valley, Puerto Rico: U.S. Geological Survey WaterResources Investigations Report 82-4050, 47 p.
+Colon-Dieppa, Eloy, and Quinones-Aponte, Vicente, 1985, Estimates of 7-day, 10-year low flow at ungaged streams in Puerto Rico: U.S. Geological Survey Water-Resources Investigations Report 84-4089,1 plate.
+Colon-Dieppa, Eloy, Diaz, P.L., and Garcia, Rene, 1985, Water resources data for Puerto Rico and the U.S. Virgin Islands, Water Year 1985: U.S. Geological Survey Open-File Report PR85-1, 400 p.
+Conde-Costas, Carlos, 1988, The effects of bat guano on the water quality of the Cueva El Convento stream in Guayanilla, Puerto Rico [abs.]: National Speleological Society, Annual Convention Program, p. 22-23.
+Conde-Costas, Carlos, and Troester, J.W., 1988, The effects of bat guano on carbonate chemistry in Cueva El Convento, Guayanilla, Puerto Rico [abs.]: National Speleological Society, Annual Convention Program, p. 34.
+Curtis, R.E., Jr., Aquino, Zaida, Diaz, P.L., and Garcia, Rene, 1988, Water resources data for Puerto Rico and the U.S. Virgin Islands, Water Year 1986: U.S. Geological Survey Open-File Report PR-86-1, 362 p.
+Curtis, R.E., Guzman-Rfos, Senen, and Diaz, P.L., 1985, Water resources data-Puerto Rico and the U.S. Virgin Islands, Water Year 1984, U.S. Geological Survey Open-File Report PR-84-1, 374 p.
+Dacosta, Rafael, and Gomez-Gomez, Fernando, 1987, Potentiometric surface of the alluvial aquifer and hydrologic conditions in the Guayama quadrangle, Puerto Rico, March 1986: U.S. Geological Survey Water-Resources Investigations Report 87-4162,1 plate.
+
+Diaz, J.R., and Jordan, D.G., 1987, Water resources of the Rio Grande de Anasco lower valley, Puerto Rico: U.S. Geological Survey Water-Resources Investigations Report 85-4237,48 p.
+Diaz, Pedro, Lugo, Ariel, and McDowcll, William, 1985. General hydrology and water quality of Layou River in Dominica, Buccament River in St. Vincent, and Troumassee River in St. Lucia, British West Indies: Symposium on Tropical Hydrology and 2nd Caribbean Islands Water Resources Congress 1985, [Proceedings] American Water Resources Association Technical Publication Series TPS-85-1, p. 46-49.
+Ellins, K.K., Roman-Mas, Angel, and Lee, Roger, 1986. Estimating ground-water influx to a portion of the Rio Grande de Manati river basin in Puerto Rico through the measurement of 222Rn: Third Caribbean Islands Water Resources Congress, [Proceedings] Symposium July 22-23, 1986 in U.S. Virgin Islands, p. 27.
+Garcia, Rene, and Canoy, Michael, 1985, Reconnaissance of ground-water quality in the Virgin Islands, July 1984: U.S. Geological Survey Open-File Data Report 84-807,1 plate.
+Gomez-Gomez, Fernando, 1987, Planning report for the Caribbean Islands regional aquifer-system analysis project: U.S. Geological Survey WaterResources Investigations Report 86-4074, 50 p.
+Gomez-Gomez, Fernando, and Torres-Sierra, Heriberto, 1988, Hydrology and effects of development on the water-table aquifer in the Vega Alta quadrangle, Puerto Rico: U.S. Geological Survey Water-Resources Investigations Report 87-4105, 54 p.
+Graves, R.P., and Gonzalez, Ralph, 1988, Potentiometric surface of the Turpentine Run basin aquifer in the Tutu area, eastern St. Thomas, September 1987: U.S. Geological Survey WaterResources Investigations Report 88-4131,1 plate.
+Guariguata, M.R., and Larsen, M.C., 1989, Preliminary map showing locations of landslides in El Yunque quadrangle, Puerto Rico: U.S. Geological Survey Open-File Report 89257, scale 1:20,000,1 plate.
+
+30
+
+Guzman-Rios, Senen, 1985, Reconnaissance of trace organic compounds in ground water throughout Puerto Rico, October 1983: U.S. Geological Survey Open-File Data Report 84-810,1 plate.
+Guzman-Rios, Senen, 1988, Hydrology and water quality of the principal springs in Puerto Rico: U.S. Geological Survey Water-Resources Investigations Report 85-4269,30 p.
+Guzman-Rios, Senen, Garcia, Rene", and Aviles, Ada, 1986, Reconnaissance of volatile synthetic organic chemicals at public water supply wells throughout Puerto Rico, November 1984 - May 1985: U.S. Geological Survey Open-File Report 86-63,1 plate.
+Johnson, Karl G., Quinones, Ferdinand, and Gonzalez, Ralph, 1987, Hydraulic analyses of water-surface profiles in the vicinity of the Coamo Dam and Highway 52 bridge, southern Puerto Rico: Flood analyses as related to the flood of October 7,1985: U.S. Geological Survey, Water-Resources Investigation Report 874039, 26 p.
+Larsen, M.C., 1989, Use of seismic refraction techniques for investigating the morphology of recent landslides in a tropical rain forest in Puerto Rico: Geological Society of America, Abstracts with Programs, v. 21, no. 3, p. 46.
+McKinley, P.W., 1985, Surface water data network analysis for Puerto Rico: U.S. Geological Survey Water-Resources Investigations Report 83-4055, 14 p.
+Peck, D.L., Troester, J.W., and Moore, J.E., 1988, Karst hydrogeology in the United States of America: U.S. Geological Survey Open-File Report 88-0476,19 p.
+Quinones, Ferdinand, and Johnson, Karl G., 1987, The floods of May 17-18, 1985 and October 6-7, 1985 in Puerto Rico: U.S. Geological Survey,' Open-File Report 87-123, 22 p.
+Quinones-Aponte, Vicente, 1986, Water resources of the lower Rio Grande de Arecibo alluvial valley, Puerto Rico: U.S. Geological Survey, Water Resources Investigations Report 85-4160, 38 p.
+Quinones-Aponte, Vicente, 1986, Simulation of ground-water flow in the Rio Yauco alluvial valley, Yauco, Puerto Rico: U.S. Geological Survey, Water-Resources Investigations Report 85-4179, 32 p.
+
+Quinones-Aponte, Vicente, 1987, Efectos de la (fanalizacion del Rio Bucana sobre los recursos <jle agua subterranea al norte del Valle de Ponce, Puerto Rico: Analisis numerico: 12th Natural Resources Symposium, San Juan, Puerto Rico, December 11-12, 1985, Puerto Rico Departihent of Natural Resources, 4 p.
+Quintmes-Aponte, Vicente, and Carrasquillo, R.A., 1986, Use of borehole neutron logs to estimate moisture content in the unsaturated zone of an alluvial aquifer: Third Caribbean Islands Water Resources Congress [Proceedings], St. Thomas, U.S. Virgin Islands, July 22-23,1986, p. 57-60.
+Quinones-Aponte, Vicente, and Gomez-Gomez, Fernando, 1987, Potentiometric surface of the alluvial aquifer and hydrologic conditions in the Salinas quadrangle, Puerto Rico, March 1986: U.S. Geological Survey Water-Resources Investigations Report 87-4161,1 plate.
+Quinones-Aponte, Vicente, and Torres-Sierra, Heriberto, 1985, Application of a ground water flow digital model in evaluating alternate dewatering systems in the Rio Grande de Arecibo alluvial valley, Puerto Rico: Symposium on Tropical Hydrology and 2nd Caribbean Islands Water Resources Congress 1985, American Water Resources Association Technical Publication Series TPS-85-1, p. 129-134.
+Quinones-Marquez, Ferdinand, 1987, El Manejo y desarrollo de las aguas superficiales y subterraneas: U.S. Geological Survey Circular 1006, p. 150-159.
+Quinones-Marquez, Ferdinand, and Alicea-Ortiz, Jose, 1985, Agua subterranea en Puerto Rico: U.S. Geological Survey Open-File Report 85642, 6 p.
+Quinones-Marquez, Ferdinand, and Guzman-Rios, S^nen, 1986, Determinaci6n de caudal y tecnicas dk muestreo en agua superficial: U.S. Geological Survey Water-Resources Investigations Report 85-89.68 p.
+Quinones-Marquez, Ferdinand, and Pena-Cruz, Gilberto, 1985, Water resources investigations in Puerto Rico and the U.S. Virgin Islands programs and activities of the U.S. Geological Survey Water Resources Division, Caribbean District 1984-85: U.S. Geological Survey OpenFjle Report 85-556, 43 p.
+
+31
+
+Roman-Mas, Angel, 1986, Role of blanket deposits on the hydrology and water chemistry of the limestone water-table aquifer within the north coast limestone of Puerto Rico through interpretation of geochemical data [abs.]: Third Caribbean Islands Water Resources Congress [Proceedings] Symposium -July 22-23, 1986, St. Thomas, U.S. Virgin Islands, p. 33.
+Roman-Mas, Angel, 1986, Role of climatic data in determining the water required, used, and supplied for irrigation in the rice-growing areas along the north coast of Puerto Rico [abs.]: Conference on Climate and Water Management - A Critical Era, American Metereological Society, August 4-7,1986, p. 1-9.
+Roman-Mas, Angel, 1988, Water required, water used, and potential water sources for rice irrigation, north coast of Puerto Rico: U.S. Geological Survey Water-Resources Investigations Report 86-4334,35 p.
+Roman-Mas, Angel, and Green, Bruce, 1987, Climatological data for the rice-growing areas along the north coast of Puerto Rico: U.S. Geological Survey Open-File Data Report 86-53,90 p.
+Roman-Mas, Angel, and Lee, R.W., 1985, Water quality and chemical evolution of ground water within the north coast limestone aquifers of Puerto Rico: Symposium on tropical hydrology and 2nd Caribbean Islands Water Resources Congress 1985, American Water Resources Association Technical Publication Series TPS-85-1, p. 57-63.
+Roman-Mas, Angel, and Lee, R.W., 1987, Geochemical evolution of waters within the north coast limestone aquifers of Puerto Rico-A conceptualization based on a flow path in the Barceloneta area: U.S. Geological Survey Water-Resources Investigation Report 86-4080, 28 p.
+Roman-Mas, Angel, and Ramos-Gines, Orlando, 1987. Elevation of the water-table surface for the alluvial aquifer and hydrologic conditions in the Santa Isabel-Juana Diaz area, Puerto Rico, March 1986: U.S. Geological Survey WaterResources Investigations Report 87-4123,1 plate.
+Roman-Mas, Angel, and Ramos-Gines, Orlando, 1988. Compilation of water-quality data for the north coast limestone aquifers, Puerto Rico, 1951
+
+to 1987: U.S. Geological Survey Open-File Data Report 87-533,133 p.
+Santiago-Rivera, Luis, and Colon-Dieppa, Eloy, 1986, National Water summary 1985 - Hydrologic events and surface-water resources: U.S. Geological Survey Water-Supply Paper 2300, p. 447-452.
+Simon, Andrew, and Larsen, Matthew C., 1988, Shear strength determination and slope stability at sites in the Caribbean National Forest and Coamo area, Puerto Rico (abs.): Geological Society of America Abstracts with Programs, v. 20, no. 7, p. A144.
+Torres-Gonzalez, Arturo, 1985, Simulation of ground water flow in the water table aquifer near Barceloneta, Puerto Rico: U.S. Geological Survey, Water-Resources Investigations Report 84-4113, 39 p.
+Torres-Gonzalez, Sigfredo, and Gomez-Gomez, Fernando, 1987, Potentiometric surface of the alluvial aquifer and hydrologic conditions in the Central Aguirre quadrangle, Puerto Rico, March, 1986: U.S. Geological Survey WaterResources Investigations Report 87-4160,1 plate.
+Torres-Sierra, Heriberto, 1985, Potentiometric surface of the upper limestone aquifer in the Dorado-Vega Alta area, north-central Puerto Rico, February 1983: U.S. Geological Survey Water-Resources Investigations Report 85-4268, 1 plate.
+Torres-Sierra, Heriberto, 1986, Estimated water use in St. Croix, U.S. Virgin Islands, 1983-1985: Puerto Rico Water Resources Association Third Caribbean Islands Water Resources Congress [Proceedings], p. 7-11.
+Torres-Sierra, Heriberto, 1987, Estimated water use in St. Croix, U.S. Virgin Islands, October 1983 September 1985: U.S. Geological Survey OpenFile Data Report 86-537,1 plate.
+Torres-Sierra, Heriberto, and Aviles, Ada, 1986, Estimated water use in Puerto Rico, 1980-82: U.S. Geological Survey Open-File Data Report 85-557, 77 p.
+Troester, J.W., 1988, U.S. Geological Survey groundwater studies in Puerto Rico: U.S. Geological Survey Water Fact Sheet, Open-File Report 88162, 2 p.
+
+32
+
+Troester, J.W., 1988, U.S. Geological Survey groundwater studies in the U.S. Virgin Islands: U.S. Geological Survey Water Fact Sheet, Open-File Report 88-163, 2 p.
+Troester, J.W., Back, William, and Mora-Castro, S.C., 1987, Karst of the Caribbean, in Graf, W.L., editor, Geomorphic Systems of North America: Geologic Society of America, DNAG (Decade of North American Geology) Centennial Special Volume Number 2, p. 347-357.
+Troester, J.W., and White, W.B., 1988, The carbonate chemistry of the Rio Camuy drainage basin, Puerto Rico: A humid tropical karst [abs.]: National Speleological Society, Annual Convention Program, 34 p.
+Troester, J.W., and White, W.B., 1988, The carbonate chemistry and hydrogeology of the Rio Camuy Drainage Basin, Puerto Rico: A Humid Tropical Karst [abs.]: Abstracts and Program Tenth Friends of the Karst, San Salvador Islands, Bahamas.
+Troester, J.W., and White, W.B., 1988, River knickpoints, uplift, and tilting in the northern karst belt of Puerto Rico [abs.]: The Geological Society of America, Denver, Colorado, v. 20, no. 7, p. A307
+Whitesides, D.V., Quinones-Aponte, Vicente, and Zack, Alien, 1985, Estimating the capacity of a
+
+salty limestone aquifer in Puerto Rico to receive, Store, and release injected freshwater using chloride mass balance: Symposium on tropical hydrology and 2nd Caribbean Islands Water Resources Congress 1985, American Water Resources Association Technical Publication Series TPS-85-1, p. 50-55.
+Alien, 1988, A well system to recover usable \^ater from a freshwater-saltwater aquifer in Puerto Rico: U.S. Geological Survey WaterSupply Paper 2328,30 p.
+Zack^ Alien, 1986, Effects of sand removal on the Shallow aquifer in the vicinity of the Camuy rhangrove forest, Puerto Rico: Third Caribbean Islands Water Resources Congress [Proceedings], St. Thomas, U.S. Virgin Islands, July 22-23,1986, p. 41-48.
+Zackj Alien, and Roman-Mas, Angel, 1988, Hydrology of the Caribbean Islands wetlands [abs.J: Forestry & Wildlife Management Institute, University of Massachussetts at Ainhcrst, Caribbean Islands Wetlands Workshop, October 28-29, 1986.
+Zack, Alien, Rodriguez-Alonso, Teresita, and Roman-Mas, Angel, 1987, Puerto Rico groundwater quality: U.S. Geological Survey Open File Report 87-749, 8 p.
+
+33
+
+APPENDIX B
+
+SURFACE-WATER SITES
+
+[mi2, square miles; Lat., latitude; Long., longitude; Date Began, date the station was installed; Recorder Type,
+
+type of recorder on site; IND., indeterminate; D, digital recorder; *D, DCP and digital recorder; MGD,
+
+manometer, graphic and digital recorders; *MGD, DCP, manometer, graphic and digital recorders; CSG,
+
+crest-stage gage and partial record station]
+
+Station
+
+Name
+
+Drainage Lat.
+
+Long. Date Recorder
+
+Number
+
+Area
+
+Began
+
+Type
+
+(mi2)
+
+ACTIVE RECORDING STATIONS IN PUERTO RICO AS OF 12/31/88
+
+50010600 50011200 50011400 50014800 50015700
+
+Rib Guajataca above Lago de Guajataca Rib Guajataca below Lago de Guajataca Ri'o Guajataca above mouth nr. Quebrada Rib Camuy near Bayaney Rio Camuy near Hatillo
+
+50020100 50027750 50028000 50028400 50031200
+
+Lago Garzas near Adjuntas Rib Grande de Arecibo above Arecibo Rio Tanama near Utuado Rib Tanama at Charco Hondo Rib Grande de Manatf near Morovis
+
+50032290 50032590 50035000 50038100 50038320
+
+Lago El Guineo at damsite Lago Matrullas at damsite Rib Grande de Manatf at Ciales Rib Grande de Manati' Hwy. 2 nr. Manari Rib Cibuco below Corozal
+
+50039500 50043000 50046000 50047550 50047850
+
+Rib Cibuco at Vega Baja Rib de la Plata at Proy. La Plata Rib de la Plata at Hwy. 2 nr. Toa Alta Lago Cidra at damsite near Cidra Rib de Bayamon near Bayamon
+
+50048770 50049000 50049100 50049300 50050900
+
+Rib Piedras at El Senorial Rib Piedras at Rib Piedras Rib Piedras at Hato Key Quebrada Josefina at Puerto Nuevo Rib Grande de Loiza at Quebrada Arenas
+
+50051150 50051180 50051310 50053050 50055000
+
+Quebrada Blanca at El Jagual Quebrada Salvatierra nr. San Lorenzo Rio Cayaguas at Cerro Gordo Rib Turabo at Borinquen Rib Grande de Loiza at Caguas
+
+IND. 181957 IND. 182401 IND. 182831 IND. 182348 IND. 182744
+
+15.6 180820 140 182529 18.4 181802 57.6 182452 55.2 181745
+
+1.64 4.46 128 197 15.1
+
+180941 181245 181926 182552 182113
+
+99.1 54.8 200 8.26 41.8
+
+182653 180937 182350 181157 182008
+
+7.49 182151 12.5 182348 15.4 182432 3.66 182432 6.00 180710
+
+3.25 180939 3.74 181024 10.2 180927 7.89 181010 89.8 181433
+
+665529 665540 665746 664854 664956
+
+071184 081269 072569 052384 061984
+
+664429 664144 664658 664252 662447
+
+022188 060782 120159 022869 010165
+
+663134 662846 662736 663137 662007
+
+051688 051688 100160 012370 050169
+
+662229 661344 661517 660829 660813
+
+011273 040160 010160 020888 060788
+
+660356 660324 660410 6604^32 655922
+
+032588 111387 012588 022288 100177
+
+655856 655838 655729 660237 660034
+
+091184 050184 091577 122183 120159
+
+MGD D D
+MGD MGD
+*D MGD
+D D
+*D *D *MGD *MGD *MGD
+*MGD *MGD
+MGD D
+MGD
+MGD 'MGD MGD
+D MGD
+D D MG D MGD
+
+34
+
+50056400 50056900 50057000 50059000 50059050
+
+Rio Valenciano near Juncos Quebrada Mamey near Gurabo Rib Gurabo at Gurabo Lago Loiza at damsite Rio Grande de Loiza below damsite
+
+50061800 50063440 50063500 50063800 50065500
+
+Rib Canovanas at Campo Rico Quebrada Sonadora near El Verde Quebrada Toronja at El Verde Rfo Espiritu Santo near Rib Grande Rib Mameyes near Sabana
+
+50067000 50071000 50075000 5008100 50092000
+
+Rib Sabana at Sabana Rib Fajardo near Fajardo Rib Icacos Near Naguabo Rio Humacao at Las Piedras Rib Grande de Patillas near Patillas
+
+50106100 50108000 50111500 50112500 50114390
+
+Rib Coamo at Coamo Rib Descalabrado near los Llanos Rio Jacaguas at Juana Diaz Rib Inabon at Real Abajo Rib Bucana at Hwy 14 near Ponce
+
+50115000 50124200 50130200 50136400 50138000
+
+Rib Portugues near Ponce Rib Guayanilla near Guayanilla Quebrada Mamey at Joyuda Rib Rosario near Hormigueros Rib Guanajibo near Hormigueros
+
+Rib Grande de Anasco near San Sebastian Rio Culebrinas at Hwy. 404 near Moca
+
+16.4 2.30 60.2 208 205
+
+181408 181452 181530 181949 182033
+
+c .84 181908 1 .04 181927 .19 181946 g .62 182137 6 .88 181946
+
+3.96 181952 lj.9 181756 j.26 181638 $.65 181027 18.3 180204
+
+43.5 180500 12.9 180308 49.8 180316 9.70 180510 24.9 180229
+
+$.82 1S.9
+.38 16.4 120
+
+180445 180240 180751 181022 180836
+
+94.3 181705 7i.2 182142
+
+655212 655645 655805 660100 660020
+
+012871 122983 100159 122987 021987
+
+655321 654906 654916 654849 654504
+
+032867 032983 040783 080166 080167
+
+654352 654142 654709 655211 660158
+
+102679 040161 100179 122987 010166
+
+662116 662534 663040 663346 663458
+
+050587 021784 041484 070164 081287
+
+663801 664753 671009 670431 670857
+
+070164 022470 112685 051475 011673
+
+670305 670533
+
+040163 071267
+
+MOD D MGD 'D
+*MGD
+MGD D D D
+MGD
+MGD *MGD
+D MGD *MGD
+*MGD D
+*MGD *MGD *MGD
+*MGD *MGD
+D *MGD *MGD
+*MGD MGD
+
+ACTIVE RECORDING STATIONS IN U.S. h/IRGIN ISLANDS AS OF 12/31/88
+
+50252000 50276000 50295000 50345000
+
+Bonne Resolution Gut at B.R., St. Th. Turpentine Run at Mariendal, St. Th. Guinea Gut at Bethany, St. John Jolly Hill Gut at Jolly Hill, St. Croix
+
+Q.49 182157 2.97 181948 i.37 181955 f.10 174400
+
+645734 645258 644650 645147
+
+112562 010163 010163 010163
+
+MGD D D
+MGD
+
+ACTIVE RECORDING STATIONS IN WEST INDIES AS OF 12/31/88
+
+135022060572400 152450061234400
+
+Troumassee Rivej at Mahaut, St. Lucia Layou River at L. Valley, Dominica
+
+^.44 135022 27.1 152450
+
+605764 030884 612344 031584
+
+D D
+
+ACTIVE CREST STAGE STATION IN PUERTO RICO AS OF 12/31/88
+
+50106500 Rib Coamo near Coamo
+
+4^.0 180352
+
+662210 022484
+
+CSG
+
+35
+
+APPENDIX C
+
+WATER-QUALITY SITES
+
+[Lat., latitude; Long., longitude; Began, date the station was installed; P, Pollution; *, Pesticide; A, National Ambient Monitoring Program (NAMP, & Lakes); N, National Stream Quality Accounting Network (NASQAN); S/D, continuing sediment station (daily); S/W, continuing sediment station (weekly)]
+
+Station
+
+Name
+
+Lat.
+
+Long.
+
+Began
+
+Data
+
+Number
+
+Type
+
+ACTIVE STATIONS IN PUERTO RICO AS OF 12/31/88
+
+50010500 50010720 50010790 50011000 50011400
+
+Rib Guajataca at Lares Lago Guajataca No.3 nr Mouth nr Quebradillas Lago Guajataca No.l nr dam nr Quebradillas Canal Diversion at Lago Guajataca Rib Guajataca near Quebradillas
+
+181801 182205 182356 182402 182831
+
+665224 665436 665523 665525 665746
+
+1975 P 1980 A 1980 A* 1975 P 1969 P
+
+50020050 50020500 50025000 50025110 50026050
+50027090 50027250 50028000 50029000 50030700
+
+Lago Garzas No.l near dam near Adjuntas Rib Grande de Arecibo near Adjuntas Rib Grande de Arecibo near Utuado Lago Dos Bocas No.3 at west branch nr Utuado Rib Caonillas above Lago Caonillas
+Lago Dos Bocas No.l nr dam nr Utuado Rib Grande de Arecibo bl Dos Bocas nr Florida Rib Tanama near Utuado Rib Grande de Arecibo at Central Cambalache Rib Orocovis near Orocovis
+
+180821 181054 181811 181915 181326
+
+664435 664412 664159 664011 663822
+
+182009 182050 181802 182720 181420
+
+664004 664002 664658 664210 662258
+
+1980 A 1979 P 1979 P 1980 A 1979 P
+1980 A* 1975 P 1975 P.S/W 1969 P* 1979 P
+
+50031200 50035500 50035950 50038100 50038200
+
+Rib Grande de Manati'near Morovis Rib Grande de Manatf at I Iwy. 149 at Ciales Rib Cialitos at Hwy. 649 at Ciales Rib Grande de Manatf at Hwy 2 near Manatf Laguna Tortuguero outlet near Vega Baja
+
+181745 182046 182018 182552 182829
+
+662447 662806 662828 663137 662650
+
+1979 P 1976 P 1975 P 1969 A,N* 1964 A
+
+50038320 50039500 50039900 50039950 50043000
+
+Rib Cibuco below Corozal Rib Cibuco at Vega Baja Lago Carite No.3 on Rib La Plata near Cayey Lago Carite No.l near dam near Cayey Rib de la Plata at Proyecto La Plata
+
+182113 182653 180504 180439 180937
+
+662007 662229 660603 660619 661344
+
+1975 P 1975 P 1980 A 1980 A* 1975 P
+
+50044000 50044400 50044850 50044950 50046900#
+
+Rib de la Plata near Comerfo dam Lago La Plata No.5 near Naranjito Rib Guadiana near Naranjito Lago La Plata No.3 near Naranjito Rib de la Plata at Toa Alta
+
+181433 181933 181839 182018 182441
+
+661228 661228 661328 661401 661539
+
+1979 P
+1980 A
+1979 P 1980 A* 1958 N*
+
+50047600 50047990 50047530 50048510 50048800
+
+Rib de Bayamon near Aguas Buenas Rib Guaynabo near Bayamon Rib Hondo at Flood Channel near Catano Rib de Bayamon at Bayamon Flood Channel Rib Piedras near Rib Piedras
+
+181439 182232 182613 182439 182215
+
+660839 660759 660950 660909 660340
+
+1974 P
+1975 P
+1979 P 1974 P* 1972 P*
+
+36
+
+50049100 50049820 50049920 50050300 50055000
+
+Rib Piedras at Hato Rey Laguna San Jose" No. 2 Bahi'a de San Juan No. 5 Quebrada Blasina near Carolina Rib Grande de Loiza at Caguas
+
+50055250 50055400 50057025 50057500 50058800
+
+Rib Cagiiitas at Hwy 30 at Caguas Rib Bairoa near Caguas Rib Gurabo near Gurabo Lago Loiza No. 4 near mouth near Caguas Lago Lofza No. 7 near dam near Trujillo Alto
+
+50059000 50059100 50063800 50071000 50072500
+
+Lago Loiza at dam site Rib Grande de Lofza below Trujillo Alto Rib Espiritu Santo near Rib Grande Rio Fajardo near Fajardo Rib Fajardo below Fajardo
+
+50082000 50083500 50086500 50091000 50091800
+
+Rib Humacao at Hwy 3 at Humacao Rib Guayanes near Yabucoa Rib Guayanes at Playa Guayanes Rib Maunabo at Maunabo Rib Chico at Providencia
+
+50092000 50106500 50114000 50115000 50116200
+
+Rib Grande de Patillas near Patillas Rib Coamo near Coamo Rib Cerrillos near Ponce Rib Portugues near Ponce Rib Portugues at Ponce
+
+50124700 50129700 50133600 50136400 50138000
+
+Rio Guayanilla at Central Rufina Rib Loco at Guanica Rib Guanajibo near San German Rib Rosario near Hormigueros Rib Guanajibo near Hormigueros
+
+50138800 50143000 50144000 50146000 50147600
+
+Rib Yagiiez near Mayaguez Rib Grande de Anasco near Lares Rib Grande de Anasco near San Sebastian Rib Grande de Anasco above Rib Canas nr Anasco Rib Culebrinas near San Sebastian
+
+50149100 Rib Culebrinas near Aguada
+
+#Previously 50046000
+
+182434 182550 182637 182327 184535
+
+660410 660212 660516 655828 660035
+
+181511 181528 181556 181556 181929
+
+660126 660213 655904 655904 660047
+
+181949 182135 182137 181756 181935
+
+660100 660015 654849 654142 653847
+
+184938 180333 180353 180024 175916
+
+654938 655403 654944 655419 660018
+
+180204 180352 180422 180445 180020
+
+660158 662210 663453 663803 663628
+
+180050 175833 180718 180936 180836
+
+666704 665452 670356 670508 670857
+
+181231 181528 181700 181600 182051
+
+670707 665505 670302 670805 670240
+
+182403 670940
+
+1971 P 1974 A 1974 A 1972 P 1972 P
+1972 P 1979 P 1979 P 1979 A 1980 A*
+1974 A 1980 P 1979 P 1961 P* 1975 P
+1969 P 1979 P* 1972 P 1975 P 1979 P
+1960 N 1979 P 1964 P 1975 P 1975 P*
+1975 P* 1975 P* 1979 P 1979 P,S/D 1969 P*
+1979 P 1976 P 1963 N 1979 P* 1979 P
+1969 P*
+
+APPENDIX D
+
+GROUND-WATER SITES
+
+[Lat., latitude; Long., longitude; *, well equipped with recorder]
+
+Local Well Number
+
+Station Name
+
+Lat. Long.
+
+ACTIVE WELLS NETWORK IN PUERTO RICO AS OF 12/31/88
+
+* 6 Juana 5 *70 Sabana Hoyos *83 San Sebastian Well *87 Alomar 1 *96 Yabucoa 7
+
+175858 182647 182018 175829 180415
+
+661002 662017 665932 662322 655139
+
+*132 PPG 4 or Yauco 2 *143 Vivoni - Col. Amistad *165 Mateo Perez-Saltos #1 *200 Aguadilla Cement Well *202 Carmelo Barreto
+
+180133 180132 182422 182442 182647
+
+665033 670338 670151 670917 665524
+
+*204 Gilberto Rivera *205 NC-5 Barceloneta *206 Plazuela No. 2 *207 Cantito La Luisa *210 Gelo Martinez
+
+182737 182544 182757 182710 182308
+
+663709 663415 663256 663037 662604
+
+*211 Rosario No. 3 *212 Ponderosa TW-1 *213 Pampano No. 2 *214 Dorado Beach No. 7 *216 Pozo Navy
+
+182615 182515 182330 182746 182530
+
+662353 661940 661857 661708 661354
+
+*217 Monserrate *218 Levittown No. 7 *219 Fort Buchanan No. 1 *220 Parque San Luis Rey *221 Hyde Park TW-10
+
+182655 182623 182441 182413 182436
+
+661424 661110 660826 660440 660312
+
+37
+
+38
+
+*222 Campo Rico TW-1 * HW-TW-01 * HW-TW-02 * HW-TW-03 * HW-TW-04
+* HW-TW-05B * HW-TW-07 * HW-TW-08 * HW-TW-10 * HW-TW-11
+* HW-TW-13 * HW-TW-14 * HW-TW-15
+
+182515 180002 180017 180001
+fisoooo
+175947 180006 175939 175950 180012
+175957 175946 175955
+
+6:>:wi
+661322 661321 661220 661252
+661306 661237 661214 661252 661255
+661234 661020 661030
+
+ACTIVE WELLS IN ST. CROIX, U.S. VIRGIN ISLANDS AS OF 12/31/88
+
+1 Fairplains 6
+
+174225
+
+2
+
+*Fairplains 2/USGS 10
+
+174225
+
+3 * Golden Grove 6 174243
+
+4 Golden Grove 1
+
+174245
+
+6 *Adventure 28
+
+174303
+
+644719 644720 644751 644758 644844
+
+7 Concordia 14 8 Concordia 1 9 Concordia 7 10 Barren Spot 5
+
+174525 174527 174532 174329
+
+644606 644601 644603 644547
+
+ACTIVE WELLS IN ST. THOMAS, U.S. VIRGIN ISLANDS AS OF 12/31/88
+
+1 Family Well/USGS-8 2 Mahogany Run 15 3 Mahogany Run 16 4 Mahogany Run 17 5 Donoe 3
+
+182050 182138 182138 182136 182029
+
+645804 645431 645425 645419 645352
+
+* Grade School 3
+
+182038
+
+645503
+
+ACTIVE WELLS IN ST. JOHN, U.S. VIRGIN ISLANDS AS OF 12/31/88
+
+1 NPS2/CruzBay
+
+182010
+
+2 NFS 5/Trunk Bay
+
+182109
+
+3
+
+*NPS 6/Cinnamon Bay
+
+182116
+
+5
+
+*DPW 6/Sussanaberg
+
+182042
+
+6 DPW 5/Sussanaberg
+
+182044
+
+644726 644603 644510 644545 644546
+
+7 DPW4/Sussanaberg 8 DPW 3/Sussanaberg 9 DPW 2/Sussanaberg 10 DPW 1/Sussanaberg 11 *GuineaGut
+
+182044 182044 182044 182044 181956
+
+644548 644549 644550 644552 644645
+
+39
+
+

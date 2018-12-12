@@ -1,0 +1,1946 @@
+GROUND-WATER FLOW AND SOLUTE TRANSPORT AT A MUNICIPAL LANDFILL SITE ON LONG ISLAND, NEW YORKPART 2: SIMULATION OF GROUND-WATER FLOW by Eliezer J. Wexler and Paul E. Maus U.S. GEOLOGICAL SURVEY Water-Resources Investigations Report 86-4106
+Prepared in cooperation with the TOWN OF BROOKHAVEN
+Syosset, New York 1988
+
+UNITED STATES DEPARTMENT OF THE INTERIOR DONALD PAUL HODEL, Secretary
+GEOLOGICAL SURVEY Dallas L. Peck, Director
+
+For additional information write to:
+U.S. Geological Survey 5 Aerial Way Syosset, NY 11791 Telephone: (516) 938-8830
+
+Copies of this report may be purchased from:
+U.S. Geological Survey Books and Open-File Reports Federal Center, Bldg. 41 Box 25425 Denver, CO 80225 Telephone: (303) 236-7476
+ii
+
+CONTENTS
+
+Page
+
+Abstract. ............................... Introduction. .............................
+Purpose and scope. ........................ Location of study area ...................... Previous investigations. ..................... Acknowledgments. ......................... Geohydrology. ............................. Lloyd aquifer and Raritan clay .................. Magothy aquifer. ......................... Monmouth greensand ........................ Gardiners Clay .......................... Upper glacial aquifer. ...................... Ground-water flow system. ....................... Recharge .............................
+Precipitation and evapotranspiration. ............ Other sources of ground-water recharge. ........... Discharge. ............................ Seepage to streams. .....................
+Caimans River. ..................... Swan River ....................... Beaverdam Creek. .................... Yapahank Creek ..................... Little Neck Run. .................... Motts Brook. ...................... Other streams. ..................... Pumpage ........................... Ground water in the upper glacial aquifer. ............ Water-table altitudes in September 1982 ........... Ground water in the Magothy aquifer. ............... Water budget ........................... Simulation of ground-water flow .................... Theoretical background ...................... Model design ........................... Application of boundary conditions ................ Prescribed-head boundaries. ................. Head-dependent flux boundary. ................ Prescribed-flux boundaries. ................. Recharge boundary. ................... Freshwater-saltwater interface ............. Aquifer properties ........................ Points of recharge and discharge ................. Pumpage and redistribution of ground water. ......... Ground-water discharge to streams .............. Model calibration. ........................ Simulated water-table altitudes ............... Simulated water budget. ................... Ground-water velocities near the Brookhaven landfill site. .... Summary and conclusions ........................ References cited. ...........................
+
+1 1 2 2 3 5 5 6 8 8 8 10 12 13 13 14 15 15 17 17 17 17 17 17 17 18 18 18 20 22 24 24 26 28 28 28 29 29 29 30 30 30 30 31 32 32 34 37 38
+
+iii
+
+ILLUSTRATIONS
+
+Page
+
+Figure 1. Hap showing location of study area surrounding Brookhaven landfill site .......................
+
+3
+
+2. Hap showing major geographic features of the modeled area . 4
+
+3. Generalized north-south hydrogeologic section through the Town of Brookhaven showing relative positions of principal aquifers and confining units. ...............
+
+6
+
+4. Hap showing thickness of confining units (Gardiners Clay and Honmouth greensand) beneath upper glacial aquifer in study area. ........................
+
+9
+
+5. Hap showing configuration of base of upper glacial aquifer in study area ....................... 11
+
+6. Generalized north-south hydrogeologic section of the ground-water system south of the regional ground-water divide showing pattern of ground-water flow ........
+
+12
+
+7. Five-year hydrographs of four observation wells in study area, 1979-83 ....................... 20
+
+8. Map showing potentiometric surface of llagothy aquifer in study area, September 1982. ................ 21
+
+9. Hap showing area considered in water-budget analysis. ... 23
+
+10. Diagram showing components and rates of flow in waterbudget area as determined from water-budget analysis. ... 24
+
+11. Hap showing finite-element grid used to represent the study area. ........................ 27
+
+12. Hap showing simulated and observed (September 1982) watertable configuration .................... 33
+
+13. Diagram showing components and rates of flow in waterbudget area as determined by calibrated model ....... 35
+
+14. Plots showing (A) simulated ground-water velocity, and (B) direction of ground-water flow in the upper glacial aquifer downgradient from Brookhaven landfill site. ....
+
+36
+
+iv
+
+TABLES
+Page Table 1. Principal aquifers and confining units underlying Town of
+Brookhaven. ......................... 7 2. Annual, average monthly, and average annual precipitation at
+Patchogue and Upton ..................... 13 3. Sewage-treatraent-plant discharge to ground water in study
+area, 1981. ......................... 14 4. Average base flow at partial- and continuous-record stations
+in study area ........................ 16 5. Public-supply and industrial purapage in study area, 1981. . . 18 6. Streara-stage-measurement sites used in study. ........ 19 7. Initial and final values of hydraulic conductivity used in
+steady-state flow model ................... 32 8. Simulated inflows to and discharges from study area ..... 34 9. Description of observation wells in study area. ....... 41
+PLATES
+(in pocket) Plate 1. Map showing locations of all hydrologic data points in study
+area. 2. Map showing water-table altitude in study area, September
+1982.
+
+CONVERSION FACTORS AND ABBREVIATIONS
+
+For the convenience of readers who prefer metric (International System) units rather than the inch-pound units used in this report, the following conversion factors may be used:
+
+Multiply Inch-Pound Units
+
+To Obtain Metric Units
+
+25.40 0.3048 1.609
+
+millimeter (mm) meter (m) kilometer (km)
+
+acre square foot (ft^) square mile
+
+Area
+0.4047 0.09294 2.590
+
+hectare square meter (m^) square kilometer (knr)
+
+gallon (gal)
+
+Volume 3.785
+
+liter (L)
+
+foot per second (ft/s) foot per day (ft/d) cubic foot per second
+(ft3/ s ) gallon per minute (gal/min) gallon per day (gal/d) million gallons per day
+(Mgal/d)
+
+Flow
+0.3048 0.3048
+0.02832 0.06308 0.003785
+0.04381
+
+meter per second (m/s) meter per day (m/d) cubic meter per second
+(m3 /s) liter per second (L/s) cubic meter per day (m-^/d) cubic meter per second
+(m3/s)
+
+National Geodetic Vertical Datum of 1929 (NGVD of 1929); A geodetic datum derived from a general adjustment of the firstorder level nets of both the United States and Canada, formerly called "mean sea level."
+
+vi
+
+Ground-Water Flow and Solute Transport at a Municipal
+Landfill Site on Long Island, New YorkPart 2: Simulation of Ground-Water Flow
+Abstract
+Hydrogeologic data were collected from a 26-square-mile area surrounding a municipal landfill site in the Town of Brookhaven, New York, as part of an investigation of solute transport from the site. These data were used to develop a steady-state ground-water flow model of the upper glacial (water-table) aquifer in the area. The model accounts for leakage through confining units underlying the aquifer, seepage to streams, recharge from precipitation, and pumpage and redistribution of ground water. Refined estimates of aquifer and confining-unit properties were obtained through model calibration.
+The model was calibrated by matching predicted water-table altitudes to measured water-table altitudes of September 1982, when streamflow and water levels were close to long-term average values. The best match was achieved with a horizontal hydraulic conductivity of 200 feet per day (ft/d) for the upper glacial aquifer and a vertical hydraulic conductivity of 7 x 10~3 ft/d for the confining unit. Flows across the model boundaries, calculated as part of the calibration procedure, compared favorably with estimates obtained from a waterbudget analysis of the area.
+Ground-water velocities and probable flow paths in the site vicinity were calculated from water levels generated by the calibrated model. Ground water at the center of the site flows southeastward at 1.1 ft/d.
+This report is the second in a three-part series describing the hydrogeologic conditions and ground-water quality, ground-water flow, and solute transport in the landfill site vicinity.
+INTRODUCTION
+The Town of Brookhaven, in central Suffolk County, N.Y., operates a sanitary landfill within the 180-acre Brookhaven landfill site in the south-central part of the Town (fig. 1). Disposal of municipal solid waste began in 1974, and by 1983, the sanitary landfill covered 60 acres of the site. The bottom of the sanitary landfill is lined with a polyvinyl chloride (PVC) membrane 0.02 in. thick.
+Recent studies have shown that landfill leachate has degraded the quality of ground water near several sanitary landfills on Long Island (Kimmel and Braids, 1980; Padar, 1983). In 1981, the U. S. Geological Survey, in cooperation with the Town of Brookhaven, began a hydrologic investigation of the Brookhaven landfill site and vicinity. The overall objective of the study was to develop a digital solute-transport model that would allow an evaluation
+
+of solute transport associated with landfill leachate that has entered the underlying aquifer.
+The investigation consisted of three phases; results are described in three reports. In the first phase, hydrologic, geologic, and water-quality data were collected within a 4-mi^ area centered around the landfill site. Part 1 of this series (Wexler, 1987a) describes that phase of the investigation and delineates the extent of a leachate plume emanating from the sanitary landfill despite the PVC liner.
+The second phase of the investigation, described herein (part 2 of the series), entailed the development and calibration of a steady-state ground-water flow model to evaluate the ground-water flow system in the 26-mi^ area surrounding the Brookhaven landfill site (fig. 1). The size of the area to be studied was determined by the location of the natural hydrogeologic boundaries closest to the site. The major geographic features of the study area are shown in figure 2.
+The purpose of the modeling effort was twofold. First, development and calibration of the model would yield refined estimates of aquifer and confining-unit properties and of flows across the model boundaries, and second, the calibrated model could be used to determine the rates and direction of ground-water flow downgradient of the site under long-term average hydrologic conditions. These data were used in the third phase of the investigation, which entailed development of a predictive solute-transport model, described in part 3 of this series (Wexler, 1987b).
+Purpose and Scope
+This report (1) describes the ground-water flow system and presents initial estimates of aquifer and confining-unit properties, rates of groundwater discharge within the study area, and rates of flow across the boundaries of the area; (2) explains the development and calibration of the steady-state two-dimensional ground-water flow model; and (3) presents results of model simulations, including steady-state water-table altitudes and average ground-water velocities and flow paths from the landfill site.
+Location of Study Area
+The study area (figs. 1 and 2) is bounded on the west by the Swan River, to the east by the Carmans River, and on the south by Bellport and Patchogue Bays. The northern boundary of the study area (which does not represent a hydrologic boundary) is defined by a line extending northeast from the headwaters of the Swan River to the downstream end of Lower Lake on the Carmans River (fig. 2). The Brookhaven landfill site, on Horseblock Road in Brookhaven hamlet, is in the center of the study area.
+Land use in the study area is primarily residential; the highest residential density is in the western part. Much of the land in the eastern part remains undeveloped and consists mostly of scrub oak and pitch pine forest. The area also contains some agricultural land and light industry; commercial development has taken place mostly along Hontauk Highway and South
+
+Country Road (fig. 2). Preserved areas include Southhaven Park at the northeastern boundary, owned by Suffolk County, a New York State wetland area in the southeastern corner, and the Wertheim National Wildlife Refuge, just beyond the eastern boundary (fig. 2).
+
+Previous Investigations
+Early hydrogeologic investigations of Long Island that encompassed the general study area include a study of the ground-water resources by Veatch and others (1906) and a study of the geology by Fuller (1914). Suter and others (1949) mapped the geologic formations and aquifers of Long Island.
+
+73°00'
+
+72° 47'
+
+LONG ISLAND SOUND
+
+TOWN OF BROOKHAVEN
+
+TOWN OF RIVERHEAD
+
+Water-budget area shown in fig. 9
+
+Upton Precipitation Station and Brookhaven National Laboratory
+Area shown in subsequent maps
+
+TOWN OF ISLIP
+Patchogue Precipitation
+Station
+
+GREAT SOUTH BAY
+
+| ATLANTIC OCEAN
+
+Base from N.Y.S. Department of Transportation, Bellport, 1981 ; Howells Point, 1981, NY, 1:24,000
+Figure 1. Location of 26-mi 2 study area surrounding Brookhaven landfill site,
+
+73° (XT 40° r 5V I
+
+Siegfield Park
+
+Upper Lake
+
+Yapahank
+Lower Lake
+
+72°52'30"
+
+Wertheim National Wildlife Refuge
+Base from N.Y.S. Department of Transportation, Bellport, \98:, Howells Point, 19B1, NY, V24.000
+Figure 2. Major geographic features of the modeled area. (Location is shown in fig. 1.)
+
+More recent studies of the hydrologic system of Long Island include Franke and McClymonds (1972) and Cohen and others (1968). Miller and Frederick (1969) discussed the precipitation regime of Long Island. Nakao and Erlichman (1978) and Donaldson and Koszalka (1983b) compiled water-table maps of Long Island, and Prince (1976) and Donaldson and Koszalka (1983a) compiled potentiometric-surface maps of the Magothy aquifer.
+Streamflows, ground-water levels, and water-quality data are collected regularly by the U.S. Geological Survey and cooperating agencies. These data are published annually by the U.S. Geological Survey.
+Studies dealing specifically with Suffolk County include a compilation of hydrogeologic data from wells (Jensen and Soren, 1971) and maps of the surface and subsurface geology of Suffolk County (Jensen and Soren, 1974). Krulikas (1981) compiled additional data on wells drilled in Suffolk County during 1972-80.
+The Geological Survey studied the hydrogeology of the Brookhaven National Laboratory (fig. 1) and the surrounding area during 1948-55; that investigation covered the central part of Suffolk County and included most of the study area referred to herein. De Laguna (1963) described the stratigraphy of central Suffolk County and discussed the water-bearing properties of the geologic units; Warren and others (1968) described the hydrology of the area and presented data on climate, precipitation, evapotranspiration, ground-water flow and streamflow.
+Models of the regional ground-water flow system of Long Island were developed by Getzen (1977) and Reilly and Harbaugh (1980). Reilly and others (1983) describe the use of subregional models to analyze the effects of sanitary sewers in parts of southern Nassau and Suffolk Counties on ground-water levels and discharge to streams.
+Acknowledgments
+The authors thank Herbert Buxton, Thomas Reilly, and Keith Prince of the U.S. Geological Survey for their advice during the model-development phase of this study.
+GEOHYDROLOGY
+Long Island is underlain by Pr.ecambrian bedrock that dips gently southward. Bedrock-surface altitude in the center of the study area is about 1,700 ft below sea level (Jensen and Soren, 1974). Overlying the bedrock is a series of unconsolidated deposits that form Long Island's principal aquifers and confining units. Major characteristics of the hydrogeologic units in the study area are summarized in table 1 and shown in section in figure 3. The major water-bearing units on the island, which are continuous throughout the study area, are the Lloyd and Magothy aquifers of Cretaceous age and the upper glacial aquifer of Pleistocene age, which is the aquifer of primary concern in this study. A discussion of the hydrologic properties of the principal aquifers and confining units is given in the following sections.
+
+400
+tu
+LLJ UJ
+-1000 -
+
+-2000 -
+
+Vertical exaggeration X 20
+
+Figure 3. Generalized north-south hydrogeologie section through the Town of Brodkhaven showing relative positions of the principal aquifers and confining units. (Modified from Jensen and Soren 3 1974.)
+
+Lloyd Aquifer and Raritan Clay
+The Lloyd aquifer in the Cretaceous Lloyd Sand Member of the Raritan Formation rests directly on the bedrock surface and is effectively confined by the clay member of the Raritan Formation. In the center of the study area, the Lloyd aquifer and Raritan clay are approximately 300 ft and 200 ft thick, respectively (Jensen and Soren, 1974).
+Few data are available on the properties of the Lloyd aquifer and Raritan clay because no wells have penetrated these units in the modeled area. McClymonds and Franke (1972) estimate the average hydraulic conductivity of the Lloyd aquifer in south-central Suffolk County to be 36 ft/d. The vertical hydraulic conductivity of the Raritan clay is estimated to average 0.001 ft/d (Franke and Cohen, 1972).
+Recharge to the Lloyd aquifer takes place mostly within a narrow zone along the regional ground-water divide (fig. 1). Water in the Lloyd eventually discharges to the ocean south of the study area. The amount of downward leakage through the Raritan clay in the study area is extremely small; therefore, the effect of leakage to the Lloyd aquifer on ground-water flow in the overlying aquifers was not addressed in this study.
+
+Table 1. Principal aquifers and confining unite underlying Town of Brookhaven.
+
+[Modified from Jensen and Soren, 1971]
+
+Hydrogeologic unit
+
+Geologic unit
+
+Approximate thickness (ft)
+
+Description and water-bearing character
+
+Upper glacial aquifer
+
+Upper Pleistocene deposits
+
+0 - 750 Mainly brown and gray sand and gravel of medium to high hydraulic conductivity; also includes deposits of clayey till and lacustrine clay of low hydraulic conductivity. A major aquifer and source of water for the study area.
+
+Gardiners Clay
+
+Gardiners Clay
+
+0 - 75 Green and gray clay, silt, clayey and silty sand, and some interbedded clayey and silty gravel. Unit has low hydraulic conductivity and tends to confine water in underlying aquifer.
+
+Monmouth greensand
+
+Monmouth Group
+
+0 - 200 Interbedded marine deposits of dark gray, olive-green, dark greenish-gray, and greenish-black glauconitic and lignitic clay, silt, and clayey and silty sand. Unit has low hydraulic conductivity and tends to confine water in underlying aquifer.
+
+Magothy aquifer
+
+Matawan Group and Magothy Formation, Undifferentiated
+
+0 - 1,100
+
+Gray and white fine-to-coarse sand of medium hydraulic conductivity. Generally contains sand and gravel beds of low to high hydraulic conductivity in basal 100 to 200 ft. Contains much interstitial clay and silt, and beds and lenses of clay of low hydraulic conductivity. A major aquifer although not highly developed in study area.
+
+Raritan clay
+
+Unnamed clay member of the Raritan Formation
+
+0 - 200 Gray, black, and multicolored clay and some silt and fine sand. Unit has low hydraulic conductivity and tends to confine water in underlying aquifer.
+
+Lloyd aquifer
+
+Lloyd Sand Member of the Raritan Formation
+
+0 - 500 White and gray fine to coarse sand and gravel of medium hydraulic conductivity and some clayey beds of low hydraulic conductivity. A major aquifer although not developed as a source of water in study area.
+
+Bedrock
+
+Undifferentiated crystalline rocks
+
+Unknown
+
+Mainly metamorphic rocks of low hydraulic conductivity; surface generally weathered; considered to be the bottom of the ground-water reservoir.
+
+Magothy Aquifer
+The Magothy aquifer in the undifferentiated Cretaceous Magothy Formation and overlying Matawan Group rests on the Raritan clay. The generalized configuration of the Magothy surface is depicted by Jensen and Soren (1974); within the study area it ranges between 100 and 200 ft below sea level. Three test holes (wells S72812, S72813, and S72814 in fig. 5) drilled near the Brookhaven landfill site in 1982 indicate that the surface is about 120 ft below sea level at the site. The thickness of the Magothy aquifer in the center of the study area is about 950 ft (Jensen and Soren, 1974).
+The Magothy aquifer consists mostly of gray and white fine quartz sand, clayey and silty sand, and clay (Pluhowski and Kantrowitz, 1964). Highly permeable zones of medium to coarse sand are interspersed irregularly throughout the formation. Clay layers, some as much as 50 ft thick, also occur within the formation but are not continuous over large areas (Warren and others, 1968). The lower part of the Magothy aquifer is more permeable than the upper part and is tapped by several public-supply wells in the study area.
+The average horizontal hydraulic conductivity of the Magothy aquifer in south-central Suffolk County is estimated to be 48 ft/d (McClymonds and Franke, 1972). Ratios of vertical to horizontal hydraulic conductivity may range from 1:30 to 1:40 (Getzen, 1977).
+Monmouth Greensand
+The Monmouth greensand in the Monmouth Group, a marine deposit of Cretaceous age, overlies the Magothy aquifer in the southern part of the study area. This unit consists of interbedded clay, silt, and sand containing glauconite and lignite. The northern limit of the Monmouth greensand lies approximately along Montauk Highway in the western part of the study area and along Beaverdam Road in the eastern part (fig. 2) (Jensen and Soren, 1974). The unit thickens to the south, attaining a thickness of 80 to 100 ft beneath the barrier islands (fig. 3).
+Gardiners Clay
+Resting on the surface of the Monmouth greensand but extending farther north is the Gardiners Clay a marine clay deposited during the Sangamon interglaciation. De Laguna (1963) described the Gardiners Clay as a thin bed of green clay or clay and sand, generally 10 ft thick, that lies 100 ft or more below sea level. The green color is due to small amounts of glauconite and green clay minerals. Zones of sand or silt are common throughout the formation (de Laguna, 1963).
+The Gardiners Clay was identified in core samples from wells S72813 and S72814 (fig. 4) and consists of green clay and silt with some interbedded sand and gravel. In the vicinity of the Brookhaven landfill site, the Gardiners Clay has been reported as a sandy facies, which may be indicative of its northern limit (T. P. Doriski, U.S. Geological Survey, written commun., 1982). Cores and geophysical logs from these wells indicate that the unit is 8 to 12 ft thick.
+
+73° 00' 40°f
+5V:
+
+10
+
+LINE OF EQUAL CONFIN ING-UN IF ,, THICKNESS-- (Gardiners Clay and Monmouth greensand, where present).
+Dashed where approximately located
+
+72813
+
+WEL(_ QR TEST BORiNG-Number is that assigned by the New York State Department of Environmental Conservation. (Prefix S, for Suffolk County, deleted)
+
+Lower Lake
+
+72°52'30"
+
+Base from N.Y.S. Department of Transportation, Bellport, 19B1 Howel I s Poi nt, 1981, NY, T24,000
+Figure 4. Thickness of confining units (Gardiners Clay and Monmouth greensand) beneath upper glacial aquifer in study area.
+
+The Gardiners Clay has an estimated thickness of 15 ft at the northern limit of the Monmouth greensand. Together, these semiconfining units have an estimated thickness of 40 ft in the southern part of the study area. A map showing the combined thickness of the two units is shown in figure 4.
+Vertical hydraulic conductivity of the Gardiners Clay in southwestern Suffolk County and southeastern Nassau County was determined by Reilly and others (1983) to range from 1.84 x 10~ 2 to 2.21 x 10~ 5 ft/d, with a mean value of 2.9 x 10~3 ft/d. Warren and others (1968) estimated a vertical hydraulic conductivity of 4.0 x 10~2 ft/d for the vicinity of the Carmans River (fig* 2). Getzen (1977) assumed a vertical hydraulic conductivity of 7.0 x 10~2 ft/d for both the Gardiners Clay and Monmouth greensand unit in his regional flow model of Long Island through analogy with clay units of similar origin in Connecticut.
+Upper Glacial Aquifer
+The upper glacial aquifer is composed of upper Pleistocene outwash from the Wisconsin glaciation. These deposits overlie the Gardiners Clay in the southern part of the study area and lie directly on the Magothy aquifer where the Gardiners Clay is missing. The base of the aquifer dips gently to the south and is about 105 ft below sea level in the vicinity of the Brookhaven landfill site. The generalized configuration of the base of the upper glacial aquifer is shown in figure 5.
+The outwash deposits consist of interbedded fine to very coarse quartzose sand and gravel and some lenses of clay or silty sand. De Laguna (1963) observed that the lower part of the outwash generally consists of finer deposits than the upper part. At all three wells drilled in the landfill vicinity, the lower 10 to 15 ft of the aquifer consists of silty reddish-brown sand containing micaceous material. The lateral extent of the silty layer is unknown.
+Ground water in the upper glacial aquifer is under unconfined (watertable) conditions. The thickness of the unsaturated zone within the study area depends on the topography and water-table altitude and ranges from 0 to more than 80 ft. The saturated thickness of the aquifer ranges from 100 to 150 ft.
+The upper glacial aquifer has medium to high hydraulic conductivity. Maps by McClymonds and Franke (1972) indicate the hydraulic conductivity in the study area to be about 267 ft/d. Warren and others (1968) calculated a value of 174 ft/d from a pumping test at Brookhaven National Laboratory (fig. 1). They also analyzed seepage into the Carmans River along a reach between two gaging stations (station 01305000 and station 01305040 in pi. 1) and calculated a hydraulic conductivity of 187 ft/d.
+10
+
+73° 00' 40° 5V -100-
+.72813
+
+LINE OF EQUAL STRUCTURE
+
+ALTITUDE-Shows altitude of base of Upper
+
+upper glacial aquifer. Dashed where
+
+Lake
+
+approximately located. Contour interval
+
+10feet. Datum is NGVD of 1929
+
+WELL OR TEST BORING-Number is that assigned by the New York State Department of
+
+Lower Lake
+
+Environmental Conservation. (Prefix S, for Suffolk
+
+County, deleted).
+
+48424
+$ AM
+
+72°52'30"
+
+28767 37494
+
+| 7519
+Swan Lake
+
+67974 69364
+
+Bellport Bay
+
+451 Patchogue Bay
+
+-120-
+
+Base from N.Y.S . Department of Transportation, Bellport, 1981, Howells Point, 1981, NY, 1:24,000
+
+1 MILE 1 KILOMETER
+
+Figure 5. Configuration of base of upper glacial aquifer in study area.
+
+11
+
+GROUND-WATER FLOW SYSTEM The regional ground-water flow system on Long Island has been described in many reports, including those by Cohen and others (1968), Franke and McClymonds (1972), and Getzen (1977). A generalized vertical section illustrating the flow pattern south of the regional ground-water divide, which trends east-west across Long Island (fig. 1), is shown in figure 6. The ground-water reservoir is recharged by precipitation that infiltrates the land surface and seeps down to the water table. Most water moves laterally through the upper glacial aquifer, but some continues downward into the underlying Magothy and Lloyd aquifers. Ground water in the study area generally travels southward and eventually discharges into Heliport and Patchogue Bays and to streams flowing to these bays (fig. 2). Water in the deeper part of the upper glacial aquifer may pass beneath shallow flow systems associated with streams as it moves toward the shore. The following sections describe major sources and locations of ground-water recharge and discharge.
+GROUND-WATER FLOW LINE SALTY GROUND WATER Vertical exaggeration X 26
+Figure 6.--Generalized north-south hydrogeologic section of the ground-water system south of the regional groundwater divide showing pattern of ground-water flow.
+12
+
+Recharge
+Precipitation and Kvapotranspiratior,
+Precipitation on Long Island averages 43 in/yr (Miller and Frederick, 1969). The average warm-season and cool-season precipitation amounts are approximately equal. The areal distribution of precipitation is uneven and is greatest over the central part of Long Island.
+Average annual precipitation in the study area during 1951-65 was 45.5 inches (Miller and Frederick, 1969). Annual precipitation during 1973-82 and average monthly and average annual precipitation for the period of record at the Patchogue and Upton precipitation stations (fig. 1) are presented in table 2.
+An average value of 47.4 inches was calculated from the average annual precipitation for the period of record at the two stations; this value was used in the ground-water flow model, described further on.
+
+Table 2. Annual, average monthly, and average annual precipitation at Patchogue and Upton.
+
+[All values are in inches; station locations are shown in fig. 1]
+
+Year
+
+A. Annual precipitation , 1973-82
+
+Station*
+
+Station*
+
+Patchogue Upton
+
+Year Patchogue Upton
+
+1973 52. 46 52 .75 1974 44. 56 41 .80 1975 55. 43 52 .88 1976 47. 60 45 .16 1977 55. 44 53 .78
+
+1978 53. 89 1979 62. 45 1980 38. 68 1981 41. 61 1982 47. 26
+
+*Patchogue . 40°45 '06 " lat, 73°02'28" long
+
+Upton:
+
+40°52 '14 " lat, 72°53'30" long
+
+53. 49 56. 12 35. 17 40. 03 48. 42
+
+B. Average monthly and average annual precipitation
+
+for period of record**
+
+Station*
+
+Station*
+
+Month Patchogue Upton
+
+Month Patchogue Upton
+
+Jan. Feb. Mar. Apr. May June
+
+4.07 4.07 3.71 3.70 4.57 4.32 4.70 4.10 3.86 3.68 4.34 3.02
+
+July Aug. Sept. Oct. Nov. Dec.
+
+3.18 3.12 4.40 4.20 3.76 3.30 3.73 3.63 4.20 4.53 4.69 4.60
+
+Average annual precipitation
+
+48.45 46.32
+
+**Patchogue period of record: 1-66 through 12-82
+
+Upton period of record:
+
+1-43 through 12-82
+
+13
+
+Not all precipitation is available for recharge; some evaporates from land surface, is transpired by plants, and runs overland to streams. Surface runoff in undeveloped areas of Long Island is negligible because of the high permeability of the sandy soils (Warren and others, 1968). Surface runoff in developed areas is greater, but most of this water is channeled to stormwaterrecharge basins, where the water infiltrates and subsequently recharges the aquifer.
+Cohen and others (1968) estimate that half the annual precipitation on Long Island reaches the water table. Warren and others (1968) used the Thornthwaite method to calculate losses due to evapotranspiration in the Brookhaven National Laboratory vicinity (fig. 1) and also concluded that approximately 50 percent of the precipitation reaches the water table. Recent regional modeling studies have used 52 percent of precipitation as the estimated recharge value (D. A. Smolensky, U.S. Geological Survey, oral commun., 1984). Accordingly, a uniform 24.6 in./yr was assumed to recharge ground water in the study area.
+Other Sources of Ground-Water Recharge
+The upper glacial aquifer is also recharged by injection of spent cooling water through diffusion wells, by infiltration of domestic and industrial wastewater through cesspools and septic tanks, and by irrigation return flow. These mechanisms add no additional recharge to the aquifer beyond the natural amount but, rather, serve as mechanisms for the return and redistribution of water withdrawn from the aquifer. Similarly, recharge basins in developed areas intercept water that would otherwise be lost as runoff to streams and thus help maintain the natural level of recharge.
+Most of the redistributed water is reapplied close to the point of withdrawal, and the overall affect on ground-water flow is presumed to be negligible. The most significant redistribution of recharge in the study area is the discharge of treated wastewater from sewage-treatment plants into unlined basins. Sewage-treatment plants in the study area and their reported discharge rates are listed in table 3; their locations are shown on plate 1.
+
+Table 3. Sewage-treatment-plant discharge to ground water in study area, 1981,
+
+[Data from New York State Department of Environmental Conservation; locations are. shown on pi. 1]
+
+Sewage-treatment plant
+
+Latitude/Longitude
+
+Discharge (Mgal/d)
+
+Woodside Sites
+
+40°47 I 40" 72°57'34"
+
+0.467
+
+Brookhaven Memorial Hospital
+
+40°46'49 M 72°58'37"
+
+.091
+
+Levitt House
+
+40°47 f 44" 72°58'10"
+
+.467
+
+Suffolk County Center 40°48'40" 72 0 55'16"
+
+.06
+
+14
+
+Discharge
+The main components of discharge from the ground-water reservoir under natural conditions are seepage to streams, ground-water evapotranspiration, and subsurface outflow (Franke and McClymonds, 1972). Subsurface outflow from the upper glacial aquifer is difficult to quantify because data on head gradients along the shore are lacking. Estimates of subsurface outflow can be made by subtracting the sum of all other discharges from the total inflow and recharge to the study area; this procedure is discussed further in the discussion of the water-budget analysis.
+Ground-water evapotranspiration occurs during the growing season, when vegetation withdraws ground water through root systems extending below the water table. On Long Island, this generally occurs only where the depth to ground water is less than 5 ft below land surface (Pluhowski and Kantrowitz, 1964). Areas of shallow depth to water in the study area are found within short distances of stream channels and along the shore. The overall effect of ground-water evapotranspiration on ground-water flow in the study area is, therefore, presumed to be negligible.
+Other components of discharge are related to development of the aquifer system and include pumpage for domestic and industrial water supply and for irrigation. Data on streamflow and pumpage are presented in the following sections.
+Seepage to Streams
+Interaction between streams and aquifers on Long Island has been described by several investigators (Harbaugh and Getzen, 1977; Cohen and others, 1968; Reynolds, 1982; and Prince, 1980). In the study area, discharge to streams has a significant effect on the pattern of ground-water flow within the upper glacial aquifer.
+Under natural (undeveloped) conditions on Long Island, 90 to 95 percent of streamflow is derived from ground-water seepage; the rest consists of surface runoff. Bank storage is considered to be negligible (Cohen and others, 1968). Base flow in the two streams that bound the study area was calculated to be 96 percent of the total annual flow of the Carmans River and 92 percent of the Swan River during 1976-82 (D. S. Peterson, U.S. Geological Survey, written commun., 1983).
+Base flow in Long Island streams responds to changes in water levels in the surrounding aquifer that is, when the ground-water level beneath the stream rises, ground-water seepage into the stream increases. Rates of ground-water seepage also are controlled by the hydraulic conductivity of the streambed deposits, which is generally lower than that of the surrounding aquifer material, and by the streambed thickness. Prince (1980) studied Connetquot Brook a major stream in an undeveloped area on the south shore of Long Island and calculated the thickness of the streambed material to be approximately 3 ft and the vertical hydraulic conductivity of streambed material to be 6.5 ft/d (K. R. Prince, U.S. Geological Survey, written commun., 1983).
+15
+
+The length of the flowing part of a stream varies seasonally and from year to year in response to fluctuations in the ground-water levels. Flow begins where the water table first intersects the base of the stream channel; this point is commonly referred to as the start-of-flow. As ground-water levels fluctuate, the start-of-flow moves upstream or downstream accordingly.
+
+The study area has 11 major streams, all of which flow southward and discharge to Heliport Bay or Patchogue Bay. Locations of these streams and their start-of-flow are shown on plate 1; estimated average base flows for streams having continuous or partial discharge measurements are presented in table 4. Descriptions of the 11 streams in the study area are given on page 17. All are gaining (influent) streams throughout their length except where they are ponded behind manmade controls. Local circulation patterns develop near these ponded sections, where stream water discharges to the aquifer near the downstream end of the pond and then seeps back into the stream downstream of the control.
+
+Table 4. Average base flow at partial- and continuous-record stations in study area.
+
+Stream name
+
+[Locations are shown on pi. 1]
+
+Stationidentification
+number
+
+Latitude/Longitude
+
+Station typel
+
+Estimated average
+base flow, 1976-82 2
+(ft3/ s )
+
+Carmans River
+
+01304998 01305000 01305040
+
+40°50'07" 72 0 55 f Or 40°49 f 49" 72°54'24 M 40°48 f 09" 72°53'09"
+
+PR C PR
+
+19.84 26.28 56.0
+
+Yapahank Creek
+
+YC-1 01305050
+
+40°47'44" 72°54'12 M 40°47'26" 72°54 f 05 M
+
+T PR
+
+.12 .8
+
+Little Neck Run
+
+01305070
+
+40°47 f ll" 72°54'38
+
+PR
+
+.1
+
+Beaverdam Creek
+
+BD-1 01305095 BD-3 01305100
+
+40°47'19" 40°47'01" 40°46'54" 40°46 f 42 1<
+
+72°55'10" 72°55'02" 72°55 f OO"
+72°54'59"
+
+T PR T PR
+
+.24 .737 1.20 1.35
+
+Motts Brook
+
+01305200
+
+40°45'45" 72°55'52"
+
+PR
+
+1.27
+
+Hedges Creek
+
+01305240
+
+40 0 45 f 22" 72°57'44"
+
+PR
+
+.90
+
+Abets Creek
+
+01305280
+
+40°45'42 M 72°58'37"
+
+PR
+
+.10
+
+Mud Creek
+
+01305300
+
+40°45'47" 72°58'59"
+
+PR
+
+3.75
+
+Swan River
+
+01305500
+
+40 0 46 f 01" 72°59 f 39"
+
+C
+
+12.18
+
+PR, partial-record station; C, continuous-record station; T, temporary station used only for this study. Discharge measurements on file at the U.S. Geological Survey, Syosset, N.Y. D. S. Peterson, U.S. Geological Survey, written commun., 1983.
+
+16
+
+Carmans River. The largest of the 11 streams in the area, both in length and average annual discharge, the Carmans River forms the eastern boundary of the study area. The Carmans River is 12 mi long, has an average gradient of 5.4 ft/mi, and an average annual base flow of 56 ft^/s at station 01305040 (pi. 1) (D. S. Peterson, U.S. Geological Survey, written commun., 1983). The Carmans River has five manmade controls the dams that form Upper and Lower Lakes and three dams within Southhaven Park (fig. 2). The Carmans River is tidal south of Montauk Highway.
+Swan River. The second largest of the 11 streams, the Swan River has a length of 2.2 mi and an average gradient of 13.8 ft/mi. The dam that forms Swan Lake (pi. 1) is the only major manmade control on the river. Swan River becomes tidal south of the Long Island Railroad right-of-way (pi. 1). The start-of-flow point during the study was north of Woodside Avenue (pi. 1).
+Beaverdam Creek. The third largest stream in the study area, Beaverdam Creek has a length of 1.2 mi. The start-of-flow point is usually between Sunrise Highway and Montauk Highway. Beaverdam Creek has no major manmade controls, although some backwater effects occur above the point where the stream passes through culverts at Montauk Highway and South Country Road (pi. 1). The stream becomes tidal about 900 ft south of South Country Road.
+Yapahank Creek. Yapahank Creek is 0.76 mi long. The start-of-flow is usually a few hundred feet to either side of Montauk Highway (pi. 1). Slight ponding occurs north of the Long Island Railroad right of way, where flow passes through a culvert beneath the tracks. Yapahank Creek is tidal from approximately 1,000 ft south of Station 01305070 (pi. 1).
+Little Neck Run. Little Neck Run is ponded north of the Long Island Railroad right of way. The ponding results from clogging of the culvert that passes under the railroad tracks. Ground-water seepage is evident on the south side of the tracks. The stream becomes tidal approximately 1,000 ft south of the tracks.
+Motts Brook. Motts Brook is approximately 0.28 mi long and begins near the end of Head of Neck road. Motts Brook is ponded north of South Country Road (pi. 1) and becomes tidal a few hundred feet to the south.
+Other streams. Two unnamed tributaries converge north of Montauk Highway and flow south into Robinson Pond, which is dammed at South Country Road. The eastern tributary is 0.70 mi long; the western tributary is 0.30 mi long. Robinson Pond discharges into Mud Creek, which becomes tidal a few hundred feet south of station 01305300.
+Few data on the three remaining streams in the study area (Hedges Creek, Howells Creek, and Abets Creek) are available. These streams are short and are tidal for most of their length. Hedges Creek discharges into Dunton Lake; Howells Creek and Abets Creek discharge into Bellport and Patchogue Bays. Estimates of annual average base flow in several of the streams are presented in table 4.
+17
+
+Pwnpage
+Major pumpage in the study area, as reported annually to the New York State Department of Environmental Conservation, is summarized in table 5. All wells listed are screened within the upper glacial aquifer; their locations are shown on plate 1. Seasonal pumpage for irrigation in the study area is minor and not included in table 5. The study area contains many private domestic supply wells, but pumpage from these wells is low, and most of the water is returned to the aquifer through discharge from cesspools. The overall effect of both irrigation and domestic pumpage on ground-water flow in the upper glacial aquifer is assumed to be minimal and was not accounted for in the ground-water flow model.
+
+Table 5. Public-supply and industrial pumpage in study area t 1981
+
+[Data from New York State Department of Environmental Conservation; well locations are shown in pi. 1]
+
+Well number
+
+Owner*
+
+Latitude/Longitude
+
+Total pumpage
+
+SI331 SCWA - Heliport well field S14710
+
+40°45'52" 72°56'16" 0.42
+
+552944 SCWA - Patchogue-Yaphank Road
+
+552945
+
+well field
+
+40°49'00" 72°57'05" 1.24
+
+S33826 SCWA - Station Road well field S42499
+
+40°47'39" 72 °56'55"
+
+.28
+
+S26616 Heliport Village golf course
+
+40°45'03" 72 0 57'00"
+
+.069
+
+SI6098 Suffolk County Board of Supervisors 40°48'43" 72°55'16"
+
+.041
+
+S43348 Redactron Corp.________________ 40°48 f 41" 72°56'56"
+
+.0008
+
+1 SCWA, Suffolk County Water Authority
+
+Ground Water in the Upper Glacial Aquifer
+Ground water in the upper glacial aquifer is under water-table (unconfined) conditions throughout the study area. Water-table altitudes are influenced by the hydraulic conductivity of the aquifer, rates of recharge to and discharge from the aquifer, location of hydrologic boundaries, and the quantity of flow across these boundaries. Maps showing lines of equal water-table altitude can be used to determine gradients in hydraulic head and the direction of ground-water flow.
+Water-Table Altitudes in September 1982
+A network of 164 observation wells (including 102 added in this phase of the study) and 23 stream-stage-measurement sites were used to determine watertable altitudes; their locations are shown on plate 1. Data on the location,
+18
+
+ownership, and physical characteristics of the observation wells are given in table 9 (at end of report); information on the stream-stage-measurement sites is given in table 6.
+
+A map showing lines of equal water-table altitude in the upper glacial aquifer in September 1982 is presented on plate 2. The map represents a period when water-table altitudes were close to the 5-year average, as indicated by hydrographs of four observation wells in the area (fig. 7). Streamflow in the Carmans and Swan Rivers during the first 2 weeks of September 1982 was near long-term average values (U.S. Geological Survey, 1983).
+
+The configuration of the water table in September 1982 (pi. 2) is similar to that shown in maps prepared by Warren and others (1968) for periods of average water levels in August 1951 and July 1952. This indicates that ground water in the study area has not been greatly influenced by development since that time.
+
+Ground water entering the study area at the northern boundary flows perpendicular to the lines of equal water-table altitude southward toward the shore and also westward and eastward toward the Swan River and the Carmans
+
+Table 6. Stream-stage-measurement sites used in study.
+
+Stream name
+
+[Locations are shown on pi. 1]
+
+Stationidentification
+number
+
+Latitude/ Longitude
+
+Carmans River
+
+01304995 CR-9
+01304998 01305000 CR-13 CR-14 CR-15 CR-16A 01305040 01305041
+
+40°50 I 29" 40°50'08" 40°50'07" 40°49'49" 40°49'00" 40°48'59 M 40°48'44" 40°48 I 10" 40°48'09 M 40°48'05"
+
+72°56'13" 72°55 I 02" 72°55 I 01" 72°54'24" 72°53'24" 72°53'24" 72°53'29" 72°53'10 11
+72°53'09" 72°53'04 M
+
+Yapahank Creek Little Neck Run Beaverdam Creek
+Motts Brook Mud Creek Swan River
+
+01305050
+LNR-1 01305070
+BD-1 01305095 BD-3 01305100
+01305200
+01305300
+SL-1 SRI SR2 01305500
+
+40°47'26" 72°54'05'
+
+40°47'24" 72°54'45" 40 0 47'11" 72°54'38 it
+
+40°47'19" 40°47'01" 40 0 46'54" 40°46 I 42"
+
+72°55'10" 72°55'02" 72°55 f OO"
+72 0 54'59"
+
+40°45'45 1< 72 0 55'52"
+
+40°45'47" 72 0 58'59"
+
+40°46'04" 40 0 46'52" 40 0 47'16"
+40 0 46'01"
+
+72°59'39"
+72°59 I 40" 72°59'45" 72 o 59 i 39 ..
+
+19
+
+40 -
+Figure 7. Five-year hydrographs of four observation wells in study area> 1979-83. (Horizontal lines indicate 5-year average water level, well locations are shown in pi. 1.)
+1979 1980 1981 1982 1983
+River, respectively. Steep ground-water gradients toward the streams indicate that streamflow accounts for most of the ground-water discharge from the study area. Other factors that may affect water-table gradients are (1) heterogeneity of the aquifer material, (2) pumpage for public supply and domestic uses, (3) recharge from sewage-treatment plants and other sources of recharge and redistribution of pumped water, and (4) local variations in the rates of recharge and leakage through the clay units underlying the upper glacial aquifer.
+Ground Water in the Magothy Aquifer
+The Magothy aquifer is confined by the Gardiners Clay and Monmouth greensand in most of the study area; silt and clay within the upper part of the Magothy also tend to confine water in the more permeable basal part of the aquifer. The general direction of ground-water movement in the Magothy aquifer is shown in cross section in figure 6 (p. 12).
+A potentiometric-surface map of the Magothy aquifer in the study area was prepared from available water-level data and is shown in figure 8. The major component of flow in the Magothy aquifer is toward the south shore, where discharge is upward through the overlying clays and into the upper glacial aquifer.
+20
+
+73° 00' 40'
+5V
+
+40
+
+Upper Lake
+Lower = Lake
+
+72°52'30"
+.&**
+
+Base from N.Y.S. Department of Transportation, 3ellport, 1981; Howel Is Point, 1981, NY, 1:24,000
+
+LINE OF EQUAL POTENTIOMETRIC ALTITUDE--Interval 5 feet. Datum is NGVD of 1929. Dashed where approximately located.
+049018 OBSERVATION WELL-Upper number is 27.72 that assigned by the New York State Department of Environmental Conservation,(Prefix S for Suffolk County is omitted). Lower number is potentiometric-surface altitude, in feet above __NGVD of 1929, _._.
+
+Figure 8. Potentiometrie surface of Magothy aquifer in study area. September 1982.
+
+21
+
+Comparison of water levels in the upper glacial aquifer with potentials in the Magothy aquifer (pi. 2 and fig. 8) shows that most recharge to the llagothy is in the northern part of the study area (north of the Brookhaven landfill site), where heads in the upper glacial aquifer exceed those in the Magothy. Discharge from the Magothy aquifer occurs in the southern part of the study area, where heads in the Magothy aquifer exceed those in the upper glacial aquifer. The boundaries of the zones of recharge and discharge are not fixed but constantly shift in response to head changes in both aquifers.
+Water Budget
+A water budget is an accounting of all inflows, outflows, and changes in storage within a given area. A steady-state water budget that does not consider changes in ground-water storage was developed for the study area to obtain estimates of the rates of (1) ground-water inflow through the northern boundary of the area, (2) subsurface discharge along the shore, and (3) leakage through the confining units that separate the upper glacial aquifer and the Magothy aquifer.
+The area considered in the water-budget analysis is indicated in figure 9; it extends north of the study area to the regional ground-water divide (fig. 1). The regional ground-water divide in the upper glacial aquifer was assumed to correspond with that in the underlying Magothy aquifer. The southern boundary of the water-budget area is the freshwater/saltwater interface, which lies close to the shore of Patchogue and Bellport Bays in the upper glacial aquifer and beneath the barrier islands to the south in the Magothy aquifer (fig. 6).
+The western boundary of the water-budget area is the Swan River and a flow line extended northward from the start-of-flow to the regional ground-water divide. The eastern boundary is the lower reach of the Carmans River (south of Lower Lake) and a line extended northward from the downstream end of Lower Lake to the regional ground-water divide. (The eastern boundary was drawn this way to include ground water that may pass beneath the shallow flow system associated with the upper reaches of Carmans River and flows southward into the study area.) The bottom boundary of the water-budget area is the upper surface of the Raritan clay. Leakage through the Raritan clay into the Lloyd aquifer probably constitutes less than 1 percent of the total recharge to the water-budget area and, therefore, was not included in the water-budget analyses.
+A schematic diagram showing inflows and outflows from the area is given in figure 10. Values of inflows and outflows were calculated from best estimates of aquifer and confining-unit properties and recharge rates discussed in previous sections. The rate of inflow across the northern boundary of the model area is estimated to be 12 ft-Vs, and net leakage into the upper glacial aquifer from the llagothy is estimated to be 17 ft-Vs. Although these values may be in error because of uncertainties in aquifer properties, this analysis provides a reasonable estimate of inflows to and discharge from the study area. These estimates were used in the development of a ground-water flow model representing the study area and refined during model calibration.
+22
+
+GROUND-WATER DIVIDE
+
+BrookhavenTfS Landfill Site tx:
+
+Patchogue Bay
+
+Approximate location of freshwater/saltwater interface
+in Magothy aquifer
+
+BOUNDARY OF AREA CONSIDERED IN WATER BUDGET ANALYSIS SANITARY LANDFILL
+2 KILOMETERS
+Base from N.Y.S. Department of Transportation, Bellport, 19B1: Howells Point. 1981, NY, 1:24,000
+Figure 9. Area considered in water-budget analysis, (Location is shown in fig. 1.)
+23
+
+A t mospher e
+
+1I
+
+-tRecharge to
+water-budget area north
+
+Recharge to modeledaree
+1
+
+I i 13ft 3/
+
+46ft 3/s
+
+I
+
+A7ft3/c
+
+Ground-water discharge to streams in
+water-budget area north of modeled area
+1
+
+Streams
+Ground- water discharge to streams
+in modeled area 35ft'3/s 1
+
+Stream discharge to ocean
+t 48ft3 /s
+in vs 1
+(^onsurrtf in mot
+|
+
+Ground- water
+divide in upper glacial
+aquifer
+
+Inflow across northern boundary of modeled area
+12ft 3/s
+Upper
+
+i , Modeled
+*
+
+3 r 6a
+
+glacial aquifer
+
+medae 40ft 3 /s
+
+0 c e a n
+
+1 Leakage to Magothy aquifer from upper glacial aquifer north
+of modeled area
+21ft3/s
+1
+
+1 Leakage to Magothy aquifer from upper
+glacial aquifer in modeled area
+
+Leakage into modeled area from Magothy aqutfer
+| 20ft3/s
+
+Potentiometric divide in
+Magothy aquifer
+
+Magothy a q u i f e r
+
+Underflow from Magothy aquifer
+4ft3/s
+
+Figure 10. Components and rates of flow in water-budget area as determined from water-budget analysis.
+
+SIMULATION OF GROUND-WATER FLOW
+A digital model was developed from the hydrogeologic data discussed previously to simulate steady-state ground-water flow in the study area. The model represents the upper glacial aquifer and allows for steady leakage of ground water through the Gardiners Clay. Flow in the upper glacial aquifer is assumed to be horizontal.
+Estimates of aquifer and confining-unit properties and the rates of flow across model boundaries were refined through the process of model calibration. Once calibrated, the model was used to calculate rates and directions of ground-water flow within the Brookhaven landfill site and vicinity. A brief discussion of the ground-water flow equation, types of boundary conditions, and assumptions used in the model is given below.
+Theoretical Background
+The partial differential equation governing steady-state two-dimensional (areal) ground-water flow in a heterogeneous, isotropic water-table aquifer is given by Bear (1979, p. 121) as:
+24
+
+_3_ [K(h-b) jTh] + jMK(h-b) j)hj -I- N - W = 0
+
+3x
+
+3x 3y
+
+3y
+
+(1)
+
+where:
+
+K = hydraulic conductivity at a point in the aquifer [LT~1], h = hydraulic head (or water-table altitude) above a datum [L], b = altitude of aquifer bottom above the same datum [L], N = rate of areal recharge per unit area of aquifer [LT~1], and W = rate of withdrawal from the aquifer per unit area [LT~1],
+
+Two simplifying assumptions are implicit in this form of the equation:
+
+(1) Flow in the aquifer is horizontal; that is, the slope of the water table is small enough that equipotential lines are nearly vertical (referred to as the Dupuit assumption). Also, vertical flow components near streams and partially penetrating wells and near the base of the aquifer where vertical leakage may be occurring are assumed to have negligible effects on regional flow in the aquifer.
+
+(2) The density of the water is uniform, and gradients induced by concentration or temperature differences are assumed to have negligible effects on regional flow.
+
+Three types of boundary conditions are associated with equation 1. The first type, referred to as a prescribed head (or Dirichlet) boundary condition, is defined by:
+
+h = H:
+
+(2)
+
+where h is the head in the aquifer at a point on the boundary, and HJ is a known value. The second type, referred to as a prescribed flux (or Neumann) boundary condition, is defined by:
+
+In - Ql
+
+O)
+
+where qn is the rate of flow normal to the boundary, and Qi is a known value. A no-flow boundary, in which Qj is equal to zero, is used to represent streamline or impermeable boundaries. The third type, referred to as a head-dependent flux (or Cauchy) boundary condition, is applied where the flow across the aquifer boundary is dependent on the difference between the head in the aquifer and a known head on the opposite side of a semipervious layer. The head-dependent flux boundary condition is defined by:
+
+K' (H0 - h) qn -
+B'
+
+U)
+
+where:
+
+qn = the boundary flux [LT~^], K' = hydraulic conductivity of the semipervious layer [LT~1], B' = thickness of the semipervious layer [L], h = head in the aquifer [L], and HQ = known head on the opposite side of a semipervious layer [L].
+
+Additional theoretical discussions on the ground-water flow equation and boundary conditions can be found in Bear (1979, p. 117-123).
+
+25
+
+Equation 1 is nonlinear and can be solved analytically only for idealized conditions. For areas with irregularly shaped boundaries or with spatial variation in aquifer properties, numerical methods must be used. These methods involve finding a solution for the head values at a selected number of points within the area modeled rather than at all points. One technique, called the Galerkin finite-element method, involves dividing a map of the area modeled into a grid composed of smaller areas termed elements. For twodimensional problems, the elements can be triangles, rectangles, or quadrilaterals. Points at the junctions of lines on the finite-element grid are termed nodes. Given appropriate boundary conditions, an approximation of the true water-table configuration can be determined by solving equation 1 for each node in the finite-element grid.
+The Galerkin finite-element method has been applied extensively in the simulation of ground-water flow. Discussions on the theory and application of the method are given in Finder and Gray (1977), Wang and Anderson (1982), Bear (1979), and Remsen and others (1971). Several computer codes that use the finite-element method are available for a wide range of problems in subsurface hydrology. The computer code used in this study was originally developed by J. V. Tracy of the U.S. Geological Survey. Modifications made to the original code by J. V. Tracy and E. J. Wexler are documented in a report by Dunlap and others (1984). The computer code uses triangular or isoparametric quadrilateral elements with linear basis functions; element integrations are done numerically with a 4-point Gaussian quadrature technique, and the simultaneous equations generated are solved by the Cholesky decomposition method for symmetrical matrices (Dunlap and others, 1984).
+Two changes to the code described by Dunlap and others (1984) were made in this study. The first relates to the method used to treat the nonlinear terms in equation 1, K(h - b) 8h/3x and K(h - b) 8h/3y. An iterative procedure is used to solve for h (the water-table altitude) rather than the perturbation method used in the code described by Dunlap and others (1984).
+In the iterative procedure, values for the term K(h - b), which represents the effective transmissivity of the water-table aquifer, are first calculated from the initial values for the water levels. Equation 1 is solved, and the new water-table altitudes are then used to recalculate the effective transmissivity term. The procedure is repeated until a convergence criterion is met. This iterative procedure is also described in Finder and Gray (1977) and Bear (1979).
+A second change relates to the method used to simulate ground-water seepage to streams and is described in a subsequent section.
+Model Design
+In the model, the upper glacial aquifer is represented as a single layer, and flow is assumed to be horizontal. The upper boundary of the area modeled is defined by the water table, and the lower boundary is the base of the upper glacial aquifer except in the nearshore area, where the lower boundary is defined by the freshwater/saltwater interface.
+26
+
+The study area is represented by a finite-element grid composed of 2,490 quadrilateral elements with 2,604 nodes. The lateral boundaries of the grid (fig. 11) approximate those of the study area. The grid is finer in the center of the study area to provide the necessary detail at and near the landfill site.
+
+73°00' 40' 51'
+
+RECHARGE POINT, PUMPING WELL OR CONSTANT STREAM-DISCHARGE POINT
+
+HEAD-DEPENDENT STREAM-DISCHARGE POINT
+_c REFERENCE POINTS BETWEEN WHICH MODEL
+BOUNDARY CONDITIONS ARE SIMILAR
+
+Base from N.Y.S. Department of Transportation, Bellport, 1981; Howells Point, 1981, NY, 1:24,000
+Figure 11. Finite-element grid used to represent the study area,
+27
+
+Application of Boundary Conditions
+Prescribed-Head Boundaries
+Prescribed-head boundary conditions (eq. 2) were applied to all nodes representing the lateral boundaries of the study area. Although net rates of flow across these boundaries had been estimated in the water-budget analysis, prescribed-flux boundaries (eq. 3) were not used because the distribution of fluxes at nodes along the boundary is not uniform and could not be easily calculated. Boundary fluxes at the prescribed-head boundaries, which are very sensitive to changes in the values of aquifer properties, were calculated by the computer code and compared with streamflow data and estimated flow rates across the northern and shore boundaries during model calibration.
+Prescribed-head values at nodes along the the shore and tidal reaches of the Swan and Carmans Rivers (line ABCD in fig. 11) were set equal to zero to represent sea level. Prescribed-head values at nodes along the northern boundary of the study area (line E-F in fig. 11) were determined from September 1982 water-table altitudes (pi. 2).
+The Carmans River is ponded for most of its length between Lower Lake and the tidal reach (line D-E in fig. 11) behind the three manmade controls in Southhaven Park (pi. 1). Prescribed-head values for nodes along ponded reaches were set to surface-water altitudes of September 1982. Prescribedhead values for nodes between ponded reaches were obtained by interpolation from topographic maps.
+Nodes representing the Swan River (line A-F in fig. 11) were treated similarly. Nodes along Swan Lake were assigned prescribed-head values equal to September 1982 surface-water altitudes, and prescribed-head values at nodes between the start-of-flow and Swan Lake were obtained from two staff gages on the Swan River (stations SRI and SR2) and by interpolation from topographic maps.
+Nodes representing Dunton Lake, Robinson Pond, the upper ponded reach of Little Neck Run, and a pond near Sunrise Highway in Southaven Park (fig. 2) were treated as internal prescribed-head nodes. Prescribed-head values were set equal to September 1982 surface-water altitudes. Nodes on the broad tidal reaches of Mud Creek and Abets Creek (fig. 2) were also treated as prescribedhead nodes with head values set equal to zero.
+Head-Dependent Flux Boundary
+The base of the upper glacial aquifer was selected as the lower boundary of the modeled area except in the nearshore area. A head-dependent flux boundary condition (eq. 4) was used to represent this boundary and account for steady leakage across the confining units (Gardiners Clay and Monmouth greensand) underlying the upper glacial aquifer. Values for the thickness of the confining units were determined by interpolation from the contours in figure 4 and were specified at each node in the finite-element grid. A uniform value of 2.9 x 10~3 ft/d, based on published values, was initially specified for the hydraulic conductivity of the confining units but was adjusted during model calibration.
+28
+
+Prescribed-head values in the llagothy aquifer were interpolated from the potentioinetric-surface map depicted in figure 8. Heads in the Hagothy aquifer were assumed to remain constant and were not affected by changes in the simulated water-table altitudes in the upper glacial aquifer. During model calibration, net leakage through the confining units was calculated by the computer code and compared with estimates obtained in the water-budget analysis.
+
+Preseribed-Flux Boundaries
+
+Recharge boundary. The water table is the upper boundary of the modeled area and was represented by a prescribed-flux boundary. Flow across the prescribed-flux boundary is equal to the annual average rate of recharge to the upper glacial aquifer. As stated in a previous section, annual precipitation in the study area averages 47.4 in/yr. Recharge to the upper glacial aquifer (the amount of precipitation minus the average amount of evapotranspiration and surface runoff) was set equal to 52 percent annual precipitation value (24.6 in/yr or 0.056 ft/d) and was applied uniformly over the modeled area. Ground-water discharge from the area through ground-water evapotranspiration was assumed to be minor and was not incorporated into the model.
+
+Freshwater-saltwater interface. As in most coastal aquifers, a freshwater-saltwater interface is present within the upper glacial aquifer near the shore, where freshwater in the upper glacial aquifer meets denser, salty ground water underlying Patchogue and Bellport Bays (fig. 6). The interface can be represented as a streamline or no-flow boundary because freshwater discharging to the bay tends to flow along, not through, the interface.
+
+The saltwater-freshwater interface was used to define the lower boundary of the model in the nearshore area. The actual position of the interface is unknown but can be approximated by the Ghyben-Herzberg principle on the assumption that the interface is stationary and that freshwater flow in the aquifer is horizontal (Bear, 1979). The altitude of the bottom of the freshwater zone below sea level ("b" in eq. 1) is given by:
+
+- Pf h b=
+(Ps - Pf)
+
+(5)
+
+where: Pf = freshwater density, assumed equal to 1.0 g/cm^; P s = saltwater density; and h = simulated water-table altitude (above sea level) at a node.
+
+A value of 1.015 g/cnH for p g was used in the Long Island regional model (D. A. Sinolensky, U.S. Geological Survey, oral comniun., 1984) and was found to produce reasonable results in the study-area model. The toe of the interface is the point at which the value for b equals the altitude of the base of the upper glacial aquifer. Landward of that point, the head-dependent flux boundary condition is applied as described in the preceding section. A minimum freshwater thickness of 20 ft was used to represent the outflow face seaward of the shore, where freshwater discharges directly to the bay (fig. 6).
+
+29
+
+Aquifer Properties
+Values for hydraulic conductivity and basal altitudes of the upper glacial aquifer were specified at each node in the finite-element grid. Altitudes of the aquifer bottom were interpolated from the base-configuration map shown in figure 5. A uniform hydraulic conductivity was assumed for the upper glacial aquifer because the aquifer testing and lithologic data did not indicate any systematic variation in this property. The hydraulic conductivity was initially set equal to 267 ft/d at all nodes in accordance with previously published estimates (McClymonds and Franke, 1972) and was adjusted during model calibration.
+Points of Recharge and Discharge
+All points of recharge or discharge within the study area were represented as fully penetrating wells. If the source of recharge or discharge was near a node in the finite-element grid, the full value of the recharge or discharge was applied to the node. If not, a percentage of the flow was allocated to each of the four nodes that form the element in which the source was located, as described in Segerlind (1976). The former method is preferred, especially if the elements are large, but the grid was not designed to have nodes at all points of recharge or discharge.
+Pumpage and Redistribution of Ground Water
+The locations and annual discharges from public supply and industrial pumpage sites are listed in table 5. The largest redistribution of withdrawn water is the discharge of treated water from sewage-treatment plants to ground water. Locations of the treatment plants are shown on plate 1, and discharge rates are given in table 3. Rates of pumpage and redistribution vary seasonally, but average annual rates were specified for the steady-state simulation.
+Ground-Water Discharge to Streams
+The study area contains eleven shallow streams, including the Carmans and Swan Rivers, as described earlier. Estimates of annual average base flow in streams with continuous or partial-discharge measurements are given in table 4.
+Ground-water discharge to streams in the steady-state model was simulated by a line of discharge points. The discharge at each point was calculated by one of several methods, depending on the amount of data available. The calculated discharge was allocated to model nodes by the same method as for points of pumpage or redistribution.
+The rate of ground-water discharge at each point on all gaged streams except Beaverdam Creek, Little Neck Run, and Yapahank Creek was calculated by dividing the average increase in flow along a gaged reach by the number of discharge points used to represent the reach. The discharge at points representing ungaged streams were extrapolated from base-flow data on the
+30
+
+nearest gaged stream. The calculated rates of ground-water discharge were not varied for either type of stream during model calibration.
+
+Ground-water seepage to points representing Beaverdam Creek, Little Neck Run, and Yapahank Creek, the streams closest to the landfill site, was simulated in the model as head-dependent discharge. A similar method of simulating discharge to streams was used in the Long Island regional model and is discussed by Harbaugh and Getzen (1977) and Reilly and others (1983). Increases in streamflow over a gaged reach can be more accurately distributed to each discharge point because this method incorporates data on stream geometry, average stream-surface altitudes, and aquifer heads.
+
+The ground-water discharge at each point was determined by:
+
+K sb Q=
+
+As (h - Hs ) B sb
+
+(7)
+
+where:
+
+Kg ^ = vertical hydraulic conductivity of the streambed material [L/T]; B sb = average thickness of the streambed [L]; As = area of the stream, equal to the length of the reach multiplied
+by its average width [L^]; h = simulated head in the aquifer [L]; and H S = average stream-surface altitude above sea level [L].
+
+The vertical hydraulic conductivity of streambed material was initially set equal to 6.5 ft/d, and the average streambed thickness was assumed to equal 3.0 ft. Streambed hydraulic conductivity was varied during model calibration, and simulated streamflow in each reach was checked against the estimated average base-flow values presented in table 4.
+
+Ground-water discharge to tidal reaches of streams in the study area has not been measured. To obtain estimates of discharge to these reaches, seepage to the tidal reaches of all streams was simulated as head-dependent discharge. Average stream-surface altitudes in the tidal reaches were set equal to sea level or interpolated from available stream-surface-altitude data. Vertical hydraulic conductivity of the streambed material was initially set equal to 6.5 ft/d and was adjusted during calibration of the model.
+
+Model Calibration
+Model calibration was done through a trial-and-error procedure in which aquifer and confining-unit properties were adjusted until a reasonable match between the simulated water-table altitudes and the water-table configuration in September 1982 (pi. 2) was obtained. A "least-squares" method, in which simulated and observed water-table altitudes at 93 observation wells in the area were compared, was used as a means of determining the best fit. Streaiaflows and flows across the model boundaries were calculated and checked against estimates obtained in the water-budget analysis as part of the calibration procedure. Initial estimates of aquifer and confining-unit hydraulic conductivity used in the model are given in table 7 along with the final values obtained through model calibration.
+
+31
+
+Table 7. Initial and final values of hydraulic conductivity used in steady-state flow model.
+
+[All values are in ft/d]
+
+____Material_________Initial estimate Final value
+
+Upper glacial aquifer
+
+267
+
+200
+
+Streambed material in flowing reaches^
+
+6.50
+
+6.50
+
+Streambed material in tidal reaches^
+
+6.50
+
+3.25
+
+Confining unit2
+
+2.9 x 10~ 3
+
+7.0 x 10~3
+
+Streambed thickness assumed to equal 3.0 ft. Gardiners Clay and Monmouth greensand, where present
+
+Simulated Water-Table Altitudes
+The simulated water-table altitudes were contoured by a graphics routine developed in this study and are presented in figure 12. The computer code was used to calculate the differences between the water-table altitudes observed in September 1982 and simulated values at the locations of 93 observation wells. The average difference was 0.59 ft, with a standard deviation of 0.82. The maximum difference was equal to 2.6 ft at well S72128 (well location shown in pi. 1).
+Comparison of the simulated with the observed water-table altitudes (also shown in fig. 12) shows that the water levels match closely over the entire study area; the best match is in the center of the study area. The greatest differences are in the southwestern part of the study area, where the simulated values are 1 to 3 ft lower than the observed values.
+A better match might be obtained by adjusting hydraulic conductivity values over different parts of the modeled area, but the hydrologic data, particularly aquifer-test data, needed for a distribution of values are lacking. These data and additional measurements of the potentiometric surface of the Magothy aquifer, thickness of the clay units, and aquifer-base altitude would increase the knowledge of the hydrogeology of the area and could improve the accuracy of the model.
+Simulated Water Budget
+As part of the calibration procedure, flows across all prescribed head and leakage boundaries were calculated. The flows obtained from the calibrated model are given in table 8; a schematic diagram presenting a revised water-budget analysis based on the simulated flows is given in
+
+32
+
+73° 00' 25
+
+LINE OF EQUAL SIMULATED WATER-TABLE ALTITUDE-Contour interval 2.5 feet. Datum is NGVD of 1929
+
+Lake s_
+
+LINE OF EQUAL WATER-TABLE
+
+ALTITUDE, SEPTEMBER 1982-
+
+Contour interval 5 feet,
+
+except where indicated
+
+I
+
+f I \
+
+72°52'30"
+
+Base from N.Y.S. Department of Transportation, Bellport, 1981; Howells Point, 19B1, NY, 1:24,000
+Figure 12. Simulated and observed (September 1982) water-table configuration .
+33
+
+figure 13. The simulated flows compare favorably with the values obtained through the initial water-budget analysis (fig. 10), although some differences are evident, primarily in the rates of leakage through the confining units.
+
+Table 8. Simulated inflows to and discharges from the study area. [All values are in cubic feet per second]
+
+INFLOWS
+
+Flow rate
+
+Recharge from precipitation Underflow at northern boundary Upward leakage into upper glacial aquifer Recharge from sewage-treatment plants
+
+47.31 9.84
+23.40 1.70
+
+DISCHARGES
+
+Discharge at shore boundary*
+
+21.01
+
+Downward leakage from upper glacial aquifer
+
+5.42
+
+Withdrawal at public-supply and industrial wells 3.11
+
+Discharge to the Swan River
+
+5.15
+
+Discharge to the Carmans River
+
+12.61
+
+Discharge to streams within the study area
+
+15.39
+
+Discharge to tidal reaches of streams
+
+19.45
+
+Discharge to internal prescribed-head nodes^_____0.11
+
+* Includes discharge to tidal reaches of the Swan and Carmans Rivers.
+2 includes Dunton Lake, Robinson's Pond, the upper ponded reach of Little Neck Run, and a pond near Sunrise Highway in Southhaven Park (shown in pi. 1).
+
+Ground-Water Velocities Near the Brookhaven Landfill Site
+
+Once the ground-water flow model was calibrated, it was used to calculate directions and rates of ground-water flow in the vicinity of the landfill site. The average ground-water velocity (v) can be calculated from Darcy's law as:
+Ki v - (8)
+n
+
+where:
+
+K = aquifer hydraulic conductivity [L/T], i = hydraulic gradient as indicated by the slope of the water table
+[dimensionless], and n = effective porosity of the aquifer material [dimensionless].
+
+A scaled vector plot of velocities at the midpoint of elements in the area downgradient from the landfill site (area indicated in fig. 11) is shown in figure 14A. Velocities were calculated from a hydraulic conductivity of
+
+34
+
+Atmosp h 1
+
+water-Rbeucdhgaertgaerteoa north of modeled area
+
+1 46ft3/s
+
+, |
+
+mJJoXdtealelPdSarreSa,, 1
+13*3/5 ^N- -
+47ft3/s
+
+Ground-water discharge to streams in
+water-budget area north of modeled area
+,1
+
+er e
+Streams t
+Ground-water discharge to streams
+in modeled area i
+33ft3/ s
+
+Stream discharge
+*** sw«ttan
+J 46ft 3/s
+1ft 3/s 1
+Consumptive losses in modeled area
+
+0 »c
+e
+n
+
+Ground- water
+divide in upper glacial
+aquifer
+
+Inflow across northern boundary of modeled area
+10ft3/ s
+Upper
+
+J
+' |^| odeled
+H
+
+are 3
+
+glac a aquifer
+
+Underflow from modeled area
+41ft3/ s »
+
+Leakage to Magothy aquifer from upper glacial aquifer north
+of modeled area
+23ft 3/s J
+
+1
+Leakage to Magothy aquifer from upper glacial aquifer in
+modeled area 5e ,ftA3,/s
+
+f
+Leakage into modeled area from Magothy aquifer | 23ft,3/s
+
+Potentiometric divide in
+Magothy aquifer
+
+Magothy a q u i f e r
+
+Underflow from Magothy aquifer
+
+Figure 13. Components and rates of flow in water-budget area as determined by calibrated model. (Compare estimated wlues, fig. 10.)
+
+200 ft/d and an effective aquifer porosity of 0.30. Average ground-water velocities in this area ranged from 0.2 to 4.4 ft/d. The computed velocity at the center of the landfill site is equal to 1.1 ft/d in the direction S44°E.
+Flow lines downgradient from the site are plotted in figure 14B. These lines provide a general indication of paths that would be followed by contaminants entering ground water beneath the sanitary landfill. The flow lines can illustrate only the advective movement of ground water, however. Dispersive mixing, which causes the spreading of contaminants along and transverse to the flow lines, would need to be evaluated before the movement of contaminants from the sanitary landfill could be accurately predicted.
+A second model was developed with data generated by this flow model. This model was used to simulate advective-dispersive transport of conservative solutes from the landfill site and is described in part 3 of this series (Wexler, 1987b).
+35
+
+Base from N.Y.S. Department of Transportation, Bellport, 1981; Howells Point. 1981 , NY, 1:24,000 EXPLANATION
+\ SCALED GROUND-WATER-VELOCITY VECTOR H 0 > 2 [ 4 FEET PER DAY
+DIRECTION OF GROUND-WATER FLOW-Number is approximate travel time from landfill to indicated point, in years. 10- LINE OF EQUAL WATER-TABLE ALTITUDE (SIMULATED), SEPT. 1982-Contour interval 2.5feet. Datum is NGVD of 1929
+Figure 14. Simulated ground-water velocity (A) and direction of ground-water flow (B) in upper glacial aquifer downgradient from Brookhaven landfill site. (Location of area is shown in fig. 11.)
+36
+
+SUMMARY AND CONCLUSIONS
+The hydrogeology of a 26-m±2 area surrounding the Brookhaven landfill site was studied as a preliminary step in the investigation of solute transport from the site. Hydrogeologic information from previous investigations and field data gathered in this study were used to describe the groundwater flow system, delineate the hydrologic boundaries of the area, and provide initial estimates of aquifer and confining-unit properties. Well logs from public-supply wells and from geologic test holes provided data on the extent and thickness of the confining units that separate the upper glacial aquifer from the underlying Magothy aquifer.
+Precipitation is the major source of recharge to the upper glacial aquifer in the study area. Additional sources of recharge include underflow across the northern boundary of the study area and upward leakage through the confining units.
+Ground water is discharged from the upper glacial aquifer as seepage to streams, outflow at the shore to Bellport and Patchogue Bays, downward leakage to the Magothy aquifer in the northern part of the area, and pumpage for agricultural use and public and domestic supply. Most of the pumped water is returned to the aquifer close to the point of withdrawal as irrigation return flow or discharge from cesspools and septic tanks. The most significant redistribution of pumped water is the discharge of water from sewage-treatment plants to ground water.
+A water-table map for September 1982 (pi. 2) was prepared from data gathered from a network of 164 observation wells and 23 stream-stagemeasurement sites. The water-table map represents a period of average water levels in the upper glacial aquifer.
+A two-dimensional finite-element model of the study area was developed to simulate steady-state ground-water levels in the upper glacial aquifer under average conditions. The model was calibrated by adjusting hydrologic values until the simulated water levels matched those observed in September 1982 and simulated flows across the model boundaries compared favorably with estimates calculated in a water-budget analysis. The steady-state water-table altitudes generated by the calibrated model were then used to compute the ground-water velocity in the landfill-site vicinity. The velocity at the center of the site, based on an average aquifer porosity of 30 percent, is 1.1 ft/d with a bearing of S44°E. A solute-transport model developed from data obtained in this study is described in the third report in this series (Wexler, 1987b); additional data on hydrogeologic conditions and ground-water quality in the site vicinity are given in part 1 (Wexler, 1987a).
+37
+
+REFERENCES CITED
+Bear, Jacob, 1979, Hydraulics of ground water: New York, McGraw Hill, 569 p.
+Cohen, Philip, Franke, 0. L., and Foxworthy, B. L., 1968, An atlas of Long Island's water resources: New York State Water Resources Commission Bulletin 62, 117 p.
+de Laguna, Wallace, 1963, Geology of Brookhaven National Laboratory and vicinity, Suffolk County, New York: U.S. Geological Survey Bulletin 1156-A, 35 p.
+Donaldson, C. D., and Koszalka, E. J., 1983a, Potentiometric surface of the Magothy aquifer, Long Island, New York, in March 1979: U.S. Geological Survey Open-File Report 82-160, 2 sheets, 1:125,000.
+________ 1983b, Water table on Long Island, New York, March 1979: U.S. Geological Survey Open-File Report 82-163, 2 sheets, 1:125,000.
+Dunlap, L. E., Lindgren, R. J., and Carr, J. E., 1984, Projected effects of ground-water withdrawals in the Arkansas River Valley, 1980-99, Hamilton and Kearny Counties, southwestern Kansas: U.S. Geological Survey WaterResources Investigations Report 84-4082, 168 p.
+Franke, 0. L, and Cohen, 1972, Regional rates of ground-^water movement on Long Island, New York, jLn_ Geological Survey Research, 1972: U.S. Geological Survey Professional Paper 800-C, p. C271-C277.
+Franke, 0. L., and McClymonds, N. E., 1972, Summary of the hydrologic situation on Long Island, New York, as a guide to water-management alternatives: U.S. Geological Survey Professional Paper 627-F, 59 p.
+Fuller, M. L., 1914, The geology of Long Island, New York: U.S. Geological Survey Professional Paper 82, 231 p.
+Getzen, R. T., 1977, Analog-model analysis of regional three-dimensional flow in the ground-water reservoir of Long Island, New York: U.S. Geological Survey Professional Paper 982, 49 p.
+Harbaugh, A. W., and Getzen, R. T., 1977, Stream simulation in an analog model of the ground-water system on Long Island, New York: U.S. Geological Survey Water-Resources Investigations 77-58, 15 p.
+Jensen, H. M., and Soren, Julian, 1971, Hydrogeologic data from selected wells and test holes in Suffolk County, Long Island, New York: Suffolk County Department of Environmental Control, Long Island Water Resources Bulletin 3, 35 p.
+________ 1974, Hydrogeology of Suffolk County, Long Island, New York, U.S. Geological Survey Hydrologic Investigations Atlas HA-501, 2 sheets.
+Kimmel, G. E., and Braids, 0. C., 1980, Leachate plumes in ground water from Babylon and Islip landfills, Long Island, New York: U.S. Geological Survey Professional Paper 1085, 38 p.
+38
+
+REFERENCES CITED (continued)
+Krulikas, R. K., 1981, Hydrogeologic data from selected wells and test holes in Suffolk County, Long Island, New York, 1972-80: U.S. Geological Survey Open-File Report 81-500, 27 p.
+McClymonds, N. E., and Franke, 0. L., 1972, Water-transmitting properties of aquifers on Long Island, New York: U.S. Geological Survey Professional Paper 627-E, 24 p.
+Miller, J. F., and Frederick, R. H., 1969, The precipitation regime of Long Island, New York: U.S. Geological Survey Professional Paper 627-A, 27 p.
+Nakao, J. H., and Erlichman, F. R., 1978, The water table on Long Island, New York, in March 1975: U.S. Geological Survey Open-File Report 78-569, 10 p.
+Padar, F. V., 1983, Investigation of ground-water contamination from municipal landfills, Nassau County, New York: New York Water Pollution Control Association annual meeting, January 1983, 18 p.
+Pinder, G. F., Gray, W. G., 1977, Finite-element simulation in surface and subsurface hydrology: New York, Academic Press, 259 p.
+Pluhowski, E. J., and Kantrowitz, I. H., 1964, Hydrology of the Babylon-Islip area, Suffolk County, Long Island, New York: U.S. Geological Survey Water-Supply Paper 1768, 119 p.
+Prince, K. R., 1976, The potentiometric surface of the Magothy aquifer on Long Island, New York, in March 1975: U.S. Geological Survey Open-File Report 76-536, 12 p.
+________ 1980, Preliminary investigation of a shallow ground-water flow system associated with Connetquot Brook, Long Island, New York, 1980: U.S. Geological Survey Water-Resources Investgations 80-47, 37 p.
+Reilly, T. E., and Harbaugh, A. W., 1980, A comparison of analog and digital modeling techniques for simulating three-dimensional ground-water flow on Long Island, New York: U.S. Geological Survey Water-Resources Investigations 80-14, 40 p.
+Reilly, T. E., Buxton, H. T., Franke, 0. L., and Wait, R. L., 1983, Effects of sanitary sewers on ground-water levels and streams in Nassau and Suffolk Counties, New York Part 1, geohydrology, modeling strategy, and regional evaluation: U.S. Geological Survey Water-Resources Investigations 82-4045, 45 p.
+Remsen, I., Hornberger, G. M., and Molz, F. J., 1971, Numerical methods in subsurface hydrology with an introduction to the finite-element method: New York, Wiley-Interscience, 389 p.
+Reynolds, R. J., 1982, Base flow of streams on Long Island, New York: U.S. Geological Survey Water-Resources Investigations 81-48, 33 p.
+39
+
+REFERENCES CITED (continued)
+Segerlind, L. J., 1976, Applied finite-element analysis: New York, John Wiley, 422 p.
+Suter, Russell, deLaguna, Wallace, and Perlmutter, N. M., 1949, Mapping of geologic formations and aquifers of Long Island, New York: New York State Water Power and Control Commission Bulletin GW-18, 212 p.
+U.S. Geological Survey, Water resources data for New York, volume 2, Long Island: U.S. Geological Survey Water-Data Report (issued annually).
+Veatch, A. C., Slichter, C. S., Bowman, Isaiah, Crosby, W. 0., and Horton, R. E. , 1906, Underground water resources of Long Island, New York: U.S. Geological Survey Professional Paper 44, 394 p.
+Wang, H. F., and Anderson, M. P., 1982, Introduction to ground-water modelingfinite difference and finite-element methods: San Francisco, W. H. Freeman, 237 p.
+Warren, M. A., de Laguna, Wallace, and Lusczynski, N. J., 1968, Hydrology of Brookhaven National Laboratory and vicinity, Suffolk County, New York: U.S. Geological Survey Bulletin 1156-C, 127 p.
+Wexler, E. J., 1987a, Ground-water flow and solute transport at a municipal landfill site on Long Island, New York Part 1, hydrogeology and water quality: U.S. Geological Survey Water-Resources Investigations Report 86-4070, 37 p.
+________ 1987b, Ground-water flow and solute transport at a municipal landfill site on Long Island, New York Part 3, simulation of solute transport: U.S. Geological Survey Water-Resources Investigations Report 86-4207, 46 p.
+40
+
+Well no.*
+S 3529 S 3530 S 3871 S 9129 S 9130
+S 9135 S33825 S43739 S43741 S43748
+S43750 S44574 S44575 S44576 S44577
+S44578 S44581 S47224 S47746 S47747
+S47750 S47751 S47752 S47756 S47975
+S54883 S56746 S62404 S65603 S65858
+S66508 S70928 S72113 S72114 S72115
+S72116 S72117 S72118 S72119 S72120
+
+Table 9. Description of observation wells in the study area.
+
+[Dash indicates data unavailable]
+
+Latitude/Longitude
+
+404801 404918 405010 404914
+404829
+
+725538 725603 725809 725317
+725305
+
+Sequence number^
+01 01 01 01 01
+
+Qwner^
+uses uses uses
+BNL BNL
+
+Elevation above
+
+sea level
+
+Measuring Land
+
+point
+
+surface
+
+(ft) (ft)
+
+37.11 65.92 128.64 35.81 27.08
+
+34 66 128 34 26
+
+Total well depth (ft)
+45 45 87 29 28
+
+Depth to
+top of screen
+(ft)
+40
+26 25
+
+404821 404738 404817 404829 404752
+
+725402 725654 725806 725803 725757
+
+01 BNL
+
+18.63
+
+01 SCWA
+
+70.60
+
+01 SCDHS 76.88
+
+01 SCDHS 81.74
+
+01 SCDHS 67.08
+
+18 8 5 69 113 102 77 50 46 82 53 49 43 67 39
+
+404917 404728 404728 404728 404731
+
+725840 725548 725548 725548 725535
+
+01 SCDHS 81.32
+
+01 TOB
+
+02 TOB
+
+03 TOB
+
+70.43
+
+01 TOB
+
+66.59
+
+82 48 44 69 52 49 69 59 57 69 72 70 65 50 46
+
+404731 404747 404817 404848 404740
+
+725535 725535 725325 725717 725451
+
+02 TOB
+
+66.40
+
+01 TOB
+
+36.26
+
+01 SCDHS 21.53
+
+01 SCDHS 89.47
+
+01 SCDHS 28.89
+
+65 55 52 35 22 20 19 33 20 91 84 72 31 34 22
+
+405004 404607 404607 404922 405050
+
+725154 725947 725947 725950 725953
+
+405049 404747 405033 404718 405025
+
+725310 725807 725600 725749 725735
+
+01 SCDHS 93.57
+
+02 SCDHS 22.42
+
+01 SCDHS 22.77
+
+01 SCDHS 84.77
+
+01
+
+SCDHS
+
+149.61
+
+01 uses
+
+79.43
+
+01 uses
+
+66.20
+
+01 uses
+
+54.67
+
+01 uses
+
+53.69
+
+01 uses 117.18
+
+94 95 83 24 38 23 24 100 87 87 69 56 151 129 117
+80 66 64 87 52 45 41 54 70 65 118 95 91
+
+405013 404903 404633 404912 404824
+
+725640 725502 725755 725647 725641
+
+404754 404722 404646 404713 404640
+
+725645 725629 725627 725614 725602
+
+01 SCDHS 65.47
+
+66 62 54
+
+01 SCDHS 45.55
+
+45 18 16
+
+01 uses
+
+33.28
+
+34 32 28
+
+01 uses 107.81 108 91 87
+
+01 uses
+
+86.88
+
+86 74 70
+
+01 uses 01 uses 01 uses 01 uses 01 uses
+
+75.61 63.67 54.24 63.24 48.32
+
+76 74 70 63 64 60 55 52 48 64 54 50 48 52 48
+
+Screen length
+(ft)
+5
+3 3
+3 11 4 4 4
+4 2 2 2 4
+2 2 10 10 10
+10 10 10 10 10
+4 5 4
+5 2 4 4 4
+4 4 4 4 4
+
+Well diam. (in)
+2 2 2 2 2
+1 6 2 2 2
+2 2 2 2 2
+2 2 6 6 4
+6 4 4 6 6
+2 2 2 2 2
+4 2 2 2 2
+2 2 2 2 2
+
+Well numbers are assigned by New York State Department of Environmental Conservation. Prefix S designates Suffolk County.
+Sequence numbers are assigned when two or more wells have the same latitude and longitude.
+TOB, Town of Brookhaven; BNL, Brookhaven National Laboratory; SCWA, Suffolk County Water Authority; SCDHS, Suffolk County Department of Health Services; BFD, Brookhaven Fire Department; YFD, Yaphank Fire Department.
+
+41
+
+Well no.*
+S72121 S72122 S72123 S72124 S72125
+S72126 S72127 S72128 S72129 S72130
+S72131 S72132 S72133 S72134 S72136
+S72138 S72139 S72140 S72141 S72142
+S72143 S72144 S72145 S72146 S72147
+S72148 S72149 S72150 S72151 S72152
+S72153 S72154 S72155 S72156 S72157
+S72158 S72159 S72160 S72161 S72162
+S72163 S72164 S72165 S72167 S72168
+
+Table 9. Description of observation wells in the study area (continued)
+
+[Dash indicates data unavailable]
+
+Latitude/Longitude
+
+404816 404742 404805 404805 404713
+
+725609 725605 725545 725556 725548
+
+404700
+404643 404621 404826 404742
+
+725544 725542 725540 725538 725525
+
+404722 404713 404653 404801 404734
+
+725526 725525 725522 725516 725516
+
+404740 404849 404822 404801 404940
+
+725506 725458 725453 725451 725436
+
+404754 404711 404719 404730 404756
+
+725432 725431 725419 725356 725343
+
+404738 404704 404713 404708 404714
+
+725339 725501 725503 725458 725451
+
+Sequence number^ Owner-*
+01 uses 01 uses 01 uses 01 uses 01 uses
+01 uses 01 uses 01 uses 01 uses 01 uses
+01 uses 01 uses 01 uses 01 uses 03 uses
+01 uses 01 uses 01 uses 01 uses 01 uses
+01 uses 01 uses 01 uses 01 uses 01 uses
+01 uses
+01 BFD 01 BFD 01 BFD 01 BFD
+
+Elevation above
+
+sea level
+
+Measuring
+
+Land
+
+point
+
+surface
+
+(ft) (ft)
+
+70.41 76.55 30.70 44.66 67.76
+
+69 75 30 43 67
+
+58.33 55.39 47.58 42.96 27.63
+
+59 55 48 42 28
+
+47.82 64.54 57.08 36.76 29.56
+
+47 64 56 36 29
+
+32.48 43.75 38.54 33.79 44.26
+
+32 44 39 34 44
+
+30.73 23.47 25.95 22.45 31.41
+
+29 20 25 22 30
+
+25.95 17.81 21.86 22.04 26.60
+
+24 17 20 21 25
+
+Total well depth (ft)
+66 72 23 43 64
+63 54 54 44 23
+55 62 61 34 63
+28 40 41 34 46
+34 32 33 33 38
+35 46 47 50 49
+
+Depth to
+top of screen
+(ft)
+62 68 19 39 60
+59 50 50 40 19
+51 58 57 30 59
+24 36 37 30 42
+30 28 29 29 34
+31 30 32 35 34
+
+Screen length
+(ft)
+4 4 4 4 4
+4 4 4 4 4
+4 4 4 4 4
+4 4 4 4 4
+4 4 4 4 4
+4 15 15 15 15
+
+404726 404741 404751 404763 404749
+
+725447 725417 725409 725253 725245
+
+01 BFD 01 BFD 01 BFD 01 BFD 01 BFD
+
+27.75 23.92 23.35 16.03 19.05
+
+27 48 33 15 22 45 30 15 22 47 32 15 14 51 36 15 18 50 35 15
+
+404812 404746 404646 404645 404653
+
+725256 725450 725457 725442 725426
+
+01 BFD 01 BFD 01 BFD 01 BFD 01 BFD
+
+16.22 33.01 10.81 19.38 13.14
+
+15 45 30 15 32 51 36 15
+8 45 30 15 18 42 27 15 12 42 27 15
+
+404631 404623 404622 404624 404605
+
+725402 725359 725409 725430 725433
+
+01 BFD 01 BFD 01 BFD 01 BFD 01 BFD
+
+13.70 10.98 12.79 15.81 10.45
+
+12 42 27 15 9 48 33 15 11 45 30 15 15 45 30 15 9 45 30 15
+
+Well diam. (in)
+2 2 2 2 2
+2 2 2 2 2
+2 2 2 2 2
+2 2 2 2 2
+2 2 2 2 2
+2 6 6 6 4
+6
+8
+6 6 4 8
+4 6 8 8 A
+
+42
+
+Table 9.--Description of observation wells in the study area (continued)
+
+[Dash indicates data unavailable]
+
+Well no. *
+
+Latitude/Longitude
+
+Snuemqbueern^c7e
+
+Owner Jo
+
+Elevation above
+
+sea level
+
+Measuring
+
+Land
+
+point
+
+surface
+
+(ft)
+
+(ft)
+
+Total well depth (ft)
+
+Depth to
+top of screen
+(ft)
+
+Screen length
+(ft)
+
+S72169 S72170 S72171 S72172 S72173
+
+404631 404627 404608 404552 404603
+
+725444 725452 725448 725456 725454
+
+01 BFD 01 BFD 01 BFD 01 BFD 01 BFD
+
+18.84 12.94 8.90 6.79 8.76
+
+16 46 31
+
+15
+
+12 33 18 15
+
+7 46 31 15
+
+5 42 27 15
+
+7 41 26 15
+
+S72174 S72175 S72176 S72177 S72812M
+S72813M S72814M S72815 S72816 S72817
+S72818 S72819 S72820 S72821 S72822
+S72823 S72824 S72825 S72826 S72827
+S72828 S72829 S72830 S72831 S72832
+S72833 S72834 S72835 S72836 S72837
+S72838 S73750 S73751 S73752 S73753
+
+404623 404557 404956 405023 404802
+
+725517 725533 725405 725548 725538
+
+404732 404653 404753 404801 404740
+
+725544 725522 725606 725607 725530
+
+404736 404736 404736 404734 404734
+
+725525 725525 725525 725516 725516
+
+404727 404727 404726 404726 404720
+
+725521 725521 725512 725512 725506
+
+404720 404659 404651 404703 404717
+
+725506 725509 725533 725524 725526
+
+404722 404730 404728 404726 404726
+
+725526 725530 725536 725543 725543
+
+404724 404742 404742 404742 404738
+
+725548 725535 725535 725535 725535
+
+01 BFD 01 BFD 01 BFD 01 YFD
+01 uses
+05 uses 02 uses 01 uses 01 uses 01 uses
+01 uses 02 uses 03 uses 01 uses 02 uses
+01 uses 02 uses 01 uses 02 uses 01 uses
+02 uses 01 uses 01 uses 01 uses 01 uses
+02 uses 01 uses 01 uses 01 uses 02 uses
+01 uses 01 uses 02 uses 03 uses 01 uses
+
+18.13 19.16 31.61 47.60 36.20
+72.91 56.03^ 78.81 78.01 30.25
+23.58 23.95 23.97 29.01 28.75
+21.96 21.65
+0.00 21.43 20.09
+20.00 34.22 59.60 61.10 54.25
+46.13 40.14 54.88 62.75 62.95
+66.78 38.27 38.39 39.28 38.60
+
+17 44 29 18 45 30 30 45 53 38 36 198 189
+69 219 210 56 178 170 78 66 62 79 67 63 29 22 18
+23 8 4 23 23 19 23 43 39 29 23 19 29 43 39
+21 31*34 9 21 30 21 24 20 21 43 39 21 14 10
+21 33 29 33 33 29 59 53 49 61 56 52 54 72 68
+47 72 68 39 34 30 54 64 60 62 54 50 62 73 69
+66 64 60 36 34 29 36 55 50 36 85 80 37 34 29
+
+15 15 15 15 5
+5 5 4 4 4
+4 4 4 4 4
+4 4 4 4 4
+4 4 4 4 4
+4 4 4 4 4
+4 5 5 5 5
+
+Well diam. (in)
+4 4 4 4 6
+6 6 4 4 4
+4 4 4 2 2
+2 2 2 2 2
+2 2 2 2 2
+2 2 2 2 2
+2 2 2 2 2
+2 4 4 4 4
+
+Well numbers are assigned by New York State Department of Environmental Conservation. Prefix S designates Suffolk County; suffix M designates wells serened in Magothy aquifer.
+Sequence numbers are assigned when two or more wells have the same latitude and longitude.
+XOB, Town of Brookhaven; BNL, Brookhaven National Laboratory; SCWA, Suffolk County Water Authority; SCDHS, Suffolk County Department of Health Services; BFD, Brookhaven Fire Department; YFD, Yaphank Fire Department.
+
+- 43
+
+Well no. 1
+S73754 S73755 S73756 S73757 S73758
+S73759 S73760 S73761 S73762 S73763
+S73764 S73765 S73766 S73767 S73768
+S73769 S73770 S73943 S73944 S73945
+S73946 S73947 S73948 S73949 S73951
+S73952 S73953 S73954 S73955 S74765
+S74766 S74767 S74768 S74769 S74770
+S74771 S74772 S74773 S74774
+
+Table 9. Description of observation wells in the study area (continued)
+
+[Dash indicates data unavailable]
+
+Latitude/Longitude
+
+Sequence number 2
+
+Owner^
+
+Elevation above
+
+sea level
+
+Measuring
+
+Land
+
+point
+
+surface
+
+(ft) (ft)
+
+Total well depth (ft)
+
+Depth to
+top of screen
+(ft)
+
+Screen length
+(ft)
+
+404738 404738 404734 404734 404734
+
+725535 725535 725537 725537 725537
+
+02 TOB 38.67 03 TOB 39.79 03 TOB 58.11 02 TOB 57.35 01 TOB 57.38
+
+37 54 49 37 85 80 55 103 98 55 73 68 55 53 48
+
+5 5 5 5 5
+
+404734 404732 404732 404732 404732
+
+725537 725544 725544 725544 725544
+
+04 TOB 57.59 01 TOB 71.74 02 TOB 71.35 03 TOB 71.89 04 TOB 72.17
+
+55 128 123 69 65 60 69 85 80 69 115 110 69 140 135
+
+5 5 5 5 5
+
+404730 404730 404730 404729 404729
+
+725549 725549 725549 725553 725553
+
+01 TOB 71.49 02 TOB 72 -.02 03 TOB 72.41 01 TOB 72.80 02 TOB 72.67
+
+69 58 53 69 78 73 69 108 103 69 63 58 69 79 74
+
+5 5 5 5 5
+
+404753 404749 404740 404740 404730
+
+725606 725543 725530 725530 725530
+
+02 TOB 80.13 01 TOB 42.73 02 TOB 03 TOB 02 TOB 40.03
+
+78 82 77 42 28 23 29 45 43 29 65 63 39 50 48
+
+5 5 2 2 2
+
+404733 404733 404726 404939 404835
+
+725524 725524 725514 725450 725334
+
+404922 404728 404728 404720 404843
+
+725355 725509 725509 725506 725941
+
+01 TOB 24.65
+
+02 TOB 24.62
+
+01 TOB 20.18
+
+01
+
+SCDHS
+
+53.06
+
+01 uses 29.30
+
+01 uses 38.21 01 uses 22.49 02 uses 22.84 03 uses
+01 TOB 84.54
+
+23 42 40 23 60 58 19 37 35 51 32 28 31
+35 22 44 40 22 64 60 21 63 59 85 59 55
+
+2 2 2
+4 4 4 4
+
+404807 404944 404716 404551 404710
+
+725938 725858 725857 725749 725702
+
+01 TOB 62.05
+
+63
+
+01 TOB 100.68 101 68 64
+
+01 TOB 47.79
+
+47
+
+01 TOB 26.98
+
+27 25 21
+
+01 TOB 60.54
+
+61 34 30
+
+4 4 4 4 4
+
+404611 405038 404956 404734
+
+725653 725705 725528 725431
+
+01 TOB 38.28 01 TOB 79.10 01 TOB 58.16 01 TOB 27.32
+
+38 35 31 78 51 47 58 44 40 28 28 24
+
+4 4 4 4
+
+Well dlam. (in)
+4 4 4 4 4
+4 4 4 4 4
+4 4 4 4 4
+4 4 1 1 1
+1 1 1 2 1
+2 2 2 1 2
+2 2 2 2 2
+2 2 2 2
+
+44
+
+

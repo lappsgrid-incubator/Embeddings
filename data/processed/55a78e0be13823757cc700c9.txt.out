@@ -1,0 +1,98 @@
+united state department the interior geological survey principal fact gravity station hampden hampshire county southwest massachusetts kevin bond jeffrey phillips open file report this report preliminary edit reviewed conformity geological survey standard nomenclature 
+any use trade name descriptive purpose imply endorsement geological survey 
+principal fact gravity measurement record 
+eight ooo scale quadrangle locate southwestern 
+massachusetts fig 
+these new 
+measurement make august part ongoing 
+geophysical geologic investigation mesozoic age 
+hartford basin massachusetts connecticut 
+the goal 
+investigation delineate basin boundary 
+enable computer model select gravity profile 
+gravity observation make use lacoste romberg gravity meter bench mark spot elevation give geological survey ooo scale topographic quadrangle map 
+the accuracy elevation base bench mark assume 
+for spot elevation accuracy foot national map accuracy standard unpublished 
+reduction density elevation uncertainty equivalent maximum bouguer gravity uncertainty 
+station latitude longitude digitize directly topographic map precision 
+work base establish fig 
+directly tie base station 
+geological survey reston location map fig 
+base adopt gravity value 980o84 
+milligals determine tie base station washington igb 11687c 9801o3 
+milligals morblll department commerce build 14th street washington 
+computer program exist usgs digital equipment corporation vax computer system use obtain principal fact terrain corrected gravity value 
+program write daniel usgs unpub 
+program use reduce gravity meter reading observe gravity value calculate correct earth tide linear instrument drift 
+the theoretical gravity value calculate use formula geodetic reference system international association geodesy 
+terrain correction compute use program godson usgs unpub 
+program correcting gravity effect station radius 
+away station use method plouff 
+this program also calculate earth curvature correction complete terrain correct bouguer gravity anomaly value 
+these compute terrain correction use mean elevation data digitize second grid correction minute terrain data correction minute terrain data correction 
+use calculate terrain correction give correction gravity anomaly value list appendix 
+select reference international association geodesy geodetic reference system international association geodesy special publication 
+the international gravity standardize net cigsn international association geodesy special publication 
+plouff donald preliminary documentation fortran program compute gravity terrain correction base topography digitize geographic grid geological survey open file report 
+location study area state massachusetts 
+geological survey gravity base station 
+state station name observe gravity 
+elevation latitude longitude near town 
+massachusetts wspbase 
+mgals foot 
+west springfield 
+date observer meter reference base calculate value 
+bond nc17 
+bond nc17 
+description base locate west springfield quadrangle approximately mile south city center west springfield massachusetts along state route also know suffield intersection mill 
+the station northeast side intersection asphalt sidewalk foot north north curb mill foot east east curb suffield 
+location wspbase gravity base west springfield massachusetts 
+location gravity base station geological survey national center reston virginia 
+appendix principal fact gravity data 
+explanation heading identification 
+station location 
+gravity station identification number 
+north latitude degree decimal minute 
+west longitude degree decimal minute 
+elev gravity 
+station elevation foot 
+observe gravity correction 
+observe gravity milligals 
+terrain correction 
+simple bouguer slab correction ligals 
+curv anomaly 
+curvature correction milligals 
+free air 
+free air anomaly milligals 
+complete bouguer 
+complete bouguer anomaly milligals density 
+hartford basin southern massachusetts 
+uulttl 1unb 
+latitude longitude elev gravity terrain curv 
+deg min deg min mgal den 
+wsp wsp wsp wsp wsp wsp wsp wsp wsp wsp wsp wsp wsp wsp wsp wsp wsp wsp wsp wsp20 wsp21 wsp wsp wsp25 wsp26 wsp27 wsp wsp wsp wsp wsp wsp33 wsp wsp wsp wsp wsp wsp wsp wsp41 sou sou sou sou sou sou sou sou sou sou sou sou sou sou sou sou sou sou sou sou20 sou21 sou22 sou23 sou24 sou25 
+rtiiunnfc free complete air boucuer 
+hartford basin southern massachusetts 
+latitude deg min 
+sou26 sou27 sou28 sou29 sou sou sou32 sou33 sou34 sou35 sou36 sou37 sou38 sou39 sou40 sou41 sou42 sou43 sou44 sou45 sou46 sou47 sou48 sou49 sou sou sou sou53 sou sou sou tar meg meg meg weg weg weg weg weg weg weg weg weg weg weg bla weg weg weg weg weg weg20 weg21 weg22 weg23 weg24 weg25 wsp42 wsp43 wsp44 wsp45 wsp46 wsp47 weg26 
+uoacnvci vwnncv iuiio longitude elev gravity terrain curv deg min mgal den 
+iwi trtw free complete air bouguer 
+hartford basin southern massachusetts 
+uutti juraa 
+latitude longitude elev gravity terrain curv 
+deg min 
+deg min mgal den 
+weg27 wec28 weg29 weg30 weg40 weg41 weg42 weg43 weg44 weg45 weg46 weg47 weg48 mou mou mou mou mou mou mou mou mou mou mou mou mou mou mou mou mou mou mou mou20 mou21 wsp48 wsp49 wsp50 mou22 mou23 wsp51 wsp52 ham ham ham ham ham ham ham ham ham ham ham ham ham ham ham ham ham ham ham20 ham21 ham22 ham23 ham24 ham25 
+free complete air douguer 
+hartford basin southern massachusetts 
+latitude longitude elev gravity terrain curv 
+deg min dey min mgals den 
+ham26 ham27 ham28 ham29 ham30 ham40 ham41 ham42 ham43 ham44 ham45 ham46 ham47 ham48 wsp53 ham49 ham50 ham51 ham52 ham ham54 ham55 ham ham ham ham ham60 ham61 ham62 ham63 ham64 ham65 mon mon mon mon mon mon mon mon mon mon mon mon mon mon mon mon mon mon mon mon20 mon21 mon22 mon23 mon24 mon25 mon26 mon27 mon28 mon29 mon mon mon32 mon 
+free complete air bouguer 
+hartford basin southern massachusetts 
+uuoc nvc uunncu juino 
+latitude longitude elev gravity terrain curv 
+deg min 
+deg min mgals den 
+mon34 mon35 mon36 mon37 mon38 mon39 mon40 mon41 mon42 mon43 mon44 mon45 mon46 mon47 mon48 mon49 mon50 mon51 mon52 mon53 mon54 mon55 mon56 mon57 mon58 mon59 mon60 mon61 mon62 mon63 mon64 mon65 mon66 mon67 mon68 mon69 wor wor wor wor wor wor wor wor wor wor wor wor wor wor wor wor wor wor wsp54 
+rtii free complete air boucuer 

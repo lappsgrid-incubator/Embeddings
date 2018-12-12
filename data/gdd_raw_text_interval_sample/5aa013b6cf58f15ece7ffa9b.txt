@@ -1,0 +1,780 @@
+ADVANCIS IN MATHJHATICS 92, 231-265 (1992)
+
+Automorphisms of the Lattice of Recursively Enumerable Sets: Orbits*
+R. G. DOWNJZY
+Victoria University of Wellington, private bag, Wellington, New Zealand
+AND
+MICHAEL STOB
+Calvin College, Grand Rapids, Michigan 49506
+
+INTRODUCTION
+An important program in the study of the structure of 8, the lattice of r.e. sets, is the classilication of the orbits under Aut(J), the automorphism group of 8. Obviously, the class of linite sets of a given cardinality and the class of inllnite+zoinlmite recursive sets form orbits. But other than these, relatively few orbits are known. Harrington has shown that the creative sets form an orbit. The most important result in the area is still Soare’s proof [Sol] that maximal sets (sets which are coatoms in &* = ~8m’ odulo the ideal of llnite sets) form an orbit. The proof of this result contains an intricate and powerful construction which has since been used to construct automorphisms by Maass [Ml, Maass and Stob [MSt], and Stob [St]. It remains the most powerful method of constructing automorphisms.
+The principal result of this paper is the existence of a new orbit, the hemimaximal sets. A r.e. set H is hemimaximal if there are a maximal set 44 and disjoint r.e. sets M,,, M1 such that J40 u M1 = 44, each Mi is nonrecursive, and il4,, = H. In Section 1, we prove that the hemimaximal sets form an orbit by extending Soare’s proof for maximal sets and detail the properties of splittings of maximal sets which led us to this result. In Section 2, we study the degrees of hemimaximal sets. (All degrees mentioned in this paper are r.e.) We show that hemimaximal sets exist in every high degree, and that for every degree a > 0 there is a hemimaximal set H such
+
+* The authors were supported DMS 85-21712, respectively.
+
+by National Science Foundation Grants DMS W-01242 and
+237
+OOOl-8708/92 S7.50 Copyright 0 19!42by Academic Prc% Inc. All tights of reproduction in any fom reserved.
+
+238 DOWNEY AND STOB
+
+that deg(jY) < a. However, there are some r.e. degrees which contain no
+
+hemimaximal sets. Thus the class of hemimaximal sets, 2, provides an
+
+example of a detinable (in 8 in the language of lattices) class of r.e. sets
+
+which forms an orbit but contains r.e. sets of low r.e. degree. This is the tirst
+
+example of such an orbit. Furthermore, the class of degrees of sets in X is
+
+not closed upward; again this is the lirst example of a class definable over
+
+6 with this property.
+
+In Section 3, we turn to the question of which orbits contain complete
+
+r.e. sets. Soare has conjectured that the orbit of every nonrecursive r.e. set
+
+contains a complete set. Exploiting further our idea of lmding
+
+automorphism types from splittings, we introduce the hallhemimaximal
+
+sets and show that every halfhemimaximal set is automorphic to a com-
+
+plete set. An r.e. set A is haljhernimaximal if A has a splitting into disjoint,
+
+nonrecursive, r.e. sets AO, Al such that A,, is hemimaximal. We show that,
+
+although not every set is hallhemimaximal, there are large natural classes
+
+of halfhemimaximal r.e. sets (such as all low simple r.e. sets).
+
+In Section 4 we discuss the prospects of extending the idea of Section 1
+
+to splittings of other sets which form orbits. Our main positive result is the
+
+classification of all orbits which arise from splitting quasimaximal sets (sets
+
+which are the intersection of finitely many maximal sets). We conclude in
+
+Section 5 with further remarks and a list of open questions.
+
+Our notation is standard; a reference is Soare [SOL]. In particular, a *
+
+affixed to a binary relation means up to a linite set; e.g., A Z* B means
+
+A - B is finite. Also, we will use heavily the notion of e-states. If { I’e} ~l ~
+
+is a recursive array of r.e. sets with simultaneous enumeration given by
+
+1LL,sEco then ~~,~(x), the e-state of x at 3, is {i < e 1x E Vi,s}. The e-state of x, crJx), is {i < e 1x e Vi}. e-states are ordered by the relation 0 > r if
+
+and only if (lli)(Vj<i)[(jegejET)
+
+and iEu--T]. Thus the empty set is
+
+the least e-state and {O, 1,2, .... e} is the greatest. If we have a simultaneous
+
+enumeration of a recursive array of finite sets including A and B, A\B=
+
+{x 1 (!ls)[x~A~--B~]} and A \ B denotes (A\B)nB.
+
+1. HEMMAXIMAL
+
+SETS FORM AN ORBIT
+
+DEFINITION 1. If A is any nonrecursive r.e. set, a nontrivial splitting of A is a pair of disjoint nonrecursive r.e. sets A,,, Al such that A = A0 u Al.
+Friedberg was the first to show that every nonrecursive r.e. set A has a nontrivial splitting. In fact, the splittings that Friedberg produced had the slightly stronger property of Definition 2.
+
+DEFINITION 2. A nontrivial splitting A,,, A, of A is a Friedberg splitting
+
+AUTOMORPHISMS
+
+OF 8
+
+239
+
+if for every r.e. W, if W- A is not r.e., then each of W- A,,, W- AI is not r.e.
+Sacks showed that nontrivial splittings A,,, At of A always exist with the added property that AO+ A and AI + A (and in fact it can be guaranteed that each of deg(AJ and deg(Al) is low).
+
+DEFINITION 3. A set A is hemimaximal if there are a maximal set II~ and a nontrivial splitting MO, MI of A4 such that A = MO. (More generally, if P is any property of r.e. sets, A is herniP is there is a set M with property P and a nontrivial splitting J4,,, M, of M such that A = MO.)
+Our investigation of hemimaximal sets was initially motivated by the following two theorems.
+
+THEOREM 1. Euery nontrivial splitting of a maximal set is a Friedberg splitting.
+
+Proof Suppose that iVO, A4I form a nontrivial splitting of the maximal
+
+set M and suppose that W-M is not r.e. Then W- it4 is infinite, so
+
+i@=* W. Now W-M02 W-M=*M
+
+so that if W-M0 is r.e.,
+
+a0 = * M, u ( W- M,,) and so n0 is r.e. This contradicts the nonrecursive-
+
+ness of MO. Similarly, W - MI is not r.e. 1
+
+DEFINITION 4 (Downey, [D]). A pair of disjoint r.e. sets AO, At forms a maximal pair if whenever BO, Bt are such that Biz Ai, i = 0, 1, and BOnBI=@ then Bi-Ajis finite for i=O, 1.
+
+THEOREM 2. Every Friedberg splitting of a simple set forms a maximal pair.
+Proof Suppose that A is simple and that A,,, At is a Friedberg splitting of A, B,,zA,,, BIzAI, and B,,nBI=@. Now B,,-AI=BO is r.e., thus B0 - A is r.e. (since AO, AI form a Friedberg splitting of A). Since A is simple, this implies that B0 - A is finite. Similarly, BI -A is finite. 1
+Theorems 1 and 2 led us to conjecture the following.
+TI-EOREM 3. Zf C, D are hemimaximal sets, then there is @o Aut(8) such that @(C) = D.
+Proof Let A and B maximal be given ,such that AO, AI and BO, BI form nontrivial splittings of A and B respectively. Soare [Sol] shows us how to construct @E Aut(&?) such that @(A) = B. We will modify his proof so that in addition @(Ai) = Bi for each i.
+
+607/92/2-8
+
+240
+
+DOWNEY AND STOB
+
+Soare constructs four recursive arrays, { UC}eEW, { Ve}CEm, { OC}eEW,
+R.Lco~ such that the map @ delined by @(Ue) = fiC, and @-I( Ve) = PC induces an automorphism of &‘*. (It is enough to construct an
+automorphism of 8* since Soare has also shown that if A and B are r.e.
+sets which are intinite and coinlinite, and there is CDE Aut(&‘*) such that C?
+maps the equivalence class of A to B, then there is an automorphism of 8’ which maps A to B.) To insure that @ defined in this way is defined on all
+of &* and is onto &‘*, Soare guarantees that
+
+To guarantee that @ preserves inclusions, the only other requirement on @,
+Soare divides the problem into two subproblems, the so-called J to B part
+and the ,4 to B part. To state exactly what each part requires, we need the
+following detinition.
+
+DEFINITION 5. Let {XC}eEa and { Ye}eE~ be recursive arrays of r.e. sets. The full e-stute, v of x with respect to {Xe}eEU, { Ye}eEU is the triple (e, 0, r), where o is the e-state of x with respect to {Xe}eEW and r is the e-state of x with respect to { YejeEU. (Given x and s, v=,*(x) is the approximation to the full e-state of x at stage s in some fixed simultaneous enumeration of all the sets in the arrays {XC}eEU, { Ye}eEU.)
+Now the 1 to B part of the requirement amounts to
+
+for each full e-state v,
+inlinitely many elements of 2 have e-state v with respect to ~~e~eH0~ 1ELu
+iff
+inlinitely many elements of B have e-state v with respect to Welsh ~KLEUJ.
+
+(21
+
+Similarly, the -4 to B requirement is
+for each full e-state v,
+intinitely many elements of A have e-state v with respect to VLLm t Qe.zm
+iff
+intinitely many elements of B have e-state v with respect to
+VLLJ~ I~elew
+
+(3)
+
+AUTOMORPHISMSOFff
+
+241
+
+It is clear that (1 ), (2), and (3) guarantee that @ as defined above is an automorphism such that @(A) = *B. Now for our theorem, it is enough to replace (3) by
+
+for each i and for each full e-state v,
+infinitely many elements of Ai have e-state v with respect to l ~elmJ9 f t.Lm
+iff
+infinitely many elements of Bi have e-state v with respect to m?lt?aLl~ l u?ao.
+
+(4)
+
+The most dihicult of the three conditions (1 ), (2), and (3) is (3) (and our (4)). The primary reason for this difficulty is the conflict between (2) and (3). To see why this is so, suppose that UOis given. (Suppose for instance, because of (1), that UO is enumerated to satisfy UO= IV,,.) Then, as we observe elements in U,, n ,Z, we must enumerate certain elements in tiO while they remain in B. However, these elements may later enter B thereby threatening (3) with respect to UO. For if oO n B is intlnite, we must have that U,, n A is iminite but we have no control over UO. Thus a necessary condition for meeting (3) seems to be that if intinitely many elements enter B while in oO, iminitely many elements of A must be in UO. Soare extends this analysis to all e-states to get a sutkient condition on the enumeration on all the sets in the four arrays above for (3) to be met. A preliminary definition is needed.
+
+DEFINITION 6. Given full e-states v = (e, cr,T) and v’ = (e, o’, r’), v < v’ if c s O’ and r 2 T’. (The relation < is pronounced “is covered by.“)
+
+LEMMA 1 (Soare’s Extension Lemma), Assume thut A und B are infinite
+
+r.e. sets und {U”},,Em, {r”jnE,,,, {n,,}nGW, {Vn}“GW ure recursiue urruys of
+
+r.e. sets. Suppose that there is a simultaneous enumeration of a recursive
+
+array including all the above such that A \ p,, = 0 = B \ o,,, for all n. For
+
+each full e-state v with respect to { U,,},,EW, {r”},,Ea, define the r.e. set
+
+D:={xix~A~+~
+
+-AS for some s such that v~,~(x)= v}. Similarly, define
+
+Dt with 4 {DnjnEa, and {vnj,,em in place of A, {UmjnGm, and {rnjEEW. Furthermore suppose that ’
+
+(Vv)[Df infinite =S (Jv’)[v < v’ und D$ infinite]]
+
+and
+
+(Vv)[Dt uzjmite~ (W)[v’ <v and DT mfinite]].
+
+242 DOWNEYANDSTOB
+
+Then there are r.e. sets L?,,extending o,, and v,, extending vE such that (3) above is satisfied.
+The first step then in our proof is to extend the Extension Lemma to pairs of r.e. sets to guarantee that (4) above is met. To this end, define D$ as Dt above but with Ai in place of A for each i = 0, 1. Similarly, define D?. Then we have
+
+LEMMA 2. Let A and B be infinite r.e. sets and AO, A, and BO, BI form splittings of A and B, respectively. Suppose that { U”}“E ~, { v,,}HE ~, mln~w 1Kl”GW are recursive arrays of r.e. sets and that there is a simultaneous enumeration of a recursive array including all the above such
+that Ai \ rn = @ = Bi \ fi,,, for all n and i. Furthermore suppose that for each i, i=O, 1,
+
+(Vv)[D: infinite = (!lv’)[v < v’ and D$ injmite]] and
+(Vv)[D$ infinite z. (Iv’)[v’ < v and DF infinite]].
+
+(6)
+
+Then there are r.e. sets I?” extending fi,, and pn extending r,, such that (4) above is satisfied.
+
+Proof of Lemma 2. Apply Soare’s Extension Lemma (Lemma 1) to the pair A,,, B,,, in place of A, B. The extension guaranteed there meets (4) with respect to A0 and I&, Further, the proof of Soare’s Extension Lemma guarantees that cn - 0” G B,, and pn - rn G A0 for all n. Now, renaming the sets on and Vn which result from this application of Lemma 1 to 0” and rn, we see that the hypotheses of the Lemma 1 are now satisfied with AI and BI in place of A and B. Thus, applying the Extension Lemma again, we get that (4) is satisfied with respect to AI, BI.
+It remains to meet (1) and (2) and satisfy the hypotheses of Lemma 2. Obviously, (1) can be satisfied by taking Ue = WC and Ve= We for all e, However, to facilitate meeting (2) and the hypotheses of Lemma 1, Soare chooses the sets U,, and Vn to have certain further properties. He proves
+
+LEMMA 3. Let A4 be maximal. Then there is a simultaneous enumeration of a recursive array {Z,,}n ~~ satisfying (1 ), with Z. = M, and such that
+
+(Vn) [Zn\M infinite Q Zn - M infinite e Zn 2 M]
+
+(7)
+
+and
+
+AUTOMORPHISMSOF8
+
+243
+
+We shall choose { Un},,em and { V,,}nCm as the arrays resulting from the application of Lemma 3 to A and B respectively. Thus, (1) is satisfied. It remains to meet (2) and the hypotheses of the Extension Lemma. Now for maximal sets, (2) amounts to
+
+and similarly with B and Vn in place of ,4 and Un. Thus, to complete the proof, we need to prove the following.
+LEMMA 4. Given maximal sets A and B, let { Cl,,},,E~ and { V” },, E~ be the recursive arrays given by Lemma 3 for A and B, respectively. Then there exist recursive arrays { u,,},, l m, { p,,},,eW together with a simultaneous enumeration of a recursive array including all of { U,, I,, Em, { Vn}n EW, mLN and l rnlnEm which satisfy the hypotheses of Lemma 2 and also (2) which here asserts that
+
+Proof This proof follows the proof of the analogous lemma of Soare [Sol, Theorem 3.21 very closely. At the end of stage s we will have defined As and Bs. Given As and Bs, deline $s(x) to be the function which maps As onto Bs in increasing order. Let tj - 1 be the identity permutation. Let $ = lims tis. We will use + to govern our enumeration of the sets un and v,,. We must enumerate 0” and rn to satisfy (9). We will thus attempt to guarantee that xe U,, + $(x) E o,, and similarly for r”. The two problems with this strategy are that we only have an approximation tis(x) to $(x) at any stage s, and that we must not enumerate so much in o,, so as to violate the hypotheses of the Extension Lemma. Actually, the lirst problem is minor; the second is handled by not enumerating an element y in u,, until the state to which it will be raised is successfully covered by elements entering both A0 and AI.
+CONSTRUCTION. Stage s = 4t. Let x be the unique element enumerated in some Ue at stage t in the given simultaneous enumeration of { U”},,Em. Enumerate x in IEJ~,~L.et As= U,,s.
+Stages = 4t + 1. As in stage 4t with V,, for U,, and B for A. Stages = 4t + 2. Let (x’, e’) be the lirst pair (x, e) with the following properties Pl-P4. If there exist such a pair, enumerate +s-l(x’)e De,,*. Otherwise do nothing at this stage.
+
+244 DOWNEYANDSTOB
+
+DeIine
+
+(Vi)iCo,l (~u)(~~)(~~~)(~~~)[~~<u<s- 1 and yE‘4i,“+l-
+
+Ai,” and pi 2 {e} ucro and ri or% and CT,= {i 1i<e and
+
+JJEUi,“} and rl= {i 1i<x and YE vi,“}].
+
+(P4)
+
+Stage 3 = 4t + 3. Similarly, attempt to enumerate some element $;Yl(x’) h Ve,,s, where Ai, Un, on, V”, r,, and tj-,(x) in the preceding stage are replaced by Z3i, vn, r”, lJn, o,, and $:2,(x). Also, in P3, replace (Vi)iCC by (Vi)iGC to reflect the priority of ue over rC.
+
+CLAIM I. The hypotheses of the Extension Lemma, Lemma 2, are met
+by the above arrays and simultaneous enumeration.
+Proof of Claim 1. It is obvious that Bi \ o,, = @ = Ai Y,, r,, for all n and i since we enumerate only elements es- i(x) in o,,. By “speeding up” the enumeration of A if necessary, we may assume that infinitely many x appear in each Ai before appearing in any Uj, j > 0, or rj. Thus we need only verify (5) and (6) for states 0 # @. We verify (5); the veritication of (6) is dual.
+Fix i, e, and the full e-state v. = (e, co, ro) with co # 0. Assume that D$ is finite for all vi 2 vo. We must show that for each r, G ro, only linitely Eany x wsose e-state with respect to { I’n}EEm is r1 are allowed to enter U,,O= lJ {U” 1n E co}. Since e-states increase with time it follows that D: must be finite also.
+Let e. = max co. It follows by P2 of the construction and (8) of Lemma 3 that DC0\ 0” is tinite for all n -Ceo. Hence, if there are intinitely many x in ogO, almost all such x enter De0 only after x E o,,, for all n E go - {eo}. But by P4 of the construction and our assumption that Dti is finite for all vi 2 vo, at most tinitely many x already in fi { u” 1n E u. - {eo} } will be allowed to enter De0 while the e-state of x with respect to { I’,,}nEm is some or z ro.
+
+CLAIM 2. (9) is satisfied.
+
+AUTOMORPHISMSOFd?
+
+245
+
+Proof of Claim 2. It is only here that we use that A,,, Al and B,,, Bl are nontrivial splittings. This implies that if U is any r.e. set such that U-A is infinite, then U \ Ai is infinite for each i. (Otherwise, since U-A =* 2, Ai=* Alelu U and hence Ai is r.e.)
+We prove (9) by induction on e. Assume then that (9) is true for i<e. If Ue 2 2 then U=\A is llnite by (7) and hence ue.B and oe - B are llnite. Assume then that 17~2 1. Choose JJ,,such that for all x E 2, x > JJ~implies
+
+(Vi)i<e [[XE Ui++(x)~ oil and [xc ri-=-$(~)~ vi]].
+We claim that for any x0 E 2, x,, 2 y0 implies $(x0) E De. Define c,, = {i 1i<e and UizA} and define
+
+Now UO,,2 A and hence UoO\ Ai must be infinite for i= 0,l by the property of nontrivial splittings of A mentioned at the beginning of the proof of this claim. Deline
+70 = {i 1i < x0 and $(x0) E vi}.
+Now if i < x0 and i$7,,, then vi-B is llnite and hence Vi\B is tinite by (7). But for any i, Vi\B finite implies vi\A linite. Hence there exist cl 2 go and 7I ~7~, such that
+
+But then by P4, $(x0) is eventually enumerated in De. The case of e - ‘( I’J = * r= is handled similarly.
+The combination of Lemmas (2) and (3) establishes Theorem 1. 1
+2. DEGREZS OF HEMIMAXIMAL SETS
+The degrees of maximal sets are precisely the high degrees. One goal of this work was to find an orbit in which a much larger class of degrees is represented. It is not known, for instance, whether there is an orbit in which every nonzero r.e. degree is represented.
+DEFINITION 7. H = {deg(A) 1A is hemimaximal}. We summarize the results of this section:
+
+246 DOWNEYANDSTOB
+
+(a) For every nonzero c r.e., there is a cc such that aEH (Theorem 4).
+(b) HI GH (Theorem 5).
+(c) There is a nonzero degree c, such that c $ H (Theorem 6).
+(d) For all a<b, if beLl, there is a degree c#H such that a<c<b (Theorem 7).
+By (a) and (b), H is an orbit class which contains more than only high degrees. (An orbit class is a class of r.e. degrees determined by an orbit of Aut(&).) This is the tirst example of such an orbit class. All previously known orbits consisted of only recursive sets or only high sets. By (a) and (d), H is not closed upwards in the r.e. degrees; this is the first example of any definable (in 8) class of r.e. sets with this property. We turn now to the proofs of the theorems mentioned above.
+
+THEOREM 4. Suppose that 0 -+ C. Then there is a hemimaximal set A, such that 0 C~ A G* C.
+ProojI We will construct M maximal and A, B a nontrivial splitting of M such that A is nonrecursive and A & C. A <r C is guaranteed by the usual technique of permitting. M will be constructed by the usual e-state construction of a maximal set. The requirements, including those to make A nonrecursive, are thus as follows:
+Ne: Ii@12 e;
+Pe: We#&
+Qe: n has almost constant e-state.
+The priority ranking is QO< NO < P,, < QI . . .. At the end of stage s, the elements of ii? are denoted by rn; < rn; < .. .. Note that the requirements Pe guarantee that A is nonrecursive. To ensure as well that B is nonrecursive we may assume that C has low r.e. degree. This is enough since deg( A) u deg( B) = deg( M) and deg(M) is high.
+
+CONSTRUCTION. Stages + 1. Step 1. (P,,) Let c be the least element enumerated in C at stage s + 1. Let e be the least integer (if any) such that We n A = @ and there is an x satisfying
+
+Cal xe We,snHs,
+
+@J x# {%,, .... m:} (priority),
+
+(cl x>c
+
+(permitting).
+
+Enumerate the least such x in A.
+
+AUTOMORPHISMSO8F
+
+247
+
+Step 2. (Qi) Find the least i (if any) and the least j for i such that oi,Jm;) -=G&$) and if x was enumerated in A at step 1, rn; <x. Enumerate rn; m B.
+
+LEMMA 0. A<=C. ProojI If s is a stage such that CJx] = C[x], then As[x] = A[x].
+
+LEMMA 1. For every e, Ne is satisfied.
+ProoJ N= is injured by each of PO, Pi, .... P+i at most once each. It is injured thereafter by Qi, i< e at most 2’ times after it has ceased being injured by Qj, j< i. Thus Ne is injured only finitely often and is satisfied.
+
+LEMMA 2. For every e, Qe is satisfied.
+ProojI We show that for all j > i > e, if mi = lims rn: and mj = lim3 rn; then oJmi) > aJrnj). (This implies that Qe is satisfied; since there are only Iinitely many e-states the sequence aJrne) > cJrne + l) 2 aJrn= + z) > . . . must have a limit.) If this is not true, there must be cotinitely many s such that crJm;) < aeJrnJ), rn; = mi and m;=mj. But at any such stage, rn; would be enumerated in B at step 2.
+LEMMA 3. For every e, PC is satisfied.
+ProoJ Otherwise, let e be the least counterexample; we show that C is recursive, contrary to hypothesis. Let c be the e-state guaranteed by Lemma 2; e Gc since We = 2. Let &, be such that j > &, implies that rnj = lims rnj has e-state 0. Let s,, be such that j < &,*my = mj and ac,Jrnz) = a.
+
+CLAIM. Suppose that s >s,, is such that x=m;, ja i,,, and crJx) = a. Then for all t > s there is y > x such that y = rnj, j> i,,, and aJ y) = a.
+(The claim implies the lemma, since to answer k o C, find 3 2 s,, such that there is x > k such that x satislies the hypotheses on x in the claim. Then by the claim, C does not permit below x after stage s or else x or some element y > x is available at that stage to be enumerated in A at step 1.)
+Proof of the Claim. If xo a, then x satisties the conclusion for all t. Otherwise, let t be such that x enters A4 at stage t (necessarily in step 2). Then x = rni and there is y = rni, j> i such that aJx) < ai,J y). Then y > x since j> i and aJy) = a&x) = a else rn; would be enumerated in B instead of x. Thus y satisfies the conclusion at t. Now if yo i@, then y satislies the conclusion of the claim for all later t else we can repeat the above argument with y in place of x. m
+
+248 DOWNEYANDSTOB
+
+THEOREM 5. For every high r.e. degree a, there, is a hemimaximal set A such that deg(A) = a.
+
+ProojI Our proof is a slight modilication of Lachlan’s version of Mar-
+
+tin’s proof (see [So2, Theorem X1,2.3]) that every high degree contains a
+
+maximal set. Given a high r.e. degree a, there is a r.e. set D of degree a, and
+
+an enumeration {Ds}sEa of D such that if D={dO<d,<dzq-.},
+
+ijs=
+
+{d;<d; < . . ‘1, and en(x) = (ps)[d; = dX], then cn dominates every total
+
+recursive function. We will construct disjoint r.e. sets A and B such that
+
+&f= A u B is maximal, M=r D, B is nonrecursive, and B ST A. Thus A
+
+will be our desired hemimaximal set of degree a. The requirements are the
+
+usual maximal set requirements.
+
+Qe: &? has almost constant e-state,
+
+and the requirements to make B nonrecursive,
+
+PC: iJ# we.
+
+In addition we must ensure that B & A and A == D. As in Theorem 4, MS= {rni<rnTc ..e}.
+
+CONSTRUCTION. Stage s + 1. Step 1 (To satisfy Qe.) Given e < i < j, we say rn; is attracted to rn; for Qe if
+
+(Ve’<e)[WCt,sz{mi ,..., rn;j* Wes,snBs#@].
+
+(12)
+
+(The condition in (12) reflects the priority of Pepover Qe for e’ce.) Choose the least i such that there are e, i, and j such that rn: is attracted to rnJ for Qe and such that
+
+Let e be least for i and j least for e. Enumerate each of rn:, .... my-i into A s+l. (Thus m~~~=m;+k for all ka0.)
+
+Step 2. Let z=(py)[d;+‘#dJ,].
+
+If some x~rn;~+~ was
+
+enumerated in A at step 1, do nothing more. Else enumerate m;z+z in As+,
+
+and m;z+3 in Bs+, unless one of these two integers has a higher 2z-state
+
+than both of rn;= and rn;=+, . In that case, enumerate rniz in As+ i and
+
+mL+ l h k+ l. (The purpose of the choice in step 2 is this: if some rn: for
+
+AUTOMORPHISMSOF8
+
+249
+
+k2z is attracted to at least one of rnsz, m;z+l, m;z+z, or m;z+3, then it will be attracted to at least one of the two of these elements which remain in j@ after step 2).
+
+LEMMA 1. For each e, lims rnz = me zkfinite.
+ProojI By induction on e. Suppose that for i-~ e there is a stage s,, such that mi = rnt”. Let t > sObe such that di = de. Then step 2 never causes rnz to change at any stage s > t. However, step 1 causes rnz to change after s,, only to increase its e-state. This happens 2e times at most.
+
+LEMMA 2. D+M,B&A
+ProoJ D&M by step 2; if mze+3=m2e+3, then dz=de. M+ D since if d;=de, then eeM iff eEMS. B & A since elements enter B only at step 2 and when such an integer enters B, a smaller integer enters A at the same stage.
+
+LEMMA 3. For each e, (a) QC is met, (b) Wez@*WenB#O.(ThisimpliesPe.)
+
+ProoJ The proof is by induction on e. Suppose then that the lemma is true for i-~ e. This implies, by (a), that there are an (e - 1)-state cO and an &, such that for all i > &, eCPl(mi) = o,,. Let q, be such that if i < iO, then m?=m. By (b), we may also assume that for all ice, either ki ~~n isO# 0 or (gj < &)[mj # WJ. The signilicance of this last assump-
+tion is that clause (12) of the definition of attraction for Qe will hold for all my where i 2 &, and s 2 s,,.
+Now assume for a contadiction that W=n i@ and PC n A? are both inlinite; let or =cOu {e}.
+Dellne a recursive function h as follows. If x<mk, let h(x)=O. For x > rn@, define
+
+h(x) = (,as)[x E MT or OJX) > croor (gi)[x = rn: and ae,Jrn;) = co and ($> i)[aeJmJ > al]]].
+
+(13)
+
+(If the last clause of (13) holds, then x=m: is attracted to my for Qe, for some e’ < e.)
+
+CLAIM. Zf h(x) is defined by the last clause of (13), XEM, and crJx) = ao, then d!$*) = dX.
+
+250 DOWNEY AND STOB
+To see that the claim gives the desired contradiction, note that the conclusion implies that c~(x) c /z(x) + 1. However, there are intinitely many x satisfying the hypotheses of the claim; namely, any x E lVe n I$$ which is not one of mO, ml, .... mjO.Thus cD(x) does not dominate the recursive function h(x) + 1.
+Proof of Claim. Fix x and assume that the hypothesis of the claim holds for x. We will show that
+
+Now (14) implies the conclusion of the claim since it implies that for all 3, there is an e’ <e such that x is attracted to some y > x for the sake of Qe, at all stages s > /r(x). We prove (14) by induction on s 2 /z(x). For 3 = /z(x), (14) is satisfied with k =j. Suppose 3 > /r(x) and rn; satisfies (14) for s but not for s + 1. There are two cases.
+
+Case 1. mLE&lS+l by step 1. Then there are p and q, p < q, such
+
+that step 1 applies with i = p and j= q. Now p < k and k # q since
+
+%@C+~. Also x<rn; since x$MY+,. Thus G&VI;) > o=Jrni) since
+
+otherwise we would have chosen j = k in step 1. Thus (14) holds at s + 1
+
+via
+
+MS4
+
+=ms+l P
+
+.
+
+Case 2. rniEMS+, by step 2. Then (14) still holds at s + 1 by virtue of the remark made at the end of step 2 of the construction.
+
+We turn now to the proof of (b). Suppose that We 2 M and B n We = 0. Then, using (a) for i < e, there are il and sr such that
+
+Similar to the proof of Theorem 4, we have the following claim.
+
+CLAIM. Suppose that j and sz are such that 2j + 3 2 i, , sz > sl, andfor all
+
+i, ij-il<i<2j+3,
+
+theno&my)=gl,
+
+then,foralls>~~, m;;+3=m&+3.
+
+Proof of Claim. Suppose to the contrary that .r is least and k least for
+s such that il < k < 2j + 3 and rn; # rnL+ ‘. There are two cases.
+
+Case 1. Step 1 applied at s + 1 with i= k. Now rni can only be attracted to my for some Qe,, e’ < e for the conclusion of (12) does not hold with e in place of e’. Thus, we have that c~.~+I(mi+ r) > gr. But then we
+
+AUTOMORPHISMSOF8
+
+251
+
+can argue by induction on t > 3 that for all f, there is j such that ii <j < k for which cJ$) > cl. This contradicts the choice of iI.
+Cu.re 2. Step 2 applied at s + 1. In this case, rn; is enumerated in A s+l ad %+1 is enumerated in Bs+ 1. Since k is even, k + I < 2j + 3. Thus, rni+ I l We,S.This gives a contradiction since We n B was assumed to be empty.
+The claim implies part (b) of the lemma for since there are infinitely many j satisfying the hypotheses of the claim, the conclusion implies that A4 is recursive,- contradicting Lemma 2. u
+We remark that not just any maximal set 44 will have the property of A4 in Theorem 5, namely that there is a nontrivial splitting A, B of A4 such that A =r M. The methods of [DW] may be used to construct a maximal set it4 such that if A, B is a nontrivial splitting of ii4, then A and B form a minimal pair.
+
+THEOREM 6. There is an r.e. set C such that zy A == C, then A is not hemimaximal.
+l+f~t Let tGe, re, we, VeLw be an effective listing of all quadruples where GOTr,c are recursive functionals and Ue, I’e are disjoint r.e. sets. Then the requirements on C amount to the following:
+Re: De(C) = Ue and re( Ue) = C implies Ue u Veis not maximal.
+
+We will attempt to ensure that Ue u Ve is not maximal by enumerating an array {Te,i}isco of disjoint, finite, r.e. sets such that Te,i g Ue u Vc. This guarantees that not only is Ue u Ve not maximal, it is not even hyperhypersimple. Thus the requirements Re will be divided into the following:
+Re,i: @JC) = UCand re( 17~)= C implies Te,i n UCu Ve# @.
+
+We will assume that the requirements are ordered in some a-sequence, thereby inducing a priority ordering on them. We tirst give the strategy for meeting a single requirement; it will be convenient in describing it to drop all subscripts. The requirement thus becomes:
+
+R: G(C)= Uandr(U)=Cimplies
+
+TI-I Uu V#@
+
+Let 4(x, s) and y(x, s) be the use functions associated with the computations Qs(Cs; X) and rS(US; x), respectively, and let 1@(s)and l,-(s) be the corresponding lengths of agreements of these functions.
+To attack R we proceed as follows.
+
+252 DOWNEY AND STOB
+(Such x and s must exist if the hypotheses of R are satisfied and Uu V is not cofinite.) Given x and s, our action is to enumerate into Ts+ , all y < ~(x, s) such that y $17~u Vs and to restrain from C all z < d(y(x, s), s).
+Note that after step 1, R is satisfied temporarily since Ts+ l n U3 u Vs# a. R will be satistied forever (with the finite restraint imposed by step 1) unless there is a stage t > s such that (Ut u Vt) 2 Tr = Ts+ l. Now if any element, say z, of Ts+ r - (Us u Vs) is enumerated into Ut - Us, we have, by the restraints imposed on C at step 1, that
+and this disagreement is preserved forever with finite restraint. Thus we may assume that each element enumerated in T at stage s + 1 is later enumerated into V by stage t. Now at stage t + 1 we perform
+Step 2. Remove the restraint on C imposed by step 1. Enumerate x (the x of step 1) into Ct+r.
+Step 2 wins requirement R forever since we have that
+The first equality is the crucial one and is true since UJy(x, s)] = U[y(x, s)] because U and V are disjoint sets, Ut u Vt 2 {x 1x < 7(x, s)}, and Ut=Us.
+To see that the strategies for the various Re,i cohere, note that each Re,i imposes only finite restraint on C and thus Rc,i may be restarted for the sake of Re, i, of higher priority as in standard arguments of Friedberg-Muchmk type. The only restraints on the sets Tc,i are to make Te,i disjoint from Tc,j if i #j and it is clear that this can be done. We will omit the details of combining the strategies for meeting the Re,i since this is a straightforward application of the finite injury priority method. 1
+The strategy for meeting requirement R of the previous theorem can be combined with other techniques to provide various strengthenings of the result. For example, we can also insure that c contains no hemi-r-maximal set. Another example is
+
+AUTOMORPHISMSOFc?
+
+253
+
+THEOREM 7. II is dense in the low r.e. degrees (i.e., $a, b E Ll , then there is c such that a < c < b and c contains no hemimaximal set).
+ProoJ We have added two requirements on C to those of the previous theorem. First, we require that de&C) <b. This is easy to arrange via the standard technique of permitting. Note that step 2 of the construction of Theorem 6, the only step requiring enumeration in C, does not have to be performed at stage t + 1. In fact, at any stage u 2 t + 1, the situation still exists for diagonalization and if x is enumerated in C at stage v, R is satisfied. This is precisely the characteristic of a construction necessary for combination with permitting.
+The second additional requirement on C is that deg( C) > a. Let A be any lixed set of degree a. Requirement R now reads
+R: @(C@A)=Uandr(U)=CimpliesTnUuV#@.
+
+Given that a is low, there is a standard technique (due to Robinson [R]) for meeting a requirement of the form R. For a complete description and examples of the use of this technique we refer the reader to Soare [So2, Chap. 12, Theorem 3.11. Here we give an informal description. The principal difficulty in meeting this new version of requirement R is that we now longer have complete control in step 1 to restrain the computation Os(Cs@ As) = UZ since we have no power to restrain A. Robinson showed that if C is low, there is a way to “certify” computations as being “Acorrect” in such a way that incorrect computations are certified only finitely often. Specifically, if A is low,
+
+Here DE is the linite set with canonical index n. (15) guarantees the existence of a recursive function g such that
+
+lims g(j, s) =
+
+if (3n)[nE WjandD,,nA=@] otherwise.
+
+We use g as follows. Suppose we wish to perform step 1 in the above construction. Then we enumerate n in an otherwise empty r.e. set W, where D” is the set of numbers used negatively by A in the computation. By the recursion theorem, we assume that we know the index j for W. We then
+search for a stage t > s such that D,, n At # 0 or g(j, t) = 1. In the former case, we do not believe the computation and do not start an attack. In the latter case, we say that the computation is “certified,” and start the attack as above. Now it may be the case that the computation was not A-correct; we then repeat the process using the same set W. The point is that by (15),
+
+254 DOWNEYAND STOB
+we will not certify intinitely many incorrect computations so that tinally we will be justitied in believing a computation and then the argument for R procedes just as before. A more detailed description of a use of lowness is given in the next section in Theorem 12.
+There are no additional conflicts imposed by combining this lowness strategy and permitting. As these techniques, separately and in combination, are now quite standard and there are no surprises in their combination to meet all the requirements Re,i, we omit further details. 1
+By employing techniques of Ambos-Spies and Fejer [ASF, Theorem 3.31, we can extend Theorem 7 to the following.
+THEOREM 8. There is an interval [a, b] of low r.e. degrees containing no hemimaximal r.e. set. In fact, every interval of low r.e. degrees contains an interval with no hemimaximal set.
+3. ORBITS CONTAINING COMPLETE SETS
+The question of just what sets are automorphic to complete sets is still open. Soare has conjectured that every r.e. set can be taken to a complete set by an automorphism. (Since creativeness is invariant under automorphisms, not every set is automorphic to an incomplete set.) Harrington (unpublished) has shown that not every r.e. set can be taken to a complete set by an automorphism @ which is Z3-presented (i.e., the function f such that @(We) = I#&) is ,X3). The signiticance of this is that all automorphisms constructed using Soare’s machinery, such as that of Section 1 of the current paper, are .Z3-presented. Since there are complete hemimaximal sets, every hemimaximal set is automorphic to a complete set. Using the hemimaximal sets as a base and exploiting the idea of classifying r.e. sets by the types of nontrivial splittings that they have, we were able to extend this result to a much larger class of r.e. sets.
+DEFINITION 8. An r.e. set A is halfhemimaximal if there is a nontrivial splitting AO, A1 of A such that A,, is hemimaximal.
+More generally, if P is any property of r.e. sets, A is halfP if there is a nontrivial splitting AO, A1 of A such that A,, has property P.
+The importance of halfhemimaximality for this program is the following theorem.
+THEOREM 9. Zf A is haljhemimaximal, then there is a BE= Qj’ and
+@E Aut(8’) such that @(A) = B.
+
+AUTOMORPHISMSOF8
+
+255
+
+ProojI Let A,,, A1 be a nontrivial splitting of ,4 with ,4,, hemimaximal. Let & be a complete hemimaximal set (which .exists by Theorem 5). Let @E Aut(8) be such that CQt,J = &. Now B = @(A) is our desired complete set since a’ == B,, <= B. (The last inequality is since B= BOu @(AI) and BO and @(Ai) are disjoint. 1
+Though we will show below that many sets are halthemimaximal, it is easy to see from the following theorem that there are sets which are not.
+
+TI-EOREM 10. If A is haljhemimaximal, then A has a maximal superset.
+ProoJ Let AO, AI be a nontrivial splitting of A and B,,, BI a nontrivial splitting of a maximal set B with BO= AO. We claim that A G* B. Otherwise, since B is maximal, 1 G* B. Thus & =* AI u B, and so BO is recursive contradicting its being a part of a nontrivial splitting. i
+
+COROLLARY 1. Every non-low2 degree contains a set which is not haljhemimaximal.
+ProoJ Shoenfield [Sh] has shown that every nonlowz degree contains a set with no maximal superset. The result then follows directly from the theorem. 1
+We can improve Theorem 10 and its corollary with a little more work.
+
+THEOREM 11. Every nonzero r.e. degree contains a nonhalj%emimaximal set.
+ProojI Suppose that we are given a nonrecursive set B. We will construct A nonhalfhemimaximal such that BE= A. Let g be a l-l recursive function such that g(m) = B. Let {FX}XEm be a recursive sequence of disjoint linite sets such that u { FX 1x E CD}= CDand lFXi = x + 2 for every x. We ensure that A + B in the following way. At stage s of the construction, we will enumerate exactly one element into A chosen from FgCsJ.Thus iAnFXl<l and lAnFX[=l iff XEB. It is easy to see from this that A+ B.
+The requirements that A be nonhalthemimaximal can be put as follows. Ia We9 J5Jeeu be a recursive listing of all pairs of disjoint r.e. sets. Then the requirements are
+Ne: WeG A and Ue u VC2 A =E-U=u Ve is not maximal or UCis recursive.
+(The requirements are enough by Theorem 10. In fact they show something slightly stronger about A than only nonhalfhemimaximality.) We may assume in the light of the hypotheses of NC that no element of Ue is enumerated in Ue before it is enumerated in A.
+
+&v/92/2-9
+
+256 DOWNEYANDSTOB
+CONSTRUCTION. Stuge s. Let x = g(s). We must enumerate one element of F.Yinto A Choose the least element z from F.X such that for all e GX, iF.Xn Ve,si> x + 1 implies that z E Ve,s. This is possible since 1FX1= x + 2 and the condition on z requires it only to be in the intersection of at most x + 1 subsets of F.X each of cardinality at least x + 1. This intersection is nonempty. Enumerate z into ,4.
+To complete the verilication we need only show that Ne is satisfied for each e. So suppose that the hypotheses of NC are satistied and that Ue v Ve is maximal. We will show that Ue is recursive. Since Ue u Ve is maximal, there is an integer x0 such that for all x 2 x0, IF.=n ( Ue u Ve)j > x + 1 (see [Ro, Chap. 12, Theorem XIII]). Let z be fixed such that z E F.Y,x 3 x0. We show how to decide if z IZUe. Let s be a stage such that /F.Xn Vc,sl> x + 1 or 1F.Xn Asi = 1. One or the other must happen since if F.Yn A = 0 then lF.Xn VJ ax+ 1. In the former case, z$ Ue since if z is later enumerated in A, z e Ve. In the latter case, if z E A we can enumerate Ue and Ve until z appears in one or the other (this must happen since A z UCu Ve) and if z$A then z$ Ue. 1
+Despite Theorem 11, there are large natural classes of r.e. sets consisting entirely of halfhemimaximal sets.
+THEOREM 12. The following are haljhernimaximal:
+(a) every 10~~ simple set,
+(b) every semilow,,s simple set,
+(cl every d-simple set with a maximal superset.
+Prooj Robinson [R] proved that every low r.e. set has a maximal superset. Lachlan [L] and Bennison and Soare [BSo] extended this result and the technique used in proving it to low2 and semilow1.5 sets, respectively. We will show how to extend Robinson’s method to prove
+(d) every low simple r.e. set is halfhemimaximal.
+The same device we use to prove (d) can be used to extend the Lachlan and Bennison-Soare methods to prove (a) and (b).
+Suppose then that A is low and simple. We will construct Bz A, B maximal, which witnesses that A is halfhemimaximal. We briefly review the Robinson construction of B. Our exposition follows Soare [SOL]. We have a set of movable markers Ae, eE U. The position of ,4= at the end of stage 4 fL is the eth element of Bs. Thus, since we will always have As z Bs, we make B coinlinite by meeting for every e the requirements
+
+AUTOMORPHISMS
+
+OF 8
+
+257
+
+The usual strategy for making B maximal is to move Ae,s to maximize its e-state. This guarantees that the following requirements are met:
+
+Qe: almost all elements of D have the same e-state.
+
+In the usual construction of a maximal set (as in Theorem 4), at stage s we move AC to a new element of the complement of Bs only if that new element has higher e-state than &. This requires us to move Ae only finitely often (2e times at most after ,40, ,41, .... .4e+ i have ceased moving). Further, it guarantees Qe since the e-states of the linal positions of the markers A, ‘4e?+1, -**,A ~+k, ... are nonincreasing in k.
+This strategy conflicts with the requirement A G B in the following way. A,, for instance is moving so as to maximize its O-state. Thus, if (3x)[x E Ds
+ad xe ~o,slj&,s will move to x if A,,s $ Wo,s. However, later x may be
+enumerated in A causing A,, to move again. We are thus tempted to move A0 inlinitely often if W,,\A is iminite but W. -A = @.
+To avoid this problem, we need to use the lowness of A to give us advice on which elements to which Ae might move are actually elements of A. The lowness of A guarantees that there is a recursive function f such that
+
+lim f(e, s) = A si
+
+if W@nA#@ if WenTi=@.
+
+The oraclefis used in the following way. Suppose that we are attempting to move Ae to x to raise its e-state to r~.We then enumerate x in a certain test set UO. By the recursion theorem, we may assume that we know an index for U0, say UC = Wj. Using 5 we locate a stage t > s such that
+
+UoGA* or f(j, t) = 1.
+
+By the properties off, t must exist. Now only in the latter case do we move
+Ae to X. Of course it may still be that x is later enumerated in A; we then perform the same procedure with another x’ which is in e-state 0. The point is that A= will not be moved inlinitely often by this process in an attempt to tind an element in e-state 0. For, if .4e is moved infinitely often to an element in e-state cr, we must have that lirnsf(J s) = 1 and so U0 n A# 0. But any element of U0 nA will remain as Ae forever. Of course the above argument presumes that no higher priority Ai or cr’> CT intervenes. In that case, we say that U. is injured and we begin anew with a “fresv (empty) version of Urn.
+To make A hallhemimaximal, it suflices to enumerate Bo, Bl such that B. G A, B,, u Bl = B, B. n B, = 0, and B. nonrecursive. To see that this is enough, deline A0 = B. and Al = Bl n A. Obviously Ao, Al split A and A,, is nonrecursive. A i is nonrecursive since otherwise B - A = B, - A l is r.e.
+
+258 DOWNEY AND STOB
+contradicting the simplicity of A (B-A is inlinite since no low r.e. set is maximal.) Finally, Bi is nonrecursive since B0 <= A and BE= BoCJ3Bl. (The former implies that B,, is low, and thus the latter implies that Bl is nonrecursive since B is high.)
+We deline B. and Bl as follows
+Informally, B,, is the set of those x which are enumerated in ,4 before we have decided to enumerate them in B. Bo, Bl satisfy all of the above requirements except perhaps the requirement that B,, is nonrecursive. Thus we have the following requirements on Bo:
+Se will function as a negative requirement on B as follows. The ideal way for Se to be satisfied is for an element of We to be enumerated in A before we enumerate it in B. This element is then in B. n We and Se is satisfied forever. Thus our strategy will be to restrain elements of We from B. If we restrain an inlinite r.e. set W of such elements from B, we must have that Wn A # @ by the simplicity of A giving us the desired witness to We n B. # 0. This restraint is accomplished in the following construction by giving requirement Se priority over all but N,,, N,, .... Ne. Thus, we are entitled to enumerate a marker position, .4i,3 for i > e into B only if by so doing it will increase its e-state (rather than only its i-state as is usual) if We,s n Bo,~ = 0 ad Ai,s l We,s. We now give the details of the construction.
+We assume that W,, = A. During the course of the construction, we will speed up the enumeration of A. Our enumeration at the end of stage 3 will be denoted As. We will always have W,,Sc As. Our construction will have for each stage s + 1, substages e for 0 < e < .s+ 1. During stage s + 1, As+ 1 will denote the result in our enumeration of A at the beginning of the current substage. Given U an r.e. set, to test U at stage s is to do the following. Compute an index e of U from the construction. (This uses the Recursion Theorem.) Find t 2 s such that
+Such a t always exist since lims j(e, 3) = 1 if We n 2 # 0. In the latter case j-(e, t) = 1, we say that the test succeeds. For all sets U which we test in the construction, we will have exactly one element x in U3 - AS. If the test fails (necessarily because x E Wo,,), we will enumerate x in AS. For each e and e-state c, we will define an r.e. set I!J~,~.These r.e. sets will serve as test sets
+
+AUTOMORPHISMSOFr!?
+
+259
+
+for the marker & These sets Ue,q will be enumerated uniformly in e, c and so we will be entitled to test them in the sense described above. Furthermore, from time to time we shall reset Ue,O; to reset iJe,g at stage s means to replace Uc,V by a “fresh” empty version of Uc,O. When Uc,O is referred to in the construction below, the current version is meant.
+
+CONSTRUCTION. Stage 0. Define & = e for all e.
+Stage s + 1. Substage e, 0 < e < x If e = 0 enumerate all of WO,:+ l into As+ i. Substage e occurs only if &s, .... & l,s have not moved during this stage. In this case, we determine whether Ae wants to move during this stage (to some x for the sake of some cr). There are two cases. Let z = Ae,s.
+Case 1. ZEA~+~. Then Ac wants to move at s+ 1. cr and x are determined as follows. In order of decreasing CJ,c an e-state, we search for a CJfor which the following procedure results in a successful test of Ue,O. Given CJ,enumerate in the current version of Ue,Othe least x > z such that x # BSu As + i and r~~,Jx) = g. If no such x exists, proceed to the next CJelse test Uc,O. If the test succeeds, we have found r~and x; otherwise we choose the next least x satisfying x > z and ~~,~(x)= c, enumerate it in U+ and test Ue,O. If g is not the empty e-state, this procedure must eventually end with a successful test or no further x in e-state U. If c is the empty e-state this procedure must end with a successful test since otherwise a colinite set is enumerated for 17~O, and so Uc,On 2 # @ but lims J(& s) = 0, where i is the index of Uc,O. This contradicts the properties ofJ
+Case 2. z$A~. Let o’= ~~,~(z). For each r~> rr’, we do the following. We lirst determine whether z is restrained by some Si for e. Let j be the least integer such that j E 0 - 0’. Then z is restrained for CJby Si if i c j, i E c+ and Wi,Sn As = 0. If z is not restrained for e we perform the procedure described in case 1 for determining whether g and x satisfy the condition of Ae wanting to move to x for the sake of 0. This test will be finite since for each such CJthere are only linitely many x in state c at stage 3 + 1. This case may terminate without & wanting to move to any x.
+If &s wants to move to x for either of the above two reasons, we move Ac by enumerating into BS+, all y such that Ae,s< y -=x. (Thus x=A,s+,* ) Further, we reset all ITJ~,,+such that e’ > e or e’ = e and 0’ c e.
+Substage s + 1. At substage s + 1, we enumerate all of As+ i into B s+l.
+
+LEMMA 1. lims LI~,~exists, and so B is infinite.
+ProoJ The proof is by induction on e. Let s,, be the least stage such that Ai,s,,= lims Ai,s for all i K e. At sO, Ue,Ois reset for every 0. Assume for a contradiction that ,4e moves infinitely often; each time Ac moves after s0
+
+260 DOWNEY AND STOB
+it moves because it wants to. Let cr be the maximal e-state such that A= wants to move for the sake of r~ inlinitely often. Let s, 2 sO be the least stage such that after s,, ,4F never wants to move for any U’ > O. Then UF,V is reset at sr. Now for each stage s > s, at which Ae moves for the sake of r7 to x, there is t > s such that j(& t) = 1, where i is the index of the current (linal) version of Uc,fl. Thus, limAj(& s) = 1 so that Ue,g n 2 # @. However by the construction, there is at any stage 3 at most one element of u e.a,.s-As and that element becomes the marker position at the end of stage 8. Thus, there is 32 s, such that Ae.*~ ZJ+- ,4 and that element remains the marker position of YIPforever. This contradiction establishes the lemma.
+LEMMA 2. For every e, We # &,, only finitely many element3 of iI are permanently restrained from R by Se, and there is an (e + 1)-state o wch that aimoxt every element x E B has (e + l)-state CJ.
+ProojI The proof is by induction on e. Suppose then that the lemma is true for i < e. Then there is an e-state o such that almost all elements of B are in e-state cr. Therefore, either ego or eE O. In the former case, obviously WC#B and only finitely many elements of E are permanently restrained from B by Se. (Any element restrained by Se is an element of We). Suppose then that e E V. Let i0 and sObe such that
+(Vi> iO)[Ai has linal e-state rr],
+(Vi< ~o)[A~,~~= limJ Ai,s]?
+W G hJ~~i3soCAi .soJ= ~i~~i,so~l.
+Define an r.e. set Was follows:
+It is obvious that W is r.e. and that BG* W. Suppose that We = &,. This implies that no element of W enters A before it enters B. We claim however that no element of W is enumerated in B before it is enumerated in A. This would provide the desired contradiction since W is inlinite and A is simple. Suppose then to the contrary that x is the least element of W that enters & say at stage s. Then x= A<,* for some i> iO, CF~,~(X)>e, and x enters B because it wants to (else there is some smaller element of W entering B at stage s). Since x wants to enter B, necessarily by Case 2, there is y = Aj,s, such that j > i and OJX) < c,,J y). But x is restrained from B at stage s by Se so in fact O&X) < o~,$(y). But then AiOwould want to move to y at substage &, of stage s (or else y would be enumerated in A) since o~,JA;,,~) = 5 < 5&y). Thus x never wants to move. This contradiction establishes that
+
+AUTOMORPHISMS OF 8
+
+261
+
+We # BO. Note that we have proved that if B s * We, then We n B,, # @.
+
+Thus in this case too only linitely many elements are restrained from B by
+
+Se. To see that the final clause of Lemma 2 is correct, let cO and Q~be the
+
+two (e + 1)-states which can appear infinitely often in E, g,, = CJand
+
+~i=gu {e+l}. Suppose that x=lim3Ai,s, y=limXA,,s, where icj and
+
+~o=~e+lb~~~e+lb~=
+
+u, and x and y are not permanently restrained
+
+from B by S,,, .,., Se. Then Ai would want to move to JJat inlinitely many
+
+stages and so would move. Thus we cannot have infinitely many such pairs
+
+x and JJand so there is an (e+ 1)-state (either o,, or cri) in which almost
+
+every element of i3 resides.
+
+Turning now to the proof of part (c) of the theorem, recall the detinition
+
+of d-simple.
+
+DEFINITION 9. An r.e. set A is d-simple if for every r.e. set X there is an r.e. set Y s X such that Xn 2 = Y n A and if 2 is any r.e. set with Z - X inlinite, then (Z - Y) n A # @.
+So suppose A is d-simple and has a maximal superset h4. Let X in the above delinition be M. Given the resulting Y, let M1 = Y\A and MO = ,4 - (Y\A). Since Yn 3 = Mn 2, MO, Ml form a splitting of M. To see that MO is nonrecursive, suppose that Z = a,,. Then Z - M is inlinite so (Z - Y) n A # 0. But (Z - Y) n ,4 s MO. This of course is a contradiction.
+To complete the proof, there are two cases.
+Case 1. Ml is nonrecursive. Then M,,, Mi form a nontrivial splitting of M and thus Mon ,4 and M1 n A form a nontrivial splitting of ,4 with M,, n A = M,, hemimaximal witnessing that A is hallhemimaximal.
+Case 2. Mi is recursive. Then let BO, B, be a nontrivial splitting of M,,. Let Mb = B,, and M’i = M1 u B,. Mb, J4; form a nontrivial splitting of M and as in Case 1, Mb n,4 and Mi n ,4 witness that ,4 is hallbemimaximal. 1
+
+4. ORBITS OF herniP SETS
+Various strong (but false) conjectures might be made after examining the result of section 1 that hemimaximal sets form an orbit. We had hoped that the following might be true.
+Conjecture 1 (False). If P is a property of r.e. sets such that 9 = {A 1A has P} forms an orbit, then the herniP sets form an orbit.
+That conjecture 1 is false is easy to see. Perhaps the most striking counterexample is the property of creativeness. The counterexample relies on the following very easy theorem.
+
+262 DOWNEYAND STOB
+THJZOREM13. If K is a creative set and C is any r.e. set, then K@C(={2x~x~K}u{2x+l~x~C})iscreative.
+ProojI We have K <i K@ C by f(x) = 2x. Thus K@ C is l-complete and hence creative. 1
+Now the creative sets form an orbit. However if C is any nonrecursive r.e. set, A,, = {2x 1x E K} and A i = {2x + 1 1x E C} form a nontrivial splitting of K@ C. It is obvious that not all sets ,4i which arise in this way are automorphic. For instance, A1 may be maximal in an infinite, coinfinite recursive set (if C is maximal) or nowhere simple (if, say, C is nowhere simple).
+One promising possibility motivated by Theorem 2 is to weaken Conjecture 1 by requiring that the splittings be Friedberg splittings and that the property P imply simplicity. Thus, we weaken Conjecture 1 to
+Conjecture 2. Let $7 be a class of r.e. simple sets which forms an orbit. Then
+{,4 1A is half of a Friedberg splitting of a set in %I
+forms an orbit.
+We do not have much evidence in either direction for Conjecture 2. Obviously the problem is that we do not know many orbits. However, we are able to establish Conjecture 2 for the next easiest case to the hemimaximal sets.
+
+DEFINITION 10. An r.e. set Q is k-quasimaximal if Q is the intersection of exactly k maximal sets which are pairwise infinitely different.
+Soare showed, by applying his result on maximal sets, that the kquasimaximal sets form an orbit. We establish Conjecture 2 for the quasimaximal sets by proving the following,
+
+THEOREM 14. Let A and B be k-quasimaximal and A,,, AI and B,,, B, be
+
+Friedberg splittings of A and B, respectively. Then there is @taut
+
+such
+
+that @(AO) = BO.
+
+ProoJ We give the proof only for k = 2. The case k > 2 is similar. Let M,,, Ml be maximal sets such that M,, n M1 = A; we may assume that
+MCtUMl = m. Similarly, let NO, N, be maximal sets such that N0 u Ni = m and N0 n N1 = B. Let R and S be recursive sets such that &%,,z R, II?!, G R,
+N0 G S, and N1 G s. (These r.e. sets exist by application of the r.e. reduction
+principle to the pairs M,,, Ml and NO, Nr.)
+Now observe that R n A,, and R n AI are nonrecursive. For if R n A0 is
+
+AUTOMORPHISMSOF8
+
+263
+
+recursive, then R-A,, is recursive so that R-A is r.e. by the definition of Friedberg splitting. However, R-A is infinite and A is simple. Thus we have that R n & and R n A1 form a nontrivial splitting of R n A and similarly Sn I+, and Sn Br form a nontrivial splitting of S n B. Now within the recursive set R, R n A is maximal. (2 n R = ii?0 and the latter is cohesive.) Similarly S n B is maximal in S. Thus by Theorem 3, there is an automorphism @,, of 8’ restricted to R which maps R to S and R n Ai to
+S n Bi for i = 0, 1. Likewise, there is an automorphism @r of the r.e. sets restricted to R which maps i? n .4i to Sn Bi for i = 0, 1. Piecing together Q0 and @J~gives the desired automorphism. 1
+
+COROLLARY 1. The class of Friedberg splittings of k-quasimaximal sets from an orbit for each k.
+ProojI We have show that if ,4 and B are halves of Friedberg splittings of 2-quasimaximal sets then there is a @ such that @(,4) = B. Conversely, if A is half of a Friedberg splitting of a 2-quasimaximal set and @(A) = B, then B must be half of a Friedberg splitting of a 2-quasimaximal set since this is an elementary property and so must be preserved under automorphism. 1
+
+COROLLARY 2. There are four d$ferent automorphism types of hemi-2quasimaximal sets.
+
+Proof Let MO, MI be maximal sets such that M,,u MI = c~ and M0 n MI = A. Let &, AI be a notrivial splitting of A. Let R be a recursive set such that a0 G R and aI G i? and further that all of R n A,,, R n Al, i? n &, and R n A r are infinite. Now one of the following is true:
+
+R n &, and 1 n A r are nonrecursive, or
+
+(16)
+
+R n AI and i? n A,, are nonrecursive.
+
+(171
+
+For if both of the above fail then one of M,,, HI, A,,, or AI is recursive. We will suppose that (16) is true. Of the remaining pair of sets, there are four possibilities:
+
+(1) R n AI and R n A,, are nonrecursive, (2) R n AI and i? n A,, are recursive, (3) R n AI is nonrecursive and j? n A0 is recursive, and (4) R n AI is recursive and 1 n A0 is nonrecursive.
+
+All four possibilities can occur; note that (3) and (4) are symmetric.
+
+Case 1. We have already seen in the Theorem that any sets A0 and AI which arise in this way are of a single orbit.
+
+264 DOWNEYAND STOB
+
+Case 2. In this case, we see that R n A0 is maximal in R - (R n ,4 l) which is a recursive set. Since all such sets are automorphic by Soare’s theorem, all such sets A0 arising in this way are automorphic. A i is also of this type. This class is distinct from case (1) since R- (R n ,4i) witnesses that &, A1 do not form a Friedberg splitting of A.
+Case 3 (and Case 4 by symmetry). In this case, s = R- & is recursive and so S u A i = s u (A, n R) is nonrecursive. This implies that S u A i and A,, form a nontrivial splitting of M1. Thus ,4,, is hemimaximal. This determines the automorphism type of ,40 by Theorem 3. This class is distinct from those of cases 1 and 2 since in neither of those cases is ,40 hemimaximal (this can easily be checked). Now A1 is not hemimaximal but it is easy to show again that all such Ai are automorphic (by piecing together automorphisms on R and i? as in the Theorem 13). This gives the fourth and tinal automorphism type.
+
+Summarizing, there are four automorphism types of hemi-2quasimaximal sets:
+
+(1) half of a Friedberg splitting of a 2-quasimaximal set,
+(2) maximal in an intinitecointinite recursive set R,
+(3) hemimaximal, and
+(4) not hemimaximal but half of a nontrivial splitting 2-quasimaximal set for which the other half is hemimaximal. 1
+
+of a
+
+The above classification for hemi-2-quasimaximal sets can be extended to hemi-k-quasimaximal sets for k>2 without much difficulty (but much detail).
+
+5. FURTHER REMARKS AND OPEN QLJESTIONS
+
+Theorem 3 justilied our hope of linding orbits through splittings. While Theorem 13 gave a negative result along these lines, we still have some hope that Conjecture 2 or some conjecture like it might be true. A test question in this program is the following:
+
+Question 1. Let ,4 and B be promptly simple and low. Let &, A1 and
+
+Bo, Bl be Friedberg splittings of ,4 and B. Is there @taut
+
+such that
+
+@(&) = Bo? (Maass has shown that there is @E Aut(8) with @(A) = B.)
+
+Note that even Theorem 13 does not refute Conjecture 2 for nonsimple sets since the splittings produced there are not Friedberg splittings.
+
+Q~e~f~~~ 2. What are the automorphism types among Friedberg splittings of a creative set?
+
+AUTOMORPHISMS OF 8
+
+265
+
+The hemimaximal sets form an interesting degree-theoretic class. Left open by the results of Section 2 is
+Que~k~ 3. Are there degrees containing no hemimaximal set which are not low?
+Concerning the halfhemimaximal sets, a question which we have been unable to answer is
+Que$kn 4. Is K halfhemimaximal?
+We have shown that creative sets are halfhemi-2-quasimaximal. We have introduced the properties hemimaximal and halfhemimaximal in this paper because of their use in finding orbits of Aut(8). However, for various properties P, the herniP and halfP sets might prove interesting in their own right. For instance, in contrast with Theorem 11, we have been able to show that although there are nonhall%emisimple sets, there are degrees containing only halfhemisimple sets.
+
+REFERENCES
+
+[ASF] [BSo] [D] [DW]
+[Ll
+[M]
+[MSt]
+CR1
+[Ro] [Sh] [Sol] [So21 [St]
+
+K. AMBOS-SPY AND P. FEJER, Degree theoretic splitting properties of recursively enumerable sets, J. Symbolic Logic 53 (1988), 11l&l 137.
+V. BENNIS~N AND R. I. SOARE,Some lowness properties and computational complexity sequences, Theoref. Compuk Sci. 6 (1978), 233-254.
+R. DOWNEY, Nowhere simplicity in matroids, J. Ausfral. Murh. Sot. Ser. A 35 (1983),
+284.5.
+R. DOWNEY AND L. WELCH, Splitting properties of r.e. sets and degrees, J. Symbolic
+Logic 51 (1986), 88-109. A. LACHLAN, Degrees of recursively enumerable sets which have no maximal supersets, 1. Symbolic Logic 33 (1968), 431-443. W. MAASS, Characterization of recursively enumerable sets with supersets effectively isomorphic to all recursively enumerable sets, Trans. Amer. Muth. Sot. 279 (1983),
+31 l-336. W. Mm AND M. STOB, The intervals of the lattice of recursively enumerable sets determined by major subsets, Ann. Pure Appi. Logic 24 (1983), 189-212.
+R. W. ROBINSON,“The Inclusion Lattice and Degrees of Unsolvability of the Recursively Enumerable Sets,” Ph.D. dissertation, Cornell University, 1966. H. ROGERS,JR., “Theory of Recursive Functions and Effective Computability,”
+McGraw-Hill, New York, 1967.
+J. R. SHOENFIELDD, egrees of classes of r.e. sets, J. Symbolic Logic 41 (1976), 695-696. R. I. Sam, Automorphisms of the lattice of recursively enumerable sets, I, Maximal sets, Ann. of Math. 100 (1974), 80-120.
+R. I. Sam, “Recursively Enumerable Sets and Degrees,” Springer-Verlag, Berlin/
+Heidelberg/New York/Tokyo, 1987. M. STOB, Invariance of properties under automorphisms of the lattice of recursively enumerable sets, Pa@c J. h4urh. 100 (1982), 445471.
+
+

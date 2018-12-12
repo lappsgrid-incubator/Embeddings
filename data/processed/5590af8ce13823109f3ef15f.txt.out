@@ -1,0 +1,806 @@
+ground water flow and solute transport municipal landfill site long island new yorkpart simulation ground water flow eliezer wexler paul maus geological survey water resource investigation report prepare cooperation town brookhaven syosset new york 
+united state department the interior donald paul hodel secretary geological survey dallas peck director 
+for additional information write geological survey aerial way syosset telephone 
+copy report may purchase geological survey book open file report federal center bldg 
+box denver telephone 
+purpose scope 
+location study area 
+previous investigation 
+lloyd aquifer raritan clay magothy aquifer 
+monmouth greensand gardiner clay upper glacial aquifer 
+ground water flow system 
+recharge precipitation evapotranspiration 
+other source ground water recharge 
+seepage stream 
+caiman river 
+swan river beaverdam creek 
+yapahank creek little neck run 
+mott brook 
+other stream 
+ground water upper glacial aquifer 
+water table altitude september 
+ground water magothy aquifer 
+water budget simulation ground water flow 
+theoretical background model design 
+application boundary condition prescribe head boundary 
+head dependent flux boundary 
+prescribe flux boundary 
+recharge boundary 
+freshwater saltwater interface aquifer property 
+point recharge discharge pumpage redistribution ground water 
+ground water discharge stream model calibration 
+simulated water table altitude 
+simulated water budget 
+ground water velocity near brookhaven landfill site 
+summary conclusion reference cite 
+hap show location study area surround brookhaven landfill site 
+hap show major geographic feature model area 
+generalized north south hydrogeologic section town brookhaven show relative position principal aquifer confine unit 
+hap show thickness confine unit gardiner clay honmouth greensand beneath upper glacial aquifer study area 
+hap show configuration base upper glacial aquifer study area 
+generalized north south hydrogeologic section ground water system south regional ground water divide show pattern ground water flow 
+five year hydrographs four observation well study area 
+map show potentiometric surface llagothy aquifer study area september 
+hap show area consider water budget analysis 
+diagram show component rate flow waterbudget area determined water budget analysis 
+hap show finite element grid use represent study area 
+hap show simulate observed september watertable configuration 
+diagram show component rate flow waterbudget area determine calibrate model 
+plot show simulated ground water velocity direction ground water flow upper glacial aquifer downgradient brookhaven landfill site 
+table page table 
+principal aquifer confine unit underlie town brookhaven 
+annual average monthly average annual precipitation patchogue upton 
+sewage treatraent plant discharge ground water study area 
+average base flow partial continuous record station study area 
+public supply industrial purapage study area 
+streara stage measurement site use study 
+initial final value hydraulic conductivity use steady state flow model 
+simulated inflow discharge study area 
+description observation well study area 
+plate pocket plate 
+map show location hydrologic data point study area 
+map show water table altitude study area september 
+conversion factor and abbreviation 
+for convenience reader prefer metric international system unit rather inch pound unit use report follow conversion factor may use 
+multiply inch pound unit 
+obtain metric unit 
+millimeter meter kilometer 
+acre square foot square mile 
+hectare square meter square kilometer knr 
+gallon gal 
+foot per second foot per day cubic foot per second ft3 gallon per minute gal min gallon per day gal million gallon per day mgal 
+meter per second meter per day cubic meter per second liter per second cubic meter per day cubic meter per second 
+national geodetic vertical datum ngvd geodetic datum derive general adjustment firstorder level net united state canada formerly call mean sea level 
+ground water flow solute transport municipal landfill site long island new yorkpart simulation ground water flow abstract hydrogeologic data collect square mile area surround municipal landfill site town brookhaven new york part investigation solute transport site 
+these data use develop steady state ground water flow model upper glacial water table aquifer area 
+the model account leakage confine unit underlie aquifer seepage stream recharge precipitation pumpage redistribution ground water 
+refine estimate aquifer confine unit property obtain model calibration 
+the model calibrate match predicted water table altitude measure water table altitude september streamflow water level close long term average value 
+the best match achieve horizontal hydraulic conductivity foot per day upper glacial aquifer vertical hydraulic conductivity confine unit 
+flow across model boundary calculate part calibration procedure compare favorably estimate obtain waterbudget analysis area 
+ground water velocity probable flow path site vicinity calculate water level generate calibrate model 
+ground water center site flow southeastward 
+this report second three part series describe hydrogeologic condition ground water quality ground water flow solute transport landfill site vicinity 
+introduction the town brookhaven central suffolk county operate sanitary landfill within acre brookhaven landfill site south central part town fig 
+disposal municipal solid waste begin sanitary landfill cover acre site 
+the bottom sanitary landfill line polyvinyl chloride pvc membrane 
+recent study show landfill leachate degrade quality ground water near several sanitary landfill long island kimmel braid padar 
+geological survey cooperation town brookhaven begin hydrologic investigation brookhaven landfill site vicinity 
+the overall objective study develop digital solute transport model would allow evaluation 
+solute transport associate landfill leachate enter underlying aquifer 
+the investigation consist three phase result describe three report 
+first phase hydrologic geologic water quality data collect within area center around landfill site 
+part series wexler 1987a describes phase investigation delineate extent leachate plume emanate sanitary landfill despite pvc liner 
+the second phase investigation describe herein part series entail development calibration steady state ground water flow model evaluate ground water flow system area surround brookhaven landfill site fig 
+the size area study determine location natural hydrogeologic boundary closest site 
+the major geographic feature study area show figure 
+the purpose modeling effort twofold 
+first development calibration model would yield refined estimate aquifer confine unit property flow across model boundary second calibrate model could use determine rate direction ground water flow downgradient site long term average hydrologic condition 
+these data use third phase investigation entail development predictive solute transport model describe part series wexler 1987b 
+purpose scope this report describe ground water flow system present initial estimate aquifer confine unit property rate groundwater discharge within study area rate flow across boundary area explain development calibration steady state two dimensional ground water flow model present result model simulation include steady state water table altitudes average ground water velocity flow path landfill site 
+location study area the study area fig 
+bound west swan river east carmans river south bellport patchogue bay 
+the northern boundary study area represent hydrologic boundary define line extend northeast headwater swan river downstream end low lake carmans river fig 
+the brookhaven landfill site horseblock road brookhaven hamlet center study area 
+land use study area primarily residential high residential density western part 
+much land eastern part remain undeveloped consist mostly scrub oak pitch pine forest 
+the area also contain agricultural land light industry commercial development take place mostly along hontauk highway south 
+country road fig 
+preserve area include southhaven park northeastern boundary own suffolk county new york state wetland area southeastern corner wertheim national wildlife refuge beyond eastern boundary fig 
+previous investigation early hydrogeologic investigation long island encompass general study area include study ground water resource veatch other study geology fuller 
+suter other map geologic formation aquifer long island 
+long island sound 
+town brookhaven 
+town riverhead 
+water budget area show fig 
+upton precipitation station brookhaven national laboratory area show subsequent map 
+town islip patchogue precipitation station 
+great south bay 
+atlantic ocean 
+department transportation bellport howells point figure 
+location study area surround brookhaven landfill site 
+siegfield park 
+upper lake 
+yapahank lower lake 
+wertheim national wildlife refuge base 
+department transportation bellport howells point 19b1 v24 figure 
+major geographic feature model area 
+location show fig 
+more recent study hydrologic system long island include frank mcclymonds cohen other 
+miller frederick discuss precipitation regime long island 
+nakao erlichman donaldson koszalka 1983b compiled water table map long island prince donaldson koszalka 1983a compile potentiometric surface map magothy aquifer 
+streamflows grind water level water quality data collect regularly geological survey cooperate agency 
+these data publish annually geological survey 
+study deal specifically suffolk county include compilation hydrogeologic data well jensen soren map surface subsurface geology suffolk county jensen soren 
+krulikas compile additional data well drill suffolk county 
+the geological survey study hydrogeology brookhaven national laboratory fig 
+surround area investigation cover central part suffolk county include study area refer herein 
+laguna describe stratigraphy central suffolk county discuss water bearing property geologic unit warren other describe hydrology area present data climate precipitation evapotranspiration ground water flow streamflow 
+model regional ground water flow system long island develop getzen reilly harbaugh 
+reilly other describe use subregional model analyze effect sanitary sewer part southern nassau suffolk county grind water level discharge stream 
+acknowledgment the author thank herbert buxton thomas reilly keith prince geological survey advice model development phase study 
+geohydrology long island underlain ecambrian bedrock dip gently southward 
+bedrock surface altitude center study area sea level jensen soren 
+overlie bedrock series unconsolidated deposit form long island principal aquifer confine unit 
+major characteristic hydrogeologic unit study area summarize table show section figure 
+the major water bear unit island continuous throughout study area lloyd magothy aquifer cretaceous age upper glacial aquifer pleistocene age aquifer primary concern study 
+discussion hydrologic property principal aquifer confine unit give follow section 
+vertical exaggeration 
+generalized north south hydrogeologie section town brodkhaven show relative position principal aquifer confine unit 
+modify jensen soren 
+lloyd aquifer raritan clay the lloyd aquifer cretaceous lloyd sand member raritan formation rest directly bedrock surface effectively confine clay member raritan formation 
+center study area lloyd aquifer raritan clay approximately thick respectively jensen soren 
+few data available property lloyd aquifer raritan clay well penetrate unit model area 
+mcclymonds frank estimate average hydraulic conductivity lloyd aquifer south central suffolk county 
+the vertical hydraulic conductivity raritan clay estimate average frank cohen 
+recharge lloyd aquifer take place mostly within narrow zone along regional ground water divide fig 
+water lloyd eventually discharge ocean south study area 
+the amount downward leakage raritan clay study area extremely small therefore effect leakage lloyd aquifer ground water flow overlie aquifer address study 
+principal aquifer confine unite underlying town brookhaven 
+modify jensen soren 
+hydrogeologic unit 
+geologic unit 
+approximate thickness 
+description water bearing character 
+upper glacial aquifer 
+upper pleistocene deposit 
+mainly brown gray sand gravel medium high hydraulic conductivity also include deposit clayey till lacustrine clay low hydraulic conductivity 
+major aquifer source water study area 
+gardiner clay 
+gardiner clay 
+green gray clay silt clayey silty sand interbedded clayey silty gravel 
+unit low hydraulic conductivity tend confine water underlie aquifer 
+monmouth greensand 
+monmouth group 
+interbedded marine deposit dark gray olive green dark greenish gray greenish black glauconitic lignitic clay silt clayey silty sand 
+unit low hydraulic conductivity tend confine water underlie aquifer 
+magothy aquifer 
+matawan group magothy formation undifferentiated 
+gray white fine coarse sand medium hydraulic conductivity 
+generally contain sand gravel bed low high hydraulic conductivity basal 
+contains much interstitial clay silt bed lenses clay low hydraulic conductivity 
+major aquifer although highly develop study area 
+raritan clay 
+unnamed clay member raritan formation 
+gray black multicolored clay silt fine sand 
+unit low hydraulic conductivity tend confine water underlie aquifer 
+lloyd aquifer 
+lloyd sand member raritan formation 
+white gray fine coarse sand gravel medium hydraulic conductivity clayey bed low hydraulic conductivity 
+major aquifer although develop source water study area 
+undifferentiated crystalline rock 
+mainly metamorphic rock low hydraulic conductivity surface generally weather consider bottom ground water reservoir 
+magothy aquifer the magothy aquifer undifferentiated cretaceous magothy formation overlie matawan group rest raritan clay 
+the generalized configuration magothy surface depict jensen soren within study area range sea level 
+three test hole well s72812 s72813 s72814 fig 
+drill near brookhaven landfill site indicate surface sea level site 
+the thickness magothy aquifer center study area jensen soren 
+the magothy aquifer consist mostly gray white fine quartz sand clayey silty sand clay pluhowski kantrowitz 
+highly permeable zone medium coarse sand intersperse irregularly throughout formation 
+clay layer much thick also occur within formation continuous large area warren other 
+the low part magothy aquifer permeable upper part tap several public supply well study area 
+the average horizontal hydraulic conductivity magothy aquifer south central suffolk county estimate mcclymonds frank 
+ratio vertical horizontal hydraulic conductivity may range getzen 
+monmouth greensand the monmouth greensand monmouth group marine deposit cretaceous age overlies magothy aquifer southern part study area 
+this unit consist interbedded clay silt sand contain glauconite lignite 
+the northern limit monmouth greensand lie approximately along montauk highway western part study area along beaverdam road eastern part fig 
+jensen soren 
+the unit thicken south attain thickness beneath barrier island fig 
+gardiner clay rest surface monmouth greensand extend far north gardiner clay marine clay deposit sangamon interglaciation 
+laguna describe gardiner clay thin bed green clay clay sand generally thick lie sea level 
+the green color due small amount glauconite green clay mineral 
+zone sand silt common throughout formation laguna 
+the gardiner clay identify core sample well s72813 s72814 fig 
+consists green clay silt interbedded sand gravel 
+vicinity brookhaven landfill site gardiner clay report sandy facies may indicative northern limit doriski geological survey write commun 
+core geophysical log well indicate unit thick 
+line equal confin ing thickness gardiner clay monmouth greensand present 
+dash approximately locate 
+wel test boring number assign new york state department environmental conservation 
+prefix suffolk county delete 
+low lake 
+department transportation bellport 19b1 howel poi t24 figure 
+thickness confine unit gardiner clay monmouth greensand beneath upper glacial aquifer study area 
+the gardiner clay estimate thickness northern limit monmouth greensand 
+together semiconfining unit estimate thickness southern part study area 
+map show combined thickness two unit show figure 
+vertical hydraulic conductivity gardiner clay southwestern suffolk county southeastern nassau county determine reilly other range mean value 
+warren other estimate vertical hydraulic conductivity vicinity carmans river fig 
+getzen assume vertical hydraulic conductivity gardiner clay monmouth greensand unit regional flow model long island analogy clay unit similar origin connecticut 
+upper glacial aquifer the upper glacial aquifer compose upper pleistocene outwash wisconsin glaciation 
+these deposit overlie gardiner clay southern part study area lie directly magothy aquifer gardiner clay miss 
+the base aquifer dip gently south sea level vicinity brookhaven landfill site 
+the generalized configuration base upper glacial aquifer show figure 
+the outwash deposit consist interbedded fine coarse quartzose sand gravel lenses clay silty sand 
+laguna observe low part outwash generally consist finer deposit upper part 
+three well drill landfill vicinity lower aquifer consist silty reddish brown sand contain micaceous material 
+the lateral extent silty layer unknown 
+ground water upper glacial aquifer unconfined watertable condition 
+the thickness unsaturated zone within study area depend topography water table altitude range 
+the saturated thickness aquifer range 
+the upper glacial aquifer medium high hydraulic conductivity 
+map mcclymonds frank indicate hydraulic conductivity study area 
+warren other calculate value pump test brookhaven national laboratory fig 
+they also analyze seepage carmans river along reach two gag station station station 
+calculate hydraulic conductivity 
+line equal structure 
+altitude show altitude base upper 
+upper glacial aquifer 
+approximately locate 
+contour interval 
+datum ngvd 
+well test bore number assign new york state department 
+low lake 
+environmental conservation 
+prefix suffolk 
+county delete 
+swan lake 
+bellport bay 
+patchogue bay 
+department transportation bellport howells point 
+mile kilometer 
+configuration base upper glacial aquifer study area 
+ground water flow system the regional ground water flow system long island describe many report include cohen other frank mcclymonds getzen 
+generalized vertical section illustrate flow pattern south regional ground water divide trend east west across long island fig 
+show figure 
+the ground water reservoir recharge precipitation infiltrates land surface seeps water table 
+most water move laterally upper glacial aquifer continue downward underlie magothy lloyd aquifer 
+ground water study area generally travel southward eventually discharge heliport patchogue bay stream flow bay fig 
+water deeper part upper glacial aquifer may pass beneath shallow flow system associate streams move toward shore 
+the following section describe major source location grind water recharge discharge 
+ground water flow line salty ground water vertical exaggeration figure generalize north south hydrogeologic section ground water system south regional groundwater divide show pattern ground water flow 
+recharge precipitation kvapotranspiratior precipitation long island average miller frederick 
+the average warm season cool season precipitation amount approximately equal 
+the areal distribution precipitation uneven great central part long island 
+average annual precipitation study area inch miller frederick 
+annual precipitation average monthly average annual precipitation period record patchogue upton precipitation station fig 
+present table 
+average value inch calculate average annual precipitation period record two station value use ground water flow model describe 
+annual average monthly average annual precipitation patchogue upton 
+all value inch station location show fig 
+annual precipitation 
+patchogue upton 
+year patchogue upton 
+lat long 
+lat long 
+average monthly average annual precipitation 
+period record 
+month patchogue upton 
+month patchogue upton 
+jan feb mar 
+may june 
+july aug sept oct nov dec 
+average annual precipitation 
+patchogue period record 
+upton period record 
+not precipitation available recharge evaporates land surface transpire plant run overland stream 
+surface runoff undeveloped area long island negligible high permeability sandy soil warren other 
+surface runoff develop area great water channel stormwaterrecharge basin water infiltrate subsequently recharges aquifer 
+cohen other estimate half annual precipitation long island reach water table 
+warren other use thornthwaite method calculate loss due evapotranspiration brookhaven national laboratory vicinity fig 
+also conclude approximately percent precipitation reach water table 
+recent regional modeling study use percent precipitation estimate recharge value smolensky geological survey oral commun 
+accordingly uniform assume recharge ground water study area 
+other source ground water recharge the upper glacial aquifer also recharge injection spent cool water diffusion well infiltration domestic industrial wastewater cesspool septic tank irrigation return flow 
+these mechanism add additional recharge aquifer beyond natural amount rather serve mechanism return redistribution water withdrawn aquifer 
+similarly recharge basin develop area intercept water would otherwise lose runoff stream thus help maintain natural level recharge 
+most redistributed water reapplied close point withdrawal overall affect ground water flow presume negligible 
+the significant redistribution recharge study area discharge treat wastewater sewage treatment plant unlined basin 
+sewage treatment plant study area report discharge rate list table location show plate 
+sewage treatment plant discharge ground water study area 
+data new york state department environmental conservation location 
+sewage treatment plant 
+latitude longitude 
+discharge mgal 
+woodside site 
+brookhaven memorial hospital 
+levitt house 
+suffolk county center 
+discharge the main component discharge ground water reservoir natural condition seepage streams ground water evapotranspiration subsurface outflow frank mcclymonds 
+subsurface outflow upper glacial aquifer difficult quantify data head gradient along shore lack 
+estimate subsurface outflow make subtract sum discharge total inflow recharge study area procedure discuss discussion water budget analysis 
+ground water evapotranspiration occur grow season vegetation withdraws ground water root system extend water table 
+long island generally occur depth ground water less land surface pluhowski kantrowitz 
+area shallow depth water study area find within short distance stream channel along shore 
+the overall effect ground water evapotranspiration ground water flow study area therefore presume negligible 
+other component discharge relate development aquifer system include pumpage domestic industrial water supply irrigation 
+data streamflow pumpage present following section 
+seepage stream interaction stream aquifer long island describe several investigator harbaugh getzen cohen other reynolds prince 
+study area discharge stream significant effect pattern ground water flow within upper glacial aquifer 
+under natural undeveloped condition long island percent streamflow derive ground water seepage rest consist surface runoff 
+bank storage consider negligible cohen other 
+base flow two stream bound study area calculate percent total annual flow carmans river percent swan river peterson geological survey write commun 
+base flow long island stream responds change water level surround aquifer ground water level beneath stream rise ground water seepage stream increase 
+rate grind water seepage also control hydraulic conductivity streambed deposit generally low surround aquifer material streambed thickness 
+prince study connetquot brook major stream undeveloped area south shore long island calculate thickness streambed material approximately vertical hydraulic conductivity streambed material prince geological survey write commun 
+the length flow part stream varies seasonally year year response fluctuation grind water level 
+flow begin water table first intersect base stream channel point commonly refer start flow 
+ground water level fluctuate start flow move upstream downstream accordingly 
+the study area major stream flow southward discharge heliport bay patchogue bay 
+location stream start flow show plate estimate average base flow stream continuous partial discharge measurement present table 
+description stream study area give page 
+all gain influent stream throughout length except pond behind manmade control 
+local circulation pattern develop near pond section stream water discharge aquifer near downstream end pond seeps back stream downstream control 
+average base flow partial continuous record station study area 
+stream name 
+location show 
+stationidentification number 
+latitude longitude 
+station typel 
+estimate average base flow ft3 
+carmans river 
+yapahank creek 
+little neck run 
+beaverdam creek 
+mott brook 
+hedge creek 
+abets creek 
+mud creek 
+swan river 
+partial record station continuous record station temporary station use study 
+discharge measurement file geological survey syosset peterson geological survey write commun 
+carmans river 
+the large streams area length average annual discharge carmans river form eastern boundary study area 
+the carmans river long average gradient average annual base flow station 
+peterson geological survey write commun 
+the carmans river five manmade control dam form upper low lake three dam within southhaven park fig 
+the carmans river tidal south montauk highway 
+swan river 
+the second large stream swan river length average gradient 
+the dam form swan lake 
+major manmade control river 
+swan river become tidal south long island railroad right way 
+the start flow point study north woodside avenue 
+beaverdam creek 
+the third large stream study area beaverdam creek length 
+the start flow point usually sunrise highway montauk highway 
+beaverdam creek major manmade control although backwater effect occur point stream pass culvert montauk highway south country road 
+the stream become tidal south south country road 
+yapahank creek 
+yapahank creek long 
+the start flow usually hundred foot either side montauk highway 
+slight pond occurs north long island railroad right way flow pass culvert beneath track 
+yapahank creek tidal approximately south station 
+little neck run 
+little neck run pond north long island railroad right way 
+the pond result clog culvert pass railroad track 
+ground water seepage evident south side track 
+the stream become tidal approximately south track 
+mott brook 
+mott brook approximately long begin near end head neck road 
+mott brook pond north south country road 
+becomes tidal hundred foot south 
+other stream 
+two unnamed tributary converge north montauk highway flow south robinson pond dam south country road 
+the eastern tributary long western tributary long 
+robinson pond discharge mud creek becomes tidal hundred foot south station 
+few data three remain stream study area hedge creek howells creek abets creek available 
+these stream short tidal length 
+hedge creek discharge dunton lake howells creek abets creek discharge bellport patchogue bay 
+estimate annual average base flow several stream present table 
+pwnpage major pumpage study area report annually new york state department environmental conservation summarize table 
+all well list screen within upper glacial aquifer location show plate 
+seasonal pumpage irrigation study area minor include table 
+the study area contain many private domestic supply well pumpage well low water return aquifer discharge cesspool 
+the overall effect irrigation domestic pumpage ground water flow upper glacial aquifer assume minimal account ground water flow model 
+public supply industrial pumpage study area 
+data new york state department environmental conservation well location show 
+well number 
+latitude longitude 
+total pumpage 
+si331 scwa heliport well field s14710 
+scwa patchogue yaphank road 
+well field 
+s33826 scwa station road well field s42499 
+s26616 heliport village golf course 
+si6098 suffolk county board supervisor 
+s43348 redactron corp 
+scwa suffolk county water authority 
+ground water upper glacial aquifer ground water upper glacial aquifer water table unconfined condition throughout study area 
+water table altitude influence hydraulic conductivity aquifer rate recharge discharge aquifer location hydrologic boundary quantity flow across boundary 
+map show line equal water table altitude use determine gradient hydraulic head direction ground water flow 
+water table altitude september network observation well include add phase study stream stage measurement site use determine watertable altitude location show plate 
+data location 
+ownership physical characteristic observation well give table end report information stream stage measurement sit give table 
+map show line equal water table altitude upper glacial aquifer september present plate 
+the map represent period water table altitude close year average indicate hydrographs four observation well area fig 
+streamflow carmans swan river first week september near long term average value geological survey 
+the configuration water table september 
+similar show map prepare warren other period average water level august july 
+this indicate ground water study area greatly influence development since time 
+ground water enter study area northern boundary flow perpendicular line equal water table altitude southward toward shore also westward eastward toward swan river carmans 
+stream stage measurement site use study 
+stream name 
+location show 
+stationidentification number 
+latitude longitude 
+carmans river 
+yapahank creek little neck run beaverdam creek mott brook mud creek swan river 
+lnr sri sr2 
+five year hydrographs four observation well study area 
+horizontal line indicate year average water level well location show 
+river respectively 
+steep ground water gradient toward stream indicate streamflow account ground water discharge study area 
+other factor may affect water table gradient heterogeneity aquifer material pumpage public supply domestic us recharge sewage treatment plant source recharge redistribution pump water local variation rate recharge leakage clay unit underlie upper glacial aquifer 
+ground water magothy aquifer the magothy aquifer confine gardiner clay monmouth greensand study area silt clay within upper part magothy also tend confine water permeable basal part aquifer 
+the general direction ground water movement magothy aquifer show cross section figure 
+potentiometric surface map magothy aquifer study area prepare available water level data show figure 
+the major component flow magothy aquifer toward south shore discharge upward overlie clay upper glacial aquifer 
+upper lake lower lake 
+department transportation 3ellport howel point 
+line equal potentiometric altitude interval foot 
+datum ngvd 
+dash approximately locate 
+observation well upper number assign new york state department environmental conservation prefix suffolk county omit 
+low number potentiometric surface altitude foot ngvd 
+potentiometrie surface magothy aquifer study area 
+comparison water level upper glacial aquifer potential magothy aquifer 
+show recharge llagothy northern part study area north brookhaven landfill site head upper glacial aquifer exceed magothy 
+discharge magothy aquifer occur southern part study area head magothy aquifer exceed upper glacial aquifer 
+the boundary zone recharge discharge fix constantly shift response head change aquifer 
+water budget water budget accounting inflow outflows change storage within give area 
+steady state water budget consider change grind water storage develop study area obtain estimate rate grind water inflow northern boundary area subsurface discharge along shore leakage confine unit separate upper glacial aquifer magothy aquifer 
+the area consider water budget analysis indicated figure extend north study area regional ground water divide fig 
+the regional ground water divide upper glacial aquifer assume correspond underlie magothy aquifer 
+the southern boundary water budget area freshwater saltwater interface lie close shore patchogue bellport bay upper glacial aquifer beneath barrier islands south magothy aquifer fig 
+the western boundary water budget area swan river flow line extend northward start flow regional ground water divide 
+the eastern boundary low reach carmans river south low lake line extend northward downstream end lower lake regional ground water divide 
+the eastern boundary drawn way include ground water may pass beneath shallow flow system associate upper reach carmans river flow southward study area 
+the bottom boundary water budget area upper surface raritan clay 
+leakage raritan clay lloyd aquifer probably constitute less percent total recharge water budget area therefore include water budget analysis 
+schematic diagram showing inflow outflows area give figure 
+value inflow outflow calculate best estimate aquifer confine unit property recharge rate discuss previous section 
+the rate inflow across northern boundary model area estimate net leakage upper glacial aquifer llagothy estimate 
+although value may error uncertainty aquifer property analysis provide reasonable estimate inflow discharge study area 
+these estimate use development ground water flow model represent study area refine model calibration 
+ground water divide 
+brookhaventfs landfill site 
+patchogue bay 
+approximate location freshwater saltwater interface magothy aquifer 
+boundary area consider water budget analysis sanitary landfill kilometer base 
+department transportation bellport 19b1 howells point 
+area consider water budget analysis location show fig 
+trecharge water budget area north 
+recharge modeledaree 
+ground water discharge streams water budget area north model area 
+stream grind water discharge stream model area 35ft 
+stream discharge ocean 48ft3 onsurrtf mot 
+ground water divide upper glacial aquifer 
+inflow across northern boundary model area 12ft upper 
+glacial aquifer 
+medae 40ft 
+leakage magothy aquifer upper glacial aquifer north model area 21ft3 
+leakage magothy aquifer upper glacial aquifer model area 
+leakage model area magothy aqutfer 20ft3 
+potentiometric divide magothy aquifer 
+underflow magothy aquifer 4ft3 
+component rate flow water budget area determine water budget analysis 
+simulation ground water flow digital model develop hydrogeologic data discuss previously simulate steady state ground water flow study area 
+the model represent upper glacial aquifer allow steady leakage ground water gardiner clay 
+flow upper glacial aquifer assume horizontal 
+estimate aquifer confine unit property rate flow across model boundary refine process model calibration 
+once calibrate model use calculate rate direction ground water flow within brookhaven landfill site vicinity 
+brief discussion ground water flow equation type boundary condition assumption use model give 
+theoretical background the partial differential equation govern steady state two dimensional areal ground water flow heterogeneous isotropic water table aquifer give bear 
+jth jmk 
+hydraulic conductivity point aquifer hydraulic head water table altitude datum altitude aquifer bottom datum rate areal recharge per unit area aquifer rate withdrawal aquifer per unit area 
+two simplify assumption implicit form equation 
+flow aquifer horizontal slope water table small enough equipotential line nearly vertical refer dupuit assumption 
+also vertical flow component near stream partially penetrate well near base aquifer vertical leakage may occur assume negligible effect regional flow aquifer 
+the density water uniform gradient induced concentration temperature difference assume negligible effect regional flow 
+three type boundary condition associate equation 
+the first type refer prescribed head dirichlet boundary condition define 
+head aquifer point boundary know value 
+the second type refer prescribed flux neumann boundary condition define 
+rate flow normal boundary know value 
+flow boundary equal zero use represent streamline impermeable boundary 
+the third type refer head dependent flux cauchy boundary condition apply flow across aquifer boundary dependent difference head aquifer know head opposite side semipervious layer 
+the head dependent flux boundary condition define 
+boundary flux hydraulic conductivity semipervious layer thickness semipervious layer head aquifer know head opposite side semipervious layer 
+additional theoretical discussion ground water flow equation boundary condition find bear 
+equation nonlinear solve analytically idealized condition 
+for area irregularly shape boundary spatial variation aquifer property numerical method must use 
+these method involve find solution head value select number point within area model rather point 
+one technique call galerkin finite element method involve divide map area model grid compose small area term element 
+for twodimensional problem element triangle rectangle quadrilateral 
+point junction line finite element grid term node 
+give appropriate boundary condition approximation true water table configuration determine solve equation node finite element grid 
+the galerkin finite element method apply extensively simulation ground water flow 
+discussion theory application method give finder gray wang anderson bear remsen other 
+several computer code use finite element method available wide range problem subsurface hydrology 
+the computer code use study originally develop tracy geological survey 
+modification make original code tracy wexler document report dunlap other 
+the computer code use triangular isoparametric quadrilateral element linear basis function element integration do numerically point gaussian quadrature technique simultaneous equation generate solved cholesky decomposition method symmetrical matrix dunlap other 
+two change code describe dunlap other make study 
+the first relate method use treat nonlinear term equation 
+iterative procedure use solve water table altitude rather perturbation method use code describe dunlap other 
+iterative procedure value term represent effective transmissivity water table aquifer first calculate initial value water level 
+equation solve new water table altitude use recalculate effective transmissivity term 
+the procedure repeat convergence criterion meet 
+this iterative procedure also describe finder gray bear 
+second change relate method use simulate ground water seepage stream describe subsequent section 
+model design model upper glacial aquifer represent single layer flow assume horizontal 
+the upper boundary area model defined water table low boundary base upper glacial aquifer except nearshore area lower boundary define freshwater saltwater interface 
+the study area represent finite element grid compose quadrilateral element node 
+the lateral boundary grid fig 
+approximate study area 
+the grid finer center study area provide necessary detail near landfill site 
+recharge point pump well constant stream discharge point 
+head dependent stream discharge point reference point between which model boundary condition be similar 
+department transportation bellport howells point figure 
+finite element grid use represent study area 
+application boundary condition prescribe head boundary prescribe head boundary condition 
+apply node represent lateral boundary study area 
+although net rate flow across boundary estimate water budget analysis prescribe flux boundary 
+use distribution flux node along boundary uniform could easily calculate 
+boundary flux prescribe head boundary sensitive change value aquifer property calculate computer code compare streamflow data estimate flow rate across northern shore boundary model calibration 
+prescribe head value node along shore tidal reach swan carmans river line abcd fig 
+set equal zero represent sea level 
+prescribe head value node along northern boundary study area line fig 
+determined september water table altitude 
+the carmans river pond length lower lake tidal reach line fig 
+behind three manmade control southhaven park 
+prescribe head value node along pond reach set surface water altitude september 
+prescribedhead value node pond reach obtain interpolation topographic map 
+node represent swan river line fig 
+treat similarly 
+node along swan lake assign prescribed head value equal september surface water altitude prescribe head value node start flow swan lake obtain two staff gage swan river station sri sr2 interpolation topographic map 
+node represent dunton lake robinson pond upper pond reach little neck run pond near sunrise highway southaven park fig 
+treat internal prescribed head node 
+prescribe head value set equal september surface water altitude 
+node broad tidal reach mud creek abets creek fig 
+also treat prescribedhead node head value set equal zero 
+head dependent flux boundary the base upper glacial aquifer select low boundary model area except nearshore area 
+head dependent flux boundary condition 
+use represent boundary account steady leakage across confine unit gardiner clay monmouth greensand underlie upper glacial aquifer 
+value thickness confine unit determine interpolation contour figure specify node finite element grid 
+uniform value base publish value initially specify hydraulic conductivity confine unit adjust model calibration 
+prescribe head value llagothy aquifer interpolate potentioinetric surface map depict figure 
+head hagothy aquifer assume remain constant affected change simulate water table altitude upper glacial aquifer 
+during model calibration net leakage confine unit calculate computer code compare estimate obtain water budget analysis 
+preseribed flux boundary 
+recharge boundary 
+the water table upper boundary model area represent prescribed flux boundary 
+flow across prescribed flux boundary equal annual average rate recharge upper glacial aquifer 
+state previous section annual precipitation study area average 
+recharge upper glacial aquifer amount precipitation minus average amount evapotranspiration surface runoff set equal percent annual precipitation value apply uniformly model area 
+ground water discharge area ground water evapotranspiration assume minor incorporate model 
+freshwater saltwater interface 
+coastal aquifer freshwater saltwater interface present within upper glacial aquifer near shore freshwater upper glacial aquifer meet denser salty ground water underlie patchogue bellport bay fig 
+the interface represent streamline flow boundary freshwater discharge bay tends flow along interface 
+the saltwater freshwater interface use define low boundary model nearshore area 
+the actual position interface unknown approximate ghyben herzberg principle assumption interface stationary freshwater flow aquifer horizontal bear 
+the altitude bottom freshwater zone sea level 
+freshwater density assume equal saltwater density simulate water table altitude sea level node 
+value cnh use long island regional model sinolensky geological survey oral comniun find produce reasonable result study area model 
+the toe interface point value equal altitude base upper glacial aquifer 
+landward point head dependent flux boundary condition apply described preceding section 
+minimum freshwater thickness use represent outflow face seaward shore freshwater discharge directly bay fig 
+aquifer property value hydraulic conductivity basal altitudes upper glacial aquifer specify node finite element grid 
+altitude aquifer bottom interpolated base configuration map show figure 
+uniform hydraulic conductivity assume upper glacial aquifer aquifer test lithologic data indicate systematic variation property 
+the hydraulic conductivity initially set equal node accordance previously publish estimate mcclymonds frank adjust model calibration 
+point recharge discharge all point recharge discharge within study area represent fully penetrate well 
+source recharge discharge near node finite element grid full value recharge discharge apply node 
+percentage flow allocate four node form element source locate describe segerlind 
+the former method prefer especially element large grid design node point recharge discharge 
+pumpage redistribution ground water the location annual discharge public supply industrial pumpage site list table 
+the large redistribution withdrawn water discharge treat water sewage treatment plant ground water 
+location treatment plant show plate discharge rate give table 
+rate pumpage redistribution vary seasonally average annual rate specify steady state simulation 
+ground water discharge stream the study area contain eleven shallow stream include carmans swan river describe earlier 
+estimate annual average base flow stream continuous partial discharge measurement give table 
+ground water discharge stream steady state model simulate line discharge point 
+the discharge point calculate one several method depend amount data available 
+the calculated discharge allocate model node method point pumpage redistribution 
+the rate ground water discharge point gag stream except beaverdam creek little neck run yapahank creek calculate dividing average increase flow along gaged reach number discharge point use represent reach 
+the discharge point represent ungaged stream extrapolate base flow data 
+nearest gag stream 
+the calculated rate grind water discharge vary either type stream model calibration 
+ground water seepage point represent beaverdam creek little neck run yapahank creek stream closest landfill site simulate model head dependent discharge 
+similar method simulate discharge stream use long island regional model discuss harbaugh getzen reilly other 
+increase streamflow gag reach accurately distribute discharge point method incorporate data stream geometry average stream surface altitude aquifer head 
+the ground water discharge point determine 
+vertical hydraulic conductivity streambed material average thickness streambed area stream equal length reach multiply average width simulate head aquifer average stream surface altitude sea level 
+the vertical hydraulic conductivity streambed material initially set equal average streambed thickness assume equal streambed hydraulic conductivity vary model calibration simulate streamflow reach check estimate average base flow value present table 
+ground water discharge tidal reach stream study area measure 
+obtain estimate discharge reach seepage tidal reach streams simulate head dependent discharge 
+average stream surface altitude tidal reach set equal sea level interpolate available stream surface altitude data 
+vertical hydraulic conductivity streambed material initially set equal adjusted calibration model 
+model calibration model calibration do trial error procedure aquifer confine unit property adjust reasonable match simulate water table altitude water table configuration september 
+least square method simulate observed water table altitude observation well area compare used mean determine best fit 
+streaiaflows flow across model boundary calculate checked estimate obtain water budget analysis part calibration procedure 
+initial estimate aquifer confine unit hydraulic conductivity use model give table along final value obtain model calibration 
+initial final value hydraulic conductivity use steady state flow model 
+all value 
+materialinitial estimate final value 
+upper glacial aquifer 
+streambed material flowing reach 
+streambed material tidal reach 
+confine unit2 
+streambed thickness assume equal gardiner clay monmouth greensand present 
+simulated water table altitude the simulated water table altitude contour graphic routine develop study present figure 
+the computer code use calculate difference water table altitude observe september simulated value location observation well 
+the average difference standard deviation 
+the maximum difference equal well s72128 well location show 
+comparison simulate observed water table altitude also show fig 
+show water level match closely entire study area best match center study area 
+the great difference southwestern part study area simulate value low observe value 
+well match might obtain adjust hydraulic conductivity value different part model area hydrologic data particularly aquifer test data need distribution value lack 
+these data additional measurement potentiometric surface magothy aquifer thickness clay unit aquifer base altitude would increase knowledge hydrogeology area could improve accuracy model 
+simulated water budget part calibration procedure flow across prescribe head leakage boundary calculate 
+the flow obtain calibrated model give table schematic diagram presenting revised water budget analysis base simulated flow give 
+line equal simulate water table altitude contour interval foot 
+datum ngvd 
+line equal water table 
+altitude september 
+contour interval foot 
+except indicate 
+department transportation bellport howells point 19b1 figure 
+simulate observed september water table configuration 
+the simulated flow compare favorably value obtain initial water budget analysis fig 
+although difference evident primarily rate leakage confine unit 
+simulated inflow discharge study area 
+all value cubic foot per second 
+flow rate 
+recharge precipitation underflow northern boundary upward leakage upper glacial aquifer recharge sewage treatment plant 
+discharge shore boundary 
+downward leakage upper glacial aquifer 
+withdrawal public supply industrial well 
+discharge swan river 
+discharge carmans river 
+discharge stream within study area 
+discharge tidal reach stream 
+discharge internal prescribe head node 
+include discharge tidal reach swan carmans river 
+include dunton lake robinson pond upper pond reach little neck run pond near sunrise highway southhaven park show 
+ground water velocity near brookhaven landfill site 
+once ground water flow model calibrate used calculate direction rate grind water flow vicinity landfill site 
+the average ground water velocity calculate darcy law 
+aquifer hydraulic conductivity hydraulic gradient indicate slope water table dimensionless effective porosity aquifer material dimensionless 
+scale vector plot velocity midpoint element area downgradient landfill site area indicate fig 
+show figure 14a 
+velocity calculate hydraulic conductivity 
+water rbeucdhgaertgaerteoa north model area 
+mjjoxdtealelpdsarresa 47ft3 
+ground water discharge streams water budget area north model area 
+stream grind water discharge stream model area 33ft3 
+stream discharge ttan 46ft 1ft consumptive loss model area 
+ground water divide upper glacial aquifer 
+inflow across northern boundary model area 10ft3 upper 
+glac aquifer 
+underflow model area 41ft3 
+leakage magothy aquifer upper glacial aquifer north model area 23ft 
+leakage magothy aquifer upper glacial aquifer model area fta3 
+leakage model area magothy aquifer 23ft 
+potentiometric divide magothy aquifer 
+underflow magothy aquifer 
+component rate flow water budget area determine calibrate model 
+compare estimate wlues fig 
+effective aquifer porosity 
+average ground water velocity area range 
+the computed velocity center landfill site equal direction s44 
+flow line downgradient site plot figure 14b 
+these line provide general indication path would follow contaminant enter ground water beneath sanitary landfill 
+the flow line illustrate advective movement ground water however 
+dispersive mixing cause spread contaminant along transverse flow line would need evaluated movement contaminant sanitary landfill could accurately predict 
+second model develop data generate flow model 
+this model use simulate advective dispersive transport conservative solute landfill site describe part series wexler 1987b 
+department transportation bellport howells point 
+explanation scale ground water velocity vector foot per day direction ground water flow number approximate travel time landfill indicate point year 
+line equal water table altitude simulate sept contour interval 5feet 
+datum ngvd figure 
+simulate ground water velocity direction ground water flow upper glacial aquifer downgradient brookhaven landfill site 
+location area show fig 
+summary and conclusion the hydrogeology area surround brookhaven landfill site study preliminary step investigation solute transport site 
+hydrogeologic information previous investigation field data gather study use describe groundwater flow system delineate hydrologic boundary area provide initial estimate aquifer confine unit property 
+well log public supply well geologic test hole provide data extent thickness confine unit separate upper glacial aquifer underlie magothy aquifer 
+precipitation major source recharge upper glacial aquifer study area 
+additional source recharge include underflow across northern boundary study area upward leakage confine unit 
+ground water discharge upper glacial aquifer seepage stream outflow shore bellport patchogue bay downward leakage magothy aquifer northern part area pumpage agricultural use public domestic supply 
+most pumped water return aquifer close point withdrawal irrigation return flow discharge cesspool septic tank 
+the significant redistribution pump water discharge water sewage treatment plant ground water 
+water table map september 
+prepare data gather network observation well stream stagemeasurement site 
+the water table map represent period average water level upper glacial aquifer 
+two dimensional finite element model study area develop simulate steady state ground water level upper glacial aquifer average condition 
+the model calibrate adjust hydrologic value simulate water level match observe september simulated flow across model boundary compare favorably estimate calculate water budget analysis 
+the steady state water table altitude generate calibrated model use compute ground water velocity landfill site vicinity 
+the velocity center site base average aquifer porosity percent bearing s44 
+solute transport model develop data obtain study describe third report series wexler 1987b additional data hydrogeologic condition ground water quality site vicinity give part wexler 1987a 
+reference cite bear jacob hydraulics grind water new york mcgraw hill cohen philip frank 
+foxworthy atlas long island water resource new york state water resource commission bulletin laguna wallace geology brookhaven national laboratory vicinity suffolk county new york geological survey bulletin donaldson koszalka 1983a potentiometric surface magothy aquifer long island new york march geological survey open file report sheet 
+1983b water table long island new york march geological survey open file report sheet 
+dunlap lindgren carr project effect ground water withdrawal arkansas river valley hamilton kearny county southwestern kansas geological survey waterresources investigation report frank 
+cohen regional rate grind water movement long island new york jln geological survey research geological survey professional paper c271 c277 
+mcclymonds summary hydrologic situation long island new york guide water management alternative geological survey professional paper fuller the geology long island new york geological survey professional paper getzen analog model analysis regional three dimensional flow ground water reservoir long island new york geological survey professional paper harbaugh getzen stream simulation analog model ground water system long island new york geological survey water resource investigation jensen soren julian hydrogeologic data select well test hole suffolk county long island new york suffolk county department environmental control long island water resource bulletin hydrogeology suffolk county long island new york geological survey hydrologic investigation atlas sheet 
+kimmel braid 
+leachate plume grind water babylon islip landfill long island new york geological survey professional paper 
+reference cite continued krulikas hydrogeologic data select well test hole suffolk county long island new york geological survey open file report mcclymonds frank 
+water transmit property aquifer long island new york geological survey professional paper miller frederick the precipitation regime long island new york geological survey professional paper nakao erlichman the water table long island new york march geological survey open file report padar investigation ground water contamination municipal landfill nassau county new york new york water pollution control association annual meeting january pinder gray finite element simulation surface subsurface hydrology new york academic press pluhowski kantrowitz hydrology babylon islip area suffolk county long island new york geological survey water supply paper prince the potentiometric surface magothy aquifer long island new york march geological survey open file report preliminary investigation shallow ground water flow system associate connetquot brook long island new york geological survey water resource investgations reilly harbaugh comparison analog digital modeling technique simulate three dimensional ground water flow long island new york geological survey water resource investigation reilly buxton frank 
+wait effect sanitary sewer grind water level stream nassau suffolk county new york part geohydrology model strategy regional evaluation geological survey water resource investigation remsen hornberger molz numerical method subsurface hydrology introduction finite element method new york wiley interscience reynolds base flow stream long island new york geological survey water resource investigation 
+reference cite continued segerlind apply finite element analysis new york john wiley suter russell delaguna wallace perlmutter map geologic formation aquifer long island new york new york state water power control commission bulletin geological survey water resource data new york volume long island geological survey water data report issue annually 
+veatch slichter bowman isaiah crosby horton underground water resource long island new york geological survey professional paper wang anderson introduction ground water modelingfinite difference finite element method san francisco freeman warren laguna wallace lusczynski hydrology brookhaven national laboratory vicinity suffolk county new york geological survey bulletin wexler 1987a ground water flow solute transport municipal landfill site long island new york part hydrogeology water quality geological survey water resource investigation report 1987b ground water flow solute transport municipal landfill site long island new york part simulation solute transport geological survey water resource investigation report 
+s33825 s43739 s43741 s43748 s43750 s44574 s44575 s44576 s44577 s44578 s44581 s47224 s47746 s47747 s47750 s47751 s47752 s47756 s47975 s54883 s56746 s62404 s65603 s65858 s66508 s70928 s72113 s72114 s72115 s72116 s72117 s72118 s72119 s72120 
+description observation well study area 
+dash indicate data unavailable 
+latitude longitude 
+sequence number 
+qwner use use us bnl bnl 
+sea level 
+measure land 
+total well depth 
+depth top screen 
+us use us use us 
+screen length 
+well diam 
+well number assign new york state department environmental conservation 
+prefix designate suffolk county 
+sequence number assign two well latitude longitude 
+tob town brookhaven bnl brookhaven national laboratory scwa suffolk county water authority scdhs suffolk county department health service bfd brookhaven fire department yfd yaphank fire department 
+s72121 s72122 s72123 s72124 s72125 s72126 s72127 s72128 s72129 s72130 s72131 s72132 s72133 s72134 s72136 s72138 s72139 s72140 s72141 s72142 s72143 s72144 s72145 s72146 s72147 s72148 s72149 s72150 s72151 s72152 s72153 s72154 s72155 s72156 s72157 s72158 s72159 s72160 s72161 s72162 s72163 s72164 s72165 s72167 s72168 
+description observation well study area continue 
+dash indicate data unavailable 
+latitude longitude 
+sequence number owner use use us use us use us use us use us use us use us use us use us use us use us use us use bfd bfd bfd bfd 
+sea level 
+total well depth 
+depth top screen 
+screen length 
+bfd bfd bfd bfd bfd 
+bfd bfd bfd bfd bfd 
+bfd bfd bfd bfd bfd 
+well diam 
+table description observation well study area continue 
+dash indicate data unavailable 
+latitude longitude 
+snuemqbueern c7e 
+sea level 
+total well depth 
+depth top screen 
+screen length 
+s72169 s72170 s72171 s72172 s72173 
+bfd bfd bfd bfd bfd 
+s72174 s72175 s72176 s72177 s72812m s72813m s72814m s72815 s72816 s72817 s72818 s72819 s72820 s72821 s72822 s72823 s72824 s72825 s72826 s72827 s72828 s72829 s72830 s72831 s72832 s72833 s72834 s72835 s72836 s72837 s72838 s73750 s73751 s73752 s73753 
+bfd bfd bfd yfd use use us use us use us use us use us use us use us use us use us use us use us use us use us use us use us 
+well diam 
+well number assign new york state department environmental conservation 
+prefix designate suffolk county suffix designate well serened magothy aquifer 
+sequence number assign two well latitude longitude 
+xob town brookhaven bnl brookhaven national laboratory scwa suffolk county water authority scdhs suffolk county department health service bfd brookhaven fire department yfd yaphank fire department 
+s73754 s73755 s73756 s73757 s73758 s73759 s73760 s73761 s73762 s73763 s73764 s73765 s73766 s73767 s73768 s73769 s73770 s73943 s73944 s73945 s73946 s73947 s73948 s73949 s73951 s73952 s73953 s73954 s73955 s74765 s74766 s74767 s74768 s74769 s74770 s74771 s74772 s74773 s74774 
+description observation well study area continue 
+dash indicate data unavailable 
+latitude longitude 
+sequence number 
+sea level 
+total well depth 
+depth top screen 
+screen length 
+tob tob tob tob tob 
+tob tob tob tob tob 
+tob tob tob tob tob 
+tob tob tob tob tob 
+us use us use tob 
+tob tob tob tob 
+well dlam 

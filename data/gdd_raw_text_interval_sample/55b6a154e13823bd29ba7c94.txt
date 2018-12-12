@@ -1,0 +1,537 @@
+Soil Data from Fire and Permafrost-Thaw Chronosequences in Upland Black Spruce (Picea mariana) Stands near Hess Creek and Tok, Interior Alaska
+Open-File Report 2013–1045
+U.S. Department of the Interior U.S. Geological Survey
+
+This page intentionally left blank
+
+Soil Data from Fire and Permafrost-Thaw Chronosequences in Upland Black Spruce (Picea mariana) Stands near Hess Creek and Tok, Interior Alaska
+By Jonathan A. O’Donnell, Jennifer W. Harden, Kristen L. Manies, M. Torre Jorgenson, Mikhail Kanevskiy, and Xiaomei Xu
+Open-File Report 2013–1045
+U.S. Department of the Interior U.S. Geological Survey
+
+U.S. Department of the Interior KEN SALAZAR, Secretary U.S. Geological Survey Suzette M. Kimball, Acting Director
+U.S. Geological Survey, Reston, Virginia: 2013
+For more information on the USGS—the Federal source for science about the Earth, its natural and living resources, natural hazards, and the environment—visit http://www.usgs.gov or call 1–888–ASK–USGS For an overview of USGS information products, including maps, imagery, and publications, visit http://www.usgs.gov/pubprod
+Suggested citation: O’Donnell, J.A., Harden, J.W., Manies, K.L., Jorgenson, M.T., Kanevskiy, M.Z., and Xu, Xiaomei, 2013, Soil data from fire and permafrost-thaw chronosequences in upland Picea mariana stands near Hess Creek and Tok, interior Alaska: U.S. Geological Survey Open-File Report 2013–1045, 16 p.
+Any use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government. Although this report is in the public domain, permission must be secured from the individual copyright owners to reproduce any copyrighted material contained within this report.
+
+Contents
+Introduction.................................................................................................................................................... 1 Study Region ................................................................................................................................................. 1 Soil Sampling................................................................................................................................................. 3 Soil Sample Preparation and Drying.............................................................................................................. 4 Soil Carbon and Nitrogen Measurements...................................................................................................... 4 Radiocarbon Measurements.......................................................................................................................... 5 Data-Set Descriptions.................................................................................................................................... 5 References Cited........................................................................................................................................... 6 Appendix 1. Site Descriptions........................................................................................................................ 8 Appendix 2. Data File Descriptions.............................................................................................................. 12
+Hess-Taylor_Field.................................................................................................................................... 12 Hess-Taylor_Transects............................................................................................................................ 13 Hess-Taylor_Physical .............................................................................................................................. 14 Hess-Taylor_Chemistry............................................................................................................................ 15
+iii
+
+This page intentionally left blank
+
+Soil Data from Fire and Permafrost-Thaw Chronosequences in Upland Black Spruce (Picea mariana) Stands near Hess Creek and Tok, Interior Alaska
+By Jonathan A. O’Donnell1, Jennifer W. Harden2, Kristen L. Manies2, M. Torre Jorgenson3, Mikhail Kanevskiy4, and Xiaomei Xu5
+Introduction
+Soils of the Northern Circumpolar Permafrost region harbor 1,672 petagrams (Pg) (1 Pg = 1,000,000,000 kilograms) of organic carbon (OC), nearly 50 percent of the global belowground OC pool (Tarnocai and others, 2009). Of that soil OC, nearly 88 percent is presently stored in perennially frozen ground. Recent climate warming at northern latitudes has resulted in warming and thawing of permafrost in many regions (Osterkamp, 2007), which might mobilize OC stocks from associated soil reservoirs via decomposition, leaching, or erosion. Warming also has increased the magnitude and severity of wildfires in the boreal region (Turetsky and others, 2011), which might exacerbate rates of permafrost degradation relative to warming alone. Given the size and vulnerability of the soil OC pool in permafrost soils, permafrost thaw will likely function as a strong positive feedback to the climate system (Koven and others, 2011; Schaefer and others, 2011).
+In this report, we report soil OC inventories from two upland fire chronosequences located near Hess Creek and Tok in Interior Alaska. We sampled organic and mineral soils in the top 2 meters (m) across a range of stand ages to evaluate the effects of wildfire and permafrost thaw on soil C dynamics. These data were used to parameterize a simple process-based fire-permafrost-carbon model, which is described in detail by O’Donnell and others (2011a, b). Model simulations examine long-term changes in soil OC storage in response to fire, permafrost thaw, and climate change. These data also have been used in other papers, including Harden and others (2012), which examines C recovery post-fire, and Johnson and others (2011), which synthesizes data within the Alaska Soil Carbon Database. Findings from these studies highlight the importance of climate and disturbance (wildfire, permafrost thaw) on soil C storage, and loss of soil C from high-latitude ecosystems.
+Study Region
+Using aerial photography, satellite imagery, and maps of historical fire perimeters, we selected chronosequence sites near Hess Creek and along the Taylor Highway near Tok, Alaska. The Hess Creek chronosequence is located approximately 150 kilometers (km) north of Fairbanks, Alaska, along the Dalton Highway. All study sites were located in north-facing forests and were somewhat poorly drained.
+1Currently with Arctic Network, National Park Service, Fairbanks, Alaska 2U.S. Geological Survey 3Alaska Ecoscience, Fairbanks, Alaska 4Institute of Northern Engineering, University of Alaska Fairbanks, Fairbanks, Alaska 5Department of Earth System Science, University of California Irvine, Irvine, California
+
+At the Hess Creek chronosequence, study sites were located within the 2003 Erickson Creek burn (n = 3 stands), a 1993 burn (n = 1), a 1990 burn (n = 1), a 1967 burn (n = 1), and mature unburned stands (n = 3; age = 148 ± 28 years). At the Taylor Highway chronosequence, study sites were located within a 2004 burn (n = 3 stands), a 1990 burn (n = 2), a 1988 burn (n = 1), a 1966 burn (n = 1), and mature unburned stands (n = 3; > 100 years). Appendix 1 (Hess_Taylor_Site_Descriptions) describes the location of each site and precisely where, within each site, soils were sampled.
+The regional climate of Interior Alaska is characterized by a continental climate, with temperature extremes ranging from −50 to 35 degrees Celsius (°C). At the Hess Creek study region, the average daily air temperature ranges from −25 °C in January to 15 °C in July (O’Donnell and others, 2011b). For Tok, the average daily air temperature ranges from −26 °C in January to 15 °C in July (Alaska Climate Research Center, for Tok, Alaska; http://climate.gi.alaska.edu). Annual precipitation averages 270 millimeters (mm), 65 percent of which falls during the summer growing season (midMay–early September). The cold snow period in Interior Alaska typically is greater than 210 days long, and at Hess Creek maximum snow accumulation occurred in late March (average = 44 centimeters (cm); O’Donnell and others, 2011b).
+Vegetation at each stand was described according to the Alaska Vegetation Classification System (Viereck and others, 1992). The dominant forest type along the Hess Creek chronosequence is open black spruce (Picea mariana (Mill.) Britton, Sterns, and Poggenburg). Detailed vegetation descriptions for each stand age are reported in O’Donnnell and others (2011a). The dominant forest type along the Taylor Highway chronosequence also is open black spruce. In mature black spruce stands, the forest understory was comprised of small woody shrubs, such as Vaccinium vitis-idaea and Ledum groenlandicum. Feather mosses (Pleurozium schreberi and Hylocomium splendens), Sphagnum (including S. fuscum) and reindeer lichens (Clanina stellaris and C. arbuscula) dominated ground cover in the mature black spruce stands. In the recently burned black spruce stands (2004 burn), vegetation was dominated by standing dead P. mariana, and V. vitis-idaea, V. uliginosum, L. groenlandicum, and Betula nana. Burned organic soil surfaces were quickly colonized by Ceratodon purpureus in the recently burned stands. In the stand that burned in 1967, P. mariana was the dominant tree species, V. vitis-idaea and L. groenlandicum were the dominant understory shrubs, and the feather moss Aulocomium sp. dominated ground cover.
+Soils at Hess Creek were classified as Gelisols, due to the presence of permafrost within 100 cm of the soil surface (Staff, 1998). Organic soil horizons overlying mineral soil were composed of live moss and fibrous and amorphous organic matter, and varied in thickness with stand age. Parent material across the chronosequence was composed primarily of loess silt deposited during the Late Pleistocene. We observed numerous buried organic horizons and undecomposed moss parts and rootlets in the frozen loess deposits. The thickness of frozen loess at Hess Creek varied spatially, and ranged from 1 to 26 m (based on the drilling of 62 boreholes). Volumetric ice content of permafrost at Hess Creek was high, ranging from 60 to 90 percent. Furthermore, massive ice wedges at some locations account for up to 30– 50 percent of permafrost soil volume. High ice content of permafrost contributed to thaw settlement following a fire at Hess Creek, and numerous thermokarst depressions have been observed.
+Soils along the Taylor Highway chronosequence were classified as Gelisols where permafrost was present, and as enceptisols where permafrost was absent. Organic-soil horizon thickness and composition along the Taylor Highway chronosequence were similar to the Hess Creek chronosequence. However, the mineral soil consisted of a thin loess mantle underlain by a mixture of silty loam and gravel and shallow bedrock (typically less than 1 m). Permafrost was only detected in mature black spruce stands, whereas all burned stands were permafrost-free.
+2
+
+Soil Sampling
+In September 2007, we described and sampled organic and mineral soil horizons to a minimum of 2 m from one intensive profile at each replicate stand along the chronosequence. Mineral soil horizons were characterized for texture and the presence of buried organic material. For the 2003 Burn and Unburned Mature stands, we also sampled and analyzed soil chemistry from five profiles across three replicate stands. We only sampled one profile in the 1967, 1990, and 1993 stands, because most easily accessible stands of intermediate age re-burned during the massive 2004 and 2005 fire years. In addition, we dug 10 shallow pits at each stand for each age class to describe and note the depths of horizons within the soil profile as well as note the depth of the active layer.
+Organic soil horizons were sampled by hand using a variety of soil knives, scissors, corers (Nadler and Wein, 1998), or saws to ensure good volume measurements. Surface organic samples were taken in small increments (2–5 cm) depending on the horizon thickness and homogeneity of material. Mineral samples in the active layer were taken in 5–10 cm increments using small soil augers or soil knives. Near-surface permafrost (< 3 m) cores were obtained using a SIPRE corer (7.5 cm inside diameter) with Tanaka power head. Permafrost samples from deeper boreholes (up to 21.5 m deep) were collected in May 2008 in association with the State of Alaska Department of Transportation and Public Facilities (AKDOT&PF) (Shur and others, 2010; Kanevskiy and others, 2012). Samples were obtained along a transect spanning both unburned mature and 2003 burn stands. Hollow stem drilling was performed by AKDOT&PF with a drill rig equipped with a modified CME sampler (Central Mine Equipment, Inc., St. Louis, Missouri). Subsamples of frozen soil were collected from deep permafrost cores based on differences in visible ice content, soil texture, and the presence or absence of organic matter. Each sample was described according to USDA-NRCS (Staff, 1998) and Canadian (Soil Classification Working Group, 1998) methodologies. We modified soil horizon codes according to the following scheme:
+L Live moss, which are green and generally contain some leaf and needle litter.
+D Dead moss, which is comprised of non- or slightly decomposed dead moss. The dead moss layer is characterized by fibric organic horizons that contain more moss than roots.
+F Fibric (according to Canadian soil system) or fibrous organic layers, which vary in degree of decomposition but in which roots are more abundant than recognizable moss parts. In most cases, these layers would be considered Oi layers (U.S. soil system) or upper duff (United States Forest Service system).
+M Mesic (according to Canadian soil system) organic layers, which are moderately decomposed with few if any recognizable plant parts other than roots. M layers are generally Oe horizons (U.S. soil system) or lower duff layers (U.S.F.S. system).
+H Humic (Canadian soil system) or sapric organic layers, which are highly decomposed. This layer generally smears upon squeezing and has no recognizable plant parts. H layers are generally Oa horizons (U.S. soil system) or lower duff (U.S.F.S. soil system) layers.
+A Mineral soil that forms at the surface or below organic horizons (U.S. and Canadian soil system), with less than 20 percent organic matter, as judged in the field.
+B Mineral soil that has formed below an A horizon (U.S. and Canadian soil system), with little or none of its original rock structure.
+C Mineral soil that has been little affected by pedogenic processes (U.S. and Canadian soil system).
+3
+
+LT Litter layer (dead leaves, twigs, etc.)
+LN Lichen
+WD Woody debris
+Horizon codes could be further described with a lowercase ‘b’ indicating the horizon had been burned, which would mean anything from light scorching to deep charring. Frozen samples were described with a lowercase “f”. Samples were placed in clean ziplock bags and processed at Cold Regions Research and Engineering Laboratories (CRREL) in Fairbanks, Alaska, and U.S. Geological Survey (USGS) laboratories in Menlo Park, California.
+Soil Sample Preparation and Drying
+Upon arrival of samples to the CRREL, samples were inventoried using the field sheets. All samples were placed on open shelves in an isolated room and allowed to air dry to a constant weight, as determined by weights obtained at least 1 week apart. Temperature during air-drying ranged from 20 to 30 °C. After air-drying, samples were oven dried for 48 hours in a forced-draft oven. Samples that were classified as organic soil horizons (for example, moss and litter) were oven dried at 65 °C to avoid loss or alteration of organic matter by oxidation or decomposition. The remaining samples were oven dried at 105 °C. After oven drying, samples were shipped to the USGS in Menlo Park, California, for further processing.
+Samples were thoroughly mixed, then split into subsamples for analysis and archiving (archive fractions of most of the samples described here are available by contacting J. Harden at the USGS in Menlo Park, California). These samples were then processed one of two ways, depending on horizon code. Mineral samples were gently crushed using a mortal and pestle, being careful to break only aggregates, and then sieved using a 2 mm screen. Soil particles that did not pass through the 2 mm screen were removed, weighed, and saved separately. Soil particles that did pass through the 2 mm screen were ground by hand using a mortar and pestle to pass through a 60-mesh (0.246 mm) screen. The ground material was mixed and placed in a labeled, glass sample bottle for subsequent analyses. Organic samples were weighed, and roots greater than 1 cm in diameter were removed, weighed, and saved separately. The remaining sample was then milled in an Udy Corporation Cyclone mill (Fort Collins, Colorado) to pass through a 0.5 mm screen. The milled sample was thoroughly mixed, and a representative sample was placed in a labeled, glass sample bottle for analytical chemistry.
+Soil Carbon and Nitrogen Measurements
+We analyzed soil samples for total carbon and nitrogen using a Carlo Erba NA1500 elemental analyzer. Samples were combusted in the presence of excess oxygen. The resulting sample gases were swept in a continuous flow of helium through an oxidation furnace, followed by a reduction furnace, to yield CO2, N2, and water vapor. Water was removed by a chemical trap, and CO2 and N2 were chromatographically separated before the quantification of C and N (Pella, 1990a, 1990b). For organic horizon samples, where inorganic carbon (IC) is largely absent, total carbon represents total organic carbon. For all mineral-soil horizons, we first removed carbonates using the acid fumigation technique (Komada and others, 2008) prior to running samples to determine total organic carbon concentration. Briefly, we preweighed samples in silver capsules and transferred them to a small desiccator. Samples were wetted with 50 µL of deionized water and then exposed to vaporous hydrochloric acid (1 N) for 6 hours, during which carbonates degassed from samples as carbon dioxide. We also ran mineral samples
+4
+
+without acid fumigation to determine total carbon concentration. Total IC was calculated as the difference between total carbon and total organic carbon.
+All samples were compared to a main working standard, ethylene diamine tetra-acetic acid (EDTA), which had been calibrated through a set of international standards. The chemical formula for this compound corresponds to a C concentration of 41.09 percent and N concentration of 9.59 percent. Additional working standards were analyzed as samples in all runs to check consistency and overall precision. Peach tree leaves (SRM-1547), issued by the National Institute of Standards and Technology (NIST), were included in runs comprised of organic soil. A marine sediment (MESS-1), issued by the Chemistry Division of the Canadian National Research Council, was included in runs comprised of mineral soils. Certified values for these standards were obtained from Becker (1990) and Govindaraju (1989), respectively.
+Radiocarbon Measurements
+A subset of organic matter and mineral soil samples were analyzed for radiocarbon (14C) to evaluate accumulation rates and turnover times of organic carbon throughout the soil profile. Most samples were sent to the W.M. Keck C Cycle Accelerator Mass Spectrometry Laboratory at the University of California Irvine for analysis. A small number of samples were analyzed at Lawrence Livermore National Laboratory's Center for Accelerator Mass Spectrometry (CAMS). To evaluate the effect of acid fumigation on carbonate removal, a subset of bulk mineral samples received an acid-baseacid (ABA) pretreatment, consisting of an acid wash (HCl), repeated base washes (NaOH), and one final HCl treatment followed by a rinse with deionized water. A sample of 14C-free coal also was ABA treated to ensure no 14C contamination during the pretreatment process. Organic matter from soil was then combusted at 900 °C in evacuated, sealed quartz tubes in the presence of cupric acid (CuO) and silver (Ag) wire. Following cryogenic purification, carbon dioxide was reduced to graphite in a reaction at 500–550 °C using the sealed-tube Zn-reduction method (Xu and others, 2007). Radiocarbon data are reported as Δ14C, or the permil deviation of the 14C/12C ratio in the sample from that of an oxalic standard that has been decay corrected to 1950 (Stuiver and Polach, 1977). The Δ14C values we report have been corrected for mass-dependent fractionation using the in situ simultaneous AMS δ13C measurement. We also report radiocarbon data as fraction modern (FM) and radiocarbon age.
+Data-Set Descriptions
+There are four separate downloadable files containing the soil data collected from the 10 sites described in this report. Appendix 2 lists in detail the data within the following four spreadsheet files: (1) Hess-Taylor_Field, contains field descriptions, such as root abundance, color, and soil texture, of the sampled soils; (2) Hess-Taylor_Physical contains physical descriptions of the samples, such as volumetric field moisture and bulk density; (3) Hess-Taylor_Chemistry contains elemental C, elemental N, Δ14C of soil organic matter, and loss on ignition (LOI) values; (4) Hess-Taylor_Transects contains qualitative descriptions of soils from plots where no soils were actually sampled. Soil temperature and soil moisture also were collected at four study sites along the Hess Creek chronosequence, and these data are available at the Bonanza Creek Long-Term Ecological Research website (http://www.lter.uaf.edu/) by searching for the name Hess Creek.
+5
+
+Acknowledgments
+We thank Stephanie Ewing and Pedro Rodriguez for their assistance in the field, and Miriam Jones (USGS Reston) and Clear Treat (University of New Hampshire) for providing helpful comments and edits on an earlier version of the manuscript. Jonathan O’Donnell’s work on this project was done as part of his Ph.D. studies at the University Alaska Fairbanks. Funding for this work was provided by the National Science Foundation collaborative grant EAR-0630249, the Institute of Northern Engineering at the University of Alaska Fairbanks, and the U.S. Geological Survey Global Change program.
+References Cited
+Becker, D.A., 1990, Homogeneity and evaluation of the new NIST leaf certified reference materials, in Zeisler, Rolf and Guinn, V.P., Nuclear analytical methods in the life sciences: Gaithersburg, Maryland, National Institute of Standards, p. 571–577.
+Damman, A.W.H., and French, T.W., 1987, The ecology of peat bogs of the glaciated Northeastern United States: A community profile: U.S. Fish and Wildlife Service, 85 (7.16), 100 p. [biological report].
+Harden, J.W., Manies, K.L., O’Donnell, J., Johnson, K., Frolking, S., and Fan, Z., 2012, Spatiotemporal analysis of black spruce forest soils and implications for the fate of C: Journal of Geophysical Research-Biogeosciences, v. 117, G01012, doi:10.1029/2011JG001826, accessed January 16, 2013, at http://onlinelibrary.wiley.com/doi/10.1029/2011JG001826/abstract.
+Govindaraju, K., 1989, Compliation of working value and sample description for 272 geostandards: Geostandards Newsletter, v. 13, p. 1–113.
+Johnson, K., Harden, J., McGuire, A.D., Bliss, N.B., Bockheim, J.G., Clark, M., NettletonHollingsworth, T., Jorgenson, M.T., Kane, E.S., Mack, M., O’Donnell, J., Ping, C.L., Schuur, E.A.G., Turetsky, M.R., and Valentine, D.W., 2011, Soil carbon distribution in Alaska in relation to soilforming factors: Geoderma, v. 167–168, p. 71–84.
+Kanevskiy, M., Shur, Y., Connor, B., Dillon, M., Stephani, E., and O’Donnell, J., 2012, Study of the ice-rich syngenetic permafrost for road design (Interior Alaska), in Hinkel, K.M. (ed.), Proceedings of the Tenth International Conference on Permafrost, June 25-29, 2012, Salekhard, Russia. The Northern Publisher, Salekhard, Russia, vol. 1: International contributions. p. 191-196.
+Komada, T., Anderson, M.R., and Dormeier, C.L., 2008, Carbonate removal from coastal sediments for the determination of organic carbon and its isotopic signatures, δ13C and Δ14C—Comparison of fumigation and direct acidification by hydrochloric acid: Limnology and Oceanography—Methods, v. 6, p. 254–262.
+Koven, C.D., Ringeval, B., Friedlingstein, P., Ciais, P., Cadule, P., Khvorostyanov, D., Krinner, G., and Tarnocai, C., 2011, Permafrost carbon-climate feedbacks accelerate global warming: Proceedings of the National Academy of Science, v. 108, p. 14,769-14,774.
+Nadler, I.A., and Wein, R.W., 1998, A new forest floor corer for rapid sampling, minimal disturbance and adequate precision: Silva Fennica, v. 32, no. 4, p. 373–381.
+O’Donnell, J.A., Harden, J.W., McGuire, A.D., Kanevskiy, M.Z., Jorgenson, M.T., and Xu, X., 2011a, The effect of fire and permafrost interactions on soil carbon accumulation in an upland black spruce ecosystem of interior Alaska—Implications for post-thaw carbon loss: Global Change Biology, v. 17, p. 1,461–1,474.
+6
+
+O’Donnell, J.A., Harden, J.W., McGuire, A.D., and Romanovsky, V.E., 2011b, Exploring the sensitivity of soil carbon dynamics to climate change, fire disturbance and permafrost thaw in a black spruce ecosystem: Biogeosciences, v. 8, 1,367–1,382.
+Osterkamp, T.E., 2007, Characteristics of the recent warming of permafrost in Alaska: Journal of Geophysical Research, v. 112, F02S02, doi:10.1029/2006JF000578, accessed January 16, 2013, at http://onlinelibrary.wiley.com/doi/10.1029/2006JF000578/abstract.
+Pella, E., 1990a, Elemental organic analysis—Part 1—Historical developments: American Laboratory, v. 22, no. 2, p. 116–125.
+Pella, E., 1990b, Elemental organic analyzer—Part 2—State of the art: American Laboratory, v. 22, no. 12, p. 28–32.
+Schaefer, K., Zhang, T., Bruhwiler, L., and Barrett, A.P., 2011, Amount and timing of permafrost carbon release in response to climate warming: Tellus, v. 63B, p. 165–180.
+Shur, Y., Kanevskiy, M., Dillon, M., Stephani, E., and O’Donnell, J., 2010, Geotechnical investigations for the Dalton Highway innovation project as a case study of the ice-rich syngenetic permafrost: University of Alaska Fairbanks, Institute of Northern Engineering, Report no. FHWA-AK-RD-10-06, prepared for Alaska Department of Transportation and Public Facilities, Alaska University Transporation Center assigned project no. 207122.
+Soil Classification Working Group, 1998, The Canadian system of soil classification: Ontario, Canada, NRC Canada Research Press, p. 1–187.
+Staff, S.S., 1998, Keys to Soil Taxonomy: Blacksburg, Virginia, Pocahontas Press, Inc., 599 p. Stuvier, M., and Polach, H.A., 1977, Discussion—Reporting of 14C data: Radiocarbon, v. 19, p. 355–
+363. Tarnocai, C., Canadell, J.G., Schuur, E.A.G., Kuhry, P., Mahtiova, G., and Zimov, S., 2009, Soil
+organic carbon pools in the northern circumpolar permafrost region: Global Biogeochemical Cycles, v. 23, doi:10.1029/2008GB003327, accessed January 16, 2013, at http://onlinelibrary.wiley.com/doi/10.1029/2008GB003327/abstract. Turetsky, M.R., Kane, E.S., Harden, J.W., Ottmar, R.D., Manies, K.L., Hoy, E., and Kasischke, E.S., 2011, Recent acceleration of biomass burning and carbon losses in Alaskan forests and peatlands: Nature Geoscience, v. 4, p. 27–31. Viereck, L.A., Dyrness, C.T., Batten, A.R., and Wenzlick, K.J., 1992, The Alaska Vegetation Classification: U.S. Department of Agriculture, Forest Service, Pacific Northwest Research Station, General Technical Report PNW-GTR-286. Xu, X., Trumbore, S.E., Zheng, S., Southon, J.R., McDuffee, K.E., Luttgen, M., Liu, J.C., 2007, Modifying a sealed tube zinc reduction method for preparation of AMS graphite targets: Reducing background and attaining high precision: Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms, v. 259, p. 320-329.
+7
+
+Appendix 1. Site Descriptions
+This appendix describes the locations of each site described in this report. The Hess Creek chronosequence sites are located north of Livengood, Alaska, along the Dalton Highway. The Taylor Highway chronosequence sites are located along the Taylor Highway east of Tok, Alaska. The following text gives general directions to each of our sites, dominant plant species at each site, and information regarding sampling personnel.
+Hess Creek Chronosequence • HCCN 1—Park on the north-facing slope between miles 11 and 12 of the Dalton Highway, which is
+upslope of the Erickson Creek bridge. The plot is located at coordinates N65.56758°, W148.92488° (NAD83), approximately 50 m to the west of the road. The study plot is located in a north-facing mature black spruce stand with Hylocomium sp. and Pleurozium sp. The soil profile was sampled on September 11, 2007, by Jennifer Harden, Torre Jorgenson, Jonathan O’Donnell, and Misha Kanevskiy.
+• HCCN 2—Park on the north-facing slope between miles 11 and 12 of the Dalton Highway, which is
+upslope of the Erickson Creek bridge. The plot is located at coordinates N65.56758°, W148.92488° (NAD83), approximately 35 m to the west of the road. The study plot is located in a north-facing mature black spruce stand with Hylocomium sp. and Pleurozium sp. The soil profile was sampled on September 12, 2007, by Jennifer Harden, Joshua Koch, Jonathan O’Donnell, and Misha Kanevskiy. • HCCN 3—Park on the north-facing slope between miles 11 and 12 of the Dalton Highway, which is upslope of the Erickson Creek bridge. The plot is located at coordinates N65.56738°, W148.92467° (NAD83), approximately 65 m to the west of the road. The study plot is located in a north-facing mature black spruce stand with Hylocomium sp. and Pleurozium sp. The soil profile was sampled on September 12, 2007, by Joshua Koch, Jonathan O’Donnell, and Misha Kanevskiy. • HCCN 4—Drive north on the Dalton Highway to mile 48 and turn left onto Alyeska pipeline access road. Park on the right of the access road and walk downhill toward the north-facing forested slope. The plot is located at coordinates N65.81447°, W149.58308° (NAD83) and in a north-facing mature black spruce stand with Hylocomium sp. and Pleurozium sp. The soil profile was sampled on September 14, 2007, by Jonathan O’Donnell and Misha Kanevskiy. • HCCN 5—Drive north on the Dalton Highway to mile 41. Park on the left side of the road along the pull-off. The plot is located to the west of the highway at coordinates N65.79545°, W149.45639° (NAD83) in a north-facing mature black spruce stand with Hylocomium sp. and Pleurozium sp. The soil profile was sampled on September 13, 2007, by Jennifer Harden, Torre Jorgenson, Jonathan O’Donnell, and Misha Kanevskiy. • HC03 1—Park on the north-facing slope between miles 11 and 12 of the Dalton Highway, which is upslope of the Erickson Creek bridge. The plot is located at coordinates N65.56865°, W148.92307° (NAD83), approximately 150 m to the east of the road. The plot is located in a recently burned black spruce stand (2003 burn) with lots of standing dead trees and burned dead moss and fibrous organic matter on the forest floor. The soil profile was sampled on September 15, 2007, by Jonathan O’Donnell, Misha Kanevskiy, and Pedro Rodriguez. • HC03 2—Park on the north-facing slope between miles 11 and 12 of the Dalton Highway, which is upslope of the Erickson Creek bridge. The plot is located at coordinates N65.56866°, W148.92282° (NAD83), approximately 150 m to the east of the road. The plot is located in a recently burned black spruce stand (2003 burn) with lots of standing dead trees and burned dead moss and fibrous organic
+8
+
+matter on the forest floor. The soil profile was sampled on September 15, 2007, by Jennifer Harden and Pedro Rodriguez. • HC03 3—Park on the north-facing slope between miles 11 and 12 of the Dalton Highway, which is upslope of the Erickson Creek bridge. The plot is located at coordinates N65.56872°, W148.92261° (NAD83), approximately 150 m to the east of the road. The plot is located in a recently burned black spruce stand (2003 burn) with lots of standing dead trees and burned dead moss and fibrous organic matter on the forest floor. The soil profile was sampled on September 15, 2007, by Jennifer Harden, Pedro Rodriguez, Jonathan O’Donnell, and Misha Kanevskiy. • HC03 4—Drive north to mile 22 of the Dalton Highway. Turn right on the Alyeska pipeline access road just before crossing the Hess Creek bridge. Walk approximately 150 m on the access road and turn right up the hill towards the study plot. The plot is located at coordinates N65° 39.820’, W149° 04.871’ (NAD83) in a recently burned black spruce stand (2003 burn) with lots of standing dead trees and burned dead moss and fibrous organic matter on the forest floor. The soil profile was sampled on September 11, 2007, by Jennifer Harden, Jonathan O’Donnell, and Misha Kanevskiy. • HC03 5—Drive north to mile 22 of the Dalton Highway. Turn left on the gravel road and drive down and up the hill that overlooks the Hess Creek watershed. Near the top of the hill, park off to the side. The plot is located to the right (north) of the road at coordinates N65° 38.961’, W149° 05.782’ (NAD83) in a recently burned black spruce stand (2003 burn) with lots of standing dead trees and burned dead moss and fibrous organic matter on the forest floor. The soil profile was sampled on September 11, 2007, by Jonathan O’Donnell, Misha Kanevskiy, and Stephanie Ewing. • HC03 6—Drive north to mile 22 of the Dalton Highway. Turn left on the gravel road and drive down and up the hill that overlooks the Hess Creek watershed. Near the top of the hill, park off to the side. The plot is located to the right (north) of the road at coordinates N65° 38.964’, W149° 05.796’ (NAD83) in a recently burned black spruce stand (2003 burn) with lots of standing dead trees and burned dead moss and fibrous organic matter on the forest floor. The soil profile was sampled on September 11, 2007, by Jonathan O’Donnell and Misha Kanevskiy. • HC03 7—Drive north to mile 22 of the Dalton Highway. Turn left on the gravel road and drive down and up the hill that overlooks the Hess Creek watershed. Near the top of the hill, park off to the side. The plot is located to the right (north) of the road at coordinates N65° 38.961’, W149° 05.782’ (NAD83) in a recently burned black spruce stand (2003 burn) with lots of standing dead trees and burned dead moss and fibrous organic matter on the forest floor. The soil profile was sampled on September 11, 2007, by Jonathan O’Donnell and Misha Kanevskiy. • HC93 1—Drive north on the Dalton Highway to mile 48 and turn left onto Alyeska pipeline access road. Park on the right of the access road and walk downhill toward the north-facing slope. The plot is located at coordinates N65.81366°, W149.58063° (NAD83) in an intermediate-aged burned stand with black spruce and willow shrubs. The soil profile was sampled on September 14, 2007, by Jonathan O’Donnell and Misha Kanevskiy. • HC90 1—Drive north to mile 40 of the Dalton Highway. Park in front of the gate to the Alyeska pipeline access road. For our sampling, we used all-terrain vehicles(ATV) to access the site. Drive on the access road and turn right at the T. Following the road to the plot, which is located at coordinates N65° 78.797’, W149.48595° (NAD83) in an intermediate-aged burned stand with black spruce, birch, and aspen trees. The soil profile was sampled on September 13, 2007, by Stephanie Ewing, Jennifer Harden, Jonathan O’Donnell and Misha Kanevskiy. • HC67 1—Drive north of Hess Creek to mile 24 of the Dalton Highway. At the top of the hill, turn left onto the gravel road and park on the road side of the road. The study site is located approximately 400 m to the north of the gravel road in a mixed black spruce and aspen stand. The
+9
+
+soil profile was sampled on September 13, 2007, by Jonathan O’Donnell, Misha Kanevskiy, and Pedro Rodriguez.
+• HCCS 1—The study site is located between miles 12 and 13 of the Dalton Highway. Park at the
+pull-off on the left side of the road right before the Erickson Creek bridge (near mile 12 of the Dalton Highway). Continue by walking north, up the hill, and around the left turn. The study plot is located at coordinates N65° 34.488’, W148° 57.530’ (NAD83) in a south-facing mature black spruce stand with Hylocomium sp. and Pleurozium sp. The soil profile was sampled on September 17, 2007, by Jonathan O’Donnell and Misha Kanevskiy.
+Taylor Highway Chronosequence
+All study sites are located along the Taylor Highway between the junction with the Alaska Highway to the south and Mount Fairplay to the north. • THNM 1—The study plot is located to the west of the Taylor Highway at coordinates N63.41833°,
+W142.48361° (NAD83) in a north-facing mature black spruce stand with Hylocomium sp. and Pleurozium sp. The soil profile was sampled on September 3, 2008, by Jonathan O’Donnell, Misha Kanevskiy, and Stephanie Ewing. • THNM 3—The study plot is located to the west of the Taylor Highway at coordinates N63.45807°, W142.49008° (NAD83) in a north-facing mature black spruce stand with Hylocomium sp. and Pleurozium sp. Park at the gravel pit on the east side of the road, and then walk to the site by crossing the road and following the ATV access trail. The soil profile was sampled on September 4, 2008, by Jonathan O’Donnell and Misha Kanevskiy. • THNM 4—The study plot is located to the east of the Taylor Highway at coordinates N63.45807°, W142.49008° (NAD83) in a north-facing mature black spruce stand with Hylocomium sp. and Pleurozium sp. Park at the gravel quarry on the west side of the road, and then walk to the site by crossing the road and following the ATV access trail. The soil profile was sampled on September 5, 2008, by Jonathan O’Donnell, Jennifer Harden, Stephanie Ewing, and Dave McGuire. • THNM 5—The study plot is located to the west of the Taylor Highway at coordinates N63.41829°, W142.48338° (NAD83) in a north-facing mature black spruce stand with Hylocomium sp. and Pleurozium sp. The soil profile was sampled on September 3, 2008, by Jonathan O’Donnell. • THNM 6—The study plot is located to the west of the Taylor Highway at coordinates N63.41814°, W142.48384° (NAD83) in a north-facing mature black spruce stand with Hylocomium sp. and Pleurozium sp. The soil profile was sampled on September 3, 2008, by Jonathan O’Donnell and Misha Kanevksiy. • THNO 1—The study plot is located at coordinates N63° 17.397’, W142° 12.243’ (NAD83) in a intermediate-aged black spruce stand (1966 burn) with Vaccinium sp., Ledum sp., and Aulocomium sp. on the forest floor. The soil profile was sampled on September 3, 2008, by Jennifer Harden and Torre Jorgenson. • THNI 1—This study site is located in an intermediate-aged black spruce stand (1988 burn). The soil profile was sampled in September 2008, by Torre Jorgenson and Jennifer Harden. • THNY 1—The study plot is located at coordinates N63.41779°, W142.48280° (NAD83) in a northfacing mature black spruce stand with Hylocomium sp. and Pleurozium sp. The soil profile was sampled on September 3, 2008, by Jonathan O’Donnell and Misha Kanevksiy. • THNY 3—The study plot is located to the west of the Taylor Highway at coordinates N63.45814°, W142.48836° (NAD83) in a young black spruce stand with Polytrichum sp. and lichen on the forest floor. Park at the gravel pit on the east side of the road, and then walk to the site by crossing the road
+10
+
+and following the ATV access trail. The soil profile was sampled on September 4, 2008, by Jonathan O’Donnell and Misha Kanevskiy. • THNN 1—The study plot is located to the east of the Taylor Highway at coordinates N63.41741°, W142.47807° (NAD83) in a recently burned black spruce stand (2004 burn) with Ceratodon sp. on the forest floor. The soil profile was sampled on September 4, 2008, by Jonathan O’Donnell and Misha Kanevskiy. • THNN 3—The study plot is located to the west of the Taylor Highway at coordinates N63.45854°, W142.48715° (NAD83) in a recently burned black spruce stand (2004 burn) with Polytrichum sp. and Ceratodon sp. on the forest floor. Park at the gravel pit on the east side of the road, and then walk to the site by crossing the road and following the ATV access trail. The soil profile was sampled on September 4, 2008, by Jonathan O’Donnell and Misha Kanevskiy.
+Alaska Department of Transportation (AK DOT) Sites
+All study sites are located between mileposts nine and 11 along the Dalton Highway to the north and east of the actual road. Sites were accessed by foot or four-wheeler along a proposed road cut. A complete description of these study sites is also found in Shur et al. (2010) and Kanevskiy et al. (2012). • HCDT 1—This study plot is located to the east of the Dalton Highway at coordinates N65.551111°,
+W148.896389° (NAD83) in a recently burned black spruce stand (Erickson Creek fire, 2003) with Pleurozium schreberi, Hylocomium splendens, and Ceratodon purpureus on the forest floor. The soil profile was sampled on May 13, 2008, by Jonathan O’Donnell, Misha Kanevskiy, and Matthew Dillon. • HCDT 2—This study plot is located to the east of the Dalton Highway at coordinates N 65.552778°, W148.897222° (NAD83) in a recently burned black spruce stand (Erickson Creek fire, 2003) with dead Pleurozium schreberi and Hylocomium splendens and live Ceratodon purpureus on the forest floor. The soil profile was sampled on May 13, 2008, by Jonathan O’Donnell, Misha Kanevskiy, and Matthew Dillon. • HCDT 3—This study plot is located to the east of the Dalton Highway at coordinates N65.554167°, W148.898611° (NAD83) in a mixed stand of unburned and burned black spruce (Erickson Creek fire, 2003) with Pleurozium schreberi, Hylocomium splendens, Ceratodon purpureus, and Sphagnum fuscum on the forest floor. The soil profile was sampled on May 14, 2008, by Jonathan O’Donnell, Misha Kanevskiy, and Matthew Dillon. • HCDT 4—This study plot is located to the east of the Dalton Highway at coordinates N65.555556°, W148.901667° (NAD83) in a recently burned black spruce stand (Erickson Creek fire, 2003) with Ledum palustre and Ceratodon purpureus on the forest floor. The soil profile was sampled on May 14, 2008, by Jonathan O’Donnell, Misha Kanevskiy, and Matthew Dillon. • HCDT 5—This study plot is located to the east of the Dalton Highway at coordinates N65.556111°, W148.90500° (NAD83) in a recently burned black spruce stand (Erickson Creek fire, 2003) with Ledum palustre, Epilobium angustifolium, and Ceratodon purpureus on the forest floor. The soil profile was sampled on May 15, 2008, by Jonathan O’Donnell, Misha Kanevskiy, and Matthew Dillon. • HCDT 6—This study plot is located to the east of the Dalton Highway at coordinates N65.557222°, W148.908056° (NAD83) ) in a recently burned black spruce stand (Erickson Creek fire, 2003) with Dicranum sp., Polytrichum sp. and Ceratodon purpureus on the forest floor. The soil profile was sampled on September 4, 2008, by Jonathan O’Donnell, Misha Kanevskiy, and Matthew Dillon.
+11
+
+Appendix 2. Data File Descriptions
+
+Hess-Taylor_Field
+
+This file contains the field descriptions of the sampled soils and includes the following columns:
+
+Sample ID
+
+Sample identification: The first two letters in the sample labels represent the
+
+region of study, either Hess Creek (EC) or Taylor Highway (TH). The next
+
+two letters represent the site type. For Hess Creek, site types include Control
+
+North (CN), Control South (CS), or a number representing the burn year (for
+
+example 03 indicates a 2003 burn). For the Taylor Highway, site types include
+
+North-facing Mature stands (NM), Young stands (NY), Intermediate stands
+
+(NI), or Old stands (NO). The number that follows these four characters
+
+indicates the plot. A decimal point separates the profile number from the basal
+
+depth of the sample (in cm). Field data were not collected for AK DOT study
+
+plots.
+
+Depth
+
+Indicates the basal depth, in cm, of sampling increment.
+
+Field Horizon Horizon type of the sample, as defined in the field. L = live moss, D = dead
+
+Code
+
+moss, F = fibric organic matter (OM), M = mesic OM, H = humic OM, A = A
+
+mineral soil horizon, B = B mineral soil horizon, C = C mineral soil horizon,
+
+LT = litter, WD = wood, and X = unknown horizon. A lowercase ‘b’ before a
+
+horizon code indicates the sample showed evidence of burning (for example,
+
+scorched, charred). A lowercase ‘f’ before a horizon code indicates that the
+
+sample was frozen.
+
+Sample
+
+A brief description of the sample.
+
+Description
+
+Roots
+
+Root abundance and size using conventions of USDA-ARS (Staff, 1998).
+
+pH pH value of mineral soil measured in the laboratory. Deionized water was
+
+added to create a soil slurry (50 percent soil, 50 percent water) prior to
+
+measurement.
+
+Munsell Color Munsell color value according to the Munsell Soil Color Chart.
+
+Von Post or
+
+If organic soil, the classification using the von Post scale of humification
+
+Texture
+
+(Damman and Frenh, 1987). If mineral soil, the soil texture class as described
+
+in the field, following conventions of USDA-ARS (Staff, 1998).
+
+Plasticity
+
+Plasticity category for mineral soil horizon
+
+Stickiness
+
+Stickiness category for mineral soil horizon
+
+Structure
+
+Structure category for mineral soil horizon
+
+Height above Height of each basal depth above the mineral soil boundary. Therefore, the
+
+mineral
+
+bottom organic layer is at zero and all mineral horizons are negative numbers.
+
+Recognizable Ranking of recognizable plant part abundance into four categories: many,
+
+Plant Parts
+
+some, few, or none.
+
+Gravel notes Brief description of gravel abundance, form, and size
+
+12
+
+Hess-Taylor_Transects
+
+This file contains the field descriptions of soils at sites that were described, but not sampled. This file
+
+includes the following columns:
+
+Sample ID
+
+Sample identification: The first two letters in the sample labels represent the
+
+region of study, either Hess Creek (EC) or Taylor Highway (TH). The next
+
+two letters represent the site type. For Hess Creek, site types include Control
+
+North (CN), Control South (CS), or a number representing the burn year (for
+
+example, 03 indicates a 2003 burn). For the Taylor Highway, site types
+
+include North-facing Mature stands (NM), Young stands (NY), Intermediate
+
+stands (NI), or Old stands (NO). The number that follows these four
+
+characters indicates the stand replicate. A hyphen separates the stand replicate
+
+number and the transect distance from the main profile. In some instances, an
+
+“E” or “W” is added as part of the profile number, to indicate a location east
+
+or west of the main profile. A decimal point separates the profile number from
+
+the basal depth of the sample (in cm). Transect data were not collected for AK
+
+DOT study plots.
+
+Depth
+
+Indicates the basal depth, in cm, of sampling increment.
+
+Field Horizon Horizon type of the sample, as defined in the field. L = live moss, D = dead
+
+Code
+
+moss, F = fibric organic matter (OM), M = mesic OM, H = humic OM, A = A
+
+mineral soil horizon, LI = lichen, LT = litter, WD = wood. A lowercase ‘b’
+
+before a horizon code indicates the sample showed evidence of burning (for
+
+example, scorched, charred).
+
+Sample
+
+A brief description of the sample.
+
+Description
+
+Active layer
+
+Depth to frozen layer, or active layer thickness, in cm.
+
+thickness
+
+Roots
+
+Root abundance and size using conventions of USDA-NRCS (Staff, 1998).
+
+Von Post or
+
+If organic soil, the classification using the von Post scale of humification
+
+Texture Class (Damman and French, 1987). If mineral soil, the soil texture class following
+
+conventions of USDA-NRCS (Staff, 1998).
+
+Height above Height of soil horizon above organic-mineral soil interface (in cm).
+
+mineral
+
+Munsell Color Munsell color value according to the Munsell Soil Color Chart.
+
+Plasticity
+
+Plasticity category for mineral soil horizon
+
+Stickiness
+
+Stickiness category for mineral soil horizon
+
+Firmness
+
+Firmness category for mineral soil horizon
+
+Structure
+
+Structure category for mineral soil horizon
+
+Gravel
+
+Estimated amount of gravel in mineral soil horizon, in percent by volume.
+
+Gravel structure Description of gravel structure and size class.
+
+and size
+
+13
+
+Hess-Taylor_Physical
+
+This file contains physical data such as bulk density, volumetric moisture content, and particle size
+
+analysis. Column definitions are as follows:
+
+Sample ID
+
+Sample identification: The first two letters in the sample labels represent the
+
+region of study, either Hess Creek (EC) or Taylor Highway (TH). The next two
+
+letters represent the site type. For Hess Creek, site types include Control North
+
+(CN), Control South (CS), Department of Transportation (DT), or a number
+
+representing the burn year (for example, 03 indicates a 2003 burn). For the
+
+Taylor Highway, site types include North-facing Mature stands (NM), Young
+
+stands (NY), Intermediate stands (NI), or Old stands (NO). For AK DOT study
+
+plots, all sites are labeled HCDT. The number that follows these four characters
+
+indicates the plot. A decimal point separates the profile number from the basal
+
+depth of the sample (in cm).
+
+Depth
+
+Indicates the basal depth, in cm, of sampling increment.
+
+Field Horizon Horizon type of the sample, as defined in the field. L = live moss, D = dead
+
+Code
+
+moss, F = fibric organic matter (OM), M = mesic OM, H = humic OM, A = A
+
+mineral soil horizon, LI = lichen, LT = litter, WD = wood. A lowercase ‘b’
+
+before a horizon code indicates the sample showed evidence of burning (for
+
+example, scorched, charred).
+
+Sample
+
+A brief description of the sample.
+
+Description
+
+Date Sampled Date during which the sample was taken (month/day/year).
+
+Thickness
+
+Thickness of soil horizon.
+
+>2 mm in
+
+Dry weight percent of soil particles not passing through a 2 mm sieve after
+
+Sample
+
+gentle crushing.
+
+>1 cm in
+
+Dry weight percent of roots larger than 1 cm in diameter in the sample.
+
+Sample
+
+Bulk Density Grams of oven-dried soil per cubic centimeter, with soil particles greater than 2
+
+(<2 mm)
+
+mm and roots greater that 1 cm diameter removed.
+
+Bulk Density Grams of oven-dried soil per cubic centimeter for the entire soil sample with no
+
+fractions excluded. Calculated similarly to Bulk Density (< 2 mm) except the
+
+weight of particles greater than 2 mm and roots greater than 1 cm diameter have
+
+been included.
+
+Volumetric The percent water in the sample, by volume.
+
+Field Moisture
+
+Moisture in Percent, by weight, of moisture remaining in a sample after air-drying to
+
+Air-dry Sample constant weight as determined by subsequently oven-drying the sample.
+
+14
+
+Hess-Taylor_Chemistry
+
+This file contains chemical data obtained from an elemental analyzer/mass spectrometer (EA/IRMS).
+
+Column definitions are as follows:
+
+Sample ID
+
+Sample identification: The first two letters in the sample labels represent
+
+the region of study, either Hess Creek (EC) or Taylor Highway (TH). The
+
+next two letters represent the site type. For Hess Creek, site types include
+
+Control North (CN), Control South (CS), Department of Transportation
+
+(DT) or a number representing the burn year (for example, 03 indicates a
+
+2003 burn). For the Taylor Highway, site types include North-facing
+
+Mature stands (NM), Young stands (NY), Intermediate stands (NI), or Old
+
+stands (NO). For AK DOT study plots, all sites are labeled HCDT. The
+
+number that follows these four characters indicates the plot. A decimal
+
+point separates the profile number from the basal depth of the sample (in
+
+cm).
+
+Depth
+
+Indicates the basal depth, in cm, of sampling increment.
+
+Field Horizon
+
+Horizon type of the sample, as defined in the field. L = live moss, D = dead
+
+Code
+
+moss, F = fibric organic matter (OM), M = mesic OM, H = humic OM, A =
+
+A mineral soil horizon, LI = lichen, LT = litter, WD = wood. A lowercase
+
+‘b’ before a horizon code indicates the sample showed evidence of burning
+
+(for example, scorched, charred).
+
+Sample
+
+A brief description of the sample.
+
+Description
+
+%C Percent by weight of total carbon in an oven-dried soil sample with
+
+material > 2 mm or 1 cm diameter removed.
+
+%N Percent by weight of total nitrogen in an oven-dried soil sample with
+
+material > 2 mm or 1 cm diameter removed.
+
+%OC
+
+Percent by weight of organic carbon in an oven-dried soil sample with
+
+material > 2 mm or 1 cm diameter removed.
+
+%ON
+
+Percent by weight of organic nitrogen in an oven-dried soil sample with
+
+material > 2 mm or 1 cm diameter removed. δ13C Stable isotope signature of oven-dried sample with material > 2 mm or 1
+
+cm diameter removed.
+
+LOI Loss-on-ignition value.
+
+Bulk sample:
+
+Fraction modern for bulk soil sample
+
+Fraction Modern Bulk sample: Δ14C
+Bulk sample: ± Δ14C Bulk sample: 14C
+
+Δ14C value for bulk soil sample. Standard deviation of Δ14C value for bulk soil sample. Radiocarbon age of bulk soil sample.
+
+age Bulk sample: 14C Standard deviation of radiocarbon age for bulk soil sample.
+
+age error
+
+Datable material: Fraction modern value for datable material (for example, char, woody
+
+Fraction Modern debris). Datable Material: Δ14C value for datable material (for example, char, woody debris).
+
+15
+
+Δ 14C
+Datable Material: ± Δ 14C
+Datable material: 14C age
+Datable material: 14C age error
+Notes
+
+Standard deviation of Δ14C value for datable material (for example, char, woody debris). Radiocarbon age of datable material (for example, char, woody debris).
+Standard deviation of radiocarbon age for datable material (for example, char, woody debris). Description of sample or datable material.
+
+16
+
+

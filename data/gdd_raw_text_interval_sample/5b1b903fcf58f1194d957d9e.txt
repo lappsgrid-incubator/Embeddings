@@ -1,0 +1,402 @@
+Developmental Biology 362 (2012) 104–113
+Contents lists available at SciVerse ScienceDirect
+Developmental Biology
+journal homepage: www.elsevier.com/developmentalbiology
+Genomes & Developmental Control
+Select microRNAs are essential for early development in the sea urchin
+Jia L. Song a,d,⁎, Marlon Stoeckius c, Jonas Maaskola c, Marc Friedländer c,1, Nadezda Stepicheva d,
+Celina Juliano a,2, Svetlana Lebedeva c, William Thompson b, Nikolaus Rajewsky c,⁎⁎, Gary M. Wessel a,⁎⁎⁎
+a Department of Molecular Biology, Cellular Biology and Biochemistry, Brown University, Providence, RI 02912, USA b Department of Applied Mathematics, Brown University, Providence, RI 02912, USA c Max Delbrück Center for Molecular Medicine Berlin, 13125 Berlin, Germany d Department of Biological Sciences, University of Delaware, Newark, DE 19716, USA
+
+article info
+Article history: Received for publication 23 February 2011 Revised 22 October 2011 Accepted 22 November 2011 Available online 3 December 2011
+Keywords: Sea urchin microRNA Embryogenesis
+
+abstract
+microRNAs (miRNAs) are small noncoding RNAs that mediate post-transcriptional gene regulation and have emerged as essential regulators of many developmental events. The transcriptional network during early embryogenesis of the purple sea urchin, Strongylocentrotus purpuratus, is well described and can serve as an excellent model to test functional contributions of miRNAs in embryogenesis. We examined the loss of function phenotypes of major components of the miRNA biogenesis pathway. Inhibition of de novo synthesis of Drosha and Dicer in the embryo led to consistent developmental defects, a failure to gastrulate, and embryonic lethality, including changes in the steady state levels of transcription factors and signaling molecules involved in germ layer speciﬁcation. We annotated and proﬁled small RNA expression from the ovary and several early embryonic stages by deep sequencing followed by computational analysis. miRNAs as well as a large population of putative piRNAs (piwi-interacting RNAs) had dynamic accumulation proﬁles through early development. Defects in morphogenesis caused by loss of Drosha could be rescued with four miRNAs. Taken together our results indicate that post-transcriptional gene regulation directed by miRNAs is functionally important for early embryogenesis and is an integral part of the early embryonic gene regulatory network in S. purpuratus.
+© 2011 Elsevier Inc. All rights reserved.
+
+Introduction
+Small RNAs are components of a conserved gene regulatory mechanism that includes microRNAs (miRNAs), short interfering RNAs (siRNAs) and piwi-interacting RNAs (piRNAs). miRNAs negatively regulate protein expression by binding to sequence-complementary target sites in messenger RNAs (mRNAs) which induces repression of mRNA translation or transcript destabilization and decay (Bartel, 2009; Brodersen and Voinnet, 2009; Ghildiyal and Zamore, 2009; Guo et al., 2010; Hendrickson et al., 2009; Rajewsky, 2006, 2011). In animals, miRNAs have thousands of targets and altogether regulate
+⁎ Correspondence to: J.L. Song, 323 Wolf Hall, Newark, DE 19716, USA. Fax: + 1 302 831 2281. ⁎⁎ Correspondence to: N. Rajewsky, Max-Delbrück-Center for Molecular Medicine, Robert-Rössle-Str. 10, 13125 Berlin, Germany. Fax: + 49 30 9406 3068. ⁎⁎⁎ Correspondence to: G.M. Wessel, 185 Meeting Street, Providence, RI 02912, USA. Fax: + 1 401 863 2421.
+E-mail addresses: jsong@udel.edu (J.L. Song), rajewsky@mdc-berlin.de (N. Rajewsky), rhet@brown.edu (G.M. Wessel).
+1 Current address: Center for Genomic Regulation, Barcelona 08003, Catalonia, Spain. 2 Current address: Department of Cell Biology, Yale University, New Haven, CT 06509, USA.
+0012-1606/$ – see front matter © 2011 Elsevier Inc. All rights reserved. doi:10.1016/j.ydbio.2011.11.015
+
+a major portion of protein coding genes (Baek et al., 2008; Bartel, 2009; Friedman et al., 2009; Krek et al., 2005; Lewis et al., 2005; Selbach et al., 2008; Stark et al., 2005; Xie et al., 2005). The vast majority of miRNAs are initially processed by Drosha and its cofactor DGCR8 (Han et al., 2006; Lee et al., 2003) and the maturation of miRNAs and siRNAs requires Dicer. Dicer is a member of the RNase III riboendonuclease family and is responsible for processing double-stranded RNA (dsRNA) to small interfering RNAs (siRNAs) during RNA interference (RNAi) (Zhang et al., 2002). It is also the key enzyme that mediates the ﬁnal processing of most miRNAs from their precursors.
+A number of fundamental steps in embryogenesis appear to be regulated by miRNAs and while the documentation of gene regulatory networks involved in cell fate speciﬁcation and differentiation has revealed the importance of numerous signaling molecules and transcription factors, the diverse regulatory roles of miRNAs in early development are only now emerging (reviewed in Fabian et al., 2010; Ghildiyal and Zamore, 2009; Pauli et al., 2011). Recently a number of miRNAs were identiﬁed in the purple sea urchin, Strongylocentrotus purpuratus (Campo-Paysaa et al., 2011; Friedländer et al., 2011; Peterson et al., 2009; Wheeler et al., 2009), revealing many deeply conserved miRNAs also present in humans. Echinoderms are a sister group to the chordates and the function of miRNAs in these embryos may reﬂect transitions in deuterostome development. Armed with
+
+J.L. Song et al. / Developmental Biology 362 (2012) 104–113
+
+105
+
+Ovaries GBlP3laa2sutts−trEecuulgluellsaga
+
+the in-depth knowledge of transcriptional gene regulatory networks
+in the sea urchin (see www.spbase.org/endomes), we set out to inves-
+tigate the importance of miRNAs in early embryogenesis of this ani-
+mal. We proﬁled and annotated small RNA expression from the
+ovary and several early embryonic stages by deep sequencing fol-
+lowed by computational analysis, including application of the miRNA
+identiﬁcation tool "miRDeep" (Friedländer et al., 2008; Friedländer
+et al., 2011). Individual knockdowns of Dicer, Drosha and DGCR8 as
+well as miRNA rescue experiments suggest that the miRNA pathway
+plays an important functional role in early cell fate decisions of sea ur-
+chin embryogenesis and serves as a paradigm for an ancestral feature
+of the deuterostome lineage.
+spu−miR−31 spu−miR−2012 spu−miR−1 spu−miR−184 spu−miR−71 spu−miR−92c spu−miR−2007 spu−miR−92a spu−miR−92b spu−miR−219* spu−miR−219 spu−miR−29 spu−miRDeep2−35240 spu−miR−2011 spu−miR−252b spu−miR−2001 spu−miR−34 spu−miR−2002 spu−miR−96 spu−miR−183 spu−miR−182 spu−miR−242 spu−miR−2009 spu−miRDeep2−5317 spu−miR−33 spu−miR−210 spu−miR−10 spu−let−7 spu−miR−125 spu−miR−22 spu−miR−2013 spu−miR−2004 spu−miR-29b spu−miR−2010 spu−miRDeep2−30364 spu−miR−2003 spu−miR−200* spu−miR−200 spu−miR−124 spu−miR−137 spu−miR−252a spu−miR−7 spu−miR−7* spu−miR−1* spu−miR−2008* spu−miR−2008 spu−miR−31* spu−miRDeep2−30364* spu−miR−92c* spu−miR−9 spu−miR−2009* spu−miR−92b* spu−miR−182* spu−miR−252b* spu−miR−96* spu−miR−2007* spu−miR−2001* spu−miR−2012* spu−miR−2011* spu−miR−9* spu−miR−79 spu−miR−34* spu−miR−2002* spu−miRDeep2−35240* spu−miR−2005 spu−miR−242* spu−miR-29b* spu−miR−183* spu−miR−124* spu−miR−137* spu−miR−2004* spu−miR−153* spu−miR−133 spu−let−7* spu−miR−125* spu−miR−375 spu−miR−278 spu−miR−153 spu−miR−71* spu−miRDeep2−5317* spu−miR−33* spu−miR−10* spu−miR−2006 spu−miR−210* spu−miR−2013* spu−miR−2003*
+Relative expression
+Low High
+Fig. 1. Dynamic expressions of the sea urchin miRNAs. Hierarchical clustering of miRNAs
+based on gene expression patterns is plotted as a heat map. Most miRNAs are expressed ma-
+ternally and are upregulated by 24 and 48 hpf. The “*” corresponds to the minor miRNA pre-
+cursor product found at lower concentration. Three novel miRNAs are spu-miRDeep2-
+35240, spu-miRDeep2-5317, and spu-miRDeep2-30364.
+
+Results
+Small RNA annotation and expression proﬁling
+We cloned and sequenced small RNA populations (18–40 nucleotides) from ovaries, eggs, 32-cell stage embryos (5 hours post fertilization [hpf]), blastulae (24 hpf), gastrulae (48 hpf), and early larvae (plutei; 72 hpf). Using miRDeep2 (Friedländer et al., 2008; Friedländer et al., 2011), a previously published algorithm that identiﬁes miRNA genes based on sequenced Dicer hairpin products, we conﬁdently identiﬁed 49 miRNAs in the ovary and ﬁve developmental stages of the sea urchin embryo (Fig. 1, Table S1), three of these identiﬁed miRNAs were novel miRNAs that were previously not annotated in miRBase version 16. Interestingly, one of these miRNAs is transcribed from the other genomic strand of a known miRNA locus, showing that bi-directional miRNA genes are deeply conserved (Stark et al., 2008; Tyler et al., 2008). Ten of the annotated miRNAs appear to be sea-urchin speciﬁc. Most of the miRNAs are present in the egg but have dynamic accumulation proﬁles with the majority of them upregulated by gastrulation (Fig. 1).
+To investigate whether our deep sequencing data can accurately quantify differential miRNA expression, we tested the expression of 4 miRNAs (miR-31, -34, -252b, and -2009) using RT-qPCR Taqman assay. We observed an overall good correlation between deep sequencing and qPCR for all tested developmental stages (Fig. S1; square of the correlation coefﬁcient lies between 0.78 and 0.98), except for the 48 h sample (square of the correlation coefﬁcient is 0.49). The observed differences may be due to different sample preparations and/or efﬁciencies in reverse transcription, cDNA library construction, and the PCR ampliﬁcation steps.
+We next investigated the length distribution and annotation of all sequencing reads. Small RNAs showed a bimodal length distribution with 2 distinct peaks around 22 and 28 nucleotides (Fig. 2). All miRNAs identiﬁed by miRDeep account for a characteristic peak around 22 nucleotides. Interestingly, we found that most of the sequenced sea urchin RNAs that do not map to existing annotations have a distinct length proﬁle peaking at 28 nucleotides, as has been observed for piwi-interacting RNAs (piRNAs) in other species. piRNAs are associated with silencing of transposable elements in the germline and have recently been shown to be involved in maternal mRNA deadenylation in the early embryo thus mediating the maternal-to-zygotic transition (Rouget et al., 2010). Further, we found that a large portion of these RNAs tend to overlap with each other by exactly ten nucleotides, with one read exhibiting a uridine bias at the 5′ end and the other an adenine bias at the tenth nucleotide. These features are consistent with the conserved ‘ping-pong’ piRNA biogenesis pathway via mutual cleavage of the sense and antisense piRNA precursors by the Piwi proteins (Aravin et al., 2006; Brennecke et al., 2007; Girard et al., 2006; Grivna et al., 2006; Gunawardane et al., 2007; Houwing et al., 2007; Saito et al., 2006; Vagin et al., 2006; Watanabe et al., 2006). We therefore annotate the RNAs that overlap by exactly ten nucleotides as piRNAs and refer to the remaining small RNA species of around 28 nucleotides that do not overlap by ten nucleotides as ‘unknown’ sequences, although their length distribution suggests that they are likely highly enriched in piRNAs (Fig. 2).
+We observed a signiﬁcant decrease in total reads mapping to miRNAs at the 32-cell stage. This was correlated with an increase of reads mapping to putative piRNAs (Fig. 2). As distributions of sequenced reads do not reﬂect absolute abundance but rather relative frequencies, two possible interpretations to the 32-cell stage transition are that miRNAs are either cleared from the egg following fertilization, or that piRNAs strongly increase at the 32-cell stage. To distinguish these possibilities, we performed Northern blots for selected piRNA candidates. We observed a pronounced increase in 4 of the 5 detectable piRNAs in the 32-cell stage (Fig. S2). Moreover, RT-qPCR analysis did not illustrate a drastic decrease of the tested miRNAs in the 32cell stage (Fig. S1). Taken together the results suggest that piRNAs
+
+106 J.L. Song et al. / Developmental Biology 362 (2012) 104–113
+
+Reads [105] Reads [105]
+
+8 Ovaries 6
+4 2
+
+miRNA Unknown piRNA
+CDS tRNA rRNA
+
+0 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 Length [nt]
+
+6 Egg 4
+2
+0 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 Length [nt]
+
+Reads [105]
+
+Reads [105] Reads [105] Reads [105]
+
+1.5 32-cell stage embryo 1.0 0.5 0.0 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 Length [nt]
+15 Blastula (24 hpf) 10
+5
+0 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 Length [nt] 20 Gastrula (48 hpf) 10
+0 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 Length [nt] 20 Pluteus (72 hpf) 10
+0 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 Length [nt]
+Fig. 2. Sea urchin small RNA composition and expression proﬁle. Small RNAs from the ovary, egg, 32-cell stage, blastula (24 hpf), gastrula (48 hpf), and pluteus (72 hpf) were sequenced and annotated. miRNAs are 22 nts and putative piRNAs are between 27 and 29 nts. Putative piRNAs that overlap with each other in consistency with conserved ‘ping-pong’ mode of biogenesis (see Materials and methods) are labeled ‘piRNA’ while the remaining are labeled ‘Unknown’. The ﬁgure is scaled to yield identical vertical extend of the 22 nucleotide miRNA fraction. Compare to Fig. S3 for an illustration with static scaling.
+
+early as the 2-cell stage (Fig. S5). This suggests de novo Dicer translation during early development, and the fast decrease in Dicer protein after knockdown indicates a short half-life of the protein in the early embryo. We observed that most of the injected embryos developed normally into blastulae. However, by 48 hpf, Dicer MASO embryos failed to gastrulate, a phenotype dependent on the dose of MASO (Figs. 3A and B). Developmental defects in these embryos ranged from an overall delay in development, the failure to form a proper archenteron (the primitive gut), to embryonic lethality. These phenotypes were also observed with two different, non-overlapping Dicer MASOs (Fig. 3A and data not shown), but not with negative control MASOs (Fig. S6), nor when MASOs were used to knock down different gene functions irrelevant to the miRNA biogenesis pathway (Juliano et al., 2010, and data not shown).
+To test if the knockdown of Dicer leads to decreased levels of mature miRNAs in the early embryo, we used RT-qPCR to quantify the sea urchin-speciﬁc miRNA, miR-2009, and a conserved vertebrate miRNA, miR-31, at the blastula stage (24 hpf). Compared to the mock-injected control, these miRNAs decreased up to 40% in Dicer MASO-injected embryos, suggesting that the decrease in Dicer protein resulted in a significant inhibition of miRNA biogenesis (Fig. 3C). The absence of complete miRNA knockdown may be explained by the stability of the assayed miRNAs or the lack of a complete Dicer gene knock-out using MASO, where residual Dicer still generated some functional miRNAs.
+Dicer may have miRNA independent functions, such as centromeric silencing, the processing of endogenous siRNAs, and alternative deoxyribonuclease activities (Fukagawa et al., 2004; Kanellopoulou et al., 2005; Nakagawa et al., 2010). To test if the phenotypes we observed in Dicer knockdown embryos were speciﬁc to alterations in miRNA expression, we assayed knockdown phenotypes of Drosha and DGCR8, two other dsRNA processing enzymes catalyzing the nuclear primary miRNA cleavage which is critical for canonical miRNA biogenesis. Following MASO treatment for Drosha we observed earlier and more severe developmental defects compared to Dicer-deﬁcient embryos (Figs. 4A and B). By 24 hpf, a delay in development was already observed in Drosha knockdown blastulae and by 72 hpf these embryos were either abnormal or were still in the gastrula stage, which is normally observed by 48 hpf of development. DGCR8 MASO-injected embryos did not illustrate signiﬁcant developmental effects (Fig. 4D), although the few aberrant embryos had similar morphological defects as the Dicer and Drosha knockdowns (Fig. 4C). This could be explained by a longer half life of DGCR8 compared to the other proteins involved in miRNA biogenesis. However, the knockdown of a combination of DGCR8 and Dicer or DGCR8 and Drosha resulted in more pronounced developmental abnormalities as compared to Dicer or Drosha knockdown alone (Fig. 4E).
+
+have a dynamic expression pattern in the early sea urchin embryo. This increase of piRNA expression may correspond with the speciﬁcation of the piwi-positive small micromere lineage (Juliano et al., 2006; Rodriguez et al., 2005).
+Key enzymes involved in miRNA biogenesis are required in early development
+Dicer, the dsRNA processing enzyme that catalyzes the ﬁnal cytoplasmic miRNA precursor cleavage reaction to generate mature miRNAs, is detected at relatively constant mRNA levels from the egg to the 64-cell stage, decreasing prior to gastrulation (Fig. S4A). In contrast, Dicer protein expression peaks in blastulae and decreases during gastrulation (Fig. S4B and S4C). To test the function of Dicer and its resulting miRNA products during early embryogenesis, eggs were microinjected with Dicer morpholino antisense oligonucleotides (MASO). Injected embryos showed an estimated 30% decrease in Dicer protein, as compared with the mock-injected embryos, as
+
+Alterations in miRNA biogenesis lead to misexpression of genes involved in early embryogenesis
+Dicer knockdown embryos that failed to gastrulate exhibited a range of phenotypes largely between blastula (24 hpf) and gastrula (48 hpf) stages, when endodermal and mesodermal tissues are formed. Expression of the endodermal marker, Endo1 (Wessel and McClay, 1985), is signiﬁcantly decreased in Dicer knockdown embryos as compared to the mock-injected control embryos (Fig. 5A). We observed a similar decrease in expression level of a mesodermal marker, Meso1 (Wessel and McClay, 1985), in Dicer knockdown embryos (Fig. 5B). These results indicate that the observed phenotypes caused by alterations in miRNA biogenesis most likely reﬂect a failure to properly specify various tissue types. We thus measured the transcript levels of a number of developmentally regulated molecules involved in cell signaling, transcriptional regulation, cell adhesion, cell movement, and cell proliferation (Fig. 5C) (Ben-Tabou de-Leon and Davidson, 2009; Byrum et al., 2009; Davidson et al., 2002; Duboc et al., 2004; Flowers et al., 2004; Logan et al., 1999; Peter and Davidson,
+
+A Control
+(TR)
+
+48h 24h
+
+72h
+
+B 100 80 60 40 20 0
+
+n=53
+
+J.L. Song et al. / Developmental Biology 362 (2012) 104–113
+
+107
+
+Dicer MASO
+
+12nM
+
+24nM
+
+n=57
+*
+
+lineage where it represses transcription of the ubiquitously present transcriptional repressor, HesC (Oliveri et al., 2002). This doublenegative repression leads to the activation of the delta ligand and three regulatory genes, alx1, ets1, and tbr in the skeletogenic micromere lineage (Revilla-i-Domingo et al., 2007). The Delta/Notch pathway leads to the activation of gcm, a mesodermal gene regulator (Ransick and Davidson, 2006). At the tested time points, 17 and 24 hpf, we expect to capture critical gene expression changes that are essential for proper endomesodermal speciﬁcation, which is likely affected by the global depletion of miRNAs (Fig. 5C). β-catenin, wnt8, pmar1, hesC, delta, and nodal mRNA levels are increased in Drosha knockdown embryos (Fig. 5C). Upregulation may suggest that these genes are directly regulated by miRNAs. Interestingly, the endodermal regulatory gene, foxA, and the mesodermal regulatory gene, gcm, are both decreased in mRNA levels by 24 h, instead suggesting an indirect miRNA regulatory pathway and consistent with our observation of decreased endo/mesodermal immunostaining in Drosha knockdown embryos (Figs. 5A,B). β-catenin is known to directly regulate the transcription of pmar1 and wnt8; therefore, the increased mRNA levels of wnt8 and pmar1 may be a result of increased βcatenin and/or are directly regulated by miRNAs. Previous studies indicated that pmar1 overexpression leads to increased delta and decreased spec1 mRNA levels (Oliveri et al., 2002; Oliveri et al., 2003), which are consistent with what we observed with the QPCR data (Fig. 5C). However, results indicated that gcm and foxA mRNA levels are decreased when delta mRNAs are increased, indicating that gcm and foxA are likely to be regulated indirectly by miRNA-dependent mechanisms. Taken together, alterations in the miRNA biogenesis pathway lead to deregulation of most tested determinants of early sea urchin development. Whether these mRNA changes are directly or indirectly caused by alterations of miRNA expression remain to be determined.
+
+percent of normal development relative to control
+Dice1r2nMAMSO
+
+Dice2r4nMAMSO
+
+miRNA expression relative to control (log2)
+
+C 1.0
+0.5 0
+
+DICER MASO 4nM DICER MASO 24nM
+
+-0.5
+
+spu-miR-2009 -1.0
+
+spu-miR-31
+
+Fig. 3. Dicer is required for early sea urchin development. (A,B) Dicer morpholino antisense oligonucleotide (MASO)-injected embryos have dose-dependent developmental defects. (B) Barplots depicting the percentages of normal embryos in each experimental treatment relative to the percentage of normal embryos in the mock injected control at 48 hpf. n is the number of embryos analyzed. Unpaired Student T-test was used to determine the signiﬁcance of the knockdown compared to the mock control. p-value was 0.025 for the Dicer MASO 24 nM sample. (C) Dicer knockdowns resulted in a decrease of miRNAs. A miRNA unique to the sea urchin spu-miR-2009 and miR31, a conserved miRNA, were decreased in Dicer knockdown embryos compared to the control mock-injected embryos at 24 hpf. Standard deviation error bars are from 4 replicates.
+
+2011; Sherwood and McClay, 1999; Sweet et al., 1999; Sweet et al., 2002; Wikramanayake et al., 2004). The transcriptional repressor, Pmar1, is exclusively expressed in the skeletogenic micromere
+
+Rescue of the Drosha knockdown phenotype by miRNAs
+miR-1, miR-31, miR-2012, and miR-71 were sequenced at least 10 times more often than other miRNAs, likely indicating that these are among the highest expressed miRNAs in the sea urchin embryo (Fig. 1 and Table S2). We reasoned that their high levels could reﬂect broad and crucial functions in the early embryo. To test this assumption, we designed a rescue experiment in which we injected these four abundant miRNAs as double-stranded RNA (dsRNA) Dicer substrates into Drosha knockdown embryos. We found that the synthetic dsRNA duplexes signiﬁcantly rescued Drosha knockdown embryos, including morphogenesis and function of each major cell type of the embryo (Fig. 6). While Drosha knockdown embryos have severe developmental defects, embryos rescued with dsRNA duplexes were able to develop into feeding larvae 5 days after fertilization (Fig. 6B). Complementation with miR-153 and miR-375, two of the least abundantly sequenced miRNAs, or a negative control dsRNA, however did not rescue the effect of Drosha knockdown, indicating sequence speciﬁcity of the miR-1, -31, -2012, and -71 rescue (Fig. 6).
+To further dissect which miRNA is essential to rescue the Drosha knockdown phenotype, we set up experiments to test 16 combinations of dsRNA-1, -31, -71, and -2012 in the Drosha knockdown background (Fig. 7). We observed that single dsRNA-71 is able to rescue the Drosha knockdown phenotype from 9% of normal embryos in Drosha knockdown background to 50% normal embryos. The dsRNA-71 rescue effect of the Drosha knockdown-induced phenotype is not due to the amount of injected solutions (Fig. S7). Taken together, combinations of dsRNAs containing dsRNA-71 in the Drosha knockdown background rescued the Drosha knockdown phenotype most effectively, suggesting that miR-71 may be an essential component of the gene regulatory network in early developmental processes (Fig. 7).
+
+percent of normal development relative to control
+Drosha12MnAMSO Drosha24MnASMO
+
+108 J.L. Song et al. / Developmental Biology 362 (2012) 104–113
+
+A Drosha knockdown
+mock 12nM 24nM 24h
+48h
+72h
+
+B
+100 80 60 40 20 0
+
+n=20 7 *
+
+n=310 *
+
+scale bar = 50 µm
+
+C DGCR8 knockdown
+mock 12nM 24nM
+24h
+
+48h
+
+72h
+E
+100 n=190
+80 60 40 20
+0
+
+scale bar = 50 µm
+
+n=99
+
+n=163
+
+percent of normal development relative to control
+
+D
+100 80 60 40 20 0
+n=171
+
+DGCR182nMAMSO
+
+n=333
+
+DGCR824MnAMSO
+
+n=245
+
+percent of normal development relative to control
+
+++DrDDoGDsGihCcCDaieRRrc88eMrMMAMAMASASASSOOS1OO16O622n1n446MnnMnMMM
+
+16nM
+
+Drosha MASO
+
+Fig. 4. Drosha knockdown displays similar developmental defects as the dicer knockdown. Morpholino antisense oligonucleotides of variable concentrations were injected into newly fertilized eggs. (A,C) DIC images of embryos at 24 hpf, 48 hpf, and 72 hpf. Scale bar is 50 μm. (B,D,E) Barplots depicting the percentages of normal embryos in each experimental treatment relative to the percentage of normal embryos in the mock injected control at 48 hpf. n is the total number of injected embryos. Unpaired Student T-test was used to determine the signiﬁcance level between the knockdown and the mock control. The p-values are 0.015 and 0.009 for Drosha MASO 12 nM and Drosha MASO 24 nM, respectively (A,B) Drosha MASO-injected embryos have dose-dependent developmental defects, whereas only very few (C,D) DGCR8 MASO-injected embryos show the same phenotype and most do not. (E) Injecting morpholinos against DGCR8 + Drosha or DGCR8 + Dicer leads to a decreased percentage of normal embryos as compared to each MASO injection alone. A lower concentration of Drosha and Dicer MASO at 16 nM instead of 24 nM (lanes 2 and 3) was used so that we can observe the further decrease in the percentage of normal embryos in MASO co-injections. An average of two biological replicated is presented.
+
+Discussion
+Species-speciﬁc differences in the temporal expression and functional roles of miRNAs in development likely contribute to variations in the life histories of speciﬁc organisms. Given that posttranscriptional regulation throughout development has only been studied for a limited number of organisms, a more extensive investigation of the function of miRNAs is needed to achieve a fuller understanding of this aspect of evolution. We thus set out to investigate the role of miRNAs in early embryogenesis of the sea urchin S. purpuratus. We ﬁrst conﬁdently annotated a total of 49 miRNAs from the early stages of sea urchin
+
+development and proﬁled their expression throughout early embryogenesis. The comparatively small number of identiﬁed miRNAs may correspond to morphological complexity (Campo-Paysaa et al., 2011; Peterson et al., 2009; Wheeler et al., 2009), or, alternatively, adult sea urchin tissues may harbor more miRNAs than we have detected in the embryonic stages (Campo-Paysaa et al., 2011; Christodoulou et al., 2010; Heimberg et al., 2008; Lee et al., 2007; Niwa and Slack, 2007; Sempere et al., 2006; Wheeler et al., 2009). Most of the annotated sea urchin miRNAs are maternally present and are dynamically expressed during the ﬁrst 24 h (blastula) to 48 h (gastrula) of development (Fig. 1).
+
+J.L. Song et al. / Developmental Biology 362 (2012) 104–113
+
+A BDIC
+
+ENDO1
+
+DAPI
+
+DIC
+
+MESO1
+
+DAPI
+
+109
+
+Dicer MASO 24nM Control (TR)
+Dicer MASO 24nM Control (TR)
+
+C
+
+B-catenin Wnt8 Pmar HesC Delta Notch Gcm FoxA Nodal BMP2/4 Spec1 Wnt16 Dynein CyclinA Collagen Ncam1 Arf6 Taf7 CyIIb RhoGAP Kif3A Gelsolin RasK
+
+mRNA levels in Drosha MASO normalized to control (log2)
+
+16 8 4 2 1
+0.5 0.25 0.125 0.0625 0.03125 0.015625
+
+17h 24h
+
+Fig. 5. miRNAs regulate broad gene sets. Embryos at 48 hpf were immunolabeled with Endo1 (A) and Meso1 (B) monoclonal antibodies to identify cell-type speciﬁc differentiation markers of endoderm and mesoderm, respectively. Scale bar is 20 μm. (C) RT-QPCR measurement of mRNAs levels of molecules that mediate transcriptional regulation, cell signaling, cell adhesion, cell movement, and cell proliferation. QPCR results from 2 to 3 and from 3 to 6 independent biological experiments are measured in 17 h and 24 h embryos, respectively.
+
+In C. elegans, about 60% of the total miRNAs are expressed in the zygote, which are presumably maternally deposited, and the greatest changes in miRNA dynamics occur around the time of gastrulation (Stoeckius et al., 2009). The majority of the zebraﬁsh miRNAs are also expressed after gastrulation during the segmentation stage (10 to 24 hpf) in a tissue-speciﬁc manner (Wienholds et al., 2005). In Zebraﬁsh miRNAs may not be essential for very early fate decisions but rather are thought to function in patterning and maintenance of tissue identity (Wienholds and Plasterk, 2005; Wienholds et al., 2005). Our data suggest that miRNAs play a central role in early cell fate decisions in the sea urchin embryo. This hypothesis is supported by our observed early embryonic lethal phenotypes upon inhibition of de novo synthesis of Drosha and Dicer in the sea urchin embryo. In zebraﬁsh mutants where both maternal and zygotic Dicer is knocked out, the embryos displayed defects during gastrulation, resulting in embryos with defective brain morphogenesis and heart development (Giraldez et al., 2005). A partial rescue of the brain developmental defect is achieved with the addition of the most abundant zebraﬁsh miRNAs, the miR-430 family (Giraldez et al., 2005). The miR-430 family is the earliest expressed miRNA, expressed from the onset of embryonic transcription (5 hpf), and has been shown to function in clearing maternal mRNA pools in the early embryo (Giraldez et al., 2005). Similar roles of speciﬁc miRNAs in the maternal-to-zygotic transition have been observed in Drosophila melanogaster (Bushati et al., 2008) and Xenopus (Lund et al., 2009). Our Drosha knockdown rescue experiments with combinations of 4 miRNAs suggest that the maternally expressed miR-71 may be particularly important for developmental processes prior to blastulation (Fig. 7 and Table S2). Moreover, the rescue with these miRNAs is more complete than shown in zebraﬁsh with miR-430 (Giraldez et al., 2005). Previous studies demonstrate that mouse embryonic stem cells deﬁcient in Dicer are viable, but fail to differentiate in vitro and in vivo, thus indicating that miRNAs are involved in the establishment of differentiated cell states. Therefore, establishment and
+
+maintenance of a differentiated cell state may be a conserved function for miRNAs in the deuterostome lineage (Kanellopoulou et al., 2005).
+The best computational tools for predicting miRNA target sequences scan mRNA 3′UTRs for short motifs complementary to nucleotides 2 to 7 (or 8) of the miRNA (Krek et al., 2005; Lewis et al., 2005). For Conﬁdent target predictions, these tools incorporate sequence conservation of relatively closely related species in the search, which is unfortunately not available for the S. purpuratus genome. Nevertheless, we scanned the available 3′UTRs in the sea urchin transcriptome (Samanta et al., 2006) for sequences complementary to nucleotides 2 to 8 of the miRNA seed sequences within regulatory genes active during early embryogenesis (Fig. 5C and Table S5). Further experimental testing will be needed to test the direct regulation of speciﬁc miRNAs and their potential gene targets. It will be interesting to conduct the bioinformatic analysis once well-annotated 3′UTR sequences become available for a number of sea urchin sister species.
+Given both the identiﬁcation of dynamically expressed embryonic miRNAs and the functional requirement of proteins involved in miRNA biogenesis, our data indicate that post-transcriptional regulation by miRNAs is essential for developmental mechanisms early in the sea urchin embryo. Our results are consistent with a previous report in a different sea urchin species, Hemicentrotus pulcherrimus, which exhibited a dose-dependent severity of developmental defects with Dicer knockdown (Okamitsu et al., 2010). In silico and in vitro experiments have shown that a single miRNA can regulate many hundreds of targets at various levels of efﬁcacy (Baek et al., 2008; Krek et al., 2005; Lewis et al., 2005; Selbach et al., 2008). Thus it is possible that certain miRNAs dominate the regulatory landscape in development. This conclusion is supported by the rescue experiments in which abnormal morphology associated with miRNA reduction can be obviated by supplying the four most abundant miRNAs (spumiR-1, -31, -2012, and -71) to the early embryo and that miR-71 alone may be controlling key nodes in early developmental processes prior to the blastula stage. This result suggests that these miRNAs may
+
+percent of normal development relative to control
+++dsdsRRN++NA-N+Ad1-CN,sld1d,-sCRsld3-RsNRd13,NRAsDDDDDDN1-,-rrrrrrANRA-17oooooo--A13Nssssss171,35hhhhhh1Ac3,,-5aaaaaao5,-c2-,n-3o0t2-MMMMMMr37n103tAAAAAAo75r2l17SSSSSS5o251l11OOOOOO36663112000222222266nnnnn44444400nnnnnnnMMnMMMMMMMMMMM
+
+110 J.L. Song et al. / Developmental Biology 362 (2012) 104–113
+
+A n=167 n=42 n=45 n=129 n=73 n=37 n=45 n=54 100 80 60 40 20 0
+
+regulatory network that contributes to cell fate decisions and speciﬁcation in the sea urchin embryo. A detailed examination of the functional roles of the 49 miRNAs in the sea urchin embryo will likely yield insight into the ancient and conserved function of miRNAs in early development throughout the deuterostome taxa. The comparably small total number of miRNAs and the lack of redundancy of multiple miRNA families in the sea urchin make it an attractive model to examine the functions of single miRNAs during embryogenesis (Fig. 1, Table S1 and Campo-Paysaa et al., 2011; Wheeler et al., 2009). In addition, the transcriptional network that directs sea urchin development is well understood (Davidson et al., 2002; Oliveri and Davidson, 2004) and thus will provide a strong framework for interpreting the functions of single miRNAs.
+
+Materials and methods
+
+B Control (TR)
+
+Drosha MASO +dsRNA160nM
+
+dsRNA160nM
+
+48 h
+
+5 days
+
+scale bar = 50 µm
+Fig. 6. Four miRNAs rescue developmental defects from Drosha loss of function. Embryos were injected with Drosha MASO (24 nM) with or without exogenous dsRNAs. Barplots depicting the percentages of normal embryos in each experimental treatment relative to the percentage of normal embryos in the mock injected control at 48 hpf. (A) Drosha knockdown embryos (24 nM) were complemented with 160 nM or 32 nM of dsRNA duplexes, miR-1, -31, -2012, -71, -153, and -375, or a dsRNA negative control (NCI). Injections of dsRNA-1, -31, -2012, or -71 alone did not cause developmental defects (data not shown). n is the total number of injected embryos. (B) Embryos with Drosha knockdown (24 nM) complemented with dsRNA duplexes (160 nM) developed into normal larvae.
+be important regulators within the gene regulatory network that directs early developmental signaling pathways that are essential for proper early embryogenesis.
+Conclusion
+Our results support the hypothesis that miRNAs are essential for early embryogenesis. This study suggests for the ﬁrst time that posttranscriptional regulation by miRNAs is an integral part of the gene
+
+Deep sequencing of small RNAs
+Total RNA was extracted from the ovary, eggs, 32-cell stage (5 hpf), blastula (24 hpf), gastrula (48 hpf), and pluteus (72 hpf) stages with TriZol (Invitrogen, Carlsbad, CA) according to the manufacturer's instructions with the following modiﬁcations: samples were initially extracted with chloroform several times until the aqueous phases were free of visible proteins and all RNAs were precipitated overnight at −20 °C. Small RNA were size selected (18–40 nt) on a 6% Urea-polyacrylamide gel. Sequencing libraries for each sample were prepared with a 5′ monophosphate dependent cloning protocol from Illumina (DGE small RNA; Illumina Inc., CA) and sequenced on the Genome Analyzer 2 (Illumina). We obtained a total of 3.7 million sequence reads per sample. miRNAs are annotated by using miRDeep2 (Friedländer et al., 2008; Friedländer et al., 2011) against the miRBase version 17.
+Computational analysis of sequenced small RNA libraries
+The six sequenced small RNA libraries were clipped and mapped in parallel using the Mapper module of miRDeep2 (Friedländer et al., 2011). Speciﬁcally, reads were parsed to fasta format and 3′ adapters clipped by searching for perfect matches to the ﬁrst six nucleotides of the adapter sequence, starting at position 18 in each read. If no matches to the ﬁrst six nucleotides (nts) of the adaptor were found in a given read, then matches of the ﬁrst ﬁve nts to the last ﬁve nts of the read were identiﬁed, then matches of the ﬁrst four nts to the last four nts of the read and etc. We split the clipped reads by annotation by mapping them to reference databases, using an annotation hierarchy (Berninger et al., 2008): miRNA > mRNA > tRNA > rRNA > unknown. To identify miRNA reads, we mapped to
+
+100 n=456 n=447 n=436 n=439 n=432 n=481 n=335 n=458 n=366 n=408 n=420 n=425 n=378 n=494 n=345 n=329 n=318 80 60 40 20 0
+
+percent of normal embryos
+Control MASO Drosha KD
++ ds+++RddsNds+s++ARR-d+RNdd1sN+ssNd+A+AR-+sd+ARR-d33-sNdR1sNNd111s++ARsNAAR-++R++-+-NddA1R3N77377-ssNdA1NA1+11111-sDDDDDDDDDDDDDDDARR-rrrrrrrrrrrrrrrA3-3+R1++++++-NNooooooooooooooo11122222222sssssssssssssssNAA0+0+00000++0--hhhhhhhhhhhhhhhA171711111371-73aaaaaaaaaaaaaaa212212222112111KKKKKKKKKKKKKKKDDDDDDDDDDDDDDD
+
+Fig. 7. miR-71 rescues signiﬁcant Drosha knockdown phenotype. Single and combinations of dsRNAs corresponding to miR-1, -31, -71, and -2012 Dicer substrates were coinjected with the Drosha MASO into newly fertilized eggs. The percentages of normal and abnormal embryos (excluding dead embryos) are tabulated at 24 hpf. Two independent biological experiments were conducted.
+
+J.L. Song et al. / Developmental Biology 362 (2012) 104–113
+
+111
+
+the S. purpuratus miRNA precursors from miRBase version 16 and to three novel precursors (Friedländer et al., 2011). To identify mRNA reads, we mapped to the gene_cds (coding) sequences from SpBase (http://sugp.caltech.edu/SpBase/download/). To identify tRNA reads we analyzed the Spur_v2.1 genome with tRNAscan-SE-1.23 using default eukaryotic parameters and mapped to the predicted tRNA sequences. To identify rRNA reads we mapped to the S. purpuratus 18S and 28S rRNA sequences obtained at GenBank (Benson et al., 2004). Last, all reads that mapped to the Spur_v2.1 genome but did not map to any of the above annotations were labeled ‘unkown’. Reads were mapped with Bowtie (Langmead et al., 2009) with these options: -f -n 1 -e 80 -l 18 -a –best –strata.
+Using this stringent procedure we successfully mapped between 43% and 55% of the clipped reads in each of the six datasets, corresponding to between 1.7 and 4.4 million reads. Even though some reads may not have been mapped because of the incomplete state of the genome assembly, these numbers were comparable to previous small RNA studies (e.g. Mayr and Bartel, 2009; Persson et al., 2009), showing the consistent high quality of the data. We annotated piRNAs in the following way: all reads that mapped to the genome but did not map to existing annotations (‘unknown’ reads) were pooled across samples. Using a custom ruby script we identiﬁed all instances where two of these reads overlap with each other such that they are on opposite genomic strands and their 5′ ends overlap by exactly ten nucleotides. Since this overlap is in perfect accordance with the ‘ping-pong’ model of piRNA biogenesis, we annotated all such read pairs as piRNAs.
+Microinjection approaches
+Morpholino antisense oligonucleotides (MASO) against dicer, drosha, and dgcr8 were ordered from GeneTools (Philomath, OR). The MASO sequences for dgcr8 is 5′ ACACGGTATGGCAGCCACTGGAACA 3′; for drosha is 5′ TACCGGATCATTGCTACACGTCACA 3′, dicer 5′ GGACTCGATGGTGGCTCATCCATTC3′ (used for the experiments presented here) and Dicer5UTR 5′ GTACCAGAACTCTGAAAGATAGCAA3′ (demonstrated the same phenotype as the ﬁrst, data not shown). Standard control morpholino (5′CCTCTTACCTCAGTTACAATTTATA3′) was purchased from GeneTools (Philomath, OR). Microinjections were performed as previously described (Cheers and Ettensohn, 2004) with modiﬁcations. MASO oligos were resuspended in sterile water and heated to 60 °C for 10 min prior to use. Injection solutions contain 20% sterile glycerol, 2 mg/ml 10,000 MW Texas Red lysine charged dextran (Molecular Probes, Carlsbad, CA) and varying concentrations of speciﬁc MASOs. Eggs from S. purpuratus were collected by injecting the animal with 0.5 M KCl to induce spawning. Eggs were dejellied in acidic sea water (pH 5.2) for 10 min on ice, followed by sea water washes. Dejellied eggs were rowed onto protamine sulfate-coated (4% w/v) 60× 15 mm petri dishes. Eggs were fertilized with sperm in the presence of 1 mM 3-amino-triazol (Sigma, St. Louis, MO). Injections were performed using the Femto Jet injection system (Eppendorf; Hamberg, Germany). Injection needles 1x90mm glass capillaries with ﬁlaments (Narashige; Tokyo, Japan) were pulled on a vertical needle puller PL-10 (Narishige). The injection solution is calculated based on the injection bolus at about 1/5 of the egg diameter. The volume of the injection bolus was calculated and used to determine the μmoles of injected morpholino. The ﬁnal concentration of the injected morpholino was determined by dividing μmol of injected morpholino with the volume of the egg calculated with a radius of 40 μm.
+Drosha/DGCR8/Dicer knockdown abnormal phenotypes are deﬁned either as embryos that were delayed in development, lacked gastrulation (limited or no gut formation), or had vacuolarization in the blastocoel. Dicer, drosha, and dgcr8 MASO-injected embryos were imaged on a Zeiss AxioPlan microscope (Carl Zeiss Incorporation, Thorwood, NY) with an Orca-ER CCD camera (Hammamatsu Corporation, Bridgewater, NJ).
+
+Real time, quantitative PCR of miRNAs
+Taqman miRNA primers against spu-miR-2009 and spu-miR-31 were used in real time, quantitative PCR. Total RNA was prepared from 120 dicer or drosha MASO-injected embryos 24 hpf using the miRVana miRNA isolation kit (Applied Biosystems, Foster City) to isolate small RNAs according to the manufacturer's instructions (Fig. 3C). Total RNA was resuspended in 50 μl of nuclease-free water. cDNA was prepared from 5 μl (20 ng) of the total RNA using the Taqman RT kit (Applied Biosystems, Foster City). Reverse transcription was conducted according to the TaqMan MicroRNA RT kit, with each reaction tube containing one single custom designed RT primer. QPCR was conducted according to the TaqMan MicroRNA Assay protocol (Applied Biosystems, Foster City). The Ct values of the Dicer MASOinjected embryos were normalized to the mock injected embryos as 2− ΔCt values. Two separate experiments were conducted with 4 replicates each.
+A multiplex reverse transcription step was performed to detect spu-miR-2009, spu-miR-31, spu-miR34, spu-miR251, and ubiquitin expression levels in the egg, 32-cell stage, 24 h, 48 h, and 72 h embryos (Fig. S1). Total and small RNA populations were isolated from 300 eggs or embryos using the miRVana miRNA isolation kit (Applied Biosystems, Foster City). Each 20 μl reverse transcription reaction consists of 4 μl of the 5× Taqman RT primer, 1 μl of oligo dT (500 μg/ml stock), 45 ng of small RNA and 45 ng of total RNA, 1 μl of dNTPs (100 mM each), 2 μl of MultiScribe Reverse Transcriptase (50 U/μl), 2 μl of 10× RT Buffer, and 0.25 μl RNAse Inhibitor. The QPCR reaction contains 1 μl of cDNA, 0.5 μl of 20× TaqMan MicroRNA Assay, 5 μl of 2× Universal Master Mix in a 10 μl total reaction. QPCR was conducted using the 7500 Real-Time FAST PCR cycler system (Applied Biosystems, Foster City). Data are normalized to the internal control ubiquitin. Data are presented as fold changes of the egg sample.
+Real time, quantitative PCR of mRNA
+100 embryos at various time points were collected and total RNA were extracted using the Qiagen microRNeasy kit according to manufacturer's instructions (Qiagen Inc., Valencia, CA). cDNA was ampliﬁed using the TaqMan Reverse Transcription Reagents kit (Applied Biosystems, Foster City). QPCR was performed using the 7300 RealTime PCR cycler system (Applied Biosystems, Foster City). Two embryo equivalents were used for each QPCR reaction with the SYBER Green PCR Master Mix (Invitrogen). QPCR primers were designed using the Primer3 program (Rozen and Skaletsky, 2000) (Table S3). Results were ﬁrst normalized to ubiquitin levels and expressed as a fold difference compared to the uninjected embryos. 2–6 independent biological experiments with 3 replicates each were conducted.
+Double stranded miRNA rescue duplexes
+Synthetic double stranded RNA duplexes (Integrated DNA Technologies, Inc., Coralville, IA) were designed against the four most abundant miRNAs obtained from the deep sequencing data: spumiR-1, spu-miR-71, spu-miR-31, and spu-miR-2012. Dicer substrate negative dsRNA control (DS NC1) was purchased from IDT (Integrated DNA Technologies, Inc., Coralville, IA). Double stranded RNA duplexes were designed based on the IDT protocol for Dicer substrates (idtdna. com). DsRNA duplexes were resuspended in sterile nuclease-free water to make 100 μM stock solutions and stored in aliquots at −20 °C.
+Northern blotting
+Testing of piRNA candidates was performed by Northern blot analysis as described previously (Lagos-Quintana et al., 2001). 70 μg of total RNA was used per sample. Equal loading and transfer were determined with methylene blue. Since selected piRNA candidates
+
+112 J.L. Song et al. / Developmental Biology 362 (2012) 104–113
+
+were in low abundance, the imaging plates had to be exposed for up to one week. Pictures were obtained with an imaging plate reader and processed in Adobe Illustrator.
+Immunological procedures
+Dicer knockdown embryos were ﬁxed in either 1% paraformaldehyde for 10 min at room temperature, followed by 1 min in 100% methanol (for Endo1 staining (Wessel and McClay, 1985) and Dicer) or 90% methanol for 1 h at −20 °C (for Meso1 staining; Wessel and McClay, 1985), followed by 5 PBST washes. Fixed embryos were blocked in 4% goat serum (Sigma, St. Louis, MO) in PBSTween for 1 h at room temperature then incubated in polyclonal Dicer or monoclonal Endo1 and Meso1 antibodies overnight at 4 °C, washed 3 times in PBS containing 0.06% Tween (PBST), followed by incubation with goat anti-rabbit Alexa Flour 488 conjugated antibody (Invitrogen) at 1:300 or goat anti mouse Cy3 conjugated antibody (Invitrogen) at 1:300 for 1 h at room temperature in blocking buffer. The embryos were washed 3 times with PBST and incubated with Hoechst (Molecular Probes; Carlsbad, CA) (10 mg/ml stock) at 1:1000 dilution for DNA labeling. Immunolabeled embryos were imaged on an LSM 510 laser scanning confocal microscope (Carl Zeiss, Inc.; Thornwood, NY).
+Dicer antibody generation and puriﬁcation
+Antiserum was raised in rabbits against the middle (amino acids GSQSQF to VIDTWD) and the carboxyl end (amino acid KQPAPA to KSQPKK) of the S. purpuratus Dicer fused to a 6XHIS tag using the pTAT vector (a generous gift of Steven F. Dowdy). Cell extracts were prepared as described previously with the following modiﬁcations (Leguia et al., 2006). The fusion constructs were transformed into BL21 cells for overexpression. Clones overexpressing the fusion proteins were identiﬁed by SDS-PAGE and immunoblot analysis of protein extracts using anti-HIS monoclonal antibodies diluted 1:3000. BL21 clones containing Dicer constructs were grown overnight in 5 ml cultures. Large scale cultures for protein puriﬁcation was prepared with 5 ml of overnight culture diluted in 1 L of LB broth and 100 μg/ml ampicillin at 30 °C for 1 h, followed by addition of 1 mM IPTG for 3 h. Bacterial pellets were resuspended in Buffer Z (8 M urea, 100 mM NaCl, and 20 mM Hepes pH 8) containing 20 mM imidazole, lysed by sonication prior to puriﬁcation on a ProBond Ni-NTA agarose column (Invitrogen, Carlsbad, CA), according to the manufacturer's instructions. Lysates were dialyzed in water overnight and lyophilized. 0.5 mg of immunogen with Freund's adjuvant was injected in three booster shots into New Zealand white rabbits.
+The Dicer antibody was afﬁnity puriﬁed. Dicer protein eluted from Buffer Z containing 500 mM imidazole was concentrated with centricon column according to manufacturer's instructions (Millipore, Billerica, MA), followed by immobilization of Dicer protein to the Pierce AminoLink Plus Immobilization Kit (ThermoFisher Scientiﬁc; Rockford, IL). Rabbit serum containing Dicer antibodies was puriﬁed and eluted with Tris buffer, pH 9.5 and 1 ml of 100 mM Glycine, pH 2.5. 10 μg of afﬁnity puriﬁed antibody from the Dicer middle region recombinant protein was used for immunocytochemistry and western blotting.
+Western blot
+120 embryos were prepared by resuspending pelleted embryos in heated SDS sample loading buffer and boiled at 100 °C with 1 mM DTT (Roche) for 10 min. Samples were stored at −80 °C if not run on the SDS-PAGE gel immediately. Samples were loaded onto TrisGlycine 4–16% or 4–20% gradient gels (Invitrogen) and transferred to nitrocellulose (Pall Corporation, Pensacola, FL). Western blots were probed with 10 μg of afﬁnity puriﬁed Dicer antibody in blotto
+
+(3% dry milk, 170 mM NaCl, 50 mM Tris, 0.05% Tween20) overnight at 4 °C, followed by incubation with secondary antibody goat antirabbit HRP (Jackson ImmunoResearch Laboratories; West Grove, PA) diluted to 1:5000 in blotto for 1 h at room temperature. Signals were detected using SuperSignal West Femto Maximum Sensitivity Substrate (Thermo Scientiﬁc; Rockford, IL) according to the manufacturer's instructions. Quantitation of Dicer protein knockdown (Fig. S5) was performed by quantifying and normalizing the intensity of the bands of equal numbers of embryos in the Dicer MASO-injected embryos with the control. The pixel intensities were within the linear range of detection as determined by the Metamorph software v. 7.6 (Molecular Devices, Inc., Sunnyvale, CA).
+Sequence raw data repository
+Sequences are deposited in the GEO (gene expression omnibus) and SRA (short reads archive).
+Supplementary materials related to this article can be found online at doi: 10.1016/j.ydbio.2011.11.015.
+Competing interests statement
+The authors declare no competing ﬁnancial interests.
+Acknowledgements
+We thank the members of the Wessel and Rajewsky labs for important discussions. This work is funded by grants from the NIH awarded to GMW and an NRSA awarded to JLS, as well as the start up fund from the University of Delaware to JLS. MS acknowledges funding from the BIMSB NYU PhD Program.
+References
+Aravin, A., Gaidatzis, D., Pfeffer, S., Lagos-Quintana, M., Landgraf, P., Iovino, N., Morris, P., Brownstein, M.J., Kuramochi-Miyagawa, S., Nakano, T., Chien, M., Russo, J.J., Ju, J., Sheridan, R., Sander, C., Zavolan, M., Tuschl, T., 2006. A novel class of small RNAs bind to MILI protein in mouse testes. Nature 442, 203–207.
+Baek, D., Villen, J., Shin, C., Camargo, F.D., Gygi, S.P., Bartel, D.P., 2008. The impact of microRNAs on protein output. Nature 455, 64–71.
+Bartel, D.P., 2009. MicroRNAs: target recognition and regulatory functions. Cell 136, 215–233.
+Ben-Tabou de-Leon, S., Davidson, E.H., 2009. Experimentally based sea urchin gene regulatory network and the causal explanation of developmental phenomenology. Wiley Interdiscip. Rev. Syst. Biol. Med. 1, 237–246.
+Benson, D.A., Karsch-Mizrachi, I., Lipman, D.J., Ostell, J., Wheeler, D.L., 2004. GenBank: update. Nucleic Acids Res. 32, D23–D26.
+Berninger, P., Gaidatzis, D., van Nimwegen, E., Zavolan, M., 2008. Computational analysis of small RNA cloning data. Methods 44, 13–21.
+Brennecke, J., Aravin, A.A., Stark, A., Dus, M., Kellis, M., Sachidanandam, R., Hannon, G.J., 2007. Discrete small RNA-generating loci as master regulators of transposon activity in Drosophila. Cell 128, 1089–1103.
+Brodersen, P., Voinnet, O., 2009. Revisiting the principles of microRNA target recognition and mode of action. Nat. Rev. Mol. Cell Biol. 10, 141–148.
+Bushati, N., Stark, A., Brennecke, J., Cohen, S.M., 2008. Temporal reciprocity of miRNAs and their targets during the maternal-to-zygotic transition in Drosophila. Curr. Biol. 18, 501–506.
+Byrum, C.A., Xu, R., Bince, J.M., McClay, D.R., Wikramanayake, A.H., 2009. Blocking dishevelled signaling in the noncanonical Wnt pathway in sea urchins disrupts endoderm formation and spiculogenesis, but not secondary mesoderm formation. Dev. Dyn. 238, 1649–1665.
+Campo-Paysaa, F., Semon, M., Cameron, R.A., Peterson, K.J., Schubert, M., 2011. microRNA complements in deuterostomes: origin and evolution of microRNAs. Evol. Dev. 13, 15–27.
+Cheers, M.S., Ettensohn, C.A., 2004. Rapid microinjection of fertilized eggs. Methods Cell Biol. 74, 287–310.
+Christodoulou, F., Raible, F., Tomer, R., Simakov, O., Trachana, K., Klaus, S., Snyman, H., Hannon, G.J., Bork, P., Arendt, D., 2010. Ancient animal microRNAs and the evolution of tissue identity. Nature 463, 1084–1088.
+Davidson, E.H., Rast, J.P., Oliveri, P., Ransick, A., Calestani, C., Yuh, C.H., Minokawa, T., Amore, G., Hinman, V., Arenas-Mena, C., Otim, O., Brown, C.T., Livi, C.B., Lee, P.Y., Revilla, R., Schilstra, M.J., Clarke, P.J., Rust, A.G., Pan, Z., Arnone, M.I., Rowen, L., Cameron, R.A., McClay, D.R., Hood, L., Bolouri, H., 2002. A provisional regulatory gene network for speciﬁcation of endomesoderm in the sea urchin embryo. Dev. Biol. 246, 162–190.
+
+J.L. Song et al. / Developmental Biology 362 (2012) 104–113
+
+113
+
+Duboc, V., Rottinger, E., Besnardeau, L., Lepage, T., 2004. Nodal and BMP2/4 signaling organizes the oral–aboral axis of the sea urchin embryo. Dev. Cell 6, 397–410.
+Fabian, M.R., Sonenberg, N., Filipowicz, W., 2010. Regulation of mRNA translation and stability by microRNAs. Annu. Rev. Biochem. 79, 351–379.
+Flowers, V.L., Courteau, G.R., Poustka, A.J., Weng, W., Venuti, J.M., 2004. Nodal/activin signaling establishes oral–aboral polarity in the early sea urchin embryo. Dev. Dyn. 231, 727–740.
+Friedländer, M.R., Chen, W., Adamidi, C., Maaskola, J., Einspanier, R., Knespel, S., Rajewsky, N., 2008. Discovering microRNAs from deep sequencing data using miRDeep. Nat. Biotechnol. 26, 407–415.
+Friedländer, M.R., Mackowiak, S.D., Li, N., Chen, W., Rajewsky, N., 2011. miRDeep2 accurately identiﬁes known and hundreds of novel microRNA genes in seven animal clades. Nucleic Acids Res. (2011 Sep 12, Electronic publication ahead of print).
+Friedman, R.C., Farh, K.K., Burge, C.B., Bartel, D.P., 2009. Most mammalian mRNAs are conserved targets of microRNAs. Genome Res. 19, 92–105.
+Fukagawa, T., Nogami, M., Yoshikawa, M., Ikeno, M., Okazaki, T., Takami, Y., Nakayama, T., Oshimura, M., 2004. Dicer is essential for formation of the heterochromatin structure in vertebrate cells. Nat. Cell Biol. 6, 784–791.
+Ghildiyal, M., Zamore, P.D., 2009. Small silencing RNAs: an expanding universe. Nat. Rev. Genet. 10, 94–108.
+Giraldez, A.J., Cinalli, R.M., Glasner, M.E., Enright, A.J., Thomson, J.M., Baskerville, S., Hammond, S.M., Bartel, D.P., Schier, A.F., 2005. MicroRNAs regulate brain morphogenesis in zebraﬁsh. Science 308, 833–838.
+Girard, A., Sachidanandam, R., Hannon, G.J., Carmell, M.A., 2006. A germline-speciﬁc class of small RNAs binds mammalian Piwi proteins. Nature 442, 199–202.
+Grivna, S.T., Beyret, E., Wang, Z., Lin, H., 2006. A novel class of small RNAs in mouse spermatogenic cells. Genes Dev. 20, 1709–1714.
+Gunawardane, L.S., Saito, K., Nishida, K.M., Miyoshi, K., Kawamura, Y., Nagami, T., Siomi, H., Siomi, M.C., 2007. A slicer-mediated mechanism for repeat-associated siRNA 5′ end formation in Drosophila. Science 315, 1587–1590.
+Guo, H., Ingolia, N.T., Weissman, J.S., Bartel, D.P., 2010. Mammalian microRNAs predominantly act to decrease target mRNA levels. Nature 466, 835–840.
+Han, J., Lee, Y., Yeom, K.H., Nam, J.W., Heo, I., Rhee, J.K., Sohn, S.Y., Cho, Y., Zhang, B.T., Kim, V.N., 2006. Molecular basis for the recognition of primary microRNAs by the Drosha-DGCR8 complex. Cell 125, 887–901.
+Heimberg, A.M., Sempere, L.F., Moy, V.N., Donoghue, P.C., Peterson, K.J., 2008. MicroRNAs and the advent of vertebrate morphological complexity. Proc. Natl. Acad. Sci. U. S. A. 105, 2946–2950.
+Hendrickson, D.G., Hogan, D.J., McCullough, H.L., Myers, J.W., Herschlag, D., Ferrell, J.E., Brown, P.O., 2009. Concordant regulation of translation and mRNA abundance for hundreds of targets of a human microRNA. PLoS Biol. 7, e1000238.
+Houwing, S., Kamminga, L.M., Berezikov, E., Cronembold, D., Girard, A., van den Elst, H., Filippov, D.V., Blaser, H., Raz, E., Moens, C.B., Plasterk, R.H., Hannon, G.J., Draper, B.W., Ketting, R.F., 2007. A role for Piwi and piRNAs in germ cell maintenance and transposon silencing in Zebraﬁsh. Cell 129, 69–82.
+Juliano, C.E., Voronina, E., Stack, C., Aldrich, M., Cameron, A.R., Wessel, G.M., 2006. Germ line determinants are not localized early in sea urchin development, but do accumulate in the small micromere lineage. Dev. Biol. 300, 406–415.
+Juliano, C.E., Yajima, M., Wessel, G.M., 2010. Nanos functions to maintain the fate of the small micromere lineage in the sea urchin embryo. Dev. Biol. 337, 220–232.
+Kanellopoulou, C., Muljo, S.A., Kung, A.L., Ganesan, S., Drapkin, R., Jenuwein, T., Livingston, D.M., Rajewsky, K., 2005. Dicer-deﬁcient mouse embryonic stem cells are defective in differentiation and centromeric silencing. Genes Dev. 19, 489–501.
+Krek, A., Grun, D., Poy, M.N., Wolf, R., Rosenberg, L., Epstein, E.J., MacMenamin, P., da Piedade, I., Gunsalus, K.C., Stoffel, M., Rajewsky, N., 2005. Combinatorial microRNA target predictions. Nat. Genet. 37, 495–500.
+Lagos-Quintana, M., Rauhut, R., Lendeckel, W., Tuschl, T., 2001. Identiﬁcation of novel genes coding for small expressed RNAs. Science 294, 853–858.
+Langmead, B., Trapnell, C., Pop, M., Salzberg, S.L., 2009. Ultrafast and memory-efﬁcient alignment of short DNA sequences to the human genome. Genome Biol. 10, R25.
+Lee, C.T., Risom, T., Strauss, W.M., 2007. Evolutionary conservation of microRNA regulatory circuits: an examination of microRNA gene complexity and conserved microRNAtarget interactions through metazoan phylogeny. DNA Cell Biol. 26, 209–218.
+Lee, Y., Ahn, C., Han, J., Choi, H., Kim, J., Yim, J., Lee, J., Provost, P., Radmark, O., Kim, S., Kim, V.N., 2003. The nuclear RNase III Drosha initiates microRNA processing. Nature 425, 415–419.
+Leguia, M., Conner, S., Berg, L., Wessel, G.M., 2006. Synaptotagmin I is involved in the regulation of cortical granule exocytosis in the sea urchin. Mol. Reprod. Dev. 73, 895–905.
+Lewis, B.P., Burge, C.B., Bartel, D.P., 2005. Conserved seed pairing, often ﬂanked by adenosines, indicates that thousands of human genes are microRNA targets. Cell 120, 15–20.
+Logan, C.Y., Miller, J.R., Ferkowicz, M.J., McClay, D.R., 1999. Nuclear beta-catenin is required to specify vegetal cell fates in the sea urchin embryo. Development 126, 345–357.
+Lund, E., Liu, M., Hartley, R.S., Sheets, M.D., Dahlberg, J.E., 2009. Deadenylation of maternal mRNAs mediated by miR-427 in Xenopus laevis embryos. RNA 15, 2351–2363.
+Mayr, C., Bartel, D.P., 2009. Widespread shortening of 3′UTRs by alternative cleavage and polyadenylation activates oncogenes in cancer cells. Cell 138, 673–684.
+Nakagawa, A., Shi, Y., Kage-Nakadai, E., Mitani, S., Xue, D., 2010. Caspase-dependent conversion of Dicer ribonuclease into a death-promoting deoxyribonuclease. Science 328, 327–334.
+Niwa, R., Slack, F.J., 2007. The evolution of animal microRNA function. Curr. Opin. Genet. Dev. 17, 145–150.
+Okamitsu, Y., Yamamoto, T., Fujii, T., Ochiai, H., Sakamoto, N., 2010. Dicer is required for the normal development of sea urchin, Hemicentrotus pulcherrimus. Zoolog. Sci. 27, 477–486.
+Oliveri, P., Carrick, D.M., Davidson, E.H., 2002. A regulatory gene network that directs micromere speciﬁcation in the sea urchin embryo. Dev. Biol. 246, 209–228.
+
+Oliveri, P., Davidson, E.H., 2004. Gene regulatory network controlling embryonic speciﬁcation in the sea urchin. Curr. Opin. Genet. Dev. 14, 351–360.
+Oliveri, P., Davidson, E.H., McClay, D.R., 2003. Activation of pmar1 controls speciﬁcation of micromeres in the sea urchin embryo. Dev. Biol. 258, 32–43.
+Pauli, A., Rinn, J.L., Schier, A.F., 2011. Non-coding RNAs as regulators of embryogenesis. Nat. Rev. Genet. 12, 136–149.
+Persson, H., Kvist, A., Vallon-Christersson, J., Medstrand, P., Borg, A., Rovira, C., 2009. The non-coding RNA of the multidrug resistance-linked vault particle encodes multiple regulatory small RNAs. Nat. Cell Biol. 11, 1268–1271.
+Peter, I.S., Davidson, E.H., 2011. A gene regulatory network controlling the embryonic speciﬁcation of endoderm. Nature 474, 635–639.
+Peterson, K.J., Dietrich, M.R., McPeek, M.A., 2009. MicroRNAs and metazoan macroevolution: insights into canalization, complexity, and the Cambrian explosion. Bioessays 31, 736–747.
+Rajewsky, N., 2006. microRNA target predictions in animals. Nat. Genet. 38 (Suppl), S8–13.
+Rajewsky, N., 2011. MicroRNAs and the Operon paper. J. Mol. Biol. 409, 70–75. Ransick, A., Davidson, E.H., 2006. cis-regulatory processing of Notch signaling input to
+the sea urchin glial cells missing gene during mesoderm speciﬁcation. Dev. Biol. 297, 587–602. Revilla-i-Domingo, R., Oliveri, P., Davidson, E.H., 2007. A missing link in the sea urchin embryo gene regulatory network: hesC and the double-negative speciﬁcation of micromeres. Proc. Natl. Acad. Sci. U. S. A. 104, 12383–12388. Rodriguez, A.J., Seipel, S.A., Hamill, D.R., Romancino, D.P., M, D.I.C., Suprenant, K.A., Bonder, E.M., 2005. Seawi—a sea urchin piwi/argonaute family member is a component of MT-RNP complexes. RNA 11, 646–656. Rouget, C., Papin, C., Boureux, A., Meunier, A.C., Franco, B., Robine, N., Lai, E.C., Pelisson, A., Simonelig, M., 2010. Maternal mRNA deadenylation and decay by the piRNA pathway in the early Drosophila embryo. Nature 467, 1128–1132. Rozen, S., Skaletsky, H., 2000. Primer3 on the WWW for general users and for biologist programmers. Methods Mol. Biol. 132, 365–386. Saito, K., Nishida, K.M., Mori, T., Kawamura, Y., Miyoshi, K., Nagami, T., Siomi, H., Siomi, M.C., 2006. Speciﬁc association of Piwi with rasiRNAs derived from retrotransposon and heterochromatic regions in the Drosophila genome. Genes Dev. 20, 2214–2222. Samanta, M.P., Tongprasit, W., Istrail, S., Cameron, R.A., Tu, Q., Davidson, E.H., Stolc, V., 2006. The transcriptome of the sea urchin embryo. Science 314, 960–962. Selbach, M., Schwanhausser, B., Thierfelder, N., Fang, Z., Khanin, R., Rajewsky, N., 2008. Widespread changes in protein synthesis induced by microRNAs. Nature 455, 58–63. Sempere, L.F., Cole, C.N., McPeek, M.A., Peterson, K.J., 2006. The phylogenetic distribution of metazoan microRNAs: insights into evolutionary complexity and constraint. J. Exp. Zool. B Mol. Dev. Evol. 306, 575–588. Sherwood, D.R., McClay, D.R., 1999. LvNotch signaling mediates secondary mesenchyme speciﬁcation in the sea urchin embryo. Development 126, 1703–1713. Stark, A., Brennecke, J., Bushati, N., Russell, R.B., Cohen, S.M., 2005. Animal MicroRNAs confer robustness to gene expression and have a signiﬁcant impact on 3′UTR evolution. Cell 123, 1133–1146. Stark, A., Bushati, N., Jan, C.H., Kheradpour, P., Hodges, E., Brennecke, J., Bartel, D.P., Cohen, S.M., Kellis, M., 2008. A single Hox locus in Drosophila produces functional microRNAs from opposite DNA strands. Genes Dev. 22, 8–13. Stoeckius, M., Maaskola, J., Colombo, T., Rahn, H.P., Friedlander, M.R., Li, N., Chen, W., Piano, F., Rajewsky, N., 2009. Large-scale sorting of C. elegans embryos reveals the dynamics of small RNA expression. Nat. Methods 6, 745–751. Sweet, H.C., Gehring, M., Ettensohn, C.A., 2002. LvDelta is a mesoderm-inducing signal in the sea urchin embryo and can endow blastomeres with organizer-like properties. Development 129, 1945–1955. Sweet, H.C., Hodor, P.G., Ettensohn, C.A., 1999. The role of micromere signaling in Notch activation and mesoderm speciﬁcation during sea urchin embryogenesis. Development 126, 5255–5265. Tyler, D.M., Okamura, K., Chung, W.J., Hagen, J.W., Berezikov, E., Hannon, G.J., Lai, E.C., 2008. Functionally distinct regulatory RNAs generated by bidirectional transcription and processing of microRNA loci. Genes Dev. 22, 26–36. Vagin, V.V., Sigova, A., Li, C., Seitz, H., Gvozdev, V., Zamore, P.D., 2006. A distinct small RNA pathway silences selﬁsh genetic elements in the germline. Science 313, 320–324. Watanabe, T., Takeda, A., Tsukiyama, T., Mise, K., Okuno, T., Sasaki, H., Minami, N., Imai, H., 2006. Identiﬁcation and characterization of two novel classes of small RNAs in the mouse germline: retrotransposon-derived siRNAs in oocytes and germline small RNAs in testes. Genes Dev. 20, 1732–1743. Wessel, G.M., McClay, D.R., 1985. Sequential expression of germ-layer speciﬁc molecules in the sea urchin embryo. Dev. Biol. 111, 451–463. Wheeler, B.M., Heimberg, A.M., Moy, V.N., Sperling, E.A., Holstein, T.W., Heber, S., Peterson, K.J., 2009. The deep evolution of metazoan microRNAs. Evol. Dev. 11, 50–68. Wienholds, E., Kloosterman, W.P., Miska, E., Alvarez-Saavedra, E., Berezikov, E., de Bruijn, E., Horvitz, H.R., Kauppinen, S., Plasterk, R.H., 2005. MicroRNA expression in zebraﬁsh embryonic development. Science 309, 310–311. Wienholds, E., Plasterk, R.H., 2005. MicroRNA function in animal development. FEBS Lett. 579, 5911–5922. Wikramanayake, A.H., Peterson, R., Chen, J., Huang, L., Bince, J.M., McClay, D.R., Klein, W.H., 2004. Nuclear beta-catenin-dependent Wnt8 signaling in vegetal cells of the early sea urchin embryo regulates gastrulation and differentiation of endoderm and mesodermal cell lineages. Genesis 39, 194–205. Xie, X., Lu, J., Kulbokas, E.J., Golub, T.R., Mootha, V., Lindblad-Toh, K., Lander, E.S., Kellis, M., 2005. Systematic discovery of regulatory motifs in human promoters and 3′ UTRs by comparison of several mammals. Nature 434, 338–345. Zhang, H., Kolb, F.A., Brondani, V., Billy, E., Filipowicz, W., 2002. Human Dicer preferentially cleaves dsRNAs at their termini without a requirement for ATP. EMBO J. 21, 5875–5885.
+
+

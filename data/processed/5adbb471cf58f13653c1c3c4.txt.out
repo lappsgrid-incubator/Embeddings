@@ -1,0 +1,441 @@
+journal computational apply mathematics www elsevier com locate cam survey orthogonal matrix polynomial satisfy second order differential equation antonio durána ,∗, alberto grünbaumb adepartamento análisis matemático universidad sevilla 
+box sevilla spain bdepartment mathematics university california berkeley usa receive october receive revised form may abstract the subject orthogonal polynomial cut across large piece mathematics application 
+two notable example mathematical physic 19th 20th century well theory spherical function symmetric space 
+also clear many area mathematics grow consideration problem like moment problem intimately associate study scalar value orthogonal polynomial 
+matrix orthogonality real line sporadically study last half century since krein devote paper subject see ams translation series vol 
+providence rhode island 
+nauk sssr 
+last decade study make systematic consequence many basic result scalar orthogonality extend matrix case 
+the recent result discovery important example orthogonal matrix polynomial many family orthogonal matrix polynomial find classical family hermit laguerre jacobi scalar case satisfy second order differential equation coefﬁcients independent the aim paper give overview technique lead example small sample example small step challenge direction ﬁnding application new example 
+elsevier all right reserve 
+msc 42c05 keywords orthogonal polynomial index determinacy orthogonal matrix polynomial the work ﬁrst author partially support ref 
+bfm2000 c04 fqm junta andalucía second author partially support nsf grant fd9971151 
+correspond author 
+mail address duran 
+durán grunbaum math berkeley edu 
+see front matter elsevier all right reserve 
+doi cam 
+grünbaum journal computational apply mathematics 
+start recall basic deﬁnitions pertain matrix orthogonality real line 
+matrix orthogonality deﬁned respect weight matrix deﬁnition 
+say matrix measure support real line positive deﬁnite weight matrix positive semideﬁnite borel set ﬁnite moment every order nonsingular lead coefﬁcient matrix polynomial nonsingular 
+assume simplicity entry matrix smooth density respect lebesgue measure write matrix whose entry density 
+this assumption much strong need sufﬁce purpose 
+condition previous deﬁnition necessary sufﬁcient guarantee existence sequence matrix polynomial orthogonal respect degree nonsingular lead coefﬁcient 
+this condition fulﬁlled particular positive deﬁnite inﬁnitely many point support just scalar case sequence orthonormal matrix polynomial satisﬁes three term recurrence relation 
+1pn bnpn npn 
+nonsingular matrix hermitian rest paper write null matrix dimension determine context 
+this three term recurrence relation characterize orthonormality sequence matrix polynomial respect positive deﬁnite matrix measure 
+tuonwwb enaurnen dmisanarstktiestafhydaatotfthhberenpe htleyernrmeomarenicadulsirnrretnnhc ete rre esltauotifnotpnhnea stp 1pw e1ri tihwdiuethnnuoctone fﬁthcieieaindrteesnautlistnoy 1omarathntruoinxn irwnmhsatoelsaweddiotihfmareennsspaienocdnt determine context 
+when deal weight matrix convenient consider follow equivalence relation say two weight matrix similar exists nonsingular matrix independent 
+give notion similarity important single two special case 
+say weight matrix reduces low size exists nonsingular matrix 
+weight matrix low size 
+notice orthonormal matrix polynomial respect 
+grünbaum journal computational apply mathematics 
+orthonormal matrix polynomial respect 
+analogously say reduces scalar weight exist nonsingular matrix 
+this clearly extreme case situation consider earlier 
+accord equivalence relation say reduce low size say block diagonal weight matrix equivalence class weight matrix reducible scalar weight precisely correspond class diagonal weight 
+diagonal weight collection scalar weight belong study scalar orthogonality matrix one 
+unfortunately case many example orthogonal matrix polynomial find literature 
+observe however one ﬁnds notion similarity pair consist weight differential operator 
+this notion allow one distinguish among certain situation consider equivalent present deﬁnition 
+see example 
+assume real number reduces scalar weight this commutativity condition weight matrix give convenient way check one deal case reduces scalar weight 
+during last decade many basic result theory scalar orthogonal polynomial favard theorem quadrature formulae asymptotic property markov theorem ratio weak zero asymptotics extend orthogonal matrix polynomial one 
+many author contribute theory matrix value orthogonal polynomial real line start krein see instance reference list exhaustive 
+the recent result consist discovery important example orthogonal matrix polynomial 
+during year many family orthogonal matrix polynomial appear satisfy right hand side second order differential equation form 
+differential coefﬁcients matrix polynomial depend degree big respectively hermitian matrix 
+these family likely go play matrix orthogonality role classical family hermit laguerre jacobi scalar case 
+polynomial equivalent say eigenvector right hand side second order differential operator 
+d2a2 d1a1 d0a0 
+different source problem ﬁnding example orthogonal matrix polynomial satisfy second order differential equation study bispectral problem pursue one series paper start continued context orthogonal polynomial 
+see reference 
+the result grow study matrix value spherical function initiate 
+this development extension matrix case fundamental work cartan weyl allow put one roof number isolate result several family special function include ultraspherical polynomial 
+the product formula satisﬁed ultraspherical polynomial take cartan inspiration deﬁnition spherical function relate symmetric space lie group compact subgroup 
+grünbaum journal computational apply mathematics the aim paper survey recent result concern important example orthogonal matrix polynomial 
+notice weight matrix correspond symmetric second order differential operator hold weight matrix similar indeed certain nonsingular matrix take new differential coefﬁcients equal 
+the practical consequence equivalence relation weight matrix deﬁned look example orthogonal matrix polynomial size satisfy assume weight matrix reduce low size scalar weight either certain real 
+this survey organize follow section discuss differential operator act matrix value function recall relation symmetric operator 
+section show reduce symmetry set differential equation involve weight matrix coefﬁcients solve equation 
+section show examples important family matrix value orthogonal polynomial satisfy 
+most come solve explicitly special instance equation section case examples enjoy maxim property 
+section show classical family hermit laguerre jacobi matrix family also enjoy many structural property 
+section devote discussion time band limit problem signal processing context matrix value analog legendre polynomial give general 
+ﬁnish introduction remark scalar case possible example orthogonal polynomial satisfy second order differential equation coefﬁcients independent familiar hermit laguerre jacobi polynomial see complexity matrix value situation open door embarrassment rich almost dwarﬁng scalar situation comparison 
+right hand side second order differential operator some reader amuse annoyed fact coefﬁcients appear right side argument 
+this section deal issue 
+consider differential operator customary write linear combination product function multiply right power differentiation operator 
+this apply well scalar matrix value case 
+already scalar case one deal formal adjoint differential operator deal product write reversed order 
+when deal matrix value case nothing assume commute clear use notation adjoint term like d2p give d2a 
+left hand differential operator act right hand operator act )∗. 
+could therefore consider right hand side operator d2a2 d1a1 d0a0 
+grünbaum journal computational apply mathematics 
+well left hand side operator a2d2 a1d1 a0d0 
+discus brieﬂy reason make right hand side operator natural interesting relation matrix inner product deﬁned weight matrix usual form 
+left hand side differential operator convenient inner product deﬁned less natural way 
+the reason follow inner product form consider natural way expand matrix polynomial term sequence orthonormal polynomial put npn place matrix coefﬁcients leave otherwise coefﬁcients interfere orthogonality since polynomial multiplies weight left 
+analogously natural expansion take form npn turn righthand side operator leave linear right linear matrix function constant matrix general analogously left hand side operator right linear leave linear general 
+the lack leave linearity leave hand side operator certain undesirable consequence lemma duran lemma 
+let positive deﬁnite matrix measure sequence orthonormal polynomial respect 
+then right hand side second order differential operator follow condition equivalent the operator symmetric respect inner product form 
+matrix polynomial 
+the orthonormal polynomial eigenvector hermitian leave eigenvalue npn 
+for left hand side operator also imply general imply 
+observe begin assume coefﬁcients second order differential operator matrix polynomial satisfy degree condition insures space matrix polynomial give degree invariant action differential operator 
+lemma analogous one give leave hand side operator inner product form 
+such approach use paper grow progression start 
+search matrix value spherical function speciﬁc symmetric space yield family matrix value function satisfy three term recursion relation differential equation form 
+grünbaum journal computational apply mathematics 
+operator give 
+also clear equation like equivalent one involve operator one exchange every coefﬁcient adjoint make replacement 
+correspond change make right hand side 
+use time expression 
+but one recall formulation entirely equivalent 
+for fuller account route large family matrix value orthogonal polynomial satisfy differential equation one consult 
+there another reason consider leave hand side operator less interesting right hand one inner product use prove one see theorem matrix case examples weight matrix symmetric leave hand side second order operator reduce scalar classical example 
+for reason give rest paper always consider right hand side operator 
+stress make commutativity assumption coefﬁcients differential operator 
+this bring certain difﬁculties open ﬁeld interesting example 
+the undesirable effect make simplify assumption recall 
+the study weight matrix symmetric second order differential operator smmimaattprriilxxiﬁ wethdaalbtwyaaa1yswsssua mtiiswnﬁgeasth att2wahe0 swewth arew haane 0drm baoisttihainnco c1no0dn tiiatoinsosnestsatfakoberlniastho2egwdet ihnaer1twihmepoalrnyedm am30a wy1 bbaeerlueop wht ootwaheecvowenres ittgaonhott restrictive instance example go study paper fail fulﬁll hermitian condition 
+moreover likely example satisfy condition could reduce classic scalar weight jacobi laguerre hermit bessel 
+this indeed case nonsingular matrix weight matrix symmetric second order differential operator nonsingular matrix identity matrix multiplicative constant necessarily form sd nonsingular matrix diagonal matrix whose entry classical hermit weight linear change variable possibly different change every entry proposition 
+the differential equation weight matrix section show convert condition symmetry pair make weight matrix right hand side second order differential operator namely matrix polynomial set differential equation relate coefﬁcients 
+theorem duran grünbaum theorem grünbaum 
+assume smooth follow condition equivalent the operator symmetric respect 
+grünbaum journal computational apply mathematics 
+the boundary condition 
+vanish limit endpoint support weight matrix satisfy 
+a2w a1w 
+a2w a1w a0w 
+not condition give equal importance 
+for instance condition boundary condition consequence 
+spite redundant character condition play important role ﬁnding general solution set three 
+fact condition kind noncommuting pearson equation 
+when a1w reduce scalar type pearson equation 
+a2w a1w 
+worth spending couple paragraph scalar type pearson equation 
+under assumption scalar polynomial pearson equation weight matrix implies scalar type rodrigues formula orthogonal matrix polynomial respect weight matrix 
+theorem duran grünbaum theorem 
+let weight matrix satisfy pearson equation 
+scalar polynomial degree big matrix polynomial degree nonsingular lead coefﬁcient 
+assume weight matrix also satisﬁes boundary condition vanish limit endpoint support 
+degree assume addition root different avoid analog bessel polynomial spectrum lead coefﬁcient disjoint set natural number then 
+sequence matrix polynomial degree nonsingular leading coefﬁcients 
+moreover orthogonal respect 
+for canonical choice pearson equation easily integrate soon assume coefﬁcients polynomial commute 
+otherwise integration ﬁrst order matrix equation straightforward 
+grünbaum journal computational apply mathematics for instance rest case manage analogously write pearson equation solve explicitly commute get ebt2 avoid integrability problem real part eigenvalues less 
+since weight matrix hermitian impose addition condition 
+unfortunately positive deﬁnite positive deﬁnite weight matrix reduces scalar weight 
+indeed take account condition matrix write ebt2 2ec bt2 2bc1 2ac1 hermitian commuting matrix take unitary matrix simultaneous diagonalizes matrix 
+then weight write ed1t2 d2t diagonal matrix reduce scalar weight 
+this case many example orthogonal matrix polynomial find literature see instance 
+nevertheless even case coefﬁcients commute conjecture weight matrix satisfy reduce scalar weight 
+section integrate case pearson equation coefﬁcients polynomial commute case weight matrix reduce scalar weight 
+point however something interest do consider weak condition positive deﬁniteness weight matrix deﬁnition get examples orthogonal matrix polynomial relatives classical bessel scalar polynomial see section 
+worth note example orthogonal matrix polynomial satisfy second order differential equation like go display next section deﬁned mean matrix rodrigues formula see section matrix rodrigues formulas differ correspond scalar type one 
+what explain comment theorem seem good indicator suspect scalar type rodrigues formula like go play matrix orthogonality case important role play scalar orthogonality case instead rodrigues formula like likely go useful 
+return task solve three equation 
+interested case real value scalar matrix 
+assume vanish inside support 
+the ﬁrst equation trivially satisﬁed 
+already mention scalar case since a1w second equation reduces pearson equation 
+the pearson equation equivalent suitable boundary condition 
+grünbaum journal computational apply mathematics 
+second order differential equation orthogonal polynomial correspond rodrigues formula 
+but situation matrix case completely different rather involved ﬁrst noncommuting pearson equation imply second order differential equation way important one orthogonal matrix polynomial respect weight matrix satisfy noncommuting pearson equation like need satisfy second order differential equation like 
+nonetheless noncommuting pearson equation rather useful implies certain factorization weight matrix 
+indeed satisﬁes 
+factorize form 
+matrix value function satisﬁes ﬁrst order differential equation 
+matrix value function deﬁned relation 
+ﬁnally scalar function deﬁned 
+far unspeciﬁed scalar function 
+note scalar case function identically zero allows identify 
+the choice value matter convenience 
+factorization one play important role many area mathematics 
+famous instance connect name riemann hilbert birkhoff wiener hopf gohberg krein 
+get second order differential equation noncommuting pearson equation need additional condition 
+this condition seem rather technical easy manage fact difﬁcult part solve second order differential equation 
+write matrix function mean derivative mean square technical condition say hermitian summarize result 
+theorem duran grünbaum theorem 
+let real scalar function real scalar polynomial degree matrix polynomial degrees less equal respectively 
+deﬁne scalar function 
+grünbaum journal computational apply mathematics 
+matrix function 2a2 
+write solution differential equation deﬁne matrix function 
+matrix function hermitian matrix weight satisﬁes differential equation 
+the converse also true 
+this theorem allow understand matrix value case satisfy scalar type rodrigues formula longer equivalent satisfy second order differential equation like 
+indeed theorem say orthonormal matrix polynomial respect satisfy second order differential equation weight satisﬁes eq 
+)–( well extra condition 
+particular satisﬁes noncommuting pearson equation already mention 
+imply strong one 
+scalar case eq 
+equivalent ﬁrst one pearson equation equivalent rodrigues formula orthogonal polynomial 
+the noncommutativity matrix product imply general 
+also differs scalar type pearson equation 
+take account rather understandable orthogonal matrix polynomial second order differential equation like imply scalar type rodrigues formula 
+when scalar see determinant among classical scalar weight 
+weight matrix correspond symmetric second order differential operator like det classical scalar weight scalar change variable 
+the main tool slight strengthen classical abel result give relation det det 
+this prove way standard case use multilinearity det respect row columns matrix use a1w 
+grünbaum journal computational apply mathematics 
+det det 
+this rewrite log det since polynomial degree one one degree two unequal root conclude right hand side expression linear change variables one form 
+from one conclude det either gaussian generalized laguerre weight jacobi weight respectively 
+the presence factor pose problem 
+section display variety interesting example 
+when theorem take one classical scalar weight function one follow form 
+completely solve case either vanish 
+associate classical weight hermit laguerre jacobi two family weight 
+matrix symmetric second order differential operator namely weight matrix 
+one follow form 
+hermit weight 
+eat eat2 
+laguerre weight 
+grünbaum journal computational apply mathematics 
+jacobi weight 
+case matrix certain speciﬁc form depend number parameter 
+hence examples one thing common matrix make matrix value function introduce one allow nonzero 
+turn example introduce maximal weight matrix one form give )–( 
+display end section example correspond matrix commute 
+but let example 
+ﬁrst show example weight matrix form t2eat worth include also part proof see manage hermitian condition matrix function satisfy 
+theorem duran grünbaum theorem implication duran grünbaum theorem 
+let singular matrix unitarily equivalent block diagonal consider weight matrix t2eat 
+the following condition equivalent 
+the second order differential operator symmetric inner product deﬁned there exist hermitian matrix 
+there partition 
+nonnull matrix 
+respective size unitarily equivalent matrix 
+··· ··· ··· 
+the unitary matrix give form diagonalizes hermitian matrix form 
+diag in1 in2 
+2ink 0ink 
+the coefﬁcients second order differential operator give 2ti 
+before go proof let point condition impose matrix theorem actually normalization restriction 
+aim obtain example reduce low size 
+the low size reducibility weight matrix one form depend structure matrix 
+all weight matrix reduce low size 
+grünbaum journal computational apply mathematics 
+unitarily equivalent block diagonal 
+indeed take weight matrix t2eat assume unitarily equivalent block diagonal exists unitary matrix 
+reduces two weight matrix low size form 
+similar computation show also form deﬁned reduce low size unitarily equivalent block diagonal 
+use linear change variable also assume extra normalization matrix 
+for instance could assume singular 
+indeed consider weight matrix t2eat complex number write 
+put get new weight matrix 
+take equal eigenvalue similar weight matrix form x2ebxeb singular 
+include proof see implication 
+weight function form t2eat obtain take theorem eat 2ti 
+accord theorem symmetry second order differential operator equivalent follow matrix function hermitian 
+2at tada 
+this equivalent follow matrix hermitian adnaa0 
+simple computation give form give 
+diag in1 in2 
+2ink 0ink equation hold hence also adnaa0 
+accord equivalent matrix function hermitian 
+enough apply theorem 
+grünbaum journal computational apply mathematics 
+include two example illustrate different structure matrix depend form matrix give 
+explicitly give family associate hermit weight one associate laguerre weight 
+theorem duran grünbaum theorem implication duran grünbaum theorem 
+let singular matrix unitarily equivalent block diagonal consider weight matrix t2eat2ea 
+avoid integrability problem assume eigenvalue satisfy 
+the following condition equivalent 
+the second order differential operator symmetric inner product deﬁned there exist hermitian matrix 
+4a2 h0a 
+there partition 
+nonnull matrix 
+respective size unitarily equivalent matrix 
+v1v2 v1v2v3 kv1v2 
+··· ··· ··· 
+1v2 2vk 
+the unitary matrix give form diagonalizes hermitian matrix form 
+diag in1 in2 
+4ink 0ink 
+the coefﬁcients second order differential operator 4at 
+theorem duran grünbaum theorem implication duran grünbaum section 
+let singular matrix unitarily equivalent block diagonal consider weight matrix tata 
+assume speca avoid integration problem 
+satisﬁes boundary condition 
+then follow condition equivalent 
+the second order differential operator symmetric inner product deﬁned there exist matrix hermitian 
+ab0 b0a 
+grünbaum journal computational apply mathematics 
+there partition 
+nonnull matrix 
+respective size unitarily equivalent matrix diag in1 in2 
+ink 0ink arbitrary block diagonal matrix block size deﬁned block follow 
+diagonal entry 
+the matrix 
+the coefﬁcients second order differential operator )=− 
+ﬁnish section make comment display example correspond case matrix allude commute 
+notice example produce manner require introduction matrix 
+one examine example light method one run noncommuting matrix 
+start observation result yield apparently ﬁrst time example matrix value jacobi polynomial parameter take value size matrix arbitrary 
+this come state study matrix value spherical function speciﬁc symmetric space namely complex project space 
+the choice example allow fairly explicit computation carry 
+while one could principle attempt computation higher dimensional project space high integer value play role do yet 
+the result give completely explicit description extension theory paper mention arbitrary value parameter symmetric space around result give quite explicitly case two two matrix 
+reproduce result discuss brieﬂy two two example take example extend situation discuss 
+deﬁne matrix 
+now sequence matrix value orthogonal polynomial obtain solve follow differential equation 
+grünbaum journal computational apply mathematics 
+these polynomial orthogonal respect weight matrix give 
+solves equation 
+noncommuting matrix give 
+notice adopt notation differential operator act leave matrix value orthogonal polynomial suppose transposed 
+for detail include expression polynomial term matrix value version gauss hypergeometric function discover see 
+some example structural formula 
+the family orthogonal matrix polynomial satisfy second order differential equation display 
+satisfy rich variety structural formula 
+this also happen case classical 
+orthogonal family jacobi laguerre hermit 
+include several relation two 
+simple example 
+theorem take 
+give weight matrix 
+the corresponding sequence monic orthogonal polynomial denote pˆn 
+grünbaum journal computational apply mathematics 
+the second order differential equation satisﬁed pˆn 
+pˆn pˆn 
+pˆn pˆn 
+the orthogonal polynomial respect weight matrix deﬁned mean rodrigues type formula write 
+theorem duran grünbaum theorem 
+the matrix polynomial deﬁned 
+orthogonal respect weight matrix deﬁned respectively 
+the lead coefﬁcient nonsingular matrix give 
+  
+proof theorem see section show exist one sequence matrices one independent 
+grünbaum journal computational apply mathematics 
+polynomial degree nonsingular lead coefﬁcient actually nth orthogonal polynomial 
+these sequence precisely 
+any sequence polynomial form et2 det orthogonal respect 
+the choice sequence nonsingular matrix matter normalization 
+turn normalization seem optimal get simple expression structural formula correspond 
+seem optimal polynomial 
+simple calculation show 
+actually formula use introduce sequence polynomial 
+the three term recurrence relation give follow theorem 
+theorem duran grünbaum theorem 
+the sequence matrix polynomial deﬁned 
+give orthonormal respect weight matrix respectively 
+grünbaum journal computational apply mathematics 
+other formula property like expression term scalar hermit polynomial explicit power expansion generate function etc 
+time band limit matrix value orthogonal polynomial 
+the numerical computation eigenvectors full matrix integral operator serious problem 
+the corresponding problem tridiagonal matrix differential operator much simpler matter specially spectrum well separate 
+give appear nature one try ﬁnd 
+this relation useful spectrum simple 
+case eigenvectors automatically eigenvectors this situation require algebraic miracle numerical stability condition arise exceptional case 
+such exceptional situation appear certain signal processing problem ﬁrst consider shannon make solid mathematics landau pollak slepian remarkable series paper bell labs early 1960s 
+for survey work see paper slepian occasion von neumann prize 
+these development tie call prolate spheroidal wave function appear eigenfunctions integral operator time band limit well differential operator one get separation variable laplacian 
+the situation arise random matrix theory ﬁrst work mehta recently work tracy widom deift other 
+the work group bell lab examine context classical scalar value orthogonal polynomial one see 
+the result case one produce naturally appear global operator happen commute properly choose local operator 
+the situation find hold situation physical space surface sphere correspond expansion term spherical harmonic 
+for work see well recent note 
+for large picture behind problem reader may want consult 
+come back subject paper find exceptional situation develop matrix value case explain 
+take two two version legendre polynomial obtain set equal construction describe 
+these matrix value polynomial orthogonal respect measure whose density product matrix 
+grünbaum journal computational apply mathematics 
+for concreteness give ﬁrst four unnormalized polynomial 
+165t 365t2 245t3 
+14t2 14t 
+15t 49t2 42t3 
+the normalization matrices go four polynomial give square root 
+consider block matrix whose block obtain take inner product ith jth normalize matrix value legendre type polynomial interval less 
+here take value 
+the restriction interval implement band limit restriction range 
+deal time limit 
+for matrix block full matrix make two two block total size 
+sample display block matrix namely 
+6w2 11w 
+this analog celebrate sinc kernel arises work survey give rise 
+prolate spheroidal wave function use signal processing 
+the remarkable fact discover 
+bell lab group early 1960s integral operator kernel commute 
+certain speciﬁc second order differential operator 
+the main result section one explicitly construct block tridiagonal matrix commute the matrix actually pentadiagonal matrix 
+diagonal two two 
+block triangular 
+important difference scalar case matrix unique shift scale case hand longer true 
+scalar case vector space possible two dimensional space matrix value case hand vector space block tridiagonal matrix commute three 
+dimensional shift scale 
+this extra freedom trace back phenomenon ﬁrst 
+grünbaum journal computational apply mathematics 
+this phenomenon manifestation fact scalar value case poor guide happen matrix value case 
+more precisely computation become much hard due presence noncommuting object 
+however variety interesting example diversity new phenomenon dwarf scalar case comparison 
+reference basu 
+bose matrix stieltjes series network model siam 
+berezanskii expansion eigenfunctions selfadjoint operator transl 
+monograph am 
+bochner über sturm liouvillesche polynomsysteme math 
+cantero moral velazquez differential property matrix orthogonal polynomial comput 
+math appear 
+dette studden matrix measure moment space favard theorem interval ∞), linear algebra appl 
+grünbaum differential equation spectral parameter comm 
+duran generalization favard theorem polynomial satisfy recurrence relation approx 
+duran orthogonal polynomial respect positive deﬁnite matrix measure can 
+duran markov theorem orthogonal matrix polynomial can 
+duran matrix inner product matrix symmetric second order differential operator rocky mount 
+duran ratio asymptotics orthogonal matrix polynomial approx 
+duran daneri vias ratio asymptotics orthogonal matrix polynomial unbounded recurrence coefﬁcients approx 
+duran daneri vias weak convergence orthogonal matrix polynomial indag 
+duran defez orthogonal matrix polynomial quadrature formulas linear algebra appl 
+grünbaum orthogonal matrix polynomial satisfy second order differential equation int 
+grünbaum orthogonal matrix polynomial scalar type rodrigues formulas pearson equation submit publication 
+grünbaum structural formula orthgonal matrix polynomial satisfy second order differential equation constr 
+approx appear 
+grünbaum characterization class weight matrix orthogonal matrix polynomial satisfy second order differential equation submit publication 
+duran lopez rodriguez orthogonal matrix polynomial zero blumenthal theorem approx 
+duran lopez rodriguez 
+saff zero asymptotic behaviour orthogonal matrix polynomial analyse math 
+polo gauss quadrature formulae orthogonal matrix polynomial linear algebra appl 
+duran van assche orthogonal matrix polynomial high order recurrence relation linear algebra appl 
+geronimo scatter theory matrix orthogonal polynomial real line circuit system signal process 
+grünbaum new property reproducing kernel classical orthogonal polynomial 
+grünbaum time band limit bispectral problem comm 
+pure appl 
+grünbaum matrix value jacobi polynomial bull 
+grünbaum journal computational apply mathematics 
+grünbaum haine theorem bochner revisit fokas 
+gelfand ed 
+algebraic aspect integrable system program nonlinear differential equation vol 
+birkhäuser boston 
+grünbaum iliev noncommutative version bispectral problem comput 
+grünbaum longhi perlstadt differential operator commute ﬁnite convolution integral operator non abelian example siam appl 
+grünbaum miranian the magic prolate spheroidal wave function various setup spie proceeding san diego meeting july 
+grünbaum pacharoni 
+tirao matrix value solution bochner problem phi 
+grünbaum pacharoni 
+tirao matrix value spherical function associate complex project plane funct 
+grünbaum pacharoni tirao invitation matrix value spherical function linear product case complex project space healy rockmore ed 
+modern signal processing vol 
+msri publication 
+see arxiv math 
+grünbaum pacharoni 
+tirao matrix value orthogonal polynomial jacobi type indag 
+jodar company navarro laguerre matrix polynomial system second order differential equation appl 
+krein inﬁnite matrix matrix moment problem dokl 
+nauk sssr 
+krein fundamental aspect representation theory hermitian operator deﬁciency index am translation series vol 
+providence rhode island 
+piñar yakhlef relative asymptotics orthogonal matrix polynomial convergent recurrence coefﬁcients approx 
+sinap van assche orthogonal matrix polynomial application comput 
+slepian some comment fourier analysis uncertainty model siam rev 
+tirao spherical function rev 
+unión matem 
+tirao the matrix value hypergeometric equation pnas 

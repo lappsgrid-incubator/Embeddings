@@ -1,0 +1,737 @@
+U.S. Department of the Interior U.S. Geological Survey
+HYDROGEOLOGIC AND WATER-QUALITY DATA, LOWER SIOUX INDIAN COMMUNITY, SOUTHWESTERN MINNESOTA, 1995-97
+By Michael L. Strobel and Lisa M. Pottenger
+Open File Report 97-826
+In cooperation with the Lower Sioux Indian Community
+Mounds View, Minnesota 1998
+
+U.S. DEPARTMENT OF THE INTERIOR BRUCE BABBITT, Secretary
+U.S. GEOLOGICAL SURVEY THOMAS J. CASADEVALL, Acting Director
+Any use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government.
+For additional information write to: District Chief U.S. Geological Survey, WRD 2280 Woodale Ave. Mounds View, MN 55112 Copies of this report can be purchased from: U.S. Geological Survey Branch of Information Services Denver Federal Center Box 25286 Denver, CO 80225-0286
+
+CONTENTS
+
+Abstract ........................................................................................................................................................
+
+1
+
+Introduction.....................................................................................................................................^
+
+1
+
+Purpose and scope................................................................................^
+
+1
+
+Location and description of study area........................................................................................................................................... 2
+
+Methods of investigation..............................................................^
+
+References cited ......................................................................................................................................................................^
+
+FIGURES
+1. Location of Lower Sioux Indian Community, southwestern Minnesota........................................................................................ 2 2. Location of study area and sampling sites at the Lower Sioux Indian Community,
+southwestern Minnesota, 1995-97 .................................................................................................................................................. 3
+
+TABLES
+1. Lake elevations, temperature, and dissolved oxygen measurements at Larson Lake, Lower Sioux Indian Community, southwestern Minnesota, 1994-95............................................................................................. 4
+2. Depths of water in Larson Lake, Lower Sioux Indian Community, southwestern Minnesota, Septembers, 1995........................................................................................................................................................5
+3. Water-level data for the Columbus wetland, Lower Sioux Indian Community, southwestern Minnesota, 1995-96 ..................................................................................................................................................5
+4. Geologic logs, Lower Sioux Indian Community, southwestern Minnesota, 1995-96 .................................................................... 6 5. Texture analysis from auger cuttings during well installation, Lower Sioux Indian
+Community, southwestern Minnesota, 1995................................................................................................................................... 8 6. Water levels in observation wells, Lower Sioux Indian Community, southwestern
+Minnesota, 1995-97................................................................. 7. Results of water-quality sampling, Lower Sioux Indian Community, southwestern
+Minnesota, 1995-96............................................................................................................................... (floppy disk on back cover)
+
+iii
+
+CONVERSION FACTORS AND UNITS OF CONCENTRATION
+
+Multiply foot (ft) square foot (ft2)
+acre mile (mi2) degree Fahrenheit (°F)
+
+By 0.3048 0.09290 4.047 x 10"3 1.609 (°F-32)/l .8
+
+To obtain meter square meter square kilometer kilometer degree Celsius (°C)
+
+Concentrations of chemical constituents in water samples are given in milligrams per liter (mg/L), micrograms per liter (|ig/L), and milliequivalents per liter (meq/L). Milligrams per liter is a unit that expresses the concentration of a chemical constituent in solution as the mass (milligrams) of the constituent per unit volume (liter) of water. One milligram per liter is equivalent to one thousand micrograms per liter. Concentrations of chemical constituents in mg/L and (ig/L are reported as: (1) dissolved; (2) total recoverable; and (3) total.
+Milliequivalents per liter is a unit that expresses the concentration of chemical constituents in solution as the mass (milligrams) of the constituents per unit volume (liter) of water that combine with each other. One milliequivalent of a chemical constituent has a mass in milligrams that is equal to the sum of the atomic weights of the atoms that comprise the constituent divided by the number of charges normally associated with the constituent. For example, one milliequivalent of Ca++ (calcium ion), which has an atomic weight of 40 and a charge of plus two, has a mass of 20 milligrams. In a water sample that has the meq/L of each of the chemical constituents accurately determined, the total meq/L of cations (positive ions) is equal to the total meq/L of anions (negative ions).
+
+IV
+
+DEFINITION OF TERMS
+
+Alkalinity. Capacity for neutralizing acid and commonly reported as an equivalent amount of calcium carbonate. This property is attributed to dissolved species of carbon dioxide if the pH of the water is less than 9.5.
+
+Aquifer. A geological formation, group of formations, or part of a formation that contains sufficient saturated permeable material to yield significant quantities of water to wells and springs.
+
+Bacteria. Microscopic unicellular organisms, typically spherical, rodlike, or spiral and threadlike in shape, often clumped into colonies. Some bacteria cause disease, while others perform an essential role in nature in the recycling of materials; for example, by decomposing organic matter into a form available for reuse by plants.
+
+Dissolved. The material in a representative water sample which passes through a 0.45-|J,m membrane filter. This is a convenient operational definition used by Federal agencies that collect water data. Determinations of "dissolved" constituents are made on subsamples of the filtrate.
+
+Dissolved-solids concentration. Determined either analytically by the "residue-on-evaporation" method, or mathematically by totaling the concentrations of individual constituents reported in a comprehensive chemical analysis. During the analytical determination of dissolved solids, the bicarbonate (generally a major dissolved component of water) is converted to carbonate. Therefore, in the mathematical calculation of dissolved-solids concentration, the bicarbonate value, in milligrams per liter, is multiplied by 0.493 to reflect the change.
+
+Fecal coliform bacteria. Bacteria present in the intestines or feces of warm-blooded animals. They are often used as indicators of the sanitary quality of water. In the laboratory they are defined as all organisms that produce blue colonies within 24 hours when incubated at 44.5°C ± 0.2°C on M-FC medium (nutrient medium for bacterial growth). Concentrations are expressed in number of colonies per 100 mL of sample.
+
+Fecal streptococcal bacteria. Bacteria that also are present in intestines of warm-blooded animals. Their presence in water is considered to verify fecal contamination. They are characterized as Gram-positive, cocci bacteria which are capable of growth in brain-heart infusion broth. In the laboratory they are defined as all organisms that produce red or pink colonies within 48 hours at 35°C ± 1.0°C on KF-streptococcus medium (nutrient medium for bacterial growth). Their concentrations are expressed as number of colonies per 100 mL of sample.
+
+Hardness. A physical-chemical characteristic that is commonly recognized by the increased quantity of soap required to produce lather. It is computed as the sum of equivalents of polyvalent cations and is expressed as the equivalent concentration of calcium carbonate (CaCO3).
+
+Non-ideal colony count (K). A remark code used in reporting bacteria densities when plate counts fall outside of an ideal range. The lower limit of 20 colonies is set as the number below which statistically valid results become increasingly questionable. The upper limit, which differs according to type of bacteria, represents numbers above which interference from colony crowding, deposition of extraneous material, and other factors appear to result in increasingly questionable results.
+
+Parameter code. A 5-digit number used in the U.S. Geological Survey computerized data system, WATSTORE, to uniquely identify a specific constituent. The codes used in WATSTORE are the same as those used in the U.S. Environmental Protection Agency data system, STORET. The U.S. Environmental Protection Agency assigns and approves all requests for new codes. Codes are presented in this report in table 7 in parentheses.
+
+Particle-size classification (texture). The classification agrees with recommendations made by the American Geophysical Union Subcommittee on Sediment Terminology and is as follows:
+
+Classification
+
+Size (millimeters)
+
+Method of analysis
+
+Clay Silt Sand Gravel
+
+0.00024 - 0.004 0.004 - 0.062 0.062 - 2.0 2.0 - 64.0
+
+Sedimentation Sedimentation Sedimentation of sieve Sieve
+
+The particle-size distribution given in this report is not necessarily representative of all particles in the geologic unit. Most organic matter is removed and the sample is subjected to mechanical and chemical dispersion before analysis.
+Percent composition. A unit for expressing the ratio of a particular part of a sample or population to the total sample or population in terms of types, numbers, mass, or volume.
+Pesticides. Chemical compounds used to control undesirable organisms. Major categories of pesticides include insecticides, miticides, fungicides, herbicides, and rodenticides.
+pH. A measure of the acidity (or alkalinity) of a solution; equal to the negative logarithm of the concentration of hydrogen ions. A pH of 7.0 indicates a neutral solution. A pH value lower than 7.0 indicates an acid solution. A pH value greater than 7.0 indicates an alkaline solution.
+Sea level. Refers to the National Geodetic Vertical Datum of 1929 (NGVD of 1929) a geodetic datum derived from a general adjustment of the first-order level nets of both the United States and Canada, formerly called Sea Level Datum of 1929.
+Specific conductance. A measure of the ability of water to conduct an electrical current. It is expressed in microsiemens per centimeter at 25 °C. Specific conductance is related to the type and concentration of ions in solution and can be used for approximating the dissolved-solids content of the water. Commonly, the concentration of dissolved solids (in milligrams per liter) is about 65 percent of the specific conductance (in microsiemens). This relation is not constant from stream to stream, and may vary in the same source with changes in the composition of the water.
+Total. The total amount of a given constituent in a representative sample, regardless of the constituent's physical or chemical form. This term is used only when the analytical procedure assures measurement of at least 95 percent of the constituent present in both the dissolved and suspended phases of the sample. A knowledge of the expected form of the constituent in the sample, as well as the analytical methodology used, is required to judge when the results should be reported as "total."
+Total recoverable. The amount of a given constituent in an unfiltered water or sediment sample after digestion by a method (usually by a dilute acid solution) that results in dissolution of less than 95 percent of the constituent that was in the sample.
+
+Hydrogeologic and Water-Quality Data, Lower Sioux Indian Community, Southwestern Minnesota, 1995-97
+By Michael L. Strobel and Lisa M. Pottenger
+Abstract
+This report presents hydrogeologic and water-quality data for the Lower Sioux Indian Community during 1995-97, collected by the U.S. Geological Survey in cooperation with the Lower Sioux Indian Community. The data collected include: (1) water levels, temperature, and dissolved oxygen of Larson Lake, including a vertical profile of temperature and dissolved oxygen near the center of the lake; (2) lake depths of Larson Lake; (3) water level in the Columbus wetland; (4) geologic logs at 13 sites; (5) texture analysis of selected samples from auger cuttings at 5 sites; (6) water levels in 13 observation wells; (7) specific conductance, pH, temperature, dissolved oxygen, and hardness in 15 ground-water sites and 6 surface-water sites; (8) major and minor ions, and tracemetal concentrations of water at 15 ground-water sites and 5 surface-water sites; (9) fecal coliform and fecal streptococcal bacteria colony counts in water at 6 ground-water sites; (10) nutrient concentrations of water at 13 ground-water sites and 4 surface-water sites; and (11) pesticides in water at 4 ground-water sites and 1 surfacewater site.
+
+INTRODUCTION
+The Lower Sioux Indian Community (hereinafter referred to as the Community) includes an area of about 1,700 acres and is located in southwestern Minnesota (fig. 1). The population of the Community is about 800. The Community is located in the Minnesota River valley, and the adjacent upland area south of the river. The primary economic activities at the Community are tourism, gaming, and agriculture. The casino is a major user of water resources in the area.
+The primary economic activities in the Community are tourism and agriculture. The casino encompasses an area of about 300,000 ft and includes a large hotel and entertainment complex, and is the major employer in the area. Agricultural activities also provide local employment. In addition to developing tourist business with the casino complex, the Lower Sioux Indian Community also is interested in developing outdoor recreational facilities, restoring and maintaining wetland areas, and preserving the pristine environmental conditions.
+The primary source of water for the Community is ground water. The Community wells are open to either the confined bedrock aquifer or shallow glacial aquifers. The Community concern regarding future water demand and assessment of the shallow ground-water and surface-water
+
+sources and water-quality conditions prompted this investigation. Surface-water, geologic, and water-quality data were collected and analyzed for the Lower Sioux Indian Community during 1995-97 by the U.S. Geological Survey (USGS) in cooperation with the Lower Sioux Indian Community.
+Purpose and Scope
+The purpose of this report is to list hydrogeologic and water-quality data collected at the Lower Sioux Indian Community. The data collected include: (1) water levels, temperature, and dissolved oxygen of Larson Lake (fig. 2); (2) lake depths of Larson Lake; (3) water level in the Columbus wetland; (4) geologic logs; (5) texture analysis of selected samples from auger cuttings at 5 sites; (6) water levels in 13 observation wells; (7) specific conductance, pH, temperature, dissolved oxygen, and hardness in 15 ground-water sites and 6 surface-water sites; (8) major and minor ions, and trace-metal concentrations of water at 15 ground-water sites and 5 surface-water sites; (9) fecal coliform and fecal streptococcal bacteria colony counts in water at 6 ground-water sites; (10) nutrient concentrations of water at 13 ground-water sites and 4 surface-water sites; and (11) pesticides in water at 4 ground-water sites and 1 surface-water site.
+
+g
+P Oon
+
+Base from U.S. Geological Survey digital data 1:2,000,000,1972, Albers Equal-Area conic Projection, standard parallels 29°30' and 45°30', Central meridian 93°30'
+
+IOWA 0
+
+SCALE
+60 80 iii
+
+100 MILES
+
+20 40 60 80 100 KILOMETERS
+
+Figure 1. Location of Lower Sioux Indian Community, southwestern Minnesota.
+
+Location and Description of Study Area
+
+Methods of Investigation
+
+The study area includes the Lower Sioux Indian Community, which is located partially on the southern high bluff and partially within the wide valley of the underfit Minnesota River (fig. 2). The escarpment separating these two areas is steep and has a vertical elevation change of over 170 ft. The Minnesota River is underfit because it was formed by the larger flows that drained glacial Lake Agassiz (Payne, 1993). The area surrounding the Minnesota River valley mainly is used for agricultural production.
+Within the study area, the topography changes from slightly rolling hills and glacial drift plain in the uplands to relatively flat topography in the river valley. As much as 180 ft of glacial drift overlies Precambrian and Cretaceous bedrock in the uplands. The bedrock is exposed along the escarpment that forms the southern edge of the Minnesota River valley. Within the valley, alluvial deposits, typically ranging from 0 to 50 ft in thickness, overlie Precambrian bedrock. The hummocky surface of the glacial drift in the uplands results in numerous shallow lakes and wetlands. In addition, abandoned quarries have filled with water and become wetland areas. Along the escarpment, groundwater discharge from glacial and bedrock aquifers provides flow to numerous springs, which drain to the Minnesota River. In the valley, abandoned river meanders have produced oxbow lakes and wetland areas. During the last few years, large flows in the Minnesota River have flooded many of these lakes and wetlands for many months each year.
+
+Water levels in Larson Lake were measured using four staff gages installed in the southern portion of the lake (table I). Four gages were needed because the lake exceeded its bank during flooding by the Minnesota River and extended more than 500 ft to the south of normal lake conditions. Multiple gages allowed for accurate stage measurements during flood conditions. Each of the gages was surveyed in relation to a local benchmark and lake stage was interpreted relative to altitude. Temperature and dissolved-oxygen measurements were made with a portable, multiparameter meter calibrated at the start of each day. A vertical profile was measured in the center of the lake on March 2, 1995. All other temperature and dissolved-oxygen measurements were made near the shore at approximately 1 ft below the water surface. Water depths in Larson Lake were measured on September 5, 1995, using a weighted rope (table 2). Measurements of water levels in the Columbus wetland were made during the summer of 1996 using two staff gages placed near the center of the wetland (table 3). The staff gages were not surveyed; therefore, water-level measurements provide information on relative change in water levels over time.
+Geologic logs were described from auger cuttings at 13 sites (table 4). Samples from 5 sites were examined for percent composition of gravel, sand, silt, and clay at the University of North Dakota, Department of Geology and Geological Engineering Sediment Laboratory (table 5). Observation wells were installed at 12 sites in accordance to well construction procedures described by Strobel
+
+95°01
+
+94°58'
+
+Minnesota River Valley
+
+EXPLANATION
+Indian reservation and study boundary
+15 Ground-water data site (number indicates site identifier)
+11 Surface-water data site (number indicates site identifier)
+
+Columbus Wetland
+19
+Upland Area \
+12
+
+Oxidation
+nnponds
+nU
+
+Building
+Scale 0.25 0.5
+
+0.75
+
+1 MILES
+
+- *tr
+44°31'
+1 20 I
+
+cs,
+
+-i1
+2T2=AJ:.
+
+0.25 0.5 0.75 1 KILOMETERS
+
+Figure 2. Location of study area and sampling sites at the Lower Sioux Indian Community, southwestern Minnesota, 1995-97.
+
+(1993). These wells were developed following installation by both bailing and pumping using a peristaltic pump. Water levels were measured in 13 observation wells at various times during 1995-97 using either a steel tape or an electronic water-level meter (table 6). Sites 1-5 have been surveyed relative to sea level. Land-surface altitudes for sites 14-20 were determined from topographic maps.
+Water-quality samples were collected from lakes, streams, and ground water during 1995 and 1996 (table 7, floppy disk on back cover). Water samples were collected, treated, and stored in accordance with procedures described by Fishman and Friedman (1989). Most of the water samples were analyzed for chemical constituents, including major and minor ions, trace metals, nutrients, and pesticides, at the USGS National Water Quality Laboratory in Arvada, Colorado. Constituents that were present at a concentration less than the reporting limit are reported as < (less than). Field measurements of specific conductance, pH, temperature, and dissolved oxygen were made with
+
+portable, multiparameter meters calibrated at the start of each sampling day. Fecal coliform and fecal streptococcal bacteria in water samples were measured at the USGS laboratory in Mounds View, Minnesota. The samples were incubated in a nutrient medium for bacteria growth and concentrations expressed in number of colonies per 100 milliliter of sample. Water samples were analyzed for 92 pesticides using gas chromotography/mass spectrometry at the USGS National Water Quality Laboratory in Arvada, Colorado. Water samples from lakes and streams were collected from just below the water surface near the center of the lake or stream. The exception to this is samples taken from the southern portion of Larson Lake. Water samples from wells were collected using a peristaltic pump. Each well was purged of at least three well volumes of water prior to sampling.
+Blank and replicate samples were collected and analyzed for major and minor ions, trace metals, and nutrients to verify quality assurance of the analytical results reported
+
+by the USGS National Water Quality Laboratory. The blank and replicate samples were subjected to the same processing, handling, and equipment as water samples. The quality-assurance analyses indicated that samples were not cross-contaminated by equipment between visits to sample sites and that analytical results for water samples reported by the USGS National Water Quality Laboratory were reproducible to within 5 percent.
+REFERENCES CITED
+Fishman, M.J., and Friedman, L.C., 1989, Methods for the determination of inorganic substances in water and
+
+fluvial sediments: U.S. Geological Survey Techniques of Water-Resources Investigations, book 5, chap. Al, 545 p.
+Payne, G.A., 1993, Sources and transport of sediment, nutrients, and oxygen-demanding substances in the Minnesota River Basin, 1989-92: U.S. Geological Survey Water-Resources Investigations Report 934232, 71 p.
+Strobel, M.L., 1993, Hydraulic properties of three types of glacial deposits in Ohio: U.S. Geological Survey WaterResources Investigations Report 92-4135, 41 p.
+
+Table 1. Lake elevations, temperature, and dissolved oxygen measurements at Larson Lake, Lower Sioux Indian Community, southwestern Minnesota, 1994-95
+[mm/dd/yy, month, date, year; ft, feet; °C, degrees Celsius; mg/L, milligrams per liter; --, not determined]
+
+Date (mm/dd/yy)
+
+Time
+
+Lake elevation (ft above sea level)
+
+Temperature
+
+Dissolved oxygen (mg/L)
+
+Remarks
+
+12/7/94 3/2/95 3/2/95 3/2/95 5/18/95
+6/7/95 6/16/95 6/26/95 6/27/95 7/11/95
+7/14/95 7/19/95 7/20/95 7/25/95 8/1/95
+8/9/95 9/5/95 9/11/95 9/26/95
+
+0930 1330 1332 1334 1445
+1109 1435 1225 1500 1410
+1040 0638 1630 1200 0830
+1230 1600 1540 1600
+
+818 818 818 823
+823.34 821.31 820.77 820.57 824.30
+824.77 826.42 825.87 822.37 820.95
+820.40 817.74 817.58 817.35
+
+0.9 2.0 2.3 2.5 17.8
+22.1
+24.7
+
+Lake frozen except at inlet 24.0 2-ft depth 21.2 3-ft depth 20.9 4-ft depth 12.0 Flooded by Minnesota River
+Flooded by Minnesota River
+Flooded by Minnesota River
+Flooded by Minnesota River Flooded by Minnesota River Flooded by Minnesota River Flooded by Minnesota River
+
+Table 2. Depths of water in Larson Lake, Lower Sioux Indian Community, southwestern Minnesota, September 5, 1995
+
+Latitude (degrees, minutes, seconds)
+44°32'10" 44°32'H" 44°32'12" 44°32'13" 44032- 14"
+44°32'15" 44°32'15" 44°32'14" 44032-14" 44°32'13"
+44°32'13" 44°32'12" 44°32'12" 44°32'11" 44°32'10"
+
+Longitude (degrees, minutes, seconds)
+94°59'00" 94°59'01" 94°59'02" 94059-02" 94°59'03"
+94°59'03" 94°59'02" 94°59'00" 94°58'59" 94°58'58"
+94°58'56" 94°58'57" 94°58'58" 94°58'59" 94°58'59"
+
+Depth of water (feet)
+3.0 3.5 4.0 4.0 3.0
+2.5 3.0 3.0 3.5 4.0
+4.0 3.5 3.0 3.0 3.0
+
+Table 3. Water-level data for the Columbus wetland, Lower Sioux Indian Community, southwestern Minnesota, 1995-96 [Levels relative to individual gage and indicate only relative change in lake levels; mm/dd/yy, month, date, year; , not determined]
+
+Date (mm/dd/yy)
+
+Time
+
+Staff gage 1 (feet)
+
+Staff gage 2 (feet)
+
+Remarks
+
+06/05/96 06/18/96 07/08/96 07/22/96 08/01/96
+08/06/96 08/13/96 08/23/96
+
+1223 1220 1500 1715 1000
+1320 1020 1200
+
+2.86 3.10 2.95 2.72 2.77
+2.75 2.67 2.78
+
+2.84 Rained about 0.5 foot in 24 hours 5 days prior
+2.90 2.69 2.70
+2.70 2.65 2.75
+
+Table 4. Geologic logs, Lower Sioux Indian Community, southwestern Minnesota, 1995-96 [Site number shown in figure 2]
+G.e.olo.g..clog
+
+Soil Silty sand, fine to coarse; with clay Sandy silt, brown Silt and fine sand, chocolate-brown Silty sand, fine to medium, dark-brown Regolith, Cretaceous sandstone; some pieces of red granite Regolith, Cretaceous sandstone, olive Clay, kaolinite, green Granite, red, fractured
+Silty clay, dark-brown Silty clay with gravel, tan Silt with medium sand to gravel, tan Silt with coarse sand, light-tan Regolith, green/blue Grus, green Granite, red, kaolinite
+Silty clay, black Silt with gravel, tan Regolith Granite, decomposed
+Sand, very coarse Gravel, sand Sand, coarse Clay, gray; some sand, brown Silty sand and gravel, brown Clay, dark-gray
+Soil Silt, tan; some sand and gravel Sandy silt Sand, coarse, brown; some silt Sand and clay, brown Sandy clay Clay, gray
+Clay, black, organic Clay, gray, wet; some pebbles; oxidation along fractures Clay, gray; small pebbles Sandy clay Sandy clay, blue-gray Sand and gravel, coarse, clay
+
+Site number 1
+Site number 2 Site number 3 Site number 4 Site number 5 Site number 14
+
+DepHth below l(afnedet-)surface datum
+0-1 1-5 5-10 10-15 15-20 20-22 22-23 23-23.5 23.5-24
+0-7 7-10 10-15 15-17 17-20 20-21 21-22
+0-6 6-8.5 8.5-10 10-12
+0-3 3-5.5 5.5-7 7-8 8-10.5 10.5-12
+0-1 1-5 5-6.5 6.5-7.5 7.5-13.5 13.5-16.5 16.5-17.5
+0-4 4-6 6-8 8-9 9-13 13-14
+
+Table 4. Geologic logs, Lower Sioux Indian Community, southwestern Minnesota, 1995-96 Continued [Site number shown in figure 2]
+
+~ . .. Geologic log
+
+Depth below land-surface datum (feet)
+
+Disturbed, gravel from parking lot Soil, pebbly, black Soil, gravel, clayey Sand and gravel Gravel; some sand
+Soil, sandy, yellow-brown; some pebbles Sand, medium, dry; limestone pebbles Sand, medium, damp; pebbles Clayey sand, medium, wet Clayey sand, coarse Clayey sand, coarse, pebbly, oxidized fractures Sandy clay, wet, brown-gray Clay, damp; some sand and pebbles, brown Sandy clay, gray
+Sand, fine to medium-fine; some pebbles, brown, dry Sand, medium, pebbly, damp Sand, medium; some gravel, saturated Clayey sand; some pebbles Clay and sand, saturated
+Soil, clayey sand, pebbles, black Soil, clayey, pebbles, light brown Sandy clay, wet Sandy clay, pebbles, wet Sand, saturated Sandy clay, pebbles, wet
+Soil; very fine sand, medium-brown Sand, medium-fine, light-brown, oxidized Sand, red to black, oxidized Sand; pebbles; some clay; saturated Cobble Sand, fine to coarse, saturated Cobble Sand, dry Sand, brown, wet Sand, saturated
+Soil, clayey, black, very organic Sandy clay, light brown, oxidized Sandy clay, very fine sand, light brown, oxidized Clay, saturated Sandy clay, saturated, light brown Clay, saturated
+
+Site number 15 Site number 16
+Site number 17 Site number 18 Site number 19
+Site number 20
+
+0-2.5 2.5-4
+4-8 8-14 14-16
+0-1 1-5 5-7 7-8 8-14 14-16 16-19 19-22 22-23
+0-4 4-6 6-9 9-14 14-18
+0-2 2-4 4-6 6-16 16-18 18-19
+0-2 2-4 4-9 9-14 14-15 15-16 16-17 17-20 20-23 23-24
+0-3 3-4 4-6 6-10 10-17 17-18
+
+Table 4. Geologic logs, Lower Sioux Indian Community, southwestern Minnesota, 1995-96 Continued [Site number shown in figure 2]
+
+Geologic log
+
+Depth below land-surface datum (feet)
+
+Soil, clayey, black, organic Clay, large pebbles, brown, oxidized Till, clayey, pebbly, light brown, oxidized Till, less pebbly than above, yellowish brown Silty sand, clayey, very dry Sand, fine, very pebbly Till; clayey sand, gray-brown Till; clayey sand, medium, dry Till, silty till, clayey; some sand, gray, dry
+
+Site number 22
+
+0-3.5 3.5-4
+4-9 9-13
+13-14 14-16 16-17 17-19 19-30
+
+Table 5. Texture analysis from auger cuttings during well installation, Lower Sioux Indian Community, southwestern Minnesota, 1995 [Analysis performed at the University of North Dakota Sediment Laboratory; site number shown in figure 2]
+
+Site number (figure 2)
+
+Depth of sampled interval (feet below land surface)
+4-5 5-10 10-15 15-20 20-24
+10-15
+0-6 6-8.5
+0-3 5-7 8-10.5 10.5-11.5
+5-6.5 6.5-7.5 7.5-13.5 13.5-15.5 16.5-17.5
+
+Gravel
+2.4 15.6 6.9 5.2 62.1
+7.7
+3.2 5.0
+29.3 30.8 19.7 12.9
+20.9 20.6 5.4 5.7 0.6
+
+Percent Sand
+
+Silt
+
+46.9 38.5 48.3 21.8 54.9 22.7 60.2 21.4 23.2 10.5
+32.2 32.6
+40.3 35.6 37.7 35.2
+57.7 4.1 60.8 4.0 51.2 15.9 40.5 26.8
+64.1 6.2 61.8 8.8 70.3 12.2 40.2 28.8 39.1 32.5
+
+Clay
+12.2 14.3 15.5 13.2 4.3
+27.6
+21.0 22.1
+8.9 4.4 13.3 19.8
+8.9 8.8 12.1 25.3 27.7
+
+o
+(M *0J) CO
+o^>
+0)
+ij
+(0
+00
+55
+i^ .oe>
+CO
+(O 0)
+55
+u>
+T-
+.0e>
+CO
+*^ *0j)
+CO
+u>
+£ 55
+*2 CO
+£ 55
+CD
+1
+CM
+55 <
+1
+,_ £ 55
+
+(n oo cro-
+
+fSJ J^.
+
+fSJ
+j^.
+
+cf-N*.
+
+0\ o\ O\
+
+r-
+eo
+^o\
+
+^.>n ^- 0^-
+00 oo OO
+ooc\ 0o0\ oOC\
+
+cs
+00 00 ON
+
+0\ VO en en
+SSs
+
+S g
+
+cesn in ON
+i{n;
+00 00 ON
+oo en
+8
+
+oo oc >n
+
+vinq'
+
+iinn n
+
+o\
+
+ON 0\
+
+ON 0\
+
+8
+*O ON 0\
+
+0o0\
+f-^ ON 0\
+
+2"! ^ 0 &0^ 0^
+
+2
+0^
+
+OO
+%
+
+om >n
+
+a^o\
+n
+
+o in'
+
+00
+
+oo 0\
+
+0o0\
+
+en Oi n
+0o0\
+
+en
+r^
+oo o\
+
+I/)
+
+ii
+
+>oon>cns
+
+ct~-svoo ocs
+
+OOOC OCOO
+
+OO f- VO OCOOOC
+
+r~- ono inn
+
+f-^ f-*.
+
+ff--*^.
+
+otc
+
+o\ o\ o\
+
+V»OJ oc
+o\
+
+^^ or-\ o\
+
+' O r~
+
+8 ^^3^^H
+t~00
+
+Tc-sH
+^ OC
+
+i i vooocos
+O\ O\ OOOC
+
+oc
+
+o\
+00
+
+0o0c
+
+oo oc 00
+
+n
+
+m o\
+
+0\
+
+p(~^
+
+00 00 00
+
+vcJ
+00
+
+|
+VO
+cs
+Q
+o\
+
+voq
+
+ooo\ it~n- oin oen\
+
+voo oin
+
+r^*
+
+r^* r^* r^- r^
+
+r^ ^
+
+00
+
+00000000
+
+OOOC
+
+crs-veon r^ 06
+OOOC
+
+o0
+
+"06
+oo
+
+f^
+
+vr^§* ?t^«
+oo oo
+
+o ^o in in o
+OOO\OC^HT-H
+in'ocd^d^
+OCOOOCOOOC
+ooo-^-csooc
+^^ ^f f^* f^* ^^ T H
+oo ^o ^o ^^ ^D ^^
+OCOOOCOOOCOO
+S OOOOOCO _ ^ oo Tt o " *
+r^* ^o r^* ^^ ^o ^^
+OOOCOOOCOOOC
+
+oo ON
+^ cn
+OCOO
+
+&n ^^ *~r^
+cncncn
+OCOOOC
+
+v) » i
+O\t~~
+cs>n
+OOOC
+^HO\
+*-H »-H
+co co
+OCOO
+-^-OO oc\o
+co *sf
+OOOC
+oo r^*
+CS^H
+OOOO
+
+^^ ONVO
+(Tl^Hf-^
+oot~~t~~
+
+^^-^'
+
+cs
+^t
+
+o 0\ en
+oc f**. ^t co en
+
+0 en
+
+000000 00 OC 00 00 00 oo
+
+8oo
+T-H f^>
+oo r**.
+
+o^-\'
+
+>n ^1"
+
+O£ ^1" co en
+
+^ en
+
+OOOC
+
+00
+
+oc
+
+oo
+
+oo
+
+(N OO
+
+(N 00
+
+OO^HO I-H r~ t~
+
+g
+
+rr~^
+
+>\on
+
+n 00
+
+^
+
+vq
+
+oo oo r^*
+
+en en en
+
+(N
+
+000000 00 00 OC oc oo OC
+
+Jt^^ oi ^o
+
+voq
+
+cs >n
+
+oo m
+
+8
+
+8
+
+^- ^ ^: en en en en cs cs
+
+OOOCOO oc oc oo oc oc oo
+
+| ll
+£
+
+in«n>n>n>n
+ON ON ON ON ON
+f5f5^Hoco\ ^ovCo!rC^rC^r^^
+
+in«nin«nin
+ON ON ON ON ON
+^no<n^^H Sco^c o^o^Co\
+
+>n>n>n>n
+ON ON ON ON
+InvooooN CO\O!C\^H!T^-^H
+
+vovovo
+ON ON ON
+
+V5O\
+
+C^^H?^ 00 oo
+
+CinJ^oCvCo vo r"
+
+1^oo\ ^oo\ ^oo\
+
+VO 5i
+
+CS ^H ^H
+
+en
+
+Cr-J Sr-2 So 00 oo
+
+VO o\ en cs Sc
+
+ro\ So ^
+
+&U.S. GOVERNMENT PRINTING OFFICE: 1998 - 673-268 / 26507 REGION NO. 8
+
+

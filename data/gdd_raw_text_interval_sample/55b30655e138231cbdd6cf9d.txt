@@ -1,0 +1,849 @@
+Reflection Seismic Profiling of the Wabash Valley Fault System in the Illinois Basin
+U.S. GEOLOGICAL SURVEY PROFESSIONAL PAPER 1538-0
+MISSOURI
+~"3t3fc: «tr- ^t-i.
+ARKANSAS
+
+Cover. Gray, shaded-relief map of magnetic anomaly data. Map area includes parts of Missouri, Illinois, Indiana, Kentucky, Tennessee, and Arkansas. Illumination is from the west. Figure is from Geophysical setting of the Reelfoot rift and relations between rift structures and the New Madrid seismic zone, by Thomas G. Hildenbrand and John D. Hendricks (chapter E in this series).
+
+Reflection Seismic Profiling of the Wabash Valley Fault System in the Illinois Basin
+By R.M. Rene and F.L. Stanonis
+INVESTIGATIONS OF THE NEW MADRID SEISMIC ZONE Edited by Kaye M. Shedlock and Arch C. Johnston
+U.S. GEOLOGICAL SURVEY PROFESSIONAL PAPER 1538-O
+This research was jointly supported by the U.S. Geological Survey and ARPEX (Industrial Associates' Research Program in Exploration Seismology—Indiana University, University of Southern Indiana, Indiana Geological Survey)
+UNITED STATES GOVERNMENT PRINTING OFFICE, WASHINGTON : 1995
+
+U.S. DEPARTMENT OF THE INTERIOR BRUCE BABBITT, Secretary
+U.S. GEOLOGICAL SURVEY Gordon P. Eaton, Director
+
+For sale by U.S. Geological Survey, Information Services Box 25286, Federal Center Denver, CO 80225
+
+Any use of trade, product, or firm names in this publication is for descriptive purposes only and does not imply endorsement by the U.S. Government
+
+Library of Congress Cataloging-in-Publication Data
+
+Rene, R.M.
+
+Reflection seismic profiling of the Wabash Valley fault system in the Illinois Basin / by
+
+R.M. Rend and F.L. Stanonis.
+
+p. cm.—(U.S. Geological Survey professional paper; 1538-O) (Investigations of the
+
+New Madrid seismic zone ; O)
+
+Includes bibliographical references.
+
+Supt. of Docs, no.: I 19.16:1538-0
+
+1. Faults (Geology)—Illinois Basin. 2. Seismic reflection method. I. Stanonis, F.L.
+
+II. Title. III. Series. IV. Series: Investigations of the New Madrid seismic zone ; O.
+
+QE535.2.U6I59 1994 vol. O
+
+[QE606.5.U6]
+
+551.2'2'09778985 s—dc20
+
+[551.8'7'00977]
+
+94^4233
+
+CIP
+
+CONTENTS
+Abstract........................................................................................................................... Ol Introduction..................................................................................................................... 1 Regional Geology and Previous Studies......................................................................... 4 Seismic Data Acquisition................................................................................................ 9 Seismic Data Processing................................................................................................. 10 Interpretation of Reflection Events................................................................................. 14
+Ste. Genevieve, New Albany, Maquoketa, and Knox Events............................... 14 Identification of the Eau Claire Event................................................................... 14 Thickness of the Eau Claire Low-Impedance Layer............................................. 18 Acoustic Basement Event..................................................................................... 27 Interpretations of Faults and Fault-Related Structures.................................................... 29 Wabash Island Fault.............................................................................................. 29 Hovey Lake Fault.................................................................................................. 31 Summary and Discussion................................................................................................ 31 References Cited ............................................................................................................ 32
+FIGURES
+1. Map of the Wabash Valley fault system showing locations of seismic lines and deep wells..................................... O2 2. Map showing locations of seismic lines 1-3, locations of selected wells, and structural contours at the top of the
+Cypress Formation....................................................................................................................................................... 3 3. Maps showing Schwalb's (1982) interpretations of thicknesses of the Eau Claire Formation and the Mount
+Simon Sandstone......................................................................................................................................................... 6 4. Interval velocity, vertical average velocity, and synthetic seismogram for the Cuppy well and west end of the
+Hamilton County, Illinois, seismic line ...................................................................................................................... 7 5. Sexton and others' (1986) interpretation of the Grayville and New Harmony seismic profiles................................. 8 6. Stacking velocity, vertical-average velocity, interval velocity, and interval velocity function used for conversion
+to depth sections.......................................................................................................................................................... 11 7. Plot of velocity spectrum for location 245 in line 1.................................................................................................... 11 8. Line 1 stacked data from (X6 to 1.5 s in CDP locations 400-500 before and after wave-equation migration............ 12 9. F-K spectrum of stacked data in figure 8A.................................................................................................................. 13 10. Line 1 stacked section and plot of CDP fold............................................................................................................... 15 11. Line 1 migrated section for locations 9-560............................................................................................................... 16 12. Line 1 interpreted migrated section showing the Hovey Lake and Wabash Island faults .......................................... 17 13. Line 1 interpreted depth section (locations 9-560)..................................................................................................... 18 14. Line 1 interpreted depth section (locations 200-560)................................................................................................. 19 15. Line 1 interpreted depth section (locations 9-380)..................................................................................................... 20 16. Line 2 stacked section and plot of CDP fold............................................................................................................... 21 17. Line 2 migrated data.................................................................................................................................................... 21 18. Line 2 interpreted migrated data showing faults D and E of the Hovey Lake fault.................................................... 22 19. Line 2 interpreted depth section.................................................................................................................................. 23 20. Line 3 stacked section (0-1 s), migrated data, and depth section with 3:1 horizontal exaggeration.......................... 24 21. Line 3 interpreted migrated data and interpreted depth section showing the Wabash Island fault............................. 25 22. Parts of sonic logs for the Cuppy, Streich, and Duncan wells showing slowness (reciprocal velocity) as a function
+of two-way reflection time .......................................................................................................................................... 26 23. Modeled primary seismic wavelet, wavelet complexes 1-6, seismic data showing the Eau Claire event, and
+corresponding velocity models.................................................................................................................................... 27
+III
+
+IV CONTENTS
+TABLES
+1. Elevations of tops of formations in deep wells........................................................................................................... O5 2. Stratigraphic section and elevations of formation tops and thicknesses of strata in the General Electric Water
+Disposal No. 2 well, Posey County, Indiana............................................................................................................... 5 3. Seismic survey field parameters.................................................................................................................................. 10 4. Data processing sequence............................................................................................................................................ 10 5. Elevations of the top of the Cypress Formation (Upper Mississippian) and fault cuts, and thicknesses of strata
+faulted out in selected wells........................................................................................................................................ 29
+
+REFLECTION SEISMIC PROFILING OF THE WABASH VALLEY FAULT SYSTEM IN THE ILLINOIS BASIN
+By R.M. Rene 1 and F.L. Stanonis2
+
+ABSTRACT
+Three common-depth-point (CDP) minihole reflection seismic profiles were recorded in southwestern Indiana near the junction of the Wabash and Ohio Rivers. Our objective was to image and interpret the deep structure of the Wabash Valley fault system in the Illinois Basin. The normal faults of this system are Late Pennsylvanian or younger and pre-Pleistocene in age. The seismic data were processed through CDP stack, wave-equation migration, and time-to-depth conversion. These data image the Wabash Island and Hovey Lake faults, which bound the Mt. Vernon graben in Posey County, Indiana. Northwest of Hovey Lake, the Wabash Island fault comprises several branches in a quasi-planar fault zone that dips about 65° east-southeast. Vertical displacement on the floor fault increases with increasing depth and is about 120 m at the Upper Cambrian Eau Claire Formation. Vertical displacement on the roof fault decreases with increasing depth. Northeast of Hovey Lake, we interpret that the Hovey Lake fault is a subsidiary antithetic fault to the Wabash Island fault. The fault is listric, and vertical displacement of strata decreases with increasing depth, although the fault clearly displaces the Eau Claire Formation. The Hovey Lake and Wabash Island faults apparently intersect within the Precambrian basement rocks. Two hanging-wall synclines and an anticline in the Mt. Vernon graben result from reverse and normal drag folding associated with the two bounding faults.
+A strong reflection seismic event is interpreted as the response to a low-velocity layer of approximately 200-m thickness within the Upper Cambrian Eau Claire Formation. Our interpretation of the transit-time interval between the Eau Claire and acoustic basement events is consistent with the possible existence of an Upper Cambrian Mount Simon Sandstone basin extending into southwestern Indiana on
+Indiana Geological Survey, Indiana University, Bloomington, IN 47405.
+School of Science and Engineering Technology, University of Southern Indiana, Evansville, IN 47712.
+
+trend with the Reelfoot rift of the New Madrid rift complex. We do not, however, see evidence of pre-Mount Simon rift-fill associated with any large-displacement basement faults that may have been reactivated to generate the Wabash Valley fault system.
+INTRODUCTION
+In 1988-90 we shot three reflection seismic profiles across faults in the Wabash Valley fault system to study these faults and deep structures of the Illinois Basin. This fault system is about 90 km long and 50 km wide in southeastern Illinois, southwestern Indiana, and northwestern Kentucky near the deepest part of the Illinois Basin (fig. 1). The high-angle north-northeast- to northeast-trending normal faults of this system displace the youngest consolidated strata (Upper Pennsylvanian Mattoon Formation) but not the overlying Quaternary deposits. These faults are thus Late Pennsylvanian or younger and pre-Pleistocene in age. The maximum vertical displacement on an individual fault is about 145 m (Nelson, 1990a); however, the faults commonly bifurcate upward (Bristol and Treworgy, 1979; Ault and Sullivan, 1982). The faults and fault-related structures of this system partially controlled deposits of oil and gas in Mississippian and Pennsylvanian strata (Bristol and Treworgy, 1979) and may have controlled accumulations of deeper, undiscovered hydrocarbons as well. These structures also affect mining of Pennsylvanian coal deposits (Nelson, 1981) and locations of waste-disposal wells. Seismicity in the area may be related to zones of crustal weakness associated with these structures.
+We shot seismic lines 1-3 (fig. 2) across the Mt. Vernon graben, bounded by the Wabash Island and Hovey Lake faults in an area of low relief near the intersection of the Ohio and Wabash Rivers in southwestern Indiana. Figure'2 shows structural contours for the top of the Upper Mississippian Cypress Formation based on oil-well data. Anticlines F, G, and H (fig. 2) helped trap oil in Mississippian strata in the College Consolidated, Spencer Consolidated, and Powells Lake Consolidated fields, respectively. Although deep wells
+01
+
+O2 INVESTIGATIONS OF THE NEW MADRID SEISMIC ZONE
+COCORP seismic line
+
+Grayville seismic line
+
+New Harmony seismic line
+
+Hamilton County
+
+seismic line
+
+w
+
+Study area (fig. 2)
+EXPLANATION Normal fault - bar and ball on downthrown side Deep well (table 1) NMRC New Madrid rift complex SIA Southern Indiana arm (Braile and others, 1982)
+Figure 1. Map of the Wabash Valley fault system showing our reflection seismic study area and the COCORP, Hamilton County, Grayville, and New Harmony seismic lines. The: (1) Brown, (2) Weber-Horn, (3) Johnson, (4) Cisne, (5) Cuppy, (6) Bell, (7) Rollison, (8) Lewis, (9) Parley, (10) Streich, (11) Duncan, and (12) General Electric wells (table 1) are shown. The inset map shows the New Madrid rift complex and its Southern Indiana arm as postulated by Braile and others (1982). The small box within the inset map shows the area of the main map. Modified from Nelson (1990a).
+
+REFLECTION SEISMIC PROFILING OF THE WABASH VALLEY FAULT SYSTEM IN THE ILLINOIS BASIN 03
+
+EXPLANATION Selected shallow well
+Normal fault downthrown Anticline
+
+Figure 2. Map showing seismic lines 1-3, with section-line indicia at 1-mi (1,.6-km) intervals. Wells with fault cuts, wells 1-13 (table 5), faults A-E, anticlines F-H, synclines I-J, and structure contours (in meters) at the top of the Cypress Formation (Upper Mississippian) are shown. Lines la and Ib (see text) overlap and were processed together as line 1. Line la extends eastward from the west flank of syncline J. Line Ib extends westward from a point near the axis of syncline J. Datum is mean sea level; contour interval is 5 m.
+
+in the Wabash Valley fault system are sparse, wells less than 1 km deep are plentiful. In areas of oil and gas production, wells are spaced at about 200-m (660-ft) intervals. The steeply dipping faults are intersected by these wells sporadically along the direction of strike, but, because the faults commonly bifurcate, reliable determinations of fault dips may be impossible using shallow wells alone. In Posey County, Indiana (area = 1,060 km2), which includes the
+
+study area, Tanner and others (1980a, 1980b) mapped fault cuts with missing sections in 207 wells. The deepest of these fault cuts was 702 m below sea level in Mississippian strata. Many authors, including Butler (1967), Tanner and others (1980a, 1980b, 1981a, 1981b), and Ray (1986), have used well logs to map structures and thicknesses of Mississippian and Pennsylvanian strata in the study area. The faults have been only slightly exhumed. Coal-seam moisture content in
+
+O4 INVESTIGATIONS OF THE NEW MADRID SEISMIC ZONE
+
+the region indicates that only about 300 m of Late Pennsylvanian or younger strata were removed by erosion (Cluff and Byrnes, 1990).
+Seismic lines 1-3 were acquired by students under our direction as part of a field course in seismic exploration at the University of Southern Indiana during the summers of 1988-90. The data were recorded digitally with SERCEL SN338B and SN338HR recording systems and were processed by us at the data-processing facilities of Digicon Geophysical Corp. in Houston, Texas. Although the resultant seismic profiles are short, they successfully imaged faults and fault-related structures of the Wabash Valley fault system at depths as great as 4 km. A strong reflection event in these data is correlated with the Upper Cambrian Eau Claire Formation. From these seismic data, we derived tentative estimates of thickness for the Upper Cambrian Mount Simon Sandstone that are consistent with the possible existence of a basin in southwestern Indiana. The acoustic basement event, due perhaps to the interface between the Mount Simon Sandstone and underlying Proterozoic rocks, is only weakly defined. We did not observe in our reflection seismic data direct evidence for a previously postulated pre-Mount Simon rift in this region.
+Acknowledgments.—We wish to thank the reviewers for their helpful suggestions. We also wish to thank Gulzar Aziz, Mark Duckworth, Steve France, Ben Gibson, John Hohman, Keith Might, Richard Mode, Fekri Zainoba, the many other students who participated in this study, the personnel of the Hovey Lake Fish and Wildlife Reserve, Mr. John Breiner, and many other helpful residents of Posey County, Indiana. This work was supported by the U.S. Geological Survey, Department of the Interior, under award number 14-08-001-G1927; by the Indiana Geological Survey; and through ARPEX (Industrial Associates' Research Program in Exploration Seismology—Indiana University, University of Southern Indiana, Indiana Geological Survey) by Amoco Production Company; Chevron USA; Conoco, Inc.; Digicon Geophysical Corp.; Grant Tensor Geophysical Corp.; Input/Output, Inc.; Pump and Irrigation Supply, Inc. (Evansville, Ind.); and SERCEL, Inc.
+REGIONAL GEOLOGY AND PREVIOUS STUDIES
+Table 1 provides elevations of tops of the Lower Ordovician and Upper Cambrian Knox Group, Upper Cambrian Mount Simon Sandstone, and Precambrian basement rocks in deep wells shown on figure 1. In the region of the Wabash Valley fault system, the deepest well, the General Electric Water Disposal No. 2 well (fig. 1), penetrates 93 m of the Knox Group. Table 2 shows the regional stratigraphy and elevations of tops of formations penetrated by the General Electric well.
+
+According to Nelson (1990a, 1990b) and Kolata and Nelson (1990), the New Madrid rift complex comprises the northeast-trending Reelfoot rift (Ervin and McGinnis, 1975) and the east-trending Rough Creek graben (Soderberg and Keller, 1981). These grabens contain several kilometers of pre-Knox Group sedimentary strata. Braile and others (1982) proposed that the New Madrid rift complex includes a Southern Indiana arm (fig. 1) and a St. Louis arm extending northeast and northwest, respectively, from the intersection of the Reelfoot rift and Rough Creek graben. They based these interpretations on seismicity and patterns of correlated gravity and magnetic highs on the flanks of the hypothesized rifts. A similar pattern of positive gravity and magnetic anomalies, due to basic or ultramafic intrusives, flanks the Reelfoot rift (Hildenbrand and others, 1977).
+Schwalb (1982) mapped thicknesses of the Upper Cambrian Eau Claire Formation (or its stratigraphic equivalent, the Bonneterre Formation) and the Mount Simon Sandstone (fig. 3) based on sparse well control. Schwalb postulated the existence of a Mount Simon Sandstone basin in southwestern Indiana based largely on the concept that a sag basin may have developed over the hypothesized Southern Indiana arm of the New Madrid rift complex. To the northeast of our survey area, Schwalb interpreted more than 610 m of Mqunt Simon strata. Perhaps Schwalb's interpretation was influenced by "jump correlations" of widely spaced, single reflection seismic records in southern Indiana shot by Rudman (1960). Rudman tentatively interpreted that the basement surface 40 km northeast of our survey area showed a northwest-trending depression of about 1 km below the regional slope of that surface in southwestern Indiana. Interpretations of basement depths using such data are generally unreliable due to the difficulty of distinguishing basement, intrabasement, and suprabasement reflections in parts of the Illinois Basin. This difficulty occurs even in good-quality common-depth-point (CDP) reflection seismic data. In selecting our survey site, we anticipated that a Mount Simon Sandstone basin associated with sag over the postulated Southern Indiana arm might be thicker in the vicinity of this site than to the northeast, as postulated by Schwalb (1982). In the postulated Southern Indiana arm, the only well penetrating rocks older than the Upper Cambrian and Lower Ordovician Knox Group is the Brown well (fig. 1, table 1), which penetrated an altered Precambrian(?) basalt possibly associated with a basic intrusive at the edge of the rift, as indicated by a positive gravity and magnetic anomaly (Braile and others, 1982).
+Sexton and others (1986) and Braile and others (1986) obtained crooked-line Vibroseis seismic profiles along Hamilton County, Grayville, and New Harmony lines in Illinois and Indiana (figs. 1, 4, 5). Figure 4 shows a synthetic seismogram for the Cuppy well (fig. 1, table 1) and the west end of the Hamilton County, Illinois, seismic line. In wells in the Illinois Basin north of the Reelfoot rift and Rough Creek graben, the Upper Cambrian Mount Simon Sandstone
+
+REFLECTION SEISMIC PROFILING OF THE WABASH VALLEY FAULT SYSTEM IN THE ILLINOIS BASIN O5
+
+Table 1. Elevations of tops of formations in deep wells.
+[Datum is mean sea level. Well locations are shown on figs. 1 and 3. Names in italics are those used in the text to identify these wells. Except for well 12, data are from Buschbach and Kolata (1990). NP, not penetrated]
+
+Map Well name, County, and State no.
+1. Indiana Farm Bureau No. 1 Brown, Lawrence Co., Ind. 2. Humble Oil No. 1 Weber-Horn, Fayette Co., HI. 3. Texaco No. 1 Johnson, Marion Co., HI. 4. Union Oil of California No. 1 Cisne Community, Wayne Co., HI. 5. Texaco No. 1 Cuppy, Hamilton Co., HI. 6. Exxon No. 1 Bell, Webster Co., Ky. 7. Citizens Gas and Coke No. 9 Rollison, Greene Co., Ind. 8. Atlantic Richfield No. 77 Lewis, Lawrence Co., HI. 9. Texas Pacific Oil No. 1 Parley et al., Johnson Co., fll. 10. Texas Pacific Oil No. 1 Streich Community, Pope Co., fll. 11. Exxon No. 1 Duncan, Webster Co., Ky. 12. General Electric Water Disposal No. 2, Posey Co., Ind.
+
+Knox
+-415
+-1,249 -1,474 -2,156 -2,245 -1,644
+-875
+-1,428 -1,522 -2,007 -2,175 -2,227
+
+Elevations oftops (in meters)
+
+Mount Simon
+
+Basement
+
+-1,416
+
+-1,783
+
+-1,936
+
+-2,340
+
+-2,411
+
+-2,630
+
+-3,247
+
+-3,356
+
+absent -3,975
+
+-3,833 -4,222 1
+
+-1,855
+
+NP
+
+-2,569
+
+NP
+
+-3,802
+
+NP
+
+^,257
+
+NP
+
+NP NP
+
+NP NP
+
+*A K/Ar age of 478±25 Ma was determined for crystalline rocks near the bottom of the Bell well.
+
+Table 2. Stratigraphic section in southwestern Indiana, elevations of formation tops and thicknesses of strata in the General Electric Water Disposal No. 2 well in Posey County, Indiana.
+[Datum is mean sea level. NP, not penetrated. Leaders (--) indicate no data]
+
+Description, age, and dominant rock types
+Quaternary (unconsolidated sediments)................................... Pennsylvanian (shales and sandstones).................................... Mississippian (shales, sandstones, and limestones).................. New Albany Shale (Early Mississippian to Middle Devonian). New Harmony (Early Devonian) and Muscatatuck
+(Middle Devonian) Groups (carbonates).............................. Silurian carbonates.................................................................. Maquoketa Group (Late Ordovician shale)................................... Trenton Limestone (Late and Middle Ordovician),
+Black River Group (Middle Ordovician), and upper part of Middle Ordovician Ancell Group (carbonates)............... St. Peter Sandstone (Middle Ordovician)...................................... Knox Group (Lower Ordovician and Upper Cambrian dolomites). Davis Formation (Late Cambrian carbonates)............................... Eau Claire Formation (Late Cambrian carbonates)........................ Mount Simon Sandstone (Late Cambrian).................................... Rift-fill(?) (Middle Cambrian-Late Proterozoic)1 ••••••••••••••••••••••••• Crystalline rocks (Proterozoic layered sequence?)2 •••••••••••••••••••••••
+1 Interpreted in seismic profile by Sexton and others (1986). 2 Interpreted in seismic profile by Pratt and others (1989).
+
+Elevation (m)
+.+120. ..+79..
+
+Thickness (m)
+..41 .503
+
+.-1,262 ........... 103
+
+.-1,365 ...........345 .-1,710...........126 .-1,836 ............96
+
+1,932 2,241 2,276 .
+
+. 309 ..35
+
+. NP. NP.
+
+lies unconformably on crystalline basement rocks, except in the Cuppy well where the Upper Cambrian Eau Claire Formation may rest directly on weathered granite or arkose. In the Grayville and New Harmony lines (fig. 5), Sexton and others (1986) interpreted the existence of the Grayville graben as part of the hypothesized Southern Indiana arm of the New Madrid rift complex. They interpreted that Precambrian or Cambrian rift-fill lies below the Mount Simon Sandstone and that the Wabash Valley fault system resulted from reactivation of basement faults associated with the Grayville
+
+graben. Vertical displacements of basement rocks across these older faults are as great as 500 m, according to Sexton and others (1986) (fig. 5). Nelson (1990b) suggested, however, that these seismic data show faults in Paleozoic rocks that lose displacement downward and do not detectably offset the Upper Cambrian Eau Claire Formation above the basement rocks. Greb (1989) suggested that the Southern Indiana arm might roughly coincide with the Wabash Valley fault system and thus trend north-northeast, instead of
+northeast.
+
+06 INVESTIGATIONS OF THE NEW MADRID SEISMIC ZONE 89° 88° 87°
+39°
+
+38°
+
+ARPEX STUDY AREA (Shown on fig. 2)
+
+39°
+B
+38°
+Figure 3. Schwalb's (1982) interpretation of thicknesses (in meters) of A, the Eau Claire Formation (Upper Cambrian) and B, the Mount Simon Sandstone (Upper Cambrian). Contour interval is 250 ft (76.2 m). Solid circles indicate wells. Thicknesses were determined for the (1) Brown, (2) Weber-Horn, (3) Johnson, (4) Cisne, (5) Cuppy, (6) Bell, (7) Rollison, (8) Lewis, (9) Parley, and (10) Streich wells (table 1). Modified from Schwalb (1982).
+
+REFLECTION SEISMIC PROFILING OF THE WABASH VALLEY FAULT SYSTEM IN THE ILLINOIS BASIN
+
+TOPS OF STRATIGRAPHIC
+UNITS
+
+0.0 -
+
+Vp(km/s)
+048
+
+1 km
+
+O7
+0.0
+
+Ste. Genevieve Limestone
+New Albany Shale ——
+
+0.5 -
+
+Maquoketa Group Knox Group
+Eau Claire Formation Igneous rock
+
+tQo
+O &5
+CO
+UJ
+5
+1.6 -
+
+K^, NEW ALBANY
+
+2.0 -
+
+2.5 -1
+
+2.5
+
+Figure 4. Interval velocity, vertical average velocity, and synthetic seismogram for the Cuppy well and west end of the Hamilton County, Illinois, seismic line showing the New Albany, Knox, and Eau Claire reflection events. Modified from Sexton and others (1986).
+
+O8 INVESTIGATIONS OF THE NEW MADRID SEISMIC ZONE
+"O 03 -r- 6
+
+O—'
+SQNO03S Nl '
+
+O
+ao<00: sa.
+£>-
+o
+o
+o _o .
+-S 3 ^.
+vo >>
+cu -V
+J3f>2£
+ta o
+
+REFLECTION SEISMIC PROFILING OF THE WABASH VALLEY FAULT SYSTEM IN THE ILLINOIS BASIN O9
+
+COCORP (Consortium for Continental Reflection Profiling) reflection seismic data, in a profile about 20 km north of the Grayville and New Harmony lines (fig. 1), defined a Proterozoic layered sequence (Pratt and others, 1989). These rocks may comprise Middle Proterozoic crystalline basement of the eastern granite-rhyolite province, which may form a veneer over older crustal rocks of Early Proterozoic age. Published (Heigold, 1990) and unpublished seismic data acquired by industry for oil and gas exploration also show layering in basement rocks and basinal features predating the New Madrid rift complex. The COCORP seismic line did not image a Late Proterozoic or Cambrian graben containing pre-Mount Simon rift-fill, according to Nelson (1990b) and Pratt and others (1990), who suggested that reflectors interpreted by Sexton and others (1986) as the base of pre-Mount Simon rift-fill (fig. 5) are instead intrabasement reflectors of the Middle Proterozoic layered sequence. The COCORP line extends eastward in Indiana across the postulated Mount Simon Sandstone basin, across the maximum isopach (610 m) contoured by Schwalb (fig. 3fi), and north of the maximum depression of the basement tentatively interpreted by Rudman (1960). Pratt and others (1990) interpreted the COCORP profile as having "no significant thickening of lower Paleozoic strata like that which characterizes the Reelfoot and Rough Creek basins." Nelson (1990a) also stated that well control and COCORP reflection seismic data show that the region of the hypothesized St. Louis arm does not contain a graben analogous to the Reelfoot rift and Rough Creek graben. Nelson thus concluded that the Reelfoot rift and Rough Creek graben together comprise a dogleg graben and that the term "New Madrid rift complex" should be discarded. He did not suggest a replacement name, however, for the dogleg graben. The "Reelfoot-Rough Creek graben complex" might be appropriate, albeit lengthy.
+Seismicity in the Illinois Basin north of the New Madrid seismic zone defines the Wabash Valley seismic zone (Nuttli, 1974, 1979), and liquefaction features in Holocene sediments of the Wabash Valley have provided evidence of strong paleoseismicity (Obermeier and others, 1991, 1992; Munson and others, 1992). This seismic zone is in the Midcontinent stress province of regional east-west to east-northeast-west-southwest compression. The stress field results from plate-tectonic processes, according to Sbar and Sykes (1973). The normal faults of the Wabash Valley fault system developed in an extensional regime different from the present stress field. Seismicity in the Wabash Valley seismic zone may be localized by crustal inhomogeneities related to the Wabash Valley fault system, the New Madrid rift complex (fig. 1), or older structures in crystalline basement rocks. The potential for reactivation of normal faults in the Wabash Valley fault system with reverse or strike-slip components of motion depends on whether these faults cut
+
+basement rocks and their orientation relative to the present stress field. The nature of these faults at depth is largely unknown because of the scarcity of published common-depth-point reflection seismic data and sparseness of deep wells.
+SEISMIC DATA ACQUISITION
+Seismic lines 1-3 (fig. 2) were shot in an area of low relief where near-surface, fine-grained (largely clay) alluvial sediments helped couple the seismic energy for deep penetration. The profiles were obtained by minihole pattern shooting using field parameters given in table 3. Distances were measured in the English system of units (feet). The nominal shot pattern comprised five equispaced holes in a 70-ft (21-m) in-line array detonated with seismic pattern electrical detonators. Two-component seismic explosives were armed in the field for safety and facilitation of transportation and storage. Despite use of 0.7-kg charges in 3- to 4.5-m shot holes, most holes did not blow due to careful tamping and confinement of the shot by dense clayey soil below or near the water table. Some shot holes partially collapsed before the explosives were loaded and, therefore, shallower and smaller charges were used. Some shots were skipped for buildings, pipelines, a highway, and a bridge.
+Geophones were planted in 140-ft (43-m), in-line arrays of 12 equispaced sensors with parallel-series connections. In rare cases, the first or last six geophones were inactive, due to a break in the wire, and the array length became 70 ft (21 m). Geophones were planted at intervals of about 11.7 ft (3.6 m), except at road intersections where it was necessary to bunch the sensors together. Line 1 (fig. 2) was shot in two parts; the eastern part, la, in 1988 and the remainder, Ib, in 1990. Line la was shot across a field of crops and along a gravel road from east to west by "pushing the cable;" that is, the end-on geophone spread was west of the shot. Because the geophone group interval was twice the shot interval, the rollalong switch was generally advanced with every other shot. Line Ib was shot from west to east along a gravel road by pushing the cable eastward until the far-offset geophone group reached a highway 0.8 km west of line 2. Shooting then continued eastward with a stationary split-spread geophone layout until the shot location reached the highway. Finally, shooting continued east of the highway, with a stationary end-on geophone spread west of the highway, until the westernmost shotpoint of line la was approached. Line 2 was shot in 1989 along gravel and dirt roads from south to north by "pushing the cable" north in end-on configuration until it reached woods at the edge of the Ohio River. Line 3 was shot in 1990 from west to east along a gravel road into a stationary 1.6-km (1-mi) spread of geophone arrays. Except for the first few shots, it was shot with a split-spread configuration. Line la was recorded with a 48-channel SERCEL SN-338B seismic recording system; whereas, lines Ib, 2,
+
+O10 INVESTIGATIONS OF THE NEW MADRID SEISMIC ZONE
+
+Table 3. Seismic survey field parameters.
+[Field geometry measured in feet]
+Shot pattern .......................5 holes, equispaced Shot-hole interval............... 14 ft (4.3 m) Shot-array length................70 ft (21 m) Shotpoint interval...............70 ft (21 m) Shot-hole depth..................10-15 ft (3-4.5 m) Explosives/hole,................. 1.5 Ib (0.7 kg) Explosives/shot..................7.5 Ib (3.4 kg) Detonators .........................seismic pattern, electrical Geophones.........................10-Hz, vertical-motion Geophone array.................. 12 sensors, equispaced Array length.......................140 ft (43 m) Array spacing.....................140 ft (43 m) Near-trace offset.................455-525 ft (138-160 m) Arrays/layout:.....................47 (line la);
+...............53-59 (lines Ib, 2); ...............36 (line 3) Far-trace offset:..................2.1 km (line la); ...............2.5 km (lines Ib, 2); ...............0.8-1.6 km (line 3) Recorder (line la)..............SERCEL SN338B, 48 channels Recorder (lines Ib, 2-3).....SERCEL SN338HR, 96 channels Sampling interval...............2 ms Record length.....................6 s Antialiasing filter............... 125 Hz, 72 dB/octave Notch filter ........................60 Hz_______________
+
+Table 4. Data processing sequence.
+[CDP, common-depth-point]
+Demultiplexing Automatic gain compensation Data editing Spiking deconvolution Band-pass filter Automatic gain compensation CDP gather Shot-lead statics (line la) Elevation statics Refraction statics (line 1) Automatic statics Re-gather (lines la and Ib) Automatic statics (line 1) Normal moveout correction Mutes CDP stack Gapped deconvolution Automatic gain compensation Band-pass filter Migration Mutes Band-pass filter Automatic gain compensation Time-to-depth conversion
+
+and 3 were recorded with a 96-channel SERCEL SN-338HR system. All data were recorded for 6 seconds at 2-ms intervals with a 125-Hz antialiasing filter and a 60-Hz notch filter.
+SEISMIC DATA PROCESSING
+Table 4 shows the data processing sequence. The data were processed using record lengths of 6 s, but only the first 2.3 s of data are shown in this report. Each application of automatic gain compensation used 200-ms data windows. Spiking deconvolution before stack applied minimum-phase, least-squares predictive 120-ms operators with 1 percent pre-whitening. Filter design window lengths for autocorrelation were 1-1.5 s, depending on source-receiver offset. Zero-phase pre-stack, post-stack, and post-migration filters specified a trapezoidal band-pass with 0, 1, 1, and 0 amplitude response at 10, 20, 60, and 80 Hz, respectively. The band-pass filter used a convolutional (time-domain) 302-ms operator truncated by a Hanning taper (equivalent to smoothing the trapezoidal amplitude response in the frequency domain).
+Shot-lead static corrections, using up-hole geophone response and repeat tones in an auxiliary trace, corrected a temporary problem in shot-recorder synchronization. Eleva-
+
+tion static corrections reduced the data to a datum 350 ft (107 m) above sea level using a datum velocity of 914 m/s. The maximum change in elevation along a single line, 5 m, occurred in line 1. Refraction statics were computed and applied in line 1 after interpretation of velocity-reduced common-receiver and common-shot gathers to compute and correct for delays by low-velocity sediments associated with a slough occupied by an intermittent pond. Surface-consistent automatic statics corrections were computed by use of crosscorrelation techniques in moveout-corrected CDP gathers with variable data windows, multiple applications, and some manual intervention.
+Normal moveout corrections used a spatially constant stacking velocity function (fig. 6), derived from the data in lines 1-2 by standard analysis methods guided by sonic log velocities of the Cuppy well (fig. 4). Although moveout velocities for reflection events in the Mt. Vernon graben should decrease slightly due to greater thickness of Pennsylvanian strata in the graben, the effect was not resolved by velocity analysis. Figure 7 is a representative velocity spectrum showing coherence versus moveout velocity and two-way reflection time for a CDP gather of good-quality data in line 1. Mutes were applied before stack to eliminate refraction arrivals and other early-arriving noise from CDP stacks. In central parts of the lines, a mute was also applied to shorten near-range traces and eliminate late-arriving
+
+REFLECTION SEISMIC PROFILING OF THE WABASH VALLEY FAULT SYSTEM IN THE ILLINOIS BASIN 011
+
+VELOCITY, IN KILOMETERS PER SECOND
+2345678
+
+VELOCITY, IN KILOMETERS PER SECOND
+23456
+
+Q O O
+UJ
+(/> 1
+UJ
+
+Figure 7. Velocity spectrum, for location 245 in the central part of line 1, showing contours of coherency as a function of moveout velocity and reflection time. The peak at 1.6 s is the Eau Claire reflection event.
+
+Figure 6. Velocity functions: A, Stacking velocity (rms velocity); B, vertical-average velocity; C, interval velocity (assuming stacking velocity equals rms velocity); andD, interval velocity used for conversion of seismic data to depth sections.
+noise, mainly surface waves. The data were CDP gathered and stacked with a 35-ft (10.7-m) trace interval. Gapped least-squares predictive deconvolution was applied after stack using a prediction distance of 32 ms, a prediction-operator length of 160 ms, and a 2.5-s filter design window for autocorrelation from 0.5 to 3.0 s.
+Figure 8A shows stacked data from line 1 in a window from 0.6 to 1.5 s for CDP locations 400-500, which includes part of the Wabash Island fault. The steeply dipping events are diffraction limbs generated by shallow diffractors. Figure 9 shows the F-K spectrum of the windowed data in figure 8A after zero-padding in the x-t domain. The wavenumber (reciprocal wavelength) is normalized with respect to the sampling wavenumber or reciprocal of the trace spacing, 35 ft (10.7 m). Strong peaks for positive wavenumbers in the frequency range of 22-30 Hz indicate unaliased west-dipping events with time-dips, 5-9 ms per trace interval, equal to wavenumber divided by frequency. Band-reject frequency filtering is unsuitable for attenuation of the diffraction noise because the spectrum of this noise overlaps that of reflection seismic events. Although post-stack multicomponent filtering, for example F-K filtering, could attenuate these diffractions, wave-equation migration sufficiently improved interpretability of the data so that premigration filtering was
+
+unnecessary. Figure &B shows the data of figure 8A after application of migration and postmigration automatic gain compensation and band-pass filtering. The east-dipping event at 0.72 s and CDP location 460 is a primary reflection event from within the fault zone of the Wabash Island fault. Migration of this segment has moved it to its correct position, and the edge of a fault is clearly defined at 0.7 s and CDP location 467. The alternative of CDP gathering at 70-ft (21.4-m) intervals, with consequent depth-point smear and attenuation of dipping events, was not used because it was believed that closer trace spacing, at 35-ft (10.7-m) intervals, would aid interpretation of the migrated data.
+Wave-equation migration was applied with a finite-difference algorithm. The laterally constant stacking velocity function (fig. 6) was specified for the migration algorithm as the root-mean-square velocity from which the interval velocity function (fig. 6) was derived assuming horizontal layering. Mutes were applied to migrated traces to eliminate data preceding the start of non-zero values in the corresponding input stacked traces. Because a 302-ms zero-phase band-pass filter operator was applied before migration, the postmigration mute only eliminated data that preceded the start of the corresponding unfiltered stacked traces by more than 150 ms. A band-pass filter and automatic gain compensation were then applied to the migrated data. Finally, an approximate time-to-depth conversion used a laterally constant velocity function (fig. 6) derived by approximating the interval velocity function with seven constant-velocity layers having two-way interval transit times of 200-500 ms. Choice of horizontal layers that did not cut across the principal reflection events aided inter-
+
+O12 INVESTIGATIONS OF THE NEW MADRID SEISMIC ZONE
+
+1 km
+
+EAST
+
+1.4
+
+480 460 440 420 400 500 480 460 440 420 400
+
+LOCATION NUMBERS
+
+LOCATION NUMBERS
+B
+
+Figure 8. Line 1 stacked data from 0.6 to 1.5 s in CDP locations 400-500, which includes part of the Wabash Island fault: A, before migration and B, after wave-equation migration and postmigration automatic gain compensation and band-pass filtering. Trace interval is 35 ft (10.7m).
+
+REFLECTION SEISMIC PROFILING OF THE WABASH VALLEY FAULT SYSTEM IN THE ILLINOIS BASIN O13
+
+-0.5 0.0
+
+0.5
+
+NORMALIZED WAVENUMBER (k/ka , see text)
+
+Figure 9. F-K spectrum of stacked data in figure 8A. Strong peaks with positive wavenumbers are unaliased west-dipping noise; levels of shading in increments of 10 dB; kg (sampling wavenumber) = 10.7 nTl .
+
+O14 INVESTIGATIONS OF THE NEW MADRID SEISMIC ZONE
+
+pretability of the depth sections and avoided distortions of those events by variable wavelet stretch or contraction where these events were displaced by faults. Although the depth sections aid structural interpretation, time intervals and interval velocity estimates were used directly to estimate depths and thicknesses.
+INTERPRETATION OF REFLECTION EVENTS
+
+is nearly acoustically transparent. The velocity of Knox Group strata increases gradually with increasing depth. In southern Illinois, the Knox Supergroup includes the Upper Cambrian Franconia Formation (stratigraphic equivalent of the Davis Formation (table 2)) and the Upper Cambrian Eau Claire Formation (Sargent, 1990). In southern Indiana, the Munising Group, comprising the Davis and Eau Claire Formations, is excluded from the Knox Supergroup (Droste and Patton, 1985).
+
+Seismic reflection profiles of lines 1, 2, and 3 are shown in figures 10-15,16-19, and 20-21, respectively. For each line, the uninterpreted stacked sections and migrated sections are shown first, then interpreted migrated time and depth sections are shown. Section-line indicia at 1-mi (1.6-km) intervals are shown in these displays and on the map (fig. 2). Except on the west end of line 1, where the line followed a bend in the road, profiles were shot within 5 m of section lines. The CDP fold, or number of traces in each CDP gather after editing, is shown above the sections in figures 10, 16, and 21.
+STE. GENEVIEVE, NEW ALBANY, MAQUOKETA, AND KNOX EVENTS
+The interpreted sections of lines 1-3 (figs. 12-15, 18-19, and 21) show correlations of events with reflecting interfaces. For the Ste. Genevieve Limestone, New Albany Shale, Maquoketa Group, and Knox Group events, correlations are apparent from examination of depth sections, elevations of formations in the General Electric No. 2 Water Disposal well (table 2), and sonic logs of the Cuppy well (fig. 4) and other deep wells. The General Electric well penetrates the top of the Upper Cambrian and Lower Ordovician Knox Group in the Mt. Vernon graben 6.1 km north of the intersection of seismic lines 1 and 2 (fig. 2). The top of the Upper Mississippian Cypress Formation is about 15 m deeper in the General Electric well than in wells in the central part of the graben near line 1. Mississippian and Pennsylvanian strata above the Upper Mississippian Ste. Genevieve Limestone are predominantly shales and sandstones. The top of the Cypress Formation, mapped in figure 2, is about 90 m above the top of the Ste. Genevieve Limestone. The strong New Albany and Maquoketa events result from low-velocity and low-density shales of about 100-m thickness overlain and underlain by faster and denser rocks, mainly carbonates. The Knox event results from reflection off the top of the Knox Group, which is faster and denser than the overlying Middle Ordovician St. Peter Sandstone. Most of the Knox Group is dolomite that
+
+IDENTIFICATION OF THE EAU CLAIRE EVENT
+The strong Eau Claire reflection event is identified in lines 1-3 (figs. 10-21) by its similarity (in strength, coherence, and relative arrival time) to an event in an unpublished industry reflection seismic profile between the Cuppy and Duncan wells (fig. 1) and the Hamilton County, Grayville, and New Harmony profiles in Illinois and Indiana (figs. 4 and 5). The Cisne> Cuppy, and Streich wells are the closest wells in Illinois to penetrate the Eau Claire Formation (fig. 1). The nearest well to this formation in Kentucky is the Duncan well. Sexton and others (1986) tied the west end of the Hamilton County profile to the Cuppy well with a synthetic seismogram (fig. 5). In that well, the Eau Claire Formation is a low-velocity 260-m interval of shaley carbonates underlying faster strata of the Knox Group and overlying weathered granite or arkose on a basement high, the Mount Simon Sandstone being absent. Although the velocity of the Eau Claire Formation varies rapidly with depth in the Cuppy well (fig. 4), all the Eau Claire strata have velocities less than those of the overlying lower part of the Knox strata. In the Cisne, Cuppy, and Duncan wells (figs. 1 and 4) the velocity of lower Knox strata, 100 m above the Eau Claire Formation, is about 7,000 m/s.
+In the Cisne well (fig. 1) velocities of the Eau Claire and Mount Simon Formations are 5,187 and 4,689 m/s in 291- and 109-m intervals, respectively (Heigold and Oltz, 1990). The normal-incidence reflection coefficient for particle displacement due to velocity contrast only is Ry = (V2-Vj)/(V2+Vi), where Vj and V2 are velocities above and below an interface. For velocities of lower Knox strata, Eau Claire Formation, and Mount Simon Sandstone of 7,000, 5,200, and 4,700 m/s, respectively, Rv is -0.15 and -0.05 at the top and bottom of the Eau Claire interval. Pre-Knox strata are about 1 km shallower in the Cisne well than in the seismic survey area where Eau Claire strata probably have higher velocities. Figure 22 shows parts of sonic logs that were smoothed and converted to functions of two-way time relative to the top of the Eau Claire low-velocity layer in the Cuppy, Streich, and Duncan wells.
+
+REFLECTION SEISMIC PROFILING OF THE WABASH VALLEY FAULT SYSTEM IN THE ILLINOIS BASIN 015
+
+2km I
+
+EAST
+
+700 600 500 400 300 200 100 20
+LOCATION NUMBERS
+
+Figure 10. Line 1 stacked section and plot of CDP fold. Section lines (S) are marked at 1-mi (1.6-km) intervals. At location 83, line 1 ties line 2. Trace interval is 35 ft (10.7 m).
+
+Pre-Knox strata in the Streich well are at about the same depth as in the survey area. The average velocity of the Eau Claire strata in the Streich well is about 5,800 m/s, about the same as the velocity of the deepest Mount Simon strata in this well. For velocities of 7,000 and 5,800 m/s above and below the top of the Eau Claire Formation, Rv is about -0.9. Density contrast enhances reflectivity of this inter-
+
+face. It probably produces a strong reflection event in most of the Illinois Basin. The apparent two-way interval transit time between the tops of the Knox Group and the Eau Claire Formation is about 460 ms as measured by a peak-to-trough separation within the graben in line 1. The interval velocity is probably about 6,400 m/s, as in the Cuppy well (fig. 4). The corresponding thickness of the
+
+O16
+0.0 -
+
+INVESTIGATIONS OF THE NEW MADRID SEISMIC ZONE
+
+1 km__.
+
+EAST
+
+0.5 -:
+
+o
+O
+UJ
+
+2.0
+
+560 500
+
+400 300 200 LOCATION NUMBERS
+
+100 20
+
+Figure 11. Line 1 migrated section for locations 9-560 with section lines (S) at 1-mi (1.6-km) intervals. Numbers in circles are projected locations of wells 3-7. At location 83, line 1 ties line 2. Trace interval is 35 ft (10.7 m).
+
+REFLECTION SEISMIC PROFILING OF THE WAB ASH VALLEY FAULT SYSTEM IN THE ILLINOIS BASIN 017
+
+1 km
+
+EAST
+
+N
+
+oCzoO M
+
+CJ UJ
+
+K
+
+(O
+
+1I-
+
+;- x
+
+560 500
+
+400 300 200 LOCATION NUMBERS
+
+100
+
+Figure 12. Line 1 migrated section (locations 9-560) showing the Hovey Lake fault (H), the floor (A) and roof (B) faults of the Wabash Island fault, and section lines (S). Numbers in circles are projected locations of wells 3-7. Interpreted events (labeled along right side of figure) are: S, Ste. Genevieve Limestone; N, New Albany Shale; M, Maquoketa Group; K, Knox Group; E, Eau Claire Formation; and X,
+acoustic basement.
+
+O18 o—
+
+INVESTIGATIONS OF THE NEW MADRID SEISMIC ZONE
+
+1 km
+
+EAST
+
+S N M K
+
+560 500
+
+400 300 200
+LOCATION NUMBERS
+
+100 20
+
+Figure 13. Line 1 depth section (locations 9-560) showing the Hovey Lake fault (H), the floor (A) and roof (B) faults of the Wabash Island fault, and section lines (S). Numbers in circles are projected locations of wells 3-7. Interpreted events (labeled along right side of figure) are: S, Ste. Genevieve Limestone; N, New Albany Shale; M, Maquoketa Group; K, Knox Group; E, Eau Claire Formation; and X, acoustic basement. Horizontal lines are at 1,000-ft (305-m) intervals.
+
+Knox Group is approximately 1,470 m. Also, using the depth to the top of the Knox Group in the General Electric well, we estimate that the top of the Eau Claire Formation in the center of the graben beneath line 1 is approximately 3,680 m below sea level.
+
+THICKNESS OF THE EAU CLAIRE LOW-IMPEDANCE LAYER
+The Eau Claire event is a wavelet complex due to interference of two or more reflections. The first trough of
+
+REFLECTION SEISMIC PROFILING OF THE WABASH VALLEY FAULT SYSTEM IN THE ILLINOIS BASIN 019
+
+1/2 km
+
+EAST
+
+o-
+
+CcOc
+I 2-
+o
+t
+UoJ
+
+N M K
+
+560 500
+
+4OO
+LOCATION NUMBERS
+
+300
+
+Figure 14. Line 1 depth section (locations 200-560) showing the floor (A) and roof (B) faults of the Wabash Island fault and section lines (S). Numbers in circles are projected locations of wells 3-5. Interpreted events (labeled along right side of figure) are: S, Ste. Genevieve Limestone; N, New Albany Shale; M, Maquoketa Group; K, Knox Group; E, Eau Claire Formation; and X, acoustic basement. Horizontal lines are at 1,000-ft (305-m) intervals.
+
+O20
+o-
+
+INVESTIGATIONS OF THE NEW MADRID SEISMIC ZONE
+, 1/2 km ,
+
+EAST
+
+N .
+I
+oM
+
+380 300
+
+200
+
+LOCATION NUMBERS
+
+Figure 15. Line 1 depth section (locations 9-380) showing the Hovey Lake fault (H) and section lines (S). Numbers in circles are projected locations of wells 5-7. Interpreted events (labeled along right side of figure) are: S, Ste. Genevieve Limestone; N, New Albany Shale; M, Maquoketa Group; K, Knox Group; E, Eau Claire Formation; and X, acoustic basement. Horizontal lines are at 1,000-ft (305-m) intervals.
+
+REFLECTION SEISMIC PROFILING OF THE WABASH VALLEY FAULT SYSTEM IN THE ILLINOIS BASIN O21
+
+1 km
+
+NORTH
+
+1 km
+
+NORTH
+
+UJ
+
+100 200
+LOCATION NUMBERS
+
+300
+
+Figure 16. Line 2 stacked section and plot of CDP fold with section-line indicia (S). Number in circle is projected location of well 10. At location 305, line 2 ties line 1. Trace interval is 35 ft (10.7 m)
+
+20 100
+
+200
+
+LOCATION NUMBERS
+
+300
+
+Figure 17. Line 2 migrated data with section-line indicia (S). Number in circle is projected location of well 10. At location 305, line 2 ties line 1. Trace interval is 35 ft (10.7 m).
+
+O22 INVESTIGATIONS OF THE NEW MADRID SEISMIC ZONE
+
+1 km
+
+NORTH
+
+oo 1.0
+LLI
+LLI 5
+1.5 -
+
+2.0 -
+
+100 200
+LOCATION NUMBERS
+
+300
+
+Figure 18. Line 2 migrated data showing faults D and E of the Hovey Lake fault and section lines (S). Number in circle is projected location of well 10. Interpreted events (labeled along right side of figure) are: S, Ste. Genevieve Limestone; N, New Albany Shale; M, Maquoketa Group; K, Knox Group; E, Eau Claire Formation; and X, acoustic basement.
+
+REFLECTION SEISMIC PROFILING OF THE WABASH VALLEY FAULT SYSTEM IN THE ILLINOIS BASIN O23
+
+1 km
+
+NORTH
+
+S N M K
+
+6-
+
+100 200
+LOCATION NUMBERS
+
+300
+
+Figure 19. Line 2 depth section showing faults D and E of the Hovey Lake fault and section lines (S). Number in circle is projected location of well' 10. Interpreted events (labeled along right side of figure) are: S, Ste. Genevieve Limestone; N, New Albany Shale; M, Maquoketa Group; K, Knox Group; E, Eau Claire Formation; and X, acoustic basement. Horizontal lines are at 1,000-ft (305-m) intervals.
+
+this event is correlated (interpreted) in figures 12-15, 18-19, and 21. In lines 1-2 the event generally has eight successive legs (fig. 23C): (1) a weak initial peak, (2) an anomalously strong trough, (3) a strong peak generally weaker than the first trough, (4) a moderate- to
+
+high-amplitude trough, (5) a peak near the zero-deflection line, (6) another moderate- to high-amplitude trough, (7) a peak of moderate strength, and (8) a trough of moderate strength. All seismic sections for lines 1-3 have normal Society of Exploration Geophysicists (S.E.G.) polarity for
+
+024
+i0.0
+CO Q O O
+{/) 0.5 —
+w 5 I-
+B
+CO Q O O
+CO 0.5
+5 I-
+
+INVESTIGATIONS OF THE NEW MADRID SEISMIC ZONE
+
+1/2 km
+
+.
+
+EAST
+
+f
+
+CO
+(wC O
+
+UJ
+Q
+
+I 140 120 100
+
+I 80
+
+I
+80
+
+LOCATION NUMBERS
+
+I 40
+
+Figure 20. Line 3: A, stacked section (0-1 s) with section-line indicia (S); B, migrated data; and C, depth section and numbered CDP locations; horizontal exaggeration is approximately 3:1. Horizontal lines are at 1,000-ft (305-m) intervals.
+
+REFLECTION SEISMIC PROFILING OF THE WABASH VALLEY FAULT SYSTEM IN THE ILLINOIS BASIN O25
+EAST
+
+2.0
+
+6-
+
+140 40
+LOCATION NUMBERS
+
+140 40
+B LOCATION NUMBERS
+
+Figure 21. Line 3: A, migrated data and B, depth section, with plot of CDP fold, showing the Wabash Island fault (W) and section lines (S). Interpreted events (labeled along right sides of seismic sections) are: S, Ste. Genevieve Limestone; N, New Albany Shale; M, Maquoketa Group; K, Knox Group; E, Eau Claire Formation; and X, acoustic basement. Trace interval is 35 ft (10.7 m).
+
+O26 INVESTIGATIONS OF THE NEW MADRID SEISMIC ZONE
+
+SLOWNESS, IN MICROSECONDS PER METER
+
+300 -300
+
+100 300
+
+100 300
+
+100
+
+-200
+CO Q
+O -100 O 111 CO
+-E
+Ii-
+I i 100
+111
+I 200
+1c1c1
+300
+
+- EM
+
+400
+Cuppy
+Hamilton Co.,
+
+Streich
+
+Duncan
+
+Pope Co., III. Webster Co., Ky.
+
+Figure 22. Parts of sonic logs for the Cuppy, Streich, and Duncan wells showing slowness (reciprocal velocity) as a function of two-way reflection time relative to that of the top of the Eau Claire Formation (E). Approximate tops of Precambrian rocks (P) and the Mount Simon Sandstone (M) are shown.
+
+an explosive source (Thigpen and others, 1975). First upward motion of the geophone case produces a trough (negative deflection) in these wiggle-trace, variable-area displays. Zero-phase band-pass filtering produces precursory deflections, but these are negligible in our data and do not affect polarity interpretations of the Eau Claire event or first-arrival critical refractions (head waves). For an impulsive source with first motion of the incident wave downgoing and away from the source, reflection from a low-impedance layer yields downward first motion of the reflected wave at the surface and a peak in normal-polarity displays. Generally, the second leg of the primary seismic wavelet has much greater amplitude than the first leg in data
+
+recorded and processed with parameters similar to those used here. Therefore, in data with high signal-to-noise ratio, a strong (high-amplitude) event from an isolated, highly reflective, low-impedance layer begins with a weak peak followed by a strong trough. That the first anomalously large deflection, leg 2, of the Eau Claire event is a trough, is consistent with reflection from a highly reflective low-impedance layer.
+Legs 4-6 of the Eau Claire event together form a broad trough interrupted by a minor peak (fig. 23 C), a feature that may result from destructive interference. To further interpret the waveform of the Eau Claire event, wavelet complexes (fig. 235) corresponding to simple velocity models (fig. 23£>) were considered. In these models, density variations were ignored, a reference velocity of 7,000 m/s for the lower part of the Knox strata was used, and modeled reflection coefficients were scaled arbitrarily to get reasonable velocity estimates. The modeled primary seismic wavelet (fig. 23A) was generated by convolution of the first derivative of a Gaussian error function with a series of three equispaced spikes of alternating sign (Rene, 1992). The dominant period of the wavelet, 33 ms, is twice the separation between extrema of the derivative of the Gaussian function and twice the interval between successive spikes in the time series with which this derivative was convolved. The modeled wavelet has four legs, the second of which has the largest amplitude. The simplest velocity model is a low-velocity (low-impedance) layer (model 1 in fig. 23£>) with two-way interval transit time, 72 ms, equal to the separation between the second and seventh legs of the wavelet complex. The modeled waveform may better approximate the Eau Claire event by inclusion of layering within the low-impedance layer (models 2-5 in fig. 23£>). The solution of a low-impedance layer is not unique; however, the Eau Claire event can also be modeled by several step-like decreases in velocity (model 6 in fig. 23D) or by other models with transitional layers.
+Interval velocities of the Eau Claire Formation are about 5,200 and 5,800 m/s in the Cisne (Heigold and Oltz, 1990) and Streich (fig. 22) wells, respectively. For velocities of 5,000-6,000 m/s, a 72-ms two-way interval transit time corresponds to an interval of 180- to 216-m thickness. Using sparse well control, Schwalb (1982) mapped the Eau Claire Formation (fig. 3A) and interpreted a thickness of about 360 m in our study area, slightly greater than in the Parley well. For velocities of 5,000-6,000 m/s, the two-way interval transit time for a 360-m layer is 144 to 120 ms. If the Eau Claire event is due to a low-impedance layer with two-way interval transit time of 72 ms, then either that interval is only part of the Eau Claire Formation or the Eau Claire Formation is only about 200 m thick, much thinner than mapped by
+
+REFLECTION SEISMIC PROFILING OF THE WABASH VALLEY FAULT SYSTEM IN THE ILLINOIS BASIN O27
+
+01
+
+VELOCITY, IN KILOMETERS PER SECOND 4686868686868
+
+VI \
+
+WAVELET
+
+Model: 123456
+WAVELET COMPLEXES
+B
+
+SEISMIC DATA
+
+23456
+VELOCITY MODELS
+D
+
+Figure 23. A, Modeled primary seismic wavelet; B, modeled wavelet complexes 1-6; C, the Eau Claire event in line 1 data after wave-equation migration (from within the Mt. Vernon graben); and D, corresponding velocity models 1-6. Successive legs numbered 1-8 are identified in the wavelet complexes and the Eau Claire event.
+
+Schwalb (1982). Considering the indications of layering in the Eau Claire Formation shown by geophysical logs from deep wells in the Illinois Basin, we interpret that the Eau Claire event is probably generated by reflections at the top of the Eau Claire Formation and other interfaces in the upper 200 m of that formation.
+ACOUSTIC BASEMENT EVENT
+The acoustic basement event in lines 1-3 is tentatively defined by trough X, which follows the first trough of the Eau Claire event by about 250 ms (figs. 12-15, 18-19, and 21). The coherent events arriving after the Eau Claire event and including trough X may include multiple reflections, especially long-period interbed multiples with little differential moveout relative to primary reflections. Correlations across faults and apparent terminations at interpreted fault cuts in line 1 may indicate that primary reflections dominate these sub-Eau Claire events (figs. 12-15). Coherency decreases directly below the fault cuts of the Eau Claire Formation. This may indicate fault-shadow effects (Tucker and Yorston, 1973) of nonhyperbolic moveout, wherein, for a given CDP gather, some paths to or from a sub-Eau Claire footwall reflector cross the fault where lower Knox strata are faulted out, and other ray paths to or from that same reflector
+
+cross the fault whe're Eau Claire strata, with much slower velocities, are faulted out. If trough X is part of the response to reflection from geologic basement, defined as the top of igneous or metamorphic basement rocks, then coherency of troughs and peaks in the interval between trough X and the Eau Claire event is probably due to reflectivity of the interface between the Eau Claire and Mount Simon Formations and layering within those formations.
+Except for the Weber-Horn well, wells in the map area of figure 3 penetrated 30 m or less of Precambrian crystalline rocks, and sonic velocities were generally reduced by effects of weathering. The Weber-Horn well penetrated about 400 m of Mount Simon Sandstone, with an average velocity of 4,450 m/s, overlying 122 m of Precambrian crystalline rocks, including a rhyolite porphyry. The velocity of basement rocks a short distance below the Cambrian-Precambrian contact is 5,240 m/s, and the top of basement rocks produces a strong reflection event in nearby CDP seismic data (Heigold and Oltz, 1990). Basement is only 2.3 km below sea level in this well. The average velocity of Mount Simon Sandstone is 4,689 m/s in the Cisne well, 3.3 km below sea level (Heigold and Oltz, 1990). Christensen (1982) measured compressional wave velocities of 5,710-6,520 m/s for 19 samples of granite at 0.1 GPa, which approximates the pressure at the top of basement rocks in the survey area. For velocities of Mount Simon Sandstone of 4,700-5,000 m/s and velocities of granite of 5,700-6,500
+
+O28 INVESTIGATIONS OF THE NEW MADRID SEISMIC ZONE
+
+m/s, reflection coefficients for particle displacement due to velocity contrast, Ry, are from 0.13 to 0.16, about the same in absolute magnitude as was calculated for the Knox-Eau Claire interface (Ry = -0.15) with velocities of 7,000 and 5,200 m/s above and below that interface, respectively.
+In lines 1-3, the reflection event that includes trough X is much less coherent than the Eau Claire event. This may result from low reflectivity of the basement due to greater velocities of Mount Simon Sandstone than are measured in Illinois Basin wells, or it may result from the presence of basement rocks with lower velocities than unweathered granite, for example rhyolites. We do not interpret pre-Mount Simon rift-fill beneath lines 1-3, although this cannot be ruled out. Rift-fill sedimentary or igneous rocks, as postulated by Sexton and others (1986), and sedimentary or metasedimentary strata in a Proterozoic layered sequence, may not be distinguishable in these data from other basement rocks, including unlayered granites. For purposes of seismic interpretations, we will refer here to the combined Eau Claire and Mount Simon Formations as the pre-Knox sedimentary rocks.
+At least some of the events arriving after trough X may be surface multiples, long-period interbed multiples, diffractions generated by nonlayered intrabasement heterogeneities (Gibson and Levander, 1988,1990), or sideswipe from Paleozoic reflectors having steep dips due to drag folding associated with the Wabash Island and Hovey Lake faults. Some of these events, however, may be primary reflections from within the basement rocks, perhaps from interfaces in the Proterozoic layered sequence defined in COCORP and other reflection seismic data from the region of the eastern granite-rhyolite province (Pratt and others, 1990). Some of these sub-acoustic basement events terminate at interpreted fault cuts. An apparent footwall cutoff of a reflection event by the Wabash Island fault is observed at CDP location 310 at a depth of about 4.8 km in line 1 (fig. 13). Possibly, this event should be designated as the acoustic basement because it can be tentatively correlated across the Wabash Island and Hovey Lake faults. With the caveat that acoustic basement is not definable with certainty in the reflection data of seismic lines 1-3, we shall tentatively interpret the thickness of pre-Knox sedimentary strata assuming that trough X is generated by reflection from the top of basement rocks.
+The onset of the wavelet or wavelets that include trough X is indeterminate due to superposition of suprabasement reflections. Intrabasement reflectors may be subparallel to suprabasement reflectors, but it is unlikely that angular discordance would be so slight that intrabasement reflections would contribute to coherence of the sequence of deflections between the Eau Claire event and trough X over distances of several kilometers. For a basement velocity of 6,000 m/s, angular discordance of 3° between Paleozoic layering and an intrabasement reflector would produce divergence of reflections by 17.5 ms, about half the dominant period of the primary seismic wavelet, over a distance of 1 km. Because the
+
+data are shown with normal S.E.G. polarity convention, trough X may be the third or fifth leg of a wavelet reflected from the top of high-impedance basement rocks. Estimates of two-way interval transit time from the top of the Eau Claire Formation to basement are about 202 or 234 ms according to whether trough X is the fifth or third leg of the wavelet reflected from basement. For interval velocities of 5,000-6,000 m/s and two-way interval transit times of 202 or 234 ms, thickness estimates of 505-606 m or 585-702 m, respectively, are computed for pre-Knox sedimentary rocks. In the survey area, Schwalb (1982) interpreted about 640 m of pre-Knox sedimentary rocks comprising 360 m of Eau Claire Formation and 280 m of Mount Simon Sandstone (fig. 3). For a two-way transit time of 202 ms and a thickness of 640 m, an average interval velocity of 6,340 m/s is implied. This is much greater than indicated by sonic velocities in wells. For two-way transit time of 234 ms and thickness of 640 m, the interval velocity is 5,470 m/s, which is reasonable. If Schwalb's interpretations of thicknesses in the area are correct, trough X is more likely the third than the fifth leg of a wavelet reflected from the top of basement rocks. In view of the application of prestack spiking deconvolution to the data, the fifth leg of the wavelet may be so small that it would not account for trough X.
+In the Streich well, pre-Knox sedimentary strata are at about the same depth as in the survey area. The average velocity of the Eau Claire strata is about 5,800 m/s, about the same as the velocity of the deepest Mount Simon strata penetrated in this well (fig. 22). For an interval velocity of 5,800 m/s and thickness of 360 m, the computed two-way interval transit time for the Eau Claire Formation in the study area is 124 ms and the remaining two-way transit time for the Mount Simon Sandstone is thus about 78 or 110 ms, according to whether trough X is the fifth or third leg of the wavelet reflected from basement. For velocities of 5,000-6,000 m/s and two-way interval transit times of 78 or 110 ms, thickness estimates of 195-234 m or 275-330 m, respectively, are computed for the Mount Simon Sandstone. In both cases estimated thicknesses are greater than indicated by Rupp (1991), who interpreted less than 150 m of Mount Simon Sandstone in the survey area (more precisely, no contours were mapped south of a 152-m (500-ft) contour). If the Eau Claire Formation is much thicker than 360 m or much slower than 5,800 m/s, then the Mount Simon Sandstone may be less than 150 m thick, as interpreted by Rupp, even if trough X is part of the geologic basement reflection.
+Assuming 360 m of Eau Claire Formation with a velocity of 5,800 m/s, and assuming that trough X is the third leg of the wavelet reflected from the basement, we estimate 275-330 m of Mount Simon Sandstone beneath lines 1-3. Our seismic survey area is about halfway between the Cuppy and Bell wells. The thickness of the Mount Simon Sandstone is about 265 m in the Bell well (table 1) and this formation is absent in the Cuppy well, according to Buschbach and Kolata (1990). Thus, a thickness of about 300 m of Mount
+
+REFLECTION SEISMIC PROFILING OF THE WABASH VALLEY FAULT SYSTEM IN THE ILLINOIS BASIN O29
+
+Simon Sandstone beneath seismic lines 1-3 is consistent with the existence of a Mount Simon Sandstone basin in southwestern Indiana on-trend with the Reelfoot rift but perhaps not extending as far north as the COCORP seismic line. The Cisne well (table 1) penetrated only 109 m of Mount Simon Sandstone north-northeast of the Cuppy well. As interpreted by Schwalb (1982) (fig. 35), the Mount Simon Sandstone may be regionally thinner in the vicinity of these two wells. Alternatively, relief on the eroded Precambrian surface may account for isolated changes in thickness of the Eau Claire and Mount Simon Formations (Pratt and others, 1990). Interpretations of regional structure are speculative, given only the sparse well control and estimates of thickness based on reflection seismic data presently available. Using the depth to top of the Knox Group in the General Electric well and interpreted thickness estimates of 1,470, 360, and 300 m for the Knox Group, Eau Claire Formation, and Mount Simon Sandstone, respectively, we estimate that the top of the Precambrian basement rocks is about 4,340 m below sea level in the center of the Mt. Vernon graben beneath seismic line 1.
+INTERPRETATIONS OF FAULTS AND FAULT-RELATED STRUCTURES
+
+Table 5. Elevations of the top of the Cypress Formation (Upper Mississippian) and fault cuts, and thicknesses of strata faulted out in selected wells shown in figure 2.
+[Elevations are relative to mean sea level and are shown in meters. Thickness faulted out shown in meters. Except for well 6, data are from Tanner and others (1980b). NP, not penetrated. Leaders (--) indicate no data]
+
+Well Elevations
+
+Thickness
+
+no.
+
+Cypress Fm.
+
+Fault
+
+faulted out
+
+1......... ............592.............. -167......... ..............59
+
+2......... ............595..............,.-67.......... ..............55
+
+3......... ............593.............., -190 ......... ..............87
+
+4......... ............678.............. ...—............
+
+5......... ............664.............. ...—... ........
+
+6......... ............675.............. ...—............ ...............—
+
+7......... ...........-581.............. —
+
+—
+
+8......... ............586.............. -255......... ..............15 — . -362......... ..............34
+
+^75......... ..............18 — .. -533......... ..............27
+
+9......... ............ NP............... -167......... ..............23 — -207......... ..............30
+
+........ .... — .. .... .... . -280......... ..............27
+
+10........ ............ NP............... -105......... ..............24
+
+11.....................646.............. -310......... ..............23
+
+12........ ............587.............. ..-2........... .............113
+
+13........ ............589.............. -117......... ..............94
+
+Table 5 summarizes fault cuts and elevations of formation tops in selected shallow wells (fig. 2). Locations of some wells are projected along strike to locations shown at the top of the seismic sections. In a time section where velocity increases with depth, a planar fault will give the false appearance of being listric, or concave upward, and the geometry of a fault may be interpreted more easily in a depth section. All depth sections, except figure 20C, are shown without vertical or horizontal exaggeration. The datum for time and depth sections is 107 m (350 ft) above sea level. There are potential pitfalls, however, in interpreting the depth sections, including fault-shadow effects and effects of approximations in time-to-depth conversion using the laterally constant velocity function of figure 4.
+WABASH ISLAND FAULT
+Figures 12-15 show interpreted migrated time and depth sections of line 1. In the depth sections (figs. 13 and 14), we interpret the Wabash Island fault as a fault zone about 220 m wide along the east-west direction of the seismic profile. Figure 14 shows part of the depth section that includes the Wabash Island fault at an expanded scale for depths less than 16,000 ft (4.9 km) and details of interpretation in the fault zone. The fault zone appears to be quasi-planar with an apparent east dip of about 64°. For an approximate strike of N. 20° E. (fig. 2), the estimated true dip of the fault zone is about 65° east-southeast. Faults A and
+
+B are identified as the floor and roof faults of the fault zone, respectively.
+Fault A is well defined by footwall cutoffs of the New Albany, Maquoketa, Knox, and Eau Claire events (figs. 12-13). It apparently extends into basement rocks and cuts the acoustic basement event about 0.3 km east of the fault cut of the Eau Claire event. The footwall and hanging-wall cutoffs of the Eau Claire and New Albany events are offset by about 34 and 20 ms, respectively. Using a velocity of 7,000 m/s for Knox strata faulted out at the footwall cutoff of the Eau Claire Formation, the calculated vertical displacement on fault A is about 120 m. Using a velocity of 6,000 m/s for strata faulted out, the calculated vertical displacement of the New Albany Shale is about 60 m, half of the apparent displacement of the Eau Claire Formation. Fault A probably cuts wells 1-2 0.3 km south and north of line 1 (fig. 2), where vertical fault displacements of 59 and 55 m are indicated by thicknesses of missing strata (table 5). The trace of fault A at the top of the Cypress Formation (fig. 2) is east of wells 1-2, and the trace of fault A at the bedrock surface is west of these wells.
+In well 3, 0.1 km south of line 1 (fig. 2), the elevation of the top of the Upper Mississippian Cypress Formation is about the same as in wells 1-2 (table 5). Most of the vertical displacement in the Cypress Formation by the Wabash Island fault is east of well 3 and, therefore, east of fault A in line 1. In our survey area, except for anticline F (fig. 2), Cypress strata in the upthrown block of the Wabash Island fault define a west-dipping monocline. The dip on this mon-
+
+O30 INVESTIGATIONS OF THE NEW MADRID SEISMIC ZONE
+
+ocline exceeds the regional dip and may indicate rotation along the east-dipping Inman East fault. In line 1, displacement on fault A is apparently much less than in wells 1-2, and the fault may not reach the bedrock surface, although normal drag folding may be evidenced by an east-dipping reflection downthrown to fault A about 800 m below seismic datum at CDP location 475.
+Part of the apparent upward decrease in displacement along fault A may be due to normal drag folding, as indicated by east dip of the New Albany reflection event downthrown to fault A, or due to ductile deformation in an elliptical region around the fault (Barnett and others, 1987), as may be indicated by apparent footwall uplift, or roll-under, of the Eau Claire Formation adjacent to fault A. Displacement may also decrease upward along fault A due to upward bifurcation of the fault. Steeper dipping fault branches are tentatively interpreted by dashed lines within the fault zone (fig. 14). We designate these fault branches, from shallowest to deepest, as ABi-AB4. Faults A, B, and ABj-AB4 bound horses, or slices within the fault zone. We interpret that faults AB i-AB4 are tangential to faults A and B. In line 1, we interpret that fault branch ABj diverges from faults A and B about 1.2 and 0.3 km below seismic datum, respectively (fig. 14). Faults within the fault zone may be more numerous and more complex than we have interpreted; however, some simplification may be justified because the faults are not clearly imaged through the Knox Group, which is nearly acoustically transparent.
+Fault B apparently cuts well 3 above the Cypress Formation where 87 m of strata are faulted out about 300 m below seismic datum (table 5). Fault B extends downward from well 3 subparallel to fault A (figs. 13-14). The possible extension of fault B through the Knox Group and into basement rocks is dashed in the interpretation. The vertical displacement of the Eau Claire Formation by fault B is perhaps less than 30 m and may not be resolvable in the seismic data. We interpret that faults ABi~AB4 probably transferred displacement downward from the roof fault B to the floor fault A.
+One effect of transferring displacement from one side of the quasi-planar fault zone to the other along faults such as AB i-AB4 may have been similar to that of a single listric fault with consequent rotation of strata in the downthrown block. Such rotational motion is generally associated with rollover, or reverse drag in the downthrown block, although, in consolidated rocks, normal drag folding may also occur (Hamblin, 1965). Normal drag folding is evidenced by the west limb of the hanging-wall syncline, I (fig. 2). Well 4 penetrates the Cypress Formation in syncline I about 14 m deeper than well 5 on the crest of anticline G (fig. 2, table 5). Reverse drag folding, or rollover, is evidenced by the east limb of syncline I and west limb of anticline G. Syncline I may narrow and die out with increasing depth and is perhaps
+
+absent at the base of the Knox Group where the Mt. Vernon graben is only about 2.1 km wide (fig. 13). About 1.5 km south of line 1, well 11 intersects a fault 417m below seismic datum where 23 m of strata is faulted out (fig. 2, table 5). We interpret that this branch of the Wabash Island fault dies out northward into the west limb of the hanging-wall syncline I below line 1 (fig. 2). If faults ABj-AB4 or other faults within the fault zone are tangential to the floor and roof faults, then these steeper dipping fault surfaces must include both concave upward and convex upward surfaces. One effect of movement on a convex upward normal fault is normal drag folding of the hanging wall (Xiao and Suppe, 1992). Effects of both concave and convex upward fault surfaces may partially account for the divergence of dips of strata within the fault zone between faults A and B and in the hanging wall of the roof fault, B.
+Line 3 is 2 mi (3.2 km) south of line 1. Figure 20 shows uninterpreted stack, and migrated time and depth sections. Figure 21 shows the interpreted migrated time and depth sections. These data image part of the Wabash Island fault at depths less than 1.5 km. The apparent dip of the quasi-planar fault is about 74° to the east. For a strike of N. 22° E. (fig. 2), the calculated true dip is 75° east-southeast. Wells 12-13 are 0.7 km south and north of line 3. In these wells, 113 and 94 m of strata are faulted out 109 and 224 m below seismic datum, respectively (table 5). These wells probably cut the westernmost fault branch of the Wabash Island fault. The vertical displacement of the fault imaged in line 3 is probably about 100 m, as in wells 12-13 and other nearby wells on-trend with the interpreted fault, but this can not be confirmed with certainty by correlation of events across the fault, perhaps because the seismic data are affected by less CDP coverage (lower stacking fold) in the taper on the east end of line 3.
+A stream crossing line 3 near CDP location 76 flows from a narrow marshy slough that extends 1.4 km to the north-northeast, subparallel to the Wabash Island fault. Oil wells penetrate the bedrock surface at a depth of about 40 m in this area. The interpreted trace of the westernmost branch of the Wabash Island fault at the bedrock surface extends northeastward from the vicinity of location 72 in line 3. This interpreted trace roughly coincides with the east edge of the marshy slough defined approximately by the 360-ft (110-m) contour of ground-surface elevation above sea level. This spatial coincidence is probably without significant causal connections because there are several other sloughs in the area trending north-northeast. It is possible, however, that development of this particular slough was influenced by (1) bedrock surface topography associated with fault-related folds or differential erosion of bedrock on either side of the fault or in the fault zone, (2) movement of fluids along the fault, or (3) fault reactivation by regional compressive forces in Quaternary time. Reactivation of the fault surface imaged in line 3 might have been favored because the fault has a
+
+REFLECTION SEISMIC PROFILING OF THE WABASH VALLEY FAULT SYSTEM IN THE ILLINOIS BASIN O31
+
+large displacement, which probably continues to basement, and the fault may have less curvature than branches of the Wabash Island fault further east.
+HOVEY LAKE FAULT
+The Hovey Lake fault cuts the New Albany Shale near the intersection of seismic lines 1 and 2. About 0.4 km southeast of this intersection, 94 m of strata are faulted out by four faults at depths of 362-640 m in well 8 (table 5, fig. 2). About 80 m of section is faulted out by three faults in nearby well 9. In Mississippian and Pennsylvanian strata below seismic line 1, the Mt. Vernon graben appears to be roughly symmetric, with about equal displacement on the Wabash Island and Hovey Lake faults. Wells 5-7 (table 5) penetrate the Cypress Formation near line 1, at the crest of anticline G, in the hanging-wall syncline J, and in the footwall anticline H, respectively (fig. 2). The vertical displacement of the Cypress Formation across the Hovey Lake fault is 78 m between wells 5 and 7, and 89 m between wells 6 and 7. The interpreted depth sections of line 1 show that the Hovey Lake fault steepens upward as it bifurcates into two or more faults in a listric fan at shallow depths (figs. 13, 15). At depths greater than 1.8 km, the fault has an apparent west dip of about 69°. The fault strikes about N. 21° E. and the true dip is about 70° west-northwest. Near the surface, the faults dip about 70°-80° to the west-northwest.
+In line 1, the Hovey Lake fault displaces the New Albany, Knox, and Eau Claire events by about 38,25, and 14 ms, respectively. Assuming a velocity of 6,000 m/s for the strata faulted out, the computed vertical displacements of the New Albany Shale and the top of the Knox Group are about 114 and 75 m, respectively. Using a velocity of 7,000 m/s for the Knox strata faulted out at the footwall cut of the Eau Claire Formation, the calculated vertical displacement is about 49 m. The decrease in vertical displacements with increasing depth along the Hovey Lake fault may be related to a decrease with increasing depth of rotation of strata and folding associated with the Wabash Island fault. The Hovey Lake fault apparently intersects the Wabash Island fault within the basement rocks. If the roof fault B of the Wabash Island fault continues through basement rocks, then it apparently intersects the Hovey Lake fault about 5.7 km below seismic datum. If the Hovey Lake fault extends below this depth, however, it may intersect the floor fault A of the Wabash Island fault about 6.0 km below seismic datum (5.9 km below sea level). We interpret that the Hovey Lake fault is a subsidiary antithetic fault to the Wabash Island fault. It may result in part from rotation of strata due to curvature on the Wabash Island fault within basement rocks near the apparent intersection of the Wabash Island and Hovey Lake faults. Such curvature is not clearly resolvable, however, by the reflection seismic data of line 1. The east limb of anticline G probably developed by reverse drag folding or rota-
+
+tion of strata due to movements on the listric Hovey Lake fault. The east limb of the hanging-wall syncline J is probably due to normal drag folding associated with that fault.
+Figures 18-19 show interpreted time and depth sections of line 2. In these data we interpret that the Hovey Lake fault bifurcates upward into fault branches D and E about 1 km below seismic datum. The easternmost branch, fault E (fig. 19), is apparently intersected by well 10 about 0.1 km west of line 2, where 24 m of strata are faulted out 212m below the seismic datum (fig. 2, table 5). Fault E has an apparent north dip of about 45° along line 2. For a strike of about N. 21° E., the true dip of the fault is calculated to be about 70° west-northwest. In well 10, about 0.1 km west of line 2, fault D intersects the bedrock surface in line 3 about 200 m north of fault E. The apparent dip on fault D near the bedrock surface is about 52° north. Assuming a strike of N. 21° E., the true dip is therefore about 79° west-northwest. The vertical displacement on fault D is probably about 70 m. Normal drag folding is apparently imaged by dipping reflections downthrown to fault D. About 4 km south of line 1 the vertical displacement of the Cypress Formation by the Hovey Lake fault is about 40 m. The southwest flank of anticline H may indicate normal drag folding on the upthrown block of the Hovey Lake fault, or it may have resulted from displacements associated with underlying blind fault branches of the Hovey Lake fault.
+SUMMARY AND DISCUSSION
+Our objective in shooting common-depth-point minihole reflection seismic lines 1-3 in southwestern Indiana was to image and interpret deep structure of the Wabash Valley fault system. We interpret that, northeast of Hovey Lake in seismic line 1, the Wabash Island fault is confined to a fault zone about 200 m wide that dips about 65° east-southeast. Hanging-wall deformation associated with this fault apparently extends across the Mt. Vernon graben and includes the Hovey Lake fault, which we interpret to be a subsidiary antithetic fault even though the graben appears roughly symmetrical at the level of Mississippian and Pennsylvanian strata. The Hovey Lake and Wabash Island faults apparently intersect at a depth of about 6 km beneath line 1 within Precambrian basement rocks. Hanging-wall deformation associated with both faults includes normal and reverse drag folding. In seismic line 1, the vertical displacement on the Hovey Lake fault and roof fault of the Wabash Island fault apparently decreases with increasing depth, whereas the displacement on the floor fault of the Wabash Island fault apparently increases with increasing depth. In lines 1-2, the Hovey Lake fault is apparently listric and bifurcates upward above the New Albany Shale. The Wabash Island fault probably includes both listric and convex-upward fault surfaces bounding horses within the fault zone. In seismic line 1, the roof and floor faults of the fault zone are apparently
+
+O32 INVESTIGATIONS OF THE NEW MADRID SEISMIC ZONE
+
+quasi-planar through most of the Paleozoic strata. East of Hovey Lake in seismic line 3, the Wabash Island fault may be more complex and the floor fault apparently dips more steeply, about 75° east-southeast.
+We see no evidence of pre-Mount Simon rift-fill associated with large-displacement basement faults that might have been reactivated. The basement is poorly reflective compared to the top of the Eau Claire Formation where a low-velocity layer of about 200 m in thickness may delimit the upper part of that formation. The precise onset of the acoustic basement event is indeterminate, but the seismic data are consistent with an Eau Claire thickness of about 360 m for an interval velocity of 5,800 m/s and a Mount Simon Sandstone thickness of 300 m for an interval velocity of about 5,450 m/s. This is consistent with the existence of a Mount Simon Sandstone basin extending into southwestern Indiana on trend with the Reelfoot rift, although the sandstone may not thicken to 600 m in southwestern Indiana as originally postulated by Schwalb (1982). Impetus for additional seismic profiling may come from exploration for deep reservoirs of oil or gas. Seismic methods should be effective in exploration and development of any deep hydrocarbon deposits that might be trapped by the faults and associated folding. The method of minihole pattern shooting in this region is effective with close spacing of traces in stacked sections.
+REFERENCES CITED
+Ault, C.H., and Sullivan, D.M., 1982, Faulting in southwest Indiana: U.S. Nuclear Regulatory Commission Report NUREG/CR-2908 RA, 50 p.
+Barnett, J.A.M., Mortimer, J., Rippon, J.H., Walsh, J.J., and Watterson, J., 1987, Displacement geometry in the volume containing a single normal fault: American Association of Petroleum Geologists Bulletin, v. 71, no. 8, p. 925-937.
+Braile, L.W., Hinze, W.J., Keller, G.R., Lidiak, E.G., and Sexton, J.L., 1986, Tectonic development of the New Madrid rift complex, Mississippi Embayment, North America: Tectonophysics, v. 131, no. 1, p. 1-21.
+Braile, L.W., Keller, G.R., Hinze, W.J., and Lidiak, E.G., 1982, An ancient rift complex and its relation to contemporary seismicity in the New Madrid seismic zone: Tectonics, v. 1, no. 2, p. 225-237.
+Bristol, H.M., and Treworgy, J.D., 1979, The Wabash Valley fault system in southeastern Illinois: Illinois Geological Survey Circular 509, 19 p.
+Buschbach, T.C., and Kolata, D.R., 1990, Regional setting of the Illinois Basin, in Leighton, M. W., and others, eds., Interior. Cratonic Basins: American Association of Petroleum Geologists Memoir 51, p. 29-55.
+Butler, R.E., Jr., 1967, Comparative subsurface structure of Pennsylvanian and Upper Mississippian rocks in Posey County, Indiana: Bloomington, Indiana University, M.A. thesis, 26 p.
+Cluff, R.M., and Byrnes, A.P., 1990, Lopatin analysis of maturation and petroleum generation in the Illinois Basin, in Leighton,
+
+M.W., and others, eds., Interior Cratonic Basins: American Association of Petroleum Geologists Memoir 51, p. 425-454. Christensen, N.I., 1982, Seismic velocities, in Charmichael, R.S., ed., Handbook of Physical Properties of Rocks, vol. 2: Boca Raton, Fla., CRC Press, Inc., p. 1-228. Droste, J.B., and Patton, J.B., 1985, Lithostratigraphy of the Sauk Sequence in Indiana: Indiana Geological Survey Occasional Paper 47, 24 p. Ervin, C.P., and McGinnis, L.D., 1975, Reelfoot rift: Reactivated precursor to the Mississippi Embayment: Geological Society of America Bulletin, v. 86, p. 1287-1295. Gibson, B.S., and Levander, A.R., 1988, Modelling and processing of scattered waves in seismic reflection surveys: Geophysics, v. 53, no. 4, p. 466-478. ————1990, Apparent layering in common-midpoint stacked images of two-dimensionally heterogeneous targets: Geophysics, v. 55, no. 11, p. 1466-1477. Greb, S.F., 1989, Structural controls on the formation of the sub-Absaroka unconformity in the U.S. Eastern Interior Basin: Geology, v. 17, no. 10, p. 889-892. Hamblin, W.K., 1965, Origin of "reverse drag" on the downthrown side of normal faults: Geological Society of America Bulletin, v. 76, no. 10, p. 1145-1164. Heigold, P.C., 1990, Crustal character of the Illinois basin, in Leighton, M.W., and others, eds., Interior Cratonic Basins: American Association of Petroleum Geologists Memoir 51, p. 247-261. Heigold, P.C., and Oltz, D.F., 1990, Seismic expression of the stratigraphic succession, in Leighton, M.W., and others, eds., Interior Cratonic Basins: American Association of Petroleum Geologists Memoir 51, p. 169-178. Hildenbrand, T.G., Kane, M.F., and Stauder, S.J., 1977, Magnetic and gravity anomalies in the northern Mississippi Embayment and their spatial relation to seismicity: U.S. Geological Survey Miscellaneous Field Studies Map MF-914, scale 1:1,000,000. Kolata, D.R., and Nelson, W.J., 1990, Tectonic history of the Illinois Basin, in Leighton, M.W., and others, eds., Interior Cratonic Basins: American Association of Petroleum Geologists Memoir 51, p. 263-286. Munson, P.J., Munson, C.A., Bleuer, N.K., and Labitzke, M.D., 1992, Distribution and dating of prehistoric earthquake liquefaction in the Wabash Valley of the Central U.S.: Seismological Research Letters, v. 63, no. 3, p. 337-342. Nelson, W.J., 1981, Faults and their effect on coal mining in Illinois: Illinois State Geological Survey Circular 523, 40 p. ————1990a, Structural styles of the Illinois Basin, in Leighton, M.W., and others, eds., Interior Cratonic Basins: American Association of Petroleum Geologists Memoir 51, p. 209-243.
+4990b, Comment on "Major Proterozoic basement features of the eastern midcontinent of North America revealed by recent COCORP profiling:" Geology, v. 18, no. 4, p. 378. Nuttli, O.W., 1974, Magnitude-recurrence relation for central Mississippi Valley earthquakes: Bulletin of the Seismological Society of America, v. 64, no. 4, p. 1189-1207. ————1979, Seismicity of the Central United States: Geological Society of America Reviews in Engineering Geology, v. 4, p. 67-93. Obermeier, S.F., Bleuer, N.K., Munson, C.A., Munson, P.J., Martin, W.S., McWilliams, K.M., Tabaczynski, D.A., Odum, J.K., Rubin, M., and Eggert, D. L., 1991, Evidence of strong
+
+REFLECTION SEISMIC PROFILING OF THE WABASH VALLEY FAULT SYSTEM IN THE ILLINOIS BASIN O33
+
+earthquake shaking in the lower Wabash Valley from prehistoric liquefaction features: Science, v. 251, no. 4997, p. 1061-1063. Obermeier, S. F., Munson, P. J., Munson, C. A., Martin, J. R., Frankel, A. D., Youd, T. L., and Pond, E. C., 1992, Liquefaction evidence for strong Holocene earthquake(s) in the Wabash Valley of Indiana-Illinois: Seismological Research Letters, v. 63, no. 3, p. 321-334. Pratt, T., Culotta, R., Hauser, E., Nelson, D., Brown, L., Kaufman, S., Oliver, J., and Hinze, W., 1989, Major Proterozoic basement features of the eastern midcontinent of North America revealed by recent COCORP profiling: Geology, v. 17, no. 6, p. 505-509. Pratt, Thomas, Hauser, Ernest, and Nelson, K.D., 1990, Reply to comment on "Major Proterozoic basement features of the eastern midcontinent of North America revealed by recent COCORP profiling:" Geology, v. 18, no. 4, p. 378-379. Ray, W.L., 1986, The origin and distribution of oolite zones in the Ste. Genevieve Limestone (Valmeyeran), Posey County, Indiana: Bloomington, Indiana University, M.S. thesis, 94 p. Rene, R.M., 1992, Modeling seismic wavelets by convolving the first derivative of a Gaussian probability function with a time series of equispaced spikes [abs.]: Eos, Transactions, American Geophysical Union, v. 73, no. 14, [Supplement—1992 Spring Meeting Program], p. 200. Rudman, Albert J., 1960, A seismic reflection survey of the surface of the basement complex in Indiana: Indiana Geological Survey Report of Progress No. 18, 26 p. Rupp, J.A., 1991, Structure and isopach maps of the Paleozoic rocks of Indiana: Indiana Geological Survey, Special Report 48, 106 p. Sargent, Michael L., 1990, Sauk Sequence—Cambrian System through Lower Ordovician Series, in Leighton, M.W., and others, eds., Interior Cratonic Basins: American Association of Petroleum Geologists Memoir 51, p. 75-85. Sbar, M.L., and Sykes, L.R., 1973, Contemporary compressive stress and seismicity in eastern North America: An example of
+
+intra-plate tectonics: Geological Society of America Bulletin, v. 84, no. 6, p. 1861-1882.
+Schwalb, H.R., 1982, Paleozoic geology of the New Madrid area: U.S. Nuclear Regulatory Commission Report NUREG/CR-2909 RA, 61 p.
+Sexton, J.L., Braile, L.W., Hinze, W.J., and Campbell, M.J., 1986, Seismic reflection profiling studies of a buried Precambrian rift beneath the Wabash Valley fault zone: Geophysics, v. 51, no. 3, p. 640-660.
+Soderberg, R.K., and Keller, G.R., 1981, Geophysical evidence for a deep basin in western Kentucky: American Association of Petroleum Geologists Bulletin, v. 65, no. 2, p. 226-234.
+Tanner, G.F., Stellavato, J.N., and Mackey, J.C., 1980a, Map of northern Posey County, Indiana, showing structure on Cypress Formation (Mississippian): Indiana Geological Survey Miscellaneous Map 30, scale 1:31,680.
+————1980b, Map of southern Posey County, Indiana, showing structure on Cypress Formation (Mississippian): Indiana Geological Survey Miscellaneous Map 31, scale 1:31,680.
+————198la, Map of northern Posey County, Indiana, showing structure on Springfield Coal Member (V) of the Petersburg Formation (Pennsylvanian): Indiana Geological Survey Miscellaneous Map 33, scale 1:31,680.
+-198Ib, Map of southern Posey County, Indiana, showing structure on Springfield Coal Member (V) of the Petersburg Formation (Pennsylvanian): Indiana Geological Survey Miscellaneous Map 34, scale 1:31,680.
+Thigpen, B.B., Dalbey, A.E., and Landrum, R., 1975, Special report of the Subcommittee on Polarity Standards: Geophysics, v. 40, no. 4, p. 694-699.
+Tucker, P.M., and Yorston, H.J., 1973, Pitfalls in seismic interpretation: Tulsa, Okla., Society of Exploration Geophysicists Monograph Series No. 2, 50 p.
+Xiao, H., and Suppe, J., 1992, Origin of rollover: American Association of Petroleum Geologists Bulletin, v. 76, no. 4, p. 509-529.
+
+Published in the Central Region, Denver, Colorado Manuscript approved for publication July 6, 1994 Edited by Richard W. Scott, Jr. Graphics prepared by Indiana Geological Survey Photocomposition by Norma J. Macs
+
+a U.S. GOVERNMENT PRINTING OFFICE: 1995-673-046/86098
+
+

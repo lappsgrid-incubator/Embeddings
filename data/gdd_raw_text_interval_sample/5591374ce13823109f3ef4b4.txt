@@ -1,0 +1,1619 @@
+Prepared in cooperation with the National Park Service
+Baseline Groundwater Quality in National Park Units Within the Marcellus and Utica Shale Gas Plays, New York, Pennsylvania, and West Virginia, 2011
+Open-File Report 2012–1150
+U.S. Department of the Interior U.S. Geological Survey
+
+Cover.  Sunrise at Diamond Point at New River Gorge National River in West Virginia. (Photograph by Gary Hartley, National Park Service)
+
+Baseline Groundwater Quality in National Park Units Within the Marcellus and Utica Shale Gas Plays, New York, Pennsylvania, and West Virginia, 2011
+By David A.V. Eckhardt and Ronald A. Sloto
+Prepared in cooperation with the National Park Service
+Open-File Report 2012–1150
+U.S. Department of the Interior U.S. Geological Survey
+
+U.S. Department of the Interior KEN SALAZAR, Secretary U.S. Geological Survey Marcia K. McNutt, Director
+U.S. Geological Survey, Reston, Virginia: 2012
+For more information on the USGS—the Federal source for science about the Earth, its natural and living resources, natural hazards, and the environment, visit http://www.usgs.gov or call 1–888–ASK–USGS. For an overview of USGS information products, including maps, imagery, and publications, visit http://www.usgs.gov/pubprod To order this and other USGS information products, visit http://store.usgs.gov
+Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government. Although this information product, for the most part, is in the public domain, it also may contain copyrighted materials as noted in the text. Permission to reproduce copyrighted items must be secured from the copyright owner.
+Suggested citation: Eckhardt, D.A., and Sloto, R.A., 2012, Baseline groundwater quality in national park units within the Marcellus and Utica Shale gas plays, New York, Pennsylvania, and West Virginia, 2011: U.S. Geological Survey Open-File Report 2012–1150, 20 p., at http://pubs.usgs.gov/of/2012/1150/.
+
+Contents
+Abstract............................................................................................................................................................1 Introduction.....................................................................................................................................................1 Methods...........................................................................................................................................................3
+Site Selection.........................................................................................................................................3 Sampling and Analytical Methods......................................................................................................4 Baseline Groundwater Quality in the National Park Units.......................................................................5 Summary of Water-Quality Results.....................................................................................................6 Results for Individual Park Units.........................................................................................................6
+Delaware Water Gap National Recreation Area.....................................................................8 Allegheny Portage Railroad National Historic Site.................................................................8 Johnstown Flood National Monument......................................................................................8 Flight 93 National Memorial........................................................................................................9 Fort Necessity National Battlefield............................................................................................9 New River Gorge National River................................................................................................9 Upper Delaware National Scenic and Recreational River....................................................9 Saratoga National Historical Park...........................................................................................10 Martin Van Buren National Historic Site................................................................................10 Summary........................................................................................................................................................10 References Cited..........................................................................................................................................11
+Figure
+	 1.  Map showing location of national park units that were sampled as part of the baseline groundwater-quality assessment in 2011 and the extent of the Marcellus Shale and Utica Shale gas play areas in New York, Pennsylvania, and West Virginia.....2
+
+iii
+
+iv
+Tables
+	 1.  Information on 15 wells and 1 spring sampled at national park units within the Marcellus Shale and Utica Shale in New York, Pennsylvania, and West Virginia in 2011..............................................................................................................................................4
+	 2.  Summary statistics for concentrations of major ions and properties of samples from 15 wells and 1 spring at national park units within the Marcellus Shale and Utica Shale in New York, Pennsylvania, and West Virginia in 2011.................................................5
+	 3.  Summary statistics for concentrations of nutrients in samples from 15 wells and 1 spring at national park units within the Marcellus Shale and Utica Shale in New York, Pennsylvania, and West Virginia in 2011................................................................6
+	 4.  Summary statistics for concentrations of trace elements and radioactivity in samples from 15 wells and 1 spring at national park units within the Marcellus Shale and Utica Shale in New York, Pennsylvania, and West Virginia in 2011..............................7
+	 5.  Summary statistics for physical properties and concentrations of dissolved gases in samples from 15 wells and 1 spring at national park units within the Marcellus Shale and Utica Shale in New York, Pennsylvania, and West Virginia in 2011..............................8
+	 6.  Physical properties and dissolved gas concentrations for samples from 15 wells and 1 spring at national park units within the Marcellus Shale and Utica Shale in New York, Pennsylvania, and West Virginia in 2011..............................................................14
+	 7.  Concentrations of inorganic constituents in samples from 15 wells and 1 spring at national park units within the Marcellus Shale and Utica Shale in New York, Pennsylvania, and West Virginia in 2011.................................................................................15
+	 8.  Concentrations of nutrients in samples from 15 wells and 1 spring at national park units within the Marcellus Shale and Utica Shale in New York, Pennsylvania, and West Virginia in 2011...................................................................................................................17
+	 9.  Concentrations of trace elements and radioactivity in samples from 15 wells and 1 spring at national park units within the Marcellus Shale and Utica Shale in New York, Pennsylvania, and West Virginia in 2011..............................................................18
+
+Conversion Factors, Datum, and Abbreviations
+
+Multiply
+foot (ft) mile (mi)
+acre
+gallon (gal)
+
+By Length
+0.3048 1.609 Area
+0.405 Volume
+3.785
+
+To obtain
+meter (m) kilometer (km)
+hectare (ha)
+liter (L)
+
+Temperature in degrees Celsius (°C) may be converted to degrees Fahrenheit (°F) as follows: °F=(1.8×°C)+32
+Specific conductance is given in microsiemens per centimeter at 25 degrees Celsius (µS/cm at 25°C). Concentrations of chemical constituents in water are given either in milligrams per liter (mg/L) or micrograms per liter (µg/L). Horizontal coordinate information is referenced to the North American Datum of 1983 (NAD 83).
+
+Abbreviations
+AMCL		alternative maximum contaminant level CFC		chlorofluorocarbon COD		chemical oxygen demand HA		health advisory for drinking water MCL		maximum contaminant level NB		national battlefield NHS		national historic site NM		national monument NR		national river NRA		national recreation area NSRR		national scenic and recreational river NWIS		National Water Information System NWQL		USGS National Water Quality Laboratory SMCL		secondary maximum contaminant level USEPA		U.S. Environmental Protection Agency USGS		U.S. Geological Survey µm		micrometer µg/L		micrograms per liter mg/L		milligrams per liter µS/cm		microsiemens per centimeter at 25 degrees Celsius pCi/L		picocuries per liter
+
+v
+
+THIS PAGE INTENTIONALLY LEFT BLANK
+
+Baseline Groundwater Quality in National Park Units Within the Marcellus and Utica Shale Gas Plays, New York, Pennsylvania, and West Virginia, 2011
+
+By David A.V. Eckhardt and Ronald A. Sloto
+
+Abstract
+
+Introduction
+
+Groundwater samples were collected from 15 production wells and 1 spring at 9 national park units in New York, Pennsylvania, and West Virginia in July and August 2011 and analyzed to characterize the quality of these water supplies. The sample sites generally were selected to represent areas of potential effects on water quality by drilling and development of gas wells in Marcellus Shale and Utica Shale areas of the northeastern United States. The groundwater samples were analyzed for 53 constituents, including nutrients, major inorganic constituents, trace elements, chemical oxygen demand, radioactivity, and dissolved gases, including methane and radon-222.
+Results indicated that the groundwater used for water supply at the selected national park units is generally of acceptable quality, although concentrations of some constituents exceeded at least one drinking-water guideline at several wells. Nine analytes were detected in concentrations that exceeded Federal drinking-water standards, mostly secondary standards that define aesthetic properties of water, such as taste and odor. One sample had an arsenic concentration that exceeded the U.S. Environmental Protection Agency maximum contaminant level (MCL) of 10 micrograms per liter (µg/L). The pH, which is a measure of acidity (hydrogen ion activity), ranged from 4.8 to 8.4, and in 5 of the 16 samples, the pH values were outside the accepted U.S. Environmental Protection Agency secondary maximum contaminant level (SMCL) range of 6.5 to 8.5. The concentration of total dissolved solids exceeded the SMCL of 500 milligrams per liter (mg/L) at four sites. The sulfate concentration exceeded the SMCL of 250 mg/L concentration in one sample, and the fluoride concentration exceeded the SMCL of 2 mg/L in one sample. Sodium concentrations exceeded the U.S. Environmental Protection Agency drinking water health advisory of 60 mg/L at four sites. Iron concentrations exceeded the SMCL of 300 µg/L in two samples, and manganese concentrations exceeded the SMCL of 50 µg/L in five samples. Radon-222 concentrations exceeded the proposed U.S. Environmental Protection Agency MCL of 300 picocuries per liter in eight samples.
+
+New advances in horizontal drilling and hydraulic fracturing for natural gas development have made the Marcellus Shale and Utica Shale formations a large, exploitable natural gas resource in the northeastern United States (fig. 1). Gas production is being accelerated in States within the shale gas areas due to national energy security needs and the potential economic benefits (Kerr, 2010). In order to produce natural gas from a low-permeability rock such as shale, permeable flowpaths for the gas to move to the well bore must be created in the tight gas-bearing formations through use of high-pressure hydraulic fracturing. Hydraulic fracturing for a gas well drilled horizontally in shale uses substantial volumes of water and chemical additives, often in excess of 1 million gallons, and much of the injected fluid may flow back to the surface through the well bore and casing (Soeder and Kappel, 2009). Fluids that return to the surface during hydraulic fracturing (“flowback”) in the Marcellus Shale can have elevated levels of total dissolved solids (TDS), naturally occurring radioactive material (NORM), and other contaminants including arsenic and barium (Palmerton Group, Inc., 2011). Thus, large volumes of drilling and hydraulic fracturing fluids, drill cuttings, and formation water from shale formations will require careful handling, treatment, and disposal. While Federal and State regulations can largely minimize water-quality contamination issues, shale gas production activities may potentially lead to the contamination of water resources in some areas (Kargbo and others, 2010; Kerr, 2010; U.S. Environmental Protection Agency, 2011b).
+Recent information from water-quality analyses of flowback fluid from gas wells drilled in the Marcellus Shale in Pennsylvania indicates that these fluids can contain concentrations as high as 290,000 milligrams per liter (mg/L) of TDS, 105,000 mg/L of chloride, 50,200 mg/L of sodium, and 7,090 mg/L of barium (Palmerton Group, Inc., 2011; updated by Hayes (2011) and Keister (2010)). Radioactivity levels higher than the drinking water standard of 5 picocuries per liter (pCi/L) have been documented for brine produced from gas wells in New York, where the levels of radium-226 were 16,030 pCi/L, gross-alpha
+
+2   Baseline Groundwater Quality in National Park Units Within the Marcellus and Utica Shale Gas Plays, Eastern U.S., 2011
+
+85° 80° 75°
+
+EXPLANATION
+
+Marcellus Shale extent Utica Shale extent
+
+National Heritage Areas
+
+45°
+
+Utica Shale extent where it underlies Marcellus Shale
+
+Major cities
+
+! National park units with wells sampled for water quality
+
+CANADA
+
+VT
+
+Syracuse
+"
+
+Saratoga
+
+MICHIGAN 42°
+
+" NEW YORK
+Erie
+
+" Albany
+
+Martin Van Buren
+
+MA
+
+PENNSYLVANIA
+
+Upper Delaware
+
+CT
+
+OHIO
+
+Delaware Water Gap
+
+"Pittsburgh
+
+Allegheny-Portage Railroad
+
+Johnstown
+
+" Flood
+
+"
+New York
+
+Columbus
+
+Flight 93
+
+"Philadelphia
+
+Fort Necessity
+
+39° MD NJ
+
+WEST
+
+"Baltimore
+
+VIRGINIA
+
+"Washington
+
+Charleston
+"
+
+DE
+
+KENTUCKY
+
+New River Gorge
+
+VIRGINIA
+
+36° TENNESSEE
+
+NORTH CAROLINA
+
+Base from U.S. Geological Survey, Seamless Data Distribution System, accessed in December, 2011 at http://seamless.usgs.gov Universal Transverse Mercator projection, Zone 18, NAD 83
+
+Richmond
+"
+
+0 40 80 MILES 0 40 80 KILOMETERS
+
+Figure 1.  Location of national park units that were sampled as part of the baseline groundwater-quality assessment in 2011 and the extent of the Marcellus Shale and Utica Shale gas play areas in New York, Pennsylvania, and West Virginia.
+
+Methods  3
+
+particles were 123,000 pCi/L, and gross-beta particles were 12,000 pCi/L for a well in Schuyler County (New York State Department of Environmental Conservation, 2011). Methane gas concentrations have apparently increased in some watersupply wells through gas migration in subsurface fractures from nearby gas well activities in Pennsylvania (Osborn and others, 2011). In 2008 and 2009, concentrations of TDS periodically exceeded the drinking water standard of 500 mg/L in Pennsylvania’s Monongahela River, which supplies water to approximately 350,000 people; in response, the Pennsylvania Department of Environmental Protection ordered wastewater facilities that discharge to the river to restrict their intake of drilling waste water (Pennsylvania Department of Environmental Protection, 2008).
+The National Park Service and regional publicwater-supply and water-management agencies, such as the Susquehanna River Basin Commission and the Delaware River Basin Commission, have a need for water-quality data to evaluate the potential impact of shale gas development on the water resources they manage for the public. Production wells and springs that are used for drinking water within national park units in the shale gas play areas may be susceptible to potential contamination. Of the 30 national park units within the Marcellus Shale and Utica Shale gas play region, more than half are within “fairway” areas that are most likely to experience gas drilling and hydraulic fracturing development.
+Groundwater is used in many of these parks as the primary water supply for park staff and visitors. Most groundwater sources at the parks have not been assessed for waterquality constituents that may be associated with hydraulic fracturing activities. Without baseline data for associated water-quality constituents, it is not possible to evaluate possible connections between gas production activities and the well-water chemistry that might be affected.
+The objective of this report is to characterize the existing water quality and radiochemistry of national park unit production wells and springs as drilling activities commence in the shale gas play areas of New York, Pennsylvania, and West Virginia. This water-quality characterization of the national park wells and springs provides a baseline of information for chemical and radiochemical constituents to assess if contamination from drilling and gas development occurs. Baseline data for one park (Martin Van Buren National Historic Site), which lies just outside the Utica Shale play area, also are included.
+Methods
+Water samples were collected from 15 production wells and 1 spring at 9 national park units in New York, Pennsylvania, and West Virginia in July and August 2011 and analyzed to characterize their physical and chemical quality (table 1). Samples were analyzed for 53 constituents, including nutrients, major inorganic constituents, trace elements,
+
+chemical oxygen demand, radioactivity, and dissolved gases, including methane and radon-222. Two samples, one field blank and one replicate sample, were also collected for quality assurance and quality control (QA/QC).
+Site Selection
+Contact was made with each park superintendent within the study area for water-supply information regarding sources, location, characteristics, water use, and sampling accessibility. Because of the large number of wells identified as potential candidate sampling sites in the Delaware Water Gap and Upper Delaware units, sample sites were selected based on the importance and use of each well. A total of 16 groundwater sources were selected for sampling within 9 national park units (table 1), largely within the Appalachian Plateau and the Appalachian Valley and Ridge Provinces (Sevon, 2000). Seven of the nine park units are within national heritage areas, where Congress has designated the natural, cultural, and historic resources as nationally important landscapes (fig. 1).
+Thirteen of the wells were constructed in bedrock aquifers, with well depths that ranged from 193 to 400 feet (ft) (table 1); these wells typically have a steel casing set into competent bedrock, and water yields are obtained by flow from bedrock fractures intersected by the open borehole. The bedrock aquifers in the study consist of relatively flat-lying, interbedded sedimentary units of shale, siltstone, sandstone, coal, limestone, dolostone, and evaporites of Paleozoic age (Broughton and others, 1962; Cardwell and others, 1968; Berg and others, 1980). The well in Saratoga National Historical Park tapped water through a shallow (28-ft-deep) well screen that was set in an unconsolidated glacial-lake sand aquifer that is highly susceptible to contamination. One well at Delaware Water Gap National Recreation Area (DEWA–3) is cased to 192 ft and open to a sand and gravel deposit at the end of the steel casing. The spring sampled at Fort Necessity National Battlefield is also susceptible to contamination. In addition to contaminants from human activities, groundwater may contain naturally derived elements that can diminish water quality, such as sodium, chloride, sulfate, iron, manganese, and trace elements such as arsenic; some aquifers may also contain natural gas (methane, hydrogen sulfide, and radon) from geologic sources (Molofsky and others, 2011).
+The Marcellus Shale of Devonian age is a regionally continuous and commonly identified bedrock geologic unit. The Marcellus crops out at land surface in upstate New York, and the unit gently dips to the south at the rate of about 50 feet per mile under the Appalachian Plateau. The unit is at depths of about 3,000 to 4,000 ft at the border of Pennsylvania and New York (Martin and others, 2004). Further to the south and west, the Marcellus Shale is present at even greater and more variable depth as the bedrock sequence is influenced by folding in the Ridge and Valley Province in Pennsylvania and West Virginia (Harper, 2008; Harper and Kostelnik, 2010). The thickness of the Marcellus Shale ranges from about 300 ft
+
+4   Baseline Groundwater Quality in National Park Units Within the Marcellus and Utica Shale Gas Plays, Eastern U.S., 2011
+
+Table 1.  Information on 15 wells and 1 spring sampled at national park units within the Marcellus Shale and Utica Shale in New York, Pennsylvania, and West Virginia in 2011.
+
+[Well locations are shown in figure 1. --, information not available]
+
+National park unit name1
+Delaware Water Gap NRA Delaware Water Gap NRA Delaware Water Gap NRA Allegheny Portage Railroad NHS Johnstown Flood NM
+
+State
+Pennsylvania Pennsylvania Pennsylvania Pennsylvania Pennsylvania
+
+Site name
+DEWA–1 DEWA–2 DEWA–3 ALPO JOFL
+
+Local site identifier
+Bushkill Meeting Center well Altman house well Dingmans Falls maintenance well Ranger’s seasonal-use well Maintenance facility well
+
+U.S. Geological Survey siteidentification number
+410524075001501
+411859074475901
+411252074522001
+402432078273101
+402059078461701
+
+Date sampled
+7/6/2011 7/7/2011 7/7/2011 7/26/2011 7/26/2011
+
+Well depth (feet below land surface)
+193
+300
+200
+--
+200
+
+Flight 93 NM Fort Necessity NB New River Gorge NR New River Gorge NR New River Gorge NR
+
+Pennsylvania Pennsylvania West Virginia West Virginia West Virginia
+
+FLNI FONE NERI–1 NERI–2 NERI–3
+
+West overlook well Water-supply spring Sandstone Visitor Center well Dun Glen well Thurmond Depot well
+
+400318078542601 7/27/2011 394859079355501 7/28/2011 374657080534301 8/9/2011 375713081043601 8/10/2011 375727081044601 8/10/2011
+
+--320 400 255
+
+Upper Delaware NSRR
+
+Pennsylvania UPDE–1 Milanville ranger station well
+
+414023075035201 8/16/2011 --
+
+Upper Delaware NSRR
+
+Pennsylvania UPDE–2 Headquarters office well
+
+413709075030701 8/16/2011 --
+
+Upper Delaware NSRR
+
+Pennsylvania UPDE–3 Zane Grey house well
+
+412908074591401 8/17/2011 200
+
+Saratoga NHP
+
+New York SARA Battlefield tour stop 8, well 1
+
+430013073370419 8/30/2011
+
+28
+
+Martin Van Buren NHS
+
+New York MAVA–1 Headquarters office well
+
+422210073422801 8/31/2011 300
+
+Martin Van Buren NHS
+
+New York MAVA–2 Maintenance facility well
+
+422210073422802 8/31/2011 195
+
+1NRA, National Recreation Area; NHS, National Historic Site; NM, National Monument; NB, National Battlefield; NR, National River; NSRR, National Scenic and Recreational River; NHP, National Historical Park.
+
+in northeastern Pennsylvania to less than 50 ft in southwestern West Virginia and Ohio.
+The Utica Shale of Ordovician age lies a few thousand feet under the Marcellus Shale in New York, Pennsylvania, Ohio, and West Virginia and extends under adjacent parts of Ontario and Quebec in Canada and Kentucky, Maryland, Tennessee, and Virginia in the United States. The Utica Shale has recently become the target of natural gas exploration in Pennsylvania where it is at a depth of about 8,000 ft. The thickness of the Utica Shale ranges from less than 70 ft in Ohio and western West Virginia to 1,000 ft in eastern New York.
+Sampling and Analytical Methods
+Scientists from the U.S. Geological Survey (USGS) sampled the individual water-supply sources for the national park units using standard USGS field-sampling protocols. Samples were collected at an untreated tap, typically at a pressure tank and before any filtration, water softening, or
+
+bacteriological treatment. Water samples were analyzed for physical properties, inorganic major constituents, nutrients, trace elements, chemical oxygen demand, gross alpha and beta radioactivity, and dissolved gases. The samples were collected and processed from each well or spring for these analyses by methods described in USGS manuals for the collection of water-quality data (Wilde and others, 2004; U.S. Geological Survey, variously dated).
+Sampling was done at all well sites by the following steps. The existing submersible well pump was turned on and allowed to run until at least three casing volumes of well water had passed the sampling point. A raw-water tap between the well and the pressure tank was opened, and the water was allowed to flush for several minutes to ensure that the water was representative of the aquifer. Samples were collected through a short piece of silicone tubing attached to the raw-water tap, which avoided all water-treatment systems. Sampling was done at the spring site by the following steps: water was collected in a 5-gallon bucket from the pipe providing flow to an underground sump; water was pumped from the
+
+Baseline Groundwater Quality in the National Park Units   5
+
+Table 2.  Summary statistics for concentrations of major ions and properties of samples from 15 wells and 1 spring at national park units within the Marcellus Shale and Utica Shale in New York, Pennsylvania, and West Virginia in 2011.
+
+[All samples represent filtered water. No., number; mg/L, milligrams per liter; CaCO3, calcium carbonate; --, not applicable; USEPA, U.S. Environmental Protection Agency]
+
+Constituent
+
+Drinking-water No. of samples
+
+standard
+
+exceeding standard
+
+Cations
+
+Calcium, mg/L
+
+-- --
+
+Magnesium, mg/L
+
+-- --
+
+Potassium, mg/L
+
+-- --
+
+Sodium, mg/L
+
+160 4 Anions
+
+Bicarbonate, mg/L
+
+-- --
+
+Bromide, mg/L
+
+-- --
+
+Chloride, mg/L
+
+2250
+
+0
+
+Fluoride, mg/L
+
+22 1
+
+Sulfate, mg/L
+
+2250
+
+1
+
+Other
+
+Hardness, mg/L as CaCO3 Alkalinity, mg/L as CaCO3 Total dissolved solids, mg/L
+
+--2500
+
+--4
+
+1USEPA drinking water health advisory (taste threshold).
+
+2USEPA secondary maximum contaminant level.
+
+All 16 samples
+
+Minimum
+
+Median
+
+Maximum
+
+1.04 .253 .33 1.34
+
+21.3 4.00 .89 50.2
+
+106 39.7 3.06 248
+
+20 <.01
+.59 <.04
+.12
+
+153 .03
+27.2 .11 9.78
+
+423 1.52
+218 2.33
+304
+
+3.73 16 62
+
+71.4 126 194
+
+398 347 691
+
+bucket with a peristaltic pump through a short piece of silicone tubing. The water was analyzed with a multiprobe meter for physical properties (temperature, specific conductance, dissolved-oxygen concentration, and pH). After the measurements of these properties had stabilized, pre-rinsed sample bottles were filled according to standard protocols.
+The analyses for physical properties, chemical oxygen demand (COD), radioactivity, and dissolved gases were done on unfiltered water samples to obtain total concentrations. Samples for dissolved concentrations of nutrients, major inorganic constituents, and trace elements were filtered through a pre-rinsed 0.45-micrometer (µm) cellulose capsule filter. To prevent sample degradation, sulfuric acid was added to the COD samples, and nitric acid was added to the major ion and trace-element samples. Samples for radon analysis were obtained through an inline septum with a gas-tight syringe to avoid atmospheric contact. Samples for dissolved gases were obtained through tubing that was placed in glass bottles that were filled and stoppered while submerged in a 5-liter beaker of pumped water to avoid atmospheric contact.
+The samples were stored on ice in coolers and shipped by overnight delivery to the following three laboratories: (1) the USGS National Water Quality Laboratory in Denver, Colorado, for analysis of inorganic major constituents, nutrients, trace elements, COD, and radon-222; (2) a USGS
+
+contract laboratory in California for analysis of gross alpha and beta radioactivity; and (3) the USGS Chlorofluorocarbon (CFC) Laboratory in Reston, Virginia, for analysis of methane and other dissolved gases. Descriptions of analytical methods for all constituents except the dissolved gases are available through the U.S. Geological Survey (2011); the methods for determination of dissolved gases in water are described by the U.S. Geological Survey (2009). The analytical results are available through the USGS National Water Information System (U.S. Geological Survey, 2012).
+Baseline Groundwater Quality in the National Park Units
+The analytical results for the 16 groundwater samples collected during this study are summarized in tables 2 through 5, and the individual sample results are listed in tables 6 through 9 (at the end of the report). The quality of the sampled groundwater was generally within U.S. Environmental Protection Agency (USEPA) guidelines, although in some samples, the concentrations of certain constituents exceeded Federal drinking-water standards (U.S. Environmental Protection Agency, 2006, 2011a). In general, most of the water-quality
+
+6   Baseline Groundwater Quality in National Park Units Within the Marcellus and Utica Shale Gas Plays, Eastern U.S., 2011
+
+Table 3.  Summary statistics for concentrations of nutrients in samples from 15 wells and 1 spring at national park units within the Marcellus Shale and Utica Shale in New York, Pennsylvania, and West Virginia in 2011.
+[All samples represent filtered water except as noted. No., number; mg/L, milligrams per liter; --, not applicable; <, less than; N, nitrogen; P, phosphorus; USEPA, U.S. Environmental Protection Agency]
+
+Constituent
+Ammonia, mg/L as N Nitrate plus nitrite, mg/L as N Nitrite, mg/L as N Orthophosphate, mg/L as P Total nitrogen, unfiltered, mg/L as N
+1USEPA maximum contaminant level.
+
+Drinking-water standard
+-110 11 ---
+
+No. of samples exceeding limit
+-0 0 ---
+
+Minimum <0.010 <.02 <.001
+.005 <.05
+
+All 16 samples
+Median 0.034 .05 <.001 .012 .11
+
+Maximum 0.491 1.16 .003 .176 1.05
+
+problems involve aesthetic considerations, such as taste or odor from excessive dissolved solids, iron, manganese, sodium, and sulfate that develop from natural interactions of water and rock minerals in the subsurface.
+The QA/QC field-blank sample contained no constituent in concentrations greater than the laboratory reporting levels, except trace concentrations of total nitrogen (0.08 mg/L), silica (0.04 mg/L), cobalt [0.12 microgram per liter (µg/L)], and manganese (0.2 µg/L); this indicates that little to no contamination occurred through the sampling or analytical procedures. The results of analysis of the QA/QC replicate sample indicate that variability in sample results was within established limits. The analytes with the largest percent differences between concentration in the groundwater sample and its replicate were low-concentration trace elements (concentrations near the laboratory reporting level for the elements).
+Summary of Water-Quality Results
+The results indicate that groundwater used for water supply at the selected national park units is generally of acceptable quality, although concentrations of some constituents exceeded at least one drinking-water standard at several wells. Specific conductance of the samples, which is an indication of the dissolved mineral content, ranged from 105 to 1,160 microsiemens per centimeter (µS/cm) at 25 degrees Celsius (tables 5 and 6). Calcium and magnesium contribute to water hardness, and 5 of the 16 samples had hardness greater than 180 mg/L (table 7), which is classified as “very hard” (Hem, 1985). Nutrient concentrations were low (tables 3 and 8), and no sample had a detectable chemical oxygen demand (table 6), which indicates that sources of organic waste are minimal at the sampled sites. Gross alpha and gross beta radioactivity levels were low; maximum activities were 3.6 and 3.3 pCi/L, respectively (tables 4
+
+and 9). Dissolved methane gas concentrations ranged from nondetected to 30.1 mg/L (tables 5 and 6). These methane concentrations, except for the one sample with a concentration of 30.1 mg/L, are considered to be within ambient background levels (Eltschlager and others, 2001; Osborn and others, 2011).
+Nine analytes were detected in concentrations that exceeded Federal drinking-water standards (tables 2–5). The pH of the samples (tables 5 and 6) ranged from 4.8 to 8.4, and the levels of 5 of the 16 samples were outside the accepted secondary maximum contaminant level (SMCL) range of 6.5 to 8.5 (U.S. Environmental Protection Agency, 2011a). One sample (tables 4 and 9) had an arsenic concentration that exceeded the USEPA maximum contaminant level (MCL) of 10 µg/L (U.S. Environmental Protection Agency, 2011a). The concentration of total dissolved solids exceeded the SMCL of 500 mg/L in four samples (tables 2 and 7). The sulfate concentration exceeded the SMCL of 250 mg/L concentration in one sample (tables 2 and 7), and the fluoride concentration exceeded the SMCL of 2 mg/L in one sample (tables 2 and 7). The USEPA health advisory (HA) for sodium, which recommends that concentrations in drinking water not exceed 60 mg/L to minimize the taste, was exceeded in four samples (tables 2 and 7; U.S. Environmental Protection Agency, 2002, 2006). Iron concentrations exceeded the SMCL of 300 µg/L in two samples (tables 4 and 9), and manganese exceeded the SMCL of 50 µg/L in five samples (tables 4 and 9). Radon222 exceeded the proposed USEPA MCL of 300 pCi/L in eight samples (tables 4 and 9; U.S. Environmental Protection Agency, 2004).
+Results for Individual Park Units
+A brief description of the water-supply sources and the individual water-quality results at the nine park units follows. The water-quality results are presented in tables 6 through 9.
+
+Baseline Groundwater Quality in the National Park Units   7
+
+Table 4.  Summary statistics for concentrations of trace elements and radioactivity in samples from 15 wells and 1 spring at national park units within the Marcellus Shale and Utica Shale in New York, Pennsylvania, and West Virginia in 2011.
+[All concentrations in micrograms per liter except as noted. All samples filtered except as noted. No., number; <, less than; --, not applicable; pCi/L, picocuries per liter; mrem/yr, millirem per year; USEPA, U.S. Environmental Protection Agency]
+
+Constituent
+
+Drinking-water No. of samples
+
+standard
+
+exceeding standard
+
+Aluminum
+
+350
+
+Antimony
+
+16
+
+Arsenic
+
+110
+
+Barium
+
+12,000
+
+Beryllium
+
+14
+
+Boron
+
+--
+
+Cadmium
+
+15
+
+Chromium
+
+1100
+
+Cobalt
+
+--
+
+Copper
+
+31,000
+
+Iron 3300
+
+Lead
+
+215
+
+Lithium
+
+--
+
+Manganese
+
+350
+
+Molybdenum
+
+--
+
+Nickel
+
+--
+
+Selenium
+
+150
+
+Silver
+
+1100
+
+Strontium
+
+--
+
+Thallium
+
+12
+
+Vanadium
+
+--
+
+Uranium
+
+130
+
+Zinc 35,000
+
+Gross alpha radioactivity, pCi/L, unfiltered
+
+115
+
+Gross beta radioactivity, pCi/L, unfiltered 14 mrem/yr
+
+Radon-222, pCi/L, unfiltered
+
+4300
+
+1USEPA maximum contaminant level.
+
+2USEPA treatment technique action level.
+
+3USEPA secondary maximum contaminant level.
+
+4USEPA proposed maximum contaminant level.
+
+0 0 1 0 0 -0 0 -0 2 0 -5 --0 0 -0 -0 0 0 -8
+
+Minimum <1.7 <0.03 <.02 3 <.01 <3 <.02 <.06 <.02 <.05 <3 <.01 .06 .04 <.01 <.09 <.03 <.01 43.3 <.01 <.08 <.004 <1.4 <.8 <.8 54
+
+All 16 samples
+Median <1.7 <0.03 .16 48 <.01 38 <.02 <.06 .04 -21 .17 8.9 8.9 .13 .18 -<.01 293 <.01 <.08 .02 4.6 <.8 .9 340
+
+Maximum 27.9 .11 32.3
+1,050 .02
+307 .08 .33
+55.1 16.2 8,340 2.94 98.4 3,320 2.53 76.2
+.3 <.01 1,210 <.01
+.4 1.75 342 3.6 3.3 3,030
+
+8   Baseline Groundwater Quality in National Park Units Within the Marcellus and Utica Shale Gas Plays, Eastern U.S., 2011
+
+Table 5.  Summary statistics for physical properties and concentrations of dissolved gases in samples from 15 wells and 1 spring at national park units within the Marcellus Shale and Utica Shale in New York, Pennsylvania, and West Virginia in 2011.
+[All samples represent unfiltered water. No., number; µS/cm, microsiemens per centimeter at 25 degrees Celsius; mg/L, milligrams per liter; --, not applicable; USEPA, U.S. Environmental Protection Agency]
+
+Property or constituent
+
+Drinking-water standard
+
+No. of samples exceeding limit
+
+pH
+
+16.5–8.5
+
+5
+
+Specific conductance, µS/cm
+
+--
+
+--
+
+Oxygen, mg/L
+
+-- --
+
+Methane, mg/L
+
+228 1
+
+Argon, mg/L
+
+-- --
+
+Nitrogen, mg/L
+
+-- --
+
+Carbon dioxide, mg/L
+
+-- --
+
+1USEPA secondary maximum contaminant level.
+
+2Office of Surface Mining recommended action level (Eltschlager and others, 2011).
+
+Minimum 4.8
+105 <0.2 <0.001
+0.62 15.3 0.23
+
+All 16 samples
+Median 6.7
+347 1.4 0.001 0.75 20.7 11.4
+
+Maximum 8.4
+1,160 10.7 30.1 1.1 40.1 91.8
+
+Delaware Water Gap National Recreation Area
+The Delaware Water Gap National Recreation Area (DEWA) preserves 70,000 acres along 40 miles (mi) of the Delaware River above the Delaware Water Gap in eastern Pennsylvania. The park provides opportunities for visitors to canoe, hike, camp, swim, picnic, bicycle, cross country ski, fish, and hunt. Two bedrock wells, the Bushkill Meeting Center well (DEWA–1) and the Altman House well (DEWA– 2), and one well in an unconsolidated sand and gravel aquifer, the Dingmans Falls maintenance well (DEWA–3), were sampled in July 2011. DEWA–1 is in Devonian limestone and chert, and DEWA–2 is in Devonian shale and siltstone. DEWA–1 had the highest uranium concentration (1.75 µg/L) and the highest gross alpha activity (3.6 pCi/L) of all 16  samples collected for this study; neither result, however, exceeded drinking-water standards. DEWA–3 had the highest dissolved oxygen (10.7 mg/L) concentration of all 16 samples and also exceeded the proposed USEPA MCL for radon (610 pCi/L). Water from DEWA–1 exceeded the USEPA SMCL for manganese (85.2 µg/L). The water from DEWA–2 is soft [17.4 mg/L as calcium carbonate (CaCO3)], water from DEWA–3 is moderately hard (81.9 mg/L as CaCO3), and water from DEWA–1 is hard (165 mg/L as CaCO3).
+Allegheny Portage Railroad National Historic Site
+The remnants of the Allegheny Portage Railroad (ALPO), the first railroad constructed through the Allegheny Mountains in central Pennsylvania and the first railroad tunnel in the United States, are preserved at the Allegheny Portage Railroad
+
+National Historic Site. One bedrock well at the ranger’s seasonal-use residence (ALPO) was sampled in July 2011. The well is in Devonian sandstone and shale and had the highest concentrations of dissolved solids (691 mg/L), chloride (218 mg/L), magnesium (39.7 mg/L), and silica (14.4 mg/L) of all 16 samples collected for this study. Water from ALPO exceeded the USEPA SMCL for dissolved solids (691 mg/L) and the USEPA HA for sodium (61.5 mg/L). Elevated concentrations of sodium and chloride (218 mg/L) contribute to the elevated dissolved solids concentration; the chloride-tobromide ratio (1,800) indicates possible contamination from road deicing salt (Davis and others, 1998). The water from ALPO is very hard (398 mg/L as CaCO3) and has the highest hardness of all 16 samples. Elevated concentrations of calcium (93.4 mg/L) and magnesium (39.7 mg/L) contribute to the hardness of the water.
+Johnstown Flood National Monument
+The 164-acre Johnstown Flood National Memorial (JOFL) commemorates the approximately 2,200 people who died in the Johnstown, Pennsylvania, flood on May 31, 1889. The flood was caused by the failure of the South Fork Dam, which spilled the entire contents of Lake Conemaugh into the valley leading to Johnstown. The memorial preserves the remains of the dam and parts of the former Lake Conemaugh bed. One bedrock well at the maintenance facility (JOFL) was sampled in July 2011. The well is in Pennsylvanian shale, siltstone, and sandstone with thin beds of limestone and coal. Water from the JOFL well exceeded the proposed USEPA MCL for radon (670 pCi/L). Water from the JOFL was very hard (260 mg/L as CaCO3).
+
+Baseline Groundwater Quality in the National Park Units   9
+
+Flight 93 National Memorial
+The 817 acre Flight 93 National Memorial (FLNI) is the site of the crash of United Airlines flight 93, which was hijacked by terrorists on September 11, 2001. The memorial was created to honor the 40 passengers and crew who thwarted a potential terrorist attack on the U.S. Capitol. One bedrock well at the west overlook (FLNI) was sampled in July 2011. Water from the well is used for sanitary purposes and not as a source of drinking water. The well is at the site of the former Diamond-T welding facility. The well is in Pennsylvanian sandstone, shale, limestone, and coal. The area surrounding the well is the site of a former coal strip-mining operation. Samples from the FLNI well had the highest concentrations of calcium (106 mg/L), cobalt (55.1 µg/L), iron (8,340 µg/L), manganese (3,320 µg/L), nickel (76.2 µg/L), and sulfate (304 mg/L) of all 16 samples collected for this study. Elevated concentrations of these constituents likely are the result of the nearby mining operation. Wood (1996) reported elevated concentrations of calcium, cobalt, iron, manganese, nickel, and sulfate in water samples from mine discharges in eastern Pennsylvania. An acid mine drainage remediation system is located in the park unit. Water from the FLNI well exceeded USEPA SMCLs for pH (5.9), sulfate (304 mg/L), dissolved solids (554 mg/L), iron (8,340 µg/L), and manganese (3,320 µg/L) and is classified as very hard (369 mg/L as CaCO3).
+
+Center well (NERI–1), the Dun Glen well (NERI–2), and the Thurmond Depot well (NERI–3), were sampled in August 2011. NERI–1 is in upper Mississippian shale and sandstone, and NERI–2 and NERI–3 are in Lower Pennsylvanian formations of sandstone, shale, and coal. NERI–2 has the highest specific conductance (1,160 µS/cm) and the highest concentration of fluoride (2.33 mg/L, which exceeds the USEPA SMCL) of all 16 wells sampled in the study. NERI–1 and NERI–2 have concentrations of sodium (63.6 and 248 mg/L, respectively) and total dissolved solids (506 and 677 mg/L, respectively) that exceed USEPA HA and SMCL guidelines and radon-222 activity (390 and 420 pCi/L, respectively) that exceeds the proposed USEPA MCL. The concentration of iron (463 μg/L) exceeds the USEPA SMCL at NERI–3. The concentrations of manganese (862 and 182 μg/L, respectively) exceed the USEPA SMCLs at NERI–1 and NERI–3. Water from NERI–2 has a methane concentration of 30.1 mg/L, which may be derived from coal bed sources; this concentration (greater than 28 mg/L dissolved in water) may potentially create an explosive condition in the air within the well bore at NERI–2 (Eltschlager and others, 2001). Hydrogen sulfide is present in the water from NERI–2 and NERI–3. The water from NERI–1 is very hard (290 mg/L as CaCO3) and water from NERI–3 is moderately hard (92.5 mg/L as CaCO3), whereas water from NERI –2 is soft (3.73 mg/L as CaCO3).
+
+Fort Necessity National Battlefield
+The battle at Fort Necessity, which took place on July 3, 1754, was the prelude to the war fought by England and France for control of the North American continent (French and Indian war). The action at Fort Necessity was the first major event in the military career of George Washington. The battle resulted in the surrender of the British under Colonel Washington to the French and Indian forces. A spring at the Fort Necessity National Battlefield (FONE), which serves as the water supply for the 903-acre park, was sampled in July 2011. The spring is in Pennsylvanian shale, and sandstone with thin beds of limestone and coal. Water from the FONE well is dilute and has the lowest dissolved solids concentration (62 mg/L) and specific conductance (105 μS/cm) of all 16 samples collected for this study and did not meet the USEPA SMCL for pH (4.8). Water from FONE is classified as soft (49.1 mg/L as CaCO3).
+New River Gorge National River
+The New River Gorge National River (NERI) is a whitewater river that flows through deep canyons in a mountainous region of south-central West Virginia. The park encompasses more than 70,000 acres of land that provides access to scenic and recreational opportunities in an area rich in cultural and natural history. Three bedrock wells, the Sandstone Visitor
+
+Upper Delaware National Scenic and Recreational River
+The Upper Delaware Scenic and Recreational River (UPDE) provides recreational access along 73.4 mi of the Delaware River. Sightseeing, boating, camping, hunting, fishing, hiking, and bird watching are popular activities in the river area. Most of the land in this unit is privately owned; the National Park Service owns only 30 acres. Three bedrock wells, the Milanville ranger station well (UPDE–1), the headquarters office well (UPDE–2), and the Zane Grey House well (UPDE–3), were sampled in August 2011. The wells are in Devonian sandstone, siltstone, and shale with some conglomerate. Water from UPDE–1, UPDE–2, and UPDE–3 had the highest radon-222 activities (3,030, 1,310, and 1,210 pCi/L, respectively) of all 16 samples, and all exceeded the proposed USEPA MCL. Water from UPDE–1 and UPDE–2 exceeded the USEPA SMCL for pH (5.7 and 5.5, respectively). Water from UPDE–3 had the highest concentration of arsenic (32.3 µg/L) of all 16 samples and exceeded the USEPA MCL of 10 µg/L. Water from UPDE–3 also exceeded the USEPA HA for sodium (68.8 mg/L) and the USEPA SMCL for manganese (95.1 µg/L). Hydrogen sulfide is present in water from UPDE–3. Water from UPDE–3 is used for sanitary purposes and is not used as a source of drinking water. Water from all three wells is classified as soft.
+
+10   Baseline Groundwater Quality in National Park Units Within the Marcellus and Utica Shale Gas Plays, Eastern U.S., 2011
+
+Saratoga National Historical Park
+Saratoga National Historical Park (SARA), an area of 3,400 acres in northeastern New York, comprises three separate historic sites, the battlefield area, the Schuyler House, and the Saratoga Monument. The Revolutionary War battles at Saratoga in 1777 were major American victories that assured international recognition and helped secure the independence of the United States. Three wells exist at the park, one at the visitor center and two at battlefield tour stop 8; the selected sample site was well number 1 at tour stop 8 (SARA), which is screened at a 28-ft depth in an unconsolidated glacial-lake sand aquifer. The well sample, collected in August 2011, contains among the lowest dissolved solids and nutrient concentrations of all wells sampled in the study, and the water meets all drinking-water standards for the sampled constituents.
+Martin Van Buren National Historic Site
+The Martin Van Buren National Historic Site (MAVA) preserves Lindenwald, Van Buren’s historic home and grounds where he lived after having served as eighth President of the United States (1837–1841) until his death. The 40-acre site is about 30 mi southeast of Albany in eastern New York. Two bedrock wells, the headquarters office well (MAVA–1) and the maintenance facility well (MAVA–2), completed in lower Ordovician shale and siltstone were sampled in August 2011. The results for samples from both wells meet all drinkingwater standards for the sampled constituents. Water from MAVA–1, however, contains hydrogen sulfide; it also has the highest barium concentration of all 16 samples (1,050 µg/L), which is below the SMCL of 2,000 µg/L. The water from MAVA–1 is soft (34 mg/L as CaCO3), whereas the water from MAVA–2 is very hard (254 mg/L as CaCO3). This park lies within a designated national heritage area near the eastern shore of the Hudson River, which places it just outside of the shale gas play area. The park was included in the waterquality assessment to establish a baseline for this historic site’s groundwater resources.
+Summary
+New developments in horizontal drilling for natural gas and increasing prices of natural gas have made the large natural gas resource of the Marcellus Shale and Utica Shale formations an exploitable resource in the northeastern United States. To produce natural gas from a low-permeability rock such as shale, permeable flowpaths for the gas to move to the well bore must be created in the gas-bearing formations through the use of high-pressure hydraulic fracturing. A single hydraulic fracturing treatment for a gas well drilled horizontally in shale uses substantial volumes of water and chemical additives, often in excess of 1 million gallons, and much of
+
+the injected fluid may flow back to the surface through the well bore and casing. The injected fluids and natural brine in the shale that do flow to the surface can have elevated levels of total dissolved solids and naturally occurring radioactive material. Water-supply wells and springs within national park units in the shale gas play areas may be susceptible to potential contamination because many national park units and adjacent lands are within some of the most desirable locations for drilling. The objective of this study was to characterize the existing water quality and radiochemistry of national park unit water-supply wells and springs before drilling activities commence in the most desirable shale gas play areas of New York, Pennsylvania, and West Virginia. This water-quality characterization of the national park wells and springs provides a baseline of information for chemical and radiochemical constituents that could be affected if contamination from drilling and gas development occurs. Two production wells also were sampled in one national park outside the gas play area in an area vulnerable to contamination from increased urbanization.
+A total of 16 groundwater sources were selected for sampling. Water samples were collected from 15 production wells and 1 spring at 9 national park units in New York, Pennsylvania, and West Virginia in July and August 2011 and analyzed to characterize the chemical quality. Samples were analyzed for 53 constituents, including nutrients, major inorganic constituents, trace elements, chemical oxygen demand, radioactivity, and dissolved gases, including methane and radon-222.
+Scientists from the U.S. Geological Survey sampled the individual water-supply sources for the national park units using standard USGS field-sampling protocols. Samples were collected from each well at an untreated tap, typically at a pressure tank and before any filtration, water softening, or bacteriological treatment. Thirteen of the wells were constructed in bedrock aquifers, with well depths that ranged from 193 to 400 feet (ft). One well tapped water through a shallow well screen (28-ft-deep) that was set in an unconsolidated glaciallake sand aquifer. One well was cased to 192 ft and open to a sand and gravel deposit. In addition, one spring used as a source of water supply was sampled.
+The quality of the sampled groundwater was generally within U.S. Environmental Protection Agency (USEPA) guidelines, although in some samples, the concentrations of certain constituents exceeded Federal drinking-water standards. In general, most of the water-quality problems involve aesthetic considerations, such as taste or odor from excessive dissolved solids, iron, manganese, sodium, and sulfate that develop from natural interactions of water and rock minerals in the subsurface. The results of laboratory analysis indicate that groundwater used for water supply at the selected national park units is generally of acceptable quality, although concentrations of some constituents exceeded at least one drinkingwater standard at several wells.
+Specific conductance of the samples, which is an indication of the dissolved mineral content, ranged from
+
+References Cited  11
+
+105 to 1,160 microsiemens per centimeter at 25 degrees Celsius. Calcium and magnesium contribute to water hardness, and 5 of the 16 samples had hardness greater than 180 milligrams per liter (mg/L), which is classified as very hard. Nutrient concentrations were low, and no sample had a detectable chemical oxygen demand, indicating that sources of organic waste are minimal at the sampled sites. Gross-alpha and gross-beta radioactivity levels were low at all sites; nine well sites had nondetectable gross-alpha activity, seven sites had nondetectable gross-beta activity, and maximum activities were 3.6 and 3.3 picocuries per liter (pCi/L), respectively. The dissolved methane gas concentrations ranged from nondetected to 30.1 mg/L. The methane concentrations, except for the one sample with a concentration of 30.1 mg/L, are considered to be within ambient background levels.
+Nine analytes were detected in concentrations that exceeded Federal drinking-water standards. The pH, which is a measure of acidity (hydrogen ion activity), ranged from 4.8 to 8.4, and in 5 of the 16 samples, the pH values were outside the accepted USEPA secondary maximum contaminant level (SMCL) range of 6.5 to 8.5. One sample had an arsenic concentration that exceeded the USEPA maximum contaminant level of 10 micrograms per liter (µg/L). The concentration of total dissolved solids exceeded the SMCL of 500 mg/L in four samples. The sulfate concentration exceeded the SMCL of 250 mg/L in one sample, and the fluoride concentration exceeded the SMCL of 2 mg/L in one sample. The USEPA health advisory for sodium, which recommends that concentrations in drinking water not exceed 60 mg/L to minimize the taste, was exceeded in four samples. Iron concentrations exceeded the SMCL of 300 µg/L in two samples, and manganese concentrations exceeded the SMCL of 50 µg/L in five samples. Radon-222 concentrations exceeded the proposed USEPA MCL of 300 pCi/L in eight samples.
+References Cited
+Berg, T.M., Edmunds, W.E., Geyer, A.R., and others (compilers), 1980, Geologic map of Pennsylvania (2d ed.): Pennsylvania Geological Survey Series 4, Map 1, 3 sheets, scale 1:250,000.
+
+Eltschlager, K.K., Hawkins, J.W., Ehler, W.C., and Baldassare, Fred, 2001, Technical measures for the investigation and mitigation of fugitive methane hazards in areas of coal mining: Office of Surface Mining Reclamation and Enforcement, 125 p.
+Harper, J.A., 2008, The Marcellus shale—An old “new” gas reservoir: Pennsylvania Geology, v. 38, no. 1, p. 2–13.
+Harper, J.A., and Kostelnik, Jaime, 2010, The Marcellus shale play in Pennsylvania: Pennsylvania Geological Survey, accessed December 13, 2011, at http://www.dcnr.state.pa.us/ topogeo/oilandgas/Marcellus.pdf.
+Hayes, Tom, 2011, Characterization of Marcellus and Barnett Shale flowback waters and technology development for water reuse: U.S. Environmental Protection Agency, Hydraulic Fracturing Technical Workshop no. 4, Arlington, Virginia, March 30, 2011, presentation and notes, 70 p., accessed July 26, 2012, at http://www.epa.gov/hfstudy/ 12_Hayes_-_Marcellus_Flowback_Reuse_508.pdf.
+Hem, J.D., 1985, Study and interpretation of the chemical characteristics of natural water (3d ed.): U.S. Geological Survey Water-Supply Paper 2254, 264 p.
+Kargbo, D.M., Wilhelm, R.G., and Campbell, D.J., 2010, Natural gas plays in the Marcellus shale—Challenges and potential opportunities: Environmental Science and Technology, v. 44, p. 5679–5684.
+Keister, Timothy, 2010, Marcellus hydrofracture flowback and production wastewater treatment, recycle, and disposal technologies: Susquehanna River Heartland Coalition for Environmental Studies and Foundation for Pennsylvania’s Water Sheds and Rivers, The Science of Marcellus Shale, Williamsport, Pennsylvania, January 29, 2010, presentation, 8 p., accessed July 26, 2012, at http://energy.wilkes.edu/ PDFFiles/Library/The_Science_of_Marcellus_Shale_ Wastewater.pdf.
+
+Broughton, J.G., Fisher, D.W., Isachsen, Y.W., Rickard, L.V., and Offield, T.W., 1962, The geology of New York state: Albany, New York State Geological Survey Map and Chart Series no. 5, 5 sheets, scale 1:250,000.
+Cardwell, D.H., Erwin, R.B., and Woodward, H.P., 1968, Geologic map of West Virginia: West Virginia Geological Survey Map 1, 1 sheet, scale 1:250,000.
+Davis, S.N., Whittemore, D.O., and Fabryka-Martin, June, 1998, Uses of chloride/bromide ratios in studies of potable water: Groundwater, v. 36, p. 338–350.
+
+Kerr, R.A., 2010, Natural gas from shale bursts onto the scene: Science, v. 328, p. 1624–1626.
+Martin, J.P., Hill, D.G., and Lombardi, T.E., 2004, Fractured shale gas potential in New York: Northeastern Geology and Environmental Science, v. 26, nos. 1–2, p. 57–78.
+Molofsky, L.J., Connor, J.A., Farhat, S.K., Wylie, A.S., Jr., and Wagner, Tom, 2011, Methane in Pennsylvania water wells unrelated to Marcellus shale fracturing: Oil and Gas Journal, v. 109, no. 49, 12 p.
+
+12   Baseline Groundwater Quality in National Park Units Within the Marcellus and Utica Shale Gas Plays, Eastern U.S., 2011
+
+New York State Department of Environmental Conservation, 2011, Radiological data—Production brine from NYS Marcellus wells, appendix 13 of Revised draft— Supplemental generic environmental impact statement on the oil, gas and solution mining regulatory program: New York State Department of Environmental Conservation, accessed December 7, 2011, at http://www.dec.ny.gov/docs/ materials_minerals_pdf/rdsgeisapp1140911.pdf.
+Osborn, S.G., Avner, Vengosh, Warner, N.R., and Jackson, R.B., 2011, Methane contamination of drinking water accompanying gas-well drilling and hydraulic fracturing: Proceedings of the National Academy of Science, v. 108, p. 8172–8176.
+Palmerton Group, Inc., 2011, Marcellus Shale gas frack flowback water study: Palmerton Group, Inc., accessed December 7, 2011, at http://www.palmertongroup.com/services/ marcellus-shale-gas/frac-flow-back-water-study.asp.
+Pennsylvania Department of Environmental Protection, 2008, DEP investigates source of elevated total dissolved solids in Monongahela River: Harrisburg, Pa., Pennsylvania Department of Environmental Protection press release, October 22, 4 p.
+Sevon, W.D., 2000, Physiographic provinces of Pennsylvania: Pennsylvania Geological Survey, Series 4, Map 13, 1 sheet.
+Soeder, D.J., and Kappel, W.M., 2009, Water resources and natural gas production from the Marcellus shale: U.S. Geological Survey Fact Sheet 2009–3032, 6 p.
+U.S. Environmental Protection Agency, 2002, Drinking-water advisory—Consumer acceptability advice and health effects analysis on sodium: U.S. Environmental Protection Agency EPA 822–R–02–032, 34 p.
+U.S. Environmental Protection Agency, 2004, Proposed radon in drinking water rule: U.S. Environmental Protection Agency, accessed November 13, 2011, at http://www.epa. gov/safewater/radon/proposal.html.
+
+U.S. Environmental Protection Agency, 2006, Drinking water standards and health advisories: U.S. Environmental Protection Agency EPA 822–R–06–013, 12 p.
+U.S. Environmental Protection Agency, 2011a, Drinking water contaminants—National primary drinking water regulations: U.S. Environmental Protection Agency, accessed November 13, 2011, at http://water.epa.gov/drink/ contaminants/index.cfm.
+U.S. Environmental Protection Agency, 2011b, Hydraulic fracturing: U.S. Environmental Protection Agency, accessed November 13, 2011, at http://water.epa.gov/type/ groundwater/uic/class2/hydraulicfracturing/.
+U.S. Geological Survey, 2009, Analytical procedures for dissolved gas: U.S. Geological Survey, accessed November 13, 2011, http://water.usgs.gov/lab/dissolved-gas/lab/ analytical_procedures/.
+U.S. Geological Survey, 2011, National Water Quality Laboratory: U.S. Geological Survey, accessed November 13, 2011, at http://nwql.usgs.gov/.
+U.S. Geological Survey, 2012, USGS water data for the nation: U.S. Geological Survey, accessed April 2, 2012, at http://waterdata.usgs.gov/nwis.
+U.S. Geological Survey, [variously dated], National field manual for the collection of water-quality data: U.S. Geological Survey Techniques of Water-Resources Investigations, book 9, chap. A1–A9, accessed November 13, 2011, at http://pubs.water.usgs.gov/twri9A/.
+Wilde, F.D., Radtke, D.B., Gibs, Jacob, and Iwatsubo, R.T., eds., 2004, Processing of water samples: U.S. Geological Survey Techniques of Water-Resources Investigations, book 9, chap. A5, [variously paginated].
+Wood, C.R., 1996, Water quality of large discharges from mines in the anthracite region of eastern Pennsylvania: U.S. Geological Survey Water-Resources Investigations Report 95–4243, 68 p., accessed November 13, 2011, at http://pubs.usgs.gov/wri/1995/4243/report.pdf.
+
+Tables 6–9
+
+14   Baseline Groundwater Quality in National Park Units Within the Marcellus and Utica Shale Gas Plays, Eastern U.S., 2011
+
+Table 6.  Physical properties and dissolved gas concentrations for samples from 15 wells and 1 spring at national park units within the Marcellus Shale and Utica Shale in New York, Pennsylvania, and West Virginia in 2011.
+
+[Locations are shown in figure 1; site information is listed in table 1. μS/cm, microsiemens per centimeter at 25°C; mg/L, milligrams per liter; <, less than; (00400), USGS National Water Information System (NWIS) parameter code. Bold values exceed drinking-water standard]
+
+Site name
+DEWA–1 DEWA–2 DEWA–3 ALPO JOFL
+
+pH, field, standard
+units (00400)
+7.4
+8.1
+6.9
+6.7
+6.5
+
+Specific conductance, field, μS/cm (00095)
+349
+261
+292
+879
+706
+
+Dissolvedoxygen unfiltered, field,
+mg/L (00300)
+0.2
+<.2
+10.7
+4.6
+7.1
+
+Chemical oxygen demand
+unfiltered, mg/L (00340)
+<10
+<10
+<10
+<10
+<10
+
+Nitrogen gas unfiltered, mg/L (00597)
+21.9
+40.1
+21.2
+20.0
+20.6
+
+Carbon dioxide unfiltered,
+mg/L (00405)
+4.44
+0.23
+5.33
+15.8
+12.9
+
+Methane unfiltered,
+mg/L (85574)
+0.007
+2.52
+<0.001
+<0.001
+<0.001
+
+Argon unfiltered,
+mg/L (82043)
+0.76
+1.1
+0.78
+0.73
+0.75
+
+Hydrogen sulfide (71875)
+Absent Absent Absent Absent Absent
+
+FLNI
+
+5.9 730
+
+2.4
+
+<10
+
+20.8 91.8
+
+0.013 0.74 Absent
+
+FONE
+
+4.8 105
+
+10.3
+
+<10
+
+17.0 21.6 <0.001 0.65 Absent
+
+NERI–1
+
+6.7
+
+819
+
+0.3
+
+<10
+
+19.5 44.6 <0.001 0.67 Absent
+
+NERI–2
+
+8.4 1,160
+
+<.2
+
+<10
+
+15.3
+
+0.34 30.1
+
+0.62 Present
+
+NERI–3
+
+5.6
+
+412
+
+<.2
+
+<10
+
+18.8 24.2
+
+4.11 0.66 Present
+
+UPDE–1
+
+5.7
+
+117
+
+7.4
+
+<10
+
+19.3 32.4 <0.001 0.73 Absent
+
+UPDE–2
+
+5.5
+
+131
+
+8.7
+
+<10
+
+18.7 37.8
+
+0.001 0.71 Absent
+
+UPDE–3
+
+8.0
+
+345
+
+<.2
+
+<10
+
+25.7 0.44 4.77 0.84 Present
+
+SARA 6.5 138
+
+5.5
+
+<10
+
+21.4 4.59 <0.001 0.77 Absent
+
+MAVA–1
+
+7.4
+
+298
+
+<.2
+
+<10
+
+25.7 0.45 0.302 0.81 Present
+
+MAVA–2
+
+6.6
+
+760
+
+0.3
+
+<10
+
+24.8 9.91 <0.001 0.78 Absent
+
+Table 7.  Concentrations of inorganic constituents in samples from 15 wells and 1 spring at national park units within the Marcellus Shale and Utica Shale in New York, Pennsylvania, and West Virginia in 2011.
+
+[Well locations are shown in figure 1; site information is listed in table 1. mg/L, milligrams per liter; CaCO3, calcium carbonate; (00900), USGS National Water Information System (NWIS) parameter code. Bold values exceed drinking-water standard]
+
+Site name
+DEWA–1 DEWA–2 DEWA–3 ALPO JOFL
+
+Hardness, filtered, mg/L(0a0s90C0a) CO3
+165
+17.4
+81.9
+398
+260
+
+Calcium, filtered,
+mg/L (00915)
+47.5
+5.22
+27.3
+93.4
+74.0
+
+Magnesium, filtered, mg/L (00925)
+11.2
+0.951
+3.31
+39.7
+18.2
+
+Potassium, filtered, mg/L (00935)
+0.43
+0.33
+0.55
+1.17
+1.34
+
+Sodium, filtered,
+mg/L (00930)
+6.85
+54.6
+22.5
+61.5
+53.4
+
+Alkalinity,1 filtered,
+mg/L(2a9s80C1a) CO3
+145
+127
+48
+216
+152
+
+FLNI FONE NERI–1 NERI–2 NERI–3
+
+369 49.1 290 3.73 92.5
+
+106 13.0 75.6 1.04 24.8
+
+25.0 4.03 24.3 0.253 7.30
+
+1.20 4.91 0.78 1.34 0.85 63.6 0.39 248 1.04 51.1
+
+41 41 220 347 144
+
+UPDE–1 UPDE–2 UPDE–3 SARA MAVA–1 MAVA–2
+
+45.0 34.6 19.2 60.8 34.0 254
+
+13.0 8.99 4.85 17.8 7.75 72.9
+
+2.99 2.92 1.56 3.96 3.12 17.1
+
+0.96 3.51 0.87 9.35 0.80 68.8 0.90 1.69 3.06 51.8 2.06 49.3
+
+38 16 110 61 124 183
+
+Table 7  15
+
+16   Baseline Groundwater Quality in National Park Units Within the Marcellus and Utica Shale Gas Plays, Eastern U.S., 2011
+
+Table 7.  Concentrations of inorganic constituents in samples from 15 wells and 1 spring at national park units within the Marcellus Shale and Utica Shale in New York, Pennsylvania, and West Virginia in 2011.—Continued
+
+[Well locations are shown in figure 1; site information is listed in table 1. mg/L, milligrams per liter; CaCO3, calcium carbonate; C, Celsius; <, less than; (29805), USGS National Water Information System (NWIS) parameter code. Bold values exceed drinking-water standard]
+
+Site name
+DEWA–1 DEWA–2 DEWA–3 ALPO JOFL
+
+Bicarbonate,2 filtered,
+mg/L(2a9s80C5a) CO3
+177 155 59 264 185
+
+Bromide filtered,
+mg/L (71870)
+0.03
+0.02
+0.02
+0.12
+0.05
+
+Chloride, filtered,
+mg/L (00940)
+9.89
+9.96
+52.4
+218
+149
+
+Fluoride, filtered,
+mg/L (00950)
+0.05
+0.28
+<.04
+0.17
+0.16
+
+Silica, filtered,
+mg/L (00955)
+11.1
+8.04
+8.15
+14.4
+10.2
+
+Sulfate, filtered,
+mg/L (00945)
+24.4
+1.78
+11.2
+29.7
+25.1
+
+Dissolved solids dried at 180°C,
+filtered, mg/L (70300)
+195
+156
+171
+691
+480
+
+FLNI FONE NERI–1 NERI–2 NERI–3
+
+50
+
+0.06 19.7
+
+<.04 7.29 304
+
+554
+
+50
+
+0.01 3.17 <.04 6.83 8.43
+
+62
+
+268
+
+0.13 50.7
+
+0.13 13.1 128
+
+506
+
+423 1.52 151
+
+2.33 7.35 0.27 677
+
+176
+
+0.30 34.6
+
+0.24 12.3
+
+6.73 231
+
+UPDE–1
+
+46
+
+UPDE–2
+
+20
+
+UPDE–3
+
+134
+
+SARA
+
+74
+
+MAVA–1
+
+151
+
+MAVA–2
+
+223
+
+1Fixed-endpoint titration at pH 4.5.
+
+2Calculated from alkalinity.
+
+<.01 <.01 0.38 <.01 <.01 0.03
+
+5.58 19.0 39.0 0.59 16.8 110
+
+<.04 9.68 9.55
+
+<.04 8.82 10.0
+
+0.54 7.11 0.12
+
+0.06 12.8
+
+6.63
+
+0.45 10.6
+
+3.13
+
+0.09 10.7
+
+35.2
+
+82 75 193 79 181 414
+
+Table 8.  Concentrations of nutrients in samples from 15 wells and 1 spring at national park units within the Marcellus Shale and Utica Shale in New York, Pennsylvania, and West Virginia in 2011.
+
+[Well locations are shown in figure 1; site information is listed in table 1. mg/L, milligrams per liter; N, nitrogen; P, phosphorus; <, less than; (00608), USGS National Water Information System (NWIS) parameter code]
+
+Site name
+DEWA–1 DEWA–2 DEWA–3 ALPO JOFL
+
+Ammonia, filtered, mg/L as N (00608)
+0.082
+0.285
+<.010
+<.010
+<.010
+
+Nitrate plus nitrite, filtered,
+mg/L as N (00631)
+<.02
+<.02
+0.23
+0.16
+0.80
+
+Nitrite, filtered, mg/L as N (00613)
+<.001 <.001 <.001 <.001 <.001
+
+Orthophosphate, filtered, mg/L as P (00671)
+0.011
+0.032
+0.007
+0.012
+0.010
+
+Total nitrogen filtered, mg/L as N (62854)
+0.06
+0.29
+0.29
+0.17
+0.81
+
+FLNI FONE NERI–1 NERI–2 NERI–3
+
+0.037 <.010 0.074 0.147 0.122
+
+<.02 0.13 0.04 <.02 <.02
+
+<.001 <.001 0.003 <.001 <.001
+
+0.006 0.012 0.005 0.057 0.040
+
+0.06 0.14 0.07 0.06 <.05
+
+UPDE–1 UPDE–2 UPDE–3 SARA MAVA–1 MAVA–2
+
+<.010 <.010 0.060 <.010 0.491 0.032
+
+0.09 1.16 <.02 0.07 <.02 0.15
+
+<.001 <.001 <.001 <.001 <.001 <.001
+
+0.018 0.008 0.176 0.022 0.006 0.005
+
+0.08 1.05 <.05 <.05 0.48 0.15
+
+Table 8  17
+
+18   Baseline Groundwater Quality in National Park Units Within the Marcellus and Utica Shale Gas Plays, Eastern U.S., 2011
+
+Table 9.  Concentrations of trace elements and radioactivity in samples from 15 wells and 1 spring at national park units within the Marcellus Shale and Utica Shale in New York, Pennsylvania, and West Virginia in 2011.
+
+[Well locations are shown in figure 1; site information is listed in table 1. μg/L, micrograms per liter; <, less than; (01106), USGS National Water Information System (NWIS) parameter code. Bold values exceed drinking-water standard]
+
+Well number1
+DEWA–1 DEWA–2 DEWA–3 ALPO JOFL
+
+Aluminum, filtered, μg/L (01106)
+<1.7
+27.9
+<1.7
+<1.7
+<1.7
+
+Antimony, filtered,
+μg/L (01095)
+0.11
+<.03
+<.03
+0.06
+0.04
+
+Arsenic, filtered,
+μg/L (01000)
+3.6
+0.03
+0.06
+0.21
+0.12
+
+Barium, filtered,
+μg/L (01005)
+59
+20
+3
+252
+172
+
+Beryllium, filtered,
+μg/L (01010)
+<.01
+0.01
+<.01
+<.01
+<.01
+
+Boron, filtered,
+μg/L (01020)
+22
+264
+7
+122
+11
+
+Cadmium, filtered,
+μg/L (01025)
+<.02
+<.02
+<.02
+0.08
+0.02
+
+Chromium, filtered, μg/L (01030)
+0.09
+<.06
+<.06
+0.25
+0.09
+
+Cobalt, filtered,
+μg/L (01035)
+0.09
+0.03
+0.13
+0.05
+0.07
+
+FLNI FONE NERI–1 NERI–2 NERI–3
+
+<1.7 <.03 0.19
+
+38 0.01
+
+63 <.02 <.06 55.1
+
+4.4 <.03 0.03
+
+37 <.01
+
+8 <.02 0.21 0.12
+
+<1.7 0.03 3.0
+
+27 <.01
+
+39 <.02 <.06 0.10
+
+8.8 <.03 0.10
+
+31 0.01 307 <.02 <.06 <.02
+
+<1.7 <.03 0.05 198 0.02
+
+59 <.02 <.06 <.02
+
+UPDE–1
+
+<1.7 <.03 0.49
+
+23 <.01
+
+5 <.02 0.09 0.02
+
+UPDE–2
+
+<1.7 <.03 0.06
+
+73 0.01
+
+4 <.02 <.06 0.04
+
+UPDE–3
+
+<1.7 <.03 32.3
+
+327 <.01 109 <.02 <.06 0.30
+
+SARA
+
+2.6 <.03 0.43
+
+7 <.01
+
+<3 <.02 0.33 <.02
+
+MAVA–1
+
+5.0 <.03 <.02 1,050 <.01 205 <.02 <.06 <.02
+
+MAVA–2 <1.7 <.03 0.46 173 <.01
+
+37 <.02 <.06 0.03
+
+Table 9  19
+
+Table 9.  Concentrations of trace elements and radioactivity in samples from 15 wells and 1 spring at national park units within the Marcellus Shale and Utica Shale in New York, Pennsylvania, and West Virginia in 2011.—Continued
+
+[Well locations are shown in figure 1; site information is listed in table 1. μg/L, micrograms per liter; <, less than; (01040), USGS National Water Information System (NWIS) parameter code. Bold values exceed drinking-water standard]
+
+Site name
+DEWA–1 DEWA–2 DEWA–3 ALPO JOFL
+
+Copper, filtered,
+μg/L (01040)
+<.50
+<.50
+0.52
+5.5
+6.6
+
+Iron, filtered,
+μg/L (01046)
+161
+22
+36
+<3
+<3
+
+Lead, filtered,
+μg/L (01049)
+0.19
+<.01
+0.15
+0.72
+0.05
+
+Lithium, filtered,
+μg/L (01130)
+10.8
+98.4
+2.9
+34.2
+5.0
+
+Manganese, filtered, μg/L (01056)
+85.2
+8.0
+4.0
+8.7
+7.7
+
+Molybdenum, filtered, μg/L (01060)
+1.44
+0.47
+0.03
+0.11
+0.14
+
+Nickel, filtered,
+μg/L (01065)
+0.16
+<.09
+0.23
+1.5
+0.31
+
+Selenium, filtered,
+μg/L (01145)
+<.03
+<.03
+0.05
+0.04
+0.15
+
+Silver, filtered,
+μg/L (01075)
+<.01
+<.01
+<.01
+<.01
+<.01
+
+FLNI FONE NERI–1 NERI–2 NERI–3
+
+<.50 8,340 0.06 <.50 <3 0.02 2.4 10 2.94 <.50 33 <.01 <.50 463 <.01
+
+10.4 3,320 0.6 1.3 12.4 862 15.4 2.7 5.3 182
+
+0.03 76.2
+
+<.03 <.01
+
+0.05 1.3 0.30 <.01
+
+2.53 0.28 <.03 <.01
+
+0.99 <.09 <.03 <.01
+
+0.08 <.09 <.03 <.01
+
+UPDE–1 UPDE–2 UPDE–3 SARA MAVA–1 MAVA–2
+
+6.3 16.2 <.50 0.75 0.51 <.50
+
+<3 0.46 223 0.48 83 0.24
+9 0.28 6 0.02 19 0.19
+
+5.9 1.6 7.4 1.0 63.8 20.6
+
+0.4 0.02 0.13 0.07 <.01 9.0 <.01 0.33 0.09 <.01 95.1 0.58 <.09 <.03 <.01 1.0 0.03 <.09 0.05 <.01 15.3 0.88 <.09 <.03 <.01 11.7 0.82 0.20 0.05 <.01
+
+20   Baseline Groundwater Quality in National Park Units Within the Marcellus and Utica Shale Gas Plays, Eastern U.S., 2011
+
+Table 9.  Concentrations of trace elements and radioactivity in samples from 15 wells and 1 spring at national park units within the Marcellus Shale and Utica Shale in New York, Pennsylvania, and West Virginia in 2011.—Continued
+
+[Well locations are shown in figure 1; site information is listed in table 1. μg/L, micrograms per liter; <, less than; (01080), USGS National Water Information System (NWIS) parameter code. Bold values exceed drinking-water standard]
+
+Site name
+DEWA–1 DEWA–2 DEWA–3 ALPO JOFL
+
+Strontium, filtered,
+μg/L (01080)
+586
+395
+77.7
+1,100
+297
+
+Thallium filtered,
+μg/L (01057)
+<.01
+<.01
+<.01
+<.01
+<.01
+
+Vanadium filtered,
+μg/L (01085)
+<.08
+<.08
+<.08
+<.08
+<.08
+
+Uranium, filtered
+μg/L (22703)
+1.75
+0.01
+0.01
+0.08
+0.21
+
+Zinc, filtered,
+μg/L (01090)
+1.7
+<1.4
+7.7
+342
+158
+
+Gross alpha radioactivity unfiltered,
+pCi/L (01519)
+3.6
+<0.8
+<0.8
+<0.8
+<0.8
+
+Gross beta radioactivity unfiltered,
+pCi/L (85817)
+1.2
+<0.8
+1.3
+<0.8
+1.6
+
+Radon-222, unfiltered,
+pCi/L (82303)
+175
+77
+610
+100
+670
+
+FLNI FONE NERI–1 NERI–2 NERI–3
+
+144 <.01 <.08
+
+43.3 <.01 <.08
+
+753 <.01 <.08
+
+59.4 <.01
+
+0.09
+
+288 <.01 <.08
+
+<.004 0.05 0.64 0.02 <.004
+
+45.7 1.6 2.8 <1.4 <1.4
+
+1.0 1.1 <0.8 2.2 <0.8
+
+<0.8 <0.8 <0.8 <0.8 <0.8
+
+<12 530 390 420 72
+
+UPDE–1
+
+220
+
+<.01 <.08
+
+0.35
+
+7.5
+
+UPDE–2 55.2 <.01 <.08 0.01 10.2
+
+UPDE–3
+
+375
+
+<.01 <.08
+
+0.01
+
+4.1
+
+SARA
+
+72.3 <.01
+
+0.40
+
+0.03
+
+8.9
+
+MAVA–1
+
+898
+
+<.01 <.08
+
+0.01
+
+<1.4
+
+MAVA–2
+
+1,210
+
+<.01 0.10
+
+1.07
+
+5.0
+
+<0.8 <0.8
+1.4 0.8 1.0 <0.8
+
+1.6 3,030 0.9 1,310 1.3 1,210 0.8 190 3.3 54 2.0 290
+
+Prepared by the Pembroke Publishing Service Center. For additional information write to: New York Water Science Center U.S. Geological Survey 30 Brown Rd. Ithaca, NY 14850
+Information requests: (518) 285-5602 or visit our Web site at: http://ny.water.usgs.gov/
+
+Eckhardt and Sloto—Baseline Groundwater Quality in National Park Units Within the Marcellus and Utica Shale Gas Plays, Eastern U.S., 2011—Open-File Report 2012–1150
+
+

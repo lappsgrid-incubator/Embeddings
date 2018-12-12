@@ -1,0 +1,470 @@
+Discrete Mathematics 241 (2001) 479–487
+
+www.elsevier.com/locate/disc
+
+5-Designs from the lifted Golay code over Z4 via an Assmus–Mattson type approach
+
+Dong-Joon Shina, P. Vijay Kumarb, Tor Hellesethc; ∗
+aDiv. of Electrical and Computer Engineering, Hanyang University, 17 Haengdang-Dong Sungdong-Ku, Seoul, 133-791, South Korea
+bCommunication Sciences Institute, EE-Systems, University of Southern California, Los Angeles, CA 90089-2565, USA
+cDepartment of Informatics, University of Bergen, HIB N-5020 Bergen, Norway
+
+Abstract
+Recently, Harada showed that the codewords of Hamming weight 10 in the lifted quaternary Golay code form a 5-design. The codewords of Hamming weight 12 in the lifted Golay code are of two symmetric weight enumerator (swe) types. The codewords of each of the two swe types were also shown by Harada to form a 5-design. While Harada’s results were obtained via computer search, a subsequent analytical proof of these results appears in a paper by Bonnecaze, Rains and Sole. Here we provide an alternative analytical proof, using an Assmus–Mattson type approach, that the codewords of Hamming weight 12 in the lifted Golay code of each symmetric weight enumerator type, form a 5-design.
+Also included in the paper is the weight hierarchy of the lifted Golay code. The generalized Hamming weights are used to distinguish between simple 5-designs and those with repeated blocks. c 2001 Elsevier Science B.V. All rights reserved.
+Keywords: t-Designs; Quaternary codes; Lifted Golay code; Assmus–Mattson theorem
+
+1. Introduction
+Let D be a set of elements. Then a collection of k-subsets (or blocks) of D is called a t-( ; k; ) design if any t elements of D are contained in exactly k-subsets (or blocks) of this collection. A design is called simple if all the blocks are distinct; otherwise, the design is said to have repeated blocks. The Assmus–Mattson theorem [1] gives su cient conditions for the codewords of constant Hamming weight in a code over a ÿnite ÿeld to form a t-design. In this paper, we use an Assmus–Mattson
+This research was supported by The Norwegian Research Council. ∗ Corresponding author. E-mail address: torh@ii.uib.no (T. Helleseth).
+0012-365X/01/$ - see front matter c 2001 Elsevier Science B.V. All rights reserved. PII: S 0 0 1 2 - 3 6 5 X ( 0 1 ) 0 0 1 5 6 - X
+
+480 D.-J. Shin et al. / Discrete Mathematics 241 (2001) 479–487
+
+type approach to provide an alternative proof to that given in [2] of the existence of
+
+5-designs in the lifted Golay code over Z4. The recent interest in constructing t-designs from linear codes over Z4 began when
+Harada [7] discovered through computer search, that the supports of codewords of
+
+Hamming weight 10 in the lifted Golay code over Z4 yielded 5-designs. Subsequently, Harada [8] also extended this result to codewords of Hamming weight 12 in the lifted
+
+Golay code over Z4 by uncovering 5-(24; 12; 1584) and 5-(24; 12; 1632) designs, again
+
+through computer search. Bonnecaze et al. [2] proved that the supports of the codewords
+
+of constant symmetrized weight type in the lifted Golay code over Z4 form a 5-design, possibly with repeated blocks. They also introduced the notion of a colored t-design
+
+and constructed colored 5-designs from codewords of the same symmetrized weight in
+
+various Type II codes over Z4. In a related development Helleseth et al. [9], showed that codewords of Hamming
+
+weight 5 in the Preparata code over Z4 yield a 3-design. By making use of coset weight
+
+enumerators, Duursma et al. [5] subsequently showed that the codewords of constant
+
+complete weight in any of the Preparata and Kerdock codes over Z4 form a 3-design possibly with repeated blocks. In [10], Helleseth et al. derived 3-(25; 7; 105), 3-(25; 7; 7)
+
+and 3-(27; 7; 560) designs from the supports of the minimum Lee weight codewords in
+
+the Goethals codes over Z4 having speciÿc lengths 32 and 128. This was done using a combination of analysis and computer search. Subsequently, Shin et al. [13] generalized
+
+this
+
+result
+
+by
+
+deriving
+
+through
+
+analytical
+
+means
+
+3-(2m; 7;
+
+14 3
+
+(2m
+
+− 8))
+
+designs,
+
+with
+
+m
+
+odd, from the Goethals code over Z4. A di erent paper [14] by the same authors shows
+
+how one can use an Assmus–Mattson type theorem for linear codes over Z4 to verify the existence of t-designs.
+
+Section 2 of the present paper provides preliminaries. In Section 3, an Assmus–
+
+Mattson type approach is used to identify 5-designs from the lifted Golay code over Z4. The second generalized Hamming weight of a code is used in this paper as a criterion
+
+to distinguish between simple designs and those with repeated blocks. For this reason,
+
+in Section 4, the generalized Hamming weight hierarchy of the lifted Golay code over
+
+Z4 is derived. While the designs presented in this paper were previously known [2,8], our approach is di erent.
+
+2. Preliminaries
+Let Z4 denote the ring of integers modulo 4. An [n; k] linear code C over Z4 is deÿned as a subgroup of the additive group Z4n having size |C| = 4k . Let T = {T1; T2; : : : ; Ti} be any i arbitrary coordinates of C. Then, following MacWilliams and Sloane [11], we will denote the code C punctured in the coordinates T by CT and the code C shortened in the coordinates T by C0@T .
+Let c = (c1; c2; : : : ; cn) be a codeword of a linear code C over Z4. Deÿne, for i ∈ Z4, the multiplicity of i in c by ni(c) = |{ck = i | 1 6 k 6 n}|. There are several weight enumerators for a code C namely:
+
+D.-J. Shin et al. / Discrete Mathematics 241 (2001) 479–487
+
+481
+
+• the complete weight enumerator (or cwe) of C given by
+cweC(W; X; Y; Z ) = W n0(c)X n1(c)Y n2(c)Z n3(c);
+c∈C
+• the symmetrized weight enumerator (or swe) of C given by
+sweC(W; X; Y ) = W n0(c)X n1(c)+n3(c)Y n2(c)
+c∈C
+and • the Hamming weight enumerator (or hwe) of C given by
+hweC(W; X ) = W n0(c)X n1(c)+n2(c)+n3(c):
+c∈C
+We will often refer to a codeword as being of complete weight enumerator type (cwe type) X n1(c)Y n2(c)Zn3(c), i.e., we will suppress the redundant W factor. A similar abbreviation will also be used in the case of the symmetric and Hamming weight enumerators.
+The support of a codeword c = (c1; c2; : : : ; cn) ∈ C is the set {i | ci = 0}. From the supports of codewords having the same Hamming weight , it is sometimes possible to construct a t-(n; ; ) design. In general, several distinct complete or symmetrized weight types may be associated with the same Hamming weight type. The support
+(A) of a subcode A ⊂ C and the rth generalized Hamming weight dr(C) of C are deÿned by
+
+(A) = {i | ci = 0 for some (c1; : : : ; cn) ∈ A}
+
+and
+
+dr(C) = min{| (A)|: A is a subcode of C with |A| = 4r};
+
+where 2r is an integer and 0:5 6 r 6 k. The weight hierarchy of C is the set or multiset,
+
+{dr(C) | 0:5 6 r 6 k and 2r is an integer}.
+
+The MacWilliams identities express the weight enumerators of the code C in terms
+
+of iX
+
+the weight − Y − iZ,
+
+enumerators Yˆ = W − X
+
+of +
+
+the dual code Y − Z and Zˆ
+
+C⊥ [6]. Let Wˆ = W − iX − Y
+
+=W +X +Y + iZ, where
+
++ Z√, Xˆ = W + i = −1. The
+
+MacWilliams identities state that:
+
+cweC(W;
+
+X;
+
+Y;
+
+Z
+
+)
+
+=
+
+1 |C⊥|
+
+cweC⊥
+
+(Wˆ
+
+;
+
+Xˆ
+
+;
+
+Yˆ ;
+
+Zˆ);
+
+sweC(W; X; Y ) =
+
+1 |C⊥
+
+|
+
+sweC⊥
+
+(W
+
++
+
+2X
+
++
+
+Y; W
+
+− Y; W
+
+−
+
+2X
+
++
+
+Y );
+
+1 hweC(W; X ) = |C⊥| hweC⊥ (W + 3X; W − X ):
+
+The lifted Golay code QR24 over Z4 is a self-dual code of length 24 obtained by extending the cyclic quadratic residue code QR23 over Z4 having the following
+
+482 D.-J. Shin et al. / Discrete Mathematics 241 (2001) 479–487
+generator polynomial [4]:
+g(x) = x11 + 2x10 + 3x9 + 3x7 + 3x6 + 3x5 + 2x4 + x + 3; where g(x) is a Hensel lift of the generator polynomial x11 + x9 + x7 + x6 + x5 + x + 1 associated with the binary quadratic residue code of length 23.
+In the code QR24; there are three distinct cwe-types of Hamming weight 10 namely, X 2Y 2Z6, X 6Y 2Z2 and X 4Y 2Z4 having the same swe-type X 8Y 2. Computer search shows that codewords of any of these cwe-types fails to form a 5-design. However, the union of codewords of the three types, i.e., codewords of swe-type X 8Y 2, forms a t-design. This was discovered through computer search in [7,8]. An analytic proof was subsequently provided in [2]. The complete and symmetrized weight enumerators of QR24 are known (see [3,4]). The swe is presented below:
+sweQR24 (W; X; Y ) = W 24 + 759W 16Y 8 + 12144W 14X 8Y 2 + 2576W 12Y 12 + 170016W 12X 8Y 4 + 61824W 11X 12Y + 765072W 10X 8Y 6 + 1133440W 9X 12Y 3 + 759W 8Y 16 + 1214400W 8X 8Y 8 + 24288W 8X 16 + 4080384W 7X 12Y 5 + 765072W 6X 8Y 10 + 680064W 6X 16Y 2 + 4080384W 5X 12Y 7 + 170016W 4X 8Y 12 + 1700160W 4X 16Y 4 + 1133440W 3X 12Y 9 + 12144W 2X 8Y 14 + 680064W 2X 16Y 6 + 61824WX 12Y 11 + 24288X 16Y 8 + Y 24 + 4096X 24:
+3. 5-Designs via an Assmus–Mattson type approach
+We begin with some observations about the quaternary lifted Golay code QR24.
+Lemma 1. The subcode of QR24; which consists of codewords having coordinate entries 0 or 2 is equivalent to the binary Golay code G24. In other words;
+{c ∈ QR24 | c ∈ {0; 2}24} = {2u over Z4 | u ∈ G24}:
+The Assmus–Mattson type approach presented here makes use of the 5 designs known to exist in the binary [24], [12,8] Golay code from which QR24 is derived.
+Lemma 2 (MacWilliams and Sloane [11]). The codewords of weight 8; 12 and 16 in the binary Golay code of length 24 form a Steiner system S(5; 8; 24); and 5-(24; 12; 48) and 5-(24; 16; 78) designs; respectively.
+
+D.-J. Shin et al. / Discrete Mathematics 241 (2001) 479–487
+
+483
+
+Lemma 3. Let T = {T1; T2; T3; T4; T5} ⊂ {1; 2; : : : ; 24} be any ÿve coordinates of QR24. Then (QRT24)⊥ = QR02@4 T .
+
+Proof. The code QR24 is a self-dual code with minimum Hamming distance 8. For any a ∈ QR02@4 T and b ∈ QRT24, it is clear that the inner product (a · b) = 0. Also, |QRT24| = |QR24| = 412 for otherwise, there exist u = v ∈ QR24 such that the punctured uT = vT . This would imply that u − v ∈ QR24 of Hamming weight 6 5, a contradiction.
+
+If one ÿxes any coordinate and considers all codewords of QR24 at that coordinate,
+
+then there will either be equally many 0 and 2 or equally many 0, 1, 2 and 3. This
+
+implies that |QR02@4 T | ¿ |QR24|=45. But the orthogonality of QR02@4 T and QRT24 implies
+
+that
+
+|QR02@4 T |·|QRT24| 6 419,
+
+so
+
+that
+
+we
+
+get
+
+|QR
+
+0@T 24
+
+|
+
+=
+
+47
+
+.
+
+Thus
+
+the
+
+code
+
+QR02@4 T
+
+satisÿes
+
+the cardinality requirement for the dual code.
+
+Let T = {T1; T2; T3; T4; T5} ⊂ {1; 2; : : : ; 24} be ÿve arbitrary positions. By Lemma 3, we may apply the MacWilliams identities and write:
+
+sweQR02@4 T (W; X; Y ) = W 19 + a1W 11Y 8 + a2W 7Y 12 + a3W 3Y 16 + c1W 9X 8Y 2 + c2W 7X 8Y 4 + c3W 6X 12Y + c4W 5X 8Y 6
+
++ c5W 4X 12Y 3 + c6W 3X 16 + c7W 3X 8Y 8 + c8W 2X 12Y 5
+
++ c9WX 16Y 2 + c10WX 8Y 10 + c11X 12Y 7
+
+=
+
+1 |QR
+
+T 24
+
+|
+
+sweQRT24
+
+(W
+
++
+
+2X
+
++ Y; W
+
+−
+
+Y; W
+
+−
+
+2X
+
++
+
+Y );
+
+where a1; a2 and a3 are known by Lemmas 1 and 2, and ci; 1 6 i 6 11, are unknown
+
+coe cients. We also have the following partial information concerning the swe of the punctured lifted Golay code QRT24 over Z4:
+
+19
+sweQRT24 (W; X; Y ) = W 19 + Y 19 + biW 19−iY i
+i=1
+
++ 0{W 18X + W 17X 2 + W 17XY + W 16X 3 + W 16X 2Y
+
++ W 16XY 2 + W 15X 4 + W 15X 3Y + W 15X 2Y 2 + W 15XY 3
+
++ W 14X 2Y 3 + W 14XY 4 + W 13X 3Y 3 + · · ·}
+
++ terms having unknown coe cients;
+where bi; 1 6 i 6 19, are known. We know that the codewords of the minimum Lee weight in QR24, i.e., the code-
+words of swe-type X 8Y 2, form a simple 5-(24; 10; 36) design. By combining this result and the Assmus–Mattson type approach, we get the following 5-designs from the lifted Golay code over Z4.
+
+484 D.-J. Shin et al. / Discrete Mathematics 241 (2001) 479–487
+
+Theorem 4. The supports of the codewords of swe-type X 8Y 4 form a simple 5-(24; 12; 1584) design.
+
+Proof. Let T = {T1; T2; T3; T4; T5} ⊂ {1; 2; : : : ; 24} be ÿve arbitrary positions. By using
+the fact that the codewords of swe-type X 8Y 2 form a simple 5-(24; 10; 36) design as well as the MacWilliams identities relating the swe of the codes QR02@4 T and QRT24,
+we can derive 11 linearly independent equations in 11 unknowns by di erentiating the
+
+MacWilliams identities followed by evaluation at W = X = Y = 1:
+
+@i @W i
+
+sweQR02@4 T
+
+(W;
+
+X;
+
+Y)
+
+=
+
+1 |sweQRT24 |
+
+@i @W i
+
+sweQRT24
+
+(W + 2X + Y; W − Y; W − 2X + Y );
+
+where 0 6 i 6 5 and
+
+@j @Y j
+
+sweQR02@4 T
+
+(W;
+
+X;
+
+Y)
+
+=
+
+1 |sweQRT24 |
+
+@j @Y j
+
+sweQRT24
+
+(W + 2X + Y; W − Y; W − 2X + Y );
+
+where 1 6 j 6 5. All right-hand sides can be calculated and shown to be independent
+of the choice of ÿve punctured positions T . We can verify that the above 11 equations
+are linearly independent from which it follows that sweQRT24 (W; X; Y ) is independent of the choice of T .
+Since, as shown in the next section, the second generalized Hamming weight of QR24, d2(QR24) = 13 two codewords in QR24 of swe-type X 8Y 4 can have the same support if and only if one is a scalar multiple by 3 of the other. This implies that the supports of codewords of the swe-type X 8Y 4 in QR24 can be made to yield a simple 5-design. We know that
+
+t
+
+=b
+
+k t
+
+(1)
+
+for any t-( ; k; ) design where b is the number of blocks. Since the number of code-
+
+words of the swe-type X 8Y 4 in QR24 is 170016 and there are precisely two codewords of swe-type X 8Y 4 that have the same support, it follows that in the simple design,
+
+b=
+
+170016 2
+
+.
+
+It
+
+follows,
+
+then,
+
+by
+
+(1)
+
+that
+
+= 1584.
+
+It is also possible to ÿnd more 5-designs possibly with repeated blocks from the codewords having constant Hamming weight larger than 12.
+
+Corollary 5. The supports of codewords of constant Hamming weight in the lifted Golay code over Z4 form a 5-design; possibly with repeated blocks.
+
+Proof. In the proof of Theorem 4, we showed that the symmetrized weight enumerator of the punctured lifted Golay code over Z4 is independent of the choice of ÿve positions.
+
+D.-J. Shin et al. / Discrete Mathematics 241 (2001) 479–487
+
+485
+
+It implies that codewords of constant Hamming weight form a 5-design, possibly with repeated blocks.
+
+4. Criteria for a simple design
+We need a criterion to decide whether a design obtained by using an Assmus– Mattson type approach is simple. We provide two such criteria. The ÿrst one is contained in the lemma following and utilizes the minimum Hamming distance of the code. The second and often more informative criterion is the second generalized Hamming weight.
+Lemma 6. Let C be a linear code of length n over Z4 with minimum Hamming distance dH . Suppose two codewords u and v have the same support of size ‘. Then u must be a scalar multiple of v if ‘ − ‘=4 ¡ dH where x is the smallest integer ¿ x.
+Proof. Let u = (u1; : : : ; un) and v = (v1; : : : ; vn). For non-zero i; j ∈ Z4, deÿne Ni;j = |{k; 1 6 k 6 n | uk = i and vk = j}|: There are a total of nine nontrivial linear combinations of u and v in the form {au + bv | a; b ∈ {1; 2; 3}}. These are classiÿed according to the number of new zero coordinate positions which the linear combinations attain:
+Case 1: 2u + 2v, u + v and 3u + 3v introduce N1;3 + N2;2 + N3;1 new zero positions. Case 2: u + 2v and 3u + 2v introduce N2;1 + N2;3 new zero positions. Case 3: 2u + 2v, u + 3v and 3u + v introduce N1;1 + N2;2 + N3;3 new zero positions. Case 4: 2u + v and 2u + 3v introduce N1;2 + N3;2 new zero positions. From the above four cases, we conclude that there always exists a linear combination, y = au + bv, a; b ∈ Z4; a = 0; b = 0, of u and v which has at least l=4 additional zero coordinate positions. Since this linear combination y is also a codeword, y must be the all-zero vector if l − l=4 ¡ dH , thus proving the lemma.
+This lemma, when applied to the quaternary Golay code QR24, tells us that any two codewords of Hamming weight 10 or less that share the same support, must necessarily be scalar multiples of each other. This is not su cient however, to guarantee that the design obtained in Theorem 4 is simple, as this involves codewords of Hamming weight 12. Knowledge of the second generalized Hamming weight (13 in this case) tells us that the same holds true in case of Hamming weight 12 as well.
+Since we have not been able to ÿnd the second generalized Hamming weight of QR24 in the literature, we derive the weight hierarchy of QR24 below.
+4.1. Weight hierarchy of QR24
+Two useful lemmas are ÿrst presented.
+
+486 D.-J. Shin et al. / Discrete Mathematics 241 (2001) 479–487
+Lemma 7 (Wei [15]). The [24; 12] binary Golay code; G24; has the following weight hierarchy:
+{8; 12; 14; 15; 16; 18; 19; 20; 21; 22; 23; 24}:
+Lemma 8 (Yang and Helleseth [16]). Let C be an [n; k] linear code over Z4 and C⊥ its dual code. Then
+{dr(C) | 0:5 6 r 6 k} = {1; 1; 2; 2; : : : ; n; n} \ {n + 1 − ds(C⊥) | 0:5 6 s 6 n − k}:
+The above lemmas as well as Lemma 1 can be used to derive the weight hierarchy of the lifted Golay code QR24 over Z4.
+Theorem 9. The weight hierarchy of the lifted Golay code QR24 over Z4 is
+{8; 10; 13; 13; 14; 14; 15; 16; 16; 17; 18; 18; 19; 19; 20; 20; 21; 21; 22; 22; 23; 23; 24; 24}:
+Proof. By Lemma 8 and the self-duality of QR24, we have {dr(QR24) | 0:5 6 r 6 12} = {1; 1; : : : ; 24; 24} \ {25 − dr(QR24) | 0:5 6 r 6 12}:
+Since d0:5(QR24) = 8 and d1(QR24) = 10, the following multiset is contained in the weight hierarchy:
+{8; 10; 16; 16; 17; 18; 18; 19; 19; : : : ; 24; 24}:
+It remains to ÿnd dr(QR24) for 1:5 6 r 6 3:5. Clearly, d1:5(QR24) is one of 10; 11; 12 and 13. Suppose d1:5(QR24) = 10. This is possible only if the support of a codeword of the swe-type Y 8 is contained in the support of a codeword of the swe-type X 8Y 2. However, this is impossible according to d2(G24) = 12 and Lemma 1.
+Suppose next that d1:5(QR24) = 11. This is again possible only when the union of the supports of codewords of the swe-type Y 8 and those of the swe-type X 8Y 2 has size 11 but this is impossible according to d2(G24) = 12 and Lemma 1. Suppose d1:5(QR24) = 12. This is possible only when the support of a codeword of the swe-type Y 8 is contained in the support of a codeword of the swe-type X 8Y 4. Since d2(G24) = 12, the above two codewords cannot have m 2’s at the same positions where 1 6 m 6 3. If two codewords have four 2’s at the same positions, then the swe-type of the sum of these two codewords is X 8 and this is impossible.
+As a result, we get d1:5(QR24) = 13 and this implies that d2:0(QR24) = 13, d2:5(QR24) = 14, d3:0(QR24) = 14, and d3:5(QR24) = 15.
+References
+[1] E.F. Assmus Jr., H.F. Mattson Jr., New 5-designs, J. Combin. Theory 6 (1969) 122–151. [2] A. Bonnecaze, E. Rains, P. SoleÃ, 3-Colored 5-designs and Z4-codes, J. Statist. Plann. Inference 86
+(2000) 349–368.
+
+D.-J. Shin et al. / Discrete Mathematics 241 (2001) 479–487
+
+487
+
+[3] A.B. Bonnecaze, P. SoleÃ, C. Bachoc, B. Mourrain, Type II codes over Z4, IEEE Trans. Inform. Theory 43 (1997) 969–976.
+[4] A.B. Bonnecaze, P. SoleÃ, A.R. Calderbank, Quaternary quadratic residue codes and unimodular lattices, IEEE Trans. Inform. Theory 41 (1995) 366–377.
+[5] I. Duursma, T. Helleseth, C. Rong, K. Yang, Split weight enumerators for the Preparata codes with applications to designs, Designs, Codes Cryptography 18 (1999) 103–124.
+[6] A.R. Hammons, P.V. Kumar, A.R. Calderbank, N.J.A. Sloane, P. SoleÃ, The Z4-linearity of Kerdock, Preparata, Goethals, and related codes, IEEE Trans. Inform. Theory 40 (1994) 301–319.
+[7] M. Harada, New 5-designs constructed from the lifted Golay code over Z4, preprint, presented at the Recent Results Session of 1997 IEEE International Symposium on Information Theory, Ulm, Germany, June 29 –July 4, 1997.
+[8] M. Harada, New 5-designs constructed from the lifted Golay code over Z4, J. Combin. Des. 6 (1998) 225–229.
+[9] T. Helleseth, P.V. Kumar, K. Yang, An inÿnite family of 3-designs from Preparata codes over Z4, Designs, Codes Cryptography 15 (1998) 175–181.
+[10] T. Helleseth, C. Rong, K. Yang, New 3-designs from Goethals codes over Z4, Discrete Math. 226 (2001) 403–409.
+[11] F.J. MacWilliams, N.J.A. Sloane, The Theory of Error-Correcting Codes, North-Holland, Amsterdam, Netherlands, 1977.
+[12] D. Shin, 3-designs from the Goethals codes over Z4 via a new Kloosterman sum identity and an Assmus–Mattson-type theorem for linear codes over Z4, Ph.D. Dissertation, USC, Los Angeles, CA, December 1998.
+[13] D. Shin, P.V. Kumar, T. Helleseth, 3-designs from the Z4-Goethals codes via a new Kloosterman sum identity, Designs, Codes and Cryptography, submitted for publication.
+[14] D. Shin, P.V. Kumar, T. Helleseth, An Assmus–Mattson-type approach for identifying 3-designs from linear codes over Z4, Designs, Codes and Cryptography, submitted for publication.
+[15] V.K. Wei, Generalized Hamming weights for linear codes, IEEE Trans. Inform. Theory 37 (1991) 1412–1418.
+[16] K. Yang, T. Helleseth, On the weight hierarchy of Preparata codes over Z4, IEEE Trans. Inform. Theory 43 (1997) 1832–1842.
+
+

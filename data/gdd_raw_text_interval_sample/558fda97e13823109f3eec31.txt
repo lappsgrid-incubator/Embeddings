@@ -1,0 +1,5769 @@
+U.S. Geological Survey Open File Report # 94-IB37 October 15, 1994
+Geophysical Database of the East Coast of the United States Northern Atlantic Margin: Cross Sections and Gridded Database
+(Georges Bank Basin, Long Island Platform, and Baltimore Canyon Trough)
+K.D. Klitgord, C.W. Poag, C.M. Schneider, and L. North U.S. Geological Survey Woods Hole MA 02543
+This report is preliminary and has not been reviewed for conformity with U.S. Geological Survey editorial standards and nomenclature. Use of trade names is for the purposes of identification only and does not constitute endorsement by the U.S. Geological Survey.
+
+Table of Contents
+
+Introduction................................................................................._
+
+3
+
+The U.S. Atlantic Margin - General Geologic Framework............................................................. 4
+
+The Geoacoustic Database............................................................................................................... 5
+
+Table 1: Geoacoustic parameters and formulas used to calculate them...................... 7
+
+Geoacoustic Parameters........................................................................................................ 8
+
+Table 2: Example of profile geoacoustic database....................................................... 8
+
+Table 3: Example of gridded geoacoustic database....................................................... 9
+
+Seismotratigraphy............................................................................................................... 10
+
+Table 4: U.S. Atlantic margin seismostratigraphy.................................................... 10
+
+Sediment types and lithologies............................................................................................ 11
+
+Table 5: General lithologic types identified on the U.S. Atlantic margin................... 11
+
+Table 6: Seruficial sediment types and surface attenuation...................................... 11
+
+Seismic velocities........................................................................................................................ 12
+
+Data gridding and contouring............................................................................................... 12
+
+Data Masks........................................................................................................................... 12
+
+Geological influences on geoacoustic parameters................................................................ 13
+
+Geoacoustic Database Displays...................................................................................................... 13
+
+Multichannel seismic-reflection profiles (Appendix 3)................................................... 14
+
+Depth to reflectors in time (Appendix 4) and distance (Appendix 5)............................... 15
+
+Thickness Isopachs for acoustic units (Appendix 6)......................................................... 15
+
+Interval velocities (Appendix 7)........................................................................................ 16
+
+Sediment types (Appendix 8).............................................................................................. 16
+
+Summary....................................................................................................................................... 16
+
+Acknowledgements......................................................................................................................... 17
+
+References..................................................................................................................................... 17
+
+Figure Captions............................................................................................................................. 21
+
+Figures.......................................................................................................................................... 23
+
+Appendix 1:
+
+U.S. Geological Survey CDP Seismic Lines ................................................... 35
+
+Line crossing and well crossing shot point numbers..................................... 36
+
+Appendix 2:
+
+U.S. Atlantic margin wells used to calibrate database................................... 39
+
+Appendix 3:
+
+Stratigraphic time sections and layer interval velocity sections................. 40
+
+Appendix 4:
+
+Time depth contour maps for base of acoustic units in digital database........ 88
+
+Appendix 5:
+
+Depth (in meters) contour maps for the base of acoustic units in
+
+digital database............................................................................................. 109
+
+Appendix 6:
+
+Thickness Isopach maps for acoustic units in digital database.....................130
+
+Appendix 7:
+
+Interval velocity contour maps for acoustic units in digital database......... 151
+
+Appendix 8:
+
+Sediment-type distribution within acoustic units in digital database.........169
+
+U.S. Geological Survey Open File Report #94-637
+Geophysical Database of the East Coast of the United States Northern Atlantic Margin: Cross Sections and Gridded Database
+(Georges Bank Basin, Long Island Platform, and Baltimore Canyon Trough)
+K.D. Klitgord, C.W. Poag, C.M. Schneider, and L. North U.S. Geological Survey, Woods Hole MA 02543
+Introduction
+Acoustic transmission characteristics in the submarine environment are influenced by the sound propagation properties of the rock units beneath the sea floor. Geoacoustic models of these rock units are "basic to underwater acoustics and to marine geological and geophysical studies of the earth's crust, including stratigraphy, sedimentology, geomorphology, structural and gravity studies, geologic history, etc." (Hamilton, 1980). Numerous geoacoustic models (e.g., Hamilton, 1980; Stoll, 1980; Hamilton and Bachman, 1982) have been developed from small, local data sets in acoustic transmission studies, but their general utility has been limited by the lack of regional geoacoustic data sets for model parameter determinations. A regional geoacoustic database on the northern U.S. Atlantic margin has been developed for the U.S. Naval Oceanographic Office by the U.S. Geological Survey as an initial step to meet this need. Multichannel seismic-reflection data are the primary sources of acoustic information used in this construction. It is recognized that these data have limited resolution in the upper 500 m of the sedimentary column, critical for transmission studies, but this database can be used in existing geoacoustic models to define the nature and extent of more detailed high-resolution acoustic studies of the upper sedimentary column.
+This geoacoustic study of the northern U.S. Atlantic margin (Cape Hatteras to the Canadian boundary) is centered around two major sedimentary basins (Baltimore Canyon Trough and Georges Bank Basin) and the intervening crustal platform (Long Island Platform) (Figures 1, 2 and 3). The geoacoustic parameters in this database (Table 1) are derived from a combination of a seismostratigraphy developed from a grid of multichannel seismic-reflection profiles (Figure 3; Appendices 1 and 3) and acoustic velocity vs depth functions based on normal moveout velocity analyses on multichannel seismic-reflection profiles, velocity sonic logs and checkshot studies at selected industry drillholes (Appendix 2), and wide-angle seismic data from 2-ship seismic experiments. Construction and calibration of the velocity data component of this geoacoustic database is described by Klitgord and Schneider (1994). A digital database of these geoacoustic parameters (e.g., Tables 2 and 3) has been constructed from data along each seismic line and at a 5 minute grid spacing over the area of investigation. Graphical representations of this digital database are in the form of stratigraphic time sections and interval-velocity profiles for the seismic-reflection profiles (Appendix 3), travel-time (seconds) surface contour maps for the base of each stratigraphic unit (Appendix 4), depth (meters) surface contour maps for the base of each stratigraphic unit (Appendix 5), isopach maps of each stratigraphic unit (Appendix 6), interval-velocity contour maps for each stratigraphic unit (Appendix 7), and distribution of gross lithologies within these stratigraphic units (Appendix 8).
+
+U.S. Geological Survey Open File Report #94-637
+The U.S. Atlantic Margin - General Geologic Framework
+The U.S. Atlantic continental margin incorporates the coastal plain and continental shelf, slope and rise of the U.S. East Coast. It is bordered on the west by the Appalachian Mountains and on the east by the deep sea of the Atlantic Ocean (Figures 1 and 2). The upper surface of the margin decreases slowly in elevation to seaward across the coastal plain and then is nearly flat across the continental shelf (-0.1° slope). Near the 200-m water-depth isobath, the gradient of the seafloor increases markedly (>2°) in the narrow zone called the continental slope. The sea-floor gradient decreases again (-0.5°) at about the 3000-m water-depth isobath, where it is now called the continental rise. The continental rise grades into the nearly flat deep sea floor with water depths >4500 m. The present continental slope is dissected by numerous submarine canyons where sedimentary material is transported from the shelf to the rise. For this study, we are focusing on the acoustic properties of rocks beneath the continental shelf, slope, and rise.
+The geologic framework of the U.S. Atlantic continental margin is the product of a regional tectonic environment that evolved from continental rifting to sea-floor spreading and finally to that of a passive continental margin. Initially, an extensional tectonic regime caused continental rifting (similar to the present-day East African Rift) as the Pangea supercontinent (North American, South American, and African continents) rifted apart in the early Mesozoic (-230187 m.a.; rift phase). The pre-existing continental crust was fragmented and intruded by new igneous material (rift-stage crust). The Atlantic Ocean formed as the continents moved apart and new igneous material (oceanic crust) was emplaced at the Mid-Atlantic Ridge (sea-floor spreading). As the Mid-Atlantic Ridge migrated eastward relative to the North American margin (remaining near the center of the expanding Atlantic Ocean Basin), the heat influx associated with this magmatic activity also moved away and the crust at the edge of the margin began to cool. Thermal contraction of the crust at the margin caused rapid sea-floor subsidence and enabled a thick pile of sediments from the eroding Appalachian Mountains to accumulate along the margin (e.g., Klitgord and others, 1988; Poag and Seven, 1989). This later period (-187 m.a. to Present; postrift phase) is referred to as the passive margin phase of margin development; it is a time when thermal subsidence, sediment loading, and fluctuations in climate and oceanographic environments control the accumulation of sedimentary rock along and across the margin.
+The continental margin is a wedge of sedimentary rock overlying basement rocks of igneous or metamorphic origin (Figure 3). This sedimentary wedge thickens in the seaward direction from zero at the Fall Line (the western edge of the coastal plain) to over 15 km beneath the outer continental shelf. A carbonate-bank, shelf-edge platform developed near the boundary between rift-stage and oceanic crust, trapped significant amounts of sedimentary material on the shelf, and formed a steep continental slope. The wedge thins to the east beneath the continental rise (6-10 km) and deep sea (< 6 km), and approaches zero thickness at the crest of the Mid Atlantic Ridge. A rapid thickening of this wedge from 4 km to 8+km occurs at a basement hinge zone beneath the inner continental shelf. Sedimentary rocks in this wedge range in age from Late Triassic (230 m.a.) to Present (Tucholke and Mountain, 1979; Klitgord and Grow, 1981; Poag, 1982, 1985b, 1991, 1992; Olsson and others, 1988; Manspeizer and others, 1989; Poag and Ward, 1993). The base of this sedimentary wedge is constructed of igneous, metavolcanic, and metasedimentary rocks of pre-Mesozoic age (>245 m.a.) west of the basement hinge zone (Manspeizer and others, 1989; Sheridan and others, 1991), Late Triassic and younger (<230 m.a.) beneath the continental shelf and slope (Klitgord and others, 1988;
+
+U.S. Geological Survey Open File Report #94-637
+Poag and Ward, 1993), and Middle Jurassic and younger (<187m.a.) beneath the continental rise (Tucholke and Mountain, 1979; Klitgord and Grow, 1980; Poag, 1992).
+Between the sea floor and basement, numerous erosional and depositional unconformities (associated with sea-level fluctuations and combinations of oceanographic and tectonic processes) divide the sediment pile into subparallel, near-horizontal layers (Figure 4) (Poag and Schlee, 1984). The deepest of these unconformities, the postrift or breakup unconformity, separates synrift sedimentary rock deposited in a rift environment with extensive faulting and igneous activity, from postrift sediments that accumulated in a broadly subsiding basin. This latter basin of postrift sedimentary fill is usually divided into two basins; one beneath the continental shelf and one beneath the slope, rise and deep sea. The boundary between these two basins is a Jurassic shelf-edge carbonate platform (Poag, 1991) that is poorly imaged on seismic-reflection data (Figure 5) and represents a significant change in depositional environment. Relatively stratified units formed at the seaward base of the platform during the Jurassic and Early Cretaceous, but the development of extensive, overlapping fans during the Late Cretaceous and Tertiary has left a more chaotic stratigraphic record in the upper section (e.g., Figure 6). The ages of these unconformity-bounded units have been determined from biostratigraphic studies of drill hole material (e.g., Figure 4) and occasional bottom sampling where erosion on the continental slope has exposed deeper stratigraphic units (Poag, 1985b, 1991, 1992; Poag and Valentine, 1988).
+Sedimentary rock types vary across the margin and were significantly different during various periods of the margin's construction. The synrift sediments included significant amounts of salt and anhydrite mixed with varying amounts of terrigenous clastic and volcaniclastic material. There also may be significant amounts of igneous rock in the synrift section. The primary postrift sediment source is terrigenous clastic material (sandstone and clay mixtures) flooding from onshore mixed with carbonate-rich material deposited near the shelf edge during the first 60 m.y. of the shelf development (Poag, 1991). This later material (limestone and dolomite) formed a carbonate shelf edge during the Jurassic and Early Cretaceous (187 to 130 m.a.) that trapped clastic material behind it and created a steep scarp at the shelf edge (e.g., Figure 5). The continental slope and rise were constructed from the clastic debris which swept over the shelf edge as debris flows and turbidites and mixed with calcareous and silicic pelagic material. Variations in the supply of shelf-derived material and fluctuations in the calcite compensation depth (CCD) are reflected in pelagic-dominated layers (carbonate-rich or shales) and turbidite-dominated layers of clastic material. Fluctuating sea level created an environment in which fan deposition shifted between the shelf and rise. During low stands of sea level, numerous canyons were incised into the shelf slope forming the conduits for sediment transport onto the continental rise. Extensive descriptions and summaries of the geology of the U.S. Atlantic margin have been published in Poag (1982, 1985a,b, 1987, 1991, 1992), Poag and Sevon (1989), Poag and Ward (1993), and in the Geological Society of America centennial series (Sheridan and Grow, 1988).
+The Geoacoustic Database
+The basic database is a suite of geoacoustic parameters (Tables 1, 2 and 3) for a layered set of acoustic stratigraphic units on the continental shelf and adjacent slope and rise of the Atlantic continental margin of the United States (Poag, 1985b, 1991, 1992; Schlee, 1984; Klitgord and
+
+U.S. Geological Survey Open File Report #94-637
+others, 1988; Sheridan and Grow, 1988; Grow and others, 1988). Each of these units is comprised of rocks with lithologies that can vary across and along the margin. All of the rock units in this data base are sedimentary; we have minimal velocity information from the underlying igneous and metamorphic rocks. Primary input data for the database are 1.) seismostratigraphic horizons (Table 4) from seismic-reflection profiles (Figure 2 and Appendix 3), 2.) bio- and litho-stratigraphic information from a sparse set of industry and stratigraphic test wells (e.g., Amato and Bebout, 1980; Amato and Simonis, 1980) (Appendix 2) and surficial sea-floor sampling sites, and 3.) seismic-velocity information from normal-moveout analyses of multichannel seismic- reflection data, sonic logs and checkshot velocity studies at industry and stratigraphic test drill wells (Appendix 2) and seismic-refraction studies (Sheridan and others 1988; Klitgord and Schneider, 1994). These data are used to determine the three-dimensional (horizontal and vertical) geometries of stratigraphic units for the database, lithologies and ages of these units, and RMS sound transmission velocities to the surfaces that bound these units. This set of observations is then expanded to include geologic and acoustic parameters that are derived from this initial set of parameters: density (p), compressional-wave (p-wave) velocity, shear-wave (s-wave) velocity, p-wave attenuation (kp), and s-wave attenuation (ks). These parameters have been
+determined at a 5 shot-point spacing along each seismic line (250 m or 500 m; see Appendix 3 for shot point spacings) for stratigraphic information, an -30 or 60 shot point spacing (~ 3000 m) for velocity information (Figure 7), and at a 5-minute grid spacing (9250 m x 7100 m) over the area of investigation (Figure 8). Thus the database is actually two data sets: one confined to points along individual seismic lines and the second interpolated onto a regional grid.
+A basic premise in this study is that the geoacoustic parameters of a given unit or reflector are influenced only by the material above it and the unit just below it. The acoustic units are defined by acoustic reflectors that bound them on top and bottom. Nomenclature has been developed for these units such that parameters are related to the surface (reflector) that defines the base of each unit. Two-way travel times (in seconds; sea surface to reflector to sea surface), depth below sea surface (in meters) and RMS velocities, properties related to the entire overlying crustal column, are given with respect to a particular reflector (Figure 9). Densities, thicknesses, p-wave velocities, s-wave velocities and attenuation properties pertaining to a given unit are related to the unit directly above a given reflector. Each reflector has been numbered (see Table 4) to facilitate digitizing and identification in the digital arrays. These numbers monotonically increase with depth (and age) but they have no meaning in a geologic sense. Most of these surfaces are erosional unconformities, some of which have eroded deeply enough into the sedimentary wedge to completely remove one or more underlying units on parts of the margin. In such cases, two or more reflectors merge and there could be ambiguity in identifying the age of the boundary between two units. In the situation shown in Figure 10, reflector 60 is the top of Eocene-Paleocene sediments in some places and the top of Cretaceous sediments in others. The mid-Oligocene unconformity (base of Upper Oligocene; reflector 60) has eroded down to the top of the Cretaceous (base of Paleocene-Eocene; reflector 70) and we have referred to that surface as reflector 60 (base of Upper Oligocene). To avoid ambiguity, we always refer to a reflector as the surface that defines the base of the overlying unit rather than as the top of the underlying unit. In this way, when we discuss the properties in the database, we can refer to material that exists above a reflector, since it is often possible that the original material below a reflector (in the case of reflector 60 it is Eocene-Paleocene material) is now missing. In this convention, prominent geologic boundaries, such as the surface forming the top
+
+U.S. Geological Survey Open File Report #94-637
+
+Table 1: Geoacoustic Parameters and Formulas used to calculate them.
+
+For each horizon n (n=1,N) or each layer n bounded by horizons n-1 and n:
+
+T(n) T(0) Vrms( n )
+
+= two-way travel time depth below sea level of reflector n (in seconds); = 0.0 = sea surface observed on seismic-reflection records. = RMS velocity of all units above reflector n (in m/sec)
+
+A(n) ST(n)
+Vj(n)
+
+calculated from NMO analysis of multichannel seismic data. = age of unit above reflector n based on correlation of acoustic units to
+biostratigraphic information at drill sites or dredge sites. = sediment type within unit above reflector n based on correlation of acoustic units
+to lithostratigraphic information at drill or dredge sites (see symbol codes in Table 4). = interval velocity of unit above reflector n in m/sec
+
+= (Vrms(n)-V rms (n-1))/(T(n)-T(n-1))
+
+V p (n)
+
+= compressional-wave velocity for unit above reflector n in m/sec
+
+= V,(n)
+
+Vp(water) = 1500 m/sec on all of profiles.
+
+DZ(n)
+
+= thickness of layer n in meters
+
+D(n) Z(n) p(n)
+V s (n)
+ocp (n) <xs (n)
+
+= depth of reflector n in meters
+
+= Z(T(j)-T(j-1)).V i (j) for j=1,n
+
+= depth to midpoint of unit above reflector n in meters = D(n) - DZ(n)/2 = density of rock within unit n in gm/cc
+calculated from Vp using the following formulae for terrigenous marine sediments
+
+(Hamilton, 1978, p. 368) = 14.80 Vp - 21.014 gm/cc
+
+at Vp (seafloor)
+
+= 1.135 Vp - 0.190 gm/cc
+
+1.5 km/s < Vp < 2.0 km/s
+
+= - 0.08 Vp-Vp + 0.744 Vp + 0.917 gm/cc
+
+2.0 km/s < Vp < 4.5 km/s
+
+= shear-wave velocity in unit n
+
+calculated from Vp using the following formulae for terrigenous marine sediments
+
+(Hamilton, 1979, p. 1095): = 3.884 Vp (n) - 5.757 km/s
+
+1.512 km/s < Vp < 1.555 km/s
+
+= 1.137 Vp (n) - 1.485 km/s
+
+1.555 km/s < Vp < 1.650 km/s
+
+= + 0.47 Vp(n)-V p (n) - 1.136 Vp(n) + 0.991 km/s
+
+1.650 km/s < Vp < 2.150 km/s
+
+= 0.780 Vp (n) - 0.962 km/s
+
+2.150 km/s < Vp
+
+for mud stone (Castagna and others, 1985): = 0.862 Vp(n) - 1.172 km/s
+
+= compressional-wave attenuation in dB/m
+
+= F(ko, Vp(n), D(n-1), D(n), f)
+
+where ko is a constant dependent on surface rock type, f is the frequency in kHz
+
+(Mitchell and Focke ,1980; Stoll, 1985). = shear-wave attenuation in dB/m
+
+= kg-f
+
+where ks is a constant in dB/m-kHz , f is frequency in kHz
+
+(Hamilton, 1976a,b; Castagna and others, 1985)
+
+U.S. Geological Survey Open File Report #94-637
+of the Cretaceous, will be represented by portions of several reflectors (e.g., reflector 70, then reflector 60 and finally reflector 70 again in Figure 10). This nomenclature (referencing the bottom of units) is different from the standard reference to the top of units, but it eliminates ambiguity in the layer reference frame and simplifies the bookkeeping.
+Geoacoustic Parameters The digital database contains the following information at a 3000-m spacing along
+each seismic-reflection line and at each of the 5-minute grid points in the study area where adequate data are available: labelling by line number, shot point, latitude-longitude pairs and an array of geoacoustic parameters at each of these points. This parameter array includes information determined from seismic or sample data: reflector number, two-way travel time (T) of each reflector, RMS velocity (Vrms) between sea surface and this reflector, layer age (A) and sediment type (ST). From these data we have calculated at each location: depth (D) in meters to the reflector and thickness (DZ), density (p), p-wave velocity (V p), s-wave velocity (Vs), p-wave attenuation (kp), and s-wave attenuation (ks) for each layer (Tables 1, 2 and 3).
+
+Table 2: Example of Profile Geoacoustic Database
+
+Line Shot No. Point
+No. 22 915 22 915 22 915 22 915 22 915 22 1002 22 1002 22 1002 22 1002 22 1002 22 1062 22 1062 22 1062 22 1062 22 1062 22 1122 22 1122 22 1122 22 1122 22 1122 22 1182 22 1182 22 1182
+22 1182 22 1182 22 1242
+22 1242 22 1242 22 1242 22 1242 22 1302 22 1302 22 1302 22 1302 22 1302 22 1302 22 1362
+
+Latitude
+(deg.) -71 .0864 -71 .0864 -71 .0864 -71 .0864 -71 .0864 -71 .0644 -71 .0644 -71 .0644 -71 .0644 -71 .0644 -71 .0486 -71.0486 -71 .0486 -71 .0486 -71 .0486 -71 .0339 -71 .0339 -71.0339 -71 .0339 -71 .0339 -71.0194 -71.0194 -71.0194 -71.0194 -71.0194 -71 .0040 -71 .0040 -71 .0040 -71 .0040 -71 .0040 -70.9893 -70.9893 -70.9893 -70.9893 -70.9893 -70.9893 -70.9747
+
+Longitude Layer Sed.
+
+No. Type
+
+(deg.) 41.1034
+41.1034
+
+001 02 020 02
+
+41.1034 41.1034 41.1034
+
+070 04 080 04 090 04
+
+41.0658 41.0658 41.0658 41.0658
+
+001 02 020 02 070 04 080 04
+
+41.0658 41.0406
+
+090 04 001 02
+
+41.0406 41.0406 41.0406 41.0406 41.0148 41.0148
+
+020 02 070 04 080 04 090 04 001 02 020 02
+
+41.0148 41.0148 41.0148
+
+070 04 080 04 090 04
+
+40.9890 001 02
+
+40.9890 40.9890
+
+020 02 070 04
+
+40.9890 080 04
+
+40.9890 40.9639
+
+090 04 001 02
+
+40.9639 020 02
+
+40.9639 40.9639
+
+070 04 080 04
+
+40.9639 40.9386 40.9386
+
+090 04 001 02 020 02
+
+40.9386 40.9386
+
+070 04 080 04
+
+40.9386 090 04
+
+40.9386 40.9128
+
+105 04 001 02
+
+Travel Depth Thick-Density RMS
+
+Time
+
+ness
+
+Vel.
+
+(sec.) (m) 0.070 052
+0.210 169
+
+(m) 052
+117
+
+(gm/cc) (m/s) 1.000 1500
+1.715 1620
+
+0.240 196 026 1.830 0.400 350 153 1.989 0.470 423 073 2.123
+
+1641 1758 1811
+
+0.070 0.211 0.250 0.420
+
+052 171 206 372
+
+052 118 035 166
+
+1.000 1.727 1.859 2.028
+
+1500 1628 1657 1783
+
+0.510 468 095 2.138 0.070 052 052 1.000
+0.237 194 141 1.741 0.274 229 034 1.909 0.442 396 167 2.080 0.550 514 117 2.158 0.070 052 052 1.000 0.260 214 162 1.750
+0.300 252 037 1.939 0.460 415 163 2.101 0.572 540 124 2.178
+
+1848 1500 1643 1673 1804 1883 1500 1655 1686 1816 1904
+
+0.070 052 0.270 224 0.320 271
+
+052 171 047
+
+1.000 1.759 1.957
+
+1500 1663 1701
+
+0.470 426 154 2.112 0.580 551 125 2.196 0.071 053 053 1.000
+
+1825 1918 1500
+
+0.260 0.312 0.470 0.600 0.072 0.267 0.310 0.480 0.610 0.618 0.073
+
+215 264 428 577 053 220 261 436 586 595 054
+
+161 049 164 148 053 166 040 175 149 009 054
+
+1.753 1.964 2.116 2.202 1.000 1.749 1.962 2.113 2.203 2.250 1.000
+
+1656 1699 1833 1942 1500 1654 1689 1831 1940 1947 1500
+
+P-Wave S-Wave Surface P-Wave S -Wave
+
+Vel. Vel. Atten. Atten. Atten.
+
+(m/s) 1500 1678
+
+(m/s) 408
+
+(dB/m-kHz)
+
+0.01138 -
+
+-
+
+- 0.01302 0.18339
+
+1780 1920
+
+458 542
+
+-
+
+0.01672 0.12278 0.04559 0.17813
+
+2090 669
+
+.
+
+0.06491 0.14818
+
+1500 1689 1805 1954 2127 1500
+
+.
+413 471 565 701 .
+
+0.01150 -
+0.01 193
+
+-
+0.01305 0.01527 0.03864 0.05020 .
+
+-
+0.16945 0.09843 0.13345 0.10421 -
+
+1701 1849 2000 2177 1500
+
+418
+497
+599
+736 -
+
+-
+0.01279
+
+0.01364
+0.03769
+0.03401
+0.06548 .
+
+0.16263 0.19713
+0.10081
+0.12066 -
+
+1709 422
+
+-
+
+0.01906 0.21511
+
+1876 2039 2228
+
+513 628 775
+
+. . -
+
+0.07267 0.33819 0.05726 0.15071 0.11813 0.19468
+
+1500 1717 1892
+
+-
+426 524
+
+0.01422 .
+
+.
+
+- 0.01929 050641
+
+- 0.09098 0.39647
+
+2065 2275 1500
+
+649
+812 .
+
+- 0.06493 0.15867
+
+- 0.12349 0.18506
+
+0.01642 -
+
+.
+
+1712 423
+
+-
+
+0.01905 051069
+
+1898 2074 2292 1500 1708
+
+528 656 825 -
+421
+
+-
+0.02031 -
+
+0.07685 0.06336 0.11758 .
+0.04753
+
+0.32696 0.15102 0.17052 -
+0.54013
+
+1896 2066 2296
+
+526 650 828
+
+-
+
+0.09897 0.42444 0.07543 0.18382 0.02376 0.03420
+
+2424 1500
+
+928 -
+
+- 0.01955 0.02256
+
+0.02491 -
+
+-
+
+U.S. Geological Survey Open File Report #94-637
+
+Table 3: Example of Gridded Geoacoustic Database
+
+Latitude (degrees): Longitude (degrees): Layer Surface No. (Age)
+001 Seafloor 020 Base Quaternary 045 Base Mid Miocene 070 Base Tertiary 080 Base Campanian 090 Base Coniacian 105 Base Aptian 140 Base Kimmeridgian 190 Base Aalenian
+
+40.500000
+
+-71.000000
+
+Sed. Travel Depth Thick- Density Velocity Velocity Velocity Atten.
+
+Type Time
+
+ness
+
+RMS
+
+P-Wave S-Wave Surface
+
+(sec) (m) (m) (gm/cc) (mis) (m/s) (m/s)
+
+02 0.106 79 79
+
+1.000 1500
+
+1500
+
+.
+
+0.021
+
+02 0240 189 110 1.676 1581
+
+1644
+
+384
+
+-
+
+02 0.342 280 91
+
+1.840 1646
+
+1788
+
+462
+
+.
+
+02 0.420 354 73 1.945 1692 1881 517
+
+-
+
+02 0.671 619 264 2.133 1861
+
+2115
+
+691
+
+-
+
+02 0.962 1000 381 2.259 2065
+
+2447
+
+947
+
+.
+
+02 1.126 1202 201 2.378 2175
+
+2815
+
+1234
+
+-
+
+02 1.159 1252 49 2.431 2203
+
+3007
+
+1383
+
+-
+
+02 2.977 5238 3984 2.641 3690
+
+4382
+
+2456
+
+-
+
+Atten. Atten P-Wave S-Wave
+(db/m-kHz) ..
+
+0.036 0.078 0.176 0.167
+
+0.665 0.545 0.802 0.358
+
+0.013 0.010 0.010 0.010
+
+0.015 0.007 0.006 0.003
+
+Latitude (degrees): Longitude (degrees): Layer Surface No. (Age)
+001 Seafloor 020 Base Quaternary 045 Base mid Miocene 070 Base Tertiary 080 Base Campanian 090 Base Coniacian 105 Base Aptian 190 Base Aalenian
+
+40.583333
+
+-71.000000
+
+Sed. Travel Depth Thick- Density Velocity Velocity Velocity Atten. Atten. Atten.
+
+type Time
+
+ness
+
+RMS
+
+P-Wave S-Wave Surface P-Wave S-Wave
+
+(sec) (m) (m) (gm/cc) (m/s) (m/s) (m/s)
+
+(db/m-kHz)
+
+02 0.094 70 70
+
+1.000 1500
+
+1500
+
+.
+
+0.022 .
+
+.
+
+02 0.240 192 121 1.698 1601
+
+1663 401
+
+-
+
+0.078
+
+1.235
+
+02 0.316 260 67 1.838 1647 1786 461
+
+.
+
+0.036
+
+0.259
+
+02 0.377 317 56
+
+1.940 1686
+
+1876
+
+514
+
+-
+
+0.161
+
+0.746
+
+02 0.610 562 245 2.131 1860 2111 687
+
+-
+
+0.158
+
+0.341
+
+02 0.886 898 336 2253 2055
+
+2430
+
+933
+
+.
+
+0.015
+
+0.017
+
+02 1.022 1085 186 2.358 2160
+
+2749
+
+1182
+
+.
+
+0.010
+
+0.008
+
+02 2.621 4462 3376 2.632 3563
+
+4223
+
+2331
+
+-
+
+0.010
+
+0.003
+
+Latitude (degrees): Longitude (degrees): Layer Surface No. (Age)
+001 Seafloor 020 Base Quaternary 045 Base mid Miocene 070 Base Tertiary 080 Base Campanian 090 Base Coniacian 105 Base Aptian 190 Base Aalenian
+
+40.666667
+
+-71.000000
+
+Sed. Travel Depth Thick- Density Velocity Velocity Velocity Atten. Atten. Atten.
+
+Type Time
+
+ness
+
+RMS
+
+P-Wave S-Wave Surface P-Wave S-Wave
+
+(sec) (m) (m) (gm/cc) (m/s) (m/s) (m/s)
+
+(db/m-kHz)
+
+02 0.084 63 63
+
+1.000 1500
+
+1500
+
+.
+
+0.020 .
+
+.
+
+02 0.242 195 132 1.717 1619 1680 409 02 0.300 247 51 1.834 1652 1783 459
+
+-
+
+0.052 0.110
+
+0.727 0.797
+
+02 0.343 287 40
+
+1.926 1680
+
+02 0.559 514 226 2.127 1854
+
+02 0.796 798 284 2.239 2030
+
+02 0.916 957 159 2.330 2122
+
+02 2274 3710 2753 2.618 3410
+
+1864 2100 2393
+2659 4053
+
+506 678 904
+1112 2199
+
+. .
+. -
+
+0.029 0.082 0.087 0.010 0.010
+
+0.144 0.182 0.105 0.008 0.003
+
+Latitude (degrees) : Longitude (degrees): Layer Surface No. (Age)
+001 Seafloor 020 Base Quaternary 070 Base Tertiary 080 Base Campanian 090 Base Coniacian 105 Base Aptian 190 Base Aalenian
+
+40.750000
+
+-71.000000
+
+Sed. Travel Depth Thick- Density Velocity Velocity Velocity Atten. Atten. Atten.
+
+Type Time
+
+ness
+
+RMS P-Wave S-Wave Surface P-Wave S-Wave
+
+(sec) (m) (m) (gm/cc) (m/s) (m/s) (m/s)
+
+(db/m-kHz)
+
+02 0.075 56 56
+
+1.000 1500
+
+1500
+
+-
+
+0.021
+
+.
+
+-
+
+02 0234 190 134 1.724 1628
+
+1686
+
+411
+
+-
+
+0.053
+
+0.706
+
+02 0.318 267 77
+
+1.896 1686
+
+1838
+
+490
+
+-
+
+0.070
+
+0.386
+
+02 0.513 469 201 2.116 1843
+
+2075
+
+657
+
+-
+
+0.068
+
+0.163
+
+02 0.719 710 241 2.218 1997 02 0.808 823 113 2295 2065 02 1.936 3009 2186 2.599 3246
+
+2335 2553 3876
+
+860 1030 2061
+
+. -
+
+0.092 0.012 0.010
+
+0.123 0.011 0.004
+
+U.S. Geological Survey Open File Report #94-637
+
+Seismiostratigraphy The acoustic units incorporated into the geoacoustic database are seismostratigraphic units
+defined by Poag (1982, 1985a,b, 1987, 1991, 1992; Schlee and others, 1985; Poag and Valentine, 1988; Poag and Ward, 1993) for the U.S. Atlantic margin. This comprehensive division of stratigraphic units has been developed from a seismostratigraphic analysis of seismic profiles on our multichannel seismic grid (Figure 2). This seismostratigraphy has been calibrated with biostratigraphic data from the suite of industry drill wells onshore and offshore (Poag, 1982, 1985b, 1987, 1991, 1992; Poag and Ward, 1993) plus dredge sample data from canyons that dissect the continental slope (Valentine, 1981) and the Blake Escarpment (Dillon and Popenoe, 1988). The two-way travel times to each reflector (sea surface to reflector to sea surface) were digitized along the length of each seismic-reflection profile, creating a seismostratigraphic cross section of time depth vs distance. As mentioned above, these reflectors represent the base of geologic units. Where reflectors intersect, only the youngest reflector is entered into the database. The reflector numbers used in the database are purely arbitrary and are given here to facilitate labelling of computer plots of seismostratigraphic cross sections. Ages assigned to the geologic units are based on the DNAG geologic timescale of Palmer (1983).
+
+Table 4: U.S. Atlantic Margin Seismostratigraphy
+
+Refl.No.* Geologic Surface
+
+Reflector Name'
+
+1 Base of water column - seafloor seafloor
+
+20 Base Quaternary
+
+30 Base Pliocene
+
+40 Base Upper Miocene
+
+45 Base Middle Miocene
+
+Mid-Miocene Unconformity
+
+50 Base Lower Miocene
+
+60 Base Upper Oligocene
+
+Mid-Oligocene Unconformity
+
+70 Base Tertiary
+
+Top Cretaceous
+
+80 Base Campanian/Maastrichtian Horizon A* in Deep Sea
+
+90 Base Coniacian/Santonian
+
+Late Cenomanian Unconformity
+
+100 Base Cenomanian/Turonian
+
+Mid Cretaceous Unconformity
+
+105 Base Aptian/Albian
+
+1 1 0 Base Barremian
+
+Horizon B in Deep Sea
+
+120 Base Berriasian/Hauterivian Top Jurassic
+
+130 Base Tithonian
+
+140 Base Kimmeridgian
+
+150 Base Oxfordian
+
+Top Middle Jurassic
+
+170 Base Upper Bathonian/Callovian
+
+180 Base Bajocian/Lower Bathonian
+
+190 Base Aalenian
+
+Postrift Unconformity
+
+230 Base synrift sediments
+
+Crystalline basement
+
+300 Base of crust
+
+Mono
+
+Numbers have no geologic significance and are used only as a tag in the digital database. They correspond to the same geologic horizons throughout the data set. Names more commonly used in literature than those in the geologic surface column.
+
+10
+
+U.S. Geological Survey Open File Report #94-637
+
+Sediment Types and Lithologies Lithologies vary within these units as indicated in the database. The gross lithologies of
+stratigraphic units have been determined from lithologic logs at drill holes and dredge samples from submarine canyons that cut deep into the continental slope integrated with the analysis of acoustic character on seismic profiles in our multichannel seismic grid (Poag, 1982, 1985b, 1987, 1991, 1992; Poag and Ward, 1993). This technique is based on the association of distinctive acoustic signatures with specific depositional environments and lithologies (Vail and others, 1977; Poag and Schlee, 1984; Van Wagoner and others, 1988). The resulting
+estimates of sediment types are very subjective, therefore, only a small set of lithologies has been incorporated into the database (Table 5). There are few surface samples in deep water seaward of the shelf edge and this region has been assigned a general type of clay (ko = 0.045).
+
+Table 5: General Lithologic Types Identified on the U.S. Atlantic Margin
+
+Rock Type Silt/Sand Clay/Shale Chalk/Limestone Dolomite Halite + Anhydrite Halite
+
+Numerical Code in Database 02 03/04 06/08 10 12 14
+
+* Rock types are in approximate increasing grain size or proximity to siliciclastic sediment sources
+
+Surficial sediment types (Table 6, Figure 11) along individual seismic lines and on the database grid were extracted from a digital database of over 40 years of surficial sampling compiled by Hathaway and others (1994). This compilation is based on the original work of Hathaway (1971), Schlee (1973), Hathaway and others (1979) and an updated study by Poppe and others (1989) mapping surficial sediment types on the U.S. Atlantic continental margin. The database of surficial sediment types is based on grain size analyses which are used to define sediment types by standard definitions of grain size for specific sediment types. These grain sizes have been correlated with the near-surface attenuation of compressional waves
+
+Table 6: Surficial Sediment Types and Surface Attenuation
+
+Sediment Type*
+Coarse Sand Medium Sand Fine Sand Sandy Silt Silty Sand Silt Silty Clay Clayey Silt Clay
+
+Phi Class
+<2 <3 <4 <5 <6 <7 <8 <9
+
+Grain Size (mm)
+>0.5 0.25-0.5 0.125-0.25 0.0625-0.125 0.0312-0.0625 0.0156-0.0312 0.0078-0.0156
+0.0039-0.0078 0.00195-0.0039
+
+Surface Attenuation (kn)**
+0.005 0.010 0.015 0.020 0.025 0.030 0.035 0.040 0.045
+
+Sediment types arranged by decreasing grain size ko values are compressionaI-wave surface attenuation in dB/m-kHz where o=kofm
+based on the Biot-Stoll model and applicable only below 1 kHz (Stoll,1985)
+
+11
+
+U.S. Geological Survey Open File Report #94-637
+Seismic Velocities Velocity data for the northern U.S. Atlantic margin (Baltimore Canyon Trough, Long Island
+Platform, and Georges Bank Basin regions) are derived from the stacking velocities determined for the multichannel seismic profiles as part of the standard industry processing of seismic-reflection data. The velocity data for our grid of seismic profiles were calibrated at a suite of drill sites in each area, along three standard dip-line transects and on a strike-line transect (Figure 2). Local velocity calibration studies were undertaken along composite seismic profiles connecting industry wells in Georges Bank Basin (Composite CDP Line G1-G2) and in the Baltimore Canyon Trough (USGS CDP lines 14 and 15). One transect crosses Georges Bank Basin (USGS CDP Line 19), one crosses the central Baltimore Canyon Trough (USGS CDP Line 25), and a third goes through a navy test area south of Long Island (USGS CDP Line 22). USGS CDP Line 12 has been used to construct a velocity-structure profile that links these velocity calibration sites with the rest of the seismic grid. Figure 12 is an example of the stratigraphic and interval-velocity data along a seismic line (Line G1-G2). A comprehensive discussion of the velocity data used in this database is given by Klitgord and Schneider (1994).
+Data Gridding and Contouring The areal digital database was created from gridded data based on the two-way travel time
+to individual reflectors, thickness of units in time, and interval velocities of these units. The skewed data spacing of dense data along widely-spaced seismic lines is not ideal for creating a gridded data set and unrealistic gridded and contoured data can easily result. The character of the resulting data is highly dependent upon the gridding technique used. In many cases, the results are not "right" or "wrong" but merely reflect the representation of the data given the assumptions built into the particular technique. The closely-spaced stratigraphic data were initially smoothed to the velocity data spacing shown in Figure 7 to reduce aliasing in the gridding stage. A minimum-curvature cubic-spline technique (Smith and Wessel, 1990) with a tension of zero was used on the data displayed in Appendix 3 to create a 5-minute grid of data. The resultant "scalloped" character of the contoured data displayed in Appendices 4 to 7 is an artifact of the minimum curvature assumption. No additional data constraints, based on assumed distributions of the data between seismic lines, have been added to the data. This would have "improved" the appearance of the contoured data, but it also would have given the false impression of better control than exists.
+Data Masks The information portrayed in Appendices 4 to 8 for the individual surfaces or units have
+regions where the data are missing or unknown. Regions of missing data are where erosion has removed the unit, or perhaps it was never deposited. The units have zero thickness in these regions, which are indicated by shaded regions without contours. If an erosional unconformity has cut deep enough to remove an underlying horizon in a given region, that surface contour map ( Appendices 4 and 5) has a shaded zone with no contours where the horizon is missing. This masking is consistent with the database construction used here, where surfaces refer to the bottom of units that exist. We have not attempted to construct composite surfaces that go across the entire margin, although this can be done with the information available in the digital database. There also are narrow zones within and beneath the carbonate bank shelf edge platform where the geoacoustic information is unknown. These zones are indicated by the blank region on all of the maps for units and surfaces below horizon 120.
+12
+
+U.S. Geological Survey Open File Report #94-637
+Geological Influences on Geoacoustic Parameters Variations in geoacoustic properties on the margin are caused by a general increase in
+density that results from an increasing depth of burial, by changes in the lithologies within and between the stratigraphic units, and by surficial and buried structures. The subdivision of the sedimentary wedge into a series of acoustic units separated by horizons or unconformities enables us to incorporate most of these variations into the database. The influence of depth of burial on interval velocities can be readily seen on all of the profiles in Appendix 3. Both these cross sections (top profiles in Appendix 3) and the depth-to-surface maps (Appendices 4 and 5) show the gradual seaward deepening of stratigraphic units beneath the shelf. The gradual increase in interval velocity across the shelf (see lower profiles in Appendix 3 and intervalvelocity contour maps in Appendix 7) are partially caused by the change in lithology from sandstone and shale to limestone and dolomite (lithologic maps in Appendix 8), but the primary cause is the increasing depth of burial.
+Sedimentary structures, such as the carbonate shelf edge, prograding deltas, fans, salt diapirs, and rift basins, create a distinct velocity structure that may be faster or slower than adjacent sedimentary units and often more opaque to acoustic transmission. These features are incorporated into the database as general changes in lithologies (velocity), but they also could have significant influences on sound transmission because of their modes of construction. The chaotic character of the carbonate bank (Figure 5) creates an acoustic barrier that is difficult to penetrate with seismic techniques. As a result, the underlying units are usually masked on seismic-reflection data and we can say little about their acoustic properties. The blank areas near the shelf edge for units beneath the Upper Jurassic unit is caused by this acoustic masking. Attempts to see through this zone with larger offset receivers such as in the LASE experiment (Keen and others, 1986) have met with some success, but there is a significant loss in resolution and such experiments are very expensive. Prograding fans and deltas are particularly important geologic units in the Cretaceous and Tertiary sections of the margins (Figures 6 and 13)(Poag, 1992). On seismic lines (e.g., see the Tertiary section on Figure 6), the lobate shape of these fans and deltas creates a suite of undulating stratigraphic packets of coalescing sedimentary structures. Distinct lithologic variations associated with grain-size partitioning of sediment within a single delta or fan can create small, but distinctive velocity anomalies. The extensive fan/delta systems found in the upper 1 km of the sedimentary section on the northern U.S. shelf and rise make them some of the most important geologic features on the margin. Although these small variations can not be resolved in this data set, an understanding of the velocity structure of these systems represents an important objective of any high-resolution velocity study for acoustic transmission.
+The modification of sedimentary units by erosion can significantly modify acoustic signatures. The erosion of the seaward edge of geologic units by fluctuations in sea level has created "holes" in the acoustic information for many of the Cretaceous and Tertiary units. On the shelf and rise, these erosional holes (indicated by masked regions on the maps in Appendices 4-8) are actually regions where significant lithologic discontinuities can exist. Causes of these discontinuities include the juxtaposition of younger, less lithified strata, over significantly older strata that was at one time buried to a greater depth. The unconformity can juxtapose units deposited in significantly different environments. Canyons cut into the continental slope create a chaotic pattern of steep-sided structures that can diffract substantial amounts of acoustic energy. This chaotic pattern results in a very low coherence in the RMS velocity analyses in this region and causes some of the scatter displayed on the contour maps. In general,
+13
+
+U.S. Geological Survey Open File Report #94-637
+the continental slope (both past and present day) represents of zone of poorly defined acoustic character.
+Faulting has deformed sedimentary units in two distinctive zones. The deep synrift sections are cut by numerous faults (Klitgord and others, 1988), but most of these sections are beneath the region of reliable velocity analyses for our data. In the shallower postrift sedimentary sections there are two sources of faulting. Failure under sediment loading has created a series of large faults near the shelf edge that parallel the margin (Figure 3). These faults are partially localized by load failure as the continental shelf edge prograded over the older continental slope. This set of faults has been called the Gemini Fault system by Poag (1985b, 1987; 1991). Faulting and uplift of sedimentary units are associated with the rise of salt diapirs and the intrusion of igneous bodies during the Mid-Cretaceous. The Schlee Dome in northern Baltimore Canyon Trough (Poag, 1987; Grow and others, 1988) is the largest of these intrusive features. There is extensive faulting along the southeastern edge of Georges Bank where the intrusive bodies did not rise as high into the sedimentary wedge, but the faulting around them does extend into the Upper Cretaceous section. This fracturing and subsequent crack-filling can significantly modify the local velocity structure. Such variations are below the resolution of this study, but shallow fault systems have the potential for distorting transmission paths.
+Geoacoustic Database Displays
+The digital geoacoustic database is portrayed in cross-section perspective on the seismicreflection profiles in Appendix 3 and in map perspective in Appendices 4 to 8. The map perspectives are based on the information related to individual surfaces (horizons) or to the unit just above each surface (see Figures 9 and 10). Therefore, there is a separate map for each of the surfaces or units in the database (see Table 4) based on data from all of the seismic lines in Appendix 3.
+Multichannel Seismic-Reflection Profiles (Appendix 3) All of the seismic-reflection profiles used in this data set are included in Appendix 3. The
+locations of these lines are shown on Figures 3 and 7. Most of the profiles (lines 1-38, I POD, and 77-1, 77-2) were acquired by commercial firms under contract to the U.S. Geological Survey (USGS) in the 1970's. Two lines (BGR-79-202 and 79-204) were acquired by the German Geological Survey as part of a cooperative with USGS. Detailed discussions of these seismic data and their stratigraphic analyses are given by Poag (1985b, 1987, 1991, 1992), Grow and others (1988), Sheridan and others (1988), and Schlee and Klitgord (1988). Line crossing and well-crossing locations are given in Appendix 1 and labelled across the top of each profile. The time section (two-way travel time vs shot point distance) and the interval velocities for each stratigraphic unit (vs shot point distance) on this time section are displayed for each of these lines. All dip sections are plotted from northwest to southeast. All strike sections are plotted from southwest to northeast. The corresponding reflector number for each horizon or unit (Table 4) is labelled at each end of the profiles and at appropriate locations along the profile. On each time section the upper-most reflector is the sea floor (reflector 1). The bottom-most labelled reflector varies across the margin, but on most profiles it is the postrift unconformity or oceanic basement. Stratigraphic units and structures beneath the postrift unconformity and faults are plotted, but not labelled on the profiles. There is no velocity information associated with these latter features, therefore, they have not been
+14
+
+U.S. Geological Survey Open File Report #94-637
+incorporated into the digital database. The interval velocities have been smoothed, using a contouring technique described by Klitgord and Schneider (1994). The locations of original velocity information are indicated by the x's. The velocity profiles are plotted with increasing velocity values (in m/sec) going down. In this way, the relative positions of reflectors and the velocity curves associated with the unit above each reflector are the same; in general, the lowermost velocity curve (i.e., highest velocity) corresponds to the deepest numbered horizon in the time section.
+Depth to Reflectors in Time (Appendix 4) and Distance (Appendix 5) The contoured surface depths of individual reflectors (horizons), in seconds two-way
+travel time or in meters, portray the expected increasing depth to older reflectors at any given location. The area! variations in depth, however, are best seen on the depth in meters surfaces in Appendix 5. The distortion in two-way travel time surfaces (Appendix 4) caused by vertical variations in velocity creates a surface dominated by the shape of the sea floor. Two of the most distinctive characters of the surface contours in Appendix 5 are the shifts in the location (and vertical relief) of the continental slope and the more extensive erosion found in the Georges Bank and Long Island Platform regions relative to the Baltimore Canyon Trough. The shifts in the location of the shelf edge and changes in the depth of the continental rise relative to the shelf are a consequence of shifting sediment supply, sea-level variations and the effectiveness of the shelf-edge barrier trapping sediment on the shelf. The pattern of eroded units concentrated around Georges Bank is caused by: 1.) the basement hinge zone being farther offshore than in the region of the Baltimore Canyon Trough; 2.) the slower subsidence of the Georges Bank region relative to the Baltimore Canyon Trough; and 3.) a smaller terrigenous sediment supply to the Georges Bank region. Sediment distribution patterns onshore west of the Baltimore Canyon Trough (which is landward of the basement hinge zone) show thinning or absence of Jurassic units similar to that found on the Long Island Platform and along the northern edge of Georges Bank basin. The greater subsidence rate in the Baltimore Canyon Trough was probably caused by a combination of greater sediment influx (loading) (Poag, 1991) as well as a more extensive modification of the rift-stage crust (Klitgord and others, 1988). Because Georges Bank Basin had a slower subsidence rate than the Baltimore Canyon Trough (Sawyer and others, 1983), the sedimentary units on the shelf were thinner and more likely to be completely eroded by a drop in sea level. Several of the reflectors are found only in the centers of the two basins. This occurs because the depocenters also are the regions of greatest subsidence rate across the margin, and thus the most likely zone for preserving material during sea level falls.
+Isopachs of Acoustic Units (Appendix 6) Isopach maps of stratigraphic units in the database provide a much clearer image of the
+deposition and erosion patterns on the margin (Poag, 1991, 1992) than that provided by the depth maps (Appendices 4 and 5). These maps show that there is almost no Tertiary sediment on Georges Bank Basin, but extensive deposition on the adjacent continental rise; sediment was bypassing the bank. The Mid-Miocene was the only period of major Cenozoic sediment accumulation in the Baltimore Canyon Trough region. The Tertiary was, in general, a period of major sediment influx to the continental rise (Poag, 1992). In contrast, the Jurassic was a period of major accumulation on both the shelf and rise. The depocenters during the Cretaceous appear to have straddled the older continental slope, as extensive terrigenous material prograded over the older platform complex and filled the adjacent continental rise. The shelfrise transition was more gradual at this time, with major deltas and fans covering the margin (e.g., Figure 12).
+15
+
+U.S. Geological Survey Open File Report #94-637
+Interval Velocities (Appendix 7) Interval velocity patterns are dominated by the depth of burial influence mentioned
+previously. There are general velocity increases across the margin as well as smaller wavelength changes along the margin. The latter features correspond to major fans or deltas. Of note are the similar velocities in both Georges Bank Basin and Baltimore Canyon Trough for the Middle Jurassic deposits, despite the considerably greater depth of the Baltimore Canyon Trough units. This similarity may be a result of the sediments reaching a limit to their density increase at low temperatures or may be caused by the higher dolomite and anhydrite content in the lower section of the Georges Bank Basin. These maps also reaffirm the observation that on Georges Bank there are higher velocity sedimentary units at shallow depth than to the south.
+Sediment Types (Appendix 8) The sediment types for the various units are estimates based on the limited distribution of
+subsurface samples and seismic character evaluations (Poag, 1982, 1985b, 1991, 1992). Terrigenous fluxes of sand (s), sand and silt (s/s) and clay (c) dominate the Tertiary, with a minor phase of carbonate (carb) along the outer shelf during the early Tertiary. A similar pattern dominates the Cretaceous, with more extensive deep sea shales (sh) forming during the mid-Cretaceous. The Jurassic shelf edge is dominated by limestone accumulation from active shelf-edge reefs. Sand and silt filled the shelf behind the reef while pelagic shale mixed with lobes of terrigenous sands formed the continental rise. Changes in the upland sources of sediment caused along-shelf variations in sediment type (from sand/silt to clay), as the locus of delta and fan formation shifted (Poag and Sevon, 1989).
+Summary:
+The geoacoustic database constructed from multichannel seismic-reflection profiles and well data on the northern U.S. Atlantic margin provides the ability to investigate the threedimensional acoustic character of the continental margin and its variation since the Middle Jurassic (187 m.a.). Both the isopach and interval-velocity patterns for individual acoustic units incorporated into this database display variations reflecting the depositional and erosional history of the margin and the distribution of major sedimentary features such as deltas, fans, and a carbonate-bank, shelf-edge platform. Geoacoustic consequences of the stratigraphic and velocity patterns incorporated in the database include: 1.) A general monotonic increase in velocities with depth on all parts of the margin. The increase in depth to reflectors and increasing overburden of geologic units creates a general increase in V rms, Vj, V s, and p across the shelf to the continental slope. Velocity inversions are known to exist from well log data (Klitgord and Schneider, 1994), but they can not be resolved with the multichannel seismic data used in this study. 2.) The erosion of portions of geologic units can cause some abrupt changes in transmission properties, bringing lower-velocity units into direct contact with higher-velocity units. This phenomenon will influence the refracted seismic energy in terms of abrupt changes in distant arrival times and the reflected seismic signal in terms of abrupt increases in reflected energy amplitudes. The presence of relatively high-velocity material at a shallow depth (<500 m) just south of Long Island is a consequence of either erosion or nondeposition of Tertiary material in the Long Island Platform and Georges Bank regions. 3.) Prograding deltas, overlapping fans, and faulting associated with mega-slumping at the shelf edge represent a set of geologic features in the upper sedimentary wedge of the margin (<1000 m) that may have a significant influence on acoustic transmission patterns.
+16
+
+U.S. Geological Survey Open File Report #94-637
+Acknowledgements
+This project was supported by the U.S. Naval Oceanographic Office. We gratefully acknowledge discussions and collaboration with Dr. Rudi Markl, the Naval Oceanographic Office's project manager during most of this work and P. Schexnayder, program manager during the early stages of the project, and thank Dr. M. Head, R. Hecht, and G. Michel, all of the Naval Oceanographic Office, for their support and technical assistance. Numerous discussions and detailed reviews by R. Markl, D. Hutchinson, and P. Popenoe have led to significant improvements in this study. D. Hutchinson provided the shot-gather refraction data along seismic line 22. Technical support from L. Morse, J. Taylor, K. Delorey, D. Senske, S. Harrison and E. Wright, all of the U.S. Geological Survey, is gratefully acknowledged. The seismic data-analysis system developed by E.Wright and the GMT data management system developed by Wessel and Smith (1991) were used in this project to construct the digital database and graphic output.
+REFERENCES
+Amato, R.V., and Bebout, J.W., eds., 1980, Geologic and operational summary, COST No. G-1 well, Georges Bank area, North Atlantic OCS: U.S. Geological Survey Open File Report 80-268, 117p.
+Amato, R.V., and Simonis, E.K., eds., 1980, Geologic and operational summary, COST No. G-2 well, Georges Bank area, North Atlantic OCS: U.S. Geological Survey Open File Report 80-269, 120p.
+Castagna, J.P., Batzle, M.L., and Eastwood, R.L., 1985, Relationships between compressionalwave and shear-wave velocities in clastic silicate rocks: Geophysics, v.50, p. 571-581.
+Dillon, W.P., and Popenoe, P., 1988, The Blake Plateau Basin and Carolina Trough, in Sheridan, R.S., and Grow, J.A., eds.: The Atlantic Continental Margin, U.S., The Geology of North America, v. I-2, Geological Society of America, p. 291-328.
+Grow, J.A., Klitgord, K.D., and Schlee, J.S., 1988, Structural and evolution of the Baltimore Canyon Trough, in Sheridan, R.S. and Grow, J.A., eds., The Atlantic Continental Margin, U.S., The Geology of North America, v. I-2, Geological Society of America, p. 269-290.
+Hamilton, E.L., 1976a, Sound attenuation as a function of depth in the sea floor: Journal of the Acoustical Society of America, v. 59, no. 3, p. 528-535.
+Hamilton, E.L., 1976b, Attenuation of shear waves in marine sediments: Journal of the Acoustical Society of America, v. 60, no. 2, p. 334-338.
+Hamilton, E.L., 1978, Sound velocity-density relations in sea-floor sediments and rocks: Journal of the Acoustical Society of America: v. 63, no. 2, p. 366-377.
+Hamilton, E.L., 1979, Vp/Vs and Poisson's ratios in marine sediments and rocks: Journal of the Acoustical Society of America, v. 66, no. 4, p. 1093-1101.
+Hamilton, E.L., 1980, Geoacoustic modeling of the sea floor: Journal of the Acoustical Society of America, v. 68, no. 5, p. 1313-1340.
+Hamilton, E.L., and Bachman, R.T., 1982, Sound velocity and related properties of marine sediments: Journal of the Acoustical Society of America, v. 72, no. 6, p. 1891-1904.
+Hathaway, J.C., 1971, Data file - continental margin program Atlantic coast of the United States Vol. 2 - Sample collection and analytical data: Woods Hole Oceanographic Institution Ref. No. 71-15, 496 p.
+17
+
+U.S. Geological Survey Open File Report #94-637
+Hathaway, J.C., Poag, C.W., Valentine, P.C., Miller, R.E., Schultz, D.M., Manheim, FT., Kohout, F.A., Bothner, M.H., and Sangrey, D.A., 1979, U.S. Geological Survey core drilling on the Atlantic shelf: Sciences, v. 206, p. 515-527.
+Hathaway, J.C., and others, 1994, Digital data base of surficial sediments on U.S. Atlantic Margin, USGS Open File Report, in review.
+Keen, C., and others, 1986, Deep structure of the US East Coast passive margin from large aperture seismic experiments (LASE): Marine and Petroleum Geology, v. 3, p. 234-242.
+Klitgord, K.D., and Grow, J.A., 1980, Jurassic seismic stratigraphy and basement structure of western Atlantic magnetic quiet zone: American Association of Petroleum Geologists Bulletin, V. 64, p. 1658-1680.
+Klitgord, K.D., and Schneider, C.M., 1994, Geophysical database of the East Coast of the United States: Northern Atlantic margin: Velocity Analyses: U.S. Geological Survey Open File Report OF94-192, 74 pp.
+Klitgord, K.D., Hutchinson, D.R., and Schouten, H., 1988, U.S. Atlantic continental margin; Structural and tectonic framework, in Sheridan, R.S., and Grow, J.A., eds., The Atlantic Continental Margin, U.S., The Geology of North America, v. I-2, Geological Society of America, p. 19-55.
+Manspeizer, W., DeBoer, J., Costain, J.K., Froelich, A.J., Coruh, C., Olsen, P.E., McHone, G., Puffer, J.H., and Prowell, D.C., 1989, Post-Paleozoic activity, in Hatcher, R.D., Jr., Thomas, W.A., and Viele, G.W., eds, The Appalachian-Oachita Orogen in the United States: Geological Society of America, The Gology of North America, v. F-2, p. 319-374.
+Mitchell, S.K., and Focke, K.C., 1980, New measurements of compressional wave attenuation in deep ocean sediments, Journal of Acoustic Society of America, v. 67, no. 5, p. 1582-1589.
+Olsson, R.K., Gibson, T.G., Hansen, H.J., and Owens, J.P., 1988, Geology of the northern Atlantic coastal plain: Long Island to Virginia, in Sheridan, R.S. and Grow, J.A., eds., The Atlantic Continental Margin, U.S., The Geology of North America, Vol. I-2, Geological Society of America, p. 87-105.
+Palmer, A.W., 1983, The Decade of North American Geology 1983 geologic timescale: Geology, v. 11, p. 503-504.
+Poag, C.W., 1982, Stratigraphic reference section for the Georges Bank Basin: depositional model for New England passive margin: American Association of Petroleum Geologists Bulletin, v. 66, p. 1021-1041.
+Poag, C.W., ed., 1985a, Geologic Evolution of the United States Atlantic Margin: New York, Van Nostrand Reinhold Company, 385 p.
+Poag, C.W., 1985b, Depositional history and Stratigraphic reference section for central Baltimore Canyon Trough, in Poag, C.W.,ed., Geologic Evolution of the United States Atlantic Margin: p. 217-263.
+Poag, C.W., 1987, The New Jersey Transect: Stratigraphic framework and depositional history of a sediment-rich passive margin, in Poag, C.W., Watts, A.B., and others, eds., Initial Reports of the Deep Sea Drilling Project, Volume 95: Washington, D.C., U.S. Government Printing Office, p. 763-817.
+Poag, C.W., 1991, Rise and demise of the Bahama-Grand Banks gigaplatform, northern margin of the Jurassic proto-Atlantic seaway: Marine Geology, v. 102, p. 63-130.
+Poag, C.W., 1992, U.S. middle Atlantic continental rise: provenance, dispersal and deposition of Jurassic to Quaternary sediments: in Poag, C.W., and de Graciansky, P.C., eds., Geological evolution of Atlantic continetal rises: New York, Van Nostrand Reinhold, p. 100-156.
+18
+
+U.S. Geological Survey Open File Report #94-637
+Poag, C.W., and Schlee, J.S., 1984, Depositional sequences and stratigraphy gaps on submerged United States Atlantic margin, in Schlee, J.S., ed., Interregional Unconformities and Hydrocarbon Accumulation, The American Association of Petroleum Geologists Memoir 36, p. 165-182.
+Poag, C.W., and Sevon, W.D., 1989, A record of Appalachian denudation in postrift Mesozoic and Cenozoic sedimentary deposits of the U.S. middle Atlantic continental margin: Geomorphology, v. 2, p. 119-157.
+Poag, C.W., and Valentine, P., 1988, Mesozoic and Cenozoic stratigraphy of the United States Atlantic continental shelf and slope, in Sheridan, R.S. and Grow, J.A., eds., The Atlantic Continental Margin, U.S., The Geology of North America, Vol. I-2, Geological Society of America, p. 67-85.
+Poag, C.W., and Ward, L.W., 1993, Allostratigraphy of the U.S. Middle Atlantic Continental Margin - characteristics, distribution and depositional history of principal unconformity bounded Upper Cretaceous and Cenozoic sedimentary units: U.S. Geological Survey Professional Paper 1542, 81pp.
+Poppe, L, Schlee, J.S., Butman, B., and Lane, C., 1989, Map showing distribution of surficial sediment, Gulf of Maine and Georges Bank: U.S. Geological Survey, Ml Map 1-1986-A.
+Sawyer, D.S., Toksoz, M.N., Sclater, J.G., and Swift, B.A., 1983, Thermal evolution of the Baltimore Canyon Trough and Georges Bank Basin: American Association of Petroleum Geologists Memoir 34, p. 743-762.
+Sheridan, R.A., Grow, J.A., Behrendt, J.C., and Bayer, K.C., 1979, Seismic refraction study of the continental edge off the eastern United States: Tectonophysics, v. 59, p. 1-26.
+Sheridan, R.A., and Grow, J.A., 1988, The Atlantic Continental Margin, U.S.: The Geology of North America, Vol. I-2, Geological Society of America, 61 Op.
+Sheridan, R.A., Grow, J.A., and Klitgord, K.D., 1988, Geophysical data, in Sheridan, R.S., and Grow, J.A., eds., The Atlantic Continental Margin, U.S., The Geology of North America, v. I-2, Geological Society of America, p. 177-196.
+Sheridan, R.E., Olsson, R.K., and Miller, J.J., 1991, Seismic reflection and gravity study of proposed Taconic suture under the New Jersey Coastal Plain: Geological Society of America Bulletin, v. 103, p. 402-414.
+Schlee, J., 1973, Atlantic Continental Shelf and Slope of the United States - Sediment Texture of the Northeastern Part, USGS Professional Paper 529-L
+Schlee, J.S., and Klitgord, K.D., 1986, Structure of the North American Atlantic continental margin: Journal of Geological Education, v. 34, p. 72-89.
+Schlee, J.S., and Klitgord, K.D., 1988, Georges Bank Basin - A regional synthesis, in Sheridan, R.S., and Grow, J.A., eds., The Atlantic Continental Margin, U.S., The Geology of North America, v. I-2, Geological Society of America, p. 243-268.
+Schlee, J.S., ed., 1984, Interregional Unconformities and Hydrocarbon Accumulation, American Association of Petroleum Geologists Memoir 36.
+Schlee, J., Poag, C.W., and Hinz, C., 1985, Seismic stratigraphy of the continental slope and rise seaward of Georges Bank, in Poag, C.W., ed., Geologic Evolution of the United States Atlantic Margin: New York, Van Nostrand Reinhold Company, p. 265-292.
+Scholle, P.A., ed., 1977, Geological studies on the COST No. B-2 well, U.S. mid-Atlantic outer continental shelf area: U.S. Geological Survey Circular 750.
+Scholle, P.A., and Wenkam, C.R., eds., 1982, Geological studies of the COST Nos. G-1 and G-2 wells, United States North Atlantic outer continental shelf: U.S. Geological Survey Circular 861, 193p.
+19
+
+U.S. Geological Survey Open File Report #94-637
+Smith, W.H.F., and Wessel, P., 1990, Gridding with continuous curvature splines in tension: Geophysics, v. 55, p. 293-305.
+Stoll, R.D., 1980, Theoretical aspects of sound transmission in sediments: Journal of Acoustic Society of America, v. 68, p. 1341-1350.
+Stoll, R.D., 1985, Acoustic waves in ocean sediments: Geophysics, v. 42, p. 715-725. Tucholke, B.E., and Mountain, G.M., 1979, Seismic stratigraphy, lithostratigraphy and
+paleosedimentation patterns in the North American Basin, in Talwani, M., Hay, W., and Ryan, W.B.F., eds., Deep drilling results in the Atlantic Ocean: continetal margins and paleoenvironment: Maurice Ewing Series 3, American Geophysical Union, p. 58-86. Vail, P.R, Mitchum, R.M., Jr., Todd, R.G., Widmier, J.M., Thompson III, S., Sangree, J.B., Bubb, J. N., and Hatlelid, W.G., 1977. Seismic stratigraphy and global changes of sea level, in Payton, C.E., ed., Seismic stratigraphy; Applications to hydrocarbon exploration: American Association of Petroleum Geologists Memoir 26, p. 49-212. Valentine, P.C., 1981, Continental margin stratigraphy along the U.S. Geological Survey Seismic line 5 - Long Island Platform and western Georges Bank Basin: U.S. Geological Survey Miscellaneous Field Studies Map MF-857, 2 sheets. Van Wagoner, J.C., Posamentier, H.W., Mitchum, R.M., Vail, P.R., Sarg, J.D., Loutit, T.S., and Hardenbol, J., 1988, An overview of the fundamentals of sequence stratigraphy and key definitions, in Wilgus, C.K., and others, eds., Sea-level changes: An integrated approach: Society of Economic Paleontologists and Mineralogists Special Publication 42, p. 39-45. Wessel, P., and Smith, W.H.F., 1991, Free software helps map and display data: EOS, Transactions of the American Geophysical Union, v. 72, pp. 441, 445-446.
+20
+
+U.S. Geological Survey Open File Report #94-637
+Figure Captions
+Figure 1: General geologic features on the U.S. Atlantic continental margin. Major sedimentary basins and intervening basement platforms offshore are indicated. Grid of multichannel seismicreflection profiles is shown.
+Figure 2: Multichannel seismic-reflection profile grid used in the construction of this geoacoustic database superimposed on bathymetric contour map of the northern U.S. Atlantic Continental Margin. Heavier weight lines indicate seismic-reflection profiles used as primary stratigraphic and velocity calibration lines for this study (USGS CDP Lines 12, 14, 15, 19, 22, and 25). G-1 and G-2 refer to the ends of the composite seismic line connecting the COST G-1 and COST G-2 wells.
+Figure 3: General geologic features across the U.S. Atlantic margin based on seismic-reflection profile USGS CDP Lines 19, 25, and 28 (from Klitgord et al., 1988, Fig. 4). Note the location of the basement hinge zone, the Jurassic carbonate-bank paleoshelf edge, and major faults within the Cretaceous and Jurassic sections in the vicinity of the paleosheif edge. Shading has been used to distinguish the different age sedimentary units across the margin. T=Tertiary, UK=Upper Cretaceous; LK=Lower Cretaceous; UJ=Upper Jurassic; MJ=Middle Jurassic. Small dash pattern on landward side of profiles represents continental crust. Oceanic crust underlies the surface labelled oceanic basement. From Klitgord and others (1988, Fig. 3).
+Figure 4: A segment of USGS seismic line 19 across Georges Bank. A.) A simplified lithologic log of the COST G-2 well to a depth of 6,667 m (21,873 ft) has been projected onto the line of section from 12 km to the southwest. The arrows outline horizons along which reflections are terminated by truncation, downlap, or onlap; wavy lines indicate unconformities in hole. Such features are used to identify depositional environment and the influence of fluctuating sea-level and sea-floor depth on margin construction. B.) Ages of seismostratigraphic units and their bounding unconformities (heavy lines) on the same line section. The ages of the gaps older than Late Cretaceous were inferred by matching the horizons along which reflections were terminated. From Poag and Schlee (1984, Figs. 6 and 7).
+Figure 5: A segment of USGS seismic line 6 across the outer edge of the Baltimore Canyon Trough showing the carbonate shelf-edge platform. Projected locations of exploration wells by Shell Oil Co. that drilled into the carbonate complex are indicated. A, A*, and p refer to Cretaceous unconformities. OLIGO = Oligocene, CENOM> = Cenomanian; APT = Aptian; UJ = Upper Jurassic. From Schlee and Klitgord (1986, Fig. 10).
+Figure 6: A segment of USGS seismic line 18 across the continental rise east of Georges Bank. Stratigraphic units labelled as in Table 4. A u = Oligocene unconformity; T/K = TertiaryCretaceous boundary; p = top of Neocomian limestone unit; J-i = top of Jurassic; J% = top of Middle Jurassic. From Klitgord and others (1988, Fig. 9a).
+Figure 7: Location of velocity data points along the grid of multichannel seismic-reflection profiles used in this database. Seismic line numbers are indicated and cross sections are included in Appendix 3.
+Figure 8: Location of 5-minute grid points for digital database of acoustic parameters.
+21
+
+U.S. Geological Survey Open File Report #94-637
+Figure 9: Diagrammatic representation of the geometry of geologic features in the geoacoustic database. Parameters X(n) in Table 1 refer to either properties of the unit directly above reflector n or properties of the entire section between the sea surface (z=0) and the reflector n. A.) Time section. B.) Depth section. Figure 10: Diagram portraying the nomenclature for acoustic reflectors used in this geoacoustic database based on the tags using the base of units. Note for example that the top of the Maastrichtian unit is reflector 70, then reflector 60 and then again reflector 70 whereas reflector 60 is always the base of the Upper Oligocene. Figure 11: Surface attenuation (ko) based on surface sediment type (Table 6) derived from the digital database of Hathaway and others (1994). Contour interval is 0.005 units. Plus symbol indicates location of data samples. Region seaward of the shelf edge where there are few samples has been assigned a general value of 0.045 for clay. Figure 12: Composite CDP seismic line G1-G2 in Georges Bank Basin used to calibrate seismic-reflection profiles with COST Wells G-1 and G-2. A.) Time depth of acoustic reflectors in digital database (in seconds two-way travel time) vs distance (shot points). B.) Interval velocities (m/s) of units just above acoustic reflectors in Figure 11A vs distance (shot points). Shot point spacing is 100m. See Figure 2 for location. Figure 13: Example of depositional features within a stratigraphic unit in this database. The sediment isochron map (in sec) for the Aptian-Albian unit corresponds to the stratigraphic unit between reflectors 100 and 105 (Table 4). Solid arrows indicate inferred primary routes of sediment dispersal: dashed arrows indicate secondary routes. Diagonal hachures indicate unite absent or too thin to resolve on seismic profiles. The major deltas on the shelf and fans in the slope-rise region are indicated. Shaded contour interval (0.0-0.1 sec) indicates thinnest parts of unit. Heavy dotted line indicates possible axis of eroding bottom current. J = ancient James River; P = ancient Potomac River; S = ancient Susquehanna River; D = ancient Delaware River; H = ancient Hudson River; C = ancient Connecticut River; EM = ancient river(s) in eastern Massachusetts; CF = confluent fan. From Poag (1992; Fig. 6-19).
+22
+
+LONG ISLAND PLATFORM
+
+55°W
+45°N
+SCOTIAN BASIN
+GEORGES BANK BASIN
+
+tO OJ
+/SOUTH '/FLORIDA
+Figure 1
+
+BALTIMORE CANYON TROUGH
+ATLANTIC OCEAN
+
+CAROLINA TROUGH ^-CAROLINA PLATFORM
+BLAKE PLATEAU BASIN
+
+EXPLANATION
+^x^l Exposed Poleozoic Orogenic 8*11 [:;;;;:iil Marginol Basin With Thick Accumulation Of
+Mesozoic And Ccnozoic Sediments
+--T- -d Salt Diopir Province
+jilli East Coast Magnetic Anomaly
+Blake Spur Magnetic Anomaly
+Multichannel Line*
+
+76°W
+
+74°W
+
+72°W
+
+70°W
+
+68°W
+
+66°W
+
+42°N
+
+40 °N
+38°N 36°N 34°N
+Figure 2
+24
+
+GEORGES BANK BASIN
+
+SEAWARD-DIPPING REFLECTOR ZONE LINE#I9
+
+LINE#I
+
+CONTINENTAL "-'7 BASEMENT BASEMENT HINGE ZONE
+POST-RIFT UNCONFORMITY
+
+j3 xjg^^^g^7» "\SEAWARD-DIPPING REFLECTOR ZONE?
+
+OCEANIC BASEMENT
+
+CENTRAL BALTIMORE OANYON TROUGH LINE#IO
+
+BASEMENT
+
+HINGE ZONE POST-RIFf
+
+UNCONFORMITY^-:*
+
+50 KM
+
+100
+
+150 N
+
+SOUTHERN BALTIMORE CANYON TROUGH
+
+Figure 3
+25
+
+SEISMIC UNCONFORMITIES
+JURASSIC
+
+FAUNAL AND SEISMIC UNCONFORMITIES
+CRETACEOUS
+
+as 1§
+
+m >'}'.
+
+'(?i;tco^ ir-o
+
+.i
+
+m,»vJI '!1> iff till
+:>i . 'i f
+
+1
+Hrf
+^cn ^
+it[\>n
+CZD!'
+rI,c
+ICD IP
+
+;i|
+iii !
+
+OJ
+TWO-WAY TRAVEL TIME (SEC)
+
+CroO roOoo -Z7. O
+
+CO CO
+oJ^:> rJIE>
+co rn -o
+^.mi ^*
+o ^:
+^m co co
+
+-8*8^> >8e°g
+oi
+I\D
+8OJ
+O
+
+mo
+L-cn
+~D CD OO
+m
+oo oo
+
+oO-Jn'CO'
+
+CroO
+o
+TWO-WAY TRAVEL TIME (SEC)
+
+CDP SEISMIC LINE 6
+SHELL SHELL SHELL 586-1 587-1 587-3
+M
+Figure 5
+
+CDP SEISMIC LINE #18
+
+NW SE
+
+SP# 4300
+
+44i00
+
+4500
+
+4600
+
+4700
+
+4800
+
+4900
+
+-3
+
+NJ CO
+
+Figure 6
+
+/ "' ;' / '' '" / :'"'-..
+- v Xv' ..-" --".-
+/ to ' .": :'" .. "" . '> ^- '' .- " ..' -.. " w rt
+
+42° 40 Uo)
+
+Figure 8
+
+-76°
+
+-74
+
+Database Grid Locations
+
+Shotpoint Number 100 200
+
+TO) A(2)
+
+Vi(2)
+
+Vs(l) Vs(2)
+
+.E T(2)
+T(3)
+2 - A(4)
+
+Vi(3) Vi(4)
+
+Vs(3)
+Vs(4) ___I
+
+R1
+1000 R2 o<D.
+Q R3
+2000 -
+
+Shotpoint Number 100 200
+R3
+
+Figure 9
+
+Shotpoint Number
+
+c) 100 200 300 400 5C
+2 IIII Lower Miocene
+
+"-N
+
+u0w) Upper Oligocene
+
+^3 Q) Eoc.-Paliotrr -~^
+
+^^^^foc.-Pc\ecc7
+
+-Et-* ^_Ii>-^
+
+s^~
+
+» «J ~~ -
+
+Q) Maastrichtian
+
+D
+
+4 Santonian
+
+II
+
+i
+
+Figure 10
+31
+
+42°
+
+Figure 11
+
+Surface Attenuation
+decibels/meter (dB/m)
+Contour Interval 0.005
+
+XCOSTG-1
+
+i
+
+10*00 0
+
+10500
+
+Composite Line G1 G2 Time Section
+
+Lines 77-1 x12 S.P. 370/10720
+
+10700
+
+10800
+
+Shotpoint Number
+
+Lines 12x1 S.P. 11170/1010
+
+11100
+
+11200
+
+Lines I x 77-2 X COSTG-2
+
+S.P. 1200/210
+
+,
+
+11300
+
+V 11400
+
+t 11500
+
+Composite Line G1 -G2 - Int.Vel. from smt ISM-RMS
+
+Lines 77-1 x 12 S.P. 370/10720
+
+Lines 12 x 1 S.P. 11170/1010
+
+Lines 1 x 77-2 X COST G-2 S.P. 1200/210
+
+Figure 12
+33
+
+APTIAN - ALBIAN 119-97.5 Ma
+CONTOUR INTERVAL-0. WO-WAY TRAVELTIME
+
+70°W
+
+Figure 13
+
+U.S. Geological Survey Open File Report #94-637
+
+Seismic Line # Composite Line G1-G2 USGS CDP Line 1 USGS CDP Line 2 USGS CDP Line 3 USGS CDP Line 5 USGS CDP Line 6 USGS CDP Line 7 USGS CDP Line 8c USGS CDP Line 9 USGS CDP Line 10 USGS CDP Line 11 USGS CDP Line 12a USGS CDP Line 12bc USGS CDP Line 12de USGS CDP Line 12fg USGS CDP Line 12hi USGS CDP Line 12J1 USGS CDP Line 13a USGS CDP Line 13b USGS CDP Line 13cd USGS CDP Line 13ef USGS CDP Line 13gh USGS CDP Line IPOD USGS CDP Line 14a USGS CDP Line 14b USGS CDP Line 15a USGS CDP Line 15b USGS CDP Line 16 USGS CDP Line 17 USGS CDP Line 18 USGS CDP Line 19 USGS CDP Line 20 USGS CDP Line 21 USGS CDP Line 22 USGS CDP Line 23 USGS CDP Line 24 USGS CDP Line 25a USGS CDP Line 25b USGS CDP Line 26 USGS CDP Line 27 USGS CDP Line 28 USGS CDP Line 29 USGS CDP Line 30 USGS CDP Line 33 USGS CDP Line 34 USGS CDP Line 36 USGS CDP Line 37 USGS CDP Line 38 BGR 79-202 BGR 79-204
+
+APPENDIX 1 U.S. Geological Survey CDP Lines
+
+Shot Pts.
+10435-11500 1 00-2920 100-2625 130-2370 100-3410 200-3870 70-2765 140-2400 100-3135 120-2780 1 90-2540 100-1620
+1600-4100 4100-7400 7400-9160 9120-10720 1072-12600
+90-2000 2000-4000 4000-6040 6040-8600 8580-11270
+100-2170 1000-2260 1000-2480
+520-2200 1000-2425
+1-6200 1290-4370
+100-4900 100-4895 4870- 100 210-5035 915-6700 360-6260 490-3560 430-2870 2845-6570 100-5470 240-5350 365-5315 640-4940 470-3060
+85-3840 100-2820 100-6500 100-4865 1 00-4600
+1-4880 7500-15650
+
+Shot
+
+Pt Soacina
+100m
+100m
+100m
+100m
+100m 100m 100m 100m 100m 100m 100m 100m 100m 100m 100m 100m 100m 100m 100m 100m 100m 100m 100m
+50m 50m 50m 50m 50m 50m 50m 50m 50m 50m 50m 50m 50m 50m 50m 50m 50m 50m 50m 50m 50m 50m 50m 50m 50m 50m 50m
+
+Channels-Steamer-Sou 48 - 3500 m - 1700 cu. in. 24 - 2321 m - 1260 cu. in. 24 - 2321 m - 1260 cu. in. 24 - 2321 m - 1260 cu. in. 36 - 3600 m - 1700 cu. in. 36 - 3600 m - 1700 cu. in. 36 - 3500 m - ? 36 - 3500 m - ? 36 - 3600 m - 1700 cu. in. 36 - 3600 m - 1700 cu. in. 48 - 3600 m - 1700 cu. in. 48 - 3500 m - 1700 cu. in. 48 - 3500 m - 1700 cu. in 48 - 3500 m - 1700 cu. in 48 - 3500 m - 1700 cu. in 48 - 3500 m - 1700 cu. in 48 - 3500 m - 1700 cu. in 48 - 3500 m - 1700 cu. in 48 - 3500 m - 1700 cu. in 48 - 3500 m - 1700 cu. in 48 - 3500 m - 1700 cu. in . 48 - 3500 m - 1700 cu. in . 36 - 3600 m - 1700 cu. in 48 - 3500 m - 1700 cu. in . 48 - 3500 m - ? 48 - 3550 m - ? 48 - 3550 m - ? 48 - 3550 m - ? 24 - 3600 m - 2160 cu. in 48 - 2400 m - 2000 cu. in. 48 - 2400 m - 2000 cu. in . 48 - 2400 m - 2000 cu. in 48 - 3600 m - 2000 cu. in . 48 - 3600 m - 2000 cu. in 48 - 3600 m - 2000 cu. in 48 - 3600 m - 2000 cu. in . 48 - 3600 m - 2000 cu. in 48 - 3600 m - 2000 cu. in . 48 - 3600 m - 2000 cu. in. 48 - 3600 m - 2000 cu. in 48 - 3600 m - 2000 cu. in. 48 - 3600 m - 2000 cu. in 48 - 3600 m - 2000 cu. in 48 - 2400 m - 2000 cu. in 48 - 3600 m - 2000 cu. in
+48 - 3600 m - 2000 cu. in
+48 - 3600 m - 2000 cu. in 48 - 3600 m - 2000 cu. in
+24 - 2400 m - 23.45 liters 24 - 2400 m - 23.45 liters
+
+35
+
+U.S. Geological Survey Open File Report #94-637
+
+Line crossing and well crossing shot point numbers
+
+Seismic Line#
+2
+2
+2
+5
+6
+6
+6
+8a
+9
+9 10 11 12ab 12ab 12ab 12ab 12ab 12c 12c 12c 12d 12d 12d 12d 12d 12d 12e 12e 12fg 12fg 12fg 12fg 12hi 12hi 12hi 12hi 12J1 12J1 12J1 12J1 12J1
+13ad 13ad 13ad 13ad 13ad 13ad 13ad I3ad I3ad I3ad I3ad I3ad 13ad 13eh 13eh 13eh 13eh 13eh 13eh 13eh 13eh 13eh 13eh 13eh 13eh
+
+Shot Pt. #
+125 940 1060 1770 1060 1415 1470 800 1400 2450 1140 190 160 900 1598 2117 2672 3095 3470 3900 4298 4650 5050 5565 5850 6000 6785 7095 7620 8060 8550 9110 9570 9965 10630 10720 11170 11430 11815 12115 12410
+170 825 1548 2000 2485 2890 3300 3645 4030 4435 4815 5490 5840 6250 6640 7080 7540 8065 8615 9335 9930 10280 10620 10940 11260
+
+Crossing Line* Shot Pt. #
+
+or Well AMCOR 6011 (on line)
+Mobil 544-1 (2 km NE of line) Conoco 590-1 (3 km NE of line) ASP 17/18 (10 km NE of line) Shell 273-1 (5 km SW of line)
+Shell 586-1 (5 km SW of line) Shell 587-1 (5 km SW of line)
+20 3900
+24 3560 2 2495 Shell 93-1 (on line) USCGLT-CH1-2
+
+IPOD
+
+320
+
+30 470
+
+17 1835
+
+29 1480 11 680
+
+28 1420 3 565
+
+27 1060 10 603
+
+26 1189 6 704
+25 1510 AMCOR 6020 (17 km NW of line)
+
+2 735 24 2565
+9 945
+
+23 1740
+
+16 1780 22 2660
+
+5 1150 21 1440
+
+8 680
+
+20 2850
+
+77-1 370 1 1010
+
+19 2480 7 1280
+
+18 2360
+
+4 1090
+
+IPOD 30 17 29 11 28 3 27 10 26 6 25 9 23 16 22 5 21 8 20 1 19 7 18 4
+
+1709 2800 4370 4410 2300 4700 2200 4360 2325 4700 2540 5580 2980 5690 5580 6155 2705 4250 2040
+120 2160 4730 2390 4590 2205
+
+36
+
+U.S. Geological Survey Open File Report #94-637
+
+14a
+
+1050
+
+6
+
+1060
+
+14a
+
+1240
+
+Shell 272-1 (8 km NW of line)
+
+14a
+
+1350
+
+Shell 273-1 (2 km NW of line)
+
+14a
+
+2100
+
+25
+
+2195
+
+14a
+
+2260
+
+14b
+
+1000
+
+14b
+
+1790
+
+2
+
+1198
+
+14b
+
+2035
+
+COST B-2 (on line)
+
+15a 930 Tenneco 495-1 (on line)
+
+15a
+
+1050
+
+6
+
+1250
+
+15a
+
+2115
+
+25
+
+2550
+
+15a
+
+2185
+
+Mobil 17-2 (2 km NW of line)
+
+15a
+
+2200
+
+15b
+
+1010
+
+15b
+
+1380
+
+HOM 855-1 (5 km NW of line)
+
+15b
+
+1460
+
+Gulf 857-1 (1 km SE of line)
+
+15b
+
+1900
+
+2
+
+1360
+
+15b
+
+1905
+
+Exxon 728-1 (1 km SE of line)
+
+15b
+
+1950
+
+Exxon 684-2 (1 km NW of line)
+
+15b
+
+2010
+
+Exxon 648-1 (2 km NE of line)
+
+15b
+
+2220
+
+Tenneco 642-2 (5 km SE of line)
+
+15b
+
+2250
+
+Texaco 598-2 (NW of line)
+
+15b
+
+2300
+
+Texaco 598-3 (on line)
+
+19 365 AMCOR6019
+
+20
+
+4150
+
+AMCOR6016
+
+25
+
+570 37
+
+3095
+
+25
+
+1424
+
+LASE ESP-1
+
+25
+
+1510
+
+12d
+
+5565
+
+25
+
+2068
+
+LASE ESP-2
+
+25
+
+2195
+
+14a
+
+2100
+
+25
+
+2428
+
+LASE ESP-3
+
+25
+
+2550
+
+15a
+
+2115
+
+25
+
+2720
+
+204
+
+5990
+
+25
+
+2880
+
+ASP-17
+
+25
+
+3050
+
+DSDP 612 (on line)
+
+25
+
+3060
+
+34
+
+1270
+
+25
+
+3143
+
+LASE ESP-4
+
+25
+
+3390
+
+DSDP 605 (on line)
+
+25
+
+3500
+
+DSDP 604 (on line)
+
+25
+
+3650
+
+DSDP 107 (on line)
+
+25
+
+3710
+
+LASE ESP-5
+
+25
+
+5580
+
+13
+
+5490
+
+26
+
+2340
+
+Shell 586-1 (on line)
+
+26
+
+2440
+
+Shell 587-1 (on line)
+
+28
+
+1905
+
+ASP 10
+
+28
+
+2100
+
+ASP 22
+
+30 470 USCG-LT DS-1/2
+
+33
+
+238 20
+
+2082
+
+33
+
+1220
+
+1
+
+1345
+
+33
+
+1750
+
+19
+
+3160
+
+33
+
+2590
+
+7
+
+1680
+
+33
+
+3230
+
+18
+
+3030
+
+33
+
+3845
+
+4
+
+1390
+
+34
+
+190 6
+
+1400
+
+34
+
+1170
+
+ASP 15
+
+34
+
+1270
+
+25
+
+3060
+
+34
+
+1450
+
+COST B-3 (Proj.)
+
+34
+
+2325
+
+2
+
+1640
+
+36
+
+640 24
+
+1075
+
+36
+
+2130
+
+9
+
+527
+
+36
+
+3230
+
+23
+
+1000
+
+36
+
+4120
+
+16
+
+910
+
+36
+
+5040
+
+22
+
+1659
+
+36
+
+6130
+
+5
+
+550
+
+37
+
+37 37 37 37 37 37
+38 38 38 38 38 38
+77-1 77-1 77-2 77-2
+202 202 202 202 202 202 202
+204 204 204 204 204 204 204 204 204 204 204 204 204 204 204 204 204 204 204 204
+
+4871 3900 3095 2105 1300 600
+355 1390 2045 2760 3460 4090
+105 370 210 105
+0001 865 1595 2445 3240 4000 4880
+0005 900 900 1650 2530 3340 4070 4900 5990 7010 8350 9370 9725
+10250 11250 12380 13310 14230 15660 16600
+
+U.S. Geological Survey Open File Report #94-637
+
+36 2
+25 6
+26 10
+20 1
+19 7 18 4
+COST G-1 12
+I COST G-2
+II 28
+3 27 10 26
+6
+11 28 ASP 10
+3 27 10 26
+6 25
+2 9 23 AMCOR6012 16 22 5 21 8 20 1
+
+101 240 570 260 340 250
+1328 1880 4370 2250 4180 1960
+10720 1200
+1320 2560 1140 2365 1327 2750 1600
+1020 1920
+810 1675
+990 2050 1220 2720 1440 1490 2600
+2300 3605 1685 2400 1190 1840 1635
+
+38
+
+U.S. Geological Survey Open File Report #94-637
+
+Appendix 2 U.S. Atlantic Margin Industry Wells Used to Calibrate Database.
+
+Industry wells with both velocity and bio-/lithostratigraphic information used in this database (Klitgord and Schneider, 1994).
+
+Basin Co. WELL NO.
+
+GBB COSTG-1
+
+GBB COSTG-2
+
+BCT COST B-2
+
+BCT SHELL SH-273-1
+
+BCT SHELL SH-587-1
+
+BCT SHELL SH-586-1
+
+BCT SHELL SH-93-1
+
+BCT GULF
+
+Gu-857-1
+
+BCT TEXACO TX-598-2
+
+BCT MOBIL MO- 17-2
+
+BCT MOBIL MO-544-1
+
+BCT EXXON EX-684-2
+
+BCT TENNEOO TN-495-1
+
+LATITUDE 40<>55. 87'N 40°50.26'N 39°22.53'N 38d42.974'N 38d22.92'N 38d24.34'N 37d53.58'N 39d06.318'N 39d22.316'N 38d58.067'N 39d25.47'N 39d16.731'N 38d27.981'N
+
+LONGITUDE 68°18.32'W 67°30.49'W 72°44.06'W 73d27.341'W 73d09.85'W 73d13.05'W 73d44.16'W 72d49.457'W 72d31.859'W 73d02.943'W 73d04.60'W 72d39.133'W 73d22.698'W
+
+W.D. 47.9m 81.7m 90.8m
+72m 2042m 1794m 1529m
+102m 128m 79m 66m 126m 108m
+
+T.D. 4821m 6554m 4863m 5237m 4420m 3076m 5407m 5527m 5244m 4160m 2543m 4969m 5443m
+
+Sonic yes yes yes yes no no yes no no yes no yes yes
+
+Ckshot yes yes yes yes yes yes yes yes yes yes yes yes yes
+
+Industry wells with bio-/lithoiostratigraphic information incorporated into the strati graphic
+
+analyses as indicated in the reports by Poag (1982, 15)85b, 1987, 1991, 1992), Poag and
+
+Valentine (1988) and Poag and Wade (1993).
+
+Basin Co. WELL NO. LATITUDE LONGITUDE W.D. T.D.
+
+GBB EXXON EX-133-1 40d49.08'N 67d56.046'W
+
+69m 4303m
+
+GBB EXXON EX-975-1 41d00.90'N 67d37.35'W
+
+64m 4361m
+
+GBB SHELL SH-410-1 40d34.39'N 67d12.54'W
+
+136m 4587m
+
+GBB MOBIL MO-312-1 40d39.10'N 67d46.90'W
+
+84m 6096m
+
+GBB MOBIL MO-187-1 40d46.25'N 67d23.32'W
+
+94m 5407m
+
+GBB GULF
+
+GU-145-1 40d50.73'N 67d17.57'W
+
+91m 4302m
+
+GBB MOBIL MO-273-1 40d41.08'N 67d30.21'W
+
+98m 4624m
+
+GBB SHELL SH-357-1 40d37.57'N 67d44.77'W
+
+82m 5818m
+
+BCT
+
+COST B-3 38°55.10'N 72o46.38'W
+
+819m 3991m
+
+BCT CONOCO CO-590-1 39d22.560'N 72d58.040'W
+
+70m 3562m
+
+BCT SHELL SH-632-1 39d20.999'N 73d06.320'W
+
+64m 4180m
+
+BCT TEXACO TX-598-1 39d22.319'N 72d30.328'W
+
+130m 4423m
+
+BCT HOUSTON HO-676-1 39d17.217'N 73d06.383'W
+
+67m 3713m
+
+BCT EXXON EX-684-1 39d18.163'N 72d38.499'W
+
+12m 5226m
+
+BCT MOBIL MO- 17-1 38d58.080'N 73d02.950'W
+
+85m 261m
+
+BCT HOUSTON HO-855-1 39d06.347'N 72d54.840'W
+
+89m 5217m
+
+BCT SHELL SH-272-1 38d42.070'N 73d32.430'W
+
+66m 4024m
+
+BCT GULF
+
+GU-718-1 39d15.657'N 73d09.957'W
+
+58m 3825m
+
+BCT EXXON EX-902-1 39d04.239'N 72d45.246'W
+
+132m 4713m
+
+BCT TENNFjOO TN-642-2 39d20.597'N 72d29.650'W
+
+139m 5447m
+
+BCT EXXON EX-500-1 39d26.920'N 73d06.100'W
+
+62m 3647m
+
+BCT TEXACO TX-642-1 39d20.865'N 72d30.878'W
+
+139m 5264m
+
+BCT MURPHY MU-106-1 38d51.238'N 72d57.304'W
+
+125m 4908m
+
+BCT TENNFjOO TN-642-3 39d20.262'N 72d31.736'W
+
+137m 4861m
+
+BCT EXXON EX-599-1 39d21.88'N 72d29.15'W
+
+135m 5058m
+
+BCT TEXACO TX-598-4 39d21.70'N 72d30.35'W
+
+129m 4724m
+
+BCT EXXON EX-816-1 39d10.05'N 72d38.10'W
+
+143m 5257m
+
+BCT EXXON EX-728-1 39d15.22'N 72d39.15'W
+
+132m 4477m
+
+BCT SHELL SH-372-1 38d36.02'N 72d52.23'W
+
+2119m 3545m
+
+39
+
+U.S. Geological Survey Open File Report #94-637
+Appendix 3 Stratigraphic Time Sections and Layer Interval Velocity Sections The upper profile (time section) for each line is the seismostratigraphic base displayed in terms of two-way travel time (in seconds) vs distance along track (shot points). Each numbered surface corresponds to one of the seismostratigraphic units listed in Table 4. The upper most surface is the sea floor (reflector 1). Un-numbered lines crossing diagonally through the sedimentary section are interpreted faults. Un-numbered lines beneath the numbered Stratigraphic section are basement structures or synrift strata. They are provided as a guide to the general nature of geologic features beneath the geologic units in the data base, but they are not included in the gridded database. The lower profile for each line displays the interval velocity for the Stratigraphic units shown in the upper profile. These velocities are the final, smoothed functions derived from the ISM smoothed RMS velocity data. Velocities increase going down the page, with highest velocities at the bottom. Average water velocity has been assumed 1500 m/sec. Note the general increase in velocities in the seaward direction across the shelf. This change is primarily associated with the greater depth of burial of the units. Each velocity curve is numbered and corresponds to the unit directly above the same numbered surface listed in Table 4 and show in the upper profile. The x's indicate the locations of velocity analyses.
+40
+
+10400 ^7040-
+
+10500
+
+2 3 4 5 6 7 8
+g 10
+
+10600
+
+Composite Line G1 -G2 - Time Section
+Shotpoint Number
+
+10700
+
+10800
+
+10900
+
+11000
+
+11100
+
+11200
+
+11300
+
+11400
+
+11500
+110
+]§8
+uo
+150 170
+
+12
+
+Composite Line G1 -G2 - Int.Vel. from smt ISM-RMS Shotpoint Number
+
+11400
+
+11500
+
+1000 -
+2000 3000 4000 .£ 5000 6000 7000 8000
+
+41
+
+USGS CDP Line 1 - Time Section
+
+000
+
+1,00
+
+,200
+
+,300
+
+1400
+
+>SOC,1600
+
+1700
+
+1800
+
+1900
+
+2000
+
+2,00
+
+2200
+
+2300
+
+2400
+
+2500
+
+2600
+
+2700
+
+2800
+
+2900_
+
+USGS CDP Line 1 Interval Velocities from smt ISM-RMS
+
+USGS CDP Line 2 --Time Section
+
+fttt UMB VMS
+
+| | Shotpojnt Number
+
+700
+
+800
+
+900
+
+1000
+
+1100
+
+1200
+
+1300
+
+1400
+
+1500
+
+1800
+
+1700
+
+1800
+
+1BOO
+
+2000
+
+2100
+
+Z200
+
+2300
+
+2400
+
+2500
+
+2600
+
+CJ
+
+USGS CDP Line 2 Interval Velocities from smt ISM-RMS
+
+XUiwiat XUM204 S.C. 1100 3.P.7010
+
+XUnO4 I.P.2U9
+
+I Shotpo nt NNuunmbir
+
+i
+
+800
+
+900
+
+1000
+
+1100
+
+i-jI1pPoO
+
+\\330i00 ' 1r40^0 1I ' 13i00
+
+i1600*I!- 1700
+
+1800
+
+1900
+
+2000
+
+2100
+
+2300
+
+2400
+
+4oo_
+
+USGS CDP Line 3 Time Section USGS CDP Line 3 Interval Velocities from smt ISM-RMS
+
+flfya
+
+USGS CDP Line 5 Time Section USGS CDP Line 5 Interval Velocities from smt ISM-RMS
+
+USGS CDP Line 6 Time Section Shotpoint Number
+
+W7.U
+
+WWS
+
+'JtSX
+
+USGS CDP Line 6 - Intervol Velocities from smt ISM-RMS y-jf.i-.-7-. JK5B
+
+Ehotpoint Number
+
+1700
+
+1800
+
+HOD
+
+2000
+
+USGS CDP Line 7 - Time Section
+
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+800
+
+700
+
+800
+
+900
+
+1000
+
+1100
+
+1200
+
+1300
+
+1400
+
+1500
+
+1600
+
+1700
+
+1800
+
+1900
+
+2000
+
+2100
+
+2200
+
+2300
+
+2400
+
+2500
+
+2600
+
+2700
+
+2BOO
+
+USGS CDP Line 7 Interval Velocities from smt ISM-RMS
+
+XLh»12 S.P. Ill's
+
+XUn«33 S.P.25IO
+
+> S
+
+». 2780
+
+S.P. 1
+
+i Shotpoint Number
+
+i
+
+i i 23oo at100_____200_____300
+
+-400i
+
+50i0
+
+60i0
+
+70i0
+
+80i0
+
+9i00
+
+1i000
+
+1i100
+
+1i200 J*1-3r0-0
+
+14i00
+
+1i500
+
+i1600 *ilH700
+
+180i0
+
+190i0
+
+2000i
+
+210i0
+
+22i00
+
+I
+
+*-f00 2500 2600 2700 2600
+
+" 4000
+1 I
+£ 5000
+
+-I I I I I I I_______I_______I_______|_
+
+I I_______1 L.
+
+USGS CDP Line 8 --Time Section
+
+5.P. 696'
+
+XUni204 S.P. 14230
+
+XUnll S.P.B615
+
+Sfiotpoirtt Number
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+800
+
+900
+
+1000
+
+1100
+
+1200
+
+1300
+
+1400
+
+1500
+
+1600
+
+1700
+
+1800
+
+1900
+
+2000
+
+2100 2200 2300 2400
+
+CO
+100 200 300 400 500 600
+
+USGS CDP Line 8
+
+Interval Velocities from smt ISM-RMS
+XLIn.204 S.P, 142JO
+
+Shotpoint Number
+
+J200
+
+1300
+
+2100
+
+2200
+
+2300
+
+2400
+
+USGS COP Line 9 Time Section
+TWjf,s VflSi { ShotpdntNumtw
+MO 700 »00 WO 1000 1100 1200 1500 1400 1MO ItOO 1700 1000 IfOO MOO 2100 2200 2300 2400 2900 2*00 2700 2000 2tOO MOO 3100
+
+I I I I I I I_______I_______I_______I_______1_______I
+
+USGS CDP Line 9 Interval Velocities from smt ISM-RMS
+
+*°°
+
+800 i
+
+«00
+
+700
+
+MO
+
+100 1 1000
+
+1100
+
+1200
+
+1JOO
+
+I WIO 17I00 1I000 1t« 2000
+
+1X0
+
+24I00 1 25I00
+
+MIOO
+
+27I00
+
+20t00
+
+2900
+
+POOO
+
+3100
+
+USGS CDP Line 10 Time Section
+
+if. mo 1 Shotpoint Number
+
+00
+
+200
+
+300
+
+«0
+
+500
+
+600
+
+700
+
+800
+
+900
+
+1000
+
+1100
+
+1200
+
+1300
+
+1*00
+
+1500
+
+1500
+
+1700
+
+1600
+
+1900
+
+2000
+
+2100
+
+2200
+
+2300
+
+2400
+
+2500
+
+2600
+
+2700
+
+2800
+
+Ln
+
+o
+
+USGS CDP Line 10 - Intervol Velocities from smt ISM-RMS
+
+XSh.ll-M-1
+
+X Urn KM
+
+iusco-cn
+I ZOO
+
+300
+
+XU»1J J.P. M7I
+
+sa1 USGS CDP Line 11 XUiwltt
+
+Time Section
+
+S.P.001
+
+Shotpjpint Number
+
+700
+
+AOO
+
+600
+
+1000
+
+1100 1200 1300
+
+1400
+
+1500
+
+1600
+
+1700
+
+1800
+
+1800
+
+2000
+
+2)00
+
+2200
+
+2300
+
+2400
+
+2500
+
+4OO 500
+I
+£ sooo
+
+USGS CDP Line 11
+UraM
+
+1100
+
+1200
+
+Interval Velocities from smt ISM-RMS
+HUnilOl
+
+Shotooint Number 13«J 1400
+
+1500
+
+1BOO
+
+1800 1900 2000 2100
+
+2400
+
+2500
+
+100 200 300 400
+
+USGS CDP Line 1 2a
+
+Time Section
+
+XUSCGLTOS-1
+i S(Y70XUmJO S.P..470
+
+Shotpdint Nurpper
+
+BOO
+
+900
+
+1000
+
+1100
+
+1200
+
+1300
+
+1400
+
+1500
+
+1600
+
+cn
+2tt>0
+
+USGS CDP Line 1 2a -- Interval Velocities from smt ISM-RMS
+
+X USCC ILTI OS-1
+Shotplqoint Nuumber
+
+800 j
+
+9JO
+
+1000
+
+1100
+
+1200
+
+1300
+
+1400
+
+1500
+
+1
+
+-I I 1 I
+
+-1 I I_______I_______L
+
+Interval Velocity (m/sec)
+g isisil^ss
+
+Traveltime (sec)
+
+<§_
+
+s3 ii
+«2
+
+-£
+
+j3 JTJ
+I S C/>
+
+»i O Ss W
+O
+S^
+
+___
+
+Ito8
+Un
+
+'T
+
+USGS CDP Line 12de Time Section | Shotpoint Number J
+
+USGS CDP Line 12de iWffi
+
+Interval Velocities from smtlSM-RMS
+
+«««.«.<h«)
+
+y*.^
+
+Shotpoint Number
+
+Interval Velocity (m/sec) I S g S 38S8S-
+- S"
+S3 2.
+£38 S SiJBS S 3
+
+XUi»21 S.P. 1440
+
+USGS CDP Line 12hi - Time Section
+
+XUM20 S.P. ZB50
+
+XLIn.77-1 S.P. 370
+
+10600
+
+10700
+
+10600
+
+I_____I_____I_____I_____I I
+
+USGS CDP Line 12hi - Interval Velocities from smt ISM-RMS
+
+XUmll S.P. 1440
+
+XLjmB S.P. «60
+
+Shotpoint Number
+
+9900 1 10000
+
+XUn. 20 S.P. 2650
+
+X Una 77-1 S.P. 370
+
+USGS CDP Line 12J1 -- Time Section USGS CDP Line 12J1 - Interval Velocity from smt ISM-RMS
+
+USGS COP Line 13d Time Section
+
+Shotpoint Numbar
+
+Xlh.17 S.P.4KO
+
+1000 1100
+
+1300
+
+1400
+
+1500
+
+1600
+
+1700
+
+1800
+
+1900
+
+2000
+
+eono USGS COP Line 13a Interval Velocities from smt ISM-RMS
+
+Shotpoint Numbar 1000 1100 1200 1300
+
+1500 1 1BOO
+
+1800 19 0
+
+1 I I I________I________I________1_
+
+T°
+
+USGS CDP Line 13b Time Section
+
+KSB
+
+\
+
+\ Shotpoint Number
+
+J
+
+J
+
+2000_
+
+2100
+
+2200
+
+2300
+
+2400
+
+2500
+
+2600
+
+2700
+
+2800
+
+2900
+
+3000
+
+3100
+
+3200
+
+3300
+
+3400
+
+3500
+
+3600
+
+3700
+
+3800_____3900_____4000
+
+01
+
+USGS CDP Line 13b Interval Velocities from smt ISM-RMS
+
+XUn.H
+
+XUi»>
+
+2C»
+
+2100
+
+2200
+
+2300
+
+2400
+
+tsOO
+
+2600
+
+2700
+
+2800
+
+Shotpoint Number 0 3000 3100
+
+-33T)0
+
+3i400"*-"35r0-0 »-3*6i00^^1 3700
+
+3800
+
+3900
+
+4000
+
+1000 ,1
+
+,§ .«
+
+S.P.21S5
+|
+000
+
+4100
+
+4200
+
+4300
+
+X Llrw 2« SS..PP..4700
+
+4400
+
+4500
+
+4800
+
+4700
+
+USGS CDP Line 13cd Time Section
+
+S.P.2S40
+J
+4800
+
+Shotpoint Numbar
+
+4900
+
+5000
+
+5100
+
+5200
+
+5300
+
+5400
+
+S.P.UM
+{
+5500
+
+5800
+
+HW
+57CC_____5800_____5900_____6000
+
+USGS CDP Line 13cd Interval Velocities from smt ISM-RMS
+
+4000 I
+
+4100
+
+4200
+
+4300
+
+4400
+
+4500
+
+4800
+
+Sholpoint Number
+
+5000
+
+5100
+
+5200
+
+5300
+
+5400 Jsoo
+
+5600
+
+5700
+
+5800 1 5900
+
+£ 5000
+
+-J
+
+__I
+
+I
+
+I
+
+Interval Velocity (m/sec) ~" 8 3 S 'S 338 tS 3 SfcKS-
+
+-i!»»e
+
+Jne13ef ShNefupemint
+i1 nn
+S§
+
+USGS CDP Line 13gh
+XUn.1
+
+Time Section
+
+B600
+
+8700
+
+8800
+
+8900
+
+9000
+
+9100
+
+9200
+
+9300
+
+9400
+
+9500
+
+9800
+
+9700
+
+9800
+
+9900
+
+10000
+
+10100
+
+10200
+
+10300
+
+10400
+
+10500
+
+10BOO
+
+10700
+
+10800
+
+10900
+
+11000
+
+11100
+
+11200
+
+NJ
+I BBOJ 0
+
+B700
+
+8800
+
+B900
+
+9000
+
+9100
+
+9200
+
+9300
+
+9400
+
+9500
+
+USGSCDP Line 13qh
+
+Interval Velocities from smt ISM-RMS
+
+XUml
+
+XUn. l«
+
+9800
+
+9700
+
+Shotpointi Number
+
+9BOO
+
+9900 1
+
+10000
+
+10100
+
+10200
+
+i 10300
+
+10+00
+
+10500
+
+III
+
+1 060J
+
+10700
+
+tOBOO
+
+10900 J 11000
+
+11100
+
+11200 J 113
+
+1000
+
+»»
+
+,
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. .. .,^.
+
+. ,.
+
+.«
+
+.
+
+.
+
+"- "
+
+B
+
+!!
+
+11
+
+3 - J*"
+
+"
+
+«
+
+«
+
+«
+
+"
+
+"
+
+"
+
+"
+
+M !«-
+
+2000
+
+"
+
+»»
+
+» " « N II IXUI >
+
+.
+
+. -.. ...
+
+. ..
+
+-K.I
+
+»
+
+-«
+
+"
+
+^
+
+- - « " « " " » "- " « " "
+
+"3 3000
+<
+£, g 4000 ?° "- " " " " "
+1
+c 5000
+
+"°
+
+_- ..
+
+)«
+
+^u - t, u .. -M
+
+,.
+
+, ««N.«"«
+
+8000
+
+7000
+
+BOOO
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1_______1_______1_______L_______1_______I_______l_______[.._._
+
+_.j ..i.i
+
+,
+
+,
+
+i
+
+i
+
+,
+
+i. . i
+
+i
+
+i
+
+X Um 8 S.P. 1010
+
+USGS CDP Line Ha Time Section
+
+X SMI272-1 XSIi.ll 273-1
+|
+
+1200
+
+1400
+
+Shotpoint Number
+
+1600
+
+1600
+
+KUM»
+
+Tt
+
+2000
+
+2200000
+
+USGS CDP Line 14b Time Section
+
+XUn.2 S.P.1I96
+Shotpoint lyimber
+
+1600
+
+1800
+
+XCOSTB-2
+| 2000
+
+2
+
+USGS CDP Line Ha
+
+USGS CDP Line Hb Interval Velocities from smt ISM-RMS
+
+USGS CDP Line 15a Time Section
+
+»Ul»«
+xiwiwji4»in ja0
+
+Shotpoint Number
+
+DCS CDP Line 15b
+
+Time Section
+
+XUntl-S.P.1380 X Exxon 726-1 B04-2
+
+*T«ninco-842-2 X Tnoco - 5>t-2 XJ«^OCOJ-598-3
+
+USGS CDP Line 15o
+
+USGS CDP Line 15b Interval Velocities from smt ISM-RMS
+
+USGS CDP Line 16 Time Section
+
+1000
+
+1200
+
+2400
+
+2800
+
+28OO
+
+3000
+
+3200
+
+1400
+
+J«00
+
+MOO
+
+4000
+
+4200
+
+4400
+
+4MO
+
+M7.B
+
+onus
+
+USGS CDP Line 16 OHX&
+
+Intervol Velocities from ami ISM-RMS
+
+200 400 «00 BOO [ 1-0i00 1i200 14r00 ISOO *00 2000 2200 2400
+
+i Shotpoint Numbor
+
+ID
+
+zeoo
+
+3000
+
+3200
+
+3400
+
+3too
+
+Mm
+I
+
+4000
+I
+
+4200
+
+4400
+
+4-«oio
+
+4r*0-0
+
+aooo___5200___MOO
+
+MOO
+
+8000
+
+«200
+
+USGS CDP Line 17 - - Time Section
+
+1600
+
+1800
+
+2000
+
+2200
+
+2400
+
+2600
+
+2800
+
+3000
+
+3200
+
+3400
+
+3600
+
+3800
+
+4000
+
+4200
+
+4400
+
+1200
+
+1400
+
+USGS CDP Line 17 - Interval Velocities from smt ISM-RMS
+
+2000
+
+2200
+
+2400
+
+Shotpoint Number
+
+2600
+
+2800
+
+3000
+
+3200
+
+3400
+
+3600
+
+3800
+
+4000
+
+14200
+
+4400
+
+-J I 1-
+
+USGS CDP Line 18 - Time Section
+
+USGS CDP Line 18 Interval Velocities from smt ISM-RMS
+
+CT\ -J
+
+Shotpo nt Number
+
+600
+
+800
+
+1000
+
+1200
+
+1400
+
+1600
+
+1800
+
+2000
+
+2200
+
+*J24i00
+
+2600
+
+2800
+
+300
+
+3+00
+
+3600
+
+3800
+
+4000
+
+4J200
+
+4400
+
+iL -
+
+i
+
+44C8O0<0 *i
+
+4800
+
+80001 I I I I I I I I________I________I________I________L.
+
+-I I I I U
+
+J________I________I________I________L
+
+USGS COP Line 1 9 - Time Section
+
+USGS CDP Line 19
+
+Interval Velocities from smt ISM-RMS
+
+C\
+
+X Line 12 S.P. 11430
+
+X Line 33 S.P. 1750
+
+CO
+
+XAMCORB016
+
+4200
+
+WOO
+
+3BOO
+
+3600
+
+3400
+
+3200
+
+USGS CDP Line 20 - Time Section
+
+USGS CDP Line 20 Interval Velocities from smt ISM-RMS
+
+USGS CDP Line 21 --Time Section
+XLIne_204
+Shotpoint Number 2400 2600 2800
+
+T
+
+4000
+
+4-200
+
+4400
+
+4600
+
+4800
+
+5000
+
+USGS CDP Line 21
+
+Interval Velocities from smt ISM-RMS
+
+4800
+
+5000
+
+USGS COP Line 22 - Time Section
+
+MOO
+
+2100
+
+1400
+
+MOO
+
+2000
+
+3000
+
+3200
+
+3400
+
+3800
+
+MOO
+
+4000
+
+4200
+
+4400
+
+4600
+
+4800
+
+9600
+
+SZOO
+
+9400
+
+5800_____9800_____«000_____UOO_____»400
+
+I600 1800 2000
+
+!n& I
+2KM 1
+
+2600
+
+USGS COP Line 22 - Interval Velocities from ami ISM-RMS W?,SJ
+
+I Shotpoint Number
+
+5000
+
+3200
+
+3400
+
+3flJ«
+
+3MO
+
+*°00
+
+42DO
+
+440°
+
+4fl°°
+
+4fl°°
+
+8200
+
+3400
+
+9600
+
+8800
+
+8000
+
+6400_____8800
+
+80001 I
+
+1_______I________1_
+
+IX.LPh.3wUMQ
+
+W*»
+
+wo «» eoo 1000 1200 i«o ix» iw» 2000 2200
+
+UM 104
+'( 2«00
+
+USGS CDP Line 23 Time Section
+
+Shotpoint Numbtr
+
+2800
+
+3000
+
+3200
+
+J400
+
+3800_____4000_____4200_____4400
+
+4800
+
+3000_____5200_____8400
+
+600 BOO
+
+USGS CDP Line 23 «WB
+
+Interval Velocities from smt ISM-RMS
+
+IJK&
+
+I Shotpoint Number
+
+i
+
+1200 1400 1100 1600 2000 2200 241
+
+2(pO
+
+J800
+
+3000
+
+3200
+
+3400
+
+3800
+
+3800
+
+4OOO
+
++200
+
+4400
+
++600
+
+4800
+
+MOO
+
+3200 ____ 5+00_____S600 [ 5800_____6000_____6200
+
+Interval Velocity (m/sec)
+~" ' ' 8 85 S 388
+c c/) o
+CO
+o o
+TJ IE
+(o N> -1^. .1
+S1
+sS < c CD In 82. S' u> O 3 U) 3
+
+USGS CDP Line 25a Time Section
+
+Jftis KS& 'Ma vnan '.WE «»» «w»
+
+I
+
+IU-J SUpoirt Number
+
+»>*f»- J
+
+'"»$!&,*.,
+
+|
+
+J tmfK?^-
+
+800 BOO 1000 1200 1400 » 1800 1800 1000 1200 S400 » »2BOO
+
+B&^e^^*^m^^*llmi^****a***m~^~^^^^-~~^*^^*~*f*Bxaf fa*aBaaa^^=ll***sss*^=esf~=v *~
+
+,i
+
+2800
+I 01
+
+30»U 3200
+
+T'
+
+I
+
+«""-^B,10. "a°"n \ H,""" "f'j0'-*
+
+3400
+I
+
+3800
+-I
+
+3800
+I'
+
+4000
+I
+
+USGS CDP Line 25b Time Section
+
+4200
+
+4400
+
+I~I
+
+Shotpoint Number
+
+4600
+
+4800
+
+8000
+
+I " I ~" I
+
+8200
+I
+
+t?u&
+'' P
+
+9400
+I
+
+8800
+'
+
+5600
+
+8000
+
+8200
+
+8«0
+
+Til'
+
+«l 00
+
+USGS CDP Line 25a Interval Velocities from smt ISM-RMS
+
+KUK-tW-l
+
+.
+
+I Sbotpo.nl Number
+
+IUIC-CV-1 ,,
+
+KlAK-B»-i I>«ui*->
+
+WOK
+.
+
+KUBt-tSf-, . ««»I11 .
+
+800
+
+1000
+
+1100
+
+140^ 1 1600
+
+HOP
+
+2000 j
+
+IJOO
+
+24<4 j j,2»00 j '«°° 0 i 3°0°H 13200
+
+mnfW .oae^J,-, , . » M ..oy 3J-00 j 3«0ol j 311800
+
+USGS CDP Line 25b - - Interval Velocities from smt ISM-RMS
+
+4000
+
+4200
+
+44OO
+
+Shatpaint Numbei
+
+4800
+
+4BOO
+
+9000
+
+9200
+
+9400
+
+6200
+
+6400
+
+6600
+
+USGS CDP Line 26 - Time Section
+
+200
+
+400
+
+600
+
+BOO
+
+1000
+
+1200
+
+1400
+
+1600
+
+1800
+
+2000
+
+2200
+
+2400
+
+2600
+
+2800
+
+3000
+
+3200
+
+3400
+
+3600
+
+3800
+
+4000
+
+4200
+
+4400
+
+4800
+
+4800
+
+5000
+
+5200
+
+5400
+
+-J
+cn
+
+200 I 400
+
+BOO
+
+USGS CDP Line 26
+
+*arIntervol Velocities from smt ISM-RMS
+
+1600
+
+1800
+
+20001
+
+2200
+
+|XttdU7-i 24OOJ
+
+iShotppint Number
+
+2800
+
+|z800
+
+3000
+
+3200
+
+3400
+
+3800
+
+3800
+
+4000
+
+4200
+
+4-4OO
+
+4600 I 4800
+
+5000
+
+5200
+
+5400
+
+USGS CDP Line 27 Time Section
+
+KSSL
+
+tUSEt
+|
+
+l^Sl
+|
+
+Shotpolnt Number
+
+400
+
+800
+
+(00
+
+1000
+
+1200
+
+1400
+
+1800
+
+1800
+
+2000
+
+2200
+
+2400
+
+2600
+
+2800
+
+3000
+
+3400
+
+3600
+
+3800
+
+4000
+
+>.JM3 4200__ 4400_____4600_____4800_____5000_____5200_____5400
+
+USGS CDP Line 27 Interval Velocities from smt ISM-RMS
+
+2000
+
+2200
+
+£400
+
+Shotpoint Number
+
+2800
+
+2800
+
+3000
+
+3200
+
+3400
+
+3800
+
+400 4800 4800 5000 5200 5400
+
+Utrfw.fOiWtatMJ
+
+i>fU.fMalnl
+
+800 1000 1200 1400 1600
+
+T 2000
+
+J200
+
+USGS CDP Line 28 Time Section
+
+Kiln. 10J if.lK
+\
+
+Shotpolnt Number
+
+2400
+
+2600
+
+2600
+
+3000
+
+3200
+
+3400
+
+3600
+
+3600
+
+4000
+
+4200
+
+4400
+
+s.p. pno
+4600
+
+8000
+
+8200
+
+54OO
+
+400 000
+
+USGS CDP Line 28 - Interval Velocities from smt ISM-RMS
+
+1000
+
+1200
+
+14qp
+
+1600
+
+1800 I 2000
+
+2200
+
+2400
+
+Shotpoint Number
+
+2800
+
+3000
+
+3200
+
+3400
+
+3800
+
+3800
+
+400O
+
+4200
+
+4400
+
+4800 1 4800
+
+5000
+
+5200
+
+54OO
+
+5-3000 <.
+'I 4000
+
+USGS CDP Line 29 --Time Section
+
+4800
+
+SOOO
+
+USGS CDP Line 29 - Interval Velocities from smt ISM-RMS
+
+Shotpoint Number
+
+800
+
+BOO
+
+1000
+
+1200
+
+1400 I 1600
+
+1800
+
+2000
+
+2200
+
+2400
+
+2600 2800
+
+3000
+
+3200
+
+3400
+
+3600
+
+3SOO
+
+4000
+
+4200
+
+44DO
+
+4600
+
+4800
+
+5000
+
+00
+
+m300D
+2 5000
+
+XUM20 S.P. 2092 200
+
+X tin. I S.P. 134
+1200
+
+USGS CDP Line 33 Time Section
+
+XUmlt S.P. 3160
+| Shotpoint Number
+1800 2000
+
+2400
+
+XUn.7 S.P.I 880
+2600
+
+S.P.I 390
+I
+3800
+
+CO
+o
+1 30OO -1M
+
+USGS CDP Line 33 Interval Velocities from smt ISM-RMS
+
+I Shotpoint Numbe
+
+II BOO
+
+2000
+
+3200
+- T-
+
+Interval Velocity (m/sec)
+§ I g§ I sgis s g;
+
+18
+«- sf 0 s»
+
+Troveltime (sec)
+>1 V
+
+8 =!
+i/i «a
+o S.
+O TtzIJ i~!l<S
+
+8 s,- X o SS T>
+-¥ s c
+
+S .8
+
+Sg =S. :S: 3S 8S 8 5 3 S
+
+i i_i_
+
+200 400
+
+USGS CDP Line 36 Time Section
+
+1900
+
+1800
+
+2000
+
+2200
+
+2400
+
+2000
+
+2K»
+
+3000
+
+3200
+
+3400
+
+3600
+
+MOO
+
+WOO
+
+4200
+
+4400
+
+4«00
+
+6200
+
+6400
+
+roCO USGS CDP Line 36 Interval Velocities from smt ISM-RMS
+
+600 600 1000
+
+1400 1600
+
+MOO
+
+2200
+
+3400
+
+2600
+
+26OO
+
+3BOO
+
+WOO
+
+4200
+
+4400
+
+460O
+
+5200
+
+5400
+
+5600
+
+5800
+
+62I00
+
+64I00
+
+-> I
+
+I______1
+
+USGS CDP Line 37 Time Section
+
+CO U)
+USGS CDP Line 37 Interval Velocities from smt ISM-RMS
+
+1200 I
+
+Shotpoint Number
+
+2400
+
+2600
+
+-I I I I I I_______I_______I_______I_______I_______L
+
+200 400
+
+USGS CDP Line 38 Time Section
+
+44004600
+
+CO USGS CDP Line 38 Interval Velocities from smt ISM-RMS
+
+Shotpoint Number
+
+20i 0 140i 0
+
+60i 0
+
+BO\ O
+
+10i00
+
+12i00
+
+1"*i00
+
+16i00
+
+18i00
+
+20p0 -1
+
+22i00
+
+2+i00
+
+i *-i
+
+30i00
+
+32i00
+
+34i00 1
+
+36i00 '
+
+38i00
+
+40i00 1 4200
+
+4400_____4600
+
+1000
+
+2fiP°
+19 . . g-ii=g-«* & :: :: : .,«
+
+MMr
+-.
+
+,,
+-.-.
+
+u H It n >< ii n - -">
+
+"> - - - " « " » " " " " " ** " " " " " " * " " " " " " « K *°
+
+-.
+
+,, -, «, . -
+
+3000 1BO I
+90 X H X II N N H H N X H K K II X u II N II H X H H H H H H X II II M x X K X X H K H X H X K 90
+L, H « U
+
+70 » « <H> X X K X K «70
+
+*n » " "
+
+1BO
+
+" * " " * " X X K X X H H K X H X X X K 13SO » X K K nun K X X X K X K 150 ISO X X X X X X X X X M X X K X X X Ml X X X X X H K K K X H K -
+
+,. n u n U 11
+
+" " " X K X 160
+
+180 » x x K x x x x M nun,,
+
+"** " " " » X X X X K X X X
+
+*" "" " x
+- || M
+
+6000
+
+7000
+
+8000
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1_____1_____l^__.._. 11
+
+II
+
+II
+
+1
+
+1
+
+1
+
+T,IU~.1I
+
+BGR Line 79-202 Time Section
+
+WSB Jffi
+
+U&B
+
+4 Sho(pa1r| Number
+
+1000 1200 1400 1600 1800 JOOO J200 2400 2800 2800 3000 3200
+
+3800
+
+3800
+
+4000
+
+4200
+
+4400
+
+4800
+
+4BOO
+
+00
+
+BGR Line 79-202 Interval Velocities from smt ISM-RMS
+Vtti IMVIS
+
+Shotpoint Numbe
+
+800
+
+1000
+
+1200
+
+1400
+
+1600
+
+1800
+
+2000
+
+2200
+
+2400
+
+2800
+
+2800
+
+3000
+
+3400
+
+3800
+
+3600
+
+4000
+
+4200
+
+4400
+
+4600
+
+4800
+
+BGR Line 79-204 Time Sectio Shotpoint Numbw
+
+USGS-IPOD CDP Line Time Section
+
+2100
+
+2200
+
+CO , -J o
+
+200
+
+300 I
+
+400
+
+500
+
+USGS-IPOD CDP Line - Intervol Velocities from smt ISM-RMS
+
+UMlJ S.P. 123
+
+Shotpoint Number
+
+700
+
+800
+
+BOO
+
+1000
+
+1100
+
+1200
+
+1300
+
+1400
+
+1500
+
+1600
+
+1i7-0*D
+
+1800
+
+1000
+
+2000
+
+2100
+
+2200
+
+2QRP
+& 170 y 400D
+£
+£ 5000
+
+BO go :
+
+U.S. Geological Survey Open File Report #94-637
+Appendix 4 Time Depth Contour Maps for the Base of Acoustic Units in Digital Database Surface contour maps of the two-way travel times to the base of each acoustic unit in this geoacoustic database. The dotted lines represent the seismic line control used to construct each surface. See Figure 8 for the 5-minute grid point map, based on these seismic lines, used to construct the contour map. Shaded masks indicate the regions where a particular surface has been eroded into by an overlying surface. Narrow blank zones in the shelf-edge region are where deeper units are obscured by the Jurassic carbonate bank. Contour interval is 0.2 sec in two-way travel times.
+88
+
+42'
+CO
+
+42*
+40°
+Reflector 1 Depth to reflector - (sec)
+Contour Interval 0.2 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+
+42' -
+
+-68° -66° 42°
+40°
+
+Reflector 20
+Depth to reflector«(sec)
+Contour Interval 0.2 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5' and 45.5* Central Meridian: -71*
+-72° -70°
+
+-76' 42*
+
+42'
+40°
+
+-76° -74°
+
+Reflector 30
+Depth to reflector - (sec)
+Contour Interval 0.2 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+
+-76° 42°
+40*
+VD N)
+
+42°
+Reflector 40 Depth to reflector - (sec)
+Contour Interval 0.2 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+
+-76° 42' Hi
+
+-74
+
+42'
+40'
+
+U)
+Reflector 45 Depth to reflector -- (sec)
+Contour Interval 0.2 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+
+76° 42°
+
+-74
+
+42°
+40'
+
+Reflector 50
+Depth to reflector -- (sec)
+Contour Interval 0.2 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+-74' -72'
+
+42° -I
+
+42*
+40"
+
+Reflector 60
+Depth to reflector -- (sec)
+Contour Interval 0.2 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71'
+-76°
+
+-76°
+42'
+40
+(Ti
+-76'
+
+42°
+40°
+Reflector 70 Depth to reflector -- (sec)
+Contour Interval 0.2 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5'
+
+76' 42*
+
+-74'
+
+42*
+40"
+
+Reflector 80
+Depth to reflector -- (sec)
+Contour Interval 0.2 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian:-71*
+-76° -74' -72'
+
+-76' 42°
+40'
+VD CO
+
+42*
+Reflector 90 Depth to reflector -- (sec)
+Contour Interval 0.2 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -7V
+
+-76* 42*
+V.O
+
+42°
+40'
+Reflector 100 Depth to reflector -- (sec)
+Contour Interval 0.2 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+
+-76'
+42' -
+
+-74
+
+42°
+40°
+
+oo
+Reflector 105 Depth to reflector -- (sec)
+Contour Interval 0.2 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+
+42* -
+
+42°
+40°
+
+-76' -74°
+
+Reflector 110
+Depth to reflector - (sec)
+Contour Interval 0.2 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+
+42' 40° o
+NJ
+-76° -74°
+
+-66° 42*
+Reflector 120 Depth to reflector -- (sec)
+Contour Interval 0.2 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5' and 45.5° Central Meridian: -71*
+-70° -68°
+
+42' 40 o
+U)
+
+42*
+40'
+Reflector 130 Depth to reflector -- (sec)
+Contour Interval 0.2 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+
+-76° -74° -72° -70° -68° -66°
+42°
+- 42°
+40' - 40°
+
+o 38
+
+38°
+
+-76' -74°
+
+Reflector 140
+Depth to reflector - (sec)
+Contour Interval 0.2 sec
+slandlEHqDal *!? Pr0ieCtJ0"' SC3le 1:6'00°,000 Standard Parallels: 29.5' and 45 5' Central Meridian: -71*
+-68° -66'
+
+36° 34°
+
+42" 40 oen
+
+42°
+40°
+Reflector 150 Depth to reflector -- (sec)
+Contour Interval 0.2 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+
+-76' 42° -
+40°
+
+42'
+40'
+
+Reflector 170
+Depth to reflector«(sec)
+Contour Interval 0.2 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71'
+-76°
+
+-76'
+42'
+40'
+o
+
+-66*
+42°
+40*
+Reflector 180 Depth to reflector -- (sec)
+Contour Interval 0.2 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian:-71*
+
+-76° 42' -
+o
+GO
+-76°
+
+42°
+40°
+Reflector 190 Depth to reflector -- (sec)
+Contour Interval 0.2 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71'
+
+U.S. Geological Survey Open File Report #94-637
+Appendix 5
+Depth (in meters) Contour Maps for the Base of Acoustic Units in Digital Database
+Surface contour maps of the depth in meters to the base of each acoustic unit in this geoacoustic database. The dotted lines represent the seismic line control used to construct each surface. See Figure 8 for the 5-minute grid point map, based on these seismic lines, used to construct the contour map. Shaded masks indicate the regions where a particular surface has been eroded into by an overlying surface. Narrow blank zones in the shelf edge region are where deeper units are obscured by the Jurassic carbonate bank. Contour interval is 500 m.
+109
+
+42* 42'
+Reflector 1 Depth to reflector (m)
+Contour Interval 500 m
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian:-71* -76"
+
+-76' 42'
+40
+
+42'
+
+Reflector 20
+Depth to reflector (m)
+Contour Interval 500 m
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian:-71*
+
+76" 74' -72* -70' -68' -66'
+
+r .1 .,..__
+
+i- -i
+
+42* 42*
+
+Reflector 30
+Depth to reflector (m)
+Contour Interval 500 m
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian:-71*
+76'
+
+-66*
+42' 42'
+40*
+Reflector 40 Depth to reflector (m)
+Contour Interval 500 m
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71"
+
+42'
+Reflector 45 Depth to reflector (m)
+Contour Interval 500 m
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -7V
+
+-76* 42'
+Reflector 50 Depth to reflector (m)
+Contour Interval 500 m
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5' and 45.5* Central Meridian: -71*
+
+42' 42
+40*
+Reflector 60 Depth to reflector (m)
+Contour Interval 500 m
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+
+-76' 42'
+
+-74'
+
+42'
+40"
+
+Reflector 70
+Depth to reflector (m)
+Contour Interval 500 m
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+
+42*
+oo
+Reflector 80 Depth to reflector (m)
+Contour Interval 500 m
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5' Central Meridian: -71*
+-70" -68'
+
+-76' 42'
+40*
+Reflector 90 Depth to reflector (m)
+Contour Interval 500 m
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+
+-76' too
+-76*
+
+42*
+40*
+Reflector 100 Depth to reflector (m)
+Contour Interval 500 m
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+
+42°
+Reflector 105 Depth to reflector (m)
+Contour Interval 500 m
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+-70' -68'
+
+-76' -66'
+rtoo
+Reflector 110 Depth to reflector (m)
+Contour Interval 500 m
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+
+42' -i
+ruo>
+
+Reflector 120
+Depth to reflector (m)
+Contour Interval 500 m
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71'
+
+76' 42' 40
+NO
+76'
+
+-66'
+Reflector 130 Depth to reflector (m)
+Contour Interval 500 m
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5' and 45.5' Central Meridian:-71*
+
+-76* 42'
+
+-74*
+
+42*
+
+NO
+-76'
+
+Reflector 140
+Depth to reflector (m)
+Contour Interval 500 m
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+
+-76' 42' -I
+40
+
+42*
+40'
+
+Reflector 150
+Depth to reflector (m)
+Contour Interval 500 m
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71'
+
+-76'
+42'
+
+-74
+
+42'
+
+N)
+Reflector 170 Depth to reflector (m)
+Contour Interval 500 m
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+
+42
+40
+NO CO
+
+Reflector 180
+Depth to reflector (m)
+Contour Interval 500 m
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian:-71'
+
+-76*
+42'
+NJ
+Reflector 190 Depth to reflector (m)
+Contour Interval 500 m
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian:-71*
+-70' -68'
+
+U.S. Geological Survey Open File Report #94-637
+Appendix 6 Thickness-lsopach Contour Maps for Acoustic Units in Digital Database Isopach contour maps of the thickness, in two-way travel times, of each acoustic unit in this geoacoustic database. The dotted lines represent the seismic line control used to construct each surface. See Figure 8 for the 5-minute grid point map, based on these seismic lines, used to construct the contour map. Shaded masks indicate the regions where a particular surface has been eroded into by an overlying surface. Narrow blank zones in the shelf edge region are where deeper units are obscured by the Jurassic carbonate bank. Contour interval is 0.1 sec.
+130
+
+42 40
+
+Unit Above Reflector 1
+Thickness (twtt-sec)
+Contour Interval 0.1 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5' and 45.5° Central Meridian:-71°
+-70°
+
+- 34°
+
+42 CtoJ
+
+42°
+40°
+Unit Above Reflector 20 Thickness (twtt-sec)
+Contour Interval 0.1 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5° and 45.5° Central Meridian:-7V
+
+-76* 42'
+
+-74'
+
+Uu>)
+
+42°
+40°
+
+Unit Above Reflector 30
+Thickness (twtt-sec)
+Contour Interval 0.1 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71'
+-74°
+
+-76° 42°
+40'
+u>
+
+-68° -66'
+42'
+40°
+Unit Above Reflector 40 Thickness (twtt-sec)
+Contour Interval 0.1 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian:-71*
+
+42* u>
+LT!
+-76°
+
+42°
+40°
+Unit Above Reflector 45 Thickness (twtt-sec)
+Contour Interval 0.1 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+
+-76' 42°
+
+-74
+
+40'
+
+U>
+
+42'
+40°
+
+-76° -74°
+
+Unit Above Reflector 50
+Thickness (twtt-sec)
+Contour Interval 0.1 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+
+-76" 42° -
+u>
+
+42°
+40°
+
+Unit Above Reflector 60
+Thickness (twtt-sec)
+Contour Interval 0.1 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5' Central Meridian: -71*
+-76' -74' -72°
+
+42'
+Uco)
+
+42°
+40°
+Unit Above Reflector 70 Thickness (twtt-sec)
+Contour Interval 0.1 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71'
+
+42'
+U)
+-76*
+
+42'
+40°
+Unit Above Reflector 80 Thickness (twtt-sec)
+Contour Interval 0.1 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+
+-76° 42° -
+
+-68° -66°
+42°
+40°
+
+Unit Above Reflector 90
+Thickness (twtt-sec)
+Contour Interval 0.1 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+
+42*
+40' -
+
+42°
+40°
+
+Unit Above Reflector 100
+Thickness (twtt-sec)
+Contour Interval 0.1 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+-76' -74* -72
+
+42°
+40°
+M
+-74°
+
+42°
+40°
+Unit Above Reflector 105 Thickness (twtt-sec)
+Contour Interval 0.1 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5° and 45.5* Central Meridian: -71*
+
+42°
+CO
+-74'
+
+42°
+40'
+Unit Above Reflector 110 Thickness (twtt-sec)
+Contour Interval 0.1 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+
+42° -
+
+42°
+40°
+
+Unit Above Reflector 120
+Thickness (twtt-sec)
+Contour Interval 0.1 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5' and 45.5* Central Meridian: -71*
+-74
+
+42
+Ul
+-76
+
+42°
+40'
+Unit Above Reflector 130 Thickness (twtt-sec)
+Contour Interval 0.1 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+
+-76° 42° -
+
+-74'
+
+40
+
+42°
+40°
+
+Unit Above Reflector 140
+Thickness (twtt-sec)
+Contour Interval 0.1 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71* -76'
+
+42' 42*
+40°
+Unit Above Reflector 150 Thickness (twtt-sec)
+Contour Interval 0.1 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+-76° -74° -72°
+
+-76' -74' -72° 42°
+40'
+
+-68° -66°
+42°
+
+CO
+Unit Above Reflector 170 Thickness (twtt-sec)
+Contour Interval 0.1 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+
+-76°
+42'
+
+-74°
+
+40
+
+42* 40'
+
+Unit Above Reflector 180
+Thickness (twtt-sec)
+Contour Interval 0.1 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+
+42' 40° Uol
+
+42°
+Unit Above Reflector 190 Thickness (twtt-sec)
+Contour Interval 0.1 sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+
+U.S. Geological Survey Open File Report #94-637
+Appendix 7 Interval Velocity Contour Maps for Acoustic Units in Digital Database Contour maps of the interval velocities of each acoustic unit in this geoacoustic database. The dotted lines represent the seismic line control used to construct each surface. See Figure 8 for the 5-minute grid point map, based on these seismic lines, used to construct the contour map. Shaded masks indicate the regions where a particular surface has been eroded into by an overlying surface. Narrow blank zones in the shelf edge region are where deeper units are obscured by the Jurassic carbonate bank. Water velocity (reflector 1) is assumed 1500 m/sec. Contour interval is 100 m/sec.
+151
+
+42° -
+
+40
+
+Ln
+NJ
+
+38
+
+36
+
+42'
+40'
+Unit Above Reflector 20 Interval Velocity (m/sec)
+Contour Interval 100 m/sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+
+42° 40 UU1)
+
+42°
+40"
+Unit Above Reflector 30 Interval Velocity (m/sec)
+Contour Interval 100 m/sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+-70'
+
+42' 40
+Ln
+
+42°
+40'
+Unit Above Reflector 40 Interval Velocity (m/sec)
+Contour Interval 100 m/sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+
+-76° 42'
+
+-74'
+
+40°
+
+-66'
+42°
+40°
+
+tin Ui
+Unit Above Reflector 45 Interval Velocity (m/sec)
+Contour Interval 100 m/sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+
+42' en
+(Ti
+
+-66°
+42°
+40*
+Unit Above Reflector 50 Interval Velocity (m/sec)
+Contour Interval 100 m/sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian:-71*
+
+-66°
+42'
+40°
+Ln
+Unit Above Reflector 60 Interval Velocity (m/sec)
+Contour Interval 100 m/sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+
+42'
+OD
+
+42°
+40°
+
+Unit Above Reflector 70
+Interval Velocity (m/sec)
+Contour Interval 100 m/sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+
+-66'
+
+-76'
+on
+Unit Above Reflector 80 Interval Velocity (m/sec)
+Contour Interval 100 m/sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5' and 45.5* Central Meridian: -71"
+
+Nancy K
+Soderberqa /GD/USGS/DOI 04/03/2006 05:50 PM
+
+To Carolyn J McCullough/WRD/USGS/DOI@USGS
+cc Donna M Newman/GD/USGS/DOI@USGS, dhutchinson@usgs.gov, gmiller@usgs.gov
+bcc
+Subject Re: Inquiry from Pubs Contact Form El
+
+Hi Carolyn-
+I have paper copies and will put a copy of each in the mail to you tomorrow.
+Thank you also for explaining the format and resolution rquired for scans to be converted to djvue. I'll keep that in mind as I stumble over other pubs, particularly open-file;
+Thanks, Nancy Soderberg
+Nancy K. Soderberg - USGS Data Library 508-457-2275, fax 508-457-2313 nsoderberg@usgs.gov 384 Woods Hole Rd., Woods Hole, MA 02543-1598 ship: 11 Woods Hole Rd., Falmouth, MA 02540 http://woodshole.er. usgs.gov Carolyn J McCullough/WRD/USGS/DOl
+
+Carolyn J McCullough/WRD/USGS/DOl 04/03/2006 10:39 AM
+*
+
+To nsoderberg@usgs.gov Cc
+Subject Inquiry from Pubs Contact Form
+
+Hi PW-- i have just located 2 open-file reports produced by people in this office (Marine Geology-Woods Hole Science Center) that aren't in the library catalog nor in the libraries and not at Denver Distribution. They have an ofr# and are paper. Is it possible to get them directly into PW using djvu. 1 can scan with my desktop creating pdf but I can't create your standard format. John Watson suggested I contact you directly to see if they can be scanned> I don't know if I still need to send multiple copies to Penny Burnworth to get them into the library catalog. Klitgord, K.D., and Schneider, C.M., 1994, Geophysical database of the east coast of the United States northern Atlantic margin: Velocity analyses: USGS Open-file Report 94-192, 74 p. Klitgord, K.D., Poag, C.W., Schneider, C.M., and North L., 1994, Geophysical database of the east coast of the United States northern Atlantic margin: Cross sections and gridden database (Georges Bank Basin, Long Island Platform, and Baltimore Canyon Trough): USGS Open-file Report 94-637, 189 p. Thanks, Nancy Soderberg nsoderberg@usgs.gov WHSC Data Library/Archive
+
+Nancy,
+Thank you for the verification of these publications - we had been unable to find complete citations for them and that is why they were not available to the public. I have now updated them and the citations should be available on the public site tomorrow.
+If you have extra paper copies that you do not mind being destroyed (we cut the binding off to scan them) then copies can be sent to:
+USGS Legacy Reports Project USGS/Cartography and Publishing Program 505 Science Drive Madison, Wl 53711
+We would take care of scanning them and getting them posted at the Pubs Warehouse. If you don't have paper copies but would be able to photocopy the reports, that would be fine too.
+Otherwise, if you would like to scan them, we have been requesting that people scan to the following specifications:
+400 dots per inch Not interpolated (true optical) TIFF format - uncompressed
+(not group-4 TIFF as is produced from many scanners) Grayscale or 24-bit color, depending on original material Single-page TIFFs
+We can take PDF format and convert it to DJVU but would prefer one of the above options because we are archiving raw files at CAPP and sending copies to the national archive so that as the technology changes we can always reprocess the raw files.
+Please let me know if you have any questions.
+Thank you,
+Carolyn
+Carolyn McCullough Publications Warehouse US Geological Survey 8505 Research Way Middleton, Wl 53562 mccullou@usgs.gov (608)821-3859(0)
+
+(608)821-3817(f)
+
+-76° 42' -I
+
+-74
+
+42'
+40'
+
+Unit Above Reflector 90
+Interval Velocity (m/sec)
+Contour Interval 100 m/sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71* 76'
+
+42°
+cr\
+-76° -74°
+
+42°
+40°
+Unit Above Reflector 100 Interval Velocity (m/sec)
+Contour Interval 100 m/sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+
+-76' 42*
+
+-74
+
+-66*
+42°
+40°
+
+ho
+Unit Above Reflector 105 Interval Velocity (m/sec)
+Contour Interval 100 m/sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian:-71*
+
+42' 42°
+40°
+Unit Above Reflector 110 Interval Velocity (m/sec)
+Contour Interval 100 m/sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5' Central Meridian: -71"
+
+42° -
+
+-68' -66*
+42°
+40°
+Unit Above Reflector 120 Interval Velocity (m/sec)
+Contour Interval 100 m/sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+
+42° -
+
+-68' -66'
+42°
+40*
+
+Unit Above Reflector 130
+Interval Velocity (m/sec)
+Contour Interval 100 m/sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5 and 45.5
+
+42' -4
+40° -
+
+-68* -66°
+42°
+40°
+Unit Above Reflector 140 Interval Velocity (m/sec)
+Contour Interval 100 m/sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71'
+
+-76' 42'
+
+42' 40*
+
+Unit Above Reflector 150
+Interval Velocity (m/sec)
+Contour Interval 100 m/sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian:-71*
+
+42° 40
+00
+
+42°
+40°
+Unit Above Reflector 170 Interval Velocity (m/sec)
+Contour Interval 100 m/sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+
+-76° vo
+
+42'
+40°
+Unit Above Reflector 180 Interval Velocity (m/sec)
+Contour Interval 100 m/sec
+Albers Equal Area Projection, Scale 1:6,000,000 Standard Parallels: 29.5* and 45.5* Central Meridian: -71*
+-70°
+
+-76' -74' -72°
+42'
+
+70° -68° -66°
+
+40 38'
+
+Unit Above Reflector 190 Interval Velocity (m/sec)
+Contour Interval 100 m/sec
+76 L 34°
+-68°
+
+U.S. Geological Survey Open File Report #94-637
+Appendix 8 Sediment-Type Distribution Within Acoustic Units in Digital Database Distribution of sediment types within each acoustic unit in this geoacoustic database. See Figure 7 for the seismic lines used to construct this map. Shaded masks indicate the regions where a particular surface has been eroded into by an overlying surface. Narrow blank zones in the shelf edge region are where deeper units are obscured by the Jurassic carbonate bank.
+171
+
+42'
+ro
+Geologic Unit Between Reflectors 1 and 20 Sediment Types
+Sand/Silt Clay Layer Absent
+
+42
+U3
+
+42°
+Geologic Unit Between Reflectors 20 and 30 Sediment Types
+Sand/Silt Clay Layer Absent
+
+42°-
+
+42'
+
+Geologic Unit Between Reflectors 30 and 40 Sediment Types
+Sand/Silt Clay Layer Absent
+
+42'
+Geologic Unit Between Reflectors 40 and 45 Sediment Types
+Sand/Silt Clay Layer Absent
+
+-76° 42
+
+42°
+
+Geologic Unit Between Reflectors 45 and 50 Sediment Types
+Sand/Silt Clay Layer Absent
+
+42°-
+
+42'
+
+Geologic Unit Between Reflectors 50 and 60 Sediment Types
+Sand/Silt Clay Layer Absent
+
+42°-
+
+42'
+
+i I i I i I i I i I i I i I i I i I i In I X
+
+00
+
+>'.'.: -X I I . I I I l~7 I ' I ' I'
+
+Geologic Unit Between Reflectors 60 and 70
+Sediment Types
+
+Sand/Silt Chalk Layer Absent
+
+AS: A 42'
+Geologic Unit Between Reflectors 70 and 80 Sediment Types
+Sand/Silt Clay Layer Absent
+
+42
+00
+o
+
+42'
+Geologic Unit Between Reflectors 80 and 90 Sediment Types
+Sand/Silt Clay Layer Absent
+
+42
+oo
+
+42°
+Geologic Unit Between Reflectors 90 and 100
+Sediment Types Sand/Silt Clay Layer
+Absent
+
+42
+00
+ro
+
+42°
+Geologic Unit Between Reflectors 100 and 105
+Sediment Types Sand/Silt Shale Layer
+Absent
+
+-76"
+42° 4
+
+-74
+
+42'
+
+00
+Geologic Unit Between Reflectors 105 and 110
+Sediment Types
+Sand/Silt Shale Layer Absent
+
+-76' 42
+
+-74
+
+42'
+
+oo
+Geologic Unit Between Reflectors 110 and 120
+Sediment Types
+Sand/Silt Shale Layer Absent
+
+-76
+42
+00 ui
+
+'.*:'! « : *.' ./! I i A
+
+42'
+
+Geologic Unit Between Reflectors 120 and 140
+Sediment Types
+Sand/Silt Shale Limestone Layer Absent
+
+42°-
+oo
+
+42°
+Geologic Unit Between Reflectors 140 and 150
+Sediment Types Sand/Silt Shale Limestone Layer
+Absent
+
+42
+oo
+
+42°
+Geologic Unit Between Reflectors 150 and 170
+Sediment Types Sand/Silt Limestone Layer
+Absent
+
+42
+0co0
+
+42'
+Geologic Unit Between Reflectors 170 and 180
+Sediment Types Sand/Silt Limestone Layer
+Absent
+
+42
+00
+
+42'
+Geologic Unit Between Reflectors 180 and 190
+Sediment Types Sand/Silt Limestone Layer
+Absent
+
+

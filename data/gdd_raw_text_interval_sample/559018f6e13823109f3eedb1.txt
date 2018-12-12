@@ -1,0 +1,168 @@
+DEPARTMENT OF THE INTERIOR U.S. GEOLOGICAL SURVEY
+Interpretation of detailed aerial gamma-ray survey, Jabal Ashlrah area, Southeastern Arabian Shield, Kingdom of Saudi Arabia by I/ Joseph S. Duval
+Open-File Report
+Report prepared by the U.S. Geological Survey In cooperation with the Deputy Ministry for Mineral Resources, Saudi Arabia
+
+This report Is preliminary and has not been reviewed for conformity with U.S. Geological Survey editorial standards and stratlgraphlc nomenclature,
+
+I/ USGS Mission Saudi Arabia
+
+1987
+
+CONTENTS
+Page
+ABSTRACT.............................................. 1
+INTRODUCTION.......................................... 1
+DATA PROCESSING....................................... 1
+GEOLOGIC SETTING...................................... 3
+DISCUSSION................................*.r .' .......... 4
+CONCLUSIONS........................................... 7
+DATA STORAGE.......................................... 7
+Data File......................................... 7 Mineral Occurrence Documentation System........... 7
+REFERENCES............................................ 8
+LIST OF ILLUSTRATIONS [Plate in pocket]
+Plate 1. Interpretation of Detailed Aerial Gamma-Ray Survey, Jabal Ashirah Area, Kingdom of Saudi Arabia
+Figure 1. Index map showing the location of the Jabal Ashirah study area.................. 2
+
+INTERPRETATION OF DETAILED AERIAL
+GAMMA-RAY SURVEY. JABAL ASHIRAH AREA.
+SOUTHEASTERN ARABIAN SHIELD.
+KINGDOM OF SAUDI ARABIA
+By
+Joseph S. Duval
+ABSTRACT
+A detailed aerial gamma-ray spectrometric survey of the Jabal Ashirah area in the southeastern Arabian Shield has been analyzed using computer-classification algorithms. The analysis resulted in maps that show radiometric map units and gamma-ray anomalies indicating the presence of possible concentrations of potassium and uranium. The radiometric-unit map was interpreted to 'produce a simplified radiolithic map that was correlated with the mapped geology. The gamma-ray data show uranium anomalies that coincide with a tin-bearing granite, but known gold and nickel mineralization do not have any associated gamma-ray signatures.
+INTRODUCTION
+The aerial gamma-ray data used for this report are part of a survey designated as the Cover-RocJc Survey and flown by Geosurvey International, Ltd. under contract to the U.S. Geological Survey Saudi Arabia Mission during 1982 and 1983 (fig. 1). The data were obtained using a high-sensitivity gamma-ray spectrometer with a nominal survey altitude of 120 m above the ground surface. Flight lines were oriented east-west and spaced 400-m apart with north-south tie lines spaced about 2-km apart. The data were fully corrected by the contractor for background radiation, altitude variations, and airborne Bi2j4 radiation. Duval (1986) presented color-contour and color-composite maps of the data and an interpretation for the Jabal Ashirah area based upon subjective definitions of radiometric map units and anomalies. This report applied computer-classification techniques to produce similar but objective radiometric-unit and anomaly maps.
+DATA PROCESSING
+The composite-color maps (in digital form) compiled by Duval (1986) were used for this analysis. The flight-line data were filtered using a Gaussian filter with a standard deviation of 3 measurement points followed by gridding using a minimum-curvature algorithm (Briggs, 1974; Webring, 1981). The data were filtered to reduce noise and other high-frequency variations prior to gridding. The interval used to grid the data was 200 m. After the final gridded data sets were obtained for potassium (percent K), uranium (ppm eU), thorium (ppm eTh), and the ratios eU/K, eU/eTh, K/eU, K/eTh, eTh/eU, and eTh/K, these data sets
+1
+
+34*30' 36° 37*30' 39° 40*30' 42* 43*30' 45* 46*30' 48* 49*30' 51* 52*30' 54* 55*30' 57* 58*30- 60
+
+'. JABAL ASHIRA STUDY AREA
+
+36* 37*30-
+
+39* 40*30'
+
+42* 43~30-
+
+45* 46*30'
+
+48* 49*30'
+
+51* 52*30' 54* 55*30' 57* 58*30'
+
+Figure l. Index map showing the location of the Jabal Ashirah study area.
+
+were used to make composite-color maps using techniques described by Duval (1983).
+The classification of the maps used computer programs developed by the NASA National Space Technology Laboratories (NSTL) Earth Resources Laboratory (ERL) as part of the Earth Resources Laboratory Software (ELAS). Prior to classification, the data were converted to the Munsell color-space coordinates that represent the quantities hue, saturation, and value. The coordinate transformation was calculated using the equations given by Raines (1977). This particular transformation was chosen because it provides some decorrelation of the variables and because the resulting numbers provide some measure of the data as seen and interpreted by the human visual system, which includes the eyes and the brain with its interpretive functions. The principalcomponents transformation was also used as a different method to decorrelate the data, but the resulting classification maps were judged not to be significantly different from those obtained using Munsell transformation. The definitions of the map classes were dona ~as:..6 _ c^u^-iw* algorithm that automatically determined the characteristics of the various classes within selected polygonal training areas using an unsupervised algorithm. A maximum-likelihood classification algorithm was then used to classify all of the data using the characteristics of the classes as a basis for selection (Whitley and others, 1981).
+Map A (pi. 1) presents the results of classification of the element composite-color map, which combines the element-concentration- data for equivalent uranium (eU), potassium (K), and equivalent thorium (eTh) as varying shades of the primary colors (see Duval, 1983). The numbering of the map classes is arbitrary. The uranium composite-color map, which combines the uranium data with the ratios eU/K and eU/eTh, and the potassium composite-color map, which , combines the potassium data with the ratios K/eU and K/eTh, were also classified using an approach designed to identify possible anomalous concentrations of uranium or potassium. Map B (pi. 1) presents the results of that classification and the definition of anomalous areas requires that all three map parameters on each composite-color map have relatively high values. To the extent that the design objectives of the map are met, the identified areas reflect the existence of geochemical mechanisms that have acted to increase the concentrations of uranium and potassium.
+The geologic map used as a base for the radiometric maps is derived from maps by Greenwood (1980a and 1980b) and by Sable (1983). Data north of latitude 18° N. are from Greenwood (1980a and 1980b), and data south of latitude 18° are from Sable (1983). A dividing line was drawn at latitude 18° because the geologic maps to the north and the south show significant differences; For the purposes of this report, the original maps were generalized and some units were combined.
+GEOLOGIC SETTING
+The study area is located in the southern part of the Arabian Shield (fig. 1). The rocks of the area are mostly Precambrian, with some rocks of Paleozoic age. The Precambrian rocks are layered metavolcanic and metasedimentary rocks intruded by bodies of gabbro and granodiorite to monzogranite composition
+
+(Greenwood, 1980a and 1980b; Sable, 1983). The mapping by Greenwood (1980a and 1980b) assigns the layered rocks to the Jijddah group and Greenwood (1980a) describes them as massive, volcanic, pyroclastic, and epiclastic basalt of the Wassat formation (jdw) overlain by dacitic (to andesitic metasediments of the Qatan formation (jdqg, jdqf). Sable (1983) describes the layered rocks as metavolcanic (hv) and metasedimentary (hs) rocks of the Halaban group. The Paleozoic rocks present in the study area are Wajid Sandstone (OGw) of Cambrian and Ordovician age (Brown and Jackson, 1959i Brown, 1970; Hadley and Schmidt, 1975). Known mineralization consists of gold deposits at ancient workings in the vicinity of Jabal Guyan (near lat 18° 10' N., long 43°55' E.) mapped and described by Helaby and Dodge (1977) and deposits of iron and nickel-iron sulfides in the Hadbah gossan (near lat 18°09* N., long 44°09' E.)-discussed by Dodge and Rossman (1975).
+DISCUSSION
+The radiometric units of Map A (pi. 1) can be correlated with the geology. Radiometric units 1, 2, and 3 are present only in the western quarter of the survey area and correlate with areas mapped by Greenwood (1980a) as basalt and andesite (jdw), tuffaceous pebble sandstone |GdQl). and diabase isills (ms), and mapped by Sable (1983) as metasedimentary (hs) and metavolcanic (hv) rocks. These units have concentrations of 0-1.3 percent K, 0-1.5 ppm eU, and 0-3 ppm eTh. The patterns of the radiometric units do not suggest any way to discriminate among the geologic units as currently mapped. Radiometric unit 4 is found only twice (on the eastern side of the map and to the right mid-center) and corresponds to a distinctive gamma-ray signature, which suggests that it should be regarded as anomalous. Concentrations for unit 4 are 0-1.4 percent K, 0-1 ppm eU, and 5.0-5.5 ppm eTh. The characteristic that makes the unit distinctive is the low concentration of uranium. Radiometric unit 5 occurs in the northwest quadrant of the area and has concentrations of 1.5-2.0 percent K, 0-1.3 ppm eU, and 2.0-4.5 ppm eTh. Unit 5 does not correlate with any ione geologic map unit and occurs in areas mapped as basalt and andesite (jdw), gossan (g), tuffaceous pebble sandstone (jdql), and graphitic sandstone (jdqg). Radiometric unit 6 occurs along the western side of the survey and appears to correlate with areas of the tuffaceous pebble sandstone (jdql) and gabbro (gb). Unit 6 contains 0-1 percent K, 1.3-2.0 ppm eU, and 0.5-2.5 ppm eTh. Radiometric unit 7 occurs only in the northeastern corner of the survey area, contains 0-1 percent K, 1;0-1.5 ppm eU, and 6.5-9.0 ppm eTh, and correlates with an area mapped as Wajid Sandstone. Radiometric unit 8 contains of 1.0-2.3 percent K, 1.5-4.5 ppm eU, and 2-5 ppm eTh; it is found in the western third of the area, and correlates with the graphitic sandstone unit (jdqg) of the Qatan formation, as mapped by Greenwood (1980a), and with metasedimentary rocks (hs) of the Halaban group, as mapped by Sable (1983). Radiometric unit 9 contains 1.8-2.2 percent K, 1.3-2.5 ppm eU, and 5.0-6.5 ppm eTh and is located mostly within areas mapped as alluvium in the eastern half of the area. Occurrences of radiometric unit 10 are limited and small (right of center and southeastern corner of the survey area) but one occurrence in the southeastern corner of the survey area does correlate with parts of areas mapped as the Aashiba gneiss complex by Sable (1983). Unit 10 contains 2.4-3 percent K, 1.8-2.5 ppm eU, and 3.6-5 ppm eTh. Radiometric unit 11 contains 2.0-2.5 percent K, 1.5-2.5 ppm eU, and 5-6 ppm eTh and i$ found mostly in areas mapped as alluvium in the eastern half of the survey area. Occurrences of radiometric unit 12 are limited and, with one small exception, are contiguous with areas of unit 15
+
+(fe'ft of center and northeast corner of the survey area). Unit 12 contains 0.8-1.6 percent K, 1.5-3.0 ppm eU, and 6-9 ppm eTh. Radiometric unit 13, with concentrations of 2.7-3.3 percent K, 2-3 ppm eU, and 4.1-5.4 ppm eTh, has a few small occurrences scattered in the center and northeastern corner of the survey area. The largest area of unit 13 correlates with a sodic amphiboie granite (gsa), as mapped by Sable (1983), and most of the other small occurrences are within or near areas mapped as quartz monzonite by Greenwood (1980b). There is a small occurrence of radiometric unit 14 in the northwestern quadrant and does not correlate with any one geologic map unit. Unit 14 contains 1.5-2.7 percent K, 2-4 ppm eU, and 6-9 ppm eTh. Radiometric unit 15 is left of center and in the northeastern corner of the survey area, contains 0-0.8 percent K, 1.5-2.5 ppm eU, and 6.7-9.2 ppm eTh, and correlates with areas mapped tfs Wajid Sandstone by Greenwood (1980b). Radiometric unit 16 is in the northwestern quadrant and southeastern corner of the survey area and does not correlate with any one geologic unit, although it does coincide with some areas mapped as diorite and with other areas mapped as members of the Qatan formation by Greenwood (1980b). Unit 16 contains 1.6-2.0 ^i-^2f'5!l.-l.U"-:.l rr ~* ~C, aud 3-4 ppm eTh. In the southeastern corner of the survey area, unit 16 partly coincides with an area mapped as monzogranite by Sable (1983), although the map by Greenwood (1980b) shows only Quaternary alluvium in the area. In most instances, .unit 16 is contiguous with areas of unit 8, which suggests that unit 16 corresponds to outcrops of, or alluvium from, members of the Qatan formation. Radiometric unit 17 is present only in the northeastern corner of the survey area, contains 0.0.8 percent K, 1.0-1.5 ppm eU, and 5.0-6.5 ppm eTh, and correlates with an area mapped as Wajid Sandstone. Radiometric unit 18 contains 1.6-2.3 percent K, 1-2 ppm eU, 5.5-6.7 ppm eTh, and is found mostly in areas mapped as alluvium in the eastern part of the survey area. Radiometric units 19 and 20 cover large areas in the eastern two thirds of the survey area, contain 2.5-4.0 percent K, 0-3 ppm eU, and 5-9 ppm eTh, and correlate with areas mapped as alluvium. Radiometric unit 21 and 24 show a well defined correlation with the quartz monzonite of Greenwood (1980b) and the monzogranite of Sable (1983); units 22 and 23 also appear to be related to the quartz monzonite/monzogranite. Units 21 and 24 contain 2.7-5.0 percent K, 1.9-6.0 ppm eU, and 7-20 ppm eTh, and units 22 and 23 contain of 2.7-4.2 percent K, 1.9-3.5 ppm eU, and 6.5-9.0 ppm eTh.
+
+The above cited correlations suggest the following:
+
+1. Radiometric units 19 and 20, and probably 9, 11, and 18 as well, are coincident with quaternary alluvium (Qal).
+
+2. Radiometric units 21, 22, 23, and 24, and possibly 14 as well, are related and reflect outcrops or alluvium of the quartz monzonite of Greenwood (1980b) and the monzogranite of Sable (1983).
+
+3. Radiometric units 7, 12, 15, and 17 are related and reflect outcrops or alluvium of the Wajid Sandstone.
+
+4. Radiometric units 1, 2, 3, and 8, and possibly 5 and 6 as well, are related and
+
+reflect outcrops or alluvium of the members of the Qatan formation, as
+
+mapped by Greenwood (1980a and 1980b), and members of the Halaban group,
+
+as mapped by Sable (1983).
+
+;
+
+Because these aerial gamma-ray data only provide information about the upper 30 cm of rock or soil, with a coverage of approximately 50 percent of the surface area, maps derived from the data cannot be expected to mimic a bedrock geologic map. The maps do provide a representation of the chemical differences between the surface materials, and the observed geologic correlations can be used to produce a radiolithic map (Map C, pi. 1), wh|ich can be useful in better defining the extent of mapped geologic units. Map C presents radiolithic map units that are interpreted as follows:
+
+1. Unit 1 corresponds to granite and has higher radioactivity than any other
+
+unit.
+
+^
+
+2. Units 2 and 4 correspond to members of the Qatan formation and to parts of the Wassat formation, but unit 2 is distinguishable from unit 4.
+
+3. The largest occurrence of unit; 3 corresponds £o gabbro aad scattered smaller occurrences may indicate the presence of additional gabbro or may reflect inadequacies in the classification techniques used.
+
+4. Unit 5 corresponds to the graphitic sandstone unit of the Qatan formation.
+
+5. Unit 6 corresponds to diorite and dacitic Ho andesitic sediments.
+
+6. Unit 7 corresponds to the Wajid Sandstone).
+
+7. Unit 8 corresponds to sodic amphibolc and other granites.
+
+8. Unit 9 corresponds to parts of the Aashiba gneiss complex.
+
+9. Unit 10 corresponds to areas of low radioactivity with an indication of slight potassium enrichment and uranium depletion.
+
+10. Unit 11 corresponds to alluvial or detrital materials from the various geologic units.
+
+The uranium and potassium anomalies known on Map B cannot be fully interpreted without additional field work. The potassium anomalies are mostly associated with areas mapped as quartz monzonite and may reflect potassium alteration related to the intrusion of the quartz monzonite. Some of the uranium anomalies form a well defined north-South belt along the graphitic metasedimentary unit (jdqg) on the western side of the area. This belt includes all of the highest priority uranium anomalies; however, these anomalies are not related to the Jabal Guyan gold deposits (MODS 0993) and their significance is not known. Two of the largest class 2 uranium anomalies coincide with a tin-bearing granite (near lat 18°04' N., long 44 E.). A northwest trending belt of class 4 and 7 uranium anomalies occur in the alluvium (near lat 17°58' N., long 44° 17' E.) and probably reflects detrital material from the Jabal Ashirah ring-dike complex. There are not, however, any significant anomalies associated with the ring-dike complex itself.
+
+CONCLUSIONS
+Because the perception of color by the human eye is a complicated and sometimes faulty process, objective procedures, such as those described above, should be used to classify composite-color radiometric maps. The radiometric map units defined here and their correlation with the mapped geology prompt the following conclusions:
+1. The quartz monzonite of Greenwood (1980b) and the monzogranite of Sable (1983) are the same geologic unit and should be given a common name. Similarly, areas mapped as members of the Qatan formation by Greenwood (1980a) are the same as areas mapped as members of-the Halaban group by Sable (1983).
+2. Radiometric units 7, 15, and 17 on Map A correspond to the Wajid Sandstone and suggest the existence of mappable subunits in the survey area.
+3. Neither the Jabal Guyan gold deposits nor the Hadbah gossan nickel deposits (MODS 2173) have distinctive gamma-ray signatures associated with them.
+4. One of the tin-bearing granites has significant uranium anomalies associated with it and several small anomalies are associated with other granites in the survey area.
+The approach used to objectively classify the gamma-ray data results in a map of radiometric units that can be interpreted and simplified by cross referencing to geologic data. In the absence of geologic data, the map could not be simplified but could serve as a preliminary lithologic map and guide to a geologist.
+DATA STORAGE
+DATA FILE
+All original data used in the preparation and writing of this report are stored in Data File USGS-DF-05-02.
+MINERAL OCCURRENCE DOCUMENTATION SYSTEM (MODS)
+Bibliographies have been updated for the Jabal Guyan gold deposit (MODS 0093) and the Hadbah gossan nickel deposit (MODS 2173).
+
+REFERENCES
+
+Briggs, I. C., 1974, Machine contouring using minimum curvature: Geophysics, v. 39, p. 39-48.
+
+Brown, G. F. and Jackson, R. O., 1959, Geologic map of the Asir quadrangle, Kingdom of Saudi Arabia: U.S. Geologibal Survey Miscellaneous Geologic Investigations Map 1-217 A, scale 1:500,000.
+
+Brown, G. F., 1970, Eastern margin of the Red Sea and the coastal structures in Saudi Arabia: Philosophical Transactions of the Royal Society of London, v.
+' A267, p. 75-87.
+
+Dodge, F. C. W., and Rossman, D. L., 1975, Mineralization in the Wadi Qatan area: U.S. Geological Survey .Open-File Report 75-309.
+
+Duval, J. S., 1983, Composite color images of alerial gamma-ray spectromctric data: . Geophysics, v. 48, p. 722-735.
+
+Duval, J. S., 1986 [1987], Aerial gamma-ray color contour and composite-color maps of the Jabal Ashirah Study Area, Saudi Arabia: U.S. Geological Survey Technical Report, TR-05-1, 6 p., scale 1:10Ci,000 (in press).
+
+Greenwood, W. R., 1980a, Reconnaissance geology of the Wadi Malahah
+
+quadrangle, sheet 18/43 D, Kingdom of Saudi Arabia: Saudi Arabian
+
+Directorate General of Mineral Resources Geologic Map GM-39, 38 p., scale
+
+1:100,000.
+
+!
+
+Greenwood, W. R., I980b, Reconnaissance geology of the Wadi Wassat quadrangle, sheet 18/44 C, Kingdom of Saudi Arabia: Saudi Arabian Directorate General of Mineral Resources Geologic Map GM-40, 52 p., scale 1:100,000.
+
+Hadley, D. G. and Schmidt, D. L., 1975, Nonglacial origin for conglomerate beds in the Wajid Sandstone of Saudi Arabia, ijJL Campbell, K. S. W., ed., Gondwana geology: Canberra, Australian National University Press, p. 357-371.
+
+Helaby, A. M. and Dodge, F. C. W., 1977, Tiie Jabal Guyan ancient gold mine,
+Wadi Malahah quadrangle (sheet 18/43 E>), Kingdom of Saudi Arabia: U.S. Geological Survey Open-File Report 77-99.
+
+Raines, G. R., 1977, Digital color analysis of color-ratio composite LANDSAT scenes: Proceedings of Eleventh International Symposium on Remote Sensing of Environment, Ann Arbor, Michigan, p. J463-1471.
+
+Sable, E. G., 1983, Geology of the Najran quadrangle, sheet 17G, Kingdom of Saudi Arabia: Saudi Arabian Deputy Ministry for Mineral Resources Open-File Report USGS-OF-03-60j 35 p., scale 1:250,000. Also, 1985, Saudi Arabian Deputy Ministry for Mineral Resources Geoscience Map GM-78C.
+Webring, M., 1981, MINC: A gridding program based on minimum curvature U. S. Geological Survey Open-File Report 81-1224, 41 p.
+
+

@@ -1,0 +1,415 @@
+DEPARTMENT OF THE INTERIOR U.S. GEOLOGICAL SURVEY
+GEONAMES Data Base of Geologic Names of the United States through 1988 Compiled by G-.W. Luttrell 1 M.L. Hubert 1 C.R. Murdock
+Open-File Report 90-0466-A
+This report is preliminary and has not been reviewed for conformity with U.S. Geological Survey editorial standards 1 Reston, VA 22092
+1990
+
+GEONAMES Data Base of Geologic Names of the United States Through 1988
+
+The GEONAMES data base is an annotated index lexicon of formal geologic nomenclature of the United States? its territories and possessions. The data base was compiled by R. W. Swanson, M. L. Hubert, G. W. Luttrell, and V. M. Jussen and was published in 1981 as Geologic names of the United States through 1975: U.S. Geological Survey Bulletin 1535, 643 p. This version of GEONAMES has been updated based on information published through 1988, and it contains approximately 30,000 records relating to more than 18,000 names.
+Data are entered in 10 fixed fields containing up to 123 characters of information for each record. The fields are: 1. location of unit; 2. geologic age; 3. name of unit; 4. USGS usage; 5. lithology; 6. geologic province; 7. thickness at type section; 8. location of type section; 9. lexicon reference;
+10. unique identifier.
+
+DEFINITION OF FIELDS. The formats and codes used in the fields are explained below. Fields 5, 6, 7, 8, and 9 are used only once for each unit as this information pertains to its type locality and original reference.
+
+FIELD 1. LOCATION. The U.S.. Postal Service 2-letter abbreviations are used to identify the State, territory, or possession in which the unit is located.
+
+AL Alabama
+
+NH
+
+AK Alaska
+
+NJ
+
+AZ Arizona
+
+NM
+
+AR Arkansas
+
+NY
+
+CA California
+
+NC
+
+CO Colorado
+
+ND
+
+CT Connecticut
+
+OH
+
+DC District of Columbia OK
+
+DE Delaware
+
+OR
+
+FL Florida
+
+PA
+
+GA Georgia
+
+RI
+
+HI Hawaii
+
+SC
+
+ID Idaho
+
+SD
+
+IL Illinois
+
+TN
+
+IN Indiana
+
+TX
+
+IA Iowa
+
+UT
+
+KS Kansas
+
+VT
+
+KY Kentucky
+
+VA
+
+LA Louisiana
+
+WA
+
+ME Maine
+
+' WV
+
+MD Maryland
+
+WI
+
+MA Massachusetts
+
+WY
+
+MI Michigan
+
+CZ
+
+MN Minnesota
+
+CI
+
+MS Mississippi
+
+GU
+
+MO Missouri
+
+MR
+
+MT Montana
+
+PR
+
+NE Nebraska
+
+SA
+
+NV Nevada
+
+VI
+
+New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virg inia Wash ington West Virginia Wisconsin Wyoming Canal Zone Caroline Islands Guam Mariana Islands Puerto Rico Samoa Virgin Islands
+
+FIELD 2. GEOLOGIC AGE. The geologic age at the time of the last update is represented* with minor modifications, by the 3-digit code devised by the AAPG Committee on Standard Stratigraphic Coding.
+
+ERA Cenozoic
+late middle early
+Mesozoic late middle early
+Paleozoic late middle early
+
+PERIOD Quaternary Tertiary
+Cretaceous Jurassic Triassic
+Permian
+
+EPOCH OR PROVINCIAL SERIES
+
+Holocene Pleistocene
+Pliocene Miocene 01igocene Eocene Paleocene
+
+Late Gulfian Comanchean
+Early Comanchean Coahuilan
+Late Middle Early
+Late Middle Early
+
+;
+
+Late Ochoan Guadalupian
+Early Leonardian Wolfcampian
+
+CODE
+100 101 10^ 107 110 111 112 120 121 122 123 12^ 125 200 201 204207 210 , 211 212 213 217 218 219 220 221
+22^ 227 230 231 234237 300 301 30<t 307 310 311 312 313 317 318 319
+
+ERA
+TIME Precambrian
+
+PERIOD
+
+EPOCH OR PROVINCIAL SERIES
+
+Pennsylvanian
+Mississippian
+Devonian Silurian Ordovician Cambrian
+
+Late Virgi1ian Missour i an
+Middle Des Moinesian Atokan
+Early Morrowan
+Late Chester ian Meramecian
+Early Osagean Ki nderhook ian
+Late Middle Ear ly
+Late Middle Early
+Late Middle Early
+Late Middle Early
+
+EON ERA
+
+Proterozoic Archean pre-Archean
+
+Late Middle Early
+Late Middle Early
+
+CODE
+320 3E1 3EE 3E3
+3E5 3£6 3E7 3E8 330 331 33E 333 337 338 339 3^0
+350 351 35^ 357 360 361
+367 370 371
+377
+CODE
+^50
+
+FIELD 3. NAME. The geologic name consists of a geographic name combined with a rank or descriptive term. A comma separates the two parts of the name. If a unit is part of a higher ranking unit, the name of that unit follows in parentheses. A slash (/) preceding a name indicates a violation of the North American Stratigraphic Code (for instance? a name may have been used previously in the same area? or a rank term may have been used improperly or may have been omitted)
+FIELD 4. USGS USAGE, A "U" is entered in this field if the line entry is based on usage in a USGS report.
+
+FIELD 5. LITHOLOGY. The principal lithology of the unit at the type section is given. If lithology is indicated by the unit name? the lithology column may be blank.
+
+AGL ALV AMP AND ANH ANR ARC ARK ASP BAS BAUX BNT BRC CH CL CLS CST DAC DBS DRT DRF DTM EVP FE GAB GLC GN
+
+agglomerate alluvium amphibolite andesite anhydrite anorthosite argillite arkose asphalt basalt bauxite bentonite breccia chert clay claystone clastic rock dacite diabase diorite drift diatomite evaporite iron format ion gabbro glauconite gneiss
+
+GNS GR GRD GRNL GVL GYK GYP HNF IG IGNM INTR. LAT LOS LV MBL MBNT MCK MD MET MGM MGYK MIG MRL MS MSED MSTS MVOL
+
+greenstone granite granodiorite granulite gravel graywacke gypsum hornfels igneous rock ignimbrite intrusive rock latite loess lava marble metabentonite muck mud metamorphic rock migmatite metagraywacke metaigneous rock marl mudstone metasedim. rock metasiItstone metavolcanic rock
+
+NVC DBS OOL PCL PHL PHS PMC POR QZ QZD QZM RDBD RHY SCH SD SED SL SRP ST SYN TF TL TRC ULTM VQL VSED
+
+novaculi te obsid ian ool i te pyroclastics phy 1 1 i te phosphate pumice porphyry quartz quartz diorite quartz monzonite redbed rhyoli te schist sand sedimentary rock slate serpent ini te silt syeni te tuff till trachyte ultramafic rock volcanic rock volcanic sed.
+
+FIELD 6. GEOLOGIC PROVINCE. The 3-digit geologic province code devised by the AAPG Committee on Statistics of Drilling is used.
+
+100 New England province 110 Adirondack uplift 1EO Atlantic Coast basin 130 South Georgia-North
+Florida sedimentary province South Florida province 150 Piedmont Blue Ridge province 160 Appalachian basin
+aoo Warrior basin aio Mid-Gulf Coast basin
+2EO Gulf Coast basin E30 Arkla basin
+
+250 260 300 305 310 315 320 325 330 335
+350 355 360 365 370 375 380 385 390 395
+4-10 *t!5 ^20 4-25 *t30 4-35
+^50
+500 505 510 515 520 525 530 535
+550 555 560 565 570 575 580 585 590
+
+Desha basin Upper Mississippi embayment East Texas basin Cincinnati arch Michigan basin Wisconsin arch Illinois basin Sioux uplift Iowa shelf Lincoln anticline Forest City basin Ozark uplift Arkoma basin South Oklahoma folded belt province Chautauqua platform Anadarko basin Cherokee basin Nemaha anticline Sedgwick basin Salina basin Central Kansas uplift Chadron arch Williston basin Ouachita tectonic belt province Kerr basin Llano uplift Strawn basin Fort Worth syncline Bend arch Permian basin Palo Duro basin Amarillo arch Sierra Grande uplift Las Animas arch Las Vegas-Raton basin Estancia basin Orogrande basin Pedregosa basin Basin and Range province Sweetgrass arch Montana folded belt province Central Montana uplift Powder River basin Big Horn basin Yellowstone province Wind River basin Green River basin Denver basin North Park basin South Park basin Eagle basin San Luis basin San Juan Mountain province Uinta uplift Uinta basin San Juan basin Paradox basin Black Mesa basin
+
+595 60O 605 61O 615 62O 625 63O 635 640 645 650 7OO 705 710 715 720 725 73O 735 74O 745 75O 755 760 765 8OO 805 810 815 82O 83O 835 84O 845 846 85O 855 860 863 865 867 870 873 875 877 88O 885 890
+
+Piceance basin Northern Cascade Range-Okanagan province Eastern Columbia basin Idaho Mountains province Snake River basin Southern Oregon basin Great Basin province Wasatch uplift Plateau sedimentary province Mojave basin Salton basin Sierra Nevada province Bellingham basin Puget Sound province Western Columbia basin Klamath Mountains province Eel River basin Northern Coast Range province Sacramento basin Santa Cruz basin Coastal basins San Joaquin basin Santa Maria basin Ventura basin Los Angeles basin Capistrano basin Heceta Island area Keku Islands area Gulf of Alaska basin Copper River basin Cook Inlet basin Kandik province Kobuk province Koyukuk province Bristol Bay basin Aleutians Islands Bethel basin Norton basin Selawik basin Yukon Flats basin Lower Tanana basin Middle Tanana basin Upper Tanana basin Galena basin Innoko basin Minchumina basin Holitna basin Arctic Foothills province Arctic Slope basin
+
+FIELD 7. THICKNESS. Thickness at the type section, in meters, rounded to the second significant figure is shown. Where this information is unavailable, the maximum thickness is given, if known.
+FIELD 8. TYPE LOCALITY. One of nine parts of the State in which the type section, locality, or area of a unit is located. Each State is divided into nine parts, designated NW, NC, NE, WC, C, EC, SW, SC, SE, by dividing its maximum latitudinal and longitudinal dimensions by three. Canada and Mexico are designated by CAN AND MEX.
+FIELD 9. REFERENCE. The letters A through H refer to the volume of the lexicon of Geologic Names in which a name was first descr ibed:
+A. Wilmarth, M. G., 1938, Lexicon of geologic names of the United States: U.S. Geo1. Survey Bull. 896, 2 v.
+B. Wilson, Druid, and others, 1957, Geologic names of North America introduced in 1936-1955: U.S. Geo1. Survey Bull. 1056-A, 405 p.
+C. Keroher, G. C., and others, 1966, Lexicon of geologic names of the United States for 1936-196O: U.S. Geo1. Survey Bull. 1200, 3 v.
+D. Keroher, G. C., 1970, Lexicon of geologic names of the United States for 1961-1967: U.S. Geo1. Survey Bull. 1350, 848 p.
+E. Luttrell, G. W., Hubert, M. L., Wright, W. B., Jussen, V. M., and Swanson, R. W., 1981, Lexicon of geologic names of the United States for 1968-1975: U.S. Geo1. Survey Bull. 1520, 342 p.
+F. Luttrell, G. W., Hubert, M. L., and Jussen, V. M., 1986, Lexicon of new formal geologic names of the United States 1976-1980: U.S. Geo1. Survey Bull. 1564, 191 p.
+G. Luttrell, G. W., Hubert, M. L., and Murdock, C. R., (in press), Lexicon of new formal geologic names of the United States 1981-1985: U.S. Geo1. Survey Bull. 1565.
+H. Geologic names introduced after 1985. (No publication available.)
+FIELD 10. UNIQUE IDENTIFIER. A unique identifier consisting of a four-letter mnemonic plus a two-digit number is assigned to each record. It is used for recalling records for updating and for sorting. The mnemonic is derived from the geographic part of the name using a method devised by the AAPG Committee on Standard Stratigraphic Coding. English articles and prepositions are deleted first; those in foreign languages are retained. The first letter of each remaining word is retained. Names beginning with Me, 0', De, or Van are treated as two words. Letters are then deleted, from right to left, in the following order until four remain: a, e, i, o, u, w, h, y, one of each double, t, n, s, r, 1, d, c, m, f, g, p, k, b, v, x, j, q, z. All the records for each name have the same mnemonic but different numbers.
+
+DATA RETRIEVAL
+
+GEONAMES is now available on IBM-compatible 5 1/^-in diskettes from Open File Services. The files were first sorted by state and then downloaded onto 16 diskettes* each one generally containing data for two or more adjacent states. Users may purchase one or more diskettes, combine the states, or use them individually, depending upon their specific needs and computer equipment. These state files can be loaded into and manipulated with almost any database management software. (Records are loaded into dBase, for instance, using the command "append from Cfile name3 sdf.") In setting up fields, use the following parameters.
+
+FIELD NAME
+
+SIZE
+
+CStatell CAgeD CSlashD CNameD CUse3 CLith3 CProvD CThickD CTypLocD CRefD CID3
+
+C13 C6E3
+C53 Cl<*3
+C63 C103
+C63 C<*3 'C73
+
+The slash has been placed in a separate field in order to simplify sort ing .
+
+GEONAMES is also available on G-track magnetic tape from NTIS. Units for the entire nation are listed alphabetically on the tape. This media may be more suitable for users interested in geologic names of the United States as a whole.
+
+Following is a breakdown by diskette? showing the states, number of records, and the approximate size of the files. An asterisk indicates states included in more than one geographic grouping. Each diskette also contains the document, Geointro, a users guide to GEONAMES.
+
+CHAPTER DISK # A1
+B2
+
+STATE RECORDS KBYTES
+
+HE 436 55 NH 246 31 VT 592 74 HA 353 44 CT 316 40 RI 61 8
+
+2004
+
+252
+
+NY 1260 158 PA 1143 143
+
+2403
+
+301
+
+NJ 263 HD 484 DE 73 DC 34 VA* 881 UIV 597
+
+33 61
+9 4 110 75
+
+2332
+
+292
+
+KY 575 72 TN 637 80 HS 218 27 AL 517 65
+
+1947
+
+244
+
+VA* 881
+
+110
+
+NC 348 44
+
+SC 166 21
+
+GA 591 74
+
+FL 229 29
+
+2215
+
+278
+
+OH 547 69 IN 502 63 IL 743 93 UII 413 52 MI 408 51
+
+2613
+
+328
+
+MN 304 38 ND 326 41 SD 295 37 NE 476 60 IA 542 68
+
+1943
+
+244
+
+CHAPTER DISK # H8
+I9
+J 10
+K 11 L 12 M 13
+N 14 0 15 P 16
+
+STATE RECORDS KBYTES
+
+OK 1098 137 KS 658 82 MO 740 93
+
+2496
+
+312
+
+TX
+
+1653
+
+207
+
+LA 270 34
+
+AR 268 34
+
+2191
+
+275
+
+MT 809 101
+
+WY 855 107
+
+ID* 693
+
+87
+
+2357
+
+295
+
+CO 881 110 NM 1151 144
+
+2032
+
+254
+
+AZ 892 UT* 1191
+
+112 149
+
+2083
+
+261
+
+UJA OR ID*
+
+694 557 693
+
+87 70 87
+
+1944
+
+244
+
+NV UT*
+
+1110 1191
+
+139 149
+
+2301
+
+288
+
+CA 2050 234
+
+AK 813 102 HI 90 12 CI 45 6 MR 43 6 SA 34 5 GU 33 4 PR 261 33 VI 31 4
+
+1350
+
+172
+
+10
+
+

@@ -1,0 +1,1019 @@
+geological survey open file report ib37 october geophysical database east coast united state northern atlantic margin cross section grid database george bank basin long island platform baltimore canyon trough 
+schneider north geological survey wood hole this report preliminary review conformity geological survey editorial standard nomenclature 
+use trade name purpose identification constitute endorsement geological survey 
+table content 
+the atlantic margin general geologic framework 
+the geoacoustic database 
+table geoacoustic parameter formulas use calculate 
+geoacoustic parameter 
+table example profile geoacoustic database 
+table example grid geoacoustic database 
+table atlantic margin seismostratigraphy 
+sediment type lithology 
+table general lithologic type identify atlantic margin 
+table seruficial sediment type surface attenuation 
+seismic velocity 
+data grid contouring 
+data mask 
+geological influence geoacoustic parameter 
+geoacoustic database display 
+multichannel seismic reflection profile appendix 
+depth reflector time appendix distance appendix 
+thickness isopachs acoustic unit appendix 
+interval velocity appendix 
+sediment type appendix 
+figure caption 
+geological survey cdp seismic line 
+line cross well cross shoot point number 
+atlantic margin well use calibrate database 
+stratigraphic time section layer interval velocity section 
+time depth contour map base acoustic unit digital database 
+depth meter contour map base acoustic unit 
+digital database 
+thickness isopach map acoustic unit digital database 
+interval velocity contour map acoustic unit digital database 
+sediment type distribution within acoustic unit digital database 
+geological survey open file report geophysical database east coast united state northern atlantic margin cross section grid database george bank basin long island platform baltimore canyon trough 
+schneider north geological survey wood hole introduction acoustic transmission characteristic submarine environment influence sound propagation property rock unit beneath sea floor 
+geoacoustic model rock unit basic underwater acoustic marine geological geophysical study earth crust include stratigraphy sedimentology geomorphology structural gravity study geologic history etc 
+numerous geoacoustic model hamilton stoll hamilton bachman develop small local data set acoustic transmission study general utility limit lack regional geoacoustic data set model parameter determination 
+regional geoacoustic database northern atlantic margin develop 
+naval oceanographic office geological survey initial step meet need 
+multichannel seismic reflection data primary source acoustic information use construction 
+recognize data limit resolution upper sedimentary column critical transmission study database use exist geoacoustic model define nature extent detail high resolution acoustic study upper sedimentary column 
+this geoacoustic study northern atlantic margin cape hatteras canadian boundary center around two major sedimentary basin baltimore canyon trough george bank basin intervene crustal platform long island platform figure 
+the geoacoustic parameter database table derive combination seismostratigraphy develop grid multichannel seismic reflection profile figure appendices acoustic velocity depth function base normal moveout velocity analyse multichannel seismic reflection profile velocity sonic log checkshot study select industry drillholes appendix wide angle seismic data ship seismic experiment 
+construction calibration velocity data component geoacoustic database describe klitgord schneider 
+digital database geoacoustic parameter table construct data along seismic line minute grid space area investigation 
+graphical representation digital database form stratigraphic time section interval velocity profile seismic reflection profile appendix travel time second surface contour map base stratigraphic unit appendix depth meter surface contour map base stratigraphic unit appendix isopach map stratigraphic unit appendix interval velocity contour map stratigraphic unit appendix distribution gross lithology within stratigraphic unit appendix 
+geological survey open file report the atlantic margin general geologic framework the atlantic continental margin incorporate coastal plain continental shelf slope rise east coast 
+border west appalachian mountain east deep sea atlantic ocean figure 
+the upper surface margin decrease slowly elevation seaward across coastal plain nearly flat across continental shelf slope 
+near water depth isobath gradient seafloor increase markedly narrow zone call continental slope 
+the sea floor gradient decrease water depth isobath call continental rise 
+the continental rise grade nearly flat deep sea floor water depths the present continental slope dissect numerous submarine canyon sedimentary material transport shelf rise 
+for study focus acoustic property rock beneath continental shelf slope rise 
+the geologic framework atlantic continental margin product regional tectonic environment evolve continental rift sea floor spread finally passive continental margin 
+initially extensional tectonic regime cause continental rift similar present day east african rift pangea supercontinent north american south american african continent rift apart early mesozoic 
+rift phase 
+the pre exist continental crust fragment intrude new igneous material rift stage crust 
+the atlantic ocean form continent move apart new igneous material oceanic crust emplace mid atlantic ridge sea floor spread 
+mid atlantic ridge migrate eastward relative north american margin remain near center expand atlantic ocean basin heat influx associate magmatic activity also move away crust edge margin begin cool 
+thermal contraction crust margin cause rapid sea floor subsidence enable thick pile sediment erode appalachian mountain accumulate along margin klitgord other poag seven 
+this late period 
+present postrift phase refer passive margin phase margin development time thermal subsidence sediment load fluctuation climate oceanographic environment control accumulation sedimentary rock along across margin 
+the continental margin wedge sedimentary rock overlie basement rock igneous metamorphic origin figure 
+this sedimentary wedge thickens seaward direction zero fall line western edge coastal plain beneath outer continental shelf 
+carbonate bank shelf edge platform develop near boundary rift stage oceanic crust trap significant amount sedimentary material shelf form steep continental slope 
+the wedge thin east beneath continental rise deep sea approach zero thickness crest mid atlantic ridge 
+rapid thicken wedge occur basement hinge zone beneath inner continental shelf 
+sedimentary rock wedge range age late triassic 
+present tucholke mountain klitgord grow poag 1985b olsson other manspeizer other poag ward 
+the base sedimentary wedge construct igneous metavolcanic metasedimentary rock pre mesozoic age 
+west basement hinge zone manspeizer other sheridan other late triassic young 
+beneath continental shelf slope klitgord other 
+geological survey open file report poag ward middle jurassic young 187m 
+beneath continental rise tucholke mountain klitgord grow poag 
+between sea floor basement numerous erosion deposit unconformities associate sea level fluctuation combination oceanographic tectonic process divide sediment pile subparallel near horizontal layer figure poag schlee 
+the deep unconformities postrift breakup unconformity separate synrift sedimentary rock deposit rift environment extensive fault igneous activity postrift sediment accumulate broadly subside basin 
+this latter basin postrift sedimentary fill usually divide two basin one beneath continental shelf one beneath slope rise deep sea 
+the boundary two basin jurassic shelf edge carbonate platform poag poorly image seismic reflection data figure represent significant change deposit environment 
+relatively stratified unit form seaward base platform jurassic early cretaceous development extensive overlapping fan late cretaceous tertiary leave chaotic stratigraphic record upper section figure 
+the age unconformity bound unit determine biostratigraphic study drill hole material figure occasional bottom sample erosion continental slope expose deep stratigraphic unit poag 1985b poag valentine 
+sedimentary rock type vary across margin significantly different various period margin construction 
+the synrift sediment include significant amount salt anhydrite mixed vary amount terrigenous clastic volcaniclastic material 
+there also may significant amount igneous rock synrift section 
+the primary postrift sediment source terrigenous clastic material sandstone clay mixtures flood onshore mixed carbonate rich material deposit near shelf edge first 
+shelf development poag 
+this late material limestone dolomite form carbonate shelf edge jurassic early cretaceous 
+trap clastic material behind created steep scarp shelf edge figure 
+the continental slope rise construct clastic debris sweep shelf edge debris flow turbidites mixed calcareous silicic pelagic material 
+variation supply shelf derive material fluctuation calcite compensation depth ccd reflect pelagic dominated layer carbonate rich shale turbidite dominate layer clastic material 
+fluctuate sea level create environment fan deposition shift shelf rise 
+during low stand sea level numerous canyon incise shelf slope form conduit sediment transport onto continental rise 
+extensive description summary geology atlantic margin publish poag 1985a poag sevon poag ward geological society america centennial series sheridan grow 
+the geoacoustic database the basic database suite geoacoustic parameter table layer set acoustic stratigraphic unit continental shelf adjacent slope rise atlantic continental margin united state poag 1985b schlee klitgord 
+geological survey open file report other sheridan grow grow other 
+each unit comprise rock lithology vary across along margin 
+all rock unit data base sedimentary minimal velocity information underlie igneous metamorphic rock 
+primary input data database 
+seismostratigraphic horizon table seismic reflection profile figure appendix 
+bio litho stratigraphic information sparse set industry stratigraphic test well amato bebout amato simonis appendix surficial sea floor sample site 
+seismic velocity information normal moveout analysis multichannel seismic reflection data sonic log checkshot velocity study industry stratigraphic test drill well appendix seismic refraction study sheridan other klitgord schneider 
+these data use determine three dimensional horizontal vertical geometry stratigraphic unit database lithology age unit rms sound transmission velocity surface bound unit 
+this set observation expand include geologic acoustic parameter derive initial set parameter density compression wave wave velocity shear wave wave velocity wave attenuation wave attenuation 
+these parameter determine shot point space along seismic line see appendix shot point spacing stratigraphic information shot point space velocity information figure minute grid space area investigation figure 
+thus database actually two data set one confine point along individual seismic line second interpolate onto regional grid 
+basic premise study geoacoustic parameter give unit reflector influence material unit 
+the acoustic unit define acoustic reflector bound top bottom 
+nomenclature develop unit parameter related surface reflector define base unit 
+two way travel time second sea surface reflector sea surface depth sea surface meter rms velocity property relate entire overlying crustal column give respect particular reflector figure 
+density thickness wave velocity wave velocity attenuation property pertain give unit related unit directly give reflector 
+each reflector number see table facilitate digitize identification digital array 
+these number monotonically increase depth age mean geologic sense 
+most surface erosion unconformities erode deeply enough sedimentary wedge completely remove one underlie unit part margin 
+case two reflector merge could ambiguity identify age boundary two unit 
+situation show figure reflector top eocene paleocene sediment place top cretaceous sediment other 
+the mid oligocene unconformity base upper oligocene reflector erode top cretaceous base paleocene eocene reflector refer surface reflector base upper oligocene 
+avoid ambiguity always refer reflector surface defines base overlie unit rather top underlie unit 
+way discus property database refer material exists reflector since often possible original material reflector case reflector eocene paleocene material miss 
+convention prominent geologic boundary surface form top 
+geological survey open file report 
+table geoacoustic parameter formulas use calculate 
+for horizon layer bound horizon 
+two way travel time depth sea level reflector second sea surface observe seismic reflection record 
+rms velocity unit reflector sec 
+calculate nmo analysis multichannel seismic data 
+age unit reflector base correlation acoustic unit biostratigraphic information drill sit dredge site 
+sediment type within unit reflector base correlation acoustic unit lithostratigraphic information drill dredge site see symbol code table 
+interval velocity unit reflector sec 
+vrms rms 
+compression wave velocity unit reflector sec 
+water sec profile 
+thickness layer meter 
+depth reflector meter 
+depth midpoint unit reflector meter density rock within unit calculate use follow formulae terrigenous marine sediment 
+shear wave velocity unit 
+calculate use follow formulae terrigenous marine sediment 
+mud stone castagna other 
+compression wave attenuation 
+constant dependent surface rock type frequency khz 
+mitchell focke stoll 
+shear wave attenuation 
+constant khz frequency khz 
+hamilton 1976a castagna other 
+geological survey open file report cretaceous represent portion several reflector reflector reflector finally reflector figure 
+this nomenclature reference bottom unit different standard reference top unit eliminate ambiguity layer reference frame simplifies bookkeeping 
+geoacoustic parameter the digital database contain follow information space along seismic reflection line minute grid point study area adequate data available labelling line number shot point latitude longitude pair array geoacoustic parameter point 
+this parameter array include information determine seismic sample data reflector number two way travel time reflector rms velocity vrms sea surface reflector layer age sediment type 
+from data calculate location depth meter reflector thickness density wave velocity wave velocity wave attenuation wave attenuation layer table 
+table example profile geoacoustic database 
+line shot 
+latitude deg 
+longitude layer sed 
+travel depth thick density rms 
+wave wave surface wave wave 
+geological survey open file report 
+table example grid geoacoustic database 
+latitude degree longitude degree layer surface 
+age seafloor base quaternary base mid miocene base tertiary base campanian base coniacian base aptian base kimmeridgian base aalenian 
+travel depth thick density velocity velocity velocity atten 
+type time 
+wave wave surface 
+sec mi 
+atten wave wave khz 
+latitude degree longitude degree layer surface 
+age seafloor base quaternary base mid miocene base tertiary base campanian base coniacian base aptian base aalenian 
+travel depth thick density velocity velocity velocity atten 
+type time 
+wave wave surface wave wave 
+latitude degree longitude degree layer surface 
+age seafloor base quaternary base mid miocene base tertiary base campanian base coniacian base aptian base aalenian 
+travel depth thick density velocity velocity velocity atten 
+type time 
+wave wave surface wave wave 
+latitude degree longitude degree layer surface 
+age seafloor base quaternary base tertiary base campanian base coniacian base aptian base aalenian 
+travel depth thick density velocity velocity velocity atten 
+type time 
+rms wave wave surface wave wave 
+geological survey open file report 
+seismiostratigraphy the acoustic unit incorporate geoacoustic database seismostratigraphic unit define poag 1985a schlee other poag valentine poag ward atlantic margin 
+this comprehensive division stratigraphic unit develop seismostratigraphic analysis seismic profile multichannel seismic grid figure 
+this seismostratigraphy calibrate biostratigraphic data suite industry drill well onshore offshore poag 1985b poag ward plus dredge sample data canyon dissect continental slope valentine blake escarpment dillon popenoe 
+the two way travel time reflector sea surface reflector sea surface digitize along length seismic reflection profile create seismostratigraphic cross section time depth distance 
+mention reflector represent base geologic unit 
+where reflector intersect young reflector enter database 
+the reflector number use database purely arbitrary give facilitate label computer plot seismostratigraphic cross section 
+age assign geologic unit base dnag geologic timescale palmer 
+table atlantic margin seismostratigraphy 
+geologic surface 
+reflector name 
+base water column seafloor seafloor 
+base quaternary 
+base pliocene 
+base upper miocene 
+base middle miocene 
+mid miocene unconformity 
+base lower miocene 
+base upper oligocene 
+mid oligocene unconformity 
+base tertiary 
+top cretaceous 
+base campanian maastrichtian horizon deep sea 
+base coniacian santonian 
+late cenomanian unconformity 
+base cenomanian turonian 
+mid cretaceous unconformity 
+base aptian albian 
+base barremian 
+horizon deep sea 
+base berriasian hauterivian top jurassic 
+base tithonian 
+base kimmeridgian 
+base oxfordian 
+top middle jurassic 
+base upper bathonian callovian 
+base bajocian low bathonian 
+base aalenian 
+postrift unconformity 
+base synrift sediment 
+crystalline basement 
+base crust 
+number geologic significance use tag digital database 
+they correspond geologic horizon throughout data set 
+name commonly use literature geologic surface column 
+geological survey open file report 
+sediment type lithologies lithology vary within unit indicate database 
+the gross lithology stratigraphic unit determine lithologic log drill hole dredge sample submarine canyon cut deep continental slope integrate analysis acoustic character seismic profile multichannel seismic grid poag 1985b poag ward 
+this technique base association distinctive acoustic signature specific deposit environment lithology vail other poag schlee van wagoner other 
+the result estimate sediment type subjective therefore small set lithology incorporate database table 
+there surface sample deep water seaward shelf edge region assign general type clay 
+table general lithologic type identify atlantic margin 
+rock type silt sand clay shale chalk limestone dolomite halite anhydrite halite 
+numerical code database 
+rock type approximate increase grain size proximity siliciclastic sediment source 
+surficial sediment type table figure along individual seismic line database grid extract digital database year surficial sampling compile hathaway other 
+this compilation base original work hathaway schlee hathaway other update study poppe other map surficial sediment type atlantic continental margin 
+the database surficial sediment type base grain size analysis use define sediment type standard definition grain size specific sediment type 
+these grain size correlate near surface attenuation compression wave 
+table surficial sediment type surface attenuation 
+sediment type coarse sand medium sand fine sand sandy silt silty sand silt silty clay clayey silt clay 
+phi class 
+grain size 
+surface attenuation 
+sediment type arrange decrease grain size value compressionai wave surface attenuation khz kofm base biot stoll model applicable khz stoll 
+geological survey open file report seismic velocity velocity data northern atlantic margin baltimore canyon trough long island platform georges bank basin region derive stack velocity determine multichannel seismic profile part standard industry process seismic reflection data 
+the velocity data grid seismic profile calibrate suite drill sit area along three standard dip line transects strike line transect figure 
+local velocity calibration study undertake along composite seismic profile connect industry well georges bank basin composite cdp line baltimore canyon trough usgs cdp line 
+one transect cross george bank basin usgs cdp line one cross central baltimore canyon trough usgs cdp line third go navy test area south long island usgs cdp line 
+usgs cdp line use construct velocity structure profile link velocity calibration sit rest seismic grid 
+figure example stratigraphic interval velocity data along seismic line line 
+comprehensive discussion velocity data use database give klitgord schneider 
+data grid contour the areal digital database create grid data base two way travel time individual reflector thickness unit time interval velocity unit 
+the skew data space dense data along widely space seismic line ideal create grid data set unrealistic grid contour data easily result 
+the character result data highly dependent upon grid technique use 
+many case result right wrong merely reflect representation data give assumption build particular technique 
+the closely spaced stratigraphic data initially smooth velocity data space show figure reduce alias grid stage 
+minimum curvature cubic spline technique smith wessel tension zero use data display appendix create minute grid data 
+the resultant scallop character contour data display appendix artifact minimum curvature assumption 
+additional data constraint base assumed distribution data seismic line add data 
+this would improve appearance contour data also would give false impression well control exists 
+data mask the information portray appendix individual surface unit region data miss unknown 
+region miss data erosion remove unit perhaps never deposit 
+the unit zero thickness region indicate shaded region without contour 
+erosion unconformity cut deep enough remove underlie horizon give region surface contour map appendix shade zone contour horizon miss 
+this masking consistent database construction use surface refer bottom unit exist 
+attempt construct composite surface across entire margin although do information available digital database 
+there also narrow zone within beneath carbonate bank shelf edge platform geoacoustic information unknown 
+these zone indicate blank region map unit surface horizon 
+geological survey open file report geological influence geoacoustic parameter variation geoacoustic property margin cause general increase density result increase depth burial change lithology within stratigraphic unit surficial bury structure 
+the subdivision sedimentary wedge series acoustic unit separate horizon unconformities enable incorporate variation database 
+the influence depth burial interval velocity readily see profile appendix 
+both cross section top profile appendix depth surface map appendices show gradual seaward deepen stratigraphic unit beneath shelf 
+the gradual increase interval velocity across shelf see low profile appendix intervalvelocity contour map appendix partially cause change lithology sandstone shale limestone dolomite lithologic map appendix primary cause increase depth burial 
+sedimentary structure carbonate shelf edge prograding delta fan salt diapir rift basin create distinct velocity structure may faster slow adjacent sedimentary unit often opaque acoustic transmission 
+these feature incorporate database general change lithology velocity also could significant influence sound transmission mode construction 
+the chaotic character carbonate bank figure create acoustic barrier difficult penetrate seismic technique 
+result underlie unit usually mask seismic reflection data say little acoustic property 
+the blank area near shelf edge unit beneath upper jurassic unit cause acoustic masking 
+attempt see zone large offset receiver lase experiment keen other meet success significant loss resolution experiment expensive 
+prograding fan deltas particularly important geologic unit cretaceous tertiary section margin figure poag 
+seismic line see tertiary section figure lobate shape fan deltas create suite undulating stratigraphic packet coalesce sedimentary structure 
+distinct lithologic variation associate grain size partition sediment within single delta fan create small distinctive velocity anomaly 
+the extensive fan delta system find upper sedimentary section northern shelf rise make important geologic feature margin 
+although small variation resolve data set understanding velocity structure system represent important objective high resolution velocity study acoustic transmission 
+the modification sedimentary unit erosion significantly modify acoustic signature 
+the erosion seaward edge geologic unit fluctuation sea level create hole acoustic information many cretaceous tertiary unit 
+shelf rise erosion hole indicate masked region map appendix actually region significant lithologic discontinuity exist 
+cause discontinuity include juxtaposition young less lithified stratum significantly old stratum one time bury great depth 
+the unconformity juxtapose unit deposit significantly different environment 
+canyon cut continental slope create chaotic pattern steep side structure diffract substantial amount acoustic energy 
+this chaotic pattern result low coherence rms velocity analyse region cause scatter display contour map 
+geological survey open file report continental slope past present day represent zone poorly define acoustic character 
+fault deform sedimentary unit two distinctive zone 
+the deep synrift section cut numerous fault klitgord other section beneath region reliable velocity analyse data 
+shallow postrift sedimentary section two source fault 
+failure sediment loading create series large fault near shelf edge parallel margin figure 
+these fault partially localize load failure continental shelf edge prograded old continental slope 
+this set fault call gemini fault system poag 1985b 
+fault uplift sedimentary unit associate rise salt diapir intrusion igneous body mid cretaceous 
+the schlee dome northern baltimore canyon trough poag grow other large intrusive feature 
+there extensive faulting along southeastern edge george bank intrusive body rise high sedimentary wedge fault around extend upper cretaceous section 
+this fracturing subsequent crack fill significantly modify local velocity structure 
+such variation resolution study shallow fault system potential distort transmission path 
+geoacoustic database display the digital geoacoustic database portray cross section perspective seismicreflection profile appendix map perspective appendix 
+the map perspectives base information relate individual surface horizon unit surface see figure 
+therefore separate map surface unit database see table base data seismic line appendix 
+multichannel seismic reflection profile appendix all seismic reflection profile use data set include appendix 
+the location line show figure 
+most profile line pod acquire commercial firm contract geological survey usgs 
+two line bgr acquired german geological survey part cooperative usgs 
+detailed discussion seismic data stratigraphic analysis give poag 1985b grow other sheridan other schlee klitgord 
+line cross well cross location give appendix label across top profile 
+the time section two way travel time shot point distance interval velocity stratigraphic unit shot point distance time section display line 
+all dip section plot northwest southeast 
+all strike section plot southwest northeast 
+the corresponding reflector number horizon unit table labelled end profile appropriate location along profile 
+time section upper reflector sea floor reflector 
+the bottom label reflector varies across margin profile postrift unconformity oceanic basement 
+stratigraphic unit structure beneath postrift unconformity fault plot labelled profile 
+there velocity information associate latter feature therefore 
+geological survey open file report incorporate digital database 
+the interval velocity smooth use contour technique describe klitgord schneider 
+the location original velocity information indicate 
+the velocity profile plot increase velocity value sec go 
+way relative position reflector velocity curve associate unit reflector general lowermost velocity curve high velocity correspond deep numbered horizon time section 
+depth reflector time appendix distance appendix the contoured surface depth individual reflector horizon second two way travel time meter portray expect increase depth old reflector give location 
+the area 
+variation depth however best see depth meter surface appendix 
+the distortion two way travel time surface appendix caused vertical variation velocity create surface dominate shape sea floor 
+two distinctive character surface contour appendix shift location vertical relief continental slope extensive erosion find george bank long island platform region relative baltimore canyon trough 
+the shift location shelf edge change depth continental rise relative shelf consequence shift sediment supply sea level variation effectiveness shelf edge barrier trap sediment shelf 
+the pattern erode unit concentrate around george bank cause 
+basement hinge zone far offshore region baltimore canyon trough 
+slow subsidence george bank region relative baltimore canyon trough 
+small terrigenous sediment supply georges bank region 
+sediment distribution pattern onshore west baltimore canyon trough landward basement hinge zone show thin absence jurassic unit similar find long island platform along northern edge george bank basin 
+the great subsidence rate baltimore canyon trough probably cause combination great sediment influx load poag well extensive modification rift stage crust klitgord other 
+because george bank basin slow subsidence rate baltimore canyon trough sawyer other sedimentary unit shelf thinner likely completely erode drop sea level 
+several reflector find center two basin 
+this occur depocenters also regions great subsidence rate across margin thus likely zone preserve material sea level fall 
+isopachs acoustic unit appendix isopach map stratigraphic unit database provide much clear image deposition erosion pattern margin poag provide depth map appendix 
+these map show almost tertiary sediment george bank basin extensive deposition adjacent continental rise sediment bypass bank 
+the mid miocene period major cenozoic sediment accumulation baltimore canyon trough region 
+the tertiary general period major sediment influx continental rise poag 
+contrast jurassic period major accumulation shelf rise 
+the depocenters cretaceous appear straddle old continental slope extensive terrigenous material prograded old platform complex fill adjacent continental rise 
+the shelfrise transition gradual time major delta fan cover margin figure 
+geological survey open file report interval velocity appendix interval velocity pattern dominate depth burial influence mention previously 
+there general velocity increase across margin well small wavelength change along margin 
+the latter feature correspond major fan deltas 
+note similar velocity george bank basin baltimore canyon trough middle jurassic deposit despite considerably great depth baltimore canyon trough unit 
+this similarity may result sediment reach limit density increase low temperature may cause high dolomite anhydrite content low section george bank basin 
+these map also reaffirm observation george bank high velocity sedimentary unit shallow depth south 
+sediment type appendix the sediment type various unit estimate base limited distribution subsurface sample seismic character evaluation poag 1985b 
+terrigenous flux sand sand silt clay dominate tertiary minor phase carbonate carb along outer shelf early tertiary 
+similar pattern dominate cretaceous extensive deep sea shale form mid cretaceous 
+the jurassic shelf edge dominate limestone accumulation active shelf edge reef 
+sand silt fill shelf behind reef pelagic shale mixed lob terrigenous sand form continental rise 
+change upland source sediment cause along shelf variation sediment type sand silt clay locus delta fan formation shift poag sevon 
+summary the geoacoustic database construct multichannel seismic reflection profile well data northern atlantic margin provide ability investigate threedimensional acoustic character continental margin variation since middle jurassic 
+both isopach interval velocity pattern individual acoustic unit incorporate database display variation reflect deposit erosion history margin distribution major sedimentary feature deltas fan carbonate bank shelf edge platform 
+geoacoustic consequence stratigraphic velocity pattern incorporated database include 
+general monotonic increase velocity depth part margin 
+the increase depth reflector increase overburden geologic unit create general increase rms across shelf continental slope 
+velocity inversion know exist well log data klitgord schneider resolve multichannel seismic data use study 
+the erosion portion geologic unit cause abrupt change transmission property bring low velocity unit direct contact high velocity unit 
+this phenomenon influence refract seismic energy term abrupt change distant arrival time reflect seismic signal term abrupt increase reflect energy amplitude 
+the presence relatively high velocity material shallow depth south long island consequence either erosion nondeposition tertiary material long island platform george bank region 
+prograding delta overlap fan fault associated mega slump shelf edge represent set geologic feature upper sedimentary wedge margin may significant influence acoustic transmission pattern 
+geological survey open file report acknowledgements this project support 
+naval oceanographic office 
+gratefully acknowledge discussion collaboration rudi markl naval oceanographic office project manager work schexnayder program manager early stage project thank head hecht michel naval oceanographic office support technical assistance 
+numerous discussion detailed review markl hutchinson popenoe lead significant improvement study 
+hutchinson provide shot gather refraction data along seismic line 
+technical support morse taylor delorey senske harrison wright geological survey gratefully acknowledge 
+the seismic data analysis system develop wright gmt data management system develop wessel smith use project construct digital database graphic output 
+reference amato bebout ed geologic operational summary cost 
+well george bank area north atlantic ocs geological survey open file report 117p 
+amato simonis eds geologic operational summary cost 
+well george bank area north atlantic ocs geological survey open file report 120p 
+castagna batzle eastwood relationship compressionalwave shear wave velocity clastic silicate rock geophysics 
+dillon popenoe the blake plateau basin carolina trough sheridan grow ed 
+the atlantic continental margin the geology north america geological society america 
+grow klitgord schlee structural evolution baltimore canyon trough sheridan 
+grow eds the atlantic continental margin the geology north america geological society america 
+hamilton 1976a sound attenuation function depth sea floor journal acoustical society america 
+hamilton 1976b attenuation shear wave marine sediment journal acoustical society america 
+hamilton sound velocity density relation sea floor sediment rock journal acoustical society america 
+hamilton poisson ratio marine sediment rock journal acoustical society america 
+hamilton geoacoustic model sea floor journal acoustical society america 
+hamilton bachman sound velocity relate property marine sediment journal acoustical society america 
+hathaway data file continental margin program atlantic coast united state vol 
+sample collection analytical data wood hole oceanographic institution ref 
+geological survey open file report hathaway poag valentine miller schultz manheim kohout bothner sangrey geological survey core drilling atlantic shelf science 
+hathaway other digital data base surficial sediment atlantic margin usgs open file report review 
+keen other deep structure east coast passive margin large aperture seismic experiment lase marine petroleum geology 
+klitgord grow jurassic seismic stratigraphy basement structure western atlantic magnetic quiet zone american association petroleum geologist bulletin 
+klitgord schneider geophysical database east coast united state northern atlantic margin velocity analyse geological survey open file report of94 
+klitgord hutchinson schouten atlantic continental margin structural tectonic framework sheridan grow eds the atlantic continental margin the geology north america geological society america 
+manspeizer deboer costain froelich coruh olsen mchone puffer prowell post paleozoic activity hatcher thomas viele eds the appalachian oachita orogen united state geological society america the gology north america 
+mitchell focke new measurement compression wave attenuation deep ocean sediment journal acoustic society america 
+olsson gibson hansen owens geology northern atlantic coastal plain long island virginia sheridan 
+grow eds the atlantic continental margin the geology north america vol 
+geological society america 
+palmer the decade north american geology geologic timescale geology 
+poag stratigraphic reference section george bank basin deposit model new england passive margin american association petroleum geologist bulletin 
+poag 1985a geologic evolution united state atlantic margin new york van nostrand reinhold company poag 1985b deposit history stratigraphic reference section central baltimore canyon trough poag geologic evolution united state atlantic margin 
+poag the new jersey transect stratigraphic framework deposit history sediment rich passive margin poag watt other eds initial report deep sea drill project volume washington government printing office 
+poag rise demise bahama grand bank gigaplatform northern margin jurassic proto atlantic seaway marine geology 
+poag middle atlantic continental rise provenance dispersal deposition jurassic quaternary sediment poag graciansky ed geological evolution atlantic continetal rise new york van nostrand reinhold 
+geological survey open file report poag schlee deposit sequence stratigraphy gap submerge united state atlantic margin schlee interregional unconformities hydrocarbon accumulation the american association petroleum geologist memoir 
+poag sevon record appalachian denudation postrift mesozoic cenozoic sedimentary deposit middle atlantic continental margin geomorphology 
+poag valentine mesozoic cenozoic stratigraphy united state atlantic continental shelf slope sheridan 
+grow eds the atlantic continental margin the geology north america vol 
+geological society america 
+poag ward allostratigraphy middle atlantic continental margin characteristic distribution deposit history principal unconformity bound upper cretaceous cenozoic sedimentary unit geological survey professional paper 81pp 
+poppe schlee butman lane map show distribution surficial sediment gulf maine george bank geological survey map 
+sawyer toksoz sclater swift thermal evolution baltimore canyon trough george bank basin american association petroleum geologist memoir 
+sheridan grow behrendt bayer seismic refraction study continental edge eastern united state tectonophysics 
+sheridan grow the atlantic continental margin the geology north america vol 
+geological society america 
+sheridan grow klitgord geophysical data sheridan grow eds the atlantic continental margin the geology north america geological society america 
+sheridan olsson miller seismic reflection gravity study propose taconic suture new jersey coastal plain geological society america bulletin 
+schlee atlantic continental shelf slope united state sediment texture northeastern part usgs professional paper schlee klitgord structure north american atlantic continental margin journal geological education 
+schlee klitgord georges bank basin regional synthesis sheridan grow eds the atlantic continental margin the geology north america geological society america 
+schlee interregional unconformities hydrocarbon accumulation american association petroleum geologist memoir 
+schlee poag hinz seismic stratigraphy continental slope rise seaward george bank poag geologic evolution united state atlantic margin new york van nostrand reinhold company 
+scholle geological study cost 
+well mid atlantic outer continental shelf area geological survey circular 
+scholle wenkam eds geological study cost no 
+well united state north atlantic outer continental shelf geological survey circular 193p 
+geological survey open file report smith wessel grid continuous curvature spline tension geophysics 
+stoll theoretical aspect sound transmission sediment journal acoustic society america 
+stoll acoustic wave ocean sediment geophysics 
+tucholke mountain seismic stratigraphy lithostratigraphy paleosedimentation pattern north american basin talwani hay ryan ed deep drilling result atlantic ocean continetal margin paleoenvironment maurice ewe series american geophysical union 
+vail mitchum todd widmier thompson iii sangree bubb hatlelid 
+seismic stratigraphy global change sea level payton seismic stratigraphy application hydrocarbon exploration american association petroleum geologist memoir 
+valentine continental margin stratigraphy along geological survey seismic line long island platform western george bank basin geological survey miscellaneous field study map sheet 
+van wagoner posamentier mitchum vail sarg loutit hardenbol overview fundamental sequence stratigraphy key definition wilgus other eds sea level change integrate approach society economic paleontologist mineralogist special publication 
+wessel smith free software help map display data eos transaction american geophysical union 
+geological survey open file report figure caption figure general geologic feature atlantic continental margin 
+major sedimentary basin intervene basement platform offshore indicate 
+grid multichannel seismicreflection profile show 
+figure multichannel seismic reflection profile grid use construction geoacoustic database superimpose bathymetric contour map northern atlantic continental margin 
+heavy weight line indicate seismic reflection profile use primary stratigraphic velocity calibration line study usgs cdp line 
+refer end composite seismic line connect cost cost well 
+figure general geologic feature across atlantic margin base seismic reflection profile usgs cdp line klitgord fig 
+note location basement hinge zone jurassic carbonate bank paleoshelf edge major fault within cretaceous jurassic section vicinity paleosheif edge 
+shade use distinguish different age sedimentary unit across margin 
+tertiary upper cretaceous low cretaceous upper jurassic middle jurassic 
+small dash pattern landward side profile represent continental crust 
+oceanic crust underlies surface label oceanic basement 
+from klitgord other fig 
+figure segment usgs seismic line across george bank 
+simplify lithologic log cost well depth project onto line section southwest 
+the arrow outline horizon along reflection terminate truncation downlap onlap wavy line indicate unconformities hole 
+such feature use identify deposit environment influence fluctuate sea level sea floor depth margin construction 
+age seismostratigraphic unit bound unconformities heavy line line section 
+the age gap old late cretaceous infer matching horizon along reflection terminate 
+from poag schlee fig 
+figure segment usgs seismic line across outer edge baltimore canyon trough show carbonate shelf edge platform 
+project location exploration well shell oil drill carbonate complex indicate 
+refer cretaceous unconformities 
+oligo oligocene cenom cenomanian apt aptian upper jurassic 
+from schlee klitgord fig 
+figure segment usgs seismic line across continental rise east george bank 
+stratigraphic unit label table 
+oligocene unconformity tertiarycretaceous boundary top neocomian limestone unit top jurassic top middle jurassic 
+from klitgord other fig 
+figure location velocity data point along grid multichannel seismic reflection profile use database 
+seismic line number indicate cross section include appendix 
+figure location minute grid point digital database acoustic parameter 
+geological survey open file report figure diagrammatic representation geometry geologic feature geoacoustic database 
+parameter table refer either property unit directly reflector property entire section sea surface reflector 
+time section 
+depth section 
+figure diagram portraying nomenclature acoustic reflector use geoacoustic database base tag use base unit 
+note example top maastrichtian unit reflector reflector reflector whereas reflector always base upper oligocene 
+figure surface attenuation base surface sediment type table derive digital database hathaway other 
+contour interval unit 
+plus symbol indicate location data sample 
+region seaward shelf edge sample assign general value clay 
+figure composite cdp seismic line george bank basin use calibrate seismic reflection profile cost well 
+time depth acoustic reflector digital database second two way travel time distance shot point 
+interval velocity unit acoustic reflector figure 11a distance shot point 
+shot point space 100m 
+see figure location 
+figure example deposit feature within stratigraphic unit database 
+the sediment isochron map sec aptian albian unit correspond stratigraphic unit reflector table 
+solid arrow indicate inferred primary route sediment dispersal dash arrow indicate secondary route 
+diagonal hachure indicate unite absent thin resolve seismic profile 
+the major delta shelf fan slope rise region indicate 
+shade contour interval sec indicate thin part unit 
+heavy dot line indicate possible axis erode bottom current 
+ancient james river ancient potomac river ancient susquehanna river ancient delaware river ancient hudson river ancient connecticut river ancient river eastern massachusetts confluent fan 
+from poag fig 
+long island platform 
+scotian basin george bank basin 
+south florida figure 
+baltimore canyon trough atlantic ocean 
+carolina trough carolina platform blake plateau basin 
+explanation expose poleozoic orogenic iil marginol basin with thick accumulation mesozoic and ccnozoic sediment salt diopir province jilli east coast magnetic anomaly blake spur magnetic anomaly multichannel line 
+george bank basin 
+seaward dip reflector zone line 
+continental basement basement hinge zone post rift unconformity 
+xjg seaward dip reflector zone 
+oceanic basement 
+central baltimore oanyon trough line 
+hinge zone post riff 
+southern baltimore canyon trough 
+seismic unconformities jurassic 
+faunal and seismic unconformities cretaceous 
+vji iff till 
+hrf czd 
+two way travel time sec 
+croo roooo 
+croo two way travel time sec 
+cdp seismic line shell shell shell figure 
+cdp seismic line 
+database grid location 
+shotpoint number 
+shotpoint number 
+shotpoint number 
+iiii lower miocene 
+u0w upper oligocene 
+eoc paliotrr 
+foc ecc7 
+surface attenuation decibel meter contour interval 
+composite line time section 
+line x12 
+shotpoint number 
+line 12x1 
+line costg 
+composite line int vel 
+smt ism rms 
+line cost 
+aptian albian contour interval 
+way traveltime 
+geological survey open file report 
+seismic line composite line usgs cdp line usgs cdp line usgs cdp line usgs cdp line usgs cdp line usgs cdp line usgs cdp line usgs cdp line usgs cdp line usgs cdp line usgs cdp line 12a usgs cdp line 12bc usgs cdp line 12de usgs cdp line 12fg usgs cdp line 12hi usgs cdp line 12j1 usgs cdp line 13a usgs cdp line 13b usgs cdp line 13cd usgs cdp line 13ef usgs cdp line 13gh usgs cdp line ipod usgs cdp line 14a usgs cdp line 14b usgs cdp line 15a usgs cdp line 15b usgs cdp line usgs cdp line usgs cdp line usgs cdp line usgs cdp line usgs cdp line usgs cdp line usgs cdp line usgs cdp line usgs cdp line 25a usgs cdp line 25b usgs cdp line usgs cdp line usgs cdp line usgs cdp line usgs cdp line usgs cdp line usgs cdp line usgs cdp line usgs cdp line usgs cdp line bgr bgr 
+appendix geological survey cdp line 
+shot pt 
+soacina 100m 100m 100m 100m 100m 100m 100m 100m 100m 100m 100m 100m 100m 100m 100m 100m 100m 100m 100m 100m 100m 100m 100m 50m 50m 50m 50m 50m 50m 50m 50m 50m 50m 50m 50m 50m 50m 50m 50m 50m 50m 50m 50m 50m 50m 50m 50m 50m 50m 50m 
+channel steamer sou 
+liter liter 
+geological survey open file report 
+line cross well cross shoot point number 
+seismic line 12ab 12ab 12ab 12ab 12ab 12c 12c 12c 12d 12d 12d 12d 12d 12d 12e 12e 12fg 12fg 12fg 12fg 12hi 12hi 12hi 12hi 12j1 12j1 12j1 12j1 12j1 13ad 13ad 13ad 13ad 13ad 13ad 13ad i3ad i3ad i3ad i3ad i3ad 13ad 13eh 13eh 13eh 13eh 13eh 13eh 13eh 13eh 13eh 13eh 13eh 13eh 
+cross line shot 
+well amcor line mobil line conoco line asp line shell line shell line shell line shell line uscglt ch1 
+amcor line 
+geological survey open file report 
+shell line 
+shell line 
+cost line 
+15a tenneco line 
+mobil line 
+hom line 
+gulf line 
+exxon line 
+exxon line 
+exxon line 
+tenneco line 
+texaco line 
+texaco line 
+lase esp 
+lase esp 
+lase esp 
+dsdp line 
+lase esp 
+dsdp line 
+dsdp line 
+dsdp line 
+lase esp 
+shell line 
+shell line 
+cost proj 
+geological survey open file report 
+cost cost asp amcor6012 
+geological survey open file report 
+appendix atlantic margin industry well use calibrate database 
+industry well velocity bio lithostratigraphic information use database klitgord schneider 
+basin well 
+gbb costg 
+gbb costg 
+bct cost 
+bct shell 
+bct shell 
+bct shell 
+bct shell 
+bct gulf 
+bct texaco 
+bct mobil 
+bct mobil 
+bct exxon 
+bct tenneoo 
+38d42 38d22 38d24 37d53 39d06 39d22 38d58 39d25 39d16 38d27 
+longitude 73d27 73d09 73d13 73d44 72d49 72d31 73d02 73d04 72d39 73d22 
+72m 2042m 1794m 1529m 102m 128m 79m 66m 126m 108m 
+4821m 6554m 4863m 5237m 4420m 3076m 5407m 5527m 5244m 4160m 2543m 4969m 5443m 
+sonic yes yes yes yes yes yes yes yes 
+ckshot yes yes yes yes yes yes yes yes yes yes yes yes yes 
+industry well bio lithoiostratigraphic information incorporate stratus graphic 
+analysis indicate report poag 85b poag 
+valentine poag wade 
+basin well 
+latitude longitude 
+gbb exxon 40d49 67d56 
+69m 4303m 
+gbb exxon 41d00 67d37 
+64m 4361m 
+gbb shell 40d34 67d12 
+136m 4587m 
+gbb mobil 40d39 67d46 
+84m 6096m 
+gbb mobil 40d46 67d23 
+94m 5407m 
+gbb gulf 
+40d50 67d17 
+91m 4302m 
+gbb mobil 40d41 67d30 
+98m 4624m 
+gbb shell 40d37 67d44 
+82m 5818m 
+cost 72o46 
+819m 3991m 
+bct conoco 39d22 72d58 
+70m 3562m 
+bct shell 39d20 73d06 
+64m 4180m 
+bct texaco 39d22 72d30 
+130m 4423m 
+bct houston 39d17 73d06 
+67m 3713m 
+bct exxon 39d18 72d38 
+12m 5226m 
+bct mobil 38d58 73d02 
+85m 261m 
+bct houston 39d06 72d54 
+89m 5217m 
+bct shell 38d42 73d32 
+66m 4024m 
+bct gulf 
+39d15 73d09 
+58m 3825m 
+bct exxon 39d04 72d45 
+132m 4713m 
+bct tennfjoo 39d20 72d29 
+139m 5447m 
+bct exxon 39d26 73d06 
+62m 3647m 
+bct texaco 39d20 72d30 
+139m 5264m 
+bct murphy 38d51 72d57 
+125m 4908m 
+bct tennfjoo 39d20 72d31 
+137m 4861m 
+bct exxon 39d21 72d29 
+135m 5058m 
+bct texaco 39d21 72d30 
+129m 4724m 
+bct exxon 39d10 72d38 
+143m 5257m 
+bct exxon 39d15 72d39 
+132m 4477m 
+bct shell 38d36 72d52 
+2119m 3545m 
+geological survey open file report appendix stratigraphic time section layer interval velocity section the upper profile time section line seismostratigraphic base display term two way travel time second distance along track shot point 
+each number surface correspond one seismostratigraphic unit list table 
+the upper surface sea floor reflector 
+numbered line cross diagonally sedimentary section interpret fault 
+numbered line beneath number stratigraphic section basement structure synrift stratum 
+they provide guide general nature geologic feature beneath geologic unit data base include grid database 
+the low profile line display interval velocity stratigraphic unit show upper profile 
+these velocity final smooth function derive ism smooth rms velocity data 
+velocity increase go page high velocity bottom 
+average water velocity assume sec 
+note general increase velocity seaward direction across shelf 
+this change primarily associate great depth burial unit 
+each velocity curve number corresponds unit directly number surface list table show upper profile 
+the indicate location velocity analysis 
+composite line time section shotpoint number 
+composite line int vel 
+smt ism rms shotpoint number 
+usgs cdp line time section 
+usgs cdp line interval velocity smt ism rms 
+usgs cdp line time section 
+fttt umb vms 
+shotpojnt number 
+usgs cdp line interval velocity smt ism rms 
+xuiwiat xum204 
+xuno4 2u9 
+shotpo nnuunmbir 
+330i00 1r40 13i00 
+usgs cdp line time section usgs cdp line interval velocity smt ism rms 
+usgs cdp line time section usgs cdp line interval velocity smt ism rms 
+usgs cdp line time section shotpoint number 
+usgs cdp line intervol velocity smt ism rms 
+ehotpoint number 
+usgs cdp line time section 
+usgs cdp line interval velocity smt ism rms 
+xun 25io 
+shotpoint number 
+23oo at100200300 
+1i200 3r0 
+i1600 ilh700 
+usgs cdp line time section 
+xunll b615 
+sfiotpoirtt number 
+usgs cdp line 
+interval velocity smt ism rms xlin 142jo 
+shotpoint number 
+usgs cop line time section twjf vflsi shotpdntnumtw 1mo itoo ifoo moo 2too moo 
+usgs cdp line interval velocity smt ism rms 
+wio 17i00 1i000 
+24i00 25i00 
+usgs cdp line time section 
+shotpoint number 
+usgs cdp line intervol velocity smt ism rms 
+iusco zoo 
+sa1 usgs cdp line xuiwltt 
+time section 
+shotpjpint number 
+4oo sooo 
+usgs cdp line uram 
+interval velocity smt ism rms hunilol 
+shotooint number 
+usgs cdp line 
+time section 
+xuscgltos y70xumjo 
+shotpdint nurpper 
+usgs cdp line interval velocity smt ism rms 
+uscc ilti shotplqoint nuumber 
+interval velocity sec isisil 
+traveltime sec 
+usgs cdp line 12de time section shotpoint number 
+usgs cdp line 12de iwffi 
+interval velocity smtlsm rms 
+shotpoint number 
+interval velocity sec 38s8s 
+usgs cdp line 12hi time section 
+usgs cdp line 12hi interval velocity smt ism rms 
+shotpoint number 
+usgs cdp line 12j1 time section usgs cdp line 12j1 interval velocity smt ism rms 
+usgs cop line 13d time section 
+shotpoint numbar 
+xlh 4ko 
+eono usgs cop line 13a interval velocity smt ism rms 
+shotpoint numbar 
+usgs cdp line 13b time section 
+shotpoint number 
+usgs cdp line 13b interval velocity smt ism rms 
+shotpoint number 
+3i400 35r0 6i00 
+usgs cdp line 13cd time section 
+shotpoint numbar 
+usgs cdp line 13cd interval velocity smt ism rms 
+sholpoint number 
+interval velocity sec sfcks 
+jne13ef shnefupemint 
+usgs cdp line 13gh xun 
+time section 
+usgscdp line 13qh 
+interval velocity smt ism rms 
+shotpointi number 
+usgs cdp line time section 
+smi272 xsii 
+shotpoint number 
+usgs cdp line 14b time section 
+xun 1i96 shotpoint lyimber 
+usgs cdp line 
+usgs cdp line interval velocity smt ism rms 
+usgs cdp line 15a time section 
+xiwiwji4 ja0 
+shotpoint number 
+dc cdp line 15b 
+time section 
+xuntl exxon b04 
+ninco tnoco ocoj 
+usgs cdp line 15o 
+usgs cdp line 15b interval velocity smt ism rms 
+usgs cdp line time section 
+usgs cdp line ohx 
+intervol velocity ami ism rms 
+boo 0i00 1i200 14r00 isoo 
+shotpoint numbor 
+usgs cdp line time section 
+usgs cdp line interval velocity smt ism rms 
+shotpoint number 
+usgs cdp line time section 
+usgs cdp line interval velocity smt ism rms 
+shotpo number 
+usgs cop line time section 
+usgs cdp line 
+interval velocity smt ism rms 
+usgs cdp line time section 
+usgs cdp line interval velocity smt ism rms 
+usgs cdp line time section xline204 shotpoint number 
+usgs cdp line 
+interval velocity smt ism rms 
+usgs cop line time section 
+usgs cop line interval velocity ami ism rms 
+shotpoint number 
+lph 3wumq 
+usgs cdp line time section 
+shotpoint numbtr 
+usgs cdp line 
+interval velocity smt ism rms 
+shotpoint number 
+interval velocity sec 
+usgs cdp line 25a time section 
+jftis vnan «»» 
+supoirt number 
+boo s400 2boo 
+llmi bxaf abaaa ss esf 
+usgs cdp line 25b time section 
+shotpoint number 
+usgs cdp line 25a interval velocity smt ism rms 
+sbotpo number 
+kubt tsf 
+««» i11 
+mnfw oae 
+usgs cdp line 25b interval velocity smt ism rms 
+shatpaint numbei 
+usgs cdp line time section 
+usgs cdp line 
+arintervol velocity smt ism rms 
+xttdu7 24ooj 
+ishotppint number 
+usgs cdp line time section 
+shotpolnt number 
+usgs cdp line interval velocity smt ism rms 
+shotpoint number 
+utrfw foiwtatmj 
+usgs cdp line time section 
+shotpolnt number 
+usgs cdp line interval velocity smt ism rms 
+shotpoint number 
+usgs cdp line time section 
+usgs cdp line interval velocity smt ism rms 
+shotpoint number 
+usgs cdp line time section 
+shotpoint number 
+usgs cdp line interval velocity smt ism rms 
+shotpoint numb 
+interval velocity sec sgis 
+troveltime sec 
+usgs cdp line time section 
+roco usgs cdp line interval velocity smt ism rms 
+usgs cdp line time section 
+usgs cdp line interval velocity smt ism rms 
+shotpoint number 
+usgs cdp line time section 
+usgs cdp line interval velocity smt ism rms 
+shotpoint number 
+20i 140i 
+-«* .,« 
+13so nun iso 
+bgr line time section 
+wsb jffi 
+sho pa1r number 
+jooo j200 
+bgr line interval velocity smt ism rms vtti imvis 
+shotpoint numb 
+bgr line time sectio shotpoint numbw 
+usgs ipod cdp line time section 
+usgs ipod cdp line intervol velocity smt ism rms 
+shotpoint number 
+2qrp 400d 
+geological survey open file report appendix time depth contour map base acoustic unit digital database surface contour map two way travel time base acoustic unit geoacoustic database 
+the dotted line represent seismic line control use construct surface 
+see figure minute grid point map base seismic line use construct contour map 
+shade mask indicate region particular surface erode overlie surface 
+narrow blank zone shelf edge region deeper unit obscure jurassic carbonate bank 
+contour interval sec two way travel time 
+reflector depth reflector sec contour interval sec albers equal area projection scale standard parallel central meridian 
+reflector depth reflector sec contour interval sec albers equal area projection scale standard parallel central meridian 
+reflector depth reflector sec contour interval sec albers equal area projection scale standard parallel central meridian 
+reflector depth reflector sec contour interval sec albers equal area projection scale standard parallel central meridian 
+reflector depth reflector sec contour interval sec albers equal area projection scale standard parallel central meridian 
+reflector depth reflector sec contour interval sec albers equal area projection scale standard parallel central meridian 
+reflector depth reflector sec contour interval sec albers equal area projection scale standard parallel central meridian 
+reflector depth reflector sec contour interval sec albers equal area projection scale standard parallel 
+reflector depth reflector sec contour interval sec albers equal area projection scale standard parallel central meridian 
+reflector depth reflector sec contour interval sec albers equal area projection scale standard parallel central meridian 
+reflector depth reflector sec contour interval sec albers equal area projection scale standard parallel central meridian 
+reflector depth reflector sec contour interval sec albers equal area projection scale standard parallel central meridian 
+reflector depth reflector sec contour interval sec albers equal area projection scale standard parallel central meridian 
+reflector depth reflector sec contour interval sec albers equal area projection scale standard parallel central meridian 
+reflector depth reflector sec contour interval sec albers equal area projection scale standard parallel central meridian 
+reflector depth reflector sec contour interval sec slandlehqdal 
+pr0iectj0 sc3le standard parallel central meridian 
+reflector depth reflector sec contour interval sec albers equal area projection scale standard parallel central meridian 
+reflector depth reflector sec contour interval sec albers equal area projection scale standard parallel central meridian 
+reflector depth reflector sec contour interval sec albers equal area projection scale standard parallel central meridian 
+reflector depth reflector sec contour interval sec albers equal area projection scale standard parallel central meridian 
+geological survey open file report appendix depth meter contour map base acoustic unit digital database surface contour map depth meter base acoustic unit geoacoustic database 
+the dotted line represent seismic line control use construct surface 
+see figure minute grid point map base seismic line use construct contour map 
+shade mask indicate region particular surface erode overlie surface 
+narrow blank zone shelf edge region deeper unit obscure jurassic carbonate bank 
+contour interval 
+reflector depth reflector contour interval albers equal area projection scale standard parallel central meridian 
+reflector depth reflector contour interval albers equal area projection scale standard parallel central meridian 
+reflector depth reflector contour interval albers equal area projection scale standard parallel central meridian 
+reflector depth reflector contour interval albers equal area projection scale standard parallel central meridian 
+reflector depth reflector contour interval albers equal area projection scale standard parallel central meridian 
+reflector depth reflector contour interval albers equal area projection scale standard parallel central meridian 
+reflector depth reflector contour interval albers equal area projection scale standard parallel central meridian 
+reflector depth reflector contour interval albers equal area projection scale standard parallel central meridian 
+reflector depth reflector contour interval albers equal area projection scale standard parallel central meridian 
+reflector depth reflector contour interval albers equal area projection scale standard parallel central meridian 
+reflector depth reflector contour interval albers equal area projection scale standard parallel central meridian 
+reflector depth reflector contour interval albers equal area projection scale standard parallel central meridian 
+rtoo reflector depth reflector contour interval albers equal area projection scale standard parallel central meridian 
+reflector depth reflector contour interval albers equal area projection scale standard parallel central meridian 
+reflector depth reflector contour interval albers equal area projection scale standard parallel central meridian 
+reflector depth reflector contour interval albers equal area projection scale standard parallel central meridian 
+reflector depth reflector contour interval albers equal area projection scale standard parallel central meridian 
+reflector depth reflector contour interval albers equal area projection scale standard parallel central meridian 
+reflector depth reflector contour interval albers equal area projection scale standard parallel central meridian 
+reflector depth reflector contour interval albers equal area projection scale standard parallel central meridian 
+geological survey open file report appendix thickness lsopach contour map acoustic unit digital database isopach contour map thickness two way travel time acoustic unit geoacoustic database 
+the dotted line represent seismic line control use construct surface 
+see figure minute grid point map base seismic line use construct contour map 
+shade mask indicate region particular surface erode overlie surface 
+narrow blank zone shelf edge region deeper unit obscure jurassic carbonate bank 
+contour interval sec 
+unit above reflector thickness twtt sec contour interval sec albers equal area projection scale standard parallel central meridian 
+unit above reflector thickness twtt sec contour interval sec albers equal area projection scale standard parallel central meridian 
+unit above reflector thickness twtt sec contour interval sec albers equal area projection scale standard parallel central meridian 
+unit above reflector thickness twtt sec contour interval sec albers equal area projection scale standard parallel central meridian 
+unit above reflector thickness twtt sec contour interval sec albers equal area projection scale standard parallel central meridian 
+unit above reflector thickness twtt sec contour interval sec albers equal area projection scale standard parallel central meridian 
+unit above reflector thickness twtt sec contour interval sec albers equal area projection scale standard parallel central meridian 
+unit above reflector thickness twtt sec contour interval sec albers equal area projection scale standard parallel central meridian 
+unit above reflector thickness twtt sec contour interval sec albers equal area projection scale standard parallel central meridian 
+unit above reflector thickness twtt sec contour interval sec albers equal area projection scale standard parallel central meridian 
+unit above reflector thickness twtt sec contour interval sec albers equal area projection scale standard parallel central meridian 
+unit above reflector thickness twtt sec contour interval sec albers equal area projection scale standard parallel central meridian 
+unit above reflector thickness twtt sec contour interval sec albers equal area projection scale standard parallel central meridian 
+unit above reflector thickness twtt sec contour interval sec albers equal area projection scale standard parallel central meridian 
+unit above reflector thickness twtt sec contour interval sec albers equal area projection scale standard parallel central meridian 
+unit above reflector thickness twtt sec contour interval sec albers equal area projection scale standard parallel central meridian 
+unit above reflector thickness twtt sec contour interval sec albers equal area projection scale standard parallel central meridian 
+unit above reflector thickness twtt sec contour interval sec albers equal area projection scale standard parallel central meridian 
+unit above reflector thickness twtt sec contour interval sec albers equal area projection scale standard parallel central meridian 
+unit above reflector thickness twtt sec contour interval sec albers equal area projection scale standard parallel central meridian 
+geological survey open file report appendix interval velocity contour map acoustic unit digital database contour map interval velocity acoustic unit geoacoustic database 
+the dotted line represent seismic line control use construct surface 
+see figure minute grid point map base seismic line use construct contour map 
+shade mask indicate region particular surface erode overlie surface 
+narrow blank zone shelf edge region deeper unit obscure jurassic carbonate bank 
+water velocity reflector assume sec 
+contour interval sec 
+unit above reflector interval velocity sec contour interval sec albers equal area projection scale standard parallel central meridian 
+unit above reflector interval velocity sec contour interval sec albers equal area projection scale standard parallel central meridian 
+unit above reflector interval velocity sec contour interval sec albers equal area projection scale standard parallel central meridian 
+tin unit above reflector interval velocity sec contour interval sec albers equal area projection scale standard parallel central meridian 
+unit above reflector interval velocity sec contour interval sec albers equal area projection scale standard parallel central meridian 
+unit above reflector interval velocity sec contour interval sec albers equal area projection scale standard parallel central meridian 
+unit above reflector interval velocity sec contour interval sec albers equal area projection scale standard parallel central meridian 
+unit above reflector interval velocity sec contour interval sec albers equal area projection scale standard parallel central meridian 
+nancy soderberqa usgs doi 
+carolyn mccullough wrd usgs doi usgs donna newman usgs doi usgs dhutchinson usgs gov gmiller usgs gov bcc subject inquiry pub contact form 
+carolyn paper copy put copy mail tomorrow 
+thank also explain format resolution rquired scan convert djvue 
+keep mind stumble pub particularly open file thanks nancy soderberg nancy soderberg usgs data library fax nsoderberg usgs gov wood hole wood hole ship wood hole falmouth http woodshole 
+usgs gov carolyn mccullough wrd usgs dol 
+carolyn mccullough wrd usgs dol 
+nsoderberg usgs gov subject inquiry pub contact form 
+locate open file report produce people office marine geology wood hole science center library catalog library denver distribution 
+they ofr paper 
+possible get directly use djvu 
+scan desktop create pdf create standard format 
+john watson suggest contact directly see scan know still need send multiple copy penny burnworth get library catalog 
+klitgord schneider geophysical database east coast united state northern atlantic margin velocity analyse usgs open file report klitgord poag schneider north geophysical database east coast united state northern atlantic margin cross section gridden database george bank basin long island platform baltimore canyon trough usgs open file report thanks nancy soderberg nsoderberg usgs gov whsc data library archive 
+nancy thank verification publication unable find complete citation available public 
+updated citation available public site tomorrow 
+extra paper copy mind destroyed cut bind scan copy send usgs legacy report project usgs cartography publish program science drive madison would take care scan get post pub warehouse 
+paper copy would able photocopy report would fine 
+otherwise would like scan request people scan follow specification dot per inch not interpolate true optical tiff format uncompressed group tiff produce many scanner grayscale bit color depend original material single page tiff take pdf format convert djvu would prefer one option archive raw file capp send copy national archive technology change always reprocess raw file 
+please let know question 
+thank carolyn carolyn mccullough publication warehouse geological survey research way middleton mccullou usgs gov 
+unit above reflector interval velocity sec contour interval sec albers equal area projection scale standard parallel central meridian 
+unit above reflector interval velocity sec contour interval sec albers equal area projection scale standard parallel central meridian 
+unit above reflector interval velocity sec contour interval sec albers equal area projection scale standard parallel central meridian 
+unit above reflector interval velocity sec contour interval sec albers equal area projection scale standard parallel central meridian 
+unit above reflector interval velocity sec contour interval sec albers equal area projection scale standard parallel central meridian 
+unit above reflector interval velocity sec contour interval sec albers equal area projection scale standard parallel 
+unit above reflector interval velocity sec contour interval sec albers equal area projection scale standard parallel central meridian 
+unit above reflector interval velocity sec contour interval sec albers equal area projection scale standard parallel central meridian 
+unit above reflector interval velocity sec contour interval sec albers equal area projection scale standard parallel central meridian 
+unit above reflector interval velocity sec contour interval sec albers equal area projection scale standard parallel central meridian 
+unit above reflector interval velocity sec contour interval sec 
+geological survey open file report appendix sediment type distribution within acoustic unit digital database distribution sediment type within acoustic unit geoacoustic database 
+see figure seismic line use construct map 
+shade mask indicate region particular surface erode overlie surface 
+narrow blank zone shelf edge region deeper unit obscure jurassic carbonate bank 
+geologic unit between reflector sediment type sand silt clay layer absent 
+geologic unit between reflector sediment type sand silt clay layer absent 
+geologic unit between reflector sediment type sand silt clay layer absent 
+geologic unit between reflector sediment type sand silt clay layer absent 
+geologic unit between reflector sediment type sand silt clay layer absent 
+geologic unit between reflector sediment type sand silt clay layer absent 
+geologic unit between reflector sediment type 
+sand silt chalk layer absent 
+geologic unit between reflector sediment type sand silt clay layer absent 
+geologic unit between reflector sediment type sand silt clay layer absent 
+geologic unit between reflector sediment type sand silt clay layer absent 
+geologic unit between reflector sediment type sand silt shale layer absent 
+geologic unit between reflector sediment type sand silt shale layer absent 
+geologic unit between reflector sediment type sand silt shale layer absent 
+geologic unit between reflector sediment type sand silt shale limestone layer absent 
+geologic unit between reflector sediment type sand silt shale limestone layer absent 
+geologic unit between reflector sediment type sand silt limestone layer absent 
+geologic unit between reflector sediment type sand silt limestone layer absent 
+geologic unit between reflector sediment type sand silt limestone layer absent 

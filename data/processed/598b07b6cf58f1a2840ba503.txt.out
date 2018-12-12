@@ -1,0 +1,386 @@
+earth planetary science letter content list available sciencedirect earth planetary science letter www elsevier com locate epsl 
+continental underplating slab break magni ,∗, 
+allen van hunen bouilhol the centre earth evolution dynamic ceed university oslo sem sælands vei box blindern oslo norway department earth science durham university dh1 3le durham united kingdom université clermont auvergne cnrs ird opgc laboratoire magma volcans clermont ferrand france 
+article info article history receive september receive revised form may accept june available online june editor buffett keywords continental collision underplating slab break numerical model subduction dynamic 
+abstract present three dimensional numerical model investigate dynamic continental collision particular happens subducted continental lithosphere oceanic slab break 
+ﬁnd scenario subducting continental lithosphere underthrusts override plate immediately enter trench oceanic slab break 
+case continental plate ﬁrst subducts steep angle slab break depth rise back towards surface ﬂattens override plate form thick horizontal layer continental crust extend beyond suture 
+this type behaviour depend width oceanic plate marginal collision zone wide oceanic margin promote continental underplating marginal back arc basin narrow margin show underplating unless far ﬁeld force apply 
+our model show subducted continental lithosphere rise mantle wedge progressively migrate away suture continental crust heat reach temperature 
+this heating might lead crustal melt resultant magmatism 
+observe sharp peak override plate rock uplift right occurrence slab break 
+afterwards underplating maximum rock uplift small affected area much wider 
+these result use explain dynamic lead present day crustal conﬁguration india eurasia collision zone consequence regional tectonic magmatic evolution 
+the author 
+publish elsevier 
+this open access article license http creativecommons org license 
+introduction the dynamic continental collision complex due many force act system time many factor affect 
+different scenario possible continent reach subduction zone trench 
+for instance apennines carpathians many study suggest delamination lithospheric mantle continental crust occur leave thin layer crust lithospheric mantle keep subducting 
+bird cloos brun faccenna gög 
+zagros himalayas slab break occur result high tensile stress cause oceanic slab pull depth buoyant continental crust resists subduction surface 
+davy von blanckenburg wong ton wortel replumaz 
+seismic study focus architecture himalayan area however show indian con correspond author the centre earth evolution dynamic ceed university oslo sem sælands vei box blindern oslo norway 
+mail address valentina magni geo uio magni 
+tinental lithosphere lie sub horizontally underneath eurasia north suture zone nábeˇlek chen 
+this conﬁguration also suggest present ancient orogeny 
+slave province canada helmstaedt variscan orogeny france averbuch piromallo 
+still unclear underthrusting subducting continental lithosphere slab break coexist system 
+particular poorly know underthrusting evolves continental collision dynamic process factor control occurrence 
+the long term history plat prior collision one key factor affect evolution continental collision 
+old cold continent craton strong young continent usually characterise weak jelly sandwich style ductile lower crust burov favour decouple upper crust lithospheric mantle need delamination occur bajolet magni 
+moreover dynamic collision might also affect interaction mantle convection cause feature like mantle plume formation slab window presence subduction zone nearby 
+this instance case india eurasia collision 
+http doi org epsl 821x the author 
+publish elsevier 
+this open access article license http creativecommons org license 
+earth planetary science letter 
+presence external force argue explain sustained convergence plate chemenda becker faccenna cande stegman 
+last decade many numerical analogue experiment slab break allow much well understanding break process consequence evolution topography stress ﬁeld magmatism wong ton wortel gerya duretz van hunen allen pusok kaus 
+however less work do study happens subducted lithosphere slab break 
+several numerical study find process eduction geodynamically plausible subducted continental lithosphere coherently exhume suture zone slab detachment duretz bottrill 
+study use numerical model continental collision investigate control occurrence underplating discuss possible application model india eurasia collision system 
+methodology investigate dynamic continental collision numerical model subduction use ﬁnite element code citcom solve conservation mass momentum thermal energy composition cartesian geometry moresi gurnis see magni 
+table use value default parameter 
+our model simulate collision wide continental block continental override plate initial stage oceanic subduction fig 
+oceanic lithosphere variable width ﬂanks continental block take account complexity natural subduction system often oceanic continental subduction happen simultaneously along trench good understand interact 
+vary width oceanic margin density continental crust investigate control occurrence underplating dynamic 
+moreover also run additional model impose continuous convergence plate 
+reduce computational cost exploit system symmetry along plane centre continental block perpendicular trench plane 
+therefore direction model half domain 
+the reference model computational domain size wide oceanic part within subducting lithosphere fig 
+other model calculation different oceanic plate width model computational domain size direction adjust accordingly 
+the initial position trench impose 
+table symbol unit default model parameter 
+parameter rheological pre exponent activation energy gravitational acceleration rheological power law exponent lithostatic pressure gas constant absolute temperature reference temperature compositional density contrast strain rate second invariant strain rate effective viscosity reference viscosity maximum lithosphere viscosity friction coeﬃcient reference density yield stress surface yield stress maximum yield stress 
+symbol abs ηmax τmax 
+model geometry domain depth domain length domain width mesh resolution 
+continental block half width oceanic side width continental crust thickness 
+value unit pan mol diff 
+[–] mol [–] mpa mpa mpa km3 
+model evolution trench free move response system dynamic magni 
+subduction facili tat impose initial oceanic slab extend depth 
+the initial temperature ﬁeld oceanic lithosphere calculate follow half space cool solution myr old plate turcotte schubert 
+reference model continental lithosphere model thick layer positively buoyant crust cm3 temperature extend linearly surface depth 
+allow possible mantle ﬂow around edge slab avoid artefact due lateral boundary condi tion computational domain wider subducting plate 
+this model impose transform fault wide low viscosity zone 
+for simplicity assume two plate width 
+thermal boundary condition top bottom leave boundary insulating condition along rest boundary 
+mechanical boundary condi tions free slip everywhere except bottom boundary 
+initial setup boundary condition reference model 
+the width oceanic side reference model vary model accordingly width domain vary 
+earth planetary science letter 
+slip condition apply model effect viscosity contrast upper low mantle fig 
+run one model impose velocity surface investigate effect far ﬁeld push subducting plate continental collision dynamic 
+the viscosity system temperature stress dependent 
+the strain rate accommodate diffusion dislocation creep hirth kohlstedt korenaga karato 
+the effective viscosity mechanism deﬁned 
+symbol deﬁned table second variant strain rate deﬁned 
+addition yield mechanism implement reduce strength lithosphere effective viscosity deﬁned 
+yield stress describe 
+min μp0 τmax 
+τmax maximum yield stress μp0 byerlee law yield stress surface friction coeﬃcient lithostatic pressure 
+point effective viscosity minimum viscosity value derive mechanism described 
+account weaken mechanism low temperature impose maximum viscosity the rheology assume mantle crustal material without internal rheological layering lithosphere 
+narrow weak zone viscosity plat allow plate decoupling magni 
+the weak ene mantle wedge due slab dehydration mantle hydration melt simulate impose area slab maximum viscosity get weak compute effective viscosity lower 
+reference model 
+ﬁrst investigate ability slab pull oceanic part subducting lithosphere drive underplating 
+the evolution reference model oc500 fig 
+animation supplementary material divide three main phase continental subduction onset deﬁnes initial collision slab break underplating 
+ﬁrst phase part continental block within subducting plate drag oceanic part slab depth 
+the subducted continental crust reach depths stage dip fig 
+after onset continental collision subduction velocity decrease low density continental crust oppose subduction 
+eventually convergence completely stop slab heat neck fig 
+elsewhere along trench 
+subducting plate oceanic subduction still active trench retreat 
+this fast retreat produce high tensile stress override plate result formation back arc basin override plate 
+depth slab highly curve oceanic part retreat whereas continental part stationary slowly advance 
+about myr onset continental collision slab break fig 
+point positively buoyant continental crust able ascend back towards surface 
+however exhume suture zone eduction instead ﬂattens underneath override plate form thick horizontal layer continental crust extend beyond original suture two plate fig 
+refer process underplating 
+show mantle ﬂow immediately slab break oceanic slab side continental block still subducting 
+observe two toroidal ﬂow cell trigger controlled retreat oceanic slab fig 
+far away continent mantle ﬂows around slab edge behind front slab 
+second toroidal ﬂow cell closer continent mantle ﬂows behind oceanic slab towards continental part subducting plate push continental slab towards override plate 
+simultaneously since break happen subducted continental lithosphere rise towards surface fig 
+the combination two force make possible continental crust underlay sub horizontally override plate thus underplating occur 
+control underplating investigate control occurrence underplating slab break additional model table 
+the ﬁrst set model aim study effect different oceanic plate width external force model oc200 wide oceanic side within subducting plate narrow reference model model oc2000 much wide oceanic side ﬁnal model oc200v5 narrow oceanic side velocity impose subducting plate 
+addition test feasibility underplating different buoyancy subducting continental lithosphere model oc500thin thinner continental crust lithosphere compare reference model similar unstretched continent use capitanio 
+model oc500layered include thick upper crust cm3 thick denser lower crust cm3 
+from ﬁrst set model ﬁrst describe result model oc200 oc2000 see effect width oceanic part subducting plate therefore amount available slab pull dynamic system collision slab break 
+then use model oc200v5 examine role externally impose force underplating 
+model oc200 narrow oceanic side retreat little collision occur nearby trench slab remain almost undeformed 
+case observe underplating previously subducted continental crust 
+fact break continental lithosphere rise back exhuming suture zone fig 
+display behaviour term eduction andersen 
+hand evolution model oc2000 wide oceanic part subducting plate similar reference model ﬁrst phase normal continental subduction follow slab breakoff subsequent ﬂattening continental lithosphere override plate fig 
+interestingly model part oceanic plate close continental indentor retreat deform trigger open back arc basin 
+earth planetary science letter 
+evolution reference model ﬁrst phase continental subduction follow slab necking break ﬁnally continental lithosphere rise back towards surface ﬂattens override plate underplating 
+the ﬁrst column show temperature ﬁeld position continental crust white contour vertical section along symmetry axis 
+the middle leave columns front top view respectively isosurface represent lithosphere show blue continental crust show grey 
+green arrows show velocity ﬁeld surface 
+the red thick line right column represent trench 
+the orange line indicate vertical section show left column take 
+time onset collision 
+for interpretation reference colour ﬁgure legend reader refer web version article 
+table model parameter result 
+oceanic side width 
+impose velocity 
+oc500 oc200 oc2000 oc200v5 oc500thin oc500layered 
+upper continental crust low continental crust 
+crust thickness 
+plate thickness 
+crust density cm3 lca 
+underplating slab break yes yes yes yes yes 
+rest oceanic plate almost stationary subduction continue 
+the part oceanic plate retreat wide enough trigger type toroidal ﬂow observe reference model push subducted continental crust ﬂatten override plate 
+also take model oc200 underplating happen perform model velocity impose leave boundary simulate push far ﬁeld force subducting plate model oc200v5 
+model oc200 oceanic side narrow signiﬁcant trench 
+earth planetary science letter 
+mantle ﬂow reference model 
+mantle ﬂow horizontal section depth 
+colour show component velocity positive value towards override right black line show slab 
+temperature ﬁeld mantle ﬂow vertical section symmetry axis 
+white arrow represent general trend mantle ﬂow trigger retreat oceanic slab push rise continental crust override plate 
+for interpretation reference colour ﬁgure legend reader refer web version article 
+result model oc200 narrow oceanic side eduction thus underplating occurs slab break 
+the process underplating occur model oc2000 wide oceanic side oc200v5 narrow oceanic side impose velocity subducting plate 
+the small grey triangle indicate original suture location 
+see fig 
+caption detail colour legend 
+retreat slab deformation thus able affect dynamic rest system laterally 
+however slab break continental lithosphere unable exhume suture zone continue plate convergence subducted continental lithosphere ﬂattens underneath override plate fig 
+finally test effect continental plate buoyancy underplating process 
+model oc500thin thinner continental lithosphere instead reference model well thinner continental crust instead fig 
+result similar reference model also observe underplating occur slab break 
+however process occur faster oc500 
+because lithosphere thinner take less time slab break myr collision previously subducted continental lithosphere underlies sub horizontally upper plate already myr collision 
+observe underplating even low crust slightly denser oc500layered fig 
+however part subducting continental plate underlies override plate less case since continental crust average denser reference model therefore diﬃcult drive underplating 
+some density contrast subducted continent surround mantle seem necessary drive rise underplating slab break indeed promote slab break ﬁrst place van hunen allen 
+consequence underplating during evolution reference model normal continental subduction stage underplating thermal structure entire subduction zone undergoes signiﬁcant variation fig 
+indeed rise subducted continental crust ﬂattening underneath override plate force mantle wedge progressively migrate away trench period myr 
+observe slight temperature decrease top rise continental crust close suture zone due mantle wedge migration 
+time however subducted continental crust becomes hotter break underplating stage deep part reach temperature fig 
+estimate rock uplift deﬁned england molnar upper crust posteriori normal stress top model assume relationship rock 
+earth planetary science letter 
+result model oc500thin thin continental crust lithosphere model oc500layered thick upper crust cm3 thick denser lower crust cm3 
+both model show occurrence underplating slab break 
+see fig 
+caption detail colour legend 
+uplift normal stress σzz ﬁrst order σzz reference density gravitational accel eration 
+this simple approach ignores effect elastic ﬂexure near surface tectonics erosion sedimentation give useful ﬁrst order indication rock uplift 
+whilst specifically model elevation change 
+surface uplift exhumation rate rock uplift would imply rise surface elevation unless completely match exhumation 
+observe sharp peak override plate rock uplift right occurrence slab break fig 
+afterwards underplating maximum rock uplift small affected area large 
+discussion our result show subducting continental lithosphere rise slab break ﬂatten override plate 
+previous numerical study buoyant indentor within oceanic plate show similar behaviour term continental subduction trench migration override plate deformation moresi pusok kaus 
+indeed model also show partial subduction buoyant indentor laterally fast trench retreat oceanic plate cause override plate stretch enough create backarc basin 
+during slab rollback mantle ﬂows around edge oceanic slab toroidal fashion previously show many analogue numerical model funiciello stegman 
+moreover dynamic slab break model similar previous numerical study wong ton wortel duretz van hunen allen neck consequent rupture slab due two opposite force oceanic slab pull depth 
+evolution rock uplift continental crust position leave column temperature change within continental crust right column three main phase reference model continental subduction light blue slab break orange peak surface uplift close suture temperature increase subducted continental crust underplating red uplift less extend wider area crust reach temperature depth 
+the small grey triangle indicate original suture location 
+time myr initial continental collision 
+for interpretation reference colour ﬁgure legend reader refer web version article 
+earth planetary science letter 
+buoyancy continental material shallower depth 
+the subsequent underplating however commonly observe behaviour document knowledge model 
+this due fact process occur system buoyancy driven lateral variation present along trench 
+instead result show underplating occur break additional force need force could provide far ﬁeld push subducting plate mantle ﬂow slab deformation associate ﬂanking oceanic subduction 
+often model behaviour continental collision setting process eduction slab break 
+loss slab pull subducted continental plate coherently educts leading exhumation uhp rock along shear zone plat andersen duretz 
+study observe mechanism eduction impose velocity subducting slab oceanic side adjacent continent narrow affect laterally dynamic system model oc200 fig 
+model impose velocity subducting plate model oc200v5 fig 
+wide oceanic side force opposes eduction make underplating possible loss slab pull due slab break model oc2000 fig 
+ﬁrst case force simply impose continuous push subducting plate 
+second case force provide toroidal mantle ﬂow internal deformation trigger retreat oceanic slab close collision zone 
+the buoyancy subducting plate important factor process 
+indeed drive continental lithosphere rise slab break positive buoyancy 
+continent different structure 
+thickness composition estimate precise density proﬁle continental crust trivial task since geophysical petrological model give unique answer always agree 
+our result show underplating slab break occur even high density lower continental crust consider model oc500layered fig 
+for continent even high density crust would increasingly diﬃcult underplating occur 
+however dense continental crust easy would subduct thus unlikely break happen 
+although go subduction continental lithosphere suggest case capitanio slab break arguably much common behaviour 
+one main consequence process signiﬁcant change temperature ﬁeld subduction zone important effect presence type magmatism relate 
+particular progressive migration mantle wedge away suture zone would likely result shift volcanism well 
+furthermore warm continental crust underplating might lead crustal melt therefore affect composition magmatism surface 
+the precise timing break subsequent underplating depend many factor explicitly explore study rheology thickness composition plat duretz van hunen allen 
+moreover model assume boundary upper low mantle impermeable whereas nature slab either stagnate penetrate upper low mantle transition fukao obayashi 
+slab could sink low mantle pull would likely higher expect slab break subsequent underplating process occur earlier respect onset continental collision 
+this however beyond scope study although time process might change dynamic probably would 
+application india eurasia collision numerical model inherently generic simpliﬁed version reality 
+unlike study model setup design speciﬁcally reproduce complex multi phase india eurasia collision scenario 
+however model still use help understand dynamic aspect complex system 
+model oc200v5 oceanic plate adjacent continental block impose velocity model best represent active collision wide indian continental block override eurasian plate 
+the far ﬁeld force simulate continuous go convergence plate copley 
+investigate nature force previously interpret ridge push basal traction pull neighbouring subducted slabs push plume associate conveyor belt mantle chemenda becker faccenna cande stegman 
+the presence narrow oceanic plate adjacent indian continental block consistent tectonic reconstruction suggest area hall 
+model underplating result formation thick horizontal layer continental lithosphere extend beyond suture 
+such feature present tibet geophysical study image rather ﬂat indian lithosphere far north main suture 
+wittlinger chen overall geometry corresponds obtain model 
+indian plate become sub horizontal underplates eurasia asthenosphere remain slab progressively migrate away suture zone eventually whole slab ﬂattens eurasian continental lithosphere powell 
+this process correspond change magmatism within lhasa terrane since mantle wedge melt would shut 
+show source magmatism observe within lhasa terrane evolve course collision shift late eocene calc alkaline subduction dominate magmas ultrapotassic lava originate metasomatic mantle 
+from oligocene presence underthrusted indian lithosphere document presence magmatic rock southern lhasa terrane inherit zircon grain indian origin bouilhol 
+the observed temperature increase underplated continental crust beyond typical solidus temperature ﬁts geochemistry volcanism northern tibetan plateau contribution continental crust model present source region neogene quaternary volcanic rock guo 
+moreover end result slab break underplating trap non negligible amount override plate mantle lithosphere two plate demonstrate involved source post collision magma 
+early mid miocene synchronous thrust extensionalsense shear himalaya distinct event evolution collision 
+conceptual model require channel ﬂow grujic need explain precise rather restrict timeframe tectonic phase 
+middle miocene recent east west extension across belt southern tibetan plateau relate high elevation gravitational potential energy area elliott 
+conventional crustal thicken alone might produce state whereby buoyancy force associate elevate crust resist shorten elevated region would produce observed extension unless significant change boundary condition take place england 
+earth planetary science letter 
+our model rock uplift consequent surface uplift arise slab break echo well high himalayan tibetan plateau evolution late cenozoic 
+first early stage slab break result high peak rock uplift within north suture 
+this would perturb himalayan wedge respond extension south tibetan detachment system restore critical taper angle kohn 
+after break slab rebound underplating propagate uplift away suture far model 
+since rise southern tibetan plateau result slab ﬂattening trigger east west extension copley styron 
+explain growth entire plateau across north south mechanism take account 
+for instance recent numerical study show pre exist heterogeneity within override plate especially term rheology play important role building orogenic plateau pusok kaus chen gerya 
+our model include complexity study focus effect underplating process tectonics 
+overall oceanic slab break subsequent underthrusting indian continental plate beneath eurasia help explain late cenozoic change tectonics himalayan tibetan system 
+conclusion perform numerical model study dynamic continental collision speciﬁcally underplating subducting continental plate beneath override plate 
+ﬁnd previously subducted continental lithosphere rise back towards surface ﬂatten override plate slab break form thick horizontal layer continental crust extend beyond suture 
+our result show process occur force opposes eduction 
+mechanism provide force could instance far ﬁeld push subducting plate toroidal mantle ﬂow trigger retreat oceanic slab nearby collision oceanic plate wide enough 
+our model show subducted continental lithosphere ﬂattens override plate mantle wedge progressively migrate away suture crust heat reach temperature might lead crustal melting 
+signature heating would likely show occurrence composition syn collision volcanism 
+immediately slab break mark contribution rock uplift close suture 
+afterwards maximum uplift effect reduce affect wider area override plate 
+these result use explain present day crustal conﬁguration india eurasia collision zone also northward shift volcanism change distribution style deformation himalaya tibetan plateau since 
+acknowledgement thank jadamec replumaz comment suggestion signiﬁcantly improve manuscript 
+this study support european research council erc stg 
+also acknowledge support research council norway centre excellence funding scheme project number 
+mba acknowledge natural environment research council grant h021620 
+also acknowledge auvergne fellowship french government laboratory excellence initiative 
+anr 10labx clercvoc contribution 
+this work make use facility hpc provide 
+funded consortium epsrc grant k000225 uninett sigma computational resource allocation notur nn9283k norstore ns9029k 
+supplementary material supplementary material related article find online http doi org epsl 
+reference andersen jamtveit dewey swensson 
+subduction eduction continental crust major mechanism continent continent collision orogenic extensional collapse model base south norwegian caledonides 
+terra nova 
+averbuch piromallo 
+remnant variscan subducted slab mantle beneath paris basin 
+implication late variscan lithospheric delamination process paris basin formation 
+bajolet galeano funiciello moroni negredo faccenna 
+continental delamination insight laboratory model 
+becker faccenna 
+mantle conveyor beneath tethyan collision belt 
+earth planet 
+continental delamination colorado plateau 
+re solid earth 
+bottrill van hunen cuthbert brueckner allen 
+plate rotation continental collision relationship exhumation uhp metamorphic terranes application norwegian caledonides 
+bouilhol jagoutz hanchar dudas 
+date india eurasia collision arc magmatic record 
+earth planet 
+brun faccenna 
+exhumation high pressure rock drive slab rollback 
+earth planet 
+rheology strength lithosphere 
+cande stegman 
+indian african plate motion drive push force reunion plume head 
+capitanio morra go weinberg moresi 
+india asia convergence drive subduction great indian continent 
+chemenda burg mattauer 
+evolutionary model himalaya tibet system geopoem base new model geological geophysical data 
+earth planet 
+chen gerya 
+the role lateral lithospheric strength heterogeneity orogenic plateau growth insight thermo mechanical modeling 
+re solid earth 
+chen martin tseng nowack hung huang 
+shear wave birefringence current conﬁguration converging lithosphere tibet 
+earth planet 
+chung chu zhang xie lee lan zhang wang 
+tibetan tectonic evolution infer spatial temporal variation post collision magmatism 
+earth sci 
+lithospheric buoyancy collision orogenesis subduction oceanic plateau continental margin island arc spread ridge seamount 
+copley avouac wernicke 
+evidence mechanical coupling strong indian low crust beneath southern tibet 
+davy von blanckenburg 
+slab breakoff model lithosphere detachment test magmatism deformation collision orogens 
+earth planet 
+duretz gerya kaus andersen 
+thermomechanical modeling slab eduction 
+re solid earth b08411 
+duretz gerya may 
+numerical model spontaneous slab breakoff subsequent topographic response 
+elliott walter england jackson parson 
+extension tibetan plateau recent normal faulting measure insar body wave seismology 
+england molnar 
+surface uplift uplift rock exhumation rock 
+england houseman osmaston ghosh 
+the mechanic tibetan plateau discussion 
+fukao obayashi 
+subducted slabs stagnant penetrating trap discontinuity 
+re solid earth 
+funiciello moroni piromallo faccenna cenedese bui 
+map mantle ﬂow retreat subduction laboratory model analyze feature track 
+re solid earth 
+earth planetary science letter 
+gerya yuen maresch 
+thermomechanical modelling slab detachment 
+earth planet 
+gög pysklywec corbi faccenna 
+the surface tectonics mantle lithosphere delamination follow ocean lithosphere subduction insight physical scale analogue experiment 
+grujic hollister parrish 
+himalayan metamorphic sequence orogenic channel insight bhutan 
+earth planet 
+guo wilson liu mao 
+post collision potassic ultrapotassic magmatism northern tibetan plateau constraint characteristic mantle source geodynamic setting uplift mechanism 
+late jurassic cenozoic reconstruction indonesian region indian ocean 
+crust mantle couple revisit archean slave craton nwt canada 
+lithos supplement 
+hirth kohlstedt 
+rheology upper mantle mantle wedge view experimentalists 
+inside subduction factory 
+himalayan metamorphism tectonic implication 
+earth planet 
+korenaga karato 
+new analysis experimental data olivine rheology 
+re solid earth b02403 
+gerya burg 
+collision continental corner numerical modeling 
+earth planet 
+magni faccenna van hunen funiciello 
+delamination break fate continental collision 
+magni van hunen funiciello faccenna 
+numerical model slab migration continental collision zone 
+solid earth 
+moresi betts miller cayley 
+dynamic continental accretion 
+moresi gurnis 
+constraint lateral strength slabs threedimensional dynamic ﬂow model 
+earth planet 
+nábeˇlek hetényi vergne sapkota kaﬂe jiang chen huang climb team 
+underplating himalaya tibet collision zone reveal climb experiment 
+continental underplating model rise tibetan plateau 
+earth planet 
+pusok kaus 
+development topography continentalcollision model 
+replumaz negredo villaseñor guillot 
+indian continental subduction slab break tertiary collision 
+terra nova 
+stegman freeman schellart moresi may 
+inﬂuence trench width subduction hinge retreat rate model slab rollback 
+styron taylor sundell 
+accelerate extension tibet link northward underthrusting indian crust 
+turcotte schubert 
+plate tectonics 
+geodynamics 2nd edn 
+cambridge university press cambridge new york 
+van hunen allen 
+continental collision slab break comparison numerical model observation 
+earth planet 
+williams turner pearce kelley harris 
+nature source region post collision potassic magmatism southern northern tibet geochemical variation inverse trace element modelling 
+wittlinger farra hetényi vergne nábeˇlek 
+seismic velocity southern tibet lower crust receiver function approach eclogite detection 
+wong ton wortel 
+slab detachment continental collision zone analysis control parameter 

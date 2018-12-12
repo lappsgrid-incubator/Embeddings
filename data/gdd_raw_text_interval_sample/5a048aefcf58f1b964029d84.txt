@@ -1,0 +1,605 @@
+Chemical Geology 468 (2017) 17–31
+Contents lists available at ScienceDirect
+Chemical Geology
+journal homepage: www.elsevier.com/locate/chemgeo
+
+Rapid reactions between CO2, brine and silicate minerals during geological
+carbon storage: Modelling based on a ﬁeld CO2 injection experiment
+Mike Bicklea,⁎, Niko Kampmana,b, Hazel Chapmana, Chris Ballentinec, Benoit Dubacqa,d, Albert Galya,e, Tule Sirikitputtisakf, Oliver Warrg, Max Wigleya, Zheng Zhouh
+a Dept. Earth Sciences, Downing Street, Cambridge CB2 3EQ, UK b Shell Global Solutions International, Kessler Park 1, 2288 GS Rijswijk, The Netherlands c Department of Earth Sciences, South Parks Road, Oxford OX1 3AN, UK d Sorbonne Universités, UPMC Univ. Paris 06, CNRS, Institut des Sciences de la Terre de Paris (ISTeP), 4 place Jussieu, 75005 Paris, France e CRPG, Centre de Recherches Pétrologiques et Géochimiques, 15 rue Notre Dame des Pauvres, 54501 Vandoeuvre lès Nancy, France f International Aﬀairs and Cooperative Education, Prince of Songkla University, Surat Thani Campus, Thailand g Department of Earth Sciences, Earth Sciences Centre, University of Toronto, Toronto, Ontario M5S 3B1, Canada h Lancaster Environment Centre, Lancaster University, Lancaster LA1 4YQ, UK
+
+MARK
+
+ARTICLE INFO
+Keywords: Geological carbon storage CO2 injection experiment Fluid-mineral reactions Plagioclase dissolution rates Enhanced oil recovery
+
+ABSTRACT
+The dissolution of CO2 into formation brines and the subsequent reactions of the CO2-charged brines with reservoir minerals are two key processes likely to increase the security of geological carbon-dioxide storage. These processes will be dependent on the permeability structure and mineral compositions of the reservoirs, but there is limited observational data on their rates. In this paper we report the cation and anion concentrations and Sr, oxygen and carbon isotopic compositions of formation waters from four extraction wells sampled at surface, over ~6 months after commencement of CO2 injection in a ﬁve spot pattern for enhanced oil recovery at the Salt Creek ﬁeld, Wyoming. Sampled ﬂuids, separated from the minor oil component, exhibit near-monotonic increases in alkalinity and concentrations of cations but little change in Cl and Br concentrations and oxygen and deuterium isotope ratios. The increases in alkalinity are modelled in terms of reaction with reservoir calcite and silicate minerals as the changes in ﬂuid chemistry and Sr-isotopic compositions are inconsistent with simple addition of injected ﬂuids sampled over the course of the experiment. The reservoir mineral chemical and isotopic compositions are characterised by sampling core as well as surface exposures of the Frontier Formation elsewhere in Wyoming. The evolution of the ﬂuid chemistries reﬂects extensive dissolution of both carbonate and silicate minerals over the course of the six months sampling implying rapid dissolution of CO2 in the formation waters and reaction of CO2-bearing brines with formation minerals. Rates of CO2 diﬀusion into the brines and advection of CO2 charged brines in the reservoir are suﬃciently slow that, if present, calcite should react to be close to equilibrium with the ﬂuids. This allows estimation of the CO2 partial pressures in the sampled ﬂuids and comparison with the thermodynamic driving force for the relatively rapid average plagioclase dissolution rates of ~ 10− 12 mol·m− 2·s− 1.
+
+1. Introduction
+Dissolution of CO2 in formation brines and the consequent ﬂuidmineral reactions in reservoirs are potentially important processes which lead to the long-term security of geological carbon storage (IPCC, 2005; Benson and Cole, 2008; Bickle, 2009). However the rates and ultimate signiﬁcance of these processes to storage security are poorly constrained. Dissolution of CO2 increases brine densities and storage security, as the denser brines will not be subject to the buoyancy of the super-critical CO2. However the volume of brine needed is 10 to 15
+
+times that of the CO2. The resulting reactions between the acid CO2charged brines and reservoir minerals may either increase or decrease storage security. Carbonate minerals in reservoirs will dissolve rapidly (Xu et al., 2007), which will buﬀer the ﬂuid pH and may increase reservoir porosities slightly and permeabilities signiﬁcantly. The acid CO2-saturated brines may corrode caprocks or fault zones but this may be oﬀset by the more sluggish reactions between brines and silicate minerals causing pH to rise and carbonate minerals to precipitate (Kampman et al., 2016). The latter may block ﬂuid escape paths and store a fraction of the CO2 in much more secure solid forms.
+
+⁎ Corresponding author. E-mail address: mb72@esc.cam.ac.uk (M. Bickle).
+http://dx.doi.org/10.1016/j.chemgeo.2017.07.031 Received 16 December 2016; Received in revised form 26 July 2017; Accepted 31 July 2017 Available online 02 August 2017 0009-2541/ © 2017 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY license (http://creativecommons.org/licenses/BY/4.0/).
+
+M. Bickle et al.
+
+Chemical Geology 468 (2017) 17–31
+
+The key step in the CO2-brine-mineral reactions is the rate at which the CO2 dissolves in the brine. CO2 diﬀusion in brine is sluggish with diﬀusion distances at most ~0.2 m in a year or ~1 m in ~30 years. However two processes in reservoirs may substantially increase the rate of CO2 dissolution. In more permeable reservoirs the denser CO2-saturated brine may sink setting up a convective circulation that cycles unsaturated brine against an overlying CO2 plume. In favourable settings this may cause a signiﬁcant fraction of the CO2 to be dissolved within decades (e.g. Neufeld et al., 2010). The second mechanism relates to the innate heterogeneity of rocks. The well imaged CO2 storage site at Sleipner demonstrates that the injected CO2 ﬂows by multiple paths and is trapped in multiple layers even in a relatively homogeneous reservoir (e.g. Boait et al., 2012). This increases the CO2-brine surface area by at least an order-of-magnitude and probably much more, with a corresponding increase in CO2 dissolution rates. Nearly all the porous sedimentary rocks which will comprise the CO2 storage reservoirs are bedded on scales of ~1/3 m and have corresponding orderof-magnitude variations in their permeabilities. This, combined with the natural tendency of the less viscous CO2 to ﬁnger when injected into more viscous brines (Saﬀman-Taylor instablity, Saﬀman and Taylor, 1958), will also cause substantial increases in brine-CO2 contact areas and therefore CO2 dissolution rates.
+However it is diﬃcult or impossible to predict a priori how fast CO2 will dissolve in formation brines. One set of possible observations that indirectly reﬂect CO2 dissolution rates is on the nature and rates of ﬂuid-mineral reactions driven by the increases in dissolved CO2 in formation brines. These necessarily need to be made in pilot-scale CO2 injection experiments to reduce ﬂow paths, time scales and allow adequate sampling of ﬂuids. There have been a small number of such experiments (see review by Kampman et al., 2014) but determination of ﬂuid-mineral reactions in these has either not been attempted, is restricted because sampling bore holes were swamped by the CO2 plume within days, the formations contained unreactive quartz-rich lithologies or ﬂuid composition data remains unpublished.
+CO2 injection for enhanced oil recovery provides opportunities to investigate the ﬂow, dissolution and brine-CO2 reactions in ﬁeld settings analogous to likely CO2 storage sites (e.g. Hovorka et al., 2011; Worden and Smith, 2004). The industrial exploitation injects substantial volumes of CO2 and the continuous production allows timeseries sampling of produced ﬂuids from a distributed set of wells. Disadvantages include the presence of oil in the ﬂuids and the oil ﬁelds often having been subject to a long history of exploitation involving previous water ﬂooding. Further, ﬂuids sampled from production wells at surface will have decompressed and exsolved CO2 precluding direct measurement of dissolved CO2 at reservoir conditions.
+In this paper we calculate the nature and progress of ﬂuid-mineral reactions from changes in the sampled ﬂuid chemical and isotopic compositions based on sampling and analysing produced ﬂuids from a CO2 injection phase for enhanced oil recovery at a site in the Salt Creek Field, Wyoming. The CO2 was injected into the ~ 20 m thick 2nd Wall Creek sandstone unit and produced ﬂuids were sampled over a six month period after initiation of the CO2 injection. The produced ﬂuids were sampled at ﬁve producing wells (Fig. 1) distributed around the injection well and comprised predominantly brine with a subsidiary fractions of oil and variable proportions of CO2. All the wells show marked increases in alkalinity during the six months after injection started in wells 37, 38 and 40. Some of this increase can be explained by dissolution of calcite in the reservoir but modelling the changes in cation concentrations and Sr-isotopic ratios requires signiﬁcant dissolution of plagioclase, biotite and chlorite with potential subsequent precipitation of carbonate minerals. The observations of mineral equilibria and dissolution kinetics are compared to predictions based on laboratory experimental determinations of reaction kinetics.
+
+Fig. 1. Distribution of injector well, producer wells and cored wells sampled in Salt Creek Field. Distances and average slope of Wall Creek 2 sandstone given from injector wells. Contours denote depth to top of Wall Creek 2 member. Note that CO2 injection in this ﬁeld is progressing from north to south with CO2 injection initiating in wells 12WC2NE06 and 38WC2NW05 in July 2009 with wells 14, 16 & 18 producing signiﬁcant CO2 by the start of injection in wells 38WC2NE06, 37 and 40 in September 2010. CO2 injection commenced in wells 36 and 32 in January 2011. Core samples were taken from wells 6WC2NW05 and 26WC2NW05. Wells 12, 14, 26NE06, 36 and 38NE06, have full suﬃxes WC2NE06. Wells 16, 18, 26NW05, 28, 30, 32, 37, 38NW05 and 40 have full suﬃxes WC2NW05.
+2. Field experiment: the Salt Creek Field, Wyoming
+The Salt Creek Oil Field in Wyoming is contained in a ~12 km long NNW elongate domal anticline with shallowly dipping limbs. Oil was ﬁrst recovered by drilling in 1908 and from the deeper 2nd Wall Creek sandstone studied here, in 1917. From 1964 oil was recovered by water ﬂooding and in 2004 CO2 injection for enhanced oil recovery from the 2nd Wall Creek sandstone commenced in the north of the anticline with injection progressively moving to the south.
+2.1. Geological setting
+The 2nd Wall Creek Sandstone at Salt Creek correlates with sandstone unit III of the upper part of the Belle Fourche Member of the Frontier Formation (Merewether et al., 1979) (the Second Frontier allomember of Bhattacharya and Willis, 2001) in eastern Wyoming. The Frontier Formation was deposited between 98 and 94 Ma (May et al., 2013). Its sedimentary structure is currently interpreted as top-truncated deltas which formed along the western margin of the Western interior seaway (e.g. Bhattacharya and Willis, 2001; Lee et al., 2005, 2007). It comprises arkoses and feldspathic litharenites with abundant volcanic rock fragments, indicating primary deposition of relatively immature sediments (Dutton et al., 2000). The 2nd Wall Creek member at Salt Creek is about 20 m thick and includes mudstone, siltstone, and sandy mudstone, planar to cross-stratiﬁed sandstones and pebblebearing muddy-sands, sandy-muds, and mudstones. The coarsening-up sandstone units are interpreted as delta lobes with characteristic horizontal dimensions of ~ 1000 m (Lee et al., 2005). Diagenetic ironbearing calcite cement occurs as nodules and larger, 25 m2, tabular concretions following and cross-cutting bedding and occluding porosity in the coarser sandstones where carbonate contents may exceed 30% (e.g. Dutton et al., 2002).
+Two cores from hole 6WC2NW05 and 26WC2NW05 through the Wall Creek 2 member within 500 m of the injection well contain sandstones comprising predominantly quartz, plagioclase (An 3 to 40%, average ~An 20%) and lithic andesitic and mudstone clasts with minor K-feldspar, chlorite, biotite and clay minerals as well as variable
+
+18
+
+M. Bickle et al.
+
+Chemical Geology 468 (2017) 17–31
+
+Fig. 3. Permeability-porosity relationship from measurements on core in wells 14–10 and 12–83 from the 1st and 2nd Wall Creek 1 sandstone and best ﬁt power law curve.
+
+Fig. 2. Map of Wyoming showing outcrops of the Cretaceous that contain the Frontier Formation, sample sites and the location of the Salt Creek Oil Field. Redrawn from Roberts (1989).
+
+fractions of calcite cement (analyses of plagioclase, K-feldspar and biotites in Table S1).
+The samples of the reservoir Frontier Formation have been supplemented by surface samples collected from outcrops distributed through Wyoming (Fig. 2). These sandstones are petrographically similar to the lithic arkoses from the Frewens sandstones described by Dutton et al. (2000) of which the detrital grains comprise approximately 40% quartz, 27% rock fragments (chert, volcanic, plutonic and metamorphic fragments) and about 15% plagioclase and 15% K-feldspar, with partly altered biotite and subsidiary chlorite and clay minerals. The sandstones contain abundant Fe-bearing calcite cements often present as concretions up to several metres in diameter and ~1 m thick (Dutton et al., 2002). The sampled localities represent several stratigraphic levels within the Frontier Formation. The Raptor Ridge locality (Fig. 2) is part of the Wall Creek Sandstone Member (Lee et al., 2007) which overlies the Belle Fourche Member containing the 2nd Frontier Member, the stratigraphic equivalent of the 2nd Wall Creek Sandstone at the Salt Creek ﬁeld (Bhattacharya and Willis, 2001; Merewether et al., 1979). The samples from Greybull are from the Torchwood Sandstone Member thought to correlate with the 2nd Frontier member and the 2nd Wall Creek Sandstone at Salt Creek (Merewether et al., 1979).
+
+Fig. 4. Permeabilities for the four wells with gamma ray density logs calculated from ﬁt to permeability-porosity data in Fig. 3. Note staggered x-axis. Depth from local top of 2nd Wall Creek sandstone.
+
+2.2. Petrophysics
+
+Porosity measurements calculated from gamma ray density logs are available for the injection and production wells 18, 28, 30 & 37WC2NW05 (http://wogcc.state.wy.us/). Permeabilities have been estimated by ﬁtting a power law function to the porosity-permeability relationship measured on the nearby 1st and 2nd Wall Creek sandstone members in wells 14–10 and 12–83, the nearest comparable unit (Fig. 3). The calculated permeability distributions of the four wells with porosity measurements are shown in Fig. 4. The permeability distributions are characteristically heterogeneous with the highest permeability layer at 7 to 10 m depth, a subsidiary maximum between 12 and 17 m depth (except in well 37) and a number of subsidiary peaks. The resolution of the permeability distribution is limited by the resolution of the gamma ray density log from which the porosities were calculated which was ~35 cm. It is very probable that permeabilities exhibit larger magnitude heterogeneities on smaller scales.
+The marked permeability heterogeneities will dominate the ﬂow paths taken by the injected CO2, the consequent ﬂows of brine, CO2 dissolution in brine and thus the sampling of brine and CO2 by the production wells (Fig. 5). The order-of-magnitude lower viscosity of
+
+Fig. 5. Diagrammatic 2-dimensional section illustrating how CO2 will penetrate highest permeability layers. Note expected narrow fringe to CO2 ﬁngers in which CO2 diﬀuses into brine but ﬂow rates in the fringe zone will be proportional to their permeability which is markedly higher than more distal brines.
+supercritical CO2 compared to water will cause CO2 ‘ﬁngers’ occupying the highest permeability horizons to accelerate with time accentuating the ﬁngering. Brine will be preferentially sampled from the ‘next’ highest permeability layers adjacent to the CO2 ﬁngers.
+2.3. CO2 injection and ﬂuid sampling
+CO2 injection at the Salt Creek Oil ﬁeld commenced in 2004 and has been progressively moved to more southerly wells. Injection is based on a ﬁve-spot model with four production wells surrounding each injection well repeating to form a continuous grid of production wells (Fig. 1).
+
+19
+
+M. Bickle et al.
+
+Chemical Geology 468 (2017) 17–31
+
+Fig. 6. Recorded CO2 production (mcf/day) and production temperatures for wells 16, 18, 28 and 30WC2NW05. Drops in temperature reﬂect cooling from expansion of an increased fraction of the produced CO2. Times of near-zero CO2 production in well 16 reﬂect well shut-in.
+
+Seismic reﬂection proﬁles were shot every month over 12 months following an early phase of CO2 injection to the north-east of the anticline. These imaged ellipsoidal CO2 accumulations spreading away from the injectors elongate in the up-dip direction which started merging after about 9 months (O'Brien et al., 2010).
+The CO2 injection in well 37WC2NW05, the site of this study, commenced on 14 September 2010. CO2 injection in adjacent wells 38WC2NE06 and 40WC2NW05 started 3rd September 2010. CO2 injection had been taking place from July 2009 through the injectors 12WC2NE06 and 38WC2NW05 north of wells 14WC2NE06, 16 and 18WC2NW05 which were already producing CO2 by September 2010 (Fig. 6). To the south of wells 28 and 30, CO2 injection commenced in January 2011 in wells 32WC2NW05 and 36WC2NE06. 3He and 129Xe noble gas isotopic spikes were added to the gas stream from 14 September 2010 during the ﬁrst week of CO2 injection in well 37 and corresponding isotopic anomalies were recorded in well 18 < 8 days and in well 28 (south of the injector) ~11 days after injection commenced (Zhou et al., 2011). Some high permeability connections must be present between the injector and these wells but these would have limited vertical extents below the resolution of the porosity measurements. Signiﬁcant CO2 breakthrough in wells 28 and 30, as monitored by recorded CO2 production at the well heads, did not occur until about 80 days after initial injection of CO2 in well 37 although the change in well temperature of the produced ﬂuids indicates progressive cooling from about day 40 (Fig. 6). Gas samples from Well 30 did not contain a resolvable 3He spike and it is probable that the CO2 and brine arriving at this well was dominated by the nearer injector 38WC2NE06 (Fig. 1).
+The 2nd Wall Creek sandstone is at a relatively shallow depth of ~ 700 m and injection and extraction pressures are maintained to keep the CO2 supercritical with a downhole injection pressure in well 37 of between 14.5 and 15.9 MPa except between days 82 and 101 after injection commenced when the CO2 injection was paused and water injected. Downhole pressures in the production wells were maintained at
+
+between ~8.3 to 10 MPa. Fluid samples were taken from taps oﬀ the production pipe lines
+where they were accessible in pump stations situated within a few hundred metres of well heads. The ﬂuids were collected in collapsible 4L LDPE carboys ﬁtted with polypropylene spigots at their base. The carboys were left overnight for the oil to ﬂoat (ﬂuids contained between ~0.5 and 5% oil) and the water samples taken from the spigot (c.f. Lico et al., 1982). The water was ﬁltered through 0.2 μm nylon ﬁlters in a hand pressured tower into two 60 ml HDPE bottles, one of which was acidiﬁed with ultrapure HNO3 to pH ~ 2. Alkalinity was determined by Gran titration on a ﬁltered aliquot between 2 and 15 h after collection. Alkalinities measured on two unﬁltered samples were similar to measurements on the ﬁltered samples. No carbonate precipitates were observed in the carboys or on the ﬁlters. The active CO2 degassing of the ﬂuids precluded consistent determination of pH. Fluids were sampled daily between days 1 to 78 and days 143 to 153 after injection commenced in well 37.
+2.4. Analytical methods
+The element and isotopic composition of ﬂuids sampled from the wells are presented in Supplementary material (Table S2). Major (Na, K, Ca, Mg) and minor elements (Al, Fe, Mn, Si, Sr, S) were measured on the acidiﬁed samples by Varian Vista-PRO simultaneous inductively coupled plasma-atomic emission spectrometry (ICP-AES) at the University of Cambridge following the method given in de Villiers et al. (2002) using a mixed standard with cation proportions speciﬁcally designed to match the waters. Analyses were performed against international water standards T-167, T-143, SPS-SW2 and ION-20 which reproduce to better than 6% (2σ). Fluid anion (Br, F, Cl and SO4) composition was measured on unacidiﬁed samples using a Dionex ICS-3000 Ion Chromatography system at the University of Cambridge. Analyses were performed against international water standards T-167, T-143, P35 and
+
+20
+
+M. Bickle et al.
+
+Chemical Geology 468 (2017) 17–31
+Fig. 7. Variation of anions Cl, Br, F, δ18O and δD with time in sampled waters. Open symbols are analyses on injection ﬂuids. Note that Cl and Br change very little except in well 16 just before the well was shut in from day 36. Fluorine shows a large decrease in wells 18, 28 and 30 and is low in well 16. It seems likely that SiF4 dissolves in supercritical CO2. Data averaged over 4 to 8 day periods.
+
+LGC6019 which reproduce to better than < 2% (2σ) for all elements analysed. δ18O and δD isotopic ratios of ﬂuids were analysed in the Godwin Labs, University of Cambridge, relative to internal standards and are expressed in ‰ deviation relative to the VSMOW standard with analytical precisions (2σ) estimated at ± 0.1 and ± 0.5‰ respectively.
+Mineral compositions in core and rock samples were analysed by a Cameca SX100 electron microprobe at the Dept. Earth Sciences, University of Cambridge using 5 wavelength dispersive spectrometers and a defocused (5 μm) beam for feldspars, carbonates and biotite. 20 s counting times were used for major elements and 30 s for minor elements. Analyses were run at 15 keV with a 10 nA for all elements except Mn in carbonate (40 nA) and Ti in micas (100 nA).
+Sr-isotopic ratios were determined on aliquots of the acidiﬁed ﬂuid samples and whole rock, leaches and mineral separates of core samples at the University of Cambridge following Bickle et al. (2003). The standard NBS 987 gave 0.710259 ± 0.000009 (1σ) on 70 separate measurements made during the course of these analyses. Strontium blanks were always negligible compared to the Sr concentration of these samples. Core, mineral and two rock samples were leached to determine the Sr-isotopic composition of carbonate and silicate mineral
+
+fractions (methods in Table S3, supplementary information). The leaching procedure followed that of Bickle et al. (2015) with the ﬁnely ground rock powder ﬁrst washed in water to remove loosely held Sr, followed by leaching in cold 10% acetic acid overnight to dissolve carbonate, then leached cold in 1 M HCl to remove any residual carbonate. Samples were rinsed in water between the leaching steps. The silicate residue from the leaching steps was ignited at > 900 °C to remove organics and taken into solution using HF + HNO3, HNO3 and then HCl in Teﬂon lined pressure vessels at 180 °C (full details in Table S3, supplementary materials). Concentrations of the elements (Na, K, Ca, Mg, Al, Fe, Mn, Sr, S) were analysed on aliquots of the leachates and residue by ICP-AES using the same methods as for the waters but with synthetic standards matching the sample concentrations and checked against analysis of a complete digestion of USGS rock standard SCO-1. Sums of the leachate and residue elemental compositions were compared to analyses of the bulk powder and gave total concentrations on four samples which averaged only 9% less than the corresponding whole rock compositions (Table S3). Samples A2392 and B11/2/2438 gave large ~ 100% discrepancies and the whole rock compositions seem low in many elements for these cores. Si concentrations in analyses of
+
+21
+
+M. Bickle et al.
+
+Chemical Geology 468 (2017) 17–31
+
+residues and whole rocks are calculated by diﬀerence as these samples were dissolved by HF dissolutions. Lithic fragments, volcanic clasts and detrital plagioclase were handpicked from the core sample A2334. Their cation concentrations indicate that all these fractions contained signiﬁcant calcite and the plagioclase is partly altered to clay minerals.
+Thermodynamic calculations of ﬂuid compositions at various CO2 and mineral saturations are carried out using PHREEQC 3.3.8.11728 with the PHREEQC and LnLL databases (Parkhurst and Appelo, 2013).
+3. Fluid geochemical evolution at Salt Creek
+The evolution of the sampled ﬂuid chemistry is expected to reﬂect progressive ﬂuid-mineral reactions buﬀering the increase in acidity as the CO2 content increases. Interpretation of the changes in ﬂuid chemistry is potentially complicated by the previous history of oil extraction and water injection in the oil ﬁeld.
+The aqueous formation ﬂuids in the 2nd Wall Creek sandstone are dilute brines. Analyses of the formation ﬂuids from across the ﬁeld sampled in early 1920s (Young and Estabrook, 1925; Estabrook, 1925) and given in oil ﬁeld reports in 1979, 1987 and 1996 have Na between 170 and 290, Ca 0.3 to 0.7, and Cl between 80 and 205 mmol/kg with Na/Cl molar ratios between 1.2 and 1.8. Analyses of waters collected from the 2nd Wall Creek sandstone in Teapot Dome, 20 km south-east of the Salt Creek ﬁeld, in 2009 have more dilute compositions (Na 65 and 90, Ca 0.24 and 0.33 and Cl 34 and 46 mmol/kg, Table S4) but this ﬁeld has also been subject to a range of oil recovery techniques. The most dilute ﬂuids sampled in this study, the initial ﬂuids sampled in wells 28 and 30, have similarly more dilute Cl and Na concentrations of ~ 45 and ~80 mmol/kg, but higher Ca at ~1.6 and 2.9 mmol/kg. The northerly wells, which were being fed CO2 from injectors to the north, had similar Cl (43 to 49 mmol/kg) but higher Na and Ca at ~105 and 3.7 to 5.4 mmol/kg.
+The Salt Creek ﬁeld has been subject to extensive water ﬂooding with water obtained from the deeper Madison and Tensleep Formations. These have Na ~ 30, Ca ~ 7 to 10 and Cl 16 to 26 mmol/ kg (Oil well reports, Table S4). The waters currently being injected comprise a mixture of all the produced waters after separation of CO2 and oil. These were sampled intermittently during the injection period and have compositions intermediate between the initial dilute ﬂuids sampled in wells 28 and 30 and the wells with more concentrated cations (wells 16 and 18) (Figs. 7–9).
+Fig. 8. Variation in alkalinity in produced waters over period after CO2 injection commenced in well 37. Note that wells to the north already producing signiﬁcant CO2 have high initial alkalinities but these continue to rise. Wells 28 and 30 to the south of well 37 have low initial alkalinities which rise progressively during the sampling period. Data averaged over 4 to 8 day periods.
+
+3.1. Sources of ﬂuids: conservative tracers and alkalinities
+The initial ﬂuids present in the 2nd Wall Creek sandstone at the start of CO2 injection reﬂect the complex prior history of the oil ﬁeld. A key question is the extent to which the systematic changes in alkalinity and concentrations of Ca, Na and other cations (Figs. 8 & 9) after CO2 injection commenced, are the result of ﬂuid-mineral reactions or reﬂect changes in water composition, particularly penetration of the injected waters. The concentrations of the conservative tracers, Cl and Br, change little over the injection period (Fig. 7). Well 16 produced signiﬁcant CO2 relatively early in our experiment and both Cl and Br show a rapid increase as the well approached saturation by CO2, possibly as the residual brine was dehydrated by the CO2. F drops markedly associated with increases in produced CO2 (wells 18, 28 and 30), possibly because SiF4 is soluble in supercritical CO2. The stable isotope ratios of oxygen and hydrogen exhibit small changes with time (Fig. 7) presumably reﬂecting ﬂuid heterogeneity within the formations.
+The consistency of Cl at ~45 to 50 mmol/kg in wells 14, 16, 18 and 28 as well as in the injected brines and only marginally less at ~40 mmol/kg in well 30, compared with the much higher historical concentrations of ~150 mmol/kg, suggests that the accessible parts of the reservoir have been completely ﬂushed during the water ﬂooding leaving the 2nd Wall Creek sandstone with relatively uniform ﬂuid compositions. In contrast the cations show marked changes related to CO2 injection.
+Alkalinity rises markedly in all the wells (Fig. 8). Wells 16 and 18 to the north already producing signiﬁcant CO2 have initial alkalinities and water cation concentrations similar to the injected waters but these concentrations continue to rise. Wells 28 and 30 to the south of well 37 have low initial alkalinities which rise progressively during the sampling period. In all the wells the rise in alkalinity is supported by a corresponding rise in Na, Ca, Mg, K and Sr. Since Cl changes little, the increase in Na which contributes between ~50 to 75% of the rise in alkalinity, cannot be attributed to mixing with more saline brines.
+The diﬀerence between the element ratios of the injected waters and element ratios of the cations added to the produced waters, calculated by taking the diﬀerence between the waters sampled over the last 11 days and those sampled over the ﬁrst 20 days (Fig. 10), shows that the changes in water composition are not explained by increases in the fraction of injection water. Note that injection waters likely to be sampled are those injected prior to the sampling for this project whereas those we analysed were collected during the course of this project. The small rise of injected water cation concentrations during the sample period suggests that concentrations in the older injected waters were correspondingly slightly lower.
+This conclusion, that changes in the background brine compositions had a limited impact on the composition of the produced ﬂuids, is supported by the changes of Sr-isotopic ratios in the produced ﬂuids (Fig. 9). The injection ﬂuids have 87Sr/86Sr ratios between 0.71078 and 0.71092, less than well 18 (0.71305 to 0.71394), 28 (0.71137 to 0.71168) and well 30 (0.71309 to 0.71382). Only ﬂuids from well 16 (0.710336 to 0.71137) scatter about the composition of the injection ﬂuids. The ﬂuid Sr concentrations in wells 18, 28 and 30 increase by between 66 and 100% over the sampling period. Fig. 11 shows the expected trajectories of the initial waters as ﬂuid with the composition of the injection waters is mixed with the initial waters sampled in each well. It is clear that the Sr-isotopic evolution of the wells is dominated by addition of Sr from a source distinct from that of the injection ﬂuids, presumably from dissolution of minerals.
+3.2. Sources of ﬂuids: modelling inputs of injection ﬂuids and ﬂuid-mineral reactions
+The changes of water compositions resulting from addition of injection waters and dissolution or precipitation of minerals may be modelled by mass balance of the stoichiometric cations (c.f. Kampman
+
+22
+
+M. Bickle et al.
+
+Chemical Geology 468 (2017) 17–31
+Fig. 9. Variation in Ca, Na, Mg, K, Si, Sr and 87Sr/86Sr ratios in produced waters with time after commencement of CO2 injection in well 37. Data averaged over 4 to 8 day periods. Open symbols are of injection waters.
+
+et al., 2009). The mass balance equation may be written
+
+n
+
+∑Cif − CiI =
+
+Xj αij
+
+j=1
+
+(1)
+
+where Cif is the ﬁnal ﬂuid concentration and CiI is the initial ﬂuid concentration of component, i (mmol/kg). αij is the concentration of
+component i in mineral phase j (mole fraction) and Xj is the mass
+(mmols) of phase j added to (positive), or precipitated from (negative),
+
+the ﬂuid. Eq. (1) is solved for the n unknowns Xj by the routines in Kent et al. (1990) with the uncertainties on Cif , CiI , and αij propagated through the calculation. The uncertainties on the initial and ﬁnal ﬂuid compositions are taken as the standard error on the average of the ﬁrst 5 ﬂuid samples (σ 5 ), and last 5 ﬂuid samples analysed. The uncertainty on the mineral compositions is taken as the standard error on
+the mineral microprobe analyses for calcite, plagioclase and biotite
+(Table 1), as 5% of the concentration for the elemental compositions of
+
+23
+
+M. Bickle et al.
+
+Chemical Geology 468 (2017) 17–31
+from Well 16 is consistent with this prediction and implies that the more reacted CO2-saturated ﬂuids are precipitating calcite.
+
+Fig. 10. Molar element ratios of the cations added to the produced waters normalised to the element ratios in the injected waters. The concentration of cations added to waters from each well over the sampling period was calculated by taking the diﬀerence between the waters sampled over the last 11 days and those sampled over the ﬁrst 20 days and the 1σ error bars calculated from the standard errors (where n is the number samples) on the set of samples averaged.
+chlorite and smectite and 0.5% of the components in kaolinite. Solutions are illustrated in Fig. 12.
+The results imply that the chemical evolution of the ﬂuids is dominated by the dissolution of plagioclase, chlorite and biotite and calcite except in Well 16 where calcite modes are within error of zero. Smectite precipitates. The kaolinite mode is within error of zero.
+It should be noted that ﬂuids sampled will be mixtures that range from CO2-saturated ﬂuids ﬂowing close to the CO2 penetrating high permeability layers to ﬂuids far from CO2 ﬁngers that are little changed in composition. Since CO2 will penetrate the highest permeability layers, the brines ﬂowing adjacent to the CO2 occupying the next most permeable layers will be preferentially sampled in the produced waters. Thermodynamic modelling of ﬂuid-mineral reactions suggests that CO2saturated ﬂuids will initially dissolve calcite but re-precipitate carbonates at later times as silicate dissolution raises ﬂuid alkalinity (e.g. Xu et al., 2007; Dubacq et al., 2012). The decrease in calcite dissolution mode from the least evolved ﬂuids from Well 30 to the most evolved
+
+3.3. Sr and Sr-isotopic systematics
+Sr and 87Sr/86Sr ratios put constraints on the ﬂuid and mineral interactions. The Sr-isotopic ratios and Sr and major cation concentrations have been determined on whole-rock samples, carbonate leaches and silicate residues and some hand-picked feldspars, lithic and volcanic clasts from drill core through the Frontier formation in the Salt Creek ﬁeld and from outcrops of the Frontier Formation in Wyoming (Figs. 1 & 2, Supplementary data Table S3, Fig. 13). The Sr-isotopic compositions of the carbonate leaches and the carbonate-cemented high CaO whole rock samples imply carbonate 87Sr/86Sr ratios of between 0.7075 and 0.7078 which are only marginally higher than seawater 87Sr/86Sr ratios of ~ 0.7074 at the time the Frontier Formation was deposited. The low-Ca silicate-dominated samples exhibit a wide scatter of 87Sr/86Sr ratios of between 0.706 and 0.720 which reﬂects the heterogeneous source terrain for the Frontier Formation which comprised contemporary Cordilleran magmatic arc igneous rocks and older Proterozoic and Archaean basement (e.g. May et al., 2013).
+The carbonate leaches, silicate residues from leaching, the whole core samples and the lithic and volcanic clasts from core samples from holes 6WC2NW05 and 26WC2NW05 drilled in 1972 at Salt Creek all have low 87Sr/86Sr ratios (0.706 to 0.7088, Table S3) reﬂecting the dominance of Cordilleran igneous material in this sediment. Only the feldspar fraction has a slightly higher 87Sr/86Sr ratio of ~ 0.7106. However, from the signiﬁcantly higher 87Sr/86Sr ratios of the initial formation ﬂuids (Figs. 9 & 11) and the approximately constant or increase in 87Sr/86Sr ratios in wells 18, 28 and 30 during the sampling period, we infer that the Sr-isotopic compositions of the silicate material in the Frontier Formation at Salt Creek exhibits a similar distribution to samples collected from surface outcrops (Fig. 13).
+Calculation of the change in ﬂuid 87Sr/86Sr ratios provides a test of the consistency between the calculations of the mineral modes consumed and precipitated over the sampling period. The change in cumulate mineral inputs or outputs, calculated as in Section 3.2 above,
+Fig. 11. Calculated mixing curves for 87Sr/86Sr ratios between initial ﬂuid samples from wells 18, 28 and 30 as a function of the fraction of initial water added (values below x-axis) compared with time evolution of the sampled ﬂuids (days since injection started given above x-axis).
+
+24
+
+M. Bickle et al.
+
+Table 1 Compositions of minerals used in mass balance calculations.
+
+Calcitea
+
+1σ
+
+Plagioclasea
+
+1σ
+
+Chloriteb
+
+1σ
+
+Biotitea
+
+1σ
+
+SiO2 Al(O1.5) FeO
+MgO
+CaO
+Na(O0.5) K(O0.5) Sr(1000) 87Sr/86Sr
+
+0.014 0.006 0.967
+1.420 0.7076
+
+0.001 0.003 0.006
+0.100
+
+2.776 1.224 0.007 0.001 0.217 0.755 0.039 3.00d
+
+0.014 0.014 0.001 0.000 0.015 0.016 0.003 0.41
+
+2.688 3.050 1.300 2.010
+0.006
+
+0.027 0.031 0.065 0.101
+
+2.801 1.419 1.373 1.109 0.015 0.050 0.733 0.047e
+
+0.024 0.036 0.063 0.040 0.002 0.003 0.025
+
+a Average compositions of minerals used in mass balance calculations taken from Table S1 in supplementary information. b Average chlorite and average continental smectite from Bickle et al. (2015). c Ideal composition. d Estimated from residues from leaching Frontier Formation sandstones. e Biotite and clay mineral Sr concentrations taken from Garçon et al. (2014).
+
+Chemical Geology 468 (2017) 17–31
+
+Kaolinitec 2.00 2.00
+0.15e
+
+1σ
+0.01 0.02
+
+Smectiteb
+3.55 1.88 0.35 0.37 0.20 0.09 0.23 0.23e
+
+1σ
+0.04 0.02 0.02 0.02 0.01 0.00 0.01
+
+Fig. 12. Mineral inputs (negative for precipitation) in mmol/L calculated from diﬀerence between initial and ﬁnal ﬂuid samples (Eq. (1)) for the four wells and solved for the components SiAl-Mg-Ca-Na-K. Error bars are 1σ calculated from uncertainties in mineral and ﬂuid compositions.
+
+from the diﬀerence in chemistry between the initial sampling period and the given sampling period, is illustrated in Fig. 14. Precipitation of primary silicates plagioclase or biotite implied by decreasing mode with time coupled with dissolution of smectites as exhibited by Well 30 between days 50 to 75 is most likely explained by mixing of waters with diﬀerent extents of ﬂuid-mineral reactions. Signiﬁcant low temperature precipitation of plagioclase or biotite or dissolution of smectites is thought improbable.
+The mineral modes may be used to predict the changes in ﬂuid Sr concentrations and 87Sr/86Sr ratios if their Sr contents and 87Sr/86Sr ratios are known. The Sr content of the carbonate is constrained by the acetic acid leaches of the outcrop samples of the Frontier Formation samples (Table S3) where the samples with > 2000 mmol/kg Ca have Sr/Ca ratios of 1.42 ± 0.10 (1 standard error). The two acetic acid leaches (Sr/Ca = 1.1 and 1.4) lie within this range. The acetic acid leaches of the core samples have rather higher Sr/Ca ratios but most of these have relatively low Ca concentrations (below 350 mmol/kg) and may have leached a minor silicate component. The 87Sr/86Sr ratio of the carbonate component is taken as 0.70755, the mean of the two carbonate leaches from samples collected at Raptor Ridge (Fig. 2). The mean of the acetic acid leaches of the core samples is only marginally lower at
+
+0.7074. Plagioclase probably contains the bulk of the Sr in the silicate
+fractions in the Wall Creek 2 sandstones. The silicate residues of the low Ca Frontier Formation sandstones and the silicate residues of the core samples have Na/Ca ratios that range between ~3 and 12 (mean 5.7) which would correspond to plagioclase anorthite contents between 8 and 23% (mean 15%). The plagioclase feldspars from the core samples (Table S1) exhibit an even wider range of compositions (An 3 to 49%, mean An 21%). It is likely that the feldspars exhibit a corresponding wide range of Sr contents. The Sr concentration of plagioclase is therefore ﬁrst estimated at 3.0 mmol/mol (equivalent to ~460 ppm) from the mean Sr/Na and Na/Ca ratios of the silicate residues of the low-Ca Frontier formation outcrop samples. The other silicate minerals contain small amounts of Sr and their nominal concentrations estimated from literature values are given in Table 1.
+The Sr concentration in the sampled ﬂuids is then predicted as a function of time given the changes in cumulate mineral modes dissolved/precipitated illustrated in Fig. 15. To allow for the uncertainty in the plagioclase Sr concentration, the magnitude of the summed silicate Sr contribution was then adjusted by the factor, f, to give a leastsquares best ﬁt to the measured water Sr concentrations. The factor f is
+
+25
+
+M. Bickle et al.
+
+Chemical Geology 468 (2017) 17–31
+
+Fig. 13. 87Sr/86Sr ratios versus Ca concentration as a proxy for carbonate content for whole-rock and 2 leaches of whole-rock samples from outcrops of the Frontier Formation in Wyoming (locations on Fig. 2) and leaches and residues from leaching of core through the 2nd Wall Creek sandstone at Salt Creek (localities on Fig. 1) (see Supplementary data Table S3). The high-Ca leaches imply carbonate 87Sr/86Sr ratios of between 0.7075 and 0.7078 which are marginally higher than seawater 87Sr/86Sr ratios of ~ 0.7074 at the time the Frontier Formation was deposited.
+
+then calculated by ﬁnding the value that minimises a χ2 variable
+
+∑χ 2
+
+=
+
+n i=1
+
+⎛
+
+(SrCi
+
+−
+
+SrMi
+
+)
+
+2
+⎞
+
+⎜
+⎝
+
+σSi rM
+
+⎟
+⎠
+
+(2)
+
+where SrCi is the Sr concentration calculated from the mineral modes given their Sr concentrations in Table 1, SrMi is the measured Sr con-
+centration and σSrM the estimated uncertainty of the measured Sr concentration. The results are shown in Fig. 15 and the adjustment factors
+
+vary between 0.43 and 0.62 (0.196 for the ﬁrst period in well 30). This suggests that the estimate of plagioclase Sr concentration of 3 mmol/ mol is high by a factor of two, well within the scatter of Sr/Na ratios. The calculations of the summed silicate Sr input are relatively insensitive to the estimate of the carbonate Sr content. For example if this is varied between 0.7 and 2.8 mmol/mol in Well 28 the factors needed to change the silicate input vary only between 0.43 and 0.34. In general the calculated time variation of the Sr concentrations matches the observed variations close to the uncertainties in the measured Sr concentrations estimated from the standard deviation of the sample sets in the time intervals. The most obvious discrepancies are between days ~25 and 75 in Well 30. Here the falls in modal plagioclase and biotite and decrease in modal smectite are interpreted to relate to mixing of less reacted ﬂuids as decreases in plagioclase and biotite are very unlikely to result from precipitation of these minerals. The discrepancies most likely reﬂect heterogeneity of ﬂuid sources and paths within the reservoir as indicated by the modelling of 87Sr/86Sr ratios.
+Given the best ﬁt Sr-concentration models, the silicate 87Sr/86Sr ratio which gave a best least-squares ﬁt to the Sr-isotope data was calculated for each of the sampled wells (Fig. 15) by minimising a routine similar to Eq. (2) with Sr concentrations replaced by 87Sr/86Sr ratios multiplied by the Sr content. Again the best ﬁts match the observed evolution of 87Sr/86Sr ratios well except for the period around 50 days in Well 30 and a comparable period in Well 18.The silicate 87Sr/86Sr ratios deduced from the best ﬁts range from 0.71053 in Well 16 to 0.71429 in Well 30. These are within the range of silicate Srisotopic ratios analysed in the core and outcrop rock samples (0.707 to 0.719).
+The calculated water Sr and 87Sr/86Sr ratios for Wells 16 and 28 match the observed changes well. The discrepancies in both Sr and 87Sr/86Sr ratios between days 30 to 75 in Well 30 have been discussed above and are best explained by arrival of waters with a diﬀerent reaction history. Likewise the rather poor ﬁt to the measured 87Sr/86Sr
+Fig. 14. Cumulative calculated mineral dissolution (+ ve) or precipitation (− ve) from sampled ﬂuids calculated from the diﬀerence between each sampling period and the initial sampling period using Eq. (1). Error bars 1σ.
+
+26
+
+M. Bickle et al.
+
+Chemical Geology 468 (2017) 17–31
+Fig. 15. Left-hand panels show measured ﬂuid Sr concentrations (red circles, means of groups of 3 to 5 days of samples with error bars 1 standard error on mean) compared to best least-squares-ﬁt Sr concentrations calculated from mineral modes with silicate Sr concentration adjusted by the factor given on the ﬁgure (black squares). Righthand panels show best ﬁt between measured (red circles) and calculated 87Sr/86Sr ratios (black squares) with silicate 87Sr/86Sr ratio adjusted to value shown. Two solutions are shown for Well 30. One (black squares) shows a proﬁle ﬁt with a single silicate Sr factor and silicate 87Sr/86Sr ratio and the second (stars) a ﬁt that derived a silicate Sr factor and 87Sr/86Sr ratio for days 4 to 52, then held these parameters ﬁxed for days 4 to 52 and minimised the misﬁt in Sr and 87Sr/86Sr ratio to derive best ﬁt values of the silicate Sr factor and 87Sr/86Sr ratio for days 61 to 151. (For interpretation of the references to color in this ﬁgure legend, the reader is referred to the web version of this article.)
+
+ratios in Well 18 may be explained by waters arriving along ﬂow paths with diﬀering 87Sr/86Sr ratios. The ﬁts to Well 30's Sr and 87Sr/86Sr proﬁles is well matched with a change in Sr factor and silicate 87Sr/86Sr ratio at day 52 (Fig. 15). The observed scatter in 87Sr/86Sr ratios in
+sampled outcrop (Fig. 13) suggests that units in the deltaic 2nd Wall
+Creek sandstone are distinctly heterogeneous in Sr-isotopic composi-
+tion. The range of the inferred silicate Sr-isotopic compositions and the
+apparent relative consistency of inferred isotopic compositions within
+
+the individual wells implies that the injected ﬂuids are sampling relatively coherent beds within the deltaic 2nd Wall Creek sandstone.
+The Sr-isotopic ratios conﬁrm the results of the calculations of changes in modal mineralogy that the CO2 injection results in signiﬁcant dissolution of silicate minerals in a relatively short time period.
+
+27
+
+M. Bickle et al.
+
+Chemical Geology 468 (2017) 17–31
+
+4. Mineral-ﬂuid reactions and reaction rates
+The fundamental process controlling the rates of ﬂuid-mineral reactions is the rate at which CO2 dissolves in the formation brines. In this experiment with ﬂuids sampled at surface after they have undergone signiﬁcant decompression, direct measurements of ﬂuid CO2 contents are not possible. Below we make thermodynamic estimates of the undegassed ﬂuid compositions based on two approaches. 1) Calcite dissolution reaction rates are fast and it is possible to calculate the ﬂuid partial CO2 pressure for equilibrium with calcite. 2) The observed plagioclase dissolution implies signiﬁcant ﬂuid undersaturation which again is a function of ﬂuid CO2 partial pressure.
+
+4.1. Approach to calcite-ﬂuid equilibrium
+
+The approach of calcite to equilibrium with the formation brines is
+governed by the degree of thermodynamic disequilibrium between the
+calcite and brine and the rate at which CO2 is being transported by either diﬀusion or advection through the brine. The dissolution rate for calcite (RT, mol·m− 2·s− 1) may be expressed as
+
+n
+
+RT
+
+=
+
+KR f
+
+(ΔG)
+
+=
+
+KR ⎡⎢1 ⎣
+
+−
+
+⎛Ω⎞
+
+⎜
+⎝
+
+Ks0p
+
+⎟
+⎠
+
+⎤ ⎥ ⎦
+
+(3)
+
+where KR is a rate constant (mol·m−2·s− 1), which is in general a function of temperature and ﬂuid composition and ΔG (kJ/mol) is a measure of the distance from thermodynamic equilibrium between calcite and the ﬂuid. Transition state theory (e.g. Aagaard and Helegeson, 1982) suggests that ΔG has the form in Eq. (3) where Ω is the activity product and Ksp0 is the solubility product (equilibrium constant) but this is uncertain (e.g. Hellmann and Tisserand, 2006). However in most published expressions f(ΔG) tends to a constant far from equilibrium and for calcite n ~ 1.
+The rate constant, KR, for calcite is a function of pH, temperature, CO2 partial pressure and other components in the ﬂuid phase. Pokrovsky et al. (2009) note that when recalculated to constant
+pH = 5, calcite dissolution rates exhibit a maximum at ~ 4 MPa and are
+only weakly dependent on temperature. The rates range between 1.8 × 10− 5 and 3 × 10− 4 mol·m− 2·s− 1.
+The change in Ca concentration (Ca, mol·m− 3) of the ﬂuid with time (t, s) due to surface dissolution of calcite can be written
+
+φ ∂Ca ∂t
+
+=
+
+KR α ⎛⎜1 − ⎝
+
+Ω⎞
+
+Ks0p
+
+⎟
+⎠
+
+(4)
+
+where ϕ is porosity and α is reactive surface area of calcite (m2/m3) in the rock. The ratio of the activity product to solubility product (Ω/Ksp0) is approximately proportional to ﬂuid Ca content ratioed to the Ca
+content in equilibrium with calcite (Caeq) (Fig. 16) which allows Eq. (4) to be rewritten
+
+∂Ca′ ∂t
+
+=
+
+K" (1
+
+−
+
+Ca′)
+
+where Ca′ = Ca/Caeq and K″ (s− 1) is given by
+
+K"
+
+=
+
+KR α . φ Caeq
+
+(5) (6)
+
+K″ = 0.087 s− 1 for a far-from-equilibrium calcite dissolution rate of KR = 1.8 × 10− 5 mol·m− 2·s− 1 (Pokrovsky et al., 2009), 1 vol% calcite in the rock with a surface area of ~ 2.5 × 104 m2/m3 (chosen as a
+minimal calcite content), porosity ϕ = 0.2 and equilibrium Ca concentration (Caeq) of 26 mol/m3.
+The dominant transport of CO2 and Ca in the ﬂuid may be by diffusion (e.g. close to CO2 ﬁngers) or by advection in the ﬂowing brines. The diﬀerential equation describing diﬀusion and reaction with linear
+kinetics (c.f. Lichtner, 1988) is
+
+Fig. 16. Variation of calcite saturation state as a function of ﬂuid Ca′ concentration (Ca′ = Ca/Caeq) calculated for initial ﬂuid sample SCR-7-28 saturated in CO2 at 10 MPa and 50 °C. Caeq = 26 mmol/L.
+
+( )φ ∂Ca ∂t
+
+=
+
+φD ∂2Ca τ ∂x2
+
++
+
+KR α
+
+1
+
+−
+
+Ca Caeq
+
+Non-dimensionalising Eq. (7) by the transformations.
+
+Ca = Ca′Caeq
+
+(7) (8)
+
+x = x′ l
+
+(9)
+
+t = t′ l2 D
+
+(10)
+
+where Caeq is the ﬂuid Ca concentration in equilibrium with CO2 saturated ﬂuid, l is an appropriate length scale (e.g. transport distance) and D is the diﬀusion coeﬃcient, gives
+
+∂Ca′ ∂t′
+
+=
+
+∂2Ca′ ∂x′2
+
++
+
+NDdiff
+
+(1
+
+−
+
+Ca′)
+
+(11)
+
+where, the dimensionless constant, a Damköhler Number for diﬀusion, NDdiﬀ, is given by
+
+NDdiff
+
+=
+
+τ KR α l2 φ D Caeq
+
+(12)
+
+For the parameters given above and l > 0.25 mm, NDdiﬀ > 10, the condition for reaction to be fast compared with diﬀusion (e.g. Bickle, 1992). This short transport distance is consistent with the experimental observation that calcite dissolution experiments are transport controlled at pH < 5 (Pokrovsky et al., 2009) and implies that, while calcite is present in the reservoir, ﬂuids will be close to equilibrium with calcite where CO2 is transported by diﬀusion.
+For advective displacements, transport and reaction may be described by
+
+( )φ∂Ca ∂t
+
+=
+
+−ϖφ
+
+∂Ca ∂x
+
++
+
+KR α
+
+1
+
+−
+
+Ca Caeq
+
+(13)
+
+where ϖ is the net ﬂuid pore velocity. Non-dimensionalising Eq. (13) using Eqs. (8) and (9) but with time scaled as
+
+t = t′ l ϖφ
+
+(14)
+
+transforms Eq. (13) to
+
+∂Ca′ ∂t′
+
+=
+
+− ∂Ca′ ∂x′
+
++
+
+ND (1
+
+−
+
+Ca′)
+
+where the Damköhler Number for advection, NDA is given by
+
+(15)
+
+28
+
+M. Bickle et al.
+
+Chemical Geology 468 (2017) 17–31
+Fig. 17. Variation of alkalinity with total dissolved CO2 (ΣCO2) for ﬂuids from wells (points give average of groups of 5 samples) where total CO2 is calculated from assumption that ﬂuids are in equilibrium with calcite at reservoir pressure of 10 MPa and temperature of 50 °C. Lines labelled ‘calcite saturation’ show evolution of initial ﬂuid (average of ﬁrst ﬁve samples) as CO2 partial pressure is increased while maintaining equilibrium with only calcite. Red triangle shows alkalinity of initial ﬂuid brought to equilibrium with calcite, albite and kaolinite. Calculated using PHREEQC. Blue lines are best ﬁt to well sample alkalinity data with calcite-albite-kaolinite saturated composition ﬁxing high ΣCO2 end of line. (For interpretation of the references to color in this ﬁgure legend, the reader is referred to the web version of this article.)
+
+NDA =
+
+KR α l Caeq ϖ φ
+
+(16)
+
+The maximum brine velocities at Salt Creek are ~5 m/day given the permeabilities (Fig. 4), driving pressure gradients (Fig. 5) and for the viscosity of supercritical CO2 and thereforeNDA > 10 for l > ~ 5 mm. Therefore ﬂuids will approach saturation with calcite after ﬂowing only 5 mm.
+The conclusion is that on the length and velocity scales of the Salt Creek experiment transport rates are suﬃciently slow that the ﬂuids should remain close to equilibrium with calcite where calcite is present. It is therefore possible to estimate minimum ﬂuid CO2 contents and pH at reservoir conditions from the ﬂuid chemistries and alkalinities presuming that calcite precipitation is limited as the ﬂuids decompress in the production wells.
+
+4.2. Alkalinity as a function of PCO2 at calcite saturation
+Fig. 17 illustrates the variation in alkalinity calculated using PHREEQC as a function of total CO2 and PCO2 for the ﬂuids from wells 16, 18, 28 and 30 assuming that the ﬂuids were in equilibrium with calcite at a reservoir pressure of 10 MPa and temperature of 50 °C. Also shown is the theoretical increase in alkalinity if the initial ﬂuid sample (average of ﬁrst 5 samples) is reacted only with calcite as the CO2 partial pressure is increased. The deviation from the simple calcite saturation line is a consequence of the dissolution of silicate components in addition to calcite consistent with the modelling of the ﬂuid compositions discussed above. This reduces the inferred CO2 contents over those predicted from the increase in alkalinity being due to dissolution only of calcite.
+One approximation with the use of the empirical curves calculated by ﬁts to the sampled waters to calculate the expected alkalinity as a function of dissolved CO2, is that the sampled waters are averages of the well waters over the whole depth of the 2nd Wall Creek which will range from CO2-saturated to unaﬀected by the newly injected CO2. The sampled waters therefore are restricted to lower dissolved CO2 contents and alkalinities than the full range. The relationship between alkalinity
+
+and dissolved CO2 will depend on the chemistry of these more saturated waters. A possible upper bound is shown by the alkalinity of the initial ﬂuid brought to equilibrium with calcite, albite and kaolinite (Fig. 17). It should also be noted that mixing of ﬂuids with the observed nonlinear alkalinity-total CO2 trends likely results in the mixture becoming undersaturated in calcite and/or silicate minerals.
+4.3. Magnitude and kinetics of ﬂuid-mineral reactions
+The modal calculations (Fig. 12) indicate that the sampled ﬂuids dissolve about 20 mmol plagioclase per litre on average over the 150 day sampling period. Again it is important to note that this is an average of all the ﬂuids sampled which will range from those unreacted to those with most reaction, albeit biased towards the latter. An ‘average’ dissolution rate for the silicate minerals may be calculated given estimates of their surface areas, the porosity and the duration of the alteration. Surface areas of plagioclase measured by gas absorption (BET), are ~1 m2/g. The porosity of the more permeable layers is ~20% and the plagioclase mode in Frontier Formation samples is ~15% by volume (e.g. Dutton et al., 2000). These parameters give a mean dissolution rate over the 150 days of injection of ~ 10− 12 mol·m− 2·s− 1. The major uncertainty is the estimate of plagioclase surface area for which 90% of the published measurements vary by a factor of 5 (see compilation in White and Brantley, 2003) and generally increase as dissolution reactions progress. The rate of 10− 12 mol·m− 2·s− 1 is at the lower end of the range of far-from-equilibrium rates determined by many laboratory experiments at surface conditions. The 2nd Wall Creek Formation at Salt Creek has a temperature of ~ 50 °C which would increase plagioclase dissolution rates by a factor of ~7 over rates at 25 °C given an activation energy of ~ 60 kJ·mol− 1 as estimated by Hellmann and Tisserand (2006) and Gruber et al. (2016). The compilation of plagioclase dissolution rates measured in laboratory experiments by White and Brantley (2003), adjusted to 50 °C, range from 2.5 × 10− 12 to 10− 10 mol·m− 2·s− 1. Gruber et al. (2016) measured dissolution rate of albite at 6 × 10− 12 mol·m− 2·s− 1 at 50 °C.
+It is of interest to estimate the CO2 partial pressures necessary for
+
+29
+
+M. Bickle et al.
+
+Chemical Geology 468 (2017) 17–31
+
+Fig. 18. ΔG for the plagioclase dissolution reaction calculated for Ab100, Ab80 and Ab60 high albite and low albite (see Eqs. (17) & (18)) at a temperature of 50 °C and pressure of
+10 MPa as a function of CO2 partial pressure for the average brine sample from days 148 to153 from well 28. This sample is calcite saturated at a PCO2 of 1.5 MPa (solid arrow). Dashed line shows ΔG for plagioclase Ab80 for the initial brine sample (days 1–7) which is calcite saturated at PCO2 of 0.26 MPa (dashed arrow).
+
+the plagioclase to be ‘far-from-equilibrium’ generally taken as ΔG for the plagioclase dissolution reaction of less than ~ < − 50 kJ/mol. The extent of thermodynamic disequilibrium between plagioclase and the average ﬂuid sampled over days 148 to 153 from well 28 is illustrated in Fig. 18 as a function of the CO2 partial pressure for low albite, high albite and high albite feldspar solid solutions with 20% and 40% anorthite. The deviation from equilibrium, ΔG in kJ/mol is given by (e.g. Drever, 1997)
+
+ΔG
+
+=
+
+RT
+
+ln
+
+⎛
+⎜
+
+⎝
+
+IAP Keq
+
+⎞
+⎟
+⎠
+
+(17)
+
+where R is the gas constant, T temperature (K), IAP is the ion activity product and Keq is the equilibrium constant for the plagioclase dissolution reaction
+
+NaxCa(1−x)Al(2−x)Si(2+x)O8 + 2(2 − x). H+ + (2x + 4). H2O = x. Na+ + (1 − x). Ca2+ + (2 − x). Al(OH)+2 + (2 + x). H4SiO4
+
+(18)
+
+where x is the mol fraction albite. The equilibrium constant, Keq, is calculated using the software package SUPCRTBL (Zimmer et al., 2016), an updated version of SUPCRT92 (Johnson et al., 1992). The
+thermodynamic properties of plagioclase solid-solutions are taken from Arnorsson and Stefansson (1999). The ion activity product is calculated
+using PHREEQC (version 3.3.8) with the PHREEQC data base and the thermodynamic properties of Al-species taken from Tagirov and Schott (2001). It is of interest that the calculated activities of Al-ﬂuoride species in the brines become dominant at the reservoir conditions. For example in the 148–153 ﬂuid from well 28 the calculated activity of Al (OH)2+ is ~ 1.6 × 10− 7 at surface conditions decreasing to ~ 2 × 10−8 at a CO2 pressure of 10 MPa. In contrast the activity of AlF2+ increases from ~ 2 × 10− 9 at surface conditions to ~ 3 × 10− 6 at 10 MPa CO2 pressure.
+The mean plagioclase composition from the core samples is ~An
+21% (Table 1) and of the outcrop samples ~ An 15% (from Na/Ca ratios) and such plagioclases are just saturated (ΔG ~ 0) at calcite saturation in the well 28 samples (initial and ﬁnal sample illustrated in Fig. 18). The more marked degrees of undersaturation illustrated in Fig. 18, required to drive plagioclase dissolution at the inferred rate
+implies higher CO2 partial pressures at which calcite would also be undersaturated. However the uncertainties in the thermodynamic data are not well constrained and comparison of the diﬀerent data sets PHREEQC.dat and lnll.dat with and without modiﬁed Al species gives a
+
+range of the order ± 8 kJ/mol for plagioclase. This, coupled with the uncertainties in plagioclase surface areas and plagioclase dissolution rates means that it is not possible to make a deﬁnitive conclusion as to the apparent discrepancy between CO2 partial pressures inferred from calcite saturation and plagioclase dissolution rates. Alternatively it is possible that the brines precipitate signiﬁcant carbonate on decompression or that the brines may be undersaturated in calcite because the rocks are heterogenous and some of the ﬂow paths are calcite free (c.f. Fig. 13).
+5. Conclusions
+Sampling of ﬂuids from sites where CO2 is injected for enhanced oil recovery enables evaluation of ﬂuid-rock interactions, rates of CO2 dissolution in the sampled brines and gives a measurement of the heterogeneity of the formations sampled. The sampling of brines from production wells for six months after commencement of a phase of CO2 injection into the 2nd Wall Creek member at the Salt Creek oil ﬁeld, Wyoming, reveals marked increases in the concentrations of major cations over weeks, highlighting the reactivity of the relatively immature sandstone to CO2-rich ﬂuids. The concentrations of the anions Cl and Br remained unchanged which implies that the changes do not reﬂect heterogeneity in previously injected waters. Marked decreases in F during the sampling may reﬂect the volatility of SiF4 which partitions into the CO2 phase. Modelling the mineral reactions from the changes in cation chemistry indicates that mineral dissolution is dominated by plagioclase, with subsidiary biotite, calcite and chlorite. The silicate mineral dissolution is buﬀered by precipitation of the clay minerals.
+The increase in Sr and 87Sr/86Sr ratios with time in the sampled ﬂuids is consistent with the bulk of the Sr being supplied from plagioclase with elevated 87Sr/86Sr ratios and conﬁrms the importance of dissolution of silicate minerals over the relatively short timescale in this experiment. The calculated 87Sr/86Sr ratios (0.7106 to 0.7156) of the silicate inputs lie within the range of the 87Sr/86Sr ratios (0.708 to 0.720) measured in the silicate fractions of core and outcrop samples from the Frontier Formation. The range of Sr-isotopic ratios across the diﬀerent production wells demonstrates that ﬂow paths within the reservoir sample horizons with distinct isotopic compositions, a conclusion consistent with the strongly heterogeneous permeabilities within the formation coupled with the marked Sr-isotopic heterogeneities. The chemical and isotopic variations in the time series from well 30 imply arrival of ﬂuids from a diﬀerent ﬂow path with diﬀerent extents of mineral-ﬂuid reactions part way through the sampling period. These results attest to the sensitivity of geochemical tracers to ﬂow paths and their variations, at least in formations with suitably reactive mineral assemblages.
+The calculated rates of diﬀusion of CO2 into brines and advection of CO2 by ﬂow rates within the formation are suﬃciently slow that the ﬂuids are expected to remain close to equilibrium with calcite, given its presence in the reservoir (calcite saturation is predicted after CO2-enriched ﬂuids migrated 5 mm into the reservoir). This allows estimation of the CO2 contents of the ﬂuids in the formation prior to their ascent and degassing in the production wells before sampling. Another potential constraint on the reservoir ﬂuid CO2 contents is the observation that the average rate of plagioclase dissolution is ~ 10− 12 mol·m− 2·s− 1 (with uncertainty in plagioclase surface area of ~ a factor of ﬁve). This dissolution rate is relatively fast, especially considering that the sampled ﬂuids represent an average of all ﬂuids from the production well. These will range from those close to injected CO2 and correspondingly CO2-rich to those distant from penetrating CO2 ﬁngers and thus unsaturated, albeit that the sampling will be biased by the higher ﬂuxes from the more permeable horizons adjacent to the CO2 ﬁngers. Formation CO2 partial pressures in samples from the end of the sampling period estimated to drive the plagioclase dissolution at rates of 10− 12 mol·m− 2·s− 1 (with far-from-equilibrium rates of ~ 1.6 × 10− 12 mol·m− 2·s− 1) are ~ 5 MPa compared with about
+
+30
+
+M. Bickle et al.
+1.5 MPa for calcite saturation. However the combined uncertainties in plagioclase dissolution rates, plagioclase surface areas and the other model assumptions make the cause or even existence of this discrepancy uncertain.
+The results attest to the utility of geochemical observations on CO2 injection experiments to reﬂect reservoir structure and hydrological controls on the ﬂow of CO2 and brines. Dissolution of CO2 in formation waters is probably the most importance longer-term stabilising mechanism in geological carbon storage. Targeted sub-surface sampling of ﬂuids at reservoir conditions will be needed to conﬁrm the rates of CO2 dissolution and how these rates are impacted by reservoir heterogeneities.
+Acknowledgements
+We thank Anadarko for giving us access to samples and data from the Salt Creek ﬁeld, Paul Hannah for providing sample processing facilities in Casper, logistic support and telemetry from the Salt Creek ﬁeld during injection of noble gas spikes, Chen Zhu (Indiana) for updating the SupcrtBL data set spronsbl.dat with Al-F species, Vicki Stamp at RMOTC for facilitating ﬂuid sampling at Teapot Dome and the USGS Denver core store for core from Salt Creek. The work was supported by the UK Natural Environment Research Council grants (CRIUS consortium NE/F004699/1 and Highlight grant NE/N016084/1) and the UK department of Energy and Climate Change.
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at http://dx. doi.org/10.1016/j.chemgeo.2017.07.031.
+References
+Aagaard, P., Helgeson, H.C., 1982. Thermodynamic and kinetic constraints on reaction rates among minerals and aqueous solutions, I. Theoretical considerations. Am. J. Sci. 282, 237–285.
+Arnorsson, S., Stefansson, A., 1999. Assessment of feldspar solubility constants in water in the range 0° to 350 °C at vapour saturation pressures. Am. J. Sci. 299, 173–209.
+Benson, S.M., Cole, D.R., 2008. CO2 sequestration in deep sedimentary formations. Elements 4, 325–331.
+Bhattacharya, J.P., Willis, B.J., 2001. Lowstand deltas in the Frontier Formation, Powder River basin, Wyoming: implications for sequence stratigraphic models. AAPG Bull. 85, 261–294.
+Bickle, M.J., 1992. Transport mechanisms by ﬂuid-ﬂow in metamorphic rocks: oxygen and strontium decoupling in the Trois Seigneurs massif — a consequence of kinetic dispersion? Am. J. Sci. 292, 289–316.
+Bickle, M.J., 2009. Geological carbon storage. Nat. Geosci. 2, 815–818. Bickle, M.J., Bunbury, J., Chapman, H.J., Harris, N.B., Fairchild, I.J., Ahmad, T., 2003.
+Fluxes of Sr into the headwaters of the Ganges. Geochim. Cosmochim. Acta 67, 2567–2584. Bickle, M.J., Tipper, E.D., Galy, A., Chapman, H.J., Harris, N.W.B., 2015. On discrimination between carbonate and silicate inputs to Himalayan rivers. Am. J. Sci. 315, 120–166. Boait, F.C., White, N.J., Bickle, M.J., Chadwick, R.A., Neufeld, J.A., Huppert, H.E., 2012. Spatial and temporal evolution of injected CO2 at the Sleipner Field, North Sea. J. Geophys. Res. 117. Drever, J.I., 1997. The geochemistry of natural waters, 3rd ed. Prentice Hall, Upper Saddle River (436 pp). Dubacq, B., Bickle, M.J., Wigley, M., Kampman, N., Ballentine, C.J., Sherwood Lollar, B., 2012. Noble gas and carbon isotopic evidence for CO2-driven silicate dissolution in a recent natural CO2 ﬁeld. Earth Planet. Sci. Lett. 341-344, 10–19. Dutton, S.P., Willis, B.J., White, C.D., Bhattacharya, J.P., 2000. Outcrop characterization of reservoir quality and interwell-scale cement distribution in a tide-inﬂuenced delta, Frontier Formation, Wyoming, USA. Clay Miner. 35, 95–105. Dutton, S.P., White, C.D., Willis, B.J., Novakovic, D., 2002. Calcite cement distribution and its eﬀect on ﬂuid ﬂow in a deltaic sandstone, Frontier Formation, Wyoming. AAPG Bull. 86, 2007–2021. Estabrook, E.L., 1925. Analyses of Wyoming oil-ﬁeld waters. AAPG Bull. 9, 235–246. Garçon, M., Chauvel, C., France-Lanord, C., Limonta, M., Garzanti, E., 2014. Which minerals control the Nd–Hf–Sr–Pb isotopic compositions of river sediments? Chem. Geol. 364, 42–45. Gruber, C., Kutuzov, I., Ganor, J., 2016. The combined eﬀect of temperature and pH on albite dissolution rate under far-from-equilibrium conditions. Geochim. Cosmochim. Acta 186, 154–167. Hellmann, R., Tisserand, D., 2006. Dissolution kinetics as a function of the Gibbs free energy of reaction: an experimental study based on albite feldspar. Geochim.
+
+Chemical Geology 468 (2017) 17–31
+Cosmochim. Acta 70, 364–383. Hovorka, S.D., Meckel, T.A., Trevino, R.H., Lu, J., Nicot, J.-N., Choi, J.-W., Freeman, D.,
+Cook, P., Daley, T.M., Ajo-Franklin, J.B., Freifeild, B.M., Doughty, C., Carrigan, C.R., La Brecque, D., Kharaka, Y.K., Thordsen, J.J., Phelps, T.J., Yang, C., Romanak, K.D., Zhang, T., Holt, R.M., Lindler, J.S., Butsch, R.J., 2011. Monitoring a large volume CO2 injection: year two results from SECARB project at Denbury's Cranﬁeld, Mississippi, USA. Energy Procedia 4, 3478–3485. IPCC, 2005. In: Metz, B., Davidson, O., de Coninck, H.C., Loos, M., Meyer, L.A. (Eds.), IPCC Special Report on Carbon Dioxide Capture and Storage. Prepared by Working Group III of the Intergovernmental Panel on Climate Change. Cambridge University Press, Cambridge, UK and New York, NY, USA (442 pp). Johnson, J.W., Oelkers, E.H., Helgeson, H.C., 1992. Supcrt92 — a software package for calculating the standard molal thermodynamic properties of minerals, gases, aqueous species, and reactions from 1-bar to 5000-bar and 0-degrees-C to 1000-degrees-C. Comput. Geosci. 18, 899–947. Kampman, N., Bickle, M., Becker, J., Assayag, N., Chapman, H., 2009. Feldspar dissolution kinetics and Gibbs free energy dependence in a CO2-enriched groundwater system, Green River, Utah. Earth Planet. Sci. Lett. 284, 473–488. Kampman, N., Bickle, M.J., Wigley, M., Dubacq, B., 2014. Fluid ﬂow and CO2–ﬂuid–mineral interactions during CO2-storage in sedimentary basins. Chem. Geol. 369, 22–50. Kampman, N., Busch, A., Bertier, P., Snippe, J., Hangx, S., Pipich, V., Di, Z., Rother, G., Harrington, J.F., Evans, J.P., Maskell, A., Chapman, H.J., Bickle, M.J., 2016. Observational evidence conﬁrms modelling of the long-term integrity of CO2-reservoir caprocks. Nat. Commun. 7, 10. http://dx.doi.org/10.1038/ncomms12268. Kent, J., Watson, G., Onstott, T., 1990. Fitting straight lines and planes with an application to radiometric dating. Earth Planet. Sci. Lett. 97, 1–17. Lee, K., Zeng, X., McMechan, G.A., Howell, J.C.D., Bhattacharya, J.P., Marcy, F., Olariu, C., 2005. A GPR survey of a delta-front reservoir analog in the Wall Creek Member, Frontier Formation, Wyoming. AAPG Bull. 89, 1139–1155. Lee, K., Gani, M.R., McMechan, G.A., Bhattacharya, J.P., Nyman, S.L., Zeng, X., 2007. Three-dimensional facies architecture and three-dimensional calcite concretion distributions in a tide-inﬂuenced delta front, Wall Creek Member, Frontier Formation, Wyoming. AAPG Bull. 91, 191–214. Lichtner, P.C., 1988. The quasi-stationary state approximation to coupled mass transport and ﬂuid rock interaction in a porous medium. Geochim. Cosmochim. Acta 52, 143–165. Lico, M.S., Kharaka, Y.K., Carothers, W.W., Wright, V.A., 1982. Methods of collection and analysis of geopressured geothermal and oil ﬁeld waters. In: United States Geological Survey Water Supply Paper 2194, (21 pp). May, S.R., Gray, G.G., Summa, L.L., Stewart, N.R., Gehrels, G.E., Pecha, M.E., 2013. Detrital zircon geochronology from Cenomanian–Coniacian strata in the Bighorn Basin, Wyoming, U.S.A.: implications for stratigraphic correlation and paleogeography. Rocky Mt Geol. 48, 41–61. Merewether, E.A., Cobban, W.A., Cavaaugh, E.T., 1979. Frontier Formation and equivalent rocks in Eastern Wyoming. Mt. Geol. 16, 67–101. Neufeld, J.A., Hesse, M.A., Riaz, A., Hallworth, M.A., Tchelepi, H.A., Huppert, H.E., 2010. Convective dissolution of carbon dioxide in saline aquifers. Geophys. Res. Lett. 37, L22404. http://dx.doi.org/10.21029/22010GL044728. O'Brien, J., Moran, J., Wilbourn, G., Morris, S., Andersen, J., 2010. Monitoring a CO2 ﬂood with ﬁne time steps: Salt Creek 4D. Lead. Edge 29, 912–919. Parkhurst, D.L., Appelo, C.A.J., 2013. Description of input and examples for PHREEQC version 3—a computer program for speciation, batch-reaction, one-dimensional transport, and inverse geochemical calculations. In: U.S. Geological Survey Techniques and Methods. book 6 USGS (497 pp). Pokrovsky, O.S., Golubev, S.V., Schott, J., Castillo, A., 2009. Calcite, dolomite and magnesite dissolution kinetics in aqueous solutions at acid to circumneutral pH, 25 to 150 °C and 1 to 55 atm pCO2: new constraints on CO2 sequestration in sedimentary basins. Chem. Geol. 265, 20–32. Roberts, S., 1989. Wyoming Geomaps. Wyoming State Geological Survey Educational Series 1. (41 p). Saﬀman, P.G., Taylor, G., 1958. The penetration of a ﬂuid into a porous medium or HeleShaw cell containing a more viscous liquid. Proc. R. Soc. London, Ser. A 245, 312–329. Tagirov, B., Schott, J., 2001. Aluminum speciation in crustal ﬂuids revisited. Geochim. Cosmochim. Acta 65, 3965–3992. de Villiers, S., Greaves, M., Elderﬁeld, H., 2002. An intensity ratio calibration method for the accurate determination of Mg/Ca and Sr/Ca of marine carbonates by ICP-AES. Geochem. Geophys. Geosyst. 3. http://dx.doi.org/10.1029/2001GC000169. White, A., Brantley, S., 2003. The eﬀect of time on the weathering of silicate minerals: why do weathering rates diﬀer in the laboratory and ﬁeld? Chem. Geol. 202, 479–506. Worden, R.H., Smith, L.K., 2004. Geological sequestration of CO2 in the subsurface: lessons from CO2 injection enhanced oil recovery projects in oilﬁelds. Geol. Soc. Lond., Spec. Publ. 233, 59–85. Xu, T., Apps, J., Pruess, K., Yamamoto, H., 2007. Numerical modeling of injection and mineral trapping of CO2 with H2S and SO2 in a sandstone formation. Chem. Geol. 242, 319–346. Young, H.W., Estabrook, E.L., 1925. Waters of the Salt Creek ﬁeld, Wyoming. Trans. AIME G-25, 255–264. Zhou, Z., Bickle, M., Galy, A., Chapman, H., Kampman, N., Dubacq, B., Wigley, M., Warr, O., Sirikitputtisak, T., Hannah, P., Ballentine, C., 2011. Predicting CO2 EOR and geological sequestration processes with artiﬁcial noble gas tracers. Mineral. Mag. 75, 2274. Zimmer, K., Zhang, Y., Lu, P., Chen, Y., Zhang, G., Dalkilic, M., Zhu, C., 2016. SUPCRTBL: a revised and extended thermodynamic dataset and software package of SUPCRT92. Comput. Geosci. 90, 97–111.
+
+31
+
+

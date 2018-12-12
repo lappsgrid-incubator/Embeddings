@@ -1,0 +1,889 @@
+Recognition of Natural Brine by Electrical Soundings Near the Salt Fork of the Brazos River, Kent and Stonewall Counties, Texas
+GEOLOGICAL SURVEY PROFESSIONAL PAPER 809-A
+NHP pp
+809-A
+
+NHP PP 809-A Zohdy, Adel A.R. and Jackson Recognition of Natural Brine
+by Electrical Soundings Near
+
+Recognitionof Natural Brine by Electrical Soundings Near the Salt Fork of the Brazos River, Kent and Stonewall Counties, Texas
+By ADELA. R. ZOHDY and DALLAS B. JACKSON ORIGIN AND MANAGEMENT OF SALT SPRINGS AND SEEPS IN THE UPPER BRAZOS RIVER BASIN, TEXAS GEOLOGICAL SURVEY PROFESSIONAL PAPER 809-A
+UNITED STATES GOVERNMENT PRINTING OFFICE, WASHINGTON: 1973
+
+UNITED STATES DEPARTMENT OF THE INT~RIOR ROGERS C. B. MORTON, Secretary GEOLOGICAL SURVEY V. E. McKelvey, Director
+Library of Congress catalog-card No. 73-600095
+For sale by the Superintendent of Documents, U.S. Government Printing Office Washington, D.C. 20402- Price 40 cents domestic postpaid or 30 cents GPO Bookstore
+Stock Number 2401-02373
+
+CONTENTS
+
+Page
+Abstract ···········································------····-··-·------·-······--·-··-·--····-·· A1 Introduction ----------------·····-------------------------····------------·-···-·-----······ 1 Field procedures and methods of interpretation ··---·--·--------· 2 Soundings 1 and 2, near Jayton··----------------·-···--·-··---··------------ 2 Soundings 3-9, near Girard ---------·············································· 3
+
+Page
+Soundings 10-a and 10-b, near Swenson ................................ A5 Soundings 11-15, near Aspermont and Old Glory ................ 5 Synthetic VES curve .................................................................. 9 Summary and conclusions ........................................................ 12 References cited .......................................................................... 13
+
+ILLUSTRATIONS
+
+FIGURE 1. 2. 3. 4. 5.
+6. 7. 8. 9. 10. 11. 12. 13.
+
+Page
+Index map showing the location of vertical electrical sounding stations .......................................................................... A2 Diagram of electrode configurations (plan view) .................................................................................................................... 3 VES 1 curve and interpretation .................................................................................................................................................. 4 VES 2 curve and interpretation ................................................................................................................................................... 5 VES curves 3-6, 8, 9 and DES 7, near Girard.......................................................................................................................... 6
+
+Geoelectric section, near Girard ·····································-··········································································································· VES curves 10-a and 10-b, obtained over outcrops of gypsum beds, near Swenson........................................................ VES curves 11 and 15, obtained at about 7 miles west of Aspermont.............................................................................. VES curves 12, 13, and 14. obtained west, north, and east of Aspermont, respectively .................................................. Digitized laterolog data from Stonewall County ...................................................................................................................... Dar Zarrouk curves........................................................................................................................................................................ Synthetic VES curve calculated for layering obtained from numerically smoothed Dar Zarrouk curve ...................... Synthetic VES curve calculated for layering obtained from graphically smoothed Dar Zarrouk curve plus a
+20-foot layer of 75 ohm-meters inserted at a depth of 180 feet ....................................................................................
+
+7 7 8 9 10 11 12
+13
+
+III
+
+ORIGIN AND MANAGEMENT OF SALT SPRINGS AND SEEPS IN THE UPPER BRAZOS RIVER BASIN, TEXAS
+
+RECOGNITION OF NATURAL BRINE BY ELECTRICAL SOUNDINGS NEAR THE SALT FORK OF THE BRAZOS RIVER, KENT AND STONEWALL COUNTIES, TEXAS
+
+By ADELA. R. ZoHDY and DALLAS B. JACKSON
+
+ABSTRACT
+Fifteen electrical soundings were made near the Salt Fork of the Brazos River using the Schlum.berger and equatorial electrode arrays to evaluate the usefulness of the direct-current resistivity method in determining the depth of a fresh-watersalt-water interface in a geologic setting containing gypsum and anhydrite layers. The sounding data were interpreted by curve matching and computer modeling, and indicate that the resistivity method is useful where the interface lies above the gypsum series and also where the effective relative conductance of the brine-saturated layers below the gysum layers is large. This type of successful application was obtained from soundings made near the town of Jayton and also in an area approximately 7 miles west of Aspermont.
+Near the town of Girard, the fresh-water-salt-water interface was difficult to detect because of the presence of high-resistivity anhydrite beds that lie directly beneath the interface. In the immediate vicinity of Aspermont and north of Old Glory, preliminary interpretation of the sounding data indicates the presence of brackish- to fresh-water-saturated sedimentary rocks. No direct evidence is observed on the sounding curves of the presence of very low resistivity brine-saturated rocks nor of high-resistivity anhydrite beds. Geologic and laterolog data obtained from a deep well in the area north of Aspermont indicate that the section is composed primarily of alternating beds of shale and dolomite of very low and very high resistivities, respectively, which mask the presence of the brine. The calculation of synthetic electrical sounding curves from the laterolog data was made with the help of smoothed Dar Zarrouk curves. Analyses of the synthetic sounding curves indicate that the logarithmic average resistivity of the shale-dolomite sequence may attain values characteristic of sedimentary rocks saturated with fresh to brackish water rather than with brine. The analyses indicate also that the electric section in this area has an anisotropy of about 2.1-2.7.
+INTRODUCTION
+The Brazos River traverses the eastern part of the Permian Basin and is potentially one of the principal sources of water in Texas. However, it is highly contaminated with brine and carries an average daily load of about 1,650 tons of sodium chloride into the Possum
+
+Kingdom Reservoir, about 110 miles west of Dallas, Texas. More than 85 percent of this salt is contributed by the Salt Fork of the Brazos River, where it originates in brine springs and seeps. An understanding of the origin and subsurface hydrology of the natural brine is fundamental in applying engineering measures to control the flow of salt water into streams. The geologic and hydrologic framework is briefly outlined in a report by Stevens and Hardt (1965). Other chapters in this professional paper on the origin and management of salt springs and seeps in the upper Brazos River basin provide information on the analysis of geophysical logs of boreholes, the hydrogeology and geochemistry of fresh water and brine, and the problems of management and control of salt springs and seeps.
+In May 1966, the U.S. Geological Survey made 15 VES (vertical electrical soundings) to determine the usefulness of the direct-current resistivity method in evaluating the depth to a fresh-water-salt-water interface near the Salt Fork of the Brazos River where the geologic setting is characterized by the presence of both clastic and evaporite rocks. Figure 1 shows the location of the VES stations in the vicinity of Aspermont, Girard, Jayton, Old Glory, and Swenson, Tex.
+Stevens and Hardt (1965) report that, in this area the total dissolved-solids content of deep saline ground water ranges from about 20,000 to 250,000 ppm (parts per million), whereas overlying ground water contains only about 2,000-5,000 ppm dissolved solids. This significant change in the saJinity of the formation fluids results in an excellent contrast in the electrical properties of the sedimentary rocks saturated with these fluids. Therefore the VES method should be highly effective in delineating the fresh-water-salt-water interface (Zohdy and others, 1969). However, the presence of numerous high-rasistivity gypsum and anhydrite beds
+Al
+
+A2 ORIGIN AND MANAGEMENT, SALT SPRING AND SEEPS, UPPER BRAZOS RIVER BASIN, TEXAS
+
+~T-26 1 .,5
+
+EXPLANATION .3
+Electrical sounding location and number 0 T-11
+U.S. Geological Survey test hole and number
+6
+Approximate location of deep oil well
+FIGURE I.-Location of vertical electrical sounding stations.
+
+in the geologic section can limit the effectiveness of the method in detecting the fresh-water-salt-water interface sought. The results of the electrical soundings reported here illustrate the geologic conditions required for the successful delineation of the fresh-watersalt-water interface in the presence of gypsum and anhydrite deposits.
+FIELD PROCEDURES AND METHODS OF INTERPRETATION
+Fourteen vertical electrical soundings were made using the quadrupole Schlumberger array, and one sounding was made using the bipole-dipole equatorial array (Bhattacharya and Patra, 1968; Berdichevskii and Petrovskii, 1956; Zohdy and Jackson, 1969; Zohdy, 1969b). Figure 2 shows the Schlumberger and the bipole-dipole equatorial arrays.
+Interpretation of the sounding curves was made by curve matching techniques using theoretically calculated sets of master curves (Compagnie Generale de Geophysique, 1963; Orellana and Mooney, 1966) that
+
+were used in conjunction with the auxiliary point diagrams and other related graphical methods (Bhattacharya and Patra, 1968; Dakhnov, 1953; Kalenov, 1957; Keller and Frischknecht, 1966; Kunetz, 1966, Zohdy, 1965; Zohdy, 1968). In addition, a few of the graphically obtained earth models were checked by computing the multilayer sounding curves on an IBM 360/65 digital computer using a modified version of Mooney's program (Mooney and others, 1966).
+SOUNDINGS 1 AND 2, NEAR JAYTON
+The first two electrical soundings, VES 1 and VES 2, were made near the town of Jayton where the depth to the fresh-water-salt-water interface is about 200 feet below land surface. Figure 3 shows the curve of VES 1 which was made near test well T-12. The depth to the interface at the well was reported by the driller to be about 60 f~et below land surface. Qualitative examination of the VES 1 curve reveals a four-layer geoelectric section of the QH-type with p1 >p~ >p:l <p-t (Kalenov, 1957) and shows the detection of a layer with the
+
+RECOGNITION OF NATURAL BRINE BY ELECTRICAL SOUNDINGS NEAR SALT FORK
+
+A3
+
+A MN B
+o--------------~o-(a-)--o~-------------o
+
+Mo;,---cN /
+/I
+
+/ d~J /
+
+I
+IR
+
+// I
+
+/
+d--------------~---------------0
+A (b) B
+
+FIGURE 2.-Electrode configurations (plan view). Arrays: a, Schlumberger, b, bipole-dipole equatorial. A, B, current electrodes; M, N, potential electrodes; R, distance from center of source bipole AB to center of measuring dipole MN; R, distance from current electrode to center of measuring dipole MN or effective electrode spacing of equatorial array.
+
+exceptionally low resistivity of less than 2 ohm-meters (brine-saturated sedimentary rocks) at shallow depth, as evidenced by the steep descent of the left branch of the curve. Quantitative interpretation of the curve indicated that a depth of 30 feet to the interface is most reasonable and that the maximum depth to the freshwater-salt-water interface is about 35 feet instead of the reported value of 60 feet. The depth to the interface at T-12 was reevaluated hydrogeologically at a later date (P. R. Stevens, written commun., 1969). Both geophysical logs and "thief" samples of water from the well indicate that the interface is at 30 feet which is in excellent agreement with the interpretation of VES 1 curve. The calculation of a four-layer VES curve on the computer for the earth model shown in figure 3 matches the observed VES 1 curve satisfactorily.
+The curve of VES 2 is shown in figure 4. It represents at least a seven-layer geoelectric section of the KHKHK-type (Kalenov, 1957; Keller and Frischknecht, 1966) in which the fresh-water-salt-water interface is represented by the boundary between the fourth and fifth layers. Preliminary curve-matching interpretation indicated that the depth to the interface is in the range of 200-225 feet. This estimate correlates very favorably with the estimated depth of 205 feet according to geologic data (W. F. Hardt, oral commun., 1966). A depth of 200 feet is obtained from the VES curve by assuming the resistivity of the fourth layer to be 100 ohm-meters. Therefore, in order to make the interpreted depth agree precisely with the depth
+
+obtained from the geologic information, it is sufficient to change the assumed resistivity of the fourth layer from 100 ohm-meters to 112 ohm-meters. This adjustment in the resistivity of the fourth layer is calculated by using the principle of equivalence (Bhattacharya and Patra, 1968; Kalenov, 1957). A seven-layer VES curve was calculated on the computer and was found to match the observed curve of VES 2 as shown in figure4.
+The results obtained from VES 1 and 2 are very encouraging in terms of the usefulness of the VES method for mapping the depth to the fresh-watersalt-water interface in the vicinity of Jayton. The success of the method here is attributed to the large value of the effective relative conductance (ratio of effective relative thickness (Flathe, 1963) to resistivity) of the brine-saturated layers. Furthermore, the resistivity values at VES 1 and 2 indicate that the interface must lie above any highly resistive gypsum or anhydrite beds.
+SOUNDINGS 3-9, NEAR GIRARD
+Seven vertical electrical soundings were made along an east-west profile 6 miles long across Duck Creek, northwest of the town of Girard. Five soundings were made west of Duck Creek and two east of it. The freshwater-salt-water interface along this profile is known to be about 500 feet below land surface (Stevens and Hardt, 1965). The interface occurs within a gypsum series, and it is underlain by several beds of high-resistivity anhydrite.
+The VES curves shown in figure 5, indicate that the interface may be detected west of Duck Creek but it is very difficult to detect east of the creek. The geoelectric section shown in figure 6 is based on the interpretation of curves 3 through 9. The true resistivity of the gypsum beds above the interface is interpreted to be about 560 ohm-meters. This resistivity value is based on the interpretation of VES 4 in accordance with the depth to the interface in test hole T-10. The brine-
+saturated material below the interface seems to have a resistivity of about 40 ohm-meters according to the
+interpretation of the equatorial sounding DES 7. For a brine-saturated material, a resistivity of 40 ohm-
+meters is very high indeed, but this is attributable to
+the low porosity of the rocks containing the brine and (or) to the presence of anhydrite beds of very high resistivity in association with brine-saturated layers of very low resistivity (the two forming an anisotropic medium of average resistivity of about 40 ohm-meters). In fact the anhydrite beds are probably more resistive east of Duck Creek where they mask the effect of the brine almost completely on VES curves 8 and 9. Similar highly resistive materials saturated with salt water were found on the island of Oahu, Hawaii, where basal-
+
+A4 ORIGIN AND M/ NAGEMENT, SALT SPRING AND SEEPS, UPPER BRAZOS RIVER BASIN, TEXAS
+
+VES 1 MODEL
+
+250
+
+30 1.1
+
+5.5
+
+ww.ae.n.:.
+
+14 30
+
+85
+
+~
+
+~
+
+I
+
+0 VES I
+
+>...-. >
+t=
+~
+ewn
+a: azw...:.
+<(
+aa....
+<(
+wa:
+(!)
+aw:
+CD ~
+:::>
+...J I ()
+en
+
+1 ,~--~--~~~~~~,~o----~--~-L~~~,~o-o----L-~--L-~~~,~ooo~--~---L~~-L~,o~.ooo
+SCHLUMBERGER ELECTRODE SPACING ( A28 ). IN FEET
+FIGURE 3.-VES 1 curve and interpretation. Theoretical curve calculated by computer for given earth model. Numbers in bar designate interpreted true resistivity, in ohm-meters. Numbers below bar designate depth, in feet, below land surface.
+
+tic lava saturated with sea water has a resistivity of about 30 ohm-meters (Zohdy and Jackson, 1969).
+The position of the fresh-water-salt-water interface in the Girard area is difficult to determine by the VES method because of the presence of gypsum beds of high resistivity above the interface and, more important, because of the presence of anhydrite beds of very high resistivity below it. However, the results of the VES interpretations shown in figure 6 indjcate that other valuable information is furnished by the electrical sounding data. The Salado Formation (ofLatePermian age) in test well T-10 is easily identified on the VES curves 3, 4, 5, 6, and 8 by the formation of a well-defined minimum on these curves. The true resistivity of the Salado Formation is interpreted from VES 4 to be about 8 ohm-meters in accordance with the principle of equivalence and the well data of T-10 about its thickness. The rising branch to the right of the minimum on VES curve 4 indicates the detection of high-resistivity
+
+gypsum beds near the top of the red beds of the Tansill Formation (of the Artesia Group) and the other underlying formations (Yates, Seven Rivers, and Queen).
+To the west of VES 4, the interpretation of VES curve 3 indicates that the geoelectric section is essentially the same as at VES 4 and at test well T-10. However, to the east of VES 4, the data of VES curves 5, 6, 8, and 9 indicate thflt the depth to the top of high resistivity gypsum beds, within the red beds, increases appreciably. A moderately low resistivity of 30 to 40 ohm-meters characterizes the geoelectric section to a depth of as much as 380 feet beneath VES 6 even though Permian red beds were penetrated at much shallower depths in some shallow wells, such as well 801, near Duck Creek. This means that if the stratigraphic sequence is the same as that in well T-10, the Artesia group beneath VES 6, 7, 8, and 9, has a much lower resistivity than beneath VES 3, 4, and 5 (30-40 ohmmeters as opposed to 560 ohm-meters). An explanation
+
+RECOGNITION OF NATURAL BRINE BY ELECTRICAL SOUNDINGS NEAR SALT FORK
+
+A5
+
+VES 2 MODEL
+
+(/)
+
+a:
+
+37 56
+
+32
+
+112 4 200
+
+LU
+
+1-
+L.U
+
+4 12 36
+
+205 450
+
+1100
+
+~
+
+~
+
+:r
+
+0
+
+>-
+1-
+
+VES 2
+
+>
+
+t=
+!!?
+
+----
+
+(/)
+
+LU
+a:
+
+1z-
+LU
+a:
+aa~....
+~
+a:
+LU (!)
+a:
+LU lXI ~
+::J
+...J
+:r
+(.)
+(/)
+
+__ _,/Co leu Iated
+--
+
+10 100 1000
+SCHLUMBERGER ELECTRODE SPACING (~B), IN FEET
+
+10,000
+
+}'IGURE 4.-VES 2 curve and interpretation. Theoretical curve calculated by computer for given earth model. Numbers in bar designate interpreted true resistivity, in ohm-meters. Numbers below bar designate depth, in feet, below land surface.
+
+for this low resistivity is that solution openings in the gypsum beds beneath and around Duck Creek must have lowered their resistivity. If this is true, the resistivity method could be used effectively to map the zones around Duck Creek where solution openings exist in the gypsum beds and differentiate these zones from others where competent gypsum layers exist.
+SOUNDINGS 10-a and 10-b, NEAR SWENSON
+Two soundings, VES 10-a and 10-b, were made approximately 2 miles south of the town of Swenson. These soundings were made on gypsum outcrops to evaluate the true resistivity of gypsum beds in that area. The VES curves 10-a and 10-b are shown in figure 7. Interpretation of the three-layer K-type curve (Kalenov, 1957; Keller and Frischknecht, 1966) of VES 10-a, indicates that the true resistivity of the gypsum bed is at least 350 ohm-meters and might be 1.000 ohm-meters or more. However, the curve of VES
+
+10-b, which was obtained on an adjacent outcrop having less than one-half foot of soil cover, indicates that the true resistivity of that gypsum bed might be as low as 120 ohm-meters. These values show that individual gypsum layers have a large range of resistivities, and that the resistivity depends on the amount of fracture and solution porosity and the resistivity of the material filling the fractures.
+SOUNDINGS 11-15, NEAR ASPERMONT AND OLD GLORY
+VES 11 and 15 were made near test hole T-26, about 7 miles due west of Aspermont. Figure 8 shows the curves of these two soundings. The presence of a series of high-resistivity gypsum beds is clearly indicated by the prominent maximums on the curves. The sharp decrease in apparent resistivity following the maximums, however, is diagnostic of brine-saturated sedimentary rocks. Preliminary quantitative interpretation
+
+A6 ORIGIN AND MANAGEMENT, SALT SPRING AND SEEPS, UPPER BRAZOS RIVER BASIN, TEXAS
+200
+
+100
+
+aewn:
+
+1w-
+
+~
+~
+
+20
+
+I
+
+0 200 z
+
+IQ,~ 100
+
+>-
+1-
+> ie=n 30
+wen a: 200
+1zw a:
+<( Cl. Cl. <(
+
+...J
+~ a: 0 1-
+<(
+:::> wd 10
+
+0
+
+z
+<(
+
+200
+
+VES 4
+
+'
+''\ \ \
+
+I~ 100
+
+VES 6
+
+>-
+1- 54 Urn-
+> ie=n
+wen a: 200.---.--r.-rrrn.---.--,-,.,.,.,---,-,-..-nnor---.~ro-rTTnn
+
+z1-
+w a: 100
+<(
+Cl. Cl. <(
+
+VES 8
+
+aw:
+l')
+wa: co
+~
+3 200.---~~.-~~~--~~~~~~--~~~~~~--~~~~~~
+
+I
+uen 100
+
+VES 9
+
+1 10 100 1000 10,00030 ~--~~~~~u_--~~_L~~~---L~~~LU~--~--~-L~LW
+
+f1l)SCHLUMBERGER ELECTRODE SPACIN<;J
+
+AND EQUATORIAL
+
+ELECTRODE SPACING (lf),IN FEET
+
+FIGURE 5.-VES curves 3-6, 8, 9 and DES 7, near Girard. VES 3, 4, 5, 6, and DES 7, west of Duck Creek; VES 8 and 9, east of Duck Creek, DES 7, dipole equatorial sounding, expanded to the west.
+
+w
+2400' 2200'
+
+RECOGNITION OF NATURAL BRINE BY ELECTRICAL SOUNDINGS NEAR SALT FORK
+..::c
+0 <:.; ~
+00 0
+
+A7 E
+
+2000'
+
+1800'
+
+1600'
+
+1400'
+
+1200'
+
+EXPLANATION
+'3
+Electrical sounding and number
+~0
+
+0 1 Mile
+DATUM IS MEAN SEA LEVEL VERTICAL EXAGGERATION X 10
+
+Test hole and number
+
+Boundary delineating rocks
+of similar resistivity Dashed where approximately located
+
+FIGURE 6.--Geoelectric section, near Girard. Numbers in layers designate interpreted true resistivities, in ohm-meters.
+
+of VES 11 curve yields a depth of about 120 feet to the tions using the principle of equivalence indicate that if
+
+fresh-water-salt-water interface. This depth is in good the resistivity of the gypsum beds is assumed to be 370
+
+agreement with the depth of 140 feet at T-26. Calcula- ohm-meters, instead of 480 ohm-meters, which was
+
+assumed on the preliminary curve matching, then the
+
+depth to the interface from the VES 11 data would
+
+>-
+1-
+>
+
+I-
+t/)
+
+tf)
+
+UJ
+0::
+
+~
+
+100
+
+t-UJ zwlw0::~
+
+<(~
+a.. I
+~0
+
+wo::Z-
+(.!)_:
+wo:: 1_Q.~ co
+~
+:::>
+...J I
+u
+tf)
+
+10
+
+VES 10-b
+VESIO-/ 26 .O.m
+
+agree perfectly with the geologic data from T-26. Interpretation of VES 15 curve using the same resistivity value of 370 ohm-meters for the gypsum beds yields the same depth of 140 feet to the interface at VES 15.
+The brine-saturated sedimentary rocks beneath VES 11 and 15 have a resistivity of about 1-3 ohm-meters,. which is similar to the values obtained near Jayton.
+The geoelectric section in the vicinity of VES 11 and 15 is composed of alternating beds of high and low resistivities. The main gypsum series, however, as well as the underlying brine-saturated sedimentary rocks, can be easily identified on the VES curves. The ease with which the brine-saturated layers are identified on the curves is attributed to their favorable effective relative conductance.
+
+Ves 12, 13, and 14 were made west, north, and east
+
+of Aspermont. Figure 9 shows the curves of these
+
+10
+
+100 AB
+
+1000 soundings and their interpretation. The first electric
+
+SCHLUMBERGER ELECTRODE SPACING (-2-). IN FEET layer on all three curves has a thickness of about 20
+
+FIGT""T"D",'. 7.-VES curves 10-a and 10-b, obtained over outcrops 1· feet and a low resistivity ranging from about 4.4 ohm-
+
+of gypsum beds, near Swenson.
+
+meters on VES 13, to about 9 ohm-meters on VES 14.
+
+-AS ORIGIN AND MANAGEMENT, SALT SPRING AND SEEPS, UPPER BRAZOS RIVER BASIN, TEXAS-
+
+aen:
+w w1~
+~ I
+0
+~
+,;~ 10
+>-
+1-
+>
+t=
+we!!n? 5 a: 100
+z1wa:
+<{
+aa..
+<{
+a:
+w
+(!)
+a:
+w
+a:l ~
+:::l
+...J I
+uen 10
+
+15.5 n m-
+VES 15
+
+51
+
+10
+
+100
+
+1000
+
+10,000
+
+SCHLUMBERGER ELECTRODE SPACING (A 8 ), IN FEET 2
+
+FIGURE 8.-VES curves 11 and 15, obtained at about 7 miles west of Aspermont. Dashed curve designates curve corrected for wrong jumps caused by a lateral heterogeneity near potential electrodes.
+
+The second layer on VES 12 and 13 is about 70 feet thick; it has a moderate to high resistivity of about 60 ohm-meters on VES 12, and about 175 ohm-meters onVES 13.
+According to P. R. Stevens (written commun., 1967) the first two layers on VES 12 and 13 probably represent the Blaine Formation which is composed of interbedded gypsum, shale, and dolomite. The first 20 feet however, probably are composed entirely of shale, silt, and some clay of 4.4--6.2 ohm-meters, the rise in resistivity to values of 60 and 175 ohm-meters indicates intercalated gypsum and dolomite.
+Beneath VES 14, the top 20 feet probably are strata of the Flowerpot Shale which are quite similar in their electrical properties (9 ohm-meters) to the shaly part of the Blaine Formation (4.4-6.2 ohm-meters). The second layer beneath VES 14 is much thicker (300 feet) and has lower resistivity (35 ohm-meters) than the second layers beneath VES 12 and 13. The moderate resistivity of the second layer beneath VES 14 indicates that gypsum and dolomite beds probably are
+
+absent and that the section is composed primarily of sand and silt.
+Test well T-30, approximately 2 miles southwest of VES 14 and about 2.5 miles northwest of the town of Old Glory, starts in the Flowerpot Shale, which overlies the San Angelo Sandstone gradationally at a depth of approximately 68 feet; at a depth of about 158 feet the top of the Clear Fork Group is penetrated. The Clear Fork Group is composed of the Choza, the Vale, and the Arroyo Formations, which are composed mainly of shale, sandstone, and dolomite. The second layer in VES 14, therefore, correlates with the San Angelo Sandstone, which probably is thicker at VES 14 than at T-30.
+Thus the interpretation of the first two layers of VES 12, 13 and 14 is in generally good agreement with the geologic information. However, on all three sounding curves there is basically no evidence that would indicate the presence of brine of very low resistivity. The third layer on VES 12 is interpreted to have a resistivity of 13 ohm-meters; on VES 13, 15 ohm-
+
+RECOGNITION OF NATURAL BRINE BY ELECTRICAL SOUNDINGS NEAR SALT FORK
+
+II I I I I I
+
+II
+
+I II
+
+wr 6.2 60
+
+VES 12 MODEL
+
+21
+
+90
+
+I13 >50
+1000
+
+A9
+
+(/)
+a:
+
+10
+
+w
+
+1w-
+
+~
+
+~ :I:
+
+5
+
+0
+
+~ 100
+
+~co 50
+>-
+1-
+>
+t=
+(/)
+w(/)
+a:
+1z-
+w
+a: 10
+<( 0.. 0.. <(
+a:
+w5
+(!)
+a:
+w 50
+ID ~
+:::>
+...J
+u:I:
+(/)
+
+VES 12 6.5 Urn
+
+4.4 VES 13 MODEL
+
+175 17 85
+
+5.3 Urn
+9 VES 14 MODEL
+
+I
+21
+
+35
+
+15
+
+VES 14 10 8.5 nrn
+
+10 100 1000
+SCHLUMBERGER ELECTRODE ~PACING ( 11!), IN FEET
+
+10,000
+
+FIGURE 9.-VES curves 12, 13, and 14, obtained west, north, and east of Aspermont, respectively. Numbers in bars designate interpreted true resistivities, in ohm-meters. Numbers below bars designate depth, in feet, below land surface.
+
+meters; and on VES 14, 22 ohm-meters. These resistivities are not characteristic of brine-saturated sedimentary rocks; nevertheless, water-sample and drilling data indicate that brine exists in the Clear Fork Group. This apparent paradox (which also applies for the data obtained from DES 7 west of Girard), was clarified by analyzing laterolog resistivity data from a deep well north of Aspermont, and by calculating and interpreting synthetic VES curves. The analysis indicated that dolomites of high resistivity combine with shales and brine of low resistivity to form an anisotropic layer with an average logarithmic resistivity (square root of product of resistivities measured in the vertical and horizontal directions) that is not characteristic of brine-
+
+saturated sedimentary rocks.
+SYNTHETIC VES CURVES
+Geophysical-well-logging data are available from several wells in the Aspermont area. However, resistivity data (rather than thickness data only), that could be utilized in evaluating the interpretation of the VES curves 12, 13, and 14 are not available except from a focused electric log of a drilled well 4,700 feet deep in section 183 of Stonewall County. The electric log of this well is a Schlumberger laterolog LL-7. The measured apparent resistivity was digitized at a depth interval of 10 feet to form a geoelectric section of 74 layers of different resistivities. An electric basement having infinite
+
+A10 ORIGIN AND MANAGEMENT, SALT SPRING AND SEEPS, UPPER BRAZOS RIVER BASIN, TEXAS
+
+1000 Iff11-
+f-
+I-
+
+II I I I I I I I
+
+II I I I I I I I
+
+II I I I I I I I
+
+I I I I I I I I_
+-
+-
+-
+
+1-
+(I)
+wa: w1~ 100 1---
+~ f:I: f-
+0 f-
+
+~ f-
+>. 1-
+1- f-
+>
+;:::: f-
+(I)
+
+w(I) f-
+a:
+
+e,
+
+0
+
+--..J
+
+0
+wa:
+1-
+<(
+
+10
+-
+-
+
+...J -
+
+-
+
+-
+
+--
+
+-
+
+---
+-
+-
+-
+
+'----
+
+-
+-
+-
+-
+-
+
+...._ -
+
+- --
+
+I I1 I I I I I I I I
+
+I I I I I I ill
+
+1 j I I I I II
+
+I I I I I I II
+
+1
+
+10
+
+100
+
+1000
+
+10,000
+
+DEPTH, IN FEET BELOW LAND SURFACE
+
+FIGURE 10.-Digitized laterolog data from Stonewall County, presented on log-log scale.
+
+resistivity was assumed to exist at a depth of 4,700 feet and was added to the section as the 75th layer. Figure 10 shows a plot of the distribution of resistivity with depth on a log-log scale.
+The calculation of the sounding curve that would have been obtained for this geoelectric section could not be made on the computer because of the large resistivity contrasts and large number of layers that are involved in this electric section. A method was devised by the senior author to overcome this difficulty. The basic idea of the method is summarized as follows. The Dar Zarrouk curve (Maillet, 1947; Orellana, 1963; Zohdy, 1965) for any finite number of layers can be calculated easily, although the calculation of the corresponding sounding curve may not be feasible. Consequently, whenever this situation arises, one can calculate the Dar Zarrouk curve, smooth it (either graphically or by a numerical filter), then calculate the resistivities and thicknesses of a new set of layers from
+
+the smoothed Dar Zarrouk curve. This new set will consist of a fewer number of layers but will be electrically equivalent to the original set of layers. A sounding curve can be calculated for this new set of layers, unless further smoothing of the Dar Zarrouk curve is necessary.
+Figure 11 shows the Dar Zarrouk curve calculated for the 75 layers of the digitized laterolog and two smoothed Dar Zarrouk curves that were calculated by graphical smoothing and by a numerical filter. The number of layers above the assumed basement is reduced from 74 to 16. The layering calculated from the numerically smoothed Dar Zarrouk curve and the corresponding synthetic sounding curve are shown in figure 12. The total thickness of the layers is increased from the original4,700 feet to 7,300 feet, owing to the electrical anisotropy that results from combining certain layers into equivalent layers.
+The next step in this analysis is to interpret the syn-
+
+RECOGNITION OF NATURAL BRINE BY ELECTRICAL SOUNDINGS NEAR SALT FORK
+
+All
+
+C/)
+a:
+UJ
+1-
+UJ
+~
+~ I
+0
+~
+
+>-
+1-
+>
+~ 5~----~~--~~~~~----~~--~~~UUL---~--~~~~~~----~---L~~_L~~
+
+C/)
+~ 50.-------~--~~~~----~--~~~~~~----~--~~~~~~----~--~~~~~~
+a:
+
+UJ ~ <(
+a:
+UJ
+>
+<(
+
+u
+
+~
+
+I
+
+1- 10
+
+a:
+
+<(
+
+~
+
+0
+..J
+5~----~~--~~~~~--~L_~~~~~UU----~--~~~~~~----~---L~~_L~~
+
+10
+
+100
+
+1000
+
+10,000
+
+100,000
+
+PSEUDODEPTH ( ;\Z), IN FEET BELOW LAND SURFACE
+
+FIGURE 11.-Dar Zarrouk curves. a, Dar Zarrouk curve for 75layers obtained from digitized laterolog. b, equivalent Dar Zarrouk curve for 17 layers obtained by graphical smoothing of curve a. c, equivalent Dar Zarrouk curve for 17 layers obtained by numerical filtering of curve a.
+
+thetic sounding curve as if it represents a field curve and as if the layering it represents is unknown. The results of the graphical interpretation of the synthetic sounding curve are shown in figure 12 and indicate that the synthetic curve can be interpreted readily in terms of six layers, of which the third layer has a resistivity of 5 ohm-meters and the fourth layer a resistivity of 8.6 ohm-meters. The 5-ohm-meter material (which is hardly detectable on the sounding curve) could be interpreted as containing brine but the 8.6-ohm-meter material (indicated on the sounding curve by the long
+horizontal segment between AB/2 == 1,500 feet and
+5,000 feet) would be interpreted generally as sand containing brackish water and (or) as clay but not necessarily as sedimentary rocks saturated with brine. Furthermore, the total depth to the assumed highresistivity basement would be about 12,800 feet instead of 4,700 feet (which is the depth assumed in the original model) . Therefore the total anisotropy, A., of the section is equal to
+12,800 A. 4,700 2.72,
+which is a very significant anisotropy. Several equivalent layering models were calculated
+by using graphical smoothing and by applying different numerical filters to the original Dar Zarrouk curve of
+
+the digitized laterolog. The calculation of the corresponding synthetic VES curves for these models and their subsequent graphical interpretation by master VES curves indicated that the interpreted third layer of low resistivity material of about 5 ohm-meters (interpretable as brine) could be obscured completed by the presence of a relatively thin layer (20 feet) of moderate resistivity (75 ohm-meters) at a depth between 100 and 200 feet.
+Figure 13 shows the layering obtained from the graphical smoothing of the original Dar Zarrouk curve plus a hypothetical 20-foot layer of 75 ohm-meters inserted at a depth of 180 feet. The synthetic VES curve for this section is interpretable in terms of a 5layer section in which there are no layers having resistivities less than 8 ohm-meters below a depth of 20 feet.
+The foregoing analysis indicates that the detection of the fresh-water-salt-water interface on aVES curve obtained near this well in Stonewall County can be difficult. However, the analysis sheds a new light on the interpretation of VES 12, 13, and 14 where the thirdlayer resistivities of 13, 15, and 22 ohm-meters, respectively, probably represent the logarithmic-average resistivity of the anisotropic section in which brine is present but is masked by the effect of highly resistive dolomite layers.
+
+A12 ORIGIN AND MANAGEMENT, SALT SPRING AND SEEPS, UPPER BRAZOS RIVER BASIN, TEXAS
+
+(/)
+0:: w w1~
+:E
+:X: 0
+~
+>-
+I-
+>
+~
+(/)
+(/)
+w 0::
+
+6 36
+
+5
+
+_ _1L_--~L_~~~Li~LU~--~---L~~_L~~~--_J
+
+_L_J~-L~~~--~---L~~-L~~
+
+10 100
+
+EAf).SCHLUMBERGER ELECTRODE SPACING
+
+OR DEPTH BELOW LAND SURFACE, IN FEET
+
+FIGURE 12.-Synthetic VES curve calculated for layering obtained from numerically smoothed Dar Zarrouk curve, a, synthetic VES curve. b, layering calculated from numerically smoothed Dar Zarrouk curve, c. layering from graphical interpretation of synthetic VES curve. Numbers in bar designates interpreted true resistivity in ohm-meters.
+
+SUMMARY AND CONCLUSIONS
+
+of low-resistivity, brine-saturated rocks, and the prob-
+
+Electrical soundings VES 1 and 2, made near the town able anisotropy of the 40 ohm-meter material at the
+
+of Jayton, and VES 11 and 15, made about 7 miles west bottom of the section from VES 3 to VES 9. The mask-
+
+of Aspermont, indicate that the VES method can be ing effect was particularly evident on soundings made
+
+used successfully to evaluate the depth to the fresh- east of Duck Creek. The methods of differential sound-
+
+water-salt-water interface. In fact, the resistivity data ings (Zohdy, 1969a) in conjunction with electromag-
+
+of VES 1 revealed that the initial geologic evaluation netic soundings might yield more diagnostic results in
+
+of the depth to the interface, in test hole T-12, was in the Girard area.
+
+error and later geologic findings confirmed the depth In the immediate vicinity of Aspermont the VES
+
+predicted by the electrical sounding. From geologic con- data cannot be used to evaluate the depth to the fresh-
+
+trol the interpreted resistivity values at VES 2, 11, and water-salt-water interface because of the presence of
+
+15 were adjusted slightly so that the calculated depth dolomite beds of high resistivity which combine with
+
+to the interface agreed with known geologic data.
+
+the low-resistivity shale beds and brine to form an ani-
+
+In the area near Girard, the application of electrical sotropic layer of average logarithmic resistivity ranging
+
+soundings showed that the conventional VES method from about 8.6 ohm-meters (for a synthetic sounding)
+
+cannot be used to determine consistently the depth to , to about 22 ohm-meters (for VES 14). These resistivity
+
+the interface. The difficulty is attributed to the presence values are not characteristic of brine-saturated sedi-
+
+of highly resistive anhydrite beds which mask the effect mentary rocks. The study of synthetic sounding curves
+
+RECOGNITION OF NATURAL BRINE BY ELECTRICAL SOUNDINGS NEAR SALT FORK
+
+Al3
+
+en 100
+[(
+w 1w
+~
+~
+:I: 0
+z
+>.
+1-
+>
+j::
+en wen
+[(
+
+INSERTE?
+n
+II
+II
+II
+II I
+
+68
+
+1~-----L---L--L-~~LL~------~--~~~LJ-L~LL----~L---L--L-L-L~~~~--~--~--~~~~~
+10 1000
+SCHLUMBERGER ELECTRODE SPACING (A 8 ). OR DEPTH BELOW LAND SURFACE, IN F~ET 2
+
+FIGURE 13.-Synthetic VES curve calculated for layering obtained from graphically smoothed Dar Zarrouk curve plus a 20-foot layer of 75 ohm-meters inserted at a depth of 180 feet. a, synthetic VES curve. b, geoelectric layering. c, layering from graphical interpretation of VES curve. Numbers in bar designate interpreted true resistivities in ohm-meters.
+
+based on electric logs helps to explain the factors which
+complicate the interpretation of YES data to determine the depth of the interface in the Aspermont area.
+REFERENCES CITED
+Berdichevskii, M. N., and Petrovskii, A. D., 1956, Methods of bilateral equatorial sounding: Prikladnaya Geofizika, v. 14, p. 97-114 [English translation by Ivan Mitten, U.S. Geol. Survey Library, Denver, Colo., 37 p.].
+Bhattacharya, P. K., and Patra, H. P., 1968, Direct current geoelectric sounding, princples and interpretations: New York, Elsevier, 135 p.
+Compagnie Glmerale de Geophysique, 1963, Master curves for electrical sounding: The Hague, European Assoc. of Exploration Geophysicists.
+Dakhnov, F. N., 1953, Electrical prospecting for petroleum and gas deposits (in Russian) : Moscow, Gostoptekhizdat, 497 p.
+Flathe, H., 1963, Five-layer master curves for hydrogeological interpretation of geoelectrical resistivity measurements above a two-story aquifer: Geophys. Prosp., v. 11, p. 471-508.
+
+Kalenov, E. N., 1957, Interpretation of vertical electrical sounding curves (in Russian): Moscow, Gostoptekhizdat, 471 p.
+Keller, G. V., and Frischknecht, F. C., 1966, Electrical methods in geophysical prospecting: New York, Pergamon Press, 517 p.
+Kunetz, Geza, 1966, Principles of direct current resistivity prospecting: Berlin,Gebriider Bortraeger, 101 p.
+Maillet, R., 1947, The fundamental equations of electrical prospecting: Geophysics, v. 3, p. 529-556.
+Mooney, H. M., Orellana, E., Pickett, H., and Tornheim, L., 1966, A resistivity computation method for layered earth models: Geophysics, v. 31, p 192-203.
+Orellana, Ernesto, 1963, Properties and drawing of the so-called Dar Zarrouk curves: Geophysics, v. 28, no. 1, p. 99-110.
+Orellana, Ernesto, and Mooney, H. M., 1966, Master tables and· curves for vertical electrical sounding over layered structures: Madrid, lnterciencia.
+Stevens, P. R., and Hardt, W. F., 1965, Preliminary report on the investigation of salt springs and seeps in a portion of the Permian basin in Texas: U.S. Geol. Survey open-file report, 19 p.
+
+Al4 ORIGIN AND MANAGEMENT, SALT SPRING AND SEEPS, UPPER BRAZOS RIVER BASIN, TEXAS
+
+Zohdy, A. A. R., 1965, The auxiliary point method of electrical sounding interpretation, and its relationship to the Dar Zarrouk parameters: Geophysics, v. 30, no. 4, p. 644-660.
+---1968, A rapid graphical method for the interpretation of A- and H-type electrical soundings: Geophysics, v. 33, no. 5, p. 822-833.
+---1969a, A new method for differential resistivity sounding: Geophysics, v. 34, no. 6, p. 924-943.
+---1969b, The use of Schlumberger and equatorial sound-
+
+ings in groundwater investigations near El Paso, Texas: Geophysics, v. 34, no. 5, p. 713-728. Zohdy, A. A. R., and Jackson, D. B., 1969, Application of deep electrical soundings for groundwater exploration in Hawaii: Geophysics, v. 34, no. 4, p. 584-600. Zohdy, A. A. R., Jackson, D. B., Mattick, R. E., and Peterson, D. L., 1969, Geophysical surveys for ground water at White Sands Missile Range, New Mexico: U.S. Geol. Survey open-file rept., 31 p., 44 p. graphs, 8 p. tables, 17 figs.
+
+*u.s. GOVERNMENT PRINTING OFFICE: 1973 o-!51!5-6!59/76
+
+

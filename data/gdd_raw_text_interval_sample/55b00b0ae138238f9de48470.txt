@@ -1,0 +1,1155 @@
+UNITED' STATES DEPARTMENT OF THE INTERIOR
+GEOLOGICAL SURVEY
+RELATIVE IMPORTANCE OF-GROUND-WATER AND SURFACE-WATER SUPPLIES TO OIL-SHALE. DEVELOPMENT, PICEANCE BASIN, COLORADO By William M. Alley
+Open-File Report 82-340
+
+UNITED STATES DEPARTMENT OF THE INTERIOR JAMES G. WATT, Secretary GEOLOGICAL SURVEY Dallas L. Peck, Director
+For further information write to'; Chief Hydro!ogist U.S. Geological Survey 410 National Center Reston, Virginia 22092
+
+CONTENTS
+Abst race................................................................. Introduct ion............................................................. Purpose and Scope........................................................ Water use requirements for oil-shale development......................... Water resources for oil-shale development................................
+Ground Water......................................................... Surface Water....................................................... Methodology.............................................................. Steady-state analysis.................................................... Critical-period analysis............................................. White River and oil-shale aquifers................................... Colorado River....................................................... Deep ground water.................................................... Transient analysis....................................................... Generation of synthetic streamflow sequences........................ Application of synthetic streamflow model........................... Ramifications for water management....................................... References...............................................................
+
+Page
+1 2 4 4 6 6 8 13 14 17 20 27 28 28 30 35 39 44
+
+ILLUSTRATIONS
+
+Figure
+
+Page
+
+1-2. Maps showing
+1. Location of study area in Colorado...................................... 2. Major drainage basins of the oil-shale area of the Piceance structural
+basin, northwestern Colorado.......................................... 3. Graph showing monthly flow of White River near Meeker, Colorado,
+(1910-79).............................................................
+4. Schematic of surface water-ground water relationships................... 5-8. Graphs showing--
+5. Monthly mass balance of hypothetical reservoir on White River to identify the critical period for water demand, D, of 10,000 acre-ft
+per month................... j.......................... '. ..............
+6. Reservoir storage capacity (VMAX) required to supply water demands using historical streamflow record (White River near Meeker) for a "standard run" and seven variations....................................
+7. Reservoir storage capacity (VMAX) required to supply various water demands using historical streamflow record (White River near Meeker) and various assumptions about ground-water contributions to meeting demands...............................................................
+8. Typical time versus net new-requirements relationship for long-range water systems planning................................................
+9-14. Graphs showing-9. Box plots of U values................................................... 10. Dewatering options...................................................... 11. Cumulative distribution functions of VMAX...............................
+
+3 5 9 11
+19
+21
+25 29 34 37 38
+
+ILLUSTRATIONS (continued)
+Figure
+12. Cumulative distribution functions of time from start of simulation, Tc , at which reservoir was first required (C=0) and capacities of 5 (C=5) and 25 (C=25) thousand acre-ft were first required..........
+13. Cumulative distribution functions of VMAX for four scenarios.......... 14. Cumulative distribution functions of average annual pumpinq at
+auxiliary wells during 30-year simulation period for well capacities of 0.5 and 1.0 NR...................................................
+
+Page
+40 41 42
+
+TABLES
+Table
+1. Streamflow-gaging stations................................................ 12 2. Summary of streamflow statistics, White River near Meeker, 1940-79........ 31
+
+METRIC (SI) CONVERSION FACTORS
+
+Multiply inch-pound unit
+
+To obtain metric unit
+
+foot (ft)
+
+0.3048
+
+meter
+
+mile
+
+1.609
+
+kilometer
+
+square mile
+
+2.590
+
+square kilometer
+
+acre
+
+0.4047
+
+hectare
+
+acre-foot (acre-ft)
+
+1,233
+
+cubic meter
+
+acre-foot per year (acre-ft/yr)
+
+1,233
+
+cubic meter per year
+
+acre-foot per month (acre-ft per month)
+
+; 1,233
+
+cubic meter per month
+
+acre-foot per square mile (acre-ft per square mile)
+
+476
+
+cubic meter per square kilometi
+
+cubic foot per second (ft 3 /s)
+
+0.02832
+
+cubic meter per second
+
+barrel
+
+0.159
+
+cubic meter
+
+barrel per year
+
+0.159
+
+cubic meter per year
+
+gallon per day
+
+3.785
+
+liter per day
+
+gal Ion per ton
+
+0.04171
+
+cubic meter per megagram
+
+RELATIVE IMPORTANCE OF GROUND-WATER AND SURFACE-WATER
+SUPPLIES TO OIL-SHALE DEVELOPMENT, PICEANCE BASIN, COLORADO
+by
+William M. Alley
+ABSTRACT
+Vast deposits of oil shale are contained in the Piceance basin in northwestern Colorado. ' Potential sources of water for development of these resources include the Colorado and White Rivers, streams within the Piceance basin, an oil-shale aquifer system, and various deep aquifers underlying the Piceance basin. This paper investigates the relative importance and value of information on these sources of water.
+The analysis was performed by simulating the sensitivity of required active storage capacity (VMAX) of a hypothetical reservoir on the White River to different assumptions about water demands and the contributions from the various sources of water. Both steady-state an-d transient analyses were performed.
+In the steady-state analysis, an oil-shale industry was assumed at equilibrium with a constant demand for water. This analysis indicated that considerable uncertainty exists in several important hydrologic variables related to oil-shale development. Of the factors explored, one of the more important ones affecting estimates of VMAX was the supply of water available from the oil-shale aquifers. For example, the current estimate of average annual .natural recharge to the oil-shale aquifers is approximately equal to the amount of water required by an oil-shale industry producing 250,000 barrels of oil per day and requiring 3 barrels of water per barrel of shale-oil produced, Because the oil-shale aquifer system contains a large amount of ground water and will be at least partially dewatered as part of oil-shale mining, this water could be an important source of water for shale-oil production. However, many factors contribute to the large uncertainty in the amount of ground water that will be available. Among the sources of uncertainty are the interactions of surface water and ground water in the Piceance basin, the amount of available water in storage in the oil-shale aquifers, and existing, water rights and their priority and ownership in the Piceance basin.
+Other factors to which estimates of VMAX were found to be sensitive were the supply of water available from the Colorado River and the requirements for downstream releases on the White River. Compared to the uncertainty in other factors, water-supply estimates are shown to be insensitive to uncertainty in evaporation estimates.
+The sensitivity of VMAX to use of water from the four main streams in the Piceance basin (Parachute, Roan, Piceance, and Yellow Creeks) was less than its sensitivity to factors other than evaporation. Although the combined mean annual flow of Piceance and Yellow Creeks is less than the mean annual flow of
+
+'either Parachute or Roan Creeks, the sensitivity of VMAX to use of Piceance and Yellow Creeks to meet part of the water demand is greater than its sensitivity to use of Parachute and Roan Creeks. The apparent reason for this is that Parachute and Roan Creeks are more strongly affected by droughts than Piceance and Yellow Creeks. Because they form part of a stream-aquifer system with the oil-shale aquifers and are presently used extensively for irrigation, Piceance and Yellow Creeks may have to be supplemented with water rather than used as a source of water for shale-oil production.
+The transient analysis was performed using a hypothetical reservoir on the White River as in the steady-state analysis. However, a synthetic streamflow model was used to generate five hundred equally likely 30-year periods of monthly inflows to the reservoir. In this analysis an oil-shale industry was assumed to expand from 0 to 1 million barrels of oil per day over a 30-year time period with a resultant increase in water demands and mine dewatering.
+During each 30-year period, mine water was assumed to be available at an increasing rate that averaged one-half the current estimated natural recharge rate to the Piceance basin. Use of this mine water to supply part of the water demand resulted in reductions in surface-storage requirements (VMAX) on the order of 15-20 thousand acre-ft over many of the 500 streamflow sequences. Use of water from auxiliary wells, which represent a standby source of water in the event of short-term shortages in the surface-water supply, also had a large effect on estimates of VMAX. For example, VMAX was further reduced on the order of 10 thousand acre-ft, if additional water was available from auxiliary wells with a pumping capacity equal to 1/2 the estimated natural recharge rate. These wells were pumped at an average rate of less than 20 percent of capacity for all streamflow sequences.
+The timing of reservoir development was also found to be sensitive to assumptions about ground-water use. For example, the earliest requirement for a reservoir capacity of 25 thousand acre-ft was delayed about 4-5 years for most of the 500 streamflow sequences if mine water was used to meet part of the water demand. Further delays in need for reservoir development could be realized if ground water from auxiliary wells was available.
+INTRODUCTION
+Rising energy prices, increasing dependence on foreign sources of oil, and a growing awareness of the limited world-wide petroleum supply are resulting in an increasing interest in oil-shale development. Large areas of the United States contain oil-shale deposits. The richest deposits, however, are found in the Green River Formation in Colorado, Utah, and Wyoming. Part of the Piceance structural basin (herein referred to as the Piceance basin) in Colorado (see fig. 1) contains more than 75 percent of this western high-grade deposit. Estimated reserves are 400 billion barrels of oil in the Piceance basin for oil-shale deposits thicker than 15 ft with a minimum grade of 15 gallons of oil per ton of rock (U.S. Water Resources Council, 1981).
+
+r
+50 100 KILOMETERS
+Figure 1. Location of study area in Colorado.
+
+Development of this oil-shale resource will require a large amount of water. Water is needed in oil-shale development for the retorting process, cooling, mining, fuel preparation, revegetation, and residuals disposal. In addition, water will be needed to support the increased population accompanying oil-shale development. Sources of water include both surface water and ground water.
+The White and Colorado Rivers are the main potential sources of surface water near the Piceance basin. The location of these major rivers with respect to.the Piceance basin is shown in figure 1. Local sources of surface water include Piceance and Yellow Creeks which flow northward into the White River, and Parachute and Roan Creeks which flow southward into the Colorado River (see figure 2).
+Water in the Piceance basin occurs in both near-surface and deep aquifer systems. The near-surface aquifer system (herein referred to as the oil-shale aquifer system) includes alluvium along streams in the Piceance basin, the Uinta Formation, and parts of the underlying Green River Formation. The deep aquifer system consists of several geologic units below the Green River Formation. These include the Mesaverde Formation, Dakota Sandstone, Entrada Sandstone, Weber Sandstone, and Leadville Limestone.
+PURPOSE AND SCOPE
+The purpose of this paper is to investigate the relative importance of ground-water and surface-water resources as potential sources of water supply for oil-shale development. A second purpose is to identify topics in need of further investigation. This study will focus on the White River, the four local streams of the Piceance basin, and the oil-shale aquifer system. These are the sources of water for which most new water-resource development is expected as a result of oil-shale development. The Colorado River and deep ground water will be addressed to a lesser extent. Only water quantity issues are addressed in this report. Constraints on water supply due to water-quality considerations are not addressed.
+WATER USE REQUIREMENTS FOR OIL-SHALE DEVELOPMENT
+Water uses for oil-shale development can be classified into industrial uses at an oil-shale mine and plant and ancillary uses to support the resulting increased population. Industrial water use may include water for the retorting process, cooling, mining, fuel preparation, revegetation, and residuals disposal. From a review of detailed development plans for federal leased tracts and environmental impact statements, Miller (1981) notes that water-use estimates range from less than 1 to more than 6 barrels of water per barrel of shale oil produced. Most of these estimates are in the range of 1 to 4 barrels of water per barrel of oil produced. The wide range in projected use is in part related to different methods of oil-shale mining, extraction, processing, and reclamation For example, in-situ technology should use less water than conventional mining/ retorting because of much lower water use for revegetation and spent-shale disposal. The wide range in projected water use also reflects the uncertainties of projecting full-scale uses in a new industry from only limited small-scale experiences (Miller, 1981).
+
+^piceanceand,Xeilo*
+
+39" 30'
+
+£V->. // <tP $*>,<Y? , ". & $7 2*
+KlO Ht-Axo C'O '"
+f> ro
+
+Parachulte
+
+1ST STANDARD PARALLct SOUTH
+
+\ \\
+
+U drainage basin t
+
+R o; A Nf
+
+s. - /
+
+.W
+
+State
+
+(i A R F I £1. T? M T- S A ( T)
+C VaU j t ^iil..««^-
+
+10 15 KILOMETERS
+Figure 2. --Major drainage basins of the oil-shale area of. the Piceance structural basin, northwestern Colorado. 5
+
+Ancillary uses associated with oil-shale development would include not only domestic use but also the many other water demands that would accompany an increase in population. These would include water required for public services and for the commercial establishments that accompany a population increase.. Whereas, the water-use estimates reported for oil-shale plants and mines are assumed to represent consumptive use, those reported for ancillary purposes usually represent intake water. Only a fraction of this intake water is consumptively used, the remainder being returned to the local hydro!ogic system.
+/
+Like estimates of industrial water use, estimates of ancillary water requirements vary widely. Uncertainty in these estimates occurs in both predicted per capita use and projections of population growth. Miller (1981) estimates that a 50,000 barrel per day mine/plant may result in an increase in total population of the region of from 9,000 to 15,000 people. However, these figures may be substantially lower if much of the shale-oil production is from surface mines.
+Gray and McKean (1975) estimated per capita water use for various sectors of Colorado's economy in 1970. They estimated water withdrawn for services, trade, education, and household use was 167 gallons per day per capita. Approximately 20 percent of this water was consumptively used. The city of Grand Junction, Colorado reportedly provides 250 gallons per day per capita for municipal and domestic uses (G.A, Miller, written commun., 1980). The above estimates do not account for any large-scale growth in other industries or power generation in the area, both of which can require considerable amounts of water.
+In summary, considerable uncertainty exists in both industrial and ancillary water requirements of an oil-shale industry. Industrial water requirements will most likely be greater than the ancillary water requirements. For example, assume a 1 million barrel per day oil-shale industry, an ancillary water use of 200 gallons per day per capita of which 20 percent is consumptively used, and a total population increase of 12,000 people per 50,000 barrel per day shale-oil production. Annual consumptive use of water for ancillary uses would be about 10,800 acre-ft, whereas it might range from 47,000 to 188,000 acre-ft for industrial uses. Total withdrawal for ancillary uses would be about 54,000 acre-ft/yr.
+For purposes of this study sjiale-oil production will be' assumed to require 3 BW/BO (barrels of water per barrel of shale oil produced). ' This is about an average value of those commonly reported, considering both industrial and ancillary use. All of this water will be assumed to represent consumptive use. When water is referred to as "for shale-oil production" this will refer to both the industrial and ancillary demand. This rate of water use is equivalent to about 141,000 acre-ft/yr for a one-mi 11 ion-barrel-per-day oil-shale industry.
+WATER RESOURCES FOR OIL-SHALE DEVELOPMENT
+Sources of water for oil-shale development include ground water and surface water.
+Ground Water
+Water occurs in the Piceance basin in -both near-surface and deep aquifer systems. Near-surface aquifers include alluvium along streams and the bedrock aquifers of the Uinta and Green River Formations. These are the aquifers
+
+associated with the oil-shale resources and are referred to as the oil-shale aquifers.
+The alluvial aquifers are generally less than 0.5 mile wide and range in thickness from 0 to 140 ft (Robson and Saulnier, 1981). Because of the presence of clay beds in some reaches of the alluvium, ground water occurs under confined and unconfined conditions (Coffin and others, 1968). Where saturated, the alluvial aquifers can serve as a source of recharge to the bedrock aquifers or a sink for discharge from the bedrock aquifers, depending on local differences in potentiometric heads between the alluvial and bedrock aquifers.
+The principal bedrock aquifers occur within the Uinta and Green River Formations of Eocene age. The Uinta Formation consists of discontinuous layers of silty sandstone, siltstone, and marl stone and is exposed at the surface throughout much of the Piceance basin. The underlying Green River Formation is subdivided into several members. The upper member, the Parachute Creek Member, consists of marlstone, sandstone, and siltstone and is the principal oil-shalebearing member. In much of the basin the base of the oil-shale aquifer system is formed by relatively impermeable rocks that underlie the Parachute Creek Member. In the north-central part of the basin the base of the aquifer system is formed by a zone in the lower part of the Parachute Creek Member that consists of relatively impermeable and probably unfractured oil-shale and marlstone. This zone, which is rich in soluble saline minerals, has commonly been referred to as the "high-resistivity zone."
+Extensive fracturing and leaching of the formations above the "highresistivity zone" have increased their permeabilities and resulted in aquifers that lie within, above, and below the oil-shale deposits. The Mahoqany zone is the most consistently rich and areally extensive interval of oil shale in the Piceance basin. It is located in the upper one-third of the Parachute Creek Member and is considered one of the principal mining zones in the two federally-leased tracts C-a and C-b. Coffin and others (1971) and Weeks and others (1974) have conceptualized the ground-water system as a two-aquifer system with the less-fractured Mahogany zone being a leaky confining layer between the upper and lower aquifers.
+Drainage of most oil-shale mines or underground retorts will be required because of the occurrence of ground water above, within, and below the oil-shale deposits. This drainage will be "required to promote mine safety and facilitate mining; however, it will also provide water supplies-thai: may be suitable for plant requirements. Estimates of the volume of water in storage in the northern part of the Piceance basin range from 2.5 to 25 million acre-ft (Weeks and others, 1974) and thus the oil-shale aquifers represent a potentially large source of water for oil-shale development. Estimates of ground water in storage in the southern part of the basin have not been attempted because of the lack of field data. Weeks and others (1974) estimated an average of 26,100 acre-ft/yr of natural recharge to that part of the Piceance basin containing Piceance and Yellow Creeks. Taylor (written commun., 1982) estimated an average natural recharge to the entire Piceance basin of 35,400 acre-ft/yr. Note that this is approximately equal to the amount of water required by an oil-shale industry producing 250,000 barrels of oil per day and requiring 3 8W/BO.
+
+In addition to the oil-shale aquifers, deep aquifers of Mesozoic and Paleozoic age may constitute a valuable source of water. Formations that may be useful aquifers listed from youngest to oldest are the Mesaverde Formation, Mancos Shale, Dakota Sandstone, Morn son Formation, Entrada Sandstone, Weber Sandstone, Leadville and Madison Limestones, and limestone formations of early Paleozoic age. Very little is known about the water-bearing characteristics of these formations beneath the Piceance basin. However, at many places in the general area where these rocks crop out or are near the surface, groundwater supplies are obtained from them. Drilling depths from thfe land surface to the top of the Precambrian rocks range from about 10,000 ft on the western flank of Piceance basin to about 25,000 ft at the center of the Piceance basin (F. A. Welder, written comrnun., 1981).
+Surface Water
+Potential sources of surface water include the White and Colorado Rivers as well as the local streams of the Piceance basin. Annual and seasonal variations of precipitation and temperature have the greatest natural influence on the streamflow of these streams and rivers. Precipitation is fairly evenly distributed throughout the year. However, owing to cold temperatures from October through April, a snowpack accumulates to great depths at higher altitudes. This snowpack is the principal source of streamflow as it melts in the spring and summer. Mean monthly streamflow (unregulated) reaches a peak during the snowmelt period of April through July. Streamflow then subsides as the supply of snow is exhausted. The high variability of streamflow on both an annual and seasonal basis is illustrated in figure 3 which shows monthly streamflow of the White River near Meeker, Colorado, for the period 1910 to 1979. Each of the spikes in figure 3 represents the annual peak monthly streamflow for a particular year.
+Man's activities presently affect the amount and distribution of streamflow in the White River as a result of diversions for irrigation and to a lesser extent for municipal and domestic water. For example, approximately 32,000 acres are irrigated with water from the White River in Colorado. Assuming a consumptive use of 1 to 3 acre-ft per acre (lorns and others, 1965), this would result in estimates of streamflow depletion ranging from 6 to 18 percent of the annual virgin flow of the White River in Colorado.
+The high variability of streamflow in the Colorado River and its tributaries has resulted in many reservoir projects in the Colorado".Biver basin. However, the White River, which is a tributary of the Green Ri'ver and thus eventually the Colorado River, contains no major reservoir or transmountain diversion projects^ A number of significant reservoir projects are being planned for the White River. The best known of these is the Yellow Jacket Unit of the Upper Colorado Resource Study which has evolved from U.S. Bureau of Reclamation studies dating back to the 1920's (U.S. Bureau of Reclamation, 1980a). Modifications of this project have been proposed to provide as much as 60,000 acre-ft/yr of water for oil-shale development.
+
+250
+
+UuJ.
+
+OC 200 O
+
+Q
+
+<
+
+CO Z>
+
+150
+
+O
+
+X
+
+100
+o
+U. >-
+I 50
+O
+
+o
+1910
+
+1920
+
+1930
+
+_L 1940
+
+_L
+1950
+
+WATER YEAR
+
+_L
+1960
+
+1970
+
+1980
+
+Figure 3.--Monthly flow of White River near Meeker, Colorado, (1910-79).
+
+The main stem of the Colorado River is highly affected by large transmountain diversions and major reservoirs as well as the smaller diversions for irrigation. Water for shale-oil production could be diverted directly from the Colorado River without storage, water could be supplied from existing but underutilized reservoirs such as Ruedi and Green Mountain Reservoirs, or new reservoirs could be constructed such as the proposed West Divide project (U.S. Bureau of Reclamation, 1980b) near Silt, Colorado.
+In addition to the White and Colorado Rivers, four local Streams are potential sources of water for oil-shale development. Piceance and Yellow Creeks are tributary to the White River and drain the northern part of the Piceance basin. Roan and Parachute Creeks are tributary to the Colorado River and drain the southern part of the basin. These two separate sets of drainage basins are shown in figure 2.
+The surface-water and ground-water systems in the Piceance basin are closely related. These relationships for the two sets of drainage basins are shown in figure 4. In the Piceance and Yellow Creek drainage basins, part of the recharged water flows through the upper aquifers to major streams. Part of the recharged water flows downward through the relatively impermeable Mahogany zone into the lower aquifers and then upward through the Mahogany zone and upper aquifers to the major streams. In some areas, ground water also discharges as springs (0. 0. Taylor, written commun., 1982). The bedrock aquifers, alluvial aquifers, Piceance Creek, and Yellow Creek are stream-aquifer systems in which there occurs an exchange of ground and.surface water.
+In the Roan and Parachute Creek drainage basins, the flow system is different because stream valleys are incised below the base of the lower aquifers. Recharged water moves through the bedrock aquifers to seepage faces or springs above the streams, as shown in figure 4 (0. J. Taylor, written commun., 1982). Water that discharges contributes to streamflow or is consumed by evapotranspiration. Thus, in the Roan and Parachute Creek basins the bedrock aquifers contribute water to the streams but not vice versa, except perhaps locally in the upper reaches at high elevations.
+About 80 percent of the annual streamflow in Piceance and Yellow Creeks is supplied by ground-water discharge (Weeks and others, 1974). Streamflow depletions resulting from irrigation are estimated to be about 25 percent and 5 percent of the natural flow of Piceance and Yellow Creeks, respectively (Weeks and others, 1974). Similar estimates are not available ..for Roan and Parachute Creeks.
+A list of the streamflow-gaging stations used in this report is presented in table 1. Particularly noteworthy is the much larger mean annual flow per unit drainage area exhibited by the White River than the Piceance basin streams. The headwaters of the White River are in the higher mountains which receive much greater amounts of snowfall than the Piceance basin.
+Of the above-mentioned sources of water, this report will center on the White River, the four Piceance basin streams, and the oil-shale aquifer system. The Colorado River and deep aquifers will be addressed to a lesser extent.
+10
+
+Guich Member of Gre«i River Formation A. Piceence and YeUow Oee* drainage basins
+3. Roan arc Paracnute C.-e«« crainage S
+Figure 4. Schematic of surface water-ground water relationships. (0. J. Taylor, written commun., 1982). 11
+
+Table l.--Streamflow-qaqinq stations
+
+U.S. Geoloqical Survey
+downstream order number
+
+Station name
+
+Period of record
+
+Drainaqe area, in square mi les
+
+Mean annual flow In acre- In acre~ft per
+ft square mile
+
+OQ3 n 4500 OQ306222 0°306255 090P3500
+09095000
+
+White River near Meeker
+
+June IW-Oec. 1906 Oct. loop-present!/
+
+Piceance Creek Oct. 1964-Sept. 1966 at WhHe River Oct. 1970-present
+
+Yellow Creek
+
+Oct. lQ72-present.
+
+near White River
+
+Parachute Creek Apr. 1921-Sept. 1927
+
+at Parachute
+
+Oct. 1948-Sept. 1954
+
+Oct. 1974-present
+
+Roan Creek near Apr. 1921-Sept. 1926
+
+DeBeque
+
+Oct. 1962-Sept. 1972
+
+Oct. 1974-present
+
+755 630 262 198
+321
+
+449,200 17,320 1,240 21,810
+28,110
+
+595 27.5 4.73 110
+87.6
+
+]J For this study only the period of record throuqh September 1979 was used.
+
+The White River is relatively undeveloped and is a more likely source of new reservoir and diversion projects than the Colorado River (U.S. Water Resources Council, 1981). The White River is also located closer to the largest deposits of oil-shale and other associated minerals which occur in the northern part of Piceance basin. Other potential sources of water which will not be discussed include the alluvium of the White and Colorado Rivers, transfer of irrigation rights, interbasin transfer, weather modification, and conservation.
+METHODOLOGY
+This analysis investigates reservoir storage requirements on the White River for various levels of oil-shale development and contributions from other sources of water. The storage requirements will be based on a hypothetical reservoir located on the White River. Inflow to the reservoir will be based on the U.S. Geological Survey streamflow-gaging station White River near Meeker (see table 1). This station, located about 2.5 miles east of Meeker, Colorado, is the oldest operating streamflow-gaging station on the White River in Colorado. Most of the streamflow in the White River in Colorado originates upstream of this gage. The only downstream tributary in Colorado contributing an average of more than 2000 acre-ft/yr to the White River is Piceance Creek. When streamflow in Piceance Creek is included in the analysis, it will be considered as part of the inflow to the hypothetical reservoir. Thus, the storage requirements of the hypothetical reservoir represents an index of surface-water supply rather than a preliminary design for an actual reservoir.
+Analysis of a single reservoir represents only an upper bound on the potential yield of a system of reservoirs having a combined storage capacity equal to that of the single reservoir. However, this upper bound approximates the multi-reservoir yield for a well designed and operated system of reservoirs (Hirsch and others, 1977). For preliminary planning purposes, particularly when the number and siting of reservoirs is not established, analysis of a potential system of reservoirs as a single reservoir can be useful.
+Major assumptions used in the analysis are
+(1) A single reservoir serving water conservation purposes only is assumed to represent what may eventually be multiple reservoirs serving multiple purposes.
+(2) Diversions for irrigation in the Piceance and White.River basins are assumed to remain the same as at present, unless otherwise specified.
+(3) All water is assumed to be of suitable quality for use in oil-shale development, either as is or after treatment. Treatment costs are expected to be a small part of the total cost of oil-shale development (Probstein and Gold, 1978). Surface-water supplies will generally be of suitable quality for oilshale development. Relatively large concentrations of dissolved solids, boron, and fluoride exist locally in parts of the oil-shale aquifer (Robson and Saulnier, 1981), particularly in water from the lower aquifer in a restricted area in the north-central part of the Piceance basin. The quality of deep ground water is
+13
+
+not well known, but large concentrations of dissolved solids may occur locally due to high temperatures and potentially long contact times. Water-quality problems generated by an oil-shale industry are not addressed in this paper.
+Water rights, interstate compacts, and treaties with Mexico which affect the legal and political availability of water are not explicitly accounted for. Some consideration to these factors is given by including a minimum release for downstream users as part of the analysis, The effects of groundwater pumping on surface-water availability is also addressed <o a limited extent Likewise, economic factors affecting water-resources development are not considered. However, the cost of water will probably be small compared to the total cost of oil-shale development. For example, the U.S. Water Resources Council (1981) estimated that, for a projected synthetic fuels industry, the cost of developing the necessary surface-water supplies from the White River would be much less than the capitalized costs of constructing and operating the oil-shale facilities. Costs associated with buying senior water rights are also not considered.
+Two general types of analysis are performed. The first type, referred to as steady-state analysis, assumes that an oil-shale industry is at equilibrium and has a constant and continuous demand for water. The second type, referred to as transient analysis, considers an oil-shale industry that changes in time with a resultant time-varying demand from year to year.
+STEADY-STATE ANALYSIS
+Active storage!/ capacity of a hypothetical reservoir required to meet specified constant water demands, under various assumptions about contributions from other sources of water, was investigated as part of the steady-state analysis. An important part of this analysis was a mass balance of inflow to and outflow from the reservoir. Mathematically, this mass balance can be written as:
+vt+l = vt + h ' E't - Qt ' (°' p j)
+where
+= reservoir storage at ythe end of time step t or beginning of time step t+1;
+-£ = reservoir storage at the beginning of time step t;
+t = inflow to the reservoir during time step t;
+t s net evaporation from the reservoir during time step t;
+!/ Active storage refers to that part of a reservoir's storage that is considered usable. The term "storage" as used in this report will refer to active storage unless noted otherwise.
+
+Qt = downstream releases from the reservoir during time step t In excess of the oil-shale demand;
+
+0 - constant water demand during a time step for shale-oil production Including industrial and ancillary demand; and
+
+Pj = quantity of ground water pumped In the Plceance basin for oilshale development during a time step for season j.
+
+All of the above variables are in units of acre-ft. Note that seepage to and from the reservoir is not considered. The assumption is made that groundwater pumping may vary seasonally but remains constant from year to year for a given season. The demand for water, D, is assumed to be constant throughout a given year. In actuality some seasonal variation of demand will exist. For example, water demands for disposal of spent shale, dust control, and revegetation
+are likely to be greater during the summer months.
+
+Under Colorado law, anyone who disrupts a ground-water system that discharges to a natural surface stream is responsible to ensure that the rights of senior surface-water appropriators are not impaired. Pumping wells in the Piceance basin will likely reduce streamflow in the Piceance basin but will
+have no effect on the streamflow measured at the station White River near Meeker. When the only inflow to the hypothetical reservoir is the flow measured at the station White River near Meeker, then Pj is the quantity of ground water
+pumped in excess of any amount required to replace streamflow depletions in the Piceance basin due to pumping wells. In the case of water rights owned by the oil-shale companies, fulfillment of senior surface water rights depleted
+by pumping wells in the Piceance basin may not be necessary.
+
+Net evaporation, E^, is evaporation minus precipitation on the reservoir surface. It was assumed to be a linear function of reservoir surface area at the beginning and end of the time step:
+
+Et « 0.5 ej(At+At+i)
+
+(2)
+
+where ej is the net evaporation depth in ft during season j, and A^ and A^+^ are
+
+the reservoir surface area in acres at the beginning and end of the time step.
+
+Reservoir surface area was assumed to be a linear function of reservoir storage
+
+using the relationship
+
+'
+
+At « a + bVt
+
+-' -
+
+(3)
+
+The coefficient, a, corresponds to the reservoir surface area when the reservoir storage was equal to its inactive storage. The coefficient, b, is the rate of change of surface area with respect to reservoir storage. Substituting equation 3 into equation 2 results in:
+
+15
+
+Et = eaj + ebjtVt+V^)
+
+(4)
+
+where
+
+eaj = a-ej
+
+ebj = (b-ej)/2
+
+Substituting equation 4 into equation 1 and rearranging terms so that the unknown variables are on the left-hand side of the equation and the known
+variables on the right-hand side results in
+
+(1+ebj) Vt+! + Qt * (ebr l) Vt - Pj - I t - D - eaj
+
+(5)
+
+In order to detennine the storage capacity (VMAX) required for a particular scenario one could perform the following analysis:
+
+(1) Decide on a set of values for D, I^(t*l,...,T), and Pj, eaj, ebj (j=l,...,J), where T is the number of time steps and J is the number of
+seasons.
+
+(2) Estimate VMAX and set Vj equal to VMAX or some fraction of VMAX.
+
+(3) Solve equation 5 for V^+i for t*2,...,T. At each time step Qt is set to the required release for downstream users (other than oil shale) plus any
+reservoir spill needed to keep Vt _< VMAX.
+
+(4) If the minimum value of V^ was equal to zero, then the estimated VMAX was the correct one. Otherwise, one would estimate a new VMAX and repeat steps 2 and 3. This procedure would continue until the correct VMAX was estimated.
+
+An alternative direct solution of the above problem would be to solve the following linear programming (LP) formulation:
+
+minimize VMAX
+
+subject to:
+
+(Uebj) V t+i + Qt + (ebj-1) vt - Pj I t - D - eaj ' t « 1.....T
+
+(6)
+
+VMAX - Vt _> 0
+
+t = 1,... ,T
+
+(7)
+
+Qt _> min (OS, I t )
+
+t * 1,...,T
+
+(8)
+
+J I P-; < PMAX j«l
+
+(9)
+
+vx - VT = o
+
+(10)
+
+where OS is the minimum required release for downstream water users.
+
+16
+
+The unknown variables are contained on the left-hand side of equations 6-10, and the known variables are on the right-hand side. Equation 6 represents the mass balance equations. Equation 7 specifies that the reservoir storage should never exceed the storage capacity of the reservoir, VMAX.
+Minimum releases for downstream users (other than oil-shale industrial and ancillary uses) are assured at each time step by equation 8. These releases durinq a time step must exceed the minimum of two values. The first of these values is an assumed constant downstream demand (DS), and-ttie second is the inflow to the reservoir during a time step. Thus, the assumption is made that reservoir releases for downstream users during a time step would be the inflow to the reservoir during the time step, if that inflow was less than the downstream demand.
+The constraint specified by equation 9 limits the annual amount of qround water pumped to supplement the surface reservoir supply as less than or equal to PMAX, in acre-ft. If the volume pumped is assumed to remain constant for all time steps, then equation 9 can be removed from the LP formulation and the term Pj moved to the right-hand side of equation 6 as a known variable.
+The final constraint simply s\ates that the reservoir volumes at the beginning and end of the simulation period must be equal. This results in a steady-state solution not biased by arbitrarily assumed initial or final storage volumes. For the period of record selected for analysis, the LP solution always resulted in values of V} and Vj equal to VMAX. The LP formulation consists of 3T + 2 constraints and 2(T+1) + J variables. Thus, the size of the problem and computer costs for solving the problem are very sensitive to the number of time steps. In order to reduce the number of time steps of interest, a critical-period analysis was made of the White River flow record (1910-79).
+Critical-Period Analysis
+When a long-term historical hydrologic record is used to analyze the performance of a hypothetical reservoir under various operating rules, in many instances the optimum operating policy will be controlled by a sequence of low flows over a consecutive portion of the record. Critical-period analysis is based on the premise that, for all operating scenarios investigated, the same portion of record would control the performance evaluation of the reservoir. The critical-period would begin when the reservoir is assured of being full, would contain the critical low-flow period, and would end when the reservoir was again assured of beinq full.
+The existence of a critical period was investigated for the 70-year record (1910-79) of the White River near Meeker as follows. A hypothetical reservoir was assumed to be full at. an arbitrarily larqe volume. Monthly mass balances of reservoir volume were then performed assuming a particular demand for water for shale-oil production. Additional releases for downstream users were also made based on the minimum of inflow to the reservoir of 200 ft^/s. In addition, reservoir spills were made when necessary to keep the storage in the reservoir from exceeding the initial volume. Evaporation was not accounted for.
+17
+
+For water demands of less than 21,000 acre-ft per month for shale-oil production, the critical period occurred between 1976 and 1979 with the reservoiralways full on July 1, 1976, and on June 30, 1979. These results can be observed in figure 5, which shows the time series of reservoir volumes for a water demand of 10,000 acre-ft per month. For water demands of 22,000 to 24,000 acre-ft per month, the critical period occurred between 1933 and the 1950's. The reservoir could not refill after 1933 for a water demand of 25,000 acre-ft per month. (Note: The demand of 25,000 acre-ft per month plus reservoir inflow of 200 ft^/s results in an annual diversion approximately equal to the mea^n annual flow of the White River near Meeker.)
+One question that might arise in an analysis such as that above concerns the stationarit.y of the 1910-79 flow record. For example, was the White River near Meeker affected by irrigation differently in 1910 than in 1979 and, if so, would this have affected the selection of a critical period? Estimated irrigated-acreage data reported' by Longenbaugh and Wymore (1977) suggest that irrigated acreage has not changed much since at least the 1940's. They reported the following estimates of irrigated acreage above the White River near Meeker stream gage:
+1943-1960 12,340 acres
+1965 11,800 acres
+1975 12,325 acres
+In addition, U.S. Geological Survey (1911) records indicate that considerable irrigated acreage existed above the White River near Meeker station in 1910.
+The U.S. Geological Survey (1979) estimated in 1979 that there are diversions above the White River station for irrigation of about 12,000 acres above the station and about 3,000 acres below. These are the figures for irrigatedacreage used in the remaining parts of the report. In subsequent analyses, streamflow depletion resulting from irrigation of the 12,000 acres above the station is assumed to represent consumptive use (1-3 acre-ft/yr per acre irrigated). Streamflow depletion resulting from irrigation of the 3,000 acres below the station (for which water was diverted above the station) is assumed to represent total withdrawal (3-9 acre-ft/yr per acre irrigated).
+A second analysis was performed to test the effects of a conservative estimate of the changes of irrigation practices since 1910 on the selected critical period. For this run, it was assumed that irrigation doubled in 1943 and that one-half the estimated streamflow depletion due to irrigation after 1943 should be added to the 1943-79 monthly flow values in order to make the time-series stationary. Streamflow depletion during the irrigation season was assumed to be 2 acre-ft per acre for irrigated land above the station and 6 acre-ft per acre for irrigated land below the station (for which water was diverted above the station). These depletions were added to the flow record during the irrigation months of April through September.
+18
+
+120
+
+Ilni1
+100
+UJ DC O
+Q
+80
+CO 2) O
+60
+01
+oO<c
+40
+cc O
+Sto 20
+LLJ OC
+
+0 1910
+
+1920
+
+1
+1930
+
+1
+
+1940
+
+1950
+
+WATER YEAR
+
+1960
+
+1970 1980
+
+Fiqure 5.--Monthly mass balance of hypothetical reservoir on White River to identify the critical period for water demand, D, of 10,000 acre-ft per month
+
+Rerunning the critical-period analysis with the above modification still resulted in the critical period occurring during 1976-79 for diversions for shale-oil production of as much as 20,000 acre-ft per month. Thus, the critical period was selected as July 1, 1976, to June 30, 1979, In the subsequent analysis, diversions for shale-oil production never exceeded 20,000 acre-ft per month.
+The critical-period analysis reduced the size of the LP problem from using 70 years of record to using 3 years of record. This would result in the number of time periods (T) being 36 for monthly data. The critical-period analysis was rerun using a time-step of two months rather than one month. The storage capacity required to satisfy demand throughout the critical period always differed by less than 3 percent between the two sets of runs. Therefore, to lower computational costs, the runs for the steady-state analysis were made with a time-step of 2 months.
+White River and Oil-Shale Aquifers
+The first set of LP runs was made to investigate the effects of uncertainty in some of the different types of hydro!ogic information and to obtain a preliminary appraisal of the relative importance of various sources of water. The storage requirements (VMAX) of the hypothetical reservoir for various assumptions were compared to VMAX for a "standard run." The results are summarized in figure 6. The standard run and the seven variations shown in figure 6 are discussed below.
+Standard run The standard run assumed inflow to the reservoir was from the White River only, irrigation practices remained the same as present, OS = 200 ft^/s, no ground water was used to meet any of the water demand, and the evaporation coefficients were the median values of those discussed under variation 1. The water demand for shale-oil production was assumed to be 75,000 acre-ft/yr for the standard run and each of the seven variations. This corresponds to about a 0.5 million barrel per day industry for a water use of 3 BW/BO.
+Variation 1 This set of runs was the same as the standard run except different evaporation coefficients were used. The evaporation coefficients required by the LP model are the average seasonal (1 for each of the six 2-month periods) net evaporation depths £ej, j=l,...,6) and the coefficients of the storage-surface area relationship (equation 3).
+Evaporation data are lacking for the White River basin and their true values would depend on the location of reservoirs in the basin. Adams and others (1981), in reservoir analyses in the Yampa River basin, used monthly evaporation depths determined by Ficke and others (1976) for five reservoirs in the mountains west of Denver. The climatic conditions for these five eastern-slope reservoirs were assumed to be comparable with those experienced in the Yampa River basin. Because the Yampa River basin borders the White River basin to the north, these reservoir depths are assumed to be representative of expected values for the White River basin.
+20
+
+DS=2SOft 3/s
+
+EXPLANATION
+
+'^ '
+
+OS Downstream release
+
+50-
+
+High Estimate of Evaporation
+
+40 _
+
+JT_ No Evaporation
+
+ifuuc.
+
+UaJ:
+
+o
+<
+
+30 -
+
+Q
+
+2
+
+CD
+
+O X
+»~ 20
+2
+
+X
+OS = li 5 ft*/s
+
+PMAK Annual ground-water pumpage
+Nfl Estimated average annual natural recharge to Piceance basin aquifers (35,400 acre-ft/yr)
+
+Orf £* r\ r4 ?* rs-i O* * * VJIUIILfUILI fluff
+
+JiWhlte,
+
+-L Roan,
+
+White. Piceance, and
+
+and Yellow
+
+Parachute
+
+~Low M Estimate ot Virgin Flow
+
+(5)
+
+White, Piceance. Yellow, Roan.
+
+- PMAX-NR/2 Constant Pumping
+
+and Parachute
+
+(/<o?)i
+
+- PMAX-NR/2 Seasonal Pumping
+
+High Estimate of Virgin Flow
+
+-PMAX-NR Constant Pumping
+
+> 10
+
+M (31
+
+-PMAX-NR ^ Seasonal Pumping
+n
+
+Mflure 6.-Reservoir storage capacity (VMAX) required to supply water demands
+usim) historical streamflow record (White River near Meeker) for a "standard
+run" and seven variations. The result of the standard run is shown by the horizontal line across the page and the results of the variations are shown
+by vertical lines with horizontal ticks. (Variation number is shown in
+i <;
+
+Storage-surface area relationships are also very site dependent. Storagesurface area data for three proposed reservoirs (Thornburgh, Lost Park, and Ripple) of the Yellow Jacket Project were obtained from the U.S. Bureau of Reclamation (F. Phi Hip Sharpe, written commun., 1981). Simple linear regression analysis was used to determine the coefficients (a and b) for each of these reservoirs.
+The standard run used the evaporation depths from the eastern-slope reservoir that gave the median value of total reservoir evaporation. Precipitation data used to determine net evaporation were average seasonal values reported at the National Weather Service climatological station in Meeker, Colorado. Likewise, the storage-surface area coefficients were based on the reservoir that would produce a median value of evaporation.
+For variation 1 two additional runs were made: One assumed no evaporation occurred and the other used the evaporation depths and storage-surface area coefficients resulting in the highest estimate of evaporation. The results, shown in figure 6, will be shown in comparison to other areas of uncertainty to have little effect on the estimate of VMAX.
+Variation 2 This set of runs was the same as the standard run except different values for the minimum downstream release (OS) were used.
+Storage of water for shale-oil production is constrained by the minimum quantity of water that is needed to meet downstream demands. These demands would include those of downstream irrigators in Colorado and a multitude of water users in downstream states. As part of the Colorado River basin, the White River is governed to some extent by the Colorado River compacts. However, there is currently no interstate agreement that specifically addresses the White River. The White River is considered a potentially important source of water for oil-shale development in Utah. For example, the U.S. Water Resources Council (1981) estimated that about 38 percent of the water requirements for shale-oil production supplied by the White River would be used in Utah and 62 percent in Colorado. In addition, the Ute Indians in Utah claim water rights sufficient to irrigate about 13,400 acres of reservation land near the White River (U.S. Bureau of Reclamation, 1980a).
+Considering the Ute IndiansyClaim, the University of Wisconsin (1975) estimated a minimum required flow at the Colorado-Utah state line of 125 ft^/s. Prewitt and Carl son (1980) recommend minimum flows for tnstream uses of the White River between Meeker and the Colorado-Utah., state line of 150 to 209 ft 3 /s. The 7-day, 10-year low flow of the White River near Meeker is about 190 ft^/s.
+Based on the above estimates, 200 ft^/s is a reasonable value for the minimum required downstream release (OS). However, it must be emphasized that this is only a "reasonable" value and not necessarily an "expected" or most likely value. The minimum required release for downstream users was estimated to range between 125 and 250 ft^/s, but could lie outside this range. A value for OS of 200 ft^/s was used for the standard run and two additional
+22
+
+runs were made using 125 and 250 ft^/s. The results of using these values for OS are shown in figure 5 to have a large effect on estimates of VMAX. Decisions on minimum downstream releases would also significantly affect water-development plans in Utah.
+Variation 3 This set of runs was the same as the standard run except the effects on VMAX of using estimates of the virgin flow of the White River were investigated. This would provide an upper limit on the potential effects on VMAX of transferring water rights used for irrigation to use for shale-oil production. A low estimate of virgin flow was obtained by adding to the flow record 1 acre-ft per acre per irrigation season for irrigated acreage above the White River near Meeker station and 3 acre-ft per acre per irrigation season for irrigated acreage below the White River near Meeker station (for which water was diverted above the station). A high estimate of virgin flow was obtained by adding values three times those for the low estimate. The irrigation season was assumed to occur during April through September. There was large uncertainty in VMAX for the virgin flow scenario due to the large uncertainty of the virgin flow estimate. The results shown in figure 6 suggest that VMAX was less for inflow corresponding to the virgin flow of the White River than for inflow corresponding to the actual flow of the White River plus the flow of Piceance, Yellow, Parachute, and Roan Creeks (see variations 4, 5, and 6). Thus, storage requirements on the White River are sensitive to assumptions about continuation of present agricultural water use.
+Variations 4, 5, and 6 The effects on VMAX of including three different combinations of the Piceance basin streams as part of the inflow to the hypothetical reservoir are shown in figure 6. The inclusion of Piceance and Yellow Creeks as part of the inflow resulted in a smaller VMAX, compared to the inclusion of Parachute and Roan as part of the inflow. This occurred even though the sum of the mean annual flows of Piceance and Yellow Creeks is less than the mean annual flow of either Parachute or Roan Creeks (see table 1). A plausible explanation is that Roan and Parachute Creeks are less sustained by ground water than Piceance and Yellow Creeks, and thus affected to a greater extent by droughts. It should be noted that Parachute and Roan Creeks drain to the Colorado River, not the White River. Thus, without a transbasin diversion, they would not contribute inflow to a reservoir on the White River. However, the assumption of their draining to a hypothetical reservoir on the White River for this analysis is not inconsistent with the use of storage in the hypothetical reservoir as an 1ndex of surface-water supply.
+Variation 7 This set of runs was the same as the standard run, except the effects on VMAX of using ground water for meeting part of the water demand for shale-oil production was explored. In this report, ground-water pumping will usually be referenced in units of estimated natural recharge to the Piceance basin aquifers in order to enhance interpretation of the values discussed. Taylor (written commun., 1982) estimated natural recharge to the oil-shale aquifers currently averaged 35,400 acre-ft/yr. Two different levels of groundwater pumping were used in variation 7; pumping at one-half the estimated present natural recharge rate (NR/2), and at the estimated natural recharge rate (NR). Each unit of MR will be assumed to correspond to 35,400 acre-ft/yr of ground-water pumping, although it is possible that the average annual natural
+23
+
+recharge rate to the oil-shale aquifer system will change as the system is dewatered and the land surface is disturbed.
+For each pumping level two different runs were made. The first assumed that ground-water pumping was at a constant rate. This would approximate a dewatering situation. The second run used the I? model to identify a seasonal pumping pattern that resulted in the minimum value of VMAX. This would assume a well field or fields that can be operated with a high degree of flexibility to pump larger amounts during the low-flow months and to not j6ump during months for which reservoir spills might occur. In reality, the situation would probably be somewhere in between these two extremes and thus they represent upper and lower limits on the effects of using a specified annual amount of ground water.
+The results shown in figure 5 illustrate that VMAX was very sensitive to the amount of ground water used to offset demands for surface water. Because of the sensitivity of VMAX to assumptions about ground water, additional runs were made to investigate the relationship for various levels of shale-oil production. The results are shown in figure 7 which illustrate a large potential for the use of ground water to reduce reservoir sizes. The difference between values of VMAX at a given shale-oil production for constant and seasonal pumping increased as the magnitude of the annual pumping increased. This occurred because, with an increase in annual ground-water pumping, a reservoir is more likely to be at full capacity at the same time ground water is being pumped at a constant rate.
+As mentioned earlier, under Colorado law anyone who disrupts a ground-water system that discharges to a natural surface stream is responsible to ensure that the rights of senior surface-water appropriators are not impaired. As much as 1 NR of ground water may have to be returned to the streams annually to replace the lost contributions of ground-water discharge to streams. Thus, as much as 1 iNR may have to be added to each of the values of ground-water pumping shown in figures 5 and 7 to achieve the reductions in VMAX shown. However, estimates of ground water in storage in the oil-shale aquifers in the northern part of Piceance basin are equivalent to pumping at 70 to 700 NR (2.5 to 25 million acre-ft; Weeks and others, 1974) for 1 year. Fulfillment of senior surface-water rights depleted by pumping wells in the Piceance basin may not be necessary for water rights owned by the oil-shal'e companies.
+2i It is important to understand where the current estimates of mine dewatering fit on the curves shown in figures 5 and 7. A literature search of mine dewaterinc estimates for oil-shale development in the Piceance basin revealed a very wide and diverse set of values. Mine dewataring would be a complex function of site, mine type, stratigraphic location, rate of mine expansion, and the hydraulic
+y Mine dewataring actually refers to both dewataring of mines and of retorts for in situ oil-shale technologies.
+24
+
+SHALE-OIL PRODUCTION, IN MILLION BARRELS PER DAY 0.5 1.0
+
+1.5 PMAX - 0
+PMAX-Na/2 PMAX-NR
+
+INi
+cn
+PMAX-2NR
+
+__ PMAX-5Na
+
+0
+
+50
+
+100 - 150
+
+200
+
+ANNUAL WATER DEMAND FOR SHALE-OiL PRODUCTION, IN THOUSAND ACRE-fEET
+
+Figure 7.--Reservoir storage capacity (VMAX) required to supply various water demands using historical streamflow record (White River near Meeker) and various assumptions about ground-water contributions to meet Inn demands. For each level of ground-water pumping the top of the shaded region represents a constant pumping scenario and the bottom a seasonal pumping scenario. The axis labeled with units of shale-oii production is based on the assumption of 3 barrels of water per barrel of shale-oil produced.
+
+characteristics of the aquifer Including permeability and storage. If the hydraulic characteristics were well known, then dewatering could be determined for each of the other four decision variables. Unfortunately, the hydraulic characteristics of the oil-shale aquifers are poorly known, as a result of the highly heterogeneous and anisotrooic characteristics of the aquifers. The fact that the permeability and storage are largely a function of the characteristics of the fractures (including aperture, orientation, spacing and continuity), rather than the characteristics of the pores in the rocks, is a particularly complicating feature. Reported estimates of dewatering are discussed below. These are for individual mine sites and largely neglect the interactive effects of simultaneously dewatering many mines.
+Weeks and others (1974) used a digital model to predict the effects of mine dewatering at proposed mines on the two federally-leased tracts C-a and C-b. Each of the two mines was assumed to cover an area of 4 square miles. At each mine the hydraulic head in the upper aquifer was assumed to be drawn down to the top of the Mahogany zone and the head in the lower aquifer to the bottom of the Mahogany zone. Dewatering of the mines was assumed to occur simultaneously for a period of 30 years. Weeks and others (1974) assumed an initial mine size that would not in actuality be reached until after many years of operation. Therefore, their initial dewatering rates, which were high, are probably overestimates. Their dewatering rates decreased rapidly to about 5,000 acre-ft/yr at tract C-a and about '14,500 acre-ft/yr at tract C-b.
+In a separate analysis of hypothetical mines at tracts C-a and C-b and at a third site, Solder Associates (1978), estimated individual mine inflow rates ranging from 940 acre-ft/yr to 94,000 acre-ft/yr, with a median value of 9,400 acre-ft/yr. Miller (1981) reports that dewatering rates for mines have been estimated to range from several hundred to about 32,000 acre-ft/yr.
+Obviously, it is difficult to make many generalizations about dewatering with such a wide range of estimates of dewatering rates and large unknowns about the location and development of mines. The Final Environmental Impact Statement for the Prototype Oil Shale Leasing Program assumed 17 mines would be needed for a 1 million barrel per day industry. Assuming mine dewatering at each of 17 mines at one-half the median rate (to account for interactive effects) reported by Golder Associates (1978) would result in ground-water withdrawal rates in excess of twice the estimated natural recharge rate to the aquifer.
+In considering the above rates of dewatering it is very difficult to estimate the amount of mine water that will be avail-able as a source of water supply. However, it is clear that, for large-scale development, mine dewataring is likely to exceed the natural recharge rate to the aquifer and is thus a very important consideration both in terms of its hydrologic effects as well as its potential as an important source of water supply. It is not unlikely that, for a million barrel per day industry, water available from mine dewataring in excess of the water used to replace surface-watar depletions due to ground-water pumping would exceed 1 NR.
+
+Colorado River
+Pumping from the oil-shale aquifers of the Piceance basin would have no effect on streamflow measured at the station White River near Meeker. Thus, the oil-shale aquifers of the Piceance basin are "nontributary" to the White River near Meeker. From the physical standpoint, streamflow in the Colorado River south of the Piceance basin can also be considered nontributary to the White River near Meeker. Thus, by converting firm water-supply estimates from existing and proposed reservoirs on the Colorado River to units of NR, one can obtain rough estimates of their effects on VMAX using figure 7.
+Existing reservoirs which may have water usable for shale-oil development include Ruedi and Green Mountain Reservoirs. Estimates of firm water supply for shale-oil production from Ruedi Reservoir vary widely from 30,000 to 70,000 acre-ft/yr (University of Wisconsin, 1975). A recent estimate reported by the U.S. Water Resources Council (1981) is 47,700 acre-ft/yr. This is equivalent to approximately 1.3NR and thus, as shown in figure 7, would have a large effect on reservoir size estimates on the White River.
+Estimates of water available from Green Mountain Reservoir for an oil-shale industry are on the order of 26,000 to 50,000 acre-ft/yr (University of Wisconsin, 1975; U.S Bureau of Reclamation, 1974). However, present water availability from Green Mountain Reservoir is very uncertain due to landslide problems.
+Proposed reservoirs on the Colorado River which could supply water for shale-oil production in- the Piceance basin include the West Divide Project. This project could supply as much as 75,000 acre-ft/yr of water for shale-oil production (U.S. Bureau of Reclamation, 1980b). This is approximately equivalent to 2NR in figure 7. It should be noted that the concept of firm yield is a very simplistic one and that it is likely that larger amounts of water will be available from the Colorado River when the flows are higher in the White River basin and smaller amounts when the flows are lower in the White River basin.. The extent to which this is untrue will affect the need to consider the sources of water conjunctively.
+In summary, water supplied from the Colorado River could hav-e a large effect on reservoir storage requirements on the White River. It is very difficult to rationally investigate the tradeoffs in using water from these separate sources. This difficulty arises from uncertainty in legal and institutional matters more than from uncertainty in streamflow estimates.
+Although separate interstate compacts do not affect the Colorado and White Rivers, both rivers together are affected by various Colorado River basin compacts. The U.S. Water Resources Council (1981) estimated that about 70 percent of the industrial water requirements for oil-shale development in the Piceance basin by the year 2000 would come from the White River basin and the remainder from the Colorado River (ground water was not included in this analysis).
+27
+
+Deep Ground Water
+Very little is known about the water-bearing properties of the Mesozoic and Paleozoic rocks that underlie the Picaance basin other than that these rocks, may contain a sizeable amount of usable water for shale-oil production. Several features of this source of water suggest a need for data on the waterbearing properties of these rocks:
+(1) Deep ground water might be classed as non-tributary to the surface water and thus not regulated as part of the surface-water-rights system.
+(2) Pumping from these deeper formations might provide a significant reduction in VMAX. If deep ground water was expressed in units of NR, figure 7 could be used to estimate its relative effect on VMAX.
+(3) Water from deep aquifers may be of poorer water quality than- other sources. But, because the cost of water is a small part of the total cost of an oil-shale plant/mine, treatment of such water may be cost effective for industrial use when it would not be for other uses.
+(4) Deep aquifers might be used for injecting waste water as well as pumping water for shale-oil production.
+TRANSIENT ANALYSIS
+The steady-state analysis assumed that the demand for water and the amount of ground water pumped were constant from year to year. However, actual development of an oil-shale industry will result in a time-varying demand for water and time-varying dewataring rates. Water management issues that require a transient analysis for investigation include cyclic storage and the effects of ground-water use on the timing of reservoir development.
+Cyclic storage is defined by Lettenmaier and Surges (1979) as "the longterm management of surface and subsurface storage to improve system operating performance (e.g., resistance to droughts). 11 The concept arises because typical surface-water reservoir storage volumes are much smaller compared to abstractions than are ground-water storage volumes. In contrast to the'long-term failures resulting from excessive reliance on ground-water supplies, .shorter (e.g., annual or seasonal) failures may result from overreliance on surface-water supplies. Hence, judicious long-term management of 'ground-water supplies can be integrated with the shorter-term management of surface-water supplies through increased reliance on ground water during periods of drought and, ideally, a reversal of the situation during periods of excess dewatering or surface runoff through artificial recharge of a portion of the excess water.
+An oil-shale industry will develop in size over many years rather than suddenly be created at its maximum capacity. Thus, a staged development of surface-water reservoirs may be advantageous. Figure 3 shows a typical relationship of time versus quantity of water demanded and illustrates how unused reservoir capacity can axist for many years. It should be remembered that someone has to pay for this unused capacity. A staged development of surface-water
+28
+
+(-U*.O> -C! rt A* O> 0) r* ~j _i. CD
+oc Oa i fU Ir/Ir -I4
+_ o-4. W-ae ot -* n -i, r» ex o~i -a>>\ o CTu O r-f*r r» 3 3 c x» rt> ai
+a> voxi
+rt> c u»
+a<>! 13
+rt n>
+n-1> rt
+3
+u> rt> ^to ii
+rf n fP '0> 9 -Q tn c
+cu 3 ra a>
+
+QUANTITY OF WATER REQUIRED. IN MILLIONS OF ACRE FEET PER YEAR
+
+p b
+
+Ipn
+
+10 IV)
+b en
+
+m
+
+o
+O*n
+1
+2g ?
+33 If) O>
+O
+
+reservoirs could result in overall savings as a result of deferred expenditures, overcome problems in limits of capital or authorization, and preserve options as. more data are collected, technologies change, and political policies evolve.
+The transient analysis, like the steady-state analysis, investigated reservoir storage requirements on the White River for various scenarios. The assumptions enumerated in the section entitled "Methodology" still apply. Unlike the steady-state analysis, shale-oil production and mine dewatering rates were not assumed constant in time.
+The time horizon of the transient analysis was 30 years. Inflow to the reservoir was assumed to be the flow of the White River near Meeker. However, because of the time-varying water demand and mine dewatering, the simulation results would be very susceptible to the sequencing of flows during the 30-year period. For example, a period of low flow would be more serious at the end of the 30-year period than at the beginning. A common means of overcoming this problem is to generate many equally-likely streamflow sequences and to analyze each sequence separately. The results can then be expressed in probabilistic terms and, unlike the steady-state analysis, risk can be explicitly accounted for
+Generation of Synthetic Streamflow Sequences
+A summary of several annual and monthly statistics for streamflow at the White River near Meeker is shown in table 2. Because irrigation practices may have changed since 1910, statistics shown in table 2 are based on the period between 1940-79. As previously mentioned, irrigated acreage data reported by Longenbaugh and Wymore (1977) suggest that irrigation practices have changed very little during this 40-year period. Fortunately, this period also contains the critical period of 1976-79. Several features of table 2 are worthy of note. First, the 'lag-1 correlation coefficient for annual flows is very small and is not significantly different from zero at the a =0.01 level. The lag-2 correlation coefficient is a negative number. The absolute value of higher order serial correlation coefficients is generally less than 0.1. The second feature of table 2 is that the monthly statistics tend to vary considerably from month to month. The monthly lag-1 and lag-2 correlation coefficients illustrate that there is considerable serial correlation between the monthly flows.
+The above relationships suggested that an appropriate-streamflow generator could consist of an annual modef and 12 seasonal models to disaggregate the annual values. The disaggregation approach presented by Lane (1980) was used.
+Prior to determining parameters for either the annual or seasonal models, it was important to select appropriate transformation functions to obtain normal marginal distributions. The computer program developed by Lane (1980) was used to select the transformation functions. Both logarithmic and power functions were explored by plotting the data on a normal probability plot. The untransformed annual data plotted closer to a straight line than any of the transformed sequences so the annual data were left untransformed (other than subtract! the mean value). For each of the months either a power transformation or no transformation was found to produce the best results.
+30
+
+Table 2.--Summary of streamflow statistics, White River near Meeker, 1940-79.
+
+Mean,
+
+Standard deviation,
+
+Lag-1 correlation
+
+Lag-2 correlation
+
+Time in thousands in thousands
+
+coefficient!/
+
+coefficient^/
+
+of acre-ft
+
+of acre-ft
+
+January February March April May June July August September October November December
+
+10.5 16.6 19.4 30.8 95.8 109 38.2 22.4 19.7 23.2 20.9 19.6
+
+2.08 1.59 1.97 8.69 28.3 43.6 24.8 7.13 4.89 4.11 2.63 2.70
+
+0.79 .68 .70 .24 .27 .31 .78 .82 .70 .84 .90 .86
+
+Annual
+
+434
+
+91.4
+
+.026
+
+i/ Correlation coefficient between the flows of the jt*1 and (j-l)st time periods. _?/ Correlation coefficient between the flows of the j tn and (j-2)st time periods.
+
+0.66 .80 .48 .36 .22 .026 .18 .79 .65 .53 .89 .75
+-.28
+
+The annual model selected was a simple lag-zero Markov model of the form:
+
+XT - S-e1
+
+(11)
+
+where X-j is the annual flow for year i transformed to have a mean of zero, S is the standard deviation of the annual values (91.4 from table 2), and e-j is a random number drawn from a normal population having a mean of zaro and unit variance (i.e., drawn from N(0,l)). Annual values were based on water year (October 1 to September 30).
+
+The seasonal models were of the form
+
+where
+
+p i,j * Ti-l,12> 1f j * 1
+
+(13a)
+
+p i,j s Ti,j-l» if J 2, 3, . . ., 12
+
+(13b)
+
+and Ti j is the transformed flow in month j and year i; F, G, and H are
+coefficient matrices each having a dimension of 1 by 12, and g-j j is a random number drawn from N(0,l).
+
+Equation 12 yields a distinct model for each of the 12 months. The 36 parameters for the coefficient matrices were estimated using the computer program described by Lane (1980). Each of the monthly transformed flow values, Tj 9 j , were then converted to their untransformed values, M-jj, by taking the inverse of the original transformation function.
+
+Lane's disaggregation approach preserves month to month and month to annual correlations. However, as a result of the transformations and of a minor shortcoming of the disaggregation scheme, the monthly values do not automatically
+add up to the generated annual values. Thus, an adjustment to the monthly values was made as follows
+
+where M^# j is the adjusted monthly flow value, in month j and year i, Sj is the standard deviation of the monthly flow values for month j and Q-j is the generated annual flow value for year i and is determined as
+
+Qi = Xi +T
+
+(15)
+
+where X is the mean of the observed annual flow values.
+
+32
+
+In order to check the synthetic-streamflow model, it was used to generate five hundred 40-year stream-flow sequences. For each of the 500 streamflow sequences, four statistics were recorded. These were the monthly means, standard deviations, and lag-1 and lag-2 correlation coefficients. Also, the sequent peak algorithm (Thomas and Burden, 1963; loucks and others, 1981) was used to
+calculate, the active storage capacity required to meet reservoir releases of 0,4, 0,6, and 0.3 times the observed mean annual flow of the White River near Meeker (1940-79).
+<
+The sequent peak algorithm operates as follows. Let '<£ be the storage capacity required at the beginning of period t, 0 be the required release
+during each period, and It be the inflow. Setting K0 equal to 0, the procedure involves calculating K^ using equation 16 for up to twice the total length of record. This assumes that the record may repeat itself to take care of the case
+when the critical sequence of flows occurs at the end of the streamflow record.
+
+D - I t +> Kt _i
+<t
+0
+
+if positive otherwise
+
+(16)
+
+The required active storage capacity, Kf, is then the maximum of all Kt , where
+the subscript f refers to the value of the ratio of 0 over the observed mean annual flow. Thus, values of KQ^, KQ^, and Kg.g were computed for each streamflow sequence. Comparison'of the values of Kf between the observed and synthetic streamflow records provides a measure of the ability of the synthetic streamflow generator to mimic the observed record under conditions close to those for which the synthetic record will be used.
+
+For each of the generated streamflow sequences, the ratio U of each
+statistic (or value of Kf) for the synthetic record to that of the observed record was computed. For each of the four statistics, a value of U was computed for each of the 12 months. Altogether 6000 values (12 times 500) of U were computed for each statistic. For each of the three values of f (0.4, 0.6, 0.8), a value of U was computed for each streamflow sequence. Thus, 500 values of
+a particular Kf were computed.
+
+The results are summarized in figure 9. In this figure, the box plots (see Tukey, 1977) represent the distribution of all values "of U for a given
+statistic or Kf. The box plots can be evaluated by the degree of dispersion in the box plots, the closeness of the median to a value of 1.0, and the symmetry of the box about a value of 1.0.
+
+The first box plot shown in figure 9 indicates that the synthetic streamflow model does a very good job of reproducing the mean monthly flows, as 50 percent of the values of U were between 0.98 and 1.02. However, the synthetic streamflow model tended to slightly underestimate the monthly standard deviations with a median value of U of 0.93. The box plots of the values of U for the lag-1 and lag-2 correlation coefficients show a tendency for many of the values of U to be close to 1.0 but some extreme values were generated including some negative
+
+33
+
+VALUE FOR SYNTHETIC RECORD
+
+c~» w VALUE FOR HISTORIC RECORD
+to
+
+ii
+
+0o
+
+^^
+
+M|o0
+
+btnbtnbuibtnb
+
+I
+
+1111
+
+i ii i
+
+I
+
+CO
+
+Q X
+* i r~ EXPLANATION
+
+a
+rt
+
+S: -
+
+| 1 ---- LVoaNargluefst
+
+(A i jl/l
+
+Isli-lO-h
+-----i §ac:
+
+9cG>» *ij »^< }I -9
+
+---ii
+1
+
+' 0X
+<
+
+o10i OOJ f-N»
+percentile
+
+c:
+
+oi 5. 5 3 1
+
+1
+
+n> o cj AI 9"
+
+oO O=> *5* *<
+
+............................................
+
+ut
+£U B a do
+
+S ^i (D
+h--------|
+|1
+
+Oi
+
+^
+
+.................. ----- - - "1J
+rr o^
+
+3
+
+oI>I pX I1 ----.-
+
+11
+
+11
+
+O Q> 1
+
+I
+
+1
+
+at O '
+
+Oi/>)
+O)
+
+values of U. These occurred during months having low serial correlation coefficients. For example, the observed lag-2 correlation coefficient for June
+was 0.026 (see table 2). Thus, the minimum- value of U for the lag-2 correlation coefficients (U = -13.9) corresponds to a lag-2 correlation coefficient of -0.36.
+
+The final three box plots in figure 9 show the results for the three sequent peak runs. These illustrate a slight tendency to overestimate required storage capacities for releases equal to 0.4 times the observed mean annual
+flow and to underestimate required storage capacities for releases of 0.6 or 0.3 times the observed mean annual flow. Many of the subsequent runs using the
+synthetic streamflow model were roughly equivalent to reservoir releases on the order of 0.4 to 0.6 times the observed mean annual flow.
+
+Given the above results and the limitation that the statistics and values of Kf for the observed record are based on the single, relatively short historical flow record, the synthetic streamflow model was considered satisfactory for the purposes of this report.
+
+Application of Synthetic Streamflow Model
+
+The synthetic streamflow model was used to generate five hundred 30-year streamflow sequences which were used as the inflow to a hypothetical reservoir. During each of the 30-year sequences, shale-oil production was assumed to increase linearly from 0 to 1 million barrels of oil per day in 30 years. This is approximately the baseline rate reported by the U.S. Water Resources Council (1981). They estimated shale-oil production (using water from the White River) of 137,000 barrels per day by 1985 and 625,000 barrels per day by the year 2000. As in the case of the U.S. Water Resources Council estimates, this rate of expansion of shale-oil production is for illustrative purposes and is not intended to characterize a "most likely" or intended scenario. As in previous examples, it was assumed that the combined industrial and ancillary demand for water was three barrels of water for each barrel of oil produced. Thus, at the end of the 30-year period, the water demand for shale-oil production was assumed to be 141,000 acre-ft/yr. As previously discussed, mine dewatering estimates are highly variable. It is not unlikely that, for a million barrel per day oil-shale industry, water available from mine dewatering in excess of the water used to replace surface-water depletions due to ground-water pumping would exceed 1 NR.
+
+Oewatering rates would probably increase over the 3.0-year period as production increased. This increase in dewatering rates might be estimated to occur at a linear rate. However, it is more likely that dewatering rates per unit of shale-oil produced will decrease as production increases and as dewatering operations at various mines begin to decrease potentiometric heads at other mines. Therefore, two scenarios were investigated. One assumed a linear increase in mine dewatering (available for usa) from 0 to 1 NR over the 30-year time span.
+
+OWt * 0.0082t
+
+(17)
+
+35
+
+where OWf is mine- dewaterlng in thousand acre-ft during month t. (Mote: 1 NR « 2.95 thousand acre-ft per month.) This is referred to as option 1. The
+other scenario (option 2) assumed mine dewaterlng increased with time but at a
+declining rate
+
+DWt = 1.38 (1 - a-°- 0123t )
+
+(18)
+
+The two dewaterlng scenarios are illustrated in figure 10. Tnese represent relatively low estimates of dewaterlng rates. The remaining mine water was assumed to be returned to the Piceance basin streams to replace stream depletion due to ground-water pumping. Both scenarios resulted in the pumping of 530 thousand acre-ft of water during the 30-year time span (an average rate of one-half the estimated present annual natural recharge to the Piceance basin). Mine dewatering for option 2 exceeds that for option 1 during the first 18 years, but by the end of the 30-year period, the dewatering rate for option 2 is about 60 percent of the rate for option 1. The linear rate (option 1) might represent a scenario whereby part of the mine water is recharged for later use when water demands are greater. As for the projections of water demands, equations 17 and 18 are for illustrative purposes and are not intended as "most likely" scenarios. Rather, they are assumed to be realistic scenarios given present knowledge, about dewatering rates. As in the steady-state analysis, downstream releases for demands not related to oil-shale development in the Piceance basin were assumed to be 200 ft3 /s or the inflow to the hypothetical reservoir, whichever was less.
+For the above described water demands and streamflow sequences, a monthly mass balance on a hypothetical reservoir was performed using each of the five hundred 30-year flow sequences to determine the required active storage capacity (VMAX) for each sequence. Several runs were made to correspond to different scenarios of ground-water pumping. The results are. expressed in probabilistic terms generally as plots of cumulative distribution functions. The cumulative distribution functions (COFs) express the probability that a random variable such as VMAX is less than or equal to a particular value based on the 500 streamflow sequences. That is, the COFs plot values of a random variable versus cumulative probability.
+Cumulative distribution functions (COFs) of VMAX for each of three scenarios are shown in figure 11. One of the scenarios assumed no use of ground water. Two other scenarios shown in figure 11 include use of water from mine dewatering according to option 1 and use of water from mine- dewatering according to option 2 The results of this figure again indicate that required reservoir capacities are very sensitive to assumptions about ground-water use. Use of the mine water resulted in estimated reductions in VMAX of 15-20 thousand acre-ft over a wide range of probability or risk levels.
+Mine dewataring according to option 2 resulted in less reduction in VMAX than using option 1. The remaining discussion assumes mine dewataring according to option 2. That is, no recharge of excess mine watars is considered and dewataring ratas per unit of shale-oil production are assumed to decraase as production increases.
+
+36
+
+1.0
+
+0.8
+<zr
+u. O
+CO H
+Z 0.8
+UJ
+I °-4
+£
+UJ
+LU Q
+0.2
+
+0.0
+5 ^ 10 15 20 25
+TIME FHOM START OF SIMULATION, IN YSARS
+Figure 10. Dewataring ootions.
+
+30
+
+37
+
+160
+fc U4 U-
+120 o<
+Q
+
+IIi
+A No use of ground water B Use of mine water, option 2 C Use of mine water, option 1
+
+cx» o1 80
+
+40
+
+0 0000 0.125
+
+_L 0.250
+
+0.375 0.500 0.625
+CUMULATIVE PROBABILITY
+
+0.750
+
+0.875
+
+1.000
+
+Fiqure 11.--Cumulative distribution functions of VMAX
+
+As mentioned earlier, because water demands are likely to increase with time and under considerable uncertainty, provision of reservoir capacity may be best achieved through staged development either by building separate reservoirs at different times or staged construction of individual reservoirs. For this reason, in addition to VMAX, Tc for each sequence was recorded for various values of c, where Tc is the time till reservoir capacity c. was first required. The parameter c refers to capacity in units of thousand acra-ft.
+Figure 12 shows CDFs of the time until a reservoir was first required (T 0 ) and time until 5 and 25 thousand acre-ft of reservoir capacity were first required (Tg and 1^5, respectively) for the no use of ground water and mine dewatering (option 2) scenarios. Figure 12 shows that at the lower percent level on the COF there is "little difference between the values of T 0 for the two scenarios. However, over much of the CDFs, 15 at the same probability level was delayed 3 to 4 years and 135 was delayed 4 to 5 years as a result of using the mine water* Although not shown in figure 12, the CDFs for TS with use of mine water and T^p with no use of mine water are approximately the same.
+Further reductions in reservoir sizes and delays in the requirement for surface-water storage could be realized if a standby source of water in the event of short-term shortages in the surface-water supply was available. One such source would be auxiliary or offsite wells in the basin available on demand as a supplemental source of water. CDFs of VMAX are shown in figure 13 for the no mine water and mine water (option 2) scenarios as well as two options of mine water plus use of auxiliary wells having capacities of 0.5 NR and 1.0 NR.
+Pumping at the auxiliary wells was assumed to take place only if needed. The auxiliary wells have a large effect on reducing VMAX at a given probability or risk level. Figure 14 shows CDFs of the average annual pumping simulated at the auxiliary wells for each of the two scenarios and indicates that the average annual volume of water pumped averages less than 20 percent of capacity for all 1000 streamflow sequences (2 scenarios times 500 sequences per scenario). These results illustrate that a large auxiliary well capacity may be useful to reduce reservoir sizes. At the same time they would usually pump water at much less than capacity, thus creating a standby source of water in the event of short-term shortages in the surface-water supply.
+RAMIFICATIONS FOR WATER MANAGEMENT '
+The preceding analysis indicates that considerable uncertainty axists in several important hydro!ogic variables related to ofl-shale development and suggests a number of topics in need of further investigation. These are discussed in the following paragraphs. It should be noted that this study only addressed watar-quantity issues. There ara also many water-quality issues which remain unresolved and should be considered.
+Results of the above study suggest that important surfaca-water investigations might include:
+1. Quantification of the existing watar rights and their priority on the Colorado River, White River, and Picaance basin streams.
+
+30 I I I A No use of ground water 0 Use of mine water
+, 25
+oC/r3
+> 15 o2
+.Q
+
+O.OOO 0.125 0.250
+
+0.375 0.500 0.625
+CUMULATIVE PROBABILITY
+
+0.750
+
+0.875 1.0QO
+
+Figure 12.--Cumulative distribution functions of time from start of simulation, Tc , at which reservoir was first required (C=0) and capacities of 5 (C=5) and 25 (C=25) acre-ft were first required.
+
+160
+fc
+
+UJ DC
+
+120 -
+
+O
+
+Q 2
+(A
+O h-
+2
+
+X
+5
+
+Iii
+
+A No use of ground water
+
+B Use of mine water
+
+--
+
+C Use of mine water plus auxiliary wells with capacity of 0.5 NR
+
+O l|se of mine water plus auxiliary wells with capacity of 1 NR
+
+0 0.000
+
+0.125
+
+0.250
+
+0.375 0.500 0.625 0.750 CUMULATIVE PROBABILITY
+
+0.875
+
+1.000
+
+Figure 13. Cumulative distribution functions of VMAX for four scenarios
+
+0.25
+
+M£ca -£<o 0.20
+0.15
+ro 0.10
+^zOi
+0.05
+
+0.00 0.000
+
+_L 0.125
+
+0.260
+
+_L 0.375
+
+L 0.500
+
+0.625
+
+CUMULATIVE PROBABILITY
+
+OJ60 0.875
+
+i.qpo
+
+Figure 14.--Cumulative distribution functions of average annual pumping at offslte wells duping 30-year simulation period for well capacities of
+0.5 and 1.0 NR.
+
+2. Estimation of a virgin flow record for the White. River near Meeker, 1910-present.
+3. Further quantification of present consumptive uses of water on the White River and Piceance basin streams.
+Although Colorado River compacts specify water allocation on a percentage basis between States, no interstate agreements between Colorado and Utah have been reached on the main stem or the White River, The U.S. water Resources Council (1981) concludes that water uses by synfuels development in Colorado, in combination with probable future conventional uses, may raise the annual depletions to close to the compact entitlements of Colorado. The manner in which Colorado allocates its delivery of water to meet Colorado River compacts will significantly affect the spatial availability of water in Utah. It has been demonstrated that, even if water demands by an oil-shale industry could be exactly specified, considerable uncertainty in reservoir capacities required to meet those demands would exist as a result of uncertainty in releases required for downstream users. Thus, the relative importance of the Colorado and White Rivers as sources of water for oil-shale development and the requirements for downstream releases on the White River are important topics in need of further investigation.
+Ground water from 'the oil-shale aquifers, either from mine dewatering or auxiliary wells, may be an important source of water for shale-oil production. However, much needs to be learned about this source of water supply. In particular, considerable uncertainty exists on dewatering rates and their relationship to factors such as site, mine type, stratigraphic location, and rate of mine expansion. Because of the strong link between the surface- and ground-water systems in the Piceance basin, the effect of ground-water use on streamflow depletions wi-11 be a critical factor and is in need of further investigation. This is particularly true for Piceance and Yellow Creeks which form part of a stream aquifer and are presently used extensively for irrigation.
+The hydraulic properties of the aquifer system, particularly the amount of available water in storage, are poorly known and in need of investigation. The fact that the ground-water system is largely controlled by the fractured nature of the rocks is a particularly complicating factor.- To date, many of the investigations of ground wat^er have centered on steady-state ground-water models which are independent of the storage properties of the aquifer.
+Conjunctive management of the surface- and.ground-water systems as cyclicstorage systems may have large potential benefits in the Piceance basin. This approach to joint design and operation of ground- and surface-water supplies has been implemented on a small scale but never on a regional scale. One of the main stumbling blocks for practical implementation of cyclic storage has been the legal problems in control of subsurface storage (Thomas, 1978). This may be less of a problem in the Piceance basin which is largely controlled by the Federal government and where a certain degree of common interest may axist among potential water users. Important potential applications of the cyclicstorage concept include:
+43
+
+1. Use of surface water from the-White River (or Colorado River) to meet senior surface-water rights affected by streamflow depletions in the Piceance basin streams due to ground-water withdrawals.
+2. Use of additional ground water during periods of low streamflow.
+3. Recharge to ground-water storage of excess surface water during periods of high streamflow, and of excess mine waters for later use when required.
+4. Use of ground water to defer expenditures for additional surface reservoir capacity.
+Deep ground water may be an important component of a cyclic storage system. However, little is known at this time about the quantity and quality of water available from this source. An important component of an efficient cyclic-storage system may be an equitable water-sharing plan between the various mining companies since individual mines may have surplus water at different times.
+REFERENCES
+Adams, D. B., and Bauer^ 0. P., Dale, R. H., and Steele, T. 0., 1981, Reservoirdevelopment impacts on surface-water quantity and quality in the Yampa River basin, Colorado and Wyoming: U.S. Geological Survey, Water-Resources Investigations 81-30. [In press].
+Coffin, D. 1., Welder, F. A., and Glanzman, R. K., 1971, Geohydrology of the Piceance Creek structural basin between the White and Colorado Rivers, northwestern Colorado: U.S. Geological Survey Hydrologic Investigations Atlas HA-370.
+Coffin, D. I., Welder, F. A., Glanzman, R. K., and Outton, X. W., 1968, Geohydrologic data from Piceance Creek basin between the White and Colorado Rivers, northwestern Colorado: Colorado Water Conservation Board, WaterResources Circular 12, 38 p.
+Ficke, J. F., Adams, 0. 8,, and Daniel son, T. W., 1976, Evaporation from seven reservoirs in the Denver wat^r-supply system, Central Colorado: U.S. Geological Survey, Water-Resourcs Investigations 76-114, 170 p.
+Golder Associates, Inc., 1978, Water management in oil-shale mining: U.S. Bureau of Mines, Open File Report 2-78, 2 volumes.
+Gray, S. 1., and Mc.Kean, J. R., 1975, An economic analysis of water use in Colorado's economy: Colorado State University, Fort Coll ins, Completion Report Series No. 70, 113 p.
+Hall, W. A., and Oracup, J. A., 1970, Watar resources systems engineering: McGraw-Hill Book Company, New York, 372 p.
+Hirsch, R. M., Cohon, J. 1., and Revel!e, C. S., 1977, Gains from joint operation of multiple reservoir systems: Water Resources Research, v. 13, no. 2, p. 239-245.
+44
+
+lorns, W. V., Hembree, C. H., and Oakland, G. L., 1965, Water resources of the Upper Colorado River Basin Technical report: U.S. Geological Survey Professional Paper 441, 370 p»
+Lane, W. L., 1981, Applied stochastic techniques user manual: U.S. Bureau of Reclamation, 5 chapters.
+Lattenmaier, D. P., and Surges, S. J., 1979, Reliability of cyclic surface and groundwater storage systems for water supply; a preliminary assessment: Charles W. Harris Hydraulic Laboratory Technical Report No. 64, University of Washington, 64 p.
+Longenbaugh, R. A., and Wymore, I. F., 1977, Analyses of methods for determination of water availability for energy development: Federal Energy Administration, Washington, 0,C., NTIS P8-274 080, 118 p.
+Loucks, 0. P., Stedinger, J.. R.., and Haith, 0. A., 1981, Water resource systems planning and analysis: Prentice-Hall, Inc., Englewood Cliffs, New Jersey, 559 p.
+Miller, G. A., 1981, Water availability and requirements for western oil-shale development j[n_ Environmental and Economic Considerations in Energy Utilization, proceedings of the Seventh National Conference on Energy and the Environment; November 30 - December 3, 1980, Phoenix, Arizona.
+Prewitt, C. G., and Carlson, C. A., 1980, Evaluation of four instream flow methodologies used on the Yampa and White Rivers, Colorado: U.S. Bureau of Land Managment, Denver, Colorado, Biological Sciences Series No. 2, 65 p.
+Probstein, R. F., and Gold, Harris, 1978, Water in synthetic fuel production: Massachusetts Institute of Technology Press, Cambridge, Massachusetts, 296 p.
+Robson, S. G., and Saulnier, G. J., Jr., 1981, Hydrogeochemistry and simulated solute transport, Piceance basin, northwestern Colorado: U.S. Geological Survey. Professional Paper 1196, 65 p.
+Thomas, H. A., Jr., and Burden, R. P., 1963, Operations research in water quality management: Harvard Water Resources Group, Cambridge,, Massachusetts, p. 1-17.
+Thomas, H.. E., 1978, Cyclic storage, where are you now?: Ground Water, v. 16, no. 1, p. 12-17.
+Tukey, J. W., 1977, Exploratory data analysis: Addison-Wesley, Reading, Massachusetts.
+University of Wisconsin, 1975, Oil shale development in northwestern Colorado; Water and related land impacts: Institute for Environmental Studies Report 48, Madison, Wisconsin, 254 p.
+U.S. Bureau of Reclamation, 1974, Alternative sources of water for prototype oil shale development, Colorado and Utah: Upper Colorado Region, Salt Lake City, Utah, 114 p.
+45
+
+1980a, Upoer Colorado resource study, Colorado and Utah: Concluding report, 156 p.
+1980b, Potential modifications in eight proposed western Colorado projects for future energy development: Special Report, 55 pU.S» Geological Survey, 1911, Surface water supply of the United States, Part IX Colorado River Basin: U.S. Geological Survey Water-Supply Paper 309, 266 p. ______ 1979, Water resources data for Colorado, water year 1979: U.S. Geologic Survey Water-Data Report CO-79-3, 438 p. U.S. Water Resources Council, 1981, Synthetic fuels development in the Upper Colora region: Technical Report, Section 13(a), Water Assessment Report, 10 chapters Weeks, J. 8., Leavesley, G. H.> Welder, F. A., and Saulnier, G. J.., Jr., 1974, Simulated effects of oil-shale development on the hydrology of Piceance basin, Colorado: U.S, Geological Survey Professional Paper 908, 84 p..
+46
+
+

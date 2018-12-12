@@ -1,0 +1,189 @@
+discrete mathematics 
+www elsevier com locate disc 
+design lift golay code via assmus mattson type approach 
+dong joon shina vijay kumarb tor hellesethc adiv 
+electrical computer engineering hanyang university haengdang dong sungdong seoul south korea bcommunication science institute system university southern california los angel usa cdepartment informatics university bergen hib bergen norway 
+abstract recently harada show codewords ham weight lift quaternary golay code form design 
+the codewords ham weight lift golay code two symmetric weight enumerator swe type 
+the codewords two swe type also show harada form design 
+while harada result obtain via computer search subsequent analytical proof result appear paper bonnecaze rain sole 
+here provide alternative analytical proof use assmus mattson type approach codewords ham weight lift golay code symmetric weight enumerator type form design 
+also include paper weight hierarchy lift golay code 
+the generalized hamming weight use distinguish simple design repeat block 
+elsevier science all right reserve 
+keywords design quaternary code lift golay code assmus mattson theorem 
+introduction let set element 
+then collection subset block call design element contain exactly subsets block collection 
+design call simple block distinct otherwise design say repeat block 
+the assmus mattson theorem give cient condition codewords constant ham weight code ÿnite ÿeld form design 
+paper use assmus mattson this research support the norwegian research council 
+correspond author 
+mail address torh uib helleseth 
+365x see front matter elsevier science all right reserve 
+discrete mathematics 
+type approach provide alternative proof give existence 
+design lift golay code 
+the recent interest construct design linear code begin harada discover computer search support codewords 
+ham weight lift golay code yield design 
+subsequently harada also extend result codewords ham weight lift 
+golay code uncover design 
+computer search 
+prove support codewords 
+constant symmetrize weight type lift golay code form design possibly repeat block 
+they also introduce notion color design 
+construct colored design codewords symmetrize weight 
+various type code 
+related development helleseth 
+show codewords ham 
+weight preparata code yield design 
+make use coset weight 
+enumerator duursma 
+subsequently show codewords constant 
+complete weight preparata kerdock code form design possibly repeat block 
+design support minimum lee weight codewords 
+goethals code speciÿc length 
+this do use combination analysis computer search 
+subsequently shin 
+odd goethals code 
+erent paper author show 
+one use assmus mattson type theorem linear code verify existence design 
+section present paper provide preliminary 
+section assmus 
+mattson type approach use identify design lift golay code 
+the second generalized hamming weight code use paper criterion 
+distinguish simple design repeat block 
+for reason 
+section generalize ham weight hierarchy lift golay code 
+while design present paper previously know approach erent 
+preliminary let denote ring integer modulo 
+linear code deÿned subgroup additive group z4n size 
+let arbitrary coordinate then follow macwilliams sloane denote code puncture coordinate code shorten coordinate 
+let codeword linear code 
+deÿne multiplicity 
+there several weight enumerator code namely 
+discrete mathematics 
+complete weight enumerator cwe give cwec symmetrize weight enumerator swe give swec ham weight enumerator hwe give hwec often refer codeword complete weight enumerator type cwe type zn3 suppress redundant factor 
+similar abbreviation also use case symmetric ham weight enumerator 
+the support codeword set 
+from support codewords ham weight sometimes possible construct design 
+general several distinct complete symmetrize weight type may associate ham weight type 
+the support subcode rth generalized hamming weight deÿned 
+min subcode 
+integer the weight hierarchy set multiset 
+the macwilliams identities express weight enumerator code term 
+dual code 
+macwilliams identity state 
+hwec hwec 
+the lifted golay code qr24 self dual code length obtain extend cyclic quadratic residue code qr23 follow 
+discrete mathematics generator polynomial x11 2x10 3x9 3x7 3x6 3x5 2x4 hensel lift generator polynomial x11 associate binary quadratic residue code length 
+code qr24 three distinct cwe type ham weight namely 2z6 2z2 2z4 swe type 
+computer search show codewords cwe type fail form design 
+however union codewords three type codewords swe type form design 
+this discover computer search 
+analytic proof subsequently provide 
+the complete symmetrized weight enumerator qr24 know see 
+the swe present sweqr24 759w 16y 12144w 14x 2576w 12y 170016w 12x 61824w 11x 12y 765072w 10x 1133440w 12y 759w 1214400w 24288w 4080384w 12y 765072w 680064w 16y 4080384w 12y 170016w 1700160w 16y 1133440w 12y 12144w 680064w 16y 61824wx 12y 24288x 16y 4096x 
+design via assmus mattson type approach begin observation quaternary lift golay code qr24 
+the subcode qr24 consist codewords coordinate entry equivalent binary golay code g24 
+word qr24 g24 the assmus mattson type approach present make use design know exist binary golay code qr24 derive 
+lemma macwilliams sloane 
+the codewords weight binary golay code length form steiner system design respectively 
+discrete mathematics 
+let ÿve coordinate qr24 
+then qrt24 qr02 
+the code qr24 self dual code minimum hamming distance 
+for qr02 qrt24 clear inner product 
+also qrt24 qr24 otherwise exist qr24 puncture 
+this would imply qr24 ham weight contradiction 
+one ÿxes coordinate considers codewords qr24 coordinate 
+either equally many equally many 
+implies qr02 qr24 
+but orthogonality qr02 qrt24 implies 
+qr02 |·| qrt24 
+cardinality requirement dual code 
+let ÿve arbitrary position 
+lemma may apply macwilliams identity write 
+sweqr02 a1w 11y a2w a3w c1w c2w c3w 12y c4w 
+c5w 12y c6w c7w c8w 12y 
+c9wx 16y c10wx c11x 12y 
+know lemma unknown 
+coe cients 
+also follow partial information concern swe puncture lifted golay code qrt24 
+sweqrt24 biw 
+18x 17x 17xy 16x 16x 
+16xy 15x 15x 15x 15xy 
+14x 14xy 13x 
+term unknown coe cients know 
+know codewords minimum lee weight qr24 code word swe type form simple design 
+combine result assmus mattson type approach get follow design lift golay code 
+discrete mathematics 
+the support codewords swe type form simple design 
+let ÿve arbitrary position 
+use fact codewords swe type form simple design well macwilliams identity relate swe code qr02 qrt24 derive linearly independent equation unknown erentiating 
+macwilliams identity follow evaluation 
+all right hand side calculate show independent choice ÿve puncture position 
+verify equation linearly independent follow sweqrt24 independent choice 
+since show next section second generalize ham weight qr24 qr24 two codewords qr24 swe type support one scalar multiple 
+this imply support codewords swe type qr24 make yield simple design 
+design number block 
+since number code 
+word swe type qr24 precisely two codewords swe type support follow simple design 
+also possible ÿnd design possibly repeat block codewords constant ham weight large 
+the support codewords constant ham weight lift golay code form design possibly repeat block 
+proof theorem show symmetrized weight enumerator puncture lifted golay code independent choice ÿve position 
+discrete mathematics 
+implies codewords constant ham weight form design possibly repeat block 
+criterion simple design need criterion decide whether design obtain use assmus mattson type approach simple 
+provide two criterion 
+the ÿrst one contain lemma follow utilizes minimum hamming distance code 
+the second often informative criterion second generalize ham weight 
+let linear code length minimum hamming distance 
+suppose two codewords support size 
+then must scalar multiple small integer 
+for non zero deÿne there total nine nontrivial linear combination form 
+these classiÿed accord number new zero coordinate position linear combination attain case introduce new zero position 
+case introduce new zero position 
+case introduce new zero position 
+case introduce new zero position 
+from four case conclude always exist linear combination least additional zero coordinate position 
+since linear combination also codeword must zero vector thus prove lemma 
+this lemma apply quaternary golay code qr24 tell two codewords ham weight less share support must necessarily scalar multiple 
+this cient however guarantee design obtain theorem simple involves codewords ham weight 
+knowledge second generalize ham weight case tell hold true case ham weight well 
+since able ÿnd second generalize ham weight qr24 literature derive weight hierarchy qr24 
+weight hierarchy qr24 two useful lemma ÿrst present 
+discrete mathematics lemma wei 
+the binary golay code g24 follow weight hierarchy lemma yang helleseth 
+let linear code dual code 
+then the lemma well lemma use derive weight hierarchy lift golay code qr24 
+the weight hierarchy lift golay code qr24 proof 
+lemma self duality qr24 qr24 qr24 since qr24 qr24 follow multiset contain weight hierarchy remain ÿnd qr24 
+clearly qr24 one 
+suppose qr24 
+this possible support codeword swe type contain support codeword swe type 
+however impossible accord g24 lemma 
+suppose next qr24 
+this possible union support codewords swe type swe type size impossible accord g24 lemma 
+suppose qr24 
+this possible support codeword swe type contain support codeword swe type 
+since g24 two codewords cannot position 
+two codewords four position swe type sum two codewords impossible 
+result get qr24 implies qr24 qr24 qr24 qr24 
+reference assmus mattson new design combin 
+bonnecaze rain soleã colored design code statist 
+discrete mathematics 
+bonnecaze soleã bachoc mourrain type code ieee trans 
+bonnecaze soleã 
+calderbank quaternary quadratic residue code unimodular lattice ieee trans 
+duursma helleseth rong yang split weight enumerator preparata code application design design code cryptography 
+sloane soleã the linearity kerdock preparata goethals relate code ieee trans 
+harada new design construct lifted golay code preprint present recent result session ieee international symposium information theory ulm germany june july 
+harada new design construct lifted golay code combin 
+kumar yang inÿnite family design preparata code design code cryptography 
+helleseth rong yang new design goethals code discrete math 
+sloane the theory error correct code north holland amsterdam netherlands 
+shin design goethals code via new kloosterman sum identity assmus mattson type theorem linear code dissertation usc los angel december 
+kumar helleseth designs goethals code via new kloosterman sum identity design code cryptography submit publication 
+kumar helleseth assmus mattson type approach identify design linear code design code cryptography submit publication 
+wei generalize ham weight linear code ieee trans 
+yang helleseth weight hierarchy preparata code ieee trans 

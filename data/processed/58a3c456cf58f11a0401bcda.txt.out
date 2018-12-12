@@ -1,0 +1,607 @@
+origin diversiﬁcation basic helix loop helix proteins plant 
+nuno pires liam dolan department cell developmental biology john inn centre norwich united kingdom present address department plant science university oxford oxford unite kingdom correspond author mail liam dolan plant 
+associate editor charles delwiche 
+research article 
+abstract basic helix loop helix bhlh proteins class transcription factor find throughout eukaryotic organism 
+classiﬁcation complete set bhlh protein sequence genome arabidopsis thaliana oryza sativa rice deﬁned diversity protein among ﬂowering plant 
+however evolutionary relationship different plant bhlh group diversity bhlh proteins ancestral group plant currently unknown 
+study use whole genome sequence nine specie land plant algae deﬁne relationship proteins plant 
+show less bhlh protein encode genome chlorophyte red algae 
+contrast many bhlh protein encode genome land plant embryophytes 
+phylogenetic analysis suggest plant bhlh proteins monophyletic constitute subfamily 
+twenty subfamily exist common ancestor extant moss vascular plant whereas six subfamily evolve among vascular plant 
+addition conserve bhlh domain subfamily characterize presence highly conserve short amino acid motif 
+conclude much diversity plant bhlh protein establish early land plant million year ago 
+key word bhlh transcription factor plant algae evolution phylogeny 
+introduction the basic helix loop helix bhlh domain highly conserve amino acid motif deﬁnes group transcription factor 
+originally describe animal murre 
+soon discover major eukaryotic lineage 
+protein contain bhlh domain refer bhlh protein involve myriad regulatory process 
+their function include regulate neurogenesis myogenesis heart development animal massari murre jones control phosphate uptake glycolysis yeast robinson lop modulate secondary metabolism pathway epidermal differentiation response environmental factor plant ramsay glover castillon 
+the bhlh domain consist amino acid form two distinct segment stretch predominantly basic amino acid basic region section roughly amino acid predict form two amphipathic helix separate loop variable length helixloop helix region 
+structural analysis mammalian yeast bhlh protein show basic region form main interface contact dna occur whereas two helix promote formation homoor heterodimers bhlh proteins prerequisite dna bind occur jones 
+phylogenetic analysis classiﬁed diversity bhlh proteins number distinct group 
+over bhlh protein encode genome 
+imals metazoan typically classiﬁed six major group base ability bind dna atchley fitch ledent vervoort jones 
+detailed analysis use whole genome sequence show animal bhlh could classiﬁed several small subfamily highly conserve across major metazoan lineage ledent vervoort simionato 
+phylogenetic analysis indicate subfamily present common ancestor bilaterians think exist sometime million year ago simionato 
+the genome arabidopsis thaliana oryza sativa rice encode even bhlh sequence animal 
+different phylogenetic study propose classiﬁcation plant bhlh subgroup buck atchley heim 
+toledo ortiz 
+however origin evolutionary history group cannot understood use thaliana sativa sequence alone 
+the characterization evolution plant bhlh diversity require phylogenetic analysis bhlh proteins diverse selection plant include algae bryophyte different lineage vascular plant 
+study characterize evolution bhlh proteins plant deﬁned organism likely derive primary endosymbiotic event give rise red algae chlorophyte land plant rodr ıguez ezpeleta 
+show plant bhlh family monophyletic underwent 
+the author 
+publish oxford university press behalf society molecular biology evolution 
+this open access article distribute term creative common attribution non commercial license 
+http creativecommons org license permit unrestricted non commercial use distribution reproduction medium provide original work properly cite 
+open access 
+doi molbev msp288 advance access publication november 
+evolution bhlh transcription factor plant doi molbev msp288 
+major radiation evolution moss 
+the bhlh group establish early land plant conserve subsequent plant evolution although many gene duplication loss within group 
+our analysis deﬁnes subfamily represent deep evolutionary relationship plant bhlh protein 
+material method sequence retrieval the thaliana bhlh report bailey 
+toledo ortiz 
+retrieve the arabidopsis information resource http www 
+arabidopsis org 
+clear bhlh domain find at1g31050 atbhlh111 at1g22380 atbhlh152 use study could ﬁnd at2g20095 atbhlh133 at4g38071 atbhlh131 database 
+data set predict sativa ssp 
+japonica bhlh proteins retrieve plant tfdb guo 
+combine bhlh protein sequence report 
+2006b retrieved rice genome annotation project http rice plantbiology msu 
+eleven new protein number following nomenclature style 
+2006b whereas clear bhlh find os01g65080 osbhlh033 os04g35000 osbhlh145 os11g02054 osbhlh160 os12g02020 osbhlh161 
+data set predict physcomitrella patens bhlh retrieve plant tfdb guo 
+direct search gene annotate bhlh perform genome assembly selaginella moellendorfﬁi http www jgi doe gov 
+hmmsearch eddy use screen genome assembly cyanidioschyzon merolae matsuzaki 
+chlamydomonas reinhardtii merchant 
+ostreoscoccus tauri palenik 
+thalassiosira pseudonana armbrust 
+draft assembly chlorella vulgaris volvox carteri http www jgi doe gov pfam proﬁle hidden markov model phmm hlhls hmm http pfam 
+five homo sapiens four amphimedon queenslandica demosponge representative sequence major metazoan group bhlh protein base jones simionato 
+retrieved genbank group proteins clearly align bhlh ledent 
+use study 
+the saccharomyces cerevisiae bhlh protein report robinson lope retrieve http www yeastgenome org 
+for simplicity sequence rename accord supplementary table supplementary material online 
+the complete amino acid sequence proteins find supplementary data supplementary material online 
+alignment phylogenetic analysis protein sequence prealigned use hmmalign eddy phmm hlhls hmm pfam http 
+pfam sanger 
+the bhlh region extensively manually align bioedit http www mbio ncsu edu bioedit bioedit html 
+unambiguous align position use subsequent phylogenetic analysis supplementary 
+supplementary material online 
+the jones taylor thorton jtt model select best ﬁtting amino acid substitution model akaike information criterion implement prottest abascal 
+the maximum likelihood analysis do program phyml version guindon gascuel use jtt model amino acid substitution estimate gamma distribution parameter shimodaira hasegawa like approximate likelihood ratio test 
+the phylip package version felsenstein use perform bootstrap replica neighbor join tree base jtt distance matrix 
+paup version 0b10 swofford use perform bootstrap replica maximum parsimony tree 
+the bayesian analysis perform mrbayes version http mrbayes csit fsu edu two independent run compute million generation point standard deviation split frequency less one tree save every generation tree run summarize give rise ﬁnal cladogram 
+all tree visualize use program figtree http tree bio software ﬁgtree 
+alignment bhlh domain related sequence use build phmms hmmbuild eddy 
+the phmms use classify protein use phylogenetic analysis plant bhlh subfamily 
+the phmms visualize hmm logo schusterbockler 
+detection conserve motif the meme fimo software bailey elkan use discover pattern complete amino acid sequence plant bhlh protein 
+each motif individually check incorrect insigniﬁcant match discard 
+the complete plant amino acid sequence also screen pfam database http pfam sanger 
+result all major group land plant have large number bhlh proteins previous phylogenetic analysis plant bhlh protein base genome sequence thaliana sativa buck atchley heim 
+toledo ortiz 
+this provide useful limited phylogenetic framework classiﬁcation bhlh proteins ﬂowering plant angiosperm 
+nevertheless provide insight diversity family earlier diverge group land plant 
+determine subfamily angiosperm speciﬁc arose earlier plant evolution understand deep evolutionary history family plant 
+pires dolan doi molbev msp288 
+phylogenetic relationship specie use study 
+the total number bhlh proteins find genome specie indicate 
+the cladogram base current view plant eukaryotic phylogeny baldauf lewis mccourt rodr ıguezezpeleta 
+arobinson lope bsimionato 
+search bhlh protein cod sequence complete genome lycophyte moellendorfﬁi moss patens chlorophyte carteri reinhardtii vulgaris tauri red alga merolae 
+these sequence combine previously report thaliana sativa sequence generate primary data set consist bhlh sequence represent major evolutionary lineage plant 
+extend data set include protein select eukaryotic group full set bhlh protein encode genome diatom pseudonana fungi cerevisiae plus representative bhlh sequence sponge queenslandica sapiens 
+there large number bhlh protein specie land plant embryophytes sequenced date 
+thaliana sativa bhlh sequence genomes make second large family transcription factor angiosperms xiong 
+approximately bhlh protein encode genome lycophyte moellendorfﬁi moss patens 
+contrast find less ﬁve bhlh encode sequence genome chlorophyte red alga examine 
+other unicellular eukaryotic organism diatom pseudonana cerevisiae also small number less bhlh protein 
+robinson lope 
+animal sponge queenslandica bhlh encode gene whereas bilaterians gene simionato 
+animal land plant considerably bhlh sequence eukaryotic organism 
+this suggest increase number bhlh protein occur independently evolution plant animal 
+key amino acid residue be highly conserve between plant metazoan bhlh proteins characterize molecular evolution plant bhlh protein align retrieve amino acid sequence conserve bhlh region 
+supplementary material online 
+the ﬁrst amino acid correspond basic region interaction 
+dna make ferre amare 
+most animal bhlh protein bind hexanucleotide sequence canntg know box 
+all box bind bhlh protein glutamic acid residue position directly contact dna nucleotide hexanucleotide sequence ferre amare 
+plant critical residue present protein analyze supplementary 
+supplementary material online 
+other position basic region allow good discrimination target dna sequence easily distinguishable major animal bhlh group atchley fitch ledent vervoort jones atchley zhao 
+animal group proteins bind cagctg cacctg ebox conﬁguration diagnostic arginine position 
+animal group proteins lysine histidine residue position position bind cacgtg catgttg box conﬁguration 
+plant bhlh protein characteristic animal group conﬁguration r13 typical find animal group 
+this suggest plant bhlh protein also bind box 
+indeed number plant bhlh proteins show bind cacgtg sequence mart ınez garc 
+toledo ortiz 
+classically know plant box motif giuliano 
+group animal protein bind box cacgcg cacgag r13 conﬁguration group proline position 
+this conﬁguration absent plant bhlh protein analyze 
+the remain animal bhlh group proteins contain extra pa coe domains find plant bhlh proteins whereas group proteins atypical bhlh without basic domain plant proteins conserve r13 motif supplementary 
+supplementary material online present animal 
+this raise interesting possibility protein bind novel target dna sequence 
+other frequent basic amino acid animal bhlh position also highly conserved plant respectively 
+evolution bhlh transcription factor plant doi molbev msp288 
+alignment bhlh domain representative plant protein 
+representative subfamily plant bhlh show together human protein max well characterize bhlh protein 
+the shaded box indicate position dna bind basic region two helix variable loop region ferre amare 
+the numbering amino acid follow atchley fitch 
+this subset full alignment protein use study supplementary 
+supplementary material online 
+the helix promote formation homo heterodimeric complex bhlh protein 
+the structure dimer stabilize hydrophobic amino acid isoleucine leucine valine conserve position bhlh domain ferre amare 
+these position highly conserve animal atchley 
+residue present site plant proteins animal protein respectively 
+site plant proteins animal protein respectively 
+conserve break ﬁrst helix start loop variable length usually six nine residue plant 
+some loop residue also conserve site plant proteins supplementary 
+supplementary material online animal protein atchley 
+the high degree sequence similarity bhlh domain plant animal protein particularly key dna interact basic amino acid helix stabilize hydrophobic amino acid indicate molecular structure transcription factor activity bhlh proteins conserve animal plant 
+twenty bhlh subfamily find flower plant be also present early land plant understand evolutionary relationship plant bhlh protein use conserved region alignment show supplementary ﬁgure supplemen 
+tary material online compute phylogenetic tree 
+analysis show protein different specie cluster together compact clade high support value 
+supplementary material online 
+analysis support existence clade supplementary 
+supplementary material online 
+base topology tree clade support value branch lengths visual inspection bhlh amino acid sequence deﬁned subfamily bhlh protein 
+supplementary material online 
+these subfamily mostly consistent group propose previous phylogenetic analysis plant bhlh use thaliana sativa sequence alone buck atchley heim 
+toledo ortiz 
+adopt thaliana bhlh group nomenclature propose heim 
+label subfamily modiﬁcations example divide iiia iiic combine iii 
+also deﬁned three new group xiii xiv include thaliana sequence present analysis heim 
+protein analyze clearly fall subfamily classiﬁed orphan supplementary 
+supplementary material online 
+these protein often high degree sequence divergence bhlh this may due lineage speciﬁc specialization alternatively may correspond pseudogene sequence 
+one thaliana group propose heim colleague group 
+pires dolan doi molbev msp288 
+twenty subfamily bhlh already establish common ancestral vascular plant moss 
+maximum likelihood analysis plant bhlh show unrooted cladogram 
+the blue balloon delineate subfamily plant bhlh protein 
+color dot symbolize specie proteins group belong yellow oryza sativa monocot red arabidopsis thaliana eudicot green selaginella moellendorfﬁi lycophyte blue physcomitrella patens moss purple volvox carteri chlamydomonas reinhardtii chlorella vulgaris ostreococcus tauri cyanidioschyzon merolae chlorophyte red algae 
+full tree protein name proportional branch length clade support value give supplementary 
+supplementary material online 
+consist two protein fall orphan category 
+plant bhlh subfamily include angiosperm protein include angiosperm lycophyte protein 
+because last common ancestor angiosperm lycophytes live sometime upper silurian period kenrick crane implies bhlh subfamily least million year old 
+interestingly subfamily include vascular plant also moss protein 
+give old evidence existence vascular plant trilete spore upper ordovician sediment steemans 
+suggests subfamily old 
+bhlh protein chlorophyte algae tauri member subfamily ivc 
+this suggest subfamily may billion year old heckman 
+clade compose carteri reinhardtii vulgaris bhlh proteins sister protein subfamily 
+however include chlorophyte protein subfamily relationship strongly support 
+nevertheless relationship suggest subfamily phylogenetically closer chlorophyte pro 
+teins land plant protein 
+another group carteri reinhardtii vulgaris protein form clade clearly distinct plant protein 
+probably represent group evolve among chlorophyte alternatively present common ancestor chlorophyte land plant maintain among chlorophyte lose ancestor land plant 
+the bhlh encode gene find genome red algae merolae could allocate chlorophyte land plant bhlh clade 
+summary phylogenetic analysis show plant bhlh proteins form distinct subfamily evolutionary lineage subfamily already present early land plant time moss diverge vascular plant 
+despite several round gene duplications loss different plant lineage subfamily highly conserve throughout plant evolution 
+plant bhlh protein be monophyletic the phylogenetic information contain amino acid bhlh allow delimitation major 
+evolution bhlh transcription factor plant doi molbev msp288 
+evolutionary lineage proteins plant allow good resolution deeper node represent phylogenetic relationship different bhlh subfamily basal node often low support value supplementary 
+supplementary material online vary use analysis data show 
+similar poor resolution observe previous classiﬁcations bhlh protein group organisms atchley fitch ledent vervoort buck atchley toledo ortiz 
+thus inter subfamily relationship show ﬁgure interpret cautiously 
+initially tried incorporate non plant bhlh sequence analysis 
+however large number proteins great evolutionary distance consequent high degree sequence divergence cause non plant protein form long branch nest within plant clade obvious sequence similarity data show 
+circumvent problem opt perform phylogenetic analysis simpliﬁed alignment supplementary 
+supplementary material online include chlorophyte red algae diatom yeast protein plus representative plant subfamilies high order metazoan group atchley fitch simionato 
+the deep evolutionary relationship many protein still resolve branch bayesian phylogenetic tree low support value 
+however close relationship different plant bhlh subfamily 
+support analysis 
+for example subfamily ivc probably establish common ancestor chlorophyte algae land plant subfamily ivb possibly evolve later among land plant subfamily ivc protein 
+pair subfamily viiic viiic xii iii iiib seem form monophyletic lineage 
+interestingly ﬁve diatom sequence sponge group protein form wellsupported clade 
+close examination amino acid sequence ﬁve diatom bhlh proteins reveals protein arginine position bhlh domain deﬁning characteristic group proteins atchley fitch 
+although beyond scope study suggest group might predate origin opisthokontes eukaryotic lineage include fungi animal 
+cluster plant protein proteins eukaryotic organism find bayesian tree 
+the small number bhlh proteins find genomes different chlorophyte red algae 
+suggests ﬁrst plant one bhlh proteins modern plant bhlh descend radiate 
+this view consistent previous analysis highlight distant relationship angiosperm animal bhlh proteins ledent vervoort buck atchley toledo ortiz 
+the lack discernible phylogenetic relationship bhlh subfamily plant eukaryotic organism support hypothesis plant bhlh proteins monophyletic 
+plant bhlh group eukaryote bhlh 
+bayesian analysis perform alignment bhlh sequence one representative subfamily plant bhlh chlorophyte red algae protein proteins found diatom thalassiosira pseudonana saccharomyces cerevisiae proteins representative major group metazoan bhlh sponge amphimedon queenslandica homo sapiens 
+the tree unrooted 
+the number clades posterior probability value clades less support collapse 
+pires dolan doi molbev msp288 
+non bhlh amino acid motif highly conserve bhlh subfamily 
+idealize representation typical member bhlh subfamily show bhlh domain conserve motif drawn shade box 
+the diagram draw scale 
+the sequence motif individual protein give supplementary table supplementary material online 
+conserve non bhlh motif be present most plant bhlh subfamilies the amino acid sequence outside bhlh region generally divergent even closely related protein specie 
+nevertheless report short conserve amino acid motif often present related plant bhlh proteins heim 
+plant bhlh classiﬁcation correct expect motifs conserve within subfamily 
+determine non bhlh motif conserve throughout plant evolution search amino acid pattern data set plant bhlh protein 
+find motif represent angiosperm non angiosperm protein supplementary table supplementary material online 
+the relative position motif conserve 
+locate terminal bhlh domain generally locate toward terminal half plant protein 
+each motif find member subfamily apart motif find ivb ivc protein 
+none conserve motifs corresponds know domain pfam database 
+present several protein subfamily vii overlap active phytochrome binding apb motif show mediate bind several thaliana bhlh proteins phytochrome khanna 
+motif present ivb ivc proteins typical leucine zipper conformation 
+the dimer domain occur several regulatory protein consist periodic repetition leucine follow six residue bornberg bauer 
+several animal bhlh protein also immediately terminal second helix atchley fitch 
+however presence unrelated bhlh protein suggest multiple origin domain animal bhlh protein atchley fitch morgenstern atchley 
+could ﬁnd similarity bhlh sequence ivb ivc protein animal bhlh protein 
+therefore likely acquisition motif bhlh protein occur independently plant animal 
+the occurrence conserve domain outside bhlh domain strongly support classiﬁcation make basis alignment bhlh sequence 
+also query pfam database protein domains plant bhlh proteins find signiﬁcant match act domain several unrelated protein osbhlh036 vcbhlh001 crbhlh002 osbhlh170 vcbhlh002 ppbhlh097 
+the act regulatory ligand binding domain find diverse group proteins mostly metabolic enzyme chipman shaanan 
+the occurrence act domain plant bhlh proteins previously report anantharaman 
+act like domain find mediate homodimerization maize protein feller 
+also find act like domain thaliana protein use low stringency structure base search could conﬁrm use stringent motif base search method 
+the occurrence act domain protein different bhlh subfamily suggest act bhlh association occur multiple time possibly domain shufﬂing process 
+such mechanism propose play important role evolution several metazoan bhlh proteins morgenstern atchley ledent vervoort 
+the presence highly conserve motif among protein subfamily support phylogenetic relationship infer bhlh domain sequence alone 
+the conservation extra domain plant evolution suggest essential function bhlh proteins respective subfamily 
+nevertheless presence act domain unrelated protein also indicate domain shufﬂing process may play small role plant bhlh evolution 
+discussion our analysis show major subfamily plant bhlh transcription factor already present early land plant divergence moss vascular plant 
+the recent advent large scale sequencing 
+evolution bhlh transcription factor plant doi molbev msp288 
+project show many gene family control angiosperm development present early land plant floyd bowman 
+however unlike bhlh family many family mikcc mad box tcp transcription factor diversiﬁed divergence lycophytes vascular plant floyd bowman 
+envisage two major alternative hypothesis would explain early radiation bhlh proteins plant 
+the ﬁrst radiation occur parallel evolution multicellular transition plant terrestrial environment 
+the increase number cell type morphological complexity bring multicellular would program increasingly elaborate gene regulatory network 
+bhlh proteins ability heterodimerize differentially control gene expression might become ideal tool assemble complex regulatory pathway 
+consistent view observation ﬁrst large radiation bhlh family metazoan may accompany evolution multicellular simionato 
+second hypothesis diversiﬁcation plant bhlh protein accompany colonization land 
+the challenge face plant dry terrestrial environment lead evolution many novel structure physiological mechanism orchestrate versatile gene regulatory network 
+distinguish alternative require knowledge number bhlh protein encode genome multicellular algae 
+the sequence charophycean multicellular aquatic algae sister group land plant genome would allow test hypothesis unfortunately handful express sequence tag currently available 
+all sequence genome chlorophyte red algae encode bhlh protein 
+detect three distinct evolutionary lineage chlorophyte 
+one lineage include chlorophyte land plant subfamilies ivc ivb implying predates divergence chlorophytes ancestor land plant billion year ago heckman 
+interestingly characteristic two subfamily presence motif associate bhlh domain 
+this association also occur independently animal 
+second lineage chlorophyte proteins similar subfamily bhlh subfamily although support monophyly poor 
+third lineage distinct plant bhlh proteins possibly evolve chlorophyte 
+the bhlh protein find red algae could clearly allocate clade 
+this suggest none subfamily plant bhlh protein establish time divergence red algae plant billion year ago yoon 
+alternatively protein lineages lose merolae ancestor still present red algae availability additional whole genome sequence red algae help clarify 
+however small number bhlh find chlorophyte red algae examine 
+lack clear phylogenetic rela 
+tionships eukaryotic bhlh protein 
+allows conﬁdently deduce bhlh protein find plant evolve primary endosymbiotic event lead evolution plastid represent eukaryotic group 
+plant transcription factor family usually high expansion rate compare metazoan family cause elevated rate retention duplicate gene shiu 
+accordingly usually many protein per specie plant bhlh subfamily supplementary 
+supplementary material online contrast small number gene find metazoan subfamily ledent vervoort simionato 
+member plant bhlh subfamily frequently involved biological process table 
+usually function proteins overlap cause partially totally redundant hec bee protein 
+strike exception come three thaliana subfamily proteins mute speechless fama play nonoverlapping role control sequential cell fate speciﬁcation stomatal differentiation pathway surprisingly similar metazoan bhlh proteins control muscle neural development nadeau serna 
+interestingly function protein seem mostly conserve rice maize homologs despite specie considerably different stoma morphology differentiation pattern liu 
+other examples member bhlh subfamily regulate similar process different specie currently know table 
+new challenge understand function bhlh protein change plant evolution 
+interest glimpse come subfamily viiic patens proteins pprsl1 pprsl2 moss bhlh protein characterize far show require development rhizoid menand 
+rhizoid lose vascular plant evolution two representative subfamily viiic thaliana atrhd6 atrsl1 require formation root hairs analogous structure rhizoid similar root function menand 
+this suggest proteins independently recruit fulﬁl similar function land plant evolution 
+the presence highly conserve motif apb motif pif protein different plant bhlh subfamily 
+indicate partner molecular interaction also conserve 
+this particularly exciting suggests protein interaction base gene regulatory network highly conserve across plant 
+several plant bhlh protein know form transcription complex myb protein ramsay glover 
+although early evolution myb proteins plant characterize find myb sequence genome reinhardtii sequence patens data show 
+give large number bhlh myb proteins moss appeal hypothesize bhlh myb complex evolve early land plant 
+pires dolan doi molbev msp288 
+functionally characterize bhlh protein different plant specie 
+name subfamily atmute atfama atspch osmute osfama osspch2 subfamily rge1 zhoupi subfamily osiro2 subfamily iii fit 
+bhlh number atbhlh045 atbhlh097 atbhlh098 osbhlh055 osbhlh051 osbhlh053 atbhlh095 osbhlh056 atbhlh029 
+rerj1 subfamily iiib ice scrm ice2 scrm2 taice41 taice87 subfamily iii myc2 jai1 jin1 
+osbhlh006 atbhlh116 atbhlh033 wheata atbhlh006 
+function control sequential cell fate speciﬁcation stomatal differentiation control stoma development regulate embryonic development endosperm breakdown regulates gene involve uptake deﬁciency condition require regulation responses iron deﬁciency arabidopsis root involve rice shoot growth inhibition cause jasmonic acid control stomatal development implicate cold acclimation response freeze tolerance potential activator cold responsive gene involve abscisic acid jasmonic acid light signal pathway 
+aib psgbf subfamily iiif tt8 gl3 egl3 
+atbhlh017 peaa atbhlh042 atbhlh001 atbhlh002 
+involve abscisic acid signal regulates phenylpropanoid biosynthetic pathway partially redundantly regulate anthocyanin biosynthesis trichome root hair development 
+osb1 osb2 in1 an1 subfamily iva nai1 subfamily ivc ilr3 subfamily bim1 bim2 bim3 subfamily vii pif1 pil5 pif3 pif4 pif5 pil6 pif7 hfr1 spatula alcatraz une10 
+osbhlh013 osbhlh165 osbhlh017 osbhlh016 maizea maizea petuniaa atbhlh020 atbhlh105 atbhlh046 atbhlh102 atbhlh141 atbhlh015 atbhlh008 atbhlh009 atbhlh065 atbhlh072 atbhlh026 atbhlh024 atbhlh073 atbhlh016 
+regulate anthocyanin biosynthetic pathway require formation derive structure body modulate metal homeostasis auxin conjugate metabolism implicate brassinosteroid signal bind activate phytochromes mediate light gibberellin signal response pif4 recently show also mediate plant architecture responses high temperature mediate phytochrome cryptochrome signal regulator carpel margin development mediator germination response light temperature require formation cell layer necessary fruit dehiscence involve fertilization process 
+reference nadeau serna liu 
+duek fankhauser heisler 
+rajani sundaresan pagnussat 
+evolution bhlh transcription factor plant doi molbev msp288 
+name subfamily viiib hec1 hec2 hec3 lax indehiscent subfamily viiic atrhd6 atrsl1 pprsl1 pprsl2 subfamily viiic rsl2 rsl3 rsl4 rsl5 subfamily une12 ptf1 subfamily xii zcw32 bpe bee1 bee2 bee3 cib1 cib5 subfamily xiii lhw subfamily xiv sac51 subfamily pre1 pre2 pre3 pre4 pre5 pre6 kidari orphan ams dyt1 tdr udt1 mee8 fer gmyc1 delila jaf13 par1 par2 
+bhlh number osbhlh102 atbhlh088 atbhlh037 atbhlh043 osbhlh123 atbhlh040 atbhlh083 atbhlh086 ppbhlh043 ppbhlh033 atbhlh085 atbhlh084 atbhlh054 atbhlh139 atbhlh059 osbhlh096 atbhlh031 atbhlh044 atbhlh058 atbhlh050 atbhlh063 atbhlh076 atbhlh156 atbhlh142 atbhlh136 atbhlh134 atbhlh135 atbhlh161 at3g28857a at1g26945a at1g26945a atbhlh021 atbhlh022 osbhlh005 osbhlh164 atbhlh108 tomatoa gerberaa antirrhinuma petuniaa at2g42870a at3g58850a 
+function involve regulation amylose synthesis rice endosperm redundantly control development transmit tract stigma protein form heterodimers spatula regulator axillary meristem generation rice require differentiation arabidopsis fruit three cell type involve seed dispersal require formation root hair redundantly require development rhizoid caulonemata partially redundant involved root hair development involve fertilization process involve response phosphate deﬁciency stress control petal size redundant positive regulator brassinosteroid signal show interact blue light receptor cry2 promote ﬂoral initiation regulate size vascular initial population root meristem involve spermidine synthase mediate stem elongation process propose act positive regulator gibberellin signal represses light signal transduction interacts negatively regulate hfr1 require correct anther development particularly tapetum development require early embryo development control iron uptake response root regulate expression anthocyanin pathway enzyme regulate pattern anthocyanin pigmentation regulate anthocyanin biosynthetic pathway negatively control growth metabolic shade avoidance response 
+reference zhu 
+ohashi ito bergmann imai 
+hyun lee sorensen 
+2006a jung 
+roig villanova 
+note endoplasm reticulum 
+these protein include phylogenetic analysis classiﬁcation base phmm score subfamily speciﬁc phmms 
+pires dolan doi molbev msp288 
+the picture emerge study much complex regulatory machinery currently dissect high plant actually invent simple one early land plant evolution 
+the recent reappraisal algae bryophytes lycophytes experimental organisms excellent tool clarify molecular biological foundation many process 
+supplementary material supplementary table ﬁgures data available molecular biology evolution online http www mbe oxfordjournals org 
+acknowledgment would like thank lars østergaard keke rita galhano critical comment manuscript julie hawkins alastair culham teaching phylogenetics 
+this work support grant sfrh 
+portuguese fundaxca para cieˆncia tecnologia grant aid 
+john inn centre the biotechnology biological research council unite kingdom grant human frontier science program 
+reference abascal zardoya posada 
+prottest selection best model protein evolution 
+abe urao ito seki shinozaki yamaguchi shinozaki 
+arabidopsis atmyc2 bhlh atmyb2 myb function transcript activator abscisic acid signal 
+plant cell 
+anantharaman koonin aravind 
+regulatory potential phyletic distribution evolution ancient intracellular small molecule binding domain 
+mol biol 
+armbrust berg bowler 
+the genome diatom thalassiosira pseudonana ecology evolution metabolism 
+atchley fitch 
+natural classiﬁcation basic helix loop helix class transcription factor 
+proc natl acad sci usa 
+atchley terhalle dress 
+positional dependence clique predictive motif bhlh protein domain 
+mol evol 
+atchley zhao 
+molecular architecture dnabinding region relationship classiﬁcation basic helixloop helix protein 
+mol biol evol 
+badawi reddy agharbaoui tominaga danyluk sarhan houde 
+structure functional analysis wheat ice inducer cbf expression gene 
+plant cell physiol 
+bailey martin toledo ortiz quail huq heim jakoby werber weisshaar 
+update basic helix loop helix transcription factor gene family arabidopsis thaliana 
+plant cell 
+bailey elkan 
+fitting mixture model expectation maximization discover motifs biopolymers 
+proc int conf intell syst mol biol 
+the deep root eukaryote 
+bauer ling guerinot 
+fit fer like iron deficiency induce transcription factor arabidopsis 
+plant physiol biochem 
+bernhardt lee gonzalez zhang lloyd schiefelbein 
+the bhlh gene glabra3 gl3 enhancer glabra3 egl3 specify epidermal cell fate arabidopsis root 
+bornberg bauer rival vingron 
+computational approach identify leucine zipper 
+nucleic acid re 
+buck atchley 
+phylogenetic analysis plant basic helixloop helix protein 
+mol evol 
+burr burr schefﬂer blewitt wienand matz 
+the maize repressor like gene intensiﬁer1 share homology multigene family transcription factor exhibit missplicing 
+plant cell 
+castillon shen huq 
+phytochrome interacting factor central player phytochrome mediate light signal network 
+trend plant sci 
+chinnusamy ohta kanrar lee hong agarwal zhu 
+ice1 regulator cold induce transcriptome freezing tolerance arabidopsis 
+gene dev 
+chipman shaanan 
+the act domain family 
+curr opin struct biol 
+lucas daviere rodriguez falcon pontin iglesiaspedraz lorrain fankhauser blazquez titarenko prat 
+molecular framework light gibberellin control cell elongation 
+duek fankhauser 
+hfr1 putative bhlh transcription factor mediate phytochrome cryptochrome signalling 
+proﬁle hidden markov model 
+elomaa mehto kotilainen helariutta nevalainen teeri 
+bhlh transcription factor mediate organ region ﬂower type speciﬁc signal dihydroﬂavonol 4reductase dfr gene expression inﬂorescence gerbera hybrida asteraceae 
+feller hernandez grotewold 
+act like domain participates dimer several plant basic helix loophelix transcription factor 
+biol chem 
+phylip phylogeny inference package version 
+ferre amare prendergast ziff burley 
+recognition max cognate dna dimer hlh domain 
+floyd bowman 
+the ancestral developmental tool kit land plant 
+int plant sci 
+friedrichsen nemhauser muramitsu maloof alonso ecker furuya chory 
+three redundant brassinosteroid early response gene encode putative bhlh transcription factor require normal growth 
+fursova pogorelko tarasov 
+identiﬁcation ice2 gene involve cold acclimation determines freeze tolerance arabidopsis thaliana 
+giuliano pichersky malik timko scolnik cashmore 
+evolutionarily conserve protein bind sequence upstream plant light regulate gene 
+proc natl acad sci usa 
+goodrich carpenter coen 
+common gene regulate pigmentation pattern diverse plant specie 
+gremski ditta yanofsky 
+the hecate gene regulate female reproductive tract development arabidopsis thaliana 
+evolution bhlh transcription factor plant doi molbev msp288 
+guindon gascuel 
+simple fast accurate algorithm estimate large phylogeny maximum likelihood 
+syst biol 
+guo chen gao zhang zhu liu zhong luo 
+planttfdb comprehensive plant transcription factor database 
+nucleic acid re 
+d966 d969 
+heckman geiser eidell stauffer kardos hedge 
+molecular evidence early colonization land fungi plant 
+heim jakoby werber martin weisshaar bailey 
+the basic helix loop helix transcription factor family plant genome wide study protein structure functional diversity 
+mol biol evol 
+heisler atkinson bylstra walsh smyth 
+spatula gene control development carpel margin tissue arabidopsis encodes bhlh protein 
+reddy wessler 
+the rice gene family two distinct subfamily contain several miniature invert repeat transposable element 
+plant mol biol 
+hyun lee 
+kidari encode non dna bind bhlh protein represses light signal transduction arabidopsis thaliana 
+plant mol biol 
+imai hanzawa komura yamamoto komeda takahashi 
+the dwarf phenotype arabidopsis acl5 mutant suppress mutation upstream orf bhlh gene 
+overview basic helix loop helix protein 
+genome biol 
+jung han lee kim hwang kim kim nahm 
+rice undeveloped tapetum1 major regulator early tapetum development 
+plant cell 
+kanaoka pillitteri fujii yoshida bogenschutz takabayashi zhu torii 
+scream ice1 scream2 specify three cell state transitional step lead arabidopsis stomatal differentiation 
+plant cell 
+kenrick crane 
+the origin early evolution plant land 
+khanna huq kikis sady lanzatella quail 
+novel molecular recognition motif necessary target photoactivated phytochrome signal speciﬁc basic helixloop helix transcription factor 
+plant cell 
+kiribuchi sugimori takeda 
+rerj1 jasmonic acid responsive gene rice encodes basic helix loop helix protein 
+biochem biophys res commun 
+koini alvey allen tilley harberd whitelam franklin 
+high temperature mediate adaptation plant architecture require bhlh transcription factor pif4 
+curr biol 
+komatsu maekawa ujiie satake furutani okamoto shimamoto kyozuka 
+lax spa major regulator shoot branch rice 
+proc natl acad sci usa 
+kondou nakazawa kawashima 
+retarded growth embryo1 new basic helix loophelix protein express endosperm control embryo growth 
+plant physiol 
+ledent paquet vervoort 
+phylogenetic analysis human basic helix loop helix protein 
+genome biol 
+ledent vervoort 
+the basic helix loop helix protein family comparative genomics phylogenetic analysis 
+genome re 
+lee lee yang kim park kim soh 
+overexpression pre1 homologous gene activates gibberellin dependent response arabidopsis thaliana 
+plant cell physiol 
+leivar monte sady carle storer alonso ecker quail 
+the arabidopsis phytochrome interact factor pif7 together pif3 pif4 regulate response prolong red light modulate phyb level 
+plant cell 
+lewis mccourt 
+green algae origin land plant 
+sun jiang 
+the bhlh type transcription factor ataib positively regulate aba response arabidopsis 
+plant mol biol 
+zhang liu 
+the rice tapetum degeneration retardation gene require tapetum degradation anther development 
+plant cell 
+duan jiang 
+genome wide analysis basic helix loop helix transcription factor family rice arabidopsis 
+plant physiol 
+liljegren roeder ahk kempin gremski østergaard guimil reyes yanofsky 
+control fruit pattern arabidopsis indehiscent 
+ling bauer bereczky keller ganal 
+the tomato fer gene encode bhlh protein control iron uptake response root 
+proc natl acad sci usa 
+liu klejnot yang lisiero lin 
+photoexcited cry2 interacts cib1 regulate transcription ﬂoral initiation arabidopsis 
+liu ohashi ito bergmann 
+orthologs arabidopsis thaliana stomatal bhlh gene regulation stomatal development grass 
+lorenzo chico sanchez serrano solano 
+jasmonate insensitive1 encode myc transcription factor essential discriminate different jasmonate regulate defense response arabidopsis 
+plant cell 
+ludwig habera dellaporta wessler 
+member maize gene family responsible tissue speciﬁc anthocyanin production encode protein similar transcript activator contain myc homology region 
+proc natl acad sci usa 
+mart ınez garc huq quail 
+direct target light signal promoter element bound transcription factor 
+massari murre 
+helix loop helix proteins regulator transcription eucaryotic organism 
+mol cell biol 
+matsushima fukao nishimura hara nishimura 
+nai1 gene encodes basic helix loop helix type putative transcription factor regulate formation endoplasm reticulum derive structure body 
+plant cell 
+matsuzaki misumi shin 
+genome sequence ultrasmall unicellular red alga cyanidioschyzon merolae 10d 
+menand jouannic hoffmann ryan linstead schaefer dolan 
+ancient mechanism control development cell root function land plant 
+merchant prochnik vallon 
+the chlamydomonas genome reveals evolution key animal plant function 
+morgenstern atchley 
+evolution bhlh transcription factor modular evolution domain shufﬂing 
+mol biol evol 
+pires dolan doi molbev msp288 
+murre mccaw baltimore 
+new dna bind dimer motif immunoglobulin enhancer bind daughterless myod myc protein 
+stomatal development new signal fate determinant 
+curr opin plant biol 
+nesi debeaujon jond pelletier caboche lepiniec 
+the tt8 gene encodes basic helix loop helix domain protein require expression dfr ban gene arabidopsis silique 
+plant cell 
+ohashi ito bergmann 
+regulation arabidopsis root vascular initial population lonesome highway 
+pagnussat ngo rajani mayalagu johnson capron xie sundaresan 
+genetic molecular identiﬁcation gene require female gametophyte development function arabidopsis 
+palenik grimwood aerts 
+the tiny eukaryote ostreococcus provide genomic insight paradox plankton speciation 
+proc natl acad sci usa 
+payne zhang lloyd 
+gl3 encodes bhlh protein regulate trichome development arabidopsis interaction gl1 ttg1 
+penﬁeld joss kannangara gilday halliday graham 
+cold light control seed germination bhlh transcription factor spatula 
+curr biol 
+qian tan liu gao 
+identiﬁcation bhlh type box bind factor regulation activity box box element pschs1 promoter 
+plant cell rep 
+quattrocchio wing van der woude mol koes 
+analysis bhlh myb domain protein specie speciﬁc regulatory difference cause divergent evolution target anthocyanin gene 
+rajani sundaresan 
+the arabidopsis myc bhlh gene alcatraz enables cell separation fruit dehiscence 
+curr biol 
+rampey woodward hobbs tierney lahner salt bartel 
+arabidopsis basic helix loop helix leucine zipper protein modulate metal homeostasis auxin conjugate responsiveness 
+ramsay glover 
+myb bhlh wd40 protein complex evolution cellular diversity 
+trend plant sci 
+robinson lope 
+saccharomyces cerevisiae basic helixloop helix proteins regulate diverse biological process 
+nucleic acid re 
+rodr ıguez ezpeleta brinkmann burey roure burger ffelhardt bohnert philippe lang 
+monophyly primary photosynthetic eukaryote green plant red algae glaucophytes 
+curr biol 
+roig villanova bou torrent galstyan carretero paulet portoles rodriguez concepcion martinez garcia 
+interaction shade avoidance auxin response role two novel atypical bhlh protein 
+sakamoto ohmori kageyama miyazaki saito murata noda maekawa 
+the purple leaf locus rice plw allele complex organization include two gene encode basic helix loop helix proteins involve anthocyanin biosynthesis 
+plant cell physiol 
+schuster bockler schultz rahmann 
+hmm logo visualization protein family 
+bmc bioinformatics 
+emerge parallel stomatal muscle cell lineage 
+plant physiol 
+shiu shih 
+transcription factor family much high expansion rate plant animal 
+plant physiol 
+simionato ledent richards thomas chollier kerner coornaert degnan vervoort 
+origin diversiﬁcation basic helix loop helix gene family metazoan insight comparative genomics 
+bmc evol biol 
+sorensen kro ber unte huijser dekker saedler 
+the arabidopsis abort microspore ams gene encodes myc class transcription factor 
+spelt quattrocchio mol jnm koes 
+anthocyanin1 petunia encode basic helix loop helix protein directly activate transcription structural anthocyanin gene 
+plant cell 
+steemans herisse melvin miller paris vernier wellman 
+origin radiation early vascular land plant 
+sweeney thomson pfeil mccouch 
+caught redhanded encodes basic helix loop helix protein conditioning red pericarp rice 
+plant cell 
+phylogenetic analysis use parsimony method 
+sunderland sinauer associate 
+szecsi joly bordji varaud cock duma bendahmane 
+bigpetalp bhlh transcription factor involve control arabidopsis petal size 
+toledo ortiz huq quail 
+the arabidopsis basic helixloop helix transcription factor family 
+plant cell 
+xiong liu tian sun chen 
+transcription factor rice genome wide comparative analysis monocot eudicots 
+plant mol biol 
+yadav mallappa gangappa bhatia chattopadhyay 
+basic helix loop helix transcription factor arabidopsis myc2 act repressor blue light mediate photomorphogenic growth 
+plant cell 
+yang johnston talideh mitchell jeffree goodrich ingram 
+the endosperm speciﬁc zhoupi gene arabidopsis thaliana regulate endosperm breakdown embryonic epidermal development 
+temporal regulation root hair development rhd6 family gene phd thesis 
+norwich university east anglia 
+zhou guo 
+osptf1 novel transcription factor involve tolerance phosphate starvation rice 
+plant physiol 
+yin vafeados tao yoshida asami chory 
+new class transcription factor mediate brassinosteroid regulate gene expression arabidopsis 
+yoon hackett ciniglia pinto bhattacharya 
+molecular timeline origin photosynthetic eukaryote 
+mol biol evol 
+yuko reiko nakanishi hiromi takanori michiko satoshi naoko 
+the rice bhlh protein osiro2 essential regulator gene involve uptake fedeﬁcient condition 
+zhang gonzalez zhao payne lloyd 
+network redundant bhlh protein function ttg1 dependent pathway arabidopsis 
+zhang sun timofejeva chen grossniklaus 
+regulation arabidopsis tapetum development function dysfunctional tapetum1 dyt1 encode putative bhlh transcription factor 
+zhu cai wang hong 
+interaction myc protein erebp protein involved transcript regulation rice gene 
+biol chem 

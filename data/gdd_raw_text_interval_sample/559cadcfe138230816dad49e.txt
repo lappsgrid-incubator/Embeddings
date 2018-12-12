@@ -1,0 +1,421 @@
+U.S. DEPARTMENT OF THE INTERIOR U.S. GEOLOGICAL SURVEY
+Composite geophysical model for continental volcanic-hosted epithermal mineralization:
+Cox and Singer mineral deposit models numbered 25b, 25c, 25d, and 25e by
+Doug Klein1 and Viki Bankey1
+Open-file Report 92-389 1992
+This report is preliminary and has not been edited or reviewed for conformity with the U.S. Geological Survey editorial standards. Any use of trade names is for descriptive purposes only and does not imply endorsement by the U.S. Geological Survey.
+Denver, CO
+
+CONTENTS
+
+Page
+
+Summary and explanation .................................................... 1
+
+Geophysical Model ........................................................ 4
+
+A. Geologic setting ................................................... 4
+
+B. Geologic environment definition ......................................... 4
+
+C. Deposit definition .................................................. 4
+
+D. Shape and size of deposit ............................................. 5
+
+£. Physical properties ................................................. 6 Density ..................................................... 6 Porosity .................................................... 6 Susceptibility ................................................. 6 Remanent magnetization .......................................... 6 Resistivity ................................................... 6 Induced polarization ............................................. 6 Seismic p-wave velocity .......................................... 7 Radioelements ................................................ 7 References for physical properties .................................... 7
+F. Remote sensing characteristics .......................................... 8 General References ........................................................ 9
+
+Illustrations Fig. 1 Fig. 2
+Fig. 3
+Fig. 4
+
+Cross-section of a conceptual model for an epithermal vein .............. 12 Data from controlled source electrical surveys across the Golden Cross epithermal vein system on the northern coast of North Island, New Zealand. .............. 13 Data from controlled-source electrical traverses across the Hishikari epithermal vein system in Kyushu, Japan .................................... 14 Audio-magnetotelluric data across part of a caldera ring-fracture-intrusion system, Turkey Creek caldera, southeast Arizona .............................. 15
+
+Summary and Explanation
+Cox and Singer (1986) have presented a catalog that concisely summarizes the geologic, geochemical, oregrade, and total tonnage characteristics for various types of mineral deposits. The catalog contains numerous numbered models that are organized according to the lithotectonic association of each deposit model, and it is intended to aid in mineral resource evaluations under various programs in the U.S. Geological Survey. The lack of geophysical parameters with most deposits is a serious omission. Work is currently in progress (Hoover and others, 1992) that will summarize geophysical characteristics for models corresponding to the Cox and Singer (1986) volume. Our report presents a geophysical summary for a composite of four of the Cox and Singer models for deposits related to subaerial felsic to mafic extrusive rocks. These four models are of the type of deposits classified by Lindgren (1933) as epithermal. These deposits yield precious metals as their chief commodity.
+The Cox and Singer mineral deposit models and model numbers included in the present geophysical composite are: 1) Creede epithermal vein (25b), 2) Comstock epithermal vein (25c), 3) Sado epithermal veins (25d), and 4) quartz-alunite Au-Ag (25e). The Creede and Comstock epithermal vein models (models 25b and c respectively) are of the type often referred to as quartz-adularia, adularia-sericite or low-sulfur vein systems in the literature (Silberman and Berger, 1985; Heald and others, 1987; Henley (1991). The Creede type is distinguished by higher chloride content. The quartz-alunite Au-Ag model, in comparison, is sometimes referred to as a highsulfur system. The Sado epithermal vein model (the Takeno deposit, Japan, being a well described example: Soeda and Watanabe, 1981) is a type chiefly found in Japan, known for silver sulfosalts and tellurides, and usually hosted in thick volcanic sequences. In the western United States, examples of the Sado epithermal vein type of deposit include Bruner, Nevada, and Hayden Hill, High Grade, and Winters, California (Cox and Singer, 1986). We have found no geophysical data across this type of deposit and include it here somewhat arbitrarily. From the description in Soeda and Watanabe, 1981, and Cox and Singer, 1986, this deposit appears to have characteristics shared with other models of our composite, as well as some characteristics of the Cripple Creek Au-Ag-Te deposit type. Closely allied deposits to those within our composite model in terms of geophysical signature include polymetallic veins containing sulfide ores of various base metals, hot springs Au-Ag deposits, and epithermal deposits of Au-AgTe, such as Cripple Creek, Colorado. Cripple Creek, although peripheral to our composite model, was the locality of one of the earlier gravity and magnetic studies across an epithermal system (Kleinkopf and others, 1970).
+Mineral deposit models 25b, 25c, 25d, and 25e are discriminated in the Cox and Singer volume (1986) largely by geochemical signatures, petrology, or alteration variations that reflect compositional characteristics of the basement or magmatic source region or both. The geophysical signature of such compositional variation is subtle and unlikely to be detected with confidence using current geophysical methods. For these models, the major petrologic and structural characteristics that geophysics may discern are quite similar; thus, a composite model appears appropriate. Exceptions will be found; for example, compared to models 25b, 25c, and 25d, higher fractions of metallic sulfides are expected at certain levels in the epithermal quartz-alunite Au-Ag (Cox and Singer model 25e; also known as an "acid-sulfate" type of epithermal mineralization). Higher sulfur content may be expressed as greater pyritization, which will affect the electrical resistivity and especially the induced polarization response significantly. We believe, however, that specific variations such as these can easily be incorporated into the thinking of users of the generalized composite model presented.
+The composite model is presented on the following pages in a format developed by the Branch of Geophysics (Hoover and others, 1992). The model description in this format is mostly self-explanatory. However, we provide some comments below that may clarify certain aspects of the composite model.
+We relied on numerous sources of data to describe the geologic environment of the ore deposit (part B in the following model). Many of these sources relate to regional surveys across volcanic centers of the western United States. On a broad scale, it did not appear important that some of these volcanic areas have no known or producing ore deposits. For data on environments elsewhere, Irvine and Smith (1990) and Allis (1990) are recommended reading. They provide excellent summaries of the exploration data across volcanic regions and across
+
+specific epithermal prospects or deposits located mostly in the western and southwestern Pacific areas, including examples from New Zealand and Japan.
+For the western United States, in contrast to a rather extensive literature on regional geophysical characteristics of volcanic environments, there is a relative sparsity of open literature on geophysics on the scale of individual deposits (see the conceptual geologic model in figure 1). Thus, to describe the geophysics on deposit scale (part C in the following section), particularly for electrical methods, we rely chiefly on recent and welldescribed examples from New Zealand and Japan. Our figures 2 and 3 are drawn from the literature on the Hishikari deposit of Japan, and the Golden Cross deposit of New Zealand. The Hishikari deposit (figure 3) is associated with a contemporary hydrothermal system and shows anomalously low resistivities due to the electrically conductive hot pore water. Nevertheless, the deeper penetrating (lower frequency) data at the Hishikari deposit show a qualitative resistivity pattern (higher resistivity over the silicified vein system) typical of other deposits where the hydrothermal system has long been inactive (figs. 1 and 3). Figure 4 is from the southwestern United States, taken from recent work across part of the Turkey Creek Caldera (Senterfit and Klein, 1992). Negligible mineralization has been discovered here; the results illustrate that a signature similar to that over mineralized veins can be found in relatively barren ring-intrusive environments. This highlights a warning often repeated (Allis, 1990; Irvine and Smith, 1990) that geophysical signatures in an epithermal setting (and elsewhere) are non-unique and exploration must involve multidisciplinary efforts.
+Figures 2 and 3 show dipole-dipoleresistivity and induced polarization (I.P.) responses as well as resistivity from electromagnetic surveys. The difference in units of measure for I.P. in figures 2 and 3 reflects details in the method of measurement (Telford and others, 1976, p. 708). Both time-domain I.P. measurements (units of msec) and frequency domain measurements (units of percent, or alteratively, mV/V) are commonly reported for I.P. results. There is no simple transformation from one set of units to the other unless the experimental data is completely available, which is uncommon. Because of the aforementioned facts, and because the I.P response is dependent on the fraction of disseminated conductors (usually sulfides) that is probably quite variable between deposits, we have not included I.P. in our illustration of an electrical model of figure 1.
+Discussions by Irvine and Smith (1990) and Allis (1990) agree with our view that gravity and magnetic signatures may be quite variable according to particular geologic circumstances of deposit. Thus, at this point we prefer not to present illustrations for gravity and magnetics because they may be generally unrepresentative. For specific cases see Kleinkopf and others, 1979 (Silver Cliff-Rosita Hills area, Colorado); Davis and others, 1971 (Tonopah district, Nevada); Kleinhampl and others, 1975 (Bodie District, California); Ratte" and others, 1979 (Mogollon District, New Mexico); Criss and others, 1985, (Yankee Fork District, Idaho).
+We point out in section C below that remote sensing spectral imaging methods, radioactivity (ground and low-level airborne), and electrical methods all produce relatively predictable signatures, although not unique, over epithermal deposits of the type discussed here. Of these, only electrical methods have capabilities for sensing beneath significant overburden. Examples in the figures thus focus on electrical methods. Although there are deposit-environment dependent variations in electrical properties, particularly induced polarization, the chief characteristic of high-resistivity over the silicified ore zone, accompanied by low-resistivity in the flanking border alteration zones is consistently noted in all examples encountered. Although the characteristic just mentioned appears consistent, it is not necessarily unique to ore-bearing veins, as indicated in fig. 4.
+In developing the size and shape of the model (in the following section D), we consider the critical elements to be: 1) the mineralized (secondary hydrothermal gangue and ore) vein system (or fracture-vein system), 2) the ore zone within the vein system, and 3) the volcanic country rock. We used data from Buchanan (1981) and Heald and others (1987) to establish averages or limits on these elements. The resulting model parameters apply when structural control for the deposit consists of a system of linear faults and fractures. An alternate model could assume structural control that is composed of a roughly cylindrical zone of fracturing and brecciation resulting from tectonic or magmatic doming or collapse. This alternate model is not applicable for the 16 deposits discussed by Heald and others (1987), which had an average length:width ratio of 2.5. These deposits were all contained within
+
+Cox and Singer models 25a, 25b, 25c, and 25e. For horizontal dimensions of the deposit, we used the dimension of ore zones of districts by Heald and others (1987), which we interpreted as the vein systems, in contrast to separated ore concentrations (our definition of ore zones) found within the vein system.
+In part £, we provide a summary table of petrophysical data for the model. Data here are based on average values or probable ranges for small field samples for a large number of samples. We attempted to use linear averages for density, seismic velocity, and porosity, and geometric averages for resistivity, and magnetic properties; however, some references do not specify their method of averaging. Also, we would nominally prefer ranges specified at the 80 or 90 percentile level (Klein and Johnson, 1983; Klein and Wynn, 1984), to exclude outliers from anomalous samples; again, most sources do not provide such data. Queries in part D indicate that few samples were used, or that we provide "guesses" based on experience or inspection of various in-situ measurements (cross-sections or pseudo-sections) from the literature. We have kept the references for section E separate from the general references to facilitate usage of the table.
+Finally, our comments on remote sensing in part F of the model are generalized and brief because this discipline is in an experimental state of rapid and complex evolution (Watson, 1985; Watson and Raines, 1989). Remote sensing has considerable potential for air- or space-craft borne geologic mapping of lithology and structure, primarily in sparsely vegetated areas. The applicability of remote sensing even in vegetated areas has some promise; research in remote sensing encompasses the use of spectral anomalies caused by the modification of vegetation by mineralized or altered soil (Collins and others, 1983). Remote sensing utilizes reflected or emitted electromagnetic energy with wavelengths from about one m (radar) through the infrared band and into the visible band at wavelengths of about 1 micrometer (/*m), and thus has negligible penetration in most terranes. Any information on buried lithology of structure comes from inferences on the distribution of surface materials as inferred from remote sensing images.
+For volcanic-hosted epithermal deposits considered here, the most promising area of remote-sensing application on deposit or district scale is surface alteration mapping. Current spatial resolution of such mapping is about 30 to 130 m (Watson and others, 1990; Watson and Raines, 1989). Traditionally, the approach has been to utilize the anomalous absorption bands of ferric iron, water, and hydroxyl complexes in the reflected energy band of .45 to 2.40 /-cm (Rowan and others, 1974, 1977; Collins, 1978) to identify areas of surface oxidation ("limonite mapping" in Watson and Raines, 1989). More recently, improved airborne instrumentation has produced narrowband spectral resolution; this plus improved spectral information from laboratory studies of rocks and minerals promises identification of spectra of minerals specific to alteration versus other sources of hydrated iron compounds (Hunt, 1979; Hunt and Ashley, 1979, Hunt, 1989, Watson and Raines, 1989). Watson and others (1990) have presented data from the Carlin deposit area (sediment-hosted epithermal Au deposit) that points to the possibility of mapping silicified zones in volcanic rocks. These data were acquired with an airborne system utilizing the infrared region and is a substantial departure from previous approaches in alteration mapping.
+We have found few published case histories that actually fulfill the promise of alteration mapping by remote sensing across epithermal deposits or prospects, and none for structural application. We point to the Goldfield quartz-alunite Au-Ag district (Nevada), and the nearby Cuprite deposit which has served as a testing ground for many of the approaches to alteration mapping by remote sensing (Abrams and others, 1977; Rowan and others, 1974, 1977; Collins, 1978). There is also a valuable study of alteration mapping in the Marysvale volcanic-hosted epithermal district in Utah which is most noted for volcanogenic uranium (Podwysocki and others, 1983). A briefer study, but valuable because it is over a quartz-adularia style deposit, is reported by Magee and others, 1986, for the Steeple Rock District, southeast Arizona-southwest New Mexico. One of the few cases where a full generalized geologic mapping interpretation was presented is for the Rodaiquilar quartz-alunite precious metal district in Spain (Moore and Liu, 1990).
+
+COMPOSITE GEOPHYSICAL MODEL OF CREEDE, COMSTOCK, SADO, GOLDFIELD AND RELATED EPITHERMAL PRECIOUS METAL DEPOSITS
+COX AND SINGER MODELS: Creede epithermal vein (25b), Comstock epithermal vein (25c), Sado epithermal veins (25d), and quartzalunite Au-Ag (25e).
+Models with related geophysical characteristics (Cox and Singer, 1986): Au-Ag-Te veins (22b), Polymetallic veins (22c), Hot springs Au-Ag (25a).
+COMPILERS - Doug Klein and Viki Bankey
+A. Geologic setting (Cox and Singer, 1986) Continental, usually mid-Tertiary, felsic volcanic centers. Faulted, fractured, and brecciated, andesitic to rhyolitic lavas and tuffs, hypabyssal, porphyritic dacite to quartz monzonite intrusions. Deposits occur in the edifice of volcanic morphologic features, often near edge of volcanic center, or above or peripheral to intrusions. Deposits commonly cluster along regional fault systems, fault intersections, and related fracture zones. Commonly associated with resurgent caldera structural boundaries. Commodities: Au, Ag, Cu, Pb, Zn
+B. Geologic Environment Definition Gravity lows are common over thick silicic volcanic rock sequences and caldrons. The presence of a
+deep, low-density granitic batholith within the basement rocks may contribute to the gravity low. (Ratte* and others, 1979; Plouff and Pakiser, 1972, Steven and Eaton, 1975; Cordell and others, 1985)
+Short-wavelength magnetic anomalies are common over volcanic terranes because of variable magnetizations and polarizations. This pattern may contrast with an area of moderate to intense alteration that will display a longer-wavelength low, often linear in the case of vein systems, caused by destruction of magnetite. Local highs may be associated with hypabyssal intrusions. (Ratte* and others, 1979; Wynn and Bhattacharyya, 1977; Irvine and Smith, 1990, Doyle, 1990).
+Radiometric highs may occur from regional potassic enrichment associated with silicic magmatism. Oxidized exposures of argillic alteration patterns may also be apparent in multi-spectral remote sensing images. (Marsh and McKeon, 1983; Podwysocki and others, 1983; Duval, 1989; Watson, 1985)
+Regional seismic (Vp) velocity for volcanic sequences is low compared to basement rock. Seismic reflections are generally incoherent and noisy because of signal scatter by volcanic layers and structure (Hoffman and Mooney, 1984; McGovem, 1983, Ackermann and others, 1988).
+Regional resistivity is generally low for weathered and altered andesitic to rhyolitic volcanic rocks as compared to high resistivity typical of buried intrusions or uplifted basement or carbonate sedimentary rocks (Frischknecht and others, 1986; Long, 1985; Senterfit and Klein, 1992)
+C. Deposit Definition There are no consistent geophysical signatures to directly identify epithermal vein mineralization.
+However, several geophysical characteristics are diagnostic of favorable structures and alteration. These characteristics are best measured using closely spaced ground measurements. (Irvine and Smith, 1990; Allis, 1990; Doyle, 1990; Johnson and Fujita, 1985; Middleton and Campbell, 1979; Senterfit and Klein, 1992; Zonge and Hughes, 1991)
+Gravity highs will be caused by felsic intrusions within flow or tuff sequences, by structural highs of basement or carbonate rocks within the volcanic sequence, or by silicification of otherwise relatively lowdensity volcanic rock. Weak, local lows may follow zones of brecciation or fracturing. Weak, local highs may be found along dense silicic vein systems hosted by more porous volcanic rocks. On deposit-scale
+
+investigations, high-precision gravity to resolve anomalies of the order of 1 mgal (to 0.5 rarely) would be required. (Irvineand Smith, 1990; Allis, 1990; Criss and others, 1985; Kleinhampl and others, 1975; Ratte* and others, 1979; Locke and De Ronde, 1987)
+Magnetic lows will be associated with alteration; however, discriminating such lows from the background may be difficult on a deposit scale.
+Inferences from both magnetic and gravity signatures may be complicated by the effects of topography, spatial variability in alteration, and hidden faults, dikes and plutons.
+Radiometric anomalies are expected across epithermal veins because of potassic alteration, which is common in the upper levels of veins. (Marsh and McKeon, 1983; Pitkin and Long, 1977).
+Resistivity highs flanked by resistivity lows are characteristic of a simple and idealized quartz-adularia vein system with associated argillic to propylitic alteration. However, mere may be geologic structures and petrologic complications that distort this ideal picture. More generally, resistivity lows will be associated with: 1) sulfides when concentrated and connected at about 5-percent volume or more, 2) argillic alteration, and 3) increased porosity related to wet, open fractures and brecciation. Resistivity highs will be associated with zones of silicification, intrusion, or basement uplifts. (Senterfit and Klein, 1992; Zonge and Hughes, 1990; Irvine and Smith, 1989; Allis, 1990; Doyle, 1990, Frischknecht and others, 1986)
+High induced polarization (IP) will follow zones of disseminated conductors such as metallic sulfides in veins and pyritization in veins, altered zones, or host (Zonge and Hughes, 1991). Other sources of high IP include crystal lithic tuff and certain distributions of clays and zeolites (Sumner, 1976, p. 58).
+
+D. Shape and size of deposit (Buchanan, 1981; Heald and others, 1987):
+
+Element
+
+Shape
+
+Average Size (Range)
+
+Vein system, or district
+
+lenticular, interlaced
+
+3 km (1-9 km) width, 7 km (2-21 km) length, probably 2-4(1) km depth extent.
+
+Ore deposit
+
+lenticular, interlaced, discontinuous
+
+width and length is highly variable, but a fraction (0.2?) of vein system; vertical extent of ore averages 500 m; paleodepths to initiation of ore (relative to original surface) is about 400 m (200 to 700 m).
+
+Alteration halo
+
+generally symmetric with the vein system, but wider on hanging wall, and possibly modified by syn- or post-vein faulting; siphon shape in crosssection, narrowing with depth; capped with siliceous sinter that is often missing because of erosion.
+
+width is of the order of 2 or 3 times the width of the vein system, roughly centered linearly on the vein system, wider on hanging wall if appreciable dip is present.
+
+E. Physical properties
+
+Bracketed values are averages. Source references are indexed with trailing letters. Queried values are guesses.
+
+Property [units]
+
+Deposit [silicic potassic vein]
+
+Alteration A: argillic (illitekaolin) P: propylitic (chlorite-minor kaolin)
+
+Volcanic host
+
+1. density [g/cm3]
+
+quartzite 2.6 (a)
+
+rhyolite [2.5] (a) andesite [2.7] (a) tuffs 1.5-2.5 (b)
+
+2. porosity [percent]
+
+2-5?
+
+5-20?
+
+3-50(/<£y)(fig.22 iny)
+
+3. susceptibility [emu-cgs/cm3]
+
+negligible?
+
+negligible?
+
+rhyolite [.3 x ia3] (c, d); undifferentiated Tertiary volcanic rocks: (Arizona) .05 x ia3 - 5 x 10-3, (northern Montana), [0.7 x 10-3] tf, g).
+
+4. remanent magnetization
+[cgs-emu/cm3]
+
+negligible?
+
+negligible?
+
+undifferentiated Tertiary volcanic rocks: (Arizona): .005 x 10-3 - 100 x 10'3, (northern Montana): [11.1 x 10-3] (f, g).
+
+5. resistivity [ohm-m]
+
+high; greater than 1,000?
+
+A: low; less than 10? P: low; less than 100?
+
+Tertiary volcanic rocks (Arizona): 202,000 (e).
+
+6. Induced polarization (I.P.) [percentfrequency effect:PFE]
+
+PFE > 10 with about 2 or 3-% disseminated sulfides
+
+Tertiary volcanic rocks (Arizona): < 5
+
+7. seismic
+(Vp) velocity [km/s]
+
+quartzite 5.37-5.63 (i)
+
+lower?
+
+8. radio-elements U, Th [ppm]
+
+K: high? U, Th ?
+
+K: high? U, Th ?K:
+
+wet tuffs: 2.61-3.92 (i); rhyolite: [3.27] 2.944.90 (0; volcanic breccia: 4.22 (0; (measurements at 0.1 kb; anisotropy is high (17-26% in some rhyolites with > 10 (measured 1832%) porosity.
+moderate to low? U,Th ?
+
+References for Physical Properties
+a. Olhoeft, G.R., and Johnson, G.R., 1989, Densities of rocks and minerals, in Cannichael, R.S., Practical handbook of physical properties of rocks and mineral: Boca Raton, Fla., CRC Press, p. 141-176.
+b. Healey, D.L., 1966, Gravity and seismic study of Yucca Flat, Nevada Test Site, Nye Country, Nevada in Mining Geophysics, v. 1, Tulsa Oklahoma, p. 84-93.
+c. Malahoff, Alexander, 1969, Magnetic studies over volcanoes, in Hart, P.J., ed., The Earth's crust and upper mantle: American Geophysical Union, Geophysical Monograph 13, Washington D.C., p. 436-446. (citing d)
+d. Modriniak, N., and Studt, F.E., 1959, Geological structure of the Taupo-Tarawera district, New Zealand: Journal of Geology and Geophysics, v.2, p. 654-684.
+e. Strangway, D.W., 1970, Geophysical exploration through geologic cover: Geothermics, Special issue 2, p. 1,231-1,243.
+f. Strangway, D.W., 1967, Magnetic characteristics of rocks, in Mining geophysics, v. 2, Theory: Tulsa, Oklahoma, Society of Exploration Geophysicists, p. 454-473.
+g. Books, K.G., 1962, Remanent magnetism as a contributor to some aeromagnetic anomalies: Geophysics, v. 27, no. 3, p. 359-375.
+h. Brant, A.A., 1966, Geophysics in the exploration for Arizona porphyry coppers, in Titley, S.R., and Hicks, C.L., eds., Geology of the porphyry copper deposits, southwestern North America: Tucson, Arizona, University of Arizona Press, p. 87-110.
+i: Christensen, N.I., 1989, Seismic velocities, in Cannichael, R.S., Practical handbook of physical properties of rocks and minerals: Boca Raton, Florida, CRC Press, p. 431-546.
+j: Keller, G.V, 1989, Electrical properties, in Cannichael, R.S., Practical handbook of physical properties of rocks and minerals: Boca Raton, Florida, CRC Press, p. 361-427.
+
+F. Remote sensing characteristics
+In areas of low to moderate cover, remote sensing images in the visible and infrared bands can be processed to identify exposures of oxidized argillic alteration, and anomalous siliciMcation, although there is considerable room for non-unique discriminations for moderate to low-spectral-resolution systems (Rowan and others, 1974, 1977; Podwysocki and others, 1983; Watson, 1985, Watson, 1990, Raines and Watson, 1990). The basis of such discrimination are the following:
+a) In the visible through infrared wave-spectrum, ferric iron, water, and hydroxyl complexes have narrow (about 0.1 /tin) and characteristic reflective minimums between 0.4 and 2.4 /xm (Rowan and others, 1977).
+b) Silica-rich assemblages have emissivity minimums near 8-10 /tm (Watson and others, 1990). c) These reflective and emissivity minimums can distinguished with moderate resolution (0.1 jim) airborne- or spacecraft spectral scanners. There are often distinctive spectral waveforms for other minerals and mineral assemblages (Hunt, 1989), that require high-resolution (.01 to .001 /tm), spectral scanners, currently available only on airborne systems (Watson and Raines, 1989).
+
+General References
+Abrams, M.J., Ashley, R.P., Rowan, L.C., Goetz, A.F.H., and Kahle, A.B., 1977, Mapping of hydrothennal alteration in the Cuprite miing district, Nevada, using aircraft scanner images for the spectral region 0.46 to 2.36 /*: Geology, v. 5, p. 723-718.
+Ackermann, H.D., Mooney, W.D., Snyder, D.B., and Sutton, V.D., 1988, Preliminary interpretation of seismic-refraction and gravity studies west of Yucca Mountain, Nevada and California, in Carr, M.D., and Yount, J.C., Geologic and hydrologic investigations of a potential nuclear waste disposal site at Yucca Mountain, southern Nevada: U.S. Geological Survey Bulletin 1790, p. 23-33.
+Allis, R.G., 1990, Geophysical anomalies over epithennal systems. J. Geochem. Explor., v.36, p.339-374. Buchanan, L.J., 1981, Precious metal deposits associated with volcanic environments in the southwest in
+Dickinson, W.R. and Payne, W.D., eds., Relations of tectonics to ore deposits in the southern Cordillera: Arizona Geological Society Digest, v. 14, p. 237-262. Collins, William, 1978, Analysis of airborne spectroradiometric data and the use of Landsaat data for mapping hydrothennal alteration: Geophysics, v. 43, no. 5, p. 967-987. Collins, William, Change, S.H., Raines, G.L., Channey, F., and Ashley, R., 1983, Airborne biogeochemical mapping of hidden mineral deposits. Econ. Geol. v. 78, p. 737-749. Cordell, Lindrith, Long, C.L., and Jones, D.W., 1985, Geophysical expression of the batholith beneath Questa Caldera, New Mexico: Journal of Geophysical Research., v.90, no. B13, p. 11,263-11,269. Cox, D.P., and Singer, D.A., eds., 1986, Mineral deposit models: U.S. Geological Survey Bulletin 1693, 379 PCriss, R.E., Champion, D.E., and Mclntyre, D.H., 1985, Oxygen isotope, aeromagnetic and gravity anomalies associated with hydrothermally altered zones in the Yankee Fork mining district, Custer County, Idaho: Economic Geology, v. 68, p. 145-160. Davis, W.E., Kleinhampl, F.J., and Ziony, J.I., 1971, Aeromagnetic and generalized geologic map of the San Antonio Mountains, Nevada. U.S. Geological Survey Geophysical Investigations Map GP-744, scale 1:125,000. Doyle, H.A., 1990, Geophysical exploration for gold a review: Geophysics, v. 55, no. 2, p. 134-146. Duval, J.S., 1989, Aerial gamma-ray color contour maps of regional surface concentrations of potassium, uranium, and thorium, and composite-color maps of U, K, Th, and their ratios in New Mexico: U.S. Geological Survey Geophysical Investigations Map GP-979, scale 1:1,000,000. Frischknecht, F.C., Smith, B.D., and Hoover, D.B., 1986, New applications of geoelectrical methods in mineral resource assessments in Cargill, S.M., and Green, S.B., eds., Prospects for mineral resource assessments on public lands: Proceedings of the Leesburg Workshop: U.S. Geological Survey Circular 980, p. 221-247. Hay, K.R., 1986, Exploration case history of the Golden Cross gold deposit, Waihi, New Zealand. Paper presented at AUSIMM conference, Taupo, New Zealand, 1986, Australas. Inst. Min. Metall. Publ., 15 PHeald, P., Foley, N.K., and Hayba, D.O., 1987, Comparative anatomy of volcanic-hosted epithennal deposits: acid-sulfate and adularia-sericite types: Economic Geology, v. 82, no.l, p. 1-26. Henley, R.W., 1991, Epithennal gold deposits in volcanic terranes in Foster, R.P., ed., 1991, Gold metallogeny and exploration: Glasgow and London, Blackie, p. 133-164. Hoffman, L.R., and Mooney, W.D., 1984, A seismic study of Yucca Mountain and vicinity, southern Nevadadata report and preliminary results: U.S. Geological Survey Open-File Report 83-588, 50 p. Hoover, D.B., Heran, W.D., and Hill, P.L., 1992, The geophysical expression of selected mineral deposit models: U.S. Geological Survey Open-File Report 92-557, 15 p. Hunt, G.R., 1977, Spectral signatures of particulate minerals in the visible and near infrared: Geophysics, v. 42, no. 3, p. 501-513. Hunt, G.R., 1989, Spectroscopic properties of rocks and minerals, Section IX in Carmichael, R.S., ed., Practical Handbook of Physical Properties of Rocks and Minerals, Boca Raton, Florida, CRC Press, p. 597-669.
+
+Hunt, G.R., and Ashley, R.P., 1979, Spectra of altered rocks in the visible and near-infrared: Economic Geology, v. 74, p. 1,613-1,680.
+Irvine, R.J., and Smith, M.J., 1990, Geophysical exploration for epithermal gold deposits: Journal of Geochemical Exploration, v. 36, no. 1/3, p. 375-412.
+Johnson, I.M., and Fujita, Minoru, 1985, The Hishikari gold deposit: an airborne EM discovery: Canadian Institute of Mining Metallurgy, v. 78, no. 876, p. 61-66.
+Kawasaki,K., Okada,K., and Kubota,R., 1986, Geophysical surveys in the Hishikari mine area. min. Geol., 36, p. 131-147 (in Japanese).
+Klein, D.P., and Johnson, G.R., 1983, Density, porosity, and magnetic properties of rock specimens from southwestern Arizona. U.S. Geological Survey Open-file Report 83-808, 31 p.
+Klein, D.P., and Wynn, J.C., 1984, Density, porosity, and magnetic susceptibility of rocks from the Silver City 1° and 2° quadrangle, Arizona and New Mexico. U.S. Geological Survey Open-file Report 84-017, 9 p.
+Kleinhampl, F.J., Davis, W.E., Silberman, M.L., Chesterman, C.W., Chapman, R.H., Gray, C.H., Jr., 1975, Aeromagnetic and limited gravity studies and generalized geology of the Bodie Hills Region, Nevada and California. U.S. Geological Survey Bulletin 1384, 38 p., plate, scale 1:125,000.
+Kleinkopf, M.D., Peterson, D.L., and Gott, G., 1970, Geophysical studies of the Cripple Creek mining district, Colorado: Geophysics, v. 35, no. 3, p. 490-500.
+Kleinkopf, M.D., Peterson, D.L., and Mattick, R.E., 1979, Gravity, magnetic, and seismic studies of the Silver Cliff and Rosita Hills Volcanic area, Colorado: U.S. Geological Survey Professional Paper 726F, 12 p.
+Lindgren, Waldemar, 1933, Mineral deposits, 4th edition. New York, McGraw-Hill Book Co., 930 p. Locke, C.A., and De Ronde, C.E.J., 1987, Delineation of gold-bearing hydrothermally altered rocks using
+gravity data - a New Zealand example. Geoexploration, v. 24, p. 471-481. Long, C.L., 1985, Regional audio-magnetotelluric study of the Questa Caldera, New Mexico: Journal of
+Geophysical Research, v. 90, p. 11,270-11,274. Magee, R.W., Moore, J.M., and Brunner, J., 1986, Thematic mapper data applied to mapping hydrothermal
+alteration in southwest New Mexico in Cook, J.J., ed., Proceedings of the Fifth Thematic Conference on Remote Sensing of the Environment: Ann Arbor, MI, Environmental Research Institute, v. 1, p. 373-382. Marsh, S.E., and McKeon, J.B., 1983, Integrated analysis of high-resolution field and airborne spectroradiometer data for alteration mapping: Economic Geology, v. 78, p. 618-632. McGovern, T.F., 1983, An evaluation of seismic reflection studies in the Yucca Mountain area, Nevada Test Site: U.S. Geological Survey Open-File Report 83-912. Middleton, R.S., and Campbell, E.E., 1979, Geophysical and geochemical methods for mapping gold-bearing structures in Nicaragua, in Hood, P.M., ed., Geophysics and geochemistry in the search for metallic ores: Proceeding of Exploration '77, Ottawa, Canada, October, 1977. Geological Survey of Canada, Economic Geology Report 31, p. 779-798. Moore, J.M., and Liu, J.G., 1990, Image enhancement of epithermal gold deposit alteration zones in southeast Spain, i/i Remote sensing, an operational technology for the mining and petroleum industries, 1990 conference, London: Great Britain, Institute of Mining and Metallurgy, p. 49-58. Pitkin, J.A., and Long, C.L., 1977, Interpretation of data from an aerial gamma-ray survey in the Cripple Creek district, Teller County, Colorado. U.S. Geological Survey Open-File Report 77-534, 12 p. Plouff, Donald, and Pakiser, L.C., 1972, Gravity study of the San Juan Mountains, Colorado: U.S. Geological Survey Professional Paper 800-B, p. B183-B190. Podwysocki, M.H., Segal, D.B., and Abrams, M.J., 1983, Use of multispectral scanner images for assessment of hydrothermal alteration in the Marysvale, Utah, mining area: Economic Geology, v. 78, p. 675-687. Ratte", J.C., Gaskill, D.L., Eaton, G.P., Stotelmeyer, R.B., and Meeves, H.C., 1979, Mineral resources of the Gila Primitive area and Gila Wilderness, Catron and Grant Counties, New Mexico: U.S. Geological Survey Bulletin 1451, 229 p. Rowan, L.C., Goetz, A.F.H., and Ashley, R.P., 1977, Discrimination of hydrothermally altered and unaltered rocks in visible and near infrared multispectral images: Geophysics, v. 42, no. 3, p. 522-535.
+10
+
+Rowan, L.C., Wetlaufer, P.H., Goetz, F.H., Billingsley, F.C., Steward, J.H., 1974, Discrimination of rock types and detection of hydrothermally altered areas in south-central Nevada by the use of computerenhanced ERTS images. U.S. Geological Survey Professional Paper 883, 35 p.
+Senterfit, R.M., and Klein, D.P., 1992, Audio-magnetotelluric investigation at Turkey Creek Caldera, Chiricahua Mountains, southeastern Arizona:U.S. Geological Survey Bulletin 2012, Chapter K, p. KlK9.
+Silberman, M.L., and Berger, B.R., 1985, Relationship of trace-element patterns to geology in hot-spring type precious-metal deposits in Robertson, J.M., ed., Geology and geochemistry of epithermal systems: Society of Economic Geologists, Reviews in Economic Geology v. 2, p. 203-232.
+Soeda, Akira, and Watanabe, Makato, 1981, Electrum-silver telluride ores of the Takeno mine, Hyogo Prefecture, SW Japan, and their genetic significance: Mining Geology Special Issue 10, p.43-52.
+Steven, T.A., and Eaton, G.P., 1975, Environment of ore deposition in the Creede Mining District, San Juan Mountains, Colorado: Part I. Geologic, hydrologic, and geophysical setting: Economic Geology, v.70, p. 1,023-1,037.
+Sumner, J.S., 1976, Principles of induced polarization for geophysical exploration. New York, Elsevier, 277 p. Telford, W.M, Geldart, L.P., Sheriff, R.E., and Keys, D.A., 1976, Applied geophysics: Cambridge,
+Cambridge University Press, 860 p. Watson, Kenneth, 1985, Remote sensing: a geophysical perspective: Geophysics, v. 50, no. 12, p. 2,595-
+2,610. Watson, Kenneth, and Raines, G.L., 1989, Exploration remote sensing-a look to the future in Garland, G.D.,
+ed., Proceedings of Exploration '87: Third Decennial International Conference on Geophysical and Geochemical Exploration for Minerals and Groundwater, Ontario, Geological Survey of Canada, Special Vol. 3, p. 78-87. Watson, Kenneth, Kruse, F.A., and Hummer-Miller, Susanne, 1990, Thermal infrared exploration in the Carlin trend, northern Nevada: Geophysics, v. 55, no. 1, p. 70-79. Wynn, J.C., and Bhattacharyya, B.K., 1977, Reduction of terrain-induced aeromagnetic anomalies by parallelsurface continuation; a case history from the southern San Juan Mountains of Colorado: Geophysics, v. 42, no. 7, p. 1,431-1,449. Zonge, K.L., and Hughes, L.J., 1991, Controlled source audio-frequency magnetotellurics, in Nabighian, M.N., ed., Electromagnetic methods in applied geophysics, v. 2, Application, Part B, p. 713-809.
+11
+
+EPITHERMAL VEIN
+
+A. GEOLOGIC MODEL
+
+B. RESITIVITY MODEL
+
+HOT SPRINGS SILICIFICATION
+
+ORE MINERALS
+
+1000 - 3000 ohm-m
+
+z o coc 5
+O -? 200
+300 PROPYLITIZATION
+D CO 400
+
+Au in pyrite
+
+ILLITE (SERICITE AT DEPTH)
+Ag
+
+150 - 1000 ohm-m
+
+Au + Ag
+
+150 - 1000 ohm-m
+
+O Ou
+500
+
+VEIN SILICIFICATION Y\Y-r*
+
+1000 - 3000 ohm-m
+
+100 200 300 400 500
+
+100 200 300 400 500
+
+TYPICAL HORIZONTAL DISTANCE (m)
+
+Fig. 1 Cross-section of a conceptual model for an epithermal vein. A) Conceptual model of alteration for an epithermal vein (adapted fro*n Buchanan, 1981; Irvine and Smith, 1990); B) Inferred Electrical resistivity for the model shown in (A).
+12
+
+A. 28E
+
+ALTERATION CROSS-SECTION
+
+30E
+
+32E
+
+34E
+
+36E
+
+400
+
+300
+
+OLDER RHYOLI
+
+ANDESITE FLOWS
+
+200
+
+AND
+
+PYROCLASTIC
+
+100 ROCKS
+
+HIGHEST GOLD SL - GRADE ¥:
+
+INGER ANDESITE Unconformity
+EXPLANATION Unaltered ID Propylilic [\] Argillic Q S,l,cic ^ Quartz veining
+
+NO VERTICAL EXAGGERATION
+
+30E
+
+32E
+
+34E
+
+36E
+
+ALTERATION MAP
+
+C. OBSERVED APPARENT-RESISTIVITY
+
+D. MODELED RESISTIVITY AND DEPTH
+
+2BE
+
+E. OBSERVED APPARENT RESISTIVITY
+CHARGEABILITY (ms)
+
+Fig 2 - Controlled source electrical surveys across the Golden Cross epithermal vein system on the northern coast of North Island, New Zealand (adapted from Zonge and Hughes, 1991; Allis, 1990; Hay, 1986). A) Simplified alteration cross-section. B) Simplified alteration map and location of electrical traverses C) Pseudo-section of apparent resistivity vs. frequency from controlled-source audio-magnetotellunc (CSAMT) traverse D) Depth-resistivity section resulting from inversion of data (C). On (C,D), shallow low-resistivity « 40 ohm-m) marks alteration overlying high-resistivity ( > 250 ohm-m) silicified zone. The vein system is bordered by moderate lows (< 100 ohm-m) indicating the lateral alteration halo. The andesitic to rhyolitic host rocks show resistivities varying from about 5 to 500 ohm-m. E) Pseudo-sections of apparent resistivity and induced polarization (changeability) vs. dipole number (N) from dipole-dipole traverse. Resistivity patterns in (E) are qualitatively similar to C when the diagonal correlations inherent in dipole-dipole pseudosections is considered. IP is relatively high (> 14 ms at dipole 31E) in the upper alteration zone and decreases in the
+silicified zone.
+13
+
+HISHIKARI EPITHERMAL GOLD DEPOSIT, KYUSHU, JAPAN 6 24 26
+
+(a) Geologic section:
+2048 256
+"N 64 I - 32 O 16
+
+2 : 1 VERTICAL EXAGGERATION
+
+III 46 8
+
+II 10 12
+
+I TT
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+14 16 16 20 22 24 26 28 30 32
+
+OBSERVED APPARENT RESISTIVITY (ohm-m)
+
+(b) Resistivity pseudo-section from controlled-source audiomagnetotelluric traverse
+
+NW
+
+METERS
+
+SE
+
+-300 -600 -400 -200 0 200 400 600 600 1000 1200 1400 1600 1600
+
+APPARENT RESISTIVITY (ohm-m)
+
+(c) Resistivity and induced polarization pseudo-sections from dipole-dipole traverse using 50m dipoles with maximum separations (n) of 6.
+Fig. 3 ~ Data from controlled-source electrical traverses across the Hishikari epithermal vein system in Kyushu, Japan (adapted form Zonge and Hughes, 1991; Allis, 1990; Kawasaki and others, 1986). (A) Simplified geologic section across the deposit. B) Pseudo-section of apparent-resistivity versus frequency across the deposit from CSAMT. C) Pseudo-section of apparent resistivity and induced polarization response from dipoledipole traverse. The Hishikari deposit is within an active geothermal system thus resistivities are everywhere reduced because of conductive (enhanced temperature and salinity) pore waters (compare fig.2). Gold mineralization is found in veins in the Shimanto Group. Resistivity variations are associated with variable porosity, alteration, and temperature, with low resistivity found with the upper part of the fracture-vein system, and higher resistivities found at depth where pore-space filling (silification) becomes more important. High IP values across the vein generally correspond to high resistivity. Similar to fig.2, there is symmetry in the IP response, but the higher values, contrary to fig.2, are seen in the deeper part the vein system.
+14
+
+NW 3 i-
+
+BEND * BEND
+SE SW
+
+6 KILOMETERS
+
+* OFFSET 10 NE SW
+
+15 13 4
+
+NE
+
+DEPTH-RESISTIVITY SECTION (contours in ohm-m)
+KILOMETERS Qls | fmp h-Kb «
+(ring Intrusion) 16\ 1 ,51 ,3 f 1,4 ?8
+
+>0,
+
+-2 -
+
+INTERPRETIVE SKETCH OF INFERRED SUB-SURFACE LITHOLOGIES AND STRUCTURES EXPLANATION
+
+Ols Trc Tfr Tl Kb
+Kb-P F BFA 22
+
+Landslide breccia
+
+Tmp Daclte porphyry
+
+Welded tuffs
+
+I Intrusive rocks
+
+Moat lavas and tuffs Welded tuffs and lava flows
+
+\z Intrusive rocks and/or Proterozolc basement
+
+Sedimentary rocks (mostly clastic rocks of Cretaceous age)
+
+Sedimentary rocks (mostly carbonate rocks of Cretaceous and/or Paleozoic age) Fault
+
+Brecclation, faulting and alteration AMT station
+
+Fig. 4 Audio-magnetotelluric data across part of a caldera ring-fracture-intrusion system, Turkey Creek caldera, southeast Arizona. A) Depth-resistivity section from composited 1-D modeling results of natural source audio-magnetotelluric (scalar AMT) data across the northern structural boundary of Turkey Creek Caldera, a middle-Tertiary volcanic center in southeastern Arizona (adapted from Senterfit and Klein, 1992). There are no major mineral deposits known to occur along this traverse, although there is evidence of prospecting. A) Resistivity-depth section formed by contouring composited 1-D inversions at each sounding. B) an interpretation of the electrical section. High-resistivities at stations 4 and 14 are related to a ring-intrusion, with bordering lows inferred to be in part related to alteration. The pattern near this intrusion is very similar to that observed and inferred for epithermal vein deposits (figs 2 and 3). The sources of the resistivity patterns on (A) are related to similar processes that form a mineralized vein system, high-resistivity associated with silicic intrusion and bordering alteration caused by hydrothermal action after intrusion. Although there is the possibility that undiscovered deposits exist here, a key conclusion is that the electrical signature of epithermal systems may not change greatly between barren and mineralized systems.
+15
+
+

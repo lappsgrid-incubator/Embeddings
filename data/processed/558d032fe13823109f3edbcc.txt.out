@@ -1,0 +1,1857 @@
+simulation ground water flow the coastal plain aquifer system north carolina professional paper 
+availability book and map the 
+geological survey instruction order publication geological survey along price last offering give currentyear issue monthly catalog new publication geological survey 
+price available geological survey publication release prior current year list recent annual price availability list 
+publication may list various geological survey catalog see back inside cover list recent annual price availability list may longer available 
+order geological survey publication mail counter office give 
+over the counter 
+book professional paper bulletin water supply paper techniques water resource investigation circular publication general interest leaflet pamphlets booklet single copy preliminary determination epicenter miscellaneous report include forego series go print superintendent document obtainable mail geological survey information service box federal center denver subscription preliminary determination epicenter obtain only superintendent document government print office washington check money order must payable superintendent document 
+map for map address mail order geological survey information service box federal center denver 
+book map book map geological survey available counter follow geological survey earth science information center esic authorized agent superintendent document anchorage alaska 
+university lakewood colorado federal center bldg 
+menlo park california bldg 
+reston virginia usgs national center 
+1c402 sunrise valley salt lake city utah federal bldg 
+south state spokane washington post office bldg 
+west riverside ave washington main interior bldg 
+18th sts map only map may purchase counter follow geological survey office rolla missouri independence 
+simulation ground water flow coastal plain aquifer system north carolina byg 
+eimers andrw 
+coble regional aquifer system analysisnorthern atlantic coastal plain geological survey professional paper 
+department the interior bruce babbitt secretary geological survey gordon eaton director any use trade product firm name publication descriptive purpose imply endorsement government 
+library congress catalog publication data 
+simulation ground water flow coastal plain aquifer system north carolina 
+regional aquifer system analysis geological survey professional paper 
+include bibliographical reference 
+ground water flow north carolina computer simulation 
+eimers leslie 
+coble ronald ronald wimmer 
+series geological survey professional paper 
+gb1197 g54 
+for sale geological survey information service box federal center denver 
+foreword the regional aquifer system analysis program the regional aquifer system analysis rasa program represent systematic effort study number nation important aquifer system aggregate underlie much country represent important component nation total water supply 
+general boundary ofthese study identify hydrologic extent ofeach system accordingly transcend political subdivision investigation often arbitrarily limit past 
+the broad objective study assemble geologic hydrologic geochemical information analyze develop understand ofthe system develop predictive capability contribute effective management system 
+the use ofcomputer simulation important element ofthe rasa study develop understanding natural undisturbed hydrologic system change bring human activity provide mean predict regional effect future pumping stress 
+the final interpretive result rasa program present series geological survey professional paper describe geology hydrology geochemistry regional aquifer system 
+each study within rasa program assign single professional paper number begin professional paper 
+gordon eaton director 
+foreword abstract introduction purpose scope method investigation 
+previous investigation acknowledgment conceptualization aquifer system hydrogeologic framework surficial aquifer yorktown aquifer overlie confine unit pungo river aquifer overlie confine unit castle hayne aquifer overlie confine unit 
+beaufort aquifer overlie confine unit peedee aquifer overlie confine unit black creek aquifer overlie confine unit upper cape fear aquifer overlie confine unit low cape fear aquifer overlie confine unit lower cretaceous aquifer overlie confine unit simulation ground water flow 
+equation ground water flow 
+page page iii simulation ground water flow continue digital model ground water flow m27 grid design model boundary model input ground water recharge streambed leakance tvansmissivity aquifer storage coefficient aquifer leakance confine unit ground water withdrawal time discretization model calibration procedure result saltwater reentrant cape fear arch sensitivity analysis method analysis result hydrologic analysis aquifer system water budget potentiometric surface vertical flow summary conclusion select reference 
+map show study area north carolina coastal plain aquifer system map show northern atlantic coastal plain study area 
+sketch show typical annual water budget north carolina coastal plain hydrogeologic system 
+idealize hydrogeologic cross section show feature ground water flow system hydrogeologic section 
+richmond county brunswick county 
+johnston county pamlico county 
+southampton county currituck county 
+brunswick county onslow county 
+onslow county chowan county map show areal extent 
+yorktown aquifer underlie aquifer basement rock 
+pungo river aquifer overlie aquifer 
+castle hayne aquifer overlie aquifer 
+castle hayne aquifer underlie aquifer 
+beaufort aquifer overlie aquifer 
+beaufort aquifer underlie aquifer 
+peedee aquifer overlie aquifer 
+black creek aquifer overlie aquifer 
+map show areal extent continue 
+upper cape fear aquifer overlie aquifer 
+upper cape fear aquifer underlie aquifer basement rock 
+low cape fear aquifer overlie aquifer 
+low cape fear aquifer underlie aquifer basement rock finite difference grid flow model north carolina coastal plain aquifer system schematic representation model input requirement map show estimate recharge surficial aquifer precipitation map show distribution estimate streambed leakance map show transmissivity use model simulation 
+yorktown aquifer 
+pungo river aquifer 
+castle hayne aquifer 
+beaufort aquifer 
+black creek aquifer 
+upper cape fear aquifer 
+low cape fear aquifer 
+lower cretaceous aquifer map show total effective thickness 
+yorktown confine unit 
+pungo river confine unit 
+castle hayne confine unit 
+beaufort confine unit 
+peedee confine unit 
+black creek confine unit 
+upper cape fear confine unit 
+low cape fear confine unit 
+lower cretaceous confine unit schematic diagram illustrate aquifer eonfining unit pinchout apply model structure map show model derive leakance 
+yorktown confine unit 
+pungo river confine unit 
+castle hayne confine unit 
+beaufort confine unit 
+peedee confine unit 
+black creek confine unit 
+upper cape fear confine unit 
+low cape fear confine unit 
+lower cretaceous confine unit graph show ground water pumpage north carolina coastal plain user gallon per day map show location withdrawal great gallon per day 
+surficial aquifer 
+yorktown aquifer 
+pungo river aquifer 
+castle hayne aquifer 
+beaufort aquifer .........................................................................................«^ 
+peedee aquifer 
+black creek aquifer ..................................................................» 
+upper cape fear aquifer 
+low cape fear aquifer 
+diagram show method compute head node location hydrographs show observe simulated water level 
+yorktown pungo river aquifer 
+castle hayne aquifer creswell observation well dehnr arapahoe research station observation weuu5 ........................................................................................................................................................» 
+beaufort peedee aquifer 
+black creek aquifer usgs observation well 
+upper cape fear lower cape fear aquifer graph show head difference cretaceous sand aquifer due change group transmissivity group leakance model wide storage coefficient map show simulated prepumping water table surficial aquifer 
+page m25 
+map show simulated prepumping potentiometric surface 
+yorktown aquifer 
+pungo river aquifer 
+castle hayne aquifer 
+beaufort aquifer 
+peedee aquifer 
+black creek aquifer 
+upper cape fear aquifer 
+low cape fear aquifer 
+lower cretaceous aquifer map show simulated water table surficial aquifer map show simulated potentiometric surface 
+yorktown aquifer 
+pungo river aquifer 
+castle hayne aquifer 
+beaufort aquifer 
+peedee aquifer 
+black creek aquifer 
+upper cape fear aquifer 
+low cape fear aquifer 
+lower cretaceous aquifer map show simulated year water table surficial aquifer assume percent annual increase pumpage map show simulated year potentiometric surface assume percent annual increase pumpage 
+yorktown aquifer 
+pungo river aquifer 
+castle hayne aquifer 
+beaufort aquifer 
+peedee aquifer 
+black creek aquifer 
+upper cape fear aquifer 
+low cape fear aquifer 
+lower cretaceous aquifer map show net vertical flow water simulate predevelopment condition 
+yorktown confine unit 
+pungo river confine unit 
+castle hayne confine unit 
+beaufort confine unit 
+peedee confine unit 
+black creek confine unit 
+upper cape fear confine unit 
+low cape fear confine unit 
+lower cretaceous confine unit map show net vertical flow water simulate condition 
+yorktown confine unit 
+pungo river confine unit 
+castle hayne confine unit 
+beaufort confine unit ..................................................................» 
+peedee confine unit 
+black creek confine unit 
+upper cape fear confine unit 
+low cape fear confine unit 
+lower cretaceous confine unit 
+page m91 ill 
+viii content table 
+hydrogeologic unit north carolina south carolina virginia coastal plain north carolina ground water pumpage aquifer 
+range vertical hydraulic conductivity confine unit calibrate model summary difference compute observed water level december 
+range perturb value transmissivity leakance 
+range perturb value storage coefficient 
+result sensitivity analysis summary model compute water budget grind water flow system north carolina coastal plain 
+conversion factor and vertical datum 
+multiply inch pound unit inch 
+foot mile foot per mile square foot ft2 square mile mi2 cubic yard yd3 acre foot cubic foot per second ft3 cubic foot per second per square mile gallon per day gal million gallon per day mgal foot per second mile per hour pound avoirdupois ton short ibs 
+length area volume flow velocity mass 
+obtain unit millimeter meter kilometer meter per kilometer square meter square kilometer km2 square meter cubic meter cubic meter cubic meter per second cubic meter per second per square kilometer knr liter per day cubic meter per second nrvs meter per second kilometer per hour kilogram metric ton 
+sea level report sea level refers national geodetic vertical datum ngvd geodetic datum derive general adjustment first order level net united state canada formerly call sea level datum 
+regional aquifer system analysis northern atlantic coastal piain simulation ground water flow the coastal plain aquifer system north carolina 
+abstract three dimensional finite difference digital model use simulate ground water flow square mile aquifer system north carolina coastal plain 
+the model develop hydrogeologic framework base alternate sequence aquifer confine unit make seaward thicken wedge sediment form coastal plain aquifer system state north carolina 
+the model calibrate compare observe simulated water level 
+the model calibration achieve adjust model parameter primarily leakance confine unit transmissivity aquifer difference observe simulated water level within acceptable limit generally within foot 
+the maximum transmissivity individual aquifer calibrate model foot square per day part castle hayne aquifer consist predominantly limestone 
+the maximum value simulate vertical hydraulic conductivity confine unit foot per day part confine unit overlie upper cape fear aquifer 
+the minimum value 1x10 foot per day part confine unit overlie low cape fear aquifer 
+analysis indicate model highly sensitive change transmissivity leakance near pump center away pump center model slightly sensitive change transmissivity moderately sensitive change leakance 
+recharge precipitation surficial aquifer range inch per year area clay surface inch per year area sand surface 
+most recharge move laterally stream inch per year move downward confine part aquifer system 
+under predevelopment condition confine aquifer generally recharge updip interstream area discharge streambed downdip coastward area 
+hydrologic analysis flow system use calibrate model indicated groundwater withdrawal area grind water recharge expand encroach upon major stream valley coastal area 
+simulation pump condition indicate large part former coastal discharge area become area potential actual recharge 
+decline ground water level result water take storage extensive area minimal other 
+hydraulic head decline foot occur northern coastal plain since primarily due withdrawal franklin area virginia 
+decline ground water level great foot occur aquifer central coastal plain due combine effect pumpage public industrial water supply 
+water level decline exceed foot occur beaufort county area withdrawal mining operation water supply chemical plant 
+head decline less foot shallow surficial yorktown aquifer updip part major confine aquifer distant area major withdrawal 
+contribution aquifer storage cubic foot per second percent pumpage percent ground water recharge 
+water budget analysis use model simulation indicate much water remove ground water system pump ultimately make reduction water leave aquifer system discharge streams base flow 
+the reduction stream base flow cubic foot per second represent percent ground water recharge 
+the net reduction streamflow large however pump ground water eventually discharge stream 
+place rock quarry onslow craven county water lose stream recharge water table aquifer 
+simulation period assume percent increase pumpage per year since induced infiltration increase sevenfold cubic foot per second 
+introduction the north carolina coastal plain fig 
+cover area square mile mi2 eastern part state 
+this area include percent state encompasses part county 
+the western boundary study area coincide roughly boundary fenneman coastal plain piedmont province delineate fall line 
+the northern southern boundary coincide virginia south carolina border respectively 
+the eastern boundary though show figure define seaward limit ground water dissolve chloride concentration milligram per liter 
+the north carolina coastal plain eastward dip thicken sequence sand silt clay limestone 
+bed primarily consist sand limestone compose aquifer bed largely consist 
+regional aquifer system analysis northern atlantic coastal plain 
+wxt nct base modify geological survey digital data 
+cope hatteras 
+explanation study area boundary physiographic province physiographic boundary adapt fenneman stuckey heath 
+study area north carolina coastal plain aquifer system 
+clay silt confine unit 
+this sequence aquifer confine unit consider function single aquifer system 
+water derive aquifer north carolina coastal plain aquifer system constitute major source water municipal domestic water supply also important source water industrial agricultural purpose 
+total ground water withdrawal north carolina coastal plain estimate million gallon per day mgal 
+however pumpage ground water north carolina coastal plain adjacent state lead several hydrogeologic problem 
+these problem include lower ground water level area reduction base flow stream creation potential land subsidence movement saltwater contaminate water area use water supply 
+effective planning use ground water coastal plain need provide future watersupply need minimize potentially adverse effect development 
+such planning require detailed qualitative quantitative understanding function ground water flow system response aquifer system exist propose pumping stress 
+help develop understanding subregional investigation aquifer system north carolina coastal plain begin part large regional study northern atlantic 
+coastal plain aquifer system fig 
+both study part geological survey regional aquifer system analysis rasa program 
+the large regional rasa study cover mi2 coastal plain area new york new jersey delaware maryland virginia north carolina 
+other subregional rasa study conduct state coordinate state line 
+the broad objective study similar assemble geologic hydrologic geochemical information analyze develop understand aquifer system develop capability use aid effective management ground water resource 
+the final result northern atlantic coastal plain rasa study describe geological survey professional paper 
+this report chapter professional paper 
+other chapter relate directly chapter list chapter 
+the regional aquifer system underlie northern atlantic coastal plain part north carolina virginia maryland delaware new jersey new york summary 
+chapter the occurrence geochemistry salty ground water northern atlantic coastal plain 
+chapter conceptualization analysis groundwater flow system coastal plain 
+north \«* carolina 
+explanation northern atlantic coastal plain aquifer system axis uplift central arrow point direction plunge physiographic boundary 
+south carolina base modify geological survey digital data 
+mile kilometer 
+the northern atlantic coastal plain study area modify meisler 
+regional aquifer system analysis northern atlantic coastal plain 
+aquifer virginia adjacent part maryland north carolina 
+chapter hydrogeologic framework northern atlantic coastal plain part north carolina virginia maryland delaware new jersey new york 
+hydrogeologic framework north carolina coastal plain 
+chapter geohydrology simulation groundwater flow northern atlantic coastal plain aquifer system 
+chapter geochemistry northern atlantic coastal plain aquifer system 
+purpose and scope the purpose report describe simulation ground water flow coastal plain north carolina condition prior development ground water 
+finite difference ground water flow model apply aquifer intervene confine unit cover part state mi2 coastal plain 
+discussion include model procedure boundary condition calibration sensitivity analysis steady state prepumping condition transient simulation condition 
+result simulation discuss respect change ground water flow show change water budget potentiometric surface aquifer direction ground water flow vertically confine unit 
+result also present simulation year use assume constant increase pump percent per year pumping location 
+method investigation this study conduct three stage 
+the first stage consist development conceptual model ground water flow system north carolina coastal plain 
+this conceptual model base hydrogeologic framework winner coble estimate aquifer confine unit property general concept function system include pattern ground water movement nature system boundaries rate location recharge discharge 
+the second stage study involve mathematical representation aquifer system 
+element conceptual model aquifer system translate numerical data set suitable manipulation mathematical numerical model combination system mathematical equation represent behavior ground water flow system 
+numerical procedure solve equation 
+computer program describe trescott modified leahy use solve govern equation ground water flow 
+simulated water level result model trial compare measured level period determine realistically digital model reproduce actual water level 
+model parameter vary order improve match observe simulated water level reduce error parameter estimate 
+when model reproduce observed water level within acceptable range model consider calibrate 
+for trial set model parameter series three simulation make discussed detail model calibration section report 
+sensitivity analysis perform calibrated model determine general degree improvement model parameter value result model calibration 
+the analysis consist evaluate effect model result cause change model parameter 
+model result show little variation broad range variation give parameter model say insensitive parameter probable calibration process improve estimate parameter 
+conversely model result show great sensitivity give parameter change make parameter improve agreement model result observe water level likely result improved estimate parameter 
+computer printout model parameter use calibrated model file district office geological survey 
+box raleigh 
+the third stage study hydrologic analysis aquifer system predevelopment development condition 
+the analysis involve comparison water level aquifer vertical flow confine unit year predevelopment development 
+predictive analysis also do year assume percent annual increase pumping 
+these three stage largely entirely consecutive time 
+for example work do digital model calibration time reveal need revise previous concept hydrogeologic framework 
+this turn lead revise digital model affect result hydrologic analysis 
+previous investigation winner coble describe hydrogeologic framework north carolina coastal plain use briefly describe report 
+conceptualization the aquifer system 
+eral previous hydrogeologic investigation contribute significantly knowledge hydrogeology north carolina coastal plain sediment mention however reader refer winner coble report complete review investigation 
+clark other report first comprehensive survey geology ground water resource north carolina coastal plain 
+legrand present broad review hydrogeology atlantic gulf coastal plain discuss important hydrologic concept related function ground water reservoir throughout large region 
+brown other identify chronostratigraphic unit less continuous throughout coastal plain new york north carolina 
+basis geophysical log driller log well cutting lithofacies index intrinsic permeability unit map estimate 
+other discussion grind water hydrology multicounty area north carolina coastal plain contain mundorff brown legrand schipf nelson blankenship nelson barksdale harris wilder dewy other floyd peace peek narkunas list select reference section end report 
+publication describe simulation ground water flow coastal plain north carolina limit 
+cosner simulate ground water flow lower cretaceous aquifer southeastern virginia part northeastern north carolina utilizing finite difference model 
+sherwani develop two dimensional finite difference model castle hayne aquifer lee creek area beaufort county primarily tool evaluate effect dewatering operation phosphate mining potentiometric surface 
+laynewestern company develop steady state electric analog model simulate flow cretaceous aquifer system southeastern virginia northeastern north carolina 
+acknowledgment data relate development hydrogeologic framework conceptualization flow system furnished personnel groundwater section division environmental management north carolina department environment health natural resource dehnr 
+the specific individual deserve special thanks perry nelson william jeter carl bailey richard shiver edward berry william bright register 
+conceptualization the aquifer system report conceptual model ground water flow system north carolina coastal plain present partly qualitative fashion 
+general idea discuss concern function aquifer system particularly way recharge discharge occur water move system understanding physical environment flow occur nature system boundary 
+the source water aquifer system recharge precipitation surficial aquifer part water table condition 
+figure illustrate generalized water budget typical location north carolina coastal plain wilder other 
+the budget show figure represent predevelopment steady state condition water enter aquifer system equal water leave 
+precipitation inch per year 
+amount inch 
+lose evapotranspiration 
+lose overland runoff 
+infiltrates water table fig 
+move laterally stream 
+less move vertically confine unit confine ground water flow system 
+water generally move confine aquifer interstream area 
+downdip coastward area fig 
+generally move confine aquifer streambed large river sound ocean 
+for modeling purpose flow confine unit consider primarily vertical show figure flow aquifer consider horizontal 
+the unconsolidated coastal plain aquifer system underlain crystalline basement rock low permeability 
+assume little significant exchange water basement rock coastal plain aquifer therefore top basement rock consider flow boundary aquifer system 
+fresh ground water coastal plain aquifer usually grade saltwater near coastline 
+point aquifer effect saltwater density balance freshwater head potential ground water movement become insignificant 
+study assume occur point chloride concentration ground water 
+the seaward limit ground water contain less chloride give meisler consider flow boundary 
+the hydrogeologic framework winner coble coastal plain north carolina 
+regional aquifer system analysis northern atlantic coastal plain total precipitation inch per year 
+evapotranspiration inch per year land surface 
+overland runoff stream inch per year 
+unconfined surficial aquifer 
+ground water seepage streams inch per year 
+confine unit 
+seepage large river sound ocean inch per year 
+confine aquifer confine unit 
+deep percolation inch per year 
+typical annual water budget north carolina coastal plain hydrogeologic system modify wild other 
+conceptualization the aquifer system 
+general area recharge 
+general area discharge 
+etr surface confine aquifer sea level not scale figure 
+idealize hydrogeologic cross section show feature ground water flow system 
+arrow indicate general direction ground water flow 
+regional aquifer system analysis northern atlantic coastal plain 
+line following section report serve primary basis initial numerical representation flow system digital model 
+other aspect conceptual model flow system include recharge discharge movement water system nature system boundary discuss later report relate digital flow model 
+hydrogeologic framework the hydrogeologic framework present winner coble consist aquifer confine unit table 
+however hydrogeologic unit occur everywhere north carolina coastal plain 
+equivalent hydrogeologic unit neighbor state also show table although 
+hydrogeologic unit north carolina south carolina virginia coastal plain modify winner coble 
+virginia hydrogeologic unit 
+north carolina hydrogeologic unit 
+model layer south carolina hydrogeologic units2 number 
+columbia aquifer 
+surficial aquifer 
+a10 surficial aquifer 
+yorktown confine unit 
+yorktown confine unit 
+yorktown eastover aquifer 
+yorktown aquifer 
+mary confine unit marys choptank aquifer 
+pungo river confine unit pungo river aquifer 
+calvert confine unit chickahominy piney point aquifer nanjemoy marlboro clay confine unit aquia aquifer brightseat confining unit4 
+castle hayne confine unit castle hayne aquifer beaufort confine unit beaufort aquifer 
+cut hydrogeologic unit equivalent cu6 north carolina unit present northeastern south carolina3 
+brightseat aquifer4 hydrogeologic unit equivalent north carolina unit present virginia 
+peedee confine unit peedee aquifer 
+virginia beach confine unit5 virginia beach aquifer5 
+black creek confine unit black creek aquifer 
+cu4 black creek aquifer unnamed confining unit 
+middendorf aquifer 
+upper potomac confine unit 
+upper cape fear confine unit 
+cu3 unnamed confining unit 
+upper potomac aquifer 
+upper cape fear aquifer 
+middle potomac confine unit middle potomac aquifer 
+low cape fear confine unit low cape fear aquifer 
+cu2 cape fear aquifer 
+low potomac confine unit lower potomac aquifer 
+lower cretaceous confine unit6 lower cretaceous aquifer6 
+meng harsh 
+southeastern coastal plain aquifer system aucott other 
+3tertiary equivalent floridan tertiary sand aquifer present central southern south carolina coastal plain aucott other 
+4restricted northern virginia present along north carolina virginia boundary 
+hamilton larson 
+6restricted northern north carolina present along north carolina south carolina boundary 
+hydrogeologic framework 
+kilometer vertical scale greatly exaggerated figure 
+hydrogeologic section richmond county brunswick county modify winner coble 
+present respective border north carolina 
+for convenience construct digital model ground water flow system hydrogeologic unit sometimes abbreviate use letter number show table 
+aquifer number low unit upward confine unit designation take aquifer overlie 
+thus aquifer lowermost aquifer confine unit overlie gui 
+these designation refer frequently report 
+select hydrogeologic section adapt winner coble show distribution aquifer confine unit throughout north carolina coastal plain fig 
+the idealized section show thicken thin pinchouts typical hydrogeologic unit study area 
+confine unit consider terminate limit underlie aquifer 
+these relation build model process reader refer winner coble 
+detailed geologic hydrologic description 
+brief description hydrogeologic unit present section 
+surficial aquifer the surficial aquifer a10 overlies north carolina coastal plain fig 
+consists fine sand silt clay shell soil residuum peat bed 
+scatter deposit coarser grained sediment unit occur relict beach ridge alluvium 
+throughout western central part coastal plain thickness surficial aquifer range foot foot however aquifer thickens eastward thick vicinity outer bank 
+the sediment surficial aquifer primarily post yorktown age restrict single geologic unit term age lithology winner coble 
+m10 regional aquifer system analysis northern atlantic coastal plain 
+mile kilometer 
+surficial aquifer a10 
+yorktown pungo river confining 
+unit cu9 
+castle hayne confine unit cu7 pungo river unit cu8 yorktown 
+rsib aquifer 
+hydrogeologic section johnston county pamlico county modify winner coble 
+hydrogeologic framework 
+hydrogeologic section southampton county currituck county modify winner coble 
+m12 regional aquifer system analysis northern atlantic coastal plain kilometer kilometer vertical scale greatly exaggerated figure 
+hydrogeologic section brunswick county onslow county modify winner coble 
+north carolina mile kilometer 
+surficial aquifer a10 
+land surface 
+yorkt9wn confine unit cjj9 surficial aquifer a10 
+castle hayne aquifer beaufort confine unit cu6 beaufort aquifer peedee confine unit cu5 
+castle hayne confine unit cu7 peedee aquifer 
+pungo river aquifer 
+black creek aquifer 
+upper cape fear confine unit cu3 
+fear aquifer 
+low cape fear confine unit cu2 
+vertical scale greatly exaggerated figure 
+hydrogeologic section //-£>" onslow county chowan county modify winner coble 
+m14 regional aquifer system analysis northern atlantic coastal plain 
+the surficial aquifer a10 directly overlies confine aquifer one place another exchange water either directly intervene confine bed 
+the surficial aquifer receives direct recharge precipitation source water deeper confine aquifer base flow stream 
+the amount recharge precipitation varies areal depend clay content soil 
+winner coble table estimate average horizontal hydraulic conductivity surficial aquifer foot per day 
+detailed description movement water within surficial aquifer give section entitle model input 
+yorktown aquifer and overlie confine unit the yorktown aquifer equate old bed pliocene yorktown formation clark other extend throughout northern half coastal plain fig 
+fall line overlies crystalline rock similar piedmont eastward beyond coast 
+the yorktown aquifer largely consist fine sand silty clayey sand sand shell shell bed limestone coarse sand bed 
+western coastal plain aquifer relatively thin less thick many place cut erode away large streams flow across area 
+dare county yorktown aquifer attain maximum thickness 
+the yorktown aquifer extend southern half coastal plain except small area robeson county fig 
+large number outlier show brown other 
+figure also show areal extent aquifer underlie yorktown aquifer 
+the surficial aquifer a10 overlies yorktown aquifer everywhere 
+the estimate horizontal hydraulic conductivity yorktown aquifer range average base aquifer test lithologicand geophysical log data well test hole winner coble 
+the yorktown confining unit cu9 overlie yorktown aquifer consist young clay bed yorktown formation place locally may clay bed pleistocene holocene age 
+it thickness average range less thick 
+compose largely clay sandy clay local bed fine sand shell 
+the yorktown confining unit generally consider extend far yorktown aquifer even though stratigraphically equivalent bed may continue beyond aquifer limit 
+pungo river aquifer and overlie confine unit the pungo river aquifer consist permeable part pungo river formation early middle miocene age describe detail kimrey 
+the pungo river aquifer compose fine medium marine sand considerable phosphate content 
+the average horizontal hydraulic conductivity base analysis geophysical log estimate accord winner coble 
+shell fossils present throughout aquifer occasionally bed limestone coarse sand find 
+the pungo river aquifer thin near western northern limit thickness average 
+the aquifer dip eastward thickens vicinity out bank top deep sea level 
+the aquifer overlain everywhere aquifer a10 fig 
+except expose open pit phosphate mine beaufort county 
+the pungo river aquifer underlain everywhere castle hayne aquifer 
+the pungo river confine unit cu8 form upper clay bed pungo river formation contiguous clay lowermost yorktown formation 
+the confine unit range thickness less near western margin beneath currituck county average thickness nearly for area confine unit compose nearly uniform clay contain less percent sand 
+castle hayne aquifer and overlie confine unit the castle hayne aquifer delineate calcareous sediment eocene age equate castle hayne limestone trent formation former usage clark other 
+also part aquifer rock oligocene age designate river bend formation overlie castle hayne brown other lithologically identical hydraulically connect castle hayne limestone 
+the basal part aquifer may consist old contiguous permeable unit local area 
+the areal extent aquifer show figure also show extent overlie aquifer 
+the castle hayne aquifer consist limestone sand minor amount clay deposit marine condition 
+limestone may occur shell limestone dolomitic limestone sandy limestone range loosely consolidate hard recrystallized 
+along western margin aquifer occur near land surface new hanover county craven county 
+eastward aquifer thicken carteret county nearly beneath cape hatteras brown fig 
+area north albemarle 
+hydrogeologic framework virginia north 
+m15 **£^& 
+cape fear mile 
+base modify geological survey digital data 
+kilometer explanation 
+yorktown aquifer present 
+limit designation aquifer confine unit basement rock directly underlie yorktown aquifer 
+pungo river aquifer confine unit 
+black creek aquifer confine unit 
+castle hayne aquifer confine unit 
+upper cape fear aquifer confine unit 
+beaufort aquifer confine unit 
+low cape fear aquifer confine unit 
+peedee aquifer confine unit 
+basement rock 
+areal extent yorktown aquifer underlie aquifer basement rock modify winner coble 
+m16 regional aquifer system analysis northern atlantic coastal plain 
+base modify geological survey digital data 
+pungo river aquifer present 
+limit designation aquifer confine unit directly overlie pungo river aquifer a10 surficial aquifer yorktown aquifer confine unit 
+areal extent pungo river aquifer overlie aquifer modify winner coble 
+hydrogeologic framework 
+north carblfn 
+base modify geological survey digital data 
+explanation castle hayne aquifer present limit designation aquifer confine unit directly overlie castle hayne aquifer a10 surficial aquifer yorktown aquifer confine unit pungo river aquifer confine unit 
+areal extent castle hayne aquifer overlie aquifer modify winner coble 
+m18 regional aquifer system analysis northern atlantic coastal plain 
+sound limestone bed thin nonexistent sediment contain clay 
+the thickness unit average bertie currituck county reach maximum currituck county 
+the castle hayne aquifer productive aquifer north carolina due thickness high percentage permeable limestone sand 
+basis aquifer test lithologic geophysical log data hydraulic conductivity castle hayne aquifer range compose fine sand bulk aquifer porous limestone 
+the thickness castle hayne confine unit cut average exceed gate county along virginia border eastern pamlico carteret county two small area along western limit castle hayne aquifer 
+the confine unit consist bed clay sandy clay clay sandy streak part pungo river formation yorktown formation younger clay 
+the confine unit miss several stream valley south craven county two area northeastern coastal plain 
+addition thinner confine unit cut contains sand thus relatively permeable allows significant vertical leakage castle hayne aquifer overlie aquifer 
+throughout northern eastern area fig 
+castle hayne aquifer confine unit cut directly overlain pungo river aquifer whereas south castle hayne aquifer overlie yorktown surficial aquifer a10 
+the castle hayne aquifer directly underlain beaufort aquifer confine unit cu6 northeast jones onslow county peedee aquifer confine unit cu5 southwest county fig 
+beaufort aquifer and overlie confine unit the dark green gray sand clay identify beaufort formation paleocene age brown later identify rock midwayan age brown other 19t2 make bulk beaufort aquifer extent show figure 
+hydrogeologic unit definition aquifer restrict single geologic formation beaufort aquifer may include part rock unit old beaufort formation winner coble 
+the beaufort aquifer consist fine medium glauconitic sand clayey sand clay bed marine origin 
+shell limestone bed present less thick 
+the thickness beaufort aquifer 
+range less along western limit northern part eastern limit 
+camden currituck county aquifer thin toward east northeast 
+the average horizontal hydraulic conductivity aquifer estimate basis lithologic geophysical log low average value occur northern easternmost part aquifer sand finer aquifer contains clay 
+the beaufort confine unit cu6 consist uppermost sediment beaufort formation possibly young clay silt sandy clay 
+throughout area confine unit show gradation sandy clay clay place contain distinct clay bed interlayered fine sand silt 
+the thickness confine unit range zero average 
+the thicker part confine unit northeast washington county 
+the beaufort aquifer cover entirely young rock fig 
+about percent beaufort aquifer confine unit overlain castle hayne aquifer 
+the remainder overlie yorktown aquifer lenoir county northward fig 
+the upper cape fear black creek peedee aquifer confine unit underlie beaufort aquifer 
+the peedee aquifer confine unit cu5 underlie percent area beaufort aquifer fig 
+peedee aquifer and overlie confine unit the peedee aquifer name upper cretaceous peedee sand clark other peedee formation stephenson rathbun aquifer largely compose 
+the areal extent peedee aquifer overlie unit show figure 
+the peedee aquifer consist fine medium sand interbedded clay silt 
+thin bed consolidate calcareous sandstone impure limestone interlayered among sand place particularly southeastern north carolina coastal plain area 
+shell common throughout unit 
+the top peedee aquifer dip eastward average rate foot per mile dip varies western part deeply bury part along coast 
+the aquifer thickness range zero along western limit along coast southern onslow county south carolina border 
+northeast onslow county maximum thickness aquifer less eastern one third unit contain saltwater 
+the average horizontal hydraulic conductivity peedee aquifer estimate 
+hydrogeologic framework 
+south carolina 
+base modify geological survey digital data 
+explanation castle hayne aquifer present limit designation aquifer confine unit directly underlying castle hayne aquifer 
+beaufort aquifer confine unit peedee aquifer confine unit 
+areal extent castle hayne aquifer underlie aquifer modify winner coble 
+m20 regional aquifer system analysis northern atlantic coastal plain 
+base modify geological survey digital data 
+explanation beaufort aquifer present limit designation aquifer confine unit directly overlie beaufort aquifer yorktown aquifer confine unit castle hayne aquifer confine unit 
+areal extent beaufort aquifer overlie aquifer modify winner coble 
+hydrogeologic framework 
+base modify geological survey digital data 
+explanation beaufort aquifer present limit designation aquifer confine unit directly underlie beaufort aquifer peedee aquifer confine unit black creek aquifer confine unit upper cape fear aquifer confine unit 
+areal extent beaufort aquifer underlie aquifer modify winner coble 
+m22 regional aquifer system analysis northern atlantic coastal plain 
+base modify geological survey digital data 
+explanation peedee aquifer present limit designation aquifer confine unit directly overlie peedee aquifer a10 surficial aquifer yorktown aquifer confine unit castle hayne aquifer confine unit beaufort aquifer confine unit 
+areal extent peedee aquifer overlie aquifer modify winner coble 
+hydrogeologic framework 
+geophysical log winner coble 
+the peedee confine unit cu5 compose clay silty clay sandy clay 
+winner coble identify confine unit particular geologic unit unit consist primarily sediment cenozoic mesozoic boundary 
+the average thickness peedee confine unit 
+eastern part confine unit thickness may reach commonly exceed 
+far east channel large stream cape fear neuse river also cut confine unit allow direct hydraulic connection stream black creek aquifer 
+the thickness confine unit average may thick place eastern part coastal plain 
+upper cape fear aquifer and overlie confine unit 
+black creek aquifer and overlie confine unit the black creek aquifer contain upper cretaceous sediment black creek underlie middendorf formation winner coble 
+the black creek formation consist mainly thinly laminated gray black clay interbedded gray tan sand 
+outcrop also exhibit sand clay dominate lens 
+the middendorf formation consist mainly fine medium sand interbedded silty clay coarser channel sand thinly laminate sand clay 
+the horizontal hydraulic conductivity black creek aquifer estimate winner coble range base geophysical log aquifer test 
+the black creek aquifer confine unit cu4 overlie peedee cu5 beaufort cu6 yorktown cu9 aquifer confine unit surficial aquifer a10 fig 
+the peedee aquifer overlies eastern two third black creek aquifer confine unit 
+the surficial aquifer overlies black creek aquifer confine unit fall line updip limit peedee aquifer southern north carolina coastal plain except small area robeson county overlie yorktown aquifer 
+the yorktown beaufort aquifer overlie black creek aquifer confine unit along western limit northern north carolina coastal plain 
+the black creek confine unit cu4 primarily compose uppermost bed black creek formation consist clay silty clay sandy clay 
+northern part north carolina coastal plain may also contain clay low part beaufort yorktown formation 
+deep subsurface clay lower part peedee formation may also part confine unit 
+sand hill area fig 
+black creek aquifer compose middendorf formation confine unit cu4 consist uppermost clay middendorf formation 
+highly dissect sand hill clay middendorf formation cut many place stream thus black creek confine unit exist 
+winner coble recognize upper cretaceous cape fear formation could separate two distinct hydrogeologic unit largely basis effective confining bed upper low part brunswick adjacent county near south carolina border 
+the sediment upper cape fear aquifer alternate bed sand clay 
+the individual bed commonly thick range thickness 
+the upper cape fear aquifer vary thickness along western edge nearly central tyrrell county 
+the average thickness aquifer slightly 
+the aquifer thick beneath albemarle pamlico peninsula east beaufort washington county 
+the horizontal hydraulic conductivity aquifer estimate geophysical logs average value range winner coble 
+describe winner coble upper cape fear confine unit cu3 consist nearly continuous clay silty clay sandy clay bed belong either middendorf formation sand hill area black creek formation 
+the thickness confine unit average winner coble may exceed place near south carolina border near southeastern corner duplin county dare county 
+along western limit upper cape fear aquifer cape fear neuse river cut confine unit true along tar roanoke river 
+the upper cape fear aquifer confine unit cu3 overlie black creek aquifer percent area fig 
+the yorktown aquifer overlies upper cape fear aquifer northwest beaufort aquifer overlies part gate camden hertford county 
+small patch surficial aquifer a10 overlies upper cape fear aquifer confine unit wayne wilson johnston county 
+the low cape fear aquifer confine unit cu2 underlie upper cape fear aquifer three fourth area fig 
+elsewhere upper cape fear aquifer contact basement rock 
+m24 regional aquifer system analysis northern atlantic coastal plain 
+base modify geological survey digital data 
+explanation black creek aquifer present limit designation aquifer confine unit directly overlie black creek aquifer a10 surficial aquifer yorktown aquifer confine unit beaufort aquifer confine unit peedee aquifer confine unit 
+areal extent black creek aquifer overlie aquifer modify winner coble 
+hydrogeologic framework 
+north carolina 
+base modify geological survey digital data 
+upper cape fear aquifer present 
+limit designation aquifer confine unit directly overlie upper cape fear aquifer ra10 surficial aquifer 
+yorktown aquifer confine unit 
+beaufort aquifer confine unit 
+black creek aquifer confine unit 
+areal extent upper cape fear aquifer overlie aquifer modify winner coble 
+m26 regional aquifer system analysis northern atlantic coastal plain fct foy4 vrjfc 
+base modify geological survey digital data 
+explanation upper cape fear aquifer present limit designation aquifer confine unit basement rock directly underlie upper cape fear aquifer low cape fear aquifer confine unit basement rock 
+areal extent upper cape fear aquifer underlie aquifer basement rock modify winner coble 
+simulation ground water flow 
+low cape fear aquifer and overlie confine unit the low cape fear aquifer consist mostly old sand bed cape fear formation lithologically similar bed describe upper cape fear aquifer 
+southern north carolina coastal plain winner coble view sediment largely regressive phase cape fear formation separate hydrologic identity overlie cape fear sand unit 
+the low cape fear aquifer strike northeast dip southwest rate 
+it extent show figure 
+it thickness range foot along western margin northeastern north carolina coastal plain 
+the average hydraulic conductivity aquifer estimate winner coble geophysical log 
+individual value range 
+the low cape fear confine unit cu2 compose clay sandy clay bed belong largely cape fear formation 
+the average thickness confining unit 
+the confine unit exceed thickness throughout eastern quarter north carolina coastal plain part bertie halifax county thick part pasquotank camden currituck columbus brunswick county 
+the low cape fear aquifer confine unit cu2 overlie upper cape fear aquifer everywhere except small area near fall line northampton county yorktown aquifer overlies fig 
+the low cretaceous aquifer confine unit gui underlie low cape fear aquifer eastern half north carolina coastal plain fig 
+elsewhere low cape fear aquifer lie basement rock 
+lower cretaceous aquifer and overlie confine unit sediment cape fear formation regard investigator belong lower cretaceous series possibly include old rock winner coble 
+thus name lower cretaceous aquifer choose designate hydrogeologic unit lowermost aquifer define study 
+the extent aquifer show figure 
+various investigator establish updip bed lower cretaceous aquifer largely nonmarine origin incidence bed marine origin increase downdip toward coast 
+the nonmarine bed shale sand gravel 
+marine bed chiefly limestone may sandy dolomitic 
+data horizontal hydraulic conductivity lower cretaceous aquifer lack north carolina winner coble inferred work brown cosner hydraulic conductivity unit nearby virginia range north carolina may range 
+the thickness lower cretaceous aquifer range near western limit currituck county 
+the average thickness lower cretaceous aquifer 
+the low cretaceous confine unit gui consist clay sandy clay bed early cretaceous late cretaceous age 
+the thickness unit average nearly camden currituck county 
+the low cretaceous aquifer confine unit overlain everywhere low cape fear aquifer underlain everywhere crystalline basement rock winner coble 
+simulation ground water flow 
+equation ground water flow 
+the basic equation ground water flow use report form 
+jdh use unit time length tjcx principal component transmissivity tensor direction tyy principal component transmissivity tensor direction principal component hydraulic conductivity tensor direction hydraulic head storage coefficient dimensionless thickness hydraulic unit time space coordinate volumetric flux per unit volume 
+the derivation equation explain discussion development may find trescott trescott larson 
+digital model ground water flow the digital model use study solve finite difference form precede ground water flow equation 
+describe leahy 
+leahy model modify version three dimen 
+m28 regional aquifer system analysis northern atlantic coastal plain 
+base modify geological survey digital data 
+explanation lower cape fear aquifer present limit designation aquifer confine unit directly overlie low cape fear aquifer yorktown aquifer confine unit upper cape fear aquifer confine unit 
+areal extent low cape fear aquifer overlie aquifer modify winner coble 
+simulation ground water flow 
+rfgjj da 
+base modify geological survey digital data 
+explanation lower cape fear aquifer present limit designation aquifer confine unit basement rock directly underlie low cape fear aquifer low cretaceous aquifer confine unit basement rock 
+areal extent low cape fear aquifer underlie aquifer basement rock modify winner coble 
+m30 regional aquifer system analysis northern atlantic coastal plain 
+sional finite difference flow model program describe trescott trescott larson 
+the model assume flow aquifer horizontal flow confine unit vertical 
+leahy modification reduces computer memory requirement well simulates confine unit aquifer pinchouts 
+grid design the model area divide rectangular grid layer row column 
+the grid space variable 
+the small rectangle mi2 large mi2 fig 
+this grid design compatible regional model grid describe leahy martin intend simulate entire northern atlantic coastal plain aquifer system rectangle regional grid divide four small local north carolina grid 
+each layer north carolina model rectangular block total block layer 
+the model node locate center block 
+each input value assign node consider average value entire block 
+likewise output value hydraulic head drawdown also average value block 
+assumption inherent approach cartesian coordinate ax align principal component transmissivity tensor model boundaries the confined aquifer thin extinction westernmost limit 
+therefore westernmost limit aquifer treat flow boundary 
+the westernmost limit surficial aquifer a10 coincide westernmost limit north carolina coastal plain study area also treat flow boundary 
+the eastern limit fresh ground water flow system assume equal concentration line water contains chloride line also treat flow boundary 
+the place concentration line occur aquifer within model area refer freshwater saltwater boundary 
+important note assumption consider valid area negligible drawdowns due pump near freshwater saltwater boundary 
+where layer freshwater saltwater boundary occurs outside model area eastern model boundary layer specify flux boundary flux supply regional model 
+report eastern limit 
+aquifer show occur land although aquifer actually model freshwatersaltwater boundary boundary model 
+the upper boundary confine aquifer bottom associate confine unit treat model algorithm head dependent flux boundary 
+the bottom boundary aquifer either head dependent flux boundary another aquifer confine unit present flow boundary bedrock freshwater saltwater boundary underlie aquifer 
+where model area aquifer bound virginia south carolina state border border treat specified flux boundary simulate movement water across state line 
+again flux supply regional model simulate natural flow also induce flow due effect pump inside outside north carolina study area 
+the uppermost active model node location represent stream lake surface elevation treat constant head node lowermost active node give location represent freshwater saltwater boundary bedrock treat flow boundary 
+model input the following section discuss aspect conceptual model aquifer system represent numerically input requirement flow model 
+the model input requirement show schematically figure 
+printout model input calibrate model available geological survey 
+box raleigh 
+many item discuss model input also relate water budget aspect conceptual model aquifer system fig 
+ground water recharge nodal basis recharge surficial aquifer a10 estimate range north carolina coastal plain average nearly 
+each water table node give recharge value base soil characteristic 
+soil conservation service map taut other estimate recharge thick sandy soil heath estimate base flow north carolina coastal plain stream hydrograph separation use technique develop rorabaugh daniel describe wilder simmons 
+maximum recharge rate fig 
+occur sand hill area minimum rate 
+simulation ground water flow 
+base modify geological survey digital data figure 
+finite difference grid flow model north carolina coastal plain aquifer system 
+m32 regional aquifer system analysis northern atlantic coastal plain occur generally east surficial soil high clay content 
+unconfined aquifer 
+confine unit 
+streambed leakance the exchange water surficial aquifer stream streambed express steady state condition unit area basis follow equation expression darcy law 
+first confine aquifer 
+confine unit 
+low confine aquifer explanation model input requirement stream surface lake surface altitude water table altitude recharge water table qre stream channel leakance transmissivity aquifer specific yield storage coefficient aquifer deep percolation effective thickness confine unit vertical hydraulic conductivity confine unit water level data require calibration ground water pumpage flow direction figure 
+schematic representation model input requirement 
+stream base flow ground water contribution streamflow cubic foot per day per square foot ft3 ft2 streambed leakance factor compute ratio vertical hydraulic conductivity streambed material ft3 ft2 thickness streambed material foot yield unit per day estimate altitude water table surficial aquifer foot estimate altitude stream surface foot 
+the average water table altitude low stream altitude within appropriate block estimate geological survey topographic map scale 
+the low stream altitude block choose consider control elevation govern flow surficial aquifer a10 stream system 
+base flow determine follow equation steadystate condition 
+stream base flow cubic foot per day per square foot qre ground water recharge surficial aquifer foot per second deep percolation flow underlie confine aquifer system foot per day 
+ground water recharge qre determine input block describe ground water recharge section report 
+deep percolation calculate block simulation predevelopment steady state condition water table treat constant head boundary 
+average base flow block could calculate equation result base flow value substitute equation solve streambed leakance 
+constant head value equal 
+simulation ground water flow 
+base modify geological survey digital data 
+explanation area recharge estimate area estimate recharge recharge inch per year recharge inch per year recharge inch per year recharge inch per year 
+estimate recharge surficial aquifer a10 precipitation modify winner coble 
+m34 regional aquifer system analysis northern atlantic coastal plain 
+stream altitude value assign node overlie water table 
+this procedure allow fairly realistic simulation water table behavior transient simulation 
+for example water table drawn due pumping confine aquifer base flow stream reduce water table drawn stream level induced infiltration take place stream recharge surficial aquifer 
+the mechanic simulation involve stream streambed leakance discuss detail model calibration section report important point mechanic calculate streambed leakance recognition streambed leakances reflective leakances real streambed represent effective streambed entire block 
+thus model streambed leakances fig 
+much less real streambed leakances 
+the distribution streambed leakance value use model input show figure 
+transmissivtty aquifer transmissivity equal khb horizontal hydraulic conductivity aquifer thickness aquifer 
+the model employ unit foot square per second transmissivity report unit foot square per day ft2 text figure 
+initial estimate transmissivity model input determine primarily examination geophysical log 
+the character permeable material within aquifer interpret logs horizontal hydraulic conductivity value aquifer material assign unit roughly accord guideline give morris johnson table 
+average value determine manner range yorktown aquifer castle hayne aquifer winner coble 
+the hydraulic conductivity multiply thickness permeable material within aquifer arrive transmissivity value 
+clay silt layer include part aquifer thickness compute the character permeable material verify geologist logs available 
+where available appropriate exist aquifer test data use confirm transmissivity value 
+map show transmissivity use model simulation calibration aquifer show figure 
+transmissivities diminish zero western limit unit except surficial aquifer a10 
+maximum transmissivities slightly ft2 occur castle hayne aquifer fig 
+maximum value aquifer seldom 
+exceed ft2 
+the rationale vary transmissivity calibration process discuss model calibration 
+storage coefficient aquifer study storage coefficient value ixlo assign active node confine aquifer unconfined condition value range lxlo 5x10 use 
+result aquifer test north carolina coastal plain indicate ixlo correct order magnitude storage coefficient value confine aquifer 
+leakance confine unit model use study confine unit represent separate layer 
+rather effect vertical flow confine unit incorporate vertical component flow adjacent aquifer use leakance term define ratio confine unit vertical hydraulic conductivity confine unit effective thickness 
+the effective thickness confine unit commonly less total thickness confine unit contain thin layer permeable material 
+the thickness permeable layer within confine unit subtract total confine unit thickness arrive effective thickness 
+winner coble give effective thickness confine unit identify north carolina coastal plain 
+previously mention model assume flow aquifer horizontal flow confine unit vertical 
+recognize however many place within zone designate aquifer material thickness clay significant clay often function impediment vertical flow 
+realistic simulation flow system obtain incorporate effect clay within aquifer leakance term 
+accordingly total effective thickness value confine unit generate fig 
+represent sum effective confine unit thickness one half thickness clay bed aquifer confine unit one half thickness clay bed aquifer confine unit 
+location show figure confine unit designated present particularly stream valley clay within aquifer concept use assign effective clay thickness modeling purpose 
+text continue m54 
+simulation ground water flow 
+base modify geological survey digital data 
+explanation area streambed leakance determine streambed leakance per day less more 
+distribution estimate streambed leakance 
+m36 regional aquifer system analysis northern atlantic coastal plain 
+transmissivity less foot square per day south carolina base modify geological survey digital data 
+cape fear mile kilometer 
+pkc explanation yorktown aquifer present line equal transmissivity interval foot square per day variable 
+transmissivity yorktown aquifer use model simulation 
+simulation ground water flow 
+south carolina base modify geological survey digital data 
+mile kilometer 
+explanation pungo river aquifer present line equal transmissivity interval foot square per day variable 
+figure transmissivity pungo river aquifer use model simulation 
+m38 regional aquifer system analysis northern atlantic coastal plain explanation castle hayne aquifer present line equal transmissivity interval foot square per day variable base modify geological survey digital data figure 
+transmissivity castle hayne aquifer use model simulation 
+north carolina 
+simulation ground water flow 
+m39 cape hatter 
+base modify geological survey digital data 
+explanation beaufort aquifer present aquifer transmissivity determinedwater aquifer contain milligram per liter chloride line equal transmissivity interval foot square per day variable 
+hachured transmissivity less surrounding area 
+transmissivity beaufort aquifer use model simulation 
+m40 regional aquifer system analysis northern atlantic coastal plain north carolina 
+carolina base modify geological survey digital data 
+explanation peedee aquifer present aquifer transmissivity determine water aquifer contain milligram per liter chloride line equal transmissivity interval foot square per day variable 
+hachured transmissivity less surrounding area 
+transmissivity peedee aquifer use model simulation 
+simulation ground water flow virginia 
+north carolina 
+carolina base modify geological survey digital data 
+explanation black creek aquifer present aquifer transmissivity determine water aquifer contain milligram per liter chloride line equal transmissivity interval foot square per day variable 
+hachured transmissivity less surrounding area 
+transmissivity black creek aquifer use model simulation 
+m42 regional aquifer system analysis northern atlantic coastal plain 
+carolina base modify geological survey digital data 
+explanation upper cape fear aquifer present aquifer transmissivity determine water aquifer contain milligram per liter chloride line equal transmissivity interval foot square per day variable 
+hachured transmissivity less surrounding area 
+transmissivity upper cape fear aquifer use model simulation 
+simulation ground water flow 
+south carolina 
+explanation lower cape fear aquifer present 
+aquifer transmissivity determine water aquifer contain milligram per liter chloride line equal transmissivity interval foot square per day variable 
+base modify geological survey digital data 
+transmissivity lower cape fear aquifer use model simulation 
+m44 regional aquifer system analysis northern atlantic coastal plain 
+north carjoljlna 
+ientarle sound 
+south carolina base modify geological survey digital data 
+explanation lower cretaceous aquifer present 
+aquifer transmissivity determine water aquifer contain milligram per liter chloride line equal transmissivity interval foot square per day variable 
+transmissivity lower cretaceous aquifer use model simulation 
+simulation ground water flow 
+total eff thicknes less tha foot explanation yorktown confine unit present line equal total effective thickness interval foot hachured unit thinner surround area base modify geological survey digital data figure total effective thickness yorktown confine unit cu9 
+m46 regional aquifer system analysis northern atlantic coastal plain 
+base modify geological survey digital data 
+iso mile 
+explanation pungo river confine unit present line equal total effective thickness interval foot 
+total effective thickness pungo river confine unit cu8 
+simulation ground water flow 
+south carolina 
+base modify geological survey digital data 
+mile kilometer 
+explanation castle hayne confine unit present line equal total effective thickness interval foot variable 
+total effective thickness castle hayne confine unit cut 
+m48 regional aquifer system analysis northern atlantic coastal plain 
+south carolina base modify geological survey digital data 
+mile kilometer 
+explanation beaufort confine unit present confine unit thickness determine water beaufort aquifer contain milligram per liter chloride line equal total effective thickness interval foot variable 
+hachured unit thinner surround 
+total effective thickness beaufort confine unit cu6 
+simulation ground water flow 
+south carolina base modify geological survey digital data 
+explanation peedee confine unit present confine unit thickness determine water peedee aquifer contain milligram per liter chloride line equal total effective thicknes interval foot variable 
+total effective thickness peedee confine unit cu5 
+m50 regional aquifer system analysis northern atlantic coastal plain 
+south carolina base modify geological survey digital data 
+explanation black creek confine unit present confine unit thickness determine water black creek aquifer contain milligram per liter chloride line equal total effective thickness interval foot 
+hachured unit thinner surround area 
+figure total effective thickness black creek confine unit cu4 
+simulation ground water flow 
+south carolina base modify geological survey digital data 
+explanation upper cape fear confine unit present confine unit thickness determine water upper cape fear aquifer contain milligram per liter chloride line equal total effective thickness interval foot hachured unit thinner surround area 
+total effective thickness upper cape fear confine unit cu3 
+regional aquifer system analysis northern atlantic coastal plain 
+north carjolixa 
+base modify geological survey digital data 
+explanation lower cape fear confine unit present confine unit thickness determine water lower cape fear aquifer contain milligram per liter chloride line equal total effective thickness interval foot 
+hachured unit thinner surround area 
+total effective thickness lower cape fear confine unit cu2 
+simulation ground water flow 
+base modify geological survey digital data 
+explanation lower cretaceous confine unit present confine unit thickness determine water lower cretaceous aquifer contain milligram per liter chloride line equal total effective thickness interval foot 
+total effective thickness lower cretaceous confine unit cui 
+m54 regional aquifer system analysis northern atlantic coastal plain 
+black creek aquifer upper cape fear confine unit cu3 upper cape fear aquifer tower cape fear confine unit cu2 lower cape fear aquifer case pungo river aquifer castle hayne confine unit cu7 castle hayne aquifer 
+equal part number miss aquifer 
+although transmissivity miss aquifer zero location horizontal flow occur modify version trescott flow model use study describe detail leahy allow vertical movement water location 
+the opposite situation confine unit miss two aquifer direct contact case fig 
+this condition simulate arbitrarily assign small confine unit thickness range 
+this occur mostly stream valley surficial aquifer a10 direct contact underlie aquifer result high leakance value 
+notable exception western pamlico sound area pungo river aquifer direct contact underlie castle hayne aquifer 
+the leakance value confine unit calibrate model show figure 
+the rationale vary leakance value calibration discuss model calibration section later report 
+caseb figure 
+schematic diagram illustrate aquifer confine unit pinchout apply model structure 
+initial value represent vertical hydraulic conductivity confine unit material base appraisal confine unit effectiveness derive geophysical log chemical analysis difference head aquifer confine unit value vertical hydraulic conductivity various material give morris johnson table 
+these initial value range lxlo 4xlo 
+many location two confine unit need consider modeling purpose occur two nonsequential aquifer case fig 
+for example low cape fear aquifer may present directly low cape fear confine unit cu2 black creek aquifer may present 
+the upper cape fear aquifer upper cape fear confine unit cu3 miss example 
+situation lower cape fear confine unit cu2 consider compose two confine unit half effective thickness belongs low cape fear confine unit cu2 half belongs upper cape fear confine unit cu3 even though upper cape fear confine unit cu3 present 
+general confine unit divide 
+ground water withdrawal and time discretization order simulate behavior north carolina coastal plain aquifer system time necessary develop pumpage history major ground water user user withdraw gallon per day gal 
+this information gather primarily interviews personnel public supply system self supplied industry supplement report data geological survey robison robison mann north carolina department environment health natural resource formerly call north carolina department natural resource community development north carolina department human resource 
+withdrawal public supply industry survey exceed mgal double every decade fig 
+the large single user phosphate mining chemical production operation beaufort county begin withdrawal rate mgal 
+withdrawal operation level rate mgal 
+sharp decline pumpage entirely due decrease pumpage two rock quarry onslow craven county sharp increase due pumpage increase two quarry 
+text continue m64 
+simulation ground water flow 
+explanation yorktown confine unit present leakance value per day less base modify geological survey digital data figure 
+model derive leakance yorktown confine unit cu9 
+m56 regional aquifer system analysis northern atlantic coastal plain north carolina 
+south carolina 
+explanation pungo river confine unit present leakance value per day less 
+base modify geological survey digital data figure 
+model derive leakance pungo river confine unit cu8 
+simulation ground water flow north cariolina 
+south carolina 
+explanation castle hayne confine unit present leakance value per day less 
+base modify geological survey digital data 
+model derive leakance castle hayne confine unit cut 
+m58 regional aquifer system analysis northern atlantic coastal plain 
+south carolina 
+base modify geological survey digital data 
+mile kilometer 
+beaufort confine unit present 
+leakance determine water beaufort aquifer contain milligram per liter chloride moi leakance value per day less 
+model derive leakance beaufort confine unit cu6 
+simulation ground water flow 
+northi carolina 
+south carolina 
+explanation peedee confine unit present leakance determine water peedee aquifer contain milligram per liter chloride leakance value per day less 
+base modify geological survey digital data 
+model derive leakance peedee confine unit cu5 
+m60 regional aquifer system analysis northern atlantic coastal plain 
+colic ilmingt3 
+base modify geological survey digital data 
+cape fear mile kilometer 
+explanation black creek confine unit present leakance determine water black creek aquifer contain milligram per liter chloride leakance value per day less 
+model derive leakance black creek confine unit cu4 
+simulation ground water flow 
+north carjqltna 
+explanation upper cape fear confine unit present leakance determine water upper cape fear aquifer contain milligram per liter chloride leakance value per day 
+base modify geological survey digital data figure 
+model derive leakance upper cape fear confine unit cu3 
+m62 regional aquifer system analysis northern atlantic coastal plain 
+explanation lower cape fear confine unit present 
+leakance determine water lower cape fear aquifer contain milligram per liter chloride leakance value per day less 
+base modify geological survey digital data figure 
+model derive leakance lower cape fear confine unit cu2 
+simulation ground water flow 
+south carolina base modify geological survey digital data 
+mile kilometer 
+explanation lower cretaceous confine unit present leakance determine water lower cretaceous aquifer contain milligram per liter chloride leakance value per day less 
+model derive leakance lower cretaceous confine unit gui 
+m64 regional aquifer system analysis northern atlantic coastal plain 
+ground water pumpage north carolina coastal plain user gallon per day 
+simulate flow system time period january january divide time period within period pumpage treat constant 
+the time period choose follow 
+time period 
+inclusive date length oftime period year 
+the location withdrawal great gal show aquifer lower cretaceous aquifer figure 
+there none lower cretaceous aquifer within north carolina 
+table show pumpages aquifer 
+the pumpage survey conduct part study consider fairly complete large public industrial ground water user irrigation water use data include survey 
+ground water use irrigation represent small rapidly increase component total water use north 
+carolina coastal plain one publish inventory presently exist north carolina department natural resource community development water resource council 
+for calibration well select unaffected irrigation pump 
+addition much ground water use irrigation purpose withdraw surficial aquifer withdrawal little effect deeper confine aquifer system 
+therefore believe lack irrigation pumpage data affect value transmissivity confine unit leakance arrive calibration process 
+pumpage record prior incomplete estimate partly basis population 
+prior many ice plant around major city north carolina coastal plain use large amount ground water mgal however plant close since 
+the effect unmeasured withdrawal water level judge small largely high recharge rate induce withdrawal replace much water withdrawn decade earlier 
+text continue m74 
+simulation ground water flow 
+south carolina 
+base modify geological survey digital data 
+mile kilometer 
+explanation location withdrawal great gallon per day aquifer 
+location withdrawal great gallon per day surficial aquifer a10 
+m66 regional aquifer system analysis northern atlantic coastal plain explanation yorktown aquifer present location withdrawal great gallon per day aquifer base modify geological survey digital data figure 
+location withdrawal great gallon per day yorktown aquifer 
+simulation ground water flow 
+fem washington tyrrell 
+south carolina 
+explanation pungo river aquifer present location withdrawal great gallon per day aquifer 
+base modify geological survey digital data figure 
+location withdrawal great gallon per day pungo river aquifer 
+m68 regional aquifer system analysis northern atlantic coastal plain 
+north carolina 
+explanation castle hayne aquifer present location withdrawal great gallon per day aquifer base modify geological survey digital data figure 
+location withdrawal great gallon per day castle hayne aquifer 
+simulation ground water flow 
+explanation beaufort aquifer present location withdrawal great gallon per day aquifer 
+base modify geological survey digital data figure 
+location withdrawal great gallon per day beaufort aquifer 
+m70 regional aquifer system analysis northern atlantic coastal plain fyrs explanation peedee aquifer present location withdrawal great gallon per day aquifer base modify geological survey digital data figure 
+location withdrawal great gallon per day peedee aquifer 
+simulation ground water flow virginia 
+north car olina 
+ngtch tyrrell 
+explanation black creek aquifer present location withdrawal great gallon per day aquifer 
+base modify geological survey digital data 
+location withdrawal great gallon per day black creek aquifer 
+m72 regional aquifer system analysis northern atlantic coastal plain washingt2n tyrpell 
+south carolina 
+explanation upper cape fear aquifer present location withdrawal great gallon per day aquifer 
+base modify geological survey digital data figure 
+location withdrawal great gallon per day upper cape fear aquifer 
+simulation ground water flow 
+base modify geological survey digital data 
+mile kilometer 
+explanation lower cape fear aquifer present location withdrawal great gallon per day aquifer 
+location withdrawal great gallon per day low cape fear aquifer 
+m74 regional aquifer system analysis northern atlantic coastal plain 
+north carolina ground water pumpage aquifer water table model boundary flux location 
+model layer number 
+north carolina aquifer 
+pumpage million gallon 
+freshwater saltwater boundary pump rate 
+large change leakance value initial esti 
+per day 
+mate order magnitude consider 
+aid surfieial yorktown pungo river 
+justified vertical conductivity confine unit well know 
+however change transmis 
+sivity limit three time much 
+castle hayne 
+less one third much initial estimate 
+probable error initial estimate much 
+total pumpage 
+peedee black creek upper cape fear lower cape fear lower cretaceous 
+small probable error estimate leakance 
+result sensitivity analysis perform early model calibration find change transmis 
+sivity value produce large change compute head 
+near pump center away pump center 
+change small 
+change leakance confining 
+unit also produce large change compute head 
+near pump center change away pump 
+model calibration 
+ing center often significant 
+water level high low near pump center elsewhere transmissivity 
+calibration north carolina coastal plain problem suspect 
+computed water level 
+ground water flow model trial adjustment find generally high low give layer 
+procedure whereby model input vary large area leakance problem suspect 
+result model output compare observe val vertical flow system examine estimate 
+the process repeat minimize difference change model parameter would likely 
+compute observed value com result well water level match layer 
+put result agree observed value within question also underlie overlie 
+acceptable degree accuracy 
+generally calibra layer 
+tion consider acceptable purpose study 
+select well water level record cali 
+computed water level within bration purpose area avoid experi 
+water level measure 
+enced water level decline close freshwater 
+number calibration simulation make saltwater boundary chloride concentra 
+determine well north carolina coastal plain tion 
+one model assumption freshwater salt 
+ground water flow model able simulate actual water boundary flow boundary 
+this assumption 
+record water level pump unpumped valid area pump may induce 
+area indicate adjustment flow saltwater toward pump well 
+model parameter might need 
+where calibration felt attempt match hydrographs area 
+judge inadequate hydrogeologic hydraulic head would unrealistic 
+full consideration movement 
+water quality data analyze determine saltwater require ground water flow model capable 
+cause cause 
+often poor initial estimate model simulate water vary density beyond 
+parameter suspect primary cause scope study 
+poor water level match 
+adjustment model 
+the assumption flow across freshwater 
+parameter make new simulation perform 
+saltwater boundary particular concern part 
+again computed water level compare aquifer part simulate 
+observe value 
+thus adjustment process involve drawdowns near freshwater saltwater boundary 
+several repetition employ model calibration 
+commonly exceed 
+area actual 
+the parameter often adjust leakance con drawdowns would likely less simulated 
+fin unit follow transmissivity aqui model 
+result confidence model result 
+the major hydraulic property represent calibrated parameter prediction less 
+model storage coefficient vary dur area 
+the reader refer leahy martin 
+ing calibration process model find detailed discussion effect flow 
+sensitive change value storage assumption freshwater saltwater boundary 
+other model parameter vary result regional ground water flow model 
+course model calibration altitude northern atlantic coastal plain 
+simulation ground water flow 
+when test model parameter course model calibration usual procedure make three simulation 
+the first simulation steady state prepumping condition water table head fix constant value indicative average long term natural condition 
+boundary flux provide regional model frequently update refine flux value derive state subregional model 
+model output first simulation include flux water table topmost confine aquifer 
+this flux think deep percolation term equation total ground water recharge qre minus base flow stream 
+the quantity qre node determine describe earlier model input section report 
+subtract add value depend direction vertical flow give node 
+when value know also altitude water table low stream altitude node equation could solve streambed leakance 
+llth artificial layer represent stream add model 
+the head stream node set constant head calculate value use value stream layer water table layer 
+recharge qre add surficial aquifer a10 steady state nonpumping simulation make 
+the advantage add layer represent stream later stress simulation water level free fluctuate within surficial aquifer due stress either aquifer underlie aquifer 
+this result realistic simulation surficial aquifer response pump stress simulation water table hold constant 
+pump simulation make design simulate aquifer response pumpage pump period discuss section groundwater withdrawal time discretization 
+simulated hydrographs compare observe hydrographs prepumping pumping condition 
+significant feature simulate hydrographs discretization error reduce compute head well location grid center 
+this method head computation involve solution common three point problem show figure 
+time large leakance adjustment much two order magnitude could justify many instance estimate initial value parameter subject uncertainty model parameter 
+part uncertainty difficulty distinguish silt clay geophysical log part discontinuity confine unit often cannot estimate interpolation geophysical log collect widely space location 
+trial adjustment model calibration indicate general tendency vertical hydraulic conductivity confine unit decrease increase depth increase distance downdip 
+the tendency decrease depth reflect minimum value table think partly relate great compaction silt clay due great weight overlie sediment great time compaction 
+the tendency decrease increase distance downdip follow downdip sediment give aquifer generally deeply bury may also general downdip change coarse clastic fine clastic marine facies legrand 
+counter tendency decrease increase depth distance downdip may occur nonmarine sediment present large part lowermost confine unit gui cu2 cu3 
+there bed make confine unit likely discontinuous therefore provide less resistance vertical movement water suggest thickness confine unit material indicate geophysical log 
+hence model value may higher elsewhere might expect silt clay order reflect discontinuity 
+transmissivity vary less often leakance model calibration 
+initial estimate change three aquifer course model calibration castle hayne aquifer 
+range ofvertical hydraulic conductivity ofconfining unit calibrate model confine unit define table increase depth layer layer 
+model layer number 
+vertical hydraulic conductivity confine unit foot per day 
+maximum value 
+minimum value 
+result previously mention leakance confine unit adjust often great degree model parameter 
+compute head find significantly sensitive change 
+cu9 cu8 cut cu6 cu5 cu4 cu3 cu2 gui 
+98xlo 94xlo 07x10 88x10 89x10 77x10 96x10 88x10 
+82x10 90x10 7416xxl1o0 42xlo 84x10 13x10 04xlo 
+m76 regional aquifer system analysis northern atlantic coastal plain 
+locate three compute head grid node form triangle abc enclose node point interest 
+find direction ground water flow hydraulic gradient plane define apex triangle 
+locate triangle apex intermediate water level 
+linear interpolation find point side opposite water level 
+draw line 
+this line equal water level foot case 
+draw line perpendicular equal water level line pass either apex high low water level 
+the resulting line represent direction hydraulic gradient 
+calculation gradient follow 
+eonu nft foot per foot 556ft 
+draw line parallel direction gradient pass point head compute 
+measure distance point know head point head calculate line 
+know hydraulic gradient foot per foot head point 
+distance along flow path head point may calculate 
+method compute head node location 
+simulation ground water flow 
+summary ofdifferences compute observed water level december value represent compute minus observe difference 
+aquifer name yorktown pungo river castle hayne beaufort peedee black creek upper cape fear lower cape fear lower cretaceous 
+model layer number 
+average difference water level foot 
+all difference 
+positive difference 
+negative difference 
+number value 
+average difference 
+number value 
+average difference 
+number value 
+average difference 
+black creek aquifer upper cape fear aquifer 
+initial value transmissivity castle hayne aquifer beaufort county estimate geophysical log give compute head ten foot low observe head 
+when transmissivity value increase factor area match much closer well agreement aquifer test report dewy other 
+attempt make calibrate transmissivity value surficial aquifer a10 
+for block represent castle hayne aquifer lee creek row column model transmissivity ft2 aquifer thickness infer horizontal hydraulic conductivity 
+value derive dewy other aquifer test data indicate high transmissivity near lee creek ft2 assume formation thickness infer hydraulic conductivity 
+limitation test report dewy other pump well used test open top castle hayne aquifer 
+such test may yield hydraulic conductivity representative entire aquifer thickness 
+thus less hydraulic conductivity calibrate castle hayne aquifer near lee creek unreasonably low compare value report dewy other 
+also transmissivity value castle hayne aquifer lee creek derive model close derive sherwani lee creek area ft2 use digital model 
+percent reduction initial estimate everywhere black creek aquifer upper cape fear aquifer result generally good match compute head observed water level 
+apparently silty clay interbedded coarse sand 
+deeply bury nonmarine marginal marine sediment aquifer effective reduce horizontal hydraulic conductivity aquifer material first think examination geophysical log 
+winner geological survey oral commun september 
+thus initial estimate higher final calibrate value 
+layer layer summary difference observe computed water level december give table 
+the average difference compute observed water level observation well slightly less 
+detailed comparison compute observed value time also make 
+nearly compute hydrographs compare observe hydrographs 
+figure show select hydrograph comparison make course model calibration 
+those show chosen basis length record balance geographic aquifer distribution 
+number poor match compute observed water level attribute discretization scale rather poor estimate hydrologic parameter 
+for example drawdowns due pumpage treat model water level draw evenly entire block rather cone depression around pump well three point method illustrated figure completely correct grid size large 
+the coarse model grid make error source significant particularly compute value node compare value observation well locate close pump well 
+the scale discretization probably also responsible several poor hydrograph match sand hill area fig 
+topographic relief water table gradient great sand hill region 
+m78 regional aquifer system analysis northern atlantic coastal plain gaskin observation well yorktown aquifer 
+model node row column see fig 
+sadler observation well pungo river aquifer 
+model node row column see fig 
+observe simulated water level yorktown pungo river aquifer 
+simulation ground water flow creswell observation well castle hayne aquifer 
+model node row column see fig 
+llj llj llj 
+dehnr arapahoe research station observation well castle hayne aquifer 
+model node row column see fig 
+observe simulated water level castle hayne aquifer creswell observation well dehnr north carolina department environment health natural resource arapahoe research station observation well 
+m80 regional aquifer system analysis northern atlantic coastal plain simulate 
+usgs observation well beaufort aquifer 
+model node row column see fig 
+observe observe 
+usgs observation well peedee aquifer 
+model node row column see fig 
+observe simulated water level beaufort peedee aquifer 
+usgs geological survey 
+simulation ground water flow 
+usgs observation well black creek aquifer model node row column see fig 
+occ ljj ljj 
+usgs observation well black creek aquifer 
+model node row column see fig 
+figure observe simulated water level black creek aquifer usgs geological survey observation well 
+regional aquifer system analysis northern atlantic coastal plain simulate 
+composite record observation well clinton upper cape fear aquifer model node row column see fig 
+llj ooq 
+magette observation well low cape fear aquifer 
+model node row column see fig 
+observe simulated water level upper cape fear lower cape fear aquifer 
+simulation ground water flow 
+part north carolina coastal plain model grid fine enough adequately reflect variation 
+thus match compute observed water level generally poor area degree model consider calibrate much less sand hill region part north carolina coastal plain 
+one practical consequence situation accuracy estimate model parameter give flow model sand hill area uncertain elsewhere 
+future ground water model study sand hill region could obtain good result utilize much finer model grid use study 
+one measure degree model consider calibrated density calibration point use 
+criterion castle hayne aquifer would consider best calibrate layer particularly near large cone depression center north aurora beaufort county whereas lower cretaceous beaufort pungo river aquifer would least well calibrate 
+saltwater reentrant the cape fear arch unusual landward reentrant water contain high chloride concentration equal great delineate wilmington area winner coble upper low cape fear aquifer 
+this reentrant show report figure northwestward bulge point chloride concentration line consider flow boundary study 
+the existence reentrant support work legrand describe brackish water spring sea level far inland bladen county meisler map position saltwater aquifer northern atlantic coastal plain 
+the reentrant overlies cape fear arch broad southeast trend uplift bedrock overlie sedimentary deposit atlantic coastal plain fig 
+the axis uplift mark approximately course lower cape fear river fig 
+trial simulation perform model calibration indicate barrier flow need sustain unusually high head cretaceous aquifer extreme southeastern north carolina peek register even high head south along south carolina coast aucott speiran 
+barrier might result aquifer low transmissivity cape fear arch area surround area 
+the juxtaposition barrier 
+arch suggest arch might affect deposit pattern area cretaceous time result deposition sediment extremely low transmissivity either low hydraulic conductivity near zero thickness stratigraphic position upper low cape fear aquifer 
+however data well arch area list winner coble give indication small reduction transmissivity two aquifer 
+the low cape fear aquifer exhibit high head slightly thinner northeast side cape fear arch southwest side fig 
+thin enough cause major change transmissivity location 
+the upper cape fear aquifer low transmissivity northeast side arch southwest side result low hydraulic conductivity area winner coble decrease thickness might case lower cape fear aquifer 
+the trial simulation reveal order sustain high head low cape fear aquifer southwest arch flow nearly flow boundary present general area occupy saltwater reentrant show figure 
+adjustment transmissivity value low cape fear aquifer arch percent less estimated value fig 
+result little head buildup southwest arch 
+because direct hydrogeologic evidence indicate drastic change hydraulic conductivity thickness upper low cape fear aquifer may flow boundary result instead presence dense water contain least chloride cape fear arch 
+the confirmation either idea idea concern nature flow barrier low transmissivity sediment saltwater awaits data analysis support 
+sensmvity analysis two type application sensitivity analyse appropriate modeling study 
+the first application logically perform model calibration aid data collection 
+analysis show model sensitive change certain parameter part model area effort improve parameter estimate would improve simulation capability model 
+conversely initial sensitivity analysis show model sensitive change particular parameter area data collection activity analyse good define verify parameter value area could result improved simulation capability 
+m84 regional aquifer system analysis northern atlantic coastal plain 
+range ofperturbed value transmissivity leakance 
+transmissivity foot square per day 
+mean percent mean percent mean 
+percent mean percent mean 
+leakance per day 
+8xlo 8sxxl1q0 2xlo 
+3x10 3xlo 37xlo 
+8xlo 8x10 12xlo 
+range ofperturbed valuesfor storage coefficient 
+all group 
+confine aquifer dimensionless 
+mean percent mean percent mean 
+oxlo oxlo 9x10 
+unconfined aquifer dimensionless 
+mean percent mean percent mean 
+5x10 8x10 
+second application perform calibration evaluate relation parameter variability model response 
+this indication extent calibration likely improve parameter estimate may guide design parameter estimation effort future model study 
+the following section discuss second application sensitivity analysis study 
+method analysis the model response investigate sensitivity analysis hydraulic head 
+the parameter select test transmissivity storage coefficient aquifer leakance confine unit 
+transmissivity leakance value vary plus minus percent plus minus percent estimate value 
+storage coefficient vary plus minus percent estimate value 
+minimize computer time require analysis transmissivity leakance steady state simulation utilizing pumpage value make 
+however transient simulation perform calibration purpose stream simulate constant head layer surficial aquifer a10 simulate free surface receive recharge 
+test show head compute manner similar head compute transient simulation indicate steady state simulation make part sensitivity analysis would provide result similar transient simulation 
+however transient simulation make analyze effect vary storage coefficient result time dependent 
+simplify sensitivity analysis aquifer confine unit lump three group hydrologically similar flow system 
+group consist peedee black creek upper cape fear lower cape fear lower cretaceous aqui 
+fers sand aquifer cretaceous rock 
+group contain yorktown pungo river beaufort aquifer sand aquifer tertiary rock analyze aquifer parameter surficial aquifer a10 
+when analyze confine unit parameter surficial aquifer a10 include 
+group solely castle hayne aquifer primarily limestone sand tertiary age 
+parameter perturb analyzed group 
+the exception storage coefficient parameter model layer perturb analyzed simultaneously 
+result table list mean value calibrate value maximum minimum value parameter variation three aquifer group transmissivity leakance storage coefficient 
+within three aquifer group result sensitivity analysis categorize statistic generate separately category 
+these category active node node pumpage occur pumpage node node flow laterally adjacent node node constant flux laterally adjacent node node constant head vertically adjacent node category find surficial aquifer a10 group 
+give node fell one category node omit analysis active node category 
+the overall result sensitivity analysis summarize table 
+table indicate general tendency cretaceous sand aquifer group exhibit great degree head variation give percentage change model parameter group 
+this mainly attribute group node represent deep cretaceous aquifer least hydraulic contact surficial aquifer a10 
+the surficial aquifer resistant 
+simulation ground water flow 
+result sensitivity analysis 
+head change indicate percent change parameter foot 
+category node test 
+percent percent percent percent percent percent percent percent percent percent percent percent 
+all active node 
+mean max 
+pumpage node 
+trans missivity 
+adjacent flow 
+mean max 
+adjacent max 
+constant mean flux node max 
+vertically max 
+adjacent mean constant max 
+head node 
+all active node 
+mean max 
+pumpage node 
+mean max 
+adjacent flow 
+mean max 
+adjacent max 
+constant mean flux node max 
+vertically max 
+adjacent mean constant max 
+head node 
+all active node 
+mean max 
+pumpage node 
+mean max 
+storage coefficient 
+adjacent flow 
+mean max 
+adjacent max 
+constant mean 
+flux node max 
+vertically max 
+adjacent mean constant max 
+head node 
+m86 regional aquifer system analysis northern atlantic coastal plain 
+change head several reason 
+first unconfined much large storage coefficient lower confine aquifer 
+second various simulation scheme describe earlier either receives direct recharge large amount water table treat constant head surface 
+normally recharge go stream nodes small amount recharges deep aquifer 
+however water level surficial aquifer start decline less recharge stream available sustain water level surficial aquifer recharge deeper aquifer 
+further water level draw stream level stream recharge surficial aquifer 
+thus surficial aquifer aquifer close hydraulic contact tend show least sensitivity change model parameter 
+table also indicate pumpage node sensitive parameter change 
+this indicate future study grind water flow modeling could best concentrate parameter estimation effort area pump 
+generally model find highly sensitive change transmissivity leakance near pump center 
+away pump center model slightly sensitive transmissivity change moderately sensitive change leakance compare mean value head change active node transmissivity leakance table 
+the great head difference sensitivity analysis transmissivity cretaceous aquifer group decrease head occur one pumping node black creek aquifer transmissivity reduce percent fig 
+increase transmissivity leakance fig 
+7qa 70b produce small head change similar percentage decrease parameter whereas increase storage coefficient fig 
+70c produce similar sometimes great change head correspond decrease 
+result sensitivity analyse subregional model northeastern atlantic coastal plain similar type model response report 
+some effect parameter change study sensitivity analyse virginia new jersey study north carolina confine unit storage position freshwater saltwater flow boundary boundary flux recharge harsh laczniak martin press 
+however similarity model similar response might expect north carolina model 
+new jersey virginia confine unit storage show important simulation system response confine unit range inelastic deformation 
+the virginia new jersey mod 
+el sensitive position freshwater saltwater flow boundary 
+however unlike north carolina state significant pumpage affect area near freshwater saltwater flow boundary 
+the new jersey model sensitive boundary flux near boundary sensitive boundary flux two three node away boundary 
+the virginia new jersey model insensitivity recharge similar north carolina flow model 
+result indicate model sensitive change recharge rate surficial aquifer transient simulation streambed leakance increase decrease move less water streams balance increase decrease recharge refer streambed leakance section report model input 
+hydrologic analysis the aquifer system water budget most aspect overall ground water flow system change significantly predevelopment condition development condition 
+the major change system time interval initiation continue increase ground water withdrawal 
+pumpage north carolina nearby southeastern virginia alter overall water budget little although local effect significant 
+pumpage large area north carolina increase zero cubic foot per second ft3 mgal percent average recharge ground water system ft3 table 
+simulation result indicate pumpage ground water system time ultimately compensate largely reduce flow stream 
+reduction flow stream entire north carolina coastal plain show constant head discharge system table ft3 although large relation total average flow coastal plain stream could locally significant percentage dry weather streamflow stream 
+major change amount water withdrawn well fig 
+table result change contribution ground water storage favorable hydraulic gradient establish toward pump center 
+when gradient establish sufficient recharge new equilibrium condition reach contribution storage pumpage negligible 
+significant withdrawal sand aquifer rock cretaceous age begin 
+hydrologic analysis the aquifer system 
+percent change transmissivity 
+iiir maximum 
+percent change leakance 
+percent change storage coefficient 
+head difference cretaceous sand aquifer group due change group transmissivity group leakance model wide storage coefficient 
+m88 regional aquifer system analysis northern atlantic coastal plain 
+summary ofmodel compute water budgetsfor ground waterflow system north carolina coastal plain 
+flow rate flow system end pumping period cubic foot per second 
+pump period 
+specify flux 
+constant head 
+change storage 
+pump system from system 
+system from system inflow 
+prepumping pre january 1900december january 1921december january 1940december january 1946december31 january 1953deeember31 january 1958december january 1965december january 1968december january 1973december january 1978december31 simulated year 
+time contribution storage amount several cubic foot per second 
+during withdrawal castle hayne aquifer increase storage contribution increase ft3 
+during contribution storage result withdrawal castle hayne aquifer small equilibrium establish increased withdrawal elsewhere primarily sand aquifer rock cretaceous age result total contribution storage 14ft3 
+pumpage change ground water movement within system change recharge discharge system slight 
+the average recharge rate ft3 calculate constant simulation period 
+natural discharge system base flow stream discharge sound decrease slightly ft3 pre decrease ft3 less percent total recharge 
+pumpage mainly supply diversion 
+the change natural discharge ft3 close rate pump pump period ft3 
+the excess decrease natural discharge ft3 mostly due effect pumpage adjacent state primarily virginia 
+the principal change ground water flow system north carolina coastal plain primarily involve vertical movement water one layer system another around area major pump take place 
+the change direction vertical flow show series map present follow section report 
+loss ground water storage sensitive rate pump increase 
+rate loss storage great ft3 withdrawal increase average ft3 per year 
+since contribution storage remain ft3 withdrawal increase fairly constant average ft3 
+simulate ground water flow across virginia south carolina border change significantly 
+the dramatic change across virginia line ft3 flow virginia north carolina ground water flow north carolina virginia rate ft3 
+this change occur low cape fear aquifer less extent upper cape fear lower cretaceous aquifer 
+the change result pumpage mainly low cape fear aquifer 
+hydrologic analysis the aquifer system 
+lower cretaceous aquifer franklin north ahoskie flow north carolina south carolina ft3 decrease slightly ft3 
+this decrease attribute pumpage southern coastal plain north carolina black creek lower cape fear aquifer 
+slight lower potentiometric surface two aquifer north carolina decrease hydraulic gradient toward south carolina 
+model simulation make year assumption pump would increase percent per year 
+under condition contribution storage would nearly double ft3 table cone depression sand aquifer cretaceous age would continue increase size contribution stream induced infiltration would increase sevenfold ft3 
+ground water discharge stream would continue slightly decrease rate 
+potentiometric surface although change overall water budget coastal plain aquifer due pump minor pumping cause large local decrease potentiometric surface several aquifer 
+order show change potentiometric surface aquifer map present simulated prepumping condition condition assume pump condition year 
+simulated prepumping potentiometric surface show aquifer figure 
+the figure also show available observed value water level late early unpumped area 
+many water level observation take clark other unpublished drillers record era 
+instance modern water level show figure assume represent prepumping condition aquifer unaffected pump low cape fear aquifer fig 
+southern part coastal plain 
+the potentiometric surface surficial aquifer a10 updip western part aquifer high interstream divide area low valley perennial stream 
+this distribution indicate aquifer area grind water movement within local flow system ground water discharge nearby stream 
+downdip area confine aquifer yorktown lower cretaceous aquifer potentiometric surface gentle coastward gradient east southeast 
+simulated potentiometric surface fig 
+si90 compare prepumping potentiometric surface fig 
+indicate lower water level part aquifer due pump 
+notably drawdowns occur part lower cretaceous low cape fear aquifer respectively near virginia border 
+these drawdowns due largely pumpage franklin compare fig 
+drawdowns occur part low cape fear upper cape fear black creek aquifer respectively central coastal plain around greenville kinston jacksonville 
+these drawdowns due several large withdrawal area large cone depression associate withdrawal evident figure 
+drawdowns occur part beaufort castle hayne aquifer respectively beaufort county area 
+here drawdowns cause large part withdrawal castle hayne aquifer connection open pit phosphate mining operation chemical plant near aurora fig 
+cone depression associate withdrawal evident figure 
+noteworthy aspect drawdown beaufort aquifer water withdrawn directly aquifer mine chemical plant 
+withdrawal overlie castle hayne aquifer cause water move upward beaufort confine unit cu6 quantity create large area depress potentiometric level beaufort aquifer fig 
+the simulated water level castle hayne aquifer near aurora slightly sea level whereas measure water level well great sea level withdrawal area 
+this difference simulate measured water level result large block size use flow model 
+there simulate average water level mi2 block area least 50ft high measure water level center cone depression 
+the peedee aquifer also show decline aurora area fig 
+beaufort aquifer peedee aquifer major withdrawal area water level decline similarly attribute effect large cone depression overlie castle hayne aquifer 
+text continue 
+m90 regional aquifer system analysis northern atlantic coastal plain 
+north carolina 
+alb sound :£~£^ 
+south carolina 
+explanation water table contour show altitude simulated water table 
+contour interval foot variable 
+datum sea level 
+base modify geological survey digital data figure 
+simulated prepumping water table surficial aquifer a10 
+hydrologic analysis the aquifer system 
+base modify geological survey digital data 
+explanation yorktown aquifer present potentiometric contour show altitude simulated water level would stand tightly case well 
+contour interval foot variable 
+datum sea level o18 well number altitude observed water level foot sea level 
+simulated prepumping potentiometric surface yorktown aquifer 
+m92 regional aquifer system analysis northern atlantic coastal plain 
+north ariolina 
+base modify geological survey digital data 
+explanation pungo river aquifer present potentiometric contour show altitude simulated water level would stand tightly case well 
+contour interval foot variable 
+datum sea level o14 well number altitude observed water level foot sea level 
+simulated prepumping potentiometric surface pungo river aquifer 
+hydrologic analysis the aquifer system 
+5fc qil 
+».. «£**?, 
+south carolina base modify geological survey digital data 
+cape fear mile kilometer 
+explanation castle hayne aquifer present potentiometric contour show altitude simulated water level would stand tightly case well 
+contour interval foot variable 
+datum sea level well number altitude observed water level foot sea level 
+simulated prepumping potentiometric surface castle hayne aquifer 
+m94 regional aquifer system analysis northern atlantic coastal plain 
+</£'/' south carolina 
+base modify geological survey digital data 
+capf fear 
+explanation beaufort aquifer present ..» 
+potentiometric surface determine water aquifer contain milligram per liter chloride potentiometric contour show altitude simulated water level would stand tightly case well 
+contour interval foot variable 
+datum sea level well number altitude observed water level foot sea level 
+simulated prepumping potentiometric surface beaufort aquifer 
+hydrologic analysis the aquifer system 
+south base modify geological survey digital data 
+explanation peedee aquifer present potentiometric surface determine water aquifer contain milligram per liter chloride potentiometric contour show altitude simulated water level would stand tightly case well 
+contour interval foot variable 
+datum sea level well number altitude observed water level foot sea level 
+simulated prepumping potentiometric surface peedee aquifer 
+m96 regional aquifer system analysis northern atlantic coastal plain 
+lina sal 
+wayhjfxs '^.« 
+pffmctl ccl ^,^^« 
+south carolina 
+cape fear 
+base modify geological survey digital data 
+mile kilometer 
+explanation black creek aquifer present '*» potentiometric surface determine water aquifer contain milligram per liter chloride potentiometric contour show altitude simulated water level would stand tightly case well 
+contour interval foot variable 
+datum sea level well number altitude observed water level foot sea level 
+simulated prepumping potentiometric surface black creek aquifer 
+hydrologic analysis the aquifer system 
+base modify geological survey digital data 
+explanation upper cape fear aquifer present 
+potentiometric surface determine water aquifer contain milligram per liter chloride potentiometric contour show altitude simulated water level would stand tightly case well 
+contour interval foot variable 
+datum sea level o65 well number altitude observed water level foot sea level 
+simulated prepumping potentiometric surface upper cape fear aquifer 
+m98 regional aquifer system analysis northern atlantic coastal plain north 
+south carolina base modify geological survey digital data 
+explanation lower cape fear aquifer present 
+potentiometric surface determine water aquifer contain milligram per liter chloride potentiometric contour show altitude simulated water level would stand tightly case well 
+contour interval foot variable 
+datum sea level o85 well number altitude observed water level foot sea level 
+simulated prepumping potentiometric surface lower cape fear aquifer 
+hydrologic analysis the aquifer system 
+;%*//» vvv 
+carolina base modify geological survey digital data 
+explanation lower cretaceous aquifer present ,.» potentiometric surface determine water aquifer contain milligram per liter chloride potentiometric contour show altitude simulated water level would stand tightly case well 
+contour interval foot variable 
+datum sea level 
+simulated prepumping potentiometric surface lower cretaceous aquifer 
+regional aquifer system analysis northern atlantic coastal plain 
+rlv x1v 
+fef qkv 
+xxj hstor iwcsilisgo nrv 
+pall gcrteecsnsyifhlfce 
+ctimbff jjtf 
+vc17 ava rfi 
+explanation water table contour show altitude simulated water table 
+contour interval foot variable 
+datum sea level base modify geological survey digital data figure 
+simulated water table surficial aquifer a10 
+hydrologic analysis the aquifer system 
+south carolina 
+base modify geological survey digital data 
+mile kilometer 
+yorktown aquifer present potentiometric contour show altitude simulated water level would stand tightly case well 
+contour interval foot variable 
+datum sea level o75 well number altitude observed water level foot sea level 
+simulate potentiometric surface yorktown aquifer 
+regional aquifer system analysis northern atlantic coastal plain 
+base modify geological survey digital data 
+mile kilometer 
+pungo river aquifer present potentiometric contour show altitude simulated water level would stand tightly case well 
+contour interval foot variable 
+datum sea level 
+hachure indicate water level lower surround area well number altitude observed water level foot sea level 
+simulate potentiometric surface pungo river aquifer 
+hydrologic analysis the aquifer system 
+cape haneras 
+south carolina 
+base modify geological survey digital data 
+fear mile kilometer 
+castle hayne aquifer present 
+potentiometric contour show altitude simulated water level would stand tightly case well 
+contour interval foot variable 
+datum sea level 
+hachure indicate water level lower surround area well number altitude observed water level foot sea level 
+simulate potentiometric surface castle hayne aquifer 
+regional aquifer system analysis northern atlantic coastal plain 
+south scarolina 
+base modify geological survey digital data 
+uminforif cape feat mile kilometer 
+beaufort aquifer present 
+potentiometric surface determine 
+water aquifer contains 
+milligram per liter chloride 
+potentiometric contour show altitude simulated water level would stand tightly case well 
+contour interval foot variable 
+datum sea level 
+hachure indicate water level lower surround area 
+well number altitude observed water level foot sea level 
+simulate potentiometric surface beaufort aquifer 
+hydrologic analysis the aquifer system 
+south carolina 
+base modify geological survey digital data 
+mile kilometer 
+peedee aquifer present potentiometric surface determine water aquifer contain milligram per liter chloride potentiometric contour show altitude simulated water level would stand tightly case well 
+contour interval foot variable 
+datum sea level 
+hachure indicate water level lower surround area well number altitude observed water level foot sea level 
+simulate potentiometric surface peedee aquifer 
+regional aquifer system analysis northern atlantic coastal plain 
+north carolina 
+south carolina base modify geological survey digital data 
+explanation black creek aquifer present 
+potentiometric surface determine water aquifer contain milligram per liter chloride potentiometric contour show altitude simulated water level would stand tightly case well 
+contour interval foot variable 
+datum sea level 
+hachure indicate water level lower surround area o44 well number altitude observed water level foot sea level 
+simulate potentiometric surface black creek aquifer 
+hydrologic analysis the aquifer system 
+north carolina 
+south carolina base modify geological survey digital data 
+explanation upper cape fear aquifer present potentiometric surface determine water aquifer contain milligram per liter chloride potentiometric contour show altitude simulated water level would stand tightly case well 
+contour interval foot variable 
+datum sea level 
+hachure indicate water level lower surround area well number altitude observed water level foot sea level 
+simulate potentiometric surface upper cape fear aquifer 
+regional aquifer system analysis northern atlantic coastal plain 
+onflow jackso illie 
+south carolina base modify geological survey digital data 
+cape fear mile kilometer 
+explanation lower cape fear aquifer present potentiometric surface determine water aquifer contain milligram per liter chloride potentiometric contour show altitude simulated water level would stand tightly case well 
+contour interval foot variable 
+datum sea level 
+hachure indicate water level lower surround area well number altitude observed water level foot sea level 
+simulate potentiometric surface lower cape fear aquifer 
+hydrologic analysis the aquifer system 
+south carolina base modify geological survey digital data 
+explanation lower cretaceous aquifer present potentiometric surface determine water aquifer contain milligram per liter chloride potentiometric contour show altitude simulated water level would stand tightly case well 
+contour interval foot variable 
+datum sea level 
+hachure indicate water level lower surround area well number altitude observed water level foot sea level 
+simulate potentiometric surface lower cretaceous aquifer 
+regional aquifer system analysis northern atlantic coastal plain 
+although calibrate flow model detail enough many management purpose simulate potentiometric surface generate fig 
+year assume uniform percent annual increase pumpage pumpage sit assess effect future pump potentiometric surface 
+actually several major ground water pumpages expect increase rate period notably franklin phosphate mining operation beaufort county 
+thus area year simulation may accurately reflect likely occur 
+considerable area aquifer exhibit drawdowns less period 
+comparison water table map fig 
+show little change water level surficial aquifer a10 
+the true potentiometric surface yorktown aquifer see figure 
+except immediate vicinity major withdrawal potentiometric surface updip western part castle hayne beaufort peedee black creek upper cape fear aquifer decline less 
+the area little change confine aquifer one directly overlie either surficial aquifer a10 yorktown aquifer 
+compare fig 
+water level confine aquifer north carolina coastal plain decline top aquifer 
+when happen aquifer change confine unconfined condition aquifer storage coefficient increase several order magnitude ixhh 
+subsequent drawdowns occur dewatering rather expansion water compaction aquifer confine unit sediment 
+drawdowns proceed slow rate previous confine condition 
+thus model prediction year water level situation might tend overestimate drawdowns regionally however locally may underestimate drawdowns near pump center 
+vertical flow generalization downward vertical movement ground water recharge confine aquifer natural condition occur mainly interstream area ground water discharge upward confine aquifer system occur mainly stream valley downdip coastward area 
+this general pattern 
+recharge discharge significantly alter several area north carolina coastal plain pump several aquifer reduce hydraulic head aquifer large area thus disturb prepumping head relation exist aquifer 
+when head relation change potential water move one aquifer another intervene confine unit change often reverse 
+the change flow direction due pump evident comparison prepumping condition figure figure 
+northeastern north carolina coastal plain prepumping condition vertical ground water flow black creek cu4 upper cape fear cu3 low cape fear cu2 lower cretaceous gui confine unit fig 
+upward many part area 
+vertical flow gradient reverse across large part confine unit fig 
+vertical flow downward response large pumpages lower cretaceous low cape fear aquifer franklin extensive pumping black creek upper cape fear aquifer central north carolina coastal plain area result reversal flow upward downward peedee cu5 black creek cu4 upper cape fear cu3 confine unit fig 
+however flow upper cape fear confine unit area kinston new bern still upward response pump overlie black creek aquifer pump heavily upper cape fear aquifer 
+large area black creek confine unit cu4 southern north carolina coastal plain experience change vertical flow upward downward response moderate widespread pumping fig 
+beaufort county area vertical flow prepumping condition generally upward discharge area north carolina coastal plain aquifer present 
+after large scale pumping begin castle hayne aquifer vertical flow toward castle hayne aquifer upward vertical flow across confine unit cu6 cu5 great vertical flow yorktown cu9 castle hayne cu7 confine unit reverse direction upward downward vicinity large scale pump area 
+text continue ml39 
+hydrologic analysis the aquifer system 
+south carolina base modify geological survey digital data 
+mile kilometer 
+explanation water table contour show altitude simulated water table 
+contour interval foot variable 
+datum sea level 
+simulated year water table surficial aquifer a10 assume percent annual increase pumpage 
+regional aquifer system analysis northern atlantic coastal plain 
+rth carollna 
+base modify geological survey digital data 
+explanation yorktown aquifer present potentiometric contour show altitude simulated water level would stand tightly case well 
+contour interval foot variable 
+datum sea level 
+hachure indicate water level lower surround area 
+simulated year potentiometric surface yorktown aquifer assume percent annual increase pumpage 
+hydrologic analysis the aquifer system 
+northj carolina 
+carolina base modify geological survey digital data 
+explanation pungo river aquifer present potentiometric contour show altitude simulated water level would stand tightly case well 
+contour interval foot variable 
+datum sea level 
+hachure indicate water level lower surround area 
+simulated year potentiometric surface pungo river aquifer assume percent annual increase pumpage 
+regional aquifer system analysis northern atlantic coastal plain 
+south carolina base modify geological survey digital data 
+mile kilometer 
+explanation castle hayne aquifer present potentiometric contour show altitude simulated water level would stand tightly case well 
+contour interval foot variable 
+datum sea level 
+hachure indicate water level lower surround area 
+simulated year potentiometric surface castle hayne aquifer assume percent annual increase pumpage 
+hydrologic analysis the aquifer system 
+north carolina 
+south carolina base modify geological survey digital data 
+explanation beaufort aquifer present ..» potentiometric surface determine water aquifer contain milligram per liter chloride potentiometric contour show altitude simulated water level would stand tightly case well 
+contour interval foot variable 
+datum sea level 
+hachure indicate water level lower surround area 
+simulated year potentiometric surface beaufort aquifer assume percent annual increase pumpage 
+regional aquifer system analysis northern atlantic coastal plain 
+carolina base modify geological survey digital data 
+explanation peedee aquifer present potentiometric surface determine water aquifer contain milligram per liter chloride potentiometric contour show altitude simulated water level would stand tightly case well 
+contour interval foot variable 
+datum sea level 
+hachure indicate water level lower surround area 
+simulated year potentiometric surface peedee aquifer assume percent annual increase pumpage 
+hydrologic analysis the aquifer system 
+base modify geological survey digital data 
+explanation black creek aquifer present 
+potentiometric surface determine water aquifer contain milligram per liter chloride potentiometric contour show altitude simulated water level would stand tightly case well 
+contour interval foot variable 
+datum sea level 
+hachure indicate water level lower surround area 
+simulated year potentiometric surface black creek aquifer assume percent annual increase pumpage 
+regional aquifer system analysis northern atlantic coastal plain 
+ngr carjolina 
+south carolina base modify geological survey digital data 
+explanation upper cape fear aquifer present potentiometric surface determine water aquifer contain milligram per liter chloride potentiometric contour show altitude simulated water level would stand tightly case well 
+contour interval foot variable 
+datum sea level 
+hachure indicate water level lower surround area 
+simulated year potentiometric surface upper cape fear aquifer assume percent annual increase pumpage 
+hydrologic analysis the aquifer system virginia ssrffc 
+carolina base modify geological survey digital data 
+low cape fear aquifer present 
+potentiometric surface determine water aquifer contain milligram per liter chloride potentiometric contour show altitude simulated water level would stand tightly case well 
+contour interval foot variable 
+datum sea level 
+hachure indicate water level lower surround area 
+simulated year potentiometric surface lower cape fear aquifer assume percent annual increase pumpage 
+regional aquifer system analysis northern atlantic coastal plain 
+base modify geological survey digital data 
+explanation lower cretaceous aquifer present potentiometric surface determine water aquifer contain milligram per liter chloride potentiometric contour show altitude simulated water level would stand tightly case well 
+contour interval foot 
+datum sea level 
+hachure indicate water level lower surround area 
+simulated year potentiometric surface lower cretaceous aquifer assume percent annual increase pumpage 
+hydrologic analysis the aquifer system 
+north carolina 
+explanation yorktown confine unit present recharge area flow downward discharge area row upward 
+base modify geological survey digital data figure 
+net vertical flow water yorktown confine unit cu9 simulate predevelopment condition 
+regional aquifer system analysis northern atlantic coastal plain 
+south carolina 
+explanation pungo river confine unit present recharge area flow downward discharge area flow upward 
+base modify geological survey digital data figure 
+net vertical flow water pungo river confine unit cu8 simulate predevelopment condition 
+hydrologic analysis the aquifer system 
+north carlolina 
+south carolina 
+explanation castle hayne confine unit present recharge area flow downward discharge area row upward 
+base modify geological survey digital data 
+net vertical flow water castle hayne confine unit cut simulated predevelopment condition 
+regional aquifer system analysis northern atlantic coastal plain 
+explanation beaufort confine unit present flow direction determine water beaufort aquifer contain milligram per liter chloride recharge area flow downward discharge area flow upward base modify geological survey digital data 
+net vertical flow water beaufort confine unit cu6 simulate predevelopment condition 
+hydrologic analysis the aquifer system 
+explanation peedee confine unit present flow direction determine water peedee aquifer contain milligram per liter chloride recharge area flow downward discharge area flow upward base modify geological survey digital data figure 
+net vertical flow water peedee confine unit cu5 simulate predevelopment condition 
+regional aquifer system analysis northern atlantic coastal plain 
+north carolina 
+south carolina 
+explanation black creek confine unit present flow direction determine water black creek aquifer contain milligram per liter chloride recharge area flow downward discharge area flow upward 
+base modify geological survey digital data 
+net vertical flow water black creek confine unit cu4 simulate predevelopment condition 
+hydrologic analysis the aquifer system 
+bou explanation upper cape fear confine unit present flow direction determine water upper cape fear aquifer contain milligram per liter chloride recharge area flow downward discharge area flow upward base modify geological survey digital data figure 
+net vertical flow water upper cape fear confine unit cu3 simulate predevelopment condition 
+regional aquifer system analysis northern atlantic coastal plain 
+aibem «»-? smm 
+explanation lower cape fear confine unit present flow direction determine water lower cape fear aquifer contain milligram per liter chloride recharge area flow downward discharge area flow upward 
+base modify geological survey digital data figure 
+net vertical flow water low cape fear confine unit cu2 simulate predevelopment condition 
+hydrologic analysis the aquifer system 
+finij innfcyl 
+south carolina 
+explanation lower cretaceous confine unit present flow direction determine water lower cretaceous aquifer contain milligram per liter chloride recharge area flow downward discharge area flow upward 
+base modify geological survey digital data figure 
+net vertical flow water lower cretaceous confine unit gui simulate predevelopment condition 
+regional aquifer system analysis northern atlantic coastal plain 
+ivn base modify geological survey digital data 
+mile kilometer 
+explanation yorktown confine unit present recharge area flow downward discharge area flow upward 
+net vertical flow water yorktown confine unit cu9 simulate condition 
+hydrologic analysis the aquifer system virginia north 
+south carolina 
+explanation pungo river confine unit present recharge area flow downward discharge area flow upward 
+base modify geological survey digital data figure 
+net vertical flow water pungo river confine unit cu8 simulate condition 
+regional aquifer system analysis northern atlantic coastal plain 
+north carjolina 
+explanation castle hayne confine unit present recharge area flow downward discharge area flow upward base modify geological survey digital data figure 
+net vertical flow water castle hayne confine unit cut simulate condition 
+hydrologic analysis the aquifer system 
+north carol 
+south carolina 
+explanation beaufort confine unit present flow direction determine water beaufort aquifer contain milligram per liter chloride recharge area flow downward discharge area flow upward 
+base modify geological survey digital data figure 
+net vertical flow water beaufort confine unit cu6 simulate condition 
+regional aquifer system analysis northern atlantic coastal plain 
+south carolina 
+explanation peedee confine unit present flow direction determine water peedee aquifer contain milligram per liter chloride recharge area flow downward discharge area flow upward 
+base modify geological survey digital data figure 
+net vertical flow water peedee confine unit cu5 simulate condition 
+hydrologic analysis the aquifer system 
+etnftrle sound 
+south carolina 
+explanation black creek confine unit present flow direction determine water black creek aquifer contain milligram per liter chloride recharge area flow downward discharge area flow upward 
+base modify geological survey digital data figure 
+net vertical flow water black creek confine unit cu4 simulatec condition 
+regional aquifer system analysis northern atlantic coastal plain 
+explanation upper cape fear confine unit present flow direction determine water upper cape fear aquifer contain milligram per liter chloride recharge area flow downward discharge area flow upward 
+base modify geological survey digital data figure 
+net vertical flow water upper cape fear confine unit cu3 simulate condition 
+hydrologic analysis the aquifer system 
+car ina 
+cape hatierax 
+south carolina 
+explanation lower cape fear confine unit present flow direction determine water lower cape fear aquifer contain milligram per liter chloride recharge area flow downward discharge area flow upward 
+base modify geological survey digital data figure 
+net vertical flow water low cape fear confine unit cu2 simulate condition 
+regional aquifer system analysis northern atlantic coastal plain 
+nokth carolina 
+explanation lower cretaceous confine unit present flow direction determine water lower cretaceous aquifer contain milligram per liter chloride recharge area flow downward base modify geological survey digital data figure 
+net vertical flow water lower cretaceous confine unit cu1 simulate condition 
+summary and conclusion 
+summary and conclusion three dimensional finite difference digital flow model develop simulate ground water flow coastal plain aquifer system north carolina cover area mi2 
+the layer model develop hydrogeologic framework make alternate sequence aquifer confine unit dip thicken seaward direction 
+the model code use three dimensional finite difference ground water flow model model area divide rectangular grid layer vary space represent area range mi2 mi2 
+the grid boundary condition mathematical numerical model design compatible regional model entire northern atlantic coastal plain 
+western eastern boundary model layer treat flow boundary 
+the eastern boundary assume along line equal concentration dissolve chloride 
+boundary state line virginia north south carolina south specify flux boundary flux provide regional model 
+the upper boundary confine aquifer bottom associate confine unit treat head dependent flux boundary 
+for model whole upper boundary layer represent stream constant head boundary low boundary either bedrock saltwater bearing aquifer flow boundary 
+the treatment line represent chloride concentration flow boundary valid area affect pump valid effect pump extend boundary part beaufort black creek upper cape fear lower cape fear lower cretaceous aquifer 
+area model tend predict great drawdown would actually occur 
+model input consist transmissivity storage coefficient aquifer confine unit streambed leakance ground water recharge water table stream surface altitude boundary flux rate pumpage 
+for transient simulation pump period start running use 
+pump period range length year first pump period year last pumping period 
+number calibration simulation make purpose test well model able reproduce measure water level aid indicate adjustment model parameter need 
+the primary parameter adjust leakance confine unit lesser extent transmissivity aquifer 
+during calibration procedure compute hydrographs compare observe hydrographs 
+also compute potentiometric surface various pump period check actual water level data 
+adjustment model parameter make careful consideration whether adjustment could justify base data hydrogeologic ground water flow system 
+the large change estimate leakance confine unit consider reasonable initial value parameter know less certainty parameter 
+for calibrate model maximum transmissivity ft2 part castle hayne aquifer 
+the small vertical hydraulic conductivity confine unit calibrate model 1xlo part low cape fear confine unit 
+simulation indicate barrier flow exist vicinity landward reentrant water contain dissolve chloride upper low cape fear aquifer cape fear arch wilmington area 
+the barrier probably cause high hydraulic head two aquifer southwest arch southeastern north carolina northeastern south carolina 
+the nature barrier need research likely due either diminish hydraulic conductivity area presence salty water 
+the relatively large block size make difficult accurately simulate configuration water table sand hill area 
+thus model probably less accurate area area north carolina coastal plain 
+sensitivity analysis indicate model especially sensitive change transmissivity area pump occurs regionally model uniformly sensitive leakance confine unit 
+sensitivity model change storage coefficient confine aquifer slight transmissivity great near pumping center 
+under predevelopment condition average recharge precipitation surficial aquifer vary areal area clay soil area sandy soil 
+most move directly stream move downward confine aquifer system 
+generally recharge confine aquifer system take place mostly updip interstream area discharge occurred stream stream valley downdip coastal area 
+hydrologic analysis aquifer system base simulation indicate overall water budget change little predevelopment condition development condition 
+pumpage large user increase zero ft3 
+regional aquifer system analysis northern atlantic coastal plain 
+period amount percent recharge ground water system ft3 
+simulation result indicate water lose aquifer system pump largely offset reduction base flow stream lesser extent reduction aquifer storage 
+contribution aquifer storage ft3 percent pumpage 
+although effect pump overall water budget relatively small water level north carolina coastal plain aquifer system decline dramatically part aquifer since location due pumping stress 
+the three principal area long term decline water level lower cretaceous low cape fear aquifer northeastern north carolina response withdrawal franklin low cape fear upper cape fear black creek aquifer central north carolina coastal plain pump occurs several site beaufort castle hayne aquifer beaufort county large withdrawal open pit phosphate mining chemical manufacturing 
+since water level decline less surficial a10 yorktown aquifer also true updip part aquifer major withdrawal occur 
+simulation year percent annual increase withdrawal pump location give virtually result simulation two shallow aquifer updip part aquifer 
+the year simulation indicate significant local water level decline lower confine aquifer cell basis top aquifer 
+direction vertical flow confine unit alter many area since 
+vertical ground water flow confine unit generally downward interstream area upward major stream valley coastal area 
+ground water pumpage substantially alter pattern several area 
+the widespread change cause ground water move downward pumped aquifer area move upward predevelopment time 
+area downward movement commonly occur major stream valley 
+area downward movement also extend far coastward confine unit overlie extensively develop aquifer 
+select reference aucott davis speiran geohydrologic framework coastal plain aquifer south 
+carolina geological survey water resource investigation report 
+aucott speiran ground water flow coastal plain aquifer south carolina ground water 
+beck van straten gerrit ed uncertainty forecasting water quality new york springer verlag blankenship reconnaissance ground water resource southport elizabethtown area north carolina north carolina department water resource ground water bulletin brown cosner ground water condition franklin area southeastern virginia geological survey hydrologic investigation atlas sheet 
+brown well logs coastal plain north carolina north carolina department conservation development bulletin geology ground water resource greenville area north carolina north carolina department conservation development bulletin brown miller swain structural stratigraphic framework spatial distribution permeability atlantic coastal plain new york north carolina geological survey professional paper clark miller stephenson johnson parker the coastal plain north carolina north carolina geological economic survey bulletin coble gies winner application regional aquifer system analysis study result grind water management north carolina vecchioli john johnson eds regional aquifer system united state aquifer atlantic gulf coastal plain american water resource association monograph series 
+cosner predictive computer model lower cretaceous aquifer franklin area southeastern virginia geological survey water resource investigation report daniel estimate evapotranspiration streamflow record water resource research 
+dewy sayre jacob evaluation potential impact phosphate mining ground water resource eastern north carolina board consultant report north carolina department water resource eder davis robinson variation monthly precipitation north carolina university north carolina water resource research institute report emsellem demarsily automatic solution inverse problem water resource research 
+fenneman physiography eastern united state new york mcgraw hill 
+select reference 
+floyd peace appraisal ground water resource upper cape fear river basin north carolina north carolina department water air resource ground water bulletin frank reilly bennett definition boundary initial condition analysis saturate ground water flow system introduction geological survey open file report gies wilder parker hydrology major estuary sound north carolina geological survey water supply paper hamilton larson hydrogeology analysis ground water flow system coastal plain southeastern virginia geological survey waterresources investigation report harris wilder geology groundwater resource hertford elizabeth city area north carolina north carolina department water resource ground water bulletin harsh laczniak conceptualization analysis ground water flow system coastal plain aquifer virginia adjacent part maryland north carolina geological survey professional paper heath basic element ground water hydrology reference condition north carolina geological survey water resource investigation open file report hitchon fluid flow western canada sedimentary basin effect topography water resource research 
+kimrey description pungo river formation beaufort county north carolina north carolina department conservation development division mineral resource bulletin layne western company inc virginia north carolina analog model study kansas city kansa leahy three dimensional ground water flow model modify reduce computer memory requirement well simulate confine bed aquifer pinchouts geological survey water resource investigation report leahy martin mary geohydrology simulation ground water flow northern atlantic coastal plain aquifer system geological survey professional paper pi 
+legrand brackish water structural implication great carolina ridge north carolina american association petroleum geologist bulletin 
+geology ground water resource wilmington new bern area north carolina department water resource ground water bulletin summary geology atlantic coastal plain american association petroleum geologist bulletin 
+hydrogeologic framework gulf atlantic coastal plain southeastern geology 
+hydrologic implication charleston earthquake ab 
+geological society america abstract program 
+lohman ground water hydraulics geological survey professional paper martin mary ground water flow new jersey coastal plain geological survey open file report press ground water flow new jersey coastal plain geological survey professional paper meisler harold preliminary delineation salty ground water northern atlantic coastal plain geological survey open file report northern atlantic coastal plain regional aquifer system study sun regional aquifer system analysis program geological survey summary project geological survey circular 
+the occurrence geochemistry salty ground water northern atlantic coastal plain geological survey professional paper pi 
+meng iii harsh hydrogeologic framework virginia coastal plain geological survey professional paper pi 
+morris johnson summary hydrologic physical property rock soil material analyze hydrologic laboratory geological survey geological survey water supply paper mundorff ground water halifax area north carolina north carolina department conservation development bulletin narkunas james groundwater evaluation central coastal plain north carolina raleigh north carolina department natural resource community development nelson geology ground water resource swanquarter area north carolina department water resource ground water bulletin interim report ground water condition capacity use area 
+central coastal plain north carolina north carolina department natural economic resource report investigation nelson barksdale interim report ground water resource kinston area north carolina north carolina department water resource ground water circular north carolina department natural resource community development use water north carolina self supply industrial use raleigh office water resource publication north carolina department natural resource community development water resource council survey agricultural irrigation lower cape fear river basin raleigh peek interim report ground water condition northeastern north carolina north carolina department natural resource community development report investigation 
+regional aquifer system analysis northern atlantic coastal plain 
+peek register preliminary report anomalous pressure deep artesian aquifer southeastern north carolina north carolina department natural economic resource report investigation robison public water supply north carolina part northern coastal plain raleigh north carolina department natural economic resource robison mann public water supply north carolina part southern coastal plain raleigh north carolina department natural resource community development rorabaugh estimate change bank storage ground water contribution streamflow international association scientific hydrology publication 
+schipf geology ground water resource fayetteville area north carolina department water resource ground water bulletin sherwani computer simulation ground water aquifer coastal plain north carolina university north carolina water resource research institute report steinhorst hurt innis haydock sensitivity analysis elm model innis grassland simulation model new york springer verlag 
+stephenson rathbun the cretaceous formation north carolina north carolina geological economic survey 
+stuckey north carolina it geology mineral resource raleigh north carolina department conservation development tant byrd horton general soil map north carolina 
+soil conservation service map scale 
+tomovic sensitivity analysis dynamic system new york mcgraw hill trescott documentation finite difference model simulation three dimensional ground water flow geological survey open file report trescott larson supplement open file report documentation finite difference model simulation three dimensional ground water flow geological survey open file report trescott pinder larson finite difference model aquifer simulation two dimension result numerical experiment geological survey technique water resource investigation book chap 
+wilder robison lindskov water resource northeast north carolina geological survey water resource investigation wilder simmons program evaluate stream quality north carolina geological survey water supply paper winner coble hydrogeologic framework north carolina coastal plain aquifer system geological survey open file report hydrogeologic framework north carolina coastal plain geological survey professional paper pi 
+government printing office 
+select semes geological survey publication 
+periodical preliminary determination epicenter issue monthly 
+technical book report professional paper mainly comprehensive scientific report wide lasting interest importance professional scientist engineer 
+include report result resource study topographic hydrologic geologic investigation 
+they also include collection related paper address different aspect single scientific topic 
+bulletin contain significant data interpretation last scientific interest generally limit scope geographic coverage professional paper 
+they include result resource study geologic topographic investigation well collection short paper relate specific topic 
+water supply paper comprehensive report present significant interpretive result hydrologic investigation wide interest professional geologist hydrologists engineer 
+the series cover investigation phase hydrology include hydrogeology availability water quality water use water 
+circular present administrative information important scientific information wide popular interest format design distribution cost public 
+information usually short term interest 
+water resource investigation report paper interpretive nature make available public outside formal usgs publication series 
+copy reproduce request unlike formal usgs publication also available public inspection depository indicate usgs catalog 
+open file report include unpublished manuscript report map material make available public consultation depository 
+they nonpermanent form publication may cite publication source information 
+map geologic quadrangle map multicolor geologic map topographic base minute quadrangle format scale mainly show bedrock surficial engineering geology 
+map generally include brief texts map include structure columnar section 
+geophysical investigation map topographic planimetric base various scale show result survey use geophysical technique gravity magnetic seismic radioactivity reflect subsurface structure economic geologic significance 
+many map include correlation geology 
+miscellaneous investigation series map planimetric topographic base regular irregular area various scale present wide variety format subject matter 
+the series also include minute quadrangle photogeologic map planimetric base show geology interpret aerial photograph 
+series also include map mar moon 
+coal investigation map geologic map topographic planimetric base various scale show bedrock surficial geology stratigraphy structural relation certain coalresource area 
+oil gas investigation chart show stratigraphic information certain oil gas field area petroleum potential 
+miscellaneous field study map multicolor blackand white map topographic planimetric base quadrangle irregular area various scale 
+pre map show bedrock geology relation specific mine mineral deposit problem post map primarily black white map various subject environmental study wilderness mineral investigation 
+hydrologic investigation atlas multicolored blackand white map topographic planimetric base present wide range geohydrologic data regular irregular area principal scale regional study scale small 
+catalog permanent catalog well other give comprehensive listing geological survey publication available condition indicate geological survey information service box federal center denver 
+see late price availability list 
+publication geological survey may purchase mail counter paperback book form set microfiche 
+publication geological survey may purchase mail counter paperback book form set microfiche 
+publication geological survey may purchase mail counter paperback book form two volume publication list index set microfiche 
+supplement subsequent year since last permanent catalog may purchase mail counter paperback book form 
+state catalog list geological survey geologic water supply report map for state may purchase mail counter paperback booklet form 
+price availability list geological survey publication issue annually available free charge paperback booklet form 
+select copy monthly catalog new publication geological survey available free charge mail may obtain counter paperback booklet form 
+those wish free subscription monthly catalog new publication geological survey write geological survey national center reston 
+note price government publication list old catalog announcement publication may incorrect 
+therefore price charge may differ price catalogs announcement publication 

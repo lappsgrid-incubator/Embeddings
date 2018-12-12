@@ -1,0 +1,880 @@
+land use land cover classification system use remote sensor data geological survey professional paper 
+land use land cover classification system use remote sensor data james anderson ernest hardy john roach richard witmer geological survey professional paper revision land use classification system present geological survey circular united state government print office vvashington 
+united state department the interior james watt secretary geological survey dallas peck director first print second printing third printing fourth printing for sale distribution branch geological survey south pickett street alexandria 
+abstract introduction eed standardization historical development classification system design classification system use remote sense technique classification criterion develop classification system use classification system definition urban build land agricultural land rfoanregsrtualndand vvater vvetland barren land tundra perennial snow ice map presentation select bibliography 
+map part indianapolis ind quadrangle show level land use land cover 
+map part indianapolis ind quadrangle show level land use land cover 
+map part maywood ind quadrangle show level land use land cover 
+map part maywood ind quadrangle show level iii land use land cover 
+major us land united tate --------------·------------------------------------------- land use land cover classification system use remote sensor data 
+standard land use code first level category --------·-------------------------------------------- 
+level land use color code 
+land use and land cover classification system for use with remote sensor data james anderson ernest hardy john roach richard witmer 
+abstract the framework national land use land cover classification system present use remote sensor data 
+the classification system develop meet needs federal state agency date overview land use land cover throughout country basis uniform categorization generalize first second level receptive data satellite aircraft remote sensor 
+the proposed system use feature exist widely use classification system amenable data derive remote sensing source 
+intentionally eft open end federal regional state local agency flexibility develop detailed land use classification third fourth level order meet particular need arne time rema compatible national system 
+revision land use classification system present geological survey circular undertaken order incorporate result extensive test review categorization definition 
+introduction modern nation modern business must adequate information many complex interrelate aspect activity order make decision 
+land use one aspect knowledge land land cover become increasingly important nation plan overcome problem haphazard uncontrolled development deteriorate environmental quality loss prime agricultural land destruction important wetland loss fish wildlife habitat 
+land use data need analysis environmental process problem must understand living condition standard improve maintained current level 
+one prime prerequisite well use land information exist land use pattern change land use time 
+the department agriculture report decade acre 
+hectare urbanized year transportation land use expand acre hectare per year recreational area increase million acre hectare per year 
+knowledge present distribution area agricultural recreational urban land well information change proportion need legislator planner state local governmental official determine good land use policy project transportation utility demand identify future develop ment pressure point area implement effective plan regional development 
+clawson stewart state dynamic situation accurate meaningful current data land use essential 
+public agency private organization know happen make sound plan futwre action reliable information critical 
+the variety land use land cover data need exceedingly broad 
+current land use land cover data need equalization tax assessment many state 
+land use land cover data also need federal state local agency water resource inventory flood control watersupply plan waste water treatment 
+many federal agency need current comprehensive inventory exist activity public land combine exist change us adjacent private land improve management public land 
+federal agency also need land use data ass environmental impact result development energy resource manage wildlife resource minimize man wildlife ecosystem conflict make national summary land use pattern change national policy formula tion prepare environmental impact state ments assess future impact environmental quality 
+land use and land cover classification system for use with remote sensor data 
+need for standardization for many year agency various governmental level collect data land part work independently without coordination 
+too often meant duplication effort find data collect specific purpose little value similar purpose short time later 
+there many different source information exist land use land cover change occur 
+local planning agency make use detail information generate ground survey involve enumeration observation 
+interpretation large scale aerial photograph also use widely avery 
+case supplementary information infer basis utility hookup build permit similar information 
+major problem present application interpretation exist data 
+these include change definition category datacollection method source agency incomplete data coverage vary data age employment incompatible classification system 
+addition nearly impossible aggregate available data differ classification system use 
+the demand standardize land use land cover data increase seek assess manage area critical concern environmental control flood plain wetlands energy resource development production area wildlife habitat recreational land area major residential industrial development site 
+result long concern duplication coordination among federal state local government collection handle various type data united state already achieve reasonably effective though perfect standardization instance evidence present program soil survey topographic map collection weather information inventory forest resource 
+recent development data process remote sense technology make need similar cooperation land use inventory even evident pressing 
+development acceptance system classify land use data obtain primarily use remote sense technique reasonably compatible exist classification system urgently need first step 
+this first time use remote sensor propose provide primary data 
+land use land cover type boundary interpret 
+during past year several survey study project successfully demonstrate remote sensor data useful land lise land cover inventory mapping 
+these survey contribute confidence land use land cover survey large area possible use remote sensor data base 
+mid francis marschner begin map major land use association entire united state use aerial photograph take late early marschner produce set state land use map scale mosaic aerial photograph compile map major land use marschner 
+more recently state new york minnesota use remote sensor data statewide land use mapping 
+new york lunr land use natural resource program new york state office planning coordination employ computer storage category land use information derive hand draft map compile interpret aerial photography 
+this information update manipulate provide numerical summary analyse computer generate map hardy shelton 
+aerial photograph take spring altitude yield data incorporate nine category minnesota land use map part minnesota land management information system orning maki 
+thrower map southwestern united state represent first large area inventory land use employ satellite imagery 
+imagery several man unmanned mission use derive general land use map publish scale 
+remote sense technique include use conventional aerial photography use effectively complement survey base ground observation enumeration potential timely accurate inventory current use nation land resource exists 
+time data process technique permit storage large quantity detail data organize variety way meet specific need 
+the pattern resource use resource demand constantly change 
+fortunately capability obtain data land use relate resource development improve recent technological improvement remote sense equip 
+historical development the classification system 
+ment interpretation technique data process national academy science 
+historical development the classification system the need federal agency broad overview national land use land cover pattern trend environmental value lead formation interagency steer committee land use information classification early 
+the work committee compose representative geological survey department interior national aeronautics space administration nasa soil conservation service department agriculture association american geographer international geographical union support nasa department interior coordinate geological survey 
+the objective committee development national classification system would receptive input data conventional source remote sensor high altitude aircraft satellite platform would time form framework category detail land use study regional state local agency could fit aggregated upward level toward level generalize small scale use national level 
+several classification system design amenable use remote sense technique serve basis discussion conference land use information classification washington june 
+this conference attend representative federal state local government agency universities institute private concern 
+basis discussion interagency steer committee propose develop test land use land cover classification system could use remote sense minimal rei iance supplemental information generalize first second level categorization 
+the need compatibility generalize level land use land cover categorization classification system currently use clearly recognize especially level standard land use cod manual publish urban renewal administration bureau public road 
+inventory major us land make every year economic research service department agriculture frey national inventory soil water conservation need initiate carried second time several agency departmentsof agriculture interior department agriculture 
+two land use classification system initially propose james anderson conference use design place major reliance remote sense although supplementary source information assume available elaborate two anderson 
+the classification system new york state land use natural resource inventory develop mainly center aerial photographic study cornell university design use aerial photography scale although devise speoifically new york state adaptable rlse elsewhere 
+take advantage new york experience ernest hardy john roach invite collaborate prepare definitive framework propose classification 
+definition land use category use new york carefully review modified make applicable country whole 
+the result classification present geological survey circular 
+because past experience commission geographic application remote sense association american geographer richard witmer invite participate other revision classification system 
+attention give mainly generalize first second level categorization 
+definition category two level subject selective test evaluation use dalta obtain primarily high altitude flight part research connection 
+central atlantic regional ecological test site caret project mi2 km2 phoenix pilot project mi2 km2 land use map ozarks regional commission miz km2 
+the work petting poulton provide valuable insight land use mosaic southwestern united state 
+some categorization barren land rangeland suggest researcher adopt land use land cover classification system 
+land use and land cover classification system for use with remote sensor data 
+design classification system for use with remote sense technique there one ideal classification land use land cover unlikely one could ever develop 
+there different perspective classification process process tend subjective even objective numerical approach use 
+there fact logical reason expect one detailed inventory adequate short time since land use land cover pattern change keep demand natural resource 
+each classification make suit need user user satisfy inventory meet need 
+attempt develop classification system use remote sense technique provide framework satisfy need majority user certain guideline criterion evaluation must first establish 
+begin considerable diversity opinion constitutes land use although present use land one characteristic widely recognize significant planning management purpose 
+one concept much merit land use refers man activity land directly relate land clawson stewart 
+land cover hand describe vegetational artificial construction cover land surface burley the type land use land cover categorization develop classification system present report relate system classify land capability vulnerability certain management practice potential particular activity land value either intrinsic speculative 
+concept concern lancf cover land use activity closely relate many case use interchangeably 
+the purpose land use commonly associated type cover whether forest agricultural residential industrial 
+remote sense image form device record activity directly 
+the remote sensor acquire response base many characteristic land surface include natural artificial cover 
+the interpreter use pattern tone texture shape site association derive information land use activity basically information land cover 
+some activity man however cannot directly relate type land cover 
+extensive recreational activity cover large tract land 
+particularly amenable interpretation remote sensor data 
+for example hunt common pervasive recreational use land hunt usually occur land would classify type forest range agricultural land either ground survey image interpretation 
+consequently supplemental information need identify land use hunt 
+supplemental information land ownership map also necessary determine use land park game refuges water conservation district may land us coincident administrative boundary usually discernable inventory use remote sensor data 
+for reason type land use land cover identifiable primarily remote sensor data use basis organize classification system 
+agency require detailed land use information may need employ supplemental data 
+almost classification process rare find clearly define class one would like 
+determine land cover would seem simple draw line land water one consider problem seasonally wet area tidal flat marshes various kind plant cover 
+decision may seem arbitrary must make time description category complete guideline explain inventory process repeat 
+the classification system must allow inclusion part area study also provide unit reference land use land cove type 
+the problem inventory classify multiple us occur single parcel land easily solve 
+multiple us may occur simultaneously instance agricultural land forest land use recreational activity hunt camping 
+us may also occur alternately major reservoir provide flood control spring runoff generate power winter peak demand period 
+this reservoir may sufficient water depth navigable commercial shipping year round may additionally provide summer recreational opportunity 
+obviously activity would detectable single aerial photograph 
+however interpreter occasionally relate floodcontrol activity drawdown easement around reservoir detectable imagery acquire winter low water level 
+similarly major lock water control structure imply barge ship traffic foam tailrace indicate power generation 
+pleasure boat marinas well wake 
+classification criterion 
+boat detect high altitude photograph 
+although activity detectable time use remote sense many multiple use situation cannot interpret degree success 
+the example reservoir provide insight another facet problem solution however possibility need acquire collateral data aid understanding multiple use situation 
+the vertical arrangement many us actual ground surface provide additional problem land use interpreter 
+coal mineral deposit croplands forest electrical transmission line cross pasture rag underground roof building subways beneath urban area exemplify situation must resolve individual user compiler land use data 
+the size minimum area depict particular land use category depend partially scale resolution original remote sensor data data source land use identify interpreted 
+also depend scale data compilation well final scale presentation land use information 
+case land use cannot identify level accuracy approach size small unit mappable other specific land use identify small map 
+farmstead example usually distinguish agricultural land use map generalize level classification 
+hand farmstead may well interpretable small represent final format scale 
+analogous situation may arise use category 
+when map intend format presenting land use data difficult represent unit area small inch side 
+addition small area cause legibility problem map reader 
+user computer generate graphic similarly constrain minimum size computer printout 
+classification criterion land use land cover classification system effectively employ orbital high altitude remote sensor data meet follow criterion anderson 
+the minimum level interpretation accuracy identification land use land cover category remote sensor data least percent 
+the accuracy interpretation several category equal 
+repeatable repetitive result obtainable one interpreter another one time sense another 
+the classification system applicable extensive area 
+the categorization permit vegetation type land cover use surrogate activity 
+the classification system suitable use remote sensor data obtain different time year 
+effective use subcategories obtain ground survey use large scale enhance remote sensor data possible 
+aggregation category must possible 
+comparison future land use data possible 
+multiple us land recognize possible 
+some criterion apply land use land cover classification general criterion apply primarily land use land cover data interpret remote sensor data 
+hop generalize first second level accuracy interpretation attain make land use land cover data comparable quality obtain way 
+for land use land cover data need planning management purpose accuracy interpretation generalize first second level satisfactory interpreter make correct interpretation percent time 
+for regulation land use activity tax assessment purpose example great accuracy usually require 
+great accuracy generally attain much high cost 
+the accuracy land use data obtain remote sensor source comparable acquire use enumeration technique 
+for example post enumeration survey make bureau census reveal percent farm necessarily percent farmland enumerate census agriculture ingram prochaska 
+addition perfect new interpretation technique procedure analysis various type image enhancement signature identification assume resolution capability various remote sense system also 
+land use and land cover classification system for use with remote sensor data 
+resolution resolve power image system refers ability separate two object distance apart 
+land use application interested minimum size area recognize interpretable land use land cover type 
+obviously minimum area depend type characteristic image system involve pragmatically also order generation imagery far study image remove number reproduction stag original record 
+the user refer recent information available determine resolution parameter system 
+the kind amount land use land cover information may obtain different sensor depend altitude resolution sensor 
+there little likelihood one sensor system produce good data altitude 
+would desirable evaluate source remote sense data application solely basis quality characteristic source 
+however common practice transfer data base map matter guideline difficult use base map without extract additional data map 
+topographic map road map detail city map generally contribute detail beyond capability remote sensor data 
+the multilevel land use land cover classification system describe report develop different sensor provide data range resolution dependent upon altitude scale 
+general follow relation pertain assume inch focal length camera use obtain aircraft imagery 
+classification level 
+typical data characteristic 
+landsat formery ert type data 
+high altitude data less scale 
+iii medium altitude data take scale 
+low altitude data take scale 
+although land use data obtain level categorization certainly restrict particular level user group par 
+ticular scale presentation information level would generally interest user 
+desire data nationwide interstate statewide basis 
+more detailed land use land cover data categorize level iii usually use frequently need 
+generate local information intrastate regional county municipal level 
+intend latter level categorization develop user group specific need may satisfy category introduce structure 
+be able aggregate detailed category category level adopt 
+desirable classification system useful 
+general level land use land cover data interface quite effectively point line data available standard 
+topographic map 
+this general relationship categorization level data source intend restrict user particular scale either original data source land use information compile final map product graphic device 
+level land use information example efficiently economically gather large area landsat type satellite high altitude imagery could also interpret conventional large scale aircraft imagery compile ground survey 
+this information display wide variety scale range standard topographic map scale even large much small scale orbital imagery 
+similarly several level category instance level iii category interpret landsat data 
+presently though level category obtain accurately high altitude photograph 
+much level iii level land use land cover data also obtain high altitude imagery 
+this level categorization also present wide range scale 
+however detailed level categorization use dependence necessarily must place high resolution remote sensor data supplemental ground survey 
+the principal remote sensor source level data present time high altitude color infrared photography 
+scale small characteristic high altitude photograph scale generally use final map product 
+the photography use construct update topographic map orthophotoquads similar scale potential data source inventorying land use land cover 
+the orthophoto base particular commonly enable rapid interpretation level information relatively low cost 
+the cost acquire detailed level land use land cover data 
+develop the classification system 
+might prohibit include data large scale map extensive area 
+recent experiment stevens other level land use data reference topographic map conduct researcher map survey branch tennessee valley authority conjunction marshall space flight center oak ridge national laboratory 
+quite satisfactory result obtain interpret land use highaltitude photography 
+area considerable terrain relief stereoplotter use avoid scale problem 
+the category propose level cannot interpret equal reliability 
+part unite state category may extremely difficult interpret high altitude aircraft imagery alone 
+conventional aerial photography source information remote sensor data may need interpretation especially complex area 
+basis research test carry 
+geography program central atlantic regional ecological test site caret project phoenix pilot project land use map ozarks regional commission geological survey determine cost use supplementary information hold reasonable level 
+level iii beyond scope present discussion use substantial amount supplemental information addition remotely sense information scale anticipate 
+surprisingly detailed inventory may undertake use remotely sense supplemental information land use land cover type except complex urban area thoroughly heterogeneous ktures adequately locate measure cod 
+level would call much supplemental information remotely sense data much large scale 
+develop the classification system develop classification system every effort make provide much compatibility possible classification system currently use various federal agency involve land use inventory mapping 
+special attention pay definition land use category use agency extent 
+useful categorize data obtain remote sensor source 
+the definition urban build land example include use similarly classified wooten anderson department agriculture plus built portion major recreational site public installation similar facility 
+agricultural land define include cropland pasture orchard groves vineyard nursery ornamental horticultural area confine feed operation principal component 
+certain land use pasture however cannot separate consistently accurately use remote sensor data source appropriate generalize level classification 
+the totality category thus closely parallels department agriculture definition agricultural land 
+the primary definition forest land employ use data acquire remote sensor approximates use forest service unpublished manual exception brush shrub form type chaparral mesquite class forest land forest service importance watershed control 
+because spectral response generally group rangeland type classification vegetation interpretable remote sense imagery 
+the principal concept certain type cover include rangeland category separate rangeland pasture land rangeland natural climax plant cover native grass forbs shrub potentially useful grazing forage resource congress department agriculture 
+although rangeland usually seed fertilize drain irrigate cultivated forage cover improve manage primarily like native vegetation forage resource regulate vary intensity season graze stoddard smith 
+since typical cropland practice mention characteristic pasture land pasture land similar image signature cropland type 
+the definition wetland incorporate major element original department interior definition shaw fredine well combine effort 
+work group wetlands definition 
+table present general summary land use compile every year economic research 
+land use and land cover classification system for use with remote sensor data 
+service department agriculture supplement source 
+these statistic available state provide various government agency compile information category land use several parallel 
+land use classification system 
+table major us land united state 
+cropland use crop cropland harvest crop failure cultivate summer fallow soil improvement crop idle cropland cropland use pasture grassland pasture range 
+forest land 
+gra us 
+turrabnasnpoarrteaatison rural park wildlife refuge national defense flood control industrial area state own institution misc ellaneous us farmstead farm road lane miscellaneous land 
+acre hectares mil million lion 
+do include area covered water stream lfs mile width lake reservoirs forth acre size 
+include pasture include cropland 
+classification system 
+except urban build area transportation use special us classify dominant cover 
+classification system 
+tundra glacier icefields marsh open swamp bare rock area desert beach miscellaneous land 
+the land use land cover classification system present report table include generalize first second level 
+the system satisfy three major attribute classification process outline grigg give name category simply use accept terminology enable information transmit allows inductive generalization make 
+the classification system capable refi11ement basis extend vary use 
+generalize level meet principal objective providing land use land cover classification system use land use plan management activity 
+attainment fundamental long range objective provide standardized system land use land cover classification national regional 
+table land use land cover classification system use remote sensor data 
+urban build land residential 
+commercial service 
+transportation communi cation utility 
+industrial commercial complex 
+mixed urban build land 
+other urban build land 
+agricultural land 
+cropland pasture 
+orchard grove vineyard nursery ornamental horticultural area 
+confine feed opera tions 
+other agricultural land 
+herbaceous rangeland 
+shrub brush range land 
+mixed rangeland 
+forest land water wetland barren land tundra perennial snow ice 
+deciduous forest land 
+evergreen forest land 
+mixed forest land 
+stream canal 
+bay estuary 
+forest wetland nonforested wetland 
+dry salt flat 
+sandy area beach 
+bare expose rock 
+strip minps 
+quarry gravel pit 
+transitional area 
+mixed barren land 
+shrub brush tundra 
+herbbc eous tundra 
+bare ground tundra 
+mixed tundra 
+perennial snowfield 
+study depend improvement result widespread use system 
+advance technology make may necessary modify classification system use automatic data analysis 
+the landsat skylab mission high altitude aircraft program national aeronautics space administration offer opportunity nationwide test feasibility use classification system obtain land use information uniform basis 
+the approach land use land cover classification embody system describe herein resource orient contrast example people orientation standard land use 
+use the classification system 
+cod manual developed urban renewal administration bureau public road 
+for part manual derive standard industrial classification code establish publish former bureau budget executive office president 
+the people orient system standard land use cod manual assigns seven nine generalize first level category urban transportation recreational related us land account less percent total area unite state table 
+although obvious need urban orient land use classification system also need resource orient classification system whose primary emphasis would remain percent united state land area 
+classification system describe report address need eight nine level category treat land area unite state urban build area 
+six first level category standard land use code retain urban build level 
+even though standard land use code 
+classification differ considerably major emphasis mark degree compatibility two system exist generalized level even detail level 
+table standard land use code first level categm y 
+manufacture second level category include 
+manufacture second level category include 
+transportation communication utility 
+cultural entertainment recreation 
+resource production extraction 
+undeveloped water area 
+standard land use cod manual 
+use the classification system the use similar terminology automatically guarantee land use data collect coded accord two system entirely compatible 
+the principal point departure classification 
+system originate emphasis place remote sense primary data source use 
+classification system 
+beca use emphasis activity must interpret use land cover principal surrogate addition image interpreter customary reference pattern geographic location forth 
+this process necessarily preclude possibility information 
+generated identifies ownership management unit farm ranch relate detach us include specific ownership complex parent activity 
+for example warehouse cannot related retail sale two occurrence separate spatially 
+the actual cover relate us map case rather inject inference inventory process 
+inference use prediction could cause problem land use interpreter land use clearly transition neither former use future use actually present 
+case tempt speculate future use actually determine wideranging situation change occur 
+large clear cut area southeastern forest example always return forest might assume variety future use residential subdivision industrial site area cropland phosphate mine 
+the sagebrush subdivision southwest may potential earmark future settlement carefully plat street yet never experience construction 
+such clear open area identify transitional area 
+since level probably appropriate statewide interstate regional land use land cover compilation map since level category create aggregate similar level iii category level categorization may consider fulcrum classification system 
+the classification system may enter particular level appropriate individual user information generate may add together data generate other form aggregate category next high level 
+example local plan group devise level iii classification particular group land use include sufficient definitional information land use category data could compile large inventory state regional planning group compile data use level category 
+such data turn could serve part data base national inventory 
+seldom necessary inventory land use detailed level even local planning 
+have great detail however provide flexibility manipulate data several different purpose must serve 
+the cost interpret cod record land use data detailed level necessarily great data handle generalized level 
+this extra cost reflect increase cost remote sensor 
+land use and land cover classification system for use with remote sensor data 
+collateral data acquire large scale well increase interpretation cost 
+classification system provide flexibility develop categorization detail level 
+therefore appropriate illustrate additive property system provide examples user wish develop detailed categorization 
+the several example give represent possible categorization 
+user consider limited category develop category utmost utility particular need 
+emphasize whatever category use various classification level special attention give provide potential user data sufficient information may either compile data generalize level aggregate detail data exist class 
+one example subcategorization residential land key standard land use code would 
+level urban build 
+level iii 
+single family unit 
+multi family unit 
+group quarter 
+residential hotel 
+mobile home park 
+transient lodging 
+this particular breakdown residential employ criterion capacity type permanency residence discriminate factor among class 
+criterion apply situation could possibly include density dwelling tenancy age construction forth 
+obviously level iii categorization would require use supplemental 
+user desire level information could employ variety additional criterion discriminate among land us see element allows aggregation transfer categories proper description include individual category whatever level data classify 
+the level category cropland pasture may simply subdivide level iii 
+cropland pasture 
+level iii 
+some user may wish additional criterion employ level iii degree activity idleness degree improvement other may place item level what may primary category one user group may secondary importance another 
+state clawson 
+stewart one man miscellany another man prime concern 
+one would consider publish map current land use part western united state without irrigated land major category 
+with flexibility inherent classification system accommodation type need make easily provide irrigated land map tabulated discrete unit aggregate general category include framework classification 
+possible restructuring would accommodate desire present irrigate land major category would 
+irrigate agricultural land cropland pasture orchard grove forth 
+nonirrigated ricultural land cropland pasture orchard grove forth 
+definition attempt make include sufficient detail finitions present provide general understanding include category level 
+many us describe aetail detectable small scale aerial photograph 
+however detail aid interpretation process additional information useful large scale aerial photograph supplemental information available 
+urban build land urban build land comprise area intensive use much land cover structure 
+included category city towns village strip development along highway transportation power communication facility area occupy mill shop center industrial commercial complex institution may instance isolated urban area 
+development progress land less intensive nonconforming use may locate midst urban build area generally include category 
+agricultural land forest wetland water area fringe urban build area include except surround dominated urban development 
+the urban built category take precedence other criteria one category meet 
+for example residential area sufficient tre cover meet forest land criterion place residential category 
+residential residential land use range high density represent multiple unit structure urban core low density house lot acre periphery urban expansion 
+linear residential developmenh along transportation route extend outwar urban area include residential appendage urban center care must take distinguish commercial strip locality 
+the residential strip generally uniform size space structure linear driveway lawn area commercial strip likely building different size space large driveway park area 
+residential development along shoreline also linear sometimes extend back one residential parcel shoreline first road 
+area sparse residential land use farmstead include category relate unless appropriate compilation scale use indicate us separately 
+rural residential recreational subdivision however include category since land almost totally committed residential use even though may forest range type cover 
+place boundary clear new housing development abut intensively use agricultural area boundary may vague difficult discern residential development occur small isolated unit area mixed less intensive us 
+careful evaluation density overall relation area total urban complex must make 
+idential section integral part us may difficult identify 
+housing situation exist military base college university live quarter laborer near work base lodge employee agricultural field operation resort thus would place within industrial agricultural commercial service category 
+commercial and service commercial area use predominantly sale product service 
+they often abut residential agricultural contrasting use help define 
+component commercial service category urban central business district shop center usually suburban outlying area commercial strip development along major highway access route 
+city junkyard resort forth 
+the main building secondary structure area support basic use include office building warehouse driveway shed park lot landscape area waste disposal area 
+commercial area may include noncommercial us small separate 
+central business district commonly include institution church school commercial strip development may include residential unit 
+when noncommercial us exceed one third total commercial area mixed urban builtup category use 
+there separate tegory recreational land use level since recreational activity pervasive throughout many land us 
+select area predominantly recreation orient distinctive occurrence drive theater identify remote sensor imagery 
+most recreational activity however necessarily identify use supplemental information 
+recreational facility form integral part institution include category 
+there usually major visible difference form parking facility arrangement traffic flow general association building facility 
+the intensively developed section recreational area would include commercial service category extensive part golf course rid area ski area forth would include other urban build category 
+institutional land use various educational religious health correctional military facility also component category 
+all building ground park lot compose facility include within institutional unit area specifically relate purpose institution place appropriate category 
+auxiliary land use particularly residential commercial service support land use military base would include category agricultural area specifically associate correctional educational religious institution place appropriate agricultural category 
+small institutional unit example many church secondary elementary school would mappable large scale usually include within another category residential 
+industrial industrial area include wide array land use light manufacture heavy manufacturing 
+land use and land cover classification system for use with remote sensor data 
+identification light industry focus design assembly finish process packaging product often base type build park shipping arrangement 
+light industrial area may necessarily directly contact urban area many find airport relatively open country 
+heavy industry use raw material iron ore timber coal 
+include steel mill pulp lumber mill electric power generate station oil refinery tank farm chemical plant brickmaking plant 
+stockpile raw material waste product disposal area usually visible along transportation facility capable handle heavy material 
+surface structure associate mine operation include category 
+surface structure equipment may range minimum loading device truck extend area access road process facility stockpile storage shed numerous vehicle 
+spoil material slag heap usually find within short trucking distance major mine area may key indicator underground mining operation 
+uniform identification diverse extract use extremely difficult remote sensor data alone 
+area future reserve include appropriate present use category agricultural land forest land regardless expect future use 
+transportation communication and utilities the land use included transportation communication utility category occur degree within urban builtup category actually find within many category 
+unless map separately whatever scale employ usually consider integral part land use within occur 
+for reason statistical summary area land use category typically represent partial data set 
+statistical area summary land us aggregate level iii though would include accurate area estimate 
+major transportation route area greatly influence land use many land use boundary outline 
+the type extent transportation facility locality determine degree access affect present potential use area 
+highway railway characterize area activity connect linear pattern 
+the highway include right way area use interchange service terminal facility 
+rail facility include station park lots roundhouse repair switch yard relate area well overland track spur connection sufficient width delineation map scale 
+airport seaport major lakeports isolate area high utilization usually welldefined intervene connection although port connect canal 
+airport facility include runway intervene land terminal service building navigation aid fuel storage park lot limit buffer zone 
+terminal facility generally include associated freight warehouse function 
+small airport except rotate farmland heliport land associate seaplane base may identify map scale permit 
+port area include dock shipyard drydock lock waterway control structure 
+communication utility area involve processing treatment transportation water gas oil electricity area use airwave communication also include category 
+pump station electric substation area use radio radar television antenna major type 
+small facility associate industrial commercial land use include within large category associate 
+long distance gas oil electric telephone water transmission facility rarely constitute dominant use land associate 
+industrial and commercial complex the industrial commercial complex category include industrial commercial land use typically occur together close functional proximity 
+such area commonly label terminology industrial park since function warehouse wholesale occasionally retailing may find structure nearby inclusive category title adopt 
+industrial commercial complex definite remote sensor image signature allow separation urban build land us 
+because intentional development discrete unit land use may border wide variety land use type residential land agricultural land forest land 
+separate function include category iden 
+tified level iii use supplemental data however pasture land equipwith ground survey land use researcher ment use infrequently may show welldiscretion aggregate function define shape area 
+these distinctive geo 
+appropriate level urban build category metric pattern also characteristic urban 
+retain unit industrial commercial build land street layout develop 
+ment block 
+distinguish agricultural 
+mixed urban build land 
+urban build land ordinarily possible basis urban activity indicator 
+the mixed urban build category use associate concentration population 
+the num 
+mixture level urban build us ber building complex small density individual use cannot separate map scale 
+road highway network much low 
+where one third intermixture another agricultural land urban build land 
+use use occur specific area classify some urban land use park large cemeas mixed urban build land 
+where inter teries however may mistake agricultural 
+mixed land use use total less one third land especially occur periphery 
+specific area category appropriate urban area 
+dominant land use apply 
+the interface agricultural land 
+this category typically include development category land use may sometimes transition 
+along transportation route city towns zone intermixture land us 
+build area separate land use cannot first second level categorization 
+map individually 
+residential commercial farming activity limit wetness exact dustrial occasionally land us may boundary also may difficult locate agricul 
+mixture industrial commercial tural land may grade wetland 
+when pro 
+use industrial commercial complex duction agricultural crop hinder wetfined category include category 
+land condition cropland include 
+farmstead intermix strip cluster settle agricultural category 
+this latter stipulation 
+ments include within build land also include case agricultural crop 
+agricultural land us exclude 
+production depend wetland condition 
+other urban bullt land other urban build land typically consist us golf drive range zoos urban park cemetery waste dumps water control structure spillway extensive part use golf course ski area undeveloped land within urban set 
+open land may intensive use use require structure urban playground botanical garden arboretum 
+the use description idle land vacant land open land avoid categorize undeveloped land within urban area basis use remote sensor data since information generally available interpreter make refinement categorization 
+flood ricefields development cranberry bog 
+when land produce economic commodity function wild state wild rice cattail certain forest product commonly associate wetland however include wetland category 
+similarly wetland drain agricultural purpose include agricultural land category 
+when drainage enterprises fall disuse wetland vegetation reestablish land reverts wetland category 
+the level category agricultural land cropland pasture orchard groves vineyard nursery ornamental horticultural area confine feed operation other agricultural land 
+cropland and pasture 
+agricultural land 
+the several component cropland pasture 
+agricultural land may define broadly land use agricultural statistic include crop use primarily production food fiber 
+land harvest include bush fruit cultivate high altitude imagery chief indication agri summer fallow idle cropland land cultural activity distinctive geometric field crop failure occur cropland soil improvement road pattern landscape trace grass legume cropland use pasture produce livestock mechanized equipment 
+rotation crop past land 
+land use and land cover classification system for use with remote sensor data 
+less permanently use purpose 
+from imagery alone generally possible make distinction cropland pasture high degree accuracy uniformity let alone distinction among various component cropland hardy belcher phillips 
+moreover component list represent condition land end grow season apply exactly imagery take time year 
+they however guide identification cropland pasture 
+brushland eastern state typically use extent pasture cattle include shrub brushland rangeland category since graze activity usually discernible remote sensor imagery appropriate level 
+this activity possibly might distinguish low altitude imagery 
+such grazing activity generally occur land crop production intensive pasturing cease variety reason grow brush 
+such brushlands often use graze somewhat analogous extensive use rangelands west 
+certain factor vary throughout united state variability also must recognize field size depend topography soil type size farm kind crop pasture capital investment labor availability condition 
+irrigated land western state recognize easily contrast rangeland eastern state irrigation use overhead sprinkler generally cannot detect imagery unless distinctive circular pattern create 
+drainage water control land use cropland pasture also may create recognizable pattern may aid identification land use 
+area quick grow crop field may appear nonagricultural use unless temporary nature inactivity recognize 
+orchard grove vineyard nursery and ornamental horticultural area orchards grove vineyard produce various fruit nut crop 
+nursery horticultural area include floricultural seed sod area greenhouse use perennially purpose 
+tree nursery provide seedling plantation forestry also include 
+many area may include another category generally cropland pasture identification make use small scale imagery alone 
+identification may aid recognition combination soil quality topography local 
+climatological factor need operation water body close proximity moderate effect short duration temperature fluctuation 
+site selection air drainage slop land deep well drain soil slope moderate enough permit use machinery 
+isolate small orchard fruit tree family farm usually recognizable high altitude imagery therefore include 
+confine feed operation confine feed operation large specialized livestock production enterprise chiefly beef cattle feedlots dairy operation confine feed large poultry farm also include hog feedlot 
+these operation large animal population restrict relatively small area 
+the result concentration waste material environmental concern 
+the waste disposal problem justify separate category relatively small area 
+confine feed operation build appearance chiefly compose building much fence access path waste disposal area 
+some locate near urban area take advantage transportation facility proximity processing plant 
+exclude shipping corral temporary hold facility 
+such occurrence thoroughbred horse farm generally animal population density would place category 
+other agricultural land other land use typically associate first three category agricultural land principal component other agricultural land category 
+they include farmstead hold area livestock corral breed training cilities horse farm farm lane road ditch canal small farm pond similar us 
+such occurrence generally quite small area often uninterpretable use high altitude data 
+even interpretable data may feasible map small presentation scale generally result inclusion adjacent agricultural use area 
+this category also use aggregate data land use derive detailed level classification 
+rangeland rangeland historically define land potential natural vegetation predominantly grass grasslike plant forbs shrub 
+natural herbivory important influence precivilization state 
+management technique associate soil water forage vegetation resource suitable rangeland management practice generally use manage pastureland 
+some rangeland may seed introduce domesticated plant specie 
+most rangeland united state western range area west irregular north south line cut dakotas nebraska kansa oklahoma texas 
+rangeland also find certain place historically include western range flint hill southeastern state alaska 
+the historical connotation rangeland expand classification include area eastern state commonly call brushlands 
+the level category rangeland herbaceous range shrub brush rangeland mixed rangeland 
+herbaceous rangeland the herbaceous rangeland category encompass land dominate naturally occur grass forbs well area actual rangeland modify include grass forbs principal cover land manage rangeland purpose manage use practice typical pastureland 
+include tall grass true prairie short grass bunch grass palouse grass desert grass region 
+respectively grass region represent sequence decline amount available moisture 
+most tall grass region plow agriculture remain tall grass range north dakota nebraska southern kansa oklahoma texas coastal plain 
+short grass rangeland occur strip mile wide texas panhandle northward dakota widen cover western half dakota eastern three fourth montana eastern third wyoming 
+bunch grass desert grass find many location represent transitional situation desert shrub 
+typical occurrence grassland include specie various bluestem andropogon grama grass bouteloua wheatgra ss agropyron needlegrasses stipa fescue festuca 
+this category also include palmetto prmne area south central florida consist mainly dense stand medium length tall grass wiregrass aristida stricta saw palmetto seronoa ipens intersperse occasional 
+palm sabal palmetto shrub shelford 
+those palmetto prairie area improve pasture would include category would herbaceous variety tundra vegetation 
+shrub and brush rangeland the typical shrub occurrence find arid semiarid region characterize xerophytic vegetative type woody stem big sagebrush artemisia tridentata shadscale atriplex conje1 tijolia greasewood sarcobatus vermiculatus creosotebush larrea divaricata also typical desert succulent xerophytes various form cactus kuchler 
+when bottom land moist flat characterize dense stand typical wetland specie mesquite prosopis consider wetland 
+where highly alkaline soil present halophyte desert saltbush atriplex may occur 
+the type density association various specie useful indicator local hydrologic pedologic environment 
+also include category chaparral dense mixture broadleaf evergreen schlerophyll shrub occurrence mountain mahogany cercocarpus ledifolius scrub oak quercus 
+the eastern brushlands typically former croplands pasture land clear original forest land grow brush transition back forest land extent longer identifiable cropland pasture remote sensor imagery 
+many brushlands graze extensive manner livestock provide wildlife habitat 
+these area usually main part farm enterprise even though use former level intensity 
+eastern brushland area traditionally include rangeland concept original forest state prior clear cropland pasture generally summarize statistically pastureland 
+because function primarily extensive grazing land include part rangeland category 
+after sufficient forest growth occur classify either deciduous evergreen mixed forest land 
+those occurrence shrubs brush part tundra include rangeland 
+mixed rangeland when one third intermixture ither herbaceous shrub brush rangeland specie occur specific area classify mixed 
+land use and land cover classification system for use with remote sensor data 
+where intermixed land use use total less one third specific area category appropriate dominant type rangeland apply 
+mixture herbaceous shrub brush tundra plant consider rangeland 
+forest land forest land tree crown areal density crown closure percentage percent stock tree capable produce timber wood product exert influence climate water regime 
+forest land generally identify rather easily high altitude imagery although boundary category land may difficult delineate precisely 
+land tree remove less percent crown closure develop us also include 
+for example land rotation cycle clearcutting blockplanting part forest land 
+land tree reach marketable size pulpwood southeastern united state may occur decade large area little visible forest growth 
+the pattern sometimes identify presence cut operation midst large expanse forest 
+unless evidence use area little forest growth include forest land category 
+forest land graze extensively southeastern state would include category dominant cover forest dominant activity forest relate 
+such activity could iorm basis level iii categoriza tion 
+land meet requirement forest land also urban build category place latter category 
+the exception classify forest land area would otherwise classified wetland forest cover 
+since wet condition much interest land manager plan group important environmental surrogate control1 land classify forested wetland 
+auxiliary concept associate forest land wilderness reservation water conservation ownership classification detectable use remote sensor data 
+such concept may use create category detail level supplemental information available 
+level forest land divide three category deciduous evergreen mixed 
+differentiate three category effectively sequential data least data acquire period deciduous tree bare generally necessary 
+deciduous forest land deciduous forest land include forest area predominance tree lose leaf end frost free season begin dry season 
+part united state would hardwoods oak querc maple acer hickory carya soft hardwood aspen populus tremuloides shelford 
+tropical hardwood include evergreen forest land category 
+deciduous forest type characteristic wetland tupelo nyssa cottonwood populus deltoid also include category 
+evergreen forest land evergreen forest land include forest area tree predominantly remain green throughout year 
+both coniferous broad leave evergreen include category 
+area coniferous evergreen predominate forest hawaii notable exception 
+the coniferous evergreen commonly refer classified softwood 
+they include eastern specie longleaf pine pinus palustris slash pine pinus ellioti shortleaf pine pinus echinata loblolly pine pinus taeda southern yellow pine various spruce picea balsam fir abies balsamea white pine pirnts strobus red pine pinus resinosa jack pine pinus banksiana hemlock tsuga canadensis western specie douglas fir pseudotsttga menziesii redwood sequoia sempe1 virens ponderosa pine pinus monticola sitka spruce picea sitchensis engelmann spruce picea engelmanni western redcedar thuja plicata western hemlock tsuga heterophylla shelford 
+evergreen specie commonly associate wetland tamarack larix laricina black spruce picea mariana include category kuchler 
+mixed forest land mixed forest land include forest area evergreen deciduous tree grow neither predominates 
+when onethird intermixture either evergreen deciduous specie occur specific area classify mixed forest land 
+where intermixed land use 
+us total less one third specify area category appropriate dominant type forest land apply whether deciduous evergreen 
+water the delineation water area depend scale data presentation scale resolution characteristic remote sensor data use interpretation land use land cover 
+water define bureau census include area within land mass united state persistently water cover provide linear least lj8 mile wide extend cover least acre hectare 
+for many purpose agency need information size number water body small bureau census minimum 
+these frequently obtain small scale remote sensor data considerable accuracy 
+stream and canal the stream canal category include river creeks canal linear water body 
+where water course interrupt control structure impound area place reservoir category 
+the boundary stream body water straight line across mouth stream nautical mile 
+beyond limit classification water body change appropriate categqry whether lake reservoirs bay estuary 
+these latter category use water body consider inland water therefore include total area unite state 
+category apply water classify inland water offshore marine water beyond mouth river bureau census 
+lake lake nonflowing naturally enclose body water include regulated natural lake exclude reservoir 
+island small delineate include water area 
+the delineation lake base areal extent water time remote sensor data acquire 
+reservoir reservoirs artificial impoundment water use irrigation flood control municipal water supply recreation hydroelectric power generation 
+dam levees water control structure excavation usually evident aid identification although water control structure spillway include other urban build land category 
+case reservoirs serve multiple purpose may include land use function mention 
+certain case like tennessee river entire length trunk stream impound 
+situation stream exist stairstep series impoundment waterway flood control recreation power generation function still consider reservoir since additional function result impoundment 
+and estuary bay estuary inlet arm sea extend inland 
+they include system consider inland water therefore include within total area unite state 
+those bay estuarine water area classify inland water include within total area unite state 
+these inland water area adjacent certain state fall jurisdiction 
+they occur primary body water atlantic ocean coastal water chesapeake bay delaware bay long island sound gulf mexico pacific ocean coastal water puget sound strait georgia juan euca gulf alaska bering sea arctic ocean coastal water great lake bureau census 
+only bay estuary classify inland water include category 
+category apply offshore water beyond limit bay estuary 
+wetland wetlands area water table near land surface significant part year 
+the hydrologic regime aquatic hydrophytic vegetation usually establish although alluvial tidal flat may nonvegetated 
+wetland frequently associate topographic low even mountainous region 
+example wetland include marsh mudflats swamps situate shallow margin bay lakes pond stream manmade impoundment reservoirs 
+they include wet meadow perch bogs high mountain valley seasonally wet flooded basin playas pothole surface water outflow 
+shallow water area 
+land use and land cover classification system for use with remote sensor data 
+aquatic vegetation submerge class ally flood bottomland hardwood mangrove 
+open water include wetland swamp shrub swamp wooded swamp 
+elude around bog 
+because forest wet 
+extensive part river flood plain qualify land detect map use 
+wetland regularly flood irrigation seasonal winter summer imagery 
+flow area 
+these include agricultural land delineation forest wetland need many 
+seasonal wetness short term flooding may environmental planning activity sepa 
+provide important component total annual rat category forest land 
+soil moisture necessary crop production 
+area the following example typical vegetation 
+soil wetness flood short live found forest wetland 
+wooded swamp 
+typical wetland vegetation develop southern flood plain contain primarily cypress 
+properly belong category 
+taxodium tupelo nyssa oak quercus 
+cultivate wetland flood field red maple acer rubrum 
+mangrove avicennia 
+associate rice production develop cran rhizophora dominant certain subtropi 
+berry bog classify agricultural land 
+cal forest wetland area 
+central northern 
+cultivate wetland wild rice cattail flood plain dominate cottonwood pop 
+wood product forth harvest ulus ash fraxinus alder alnus willow 
+wetland graze livestock retain salix 
+flood plain southwest may domi 
+wetland category 
+nated mesquite prosopis saltcedar tamarix 
+remote sensor data provide primary source seepwillow baccharis arrowweed pluchea 
+land use vegetative cover information northern bog typically contain tamarack larch 
+generalize level classification system 
+larix black spruce picea mariana heath 
+vegetation type detectable surface water shrubs ericaceae 
+shrub swamp vegetation 
+soil moisture interpret data provide eludes alder alnus willow salix button 
+appropriate mean identify wetland bush cephalanthus occidentalis 
+wetland boundary 
+inasmuch vegetation responds change moisture condition remote sensor data acquire period time allow detection fluctuation wetland condition 
+ground survey soil type duration flooding may provide supplemental information employ detailed level classification 
+wetland area drain purpose belong land use land cover categories agricultural land rangeland forest land urban build land 
+when drainage discontinue use cease classification may revert wetland 
+wetland manage wildlife purpose may show short term change land use different management practice use properly classify wetland 
+two separate boundary important respect wetland discrimination upper wetland boundary practically category land use land cover may exist boundary wetland open water beyond 
+nonforested wetland nonforested wetland dominate wetland herbaceous vegetation nonvegetated 
+these wetland include tidal nontidal fresh brackish salt marsh nonvegetated flat also freshwater meadow wet prairie open bog 
+the following example vegetation associate nonforested wetland 
+narrow leave emergents cordgrass spartina rush juncus dominant coastal salt marsh 
+both narrow leave emergents cattail typha bulrush scirpus sedges carex sawgrass cladium grass example panicum zizaniopsis miliacea broad leave emergents waterlily nuphar nymphea pickerelweed ntederia arrow arum peltandra arrowhead sagittaria water hyacinth eichhornia crassipes alligatorweed alternanthera philoxe1 oides typical brackish freshwater location 
+moss sphagnum sedge grow wet meadow bog 
+appropriate water category employ 
+forest wetland nonforested wetland level category wetland 
+barren land barren land land limit ability support life less one third area 
+forest wetland 
+vegetation cover 
+general area 
+forest wetland wetland dominate thin soil sand rock 
+vegetation present 
+woody vegetation 
+forest wetland include season widely space scrubby 
+shrub brush category rangeland 
+unusual condition heavy rainfall occasionally result growth short live luxuriant plant cover 
+wet nonvegetated barren land include nonforested wetland category 
+land may appear barren man activity 
+when may reasonably infer data source land return former use include barren category classify basis site situation 
+agricultural land example may temporarily without vegetative cover cropping season tillage practice 
+similarly industrial land may waste tail dump area intensively manage forest land may clearcut block evident 
+when neither former future use discern area obviously state land use transition consider barren land order avoid inferential error 
+level category barren land dry salt flat beach sandy area beach bare expose rock strip mine quarry gravel pit transitional area mixed barren land 
+dry salt flat dry salt flat occur flat floor bottom interior desert basin qualify wetland include category 
+aerial photograph dry salt flat tend appear white light tone high concentration salt surface water evaporate result high albedo adjacent desert feature 
+beach beach smooth slop accumulation sand gravel along shoreline 
+the surface stable inland shoreward part subject erosion wind water deposition protect area 
+sandy area other than beach sandy area beach compose primarily dunes accumulation sand transport wind 
+sand accumulation commonly find desert although also occur coastal plain river flood plain deltas periglacial environment 
+when sand accumulation encounter tundra area include place bare ground tundra category 
+bare expose rock the bare expose rock category include area bedrock exposure des ert pavement scarp talus slide volcanic material rock glacier accumulation rock without vegetative cover exception rock exposure occur tundra region 
+strip mine quarry and gravel pit those extract mining activity significant surface expression include category 
+vegetative cover overburden remove expose deposit coal iron ore limestone copper 
+quarry building decorative stone recovery sand gravel deposit also result large open surface pit 
+current mining activity always distinguishable inactive unreclaimed active strip mine quarry borrow pit gravel pit include category cover use establish land would classify accordance result use cover 
+unused pit quarry flood however place appropriate water category 
+transitional area the transitional area category intend area transition one land use activity another 
+they characterize lack remote sensor information would enable land use interpreter predict reliably future use discern past use 
+all actually determine situation transition progress inference past future use avoid 
+this transitional phase occur example forest land cleared agriculture wetland drain development type land use cease area become temporarily bare construction plan future us residence shop center industrial site suburban rural residential subdivision 
+land alter filling occurs spoil dump sanitary landfill also indicative transitional phase 
+mixed barren land the mixed barren land category use mixture barren land feature occur dominant land use occupy less two third area 
+such situation arise example desert region combination salt flat sandy area bare rock surface extraction transi 
+land use and land cover classification system for use with remote sensor data 
+tional activity could occur close proximity areal extent small include mapping scale 
+where one third intermixture another use use occur specific area classify mixed barren land 
+where intermixed land use use total less onethird specific area category appropriate dominant type barren land apply 
+tundra tundra term apply treeless region beyond limit boreal forest altitudinal limit tree high mountain range 
+united state tundra occurs primarily alaska several area western high mountain range small isolated location higher mountains new england northern new york 
+the timber line separate forest tundra alpine region correspond arctic transition zone tree increasingly restrict favorable site 
+the vegetative cover tundra low dwarfed often form complete mat 
+these plant characteristic large part result adaptation physical environment one extreme earth temperature may average freezing month year strong desiccating wind may occur great variation solar energy receive may exist permafrost encounter almost everywhere beneath vegetative cover 
+the number specie tundra flora relatively small compare typical middle lowlatitude flora number specie decrease environment becomes increasingly severe change latitude altitude 
+the tundra vegetation consist primarily grass sedges small flower herbs low shrub lichens moss 
+the vegetative cover luxuriant near boreal forest ground surface usually completely cover 
+plant cover become sparse shrub become few bare area occur 
+specie diversity low near boundary permanent ice snow area isolate patch vegetation occur bare ground surface 
+the vegetation tundra closely associated environmental factor 
+minor manmade disturbance well microenvironmental change short distance significant effect 
+minor change available moisture wind protection example result different plant association 
+similarly man activity tundra may 
+engender new drainage pattern resultant change plant community erosion characteristic price 
+the boundary tundra perennial snow ice water best determine use image acquire late summer 
+the forest landtundra boundary arctic tends transitional wide area characterize either incursion forest site improvement occur along flood plain river valley increase environmental severity expose dry upland 
+this forest land tundra boundary much easy delineate alpine area 
+the barren landtundra interface occur one environmental parameter necessary vegetation growth deficient also would determine best late summer imagers 
+use result various investigation level category tundra base primarily interpretable remote sensor image signatures shrub brush tundra herbaceous tundra bare ground tundra wet tundra mixed tundra 
+shrub and brush tundra the shrub brush tundra category consist various woody shrubs brushy thicket find tundra environment 
+these occur dense open evergreen deciduous thicket latter dominate type various birch betula alder alnus willow salix well many type berry plant 
+low evergreen shrub thicket characterize dominant type empetrum various member heath family cassiope vaccinium ledum viereck little 
+herbaceous tundra herbaceous tundra compose various sedge grass forbs lichens moss lack woody stem 
+wide variety herbaceous type may find close proximity tundra 
+site sufficient moisture usually cover thick mat mosses together sedge carex eriophorum cotton grass almost continuous uniform tussock well herbaceous form type bluegrass poa buttercup ranunculus lichen cladon1 cet1 
+drier expose site usually trend toward sparse moss lichen mat 
+bare ground tundra the bare ground tundra category intend tundra occurrence less one 
+third vegetate 
+usually consist site visually dominate considerable area expose bare rock sand gravel intersperse low herbaceous shrubby plant 
+this type tundra indicative severe environmental stress usually occur poleward area support luxuriant herbaceous shrub form higher mountain ridge 
+the various specie dryas white mountain avens dominant arctic region sandwort minu artia mountainheaths phyllodoce 
+bare ground tundra gradually merge one barren land category severe margin 
+wet tundra wet tundra usually find area little topographic relief 
+stand water almost always present month temperature average freezing level 
+numerous shallow lake also common joint federal state land use plan commission alaska 
+permafrost usually close surface various pattern ground feature may evident 
+sedge carex cotton grass characteristically dominant shrubby plant may occur adjacent drier site 
+root aquatic plant also common 
+wet tundra delineate best imagery acquire late summer 
+mixed tundra the mixed tundra category use mixture level tundra occurrence particular type occupies less two third area mapping unit 
+where onethird intermixture another use use occur specific area classify mixed tundra 
+where intermixed land cover category total less one third specific area category appropriate dominant type tundra apply 
+perennial snow ice certain land perennial cover either snow ice combination environmental factor cause feature survive summer melting season 
+persist relatively permanent feature landscape may use environmental surrogate 
+snow firn coarse compact granular snow ice accumulation area exceed ablation combine loss snow ice mass evaporation melt water runoff 
+adjacent land commonly classed water wetland barren 
+land tundra common boundary distinguish readily late summer imagery 
+the terminology nomenclature subdivision perennial snow ice area always subject considerable debate level breakdown category perennial snowfield glacier seem appropriate use remote sensor data 
+such subdivision base surface form presence absence feature indicate glacial flow 
+addition form flow feature may relate stage development certain periglacial glacial process 
+perennial snowfield perennial snowfield accumulation snow firn entirely melt previous summer 
+snowfield quite extensive thus representative regional climate quite isolated localize know various term snowbank 
+the regional snowline control general climatic condition closely parallel regional isotherm average temperature warm summer month 
+the use term line somewhat misleading snowline represent irregular transitional boundary determine single location combination snowfall ablation variable change greatly within short distance change local topography slope orientation 
+small isolate snowfield occur protected location develop incipient nivation cirques become gradually hollowed annual pattern freeze thaw aid downslope movement rock material 
+they circular semicircular often develop ridge mass waste material call protalus rampart downslope margin 
+flint point such cirque course indication glaciation indicate merely frost climate 
+snowfield normally distinguish follow glacier category relative lack flow feature 
+glacier glacial ice originates compaction snow firn finally ice weight several successive annual accumulation 
+refrozen melt water usually contribute increase density glacial ice mass 
+with sufficient thickness 
+land use and land cover classification system for use with remote sensor data 
+weight bulk flow begin glacier exhibit evidence present past motion form moraine crevasse forth 
+where snowline adjacent ice free area extend across glacier know firn limit represent divide line glacier two major zone zone accumulation zone ablation 
+while glacier normally recognize easily certain glacial boundary may subject misinterpretation even experience interpreter 
+flow feature upglacier firn limit typically obscure fresh snow force image interpreter depend secondary information valley shape seek discriminating sensor 
+similarly morainal material may cover terminus snout glacier ablation make boundary determination vicinity difficult 
+this latter problem occasionally compound presence considerable vegetation root insulate blanket ablation moraine 
+further subdivision glacial occurrence mainly basis form topographic position would include small drift glacier sometimes call ural type cirque glacier valley glacier also call mountain alpine glacier piedmont glacier icecap ice sheet 
+other feature somewhat surface form true glacier rock glacier 
+since compose primarily fragment rock material together interstitial ice classify bare expose rock 
+map presentation figure depict typical map produce use geological survey land use land cover classification system 
+the land use land cover map produce conventional interpretation technique typical example map produce highaltitude color infrared photograph 
+order provide systematic uniform approach presentation land use land cover information map format scheme color cod employ table 
+scheme level land use color cod use modify version world land use survey international geographical union color scheme 
+level land use present use two digit numeral appropriate land use category would signify cropland pasture 
+the use type system stratus 
+level land use color code 
+urban build land red munsell5r 
+agricultural land light brown munsell 5yr 
+rangeland light orange munsellloyr 
+forest land green munsell logy 
+water dark blue munsell lob 
+wetland light blue munsell 
+barren land gray munsell 
+tundra green gray munsell log 
+perennial snow ice white munsell 
+fication color necessary level since would considerable problem select different color would distinguishable size minimum mapping unit 
+numerical system number digits equal level categorization form flexible classification system permit continuation level iii beyond 
+addition retain discrete color code level land use land cover category permit rapid visual integration area characterize use cover type 
+even though numerical system level land use illustrated system method present level land use information 
+what propose use modify international geographical union world land use survey color code level 
+alternative numerical code level could take form graphic symbol dot stipples cross hatch swamp marsh symbols great variety item available cartographer 
+such method together level color cod would allow reader rapid visual orientation discrete level land use category would impede statistical inventory area include land use would difficult subdivide level iii category 
+another alternative land use symbolization level use alphabetical code category represent urban build residential land agricultural cropland pasture 
+such system merit suggest logical name category also impede interpretation enumeration detailed level increase complexity alphabetical code 
+addition increase length alphabetical code use detailed level cause placement problem minimum size map unit proached 
+map presentation 
+explanation urban build land agricultural land forest land water barren land 
+mile kilometres figure level land use land cover enlarge part northeast quarter indianapolis indiana illinois quadrangle 
+area outline center map correspond maywood area show figure 
+land use and land cover classification system for use with remote sensor data explanation residential commercial service industrial transportation communication utility industrial commercial complex mixed urban build land other urban build land cropland pasture orchard groves vineyard nursery ornamental horticultural area confine feed operation deciduous forest land stream canal reservoirs strip mine quarry gravel pit transitional area mile 
+kilometre figure level land use land cover enlarge part northeast quarter indianapolis indianaillinois quadrangle 
+area outline center map correspond maywood area show figure 
+map presentation 
+explanation residential commercial service industrial transportation communication utility other urban build land cropland pasture orchard groves vineyard nursery ornamental horticultural area other agricultural land deciduous forest land evergreen forest land mixed forest land stream canal lakes reservoir nonforested wetland strip mine quarry gravel pit 
+mile kilometre figure level land use land cover part maywood indiana quadrangle 
+level iii interpretation area show figure 
+land use and land cover classification system for use with remote sensor data 
+explanation single family retail trade primary process fabrication extraction facility highways airport communication utility waste dumps urban undeveloped cropland pastureland nursery floriculture farmsteads percent crown cover deciduous percent crown cover deciduous percent crown cover deciduous percent crown cover evergreen percent crown cover mixed stream lakes water fill quarry mudflats sand gravel pit active 
+mile kilometre figure level iii land use land cover part maywood indiana quadrangle 
+level interpretation area show figure 
+select bibliography 
+select bibliography anderson james land use classification scheme use select recent geographic application remote sense photogramm eng 
+anderson james hardy ernest roach john land use classification system use remote sensor data geol 
+survey circ 
+avery eugene interpretation aerial photograph 2nd 
+minneapolis burgess pub 
+barlowe raleigh land resource economics 2nd 
+englewood cliff pre tice hall inc burley terence land use land utilization 
+prof geographer 
+clawson marion stewart charles land use information 
+critical survey statistic include possibility great uniformity baltimore the john hopkins press resource future inc colvocoresses alden image resolution erts skylab gemini apollo photogramm 
+colvocoresses alden mcewen robert progress cartography eros program symposium significant result obtain earth resource technology satellite natl 
+aeronautics space admin 
+ellefsen swain wray urban land use map machine processing erts multispectral data san francisco bay area example west lafayette ind purdue univ 
+application remote sense inf 
+flint glacial pleistocene geology new york john wiley son inc frey thomas major us land united state summary dept 
+agriculture econ .~· esearch service agr 
+gleason henry cronquist arthur the natural geography plant new york columbia univ 
+press grigg david the logic regional system annals assoc 
+hardy ernest belcher donald phillips elmer land use classification simulate satellite photography dept 
+agriculture econ 
+research service agr 
+bull hardy ernest shelton ronald inventory new york land use natural resource new york food life science 
+hawley arthur the present future status eastern north carolina wetland chapel hill univ 
+north carolina water esources re 
+inst rept 
+ingram prochaska asur completeness coverage census agriculture 
+assoc business econ 
+sect ann 
+mtg montreal proc international geographical union report committee world land survey period worcester england joint federal state land use plan commission alaska major ecosystem alaska anchorage joint federal state land use planning comm 
+alaska map scale incl 
+kuchler potential natural vegetation conterminous united state amer 
+soc spec 
+marschner major land us united state map scale dept 
+agriculture agr 
+research service 
+national academy science remote sense special referenc agriculture forestry washington natl 
+sci new york state office planning coordination land use natural resource inventory new york state albany new york state office planning coordination oosting henry the study plant community 2nd 
+san francisco freeman orning george maki les land management information northwest minnesota minneapolis univ 
+minn center urban study minn land management inf 
+system study rept 
+petting poulton the application high altitude photography vegetation resource inventory southeastern arizona final rept contract 
+na natl 
+aeronautics space admin price larry the periglacial environment permafrost man washington assoc 
+geographer comm 
+college geography resource paper 
+rosenberg paul resolution detect recognizability photogramm 
+shaw samuel fredine gordon wetland united state dept 
+interior fish wildlife service circ 
+shelford victor the ecology north america urbana univ 
+illinois press stevens alan ogden wright craven alternative land use cover map tennessee river watershed amer 
+survey map amer 
+photogramm ann 
+mtg 34th louis mar 
+stoddard lawrence smith arthur range management 2nd 
+new york mcgraw hill book sweet david well terry resource management implication erts data ohio symposium significant result obtain earth resource technology satellite natl 
+aeronautics space admin 
+thrower norman land use southwestern united state gemini apollo imagery map suppl 
+annals assoc 
+bureau census area united state dept 
+commerce bureau census area measurement rept 
+congress the western range 74th cong es senate doc 
+the land use policy planning assistance act 93rd cong 1st sess senate bill 
+department agriculture conservation need inventory committee national inventory soil 
+land use and land cover classification system for use with remote sensor data 
+water conservation need statistical bull 
+farmland be run 
+the farm index 
+department agriculture soil conservation service classify rangeland conservation planning dept 
+executive office president bureau budget standard industrial classification code washington geological survey geological survey reseatch geol 
+survey prof paper 
+urban renewal administration housing home finance agency bure public road stand 
+ard land use cod manual standard system identify cod land use activity washington viereck leslie little elbert alaska tree shrubs dept 
+agriculture forest service handbook welch roy cartographic quality ert image symposium significant result obtain earth resource technology satellite natl 
+aeronautics space admin 
+wooten hugh anderson james major us land united state summary dept 
+agriculture agr 
+research service agr 

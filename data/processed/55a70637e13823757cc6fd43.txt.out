@@ -1,0 +1,1420 @@
+department the interior geological survey leap into cusp local arthquake nalysis xirograms cusp data lisa wald lucile jones open fue report this report preliminary review conformity geological survey editorial standard north american stratigraphic code 
+any use trade product firm names descriptive purpose imply endorsement government 
+geological survey office earthquakes volcano engr 
+wilson avenue pasadena california 
+acknowledgement would like thank kate hutton contribute information error track system jim mori contribute information dinst program 
+would also like thank doug give help installation directory structure gsvax citvax computer infinite patience help tex command 
+addition would like thank caltech seismo 
+student provide constructive criticism make documentation complete correct possible 
+table content page 
+introduction cusp 
+get start iii 
+summary procedure 
+helpful tip program command procedure 
+post status result recycle 
+env wave 
+step wise procedure specific task 
+get cusp specific event 
+get phase data event 
+make seismic map 
+plotting record record section 
+plot strong motion record 
+pick phase event 
+relocate event 
+make focal mechanism 
+obtain digital data use program write specifically cusp data 
+individual ascii file vii 
+error track system 
+preface this manual intend want use caltech usgs southern california network data 
+include detailed description usage program procedure available example run program step step instruction specific task often interest user 
+there also short section error track system use procedure require special cusp directory structure 
+the manual attempt explain fine detail working program use 
+introduction cusp 
+cusp stand caltech usgs seismic processing system 
+cusp proper group program write carl johnson modify bob dollar peter johnson kate hutton doug give 
+many auxiliary program access manipulate process data also write various author available interested user 
+the cusp system auxiliary program locate vax750 computer seismological laboratory caltech vax750 pasadena usgs office wilson avenue 
+the cit vax usually research access computer see kate hutton set account machine 
+work usgs vax person see doug give 
+cusp proper require particular directory structure group system logic operate 
+the auxiliary program require specific directory structure logic abbreviation define program convenience leapjgetdata com 
+each event process give call cusp number form digits depend computer data originate 
+there three main type data contain earthquake information 
+catalog data 
+phase data 
+digital seismogram 
+catalog data month keep line file call cat kin 
+since file readable cusp program special cusp directory structure convenience cat bin binary file cat li ascii file make cat kin 
+all catalog phase data see kept subdirectory citvax disk1 cit each month catalogue keep different subdirectory cit directory example cit 88janj contains catalogue file january 
+the catalogue file call cat kin cat bin cat li every subdirectory 
+catalogue entire collection cat bin kept current cit cat 
+this directory contain bin file year instead month 
+source catread use search event 
+hold data present 
+phase data event keep line month non ascii database structure file call mem 
+the mem file monthte event keep cit subdirectory month place cat kin month 
+after event month locate finalized routine processing complete mem file put onto magnetic tape call freeze tape access procedure call rdfrz 
+the mem file translate ascii file memdck makephas 
+memdck produce file dck suffix contain information phase data 
+makephas produce file suffix contains phase data optional file suffix contain information digital record station 
+cusp come existence ascii data available magnetic tape 
+phase data many event specific time period need ascii tape make month finalized month contain file per month phase data hypoinverse format 
+these tape keep usgs computer room 
+digital seismogram event keep line hour binary file call grm 
+after event locate grm file put onto magnetic tape call archive tape 
+however tape label cusp backup tape 
+the data access procedure call snark tapecopy 
+the original grm file block size 
+when put archive tape reside block size 
+the seismogram copy tape file grm suffix block size use snark 
+alternatively copy file suffix block size use tapecopy 
+either format accomodated auxiliary program write use digital seismogram data 
+want use seismogram data outside cusp also need file contains information station record begin end sequential grm file 
+the file obtain mem file use makephas 
+office menlo park use shadowcard format rather format 
+the shadowcard format accomodated program future 
+archive tape available april present 
+for seismogram store cedar format tape see discussion rev 
+trout consider one three main type data yet often one begin look data 
+trout event plot waveform plus information event 
+create routine processing event paper copy plot event keep file cabinet measure room caltech seismo 
+file chronological order date time 
+before late august trout plot contain plot waveform station trigger event 
+after date trout contain waveform closest station trigger event 
+addition waveform plot contains location event latitude longitude residual error location coda amplitude magnitude arrival time phase pick quality pick 
+addition histogram coda amplitude magnitude 
+the trout useful get arrival time event instead read magnetic tape interested small number event preview waveform event 
+general useful obtain small bit information event without involve magnetic tape 
+note the clipping waveform trout plot sometimes artifact plot program reflect really record 
+get start 
+use program manual login account citvax gsvax 
+then type follow 
+duser disk leap getdata gsvax 
+qduao leap getdata 
+set abbreviation 
+get data com command file set symbols logic need use program procedure manual exception qed snark post status recycle result 
+need use one three application need consult kate button lucy jones doug give order get specific directory structure 
+symbol define getdata com program procedure run type name procedure 
+note decnet node 
+here example full path name directory 
+citvax diskl cit 88may 
+node disk directory tree 
+use default whenever possible node 
+type citvax citvax unnecessarily use decnet make procedure take long 
+handbook write full path name type much need 
+summary procedure 
+read catalog get mem event archive info 
+file get grm seismogram file get phase file plot seismogram manipulate seismograms locate event 
+catread catdck telecat seismic getrtp rdfrz export snark tapecopy post status recycle result cdrev makephas wave qed recsel versarec streckplot getrec grmchop fba nskip streck streckwa dinst abc hypoinverse magadd 
+focal mechanism plot map etc 
+fpfit fppage fpplot focplay qplot seismic sift 
+helpful tip 
+plot batch plt file citvax 
+disko bgmf viewerr 
+see option 
+plot batch plt 
+viewerp post postscript plt 
+archive tape cusp backup tape freeze tape cedar tape 
+bpi bpi bpi 
+difference grm file grm file record format bytes fixed length original file create snark archive tape file record format bytes variable length file archive tape read tapecopy 
+for snark qed rdfrz grope status result recycle post follow file need directory cusp kin cat kin create type cuspkin cusp kin catkin cat kin 
+notice need versus without 
+create file old mem file top several line may mess 
+contains negative number look something like 
+time adl 
+change like 
+example file derive cusp data cat li dck 
+cat li 
+ascii file find monthly subdirectory 
+citvax disk1 cit 880ct summary line event occur 
+cusp frz net dev year mon hrmn sec latitude longitude 
+depth fix nph rms mag who typ remark 
+cit s34 oct 
+cit s34 oct 
+cit s34 oct 
+cit s34 oct 
+cit s34 oct 
+cit s34 oct 
+ascii file point begin end record station derive mem file 
+time mwc pa tcc vpd tcc wwvb 
+arrive tape file 
+first line number station sample second year month day hour minute second index time subsequent line station code pin number index time record length point skip record previous one 
+last line archive tape number file number tape 
+ascii file contain phase information hypoinverse format derive mem file 
+crr ipuo 
+yuh ipuo 
+each line station name phase pick year month day hour minute second arrival time last line year month day hour minute second one place decimal event origin time latitude longitude depth magnitude 
+dck ascii file contain much useful information binary mem file blank line label insert 
+cat lpa 1jan88 
+hyp jan 
+src cit klg 31dec87 
+pin time 
+pin mwc 
+pin pa 
+pin tcc 
+pin vpd 
+pin tcc 
+pin wwvb 
+pin coy 
+pe2 jan 
+pin jul 
+pin smo 
+pin hot 
+the line contain follow cat cusp date hour minute second latitude longitude depth rms pick phase initial timer coda magnitude hyp mask second hour minute date latitude longitude depth fit constraint rms concern quality location fix binary representation fix time depth epicenter ark sequential archive archive tape file 
+coda amplitude magnitude set set index time source time second hour minute date syn set clock pin index time clock source second hour minute date src set network device series index series tape event pin set pin station code component mask grm set pin index time disk key first sample length record bias digitizer count bar bar digitizer count 
+pix set pin pick index phase pick arrival time second hour minute date mcd set pin constraint amplitude afdc qfdc afree qfree carl johnson thesis 
+program command procedure 
+program lucy jonesabc 
+purpose put station phase file file alphabetical order 
+source code leap phase 
+description abc command procedure simply put station phase file alphabetical order 
+cusp data often include multiple reading station site 
+for instance cusp record vertical eastwest short period three streckeisen component pas site 
+use multiple reading hypo inverse overweight station location procedure 
+after use abc put station alphabetical order file edit remove one one reading station 
+input file 
+output file 
+common error put suffix event name run program 
+example run abc xi102747 fortran stop 
+program steve bryantcatdck 
+purpose filter output file catread include depth filter option also make dir dat file use makephas 
+source code leap get 
+description catdck procedure take output file catread allow event filter parameter use catread plus depth 
+also include option create file call dir dat use makephas 
+input file quake dck 
+output file catread 
+output file user choice 
+common error choose option filter option output information append together one file 
+example run catdck input file name character maximum ventura dck output file name character maximum quake dck option search year month day search magnitude search quality search depth define input output file create makephas cuspid file stop program select option depth option minimum depth maximum depth option 
+search year month day search magnitude search quality search depth define input output file create makephas cuspid file stop program 
+select option input file name character maximum quake dck output file name character maximum dir dat 
+option search year month day search magnitude search quality search depth define input output file create makephas cuspid file stop program 
+select option create makephas file option makephas file dir dat 
+option search year month day search magnitude search quality search depth define input output file create makephas cuspid file stop program 
+select option fortran stop 
+program lucy jonescatread 
+purpose get catalog data fit specific requirement 
+source code leap get 
+description catread select event cit database satisfy requirement choose interact user follow category output one two file depend choice first category caltech hypoinverse plot format 
+caltech format include cusp plot format intend plotting qplot 
+time interval spatial limit latitude longitude bound vertex polygon 
+default area encompass southern california 
+minimum maximum magnitude quality location desire quarry quarry event 
+the time search include end day 
+pick pink catalog want accurate magnitude gap data 
+pick qtape catalog want pull large database event include small event 
+the pinked qtape catalog different 
+input file none 
+output file quake plt default quake dck default 
+plot format caltech format 
+common error none 
+example run catread this program will select event from the cit database time location magnitude and quality 
+the event can write form cit and hypoinverse plot format file you name 
+the program will ask you for all the necessary parameter 
+which catalog you want search pink 
+catalog with correct magnitude for the large earthquakes the qtape catalog with more small earthquake 
+you want caltech plot both format 
+caltech file quake dck 
+begin year 
+end year 
+how will you define the spatial limit latitude and longintude bound the vertex polygon 
+south latitude limit 
+north latitude limit 
+east longitude limit 
+west longitude limit 
+minimum magnitude oooooe 
+maximum magnitude 
+enter quality want enter all for all event abc for some subset all 
+enter for quarry for only quarry for all event 
+read catalogue for read catalogue for fortran stop 
+program egill haukssoncprev purpose extract digital seismogram one earthquake multievent seismogram file create cedar system caltech system 
+source code leap get description cdrev create single event digital seismogram file cedar system earthquake caltech read eiw wave plot routine 
+the cedar event record large file upto block long contain earthquake per file 
+this file store pest tape keep room 
+get cedar event file 
+find name file earthquake 
+look event log book keep time room second floor south mudd building 
+the earthquake chronological order group name file record 
+these name form etc 
+find tape event 
+the back three row magnetic tape room hold cedar tape year jan may 
+write hand side tape name file record tape 
+there file per tape 
+look label tape find file name find log book 
+this tedious sound since file order tape usually tap bracket one want need look find 
+read file tape tapecopy 
+use block size byte strip trail zero translation 
+the file long blocks contain many earthquake 
+run cdrev extract large file one earthquake want 
+cdrev read date time earthquake file ask want save 
+answer create new file contain earthquake 
+answer skip earthquake read next one 
+answer quit read file stop 
+input file filename dat 
+read cedar tape tapecopy 
+output file dat 
+record one event 
+common error none 
+example run 
+cdrev enter binary filename 
+event01 dat event01 dat 
+event01 dat 
+want keep file 
+want keep file 
+program jim mori 
+purpose remove instrument response cusp seismogram 
+source code leap seis 
+description dinst read seismogram grm file 
+time series filter instrument response remove frequency domain subroutine calculate pole zero various vco discriminator use southern california network 
+the low pas high pas filter set user 
+the filter either zero non zero phase 
+zero phase filter insure phase shift result tend put non causal precursor signal 
+instrument constant station read file response 
+this file create reformatting use gsvax1 usersdisk mori calpulsejpc2response file create dbase usgs 
+station process program speed considerably use abbreviate file make gsvax1 usersdisk mori progjd1mod 
+common inc file include compile source file 
+include limit number station number point per record 
+the buffer printer take anything great product max maxd equal 
+number station length record exceeds number use nskip divide plot process two part small enough handle 
+need change limit station point per record copy file source file leap seis directory edit common inc recompile use fordinst com leap seisj type leap seis fordinst 
+otherwise worry input file 
+the default set station point 
+input file grm response 
+output file dec 
+deconvolved record new file 
+common error see common error recsel 
+example run 
+enter data type cit csp cusp format 
+enter event name 
+read dmux data 
+enter station name capital all station end end list start list all 
+enter time offset 
+enter time length 
+enter station name capital all station end end list start list end 
+write grm format 
+enter freq 
+for high pas filter enter for default which 2nd order filter 
+zero phase filter 
+enter freq 
+for low pas filter enter for default which 2nd order filter 
+enter percent taper usually 
+ewcz nfft 
+frequency pt response 
+frequency pt response 
+fortran stop 
+program bob dollarexport 
+purpose obtain useful information mem file put ascii file 
+source code leap get 
+description export simple program convert much binary information mem file ascii file 
+see example dck file 
+export exactly memdck familiar 
+input file mem 
+output file dck 
+common error front cusp cause procedure crash 
+bug still exist get error involve who tuple 
+this fatal error mem file still make 
+also get additional error attempt microvax file one digits cusp 
+this due extra digit cusp fatal 
+the dck file create correctly place cusp within file 
+example run 
+export export x1009282 mem 
+for outconerr output conversion error 
+unit file 
+user 0001b3a3 
+trace traceback symbolic stack dump follow 
+module name routine name 
+000242d6 000242d6 
+000241d3 000241d3 
+who who 
+cat cat 
+export main exportsmain 
+abs 0001b3a3 000172fo 00016bd4 
+for outconerr output conversion error unit file user 000174ca 
+trace traceback symbolic stack dump follow 
+module name routine name 
+000242d6 000242d6 
+cat cat 
+ab 000174ca 
+export export x740066 mem 
+for outconerr output conversion error unit file user 0001b3a3 
+7otrace traceback symbolic stack dump follow 
+module name routine name 
+000242d6 000242d6 
+000241d3 000241d3 
+who who 
+cat cat 
+export mai export main 
+abs 0001b3a3 000172fo 00016bd4 
+program lisa waldfba purpose enable plot make record force balance accelerometer strong ground motion station 
+source code leap seis description fba program read file create new file information plot fba station 
+order plot fba record fba out must rename 
+careful delete original file think may need 
+input file output file fba out common error file create mem file use memdck hypark old procedure discuss manual station name contain component 4th letter fba able distinguish fba station type station 
+example run fba enter cusp for event x743060 fortran stop 
+program lucy jonesfocplay purpose plot first motion data focal sphere interact choose two perpendicular fault plane 
+source code leap phase description focplay interactive graphic program plot first motion data fault plane solution 
+derive several program many people include whitcomb garrimony pechmann hauksson kanamori heaton 
+this program plot first motion local recording earthquake low hemisphere stereo projection screen graphic terminal allow user interact pick nodal plane focal mechanism 
+the user choose whether plot station name whether enter focal mechanism strike plane strike dip rake 
+the nodal plane pick either cursor enter numeric value 
+any number focal mechanism one file may plot one run program fresh sphere first motion bring mechanism 
+the input data file polarity file pol fpfit 
+the program begin series set question 
+after question first motion plot cursor appear screen 
+point user input test focal mechanism program plot focal sphere data 
+chose rake setup enter strike dip rake one plane program solve orientation second plane 
+the strike dip plane rake plot mechanism 
+the convention north west etc 
+strike degree counterclockwise dip direction 
+thus plane strike east west dip degree north enter 
+the convention rake leave lateral right lateral thrust normal 
+chose plane setup enter strike dip one plane strike second plane 
+the program solve rake first plane dip second plane 
+the strike dip plane rake plot mechanism 
+the convention describe 
+there inherent degree uncertainty rake since give strike dip strike program cannot discriminate right lateral leave lateral 
+get message two plane perpendicular enter strike degrees away switch etc 
+when cursor appear three way enter focal mechanism 
+type numerical value 
+prompt appear screen get clutter 
+chose rake enter strike dip rake one plane 
+chose plane enter strike dip one plane strike second plane 
+plot old mechanism 
+this default value first time mechanism last plot later plot 
+anything els the angle define location cursor respect center focal sphere type key defines strike first plane 
+you type dip plane drawn 
+the cursor reappear enter strike second plane choose plane rake chose rake 
+the second plane enter like first 
+the cursor work really well rake mark cursor position first plane two plane intersect 
+after focal mechanism plot choose replot earthquake plot new earthquake file open new file stop 
+see focplay doc leap doc information 
+input file pol 
+output file batch pit 
+choice make hard paper copy 
+common error after pick first plane cursor program wait without prompt dip plane type number cursor 
+example run focplay plot option available terminal batch preview prompt plot option 
+terminal available 
+tektronix point tektronix point retrographics vt640 vt100 megatek megatek envision wyse 99gt jupiter dec vt240 mode device 
+enter second pause plot wait 
+enter simulate screen height 
+iopt then first motion and station name iopt then first motion and nodal line iopt then first motion station name and nodal line iopt nodal line only axes label iopt 
+enter rake plane 
+symbol circle 
+file name hquake pol 
+whit pol 
+program reasenberg oppenheimerfpfit 
+purpose determine focal mechanism first motion local station 
+source code leap phase 
+description fpfit find double couple fault plane solution best fit give set observe first motion polarity earthquake 
+the program use inversion find source model minimize normalize weighted sum first motion polarity discrepancy 
+the program also find alternative solution relatively small misfit 
+for acceptable solution uncertainty model parameter strike dip rake estimate set use fpplot display range axis orientation consistent data 
+note non double couple solution consider program 
+also data error unmodeled refraction oversimplify layer boundary may result incorrect solution 
+the program may run interact command file 
+command file name fpfit inp current directory read automatically program run 
+best copy example command file leap 
+nput fpfit inp edit wish input output file name 
+the reason contain command correct polarity reversal delete horizontal component record 
+these command line one start rev kil 
+whenever information polarity reversal obtain fpfit inp file leap input update 
+might wise recopy file time fpfit run sure current information 
+all command three letter long usually follow one parameter file name 
+type hel useful information 
+all parameter automatically set default value except file name 
+note for mean hypoinverse format 
+create focal mechanism associate output file type fps prompt 
+exit program type sto 
+see usgs open file report 
+detailed documentation program 
+input file fpfit inp default filename 
+optional command file hypoinverse contain azimuths angle incidence 
+output file out fps pol 
+residual file solution file graphic plot file 
+common error name input file directory different command file 
+example run 
+fpfit fpfit use letter command which can follow parameter free format which display current value generate prompt 
+type hel for information available command 
+fps origin time ddr dip rake cnvrg 
+depth mag 
+sto fortran stop 
+program reasenberg qppenheimer 
+purpose plot fault plane solution calculate fpfit single page 
+source code leap phase 
+description fppage interactive plot program plot focal mechanism determine fpfit one page 
+each fault plane solution represent low hemisphere equal area projection 
+compression ray depict solid circle dilatational ray open circle 
+plot first motion symbol may suppress 
+ax solution plot 
+first motion plot suppress axis plot 
+see usgs open file report 
+detailed documentation 
+input file pol 
+output file batch pit 
+choice make hard paper copy 
+common error none 
+example run 
+fppage file for hypocenter input none 
+hquake pol 
+plot event header number date 
+enter number mechanism skip include multiple solution 
+enter number mechanism plot all plot multiple solution 
+plot first motion data 
+plot compression symbol 
+solid circle 
+plot option available 
+terminal batch preview prompt plot 
+batch device available 
+disk file 
+enter name plot file batch plt 
+maximum plot size fortran stop 
+program reasenberg cddenheimer fpplot 
+purpose plot acceptable fault plane solution calculate fpfit one per page 
+source code leap phase 
+description fpplot interactive plot program displaying fault plane solution determine fpfit 
+each solution plot separate page 
+each diameter circle lower hemisphere equal area projection fault plane solution first motion data 
+compression ray represent plus symbols dilatational ray open circle 
+upgoing ray indicate boldface symbol downgoing ray light line symbol 
+the size symbol proportional observation weight associate ray 
+discrepant observation list table right focal mechanism 
+diameter circle bottom right low hemisphere equal area projection show ax acceptable solution best solution boldface 
+see usgs open file report 
+detailed documentation 
+input file pol 
+output file batch pit 
+choice make hard paper copy 
+common error none 
+example run fpplot file for hypocenter input none 
+x746395 pol plot station name 
+plot symbol size proportional weight 
+menu plot option plot all mechanism request mechanisms date origin time request mechanism sequence number include multiple 
+enter plot sequence option 
+enter number mechanism skip include multiple solution 
+plot option available terminal batch preview prompt plot option 
+batch device available disk file device 
+i20 enter name plot file batch plt 
+program jim morigetrec 
+purpose select station record time windows seismograms event plotting 
+source code leap seis description getrec program allow user select individual station record time windows record particular event plotting 
+the selection information station put sequential ascii file processing 
+you must already look record interested plot program versarec eiw wave recsel order select appropriate time window 
+time second 
+inc file include compile source file 
+include limit number station number point per record 
+the buffer printer take anything great max maxd 
+number station length record exceeds number use nskip divide plot process two part small enough handle 
+need change limit number station point per record copy file source file leap seis directory edit common 
+inc recompile use forgetrec com leap seis type leap seis forgetrec 
+otherwise worry input file 
+the default set station point 
+grm file csp format file cit format 
+input file grm 
+output file user choice 
+common error see error recsel 
+example run 
+getrec enter data type csp enter event name x746395 
+cit csp cusp format 
+read dmux data 
+enter station name capital end end list start list whs 
+enter time offset 
+enter time length 
+enter station name capital end end list start list end 
+enter name output file test out fortran stop 
+program lucy jonesgetrtp purpose extract ascii format catalog binary catalog file create southern california rtf 
+source code leap get description getrtp read binary file create cusp use data southern california rtf real time processor automatic location recent earthquake create ascii file information 
+all earthquake catalogue rtf pass criterion real last day include output file type getrtp 
+type getrtp number day present output file include event last number day specify 
+input file none output file rtp dat common error none example run getrtp fortran stop 
+program lisa waldgrmchop purpose select record interest plotting large set trigger station create new small binary digital data file grm new associate pointer file 
+also create individual ascii file digital seismogram data station interest 
+source code leap seis description grmchop allow choice two option allow user generate new grm file sequential binary station record filter decimated sample interval choice 
+this useful event large sample interval unnecessarily fine create awkwardly large grm file 
+allow user select station record interest create individual ascii file digital data station 
+record may filter decimate sample interval choice 
+useful convert data use type digital record 
+either grm file file may use input format output file grm type 
+grm file csp format cit format 
+the new grm file call dec respectively 
+want run auxiliary cusp program must rename grm suffix 
+chop inc file include compile source file 
+include limit number station number point per record 
+the buffer printer take anything great product max maxd equal 
+number station length record exceeds number use nskip divide plot process two part small enough handle 
+need change limit number station point per record copy file source file directory edit chop inc recompile use forgrmchop com leap seis type leap 
+seis forgrmchop 
+otherwise worry input file 
+the default set station point 
+see also description recsel detail filter decimation 
+input file grm 
+output file dec station name dind 
+new decimate grm file new file individual ascii station file 
+common errors the old file compatible decimated grm file phase pick correct place record try use 
+see common error recsel 
+example run 
+enter data type cit csp cusp format 
+enter event name 
+read dmux data enter corn 
+highpass butterworth 
+enter zero you want filter skip 
+enter corn 
+lowpass butterworth 
+you want filter skip 
+enter the decimation factor take every point take every third point etc 
+enter skip decimation 
+select station all sel all 
+all fortran stop 
+grmchop enter data type csp enter event name x746395 
+cit csp cusp format 
+read dmux data enter corn 
+highpass butterworth 
+enter zero you want filter skip 
+enter corn 
+lowpass butterworth 
+you want filter skip 
+enter the decimation factor take every point take every third point etc 
+enter skip decimation 
+select station all sel all 
+enter station name capital end end list start list isa enter station name capital end end list start list wof enter station name capital end end list start list wjp enter station name capital end end list start list end fortran stop 
+program fred kleinhypqinverse purpose locate earthquake hypocenters arrival time information 
+source code leap phase hypoinverse description hypoinverse general purpose file orient earthquake location program write mini micro computer use 
+complete description program algorithm usage file etc 
+open file report xxx fred klein 
+summary input data arrival time wave optionally coda duration set station location station optional station delay crustal model output result hypocenters duration magnitude duration data include azimuth takeoff angle phase 
+one new feature hypoinverse include multiple overlap velocity model different area smooth transition define user 
+also hypoinverse offer option read mem file directly shadowcard format currently use menlo park 
+the version hypoinverse usgs vax caltech vax pasadena drive user command 
+the various command define input output file set adjustable parameter locate file earthquake data use parameter file currently set 
+interactive batch command enter either keyboard file 
+all command letter long usually follow one parameter file name 
+character string file name must enclose apostrophe may character long 
+hypoinverse command generate prompt must follow required parameter require order see usgs open file report information use sample comrriands hypinst 
+file see 
+the hypinst 
+file contains letter command run program instructs crustal model file station file etc 
+use location 
+when start hypoinverse default value effect parameter except file name 
+dcl command file set run hypoinverse call hypoinverse com read filename 
+write filename 
+run program interact executable version call hyp exe 
+after type input output file name type log locate event sto exit program 
+see second example run 
+file call hypinst 
+resides current directory read startup file hypoinverse 
+use set default value read station crust model file always use etc 
+sample hypinst 
+file hypoiiwerse com filename find leap input 
+hypoinverse com command procedure run executable hyp without edit hypinst 
+different cusp number time new earthquake locate 
+the input output filename hypinst 
+hquake hquake etc 
+the command file copy hquake run hypoinverse renames hquake etc 
+see first example run 
+current station file call pasall sta pasnow sta menlo sta crustal model file call hadley cru also keep directory 
+pasall sta contain usgs cit station ever exist pasnow sta contains station currently operation menlo sta contain menlo park station ever exist 
+the current usgs cit station file update need 
+these input file name entirely different two example 
+other example input output file leap input prefix hypoin 
+the full path name file specify run program except hypinst 
+put default directory 
+input file hypinst 
+optional instruction file hyp 
+leap input pasnow sta example see station file sta 
+leap inputjhadley cru 
+crustal model crh 
+makephas ph 
+output file filename filename filename 
+summary file sum print extended output prt archive phase travel path info 
+name one file define appropriate command either interact hypinst file create 
+thus possible run hypoinverse get output 
+any name use many find convenient name different ending input phase output file 
+common error forget quote around filename input 
+example run 
+hypoinverse filename assume hypinst 
+hypoinverse start 
+event locate remark lat 
+num rms erh erz 
+directly run program interact 
+sum filename ph filename 
+arc filename sta filename dck crh velocity model dck log 
+hypoinverse start 
+event locate remark lat 
+num rms erh erz 
+program lucy jonesmagadd 
+purpose add magnitude event summary line hypoinverse output file 
+source code leap phase 
+description mag add program copy caltech magnitude file event put magnitude file event 
+hypoinverse locate event cannot calculate caltech magnitude 
+caltech magnitude local magnitude large event coda amplitude small event 
+magnitude output file plot qplot magnitude must add 
+this procedure use want make seismic plot qplot represent different size earthquake different size symbol 
+normally file contains place magnitude 
+the magnitude appear columns summary line 
+mag program copy magnitude file event put magnitude file event 
+this procedure use want use fpfit magnitude event appear focal mechanism plot 
+magnitude column header normally contain 
+the output file suffix change use fpfit 
+input file 
+magadd magaddc 
+output file 
+magadd magaddc 
+common error none 
+example run magaddc magadd file name 
+hquake reach end file 
+program susanna grossmakephas purpose extract phase information mem file relocate hypoinverse use program 
+also obtain ascii pointer file order use one several plot program wave recsel source code leap get description makephas pull information mem file list mem file creates file phase file pick station hypoinverse format file pointer file need use plot seismograms optional this program require special cusp structure file input file 
+the cusp user want file read file create directory size mem out dir dat this produce file call dir dat list cusp event mem file directory 
+dir dat default program although file name anything 
+want select event create file list cusp like x643295 x643297 run makephas must define input directory cuspin 
+this directory program search mem file list cusp file 
+mem file local directory 
+copy run rdfrz type define cuspin want mem file process directory instance work directory may would type define cuspin citvax disk1 cit 88may the last qiiestion program ask determine format summary line phase file 
+answer phase file 
+hypotl format extra data coda duration network cusp remark etc 
+otherwise standard hypoinverse format 
+input file mem dir dat output file common error the cusp file dir dat create leave begin cusp upper case example run define cuspin makephas output phase file name file 
+cusp list file name dir dat 
+file generate 
+want hypotl summary line 
+write seismogram information 
+program lisa wald 
+purpose determine number data point skip plot part seismogram file example second half network trigger large event 
+source code leap seis description nskip simple little program add data point file skip want start plotting record station first one 
+you specify station want start number skip determined station 
+note first record usually time must always plot one offset yet unknown reason 
+the length first station take account determination point skip 
+input file output file nskip out common error must front cusp example run nskip enter event name x740066 fortran stop 
+program carl johnsonpqst status result recycle 
+post put event particular processing state 
+for purpose process state snark 
+status list status event process 
+result change single event one status number another 
+this useful delete event snark state order get magnetic tape already 
+recycle change event one state another 
+cusp state driven system 
+file call cusp kin work directory keep track state earthquake 
+when cusp process run look cusp kin earthquake appropriate state run process event 
+thus run process right earthquakes one must able move event one state another 
+source code cusp disk cusp src gsvax dir cusp executables citvax 
+description post label event stage processing 
+the state number tell priority processing state 
+status print screen status event process current directory 
+order alphabetically state event appear 
+within state event order cusp ascend order 
+result change event state one priority number another 
+new number event remove status list 
+recycle move event one processing state another 
+you must special cusp directory structure procedure 
+input file cusp kin 
+output file none 
+common error one input file present 
+example run 
+post shark post shark post shark post snark 
+snark snark snark snark 
+result snark 
+snark snark snark 
+recycle snark review 
+snark snark snark 
+review review review 
+review review review 
+program carl johnsonqed 
+purpose time event enter hand pick data paper record check location interact 
+source code cusp disk cusp clone gsvax citvax duao socalcombat citvax 
+description qed quake editor 
+use originally time locate event record southern california central california network enter hand pick data paper record interact 
+you must use tektronics terminal equivalent see seismogram make phase pick 
+any terminal use edit 
+qed require special cusp directory structure although future requirement time new updated version manual print 
+documentation qed currently write yet complete 
+see kate hutton detail information use program 
+input file grm mem cusp kin cat kin clone kin 
+clone event 
+output file mem 
+new information 
+common error none 
+example run see detailed documentation leap docj 
+program fred kleinqplot 
+purpose make map plot seismic station spatial plot etc 
+source code user disk progs qplot gsvax 
+description qplot general plot program large variety option 
+driven ietter command may either type terminal read execute command file type jump enter command file name 
+sample command file call qplot jmp find leap imput 
+digitize line various california feature find leap map 
+use qplot must first dump information ascii file use sift 
+see sift information 
+very detailed documentation qplot may find leap docj type help prompt qplot 
+input file filename jmp 
+use file command 
+input file vary type plot may include list station digitize line state boundary fault etc 
+list earthquake 
+output file batch plt 
+choice make hard paper copy 
+common error none 
+example run qplot plot option available terminal batch preview prompt plot option 
+batch device available disk file device 
+enter name plot file batch plt 
+welcome new qplot 
+mtit main title char 
+size inch main title 
+for none 
+number line file 
+file number 
+linear data filename 
+calbound dck 
+pen number 
+dash pattern number solid 
+file number 
+linear data filename 
+fault dck 
+pen number 
+dash pattern number solid 
+stas station format stas h71 hypo hypoi 
+station filename 
+calnet dck label the station with letter name 
+station symbol type 
+station symbol size 
+file data input filename 
+quake dck 
+map distance depth scale 45000e 
+use scale set map from new limit 
+leave dec 
+leave mih 
+right dec 
+right min 
+top dec 
+top min 
+bot dec 
+bot min 
+new lon axis 
+new lat axis 
+save save parameter file 
+test jmp 
+program bob dollarrdfrz purpose copy mem file magnetic tape disk 
+source code cusp disk cusp bin gsvax description rdfrz command procedure search select mem file magnetic tape call freeze tape copy one onto disk 
+read command file must name rdfrz dck prompt user command terminal 
+automatically look rdfrz dck file directory find prompt terminal 
+you must cat kin file directory 
+type catkin create file already do log 
+command option box sort rectangular geographic box corner define deciamal degree north east positive 
+input order north lat south lat east long west long 
+mag sort specify magnitude range 
+input order low mag high mag 
+depth sort depth range 
+input order shallow deep cid search cusp 
+input cid tel search teleseismic event keep digitally record 
+mtskip skip number event tape reading 
+default mtread read number event process 
+default event 
+mtfind find number event quit 
+readmt read magnetic tape drive immediately 
+currently device name end end input read tape 
+same readmt 
+stop exit program read tape 
+this useful debug practice instruction input prior actually read tape 
+one cat tuple event put exist cat kin summary line put cat bin file create program already exist 
+freeze tape record bpi 
+input file rdfrz dck cat kin 
+want use command file 
+output file cat bin 
+select event 
+rdfrz lst contain summary catalogue line extract event 
+sort instruction 
+common error cat kin file 
+create typing catkin 
+already gotten event freeze tape attempt create new cat kin type catkin 
+once tuple event cat kin allow get event 
+the tape mount 
+exit program tape dismount 
+you always get fatal error message tape read however notice procedure continue produce output desire 
+these message ignore 
+example run 
+mount for mtao mount mount mounted mtao 
+ier problem with rdfrz dat 
+enter instruction 
+cid readmt 
+assign mtao ldsw 
+putat fatal error 
+catkin fatal error 
+getat fatal error 
+catbin fatal error 
+rdfrz stop 
+select event 
+program lisa waldrecsel purpose plot seismogram 
+source code leap seis description recsel plot program specifically cusp seismogram data variety plotting option plot record computer channel pin order plot record order increase epicentral distance both include follow option high pass filter low pas filter decimation factor time scale amplitude scale plot device gain dat must change event 
+this information obtain usgs network database 
+each record amplitude micron bias remove labeled absamp digital count bias remove labeled amp bias label bias 
+digital count amplitude exceeds limit glitch gain information available station absolute amplitude micron show saine amplitude count 
+the absolute amplitude rough estimate use anything get rough estimate 
+when certain setting seismometer instrument change planned future equation use calculate absolute amplitude longer correct 
+time program update 
+common inc file include compile source file 
+include limit number station number point per record 
+the buffer printer take anything great product max maxd equal 
+number station length record exceeds number use nskip divide plot process two part small enough handle 
+need change limit station point per record copy file source file leap seis directory edit common inc recompile use forrecsel com leap seis type leap seis forrecsel 
+otherwise worry input file 
+the default set station point 
+latitude longitude convention north east positive 
+distance kilometer 
+grm file csp format file cit format 
+when plot order increase epicentral distance station pasall sta plot include station 
+the list contain station active time southern california network 
+need use another station list copy program directory along common 
+inc change station list open statement program recompile use forrecsel com 
+little explanation need concern choice normalization see example run 
+take individual record make large amplitude one unit scale point record unit 
+scale every record one single scale use large amplitude count record digitizer one unit 
+the scaling plot do gain information remove record 
+except scale plot do gain information remove record 
+input file grm 
+pasall sta 
+increase epicentral distance plot 
+dat must edit 
+attenuation discriminator velocity value date event use usgs 
+database absolute amplitude important 
+output file batch 
+plt distaz out 
+choice make hard paper copy increase epicentral distance 
+common error number station exceed parameter max dimension common 
+inc number point exceed maxd dimension common 
+inc get error 
+correct must either edit common 
+inc increase dimension one parameter careful exceed maxd maxs limit plot record two pass 
+example first first time remain second time use nskip for determine may sequential data point skip plot first record second pas 
+see description kip 
+example run recsel enter all response upper case 
+enter data type git csp cusp format csp 
+enter event name 
+read dmux data 
+plot option available 
+terminal batch preview prompt plot 
+batch device available 
+disk file 
+enter name plot file batch plt 
+enter the title the plot a80 test plt 
+enter time scale second inch and plot height inch measure from zero line note choose ordinary plot plot increase epicentral dist default 3in height 
+enter corn 
+highpass butterworth 
+enter zero you want filter skip 
+enter corn 
+lowpass butterworth 
+you want filter skip 
+enter decimation factor 
+decimation factor two cut number point half 
+enter zero skip decimation 
+enter type normalization upper case 
+self normalization relative normalization gain relative normalization without gain select station all sel all 
+all ordinary plot increase epicentral distance 
+enter epicenter lat 
+and lon 
+decimal degree positive 
+enter minimum azimuth maximum azimuth 
+enter minumum distance maximum distance 
+fortran stop 
+recsel enter all response upper case enter data type cit cspccusp format csp 
+enter event name 
+read dmux data 
+plot option available 
+terminal batch preview prompt plot 
+batch device available 
+disk file 
+enter name plot file batch plt 
+enter the title the plot a80 test plt 
+enter time scale second inch and plot height inch measure from zero line note choose ordinary plot plot increase epicentral dist default 3in height 
+enter corn 
+highpass butterworth 
+enter zero you want filter skip 
+enter corn 
+lowpass butterworth 
+you want filter skip 
+enter decimation factor 
+decimation factor two cut number point half 
+enter zero skip decimation 
+enter type normalization upper case 
+self normalization relative normalization gain relative normalization without gain 
+select station all sel all 
+sel enter station name capital end end list start list isa enter station name capital end end list start list wof enter station name capital end end list start list end fortran stop 
+program carl johnson mod pong givenseismic purpose select catalog data make map plot seismic data 
+source code user disk cusp seism gsvax leap get citvax description seismic performs three major function selects earthquakes catalog base follow parameter region time magnitude quality blast quake depth make map plot data format determine 
+make color plot various quantity element map grid envision require seismic run interact command file 
+example command file seismic1 com se1smic com seismic3 com find leap input 
+they show sort map cross section respectively 
+default output file create 
+create one output file command plot filename print filename hypo filename binary filename these filename different best keep one different suffix 
+see description output file 
+see se1smic doc leap doc detailed description program 
+before run program either interact command file must type follow logical assignment assign sys output for005 assign sys input for010 input file none 
+output file filename gml filename 
+filename hyp fiiename bin 
+graphic plot file plot list select event print hypo71 format list event hypo binary list event cusp format binary 
+common error none 
+example run see documentation leap doc 
+program david oppenheimersift 
+purpose change binary file california map feature ascii file read plot qplot 
+source code leap map 
+description sift access databank boundary line fault etc 
+binary file create ascii output file use qplot plot program 
+the program allow choice follow feature apcrp bin alquist prioloa sit active creep apflts bin alquist priola fault san fransisco bay area ban bin ban fault region jon matti cafaults bin california fault calakes bin california lake caoutline california outline caresrvor bin california reservoir coalinga coalinga area hawaii hawaii mhflts bin herd fault map morgan hill mlflts bin mammoth lake fault mlgeog bin mammoth lake mono lake geography mlrds bin mammoth lake road pkf bin parkfield john sims scitex bin california quaternary fault scan jennings sfbayrds bin san fransisco bay road socalfold bin cenozoic anticlinal fold ax southern california region special bin special feature calderas dome detailed fault map sroutline bin snake river plain outline state bin state outline world bin world map yellowstn bin yellowstone faults boundary lakes calderas the bin file locate leap map may leave run program 
+input file filenam bin 
+output file user choice 
+common error none 
+example run 
+enter latitude range north dec min 
+dec min 
+enter longitude range west dec min dec min 
+enter scale option map scale approx map dimension 
+enter approximate width height inch 
+map will have scale 
+enter output filename 
+sift out 
+data set available be 
+california state outline 
+california major quat 
+fault from 
+jennings see also 
+california major lake and reservoir 
+california minor lake and reservoir 
+yellowstone fault boundary 
+snake river plain outline 
+state boundary 
+world map 
+world tectonic plate boundary 
+special feature type for menu 
+this menu 
+enter code 
+enter code 
+fortran stop 
+program carl johnsonsnark purpose copy grm file archive tape onto disk 
+source code cusp disk cusp clone gsvax dir cusp combat citvax description snark command procedure copy select grm file archive tape put onto disk 
+this procedure require special cusp directory structure 
+the event interest must post snark state snark run mem file event must directory run snark 
+see post 
+all event snark state search magnetic tape 
+determine tape event may post event snark state type arklist 
+this program write steve bryant print screen tape number file number tape event snark state 
+input file cusp kin cat kin output file grm common error event post snark state cat kin clone kin file directory mem file directory cusp setup run example run status review 
+post snark catkin snark status review 
+number tape 
+snark tapeo 
+citvax duao lisa log file snark log dcl alloc citvax muao allocate mount mount mounted citvax muao 
+note when clone event snarked grm file appear directory tape cusp original event clone 
+program lisa wald 
+purpose deconvolve streckeisen instrument response produce ground displacement record convolve result ground displacement record instrument choice desire 
+source code leap streck 
+description streck deconvolves streckeisen instrument response convolve ground displacement record instrument choice 
+there also option omit convolution ground displacement record 
+use program want convolve record instrument wood anderson 
+the synthetic wood anderson record produce streckwa 
+the input file may record correspond different component 
+the data streckeisen look like however entire header appear first line format prevent documentation 
+pa pa unfiltered 
+sec sps 
+the first line must add indicates station component component 
+the next line header already top record 
+the next line first line data must follow directly header blank line order program work properly 
+the first line follow component record must last line proceeding record space 
+this edit do automatically run cleanup find leap streck 
+the abbreviation run progam also setup leapjgetdata com 
+run type cleanup 
+for information see documentation streck leap docl 
+input file vbb example 
+event filename 
+output file user choice 
+common errors the format input file correct 
+the position blank line important 
+example run 
+streck what instrument type deconvolved convolve 
+pasadena streckeisen vbb 
+wwssn press ewe gain 
+wwssn benioff 
+torsion sec 
+torsion sec 
+gdsn stat 
+choice present 
+enter low high cutoff frequency 
+enter default 
+input file name intest dat 
+how many component this file 
+output file name 
+test out 
+you want convolve the record with instrument response now 
+what instrument type deconvolved convolve 
+pasadena streckeisen vbb 
+wwssn press ewe gain 
+wwssn benioff 
+torsion sec 
+torsion sec 
+gdsn stat 
+choice present fortran stop 
+program lisa wald 
+purpose create plot record output file streckwa streck raw streckeisen data option rotate record radial tangential component 
+source leap streck 
+description streckplot create plot seismogram output data file streckwa streck 
+raw unprocessed streckeisen data may also plot 
+there option rotate record radial tangential component 
+the amplitude scale time scale set interact 
+the record inch long time scale set accordingly 
+the large amplitude record length record display order correctly set scale 
+input file filename dat 
+output filename streck 
+output file batch pit 
+choice make hard paper copy 
+common error none 
+example run 
+streckplot how many component the file 
+type the name the event and magnitude for the title test plot 
+type name input file test out 
+this raw streckeisen data 
+the max 
+amplitude the record 
+the max 
+amplitude the record 
+the max 
+amplitude the record 
+the length the record sec 
+44358e 11452e 83287e 
+what the time scale sec 
+what the amplitude scale 
+rotate record radial and tangential 
+plot option available 
+terminal batch preview prompt plot 
+batch device available 
+disk file 
+enter name plot file batch plt fortran stop 
+streckplot how many component the file 
+type the name the event and magnitude for the title test plot 
+type name input file intest dat 
+this raw streckeisen data 
+which type data vbb 
+upper case vbb 
+the max 
+amplitude the record 
+the max 
+amplitude the record 
+the max 
+amplitude the record 
+the length the record sec 
+what the time scale sec 
+what the amplitude scale 
+rotate record radial and tangential 
+enter epicenter latitude longitude decimal 
+north east positive 
+enter station latitude longitude decimal 
+enter station pa 
+distance between source and receiver azimuth back azimuth 
+plot option available 
+terminal batch preview prompt plot 
+batch device available 
+disk file 
+enter name plot file batch plt fortran stop 
+program lisa waldstreckwa 
+purpose deconvolve streckeisen instrument response seismogram streckeisen convolve result ground displacement data wood anderson instrument response produce synthetic woodanderson record 
+source code leap streck 
+description streckwa program deconvolves instrument response streckeisen seismogram convolves wood anderson instrument response produce synthetic wood anderson record 
+the input file may record correspond different component 
+the data streckeisen look like however entire header appear first line format prevent documentation 
+ipas ipas unfiltered 
+sec sps 
+the first line must add indicates station component component 
+the next line header already top record 
+the next line first line data must follow directly header blank line order program work properly 
+the first line follow component record must last line preceeding record spare 
+this edit do automatically run cleanup find leap streck 
+the abbreviation run progam also setup leapjgetdata com run type cleanup 
+for information see documentation streck leap doc 
+input file vbb example 
+event filename 
+output file user choice 
+common error format input file correct 
+the location blank line important 
+example run streckwa which type data vbb vlp upper case vbb vbb enter seismogram filename a25 intest dat how many component this file 
+enter output file name test out fortran stop 
+program larry bakertapecopy purpose copy file magnetic tape 
+for purpose manual copy binary seismogram file archive tape onto disk 
+source code user disk bgmf tapecopy gsvax sys sysroot sysexe citvax description tapecopy command procedure copy file magnetic tape onto disk 
+for purpose copy seismograms file archive tape create binary file data disk use several plotting program 
+unlike snark require special cusp file abbreviation 
+however file type file block size rather grm type file block size 
+the file cannot use cusp proper program qed 
+use auxiliary program 
+before run tapecopy need determine archive tape archive event file event tape 
+there two way dck contain information one top line 
+see example dck file 
+contains information clearly spell last line 
+tapecopy also use read cedar tape data 
+see cdrev 
+input file none output file user choice 
+this best choice cusp processing 
+common error wrong block size record length choose example run tapecopy which drive tape 
+mtao dcl alloc j4tao allocate what records 
+what blocksize 
+mount writelock volume write lock 
+mount mount mounted mtao 
+enter filename typ stop skip skip how many file want skip 
+enter filename typ stop skip x743060 
+enter tape copy processing parameter be file char card image 
+enter record size undefined translate input ascii 
+end file 
+record write 
+enter filename typ 
+stop skip user request exit dism mtao deall mtao 
+program lucy jonestelecat 
+purpose get catalog data teleseismlc event 
+source code leap get 
+description telecat procedure search catalog data teleseismic event 
+teleseismic event mark flag attach event post world region state 
+ascii file create event listing 
+the time interval minimum magnitude maximum magnitude may specify 
+the location include catalog information 
+note this program work properly right change data format 
+commonly use program questionable whether fixed future 
+input file none 
+output file quake dck 
+user choice 
+common error none 
+example run telecat this program will select teleseisms from the cit database time and magnitude 
+the program will ask you for all the necessary parameter 
+caltech file quake dck 
+begin year 
+end year 
+minimum magnitude oooooe 
+maximum magnitude 
+read catalogue for read catalogue for read catalogue for fortran stop 
+program lisa waldversarec purpose plot seismogram versatec printer 
+source code leap seis description versarec version recsel produce plot file compatible versatec printer 
+see recsel description option detail 
+the difference respond versaplot prompt 
+when prompt appear type xmax 
+xmax allow station network plot ymax allow record plot without get cut end sec inch time scale chosen 
+the output plot file plot rasm rather viewerr 
+common inc file include compile source file 
+include limit number station number point per record 
+the buffer printer take anything great product max maxd equal 
+number station length record exceeds number use nskip divide plot process two part small enough handle 
+need change limit station point per record copy file source file leap seis directory edit common inc recompile use versalink com leap seis type leap seis versalink versarec 
+otherwise worry input file 
+the default set station point 
+latitude longitude convention north east positive 
+distance kilometer 
+grm file csp format file cit format 
+when plot order increase epicentral distance plotting record section station pasall sta plot include station 
+the list contain station active time southern california network 
+need use another station list copy program directory along common inc change station list open statement program recompile use versalink com 
+input file grm 
+pasallsta pasnow sta menlo sta plot inc epi 
+record sect 
+edit discriminator voltage attenuation value event 
+use usgs database absolute amplitudes important the absolute 
+amplitude rough estimate use anything 
+get rough estimate 
+when certain setting seismometer 
+instrument change planned future equation use 
+calculate absolute amplitude longer correct 
+program update 
+output file vectr1 plv parm plv distaz out 
+increase epicentral distance record section 
+common error see section recsel 
+example run 
+versarec enter data type cit csp cusp format csp 
+enter event name 
+read dmux data 
+map vector algorithm 
+vpl xmax 
+vpl ymax 
+plot option effect 
+model ymin xstart xfact strip 
+xmin ymax ystart yfact stripo 
+xmax msglvl scale unit space 
+i2flg nscan modelp 
+out nib 
+lynes den 
+enter time scale second inch and plot height inch measure from zero line 
+enter corn 
+highpass butterworth 
+enter zero you want filter skip 
+enter corn 
+lowpass butterworth 
+you want filter skip 
+enter decimation factor 
+decimation factor two cut number point half 
+enter zero skip decimation 
+self normalized relative normalization 
+ordinary plot inc epicentral dist 
+plot summary plottable vector clip vector unplottable vector 
+fortran stop 
+program egill hauksspn lucy jones env wave purpose pick phase network station record plot seismogram plot record section 
+source code leap seis wavejpping2 leap seis envwave envwave description wave waveform plot pick manipulation program use tektronics terminal equip high speed graphic board menlo park 
+with program user look seismograms screen variety different way create amend hypoinverse file 
+input format cit csp grm anza network cdr cedar tape caltech sac 
+envwave program run slowly tektronics compatible graphic terminal 
+this option allow creation hard copy 
+available command option allst plot station per page pin order selst select one station time look 
+ordst plot station per page order increase epicentral distance 
+use must file location line end file 
+work teleseisms 
+sortst plot pick record order increase arrival time per page 
+only station arrival time file plot 
+rnanst plot station enter manually resev reduce vertical record section reseh reduce horizontal record section next next earthquake spawn spawn another process help list command stop exit program 
+all command must give low case letter except station name 
+once one first five plotting option choose seismograms begin appear way communicate program enter one character cursor appear 
+when page record display use allst ordst sortst one record choose full page display arrival time pick 
+place cross hair trace vertical cross hair select begin window blow 
+then type 
+none trace select order 
+then type see one individually 
+when single setsmogram display selst describe arrival time pick interact stored hypoinverse file 
+pick exist file plot 
+file hypoinverse directory residual file also plot 
+move onward trace type get next seismogram either single seismogra pick none next page get back command mode 
+quietly depart program back door 
+once single seismogram page either choose page selst change plot parameter replot trace pick arrival time duration next trace 
+change plot parameter replot change parameter next plot 
+expand horizontal scale factor 
+location vertical cursor move center 
+reduce horizontal scale factor previous location vertical cursor move center screen 
+space bar 
+hit space bar move scroll seismogram leave right previous location vertical cursor move center screen 
+expand vertical scale factor 
+reduce vertical scale factor 
+plot less data point factor undecimate 
+plot data point factor 
+replot trace initialize 
+lose seismogram reduce time scale increase decimation might want get back replot incorporating parameter change filter ask fmin fmax min max get original trace back 
+save information eveimtim file pick arrival time 
+peuo emergent impulsive weight 
+pick arrival time 
+pick coda duration pick period pick min max amplitude count leave page next station next page seismograms label bad channel irreversible removal back command level 
+exit throuh back door 
+input file 
+output file batch 
+choice make hard paper copy envwave 
+common error see section recsel command enter low case 
+when pick arrival always enter first otherwise character etc 
+take mean command 
+wave expect three character want enter first motion enter blank 
+select hard copy option envwave must answer question you want save this plot 
+every time clear screen 
+you may able see question write preexist graphic still must remember answer continue 
+high speed graphic board tektronics terminal malfunctioning high speed graphic call produce alphanumeric character instead plot 
+the problem sometimes clear merely remove board clean content reinserting board 
+sometimes need repaired 
+see chuck koesterer usgs help board 
+step wise procedure for specific task 
+get cusp specific event 
+three different way use catread input spatial time magnitude limit output file contain event 
+sure select caltech format get cusp listing 
+then select event output file quake dck 
+set def appropriate cit directory citvax disk1 cit 88febj readonly cat li file 
+search event date time 
+look trout 
+get phase data event 
+follow step get cusp event 
+get mem file event 
+for recent event within month data still line citvax diskl cit monthj month year abbreviate month three letter earthquake occur 
+one two event either follow way 
+many event best choose second method 
+use regular copy command copy mem file directory 
+for example event occur february would type copy citvax disk1 cit 88feb mem 
+create dir dat file list select event cusp then define cuspin monthly directory event reside 
+for example event occur may type 
+define cuspin citvax disk1 cit 88may when run maker have default input source directory define cuspin define 
+default current directory 
+event recent file find get mem file freeze tape 
+freeze tape label date find appropriate tape way 
+freeze tape keep computer room caltech seismo 
+second floor south west corner south mudd 
+sign tape get 
+run rdfrz get mem file freeze tape 
+use makephas create file contain phase data 
+note another alternative get phase data hypo tape contain one file per month local event 
+these tape locate usgs computer room 
+make seismic map 
+use catread choose appropriate spatial time magnitude limit map interest 
+choose plot format output file 
+use qplot create map quake plt input file earthquake location 
+plotting record record section event 
+follow step get phase data event 
+create file event 
+use makephas create file 
+remember create dir dat file cusp event 
+want additional information event run memdck create dck file 
+determine archive tape number file number event 
+both file dck file information 
+dck file find line label ark 
+the second number line archive tape number third number file number 
+file two number find last line file 
+event post snark state run arklist give tape number file number 
+get grm file event 
+obtain appropriate archive tape seismo 
+computer room 
+hang tape use tapecopy snark obtain grm file respectively 
+optional prepare file run plot program 
+you must step event trigger large number station great use wave 
+run nskip determine number data point skip plot second half trigger station 
+then split number trigger station half change first number file total number half number 
+for first group station run whatever plot program wish change 
+plot second half station must substitute number nskip out associate first station second half last number line station name file 
+then delete line first station line second line file station line edit 
+then change first number first line remain number station plot plus time code 
+now run plot program 
+plot record versarec recsel env wave 
+plot strong motion record 
+follow step plot record record section use fba create new type file point fba station 
+use available plotting program plot fba station versarec recsel 
+pick phase event 
+follow step get phase data step plotting record 
+edit file take decimal point second value 
+becomes wave assumes phase start minute 
+want look 
+record order increase epicentral distance determine exist location make sure location line end file 
+this accomplish choose hypo71 format makephase 
+use env wave look change exist pick 
+note prefer work entirely within cusp environment use local contains locate program grope part com procedure 
+see kate hutton doug give information 
+relocate event 
+follow step get phase data 
+optional follow step plot record pick phase 
+use abc put station alphabetical order file delete repetitive station 
+use hypoinverse locate event file create input file need fpfit 
+make focal mechanism 
+follow step relocate event 
+optional use magaddc add magnitude file want magnitude appear plot 
+use fpfit determine focal mechanism first motion 
+use fppage fpplot plot focal mechanism 
+obtain digital data use program write specifically cusp data 
+individual ascii file 
+follow step plot record record section 
+use grmchop getrec extract station record interest create digital ascii file 
+error track system 
+when problem encounter cusp procedure applies procedures require special cusp directory structure see error examples either screen log file associate procedure 
+drop fatal error 
+fatal error 
+memres fatal error 
+memres fatal error 
+delgrm fatal error 
+this tell first problem also tell 
+location problem 
+there subroutine call fatal resident cusp libjkom for 
+every well write cusp program subroutine call condition could interpret error 
+purpose print error line syssoutput return parameter ire indicate program error occur 
+look code say forget for find subroutine call accompany statement like 
+call getcklone ire i ifcires 
+get cusp subroutine also reside cusp lib whatever case look tuple klone kin match partially complete one array kin return value ire depend success 
+positive ire generally mean success zero mean tuple negative value mean error condition 
+the ier mark location program subroutine 
+ire less one 
+get less complete success statement pass message error occur next level subroutine 
+woodshed call fatal forget ier ires i return 
+each level subroutine woodshed many case error trace downward source string fatal message like first example 
+batch job message appear log file 
+run interactive mode appear screen 
+they helpful debug program troubleshooting situation 
+addition write message syssoutput fatal also set symbol call exstat exit status equal ire 
+dcl equivalent system keep track error occur 
+base run clone forget sho sym exstat res base exstat exstat 
+then goto result here forget fortran code return negative exstat ire fact value record re well location within bat file base 
+well write bat file section different base well write cusp fortran routine use i place failure possible 
+later bat file result call memres sec mem local re set event process nonzero result 
+the event experience failure forget post forget instead forget forget run silent 
+the indicates location bat file indicate ire cusp program call 
+the log file contain rest comment fatal 

@@ -1,0 +1,523 @@
+index select machine readable geohydrologic data for precambrian through cretaceous rock kansas spinazola hansen underwood kenny wolf geological survey open file report lawrence kansa 
+department the interior donald paul hodel secretary geological survey dallas peck director 
+for additional information write district chief geological survey water resource division constant avenue campus west lawrence kansa 
+copy report purchase geological survey book open file report federal center bldg 
+box denver colorado 
+abstract troduc tion purpose scope well number system acknowledgment type data file log data ter qual data water level data hydraulics data 
+data repository water data storage retrieval system watstore ground water site inventory gwsi water quality file central midwest regional aquifer system analysis water quality file cmrasa qwfile central midwest regional aquifer system analysis reservoir parameter data base cmrasa rpdb magnetic tape ilrmmumilldnlvtyr select reference 
+diagram show well number system 
+pie diagram show 
+type source file membership log data 
+type source file membership waterquality data 
+type source file membership water level data 
+type source file membership hydraulics data 
+correlation geologic unit geohydrologic unit identi fied central midwest regional aquifer system analysis kansa 
+description format log data store magnetic tape 
+content continue table 
+description format water quality data store magnetic tape 
+description format measure wator level data store magnetic tape 
+description format equivalent freshwater head data store magnetic tape 
+description format specific cap city aquifer test data store magnetic tape 
+description format core sample analysis drillstem test data store magnetic tape description format water use dalia store magnetic tape 
+component ground water site inventci gwsi identify data base file central mic west regional aquifer system analysis cmrasa 
+characteristic file store magnetic tape 
+conversion factor 
+for reader prefer use metric international system unit rather inch pound unit conversion factor term use report list 
+multiply inch pound unit 
+obtain unit 
+square meter 
+foot per day 
+meter per day 
+foot square per day 
+meter square per day 
+pound per square inch 
+kilogram per square centimeter 
+million gallon per day 
+cubic meter per second 
+degree fahrenheit per foot 
+degree celsius per kilometer 
+convert degree fahrenheit degre celsius use 
+index select machine readable geohydrologic data for precambrian through cretaceous rock kansas 
+spinazola hansen 
+kenny wolf abstract machine readable geohydrologic data precambrian cretaceous rock kansas compile part geological survey central midwest regional aquifer system analysis 
+the geohydrologic data include log water quality water level hydraulics water use information 
+the log data consist depths top select geologic formation determine site geophysical log formation lithology sit lithologic log 
+the waterquality data consist analysis proprietary 
+the water level data consist measured water level equivalent freshwater hydraulic head proprietary 
+the hydraulics data consist result specific capacity test aquifer test interpretation drill stem test proprietary core sample analysis 
+the water use data consist estimate freshwater withdrawal precambrian cretaceous geohydrologic unit county kansas 
+average yearly withdrawal estimate decade 
+all log water use data nonproprietary part water quality water level hydraulics data available magnetic tape geological survey office lawrence kans 
+introduction geohydrologic data compile machine readable format rock precambrian cretaceous age kansa 
+the data compile part kansa contribution geological survey central midwest regional aquifer system analysis cmrasa jorgensen signer 
+data collate statewide include depths top select geologic formation lithology cod geophysical lithologic log chemical analysis water well water level well specific capacity aquifer test result drill stem test core sample analysis interpretation historical water use data 
+consistent regional scope investigation limit representative data select type available data except chemical analysis 
+purpose scope this report present type chine readable data compile central midwest regional aquifer system analysis cmrasa kansa describe retrieve data storage 
+data compile record obtainec state federal agency publish report oil gas industry 
+the data available geologica survey lawrence kans 
+addition data available large multistate computer data base system geological survey water quality file gwsi ground water site inventory watstore water data storage retrieval system cmrasa partially proprietary qwfile water quality file rpdb reservoir parameter data base 
+well number syst well report number accc rding modification bureau land management syste land subdivision 
+system first set digit well number indicate township south kansa nebraska state line second set range east west sixth principal meridian third set section well situate 
+the first letter follow third set digit denotes quarter section acre tract within section second quarter quarter section acre tract third quarter quarter quarter section acre tract 
+the section designate counterclockwise direction begin northeast quadrant 
+the last two digit well number sequential order begin well acre tract inventoried 
+for example figure well number 28 21w 5ddb ford county nw1 se1 se1 sec 
+for convenience one well inventoried acre tract trail two digit designation may drop 
+acknowledgment appreciation express kansas geological survey lawrence especially shirley paul other well log library valuable assistance alien mcfarlane contribution data southeastern kansa 
+other state agen y offer assistance access record include kansa state board agriculture division water resource kansas department health environment kansa corporation commission topeka 
+well number system type data file log data the purpose log file store set geophysical lithologic log describe interval land surface precambrian surface one site county kansa 
+set log include available lithologic spontaneous potential resistivity gamma ray neutron density acoustic velocity log 
+many time single set log describe entire stratigraphic interval one site 
+for reason many county log several site select comprise set 
+geophysical log sit lithologic log site select file kansas geological survey lawrence 
+all site select included investigation data base file 
+the percentage type log data show figure 
+iog data ypb log litholocic percent source data kansas geological survey percent file membership data base percent figure 
+type source file membership log data lithology describe lithologic log 
+depth top select geologic formation determine geophysical lithologic log unit describe table 
+when necessary depth formation top determine log correlate nearby publish log tops formation indicate 
+western two third state type log geophysical log cross section describe depth top various formation available kansas geological society wichita see select reference publish report also contain log show depth various formation top 
+top log two establish source provide control correlation 
+correlation geologic unit geohydrologic unit identify central midwest regional aquifer system analysis kansa 
+code number 
+geologic unit 
+geologic name geological survey geologic unit code 
+lithologic description 
+aquifer confine unit denotes major unit denote subunit 
+cenozoic 110cncz unconsolidated alluvial glacial deposit include 
+quaternary system 110qrnr 
+ogallala formation 1210gll 
+alluvial glacial aquifer confine unit high plain aquifer system 
+upper cretaceous 211crcsu shale chalk limestone include 
+great plain confine system 
+pierre shale 211pirr 
+colorado group 211clrd include 
+niobrara chalk 211nbbr fort hay limestone member 211frhs carlile shale 211crll greenhorn limestone 211grnr graneros shale 211grrs 
+lower cretaceous sandstone shale include 
+great plain aquifer system 
+lower cretaceous sandstone shale 
+upper aquifer unit 
+great plain aquifer 
+dakota formation 210dkot 2170mdi use undifferen 
+tiated low 
+lower cretaceous shale sandstone include 
+cretaceous 217crcsl 
+confine unit great plain aquifer system 
+code number 
+kiowa shale 217kiow 
+lower cretaceous sandstone shale include cheyenne sandstone 217cynn 
+low aquifer unit great plain aquifer tern 
+jurassic upper mississippian shale limestone evaporite rock sandstone dolomite include 
+western interior plain confine system 
+jurassic 220jctc shale sandstone include morrison formation 221mrsn 
+upper unit western interior plain confine system 
+permian upper mississippian shale limestone evaporite rock sandstone dolomite include 
+low unit western interior plain confine system 
+correlation geologic unit geoh rdrologic unit identify central midwest regional aquifer system analysis kansa continue 
+code number 
+geologic unit 
+geologic name geological survey geologic unit code 
+lithologic description 
+aquifer confine unit denotes major unit denote subunit 
+permian shale evaporite rock sandstone dolomite include 
+upper permian 311prmnu redbeds include 
+big basin formation 311bgbs day creek dolomite 311dcrk whitehorse formation 310wtrs 
+cimarronian stage 317cmrn include 
+nippewalla group 317nppl include 
+dog creek shale 313dgck blain gypsum 318blin flowerpot shale 313flrp cedar hill sandstone 318cdhl salt plain formation 318slpl harper sandstone 317hrpr 
+sumner group include 
+stone corral formation 317scrl ninnescah shale 310nnsc wellington formation 310wlng hutchinson salt member 317hcns 
+low permian upper pennsylvanian limestone shale include 
+wolfcampian series 319wfmp include 
+chase group 319chse council grove group 319ccgv admire group 319admr 
+virgilian series 322vrgl include 
+wabaunsee group 322wbns shawnee group 322shwn douglas group 322dgls 
+missourian series 321msrn include 
+lansing group 323lnsg kansa city group 323kssc pleasanton group 323plsn 
+middle low pennsylvanian upper missisjippian shale limestone sandstone include 
+desmoinesian series 324dsms include 
+marmaton group 325mrmn cherokee group 325chrk 
+atokan series 324akbd 
+morrowan series 327mrrn chesterian series 332crsn 
+correlation geologic unit geohydrologic unit identify central midwest regional aquifer system analysis kansa continue 
+code number 
+geologic unitsl 
+geologic name geological survey geologic unit code 
+lithologic description 
+aquifer confine unit denotes major unit denote subunit 
+upper mississippian upper cambrian limestone dolomite shale sandstone 
+mississippian 330mssp limestone dolomite chesterian series northview shale include 
+sedalia dolomite 337sldi 
+low mississippian devonian 337mpdv shale shaly limestone include 
+northview shale 339nrtv compton limestone 337cmpn chouteau limestone 337chut boice shale 337boic chattanooga shale 330ctng 
+devonian upper cambrian dolomite limestone shale sandstone include 
+devonian silurian upper ordovician dolomite shale include 
+hunton group 340hntn maquoketa shale 361mqkt 
+middle low ordovician upper cambrian dolomite limestone sandstone include 
+viola limestone 361vkmk simpson group 364smps arbuckle group 367abck may include upper cambrian rock 
+upper cambrian dolomite include 
+bonneterre dolomite 371bntr 
+upper cambrian sandstone include 
+lamotte reagan sandstone 371lmrg granite wash 320grws basal pennsylvanian otherwise age immediately overlie stratum 
+precambrian 400pcmb metamorphic igneous rock 
+western interior plain aquifer system upper aquifer unit western interior plain aquifer system confine unit western interior plain aquifer system lower aquifer unit western interior plain aquifer system basement confine unit 
+the stratigraphic nomenclature use report determine several source may follow usage geological survey 
+the log file available two sour geological survey gwsi computer file magnetic tape gwsi repository information available log interpret kansa cmrasa study 
+select item log file available magnetic tape geological irvey lawrence kans 
+description kind format log ata store magnetic tape present table 
+water quality ita the purpose water quality file store ground water analyse well complete geohydrologi unit study cmrasa rock older late cretaceous age kansa 
+the file include analysis 
+data include istorical record available january watstore ter quality file kansa water quality file geological survey lawrence kans 
+kansa brine file kansa geological survey lawrence record national uranium resource evaluation department energy grand junction colo record petroleum data syst university oklahoma norman kansas geological survey 
+all analyse investigati work file 
+the analysis densely space part kansas extremely variable short distance 
+facili ate mapping representative analysis choose work file designate belonging project file data base file the project file contain analysis select work file data base file contain data select project file 
+the purpose project file store one representative analysis per minute quadrangle aquifer 
+the purpose date base file store one representative analysis per county aquifer 
+the goal project data base file alwa achieve due lack chemical quality data aquifer part state there analyse projec file analyse data base file fig 
+water quality data store cmrasa qwfile geological survey watstore water quality file magnetic tape 
+the cmrasa qwfile repository water quality analyse compile study 
+the watstore water cjuality file national repository water quality data collect analyzed geological survey 
+all nonproprietary lysis kansa also available magnetic tape geological survey lawrence kans 
+analysis petroleum data fstem available machine readable form due proprietary nature 
+description kind format water quality data store magnetic tape present table 
+water level data the purpose water level file store record water level measure well equivalent freshwate hydraulic head derive 
+description format log data store magnetic tape 
+record position 
+blank latitude degree minute second ddmmss 
+all latitude north 
+longitude degree minute second dddmmss 
+all longitudes west 
+blank landline location township range section quarter section describe figure 
+sequence number first well location subsequent well location assign large number 
+blank altitude land surface foot 
+blank code number see table 
+blank geological survey geologic unit code see table hutchinson appendix 
+blank depth top formation lithology foot blank log begin top formation lithology 
+blank depth bottom formation lithology foot blank log end bottom formation lithology 
+blank geological survey lithologic code see baker foulk b62 b66 
+water sample percent 
+water quality data type data 
+water sample proprietary percent 
+kansa brine file percent kansas geological survey percent nonproprietary work file only percent 
+source data 
+national uranium resource evaluation percent petroleum data system proprietary percent kansa and water data storage and retrieval system water quality file percent nonproprietary project file percent nonproprietary data base percent proprietary work file only percent proprietary project file percent proprietary data base percent 
+type source file membership water quality data 
+drill stem test analysis geohydrologic unit study 
+cmrasa kansa 
+the file include measured water level 
+equivalent freshwater head ment data come geological 
+water level measure gwsi file kansa 
+geological survey publish report ouher incidental source 
+kansa department health environment topeka kansa 
+description format water quality data store magnetic tape 
+record position 
+type card 
+card type header card identifies site uniquely name card name well formation test sample analysis information site identification unique number site usually correspond latitude longitude 
+appear card 
+latitude degree minute second ddmmss 
+all latitude north 
+longitude degree minute second dddmmss 
+all longitudes west 
+sequence number first well location subsequent well location assign large number 
+state district code see department commerce 
+county code see department commerce 
+site type ground water 
+blank card 
+landline location township range section quarter section describe figure 
+description format water quality data store magnetic tape continue 
+record position 
+card continue sample number uniquely identifies sample 
+first digit sample number record position iidentifies source data watstore water quality file natural uranium resource evaluation kansa brine file kansas geological survey 
+file membership blank work file project file work file data base project file work file 
+geohydrologic unit sample see table 
+geological survey geologic unit code see table hutchinson appendix 
+blank type card 
+date sample order year month day yymmdd 
+time sample hour time notation blank parameter code analyze constituent see hutchinson appendix 
+value analyze constituent report decimal fraction record position multiply power exponent record position 
+remark code see geological survey a14 a15 
+description format water quality data store magnetic tape continue 
+record position 
+type card continue parameter code analyze constituent see hutchinson appendix 
+value analyze constituent report decimal fraction record position multiply power exponent record position 
+remark code see geological survey a14 a15 
+parameter code analyze constituent see hutchinson appendix 
+value analyze constituent report decimal fraction record position multiply power exponent record position 
+remark code see geological survey a14 a15 
+parameter code analyze constituent see hutchinson appendix 
+value analyze constituent report decimal fraction record position multiply power exponent record position 
+remark code see geological survey a14 a15 
+state board agriculture division water resource topeka missouri division geology land survey rolla fig 
+the equivalent freshwater head base data several source geological survey file lawrence kans 
+kansas geological survey roger hoeger consultant denver colo kansa corporation commission topeka kansa geological society petroleum information inc denver colo individual drilling test company fig 
+all data investigation water level work file 
+the data dense part kansas variable short distance 
+facilitate mapping representative data chosen 
+measured water eevee percent 
+water level data type data 
+drill stem test percent drill stem test proprietary percent 
+ground water site inventory percent publish report and incidental source percent roger hoeger consultant proprietary percent petroleum information inc proprietary percent nonproprietary work file only percent proprietary data base percent proprietary pro ect file percent 
+file membership 
+kansas geological survey percent geological survey percent kansas geological society percent kansa corporation commission percent drill test company percent nonproprietary project file percent nonproprietary data base percent proprietary work filf only percent 
+type source file memb ership water level data 
+work file designate belonging project file data base file 
+the project file contain data select work file data base file contains select project file 
+the purpose project file tear one water level measurement equivalent freshwater head decade geohydrologic unit township state 
+where one measurement equivalent freshwater head township particular geohydrologic unit median value select the purpose data base file store one site county geohydrologic unit 
+site one measurement equivalent freshwater head prefer 
+the goal project data base file always achieve due lack data geohydrologic unit part state 
+there water level measurement equivalent freshwater head project file water levelmeasurement sit equivalent freshwater head data base file fig 
+water level data store geological survey gwsi file cmrasa rpdb file magnetic tape 
+all water level measurement except literature available gwsi 
+the cmrasa rpdb file repository equivalent freshwater head information 
+all measure water level nonproprietary equivalent freshwater head available magnetic tape geological survey lawrence kans 
+those equivalent freshwater head derive information obtain roger hoeger consultant denver colo petroleum information inc denver available machine readable form due proprietary nature 
+description kind format data store magnetic tape present table measured water level data table equivalent freshwater head data 
+hydraulics data the purpose hydraulics file store data relate transmission storage property geohydrologic unit study cmrasa kansa 
+the file include result specific capacity test aquifer test interpretation drill stem test core sample analysis fig 
+hydraulics data derive information geological survey file lawrence kans 
+publication kansas geological survey file publication kansas corporation commission file kansas department health environment file roger hoeger consultant individual drilling test company fig 
+all data belong investigation hydraulics work file 
+the data dense part kansas 
+facilitate mapping representative data choose work file designate belong project file 
+the purpose project file store one result specific capacity aquifer test interpretation drillstem test geohydrologic unit township state 
+the goal project file always achieve due lack data geohydrologic unit part state 
+there specific capacity aquifer test result drill stemtest interpretation project file fig 
+hydraulics data store geological survey gwsi cmrasa rpdb file magnetic tape 
+gwsi repository specific capacity aquifer test result 
+hydraulics data drill stem test core sample analysis store cmrasa rpdb file 
+all specific capacity aquifer test core sample analysis nonproprietary drill stem test data available magnetic tape 
+description format measure water level data store magnetic tape 
+record position 
+file membership blank work file project file work file data base project file work file water level line select project map important several water level one well 
+latitude degree minute second ddmmss 
+all latitude north 
+longitude degree minute econds dddmmss 
+all longitudes west 
+sequence number first well location subsequent well location assign large number 
+blank landline location township range section quarter section describe figure 
+sequence number see record position 
+blank county code see department commerce 
+blank geohydrologic unit supply water well see table 
+blank geological survey geologic unit code see table hutchinson appendix 
+importance formation source water well primary secondary noncontributing unknown 
+description format measure water level data store magnetic tape continue 
+record position 
+blank depth top formation foot 
+blank altitude land surface foot 
+blank depth bottom well foot 
+blank depth top screen interval foot 
+blank depth bottom screen interval foot 
+blank depth bottom case foot 
+blank depth water foot 
+blank altitude water level foot 
+blank date water level measurement order month day year yyyy 
+source data static water level aquifer test static water level production test post measure water level pre measure water level location well generally uncertain 
+description format equi alent freshwater head data store magnetic tape 
+record position 
+file membership blank work file project file work file data base project work file 
+quality data good quality pressure data blank medium poor quality pressure data 
+blank latitude degree minute second ddmmss 
+all latitude north 
+longitude degree minute second dddmmss 
+all longitudes west 
+sequence number first well location subsequent well location assign large number 
+blank state code see department commerce 
+blank county code see department commerce 
+blank landline location township range section quarter section describe figure 
+description format equivalent freshwater head data store magnetic tape continue 
+record position 
+source data geological survey file publication kansa geological survey file publication kansa corporation commission kansa geological society drill test company 
+blank date drill stem test order month year 
+blank geohydrologic unit open test interval see table 
+geological survey geologic unit code open test interval see table hutchinson appendix 
+blank altitude land surface foot 
+blank depth top test interval foot 
+blank depth bottom test interval foot 
+blank pressure pound per square inch graphically extrapolate accord conventional drill stem test analysis method large initial final shut pressure 
+description format equivalent freshwater head data store magnetic tape continue 
+record position 
+altitude pressure record gage foot top test interval gage location unknown 
+altitude equivalent freshwater bead foot uncorrected temperature density formation water top aquifer 
+data file source 
+cmrasa reservoir parameter data base file 
+blank uncorrected equivalent freshwater head use project map 
+altitude top aquifer foot use datum correct equivalent freshwater head 
+mean annual temperature land surface degree fahrenheit 
+geothermal gradient degree fahrenheit per foot 
+temperature water formation test degree fahrenheit 
+estimate dissolved solid concentration water formation test milligram liter 
+altitude equivalent freshwater head foot correct temperature density formation water top aquifer 
+data file source cmrasa reservoir parameter data base file 
+geological survey lawrence kans 
+those drill stem test interpretation derive data roger hoe consultant avail machine readable form due proprietary nature 
+description kind format specific capacity aquifer test data magnetic tape present table 
+description kind format core sample analysis drill test data magnetic tape present table 
+corf sample analysis percent drill stem test percent 
+hydrauiics data 
+aquifer test percent specific capacity test percent drill stem test proprietary percent 
+geological survey percent kansas geological survey percent nonproprietary work file only percent nonproprietary project file percent 
+source data file membership 
+roger hoeger consultant proprietary percent kansa department health and environment percent drill test company percent kansa corporation commission percent proprietary proiect file percent proprietary work file only percent 
+type source file membership hydraulics data water use data water use data include estimate freshwater withdrawal aquifer several major us county kansa tabulate decade 
+unlike type data water use data time site specific rather temporal areal aggregate 
+estimate freshwater withdrawn county percentage represent major use base appropriate report withdrawal division water resource kansas state board agriculture 
+population information census bureau 
+estimate percentage withdrawal aquifer base information provide division water resource representat lves geological survey personnel 
+average yearly withdrawal estimate midpoint decade assumesd representative decade 
+water use data cmrasa kansa available magnetic tape geological survey lawrence kans 
+description format kind water use data store magnetic tape present table 
+description format speci capacity aquifer test data store magnetic tape 
+record position 
+file membership blank work file project file wor cing file data base project lie work file 
+type test data specific capacity aquifer 
+latitude degree minute second ddmmss 
+all latitude north 
+longitude degree minute second dddmmss 
+all longitudes west 
+sequence number first wel location subsequent well location assign large number county code see department commerce 
+blank landline location township rang section quarter section describe figure 
+description format specific capacity aquifer test data store magnetic tape continue 
+record position 
+source data 
+geological survey file publication 
+kansas geological survey file publication 
+kansa department health environment file 
+drill test company 
+geohydrologic unit test see table 
+geological survey geologic unit code see table hutchinson appendix 
+depth top interval test foot 
+depth bottom interval test foot 
+transmissivity foot square per day 
+storage coefficient dimensionless 
+hydraulic conductivity horizontal foot per day 
+permeability factor ratio intrinsic permeability viscosity millidarcies per centipoise 
+data repository most data compile kansas part cmrasa available several source original source large multistate computer file magnetic tape 
+the original agency company file usually least accessible source 
+large multistate computer file usually accessible may require extensive knowledge system retrieve data 
+the magnetic tape available geological survey office lawrence kans accessible concise complete source data compile kansas part investigation 
+description format core sample analysis drill stemtest data store magnetic tape 
+record position 
+file membership blank work file project file worlcing file data base project work file 
+quality data good quality meability data blank medium poor quality permeability data 
+blank latitude degree minute second ddmmss 
+all latitude north 
+longitude degree minute second dddmmss 
+all longitudes west 
+sequence number first well location subsequent well location assign large number 
+blank state code see department commerce 
+blank county code see department commerce blank landline location township range section quarter section describe figure 
+blank source data geological survey file publication kansa geological survey publication 
+description format core sample analysis drill sterntest data store magnetic tape continue 
+record position 
+source data continue kansas corporation commission drill test company 
+blank date test order month year 
+blank geohydrologic unit test see table 
+blank geological survey geologic unit code see table hutchin son appendix 
+blank altitude land surface foot 
+blank depth top interval test foot 
+blank depth bottom interval test foot 
+blank permeability factor ratio intrinsic permeability viscosity millidarcies per centipoise 
+blank viscosity fluid centipoise 
+blank reservoir temperature degrees celsius 
+description format core mple analysis drill stemtest data store magnetic tape con inued 
+record position 
+blank intrinsic permeability millidarcies blank hydraulic conductivity horizontal foot per day 
+blank median porosity core sample nalyses percent blank ratio horizontal vertical permeability core sample analysis 
+water data storage retrieval system watstore the geological survey acquire many type data investigation occurrence quantity quality distribution movement surface underground ter resource nation watstore large scale computerized syst use store retrieve data 
+watstore consist several file one type data water quality station header file gwsi three file 
+all data different watstore file relate location information station tuiader file hutchinson 
+ground water site inventory gwsi the geological survey gwsi contaj log data part water level hydraulics data compile kansa cmrasa study 
+water quality data base file nembers also identify gwsi 
+member data base file flagg gwsi use identifier assign component c190 c191 respectively site identification number 
+these component use limit data retrieve gwsi member data base file desire 
+how component use identify specific data base present table 
+all log interpretation water level measurement hydraulics data identify gwsi part cmrasa study associate standard geological survey eight character geologic unit code 
+see table hutchinson appendix 
+this code store unit identifier component c93 log interpretation waterlevel measurement data c100 hydraulics data 
+addition log interpretation hydraulics data identify three digit code number table entry number component c256 log interpretation c99 hydraulics data 
+thus log interpretation water level hydraulics data identify geologic unit least one component 
+instruction retrieve data gwsi detail baker foulk 
+water quality file the watstore water quality file contain result chemical analysis water sample collect geological survey 
+instruction use retrieve data watstore water quality file give hutchinson geological survey respectively 
+central midwest regional aquifer system analysis water quality file cmrasa qwfile the cmrasa qwfile file contain water quality data compile kansa nebraska part eight adjacent state include cmrasa study see cover 
+the convention use qwfile similar watstore water quality file 
+access qwfile program call qwjob 
+qwjob series program develop retrieve process display record qwfile 
+description qwfile qwjob available time publication 
+central midwest regional aquifer system analysis reservoir parameter data base cmrasa rpdb the cmrasa rpdb file store drill stem test coresample analyse data compile kansa nebraska part eight adjacent state include cmrasa study 
+description rpdb available time publication 
+magnetic tape all nonproprietary data compile kansas part cmrasa study store magnetic tape available request geological survey lawrence kans 
+the characteristic file store magnetic tape describe table 
+these file copy onto magnetic tape various density format depend need requestor 
+time density available byte per inch nine track tape 
+the format available magsav ascii ebcdic bcd eight bit binary 
+the maximum physical block size must less equal character 
+obtain copy file magnetic tape contact geological survey office constant avenue campus west lawrence telephone request particular file 
+copy onto magnetic tape 
+the requesto charge cost tape labor involve make tie tape 
+description format water data store magnetic tape 
+record position 
+county code see department commerce 
+blank middle year decade value estimate year assume representative entir decade 
+blank estimate total ground water use county year million gallon per day 
+blank percentage ground water derive upper cretaceous cenozoic rock geohydrologic uni see table 
+blank percentage ground water derive dakota sandstone geohydrologic unit see table 
+blank percentage ground water derive cheyenne sandstone geohydrologic unit see table 
+blank percentage ground water derive permian upper mississippian rock geohydrologi unit see table 
+blank percentage ground water derive mississippian rock geohydrologic unit see table 
+blank percentage ground water derive rom devonian upper cambrian rock geohydrologic uni see table 
+description format water use data store magnetic tape continue 
+record position 
+percentage ground water derive upper cambrian rock geohydrologic unit see table 
+blank percentage ground water use livestock rural household 
+blank percentage ground water use industrial purpose 
+blank percentage ground water use irrigation 
+blank percentage ground water use municipality 
+summary machine readable log water quality water level hydraulics wateruse data kansa compile part geological survey central midwest regional aquifer system analysis cmrasa 
+the log data consist depths top select geologic formation determine site geophysical log formation lithology sit lithologic log 
+the water quality data consist analysis proprietary 
+the waterlevel data consist measure water level equivalent freshwater head proprietary 
+the hydraulics data consist result specific capacity test aquifer test interpretation drill stem test proprietary core sample analysis 
+the water use data consist estimate freshwater withdrawal geohydrologic unit several major us county kansas 
+average yearly withdrawal estimate decade 
+some data store large multistate computer data base geological survey watstore water quality file gwsi cmrasa qwfile rpdb file 
+all log water use data nonproprietary part water quality water level hydraulics data available magnetic tape geological survey office lawrence kans 
+component ground water site iventory gwsi identify data base file central midwest region aquifer system analysis cmrasa 
+type data 
+other site identif cation number component 
+other identifier c190 
+other assign c191 
+lithologic geophysical water quality water level 
+lith geophys sample number geohydrologic unit geohydrologic unit 
+kscmrasa kscmrasa kscmrasa qwdb kscmrasa 
+component show bracket indicate addii ional information cod water level water quality 
+this information vary site enter gwsi 
+characteristic fileis store magnetic tape 
+file name 
+type file 
+record length 
+jines line line data file introduct ion 
+byte file 
+log geophys geophysical log data 
+log lith 
+lithologic log data 
+qual water quality data 
+measured water level data 
+head eqfw 
+equivalent freshwater head data 
+hyd scaq 
+specific capacity test aquifer test data 
+hyd dstcore drill stem test 
+core sample analysis 
+use water use data 
+select reference adkison stratigraphic cross section paleozoic rock colorado new york american association petroleum geologist cross section publication baker foulk national water data storage retrieval system instruction preparation submission ground water data geological survey open file report hutchinson compiler national water data storage retrieval system geological survey user guide geological survey open file report jorgensen signer plan study central midwest regional aquifer system analysis part arkansas colorado kansa missouri nebraska new mexico oklahoma south dakota texas geological survey water resource investigation open file report kansas geological society type log kansas wichita 
+kansas geological society name correlation committee 1956a northsouth electrical log cross section eastern kansa wichita sheet 
+1956b west east electrical log cross section southeastern kansa wichita sheet 
+kansas geological society study group committee north south electric log cross section nebraska oklahoma along sixth principal meridian wichita sheet 
+west east cross section southern kansa wichita sheet 
+west east cross section northern kansa wichita sheet 
+kansas geological survey geologic map kansa kansas geological survey map series scale sheet 
+merriam the geologic history kansa kansas geological survey bulletin department commerce national bureau standard county county equivalent state united state district columbia federal information processing standard fips publication geological survey national water data storage retrieval system user guide volume water quality file reston virginia unpublished geological survey report unnumbered page 
+zeller the stratigraphic succession kansa kansas geological survey bulletin 

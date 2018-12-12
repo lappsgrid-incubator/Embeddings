@@ -1,0 +1,318 @@
+International Journal of Greenhouse Gas Control 63 (2017) 1–11
+Contents lists available at ScienceDirect
+International Journal of Greenhouse Gas Control
+journal homepage: www.elsevier.com/locate/ijggc
+
+Measurements of electrical resistivity, NMR pore size and distribution, and x-ray CT-scan for performance evaluation of CO2 injection in carbonate rocks: A pilot study
+Abdulrauf R. Adebayoa, Mohamed E. Kandila,⁎, Taha M. Okashab, Modiu L. Sannib
+a Centre for Integrative Petroleum Research, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia b Saudi Aramco, Dhahran 31311, Saudi Arabia
+
+MARK
+
+ARTICLE INFO
+Keywords: Carbon dioxide CO2-EOR Electrical resistivity NMR CT-scan Carbonate rock
+
+ABSTRACT
+Injection of carbon dioxide (CO2) in hydrocarbon rock formation is one of the proven technologies for both enhanced oil recovery and carbon sequestration in geological storage. Accurate knowledge of electrical properties of reservoir rock injected with CO2 is required for successful design and evaluation of a CO2 sequestration project. This depends on the interaction of the injected CO2 with oil and interstitial water contained in the pore spaces, as well as the interaction with the rock grain material, where, heterogeneity also plays a major role in CO2 storage. In this work, a laboratory study was conducted on rock samples extracted from a Jurassic age carbonate reservoir that is being considered for CO2 injection, for the dual purpose of enhanced oil recovery (EOR) and geological sequestration of CO2. Continuous online electrical resistivity was measured, at 90 °C and 3000 psi (conﬁning stress), for three carbonate core samples during diﬀerent core ﬂooding schemes, including a saturation aging period of about four weeks. Nuclear magnetic resonance (NMR), relaxation time and spatial distribution, showed a signiﬁcant change in the distribution of the smaller pores in the three samples after CO2 injection. The changes in the pores and rock matrix were also captured by scanning the core samples, after CO2 injection, in slices of 1 mm depth, with x-ray computerized tomography (CT scan). Results also showed that the 4-pole resistivity was stable over a range of frequency from (100–1000) Hz, while the 2-pole resistivity is only stable at frequency > 800 Hz. We also estimated the saturation of water during the diﬀerent displacement schemes and calculated oil recovery from both water-EOR and CO2-EOR. The results obtained in this work are used to evaluate feasibility of using electrical resistivity tomography (ERT) logs to monitor and evaluate the performance of CO2 injection in a carbonate rock formation.
+
+1. Introduction
+Injecting CO2 in subsurface rock formation is considered as one of the eﬀective means of minimizing anthropogenic CO2 in the atmosphere. Two main subsurface injection methods include injection into deep saline aquifer or injection into deep depleted oil reservoirs. Injection of CO2 in depleted oil reservoirs is being touted as one of the proven technologies for both enhanced oil recovery and carbon sequestration in geological storage. At reservoir conditions (depending on pressure and temperature), CO2 exists in a supercritical state and mixes with formation water, to form a reactive multiphase system that eventually attacks and alters the resident rock pore structure. Injected CO2 plumes can also migrate away from the point of injection and sparsely distribute across the formation by buoyancy, viscous, and capillary forces. Proper understanding of the dynamics of reservoir
+
+ﬂuids displacement, as well as ﬂuids saturation and distribution, is essential for appropriate design of carbon sequestration or enhanced oil recovery (EOR) projects. The eﬀects of a multiphase system on the host rock also need to be understood. Such behavior can be studied in the laboratory under actual reservoir conditions using various in-situ saturation monitoring techniques, such as CT scan, x-ray absorption, NMR, and electrical resistivity tomography (ERT). Most of these techniques are limited to laboratory use except electrical resistivity and NMR, which can be easily applied at ﬁeld scale. Field scale applicability is essential for continuous monitoring of CO2 distribution and also for monitoring the eﬀect of storage on rock properties, whereby electrical resistivity can be used to map CO2 distribution across the reservoir while NMR can be used to continuously monitor pore structure during injection and storage.
+Electrical resistivity and NMR have the capability to monitor in-situ
+
+⁎ Corresponding author. E-mail address: mkandil@kfupm.edu.sa (M.E. Kandil).
+http://dx.doi.org/10.1016/j.ijggc.2017.04.016 Received 23 October 2016; Received in revised form 21 April 2017; Accepted 30 April 2017 1750-5836/ © 2017 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/BY-NC-ND/4.0/).
+
+A.R. Adebayo et al.
+
+International Journal of Greenhouse Gas Control 63 (2017) 1–11
+
+saturation changes during ﬂooding. In addition to that, rock pore size distribution can be evaluated using NMR. Many researchers have reported successful applications of these techniques on outcrop samples at laboratory scale as reported by Nakatsuka et al. (2010), Wang et al. (2010), Breen et al. (2012), Adebayo et al. (2014a, 2014b, 2015), Enwere and Archer (1992), Chardaire-Riviere and Roussel (1991) and Nicot et al. (2016). Field applications have also been reported in the literature by Yang et al. (2015), Christensen et al. (2006), Giese et al. (2009), Kiessling et al. (2010), Carrigan et al. (2013), Allen et al. (1997), Freedman (2006) and Minh et al. (2016). Most of the laboratory and ﬁeld scale experiments were conducted either on sandstone reservoirs (e.g. Nakatsuka et al., 2010; Wang et al., 2010; Breen et al., 2012) or on homogeneous carbonate formation outcrops (e.g. Adebayo et al., 2014; Chardaire-Riviere and Roussel, 1991 ChardaireRiviere and Roussel, 1991). In this study, electrical resistivity, NMR, and x-ray CT proﬁles of highly heterogeneous carbonate rock formations extracted from an oil ﬁeld was measured at diﬀerent stages: before, during, and after diﬀerent core ﬂooding processes. Using a customized experimental set up, an enhanced oil recovery process was simulated in the laboratory starting from initial oil migration (drainage) followed, sequentially, by aging process, seawater ﬂooding (imbibition or water-EOR), and ﬁnally CO2 ﬂooding (CO2-EOR or sequestration). During these processes, electrical resistivity of the rock samples and relevant ﬂooding data were measured in real time, at various frequencies to investigate the eﬀect of frequency on electrical resistivity measurements. Both NMR and x-ray CT scan showed alteration in pore size distribution caused by rock-ﬂuids reaction. Results also showed that the 4-pole resistivity is stable over the whole range of frequency tested from (50–1000) Hz, while the 2-pole resistivity is only stable at frequencies > 800 Hz. We also estimated the ﬂuid distribution and saturation mapping during the diﬀerent displacement schemes and calculated oil recovery from both water-EOR and CO2-EOR.
+
+2. Experimental setup and procedure
+
+2.1. Brine preparation
+
+Synthetic formation brine was prepared using component salts, mainly NaCl, CaCl2, MgCl2, Na2SO4 and NaHCO3, dissolved in deionized water. A heated magnetic stirrer, at 60 °C, was used to stir the mixture until all the salts dissolved in water and a clean homogeneous brine solution was formed. The brine solution was then ﬁltered with a Whatman Ashless ﬁlter paper grade 44, which has a slow ﬁlter speed and ﬁne crystal retention capacity. After ﬁltration, the brine was degassed by applying vacuum for 3 h to remove trapped air. Density of the brine was measured using a pycnometer as ρbrine = 1.15 g/cm3, and resistivity was measured using a Fann 88C resistivity meter as 0.22 Ω m, at an average room temperature of 22 °C. Resistivity at 90 °C was calculated as 0.09 Ω m using the Log Interpretation Charts (1997), for an equivalent NaCl solution, based on the correlation of Hilchie (1982) which correlates the variation of resistivity with the variation in temperature as in Eq. (1).
+
+Rw2 = T1 + 10k Rw1 T2 + 10k
+
+(1)
+
+where Rw1 and Rw2 are resistivity of the equivalent NaCl solution at temperatures T1 and T2 (in °F) respectively and k = 0.641427–0.340396 log10 (Rw1).
+
+2.2. Core samples preparation
+The core samples, obtained from one of the Jurassic age carbonate reservoirs, were cleaned using a Soxhlet extraction apparatus with toluene for about 100 h to remove salts and hydrocarbon deposits, until the extracts were clear and the core plugs no longer ﬂuoresce when
+
+exposed to ultraviolet light. Methanol was then used to remove salts for about 72 h until the methanol no longer shows any white precipitate when tested with 10% silver nitrate. The samples were then dried in an oven at 80 °C under vacuum for 72 h, then placed in air-tight plastic desiccators containing self-indicating desiccants to cool to ambient temperature. The dimensions of the core samples were measured using a digital caliper accurate to ± 0.1 mm and the mass of the dry samples (mdry) was measured using a digital balance accurate to ± 1 mg.
+2.3. Core samples physical properties
+Pore volume, porosity, and permeability of the cleaned cores were measured using an automated helium permeameter-porosimeter AP608, calibrated using standard samples with known volume and density of Berea sandstone and two billets of titanium and steel alloy. The core samples were then saturated with brine solution at room temperature under a pressure of 2000 psi using a high pressure vessel. Vacuum was used prior to saturation to remove trapped air from the samples. Each sample was left in the saturation vessel for about 48 h then removed and wrapped in thin plastic cling ﬁlm, to avoid leakage of the brine solution, then weighted on a mass balance accurate to ± 1 mg to determine the saturated mass (msat). The pore volume, occupied by brine, Vpore was then calculated as Vpore = (msat − mdry)/ρbrine. The pore volumes measured from brine saturation were in good agreement with those measured using the helium permeameter-porosimeter AP608. The core samples were then stored in brine under vacuum for about three weeks, before starting the experiment, to allow for electrochemical equilibrium.
+2.4. NMR and CT scan imaging
+NMR measurements were performed on the three samples using a GeoSpec 2–75 core analyzer. NMR spectroscopy measures the relaxation time of hydrogen molecules in the rock pores after being excited by a magnetic pulse. An electromagnetic pulse is turned on and oﬀ in a systematic fashion to excite the hydrogen molecules. The resulting signal generated by the relaxing molecules in a single pore, called spinecho, is a function of decay time T2, which comprises several components; namely bulk relaxation; molecules diﬀusion in gradient; and surface relaxation, from which pore sizes and pore distribution of the three samples were determined. The structure of each core sample was also examined, using cross-sectional digital imaging obtained over the full length of each sample with an x-ray medical CT-scanner model TSX-032A. The three samples were scanned at 1 mm slice thickness and 1 mm slice interval using a power of 20 kv and 300 mA. Both NMR measurements and digital imaging were performed prior to, and after, CO2 core ﬂood experiments.
+2.5. Core ﬂooding procedure
+Electrical resistivity measurements were conducted using a DCI Test system that allows simultaneous measurements under elevated pressure and temperature using an Agilent 20 MHz waveform generator model 33220A, and a North Atlantic LCR meter model 2250. A cross section in the cell assembly is equipped with four potential electrode wires embedded in the rubber jacket, along the length of the core sample, as shown in Fig. 1. The current electrodes are connected to the end plates of the core holder, and the voltage electrodes are connected across to the middle section (B) shown in Fig. 2.
+Crude oil and brine were stored in piston drive accumulators, and a syringe pump was used to drive either brine or oil to the core sample at a deﬁned rate, or pressure, as illustrated in Fig. 3. The pressure drop across the core sample was measured with two high precision Crystal pressure gauges model XP2i, connected to upstream and downstream of the core, calibrated with a Ruska dead weight piston gauge. The uncertainty in pressure measurements was estimated as ± 4 psi cover-
+
+2
+
+A.R. Adebayo et al.
+Fig. 1. DCI Test Unit Assembly (courtesy of DCI Test Systems, Utah, USA).
+Fig. 2. Sample compartments and potential electrode distribution.
+ing calibration error and eﬀects of hysteresis, repeatability and temperature. A backpressure regulator (BPR), was also attached to the core outlet controlled with a compressed nitrogen accumulator. Fluids produced were collected in measuring cylinders at recorded time intervals.
+The core samples were ﬂushed with 5 pore volume of formation brine at ambient temperature, after applying a conﬁning pressure of 3000 psi and a backpressure of 2000 psi. The samples were allowed to come to equilibrium, by leaving the system for approximately 24 h, after that rock electrical resistivity was measured at room temperature R0 (T = 22 °C). The system temperature was then raised to 90 °C, while
+
+International Journal of Greenhouse Gas Control 63 (2017) 1–11
+controlling the conﬁning pressure and backpressure to maintain the same net conﬁning stress. After the core temperature was stabilized, ﬁve pore volumes of formation brine were circulated after which resistivity was measured at the elevated temperature R0 (T = 90 °C). At the end of this core ﬂooding stage, resistivity was measured at six diﬀerent frequencies (50, 100, 200, 500, 800, 1000) Hz.
+The core samples were then de-saturated by injecting crude oil at a constant ﬂow rate of 0.2 cm3/min, while the pore pressure and conﬁning pressure were maintained at 3000 psi and 2000 psi respectively, at a temperature of 90 °C. The volume of water produced was continuously measured at a ﬁxed time interval and the corresponding electrical resistivity and pressure drop across the core samples were simultaneously recorded using the data logging system. When no further brine produced, pump rate was increased, in steps, to about (1, 2, and 5) cm3/min; after production was stabilized at end of each stage, to minimize residual water saturation. During this cycle of oil ﬂooding (drainage cycle), resistivity was continuously measured at a frequency of 1 kHz. At the end of this cycle (end of water drainage) with a maximum oil saturation of Soi, resistivity was measured at six diﬀerent frequencies (50, 100, 200, 500, 800, 1000) Hz. The samples were then left to age for a period of about four weeks at same temperature of 90 °C, to restore wettability conditions. During this aging period, resistivity was continuously measured at a ﬁxed frequency of 1 kHz. At the end of aging period, resistivity was measured at six diﬀerent frequencies (50, 100, 200, 500, 800, 1000) Hz.
+The next core ﬂood cycle – injecting with seawater (imbibition cycle or as we called water-EOR) started at a relatively low ﬂow rate of 0.5 cm3/min to maintain capillary dominated displacement. Similar to drainage process, the volume of oil produced was continuously measured at ﬁxed time intervals. When no more production was observed, pump rate increased in steps to about (1, 2, and 5) cm3/ min, after stabilization at end of each step, to minimize residual oil saturation. A voltage frequency of 1 kH was applied during this cycle of water ﬂooding. When no more oil produced, the inlet and outlet valves were closed and the system was left for about–72 h, to allow for equilibrium ascertained by stable resistivity readings. At the end of this imbibition cycle, with a residual oil saturation of Sor, electrical resistivity was measured again at six diﬀerent frequencies (50, 100,
+
+Fig. 3. Core ﬂood and online resistivity experimental set up. 3
+
+A.R. Adebayo et al.
+
+International Journal of Greenhouse Gas Control 63 (2017) 1–11
+
+Table 1
+Samples dimensions and basic physical properties: length L, diameter D, dry mass mdry, pore volume Vp,, porosity measured with helium expansion φh, porosity measured with brine saturation φb, grain density measured using helium expansion ρGh, grain density measured using brine saturation ρGb, gas permeability measured with helium expansion κg, and liquid permeability calculated with Klinkenberg correlation κl.
+
+ID
+
+L mm
+
+D mm
+
+mdry
+
+Vp cm3
+
+φh %
+
+φb %
+
+ρGb g/cm3
+
+ρGh g/cm3
+
+κg mD
+
+κl mD
+
+1127 1139 1145
+
+64.1 59.9 62.1
+
+37.6 37.7 37.7
+
+171.13 147.19 151.24
+
+8.9 12.7 13.2
+
+11.27 19.35 19.68
+
+11.1 17.7 18.9
+
+2.704 2.676 2.691
+
+2.710 2.723 2.708
+
+27.01 170.30 222.29
+
+17.8 142.9 176.9
+
+200, 500, 800, 1000) Hz. Supercritical CO2 was injected in the ﬁnal core ﬂood cycle (as a
+tertiary CO2-EOR) at a constant ﬂow rate of 0.1 cm3/min, until CO2 saturation reached the maximum saturation level with no more oil and
+water produced. Electrical resistivity and volume of oil and water produced were continuously measured at ﬁxed time intervals. During this CO2 injection cycle, resistivity was continuously measured at a ﬁxed frequency of 1 kHz. At the end of this cycle, and after complete equilibrium for at least 12 h, with a ﬁnal residual oil saturation of Sor2, resistivity was measured also at six diﬀerent frequencies (50, 100, 200, 500, 800, 1000) Hz.
+
+3. Results and discussion
+
+3.1. Basic physical properties
+
+The experimental measurements of porosity, grain density and permeability of the core samples, are listed in Table 1. Porosity and
+grain density were determined at room temperature from helium expansion under conﬁning pressure, and also gravimetrically from brine saturation at ambient pressure. The measured grain density for the three samples is about 2.70 g/cm3, within a standard deviation of ± 0.02 g/cm3, for a range of porosity from about 10–20%, as shown in Fig. 4. Gas permeability κg was measured with helium expansion at a room temperature of 28 °C then liquid permeability κl was calculated from Klinkenberg (1941), correlation shown in Eq. (2), by plotting gas permeability measurements, at diﬀerent pressures, against the reciprocal of the mean pressure 1/(pm-1). The intercept of the best ﬁt straight line with the gas permeability axis (at p ≈ ∞) is equal to liquid permeability. The values (17.8, 142.9 and 176.9) mD, shown under-
+lined on the vertical axis in Fig. 5, represent liquid permeability for the three samples 1127, 1139 and 1145 respectively.
+
+κ∞ =
+
+1
+
+κg +
+
+b
+
+pm
+
+(2)
+
+where κ∞ is liquid permeability, κg gas permeability, pm mean pressure of ﬂow, b constant parameter (Klinkenberg’s slip factor for a given porous media).
+
+Fig. 5. Linear ﬁt of gas permeability κg as function of the reciprocal of mean ﬂow
+
+pressure pm for: , sample 1127;
+
+, sample 1139;
+
+, sample 1145; with the
+
+values underlined on the vertical axis (at p ≈ ∞) represent liquid permeability for each
+
+respective sample.
+
+3.2. Eﬀect of current frequency on electrical resistivity measurements
+
+Electrical resistivity was measured continuously using 2-pole and 4pole arrangements over a frequency range from (50–1000) Hz. Resistivity measurement with the 2-pole measurement gave a higher value, as shown in Fig. 6, because resistivity of the connecting leads and cables are included in this type of measurements, while with the 4-pole arrangement, only the net core resistivity is measured (resistance of connecting leads and cables are excluded). Resistivity measurement with the 4-pole arrangement didn’t vary over a frequency range from (100–1000) Hz, whereas with the 2-pole arrangement, resistivity signiﬁcantly varied with frequency, as shown in Fig. 6. All measurements reported in this work are based on the 4-pole arrangement at a frequency of 1000 Hz.
+
+3.3. Saturation mapping and wettability restoration monitoring
+Electrical resistivity measurements were used for saturation mapping during the diﬀerent displacement schemes; drainage cycle, seawater ﬂooding cycle, and CO2 ﬂooding cycle. The resistivity data proﬁle, over the whole lifetime of the experiment, as shown in Fig. 7, was measured, continuously for about 800 h, including an aging period of about four weeks. Minimum core resistivity was measured as about 0.5 Ω m during the injection of brine, then increased to 2.5 Ωm, as
+
+Fig. 4. Grain density ρG for three carbonate samples of diﬀerent porosity φ (open symbols using helium expansion, and solid symbols using brine saturation.
+
+Fig. 6. Core resistivity Rt measured at various frequencies f; at end of aging (Soi)
+
+pole;
+
+, 4-pole; at end of CO2-EOR (Sor2) , 2-pole; , 4-pole.
+
+, 2-
+
+4
+
+A.R. Adebayo et al.
+
+International Journal of Greenhouse Gas Control 63 (2017) 1–11
+
+Fig. 7. Continuous resistivity proﬁle for sample 1139 showing diﬀerent saturation cycles;
+
+, brine saturation;
+
+, oil saturation (drainage cycle);
+
+, aging period;
+
+,
+
+seawater ﬂooding (water-EOR); , CO2 injection (CO2-EOR).
+
+shown in Fig. 7, after ﬂooding the core sample with crude oil and water has drained oﬀ (drainage cycle). During the aging stage, resistivity gradually increased to 3 Ω m, due to wettability change from water-wet to oil-wet, as water droplets were gradually displaced by oil phase, resulting in a steady rise in resistivity until it became stable at the end of this period when equilibrium was attained. When the core sample is water-wet, rock grains are wrapped with water while oil remains in the center of the pores as shown in Fig. 8(a), then becomes mixed-wet when water is partially displaced from some of the grain surfaces, as in Fig. 8(b); until ﬁnal equilibrium when most of the rock grain surface become oil-coated in the presence of dispersed water phase in the pores, as shown in Fig. 8(c). Rock grains prefer to be coated with oil instead of water, since surface tension of hydrocarbons is less than that of water. Clearly, the change of wettability as a result of this slow aging period, had a signiﬁcant eﬀect on the change of resistivity despite no change in saturation of water and oil. More details on the eﬀect of wettability on resistivity in porous media, with emphasis on oil-water-rock interaction, was reported by Anderson (1986). In the following cycle of seawater ﬂooding (imbibition or water-EOR), most of the oil was recovered from the core sample which resulted in resistivity drop to about 1.8 Ωm. After this, resistivity signiﬁcantly increased to its maximum, when supercritical CO2 was injected, in the tertiary EOR, where resistivity increased from 1.8 Ωm to about 5 Ωm. The other samples showed similar behavior.
+Electrical resistivity measurements were converted to ﬂuid saturations using the Archie (1942) saturation model, shown in Eq. (3):
+
+Fig. 9. Change of water saturation during: (a) oil injection; (b) seawater injection; (c)
+
+CO2 injection in the core samples:
+
+, sample 1127; , sample 1145; , sample
+
+1139.
+
+Fig. 8. Illustration showing change of wetting of rock grains; (a) water-wet case, where rock grains are wrapped with water while oil remains in the centre of the pores; (b) mixed-wet, where water is partially displaced from some of the grain surfaces; (c) oil-wet, where oil become in contact with most of the grains surface. The three conditions shown have similar saturations of water and oil but rock grains prefer to be coated with oil instead of water since surface tension of oil is less than that of water. This cartoon was adapted from Oilﬁeld Review Abdallah et al. (2007).
+5
+
+A.R. Adebayo et al.
+
+International Journal of Greenhouse Gas Control 63 (2017) 1–11
+
+Sw
+
+=
+
+⎛ ⎜ ⎝
+
+R0
+
+⎞1/n ⎟
+
+Rt ⎠
+
+(3)
+
+where Sw, is water saturation, R0 is rock resistivity at 100% water saturation, Rt, is rock resistivity at partial saturation and n is saturation exponent. The Archie’s saturation exponent n was determined for each sample by data ﬁt of the measured resistivity Rt versus water saturation Sw during the drainage cycle (oil displacing brine). This resulted in saturation exponents of 1.76, 1.69, and 1.88 for samples 1127, 1139, and 1145 respectively; these values are consistent with other samples obtained from same geological formation with an average saturation exponent of 1.8 ± 0.2. The change of water (brine) saturation during the injection of the three core ﬂooding cycles is shown in Fig. 9, (a) oil injection; (b) seawater injection, and (c) CO2 injection. The uncertainty in the calculated water saturation was estimated as ± 0.05 and represented by vertical error bars. During the drainage cycle (oil injection), water saturation decreased, over about 2.5 h, from 1 to about 0.4, as shown in Fig. 9(a). After seawater injection (water-EOR) water saturation increased, as shown in Fig. 9(b), to an average of 0.6 for the three samples. In the CO2 injection (CO2-EOR), water saturation was dropped from about 0.6–0.3, as shown in Fig. 9(c), a lower saturation than that after drainage cycle. This indicates that CO2 was eﬀective in sweeping water oﬀ as well. It can be also shown that sample 1145 reached a higher water saturation after seawater ﬂooding than the other samples, as shown in Fig. 9(b), because it has a continuous pore network, of larger pore size, with no inclusion of signiﬁcant vugs as explicated later from CT scan and NMR analysis.
+
+3.4. EOR measurements
+
+Volumetric oil recovery during seawater ﬂooding (water-EOR) and CO2 ﬂooding (CO2-EOR) along with core resistivity measured for the three samples 1127, 1139 and 1145 are shown in Fig. 10(a)–(c) respectively. Each cycle was run approximately for 1.5 h where pumping rate increased in steps from about 0.2–5 cm3/min until no more oil produced. Cumulative oil recovery reached a maximum of about 4–5 cm3 at the end of water-EOR cycle, as shown on the left side of each chart in Fig. 10, and increased to about 8–10 cm3 at the end CO2-EOR cycle on the right side. Clearly, the amount of oil produced using CO2 injection was signiﬁcantly high, because the volume of oil expands after mixing with supercritical CO2, due the high solubility of CO2 in hydrocarbons, thereby causing what is known as ‘swelling’.
+As shown in Fig. 10, core resistivity decreased during the water-EOR
+cycle as seawater, with less resistivity, replaced oil. During the CO2EOR cycle, core resistivity increased as CO2 replaced both oil and water to a value yet higher than that at the end of aging period (of maximum
+oil saturation) as shown also in Fig. 7 and also in Fig. 6, because
+resistivity of supercritical CO2 is higher than that of oil. The change in resistivity during the CO2-EOR cycles starts with a sharp increase which indicates that water saturation in the core is decreasing faster than oil
+saturation, then resistivity increases gradually as oil is displaced and
+the core becomes fully saturated with CO2. Major sources of error in these measurements come from the estimation of the dead volumes in
+the supply tubing and valves, electrical noise, errors associated with
+separation of oil and water at production with a measuring cylinder and
+visual observation, and the amount of CO2 dissolved in the oil recovered was not calculated.
+
+3.5. Eﬀect of ﬂuid rock interaction on pore structure
+
+3.5.1. Computed tomography (CT) scan analysis The CT scan images, prior to and after core ﬂooding experiments,
+are shown in Fig. 11(a, b, c) for the three samples 1127, 1139, and 1145 respectively. Each sample was scanned in slices of 1 mm thick across the length with no interval between slices, thus, a 60 mm long sample produced 60 scanned images. The end slices were eliminated from
+
+analysis because they are susceptible to air inclusions, excess water, or other artefacts. Each slice was also represented by a CT number distribution across the surface of the slice, and displayed from one end of the core sample to the other end as the histogram shown in Panel A in each ﬁgure. The CT number distribution is the normalized value of the X-ray attenuation coeﬃcient of a pixel in each slice, represented by a colour scale from black to red as shown in the colour code in Fig. 11. The black colour, for smallest CT number, represents minimum density (air), and the red colour, for highest CT number, represents maximum density (compact bone). Two longitudinal cross-sectional views across each sample, at perpendicular planes, are shown in Fig. 11 Panels B and C, using the same colour code, and about 60 ‘radial’ cross-section slice images are shown in Panels D, at the right side of each ﬁgure, also using the same respective colour code.
+By comparing the CT numbers in each ﬁgure, before ﬂooding and after ﬂooding experiments, some changes can be seen in the pores and rock matrices. Some pores were expanded due to leaching caused by CO2-brine mixture, where the CT number has decreased in some slices as new pores were formed, likely, as a result of carbonic acid dissolving the rock matrix. The CT number has increased in some slices due to partial blockage of other ﬁne pores. The areas where the change in CT number have been circled, on each ﬁgure, with a black line representing areas of dissolution, and circles with a red line representing areas of precipitations or secondary mineral formation. Not all dissolution and precipitation spots have been marked and also not all mineralogical or pore geometrical change could be captured with this CT scan, because of its relatively lower resolution, and it is recommended, in this case, to use a micro-CT scanner with a spatial resolution in the micron range.
+3.5.2. NMR analysis The NMR measurements performed in this work gave accurate data
+on the changes in pore size, and pore distribution after the core ﬂooding experiments. Pore size, and pore distribution were measured, as incremental and cumulative porosity, as a function of relaxation time T2. The incremental porosity plot shows the equivalent porosity at a particular incremental T2 signal, while the cumulative porosity is an integration of all incremental porosities, increasing over time until reaching the last point on the cumulative curve at which total porosity of the sample is determined. Incremental and cumulative porosity measured before, and after core ﬂooding experiment are shown in Fig. 12(a, b, c) for the three samples 1127, 1139, and 1145 respectively.
+For samples 1127 and 1139, the number of smaller pores has signiﬁcantly decreased at the end of CO2 core ﬂooding, as can be seen on Fig. 12(a) and (b), where incremental porosity dropped from as high as 0.05 to zero for all pores at T2 < 0.25 ms. This indicates a signiﬁcant blockage in the smaller pores (elimination of micropores) where the relaxation time T2 of H2 protons spinning in large pores and vugs is higher than that in micropores. This occurred due to concurrent dissolution of rock grains by carbonic acid, formed from the reaction of CO2 with the aqueous phase, and precipitation of carbonate minerals, mainly calcite CaCO3 and dolomite CaMg(CO3)2, into the smaller pores, resulting in a drop of the cumulative porosity by about 0.6%, as shown by the dashed red line in Fig. 12(a) and (b) for samples 1127 and 1139. The location of the spots aﬀected by dissolution and precipitation can be clearly seen in Fig. 11(a) and (b) as discussed earlier.
+For sample 1145, both incremental and cumulative porosity slightly increased, as shown in Fig. 12(c) over the whole range of T2 from (0.001 to 1) s. Clearly, no signiﬁcant eﬀect from precipitation was observed because the structure of this sample is dominated by a continuous pore network, of larger pore size, with no inclusion of signiﬁcant vugs as can be seen in Fig. 11(c). Clearly, NMR measurements, complemented with x-ray CT scan, gave accurate data and a clear picture on the changes in pore size and distribution before and after the core ﬂooding experiments.
+The spatial distribution of T2 was also measured, before and after the core ﬂooding experiments, along the depth of each sample to obtain
+
+6
+
+A.R. Adebayo et al.
+
+International Journal of Greenhouse Gas Control 63 (2017) 1–11
+
+Fig. 10. Primary oil recovery (seawater-EOR) and tertiary oil recovery (CO2-EOR) alongside with rock resistivity measured for (a) sample 1127; (b) sample 1139, (c) sample 1145; core resistivity; , cumulative oil produced; , cumulative water produced; , pumping speed.
+
+,
+
+7
+
+A.R. Adebayo et al.
+
+International Journal of Greenhouse Gas Control 63 (2017) 1–11
+
+Fig. 11. Pre and post ﬂooding CT scan for (a) sample 1127; (b) sample 1139; (c) sample 1145; left: pre-core ﬂood; right: post core ﬂood. 8
+
+A.R. Adebayo et al.
+
+International Journal of Greenhouse Gas Control 63 (2017) 1–11
+
+Fig. 12. NMR T2 measurements for the three core samples (a) sample 1127; (b) sample 1139; (c) sample 1145;
+
+CO2 ﬂood; —, cumulative porosity pre-CO2 ﬂood;
+
+, cumulative porosity post-CO2 ﬂood.
+
+, incremental porosity pre-CO2 ﬂood;
+
+, incremental porosity post-
+
+the spatial T2 plots shown in Fig. 13(a, b, c) for the three samples 1127, 1139, and 1145 respectively. The spatial distribution of the peaks in samples 1127 and 1139, as shown in Fig. 13(a) and (b), is signiﬁcantly uneven, which is attributed to high heterogeneity, possibly caused by large vugs. Most of the change in sample 1127, as shown in Fig. 13(a), occurred in a region close to the middle of the sample, while for sample 1139, as shown in Fig. 13(b), occurred in a region close to the front end. The change in the spatial distribution for sample 1154 was very small compared to the other two samples, and as shown in Fig. 13(c), is slightly distributed along a region that extends from front to one third of the core length.
+4. Conclusions and recommendations
+The clear drop in resistivity measurements after seawater ﬂooding by about 2 Ω m, and then the signiﬁcant increase after supercritical CO2
+
+ﬂooding by about 3 Ω m (higher than maximum oil saturation by 1 Ω m) suggest that electrical resistivity tomography (ERT) or electromagnetic (EM) based logs can be reliably used to monitor the performance of CO2 injection and storage in saline carbonate rock formation. It is easy to discriminate between the CO2 plume and interstitial saline water in the reservoir. However, ERT/EM based logs may not be so beneﬁcial for monitoring CO2-EOR performance in such carbonate rocks given the low resistivity contrast between oil saturated and CO2 saturated cores. The low resistivity contrast makes it diﬃcult to distinguish between oil and CO2 plume movement in the reservoir. Thus, quantifying the amount of oil mobilized by CO2 injection using existing ERT/EM based logs alone may be plagued with high uncertainties. Nevertheless, this can be mitigated by combining ERT/EM logs with pulsed neutron spectroscopy logs that can distinguish between oil and CO2. The results of this work will have an impact on the choice of monitoring and surveillance methods that will be deployed for a
+
+9
+
+A.R. Adebayo et al.
+
+International Journal of Greenhouse Gas Control 63 (2017) 1–11
+
+Fig. 13. NMR spatial distribution for: (a) —, sample 1127; (b) , sample 1139; (c) , sample 1145, denoted as (1) pre-CO2 ﬂood and (1) post-CO2 ﬂood. 10
+
+A.R. Adebayo et al.
+potential ﬁeld-scale CO2 sequestration project in Saudi Arabia. For accurate resistivity measurements, the 4-pole technique should
+be used. The combined use of electrical resistivity and nuclear magnetic resonance for real time and in-situ performance evaluation of CO2 injection has been demonstrated. The CT scan results are consistent, and veriﬁed, with those obtained from NMR spectroscopy. The production results of oil and water showed similar trend with electrical resistivity mapping. Archie’s saturation model also showed compatibility with the rock type studied at the expected ﬂow conditions and behavior. We recommend the use of NMR spectroscopy for periodic monitoring of any changes in pore structure because it gives accurate indication of constricted pores, which necessitate the change of injection location to sustain eﬃcient injectivity. Results also showed signiﬁcant increase in oil recovery after CO2 injection.
+Dissolution of rock grains and slight changes in the host rock pore structure have been observed after the injection of CO2. This probably may lead to a change in pore volume (storage capacity) which eﬀect CO2 storage in carbonate reservoirs. In addition, the dissolution may have signiﬁcant impact on poro-elastic properties of carbonate formations exposed to CO2 storage. However, a detailed study of poro-elastic changes in carbonate reservoirs coupled with chemical analysis of the eﬄuent water will be required to assess the impact of rock grains dissolution on storage capacity and changes in elastic properties of carbonate formations that are exposed to CO2 sequestration.
+This study underscore the potential of carbonate reservoirs as very promising sites for geological CO2 sequestration. Given the preponderance of carbonate reservoirs in the Middle East, and the fact that more than 60% of the world’s oil and 40% of the world’s gas reserves are held in carbonate reservoirs; it is recommended to conduct further studies to investigate long term impact of CO2 interaction on petrophysical, poroelastic, geochemical and geo-mechanical properties of carbonate rocks. These are critical in evaluating carbonate rocks for long term sequestration of CO2 in carbonate reservoirs.
+Acknowledgments
+This research was funded by Saudi Aramco, and the Research Institute of King Fahd University of Petroleum and Minerals. The authors thank Dr. Abdullah Sultan for project support, and Mr. Syed Rizwan for assistance with NMR measurements. We also thank the manuscript reviewers for their valuable comments and suggestions.
+References
+Abdallah, W., Buckley, J.S., Carnegie, A., Edwards, J., Herold, B., Fordham, E., Graue, A., Habashy, T., Seleznev, N., Singer, C., Hussain, H., Montaron, B., Ziauddin, M., 2007. Fundamentals of wettability. Oilﬁeld Rev. Summer 44–61.
+Adebayo, A.A., Al-Yousef, H.Y., Mahmoud, M.A., 2014a. An experimental investigation of
+
+International Journal of Greenhouse Gas Control 63 (2017) 1–11
+the use of combined resistivity and temperature logs for scale monitoring in carbonate formations during CO2 sequestration. ASME J. Energy Resour. Technol. 137 032202-032202-11. Adebayo, A.A., Al-Yousef, H.Y., Mahmoud, M.A., Sultan, A.S., 2014b. The prospect of using permanent downhole sensors for monitoring oilﬁeld scales. Int. Petrol. Technol. Conf. 10–12 December, Kuala Lumpur, Malaysia. http://dx.doi.org/10.2523/IPTC17856-MS. Adebayo, A.A., Al-Yousef, H.Y., Mahmoud, M.A., 2015. An investigation of the eﬀect of CO2-brine-rock interaction on determination of Archie’s saturation exponent for carbon dioxide evaluation in carbonate reservoirs. J. Petrol. Sci. Eng. 133, 665–676. Allen, D., et al., 1997. How to use borehole nuclear magnetic resonance. Oilﬁeld Rev. Summer 9 (2), 34–57. Anderson, W.G., 1986. Wettability literature survey- part 3: the eﬀects of wettability on the electrical properties of porous media. J. Petrol. Technol. 1371–1378. Archie, G.E., 1942. The electrical resistivity log as an aid in determining some reservoir characteristics. Trans. AIME 350–366. Breen, S.J., Carrigan, C.R., LaBrecque, D.J., Detwiler, R.L., 2012. Bench-scale experiments to evaluate electrical resistivity tomography as a monitoring tool for geologic CO2 sequestration. Int. J. Greenh. Gas Control 9, 484–494. Carrigan, C.R., Yang, X., LaBrecque, D.J., Larsen, D., Freeman, D., Ramirez, A.L., Daily, W., Aines, R., Newmark, R., Friedmann, J., Hovorka, S., 2013. Electrical resistance tomographic monitoring of CO2 movement in deep geologic reservoirs. Int. J. Greenh. Gas Control 18, 401–408. Chardaire-Riviere, C., Roussel, J., 1991. Use of a high magnetic ﬁeld to visualize and study ﬂuids in porous media. Magn. Reson. Imaging 9 (5), 827–832. Christensen, N.B., Sherlock, D., Dodds, K., 2006. Monitoring CO2 Injection with crosshole electrical resistivity tomography. Explor. Geophys. 37, 44–49. Enwere, M.P., Archer, J.S., 1992. NMR imaging for water/oil displacement in cores under viscous-capillary force control. In: Presented at the SPEIDOE (Society of Petroleum Engineers) Eighth Symposium on Enhanced Oil Recovety. held in Tulsa Oklahoma, 1992, January 1. http://dx.doi.org/10.2118/24166-MS. Freedman, R., 2006. Advances in NMR logging. J. Petrol. Technol. 58 (1), 60–66. http:// dx.doi.org/10.2118/89177-JPT. Society of Petroleum Engineers. Giese, R., Henninges, J., Lüth, S., Morozova, D., Schmidt-Hattenberger, C., Würdemann, H., Zimmer, M., Cosma, C., Juhlin, C., 2009. Monitoring at the CO2 sink site: a concept integrating geophysics, geochemistry and microbiology. Energy Procedia 2251–2259. Hilchie, D.W., 1982. Applied Openhole Log Interpretation for Geologists and Engineers. Published by Douglas W. Hilchie Inc., USA. Kiessling, D., Schmidt-Hattenberger, C., Schuett, H., Schilling, F., Krueger, K., Schoebel, B., Danckwardt, E., Kummerow, J., 2010. Geoelectrical methods for monitoring geological CO2 storage: ﬁrst results from cross-hole and surface-downhole measurements from the CO2 SINK test site at Ketzin (Germany). Int. J. Greenh. Gas Control 4, 816–826. Klinkenberg, L.J., 1941. The Permeability of Porous Media to Liquids and Gases. Drilling and Production Practice. American Petroleum Inst.pp. 200–213. Log Interpretation Charts, 1997. Schlumberger Wireline & Testing SMP-7006. Minh, C.C., Jain, V., Griﬃths, R., Maggs, D., 2016. NMR T2 ﬂuids substitution. Society of petrophysicists and well-log analysts. In: 57th Annual Logging Symposium. Reykjavik, Iceland. Nakatsuka, Y., Xue, Z., Garcia, H., Matsuoka, T., 2010. Experimental study on monitoring and quantiﬁcation of stored CO2 in saline formation using resistivity measurements. Int. J. Greenh. Gas Control 4, 209–216. Nicot, B., Vorapalawut, N., Rousseau, B., Madariaga, L.F., Hamon, G., Korb, J.-P., 2016. Estimating saturations in organic shales using 2D NMR. Petrophysics 57 (1), 19–29. Wang, S., Lee, M., Park, M.K., Kim, J., 2010. Box experiments on monitoring the CO2 migration in a homogeneous medium using electrical resistivity survey. Geosci. J. 14, 77–85. Yang, Xianjin, Lassen, Rune N., Jensen, Karsten H., Looms, Majken C., 2015. Monitoring CO2 migration in a shallow sand aquifer using 3D crosshole electrical resistivity tomography. Int. J. Greenh. Gas Control 42, 534–544.
+
+11
+
+

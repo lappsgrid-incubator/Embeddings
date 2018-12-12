@@ -1,0 +1,871 @@
+A Land Use and Land Cover Classification System for Use with Remote Sensor Data
+GEOLOGICAL SURVEY PROFESSIONAL PAPER 964
+
+A Land Use and Land Cover Classification System for Use with Remote Sensor Data
+By JAMES R. ANDERSON, ERNEST E. HARDY, JOHN T. ROACH, and RICHARD E. WITMER GEOLOGICAL SURVEY PROFESSIONAL PAPER 964
+A revision of the land use classification system as presented in U.S. Geological Survey Circular 671
+UNITED STATES GOVERNMENT PRINTING OFFICE, vVASHINGTON 1976
+
+UNITED STATES DEPARTMENT OF THE INTERIOR JAMES G. WATT, Secretary GEOLOGICAL SURVEY Dallas L. Peck, Director
+First printing 1976 Second printing 1976 Third printing 1978 Fourth printing 1983
+For sale by the Distribution Branch, U.S. Geological Survey, 604 South Pickett Street, Alexandria, VA 22304
+
+CONTENTS
+
+Abstract Introduction ~eed for standardization -------------------------------------------------Historical development of the classification system --------------------------Designing a classification system for use with remote :sensing techniques _______ _ Classification criteria _____________ ------ __________________________________ _
+Developing the classification system ---------------------------------------Using the classification system ___________________________________________ _
+Definitions --------------------------------------------------------------Urban or Built-up Land ----------------------------------------------
+Agricultural Land ---------------------------------------------------RFoanregsrtuaLndand---_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_--_
+VVater --------------------------------------------------------------VVetland ------------------------------------------------------------Barren Land --------------------------------------------------------Tundra -------------------------------------------------------------Perennial Snow or Ice -----------------------------------------------Map presentation -------------------------------- ____ --------------------Selected bibliography -----------------------------.... -----------------------
+
+Page
+1 1 2
+3 4 5 7 9 10 10 13 14 16
+17 17 18
+20 21 22 27
+
+ILLUSTRATIONS
+
+FIGURE
+
+1. Map of ,a part of the Indianapolis, Ind.-111., 1:250,000 quadrangle, showing Level I land use and land
+cover ------------------------------------------------------------------------------------2. Map of a part of the Indianapolis, Ind.-111., 1:250,000 quadrangle, showing Level II land use and land
+cover -------------------------------------------------------------------------------------3. Map of a part of the Maywood, Ind., 1:24,000 quadrangle, showing Level II land use and land cover __ 4. Map of a part of the Maywood, Ind., 1:24,000 quadrangle, showing Level III land use and land cover __
+
+23
+24 25 26
+
+TABLES
+
+TABLE
+
+1. Major uses of land, United S.tates, 1969 --------------·-------------------------------------------2~ Land use and land cover classification system for use with remote sensor data -----------------------
+3. Standard land use code-first level categories --------·--------------------------------------------
+4. U.S.G.S. Level I land use color code ---------------- --------------------------------------------
+
+8
+8
+9
+22
+
+III
+
+A LAND USE AND LAND COVER CLASSIFICATION SYSTEM FOR USE WITH REMOTE SENSOR DATA
+By JAMEs R. ANDERSON, ERNEST E. HARDY, JoHN T. RoAcH, and RICHARD E. WITMER
+
+ABSTRACT
+The framework of a national land use and land cover classification system is presented for use with remote sensor data. The classification system has been developed to meet the needs of Federal and State agencies for an up-to-date overview of land use and land cover throughout the country on a basis that is uniform in categorization at the more generalized first and second levels and that will be receptive to data from satellite and aircraft remote sensors. The proposed system uses the features of ·existing widely used classification systems that are amenable to data derived from remote sensing sources. It is intentionally l·eft open-ended so that Federal, regional, State, and local agencies can have flexibility in developing more detailed land use classifications at the third and fourth levels in order to meet their particular needs and at the ~arne time rema:in compatible with each other and the national system. Revision of the land use classification system as presented in U.S. Geological Survey Circular 671 was undertaken in order to incorporate the results of extensive testing and review of the categorization and definitions.
+INTRODUCTION
+A modern nation, as a modern business, must have adequate information on many complex interrelated aspects of its activities in order to make decisions. Land use is only one such aspect, but knowledge about land ~se and land cover has become increasingly important as the Nation plans to overcome the problems of haphazard, uncontrolled development, deteriorating environmental quality, loss of prime agricultural lands, destruction of important wetlands, and loss of fish and wildlife habitat. Land use data are needed in the analysis of environmental processes and problems that must be understood if living conditions and standards are to be improved or maintained at current levels.
+One of the prime prerequisites for better use of land is information on existing land use patterns and changes in land use through time. The U.S. Department of Agriculture (1972) reported that during the decade of the 1960's, 730,000 acres
+
+(296,000 hectares) were urbanized each year, transportation land uses expanded by 130,000 acres (53,000 hectares) per year, and recreational area increased by about 1 million acres (409,000 hectares) per year. Knowledge of the present distribution and area of· such agricultural, recreational, and urban lands, as well as information on their changing proportions, is needed by legislators, planners, and State and local governmental officials to determine better land use policy, to project transportation and utility demand, to identify future develop'"" ment pressure points and areas, and to implement effective plans for regional development. As Clawson and Stewart (1965) have stated:
+In this dynamic situation, accurate, meaningful, current data on land use are essential. If public agencies and private organizations are to know what is happening, and are to make sound plans for their own futwre action, then reliable information is critical.
+The variety of land use and land cover data needs is exceedingly broad. Current land use and land cover data are needed for equalization of tax assessments in many States. Land use and land cover data also are needed by Federal, State, and local agencies for water-resource inventory, flood control, watersupply planning, and waste-water treatment. Many Federal agencies need current comprehensive inventories of existing activities on public lands combined with the existing and changing uses of adjacent private lands to improve the management of public lands. Federal agencies also need land use data to assess the environmental impact resulting from the development of energy resources, to manage wildlife
+resources and minimize man-wildlife ecosystem
+conflicts, to make national summaries of land use
+patterns and changes for national policy formula..
+tion, and to prepare environmental impact state-
+ments and assess future impacts on environmental quality.
+
+1
+
+2 A LAND USE AND LAND COVER CLASSIFICATION SYSTEM FOR USE WITH REMOTE SENSOR DATA
+
+NEED FOR STANDARDIZATION
+For many years, agencies at the various governmental levels have been collecting data about land, but for the most part they have worked independently and without coordination. Too often this has meant duplication of effort, or it has been found that data collected for a specific purpose were of little or no value for a similar purpose only a short time later.
+There are many different sources of information on existing land use and land cover and on change§ that are occurring. Local· planning agencies make use of detailed information generated during ground surveys involving enumeration and observation. Interpretation of large-scale aerial photographs also has been used widely (Avery, 1968). In some cases, supplementary information is inferred on the basis of utility hookups, building permits, and similar information. Major problems are present in the application and interpretation of the existing data. These include changes in definitions of categories and datacollection methods by source agencies, incomplete data coverage, varying data age, and employment of incompatible classification systems. In addition, it is nearly impossible to aggregate the available data because of the differing classification systems used.
+The demand for standardized land use and land cover data can only increase as we seek to assess and manage areas of critical concern for environmental control such as flood plains and wetlands, energy resource development and production areas, wildlife habitat, recreational lands, and areas such as major residential and industrial development sites.
+As the result of long concern about duplication and coordination among Federal, State, and local governments in the collection and handling of various types of data, the United States has already achieved reasonably effective, though not perfect, standardization in some instances, as evidenced by present programs in soil surveys, topographic mapping, collection of weather information, and inventory of forest resources. Recent developments in data processing and remote sensing technology make the need for similar cooperation in land use inventories even more evident and more pressing. Development and acceptance of a system for classifying land use data obtained primarily by use of remote sensing techniques, but reasonably compatible with existing classification systems, are the urgently needed first steps.
+This is not the first time that use of remote sensors has been proposed to provide the primary data from
+
+which land use and land cover types and their boundaries are interpreted. During the past 40 years several surveys, studies, and other projects have successfully demonstrated that remote sensor data are useful for land lise and land cover inventory and mapping. These surveys have contributed to our confidence that land use and land cover surveys of larger areas are possible by the use of remote sensor data bases.
+In the mid-1940's, Francis J. Marschner began mapping major land use associations for the entire United States, using aerial photographs taken during the late 1930's and the early 1940's.. Marschner produced a set of State land use maps at the scale of 1 : 1,000,000 from mosaics of the aerial photographs and then compiled a map of major land uses at 1:5,000,000 (Marschner, 1950).
+More recently, the States of New York and Minnesota have used remote sensor data for statewide land use mapping. New York's LUNR (Land Use and Natural Resources) Program (New York State Office of Planning Coordination, 1969) employs computer storage of some 50 categories of land use information derived from hand-drafted maps compiled by interpreting 1967-1970 aerial photography. This information can be updated and manipulated to provide numerical summaries and analyses and computer-generated maps (Hardy and Shelton, 1970). Aerial photographs taken in the spring of 1968 and 1969 at an altitude of about 40,000 ft (12,400 m) yielded the data incorporated into the nine categories of the Minnesota Land Use Map, a part of the Minnesota Land Management Information System (Orning and Maki, 1972). Thrower's map (1970) of the Southwestern United States represents the first large-area inventory of land use employing satellite imagery. Imagery from several manned and unmanned missions was used in deriving the general land use map published at a scale of 1: 1,000,000.
+Remote sensing techniques, including the use of conventional aerial photography, can be used effectively to complement surveys based on ground observation and enumeration, so the potential of a timely and accurate inventory of the current use of the Nation's land resources now exists. At the same time, data processing techniques permit the storage of large quantities of detailed data that can be organized in a variety of ways to meet specific needs.
+The patterns of resource use and resource demand are constantly changing. Fortunately, the capability to obtain data about land uses related to resource development is improving because of recent technological improvements in remote sensing equip-
+
+HISTORICAL DEVELOPMENT OF THE CLASSIFICATION SYSTEM
+
+3
+
+ment, interpretation techniques, and data processing (National Academy of Sciences, 1970).
+HISTORICAL DEVELOPMENT OF THE CLASSIFICATION SYSTEM
+The needs of Federal agencies for a broad overview of national land use and land cover patterns and trends and environmental values led to the formation of an Interagency Steering Committee on Land Use Information and Classification early in 1971. The work of the committee, composed of representatives from the Geological Survey of the U.S. Department of the Interior, the National Aeronautics and Space Administration (NASA), the Soil Conservation Service of the U.S. Department of Agriculture, the Association of American Geographers, and the International Geographical Union, has been supported by NASA and the Department of the Interior and coordinated by the U.S. Geological Survey (U.S.G.S.).
+The objective of the committee was the development of a national classification system that would be receptive to inputs of data·from both conventional sources and remote sensors on high-altitude aircraft and satellite platforms, and that would at the same time form the framework into which the categories of more detailed land use studies by regional, State, and local agencies could be fitted and aggregated upward from Level IV toward Level I for more generalized smaller scale use at the national level.
+Several classification systems designed for or amenable to use with remote sensing techniques served as the basis for discussion at a Conference on Land Use Information and Classification in Washington~ D.C., June 28-30, 1971. This conference was attended by more than 150 representatives of Federal, State, and local government agencies, universities, institutes, and private concerns. On the basis of these discussions, the Interagency Steering Committee then proposed to develop and test a land use and land cover classification system that could be used with remote sensing and with minimal rei'iance on supplemental information at the more generalized first and second levels of categorization. The need for compatibility with the more generalized levels of land use and land cover categorization in classification systems currently in use was clearly recognized, especially those levels of the Standard Land Use Coding Manual published by the U.S. Urban Renewal Administration and the Bureau of Public Roads
+
+(1965), the inventory of Major Uses of Land made every 5 years by the Economic Research Service of the U.S. Department of Agriculture (Frey, 1973), and the national inventory of soil and water conservation needs, initiated in 1956 and carried out \for the second time in 1966 by several agencies of the U.S. Departmentsof Agriculture and Interior (U.S. Department of Agriculture, 1971).
+Two land use classification systems initially proposed by James R. Anderson for conference use were designed to place major reliance· on remote sensing, although supplementary sources of information were assumed to be available for the more elaborate of the two (Anderson, 1971). The classification system for the New York State Land Use and Natural Resources Inventory, developed mainly at the Center for Aerial Photographic Studies at Cornell University, had been designed for use with aerial photography at 1 : 24,000 scale, and although devised speoifically for New York State, it was adaptable for rlse elsewhere. To take advantage of the New York experience, Ernest E. Hardy and John T. Roach were invited to collaborate in preparing the definitive framework of the proposed classification. Definitions of land use categories used in New York were carefully reviewed and were modified to make them applicable to the country as a whole. The resulting classification was presented in U.S. Geological Survey Circular 671. Because of his past experience with the Commission on Geographic Applications of Remote Sensing of the Association of American Geographers, Richard E. Witmer was invited to participate with the others in this revision of the classification system.
+Attention was given mainly to the more generalized first and second levels of categorization. Definitions for each of the categories on these two levels were subjected to selective testing and evaluation by the U.S.G.S., using dalta obtained primarily from high-altitude flights as part of the research in connection with the U.S.G.S. Central Atlantic Regional Ecological Test Site (CARETS) Project (28,800 mi2 or 74,700 km2 ), the Phoenix Pilot Project (31,500 mi2 or 81,500 km2 ), and the land use mapping for the Ozarks Regional Commission (72,000 miZ or 186,500 km2 ).
+The work of Pettinger and Poulton (1970) provided valuable insight into the land use mosaic of the Southwestern United States. Some of the categorization for barren land and rangeland suggested by these researchers has been adopted in this land use and land cover classification system.
+
+4 A LAND USE AND LAND COVER CLASSIFICATION SYSTEM FOR USE WITH REMOTE SENSOR DATA
+
+DESIGNING A CLASSIFICATION SYSTEM·· FOR
+USE WITH REMOTE SENSING TECHNIQUES
+There is no one ideal classification of land use and land cover, and it is unlikely that one could ever be developed. There are different perspectives in the classification process, and the process itself tends to be subjective, even when an objective numerical approach is used. There is, in fact, no logical reason to expect that one detailed inventory should be adequate for more than a short time, since land use and land cover patterns change in keeping with demands for natural resources. Each classification is made to suit the needs of the user, and few users will be satisfied with an inventory that does not meet most of their needs. In attempting to develop a classification system for use with remote sensing techniques that will provide a framework to satisfy the needs of the majority of users, certain guidelines of criteria for evaluation must first he established.
+To begin with, there is considerable diversity of opinion about what constitutes land use, although present use of land is one of the characteristics that is widely recognized as significant for planning and management purposes. One concept that has much merit is that land use refers to, "man's activities on land which are directly related to the land" (Clawson and Stewart, 1965). Land cover, on the other hand, describes, "the vegetational and artificial constructions covering the land surface" (Burley, 1961),
+The types of land use and land cover categorization developed in the classification system presented in this report can be related to systems for classifying land capability, vulnerability to certain management practices, and potential for any particular activity or land value, either intrinsic or speculative.
+Concepts concerning lancf cover and land use activity are closely related and in many cases have been used interchangeably. The purposes for which lands are being used commonly have associated types of cover, whether they be forest, agricultural, residential, or industrial. Remote sensing image-forming devices do not record activity directly. The remote sensor acquires a response which is based on many characteristics of the land surface, including natural or artificial cover. The interpreter uses patterns, tones, textures, shapes, and site associations to derive information about land use activities from what is basically information about land cover.
+Some activities of man, however, cannot be directly related to the type of land cover. Extensive recreational activities covering large tracts of land are not
+
+particularly amenable to interpretation from remote sensor data. For example, hunting is a very common and pervasive recreational use of land, but hunting usually occurs on land that would be classified as some type of forest, range, or agricultural land either during ground survey or image interpretation. Consequently, supplemental information is needed to identify lands used for hunting. Supplemental information such as land ownership maps also is necessary to determine the use of lands such as parks, game refuges, or water-conservation districts, which may have land uses coincident with administrative boundaries not usually discernable by inventory using remote sensor data. For these reasons, types of land use and land cover identifiable primarily from remote sensor data are used as the basis for organizing this classification system. Agencies requiring more detailed land use information may need to employ more supplemental data.
+In almost any classification process, it is rare to find the clearly defined classes that one would like. In determining land cover, it would seem simple to draw the line between land and water until one considers such problems as seasonally wet areas, tidal flats, or marshes with various kinds of plant cover. Decisions that may seem arbitrary must be made at times, but if the descriptions of categories are complete and guidelines are explained, the inventory process can be repeated. The classification system must allow for the inclusion of all parts of the area under study and should also provide a unit of reference for each land use and land cove:r type.
+The problem of inventorying and classifying multiple uses occurring on a single parcel of land will not be easily solved. Multiple uses may occur simultaneously, as in the instance of agricultural land or forest land used for recreational activities such as hunting or camping. Uses may also occur alternately, such as a major reservoir providing flood control during spring runoff and generating power during winter peak demand periods. This same reservoir may have sufficient water depth to be navigable by commercial shipping the year round and may additionally provide summer recreational opportunities. Obviously all of the~e activities would not be detectable on a single aerial photograph. However, interpreters have occasionally related floodcontrol activities to drawdown easements around reservoirs detectable on imagery acquired during winter low-water levels. Similarly, major locks at water-control structures imply barge or ship traffic, and foaming tailraces indicate power generation. Pleasure-boat marinas, as well as the wakes of the
+
+CLASSIFICATION CRITERIA
+
+5
+
+boats themselves, can be detected on high-altitude photographs. Although each of these activities is detectable at some time using remote sensing, many other multiple-use situations cannot be interpreted with the .same degree of success. The example of the reservoir does provide insight into another facet of the problem's solution, however, and that is the possibility and need for acquiring collateral data to aid in the understanding of a multiple-use situation.
+The vertical arrangement of many uses above and below the actual ground surface provides additional problems for the land use interpreter. Coal and other mineral deposits under croplands or forests, electrical transmission lines crossing pastures, ga.rages underground or on roofs of buildings, and subways beneath urban areas all exemplify situations which must be resolved by individual users and compilers of land use data.
+The size of the minimum area which can be depicted as being in any particular land use category depends partially on the scale and resolution of the original remote sensor data or other data source from which the land use is identified and interpreted. It also depends on the scale of data compilation as well as the final scale of the presentation of the land use information. In some cases, land uses cannot be identified with the level of accuracy approaching the size of the smallest unit mappable, while in others, specific land uses can be identified which are too small to be mapped. Farmsteads, for example, are usually not distinguished from other agricultural land uses when mapping at the more generalized levels of the classification. On the other hand, these farmsteads may well be interpretable but too small to be represented at the final format scale. Analogous situations may arise in the use of other categories.
+When maps are intended as the format for presenting land use data, it is difficult to represent any unit area smaller than 0.10 inch (2.54 mm) on a side. In addition, smaller areas cause legibility problems for the map reader. Users of computer-generated graphics are similarly constrained by the minimum size of the computer printout.
+CLASSIFICATION CRITERIA
+A land use and land cover classification system which can effectively employ orbital and high-altitude remote sensor data should meet the following criteria (Anderson, 1971) :
+1. The minimum level of interpretation accuracy in the identification of land use and land cover categories from remote sensor data should be at least 85 percent.
+
+2. The accuracy of interpretation for the several categories should be about equal.
+3. Repeatable or repetitive results should be obtainable from one interpreter to another and from one time of sensing to another.
+4. The classification system should be applicable over extensive areas.
+5. The categorization should permit vegetation and other types of land cover to be used as surrogates for activity.
+6. The classification system should be suitable for use with remote sensor data obtained at different times of the year.
+7. Effective use of subcategories that can be obtained from ground surveys or from the use of larger scale or enhanced remote sensor data should be possible.
+8. Aggregation of categories must be possible. 9. Comparison with future land use data should
+be possible. 10. Multiple uses of land should be recognized when
+possible.
+Some of these criteria should apply to land use and land cover classification in general, but some of the criteria apply primarily to land use and land cover data interpreted from remote sensor data.
+It is hoped that, at the more generalized first and second levels, an accuracy in interpretation can be attained that will make the land use and land cover data comparable in quality to those obtained in other ways. For land use and land cover data needed for planning and management purposes, the accuracy of interpretation at the generalized first and second levels is satisfactory when the interpreter makes the correct interpretation 85 to 90 percent of the time. For regulation of land use activities or for'tax assessment purposes, for example, greater accuracy usually will be required. Greater accuracy generally will be attained only at much higher cost. The accuracy of land use data obtained from remote sensor sources is comparable to that acquired by using enumeration techniques. For example, post.enumeration surveys made by the U.S. Bureau of the Census revealed that 14 percent of all farms (but not necessarily 14 percent of the farmland) were not enumerated during the 1969 Census of Agriculture (Ingram and Prochaska, 1972).
+In addition to perfecting new interpretation techniques and procedures for analysis, such as the various types of image enhancement and signature identification, we can assume that the resolution capability of the various remote sensing systems will also
+
+6 A LAND USE AND LAND COVER CLASSIFICATION SYSTEM FOR USE WITH REMOTE SENSOR DATA
+
+improve. Resolution, or resolving power, of an imaging system refers to its ability to separate two objects some distance apart. In most land use applications, we are most interested in the minimum size of an area which can be recognized as having an interpretable land use or land cover type. Obviously, such a minimum area depends not only on the type and characteristics of the imaging system involved, but pragmatically also on the order of "generation" of the imagery, that is, how far the study image is removed in number of reproduction stages from the original record. The user should refer to the most recent information available in determining the resolution parameters of the system.
+The kind and amount of land use and land cover information that may be obtained from different sensors depend on the altitude and the resolution of each sensor. There is little likelihood that any one sensor or system will produce good data at all altitudes. It would be desirable to evaluate each source of remote sensing data and its application solely on the basis of the qualities and characteristics of the source. However, it is common practice to transfer the data to a base map, and no matter what the guidelines are, it is difficult to use a base map without extracting some additional data from such maps. Topographic maps, road maps, and detailed city maps will generally contribute detail beyond the capabilities of the remote sensor data.
+The multilevel land use and land cover classification system described in this report has been developed because different sensors will provide data at a range of resolutions dependent upon altitude and scale. In general, the following relations pertain, assuming a 6-inch focal length camera is used in obtaining aircraft imagery.
+
+Classification level
+
+Typical data characteristics
+
+I --------------LANDSAT (formery ERTS) type of data. II _____________ High-altitude data at 40,000 ft (12,400 m)
+or above (less than 1:80,000 scale). III ,____________ Medium-altitude data taken between 10,000
+and 40,000 ft (3,100 and 12,400 m) (1:20,000 to 1:80,000 scale). IV ____________ Low-altitude data taken below 10,000 ft
+(3,100 m) (more than 1:2'0,000 scale).
+
+Although land use data obtained at any level of categorization certainly should not be restricted to any particular level of user groups nor to any par-
+
+ticular scale of presentation, information at Levels I and II would generally be of interest to users who
+
+desire data on a nationwide, interstate, or statewide basis. More detailed land use and land cover data such as those categorized at Levels III and IV usually will be used more frequently by those who need
+
+and generate local information at the intrastate, regional, county, or municipal level. It is intended that these latter levels of categorization will be developed by the user groups themselves, so that their specific needs may be satisfied by the categories they introduce into the structure. Being able to aggregate more detailed categories into the categories at Level II being adopted by the U.S.G.S. is desirable if the classification system is to be useful. In general,Level II land use and land cover data interface quite effectively with point and line data available on the standard U.S.G.S. topographic maps.
+This general relationship between the categorization level and the data source is not intended to restrict users to particular scales, either in the original data source from which the land use information is compiled or in the final map product or other graphic device. Level I land use information, for example, while efficiently and economically gathered over large areas by a LANDSAT type of satellite or from high-altitude imagery, could also be interpreted from conventional large-scale aircraft imagery or compiled by ground survey. This same information can be displayed at a wide variety of scales ranging from a standard topographic map scale, such as 1 :24,000 or even larger, to the much smaller scale of the orbital imagery, such as 1: 1,000,000. Similarly, several Level II categories (and, in some instances, Level III categories) have been interpreted from LANDSAT data. Presently, though, Level II categories are obtained more accurately from high-altitude photographs. Much Level III and Level IV land use and land cover data can also be obtained from high-altitude imagery. This level of categorization can also be presented at a wide range of scales. However, as the more detailed levels of categorization are used, more dependence necessarily must be placed on higher resolution remote sensor data and supplemental ground surveys.
+The principal remote sensor source for Level II data at the present time is high-altitude, color-infrared photography. Scales smaller than 1:80,000 are characteristic of high-altitude photographs, but scales from 1 :24,000 to 1 : 250,000 generally have been used for the final map products.
+The same photography which now is used to construct or update 1 : 24,000 topographic maps or orthophotoquads at similar scales is a potential data source for inventorying land use and land cover. The orthophoto base, in particular, commonly can enable rapid interpretation of Levels I and II information at relatively low cost. The cost of acquiring more detailed levels of land use and land cover data
+
+DEVELOPING THE CLASSIFICATION SYSTEM
+
+7
+
+might prohibit including such data on large-scale maps over extensive areas.
+Recent experiments (Stevens and others, 1974) with Levels I and II land use data referenced to 1:24,000 topographic maps have been conducted by researchers of the Maps and Surveys Branch of the Tennessee Valley Authority in conjunction with the Marshall Space Flight Center and Oak Ridge National Laboratories. Quite satisfactory results have been obtained when interpreting land use from highaltitude photography. In areas of considerable terrain relief a stereoplotter was used to avoid scale problems.
+The categories proposed at Level II cannot all be interpreted with equal reliability. In parts of the United States, some categories may be extremely difficult to interpret from high-altitude aircraft imagery alone. Conventional aerial photography and sources of information other than remote sensor data may be needed for interpretation of especially complex areas. On the basis of research and testing carried out in the U.S.G.S. Geography Program's Central Atlantic Regional Ecological Test Site (CARETS) Project, the Phoenix Pilot Project, and in land use mapping for the Ozarks Regional Commission (U.S. Geological Survey, 1973), it has been determined that the cost of using such supplementary information can be held to reasonable levels.
+At Level III, which is beyond the scope of the present discussion, use of substantial amounts of supplemental information in addition to some remotely sensed information at scales of 1 : 15,000 to 1:40,000 should be anticipated. Surprisingly detailed inventories may be undertaken, and by using both remotely sensed and supplemental information, most land use and land cover types, except those of very complex urban areas or of thoroughly heterogeneous mi:ktures can be adequately located, measured, and coded.
+Level IV would call for much more supplemental information and remotely sensed data at a much larger scale.
+DEVELOPING THE CLASSIFICATION SYSTEM
+In developing the classification system, every effort has been made to provide as much compatibility as possible with other classification systems currently being used by the various Federal agencies involved in land use inventory and mapping. Special attention has been paid to the definitions of land use categories used by other agencies, to the extent that
+
+they are useful in categorizing data obtained from remote sensor sources.
+The definition of Urban or Built-up Land, for example, includes those uses similarly classified (Wooten and Anderson, 1957) by the U.S. Department of Agriculture, plus the built-up portions of major recreational sites, public installations, and other similar facilities. Agricultural land has been defined to include Cropland and Pasture; Orchards, Groves, Vineyards, Nurseries, and Ornamental Horticultural Areas; and Confined Feeding Operations as the principal components. Certain land uses such as pasture, however, cannot be separated consistently and accurately by using the remote sensor data sources appropriate to the more generalized levels of the classification. The totality of the category thus closely parallels the U.S. Department of Agriculture definition of agricultural land.
+The primary definition of Forest Land employed for use with data acquired by remote sensors approximates that used by the U.S. Forest Service (unpublished manual), with the exception of those brush and shrub-form types such as chaparral and mesquite, which are classed as forest land by the Forest Service because of their importance in watershed control. Because of their spectral response,, these generally are grouped with Rangeland types in classifications of vegetation interpretable from remote sensing imagery.
+The principal concept by which certain types of cover are included in the Rangeland category, and which separates rangeland from pasture land, is that rangeland has a natural climax plant cover of native grasses, forbs, and shrubs which is potentially useful as a grazing or forage resource (U.S. Congress, 1936; U.S. Department of Agriculture, 1962, 1971). Although these rangelands usually are not seeded, fertilized, drained, irrigated, or cultivated, if the forage cover is improved, it is managed primarily like native vegetation, and the forage resource is regulated by varying the intensity and seasonality of grazing (Stoddard and Smith, 1955). Since the typical cropland practices mentioned just above are characteristics of some pasture lands, these pasture lands are similar in image signature to cropland types.
+The definition of Wetland incorporates the major elements of the original U.S. Department of the Interior definition (Shaw and Fredine, 1956) as well as the combined efforts of the U.S.G.S. working group on wetlands definition.
+Table 1 presents a general summary of land use compiled every 5 years by the Economic Research
+
+8 A LAND USE AND LAND COVER CLASSIFICATION SYSTEM FOR USE WITH REMOTE SENSOR DATA
+
+Service of the U.S. Department of Agriculture and supplemented from other sources. These statistics, which are available only for States, are provided by the various government agencies which compile information on some categories of land use, several of which parallel the U.S.G.S. land use classification system.
+TABLE 1.-Major uses of land, United States, 1969 1
+
+Cropland
+
+Cropland used for crops ___ _
+Cropland harvested _____ _
+Crop failure -----------Cultivated summer fallow_ Soil improvement crops and idle cropland ------------Cropland used only for pasture Grassland pasture and range 2 ___ _
+
+Forest land ---------------------
+
+Grazed ---------------------
+
+S
+
+p
+
+e
+
+No cial
+
+t
+
+gra uses
+
+z3
+
+e
+
+d
+-
+
+-
+
+-
+-
+
+-
+-
+
+-
+-
+
+-
+-
+
+-
+-
+
+-
+-
+
+-
+-
+
+-
+-
+
+-
+-
+
+-
+-
+
+-
+-
+
+-
+-
+
+--
+--
+
+-
+-
+
+-
+-
+
+-
+-
+
+TUrrabnasnpoarrteaatison---a-re-a-s---__-_-_-_-_-_-_-
+Rural parks ---------------Wildlife refuges -----------National defense, flood control,
+and industrial areas ------State-owned institutions and
+misc.ellaneous other uses __ _ Farmsteads, farm roads,
+and lanes ---------------Miscellaneous land"' --------------
+
+Acres Hectares (mil- (millions) lions)
+
+Percent
+
+472 191 20.9
+333 135
+286 116 62
+41 17
+
+51 21 88 35 604 245 26.7
+
+723 293 31.9
+
+198 80 525 213 178 72
+
+7.9
+
+35 14 26 11 49 19 32 13
+
+26 11
+
+21
+
+83 287 116 12.6
+
+1 Frey, H. T., 1973. Does not include area covered by water in streams more than lfs of a mile in width and lakes, reservoirs, and so forth of more than 40 acres in size.
+2 Includes pasture that is to be included with cropland in the U.S.G.S. classification system.
+3 Except for urban and built-up areas and transportation uses, these
+special uses will be classified by dominant cover under the U.S.G.S. classification system.
+4 Tundra, glaciers, and icefields, marshes, open swamps, bare rock areas, deserts, beaches, and other miscellaneous land.
+
+The land use and land cover classification system presented in this report (table 2) includes only the more generalized first and second levels. The system satisfies the three major attributes of the classification process as outlined by Grigg (1965) : (1) it gives names to categories by simply using accepted terminology; (2) it enables information to be transmitted; and (3) it allows inductive generalizations to be made. The classification system is capable of further refi11ement on the basis of more extended and varied use. At the more generalized levels it should meet the principal objective of providing a land use and land cover classification system for use in land u_se planning and management activities. Attainment of the more fundamental and long-range objective of providing a standardized system of land use and land cover classification for national and regional
+
+TABLE 2.-Land use and land cover classification system for use with remote sensor data
+
+Level I
+
+Level II
+
+1 Urban or Built-up Land 11 Residential. 12 Commercial and Services.
+13 Industrial. 14 Transportation, Communi-
+cations, and Utilities.
+15 Industrial and Commercial Complexes.
+16 Mixed Urban or Built-up
+Land. 17 Other Urban or Built-up
+Land.
+
+2 Agricultural Land
+
+21 Cropland and Pasture.
+22 Orchards, Groves, Vineyards, Nurseries, and Ornamental Horticultural
+Areas. 23 Confined Feeding Opera-
+tions. 24 Other Agricultural Land.
+
+3 Rangeland
+
+31 Herbaceous Rangeland. 32 Shrub and Brush Range-
+land. 33 Mixed Rangeland.
+
+4 Forest Land 5 Water 6 Wetland 7 Barren Land
+8 Tundra 9 Perennial Snow or Ice
+
+41 Deciduous Forest Land. 42 Evergreen Forest Land. 43 Mixed Forest Land.
+51 Streams and Canals. 52 Lakes. 53 Reservoirs. 54 Bays and Estuaries.
+61 Forested Wetland.. 62 Nonforested Wetland.
+71 Dry Salt Flats. 72 Beaches. 73 Sandy Areas other than
+Beaches. 74 Bare Exposed Rock. 75 Strip MinPs. Quarries, and
+Gravel Pits. 76 Transitional Areas. 77 Mixed Barren Land.
+81 Shrub and Brush Tundra. 82 HerbBC'eous Tundra. 83 Bare Ground Tundra. 84 "-..et Tundra. 85 Mixed Tundra.
+91 Perennial Snowfields. 92 Glaciers.
+
+studies will depend on the improvement that should result from widespread use of the system.
+As further advances in technology are made, it may be necessary to modify the classification system for use with automatic data analysis. The LANDSAT and Skylab missions and the high-altitude aircraft program of the National Aeronautics and Space Administration have offered opportunities for nationwide testing of the feasibility of using this classification system to obtain land use information on a uniform basis.
+The approach to land use and land cover classification embodied in the system described herein is "resource oriented," in contrast, for example, with the "people orientation" of the "Standard Land Use
+
+USING THE CLASSIFICATION SYSTEM
+
+9
+
+Coding Manual," developed by the U.S. Urban Renewal Administration and the Bureau of Public Roads (1965). For the most part the Manual is derived from the "Standard Industrial Classification Code" established and published by the former Bureau of the Budget (U.S. Executive Office of the President, 1957).
+The people-oriented system of the '(Standard Land Use Coding Manual" assigns seven of the nine generalized first level categories to urban, transportation, recreational, and related uses of land, which account for less than 5 percent of the total area of the United States (tables 1 and 3). Although there is an obvious need for an urban-oriented land use classification system, there is also a need for a resource-oriented classification system whose primary emphasis would be the remaining 95 percent of the United States land area. The U.S.G.S. classification system described in this report addresses that need, with eight of the nine Level I categories treating land area of the United States that is not in urban or built-up areas. Six of the first level categories in the standard land use code are retained under Urban or Built-up at Level II in the U.S.G.S. system. Even though the standard land use code and the U.S.G.S. classification differ considerably in their major emphases, a marked degree of compatibility between these two systems exists at the more generalized levels and even at the more detailed levels.
+TABLE 3.-Standard land use code-first level categm·ies 1
+1. Residential. 2. Manufacturing (9 second level categories included). 3. Manufacturing (6 second level categories included). 4. Transportation, communications, and utilities. 5. Trade. 6. Services. 7. Cultural, entertainment, and recreation. 8. Resource production and extraction. 9. Undeveloped l.and and water areas.
+1 Standard land use coding manual, 1965, p. 29.
+USING THE CLASSIFICATION SYSTEM
+The use of the same or similar terminology does not automatically guarantee that the land use data collected and coded according to two systems will be entirely compatible. The principal points of departure between other classifications and the U.S.G.S. system originate because of the emphasis placed on remote sensing as the primary data source used in the U.S.G.S. classification system. Beca.use of this emphasis, activity must be interpreted using land cover as the principal surrogate, in addition to the image interpreter's customary references to pattern, geographic location, and so forth. This process necessarily precludes the possibility of information being
+
+generated which identifies ownership-management units such as farms or ranches or relating detached uses, included in a specific ownership complex, to the parent activity. For example, warehouses cannot be related to retail sales when the two occurrences are separated spatially. The actual cover and related uses are mapped in each case, rather than injecting inference into the inventory process.
+Inferences used for prediction could cause problems for the land use interpreter where land use is clearly in transition, with neither the former use nor the future use actually being present. In most such cases, it is tempting to speculate on future use,, but all that can actually be determined in such wideranging situations is that change is occurring. Large clear-cut areas in the southeastern forests, for example, are not always returned to forests and might assume any of a variety of future uses, such as a residential subdivision, an industrial site, an area of cropland, or a phosphate mine. The "sagebrush subdivision" of the Southwest may have all the potential earmarks of future settlement, such as carefully platted streets, and yet never experience any construction. Such cleared open areas should be identified as "Transitional Areas."
+Since Level II will probably be most appropriate for statewide and interstate regional land use and land cover compilation and mapping, and since Level II categories can be created by aggregating similar Level III categories, the Level II categorization may be considered to be the fulcrum of the classification system. The classification system may be entered at the particular level appropriate to the individual user, and the information generated may be added together with data generated by others to form an aggregate category at the next higher level. As an example, if a local planning group had devised a Level III classification of a particular group of land uses and had included sufficient definitional information of their land use categories, their data could be compiled into a larger inventory by a state or regional planning group compiling data by use of the Level II categories. Such data,- in turn, could serve as part of the data base for a national inventory.
+Seldom is it necessary to inventory land uses at the more detailed levels, even for local planning. Having greater detail does, however, provide flexibility in manipulating the data when several different purposes must be served. The cost of interpreting, coding, and recording land use data at the more detailed levels is necessarily greater than if the data were handled at more generalized levels. This extra cost reflects the increase in cost of remote sensor and
+
+10 A LAND USE AND LAND COVER CLASSIFICATION SYSTEM FOR USE WITH REMOTE SENSOR DATA
+
+collateral data acquired at larger scales, as well as the increase in interpretation costs.
+The U.S.G.S. classification system provides flexibility in developing categorization at the more detailed levels. Therefore, it is appropriate to illustrate the additive properties of the system and to provide examples for users wishing to develop more detailed categorization. The several examples given below represent possible categorizations. Users should not consider themselves limited to categories such as these but should develop categories of utmost utility to their particular needs. It should be emphasized that, whatever categories are used at the various classification levels, special attention should be given to providing the potential users of the data with sufficient information so that they may either compile the data into more generalized levels or aggregate more detailed data into the existing classes.
+One example of subcategorization of Residential Land as keyed to the standard land use code would be:
+
+Level I
+L. Urban or Built-up
+
+Level II
+
+Level III
+
+11. Residential. 111. Single-family Units.
+112. Multi-family Units.
+113. Group Quarters. 114. Residential Hotels.
+115. Mobile Home Parks. 116. Transient Lodgings.
+117. Other.
+
+This particular breakdown of "Residential" employs criteria of capacity, type, and permanency of residence as the discriminating factors among classes. Criteria applied to other situations could possibly include density of dwellings, tenancy, age of construction, and so forth. Obviously, such a Level III categorization would require use of supplemental
+
+information. Users desiring Level IV information could employ a variety of additional criteria in discriminating among land uses,but it can be seen that the element which allows aggregation and transfer between categories is the proper description of what is included in each individual category at whatever level the data are being classified.
+The Level II category, Cropland and Pasture, may be simply subdivided at Level III.
+
+Level II
+21. Cropland and Pasture.
+
+Level III
+211. Cropland. 212. Pastul"€1.
+
+Some users may wish such additional criteria employed at Level III as degree of activity or idleness or degree of improvement, while others may place such items in Levels IV or V. What may be a primary category for one user group may be of secondary importance to another. As stated by Clawson and
+
+Stewart (1965), "One man's miscellany is another man's prime concern." No one would consider publishing a map of current land use of any part of the Western United States without having irrigated land as a major category. With the flexibility inherent in this classification system, an accommodation of this type of need can be made easily, provided that irrigated land is mapped or tabulated as a discrete unit which can be aggregated into the more general categories included in the framework of the classification. A possible restructuring which would accommodate the desire to present irrigated land as a major category would be:
+
+Irrigated agricultural land
+Cropland Pasture Orchards, Groves and so forth
+
+Nonirrigated ag.ricultural land
+Cropland Pasture Orchards, Groves and so forth
+
+DEFINITIONS
+An attempt has been made to include sufficient detail in the de·finitions presented here to provide a general understanding of what is included in each category at Levels I and II. Many of the uses described in aetail will not be detectable on small-scale aerial photographs. However, the detail will aid in the interpretation process, and the additional information will be useful to those who have large-scale aerial photographs and other supplemental information available.
+1. URBAN OR BUILT-UP LAND
+Urban or Built-up Land is comprised of areas of intensive use with much of the land covered by structures. Included in this category are cities, towns, villages, strip developments along highways, transportation, power, and communications facilities, and areas such as those occupied by mills, shopping centers, industrial and commercial complexes, and institutions that may, in some instances, be isolated from urban areas.
+As development progresses, land having less intensive or nonconforming use may be located in the midst of Urban or Built-up areas and will generally be included in this category. Agricultural land, forest, wetland, or water areas on the fringe of Urban or Built-up areas will not be included except where they are surrounded and dominated by urban development. The Urban or Built-up category takes precedence over others when the criteria for more than one category are met. For example, residential areas that have sufficient tre·e cover to meet Forest Land criteria will be placed in the Residential category.
+
+DEFINITIONS
+
+11
+
+11. RESIDENTIAL
+Residential land uses range from high density, represented by the multiple-unit structures of urban cores, to low density, where houses are on lots of more than an acre, on the periphery of urban expansion. Linear residential developmenh; along transportation routes extending outwar::l from urban areas should be included as residential appendages to urban centers, but care must be taken to distinguish them from commercial strips in the same locality. The residential strips generally have a uniform size and spacing of structures, linear driveways, and lawn areas; the commercial strips are more likely to have buildings of different sizes and spacing, large driveways, and parking areas. Residential development along shorelines is also linear and sometimes extends back only one residential parcel from the shoreline to the first road.
+Areas of sparse residential land use, such as farmsteads, will be included in categories to which they are related unless an appropriate compilation scale is being used to indicate such uses separately. Rural residential and recreational subdivisions, however, are included in this category, since the land is almost totally committed to residential use, even though it may have forest or range types of cover. In some places, the boundary will be clear where new housing developments abut against intensively used agricultural areas, but the boundary may be vague and difficult to discern when residential development occurs in small isolated units over an area of mixed or less intensive uses. A careful evaluation of density and the overall relation of the area to the total urban complex must be made.
+Re~idential sections which are integral parts of other uses may be difficult to identify. Housing situations such as those existing on military bases, at colleges and universities, living quarters for laborers near a work base, or lodging for employees of agricultural field operations or resorts thus would be placed within the Industrial, Agricultural, or Commercial and Services categories.
+12. COMMERCIAL AND SERVICES
+Commercial areas are those used predominantly for the sale of products and services. They are often abutted by residential, agricultural, or other contrasting uses which help define them. Components of the Commercial and Services category are urban central business districts ; shopping centers, usually in suburban and outlying areas; commercial strip developments along major highways and access routes
+
+to cities; junkyards; resorts; and so forth. The main buildings, secondary structures, and areas supporting the basic use are all included-office buildings, warehouses, driveways, sheds, parking lots, landscaped areas, and waste disposal areas.
+Commercial areas may include some noncommercial uses too small to be separated out. Central business districts commonly include some institutions, such as churches and schools, and commercial strip developments may include some residential units. When these noncommercial uses exceed one-third-of the total commercial area, the Mixed Urban or Builtup category should be used. There is no separate ca~tegory for recreational land uses at Level II since most recreational activity is pervasive throughout many other land uses. Selected areas are predominantly recreation oriented, and some of the more distinctive occurrences such as drive-in theaters can be identified on remote sensor imagery. Most recreational activity, however, necessarily will be identified using supplemental information. Recreational facilities that form an integral part of an institution should be included in this category. There is usually a major visible difference in the form of parking facilities, arrangements for traffic flow, and the general association of buildings and facilities. The intensively developed sections of recreational areas would be included in the Commercial and Services category, but extensive parts of golf courses, riding areas, ski areas, and so forth would be included in the Other Urban or Built-up category.
+Institutional land uses, such as the various educational, religious, health, correctional, and military facilities are also components of this category. All buildings, grounds, and parking lots that compose the facility are included within the institutional unit, but areas not specifically related to the purpose of the institution should be placed in the appropriate category. Auxiliary land uses, particularly residential, commercial and services, and other supporting land uses on a military base would be included in this category, but agricultural areas not specifically associated with correctional, educational, or religious institutions are placed in the appropriate agricultural category. Small institutional units, as, for example, many churches and some secondary and elementary schools, would be mappable only at large scales and will usually be included within another category, such as Residential.
+13. INDUSTRIAL
+Industrial areas include a wide array of land uses from light manufacturing to heavy manufacturing
+
+12 A LAND USE AND LAND COVER CLASSIFICATION SYSTEM FOR USE WITH REMOTE SENSOR DATA
+
+plants. Identification of light industries-those focused on design, assembly, finishing, processing, and packaging of products-can often be based on the type of building, parking, and shipping arrangements. Light industrial areas may be, but are not necessarily, directly in contact with urban areas; many are now found at airports or in relatively open country. Heavy industries use raw materials such as iron ore, timber, or coal. Included are steel mills, pulp and lumber mills, electric-power generating stations, oil refineries and tank farms, chemical plants, and brickmaking plants. Stockpiles of raw materials and waste-product disposal areas are usually visible, along with transportation facilities capable of handling heavy materials.
+Surface structures associated with mining operations are included in this category. Surface structures and equipment may range from a minimum of a loading device and trucks to extended areas with access roads, processing facilities, stockpiles, storage sheds, and numerous vehicles. Spoil material and slag heaps usually are found within a short trucking distance of the major mine areas and may be the key indicator of underground mining operations. Uniform identification of all these diverse extractive uses is extremely difficult from remote sensor data alone. Areas of future reserves are included in the appropriate present-use category, such as Agricultural Land or Forest Land, regardless of the expected future use.
+14. TRANSPORTATION, COMMUNICATIONS, AND UTILITIES
+The land uses included in the Transportation, Communications, and Utilities category occur to some degree within all of the other Urban or Builtup categories and actually can be found within many other categories. Unless they can be mapped separately at whatever scale is being employed, they usually are considered an integral part of the land use within which they occur. For that reason, any statistical summary of the area of land uses in this category typically represents only a partial data set. Statistical area summaries of such land uses aggregated from Levels III and IV, though, would include more accurate area estimates.
+Major transportation routes and areas greatly influence other land uses, and many land use boundaries are outlined by them. The types and extent of transportation facilities in a locality determine the degree of access and affect both the present and potential use of the area.
+
+Highways and railways are characterized by areas of activity connected in linear patterns. The highways include rights-of-way, areas used for interchanges, and service and terminal facilities. Rail facilities include stations, parking lots, roundhouses, repair and switching yards, and related areas, as well as overland track and spur connections of sufficient width for delineation at mapping scale.
+Airports, seaports, and major lakeports are isolated areas of high utilization, usually with no welldefined intervening connections, although some ports are connected by canals. Airport facilities include the runways, intervening land, terminals, service buildings, navigation aids, fuel storage, parking lots) and a limited buffer zone. Terminal facilities generally include the associated freight and warehousing functions. Small airports (except those on rotated farmland), heliports, and land associated with seaplane bases may be identified if mapping scale permits. Port areas include the docks, shipyards, drydocks, locks, and waterway control structures.
+Communications and utilities areas such as those involved in processing, treatment, and transportation of water, gas, oil, and electricity and areas used for airwave communications are also included in this category. Pumping stations, electric substations, and areas used for radio, radar, or television antennas are the major types. Small facilities, or those associated with an industrial or commercial land use, are included within the larger category with which they are associated. Long-distance gas, oil, electric, telephone, water, or other transmission facilities rarely constitute the dominant use of the lands with which they are associated.
+15. INDUSTRIAL AND COMMERCIAL COMPLEXES
+The Industrial and Commercial Complexes category includes those industrial and commercial land uses that typically occur together or in close functional proximity. Such areas commonly are labeled with terminology such as "Industrial Park," but since functions such as warehousing, wholesaling, and occasionally retailing may be found in the same structures or nearby, the more inclusive category title has been adopted.
+Industrial and Commercial complexes have a definite remote sensor image signature which allows their separation from other Urban or Built-up land uses. Because of their intentional development as discrete units of land use, they may border on a wide variety of other land use types, from Residential Land to Agricultural Land to Forest Land. If the separate functions included in the category are iden-
+
+DEFINITIONS
+
+13
+
+tified at Levels III or IV using supplemental data or However, pasture and other lands where such equipwith ground survey, the land use researcher has the ment is used infrequently may not show as welldiscretion of aggregating these functions into the defined shapes as other areas. These distinctive geo-
+
+appropriate Level II Urban or Built-up categories or metric patterns are also characteristic of Urban or
+
+retaining the unit as an Industrial and Commercial Built-up Lands because of street layout and develop-
+
+Complex.
+
+ment by blocks. Distinguishing between Agricultural
+
+16. MIXED URBAN OR BUILT-UP LAND
+
+and Urban or Built-up Lands ordinarily should be possible on the basis of urban-activity indicators and
+
+The Mixed Urban or Built-up category is used for the associated concentration of population. The num-
+
+a mixture of Level II Urban or Built-up uses where ber of building complexes is smaller and the density individual uses cannot be separated at mapping scale. of the road and highway network is much lower in
+
+Where more than one-third intermixture of another Agricultural Land than in Urban or Built-up Land.
+
+use or uses occurs in a specific area, it is classified Some urban land uses, such as parks and large cemeas Mixed Urban or Built-up Land. Where the inter- teries, however, may be mistaken for Agricultural
+
+mixed land use or uses total less than one-third of Land, especially when they occur on the periphery of
+
+the specific area, the category appropriate to the the urban areas.
+
+dominant land use is applied.
+
+The interface of Agricultural Land with other
+
+This category typically includes developments categories of land use may sometimes be a transition
+
+along transportation routes and in cities, towns, and zone in which there is an intermixture of land uses
+
+built-up areas where separate land uses cannot be at first and second levels of categorization. Where
+
+mapped individually. Residential, Commercial, In- farming activities are limited by wetness, the exact dustrial, and occasionally other land uses may be boundary also may be difficult to locate, and Agricul-
+
+included. A mixture of industrial and commercial tural Land may grade into Wetland. When the pro-
+
+uses in Industrial and Commercial Complexes as de- duction of agricultural crops is not hindered by wetfined in category 15 are not included in this category. land conditions, such cropland should be included in
+
+Farmsteads intermixed with strip or cluster settle- the Agricultural category. This latter stipulation
+
+ments will be included within the built-up land, but also includes those cases in which agricultural crop
+
+other agricultural land uses should be excluded.
+
+production depends on wetland conditions, such as
+
+17. OTHER URBAN OR BUlLT-UP LAND
+Other Urban or Built-up Land typically consists of uses such as golf driving ranges, zoos, urban parks, cemeteries, waste dumps, water-control structures and spillways, the extensive parts of such uses as golf courses and ski areas, and undeveloped land within an urban setting. Open land may be in very intensive use but a use that does not require structures, such as urban playgrounds, botanical gardens, or arboreta. The use of descriptions such as "idle land," "vacant land," or '"open land" should be avoided in categorizing undeveloped lands within urban areas on the basis of the use of remote sensor data, since information generally is not available to the interpreter to make such a refinement in categorization.
+
+the flooding of ricefields or the development of cranberry bogs. When lands produce economic commodities as a function of their wild state such as wild rice, cattails, or certain forest products ·commonly associated with wetland, however, they should be included in the Wetland category. Similarly, when wetlands are drained for agricultural purposes, they should be included in the Agricultural Land category. When such drainage enterprises fall into disuse and if wetland vegetation is reestablished, the land reverts to the Wetland category.
+The Level II categories of Agricultural Land are: Cropland and Pasture; Orchards, Groves, Vineyards, Nurseries, and Ornamental Horticultural Areas ; Confined Feeding Operations; and Other Agricultural Land.
+21. CROPLAND AND PASTURE
+
+2. AGRICULTURAL LAND
+
+The several components of Cropland and Pasture
+
+Agricultural Land may be defined broadly as land now used for agricultural statistics include: crop-
+used primarily for production of food and fiber. On ! land harvested, including bush fruits; cultivated
+high-altitude imagery, the chief indications of agri- summer-fallow and idle cropland; land on which cultural activity will be distinctive geometric field crop failure occurs; cropland in soil-improvement
+and road patterns on the landscape and the traces grasses and legumes; cropland used only for pasture produced by livestock or mechanized equipment. in rotation with crops; and past~re on land more or
+
+14 A LAND USE AND LAND COVER CLASSIFICATION SYSTEM FOR USE WITH REMOTE SENSOR DATA
+
+less permanently used for that purpose. From imagery alone, it generally is not possible to make a distinction between Cropland and Pasture with a high degree of accuracy and uniformity, let alone a distinction among the various components of Cropland (Hardy, Belcher, and Phillips, 1971). Moreover, some of the components listed represent the condition of the land at the end of the growing season and will not apply exactly to imagery taken at other times of the year. They will, however, be a guide to identification of Cropland and Pasture. Brushland in the Eastern States, typically used to some extent for pasturing cattle, is included in the Shrub-Brushland Rangeland category since the grazing activity is usually not discernible on remote sensor imagery appropriate to Levels I and II. This activity possibly might be distinguished on low-altitude imagery. Such grazing activities generally occur on land where crop production or intensive pasturing has ceased, for any of a variety of reasons, and which has grown up in brush. Such brushlands often are used for grazing, somewhat analogous to the extensive use of rangelands in the West.
+Certain factors vary throughout the United States, and this variability also must be recognized; field size depends on topography, soil types, sizes of farms, kinds of crops and pastures, capital investment, labor availability, and other conditions. Irrigated land in the Western States is recognized easily in contrast to Rangeland, but in the Eastern States, irrigation by use of overhead sprinklers generally cannot be detected from imagery unless distinctive circular patterns are created. Drainage or water control on land used for cropland and pasture also may create a recognizable pattern that may aid in identification of the land use. In areas of quick-growing crops, a field may appear to be in nonagricultural use unless the temporary nature of the inactivity is recognized.
+22. ORCHARDS, GROVES, VINEYARDS, NURSERIES, AND ORNAMENTAL HORTICULTURAL AREAS
+Orchards, groves, and vineyards produce the various fruit and nut crops. Nurseries and horticultural areas, which include floricultural and seed-and-sod areas and some greenhouses, are used perennially for those purposes. Tree nurseries which provide seedlings for plantation forestry also are included here. Many of these areas may be included in another category, generally Cropland and Pasture, when identification is made by use of small-scale imagery alone. Identification may be aided by recognition of the combination of soil qualities, topography, and local
+
+climatological factors needed for these operations: water bodies in close proximity which moderate the effects of short duration temperature fluctuations.; site selection for air drainage on sloping land; and deep well-drained soils on slopes moderate enough to permit use of machinery. Isolated small orchards, such as the fruit trees on the family farm, usually are not recognizable on high-altitude imagery and are, therefore, not included.
+23. CONFINED FEEDING OPERATIONS
+Confined Feeding Operations are large, specialized livestock production enterprises, chiefly beef cattle feedlots, dairy operations with confined feeding, and large poultry farms, but also including hog feedlots. These operations have large animal populations restricted to relatively small areas. The result is a concentration of waste material that is an environmental concern. The waste-disposal problems justify a separate category for these relatively small areas. Confined Feeding Operations have a built-up appearance, chiefly composed of buildings, much fencing, access paths, and waste-disposal areas. Some are located near an urban area to take advantage of transportation facilities and proximity to processing plants.
+Excluded are shipping corrals and other temporary holding facilities. Such occurrences as thoroughbred horse farms generally do not have the animal population densities which would place them in this category.
+24. OTHER AGRICULTURAL LAND
+Other land uses typically associated with the first three categories of Agricultural Land are the principal components of the Other Agricultural Land category. They include farmsteads, holding areas for livestock such as corrals, breeding and training fa... cilities on horse farms, farm lanes and roads, ditches and canals, small farm ponds, and similar uses. Such occurrences generally are quite small in area and often uninterpretable by use of high-altitude data. Even when they are interpretable from such data, it may not be feasible to map them at smaller presentation scales, which generally results in their inclusion with adjacent agricultural use areas. This category should also be used for aggregating data for land uses derived at more detailed levels of classification.
+3. RANGELAND
+Rangeland historically has been defined as land where the potential natural vegetation is predominantly grasses, grasslike plants, forbs, or shrubs and
+
+DEFINITIONS
+
+15
+
+where natural herbivory was an important influence in its precivilization state. Management techniques which associate soil, water, and forage-vegetation resources are more .suitable for rangeland management than are practices generally used in managing pastureland. Some rangelands have been or may be seeded to introduced or domesticated plant species. Most of the rangelands in the United States are in the western range, the area to the west of an irregular north-south line that cuts through the Dakotas, Nebraska, Kansas, Oklahoma, and Texas. Rangelands also are found in certain places historically not included in the western range, such as the Flint Hills, the Southeastern States, and Alaska. The historical connotation of Rangeland is expanded in this classification to include those areas in the Eastern States which commonly are called brushlands.
+The Level II categories of Rangeland are : Herbaceous Range, Shrub and Brush Rangeland, and Mixed Rangeland.
+31. HERBACEOUS RANGELAND
+The Herbaceous Rangeland category encompasses lands dominated by naturally occurring grasses and forbs as well as those areas of actual rangeland which have been modified to include grasses and forbs as their principal cover, when the land is managed for rangeland purposes and not managed using practices typical of pastureland. It includes the tall grass (or true prairie) , short grass, bunch grass or palouse grass, and desert grass regions. Respectively, these grass regions represent a sequence of declining amounts of available moisture. Most of the tall grass region has been plowed for agriculture and the remaining tall grass range is now in North Dakota, Nebraska, southern Kansas and Oklahoma, and the Texas Coastal Plain. Short grass rangeland occurs in a strip about 300 miles (500 km) wide from the Texas Panhandle northward to the Dakotas where it widens to cover the western half of the Dakotas, the eastern three-fourths of Montana, and the eastern third of Wyoming. Bunch grass and desert grass are found in many locations, representing transitional situations to desert shrub. Typical occurrences of grasslands include such species as the various bluestems (Andropogon), grama grasses (Bouteloua), wheatgra.sses (Agropyron), needlegrasses (Stipa), and fescues (Festuca).
+This category also includes the palmetto prmne areas of south-central Florida, which consist mainly of dense stands of medium length and tall grasses such as wiregrass (Aristida stricta) and saw palmettos (Seronoa t·ipens), interspersed occasional
+
+palms (Sabal palmetto), and shrubs (Shelford, 1963). Those palmetto prairie areas now in improved pasture would not be included in this category, nor would the herbaceous varieties of tundra vegetation.
+32. SHRUB AND BRUSH RANGELAND
+The typical shrub occurrences are found in those arid and semiarid regions characterized by such xerophytic vegetative types with woody stems as big sagebrush (Artemisia tridentata), shadscale (Atriplex conje1·tijolia), greasewood (Sarcobatus vermiculatus), or creosotebush (Larrea divaricata) and also by the typical desert succulent xerophytes, such as the various forms of Cactus (Kuchler, 1964). When bottom lands and moist flats are characterized by dense stands of typical wetland species such as mesquite (Prosopis), they are considered Wetland. Where highly alkaline soils are present, halophytes such as desert saltbush (Atriplex) may occur. The type, density, and association of these various species are useful as indicators of the local hydrologic and pedologic environments. Also included in this category are chaparral, a dense mixture of broadleaf evergreen schlerophyll shrubs, and the occurrences of mountain mahogany (Cercocarpus ledifolius) and scrub oaks (Quercus).
+The eastern brushlands are typically former croplands or pasture lands (cleared from original forest land) which now have grown up in brush in transition back to forest land to the extent that they are no longer identifiable as cropland or pasture from remote sensor imagery. Many of these brushlands are grazed in an extensive manner by livestock and provide wildlife habitat. These areas usually ~main as part of the farm enterprise, even though not being used at their former levels of intensity. Eastern brushland areas traditionally have not been included in the rangeland concept because of their original forested state prior to clearing for cropland or pasture and generally have been summarized statistically with pastureland. Because they function now primarily as extensive grazing land, they are included here as part of the Rangeland category. After sufficient forest growth has occurred, they should be classified as either Deciduous, Evergreen, or Mixed Forest Land. Those occurrences of shrubs and brush which are part of the Tundra are not included under Rangeland.
+33. MIXED RANGELAND
+When more than one-third intermixture of e~ither herbaceous or shrub and brush rangeland species occurs in a specific area, it is classified as Mixed
+
+16 A LAND USE AND LAND COVER CLASSIFICATION SYSTEM FOR USE WITH REMOTE SENSOR DATA
+
+Rangeland. Where the intermixed land use or uses total less than one-third of the specific area, the category appropriate to the dominant type of Rangeland is applied. Mixtures of herbaceous and shrub or brush tundra plants are not considered Rangeland.
+4. FOREST LAND
+Forest Lands have a tree-crown areal density (crown closure percentage) of 10 percent or more, are stocked with trees capable of producing timber or other wood products, and exert an influence on the climate or water regime. Forest Land generally can be identified rather easily on high-altitude imagery, although the boundary between it and other categories of land may be difficult to delineate precisely.
+Lands from which trees have been removed to less than 10 percent crown closure but which have not been developed for other uses also are included. For example, lands on which there are rotation cycles of clearcutting and blockplanting are part of Forest Land. On such lands, when trees reach marketable size, which for pulpwood in the Southeastern United States may occur in 2 to 3 decades, there will be large areas that have little or no visible forest growth. The pattern can sometimes be identified by the presence of cutting operations in the midst of a large expanse of forest. Unless there is evidence of other use, such areas of little or no forest growth should be included in the Forest Land category. Forest land which is grazed extensively, as in the Southeastern States, would be included in this category because the dominant cover is forest and the dominant activities are forest related. Such activities could iorm the basis for Levels III or IV categoriza.. tion. Lands that meet the requirements for Forest Land and also for an Urban or Built-up category should be placed in the latter category. The only exceptions in classifying Forest Land are those areas which would otherwise be classified as Wetland if not for the forest cover. Since the wet condition is of much interest to land managers and planning groups and is so important as an environmental surrogate and control1 such lands are classified as Forested Wetland.
+Auxiliary concepts associated with Forest Land, such as wilderness reservation, water conservation, or ownership classification, are not detectable using remote sensor data. Such concepts may be used for creating categories at the more detailed levels when supplemental information is available.
+At Level II, Forest Land is divided into three categories: Deciduous, Evergreen, and Mixed. To
+
+differentiate these three categories effectively, sequential data, or at least data acquired during the period when deciduous trees are bare, generally will be necessary.
+41. DECIDUOUS FOREST LAND
+Deciduous Forest Land includes all forested areas having a predominance of trees that lose their leaves at the end of the frost-free season or at the beginning of a dry season. In most parts of the United States, these would be the hardwoods such as oak (Querc·us), maple (Acer), or hickory (Carya) and the "soft" hardwoods, such as aspen (Populus tremuloides) (Shelford, 1963) . Tropical hardwoods are included in the Evergreen Forest Land category. Deciduous forest types characteristic of Wetland, such as tupelo (Nyssa) or cottonwood (Populus deltoides), also are not included in this category.
+42. EVERGREEN FOREST LAND
+Evergreen Forest Land includes all forested areas in which the trees are predominantly those which remain green throughout the year. Both coniferous and broad-leaved evergreens are included in this category. In most areas, the coniferous evergreens predominate, but some of the forests of Hawaii are notable exceptions. The coniferous evergreens are commonly referred to or classified as softwoods. They include such eastern species as the longleaf pine (Pinus palustris), slash pine (Pinus ellioti), shortleaf pine (Pinus echinata), loblolly pine (Pinus taeda), and other southern yellow pines; various spruces (Picea) and balsam fir (Abies balsamea) ; white pine (PirntS strobus), red pine (Pinus resinosa), and jack pine (Pinus banksiana); and hemlock (Tsuga canadensis); and such western species as Douglas-fir (Pseudotsttga menziesii), redwood (Sequoia sempe1·virens), ponderosa pine (Pinus monticola), Sitka spruce (Picea sitchensis), Engelmann spruce (Picea engelmanni), western redcedar (Thuja plicata), and western hemlock (Tsuga heterophylla) (Shelford, 1963). Evergreen species commonly associated with Wetland, such as tamarack (Larix laricina) or black spruce (Picea mariana), are not included in this category (Kuchler, 1964).
+43. MIXED FOREST LAND
+Mixed Forest Land includes all forested areas where both evergreen and deciduous trees are growing and neither predominates. When more than onethird intermixture of either evergreen or deciduous species occurs in a specific area, it is classified as Mixed Forest Land. Where the intermixed land use
+
+DEFINITIONS
+
+17
+
+or uses total less than one-third of the specified area, the category appropriate to the dominant type of Forest Land is applied, whether Deciduous or Evergreen.
+5. WATER
+The delineation- of water areas depends on the scale of data presentation and the scale and resolution characteristics of the remote sensor data used for interpretation of land use and land cover. (Water as defined by the Bureau of the Census includes all areas within the land mass of the United States that persistently are water covered, provided that, if linear, they are at least lj8 mile (200 m) wide and, if extended, cover at least 40 acres (16 hectares) .) For many purposes, agencies need information on the size and number of water bodies smaller than Bureau of the Census minimums. These frequently can be obtained from small-scale remote sensor data with considerable accuracy.
+51. STREAMS AND CANALS
+The Streams and Canals category includes rivers, creeks, canals, and other linear water bodies. Where the water course is interrupted by a control structure, the impounded area will be placed in the Reservoirs category.
+The boundary between streams and other bodies of water is the straight line across the mouth of the stream up to 1 nautical mile (1.85 km). Beyond that limit, the classification of the water body changes to the appropriate categQry, whether it be Lakes, Reservoirs, or Bays and Estuaries. These latter categories are used only if the water body is considered to be "inland water" and therefore included in the total area of the United, States. No category is applied to waters classified as "other than inland water " or offshore marine waters beyond the mouths of rivers '(U.S. Bureau of the Census, 1970).
+52. LAKES
+Lakes are nonflowing, naturally enclosed bodies of water, including regulated natural lakes but excluding reservoirs. Islands that are too small to delineate should be included in the water area. The delineation of a lake should be based on the areal extent of water at the time the remote sensor data are acquired.
+53. RESERVOIRS
+Reservoirs are artificial impoundments of water used for irrigation, flood control, municipal water supplies, recreation, hydroelectric power generation,
+
+and so forth. Dams, levees, other water-control structures, or the excavation itself usually will be evident to aid in the identification, although the water-control structures themselves and spillways are included in the Other Urban or Built-up Land category.
+In most cases, reservoirs serve multiple purposes and may include all of the land use functions just mentioned. In certain cases like the Tennessee River, the entire length of the trunk stream is impounded. In such a situation, the stream exists as a stairstep series of impoundments with waterway, flood-control, recreation, and power-generation functions but is still considered a reservoir, since the additional functions are the result of impoundment.
+54. BA¥S AND ESTUARIES
+Bays and Estuaries are inlets or arms of the sea that extend inland. They are included in this system only when they are considered to be inland water and therefore are included within the total area of the United States. Those bay and estuarine water areas classified as "other than inland water" are not included within the total area of the United States. These "other than inland water" areas are adjacent to certain States and fall under their jurisdiction. They occur in primary bodies of water such as the Atlantic Ocean coastal waters, Chesapeake Bay, Delaware Bay, Long Island Sound, Gulf of Mexico, Pacific Ocean coastal waters, Puget Sound, the Straits of Georgia and Juan de Euca, Gulf of Alaska, Bering Sea, Arctic Ocean coastal waters, and the Great Lakes (U.S. Bureau of the Census, 1970). Only those bays and estuaries classified as inland water are included in this category. No category is applied to offshore waters beyond the limits of Bays and Estuaries.
+6. WETLAND
+Wetlands are those areas where the water table is at, near, or above the land surface for a significant part of most years. The hydrologic regime is such that aquatic or hydrophytic vegetation usually is established, although alluvial and tidal flats may be nonvegetated. Wetlands frequently are associated with topographic lows, even in mountainous regions. Examples of wetlands include marshes, mudflats, and swamps situated on the shallow margins of bays, lakes, ponds, streams, and manmade impoundments such as reservoirs. They include wet meadows or perched bogs in high mountain valleys and seasonally wet or flooded basins, playas, or potholes with no surface-water outflow. Shallow water areas
+
+18 A LAND USE AND LAND COVER CLASSIFICATION SYSTEM FOR USE WITH REMOTE SENSOR DATA
+
+where aquatic vegetation is submerged are classed ally flooded bottomland hardwoods, mangrove
+
+as open water and are not included in the Wetland swamps, shrub swamps, and wooded swamps in-
+
+category.
+
+eluding those around bogs. Because Forested Wet-
+
+Extensive parts of some river flood plains qualify lands can be detected and mapped by the use of
+
+as Wetlands, as do regularly flooded irrigation over- seasonal (winter/summer) imagery, and because
+
+flow areas. These do not include agricultural land delineation of Forested Wetlands is needed for many
+
+where seasonal wetness or short-term flooding may environmental planning activities, they are sepa-
+
+provide an important component of the total annual rated from other categories of Forest Land.
+
+soil moisture necessary for crop production. Areas The following are examples of typical vegetation
+
+in which soil wetness or flooding is so short-lived found in Forested Wetland. Wooded swamps and
+
+that no typical wetlands vegetation is developed southern flood plains contain primarily cypress
+
+properly belong in other categories.
+
+(Taxodium), tupelo (Nyssa), oak.s (Quercus), and
+
+Cultivated wetlands such as the flooded fields red maple (Acer rubrum). Mangroves (Avicennia
+
+associated with rice production and developed cran- and Rhizophora) are dominant in certain subtropi-
+
+berry bogs are classified as Agricultural Land. Un- cal Forested Wetland areas. Central and northern
+
+cultivated wetlands from which wild rice, cattails, flood plains are dominated by cottonwoods (Pop-
+
+or wood products, and so forth are harvested, or ulus), ash (Fraxinus), alder (Alnus), and willow
+
+wetlands grazed by livestock, are retained in the , (Salix). Flood plains of the Southwest may be domi-
+
+Wetland category.
+
+nated by mesquite (Prosopis), saltcedar (Tamarix),
+
+Remote sensor data provide the primary .source of seepwillow (Baccharis), and arrowweed (Pluchea).
+
+land use and vegetative cover information for the Northern bogs typically contain tamarack or larch
+
+more generalized levels of this classification system. (Larix), black spruce (Picea mariana), and heath
+
+Vegetation types and detectable surface water or shrubs (Ericaceae). Shrub swamp vegetation in-
+
+soil moisture interpreted from such data provide the eludes alder (Alnus), willow (Salix), and button-
+
+most appropriate means of identifying wetlands and bush (Cephalanthus occidentalis).
+
+wetland boundaries. Inasmuch a.s vegetation responds to changes in moisture conditions, remote sensor data acquired over a period of time will allow the detection of fluctuations in wetland conditions. Ground surveys of soil types or the duration of flooding may provide supplemental information to be employed at the more detailed levels of classification.
+Wetland areas drained for any purpose belong to other land use and land cover categories such as Agricultural Land, Rangeland, Forest Land, or Urban or Built-up Land. When the drainage is discontinued and such use ceases, classification may revert to Wetland. Wetlands managed for wildlife purposes may show .short-term changes in land use as different management practices are used but are properly classified Wetland.
+Two separate boundaries are important with respect to wetland discrimination: the upper wetland boundary above which practically any category of land use or land cover may exist, and the boundary between wetland and open water beyond which the
+
+62. NONFORESTED WETLAND
+Nonforested Wetlands are dominated by wetland herbaceous vegetation or are nonvegetated. These wetlands include tidal and nontidal fresh, brackish, and salt marshes and nonvegetated flats and also freshwater meadows, wet prairies, and open bogs.
+The following are examples of vegetation associated with Nonforested Wetland. Narrow-leaved emergents such as cordgrass (Spartina) and rush (Juncus) are dominant in coastal salt marshes. Both narrow-leaved emergents such as cattail (Typha), bulrush (Scirpus), sedges (Carex), sawgrass (Cladium) and other grasses (for example, Panicum and Zizaniopsis miliacea), and broad-leaved emergents such as waterlily (Nuphar, Nymphea), pickerelweed (Po·ntederia), arrow arum (Peltandra), arrowhead (Sagittaria), water hyacinth (Eichhornia crassipes), and alligatorweed (Alternanthera philoxe1·oides) are typical of brackish to freshwater locations. Mosses (Sphagnum) and sedges (Cm·ex) grow in wet meadows and bogs.
+
+appropriate Water category should be employed. Forested Wetland and Nonforested Wetland are
+the Level II categories of Wetland.
+
+7. BARREN LAND
+Barren Land is land of limited ability to support life and in which less than one-third of the area has
+
+61. FORESTED WETLAND
+
+vegetation or other cover. In general, it is an area
+
+Forested Wetlands are wetlands dominated by of thin soil, sand, or rocks. Vegetation, if present,
+
+woody vegetation. Forested Wetland includes season- is more widely spaced and scrubby than that in the
+
+DEFINITIONS
+
+19
+
+Shrub and Brush category of Rangeland. Unusual conditions, such as a heavy rainfall, occasionally result in growth of a short-lived, more luxuriant plant cover. Wet, nonvegetated barren lands are included in the Nonforested Wetland category.
+Land may appear barren because of man's activities. When it may reasonably be inferred from the data source that the land will be returned to its former use, it is not included in the Barren category but classified on the basis of its site and situation. Agricultural land, for example, may be temporarily without vegetative cover because of cropping season or tillage practices. Similarly, industrial land may have waste and tailing dumps, and areas of intensively managed forest land may have clearcut blocks evident.
+When neither the former nor the future use can be discerned and the area is obviously in a. state of land use transition, it is considered to be Barren Land, in order to avoid inferential errors.
+Level II categories of Barren Land are: Dry Salt Flats, Beaches, Sandy Areas other than Beaches; Bare Exposed Rock; Strip Mines, Quarries, and Gravel Pits; Transitional Areas; and Mixed Barren Land.
+71. DRY SALT FLATS
+Dry Salt Flats occurring on the flat-floored bottoms of interior desert basins which do not qualify as Wetland are included in this category. On aerial photographs, Dry Salt Flats tend to appear white or light toned because of the high concentrations of salts at the surface as water has been evaporated, resulting in a higher albedo than other adjacent desert features.
+72. BEACHES
+Beaches are the smooth sloping accumulations of sand and gravel along shorelines. The surface is stable inland, but the shoreward part is subject to erosion by wind and water and to deposition in protected areas.
+73. SANDY AREAS OTHER THAN BEACHES
+Sandy Areas other than Beaches are composed primarily of dunes-accumulations of sand transported by the wind. Sand accumulations most commonly are found in deserts although they also occur on coastal plains, river flood plains, and deltas and in periglacial environments. When such sand accumulations are encountered in tundra areas, they are not included here but are placed in the Bare Ground Tundra category.
+
+74. BARE EXPOSED ROCK
+The Bare Exposed Rock category includes areas of bedrock exposure, des,ert pavement, scarps, talus, slides, volcanic material, rock glaciers, and other accumulations of rock without vegetative cover, with the exception of such rock exposures occurring in tundra regions.
+75. STRIP MINES, QUARRIES, AND GRAVEL PITS
+Those extractive mining activities that have significant surface expression are included in this category. Vegetative cover and overburden are removed to expose such deposits as coal, iron ore, limestone, and copper. Quarrying of building and decorative stone and recovery of sand and gravel deposits also result in large open surface pits. Current mining activity is not always distinguishable, and inactive, unreclaimed, and active strip mines, quarries, borrow pits, and gravel pits are included in this category until other cover or use has been established, after which the land would be classified in accordance with the resulting use or cover. Unused pits or quarries that have been flooded, however, are placed in the appropriate Water category.
+76. TRANSITIONAL AREAS
+The Transitional Areas category is intended for those areas which are in transition from one land use activity to another. They are characterized by the lack of any remote sensor information which would enable the land use interpreter to predict reliably the future use or discern the past use. All that actually can be determined in these situations is that a transition is in progress, and inference about past or future use should be avoided. This transitional phase occurs when, for example, forest lands are cleared for agriculture, wetlands are drained for development, or when any type of land use ceases as areas become temporarily bare as construction is planned for such future uses as residences, shopping centers, industrial sites, or suburban and rural residential subdivisions. Land being altered by filling, such as occurs in spoil dumps or sanitary landfills, also is indicative of this transitional phase.
+77. MIXED BARREN LAND
+The Mixed Barren Land category is used when a mixture of Barren Land features occurs and the dominant land use occupies less than two-thirds of the area. Such a. situation arises, for example, in a desert region where combinations of salt flats, sandy areas, bare rock, surface extraction, and transi-
+
+20 A LAND USE AND LAND COVER CLASSIFICATION SYSTEM FOR USE WITH REMOTE SENSOR DATA
+
+tional activities could occur in close proximity and in areal extent too small for each to be included at mapping scale. Where more than one-third intermixture of another use or uses occurs in a specific area, it is classified as Mixed Barren Land. Where the intermixed land use or uses total less than onethird of the specific area, the category appropriate to the dominant type of Barren Land is applied.
+8. TUNDRA
+Tundra is the term applied to the treeless regions beyond the limit of the boreal forest and above the altitudinal limit of trees in high mountain ranges. In the United States, tundra occurs primarily in Alaska, in several areas of the western high mountain ranges, and in small isolated locations in the higher mountains of New England and northern New York. The timber line which separates forest and tundra in alpine regions corresponds to an arctic transition zone in which trees increasingly are restricted to the most favorable sites.
+The vegetative cover of the tundra is low, dwarfed, and often forms a complete mat. These plant characteristics are in large part the result of adaptation to the physical environment-one of the most extreme on Earth, where temperatures may average above freezing only 1 or 2 months out of the year, where .strong desiccating winds may occur, where great variation in solar energy received may exist, and where permafrost is encountered almost everywhere beneath the vegetative cover.
+The number of species in the tundra flora is relatively small compared with typical middle- and lowlatitude flora, and this number of species decreases as the environment becomes increasingly severe with changes of latitude and altitude. The tundra vegetation consists primarily of grasses, sedges, small flowering herbs, low shrubs, lichens, and mosses. The vegetative cover 'is most luxuriant near the boreal forest, with the ground surface usually being completely covered. As the plant cover becomes sparse, shrubs become fewer and more bare areas occur. Species diversity is lowest near the boundaries of permanent ice and snow areas, where only isolated patches of vegetation occur on the bare ground surface.
+The vegetation of the tundra is closely associated with other environmental factors. Minor manmade disturbances, as well as microenvironmental changes over short distances, can have significant effects. Minor changes in available moisture or wind protection, for example, can result in different plant associations. Similarly, man's activity in the tundra may
+
+engender new drainage patterns with resultant changes in plant community or erosion characteristics (Price, 1972).
+The boundaries between Tundra, Perennial Snow or Ice, and Water are best determined by using images acquired in late summer. The Forest LandTundra boundary in the Arctic tends to be transitional over a wide area and characterized by either incursion of forests where site improvement occurs, as along the flood plains or river valleys, or by increasing environmental severity, as on exposed dry uplands. This Forest Land-Tundra boundary is much easier to delineate in alpine areas. The Barren LandTundra interface occurs where one or more of the environmental parameters necessary for vegetation growth is deficient and also would be determined best with late-summer imagers.
+Using the results of various investigations, Level II categories of Tundra based primarily on what is interpretable from remote sensor image signatures are: Shrub and Brush Tundra, Herbaceous Tundra, Bare Ground Tundra, Wet Tundra, and Mixed Tundra.
+81. SHRUB AND BRUSH TUNDRA
+The Shrub and Brush Tundra category consists of the various woody shrubs and brushy thickets found in the tundra environment. These occur in dense-to-open evergreen and deciduous thickets, with the latter dominated by types such as the various birches (Betula), alders (Alnus), or willows (Salix), as well as many types of berry plants. Low evergreen shrub thickets are characterized by such dominant types as Empetrum and various members of the heath family, such as Cassiope, Vaccinium, and Ledum (Viereck and Little, 1972).
+82. HERBACEOUS TUNDRA
+Herbaceous Tundra is composed of various sedges, grasses, forbs, lichens, and mosses, all of which lack woody stems. A wide variety of such herbaceous types may be found in close proximity on the tundra. Sites having sufficient moisture usually are covered with a thick mat of mosses together with sedges such as Carex and Eriophorum (cotton grass) in almost continuous and uniform tussocks, as well as other herbaceous forms such as types of bluegrass (Poa), buttercups (Ranunculus), and lichens such as Cladon1:a and Cet1·a1·ia. Drier or more exposed sites usually trend toward a sparse moss-lichen mat.
+83. BARE GROUND TUNDRA
+The Bare Ground Tundra category is intended for those tundra occurrences which are less than one-
+
+DEFINITIONS
+
+21
+
+third vegetated. It usually consists of sites visually dominated by considerable areas of exposed bare rock, sand, or gravel interspersed with low herbaceous and shrubby plants. This type of tundra is indicative of the most severe environmental stress and usually occurs poleward of the areas supporting the more luxuriant herbaceous and shrub forms and on· higher mountain ridges. The various species of Dryas, such as white mountain-avens, are dominant in Arctic regions, as are the sandworts (Minu... artia) and mountainheaths (Phyllodoce). Bare Ground Tundra gradually merges with one or more of the Barren Land categories on its more severe margin.
+84. WET TUNDRA
+Wet Tundra is usually found in areas having little topographic relief. Standing water is almost always present during months when temperatures average above the freezing level. Numerous shallow lakes are also common (Joint Federal-State Land Use Planning Commission for Alaska, 1973). Permafrost is usually close to the surface, and various patterned ground features may be evident. Sedges (Carex) such as cotton grass are characteristically dominant, and a few shrubby plants may occur on adjacent drier sites. Rooted aquatic plants are also common. Wet Tundra is delineated best on imagery acquired in late summer.
+85. MIXED TUNDRA
+The Mixed Tundra category is used for a mixture of the Level II Tundra occurrences where any particular type occupies less than two-thirds of the area of the mapping unit. Where more than onethird intermixture of another use or uses occurs in a specific area, it is classified as Mixed Tundra. Where the intermixed land cover categories total less than one-third of the specific area, the category appropriate to the dominant type of Tundra is applied.
+9. PERENNIAL SNOW OR ICE
+Certain lands have a perennial cover of either snow or ice because of a combination of environmental factors which cause these features to survive the summer melting season. In doing so, they persist as relatively permanent features on the landscape and may be used as environmental surrogates. Snow, firn (coarse, compacted granular snow), or ice accumulation in these areas exceeds ablation, which is the combined loss of snow or ice mass by evaporation and melt-water runoff. Adjacent lands most commonly will be classed as Water, Wetland, Barren
+
+Land, or Tundra, with their common boundaries being distinguished most readily on late summer imagery.
+The terminology and nomenclature of any subdivision of Perennial Snow or Ice areas are always subject to considerable debate, but a Level II breakdown into categories of Perennial Snowfields and Glaciers seems to be appropriate for use with remote sensor data. Such a subdivision is based on surface form and the presence or absence of features indicating glacial flow. In addition, these forms and flow features may be related to stage of development and certain periglacial or glacial processes.
+91. PERENNIAL SNOWFIELDS
+Perennial Snowfields are accumulations of snow and firn that did not entirely melt during previous summers. Snowfields can be quite extensive and thus representative of a regional climate, or can be quite isolated and localized, when they are known by various terms, such as snowbanks.
+The regional snowline is controlled by general climatic conditions and closely parallels the regional 32°F (0°C) isotherm for the average temperature of the warmest summer month. The use of the term "line" is somewhat misleading, because the "snowline" represents an irregular transitional boundary, which is determined at any single location by the combination of snowfall and ablation, variables which can change greatly within short distances because of changes in local topography and slope orientation.
+Small isolated snowfields occurring in protected locations can develop into incipient or nivation cirques, which become gradually hollowed by the annual patterns of freezing and thawing, aided by downslope movement of rock material. They are circular to semicircular and often develop ridges of mass-wasted materials called protalus ramparts at their downslope margins. As Flint (1957) has pointed out, "Such cirques, of course, are not in themselves indication of glaciation, they indicate merely a frost climate."
+Snowfields can normally be distinguished from the following Glacier category by their relative lack of flow features.
+92. GLACIERS
+Glacial ice originates from the compaction of snow into firn and finally to ice under the weight of several successive annual accumulations. Refrozen melt water usually contributes to the increasing density of the glacial ice mass. With sufficient thickness,
+
+22 A LAND USE AND LAND COVER CLASSIFICATION SYSTEM FOR USE WITH REMOTE SENSOR DATA
+
+weight, and bulk, flow begins, and all glaciers exhibit evidence of present or past motion in the form of moraines, crevasses, and so forth.
+Where the snowline of adjacent ice-free areas extends across the glacier, it is known as the firn limit, which represents the dividing line between the glacier's two major zones, the zone of accumulation and the zone of ablation. While glaciers normally are recognized easily, certain glacial boundaries may be subject to misinterpretation, even by the experienced interpreter. Flow features upglacier from the firn limit typically are obscured by fresh snow, forcing the image interpreter to depend on secondary information such as valley shape or seek a more discriminating sensor. Similarly, morainal material may cover the terminus (or snout) of the glacier because of ablation, making boundary determination in that vicinity difficult. This latter problem occasionally is compounded by the presence of considerable vegetation rooted in the insulating blanket of ablation moraine.
+Further subdivision of glacial occurrences, mainly on the basis of form and topographic position, would include: small drift glaciers (sometimes called Ural-type or cirque glaciers) ; valley glaciers (also called mountain or alpine glaciers) ; piedmont glaciers ; and icecaps (or ice sheets) .
+Other features have somewhat the surface form of true glaciers, such as "rock glaciers." Since these are composed primarily of fragmented rock material together with interstitial ice, they are classified as Bare Exposed Rock.
+MAP PRESENTATION
+Figures 1 through 4 depict typical maps which have been produced using the U.S. Geological Survey land use and land cover classification system. The land use and land cover maps have been produced by conventional interpretation techniques and are typical examples of maps produced from highaltitude color-infrared photographs.
+In order to provide a systematic and uniform approach to the presentation of land use and land cover information in map format, a scheme of color coding is employed (table 4). In this scheme, Level I land uses are color coded using a modified version of the World Land Use Survey (International Geographical Union, 1952) color scheme. Level II land uses can be presented using the two-digit numeral appropriate to the land use category, such as "21," which would signify Cropland and Pasture. The use of some type of system other than a further strati-
+
+TABLE 4.-U.S.G.S. Level I Land Use Color Code
+1. Urban or Built-up Land__ Red (Munsell5R 6/12). 2. Agricultural Land _______ Light Brown (Munsell 5YR
+7/4). 3. Rangeland ______________ Light Orange (MunselllOYR
+9/4). 4. Forest Land ------------Green (Munsell lOGY 8/5). 5. Water __________________ Dark Blue (Munsell lOB 7/7). 6. Wetland ____ .., ___________ Light Blue (Munsell 7.5B
+8.5/3). 7. Barren Land ____________ Gray (Munsell N 8/0). 8. Tundra _________________ Green-Gray (Munsell lOG 8.5/
+1.5). 9. Perennial Snow or Ice ___ White (Munsell N 10/0).
+fication by color is necessary at Level II since it would be a considerable problem to select 37 different colors which would be distinguishable at the size of the minimum mapping unit. A numerical system, with the number of digits equaling the level of categorization, forms a flexible classification system that permits continuation to Levels III and IV or beyond. In addition, retaining a discrete color code for each Level I land use or land cover category permits rapid visual integration of the areas characterized by that use or cover type.
+Even though a numerical system for the Level II land uses has been illustrated, such a system is not the only method of presenting Level II land use information. What is proposed is the use of the modified International Geographical Union World Land Use Survey color code at Level I. Alternatives to a numerical code at Level II could take the form of graphic symbols such as dots, stipples, cross-hatching, swamp or marsh symbols, or any of the great variety of such items available to the cartographer. Such a method, together with the Level I color coding, would allow the reader rapid visual orientation to each discrete Level II land use category but would impede statistical inventory of the area included in each land use and would be difficult to subdivide further into Level III categories.
+Another alternative for land use symbolization at Level II is the use of an alphabetical code for each category such as "Ur," representing (Urban or Built-up) Residential Land, or "Ac," for (Agricultural) Cropland and Pasture. Such a system has the merit of suggesting the logical name of each category but also impedes interpretation and enumeration at the more detailed levels because of increased complexity of the alphabetical code. In addition, the increase in length of the alphabetical code used for the more detailed levels will cause placement problems as the minimum size of a mapping unit is ap-
+proached.
+
+MAP PRESENTATION
+
+23
+
+EXPLANATION
+1 Urban or built-up land 2 Agricultural land 4 Forest land 5 Water 7 Barren land
+
+0 2 MILES 0 2 KILOMETRES
+FIGURE 1.-Level I land use and land cover in an enlarged part of the northeast quarter of the Indianapolis, Indiana-Illinois, 1: 25·0,000 quadrangle. Area outlined in center of map corresponds to Maywood area shown in figures 3 and 4.
+
+24 A LAND USE AND LAND COVER CLASSIFICATION SYSTEM FOR USE WITH REMOTE SENSOR DATA
+EXPLANATION 11 Residential
+12 Commercial and services 13 Industrial 14 Transportation, communications,
+and utilities
+15 Industrial and commercial complexes 16 Mixed urban or built-up land 17 Other urban or built-up land 21 Cropland and pasture 22 Orchards, groves, vineyards,
+nurseries, and ornamental horticultural areas
+23 Confined feeding operations 41 Deciduous forest land 51 Streams and canals 53 Reservoirs 75 Strip mines, quarries, and gravel pits 76 Transitional areas
+39° 40'
+0 2 MILES
+f - -- - - . - L , - -___J
+0 2 KILOMETRES
+FIGURE 2.-Level II land use and land cover in an enlarged part of the northeast quarter of the Indianapolis, IndianaIllinois, 1 :250,000 quadrangle. Area outlined in center of map corresponds to Maywood area shown in figures 3 and 4.
+
+MAP PRESENTATION
+
+l~_ ~~2_8 c~~~=~',
+'
+2i____,_
+
+EXPLANATION
+11 Residential 12 Commercial and services 13 Industrial 14 Transportation, communications,
+and utilities
+17 Other urban or built-up land 21 Cropland and pasture 22 Orchards, groves, vineyards,
+nurseries, and ornamental
+horticultural areas
+24 Other agricultural land 41 Deciduous forest land 42 Evergreen forest land 43 Mixed forest land 51 Streams and canals 52 Lakes 53 Reservoirs 62 Nonforested wetland 75 Strip mines, quarries, and gravel pits
+
+0 Y,. MILE 0 .5 KILOMETRE
+FIGURE 3.-Level II land use and land cover in a part of the Maywood, Indiana, 1 :24,000 quadrangle. Level III interpretations for the same area are shown in figure 4.
+
+26 A LAND USE AND LAND COVER CLASSIFICATION SYSTEM FOR USE WITH REMOTE SENSOR DATA
+
+39° 42 ' 30"
+753
+~
+
+EXPLANATION
+111 Single family 122 Retail trade 131 Primary processing 132 Fabrication 134 Extraction facilities 141 Highways 144 Airports 145 Communications 147 Utilities 173 Waste dumps 174 Urban undeveloped 211 Cropland 212 Pastureland 224 Nurseries and floriculture 242 Farmsteads 412 10-30 percent crown cover,
+deciduous
+413 30-70 percent crown cover,
+deciduous
+414 >70 percent crown cover,
+deciduous
+424 > 70 percent crown cover,
+evergreen
+432 10-30 percent crown cover, mixed 511 Streams 521 Lakes 532 Water-filled quarries 622 Mudflats 753 Sand and gravel pits (active)
+
+0 \>2 MILE 0 .5 KILOMETRE
+FIGURE 4.-Level III land use and land cover in a part of the Maywood, Indiana, 1:24,000 quadrangle. Level II interpretations for the same area are shown in figure 3.
+
+SELECTED BIBLIOGRAPHY
+
+27
+
+SELECTED BIBLIOGRAPHY
+Anderson, James R., 1971, Land use classification schemes used in selected recent geographic applications of remote sensing: Photogramm.Eng., v. 37, no. 4, p. 379-387.
+Anderson, James R., Hardy, Ernest E., and Roach, John T., 1972, A land-use classification system for use with remote-sensor data: U.S. Geol. Survey Circ. 671, 16 p., refs.
+Avery, T. Eugene, 1968, Interpretation of aerial photographs [2nd ed.]: Minneapolis, Burgess Pub. Co., 324 p.
+Barlowe, Raleigh, 1972, Land resource economics [2nd ed.]: Englewood Cliffs, N.J., Pre~tice-Hall, Inc., 585 p.
+Burley, Terence M., 1961, Land use or land utilization?: Prof. Geographer, v. 13, no. 6, p. 18-20.
+Clawson, Marion, and Stewart, Charles L., 1965, Land use information. A critical survey of U.S. statistics including possibilities for greater uniformity: Baltimore, Md., The Johns Hopkins Press for Resources for the Future, Inc., 402 p.
+Colvocoresses, Alden P., 1971, Image resolution for ERTS, Skylab, and Gemini/Apollo: Photogramm. Eng., v. 38, no. 1, p. 33-36.
+Colvocoresses, Alden P., and McEwen, Robert B., 1973, Progress in cartography, EROS program: Symposium on Significant Results Obtained from the Earth Resources Technology Satellite-1, Natl. Aeronautics and Space Admin. Pub. SP-327, p. 887-898.
+Ellefsen, R., Swain, P. H., and Wray, J. R., 1973, Urban land use mapping by machine processing of ERTS-1 multispectral data: A San Francisco Bay area example: West Lafayette, Ind., Purdue Univ. Lab. for Applications of Remote Sensing Inf. Note 101573.
+Flint, R. F., 1957, Glacial and Pleistocene geology: New York, John Wiley and Sons, Inc., 553 p.
+Frey, H. Thomas, 1973, Major uses of land in the United States-summary for 1969: U.S. Dept. of Agriculture, Econ.~·esearch Service, Agr. Econ. Rept. no. 247.
+Gleason, Henry A., and Cronquist, Arthur, 1964, The natural geography of plants: New York, Columbia Univ. Press, 420 p.
+Grigg, David, 1965, The logic of regional systems: Annals Assoc. Amer. Geographers, v. 55, no. 3, p. 465-491.
+Hardy, Ernest E., Belcher, Donald J., and Phillips, Elmer S., 1971, Land use classification with simulated satellite photography: U.S. Dept. of Agriculture, Econ. Research Service, Agr. Inf. Bull., 352 p.
+Hardy, Ernest E., and Shelton, Ronald L., 1970, Inventorying New York's land use and natural resources: New York's Food and Life Sciences, v. 3, no. 4, p. 4-7.
+Hawley, Arthur J., 1973, The present and future status of Eastern North Carolina wetlands: Chapel Hill, Univ. of North Carolina, Water R·esources Res. Inst., Rept. no. 87.
+Ingram, J. J., and Prochaska, D. D., 1972, Me·asuring completeness of coverage in the 1969 census of agriculture: Am. Stat. Assoc., Business and Econ. Sect., ann. mtg., Montreal 1972, Proc., p. 199-215..
+International Geographical Union, 1952, Report of the committee on world land survey for the period 1949-1952: Worcester, England, 23 p.
+Joint Federal-State Land Use Planning Commission for Alaska, 1973, Major ecosystems of Alaska: Anchorage, Joint Federal-State Land Use Planning Comm. for Alaska, map, scale 1:2,500,000, incl. text.
+
+Kuchler, A. W., 1964, Potential natural vegetation of the conterminous United States: Amer. Geog. Soc., Spec. Pub. no. 36, 116 p.
+Marschner, F. J., 1950, Major land uses• in the United States [map, scale 1:5,000,000]: U.S. Dept. of Agriculture, Agr. Research Service.
+National Academy of Sciences, 1970, Remote sensing with special referenc.e to agriculture and forestry: Washington, D.C., Natl. Acad. Sci., 423 p.
+New York State Office of Planning Coordination, 1969, Land use and natural resources inventory of New York State: Albany, New York State Office of Planning Coordination, 67 p.
+Oosting, Henry J., 1956, The study of plant communities [2nd ed.]: San Francisco W. H. Freeman Co., 440 p.
+Orning, George W., and Maki, Les, 1972, Land management information in northwest Minnesota: Minneapolis, Univ. of Minn. Center for Urban Studies, Minn. Land Management Inf. System Study, Rept. no. 1.
+Pettinger, L. R., and Poulton, C. E., 1970, The application of high altitude photography for vegetation resource inventories in· southeastern Arizona: Final Rept., Contract no. NAS 9-8577, Natl. Aeronautics and Space Admin., 147 p.
+Price, Larry W., 1972, The periglacial environment, permafrost, and man: Washington, D.C., Assoc. of Amer. Geographers, Comm. on College Geography, Resource Paper No. 14, 88 p.
+Rosenberg, Paul, 1971, Resolution, detectability, and recognizability: Photogramm. Eng., v. 37, no. 12, p. 12551258.
+Shaw, Samuel P., and Fredine, C. Gordon, 1956, Wetlands of the United States: U.S. Dept. of the Interior, Fish and Wildlife Service Circ. 39.
+Shelford, Victor E., 1963, The ecology of North America: Urbana, Univ. of Illinois Press, 810 p.
+Stevens, Alan R., Ogden, W. H., Wright, H. B., and Craven, C. W., 1974, Alternatives for land use/cover mapping in the Tennessee River watershed: Amer. Cong. on Surveying and Mapping, Amer. Soc. of Photogramm., ann. mtg., 34th, St. Louis, Mo., Mar. 10-15, 1974, p. 533-542:.
+Stoddard, Lawrence A., and Smith, Arthur D., 1955, Range management [2nd ed.]: New York, McGraw-Hill Book Co., 433 p.
+Sweet, David C., and Wells, Terry L., 1973, Resource management implications of ERTS-1 data to Ohio: Symposium on Significant Results Obtained from the Earth Resources Technology Satellite-1, Natl. Aeronautics and Space Admin. Pub. SP-327, p. 1459-1466.
+Thrower, Norman J. W., 1970, Land use in the Southwestern United States from Gemini and Apollo imagery (map suppl. no. 12): Annals Assoc. Amer. Geographers, v. 60, no. 1.
+U.S. Bureau of the Census, 1970, Areas of the United States: U.S. Dept. of Commerce, Bureau of the Census, Area Measurement Rept. GE-20, no. 1.
+U.S. Congress, 1936, The Western Range: U.S. 74th Cong., 2d s.,ess., Senate Doc. 199.
+- - - 1973, The land use policy and planning assistance act: U.S. 93rd Cong., 1st sess., Senate Bill 268.
+U.S. Department of Agriculture, Conservation Needs Inventory Committee, 1971, National inventory of soil and
+
+28 A LAND USE AND LAND COVER CLASSIFICATION SYSTEM FOR USE WITH REMOTE SENSOR DATA
+
+water conservation needs, 1967: Statistical Bull. 461, 211 p.
+- - - 1972, Farmland: Are we running out?: The Farm Index, v. XI no. 12, p. 8-10.
+U.S. Department of Agriculture, Soil Conservation Service, 1962, Classifying rangeland for conservation and planning: U.S. Dept. of Agr. Handbook 235.
+[U.S.] Executive Office of the President, Bureau of the Budget, 1957, Standard industrial classification code: Washington, D.C.
+U.S. Geological Survey, 1973, Geological Survey reseaTCh 1973: U.S. Geol. Survey Prof. Paper 850, p. 255-258.
+U.S. Urban Renewal Administration, Housing and Home Finance Agency, and Bure•au of Public Roads, 1965, Stand-
+
+ard land use coding manual, a standard system for identifying and coding land use activities: Washington, D.C., 111 p. Viereck, Leslie A., and Little, Elbert L., Jr., 1972, Alaska trees and shrubs: U.S. Dept. of Agriculture, Forest Service Handbook 410, 2:65 p. Welch, Roy, 1973, Cartographic quality of ERTS-1 image: Symposium on Significant Results Obtained from the Earth Resources Technology Satellite-!, Natl. Aeronautics and Space Admin. Pub. SP-327, p. 879-886. Wooten, Hugh H., and Anderson, James R., 1957, Major uses of land in the United States~summary for 1954: U.S. Dept. of Agriculture, Agr. Research Service, Agr. Inf. Bull. 168.
+
+

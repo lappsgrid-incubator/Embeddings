@@ -1,0 +1,142 @@
+department the interior geological survey interpretation detail aerial gamma ray survey jabal ashlrah area southeastern arabian shield kingdom saudi arabia joseph duval open file report report prepare geological survey cooperation deputy ministry mineral resource saudi arabia 
+this report preliminary review conformity geological survey editorial standard stratlgraphlc nomenclature 
+usgs mission saudi arabia 
+content page abstract introduction data process geologic set discussion 
+conclusion data storage data file mineral occurrence documentation system reference list illustration plate pocket plate 
+interpretation detail aerial gamma ray survey jabal ashirah area kingdom saudi arabia figure 
+index map show location jabal ashirah study area 
+interpretation detail aerial gamma ray survey 
+jabal ashirah area 
+southeastern arabian shield 
+kingdom saudi arabia joseph duval abstract detail aerial gamma ray spectrometric survey jabal ashirah area southeastern arabian shield analyze use computer classification algorithm 
+the analysis result map show radiometric map unit gamma ray anomaly indicate presence possible concentration potassium uranium 
+the radiometric unit map interpret produce simplify radiolithic map correlate map geology 
+the gamma ray data show uranium anomaly coincide tin bear granite know gold nickel miner associate gamma ray signature 
+introduction the aerial gamma ray data use report part survey designate cover rocjc survey flown geosurvey international ltd contract geological survey saudi arabia mission fig 
+the data obtain use high sensitivity gamma ray spectrometer nominal survey altitude ground surface 
+flight line orient east west space apart north south tie line space apart 
+the data fully correct contractor background radiation altitude variation airborne bi2j4 radiation 
+duval present color contour color composite map data interpretation jabal ashirah area base upon subjective definition radiometric map unit anomaly 
+this report apply computer classification technique produce similar objective radiometric unit anomaly map 
+data process the composite color map digital form compile duval use analysis 
+the flight line data filter use gaussian filter standard deviation measurement point follow grid use minimum curvature algorithm briggs webring 
+the data filter reduce noise high frequency variation prior grid 
+the interval use grid data after final grid data set obtain potassium percent uranium ppm thorium ppm eth ratio eth eth eth eth data set 
+jabal ashira study area 
+figure index map show location jabal ashirah study area 
+use make composite color map use technique describe duval 
+the classification map use computer program develop nasa national space technology laboratory nstl earth resource laboratory erl part earth resource laboratory software ela 
+prior classification data convert munsell color space coordinate represent quantity hue saturation value 
+the coordinate transformation calculate use equation give raines 
+this particular transformation choose provide decorrelation variable result number provide measure data see interpreted human visual system include eye brain interpretive function 
+the principalcomponents transformation also use different method decorrelate data result classification map judge significantly different obtain use munsell transformation 
+the definition map class dona algorithm automatically determine characteristic various class within select polygonal training area use unsupervised algorithm 
+maximum likelihood classification algorithm use classify data use characteristic class basis selection whitley other 
+present result classification element composite color map combine element concentration data equivalent uranium potassium equivalent thorium eth vary shade primary color see duval 
+the numbering map class arbitrary 
+the uranium composite color map combine uranium data ratio eth potassium composite color map combine potassium data ratio eth also classify use approach design identify possible anomalous concentration uranium potassium 
+present result classification definition anomalous area require three map parameter composite color map relatively high value 
+extent design objectives map meet identified area reflect existence geochemical mechanism act increase concentration uranium potassium 
+the geologic map use base radiometric map derive map greenwood 1980a 1980b sable 
+data north latitude greenwood 1980a 1980b data south latitude sable 
+divide line draw latitude geologic map north south show significant difference for purpose report original map generalize unit combine 
+geologic set the study area locate southern part arabian shield fig 
+the rock area mostly precambrian rock paleozoic age 
+the precambrian rock layer metavolcanic metasedimentary rock intrude body gabbro granodiorite monzogranite composition 
+greenwood 1980a 1980b sable 
+the mapping greenwood 1980a 1980b assigns layer rock jijddah group greenwood 1980a describes massive volcanic pyroclastic epiclastic basalt wassat formation jdw overlie dacitic andesitic metasediments qatan formation jdqg jdqf 
+sable describes layer rock metavolcanic metasedimentary rock halaban group 
+the paleozoic rock present study area wajid sandstone ogw cambrian ordovician age brown jackson 1959i brown hadley schmidt 
+know miner consist gold deposit ancient working vicinity jabal guyan near lat long map describe helaby dodge deposit iron nickel iron sulfide hadbah gossan near lat long discussed dodge rossman 
+discussion the radiometric unit map 
+correlate geology 
+radiometric unit present western quarter survey area correlate area map greenwood 1980a basalt andesite jdw tuffaceous pebble sandstone gdql 
+diabase isills map sable metasedimentary metavolcanic rock 
+these unit concentration percent ppm ppm eth 
+the pattern radiometric unit suggest way discriminate among geologic unit currently map 
+radiometric unit find twice eastern side map right mid center correspond distinctive gamma ray signature suggest regard anomalous 
+concentration unit percent ppm ppm eth 
+the characteristic make unit distinctive low concentration uranium 
+radiometric unit occur northwest quadrant area concentration percent ppm ppm eth 
+unit correlate ion geologic map unit occur area map basalt andesite jdw gossan tuffaceous pebble sandstone jdql graphitic sandstone jdqg 
+radiometric unit occur along western side survey appear correlate area tuffaceous pebble sandstone jdql gabbro 
+unit contain percent ppm ppm eth 
+radiometric unit occur northeastern corner survey area contain percent ppm ppm eth correlate area map wajid sandstone 
+radiometric unit contain percent ppm ppm eth find western third area correlate graphitic sandstone unit jdqg qatan formation map greenwood 1980a metasedimentary rock halaban group map sable 
+radiometric unit contain percent ppm ppm eth locate mostly within area map alluvium eastern half area 
+occurrence radiometric unit limit small right center southeastern corner survey area one occurrence southeastern corner survey area correlate part area map aashiba gneiss complex sable 
+unit contain percent ppm ppm eth 
+radiometric unit contain percent ppm ppm eth find mostly area map alluvium eastern half survey area 
+occurrence radiometric unit limit one small exception contiguous area unit 
+center northeast corner survey area 
+unit contain percent ppm ppm eth 
+radiometric unit concentration percent ppm ppm eth small occurrence scatter center northeastern corner survey area 
+the large area unit correlate sodic amphiboie granite gsa map sable small occurrence within near area map quartz monzonite greenwood 1980b 
+there small occurrence radiometric unit northwestern quadrant correlate one geologic map unit 
+unit contain percent ppm ppm eth 
+radiometric unit leave center northeastern corner survey area contain percent ppm ppm eth correlate area map tfs wajid sandstone greenwood 1980b 
+radiometric unit northwestern quadrant southeastern corner survey area correlate one geologic unit although coincide area map diorite area map member qatan formation greenwood 1980b 
+unit contain aud ppm eth 
+southeastern corner survey area unit partly coincide area map monzogranite sable although map greenwood 1980b show quaternary alluvium area 
+instance unit contiguous area unit suggest unit corresponds outcrop alluvium member qatan formation 
+radiometric unit present northeastern corner survey area contain percent ppm ppm eth correlate area map wajid sandstone 
+radiometric unit contain percent ppm ppm eth find mostly area map alluvium eastern part survey area 
+radiometric unit cover large area eastern two third survey area contain percent ppm ppm eth correlate area map alluvium 
+radiometric unit show well define correlation quartz monzonite greenwood 1980b monzogranite sable unit also appear relate quartz monzonite monzogranite 
+unit contain percent ppm ppm eth unit contain percent ppm ppm eth 
+the cited correlation suggest follow 
+radiometric unit probably well coincident quaternary alluvium qal 
+radiometric unit possibly well related reflect outcrop alluvium quartz monzonite greenwood 1980b monzogranite sable 
+radiometric unit relate reflect outcrop alluvium wajid sandstone 
+radiometric unit possibly well related 
+reflect outcrop alluvium member qatan formation 
+map greenwood 1980a 1980b member halaban group 
+map sable 
+because aerial gamma ray data provide information upper rock soil coverage approximately percent surface area map derive data cannot expect mimic bedrock geologic map 
+the map provide representation chemical difference surface material observe geologic correlation use produce radiolithic map map 
+ich useful well define extent map geologic unit 
+map present radiolithic map unit interpret follow 
+unit correspond granite high radioactivity 
+unit correspond member qatan formation part wassat formation unit distinguishable unit 
+the large occurrence unit correspond gabbro aad scatter small occurrence may indicate presence additional gabbro may reflect inadequacy classification technique use 
+unit correspond graphitic sandstone unit qatan formation 
+unit correspond diorite dacitic andesitic sediment 
+unit correspond wajid sandstone 
+unit correspond sodic amphibolc granite 
+unit correspond part aashiba gneiss complex 
+unit correspond area low radioactivity indication slight potassium enrichment uranium depletion 
+unit correspond alluvial detrital material various geologic unit 
+the uranium potassium anomaly know map cannot fully interpret without additional field work 
+the potassium anomalies mostly associate area map quartz monzonite may reflect potassium alteration relate intrusion quartz monzonite 
+some uranium anomaly form well defined north south belt along graphitic metasedimentary unit jdqg western side area 
+this belt include high priority uranium anomaly however anomaly relate jabal guyan gold deposit mod significance know 
+two large class uranium anomaly coincide tin bear granite near lat long 
+northwest trend belt class uranium anomaly occur alluvium near lat long probably reflect detrital material jabal ashirah ring dike complex 
+there however significant anomaly associate ring dike complex 
+conclusion because perception color human eye complicate sometimes faulty process objective procedure describe use classify composite color radiometric map 
+the radiometric map unit define correlation map geology prompt follow conclusion 
+the quartz monzonite greenwood 1980b monzogranite sable geologic unit give common name 
+similarly area map member qatan formation greenwood 1980a area map member halaban group sable 
+radiometric unit map correspond wajid sandstone suggest existence mappable subunit survey area 
+neither jabal guyan gold deposit hadbah gossan nickel deposit mod distinctive gamma ray signature associate 
+one tin bearing granite significant uranium anomaly associate several small anomaly associate granite survey area 
+the approach use objectively classify gamma ray data result map radiometric unit interpret simplified cross reference geologic data 
+absence geologic data map could simplify could serve preliminary lithologic map guide geologist 
+data storage data file all original data use preparation write report store data file usgs 
+mineral occurrence documentation system mod bibliography update jabal guyan gold deposit mod hadbah gossan nickel deposit mod 
+briggs machine contour use minimum curvature geophysics 
+brown jackson geologic map asir quadrangle kingdom saudi arabia geologibal survey miscellaneous geologic investigation map scale 
+brown eastern margin red sea coastal structure saudi arabia philosophical transaction royal society london a267 
+dodge rossman miner wadi qatan area geological survey open file report 
+duval composite color image alerial gamma ray spectromctric data 
+duval aerial gamma ray color contour composite color map jabal ashirah study area saudi arabia geological survey technical report scale 10ci press 
+greenwood 1980a reconnaissance geology wadi malahah 
+quadrangle sheet kingdom saudi arabia saudi arabian 
+directorate general mineral resource geologic map scale 
+greenwood i980b reconnaissance geology wadi wassat quadrangle sheet kingdom saudi arabia saudi arabian directorate general mineral resource geologic map scale 
+hadley schmidt nonglacial origin conglomerate bed wajid sandstone saudi arabia ijjl campbell gondwana geology canberra australian national university press 
+helaby dodge tiie jabal guyan ancient gold mine wadi malahah quadrangle sheet kingdom saudi arabia geological survey open file report 
+raines digital color analysis color ratio composite landsat scene proceeding eleventh international symposium remote sense environment ann arbor michigan j463 
+sable geology najran quadrangle sheet 17g kingdom saudi arabia saudi arabian deputy ministry mineral resource open file report usgs 60j scale 
+also saudi arabian deputy ministry mineral resource geoscience map 78c 
+webring minc grid program base minimum curvature geological survey open file report 

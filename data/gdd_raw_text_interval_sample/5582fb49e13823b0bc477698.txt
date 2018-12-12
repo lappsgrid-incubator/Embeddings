@@ -1,0 +1,1830 @@
+UNITED STATES DEPARTMENT OF THE INTERIOR
+GEOLOGICAL SURVEY
+METHODOLOGY FOR HYDROLOGIC EVALUATION OF A POTENTIAL SURFACE MINE: THE RED RIM SITE, CARBON AND SWEETWATER COUNTIES, WYOMING By D. G. Frickel, L. M. Shown, R. F. Hadley, and R. F. Miller U.S. GEOLOGICAL SURVEY WATER-RESOURCES INVESTIGATION OPEN-FILE REPORT 81-75
+Denver, Colorado April, 1981
+
+UNITED STATES DEPARTMENT OF THE INTERIOR JAMES G. WATT, Secretary GEOLOGICAL SURVEY
+Doyle G. Frederick, Acting Director
+
+For additional information write to
+U.S. Geological Survey Water Resources Division Mail Stop 420, Box 25046 Denver Federal Center Denver, Colorado 80225
+
+For sale by
+Open File Services Section U.S. Geological Survey Box 25425 Denver Federal Center Denver, Colorado 80225 (303) 234-5888; FTS 234-5888
+
+CONTENTS
+
+Metric conversion factors
+
+Abstract
+
+Introduction Objectives and scope of report
+Description of the study area
+
+-
+
+Def init ions Location
+
+'
+
+Topography Geology and coal resources Soils and vegetation
+
+Climatological information Premining hydrology of the study area
+
+Hydrology of the permit area Moisture relations in soils
+
+Methodology Study sites Surface water Estimation methods
+
+Estimates of peak discharges
+
+Estimates of mean annual discharge Estimates of runoff volumes
+
+Storm runoff volumes
+
+Estimates of low flows
+
+Surface-water quality
+
+Ground water Ground-water quality
+Erosion and sediment yield Universal Soil Loss Equation
+
+-
+
+Potential effects of mining and reclamation Changes in topography Soils and vegetation
+
+Surface water
+
+Estimation methods
+
+Estimates of design peak discharges and runoff volumes Erosion
+Sediment yields
+
+Recommendations for research References
+
+ILLUSTRATIONS
+
+Figure 1. 2. 3.
+4.
+
+Index map of Wyoming showing location of study area Map of Red Rim study area showing permit area Geologic map of Red Rim permit area
+Soils map of Red Rim permit area
+
+111
+
+Page
+vi 1 1 2 4 4 4 4 4 6 7
+15 15 15 17 20 26 26 29 31 32 33 33 34 35 35 37 37 40 40 41 44 44
+49 51 54 55 56
+3 5 8 10
+
+ILLUSTRATIONS Continued
+
+Figure 5. 6. 7. 8. 9.
+10. 11. 12.
+13.
+14. 15. 16. 17. 18. 19.
+
+Vegetation map of Red Rim permit area
+Locations of vegetation and soil sampling sites that apply to the Red Rim permit area
+Relationship used to determine void-moisture capacity (VMC) of soils from bulk density CBD)
+Calibration graph for determining moisture-retention force from moisture content
+Relationships between size of voids and rate at which water infiltrates soils
+Photographs and soil-moisture relations of three sites that represent conditions on the permit area
+Photographs and soil-moisture relations of four upland valley sites where snow accumulates
+Relationship of live-vegetation cover to the quantity of water depleted from soil between maximum and minimum storage levels
+Diagram showing that salt-desert shrubs have a greater capability for extracting water from soil than northern desert shrubs
+Potentiometric surface map of ground-water flow in the Fort Union Formation
+Topography and soil loss units before mining on a small basin covering part of the Red Rim permit area
+Map showing reconstructed landscape resulting from mining coal beds less than 200 feet deep
+Cross section showing changes in topography resulting from surface mining
+Comparison of flood frequency curves estimated by the SCS method and by Craig and Rankl equations
+Topography and soil-loss units after mining and reclamation of part of a small basin
+
+Page 11 13 18 19 21 22 23
+25
+27 36 38 42 43 47 53
+
+TABLES
+
+Table 1. 2. 3. 4. 5.
+
+Percent cover of vegetation, mulch, bare soil, and rock plus yields of vegetation and mulch
+Estimated precipitation amounts for selected storm recurrence intervals and durations
+Parameter values for estimating peak discharges at Red Rim premining conditions
+Peak discharges estimated by the Craig-Rankl equations for premining conditions at Red Rim sites
+Runoff volumes estimated by the Craig-Rankl equations for premining conditions at Red Rim sites
+
+12 15 32 32 34
+
+LV
+
+TABLES Cont inued
+
+Table 6.
+7. 8.
+9. 10.
+11.
+
+Estimated runoff volumes associated with selected peak discharges at Red Rim sites
+Parameter values for SCS method premining conditions Runoff volumes and peak discharges calculated by the SCS
+method at Red Rim sites premining conditions Parameter values for SCS method postmining conditions Runoff volumes and peak discharges calculated by the SCS
+method for Red Rim sites postmining conditions Comparison of annual soil loss, computed with USLE, before
+mining and after mining on part of Red Rim permit area
+
+Page
+34 46 46 50 50 52
+
+v
+
+U.S. customary acres
+acre-feet atmospheres
+cubic feet per second acre-feet per square mile
+feet feet per mile inches
+miles pounds per acre
+pounds per cubic foot
+pounds per square inch
+pounds per square foot
+square miles tons tons per square mile
+
+METRIC CONVERSION FACTORS
+Multiply by
+4.047 x 10" l 4.047 x 10" 3 1.233 x 103 1.033 x 103
+2.832 x 10~ 2 4.762 x 102
+3.048 x 10" 1 1.894 x 10" 1 2.540 x 101 2.540 x 10~ 2 1.609 1.121 x 10~ 3
+1.602 x 10" 2
+7.031 x 10
+,-1 4.882 x 10'
+2.590 -1
+9.072 x 10' -1
+3.503 x 10
+
+International system
+square hectometers square kilometers
+cubic meters
+grams per square centimeter
+cubic meters per second
+cubic meters per square kilometer
+meters
+meters per kilometer
+millimeters meters
+kilometers
+megagrams per square hectometer
+grams per cubic centimeter
+grams per square centimeter
+grams per square centimeter
+square kilometers
+megagrams
+megagrams per square kilometer
+
+VI
+
+METHODOLOGY FOR HYDROLOGIC EVALUATION OF A POTENTIAL SURFACE MINE: THE RED RIM SITE, CARBON AND SWEETWATER COUNTIES, WYOMING
+By
+D. G. Frickel, L. M. Shown, R. F. Hadley, and R. F. Miller
+ABSTRACT
+Permit applications made to the Office of Surface Mining for mining of near-surface coal deposits contain both mining and reclamation plans. These plans must be evaluated by regulatory authorities for compliance with the permanent regulations of the Surface Mining Control and Reclamation Act of 1977. Methodologies are presented for assessing the effects of mining and reclamation on the hydrologic system of a potential permit area and the adjacent area, together comprising about 1.6 square miles, in the drainage basin of Separation Creek, Carbon and Sweetwater Counties, Wyoming. The study area is representative of the hydrologic problems that exist in a semiarid environment of the high plains in Wyoming.
+The premining hydrology and geology of the study area are described primarily as a basis for evaluation of potential changes that may occur. Data for soil-moisture relations in seven soil-vegetation types show that differences in void space and particle surface-area available for water storage are important factors in planning reclamation. Estimates are also made of runoff volumes and peak discharges for flow magnitudes of specified recurrence intervals using a regression model developed for the State of Wyoming. A shallow aquifer and its hydraulic characteristics are described in the study area. Methods for estimating erosion and sediment yield in the study area by means of the Universal Soil Loss Equation (USLE) and reservoir sedimentation surveys are described.
+INTRODUCTION
+With increased emphasis on coal as an energy source for the Nation, it is anticipated that leasing and production of Federal coal will rapidly accelerate. There are many potential coal mining areas in the Western United States that have been leased, or will be leased in the near future, under the new Federal coal management program established in 1979. When permit applications are made to the Office of Surface Mining to mine these near-surface coal deposits by surface mining methods, mining and reclamation plans must be evaluated for compliance with permanent regulations of the Surface Mining Control and Reclamation Act of 1977 (Federal Register, Mar. 13, 1979). This report considers methodologies for evaluating the effects of mining and reclamation on the hydrologic system of a mined area, and adjacent area that may be affected by the mining operation. However, the methodologies described in this report do not include all of the technology that has been
+
+developed or applied to surface mining or land use hydrologic problems. Also, the evaluation of mining effects and reclamation methods is directed to the Federal regulations rather than the regulations of the State of Wyoming.
+The coal fields in the Western United States occur in a wide range of physical environments from the semiarid Great Plains of Montana and North Dakota in the north to arid Colorado Plateau sites of New Mexico in the Four Corners region. The Red Rim site in the Great Divide Basin of southcentral Wyoming is representative of the semiarid high plains and is the subject of this report Csee location map, fig. 1).
+This report is one of a series of four reports that consider methodology for assessing the hydrology of potential surface-mine sites. One of these reports (Hadley and others, 1981) addresses conditions at the East Trail Creek site in semiarid southeastern Montana, where winter and spring precipitation dominates. Another report (Shown and others, 1981a) applies to Tsosie Swale basin in arid northwestern New Mexico, where most of the annual precipitation occurs from July through October. The third report (Shown and others, 1981b) addresses the conditions at the Loblolly Branch site in the humid southern Appalachian region of Alabama.
+Objectives and scope of report
+The primary objective of this report is to provide regulatory authorities with examples of methodologies which can be used to assess the effects on the hydrologic system at a potential mine site and adjacent areas. Regulatory authorities need this information in their review process to determine the adequacy of permit applications for mining and reclamation.
+The hydrologic data base at specific potential mine sites will vary from almost no data to very detailed, depending on station distribution in the hydrologic network, and past demand in the area for basic data and topical investigations. A second objective of this report is to describe alternative methods of hydrologic assessment and to define their limitations; some consistency then can be attained in applying these methods in the permit review process.
+The third objective of this report is to consider the need for hydrologic research in potential mine areas, and areas that are presently being mined and reclaimed. Basic data and research needs are identified in this report that may refine the predictive capability of hydrologists who are responsible for evaluating consequences of mining.
+
+r45°
+
+110° I
+
+105° I
+
+WY0 M I N G
+
+L.
+
+STUDY AREA
+
+100
+
+200 MILES
+
+Figure 1. Index map of Wyoming showing location of study area,
+
+DESCRIPTION OF THE STUDY AREA
+Definitions
+For purposes of this report the permit area and adjacent area are defined in accordance with the final rules and regulations of the Office of Surface Mining Reclamation and Enforcement (Federal Register, Mar. 13, 1979, p. 15320), The permit area is defined as the area where surface coal mining and reclamation will be conducted or located during the term of the permit. The adjacent area means land located outside the permit area that may be adversely impacted by surface coal mining and reclamation operations on the permit area (Federal Register, Mar. 13, 1979, p. 15317). The permit area and the adjacent area comprise the study area.
+The authors have arbitrarily designated a permit area along the Red Rim (fig. 2), and the adjacent area as the remainder of a small tributary basin, upstream from the permit area. A potential for adverse impacts to the hydrologic system exists throughout the drainage basin.
+National Geodetic Vertical Datum of 1929 (NGVD of 1929): A geodetic datum derived from a general adjustment of the first order level notes of both the United States and Canada, formerly called "mean sea level."
+Location
+The permit area selected for demonstration of hydrologic assessment methods is sec. 34, T. 20 N., R. 90 W., Sweetwater County, Wyo., and occupies 640 acres. The adjacent area extends into parts of adjoining sections; and the entire study area occupies 1,024 acres (1.6 square mile) (fig. 2).
+Topography
+Topography of the study area is dominated by the Red Rim escarpment that trends northeasterly across the south side of the area. This escarpment and the roughly parallel drainages that cross the study area are controlled primarily by the structure of the Wamsutter Arch. The area is typical of semiarid dissected high plains. The uplands are incised by valleys and draws which are tributary to Separation Creek, the major drainage channel. Altitudes in the study area range from about 7,400 feet above sea level in the southern part of the area along Red Rim to about 7,000 feet above sea level along the channel at the mouth of the basin (fig. 2).
+Geology and coal resources
+The Red Rim study area is on the west flank of the Rawlins uplift. Dips of rock formations within the study area range from 16 to 21 degrees. The
+
+Base from U.S. Geological Survey Riner 1:24,000, 1966
+IOOO
+5OO
+
+O
+
+IOOO
+
+2OOO
+
+3OOO FEET
+
+500 METERS
+
+CONTOUR INTERVAL 20 FEET
+NATIONAL GEODETIC VERTICAL DATUM OF 1929
+
+EXPLANATION Permit area boundary
+
+_...._ Drainage divide
+
+AB Streamflow-estimation site
+
+Figure 2. Map of Red Rim study area showing permit area, drainage basins, and streamflow-estimation sites.
+
+strike of beds of the Fort Union and Lance Formations are northeast-southwest; these beds have a homoclinal northwest dip. Surface expressions of the underlying structure in the study area tend to follow the strike of the rock units.
+The only rock formation that crops out in the study area is the Paleocene Fort Union Formation. Overlying the Fort Union Formation are colluvial and alluvial deposits in the valleys and on the hillslopes (fig. 3). Drilling and surface information (Sanders, 1974) indicates that the Fort Union Formation is approximately 1,500 feet thick locally, including a basal sandstone, 500 to 600 feet thick, that lies unconformably upon the Cretaceous Lance Formation, which is 3,800 feet thick. The middle to lower part of the Fort Union Formation, prime coal-bearing formation in the study area, is composed primarily of siltstone, sandstone, shale, and coal.
+There are seven coal beds in the permit area that are overlain by 200 feet or less of overburden. There are two coal beds that range in thickness from 5 feet to greater than 10 feet. In these two beds, the estimated coal reserves are 930,000 tons. In coal beds exceeding 10 feet in thickness, the estimated reserves are 2,380,000 tons, a total of 3,310,000 tons in the study area (Bureau of Land Management, 1976).
+Soils and vegetation
+Soils in the study area were mapped and described by the U.S. Bureau of Reclamation (1976) using techniques of the U.S. Soil Conservation Service. (jSee figure 4, soils map.) Descriptions of the soils are qualitative rather than quantitative, but they can be used to define proportions of the study area covered by a given soil and to define general hydrologic responses resulting from different soil depths, permeabilities, and moisture-storage capacities. Most of the soils on the permit area are coarse-textured sandy loams or loamy sands developed from sandstones. Other soils that occur on valley alluvium or other siltstones or sandy shales are medium-textured fine sandy loams and loams.
+Soil depths are variable in the Red Rim area but shallow, moderatelydeep, and deep soils occur in about equal proportions. Soils of the Skootch-Blazon complex (fig. 4) occur on ridges and dissected upland slopes and are examples of some of the thinner soils. They have restricted permeabilities because they are underlain by impermeable sandstones at depths of about 18 inches. Cushool sandy loam soil, which occurs on the slopes of low, narrow ridges and along upland tributary channels is an example of moderately deep well-drained soils 24 inches in depth. Alluvial soils of the Rock River-Ryark complex Cfig- 4) occurring on gentle to moderate slopes and on valley fills are examples of deep, well-drained soils 24 to 36 inches in depth, Some shallow soil material is associated with the weathered bedrock on the rockland unit (fig- 4), but it is the most erodible of all the soils and is poor habitat for vegetation.
+
+Vegetation cover density has been measured by F. A. Branson of the U.S. Geological Survey (written communication, 1978) at representative sites in the general vicinity of the study area; the validity of transferring the measurements to the study area was verified by using aerial photographs. Measurements were made of percentage areal cover of vegetation, mulch, rock, and bare soil by the first-contact, point-quadrat method (Levy and Madden, 1933). A frame containing 10 vertical pins was placed at three-step intervals requiring about 530 feet to obtain 600 pin contacts in each vegetative type.
+The vegetation, as mapped in figure 5, can be generally classified as northern desert shrub; all of the subtypes have various mixtures of shrubs, grasses, and forbs. The two types shown in figure 5 include other vegetation types too limited in areal extent to delineate. Data representing these types, however, are included in table 1, and locations of the sites where data were obtained are shown in figure 6. The most extensive and variable vegetation type has big sagebrush as the dominant species; in snow accumulation sites, this type sometimes has an understory of giant wildrye. Total annual vegetation yields on these snow accumulation sites exceed 1 ton per acre of dry matter (.site 1, table 1) as indicated by the clipping and drying of plants on 9.6 ft plots in late July 1975 (U.S. Geological Survey, 1976). On relatively dry uplands, annual production in this type (sites 3 and 7, table 1) is less than 400 pounds per acre. National Weather Service records for Rawlins, Wyo., about 15 miles from the Red Rim area, indicate that precipitation for the two 12-month periods prior to sampling of the vegetation was 1.6 and 1.7 inches less than the mean annual precipitation of 10.43 inches. This would suggest that the total vegetation yields and the percentages of live cover shown in table 1 probably are conservative estimates of long-term average values.
+Mixed grasses and shrubs is an extensive type on uplands that is characterized by relatively low productivity (sites 2, 4, and 10 in table 1). Prominent grasses are sandberg bluegrass, western wheatgrass, and bottlebrush squirreltail. Shrubs present include winterfat, nuttall saltbush, and big sagebrush. Carrying capacity was calculated by assuming that 50 percent of the annual production of each species would be utilized under proper grazing management and further adjustments were made for certain species according to palatability. Annual production of shrubs is a small percentage of total plant weight. The limited palatability of some species, such as big sagebrush and giant wildrye, results in low carrying capacities for those species. Average carrying capacity was about 5.4 acres per animal unit month.
+Climatological information
+Climatological information that may be requested by the regulatory authorities in a permit application is listed in subchapter G, part 779.18 of the Surface Coal Mining and Reclamation Regulations (Federal Register, Mar. 13, 1979). This includes (1) average seasonal precipitation, (2) average direction and velocity of prevailing winds, and (3) seasonal temperature ranges. In
+
+Base enlarged from U.S. Geological Survey
+Riner 1:24,000, 1966
+IOOO
+250
+
+Geology from R. B. Sanders (1974), modified by
+U.S. Bureau of Reclamation (1976)
+
+IOOO
+
+2000 FEET
+
+250 METERS
+
+CONTOUR INTERVAL 20 FEET
+NATIONAL GEODETIC VERTICAL DATUM OF 1929
+
+Figure 3. Geologic map of Red Rim permit area.
+
+Explanation for geologic map of Red Rim permit area
+ALLUVIUM AND COLLUVIUM UNDIVIDED Mainly unconsolidated poorly sorted argillaceous silt but locally reflects lithologies of adjacent units.
+SILTSTONE, SANDSTONE, SHALE, AND COAL Complexly interbedded commonly lenticular or discontinuous sequence of beds. Sandstone, light-colored, argillaceous, fine- to medium-grained; commonly contains ferruginous concretions. Siltstone, lightbrown to orange, commonly ferruginous, argillaceous. Shale, light- to dark-gray, locally maroon; locally contains numerous plant fossils. Coal beds are generally thin and discontinuous with lenticular thickenings to as much as 9 feet. Plant, uniolid pelecypod; viviparid gastropod, turtle, and crocodilian fossils locally numerous. Approximately 1,,500 feet thick. SANDSTONE Light-gray (weathers pink, red, or brown), thickbedded to massive, medium- or coarse-grained, generally crossbedded; contains well-rounded 0.5-inch chert pebbles. Chert pebbles are common in stringers in basal units. Dark-gray shales separate the generally disconformable sandstones locally. Approximately 500-600 feet thick.
+Coal bed outcrop dashed where approximately located, short dashes indicate inferred or indefinite location.
+Burned coal bed approximately located.
+Contact.
+Strike and dip of strata.
+Drill hole and number.
+
+R. 90 W. 107031'
+
+8140
+'. ) . SWEETWA
+
+Base enlarged from U..S. Geological Survey
+Riner 1:24,000, 1966
+1000
+250
+
+0
+
+Soils from U.S. Bureau of Reclamation (1976)
+
+1000
+
+2000 FEET
+
+250 METERS
+
+CONTOUR INTERVAL 20 FEET NATIONAL GEODETIC VERTICAL DATUM OF 1929
+
+Number ____Noncorrelated name_____
+8070 ROCK RIVER SANDY LOAM 8080 CUSHOOL SANDY LOAM 8110 WORFMAN SANDY LOAM, DELPHILL
+FINE SANDY LOAM 8120 SPOOL AND COTHRAN LOAMY SAND
+
+Number
+
+Noncorrelated name
+
+8130 ROCK RIVER - PATENT FINE SANDY LOAM COMPLEX
+
+8140 ROCK RIVER - RYARK SANDY LOAM COMPLEX
+
+8150 SKOOTCH SANDY LOAM, BLAZON LOAM
+
+8160 ROCKLAND
+
+Figure 4. Soils map of Red Rim permit area,
+
+10
+
+R. 90 W. 107031'
+
+\ \ / + .-+ - + + --.*\'
+
+. \M\ r/ +-'* *'?~+\+ + f * + » +>
+
+:\i + .....*S- \
+
+.^
+
+^^.
+
+SWgETWATIiR
+
+Base enlarged from U.S. Geological Survey
+Riner 1:24,000, 1966
+1000
+250
+
+Vegetation from U.S. Geological Survey (1976)
+
+1000
+
+200O FEET
+
+250 METERS
+
+CONTOUR INTERVAL 20 FEET
+NATIONAL GEODETIC VERTICAL DATUM OF 1929
+EXPLANATION
+
+BIG SAGEBRUSH Distribution of this type varies from extensive stands to small, isolated and somewhat circular stands. Included in this type are sites 1, 3, 11, and 7. The considerable variation in the type is shown by the annual yields which range from more than a ton at a snow-accumulation site to less than 400 pounds per acre at upland sites
+MIXED GRASSES and SHRUBS An extensive type occupying uplands and characterized by relatively low productivity. Sites 10, 2, and 4 are within this type. Characteristic species include winterfat, birdfoot sagebrush, nuttall saltbush, and low-producing grasses such as sandberg bluegrass and bottlebrush squirreltail
+Location and number of vegetation and soil-sampling site
+
+Figure 5. Vegetation map of Red Rim permit area. 11
+
+Table 1. PeAc.ent cove*, otf uege/tofcton, mutch, bate &o-it, and lock p£uA y-ieMi> o< uegetati.cn and mutch <tt Red Ron, Wyoming
+
+Genus and gpecies
+
+Vegetation types. . Site numbers. . . .
+Common name
+
+Giant wildrye 1
+
+Winterfat 2
+
+Bie sagebrush 3 and 11
+
+Birdfoot sagebrushWinterfat
+4
+
+Big sagebrushWestern
+wheatgrass
+7
+
+Mixed grasses and shrubs
+10
+
+Percent Yield Percent Yield Percent Yield Percent Yield Percent Yield Percent
+
+Yield
+
+cover (Ib/acre) cover (Ib/acre) cover (Ib/acre) cover (lb/acre) cover (Ib/acre) cover (Ib/acre)
+
+CeAc.ocoA.poA montanuA EuAotia. tan&ta. Giay-La Opun&La. potyacatitka. RoAa an.kan&ana. SoAcobatuA veAiTKcutatuA S(/mphoA-icaA.poA oA.eopkcfcuA
+
+Birdfoot sagebrush Big sagebrush Shadscale Nuttall saltbush True mountain mahogany Winterfat Spiny hopsage Snakeweed Plains pricklypear Sticky current Rose Greasewood Mountain snowberry Gray horsebrush
+
+16.0
+1.3 0.7 4.7
+
+Grasses and grass-like vegetation
+
+A.gn.opyn.on \giapynon bgn.opyn.on Ap-ccotum
+EiymuA Oiyzop Poa iecunda
+nomata. Stipa. virudata.
+
+Thickspike wheatgrass Western wheatgrass Bluebunch wheatgrass
+Slender wheatgrass Mountain brome
+Threadleaf sedge Giant wildrye Indian ricegrass Sandberg blue grass Bottlebrush squirreltail Needle-and-thread Green needlegrass Unidentified grass
+
+-
+
+879.0
+50.5 12.0 290.5
+
+27.4
+
+(. e\
+
+_
+
+41.0
+
+337.5
+
+0.7 0.7
+
+7.0 1.7
+7.5
+
+42.0 52.5
+
+__
+
+JQ
+
+__
+
+_
+
+..__ __
+
+__
+
+29.0
+
+1.3
+
+0.8 1.7
+
+__ _
+
+__
+
+8.5 0.7
+_
+
+208.0 1.0 12.7 35 37
+
+45.0 29.0
+7.5
+
+sp. Chenopod-utm aJLba
+sp. sp. GaJtMan boieode GeAanium sp. Hytnenoxi/A sp. Lapputa sp. Leputuun tlimatuA sp.
+hoodti. sp.
+SoLidago sp.
+
+Aster Tufted milkvetch
+Chickweed Lambs quarters
+Daisy Wild buckwheat
+Northern bedstraw Geranium Hymenoxys Stickseed
+Pepperweed Monkeyflower
+Hoods phlox Mustard Go}.denrod Unidentified forbs
+
+Total live cover (percent) and total vegetation yields (lb/acre)
+Estimated carrying capacity in animal unit months per acre
+
+13.0 87.0
+
+1,929.0 2,585.5
+
+17.0 27.0
+4.3 51.7
+
+1.6
+
+3.0
+
+'Q 5
+
+In
+____
+
+10.0 153.5 394.5
+
+0.2
+33.6 9.6 0.5
+56.3
+
+17.8 6.0 10.8
+
+0.3
+
+1,122.5
+
+6.0 40.3
+
+18.3
+
+487.9 35.4
+
+5.6 6.2
+
+7.0 u. j
+
+54.5
+
+51.0
+
+98.0
+
+26.7 13.7
+
+2.0
+
+366.0 57.6
+
+2,064.5 366.5
+
+5.7
+18.7 23.6
+7.0 51.7
+
+440.0 _
+
+I07°l 35'
+
+107° 130'
+
+24 30 29 26 27 26
+
+36 T. 19 N.
+
+31 32 33
+
+35
+
+SWEETWATER-CQ. ' ~ CARBON CO.
+
+.7 12 10
+
+13 '18 17 16 IS I.
+,4
+14 19 20 21 22
+
+14
+
+Base enlarged from U.S. Bureau of Land Management
+Rawlins 1:126,720, 1974
+
+2 MILE 2 KILOMETER
+EXPLANATION
+
+Permit area
+
+.10 Location and number of vegetation and soil-sampling site
+
+Figure 6. Locations of vegetation and soil-sampling sites 13
+
+addition, it would be useful to have data on precipitation amounts for storms of selected recurrence intervals and durations to determine erosion rates; data on snowfall depths and water content; and data on length of the growing season or frost-free period to assess reclamation potential.
+
+Climate of the Red Rim study area is semiarid. Air masses from the Pacific precipitate most of their moisture in the mountains of western Wyoming, and moisture from the Gulf of Mexico seldom reaches as far north as Wyoming; therefore, mean annual precipitation at the study area is less than 11 inches. Deep cold air masses from Canada occasionally reach the area from the northwest, but shallow cold air masses rarely reach the area.
+
+The nearest weather station is at Rawlins, Wyoming, about 15 miles northeast of the study area, and about 400 feet lower in altitude than most of the permit area. The climate records at Rawlins are considered representative of the study area.
+
+Mean annual precipitation at Rawlins is 10.43 inches, with the wettest months being April, May, and June, when a total of 3.40 inches fall. The late fall and winter months of October to March average less than 0.6 inch per month; most of this occurs as snow. The mean annual snowfall at Rawlins is 42 inches. This amounts to about 40 percent of the annual precipitation.
+
+The mean annual temperature at Rawlins is 43°F. temperatures are as follows:
+
+January 22°F February 24° March 30° April 41°
+
+May June July August
+
+50°F 61° 68° 66°
+
+The mean monthly
+September 56 °F October 44° November 32° December 24°
+
+For purposes of reclamation, definition of the growing season is the logical way to divide the year; the growing season is generally considered to be the period when temperatures favor plant growth (Toy and Munson, 1978). Length of growing season is influenced by topography, exposure, and altitude, but its mean value is a reasonable index for assessing reclamation potential. The growing season for establishment of grasses on mine spoils is estimated to be about 80 days, or the interval between the date of the last killing frost in the spring to the first killing frost in the fall.
+
+Intensity of precipitation is more important to individual flood peaks and volumes and erosion rates than total precipitation. Precipitation amounts for selected storm durations and recurrence intervals are listed in table 2.
+
+14
+
+Table 2. Estimated precipitation amounts for selected storm recurrence intervals and durations for the Red Rim study area*
+^
+
+Storm recurrence interval (years)
+
+Storm duration
+30 minutes 1 hour
+IJAJL1I. o
+6 hours
+£.* + 11ULL1.O
+
+nL
+. -cJ
+-- . 6
+. QJ
+1.0
+
+10 25 50
+
+Precipitation amount (inches)
+
+0.5 0.6 i0.'o0 0.9
+
+.7 1.2
+
+1.0 -1L 2£. 1.4
+
+1.0 1.2 1.4 1.6
+
+-1L 9£.
+14
+J_ ^T
+
+1.5
+
+1Q
+
+90
+£. \J
+
+1.7 2.1 2.3
+
+100
+1.0 1^
+-L *J
+1.5
+1Q
+2.2 25
+
+*From Miller and others, 1973.
+
+PREMINING HYDROLOGY OF THE STUDY AREA
+Assessment of hydrologic processes in a semiarid environment, such as the Red Rim site, must consider the relation of precipitation occurring as rain and snow and losses from evaporation and transpiration. Most sites are waterdeficient, with potential water losses frequently exceeding precipitation by 30 to 40 inches annually. For example, it is common for basins that receive 10 to 12 inches of annual precipitation to yield less than 0.5 inch as streamflow, and to yield even less to recharge ground-water aquifers. In fact, most of the annual precipitation falling on a potential mine site in the study area, is stored in the upper 2 to 3 feet of the soil mantle and used by vegetation or returned to the atmosphere by evaporation from bare soil surfaces. Therefore, improving the efficient use of soil moisture is important for reclaiming disturbed areas because it increases the chances of success in reestablishment of plant cover and reducing erosion.
+Hydrology of the permit area
+Moisture relations in soils
+Moisture relations in soils are an integral part of the hydrology of an area and have a major influence on the occurrence of different vegetation types, and on the productivity of each type. Types and amounts of rangeland vegetation define the efficiency with which soil moisture is used in terms
+
+15
+
+of (I) forage and habitat for livestock and wildlife, (21 retardation of overland flow and promotion of infiltration, and (3) protection of the soil from the forces of erosion.
+The amount and variation of void space with depth in the soil, and the amount of particle surface area are the two main variables that control (1) infiltration of water, (2) amount of water retained per unit of depth, and (3) the force with which water is retained in the soil. The interconnected voids serve as conduits for infiltration and provide storage space for water. The amount of water retained per unit of depth is controlled largely by the quantity of soil-particle surface area because negative charges on the particles attract and hold water molecules. A soil layer with constricted void sizes will cause water to perch and result in retention of additional water in the zone overlying it, if more void space is available there.
+The force with which water is retained in a soil is controlled by the amount of particle surface-area, the vertical distribution of voids and their sizes, and osmotic pressure due to the presence of salts. It is called the moisture-retention force and is expressed as force per unit of particle surface-area. It is the force that must be counteracted by forces in roots in order for water to be extracted by vegetation. Fine-textured soils have much more particle surface-area and, in general, have smaller-sized voids than sandy soils. A given quantity of water will be retained with greater force in a fine-textured soil than in a sandy one because the water will be spread in the inner layers over the greater surface area of the fine-textured soil. The retention force decreases as the number of layers of water adsorbed to soil particles increases; therefore, the water in a fine-textured soil will be held tighter and will be less readily available to vegetation. Size of interconnected voids effects the moisture retention force because the smaller voids do not permit as many layers of water to stack on particle surfaces as do larger voids.
+Soil depth is another important variable with respect to soil-water relations because of the influence of depth on the total quantity of soil water retained. On normal arid and semiarid upland sites where erosion is not severe, the depth of the soil-moisture-storage zone is determined by the normal amount of water available from incident precipitation, snowdrifts, and overland flow from higher elevations. On eroding sites, which are also sites that produce the most runoff, soil depths are insufficient to accommodate all of the water that is available to be stored. On swales and frequently flooded low terrace sites, soils are usually sufficiently deep to accommodate storage of large quantities of water available from flows passing over them. Even so, these are sites where there is excess soil water available for deep percolation and recharge of alluvial and bedrock aquifers.
+This brief discussion of moisture relations in soils provides a basis from which to present methodology that allows quantitative evaluation and interpretation of moisture relations. The remaining part of this section of the report presents such methodology and an example application to the Red Rim permit area.
+16
+
+Methodology
+Soils are sampled with a 2-inch diameter orchard auger and the complete sample from 4-inch (10 cm) depth increments is retained so that the bulk density (weight per unit volume) can be measured. Void-moisture capacity (VMC) is computed from bulk density (BD) using the graph in figure 7 and assuming that the specific gravity of the soil particles is 165.44 pounds per cubic foot. Void-moisture capacity is the percentage of water, on a dry soil basis, contained in the soil when all of the voids are filled. The equation for the curve in figure 7 is
+VMC = I jjp - 0.377 J 100,
+where VMC is the void-moisture capacity, in percentage of dry soil weight BD is the soil bulk density, in pounds per cubic foot.
+The moisture-retention force of field samples augered in consecutive depth increments is determined from the moisture content of standard filter papers at equilibrium with the samples. This method has been described by McQueen and Miller (1968). The influence of different amounts of adsorptive surface in soils on quantities of water that can be retained, over the moisture range from saturation to ovendry, was determined using the modeling technique proposed by McQueen and Miller (1974). That technique is illustrated in figure 8 for a specific soil that has exactly one-half the adsorptive surface per unit of weight as the filter paper. Volumes of water adsorbed by this soil as multimolecular films on external surfaces of soil particles are exactly one-half the volumes of water adsorbed to the surfaces of the paper fibers at all values of moisture-retention force.
+A similar graphic model of moisture-content retention-force can be made for any sample of soil if moisture content and retention-force data are acquired under conditions where only adsorbed water is present. The line representing quantities of water adsorbed is extended downward and to the right from 10 3 * 24 atmospheres on the vertical axis through a point representing the moisture content of the soil and the retention force determined from the filter paper at equilibrium with the soil. Soils that contain expanding lattice clays, unlike the filter paper, can adsorb water within their structure. There is evidence (Miller and McQueen, 1972) that this water is held within the lattice structure with retention forces that exceed 10 1 - 98 atmospheres.
+Water adsorbed as multimolecular films tends to drain down from the adsorption-moisture capacity (AMC) (fig. 8) level where 16 molecular layers are adsorbed and the retention force is lO" 3 * 1^ 1 atmospheres. Drainage continues to the moisture-retention capability (MRC) level where 10 molecular layers remain adsorbed and the retention force is 0.21 or 10~°- GG atmospheres, Drainage becomes progressively slower as the retention force increases from 2.Q-3.01 to 10~ 0 -66 atmospheres. Drainage becomes insignificant at the MRC level where the retention force is io~°- 66 atmospheres. The MRC concept is
+17
+
+0
+130
+LU
+10
+a 100
+w 90 lz
+o^ a8On cLUc °- 70 z
+60
+50 o LU 40 cc
+30 §
+O
+20
+§10
+
+BULK DENSITY, IN POUNDS PER CUBIC FOOT 25 50 75 100 125
+
+150
+
+0.5 1.0 1.5 2.0 2.5 BULK DENSITY, IN GRAMS PER CUBIC CENTIMETER
+
+Figure 7. Relationship used to determine void-moisture capacity (VMC) of soils from bulk density (BD).
+
+18
+
+in
+Ul (T
+Q. V)
+o to
+U0J10'. O
+j=f I0l z
+Ul
+* 10-
+Ul (T
+
+I0 7
+I06
+(T ~»U-l UIUI
+°-IOS
+ot
+s 102
+10'
+
+10 -3
+
+38
+s
+6^ u.
+7O
+CO
+123
+UJ
+10 20 30 40 50 60 70 80 90 100 MOISTURE CONTENT, IN PERCENT OF DRY WEIGHT
+
+Figure 8. Calibration graph for determining moisture-retention force per unit of particle surface area from moisture content of standard filter papers at equilibrium with moisture in samples of soil, and graph illustrating similar relations in a soil with one-half the adsorptive surface (modified from McQueen and Miller, 1968, 1974).
+
+19
+
+similar to the concept of "field capacity," except that MRC is a value computed using the model in figure 8. It is not dependent on measurement of the moisture content at the time that drainage ceases from a prepared laboratory sample, as "field capacity" is.
+Void size in a given depth increment of soil can be used to approximate infiltration rates. The size of voids available for infiltration and storage of water can be approximated in units of molecular layers of water, which are 1.0866 X 10~ 5 inches thick. This is done by dividing VMC values by MRC values and multiplying by 10, because 10 molecular layers are adsorbed at the MRC level. Infiltration data obtained with a large rainfall-simulating infiltrometer (Lusby and Toy, 1976) were made available by Lusby (written communication, 1976) for comparison with void-dimension data. The data plot has a linear relationship (fig. 9) that permits estimation of rates of infiltration within plus or minus 0.35 inch per hour. Because void size is expressed in terms of amount of adsorptive surface, the relationship is applicable to any soil.
+Quantities of water that can be present in soils between the limits provided by VMC and minimum levels of storage (MS) are divided into adsorbed and drainable portions as shown in figures 10 and 11. Adsorbed water is computed as the difference between MRC and MS values. Drainable water is computed as the difference between VMC and MRC values. Both are computed to the depth where drainable water is capable of occurring. Moisture contents initially computed as percent of the dry weight of soil are converted to numbers indicating depths of adsorbed or drainable water. This is done by multiplying percent moisture by the average bulk density of the depth increment involved; the product is then multiplied by the length of the soil increment. The result is the amount of water expressed as a.depth.
+The volumes of water, in inches, are shown above the dashed horizontal lines of figures 10 and 11. These volumes relate to a normal annual peak recharge of soil moisture, whereas any water stored at greater depths relates to "wet years" when unusually large amounts of recharge occur.
+Study sites
+Moisture regimens in the soils are a product of the semiarid climate characteristic of the Red Rim study area. Approximately 40 percent of the moisture arrives as snow during the period when vegetation is dormant. Snow is subject to redistribution by winds; hence, the quantity that falls on a site is not necessarily available for infiltration and storage when the snow melts. Moisture stored in soils as a result of snowmelt is supplemented by water derived from spring and early summer rains.
+Soils associated with plant communities of habitats occurring naturally in the study area and nearby areas were sampled. Locations of the sampling sites are shown in figure 6. Soil-moisture relations at 7 sampling sites are shown in figures 10 and 11. Sites 10 and 11 are in the permit area; however, sites 1, 2, 3, 4, and 7 are outside the permit area but are representative of soil-vegetation conditions found there.
+20
+
+3.94
+
+0 10 20 30 40 50 60 70 60 90 VOID SIZE, IN MOLECULAR LAYERS OF WATER
+
+too
+
+Figure 9. Relationships between size of voids and rate at which water infiltrates soils. Dashed lines indicate plus and minus one standard error of estimate (from Miller and McQueen, 1978).
+
+21
+
+'j<J*RrJ...*"f
+
+RETENTION FORCE (g/cm2) PERCENT WATER IN SOIL 3Y WEIGHT 10° IO' I02 IO3 10* I05 10* 0 10 20 30 40 50 60 70 30 90
+i i i |O VMC
+
+Site 4
+\ birdfaet sagebrush .western wheatgrass
+
+fc
+2 M««J
+
+MRC
+
+RETENTION FORCE { ofm )
+
+RETENTION FORTCE (g/crn2) PERCENT WATER IN SOIL 3Y WEIGHT 10° IO1 10* 10s IO4 IO9 10* 0 10 20 30 40 30 60 70 30 90
+sit* 10 big sagebrush nuttall saitbush Indian ricegrais
+wheatgras*
+ii i i i
+io~3»o~2 »cr' io° io' io
+RETENTION FORCE ( otm )
+RETENTION FORCE («Vtan*) PERCENT WATER IN SOU. BY WEIGHT 10° IO1 IO2 IOS IO4 IO5 IO* 0 10 20 3O 4O 5O 6O 70 3O 9O
+
+giant wild rye big sagebrush
+3
+l it i i<r3tcrz !or»io° io4 io2 ic3
+RETENTION FORCE { arm )
+Figure 10. Photographs and soil-moisture relations of three sites that represent conditions on the permit area. Site 10 is actually on the permit area, and it along with site 4 are typical upland sites where winds blow snow off. Site 1 is a valley site where large depths of snow accumulate. The values within the graphs are computed moisture storage in inches.
+22
+
+RETENTION FORCE (g/cm2) PERCENT WATER IN SOIL BY WEIGHT 10° I01 10* I03 10* I05 10* 0 10 20 50 40 50 60 70 80 90
+big iag*bru*h spiny hopfag*
+
+io'3io'2 to"' 10° io* to2 \<r
+RETENTION FORCE { arm )
+
+IIL
+
+RETENTION FORCE (g/on2) PERCENT WATER IN SOIL BY WEIGHT
+
+rx i a \10° I01 10* I03 I04 \<f 10* 0
+
+^1
+
+Ml
+
+I
+
+P- s
+
+I
+
+p\ 1
+
+10 20 30 40 30 60 70 8O 9O
+«s / >"^
+
+//
+
+"U
+
+>' 2
+
+.J * % fc
+!«« VM'C |
+
+f ' ^|
+
+wint«rfat
+
+1 at MS-
+
+1k
+
+r otIMRC
+
+*^ ^ 3.3 } 73 /VMC
+
+1-
+
+1
+i ;M i1
+
+- > /MRC) * mm
+
+r ' 'r i iii i L r
+
+1 [ 1 t 1 1 ! I.
+
+icr^o^icr1 10° id' io2 io3
+
+RETENTION FORCE { arm )
+
+RETENTION FORCE (g/ctn2) "ERCENT WATER IN SOIL 3Y WEIGHT 10° IO1 10* IOS 10* 10* 10* 0 10 20 30 40 50 60 70 80 90
+
+IO"3>0"2 IO" I IO° IO1 IO2 IO3 RETENTION FORCE ( am J
+RETENTION FORCE (g/cm2) PERCENT WATER IN SOIL 9Y WEIGHT 10° lO1 IO4 10* IO4 IO3 !C* 0 10 20 30 4O 50 SO 70 80 9O
+
+=1
+
+sit* 11 big sag«bru*h
+
+lO" stO"2 tOT' K3° 10* IO2 IO3 RETENTION FOfiCEC atn )
+Figure 11. Photographs and soil-moisture relations of four upland valley sites where snow accumulates. Site 11 is on the permit area, and the others are similar to some sites there. Values within the graphs are computed moisture storage in inches.
+23
+
+Sampling sites were grouped on the basis of their geomorphic position in the landscape so that soil variables influencing use of water by vegetation could be determined. This information should be useful for determining whether factors essential to reproducing the habitat can be reestablished when soil materials are repositioned after coal has been removed.
+Most of the soil moisture used by vegetation occurring on the study area is derived from snowmelt. Snowfall can occur from mid-September through late May. Thus, 40 percent of normal annual precipitation occurs as snow, while the rest occurs as rain during the summer months. Normal soil-moisture storage on upland habitats, where wind characteristically blows snow away and where most of the water from rainstorms runs off, is less than that produced by average annual snowfall, measured at Rawlins, Wyoming. Water from onsite snowmelt and overland flow from the uplands accumulates in the valleys where quantities of water greater than could be derived from normal snowfall are stored in the soil and subsequently returned to the atmosphere. Except for areas with a cover of winterfat, big sagebrush dominates the aspect in areas where snow accumulates.
+Void-moisture capacities exceed the adsorption-^moisture capacity limit of 16 molecular layers of water in areas where almost pure stands of big sagebrush occur. For example, site 3 has soil that characteristically would have a cover of winterfat instead of sagebrush. Sagebrush occurs there because of the infiltration of water that runs in from upslope. However, run-in water is not essential for the occurrence of sagebrush on sandy loam soils with lower retention capabilities, as is illustrated by data for site 11 (jfig. 11) . Moisture derived from entrapped snow which blows off higher areas provides the essential moisture in these areas.
+A linear relationship between live vegetation cover and quantities of water depleted between maximum void-moisture capacity (VMC) and minimum levels of storage (MS) is presented in figure 12. There were sufficient data available from the sites sampled in the Red Rim study to indicate that a linear relationship exists. Data from sites near Hanna and Rock Springs, Wyo. were included with data from Red Rim to define a linear relationship that would be applicable in the Wyoming Basin, where snow is the primary source of soil moisture.
+The depth of water normally depleted from a soil by vegetation in the study area can be computed with the equation y = 0.28x - 6.97 where y is the depth of water depleted, in inches, and x is the percentage vegetative cover, or by use of the graph in figure 12. The "r" value for the relationship is 0.87 indicating the quantity of water stored in the soil is a major factor in determining the amount of cover. Estimates of soil moisture storage in similar areas could be made by applying ground-cover data, available from the Bureau of Land Management, in this relationship. If adequate precipitation information is available for a site, runoff potential could be computed by taking the difference between annual precipitation and annual soil-moisture
+24
+
+600 § 500
+400 £2300
+200
+100
+
+III WYOMING BASIN O RED RIM POTTER MT a HANNA
+r=0.87
+
+24
+20 zf o
+UJ
+16 s!
+£QUJ
+12
+8
+I -J
+O
+
+10 20 30 40 50 50 70 80 LIVE-VEGETATION COVER, IN PERCENT
+
+0
+90
+
+Figure 12. Relationship of live-vegetation cover to the quantity of water depleted from soil between maximum and minimum storage levels.
+
+25
+
+depletion. Carrying-capacity data as well as ground-cover data can be used to determine the efficiency with which the water resource is used under premining conditions as compared to post-mining conditions.
+Data on figure 13 show that the salt-desert shrubs have a greater capability for removing water from soils than northern desert shrubs. Both groups of shrubs occur on the Red Rim study area but some of the data points are from two other areas in southern Wyoming with the same general climate as Red Rim. Species in the salt-desert shrub group are nuttall saltbush and winterfat. Species in the northern desert shrub group include big sagebrush, birdfoot sagebrush, gray horsebrush, spiny hopsage; the mountain browse group is mainly true mountain mahogany. Because salt-desert shrubs can exert more force to extract water from the soil, they occur on drier sites where runoff is appreciable or snow accumulation is meager. Salt-desert shrubs can deplete moisture until only three molecular layers of adsorbed water remain in the soil while the northern desert shrubs deplete water to where four or five molecular layers remain.
+Surface water
+Runoff volume and peak discharge measurements are usually not available at potential mine sites; estimation techniques must be used for planning and design of required erosion and water-control structures. Several techniques are available for estimating streamflow characteristics. Each has its advantages and disadvantages that must be considered in selecting a method to use at a particular site.
+Estimation methods
+Deterministic, physical-process models are based on physical laws, and require measurements of initial and boundary conditions with other input data, If basin conditions (independent variables) are adequately described, these models can provide highly accurate estimates of runoff volumes and peak discharges. However, because of the complexity of the processes being modeled, many simplifications and approximations must usually be made to keep.the model physically and economically manageable. The result is a number of coefficients or parameters that are difficult, if not impossible, to evaluate directly. Therefore, these models must be verified with data from the watersheds where the models are to be applied. Often, adequate rainfall and discharge data are not available during the early stages of a project, when the model is needed for planning. These models also require considerable data to describe the watershed; thus, use large blocks of computer time. Persons applying these models must be skilled in computer programming, mathematics, modeling techniques, and hydrology. Physical-process models are most useful for extending length of streamflow records and predicting effects of changes imposed on the watershed. The U.S. Geological Survey is presently developing a precipitation-runoff modeling system for use on energy lands (Van Haveren and Leavesley, 1979).
+26
+
+FORCE, IN ATMOSPHERES, TO DESORB AN
+
+INCH OF SOIL WATER
+
+r01
+40
+
+2i 3I 4r 5i
+
+6i 7i
+
+8i 9i
+
+I r I10 II 12
+
+UaoJ:
+UJ QL
+? 30
+
+WYOMING BASIN
+o NORTHERN-DESERT SHRUBS SALT-DESERT SHRUBS
+
+CD
+<a.
+3 20
+"2. UJ hUJ
+tr
+13
+
+oo
+oo oo o
+
+o
+
+IIIIIIIII
+
+0
+
+100 200
+
+300
+
+400
+
+FORCE, IN GRAMS PER SQUARE CENTIMETER, TO DESORB
+
+A MILLIMETER OF SOIL WATER
+
+500
+
+Figure 13. Diagram showing that salt-desert shrubs have a greater capability for extracting water from the soil than northern-desert shrubs.
+
+27
+
+Parametric models, commonly known as regression equations, use statistical techniques to relate physical characteristics of a watershed to its hydrology. Geometric, geomorphic, land use, and climatic characteristics are used most often because they are readily available. Development of model coefficients for a region where the regression model is to be applied involves use of data from numerous sites over a relatively homogeneous area and allows prediction of flow characteristics at ungaged sites. Models can be developed that predict either streamflow peaks and volumes, but volume data often are unavailable, especially for smaller watersheds. Accuracy of these models is a measure of how well selected watershed characteristics describe streamflow characteristics. Accuracy is usually expressed as the standard error of estimate. Model accuracy depends on the accuracy of input data sampling error, as well as model error or form of the regression equation. In using a regression model at an ungaged site, it is important that the data base used to develop the model include data from watersheds similar in size to the ungaged watershed. While regression models are not as versatile as physical-process models, they are easier to use and often provide all the information needed to describe the premining hydrology. However, because they are generally developed with data from relatively undistrubed basins, they should not be used to estimate streamflow characteristics for postmining conditions.
+One type of regression model that may have application to surface-mining areas relates resultant factors rather than causative factors to streamflow characteristics (,0sterkamp and Hedman, 1979) . This technique is based on the assumption that a channel adjusts in size and shape to the size of flows it carries. The theory holds that consistent channel features are formed by flows, and that these features may be used as reference levels for making repeatable measurments of channel dimensions. Although it has not been verified, it is believed that channel dimensions, after an appropriate transition period, will reflect adjustments in the flow regime caused by land use and stream regulation. However, the processes which form the channel features are not fully understood; continued research in this area is needed.
+Equations relating channel-geometry and streamflow characteristics have been developed for several areas of the western United States (Hedman and Kastner, 1977; Hedman and others, 1972; Scott and Kunkler, 1976; Lowham, 1976). Thus, channel geometry can provide a rapid means of estimating streamflow characteristics at many ungaged sites, especially on perennial streams. Users of these equations should receive field training, in order to identify the same reference levels that were applied to develop the equations.
+The U.S. Geological Survey has numerous publications which describe regression models for estimating magnitude and frequency of floods for various areas using both watershed characteristics and channel geometry measurements. Some that may have application at the Red Rim site are cited in this report.
+The Soil Conservation Service (SCS) (1972) has developed an empirical model that relates rainfall to direct runoff through a series of numbered curves. The proper curve is selected by consideration of soil type, land use,
+28
+
+and antecedent soil-moisture conditions. The method was developed in the 1950*s, and is based on a large amount of plot and small basin runoff data. Parameter evaluation procedures have been modified to more accurately reflect conditions in some States, and evaluations for additional types of ground cover are now available. The method was developed to give consistent runoff volumes and peak discharge rates for the design of conservation structures on farms and ranches. Frequencies of the computed discharges are based on frequencies of the design precipitation events and may not correspond to frequencies of actual flood events. Streamflow data, if available, should always be used to check results obtained by this method.
+
+Estimates of peak discharges. Premining stream discharges should be estimated with techniques based on streamflow records, if possible, rather than with empirical formulas. This usually entails using parametric models developed for a broad geographical area that includes the present area. Several regression models have been developed for the area of Wyoming that includes the Red Rim study area. Lowham (1976) published the following equations based on basin characteristics:
+
+where
+
+Q 2 = 56. 8 A 0.
+
+Qs = 146 A 0. 35
+
+Qio = 239 A 0. 34
+
+QQs2o5
+
+==
+
+406 572
+
+A 0. 33 A 0. 32
+
+Qioo = 779 Ao. 31
+
+Average standard error of estimate (percent)______
+84 74 73 79 84 91
+
+Q2> Qs> QlO» Q25> Qso> anc* QlOO are Pea^ discharges in cubic feet per second (cfs), having 2-, 5-, 10-, 25-, 50-, and 100-year recurrence intervals, respectively; and
+
+A is the drainage area above the site, in square miles.
+
+The accuracy of the equations is expressed as the average standard error of estimate, in percent. This is the average error to be expected as the difference between computed and actual discharges in about two-thirds of the cases.
+
+The above equations should be used only for drainage areas of 5 to 5,300 square miles. For smaller basins, Craig and Rankl (1978) have published the following equations:
+
+29
+
+Q 2 = 34.06 A1 - 134 Sg 1 - 216 R-1.&09 s 0.539
+
+Average standard error of estimate ___(percent)___
+4Q
+
+Q 5 = 30.77 A 1 - 105 Sg 1 ' 135 R-i.^12 s Q.588
+
+33
+
+QlO = 32.99 A1 - 094 S 1 ' 080 R-L 3 08 s %.603
+
+32
+
+Q25 = 37.73 A 1 - 086 Sg 1 - 012 R-1 - 192 s- 613
+
+33
+
+Q 50 = 43.88 A 1 - 084 SB °- 962 R-l.ll 8 S C °- 616
+C Q 100 = 50.25 A1 - 082 S O- 91 ^ R-1.0^7 S 0.615
+DC
+
+34
+37
+
+where Q2» Qs> QlO» Q25» Qso> and QlOO are P eak discharges, in cubic feet per
+second, having 2-, 5-, 10-, 25-, 50-, and 100- year recurrence intervals, respectively.
+
+A is the drainage area, in square miles;
+
+S is the average basin slope, in feet per mile;
+
+R is the maximum relief in basin, in feet; and
+
+S is the main-channel slope, in feet per mile.
+
+These parameters should be determined from the largest scale topographic maps available. The drainage area boundary should be delineated on the map and the area measured with a planimeter. Stereoscopic airphoto coverage is often useful for delineating* boundaries in relatively flat areas. Maximum relief (R) is the difference in altitude between the channel at the mouth and the highest point in the basin.
+
+Average basin slope (S ) is obtained by the following summation of contour-lengths method: the lengths of contour lines (in miles) within the basin are measured and summed; this sum is multiplied by the contour interval in feet and divided by the drainage area in square miles. Not all contours have to be measured but a constant contour interval should be used. Certain electronic planimeters also have the capability of providing a very accurate measure of the length of line traced. If one of these is not available, contour lengths (also channel lengths), can be determined by stepping with a draftsman's dividers set at a small increment, preferrably 0.05 mile or less.
+
+Main-channel slope (S ) is the slope of the channel between points 10 and 85 percent of the distance from the desired site to the drainage divide. Above each stream junction, the main channel is the one that drains the largest area. The measured length should be the meander length of the channel, not the length of the stream valley. The channel should be extended on the map to the drainage divide. Altitudes at the 10- and 85-percent points are determined by interpolation between contour lines.
+
+30
+
+Lowham (1976) also developed equations relating streamflow characteristics to channel dimensions. The equations that apply to the Red Rim site are:
+
+where
+
+Q2
+Qs Qio
+Q25
+Qso QIOO
+
+=
+
+5 16 29 53 79 114
+
+.5 .4 .0 .7 .9 W
+
+W W W W
+1.W
+
+1. 1. 1. 1. 1.
+08
+
+30 22 18 13 10
+
+Average standard error of estimate
+_____(percent),_____
+75 67 66 68 71 75
+
+Q2» Qs» QlO> Q25> Qso> anc^ QlOO are tne Peak discharges, in cubic feet per second, having 2-, 5-, 10-, 25-, 50-, and 100-year recurrence intervals, respectively, and
+
+W is the channel width, in feet, at the reference level (see Lowham, 1976, for definition of reference level).
+
+The standard errors of estimate of these equations are somewhat lower than Lowham's equation based on basin characteristics; however, accurate estimation of discharges by the channel-geometry method is dependent on the training and experience of the hydrologist. At the Red Rim study area, the equations of Craig and Rankl (1978) should be used for basins with drainage areas less than 10 square miles, if the channel-geometry method is not used.
+
+For illustrative purposes, discharges were determined at points A, B, and C in figure 2, using the Craig-Rankl equations. Equation parameters were measured on 1:24,000 scale topographic maps and.are listed in table 3. The estimated discharges are listed in table 4. Channel-geometry measurements are not available for estimating discharges at the Red Rim sites for this report.
+
+Estimates of mean annual discharge. Lowham (1976) has provided both channel-geometry (cgl and basin-characteristic (be) equations for estimating mean annual discharge in the Red Rim area. They are:
+
+Q = 0.06 W 1 - 9 Qa = 0.003 W2 - 2
+Qa = 0.244 A 0 - 56
+
+(Perennial streams, eg) (Intermittent and ephemeral streams, eg) (Intermittent and ephemeral streams, be)
+
+where
+Q is the mean annual discharge, in cubic feet per second; a
+W is the channel width, in feet, at the reference level; and A is the drainage area, in square miles.
+
+31
+
+Table 3. Parameter values for estimating peak discharges at Red Rim premining conditions
+
+Site
+A B C
+
+Drainage area
+(mi2 )
+1.59 .29 .43
+
+Average basin slope (ft/mi)
+504 444 392
+
+Maximum basin
+relief (ft)
+425 170 187
+
+Main channel
+slope (ft/mi)
+145 116 180
+
+Table 4. Peak discharges estimated by Craig-Rankl equations for premining conditions at Red Rim sites
+
+Site
+A B C
+
+Q2
+(ft 3 /s)
+95 45 65
+
+Qio
+(ft 3 /s)
+335 130 200
+
+Q25
+(ft 3 /s)
+525 190 300
+
+Qioo
+(ftVs)
+925 295 480
+
+Insufficient data existed to develop an equation relating mean annual discharge and basin characteristics for perennial streams in this area. Estimated mean annual discharges for sites A, B, and C of figure 2, as estimated with the basin-characteristic method follow:
+
+Site
+
+Mean annual discharge
+
+(ft 3 /s)
+
+(acre-ft)
+
+A 0.32 232 B .12 88 C .15 110
+
+Estimates of runoff volumes. Craig and Rankl (1978) have provided equations relating flood volumes of specified recurrence intervals to basin characteristics. They are:
+
+32
+
+V2 - 568 A 1 - 242 SB °- 898 R- 1 - 716 V5 = 529 A 1 - 19 SB °- 806 R-l.^90 V 10 - 552 A 1 - 168 SB °- 750 R-l-380 V25 - 584 A 1 - 142 SB °- 687 R-1.260 V50 = 630 A 1 - 128 SB °- 641 R- 1 . 18 ^ V 100 = 666 A 1 - 115 SB °- 601 R-1.H9
+
+Average standard error of estimate
+(percent)____ 37
+31
+30
+30
+31
+32
+
+where
+
+^2* Vs, VJQ, V25, VSQ, and VJQO are flow volumes, in acre-feet, having 2-, 5-, 10-, 25-, 50-, and 100-year recurrence intervals, respectively,
+A is the drainage area, in square miles, S is the average basin slope, in feet per mile; and R is the maximum relief in the basin; in feet.
+These equations are only valid for drainages of less than 10 square miles. Values of the basin parameters for sites A, B, and C have been previously listed in table 3. The estimated volumes for these sites are listed in table 5.
+Storm runoff volumes. Craig and Rankl (1978) also developed a relation between peak discharge and volume of runoff from individual storm events in Wyoming. This equation is:
+V = 0.131 Q0.878
+
+where
+V is the storm runoff volume, in acre-feet; and Q is the storm peak discharge, in cubic feet per second.
+The average standard error of estimate of this equation is 55 percent. Runoff volumes that may be expected from storms producing the peak discharges listed in table 4 are listed in table 6. It should be noted that these volumes do not necessarily have the same recurrence intervals as the corresponding peak discharges. However, comparison of volumes listed in tables 5 and 6 shows very close agreement.
+Estimates of low flows. Regression models for estimating low-flow characteristics have generally been unsuccessful, except in a few geologically homogenous regions of limited extent (Riggs, 1973). Most such attempts have resulted in relations of poor accuracy.
+
+33
+
+Table 5. Runoff volumes3 estimated by the Craig-Rankl equations for premining conditions at Red Rim sites
+
+Site
+A B C
+
+V2 (acre-ft)
+8.34 4.33 5.36
+
+Vio Cacre-ft)
+23.81 10.51 13.29
+
+V2 5 (.acre-ft)
+34.77 14.48 18.49
+
+V 100 Cacre-ft)
+53.83 20.86 26.99
+
+Table 6. Estimated runoff volumes associated with selected peak discharges at Red Rim sites
+
+Site Q 2
+
+V Qio V Q25 V Qioo V
+
+(ft 3 /s) (acre-ft) (ft 3 /s) (acre-ft) (ft 3 /s) (acre-ft) (ft 3 /s) (acre-ft)
+
+A 95 7.14 335 21.59 525 32.03 925 52.67 B 45 3.70 130 9.40 190 13.12 295 19.31 C 65 5.12 200 13.73 300 19.60 480 29.61
+
+Riggs (.1970, 1973) has described a method of estimating low flow characteristics that is applicable to perennial streams in the general area of the Red Rim study site. Discharge measurements of low flows at an ungaged site may be related to concurrent flows at a nearby gaging station where the low flow-frequency curve is defined. Low-flow characteristics at the gaging station then can be transferred through that relation to estimate characteristics at the measurement site. An example is given by Riggs (1970). This method may also be used to estimate mean monthly flows and mean seasonal flows (Riggs, 1973).
+The stream through the Red Rim study site is ephemeral, carrying no flow a large percentage of the time. Downstream flows are not dependent on any minimum flows from this stream.
+Surface-water quality. In the study area, the main uses of surface water are for livestock and wildlife. Several small reservoirs have been constructed to store surface water originating from snowmelt and summer thunderstorms. Hay fields are also irrigated by diverted streamflow from Separation Creek, downstream from the study area.
+Samples of water from Separation Creek and its tributaries were analyzed for salinity, trace metals, and radiochemicals CU-S. Geological Survey, 1976). Data from these samples probably do not apply directly to the study area because they were collected on free-flowing streams on larger drainage basins.
+
+34
+
+The study area is a low runoff area; most of the overland flow that arrives at rills and stream channels will be absorbed or evaporated before reaching sampling points on Separation Creek. However, as a general rule the Geological Survey data indicate that specific conductance Cdissolved-solids concentration) increases downstream, beginning at a stream length of about 8 miles to a stream length of about 40 miles, from about 300 micromhos per centimeter to about 1,000 micromhos per centimeter. Stream lengths in the study area are less than 2 miles beginning at the basin divide along Red Rim. Similarly, suspended-sediment concentrations and discharge are very low in the study area. Potential changes in water quality with surface mining and reclamation are discussed in another section of this report.
+Ground water
+The Fort Union Formation, which underlies the entire study area, is the principal aquifer within the section of rock and unconsolidated material that may be disturbed by surface mining. The formation is composed of lenses of sandstone, siltstone, shale, and coal. The basal sandstone is more than 500 feet thick and is persistent throughout the area, forming the sandstone cliff known as Red Rim.
+There are two wells in the general area, equipped with windmill pumps, and used for watering livestock. One of these is located in sec. 34, T. 20 N. , R. 90 W., in the permit area (fig. 14); this well is 300 feet deep (U.S. Geological Survey, 1976). The second well, located in sec. 8, T. 19 N., R. 90 W., about 2 miles southwest of the permit area, is 110 feet deep.
+The potentiometric surface of ground water in the Fort Union Formation (fig. 14) is a composite surface because the lenticular beds penetrated by the wells are so discontinuous (U.S. Geological Survey, 1976). The map (fig. 14) indicates that Red Rim is a recharge area, and ground water flows toward Separation Creek, which is about one mile northwest of the permit area.
+In the permit area and adjacent area, ground water is deep enough that little dewatering would be necessary to the depth considered to be the economic limit of surface mining (200 feet below the land surface, U.S. Geological Survey, 1976). Because of the discontinuity of lenticular beds in the Fort Union Formation and the boundary effects to ground-water flow presented by Red Rim and Separation Creek, aquifer tests would be needed to determine pumping rates necessary for dewatering (U.S. Geological Survey, 1976).
+Ground-water quality
+The well in sec. 34, T. 20 N., R. 90 W. was sampled; results of the analyses were published by the U.S. Geological Survey (.1976) . Data indicate about 1,200 milligrams per liter dissolved solids, principal ions are calcium, magnesium, bicarbonate and carbonate, and sulfate. Sulfate concentrations are high enough to have a cathartic effect on humans, and sometimes are high enough to cause scours in livestock. Despite these limitations, the water is generally satisfactory for its primary use, livestock watering.
+35
+
+_._ __ _^_ __ __ __i_r__ R. 90 W. 107031'
+
+SWEETWAT
+
+Base enlarged from
+
+U.S. Geological Survey
+
+Riner 1:24,000, 1966
+
+1000
+
+0
+
+250
+
+Hydrology from U.S. Geological Survey (1976)
+
+1000
+
+2000 FEET
+
+250 METERS
+
+CONTOUR INTERVAL 20 FEET
+NATIONAL GEODETIC VERTICAL DATUM OF 1929
+
+16871
+
+EXPLANATION
+Potentiometric surface in Fort Union Formation, contour interval 25 feet Direction of flow in the Fort Union Formation Well and altitude of water surface, in feet
+
+Figure 14. Potentiometric surface of ground-water flow in the Fort Union Formation and location of well.
+
+36
+
+Erosion and sediment yield
+Very little erosion is occurring on the permit area because of permeable soils and good to excellent vegetation cover on most of the area. An exception is a steep-sloped area on the upper east-facing slope of the main valley that runs through the permit area (fig. 2). Here cover is sparse and thin soils are underlain by impermeable bedrock, resulting in more runoff and some rill erosion. Examination of recent aerial photographs shows channel erosion to be almost nonexistent; all reaches of channel except about three short lengths of the lower main channel are well covered with vegetation. A channel classification map prepared by the U.S. Geological Survey (1976) shows that most of the channels in the permit area are untrenched drainage ways, and that the main-valley channel is a partially aggraded gully, well-covered by vegetation. Sediment yield from the permit area is low because slope and channel erosion are generally low and because some sediment is deposited on the valley floors and in the channels within the permit area.
+Universal Soil Loss Equation
+The Universal Soil Loss Equation (USLE) has been developed over the past 30 years primarily for use on cropland fields (Wischmeier and Smith, 1978). In recent years, there have been some adaptations of the method to rangelands and to construction and surface-mine sites. The equation appears to be the best available method for evaluating soil loss from slopes in mined and reclaimed areas. However, additional research is necessary to answer some unknowns about applicability of the method on mined lands.
+Use of the method is limited to small areas such as permit areas, because considerable time and resources are needed for the mapping and computations to determine values for the six factors of the equation. Preliminary procedures for applying the method on both mined and unmined land are given in an interim report prepared by the Soil Conservation Service (SCS) (1977) for the U.S. Environmental Protection Agency, Region VIII.
+Rigorous analysis of the topography, especially of slope gradients and slope lengths, is necessary to delineate soil-loss units (fig. 15). Soil-loss units are areas of quasi-uniform slopes which are delineated on the basis of relief, drainage patterns, and land use on topographic maps with the aid of aerial photographs. U.S. Geological Survey 7^-minute topographic maps at 1:24,000 scale with 20-foot contour intervals are largely inadequate for accurate slope analysis in most areas. Maps at 1:12,000 scale (1 inch = 1,000 feet) with contour intervals of 10 feet in the steeper areas and 5 feet in the flatter areas might be adequate in most places.
+Stereoscopic pairs of false color, 1:12,000 scale aerial photographs were used advantageously in applying the USLE on the Red Rim site. The photographs, a portable desk-top stereoscope, and a 1:12,000 scale topographic map were used in delineating soil-loss units, in detecting slope breaks, and in measuring slope lengths and gradients. Lines were drawn with a straight edge on the photographs straight down each slope of interest from top to bottom. The
+37
+
+\
+I {((
+
+[7/48. i A SW^ETWATiR l- CO;,
+
+Base enlarged from U.S. Geological Survey
+Riner 1:24,000, 1966
+
+IOOO
+
+O
+
+250
+
+1000
+
+2000 FEET
+
+250 METERS
+
+CONTOUR INTERVAL 20 FEET
+NATIONAL GEODETIC VERTICAL DATUM OF 1929
+
+EXPLANATION *"~- Drainage divide 3 Soil-loss unit number
+Figure 15. Topography and soil-loss units before mining on a small basin covering part of the Red Rim permit area. Map units are described in table 11.
+38
+
+photographs, thus, provided a much more accurate means of detecting the top and bottom ends of the slopes than was possible with the topographic maps.
+Accuracy in measuring slope gradients on the topographic map was poor due to the 20-foot contour interval. More accurate measurements likely could be obtained by using stereophotographs on a plotting machine that has elevational accounting capacility. Measurement of slope gradients in the field with a hand level would be another means of obtaining suitably accurate values.
+The most important reason for evaluating soil loss or erosion on the permit area is to have "baseline" values to compare with postmining values as a criterion for determining when reclamation has been accomplished. The USLE can also be used in conjunction with sediment-delivery ratios to estimate the sediment yield from drainage basins. In such cases, amounts of sediment from gully or channel erosion, if significant, would have to be determined by some other method. The most reliable values for sediment-delivery ratios would be obtained from local or regional investigations in small watersheds where sediment yields were measured and the USLE was applied. Another alternative would be to use the curve relating sediment-delivery ratio to drainage area, published by Roehl (1962). Most sedimentation experts agree that the curve is not strictly applicable to western rangeland conditions, but it would be used as a guide to estimate a value for sediment-delivery ratio.
+Surveys of stock ponds in small watersheds similar to those on the permit area would provide information about both sediment yields and sediment-delivery ratios that would apply to the permit area. Procedures for surveying small reservoirs are given in the "Sedimentation Engineering Manual" (Vanoni, 1975) and by Heinemann and Dvorak Q.965) as are methods for converting from volume to weight of sediment and for correcting for sediment trap efficiencies of the ponds.
+Sediment yield from the permit area is low as indicated by the Universal Soil Loss Equation and sediment delivery ratio computations in the "Potential effects of mining and reclamation" section which appears later in this report. Validity of the analyses are supported by an annual sediment yield value resulting from a stock-pond survey done by the U.S. Geological Survey (1976). The basin tributary to the stock pond, which was about 4 miles from the permit area, had vegetation, soils, and topography similar to those of the basin above point A (fig. 2). The drainage area above the stock pond was 1.07 square miles and the measured annual sediment yield rate to the pond was 0.04 acre-feet per square mile. The unit sediment yield from basin A might be expected to be less than 0.04 acre-feet per square mile because of the larger drainage area of basin A (1.6 square miles).
+39
+
+POTENTIAL EFFECTS OF MINING AND RECLAMATION
+Changes in topography
+Postmining terrain maps provide an estimate of the surface topography of a mined area following reclamation. These maps are based on the concept of lifting out the overburden as one unit, removing the coal, and replacing the overburden to the same position it formerly occupied. Thickness of the replaced overburden is assumed to have increased 20 to 25 percent due to the increased void space in the rock after mining.
+This simple method provides a reasonable approximation of a reconstructed surface for a mined area without assuming a mining plan or requiring the calculation of overburden volumes moved about within the mined area. It should provide an adequate picture of an area for evaluating the problems of drainage, slope, and reconstruction of surfaces adjacent to unmined lands.
+The technique involves the construction of a sequence of contour maps starting from a geologic structure map. Topographic data in the form of thickness contour maps may be added or subtracted to construct the desired surface. At each step, a new map is drawn, based on the intersections of the contours of two superimposed maps. These intersections provide elevations of points from which contours can be drawn for the new map.
+Due to the expansion of the replaced overburden, the reclaimed surface may not be greatly different from the original topography. In many cases, increased depth of the soil compensates for thickness of the removed coal. In some instances, the postmining surface may be higher than the surface before mining. This situation occurs where the overburden is very thick and the coal beds are thin. For example, if there are 160 feet of rock above 20 feet of coal, the replaced overburden (expanded by 20 percent) would be 192 feet thick, and the new surface would be 12 feet higher than the original.
+The steps to construct post-mining topography follow:
+1. The limits of minable coal for each coal bed are established from the 200-foot overburden contour and geologic maps; all subsequent mapping is confined within these limits.
+2. The base of the coal-bed map is constructed by subtracting coal thickness from the upper coal surface map (.structure contour map) .
+3. An expanded overburden-thickness map is constructed to account for bulking of replaced overburden by subtracting the upper coal surface (structure contour map) from a standard topographic map of the land surface and increasing this difference by the desired percentage (20 percent in this case). Two or more coal beds require the intermediate step of adding upper coal bed thicknesses to the structure contour map qf the lowest coal bed. If an overburden thickness map already exists, the expanded overburden thickness map is
+40
+
+constructed by increasing the value of each thickness contour by the desired amount, say 20 percent. Thus, the 100 feet thickness contour becomes 120 feet; the original 120 foot thickness becomes 144 feet, and so on. New regular interval contours C20-foot, here) are then fitted among the irregular intervals by interpolation.
+4. Surface topography of the replaced spoil is constructed by adding the expanded overburden thickness to the map of the base of the lowest coal bed (fig. 16).
+5. The final map is constructed by adjusting the topography of the reclaimed surface to the adjacent existing topography of the unmined area (fig. 17).
+Soils and vegetation
+If the area is mined, erosion on reclaimed areas could be reduced by utilizing the present surface soils as top dressing. Some form of surface treatment, such as contour furrowing with check dams (Branson, Miller, and McQueen, 1966) or gouger pitting (Sindelar and others, 1974), may be required for erosion control on slopes steeper than about 10 percent.
+The soil at the land surface of section 34 is a sandy loam Cfig- 4). The sandy material is quite deep in areas dominated by big sagebrush, but rather shallow over bedrock in areas with a cover of mixed shrubs. Areas on top of hills receive less moisture from snow than low-lying areas. Data from sites 3 and 11 Cfig. 11) are typical of areas that receive blow-in moisture from snow. These data show that between 8 and 10 inches of soil water can be derived from snow. This water is initially stored in the upper 3 feet of sandy material. It can subsequently drain to greater depths, where it is adsorbed at unit retention forces that exceed the force at retention-capability (MRC) level. As a result, water is stored at greater retention force levels to soil depths in excess of 6 feet and this situation favors survival of big sagebrush and midgrasses. If drainage of water from snowmelt were limited to a depth of about 5 feet by a highly compacted layer of fine-grained soil, water could be stored as films at lesser force levels in the upper 5 feet of material. As a result, grasses rather than shrubs would be able to survive and compete for soil moisture.
+Native grasses, such as thickspike wheatgrass, western wheatgrass, bluebunch wheatgrass, slender wheatgrass, mountain brome, Indian ricegrass, needle-and-thread, and green needlegrass, would thrive on reconstructed soils of this character. If sandy materials are repositioned to depths greater than 5 feet, the hardier short and midgrasses would survive rather than the more productive tallgrasses.
+Shrubs on the area should be destroyed with a rangeland disk plow prior to mining, so woody material will not interfere with removal and preservation of granular surface soil for repositioning at the surface. This granular soil material will resist erosion better than structureless subsoil material.
+41
+
+R. 90 W.
+
+Base enlarged from U.S. Geological Survey
+Riner 1:24,000, 1966
+
+1000
+
+25O
+
+1000
+
+2000 FEET
+
+250 METERS
+
+CONTOUR INTERVAL 20 FEET
+NATIONAL GEODETIC VERTICAL DATUM OF 1929
+
+EXPLANATION
+
+Unmined contour Contour on reconstructed landscape, 100-foot interval Contour on reconstructed landscape, 20-foot interval Cross section location
+
+Figure 16. Reconstructed landscape resulting from the mining of coal beds less than 200 feet deep and replacement and grading of the overburden; a bulking factor of 20 percent was applied to the overburden thickness.
+42
+
+7200 UJ
+Uu_J
+7100
+7000
+6900
+
+Unmined surface Reconstructed surface
+1234 LENGTH OF CROSS SECTION, IN THOUSANDS OF FEET
+VERTICAL EXAGGERATION x 5
+NATIONAL GEODETIC VERTICAL DATUM OF 1929
+
+Figure 17. Cross section showing changes in topography resulting from surface mining; the overburden was assumed to be replaced on a cutby-cut basis and graded smooth. Location of the cross section is shown in figure 16.
+
+43
+
+Relationships between the quantity of soil water and the force or energy requirements for desorbing the water can be manipulated to change the species mix, increase forage production, or decrease a hydrologic response, such as runoff or erosion. In any given soil, force requirements per unit of water desorbed can be decreased by increasing the amount of water stored in the soil. This can be achieved by reducing runoff with contour furrowing, or by some other mechanical or biological treatment of the surface soil or the vegetation. It could also be achieved by increasing snow accumulation by roughening the soil surface, using drift fences, or by planting vegetation that traps snow. Force requirements can also be reduced by placing a layer of coarse soil over fine soil; this will result in perching of water at attractive force levels that are less than the MRC levels.
+
+Surface water
+
+Estimation methods
+
+Except for overland flow diversions, the surface mining regulations require that hydraulic structures be designed to hold or convey volumes and discharges produced by 24-hour precipitation events of specified frequencies. This requirement implies that the SCS method or some physical-process model be used to estimate design discharges for such structures because these methods can accommodate the specified precipitation amounts as input, while regression models do not routinely include the required precipitation parameters. In addition, most available regression models are not applicable to basins that have been substantially disturbed.
+
+The SCS method is described in the "National Engineering Handbook," Section 4 (U.S. Soil Conservation Service, 1972). The method estimates runoff volume and peak discharges produced by the specified precipitation events. It also includes procedures for developing hydrographs and routing flows through reservoirs and channels. Tables and graphs have been developed to simplify use on small watersheds and for special situations (U.S. Soil Conservation Service, 1973, 1975).
+
+A computer program has been developed to simplify the use of the SCS method on complex projects (U.S. Soil Conservation Service, 1965). Its use should be considered when watersheds are larger than 2,000 acres; where many subareas exist with different runoff characteristics; where reservoirs are present; or when historical storm events need analysis (U.S. Soil Conservation Service, 1975). A copy of the source program can be obtained through the National Technical Information Service (NTIS).
+
+The basic relationship used with this method to determine runoff volume is
+
+where
+
+n = ( p - 0-2S) 2 ^ P + 0.8S
+
+44
+
+Q is runoff volume, in watershed inches, P is the storm rainfall, in inches, and S is the potential maximum retention, in inches,
+s = 1*000 _
+CN
+where CN is a "curve number" value based on soil, land use and condition, and antecedent soil-moisture conditions. Each different combination of these parameters is assigned a CN value based on experimental data.
+The first requirement for assigning CN values is a map of the basin showing cover type and condition, that is, a range of vegetation density. This map can be prepared as described in the soils and vegetation section of this report. A second requirement is a map showing soils divided into four groups according to infiltration rates. If an SCS Soil Survey has been completed for the project area, it will indicate the infiltration range, called a "hydrologic soil group," of each mapped soil series. With this information, the required map of hydrologic soil groups can be easily prepared. If an SCS Soil Survey is not available, the required map can be developed by a qualified soil scientist after making numerous infiltration measurements in the basin. Finally, a third map is prepared by combining the other two maps, delineating each combination (called soil-cover complexes) of cover type, three condition groups (based on vegetation density), and four hydrologic soil groups. Each complex is assigned its CN from a table of CN values for the desired antecedent soil-moisture condition; usually, the average antecedent condition is used. The CN for the total basin is the areally weighted average of the CN values of all the complexes.
+The above procedure is greatly simplified if the area is small enough that only one cover type and one hydrologic group is present. However, in dealing with western energy lands, two or three of each is likely in a given basin. If the SCS method is to be used extensively, it would be helpful to digitize the soils and vegetation maps, so the laborious work of combining the map and determining the areas of different soil-cover complexes could be done by computer.
+The SCS method provides several procedures for calculating peak discharges, depending on the size and complexity of the project. The procedure described by the U.S. Soil Conservation Service (1973) for estimating peak discharges without developing a hydrograph was applied at sites A, B, and C of the Red Rim study area for premining conditions.
+Parameter values required are: (1) drainage area, in acres; (2) CN; (3) 24-hour precipitation amounts, in inches; and (4) the average basin slope, Y, in percent. Drainage areas and average basin slopes were measured on 1:24,000 scale maps. Average basin slopes were determined by the summation of contour-lengths method. Parameter values used are listed in table 7. Values of 24-hour precipitation amounts for various recurrence intervals were obtained from table 2. Discharges can be obtained from graphs provided by the
+45
+
+U.S. Soil Conservation Service Q.973). The resulting runoff volumes and peak discharges are listed in table 8. Column headings, Q and V , represent the
+discharge and volume produced by the n-year precipitation event. In a strict hydrologic sense, these values are not comparable to the premining discharges obtained previously with the Craig-Rankl equations (tables 4 and 5); however, the two sets of discharges are compared here to show that extremely different values may result from the two methods.
+
+Table 7. Parameter values for SCS method premining conditions
+
+Site
+A B C
+
+Drainage area (mi2 )
+1.59 .29 .43
+
+Average basin slope
+(percent)
+9.5 8.4 7.4
+
+CN
+61 66 65
+
+Table 8. Runoff volumes (V ) and peak discharges (Q ) calculated by the SCS method at the Red Rim sites premining conditions
+
+Site
+
+Q P2
+
+V P2
+
+QPlO
+
+V PlO
+
+Q P25
+
+V P25
+
+Q PlOO
+
+V PlOO
+
+(ft 3 /s) (acre-f t) (ft 3 /s) (acre-ft) (ft 3 /s) (acre-ft) (ft 3 /s) (acre-ft)
+
+A0 B0 C0
+
+0
+
+5 2.54
+
+11 7.63
+
+33 16.96
+
+0 <5 1.24
+
+8 2.78
+
+21 5.10
+
+0 <5 1.38
+
+8 3.67
+
+20 6.88
+
+Peak discharge and volume frequency curves estimated by the two methods are shown- in figure 18 for the total drainage area above site A. It is apparent that the two methods give considerably different results at this site. The SCS method estimates that the 2-year 24-hour precipitation event would produce no runoff at all from this basin. Larger precipitation events produce some runoff, but the estimated discharge produced by the 100-year precipitation event is only about one-half of the 2-year peak discharge estimated by Craig-Rankl equations. These large differences leave considerable question as to the degree of risk each set of estimates really represents.
+The risk element is incorporated in the SCS method by use of the n-year precipitation event. However, because of variability in rainfall intensities and soil-moisture conditions, the n-year precipitation event does not necessarily produce the n-year peak discharge. The basin-characteristic method
+
+46
+
+1000
+Croig-Ronkl equations SCS method
+
+1000
+100 h-
+LU LU Lu i
+oLcUr
+L:sDU
+o
+Lu
+Locz:DUr
+
+1.25 2
+
+5 10 25
+
+RECURRENCE INTERVAL, IN YEARS
+
+100 200
+
+Figure 18. Comparison of flood-frequency curves estimated by the SCS (1973) method and by equations of Craig and Rankl (1978).
+
+47
+
+evaluates risk through the series of annual peak discharges actually measured at gaging stations. From these series, n-year peak discharges are determined for a large number of basins and are correlated with their respective causative basin characteristics. The resulting equations reflect the average of the discharges and basin characteristics Concluding characteristics not actually used in the equations) of all the sites included in the analysis. These equations will provide the best estimates for a given basin, when the values of the causative characteristics for that basin are closest to the average value for all the basins used in developing the equations. If the given basin has characteristics values that are extreme; for instance, soils that are either highly permeable or highly impermeable; the equations probably will not give good results.
+Soils at the Red Rim sites have high infiltration rates so runoff rates from these sites can be expected to be less than estimated by the Craig-Rankl equations; whether they are as little as indicated by the SCS method is debatable. Closer agreement between the two methods could be obtained by increasing the CN values for the SCS method. The CN values used were selected on the basis of the best land-use and soil information available at the present time, but without the benefit of field inspection of the basins. Revision of these values would be risky without additional soil and land-use data, or without sufficient years of discharge data obtained nearby with which to verify revised CN values. It would appear that additional information is needed in order to judge whether either of these methods accurately estimates the actual discharges at the Red Rim sites. The channel-geometry method may provide the information needed for resolving this question.
+The channel-geometry method is similar in form and use to the basincharacteristic method, but it shifts the emphasis from factors that cause and influence flows (basin size, slope, infiltration, etc.) to factors that are present as the result of the flows (channel dimensions). This method actually provides an indirect measure of the flows experienced by the channel. This approach integrates the causative factors and thereby eliminates errors due to omission of some of the factors from the equations, and due to the variable degrees to which the included factors affect flows. Also, the possibility of reducing the magnitude of total measurement errors should be improved, because the number of factors measured is usually reduced from several to just one or two. For obvious reasons, this method cannot be used to estimate post-mining discharges.
+Assuming that the channel is adequately defined, that equations are available for the study area, and that the hydrologist has been trained in using this technique, the channel-geometry method should give more accurate results than the basin-characteristic method. In fact, although the basin-characteristics equations of Craig and Rankl (1978) have smaller standard errors of estimate than the applicable channel-geometry equations (Lowham, 1976; see pages 30 and 31 of this report), several other investigators have reported standard errors of estimate for channel-geometry equations that are less than those of basin-characteristic equations for the same geographic region, often a great deal less. (Compare equations of Johnson and Omang (1976) with those
+48
+
+of Hedman and Kastner 0-977); Scott (1971) with Scott and Kunkler (1976); the two sets of equations reported by Lowham Q.976) (.see pages 29 and 31 of this report); Lowham CL976) with Hedman and Kastner 0-977).) It is believed that the channel-geometry method would be a very useful alternative means of estimating premining discharges. However, time and travel constraints precluded our obtaining the data needed to apply the method at the Red Rim sites.
+Other models that satisfy the precipitation input requirement of the surface mining regulations for determining design peak discharges and runoff volumes are those that represent the various phases of the hydrologic cycle with mathematical relationships solved on a digital computer. Since these models allow for the input of a variety of data on climate, soils, vegetation, and basin characteristics for the modeled basin, they should give very good results,
+In a cooperative effort, the U.S. Geological Survey and the Bureau of Land Management initiated a model development and implementation program. A modular design program package is being developed and will be maintained in a single computer system library. Each module (set of subroutines) will define a component of the hydrologic cycle or contain routines for parameter optimization, data handling, and model output analysis. Given a specific problem, the hydrologist will be able to select a main program routine and the specific modules that define his problem (Van Haveren and Leavesley, 1979). This modeling system is scheduled to be ready for application early in 1981.
+Estimates of design peak discharges and runoff volumes
+Because of time constraints and the lack of a computerized physicalprocess model for the Red Rim area, the SCS method is the most feasible to use for postmining design estimates for this report. These estimates should be based on basin conditions that are expected to exist immediately after spoils are reshaped and before vegetation is reestablished. Major changes will be to basin slope, vegetative cover, and soils.
+Average basin slope should be calculated from a map of the reshaped topography. If a contour map of the planned reconstructed topography is not available, an approximation may be prepared by the technique described in the section of the report titled "Changes in topography." Since vegetative cover will not have been reestablished, the land-use category should be considered as "barren" or "fallow" for application of the SCS method.
+The infiltration characteristic of the soil is one of the most important factors that affects rate and quantity of runoff. It is very difficult, if not impossible, to predict what the postmining soil conditions will be, since there are few data to indicate general changes in soil conditions that occur due to overburden replacement and shaping. Type of soil material, its moisture content at time of placement, method of placement, method of seedbed preparation, and so on, will influence the resulting infiltration rates, increasing it in some combinations; decreasing it in others.
+49
+
+It has been suggested in this report that there is sufficient sandy soil material at the Red Rim sites to allow placement of a 4- to 5-foot thick layer of this material as topsoil over the mined part of the permit area. If this is done, the infiltration capacity of the restructured soil may not be greatly different from its premining capacity, thereby keeping runoff and erosion to a minimum during the revegetation period.
+Average CN values were recalculated for the drainages above sites A and B, assuming that the restructured soils would be in hydrologic soil group B (U.S. Soil Conservation Service, 1972). These CN values, plus drainage areas, and average basin slopes for the reconstructed topography are listed in table 9. CN values are slightly higher than before mining because of the absence of vegetative cover; after vegetation becomes established, lower values should be used. Drainage areas and basin slopes were measured on the reconstructed topography map (fig. 16).
+Table 9. Parameter values for SCS method postmining conditions
+
+Site
+A B
+
+Drainage area (mi2 )
+1.60 .25
+
+Average basin slope
+(percent)
+9.9 10.5
+
+CN
+63 70
+
+Estimated peak discharges and runoff volumes for postmining conditions at Red Rim sites A and B are listed in table 10. They were obtained from graphs in TP-149 (U.S. Soil Conservation Service, 1973). Comparison of these results with those for premining conditions (table 8) reveals nothing extraordinary. The 2-year 24-hour precipitation event still would not produce runoff from these basins. Larger precipitation amounts would produce from 20 to 100 percent larger peaks and 20 to 50 percent larger runoff volumes after mining than before. More important than this comparison, however, is the question of whether these estimates are at all similar to the actual discharges that occur at the Red Rim sites. As previously suggested, the channel-geometry method may provide the best means of making this determination.
+Table 10. Runoff volumes (V ) and peak discharges (Q ) calculated
+by the SCS method for Red Rim sites postmining conditions
+
+Site
+
+QVQVQVQV
+
+P2
+
+P2
+
+PlO
+
+PlO
+
+P25 P25
+
+PlOO
+
+PlOO
+
+(ft 3 /s) (acre-ft) Cft 3 /s) (acre-ft) (ft 3 /s) (acre-ft) (ft 3 /s) (acre-ft)
+
+A0
+
+0
+
+6
+
+3.41
+
+18 11.09 47
+
+20.48
+
+B0
+
+0
+
+5
+
+1.87
+
+16
+
+3.73
+
+34
+
+5.13
+
+50
+
+Erosion
+Estimates of annual soil loss for premining conditions and conditions after mining and 5 years of reclamation, as determined with the USLE, are compared in table 11. The comparison applies to the basin above point B (fig. 2) in the northwest part of the permit area. This basin was comprised of 186acres before mining and 160-acres after mining. (_See figs. 15 and 19.) Rates of soil loss from slopes are small, owing to generally permeable soils and generally good cover of grasses and shrubs.
+Data in table 11 show that soil loss from unit 5 (fig. 19), which was mined, was 6-fold greater than from unmined unit 2 (fig. 15); these units cover approximately the same total area and have essentially identical premining physical characteristics. Soil loss from mined unit 6 was double the premining rate from unit A. Soil loss increased after mining and reclamation, because slopes were longer and steeper in unit 5 than in unit 2, and the westerly facing edge of unit 6 was steepened significantly after mining. (See figs. 15 and 19, and table 11.) Slopes left as steep as those of unit 6 (20to 30-percent gradients) may be in violation of State and Federal mining regulations because the approximate original contour of the land was not restored. Nonetheless, this analysis demonstrates the effects of slope length and gradient on soil loss.
+Aerial photographs of the permit area reveal that channel erosion is minor in the unmined basin, where USLE estimates were made. Main channels exist as well-vegetated, shallow, untrenched drainageways, where sediment is being deposited. A few barren eroding rills exist in units 3 and 4 (fig. 15). Most of the sediment produced by these rills is probably deposited on fans at lower ends of the rills where these gradients decrease. If this minor amount of sediment is ignored, then the soil eroded from the slopes is the only sediment available for transport from the unmined basin. Only tributary channels will be affected by mining in the basin shown in figure 19. Undoubtedly, there will be erosion of new tributary channels in the mined area during the 5-year rehabilitation period. However, by the end of that period, channel dimensions and gradient should be approaching an equilibrium with hydraulic forces of the normal flow regime in those tributaries. At that time vegetation should be established well enough to help stabilize the channels and channel erosion should then be a minor factor, leaving soil loss from hillslopes as the main source of sediment.
+Research is needed to determine if K_ factors (soil erodibility) used in the USLE change when the soils are disturbed during mining and reclamation operations. If they do change, an accurate method of evaluating the changed K_ over time, is needed. Certainly, the aggregation of soils is likely to be decreased by handling operations, and the soils are vulnerable to compaction by heavy earth-moving equipment when they are repositioned over the graded spoils. It is not known how completely compaction is reversed by tillage operations such as chiseling, ripping, or furrowing, nor is it known how long it will take natural processes, such as wetting and drying, to return the
+51
+
+Table 11. Comparison of annual soil loss, before mining and after mining on part of Red Rim permit area3 computed with the Universal Soil Loss Equation
+[2R, rainfall-runoff factor; K, soil erodibility; L, slope length; S, slope gradient; LS, topographic factor; C, cover factor; P, erosion control practice factor]
+
+Soil-loss unit R
+
+K2
+
+Average Values
+
+Ls
+(ft) (percent)
+
+LS
+
+Ground cover
+
+(percent)
+
+Soil loss 1 (tons per acre
+per year)
+
+Proportion of
+basin area
+
+Before mining 3
+
+1
+
+15 0.26
+
+513
+
+10
+
+3.7
+
+80 0.012 1
+
+0.17
+
+2
+
+15 .28
+
+322
+
+3
+
+.4
+
+75 .016 1
+
+.03
+
+3
+
+15 .25
+
+170
+
+10
+
+1.9
+
+75 .016 1
+
+.11
+
+4
+
+15 .26
+
+267
+
+8 1.6
+
+70 .022 1
+
+.14
+
+Area weighted mean
+
+.11
+
+0.3 .3 .2 .2
+
+After mining and 5-year reclamation period4
+
+1
+
+15 0.26
+
+513
+
+10
+
+3.7
+
+80 0.012 1
+
+0.17
+
+2
+
+15 .28
+
+322
+
+3
+
+.4
+
+75 .016 1
+
+.03
+
+3
+
+15 .25
+
+170
+
+10
+
+1.9
+
+75 .016 1
+
+.11
+
+4
+
+15 .26
+
+267
+
+8 1.6
+
+5 15 .30 5 503
+
+8 2.2
+
+6 15 .28 5 195 19 5.7
+
+70 .022 1 75 .018 1 75 .018 .65 6
+
+.14 .18 .28
+
+Area weighted mean
+
+.13
+
+0.28 .22 .25 .04 .12 .09
+
+loss = RK(LS)CP. 2K values obtained from SCS State and District offices in Casper and Rawlins, Wyo. 3Locations of soil-loss units are shown in figure 15. ^Locations of soil-loss units are shown in figure 19. 5K values arbitrarily increased because of mixing of surface and subsoils during reclamation operations. ^Contour furrowing assumed because of steep slopes.
+
+t*y j ' '-^"^ v. \ Y7^£^ V-'-^
+tf& V-^\
+8 7//N )/si/
+
+Base enlarged from U.S. Geological Survey
+Riner 1:24,000, 1966
+
+1000
+
+250
+
+1000
+
+2OOO FEET
+
+250 METERS
+
+CONTOUR INTERVAL 20 FEET
+NATIONAL GEODETIC VERTICAL DATUM OF 1929
+
+EXPLANATION
+
+- ~ Unmined contour
+
+--- Contour on reconstructed landscape, 100-foot interval ............... Contour on reconstructed landscape, 20-foot interval - Drainage divide
+3 Soil-loss unit number
+
+Figure 19. Topography and soil-loss units after mining and reclamation of part of a small basin in the Red Rim permit area. The soil-loss units are described in table 11.
+53
+
+soils to normal uncompacted states; this could be learned, in part, through monitoring soil bulk density and permeability in an area undergoing reclamation.
+A nomograph developed by Wischmeier, Johnson, and Cross (1971) may be useful for computing the K_ factors of replaced soils. Information about organic-matter content and particle-size distribution, as well as information about structure and permeability of the soils in place, and over time after placement, is necessary to effectively use the nomograph. Work by Gee, Gilley, and Bauer (.1976) and by Young and Mutcher (1977) indicate that it is disturbances that affect the degree of soil aggregation and cause the K factors to change. These effects are only partially accounted for in the nomograph. Investigations with rainfall simulators on various soils, such as those reported by Gilley and others (1977), would provide another means of evaluating K_ factors on areas that have been mined and reclaimed. Periodic use of rainfall-simulating infiltrometers on slopes, during reclamation when the soils are reaggregating and vegetation is establishing, would verify the use of the USLE on mined areas.
+Data on channel erosion and on reservoir-deposition rates in areas representative of the permit area are needed before reliable estimates of delivery ratios and sediment yields can be made for mined and reclaimed areas. Channel erosion would be best monitored by repeat surveys of monumented cross sections. Topographic surveys of a sedimentation pond immediately after completion, and periodically thereafter, is the best approach in monitoring deposition rates.
+Sediment yields
+Sediment yields from these basins can be estimated by applying a sedimentdelivery ratio factor to the weighted average soil loss for the basins. The relation published by Roehl (1962) indicates a sediment-delivery ratio of 0.5 for similar basins that are about 0.3 square miles in size. Based on a ratio of 0.5, the sediment yield of the unmined basin (fig. 15) would be 35 tons per square mile per year and the sediment yield of the mined basin (fig. 19) would be 42 tons a square mile a year. At a specific weight of 1,633 tons per acre foot (75 lb/ft 3 ), annual sediment yields would be 0.021 acre foot per square mile for unmined basins, and 0.025 acre foot per square mile for mined basins.
+Sediment concentration of most flows from areas undergoing mining and reclamation are expected to exceed the regulatory limit of 45 milligrams per liter (Federal Register, Mar. 13, 1979). These flows will have to be detained in sedimentation ponds where most of the sediment will settle out. Sediment discharges from the permit area, therefore, are expected to be much lower during mining and reclamation than before.
+A slight increase in sediment yield from the reclaimed permit area would not have a significant impact on the sedimentation rate of a stock pond
+54
+
+that is about 2 miles downstream from the permit area. This is owed to the fact that the vegetation on the streambed below the permit area should cause much of the sediment in flows to be deposited in the channel. However, potential exists for increased erosion of natural channels below sedimentation ponds if discharged of relatively clear water released from the ponds are excessive (perhaps exceeding the mean annual peak).
+After mining and reclamation, there is not likely to be a significant impact on the sediment load of Separation Creek, which intercepts drainage from the permit area about 5 miles downstream from the permit area boundary. Separation Creek basin is about 75 times larger than the permit area and a slight-to-moderate increase in sediment contribution from the permit area would hardly affect the sediment discharge in Separation Creek.
+RECOMMENDATIONS FOR RESEARCH
+The Universal Soil Loss Equation (USLE) is suitable for estimating soil loss from slopes in mined areas, and can be used with an appropriate sedimentdelivery ratio to estimate the sediment yield from a drainage basin. In this investigation, we discovered that 1:24,000 scale topographic maps with 20foot contour intervals are inadequate for determining slope gradients and slope lengths. Maps that are 1:12,000 scale or larger, with contour intervals of 10 feet in steep areas and 5 feet in flatter areas, may be adequate in most places. Research effort is needed to develop a relationship for estimating sediment-delivery ratios for mined areas.
+Research is also needed to evaluate the effects that stockpiling, mixing of horizons, redistribution, and mechanical treatments of soils have on the USLE K_ factors of soils. Soils of various textures should be investigated, and within texture groups, the effects of other factors such as organic matter content, degree of aggregation, salinity, bulk density, and possibly, type of clay, should be determined. If K. is changed as a result of reclamation work, the specific causes of the change should be identified, and it should be determined whether the change is temporary or permanent. The roles of natural processes and tillage operations in restoring a temporarily changed K_ to premining values should be described also.
+A related research problem applies to use of the SCS method, or any method that requires infiltration values to evaluate peak discharge and volume of discharge from a mined basin. The effects of several factors on infiltration rates need to be quantitatively defined. These factors include (1) soil mixing, (2) breakdown of aggregates, C3) any layering that may occur during replacement, (4) compaction (bulk density), and (5) tillage treatments to alleviate compaction.
+Many types of data for mined areas are scarce, completely lacking, or not readily available, making it difficult to evaluate the hydrologic effects of mining and reclamation. If data were available for mines where
+55
+
+reclamation is progressing, hydrologic relationships could be developed that would allow prediction of mining effects on hydrology of potential permit and adjacent areas.
+The following is an annotated list of some useful types of data that are recommended in order to accomplish the objectives of this report. Most of the variables need to be monitored from the time of seeding until reclamation is accomplished, possibly longer for ground-water variables.
+1. Topographic maps of sufficient scale and contour interval to allow accurate measurements of slope, channel lengths, and gradients, and delineation of closed depressions;
+2. Amounts of soil moisture and associated vegetation (cover and weight) for various landforms and soil types;
+3. Infiltration, quantity and quality of runoff, and sediment yield from microwatersheds on various landforms;
+4. Bulk density, organic-matter content, degree of aggregation, and amount of cover on these microwatersheds;
+5. Data for drainage basins in reclaimed areas: a. quantity and quality of surface water, including sediment concentrations; b. recharge rates, quantity, quality, and discharge rates of ground water; c. channel erosion and deposition;
+6. Channel erosion and deposition in diversion channels and in channels below sedimentation ponds;
+7. Deposition rates in sedimentation ponds, to provide reference sediment yields for evaluating sediment-delivery ratios.
+REFERENCES
+Branson, F. A., Miller, R. F., and McQueen, I. S., 1966, Contour furrowing, pitting, and ripping on rangelands of the western United States: Journal of Range Management, v. 19, p 182-190.
+Craig, Gordon S. Jr., and Rankl, James G., 1978, Analysis of runoff from small drainage basins in Wyoming: U.S. Geological Survey Water-Supply Paper 2056, 70 p.
+Federal Register, 1979, Surface coal mining and reclamation operations: U.S. Department of the Interior 44(50)15311-15463, March 13, 1979.
+Gee, G. W., Gilley, J. E., and Bauer, A., 1976, Use of soil properties to estimate soil loss by water erosion on surface-mined lands of western North Dakota: Farm Research v. 34, no. 2, p. 40-43.
+Gilley, J. E., Gee, G. W., Bauer, A., Willis, W. D., and Young, R. A., 1977, Runoff and erosion characteristics of surface-mined sites in western North Dakota: Transactions, American Society of Agricultural Engineers, v. 20, no. 4, p. 697-704.
+Hadley, R. F., Frickel, D. G., Shown, L. M., and Miller, R. F., 1981, Methodology for hydrologic evaluation of a potential surface mine: the East Trail Creek basin, Big Horn County, Montana: U.S. Geological Survey Water Resources Investigations Open-File Report 81-58 (in press).
+56
+
+Hedman, E. R., Moore, D. 0., and Livingston, R. K., 1972, Selected streamflow characteristics as related to channel geometry of perennial streams in Colorado: U.S. Geological Survey Open-File Report, 14 p.
+Hedman, E. R., ajid Kastner, W. M., 1977, Streamflow characteristics related to channel geometry in the Missouri River basin: U.S. Geological Survey Journal of Research v. 5, no. 3, p. 285-300.
+Heinemann, H. G., and Dvorak, V. I., 1965, Improved volumetric survey and computation procedures for small reservoirs, in Proceedings of 1963 Federal Inter-Agency Sedimentation Conference: U.S. Department of Agriculture Miscellaneous Publication 970, p. 845-856.
+Johnson, M. V., and Omang, R. J., 1976, A method for estimating magnitude and frequency of floods in Montana: U.S. Geological Survey Open-File Report 75-650, 35 p.
+Levy, E. B., and Madden, E. A., 1933, The point method of pasture analysis: New Zealand Journal of Agriculture, v. 46, p. 267-279.
+Lowham, H. W., 1976, Techniques for estimating flow characteristics of Wyoming streams: U.S. Geological Survey Water-Resources Investigations 76-112, 83 p.
+Lusby, Gregg C., and Toy, Terrance J., 1976, An evaluation of surface-mine spoils area restorations in Wyoming using rainfall simulation: Earth Surface Processes, v. 1, p. 375-386.
+McQueen, I. S., and Miller, R. F., 1968, Calibration and evaluation of a wide-range gravimetric method for measuring moisture stress: Soil Science, v. 106, p. 225-231.
+____1974, Approximating soil moisture characteristics from limited data: Empirical evidence and tentative model: Water Resources Research, v. 10, p. 521-527.
+Miller, J. F., Frederick, R. H., and Tracey, R. J., 1973, Precipitation Frequency atlas of the western United States: U.S. Department of Commerce NOAA Atlas 2, v. I-XI.
+Miller, R. F., and McQueen, I. S., 1972, Approximating recurring moisture relationships in desert soils: Eco-Physiological Foundation of EcoSystems Productivity in Arid Zones: Leningrad, U.S.S.R., Publishing House NAUKA, p. 119-122.
+____1978, Moisture relations in rangelands, western United States: First International Rangeland Congress, Denver, Co., August, 1978, Proceedings, p. 318-321.
+Osterkamp, W. R., and Hedman, E. R., 1979, Discharge estimates in surfacemine areas using channel geometry techniques: Proceedings of the Symposium on Surface-Mining Hydrology, Sedimentology, and Reclamation, University of Kentucky Bulletin 119, Lexington, Kentucky, p. 43-49.
+Riggs, H. C., 1970, The transfer value of information collected on representative basins: International Association of Scientific Hydrology Publication 96, Symposium of Wellington, New Zealand, p. 614-631.
+____1973, Regional analysis of streamflow characteristics: U.S. Geological Survey Techniques of Water-Resources Investigations, Book 4, chapter B3, 15 p.
+Roehl, J. W., 1962, Sediment source areas, delivery ratios and influencing morphological factors: Publication 59, International Association of Scientific Hydrology, Commission on Land Erosion, p. 202-213.
+57
+
+Sanders, R. B. 1974, Geologic map and coal resources of the Riner Quadrangle, Carbon and Sweetwater Counties, Wyoming: U.S. Geological Survey Coal Investigations Map C-68, 1 sheet.
+Scott, Arthur G., 1971, Preliminary flood frequency relations and summary of maximum discharges in New Mexico: U.S. Geological Survey Open-File Report, 76 p.
+Scott, Arthur, G., and Kunkler, J. L., 1976, Flood discharges of streams in New Mexico as related to channel geometry: U.S. Geological Survey Open-File Report 76-414, 27 p.
+Shown, L. M., Frickel, D. G., Hadley, R. F., and Miller, R. F., 1981a, Method for hydrologic evaluation of a potential surface mine: the Tsosie Swale basin, San Juan County, New Mexico: U.S. Geological Survey Water Resources Investigations Open-File Report .£1-74.
+Shown, L. M., Frickel, D. G., Miller, R. F., and Branson, F. A., 1981b, Methodology for hydrologic evaluation of a potential surface mine: the Loblolly Branch basin, Tuscaloosa County, Alabama: U.S. Geological Survey Water Resources Investigation Open-File Report, Denver (in review).
+Sindelar, B. W., and others, 1974, Surface-mined land reclamation research at Colstrip, Montana: Progress report 1973-74, Montana Agricultural Experiment Station, Research Report 69, Montana State University, Bozeman, Montana, 98 p.
+Toy, Terrence J., and Munson, Brian E., 1978, Climate appraisal maps of the rehabilitation potential of strippable coal lands in the Powder River basin, Wyoming and Montana: U.S. Geological Survey Miscellaneous Field Studies Map MF-932, scale 1:1,000,000, 2 sheets.
+U.S. Bureau of Reclamation, 1976, Interpretations of soil and bedrock material in Resource and Potential Reclamation Evaluation Red Rim Study Area, Wyoming: Bureau of Land Management EMRIA Report no. 7, 175 p. Appendix.
+U.S. Geological Survey, 1976, Vegetation, sediment yields, study site hydrology and water supply in Resource and Potential Reclamation Evaluation Red Rim Study Area, Wyoming: Bureau of Land Management EMRIA Report no. 7, 175 p. Appendix.
+U.S. Soil Conservation Service, 1965, Computer project for project formation Hydrology: SCS-TR-20.
+____1972, Hydrology: National Engineering Handbook, sec. 4. 1973, A Method for Estimating Volume and Rate of Runoff in Small
+Watersheds: SCS-TP-149 (Rev.), 60 p. __1975, Urban Hydrology for Small Watersheds: SCS-TR-55, 40 p. Appendix.
+1977, A Preliminary Guidance for Estimating Erosion on Areas Disturbed by Surface Mining Activities in the Interior Western United States: Interim Final Report, July 1977, 57 p. Van Haveren, B. P., and Leavesley, G. H., 1979, Hydrologic modeling of coal lands: Report on status of modeling effort of the EMRIA program: U.S. Department of the Interior, Bureau of Land Management and Geological Survey, May 1979, 13 p. Vanoni, Vito , A., ed., 1975, Sedimentation Engineering: New York, American Society of Civil Engineering, 745 p.
+58
+
+Wischmeier, W. H., Johnson, C. B., and Cross, B. V., 1971, A soil erodibility nomograph for farmland and construction sites: Journal of Soil and Water Conservation v. 26, no. 5, p. 189-193.
+Wischmeier, W. H., and Smith, D. D., 1978, Predicting rainfall erosion losses A guide to conservation planning: U.S. Department of Agriculture, Science and Education Administration, Agriculture Handbook no. 537, December 1978, 58 p.
+Young, R. A., and Mutchler, C. K., 1977, Erodibility of some Minnesota soils: Journal of Soil and Water Conservation, v. 32, no. 4, p. 180-182.
+59
+
+
