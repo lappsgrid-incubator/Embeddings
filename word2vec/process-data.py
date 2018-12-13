@@ -6,7 +6,7 @@
 ##<directory> :     Name of the directory in which the text files reside
 ##<suffix> :        Suffix of text files to be processed (default : .txt)
 ##<preprocess> :    Folder in which to save pre-processed text (default: None)
-##<lemmatize> :     Lemmatize in addition to tokenize, remove stopwords and punctuation, etc. (default : True)  
+##<lemmatize> :     Lemmatize in addition to tokenize, remove stopwords and punctuation, etc. (default : False)  
 ##
 ## For now we use basic paramaeters to word2vec, with workers=10 
 ############################################################################################################
@@ -35,7 +35,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument("--directory","-d",type=str,required=True,help="Enter the input directory name")
 parser.add_argument("--suffix","-x",type=str,default=".txt",help="Enter the filename suffix (default=.txt)")
 parser.add_argument("--preprocess","-p",default=None,help="File to store pre-processed data (default=None)")
-parser.add_argument("--lemmatize","-l",default=True,help="Lemmatize (default=True)")
+parser.add_argument("--lemmatize","-l",default=False,help="Lemmatize (default=True)")
 
 args = parser.parse_args()
 
