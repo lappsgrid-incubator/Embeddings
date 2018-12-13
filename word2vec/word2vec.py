@@ -58,7 +58,7 @@ class MySentences(object):
         for root, dirs, files in os.walk(self.dirname):
             for filename in fnmatch.filter(files, suf):
                 for line in open(os.path.join(root, filename),encoding="utf-8"):
-                    line = preprocess(line,args.preprocess)
+                    line = preprocess(line)
                     if len(line) > 0:
                         yield line
                         
