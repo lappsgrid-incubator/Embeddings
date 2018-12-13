@@ -1,3 +1,17 @@
+###########################################################################################################
+##Pre-processes files from a directory containing text for input to word2vec
+##
+##Usage : python3 word2vec.py <directory> <fsuffix> <preprocess> <savemodel>
+##
+##<directory> :     Name of the directory in which the text files reside
+##<suffix> :        Suffix of text files to be processed (default : .txt)
+##<preprocess> :    Folder in which to save pre-processed text (default: None)
+##<lemmatize> :     Lemmatize in addition to tokenize, remove stopwords and punctuation, etc. (default : True)  
+##
+## For now we use basic paramaeters to word2vec, with workers=10 
+############################################################################################################
+
+
 import nltk
 from nltk.corpus.reader.plaintext import PlaintextCorpusReader
 from nltk.stem import PorterStemmer, WordNetLemmatizer
@@ -6,6 +20,28 @@ from nltk.tokenize import word_tokenize
 from nltk import pos_tag
 from nltk.corpus import wordnet as wn
 import string, re
+
+import gensim, os, sys, fnmatch
+
+## Get word2vec parameters from .ini file
+import configparser
+config = configparser.ConfigParser()
+config.read("word2vec.ini")
+
+## Parse command line parameters
+import argparse
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--directory","-d",type=str,required=True,help="Enter the input directory name")
+parser.add_argument("--suffix","-x",type=str,default=".txt",help="Enter the filename suffix (default=.txt)")
+parser.add_argument("--preprocess","-p",default=None,help="File to store pre-processed data (default=None)")
+parser.add_argument("--lemmatize","-l",default=True,help="Lemmatize (default=True)")
+
+args = parser.parse_args()
+
+
+
+
 
 stop_words = set(stopwords.words('english'))
 
@@ -81,7 +117,8 @@ for f in corpus.fileids():
                         and w.isdigit() == False
                    ):
                                  s.append(w.lower())
-        s = lemmatize_sentence(s)
+        if args.lemmatize
+                s = lemmatize_sentence(s)
 
         if len(s) > 1:
  #               fout.write (f + "\t")

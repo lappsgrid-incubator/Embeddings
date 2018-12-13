@@ -5,7 +5,7 @@
 ##
 ##<directory> :     Name of the directory in which the text files reside
 ##<suffix> :        Suffix of text files to be processed (default : .txt)
-##<preprocess> :    File in which to save pre-processed text (Tokenize, remove stopwords and punctuation, etc.) (default: None)
+##<preprocess> :    Folder in which to save pre-processed text (tokenize, remove stopwords and punctuation, etc.) (default: None)
 ##<savemodel> :     File in which to save the model(default : None)  
 ##
 ## For now we use basic paramaeters to word2vec, with workers=10 
