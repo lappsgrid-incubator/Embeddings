@@ -5,7 +5,7 @@
 ##
 ##<directory> :     Name of the directory in which the text files reside
 ##<suffix> :        Suffix of text files to be processed (default : .txt)
-##<preprocess> :    Folder in which to save pre-processed text (default: None)
+##<preprocess> :    Folder in which to save pre-processed text (do not add "/") (default: None)
 ##<lemmatize> :     Lemmatize in addition to tokenize, remove stopwords and punctuation, etc. (default : False)  
 ##
 ############################################################################################################
@@ -25,8 +25,8 @@ import argparse
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--directory","-d",type=str,required=True,help="Enter the input directory name")
-parser.add_argument("--suffix","-x",type=str,default=".txt",help="Enter the filename suffix (default=.txt)")
-parser.add_argument("--preprocess","-p",default=None,help="File to store pre-processed data (default=None)")
+parser.add_argument("--suffix","-x",type=str,default="txt",help="Enter the filename suffix (default=txt)")
+parser.add_argument("--preprocess","-p",default=None,help="Folder to store pre-processed data (default=None)")
 parser.add_argument("--lemmatize","-l",default=False,help="Lemmatize (default=False)")
 
 args = parser.parse_args()
@@ -34,8 +34,7 @@ args = parser.parse_args()
 stop_words = set(stopwords.words('english'))
 
 corpus_root = args.directory
-fname_pattern = '.*' + args.suffix
-corpus = PlaintextCorpusReader(corpus_root,fname_pattern)
+corpus = PlaintextCorpusReader(corpus_root,'.*' + args.suffix)
 porter = PorterStemmer()
 wnl = WordNetLemmatizer()
 
@@ -43,7 +42,7 @@ def penn2morphy(penntag, returnNone=False, default_to_noun=False):
     morphy_tag = {'NN':wn.NOUN, 'JJ':wn.ADJ,
                   'VB':wn.VERB, 'RB':wn.ADV}
     try:
-        return morphy_tag[penntag[:2]][w in 
+        return morphy_tag[penntag[:2]]
     except:
         if returnNone:
             return None
@@ -93,22 +92,22 @@ def lemmatize_sentence(sentence, neverstem=False, keepWordPOS=False,
 regex = re.compile('[_]+')
 
 for f in corpus.fileids():
-    outname = f + ".out"
+    outname = args.preprocess + "/" + f + ".out"
     fout = open(outname,"w", encoding="utf8")
 
     for sent in corpus.sents(f):
         s = []
         for w in sent:
-                w = regex.sub('',w)
+                w = regex.sub('',w).lower()
                 if (
-                        len(w)>2 and w not in stop_words
-                        and any(c not in string.punctuation for c in w)
-                        and w.isdigit() == False
+                        len(w)>2
+                        and not w in stop_words
+                        and w.isalpha()
                    ):
-                                 s.append(w.lower())
-        if args.lemmatize
+                        s.append(w)
+        if args.lemmatize:
                 s = lemmatize_sentence(s)
-
+        print(s)
         if len(s) > 1:
  #               fout.write (f + "\t")
                 for w in s:                      

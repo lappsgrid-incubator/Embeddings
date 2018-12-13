@@ -1,7 +1,7 @@
 ###########################################################################################################
 ##Reads files from a directory containing text for input to word2vec
 ##
-##Usage : python3 word2vec.py <directory> <fsuffix> <preprocess> <savemodel>
+##Usage : python3 word2vec.py <directory> <suffix> <preprocess> <savemodel>
 ##
 ##<directory> :     Name of the directory in which the text files reside
 ##<suffix> :        Suffix of text files to be processed (default : .txt)
