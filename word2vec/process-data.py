@@ -35,7 +35,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument("--directory","-d",type=str,required=True,help="Enter the input directory name")
 parser.add_argument("--suffix","-x",type=str,default=".txt",help="Enter the filename suffix (default=.txt)")
 parser.add_argument("--preprocess","-p",default=None,help="File to store pre-processed data (default=None)")
-parser.add_argument("--lemmatize","-l",default=False,help="Lemmatize (default=True)")
+parser.add_argument("--lemmatize","-l",default=False,help="Lemmatize (default=False)")
 
 args = parser.parse_args()
 
