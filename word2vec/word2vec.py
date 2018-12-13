@@ -24,8 +24,8 @@ import argparse
 parser = argparse.ArgumentParser()
 parser.add_argument("--directory","-d",type=str,required=True,help="Enter the input directory name")
 parser.add_argument("--suffix","-x",type=str,default=".txt",help="Enter the filename suffix (default=.txt)")
-parser.add_argument("--preprocess","-p",default=True,help="File to store pre-processed data (default=None)")
-parser.add_argument("--savemodel","-m",default=True,help="File to save model (default=None)")
+parser.add_argument("--preprocess","-p",default=None,help="File to store pre-processed data (default=None)")
+parser.add_argument("--savemodel","-m",default=None,help="File to save model (default=None)")
 
 args = parser.parse_args()
 
@@ -40,7 +40,7 @@ download('stopwords')  # Download stopwords list.
                                                                                                     
 stop_words = stopwords.words('english')
 
-def preprocess(line,pre_process):
+def preprocess(line):
     line = word_tokenize(line)  # Split into words.                                                                    
     if args.preprocess is not None:
         line = [w.lower() for w in line]  # Lower the text.                                                               
