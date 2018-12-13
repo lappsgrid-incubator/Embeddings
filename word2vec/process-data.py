@@ -1,14 +1,13 @@
 ###########################################################################################################
 ##Pre-processes files from a directory containing text for input to word2vec
 ##
-##Usage : python3 word2vec.py <directory> <fsuffix> <preprocess> <savemodel>
+##Usage : python3 word2vec.py <directory> <suffix> <preprocess> <lemmatize>
 ##
 ##<directory> :     Name of the directory in which the text files reside
 ##<suffix> :        Suffix of text files to be processed (default : .txt)
 ##<preprocess> :    Folder in which to save pre-processed text (default: None)
 ##<lemmatize> :     Lemmatize in addition to tokenize, remove stopwords and punctuation, etc. (default : False)  
 ##
-## For now we use basic paramaeters to word2vec, with workers=10 
 ############################################################################################################
 
 
@@ -21,13 +20,6 @@ from nltk import pos_tag
 from nltk.corpus import wordnet as wn
 import string, re
 
-import gensim, os, sys, fnmatch
-
-## Get word2vec parameters from .ini file
-import configparser
-config = configparser.ConfigParser()
-config.read("word2vec.ini")
-
 ## Parse command line parameters
 import argparse
 
@@ -39,14 +31,11 @@ parser.add_argument("--lemmatize","-l",default=False,help="Lemmatize (default=Fa
 
 args = parser.parse_args()
 
-
-
-
-
 stop_words = set(stopwords.words('english'))
 
-corpus_root = '/Users/ide/Dropbox/inProgress/Livny-project/gdd_raw_text_interval_sample/'
-corpus = PlaintextCorpusReader(corpus_root,'.*\.txt')
+corpus_root = args.directory
+fname_pattern = '.*' + args.suffix
+corpus = PlaintextCorpusReader(corpus_root,fname_pattern)
 porter = PorterStemmer()
 wnl = WordNetLemmatizer()
 
