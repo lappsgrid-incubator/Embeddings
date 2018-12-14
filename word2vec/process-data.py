@@ -16,6 +16,7 @@ from nltk.corpus.reader.plaintext import PlaintextCorpusReader
 from nltk.stem import PorterStemmer, WordNetLemmatizer
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
+from nltk.tokenize import sent_tokenize
 from nltk import pos_tag
 from nltk.corpus import wordnet as wn
 import string, re
@@ -94,6 +95,11 @@ regex = re.compile('[_]+')
 for f in corpus.fileids():
     outname = args.preprocess + "/" + f + ".out"
     fout = open(outname,"w", encoding="utf8")
+
+splitter = nltk.data.load(‘tokenizers/punkt/english.pickle’)
+tokenizer.tokenize(text)
+
+word_tokenize
 
     for sent in corpus.sents(f):
         s = []
