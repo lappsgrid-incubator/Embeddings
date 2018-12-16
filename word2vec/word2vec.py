@@ -34,15 +34,10 @@ args = parser.parse_args()
 from nltk import download
 from nltk import word_tokenize
 from nltk.tokenize import sent_tokenize
-
-import nltk.data
-splitter = nltk.data.load('tokenizers/punkt/english.pickle')
-
-download('punkt')  # Download data for tokenizer.                                                                      
-
 from nltk.corpus import stopwords
-download('stopwords')  # Download stopwords list.                                                                      
-                                                                                                    
+import nltk.data
+
+splitter = nltk.data.load('tokenizers/punkt/english.pickle')
 stop_words = stopwords.words('english')
 
 def preprocess(line):
