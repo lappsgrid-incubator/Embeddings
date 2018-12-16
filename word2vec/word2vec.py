@@ -33,6 +33,11 @@ args = parser.parse_args()
 
 from nltk import download
 from nltk import word_tokenize
+from nltk.tokenize import sent_tokenize
+
+import nltk.data
+splitter = nltk.data.load('tokenizers/punkt/english.pickle')
+
 download('punkt')  # Download data for tokenizer.                                                                      
 
 from nltk.corpus import stopwords
@@ -57,10 +62,12 @@ class MySentences(object):
         suf = '*.' + self.suffix    
         for root, dirs, files in os.walk(self.dirname):
             for filename in fnmatch.filter(files, suf):
-                for line in open(os.path.join(root, filename),encoding="utf-8"):
-                    line = preprocess(line)
-                    if len(line) > 0:
-                        yield line
+                file = open(os.path.join(root, filename),encoding="utf-8")
+                sentences = splitter.tokenize(file)               
+                for s in sentences:
+                    s = preprocess(s)
+                    if len(s) > 0:
+                        yield s
                         
 ### Get word2vec parameters                                                                                                           
 vector_size = 	config['word2vecParameters'].getint('vector_size')
