@@ -12,6 +12,8 @@
 ############################################################################################################
 
 import gensim, os, sys, fnmatch
+from time import time, strftime, localtime
+from datetime import timedelta
 
 ## Get word2vec parameters from .ini file
 import configparser
@@ -37,7 +39,7 @@ from nltk.tokenize import sent_tokenize
 from nltk.corpus import stopwords
 import nltk.data
 
-splitter = nltk.data.load('tokenizers/punkt/english.pickle')
+#splitter = nltk.data.load('tokenizers/punkt/english.pickle')
 stop_words = stopwords.words('english')
 
 def preprocess(line):
@@ -53,12 +55,19 @@ class MySentences(object):
     def __init__(self, dirname, suffix):
         self.dirname = dirname
         self.suffix = suffix
+        self.count = 0
+
     def __iter__(self):
-        suf = '*.' + self.suffix    
+        suf = '*' + self.suffix #.strip(".")
         for root, dirs, files in os.walk(self.dirname):
             for filename in fnmatch.filter(files, suf):
-                file = open(os.path.join(root, filename),encoding="utf-8")
-                sentences = splitter.tokenize(file)               
+                #file = open(os.path.join(root, filename),encoding="utf-8")
+                #sentences = splitter.tokenize(file)
+                self.count = self.count + 1
+                path = os.path.join(root, filename)
+                print(self.count, path)
+                with open(path,encoding="utf-8") as file:
+                    sentences = sent_tokenize(file.read())
                 for s in sentences:
                     s = preprocess(s)
                     if len(s) > 0:
@@ -79,11 +88,23 @@ worker_count = 	config['word2vecParameters'].getint('worker_count')
 
 w2v_corpus = MySentences(args.directory,args.suffix) # a memory-friendly iterator                                                       
 
-model = gensim.models.Word2Vec(w2v_corpus,size=vector_size, window=window_size, min_count=min_count,
-                               workers=worker_count, sg=sg, negative=negative_size,
-                               alpha = alpha, min_alpha = min_alpha, iter=train_epoch)
+start_time = time()
+
+model = gensim.models.Word2Vec(w2v_corpus) #,size=vector_size, window=window_size, min_count=min_count,
+                               #workers=worker_count, sg=sg, negative=negative_size,
+                               #alpha = alpha, min_alpha = min_alpha, iter=train_epoch)
 
 if args.savemodel is not None:
     model.save(args.savemodel)
+    print("Wrote ", args.savemodel)
 
+def format_time(elapsed=None):
+    if elapsed is None:
+        return strftime("%Y-%m-%d %H:%M:%S", localtime())
+    else:
+        return str(timedelta(seconds=elapsed))
 
+print("Count: ", w2v_corpus.count)
+print("Time :", format_time(time() - start_time))
+
+#print("Processed %s files in %s seconds" % w2v_corpus.count, format_time(time() - start_time))
